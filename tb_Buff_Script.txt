@@ -732,7 +732,7 @@ Icon/Buff/Icon_Common_Debuff_Silence
 
 ID=5000
 イロージョンⅠ
-攻撃力が20%増加する。\n受けるダメージ量が50%減少する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+攻撃力が20%増加する。受けるダメージ量が50%減少する。移動速度が20%増加する。スーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -840,7 +840,7 @@ Icon/Buff/Icon_Common_Buff_ST_Recovery
 
 ID=5500
 イロージョンⅠ
-全ての攻撃が最大ダメージを与える。\n攻撃速度が30%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+全ての攻撃が最大ダメージを与える。攻撃速度が30%増加する。移動速度が20%増加する。スーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1092,7 +1092,7 @@ SG回復
 
 ID=6000
 イロージョンⅠ
-クリティカル率が50%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+クリティカル率が50%増加する。移動速度が20%増加する。スーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1230,7 +1230,7 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 
 ID=6500
 イロージョンⅠ
-SGを1秒あたり15%回復する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+SGを1秒あたり15%回復する。移動速度が20%増加する。スーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1776,25 +1776,25 @@ SG回復
 
 ID=20503
 SG回復
-30秒かけてHPを50%回復する。
+30秒かけてSGを50%回復する。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
 ID=20504
 SG回復
-15秒かけてHPを50%回復する。
+15秒かけてSGを50%回復する。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
 ID=20505
 SG回復
-30秒かけてHPを100%回復する。
+30秒かけてSGを100%回復する。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
 ID=20506
 SG回復
-15秒かけてHPを100%回復する。
+15秒かけてSGを100%回復する。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
@@ -2237,50 +2237,50 @@ Icon/Buff/Icon_Common_Buff_Def
 ダメージ量減少
 
 ID=30024
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Debuff_Stun
-TEXT=-
+-
 
 ID=30025
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Debuff_Stun
-TEXT=-
+-
 
 ID=30026
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Debuff_Poison
-TEXT=-
+-
 
 ID=30031
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Buff_ATK
-TEXT=-
+-
 
 ID=30032
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Buff_ATK
-TEXT=-
+-
 
 ID=30033
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Buff_ATK
-TEXT=-
+-
 
 ID=30034
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Buff_ATK
-TEXT=-
+-
 
 ID=30040
 出血
-HPが1%ずつ減少する。\n効果は10秒間持続する。
+HPが1%ずつ減少する。効果は10秒間持続する。
 Icon/Buff/Icon_Common_Debuff_Bleed
 出血
 
@@ -2291,46 +2291,46 @@ Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=30043
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Buff_Def
-TEXT=-
+-
 
 ID=30044
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-TEXT=-
+-
 
 ID=30045
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-TEXT=-
+-
 
 ID=30046
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-TEXT=-
+-
 
 ID=30047
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-TEXT=-
+-
 
 ID=30048
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-TEXT=-
+-
 
 ID=30049
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Debuff_Stun
-TEXT=-
+-
 
 ID=30050
 鈍化
@@ -2459,16 +2459,16 @@ Icon/Buff/Icon_Common_Buff_MSR
 移動速度増加
 
 ID=30101
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Debuff_Paralysis
-TEXT=-
+-
 
 ID=31001
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Buff_Immun
-TEXT=-
+-
 
 ID=32001
 治癒
@@ -2622,27 +2622,27 @@ HP減少
 
 ID=37421
 HP減少
-2秒ごとにHPが3%減少
+2秒ごとにHP3%減少
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP減少
 
 ID=39001
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Debuff_Burn
-TEXT=-
+-
 
 ID=39002
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Debuff_Bleed
-TEXT=-
+-
 
 ID=39003
-TEXT=-
-TEXT=-
+-
+-
 Icon/Buff/Icon_Common_Debuff_Paralysis
-TEXT=-
+-
 
 ID=39004
 中毒
@@ -2952,25 +2952,25 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53042
 疾走チュウⅠ
-15秒ごとに10%の確率で2秒間、移動速度が10%上昇する。
+毎秒10%の確率で2秒間、移動速度が10%上昇する。（クールタイム15秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53043
 疾走チュウⅡ
-13秒ごとに20%の確率で2秒間、移動速度が10%上昇する。
+毎秒20%の確率で2秒間、移動速度が10%上昇する。（クールタイム13秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53051
 心眼Ⅰ
-攻撃成功時、4%の確率でHPが5%回復する。\n(クールタイム1分)
+攻撃成功時、4%の確率でHPが5%回復する。(クールタイム1分)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53052
 心眼Ⅱ
-攻撃成功時、5%の確率でHPが5%回復する。\n(クールタイム1分)
+攻撃成功時、5%の確率でHPが5%回復する。(クールタイム1分)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
@@ -2988,73 +2988,73 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53072
 バキュームⅠ
-クリティカル成功時、3%の確率でHPが2%回復する。\n(クールタイム15秒)
+クリティカル成功時、3%の確率でHPが2%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53073
 バキュームⅡ
-クリティカル成功時、6%の確率でHPが3%回復する。\n(クールタイム15秒)
+クリティカル成功時、6%の確率でHPが3%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53081
 バキュームⅢ
-クリティカル成功時、9%の確率でHPが4%回復する。\n(クールタイム15秒)
+クリティカル成功時、9%の確率でHPが4%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53082
 魂のジャンプⅠ
-ジャンプ時、10%の確率でSGが5%回復する。\n(クールタイム10秒)
+ジャンプ時、10%の確率でSGが5%回復する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53083
 魂のジャンプⅡ
-ジャンプ時、10%の確率でSGが10%回復する。\n(クールタイム10秒)
+ジャンプ時、10%の確率でSGが10%回復する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53091
 魂のジャンプⅢ
-ジャンプ時、10%の確率でSGが20%回復する。\n(クールタイム10秒)
+ジャンプ時、10%の確率でSGが20%回復する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53112
 自己回復力Ⅰ
-攻撃成功時、5%の確率でスタミナが5%回復する。\n（クールタイム10秒）
+攻撃成功時、5%の確率でスタミナが5%回復する。（クールタイム10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53113
 自己回復力Ⅱ
-攻撃成功時、5%の確率でスタミナが10%回復する。\n（クールタイム10秒）
+攻撃成功時、5%の確率でスタミナが10%回復する。（クールタイム10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53121
 急速カルシウム補給Ⅰ
-攻撃を受けた時、5%の確率でSGが10%回復する。\n(クールタイム20秒)
+攻撃を受けた時、5%の確率でSGが10%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53122
 急速カルシウム補給Ⅱ
-攻撃を受けた時、10%の確率でSGが10%回復する。\n(クールタイム20秒)
+攻撃を受けた時、10%の確率でSGが10%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53123
 ビクターの法則Ⅰ
-攻撃成功時、4%の確率で2秒間、命中度が200上昇する。\n(クールタイム15秒)
+攻撃成功時、4%の確率で2秒間、命中度が200上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53131
 ビクターの法則Ⅱ
-攻撃成功時、5%の確率で2秒間、命中度が250上昇する。\n(クールタイム15秒)
+攻撃成功時、5%の確率で2秒間、命中度が250上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
@@ -3072,19 +3072,19 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53141
 ガルスの逆鱗Ⅰ
-攻撃を受けた時、5%の確率で2秒間、回避度が200上昇する。\n(クールタイム10秒)
+攻撃を受けた時、5%の確率で2秒間、回避度が200上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53142
 ガルスの逆鱗Ⅱ
-攻撃を受けた時、5%の確率で3秒間、回避度が200上昇する。\n(クールタイム10秒)
+攻撃を受けた時、5%の確率で3秒間、回避度が200上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53143
 俊敏なマッチョⅠ
-攻撃を受けた時、5%の確率で3秒間、攻撃力が6%上昇する。\n(クールタイム10秒)
+攻撃を受けた時、5%の確率で3秒間、攻撃力が6%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
@@ -3102,49 +3102,49 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53153
 猛攻四連Ⅰ
-攻撃成功時、10%の確率で3秒間、攻撃速度が10%上昇する。\n(クールタイム10秒)
+攻撃成功時、10%の確率で3秒間、攻撃速度が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53161
 猛攻四連Ⅱ
-攻撃成功時、10%の確率で5秒間、攻撃速度が10%上昇する。\n（クールタイム10秒)
+攻撃成功時、10%の確率で5秒間、攻撃速度が10%上昇する。（クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53162
 山のごときⅠ
-60秒ごとに30%の確率で10秒間、攻撃力が20%減少し、防御度が100%上昇する。
+毎秒30%の確率で10秒間、攻撃力が20%減少し、防御度が100%上昇する。（クールタイム60秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53163
 紅き烙印Ⅰ
-クリティカル攻撃を受けた時、3秒間、命中度が500上昇する。\n(クールタイム30秒)
+クリティカル攻撃を受けた時、3秒間、命中度が500上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53171
 紅き烙印Ⅱ
-クリティカル攻撃を受けた時、5秒間、命中度が500上昇する。\n(クールタイム20秒)
+クリティカル攻撃を受けた時、5秒間、命中度が500上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53172
 臨時指揮官の威厳Ⅰ
-回避時、20%の確率でHPの5%が回復する。\n（クールタイム15秒）
+回避時、20%の確率でHPの5%が回復する。（クールタイム15秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53173
 奇襲のプロⅠ
-クリティカル攻撃時、5%の確率でSGが10%回復する。\n(クールタイム20秒)
+クリティカル攻撃時、5%の確率でSGが10%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53181
 奇襲のプロⅡ
-クリティカル攻撃時、10%の確率でSGが20%回復する。\n(クールタイム15秒)
+クリティカル攻撃時、10%の確率でSGが20%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
@@ -3162,13 +3162,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53201
 轟音Ⅰ
-空中攻撃成功時、50%の確率でHPが3%回復する。\n(クールタイム40秒)
+空中攻撃成功時、50%の確率でHPが3%回復する。(クールタイム40秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53202
 轟音Ⅱ
-空中攻撃成功時、50%の確率でHPが6%回復する。\n(クールタイム30秒)
+空中攻撃成功時、50%の確率でHPが6%回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
@@ -3180,13 +3180,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53211
 怪鳥の翼Ⅰ
-攻撃成功時、15%の確率で3秒間、防御度が50%上昇する。\n(クールタイム10秒)
+攻撃成功時、15%の確率で3秒間、防御度が50%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53212
 怪鳥の翼Ⅱ
-攻撃成功時、20%の確率で5秒間、防御度が50%上昇する。\n(クールタイム10秒)
+攻撃成功時、20%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
@@ -3210,19 +3210,19 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53223
 怪我はするほど強くなるⅠ
-攻撃を受けた時、10%の確率でHPが5%回復する。\n(クールタイム10秒)
+攻撃を受けた時、10%の確率でHPが5%回復する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53231
 ソウルドレインⅠ
-攻撃成功時、4%の確率でSGが10%回復する。\n(クールタイム30秒)
+攻撃成功時、4%の確率でSGが10%回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53232
 ソウルドレインⅡ
-攻撃成功時、5%の確率でSGが10%回復する。\n(クールタイム30秒)
+攻撃成功時、5%の確率でSGが10%回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
@@ -3240,7 +3240,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53273
 赤い眼光Ⅰ
-状態異常にかかると、HPが10%回復する。\n(クールタイム30秒)
+状態異常にかかると、HPが10%回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
@@ -3282,7 +3282,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53301
 決死の攻撃Ⅰ
-攻撃成功時、5秒間、防御度が50%減少し、\n攻撃力が15%上昇する。(クールタイム30秒)
+攻撃成功時、5秒間、防御度が50%減少し、攻撃力が15%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
@@ -3348,13 +3348,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53333
 ランニングチャージⅠ
-ダッシュ中、10%の確率でSGが10%回復する。\n(クールタイム5秒)
+ダッシュ中、10%の確率でSGが10%回復する。(クールタイム5秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53341
 ランニングチャージⅡ
-ダッシュ中、20%の確率でSGが10%回復する。\n(クールタイム3秒)
+ダッシュ中、20%の確率でSGが10%回復する。(クールタイム3秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
@@ -3366,7 +3366,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53353
 ビジネスエナジーⅠ
-敵死亡時、10%の確率でSGが10%回復する。\n(クールタイム1分)
+敵死亡時、10%の確率でSGが10%回復する。(クールタイム1分)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
@@ -3378,7 +3378,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53362
 痛くても我慢Ⅰ
-攻撃を受けた時、10%の確率でHPを3%を回復する。\n(クールタイム30秒)
+攻撃を受けた時、10%の確率でHPを3%を回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
@@ -3420,7 +3420,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53403
 サイレントヒーリングⅠ
-空中攻撃成功時、スタミナを5%回復する。\n(クールタイム1分)
+空中攻撃成功時、スタミナを5%回復する。(クールタイム1分)
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
@@ -3456,7 +3456,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53423
 ヒットアンドアウェイⅠ
-攻撃失敗時、30%の確率で5秒間、回避度が100上昇する。\n(クールタイム1分)
+攻撃失敗時、30%の確率で5秒間、回避度が100上昇する。(クールタイム1分)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
@@ -3474,25 +3474,25 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53433
 吹き飛べⅠ
-攻撃成功時、10%の確率で3秒間、攻撃速度と\n移動速度が5%上昇する。(クールタイム10秒)
+攻撃成功時、10%の確率で3秒間、攻撃速度と移動速度が5%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53441
 吹き飛べⅡ
-攻撃成功時、10%の確率で5秒間、攻撃速度と\n移動速度が5%上昇する。(クールタイム10秒)
+攻撃成功時、10%の確率で5秒間、攻撃速度と移動速度が5%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53442
 戦闘タイプ分析Ⅰ
-スキル使用時、10%の確率で5秒間、命中度が500上昇する。\n(クールタイム10秒)
+スキル使用時、10%の確率で5秒間、命中度が500上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53443
 戦闘タイプ分析Ⅱ
-スキル使用時、10%の確率で5秒間、命中度が600上昇する。\n(クールタイム10秒)
+スキル使用時、10%の確率で5秒間、命中度が600上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
@@ -3522,31 +3522,31 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53462
 オタクの底力Ⅰ
-攻撃を受けた時、20%の確率で5秒間、HPとSGが1秒あたり3%\n回復する。(クールタイム10秒)
+攻撃を受けた時、20%の確率で5秒間、HPとSGが1秒あたり3%回復する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53463
 オタクの底力Ⅱ
-攻撃を受けた時、20%の確率で5秒間、HPとSGが1秒あたり5%\n回復する。(クールタイム10秒)
+攻撃を受けた時、20%の確率で5秒間、HPとSGが1秒あたり5%回復する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53471
 殴られ屋Ⅰ
-攻撃を受けた時、50%の確率で攻撃力が1%ずつ上昇する。（クールタイム1秒、最大3重複)
+攻撃を受けた時、50%の確率で60秒間、攻撃力が1%ずつ上昇する。（クールタイム1秒、最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53472
 殴られ屋Ⅱ
-攻撃を受けた時、100%の確率で攻撃力が1%ずつ上昇する。（クールタイム1秒、最大5重複)
+攻撃を受けた時、100%の確率で60秒間、攻撃力が1%ずつ上昇する。（クールタイム1秒、最大5重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53483
 略奪者Ⅰ
-モンスター死亡時、SGが10%回復する。\n(クールタイム1分)
+モンスター死亡時、SGが10%回復する。(クールタイム1分)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
@@ -3708,37 +3708,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53551
 緊急シールドⅠ
-HPが20%以下になると20秒間、防御度が40%上昇する。\n(クールタイム20秒)
+HPが20%以下になると20秒間、防御度が40%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53552
 緊急シールドⅡ
-HPが20%以下になると20秒間、防御度が60%上昇する。\n(クールタイム20秒)
+HPが20%以下になると20秒間、防御度が60%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53553
 緊急シールドⅢ
-HPが20%以下になると20秒間、防御度が80%上昇する。\n(クールタイム20秒)
+HPが20%以下になると20秒間、防御度が80%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53554
 緊急シールドⅠ
-HPが20%以下になると20秒間、防御度が60%上昇する。\n(クールタイム20秒)
+HPが20%以下になると20秒間、防御度が60%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53555
 緊急シールドⅡ
-HPが20%以下になると20秒間、防御度が80%上昇する。\n(クールタイム20秒)
+HPが20%以下になると20秒間、防御度が80%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53556
 緊急シールドⅢ
-HPが20%以下になると20秒間、防御度が100%上昇する。\n(クールタイム20秒)
+HPが20%以下になると20秒間、防御度が100%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
@@ -3816,37 +3816,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53569
 正確な急所突きⅠ
-攻撃成功時、5%の確率で2.5秒間、クリティカル率が\n20%増加する。(クールタイム10秒)
+攻撃成功時、5%の確率で2.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率増加
 
 ID=53570
 正確な急所突きⅡ
-攻撃成功時、10%の確率で3.5秒間、クリティカル率が\n20%増加する。(クールタイム10秒)
+攻撃成功時、10%の確率で3.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率増加
 
 ID=53571
 正確な急所突きⅢ
-攻撃成功時、15%の確率で4.5秒間、クリティカル率が\n20%増加する。(クールタイム10秒)
+攻撃成功時、15%の確率で4.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率増加
 
 ID=53572
 正確な急所突きⅠ
-攻撃成功時、10%の確率で2.5秒間、クリティカル率が\n20%増加する。(クールタイム10秒)
+攻撃成功時、10%の確率で2.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率増加
 
 ID=53573
 正確な急所突きⅡ
-攻撃成功時、15%の確率で3.5秒間、クリティカル率が\n20%増加する。(クールタイム10秒)
+攻撃成功時、15%の確率で3.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率増加
 
 ID=53574
 正確な急所突きⅢ
-攻撃成功時、20%の確率で4.5秒間、クリティカル率が\n20%増加する。(クールタイム10秒)
+攻撃成功時、20%の確率で4.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率増加
 
@@ -3888,73 +3888,73 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53581
 疾走チュウⅠ
-装着時、10%の確率で2.5秒間、移動速度が10%増加する。(クールタイム15秒)
+毎秒10%の確率で2.5秒間、移動速度が10%上昇する。（クールタイム15秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53582
 疾走チュウⅡ
-装着時、20%の確率で3秒間、移動速度が10%増加する。(クールタイム13秒)
+毎秒20%の確率で3秒間、移動速度が10%上昇する。（クールタイム13秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53583
 疾走チュウⅢ
-装着時、30%の確率で3.5秒間、移動速度が10%増加する。(クールタイム11秒)
+毎秒30%の確率で3.5秒間、移動速度が10%上昇する。（クールタイム11秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53584
 疾走チュウⅠ
-装着時、15%の確率で3秒間、移動速度が10%増加する。(クールタイム15秒)
+毎秒15%の確率で3秒間、移動速度が10%上昇する。（クールタイム15秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53585
 疾走チュウⅡ
-装着時、25%の確率で3.5秒間、移動速度が10%増加する。(クールタイム13秒)
+毎秒25%の確率で3.5秒間、移動速度が10%上昇する。（クールタイム13秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53586
 疾走チュウⅢ
-装着時、35%の確率で4秒間、移動速度が10%増加する。(クールタイム11秒)
+毎秒35%の確率で4秒間、移動速度が10%上昇する。（クールタイム11秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53587
 心眼Ⅰ
-攻撃成功時、7%の確率で即時にHPが10%\n回復する。(クールタイム60秒)
+攻撃成功時、7%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53588
 心眼Ⅱ
-攻撃成功時、12%の確率で即時にHPが10%\n回復する。(クールタイム60秒)
+攻撃成功時、12%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53589
 心眼Ⅲ
-攻撃成功時、17%の確率で即時にHPが10%\n回復する。(クールタイム60秒)
+攻撃成功時、17%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53590
 心眼Ⅰ
-攻撃成功時、9%の確率で即時にHPが10%\n回復する。(クールタイム60秒)
+攻撃成功時、9%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53591
 心眼Ⅱ
-攻撃成功時、14%の確率で即時にHPが10%\n回復する。(クールタイム60秒)
+攻撃成功時、14%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53592
 心眼Ⅲ
-攻撃成功時、19%の確率で即時にHPが10%\n回復する。(クールタイム60秒)
+攻撃成功時、19%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
@@ -4032,73 +4032,73 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53605
 急速カルシウム補給Ⅰ
-攻撃を受けた時、7%の確率でSGが15%回復する。\n(クールタイム20秒)
+攻撃を受けた時、7%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53606
 急速カルシウム補給Ⅱ
-攻撃を受けた時、12%の確率でSGが15%回復する。\n(クールタイム20秒)
+攻撃を受けた時、12%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53607
 急速カルシウム補給Ⅲ
-攻撃を受けた時、17%の確率でSGが15%回復する。\n(クールタイム20秒)
+攻撃を受けた時、17%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53608
 急速カルシウム補給Ⅰ
-攻撃を受けた時、9%の確率でSGが15%回復する。\n(クールタイム20秒)
+攻撃を受けた時、9%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53609
 急速カルシウム補給Ⅱ
-攻撃を受けた時、14%の確率でSGが15%回復する。\n(クールタイム20秒)
+攻撃を受けた時、14%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53610
 急速カルシウム補給Ⅲ
-攻撃を受けた時、19%の確率でSGが15%回復する。\n(クールタイム20秒)
+攻撃を受けた時、19%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53611
 ビクターの法則Ⅰ
-攻撃成功時、7%の確率で4秒間、命中度が200上昇する。\n(クールタイム10秒)
+攻撃成功時、7%の確率で4秒間、命中度が200上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53612
 ビクターの法則Ⅱ
-攻撃成功時、7%の確率で4秒間、命中度が250上昇する。\n(クールタイム10秒)
+攻撃成功時、7%の確率で4秒間、命中度が250上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53613
 ビクターの法則Ⅲ
-攻撃成功時、7%の確率で4秒間、命中度が300上昇する。\n(クールタイム10秒)
+攻撃成功時、7%の確率で4秒間、命中度が300上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53614
 ビクターの法則Ⅰ
-攻撃成功時、9%の確率で4秒間、命中度が250上昇する。\n(クールタイム10秒)
+攻撃成功時、9%の確率で4秒間、命中度が250上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53615
 ビクターの法則Ⅱ
-攻撃成功時、9%の確率で4秒間、命中度が300上昇する。\n(クールタイム10秒)
+攻撃成功時、9%の確率で4秒間、命中度が300上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53616
 ビクターの法則Ⅲ
-攻撃成功時、9%の確率で4秒間、命中度が350上昇する。\n(クールタイム10秒)
+攻撃成功時、9%の確率で4秒間、命中度が350上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
@@ -4176,37 +4176,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53629
 猛攻四連Ⅰ
-攻撃成功時、15%の確率で2.5秒間、攻撃速度が3%\n上昇する。(最大3重複)
+攻撃成功時、15%の確率で2.5秒間、攻撃速度が3%上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53630
 猛攻四連Ⅱ
-攻撃成功時、15%の確率で3秒間、攻撃速度が3%\n上昇する。(最大3重複)
+攻撃成功時、15%の確率で3秒間、攻撃速度が3%上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53631
 猛攻四連Ⅲ
-攻撃成功時、15%の確率で3.5秒間、攻撃速度が3%\n上昇する。(最大3重複)
+攻撃成功時、15%の確率で3.5秒間、攻撃速度が3%上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53632
 猛攻四連Ⅰ
-攻撃成功時、15%の確率で2.5秒間、攻撃速度が5%\n上昇する。(最大3重複)
+攻撃成功時、15%の確率で2.5秒間、攻撃速度が5%上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53633
 猛攻四連Ⅱ
-攻撃成功時、15%の確率で3.5秒間、攻撃速度が5%\n上昇する。(最大3重複)
+攻撃成功時、15%の確率で3.5秒間、攻撃速度が5%上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53634
 猛攻四連Ⅲ
-攻撃成功時、15%の確率で4.5秒間、攻撃速度が5%\n上昇する。(最大3重複)
+攻撃成功時、15%の確率で4.5秒間、攻撃速度が5%上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
@@ -4248,7 +4248,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53641
 眩しい
-能力なし。
+A.Rカードの合成時に使用すると合成経験値を獲得できる。ステータス上昇効果はない。
 0
 0
 
@@ -4269,6 +4269,78 @@ ID=53651
 装着時、最大HPが5%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
+
+ID=53652
+奇襲のプロⅠ
+クリティカル成功時、5%の確率でSGが10%回復する。（クールタイム30秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+SG回復
+
+ID=53653
+奇襲のプロⅡ
+クリティカル成功時、5%の確率でSGが13%回復する。（クールタイム30秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+SG回復
+
+ID=53654
+奇襲のプロⅢ
+クリティカル成功時、7%の確率でSGが16%回復する。（クールタイム30秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+SG回復
+
+ID=53655
+奇襲のプロⅠ
+クリティカル成功時、6%の確率でSGが12%回復する。（クールタイム30秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+SG回復
+
+ID=53656
+奇襲のプロⅡ
+クリティカル成功時、8%の確率でSGが15%回復する。（クールタイム30秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+SG回復
+
+ID=53657
+奇襲のプロⅢ
+クリティカル成功時、10%確率でSGが18%回復する。（クールタイム30秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+SG回復
+
+ID=53658
+轟音Ⅰ
+空中攻撃成功時、30%の確率でHPが1%回復する。（クールタイム50秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+HP回復
+
+ID=53659
+轟音Ⅱ
+空中攻撃成功時、50%の確率でHPが1%回復する。（クールタイム40秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+HP回復
+
+ID=53660
+轟音Ⅲ
+空中攻撃成功時、70%の確率でHPが2%回復する。（クールタイム30秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+HP回復
+
+ID=53661
+轟音Ⅰ
+空中攻撃成功時、50%の確率でHPが1%回復する。（クールタイム45秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+HP回復
+
+ID=53662
+轟音Ⅱ
+空中攻撃成功時、70%の確率でHPが2%回復する。（クールタイム35秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+HP回復
+
+ID=53663
+轟音Ⅲ
+空中攻撃成功時、90%の確率でHPが3%回復する。（クールタイム25秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+HP回復
 
 ID=55002
 ビックリボックスⅢ
@@ -4320,7 +4392,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=55103
 スキルクールタイム削除
-5秒間、スキルを自由に使用できる。\n(SGゲージ必要)
+5秒間、スキルを自由に使用できる。(SGゲージ必要)
 Icon/Buff/Icon_Common_Buff_Akashic
 スキル解放
 
@@ -4332,13 +4404,13 @@ HP減少
 
 ID=55105
 移動速度減少
-10秒間、移動速度が10%減少する。\n(最大5重複)
+10秒間、移動速度が10%減少する。(最大5重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度減少
 
 ID=55106
 HP減少
-10秒間、HPが毎秒2%ずつ減少する。\n(最大5重複)
+10秒間、HPが毎秒2%ずつ減少する。(最大5重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP減少
 

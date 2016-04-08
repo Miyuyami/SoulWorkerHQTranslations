@@ -422,7 +422,7 @@ ID=314
 分割するアイテムの数を入力してください。
 
 ID=315
-TEXT={0}を破棄しますか？
+{0}を破棄しますか？
 
 ID=316
 売却モード
@@ -440,7 +440,7 @@ ID=326
 銀行のスロットを拡張しますか？
 
 ID=327
-TEXT={0}でスロットを拡張しますか？
+{0}でスロットを拡張しますか？
 
 ID=328
 スロット拡張に必要なレベルを満たしていません。
@@ -449,19 +449,19 @@ ID=329
 拡張券がないため、スロットを拡張できません。
 
 ID=333
-TEXT={0}を使用しました。
+{0}を使用しました。
 
 ID=334
-TEXT={0}を{1}で購入しました。
+{0}を{1}で購入しました。
 
 ID=335
 選択したアイテムは装備及び使用できないアイテムです。\n購入しますか？
 
 ID=336
-TEXT={0}を{1}で売却しました。
+{0}を{1}で売却しました。
 
 ID=337
-TEXT={1}個を売却して{2}を獲得しました。
+{1}個を売却して{2}を獲得しました。
 
 ID=338
 スロット拡張
@@ -476,13 +476,13 @@ ID=341
 拡張費用：{0}ハンコイン
 
 ID=342
-TEXT=[{0}]{1}個を{2}で購入しますか？
+[{0}]{1}個を{2}で購入しますか？
 
 ID=343
-TEXT=[{0}]{1}個を{2}で売却しますか？
+[{0}]{1}個を{2}で売却しますか？
 
 ID=344
-TEXT={0}を使用して、スロットをオープンしますか？
+{0}を使用して、スロットをオープンしますか？
 
 ID=345
 売却すると{0}を獲得し、選択されたアイテムは売却されます。
@@ -551,10 +551,10 @@ ID=374
 0
 
 ID=375
-TEXT=+
++
 
 ID=376
-TEXT=-
+-
 
 ID=377
 Min
@@ -578,22 +578,22 @@ ID=383
 Friend Point：
 
 ID=391
-TEXT={0}ジェニー
+{0}ジェニー
 
 ID=392
-TEXT={0}エーテル
+{0}エーテル
 
 ID=393
-TEXT={0}ソウルベイパー
+{0}ソウルベイパー
 
 ID=394
-TEXT={0}BP
+{0}BP
 
 ID=395
-TEXT={0}Sコイン
+{0}Sコイン
 
 ID=396
-TEXT={0}ハンコイン
+{0}ハンコイン
 
 ID=401
 入庫
@@ -707,7 +707,7 @@ ID=444
 必要ジェニー
 
 ID=445
-TEXT={0}の製作に成功しました。
+{0}の製作に成功しました。
 
 ID=446
 製作リスト
@@ -734,10 +734,10 @@ ID=458
 装備中のアイテムを全て修理しますか？\n(修理費：{0}ジェニー)
 
 ID=459
-TEXT={0}を修理しますか？\n(修理費：{1}ジェニー)
+{0}を修理しますか？\n(修理費：{1}ジェニー)
 
 ID=460
-TEXT={0}が修理されました。\n修理費：{1}ジェニー
+{0}が修理されました。\n修理費：{1}ジェニー
 
 ID=461
 装備中のアイテムが修理されました。\n修理費：{0}ジェニー
@@ -767,10 +767,10 @@ ID=471
 達成状況
 
 ID=472
-TEXT={0}時間{1}分{2}秒
+{0}時間{1}分{2}秒
 
 ID=473
-TEXT={0}分{1}秒
+{0}分{1}秒
 
 ID=474
 追加報酬獲得：{0} X {1}
@@ -827,10 +827,10 @@ ID=491
 追加報酬
 
 ID=492
-TEXT=<獲得>
+<獲得>
 
 ID=493
-TEXT=<メール支給完了>
+<メール支給完了>
 
 ID=494
 追加獲得
@@ -842,7 +842,7 @@ ID=496
 追加報酬を受け取るためには[ボーナスカードキー]が必要です。
 
 ID=497
-TEXT={0}秒後に自動で閉じます。
+{0}秒後に自動で閉じます。
 
 ID=501
 情報表示
@@ -866,7 +866,7 @@ ID=510
 復活
 
 ID=511
-※<font color='#F15F5F'>戦闘を放棄し</font>、<font size='15' color='#F7AE54'>{0}</font>秒後、<font color='#F15F5F'>町に移動</font>します。
+※<font color='#F15F5F'>戦闘を放棄し</font>、<font size='15' color='#F7AE54'>{0}</font>秒後に<font color='#F15F5F'>町へ移動</font>します。
 
 ID=512
 放棄
@@ -878,16 +878,16 @@ ID=514
 ※<font color='#F2CB61'>[アクシジェントコール]1個</font>を使用して復活します。
 
 ID=515
-※<font size='15' color='#F7AE54'>{0}</font>秒後、<font color='#F15F5F'>最後の町に移動</font>します。
+※<font size='15' color='#F7AE54'>{0}</font>秒後、<font color='#F15F5F'>最後の町へ移動</font>します。
 
 ID=516
-※<font color='#47C83E'>「{0}」の助けにより復活</font>します。
+※<font color='#47C83E'>「{0}」により復活</font>します。
 
 ID=517
 ※<font color='#FFBB00'>[トップアクシジェントコール]1個</font>を使用して復活します。
 
 ID=518
-※<font color='#FFBB00'>[トップアクシジェントコール]</font>がないため、復活できません。
+※<font color='#FFBB00'>[トップアクシジェントコール] </font>がないため、復活できません。
 
 ID=521
 離脱
@@ -929,19 +929,19 @@ ID=542
 ささやき
 
 ID=546
-TEXT=[{0}]のささやき：
+[{0}]のささやき：
 
 ID=547
-TEXT=[{0}]へ：
+[{0}]へ：
 
 ID=548
-TEXT=[{0}]の叫び：
+[{0}]の叫び：
 
 ID=549
 さんへ
 
 ID=551
-TEXT={0}からパーティーに招待されました。\nパーティーに合流しますか？\n(残り{1}秒)
+{0}からパーティーに招待されました。\nパーティーに合流しますか？\n(残り{1}秒)
 
 ID=552
 パーティーを離脱すると、町に移動します。\n離脱しますか？
@@ -950,25 +950,25 @@ ID=553
 パーティーを離脱して、町に移動します。\n(残り{0}秒)
 
 ID=554
-TEXT={0}にパーティーリーダーを委任しますか？
+{0}にパーティーリーダーを委任しますか？
 
 ID=555
-TEXT={0}をパーティーから追放しますか？
+{0}をパーティーから追放しますか？
 
 ID=556
 現在加入中のパーティーから離脱しますか？
 
 ID=560
-TEXT={0}のレベルを上げますか？\n({1}SP消費)
+{0}のレベルを上げますか？\n({1}SP消費)
 
 ID=561
 所持SP
 
 ID=562
-TEXT={0} Point
+{0} Point
 
 ID=563
-TEXT={0}を習得しますか？\n({1}SP消費)
+{0}を習得しますか？\n({1}SP消費)
 
 ID=564
 スキルデッキを拡張しますか？
@@ -983,7 +983,7 @@ ID=567
 残り時間
 
 ID=568
-TEXT={0}時間{1}分
+{0}時間{1}分
 
 ID=569
 呼び出し
@@ -992,13 +992,16 @@ ID=570
 借りたカードは専用スロットに自動で配置されます。
 
 ID=571
-TEXT={0}を使用しますか？\n(アイテム使用で獲得したA.Rカードは売却及び取引ができません)
+{0}を使用しますか？\n(アイテム使用で獲得したA.Rカードは売却及び取引ができません)
 
 ID=572
 必要Lｖ
 
 ID=573
 必要SP
+
+ID=574
+次回獲得ポイント：
 
 ID=581
 アイテム獲得
@@ -1007,7 +1010,7 @@ ID=582
 使用
 
 ID=583
-TEXT={0}獲得
+{0}獲得
 
 ID=591
 現在HP
@@ -1175,7 +1178,7 @@ ID=665
 力尽きました。復活しますか？
 
 ID=669
-TEXT=[{0}]の攻撃によって力尽きました。
+[{0}]の攻撃によって力尽きました。
 
 ID=670
 噴き出すソウルエナジーによって復活します。
@@ -1187,10 +1190,10 @@ ID=672
 力尽きました。[{0}]に移動します。
 
 ID=673
-TEXT=[{0}]を使用しました。
+[{0}]を使用しました。
 
 ID=674
-TEXT=[{0}]が[{1}]を使用しました。
+[{0}]が[{1}]を使用しました。
 
 ID=675
 獲得：{0}
@@ -1280,16 +1283,16 @@ ID=725
 拒否[Back]
 
 ID=726
-TEXT={0}ジェニー
+{0}ジェニー
 
 ID=727
-TEXT={0}EXP
+{0}EXP
 
 ID=728
 Lv{0}
 
 ID=731
-TEXT={0}位
+{0}位
 
 ID=732
 カジュアルレイド、別名「異常空白」は高難易度のパーティー専用メイズです。しっかり準備を整えてから参加してください。
@@ -1352,40 +1355,40 @@ ID=751
 装備中のアイテム
 
 ID=752
-TEXT={0}[+{1}]
+{0}[+{1}]
 
 ID=755
-TEXT=<font color='#0099FF'>分解可能</font>
+<font color='#0099FF'>分解可能</font>
 
 ID=756
-TEXT=<font color='#0099FF'>強化可能</font>
+<font color='#0099FF'>強化可能</font>
 
 ID=757
-TEXT=<font color='#0099FF'>進化可能</font>
+<font color='#0099FF'>進化可能</font>
 
 ID=758
-TEXT=<font color='#FF0000'>装備時帰属</font>
+<font color='#FF0000'>装備時帰属</font>
 
 ID=759
-TEXT=<font color='#FF0000'>獲得時帰属</font>
+<font color='#FF0000'>獲得時帰属</font>
 
 ID=760
-TEXT=<font color='#FF0000'>帰属アイテム</font>
+<font color='#FF0000'>帰属アイテム</font>
 
 ID=761
-TEXT=<font color='#FF0000'>取引不可</font>
+<font color='#FF0000'>取引不可</font>
 
 ID=762
-TEXT=<font color='#FF0000'>取引不可(帰属状態)</font>
+<font color='#FF0000'>取引不可(帰属状態)</font>
 
 ID=763
-TEXT=<font color='#FF0000'>売却不可</font>
+<font color='#FF0000'>売却不可</font>
 
 ID=764
-TEXT=<font color='#FF0000'>破棄不可</font>
+<font color='#FF0000'>破棄不可</font>
 
 ID=765
-TEXT=<font color='#FF0000'>移動不可</font>
+<font color='#FF0000'>移動不可</font>
 
 ID=766
 販売価格
@@ -1499,7 +1502,7 @@ ID=804
 ソケット効果比較
 
 ID=805
-TEXT={0}セット：
+{0}セット：
 
 ID=806
 Exp
@@ -1664,13 +1667,13 @@ ID=877
 下着
 
 ID=881
-TEXT={0}の分解に成功。\n獲得アイテム：{1} X {2}\n獲得エーテル{3}
+{0}の分解に成功。\n獲得アイテム：{1} X {2}\n獲得エーテル{3}
 
 ID=882
 アイテム分解に失敗しました。
 
 ID=883
-TEXT={0}を分解しますか？
+{0}を分解しますか？
 
 ID=884
 確認を押すと選択したアイテムを分解します。\n分解しますか？
@@ -1679,7 +1682,7 @@ ID=885
 分解対象に<font color='#A566FF'>価値の高いアイテム</font>があります。\n確認を押すと該当アイテムは分解され、復元できなくなります。分解しますか？
 
 ID=886
-TEXT={0}が不足しているため、分解できません。
+{0}が不足しているため、分解できません。
 
 ID=887
 インベントリが不足しているため分解できません。
@@ -1793,16 +1796,16 @@ ID=933
 敵の魔法クリティカル攻撃に対する抵抗
 
 ID=934
-TEXT=[持続状態異常：火傷、中毒、感電、出血]にかかる確率が低下
+[持続状態異常：火傷、中毒、感電、出血]にかかる確率が低下
 
 ID=935
-TEXT=[操作状態異常：気絶、麻痺、睡眠、凍結]にかかる確率が低下
+[操作状態異常：気絶、麻痺、睡眠、凍結]にかかる確率が低下
 
 ID=936
-TEXT=[特殊状態異常：沈黙、衰弱]にかかる確率が低下
+[特殊状態異常：沈黙、衰弱]にかかる確率が低下
 
 ID=937
-TEXT=%
+%
 
 ID=938
 強化可能
@@ -1823,10 +1826,10 @@ ID=943
 帰属アイテム
 
 ID=946
-TEXT=<font color='#FF0000'>売却不可</font>
+<font color='#FF0000'>売却不可</font>
 
 ID=947
-TEXT=<font color='#FF0000'>削除不可</font>
+<font color='#FF0000'>削除不可</font>
 
 ID=951
 強化
@@ -1847,7 +1850,7 @@ ID=956
 強化材料
 
 ID=957
-TEXT={1}/{2}
+{1}/{2}
 
 ID=958
 強化対象
@@ -1874,7 +1877,7 @@ ID=965
 強化結果によっては登録アイテムが破壊状態になることがあります。
 
 ID=966
-破壊防止アイテムは、\n+4から使用できます。
+破壊防止アイテムは、4段階以上強化時に使用できます。
 
 ID=967
 強化
@@ -1976,7 +1979,7 @@ ID=999
 強化費用
 
 ID=1000
-TEXT={0}{1}個を{2}{3}個に変更しますか？
+{0}{1}個を{2}{3}個に変更しますか？
 
 ID=1001
 ナチュラルショート
@@ -2201,7 +2204,7 @@ ID=1317
 Clear
 
 ID=1318
-TEXT={0} Stage
+{0} Stage
 
 ID=1319
 町に移動
@@ -2381,28 +2384,28 @@ ID=2123
 CH{0}
 
 ID=2124
-TEXT={0}からの\nフレンド要請です。\n承諾しますか？
+{0}からの\nフレンド要請です。\n承諾しますか？
 
 ID=2125
-TEXT={0}がフレンドに登録されました。
+{0}がフレンドに登録されました。
 
 ID=2126
-TEXT={0}を\nフレンドリストから削除しますか？
+{0}を\nフレンドリストから削除しますか？
 
 ID=2127
-TEXT={0}がフレンドリストから削除されました。
+{0}がフレンドリストから削除されました。
 
 ID=2128
-TEXT={0}が遮断リストに追加されました。
+{0}が遮断リストに追加されました。
 
 ID=2129
-TEXT={0}が遮断リストから削除されました。
+{0}が遮断リストから削除されました。
 
 ID=2130
 フレンド登録したフレンドです。\n遮断しますか？
 
 ID=2131
-TEXT={0}は現在、他の要請を進行中です。
+{0}は現在、他の要請を進行中です。
 
 ID=2201
 HEMS
@@ -2417,16 +2420,16 @@ ID=2204
 保管箱
 
 ID=2205
-TEXT={0}が送ったメッセージ
+{0}が送ったメッセージ
 
 ID=2206
-TEXT={0}に送ったメッセージ
+{0}に送ったメッセージ
 
 ID=2207
 代金請求
 
 ID=2208
-TEXT={0}日後満了
+{0}日後満了
 
 ID=2209
 受信者
@@ -2459,13 +2462,13 @@ ID=2218
 送信時間
 
 ID=2219
-TEXT={0}-{1}-{2} {3}時{4}分
+{0}-{1}-{2} {3}時{4}分
 
 ID=2220
 受領可能時間
 
 ID=2221
-TEXT={0}時間{1}分
+{0}時間{1}分
 
 ID=2222
 請求ジェニー
@@ -2474,7 +2477,7 @@ ID=2223
 保管期間
 
 ID=2224
-TEXT={0}日
+{0}日
 
 ID=2225
 自動返送時間
@@ -2486,13 +2489,13 @@ ID=2227
 残り保管期間
 
 ID=2228
-TEXT={0}-{1}-{2} {3}時{4}分
+{0}-{1}-{2} {3}時{4}分
 
 ID=2229
 運営チーム
 
 ID=2230
-TEXT=[返信]
+[返信]
 
 ID=2241
 初期化
@@ -2558,16 +2561,16 @@ ID=2268
 メールを保管箱に移動しますか？
 
 ID=2271
-TEXT={0}に一般メールを送信しました。
+{0}に一般メールを送信しました。
 
 ID=2272
-TEXT={0}に添付メールを送信しました。
+{0}に添付メールを送信しました。
 
 ID=2273
-TEXT={0}に代金請求メールを送信しました。
+{0}に代金請求メールを送信しました。
 
 ID=2274
-TEXT={0}にメールを返送しました。
+{0}にメールを返送しました。
 
 ID=2275
 代金請求のあるメールは返送できません。
@@ -2672,7 +2675,7 @@ ID=2585
 キャンセル
 
 ID=3001
-TEXT=[{0}]のアイテム
+[{0}]のアイテム
 
 ID=3002
 登録中
@@ -2702,10 +2705,10 @@ ID=3010
 相手の取引完了を待っています。\n(取引したくない場合は「取引中止」をクリックしてください)
 
 ID=3011
-TEXT={0}に取引を要請しました。相手の承諾を待っています。\n[残り{1}秒]
+{0}に取引を要請しました。相手の承諾を待っています。\n[残り{1}秒]
 
 ID=3012
-TEXT={0}から取引要請が来ました。承諾しますか？\n[残り{1}秒]
+{0}から取引要請が来ました。承諾しますか？\n[残り{1}秒]
 
 ID=3013
 対象プレイヤーと距離があり、取引要請が中止されました。
@@ -2717,16 +2720,16 @@ ID=3015
 取引が中止されました。\n(対象と同じ町でのみ取引ができます)
 
 ID=3016
-TEXT={0}への取引要請を中止しました。
+{0}への取引要請を中止しました。
 
 ID=3017
-TEXT={0}の取引要請を拒否しました。
+{0}の取引要請を拒否しました。
 
 ID=3018
-TEXT={0}が取引要請を中止しました。
+{0}が取引要請を中止しました。
 
 ID=3019
-TEXT={0}が取引要請を拒否しました。
+{0}が取引要請を拒否しました。
 
 ID=3020
 承諾待機時間が終了し、取引要請が中止されました。
@@ -2744,19 +2747,19 @@ ID=3024
 対象プレイヤーはすでに取引を要請中です。\nしばらくしてからもう一度お試しください。
 
 ID=3025
-TEXT={0}との取引が成立しました。
+{0}との取引が成立しました。
 
 ID=3026
 インベントリに空きスロットが無いため、取引を完了できません。
 
 ID=3027
-TEXT={0}と進行中の取引を中止しますか？
+{0}と進行中の取引を中止しますか？
 
 ID=3028
-TEXT={0}との取引を中止しました。
+{0}との取引を中止しました。
 
 ID=3029
-TEXT={0}が取引を中止しました。
+{0}が取引を中止しました。
 
 ID=3030
 対象プレイヤーと距離があり、進行中の取引が中止されました。
@@ -2768,7 +2771,7 @@ ID=3032
 対象プレイヤーが他のエリアに移動したので、進行中の取引が中止されました。
 
 ID=3033
-TEXT={0}は現在個人商店開設準備中なので取引ができません。
+{0}は現在個人商店開設準備中なので取引ができません。
 
 ID=3034
 対象は取引できない状態です。
@@ -2777,13 +2780,13 @@ ID=3035
 変更
 
 ID=3051
-TEXT=[{0}]の個人商店
+[{0}]の個人商店
 
 ID=3052
 個人商店名を入力してください。
 
 ID=3053
-TEXT=[個人商店名は最大20文字入力可能]
+[個人商店名は最大20文字入力可能]
 
 ID=3054
 変更完了
@@ -2831,10 +2834,10 @@ ID=3068
 最大5個までアイテムを登録できます。
 
 ID=3069
-TEXT={0}の個人商店で{1}を購入しました。
+{0}の個人商店で{1}を購入しました。
 
 ID=3070
-TEXT={0}が{1}ジェニーで販売されました。
+{0}が{1}ジェニーで販売されました。
 
 ID=3071
 個人商店開設中は開設券アイテムを使用できません。
@@ -2873,22 +2876,22 @@ ID=3105
 アイテム獲得
 
 ID=3106
-TEXT={0}を完了し、以下の報酬を獲得しました。
+{0}を完了し、以下の報酬を獲得しました。
 
 ID=3107
-TEXT={0}を達成し、以下の報酬を獲得しました。
+{0}を達成し、以下の報酬を獲得しました。
 
 ID=3108
-TEXT={0}占有率報酬により、以下を獲得しました。
+{0}占有率報酬により、以下を獲得しました。
 
 ID=3109
-TEXT={0}収集報酬により、以下を獲得しました。
+{0}収集報酬により、以下を獲得しました。
 
 ID=3110
-TEXT={0}の{1}位を達成し、以下の報酬を獲得しました。
+{0}の{1}位を達成し、以下の報酬を獲得しました。
 
 ID=3111
-TEXT={0}を使用し、以下を獲得しました。
+{0}を使用し、以下を獲得しました。
 
 ID=3112
 EXP
@@ -2915,10 +2918,10 @@ ID=3201
 ランダムボックス使用
 
 ID=3202
-TEXT=[{0}]を使用しますか？\n(以下のアイテムを獲得できます)
+[{0}]を使用しますか？\n(以下のアイテムを獲得できます)
 
 ID=3203
-TEXT=[{0}]を使用しますか？\n(以下のアイテムからランダムに{1}個を獲得できます)
+[{0}]を使用しますか？\n(以下のアイテムからランダムに{1}個を獲得できます)
 
 ID=3204
 インベントリに空きがないためアイテムを使用できません。
@@ -2927,31 +2930,31 @@ ID=4000
 未読メール
 
 ID=4001
-TEXT={0}通の未読メールがあります。HEMSで確認してください。
+{0}通の未読メールがあります。HEMSをご確認ください。
 
 ID=4002
 習得可能スキル
 
 ID=4003
-TEXT={0}Lv{1}習得可能
+{0}Lv{1}習得可能
 
 ID=4004
 特性習得可能
 
 ID=4005
-TEXT={0}Lv{1}習得可能
+{0}Lv{1}習得可能
 
 ID=4006
 ブレイクスキル使用可能
 
 ID=4007
-TEXT={0}使用可能
+{0}使用可能
 
 ID=4008
 メイズ入場可能
 
 ID=4009
-TEXT={0}-{1}{2}入場可能
+{0}-{1}{2}入場可能
 
 ID=4010
 レコード達成
@@ -2963,25 +2966,31 @@ ID=4012
 占有率達成
 
 ID=4013
-TEXT={0} {1}段階占有率
+{0} {1}段階占有率
 
 ID=4014
 メモリアル獲得
 
 ID=4015
-TEXT={0}獲得
+{0}獲得
 
 ID=4016
 フレンド要請受信
 
 ID=4017
-TEXT={0}個のフレンド要請を受け取りました。
+{0}個のフレンド要請を受け取りました。
 
 ID=4018
 占有率達成
 
 ID=4019
-TEXT={0}占有率{1}%達成
+{0}占有率{1}%達成
+
+ID=4020
+称号獲得
+
+ID=4021
+称号「{0}」を獲得しました。
 
 ID=5001
 未習得
@@ -3023,10 +3032,10 @@ ID=5013
 SV
 
 ID=5050
-TEXT=<ブレイクスキル>\nピーク使用可能
+<ブレイクスキル>\nピーク使用可能
 
 ID=5051
-TEXT=<ブレイクスキル>\nイロージョン使用可能
+<ブレイクスキル>\nイロージョン使用可能
 
 ID=5052
 SV{0}%消費
@@ -3266,322 +3275,322 @@ ID=5519
 キャラクタースタイル設定
 
 ID=5800
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>基本的な装備アイテムは、各町にいる<font color='#00ff9c'>ジャイト</font>の装備商店で購入できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>基本的な装備アイテムは、各町にいる<font color='#00ff9c'>ジャイト</font>の装備商店で購入できます。
 
 ID=5801
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>基本的な消費アイテムは、各町にいる<font color='#00ff9c'>ヨミ</font>の雑貨商店で購入できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>基本的な消費アイテムは、各町にいる<font color='#00ff9c'>ヨミ</font>の雑貨商店で購入できます。
 
 ID=5802
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>町の商店で、武器の耐久度を回復する<font color='#00D8FF'>[修理]</font>や、各種素材を入手できるアイテムの<font color='#00D8FF'>[分解]</font>ができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>町の商店で、武器の耐久度を回復する<font color='#00D8FF'>[修理]</font>や、各種素材を入手できるアイテムの<font color='#00D8FF'>[分解]</font>ができます。
 
 ID=5803
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>商店などの機能性NPCを利用すると、<font color='#00D8FF'>[顧客等級]</font>が上昇します。\n顧客等級のレベルによって、様々な特典が付与されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>商店などの機能性NPCを利用すると、<font color='#00D8FF'>[顧客等級]</font>が上昇します。\n顧客等級のレベルによって、様々な特典が付与されます。
 
 ID=5804
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>[トリシャ]</font>の所で、武器・ギアの<font color='#00D8FF'>[強化][交換]</font>ができます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>[トリシャ]</font>の所で、武器・ギアの<font color='#00D8FF'>[強化][交換]</font>ができます。
 
 ID=5805
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して\n別の装備品の強化・製作アイテムを入手することもできます。
+<font color='#FFFFFF'><font size="30">TIP：</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して\n別の装備品の強化・製作アイテムを入手することもできます。
 
 ID=5806
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#B2EBF4'>[ゼニス]</font>の所で、武器・ギア・アバターを<font color='#00D8FF'>[製作]</font>できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#B2EBF4'>[ゼニス]</font>の所で、武器・ギア・アバターを<font color='#00D8FF'>[製作]</font>できます。
 
 ID=5807
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>HEMS</font>を利用してメールを送れます。メール送信には手数料がかかります。\n必要に応じてアイテムやジェニーの添付も可能です。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>HEMS</font>を利用してメールを送れます。メール送信には手数料がかかります。\n必要に応じてアイテムやジェニーの添付も可能です。
 
 ID=5808
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>町にいる<font color='#00ff9c'>オードン</font>の銀行に、持ちきれない<font color='#00D8FF'>アイテム</font>を預けることができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>町にいる<font color='#00ff9c'>オードン</font>の銀行に、持ちきれない<font color='#00D8FF'>アイテム</font>を預けることができます。
 
 ID=5809
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>ミニマップ</font>で自分の現在地や各<font color='#00D8FF'>NPC</font>の場所、<font color='#00D8FF'>メイズ</font>の入口を確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>ミニマップ</font>で自分の現在地や各<font color='#00D8FF'>NPC</font>の場所、<font color='#00D8FF'>メイズ</font>の入口を確認できます。
 
 ID=5810
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行情報は、ショートカットキー<font color='#00ff9c'>【L】</font>の<font color='#00D8FF'>[レコード][占有率]</font>ウィンドウから確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行情報は、ショートカットキー<font color='#00ff9c'>【L】</font>の<font color='#00D8FF'>[レコード][占有率]</font>ウィンドウから確認できます。
 
 ID=5811
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行状況に応じて、<font color='#00D8FF'>進行情報</font>ウィンドウ<font color='#00ff9c'>【L】</font>から報酬を確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行状況に応じて、<font color='#00D8FF'>進行情報</font>ウィンドウ<font color='#00ff9c'>【L】</font>から報酬を確認できます。
 
 ID=5812
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>必要な材料を集めて町にいる<font color='#00ff9c'>イオ</font>に渡すと、<font color='#00D8FF'>A.Rカード</font>を製作できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>必要な材料を集めて町にいる<font color='#00ff9c'>イオ</font>に渡すと、<font color='#00D8FF'>A.Rカード</font>を製作できます。
 
 ID=5813
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>A.Rカード</font>には、スロットに登録した状態で自動的に効果が発生するものもあります。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>A.Rカード</font>には、スロットに登録した状態で自動的に効果が発生するものもあります。
 
 ID=5814
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>新しいクエストが発生すると<font color='#fff94a'>[<font size="30">！</font>]</font>マークが、完了可能なクエストがあると<font color='#fff94a'>[<font size="30">？</font>]</font>マークが\nNPCの頭上やミニマップ上に表示されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>新しいクエストが発生すると<font color='#fff94a'>[<font size="30">！</font>]</font>マークが、完了可能なクエストがあると<font color='#fff94a'>[<font size="30">？</font>]</font>マークが\nNPCの頭上やミニマップ上に表示されます。
 
 ID=5815
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>受注したクエストは、画面右の<font color='#00D8FF'>クエスト案内</font>または、クエスト情報ウィンドウ<font color='#00ff9c'>【J】</font>を開いて確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>受注したクエストは、画面右の<font color='#00D8FF'>クエスト案内</font>または、クエスト情報ウィンドウ<font color='#00ff9c'>【J】</font>を開いて確認できます。
 
 ID=5816
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの全般的な設定は、<font color='#00ff9c'>【ESC】</font>キーの<font color='#00D8FF'>[環境設定]</font>タブから変更できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの全般的な設定は、<font color='#00ff9c'>【ESC】</font>キーの<font color='#00D8FF'>[環境設定]</font>タブから変更できます。
 
 ID=5817
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>コミュニティーウィンドウ【O】では、<font color='#00D8FF'>[フレンド]</font>に関連した機能を使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>コミュニティーウィンドウ【O】では、<font color='#00D8FF'>[フレンド]</font>に関連した機能を使用できます。
 
 ID=5818
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[スキル][A.Rカード]</font>の使用は、ショートカットキー<font color='#00ff9c'>【K】</font>やメニューでスキルウィンドウ活性化後、\nスキルスロットに登録すると使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[スキル][A.Rカード]</font>の使用は、ショートカットキー<font color='#00ff9c'>【K】</font>やメニューでスキルウィンドウ活性化後、\nスキルスロットに登録すると使用できます。
 
 ID=5819
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>スキルデッキ</font>を活用すると、戦闘で有利な効果を獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>スキルデッキ</font>を活用すると、戦闘で有利な効果を獲得できます。
 
 ID=5820
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>パッシブスキル</font>のレベルを上げると、基本アクションを強化できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>パッシブスキル</font>のレベルを上げると、基本アクションを強化できます。
 
 ID=5821
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>画面左下にある<font color='#00D8FF'>統合お知らせ</font>ウィンドウから、進行状況に関連した様々な内容を確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>画面左下にある<font color='#00D8FF'>統合お知らせ</font>ウィンドウから、進行状況に関連した様々な内容を確認できます。
 
 ID=5822
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ステータスウィンドウ【P】の「称号」タブから、名前の横に表示する各種<font color='#00D8FF'>称号</font>を自由に設定できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ステータスウィンドウ【P】の「称号」タブから、名前の横に表示する各種<font color='#00D8FF'>称号</font>を自由に設定できます。
 
 ID=5823
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>メイズ占有率</font>や<font color='#00D8FF'>町占有率</font>の進行状況に応じて、様々な報酬を獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>メイズ占有率</font>や<font color='#00D8FF'>町占有率</font>の進行状況に応じて、様々な報酬を獲得できます。
 
 ID=5824
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>町占有率</font>は、所属しているメイズの占有率に影響を受けます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>町占有率</font>は、所属しているメイズの占有率に影響を受けます。
 
 ID=5825
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>メイズ入場時に<font color='#00D8FF'>[オートマッチング]</font>を使用すると、自動的にパーティーを組むことができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>メイズ入場時に<font color='#00D8FF'>[オートマッチング]</font>を使用すると、自動的にパーティーを組むことができます。
 
 ID=5826
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ステータス</font>ウィンドウ【P】からプロフィールを修正できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ステータス</font>ウィンドウ【P】からプロフィールを修正できます。
 
 ID=5827
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>左<font color='#00ff9c'>【Alt】</font>キーで、マウスモードに変更することができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>左<font color='#00ff9c'>【Alt】</font>キーで、マウスモードに変更することができます。
 
 ID=5828
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>最高レベル到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>最高レベル到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
 
 ID=5829
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>現在のチャンネルが混雑している時は、ミニマップの上にある\n<font color='#00D8FF'>チャンネル移動機能</font>で別チャンネルに移動してください。
+<font color='#FFFFFF'><font size="30">TIP：</font>現在のチャンネルが混雑している時は、ミニマップの上にある\n<font color='#00D8FF'>チャンネル移動機能</font>で別チャンネルに移動してください。
 
 ID=5830
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ブッカーズポイント<font color='#00ff9c'>[BP]</font>は<font color='#00D8FF'>第6区域</font>または<font color='#00D8FF'>スチールグレイブ</font>で獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ブッカーズポイント<font color='#00ff9c'>[BP]</font>は<font color='#00D8FF'>第6区域</font>または<font color='#00D8FF'>スチールグレイブ</font>で獲得できます。
 
 ID=5831
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>第6区域</font>の<font color='#00ff9c'>BP商店</font>では、特別なアイテムを購入できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>第6区域</font>の<font color='#00ff9c'>BP商店</font>では、特別なアイテムを購入できます。
 
 ID=5832
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>クエスト情報</font>ウィンドウ【J】の右上にある<font color='#00ff9c'>[ミッション]</font>タブから、デイリーミッションを確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>クエスト情報</font>ウィンドウ【J】の右上にある<font color='#00ff9c'>[ミッション]</font>タブから、デイリーミッションを確認できます。
 
 ID=5833
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>デイリーミッション</font>を通して獲得した<font color='#00ff9c'>[Sコイン]</font>は、専用商店で使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>デイリーミッション</font>を通して獲得した<font color='#00ff9c'>[Sコイン]</font>は、専用商店で使用できます。
 
 ID=5834
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>メイズ内では、ランダムで</font><font color='#00D8FF'>[シークレットミッション]</font>が発生します。
+<font color='#FFFFFF'><font size="30">TIP：</font>メイズ内では、ランダムで</font><font color='#00D8FF'>[シークレットミッション]</font>が発生します。
 
 ID=5835
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ゲーム進行中に獲得した</font><font color='#00D8FF'>[サポーター]</font>をメイズに呼び出してみましょう。\n心強い仲間があなたをサポートしてくれます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ゲーム進行中に獲得した</font><font color='#00D8FF'>[サポーター]</font>をメイズに呼び出してみましょう。\n心強い仲間があなたをサポートしてくれます。
 
 ID=5836
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>イオ</font>の所で</font><font color='#00D8FF'>オーブ</font>を登録してください。\n登録したオーブは、フレンドのサポーターが使用できるようになります。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>イオ</font>の所で</font><font color='#00D8FF'>オーブ</font>を登録してください。\n登録したオーブは、フレンドのサポーターが使用できるようになります。
 
 ID=5837
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ソロだと戦闘が難しい！もっとワイワイやりたい！\nそんな時は、</font><font color='#00D8FF'>パーティー検索</font>【N】や</font><font color='#00D8FF'>コミュニティー</font>機能【O】を利用して、フレンドを作ってみましょう。
+<font color='#FFFFFF'><font size="30">TIP：</font>ソロだと戦闘が難しい！もっとワイワイやりたい！\nそんな時は、</font><font color='#00D8FF'>パーティー検索</font>【N】や</font><font color='#00D8FF'>コミュニティー</font>機能【O】を利用して、フレンドを作ってみましょう。
 
 ID=5838
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font></font><font color='#00D8FF'>ギルド</font>を設立したり、他の</font><font color='#00D8FF'>ギルド</font>に加入してコミュニティを広げましょう。
+<font color='#FFFFFF'><font size="30">TIP：</font></font><font color='#00D8FF'>ギルド</font>を設立したり、他の</font><font color='#00D8FF'>ギルド</font>に加入してコミュニティを広げましょう。
 
 ID=5839
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>Lv10になったら、自分だけのスペース<font color='#00D8FF'>[マイルーム]</font>を持つことができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>Lv10になったら、自分だけのスペース<font color='#00D8FF'>[マイルーム]</font>を持つことができます。
 
 ID=5840
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>メイズ進行中、まれに記憶の欠片「<font color='#00D8FF'>メモリアル</font>」アイテムが出現することがあります。\nアイテムを集めてメモリアルウィンドウ【B】で報酬を獲得しましょう。
+<font color='#FFFFFF'><font size="30">TIP：</font>メイズ進行中、まれに記憶の欠片「<font color='#00D8FF'>メモリアル</font>」アイテムが出現することがあります。\nアイテムを集めてメモリアルウィンドウ【B】で報酬を獲得しましょう。
 
 ID=5841
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>画面右上の「！」アイコンをクリックすると<font color='#00D8FF'>[ヘルプ]</font>が開き、各種情報を確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>画面右上の「！」アイコンをクリックすると<font color='#00D8FF'>[ヘルプ]</font>が開き、各種情報を確認できます。
 
 ID=5842
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>メイズに入場すると<font color='#00D8FF'>[FP]</font>を消費します。
+<font color='#FFFFFF'><font size="30">TIP：</font>メイズに入場すると<font color='#00D8FF'>[FP]</font>を消費します。
 
 ID=5843
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>自分のスタイルに合わせて、<font color='#00D8FF'>スキル</font>や<font color='#00D8FF'>特性</font>をレベルアップさせてください。\n新たな効果が発生したり、機能が追加されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>自分のスタイルに合わせて、<font color='#00D8FF'>スキル</font>や<font color='#00D8FF'>特性</font>をレベルアップさせてください。\n新たな効果が発生したり、機能が追加されます。
 
 ID=5844
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[状態異常]</font>は自分がかかると厄介ですが、敵に付与できれば戦闘を有利に進めることができます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[状態異常]</font>は自分がかかると厄介ですが、敵に付与できれば戦闘を有利に進めることができます。
 
 ID=5845
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>まれに、攻撃にひるまなくなる<font color='#00D8FF'>[スーパーアーマー]</font>を持つ敵が出現します。\n攻撃してスーパーアーマーを破壊すると、敵はグロッキー状態に陥ります。
+<font color='#FFFFFF'><font size="30">TIP：</font>まれに、攻撃にひるまなくなる<font color='#00D8FF'>[スーパーアーマー]</font>を持つ敵が出現します。\n攻撃してスーパーアーマーを破壊すると、敵はグロッキー状態に陥ります。
 
 ID=5846
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[ダッシュ]</font>や<font color='#00D8FF'>[ジャンプ]</font>中にクリックすると、攻撃を繰り出せます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[ダッシュ]</font>や<font color='#00D8FF'>[ジャンプ]</font>中にクリックすると、攻撃を繰り出せます。
 
 ID=5847
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>空中に浮いた敵を攻撃すると、追加ダメージを与えることができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>空中に浮いた敵を攻撃すると、追加ダメージを与えることができます。
 
 ID=5848
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>特定イベントを完了すると、メイズ内で<font color='#00D8FF'>ソウルベイパー</font>を獲得でき、<font color='#00ff9c'>[ブレイクスキル]</font>を使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>特定イベントを完了すると、メイズ内で<font color='#00D8FF'>ソウルベイパー</font>を獲得でき、<font color='#00ff9c'>[ブレイクスキル]</font>を使用できます。
 
 ID=5849
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>メイズ進行中、ランダムで<font color='#00D8FF'>グルトン</font>が出現することがあります。\nグルトンを倒すと、珍しいアイテムを獲得できるかもしれません。
+<font color='#FFFFFF'><font size="30">TIP：</font>メイズ進行中、ランダムで<font color='#00D8FF'>グルトン</font>が出現することがあります。\nグルトンを倒すと、珍しいアイテムを獲得できるかもしれません。
 
 ID=5850
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ゲームを進行しながら様々な<font color='#00D8FF'>アイテム</font>を集めて、能力を強化しましょう。
+<font color='#FFFFFF'><font size="30">TIP：</font>ゲームを進行しながら様々な<font color='#00D8FF'>アイテム</font>を集めて、能力を強化しましょう。
 
 ID=5851
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ソケットがある武器には<font color='#00D8FF'>ファミリア</font>を装着できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ソケットがある武器には<font color='#00D8FF'>ファミリア</font>を装着できます。
 
 ID=5852
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ソケットがあるアバターには<font color='#00D8FF'>ブローチ</font>を装着して、能力を付与することができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ソケットがあるアバターには<font color='#00D8FF'>ブローチ</font>を装着して、能力を付与することができます。
 
 ID=5853
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>敵を倒すと<font color='#00D8FF'>エーテル</font>を落とします。エーテルはアイテムの<font color='#00ff9c'>強化</font>に使用します。
+<font color='#FFFFFF'><font size="30">TIP：</font>敵を倒すと<font color='#00D8FF'>エーテル</font>を落とします。エーテルはアイテムの<font color='#00ff9c'>強化</font>に使用します。
 
 ID=5854
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ゼニスの所でアイテム製作をするためには<font color='#00D8FF'>設計図</font>が必要です。
+<font color='#FFFFFF'><font size="30">TIP：</font>ゼニスの所でアイテム製作をするためには<font color='#00D8FF'>設計図</font>が必要です。
 
 ID=5855
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>武器の<font color='#00D8FF'>耐久度</font>が減るほど、アイテムの性能も低下します。商店で定期的に修理しましょう。
+<font color='#FFFFFF'><font size="30">TIP：</font>武器の<font color='#00D8FF'>耐久度</font>が減るほど、アイテムの性能も低下します。商店で定期的に修理しましょう。
 
 ID=5856
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>他の町に移動するには、<font color='#00D8FF'>第6区域</font>という無法地帯を通らなければなりません。
+<font color='#FFFFFF'><font size="30">TIP：</font>他の町に移動するには、<font color='#00D8FF'>第6区域</font>という無法地帯を通らなければなりません。
 
 ID=5857
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>第6区域にある<font color='#00D8FF'>スタリーフォレスト連合輸送ヘリ</font>を利用すると、他エリアへ安全に移動できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>第6区域にある<font color='#00D8FF'>スタリーフォレスト連合輸送ヘリ</font>を利用すると、他エリアへ安全に移動できます。
 
 ID=5858
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>第6区域にある<font color='#00D8FF'>バキュームキューブ</font>からは、まれに強化や製作材料を獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>第6区域にある<font color='#00D8FF'>バキュームキューブ</font>からは、まれに強化や製作材料を獲得できます。
 
 ID=5859
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>最高レベルになると、最低2人以上で挑戦できる<font color='#00D8FF'>カジュアルレイド</font>、別名「異常空白」に入場できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>最高レベルになると、最低2人以上で挑戦できる<font color='#00D8FF'>カジュアルレイド</font>、別名「異常空白」に入場できます。
 
 ID=5860
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>カンダスシティから戦闘研究所<font color='#00D8FF'>スチールグレイブ</font>に入場できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>カンダスシティから戦闘研究所<font color='#00D8FF'>スチールグレイブ</font>に入場できます。
 
 ID=5861
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>戦闘研究所<font color='#00D8FF'>スチールグレイブ</font>へは、1日1回5ステージまで入場できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>戦闘研究所<font color='#00D8FF'>スチールグレイブ</font>へは、1日1回5ステージまで入場できます。
 
 ID=5862
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ベリーハード</font>は敵が強い分、獲得できる報酬の質が上がります。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ベリーハード</font>は敵が強い分、獲得できる報酬の質が上がります。
 
 ID=5863
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>基本的な装備アイテムは、各町にいる<font color='#00ff9c'>ジャイト</font>の装備商店で購入できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>基本的な装備アイテムは、各町にいる<font color='#00ff9c'>ジャイト</font>の装備商店で購入できます。
 
 ID=5864
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>基本的な消費アイテムは、各町にいる<font color='#00ff9c'>ヨミ</font>の雑貨商店で購入できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>基本的な消費アイテムは、各町にいる<font color='#00ff9c'>ヨミ</font>の雑貨商店で購入できます。
 
 ID=5865
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>町の商店で、武器の耐久度を回復する<font color='#00D8FF'>[修理]</font>や、各種素材を入手できるアイテムの<font color='#00D8FF'>[分解]</font>ができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>町の商店で、武器の耐久度を回復する<font color='#00D8FF'>[修理]</font>や、各種素材を入手できるアイテムの<font color='#00D8FF'>[分解]</font>ができます。
 
 ID=5866
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>商店などの機能性NPCを利用すると、<font color='#00D8FF'>[顧客等級]</font>が上昇します。\n顧客等級のレベルによって、様々な特典が付与されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>商店などの機能性NPCを利用すると、<font color='#00D8FF'>[顧客等級]</font>が上昇します。\n顧客等級のレベルによって、様々な特典が付与されます。
 
 ID=5867
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>[トリシャ]</font>の所で、武器・ギアの<font color='#00D8FF'>[強化][交換]</font>ができます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>[トリシャ]</font>の所で、武器・ギアの<font color='#00D8FF'>[強化][交換]</font>ができます。
 
 ID=5868
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して\n別の装備品の強化・製作アイテムを入手することもできます。
+<font color='#FFFFFF'><font size="30">TIP：</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して\n別の装備品の強化・製作アイテムを入手することもできます。
 
 ID=5869
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#B2EBF4'>[ゼニス]</font>の所で、武器・ギア・アバターを<font color='#00D8FF'>[製作]</font>できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#B2EBF4'>[ゼニス]</font>の所で、武器・ギア・アバターを<font color='#00D8FF'>[製作]</font>できます。
 
 ID=5870
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>HEMS</font>を利用してメールを送れます。メール送信には手数料がかかります。\n必要に応じてアイテムやジェニーの添付も可能です。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>HEMS</font>を利用してメールを送れます。メール送信には手数料がかかります。\n必要に応じてアイテムやジェニーの添付も可能です。
 
 ID=5871
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>町にいる<font color='#00ff9c'>オードン</font>の銀行に、持ちきれない<font color='#00D8FF'>アイテム</font>を預けることができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>町にいる<font color='#00ff9c'>オードン</font>の銀行に、持ちきれない<font color='#00D8FF'>アイテム</font>を預けることができます。
 
 ID=5872
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>ミニマップ</font>で自分の現在地や各<font color='#00D8FF'>NPC</font>の場所、<font color='#00D8FF'>メイズ</font>の入口を確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>ミニマップ</font>で自分の現在地や各<font color='#00D8FF'>NPC</font>の場所、<font color='#00D8FF'>メイズ</font>の入口を確認できます。
 
 ID=5873
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行情報は、ショートカットキー<font color='#00ff9c'>【L】</font>の<font color='#00D8FF'>[レコード][占有率]</font>ウィンドウから確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行情報は、ショートカットキー<font color='#00ff9c'>【L】</font>の<font color='#00D8FF'>[レコード][占有率]</font>ウィンドウから確認できます。
 
 ID=5874
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行状況に応じて、<font color='#00D8FF'>進行情報</font>ウィンドウ【L】から報酬を獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行状況に応じて、<font color='#00D8FF'>進行情報</font>ウィンドウ【L】から報酬を獲得できます。
 
 ID=5875
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>必要な材料を集めて町にいる<font color='#00ff9c'>イオ</font>に渡すと、<font color='#00D8FF'>A.Rカード</font>を製作できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>必要な材料を集めて町にいる<font color='#00ff9c'>イオ</font>に渡すと、<font color='#00D8FF'>A.Rカード</font>を製作できます。
 
 ID=5876
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>A.Rカード</font>には、スロットに登録した状態で自動的に効果が発生するものもあります。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>A.Rカード</font>には、スロットに登録した状態で自動的に効果が発生するものもあります。
 
 ID=5877
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>新しいクエストが発生すると<font color='#fff94a'>[<font size="30">！</font>]</font>マークが、完了可能なクエストがあると<font color='#fff94a'>[<font size="30">？</font>]</font>マークが\nNPCの頭上やミニマップ上に表示されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>新しいクエストが発生すると<font color='#fff94a'>[<font size="30">！</font>]</font>マークが、完了可能なクエストがあると<font color='#fff94a'>[<font size="30">？</font>]</font>マークが\nNPCの頭上やミニマップ上に表示されます。
 
 ID=5878
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>受注したクエストは、画面右の<font color='#00D8FF'>クエスト案内</font>または、クエスト情報ウィンドウ<font color='#00ff9c'>【J】</font>を開いて確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>受注したクエストは、画面右の<font color='#00D8FF'>クエスト案内</font>または、クエスト情報ウィンドウ<font color='#00ff9c'>【J】</font>を開いて確認できます。
 
 ID=5879
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの全般的な詳細設定は、<font color='#00ff9c'>[ESC]</font>キーの<font color='#00D8FF'>[環境設定]</font>タブから変更できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの全般的な詳細設定は、<font color='#00ff9c'>[ESC]</font>キーの<font color='#00D8FF'>[環境設定]</font>タブから変更できます。
 
 ID=5880
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>コミュニティーウィンドウ【O】では、<font color='#00D8FF'>[フレンド]</font>に関連した機能を使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>コミュニティーウィンドウ【O】では、<font color='#00D8FF'>[フレンド]</font>に関連した機能を使用できます。
 
 ID=5881
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[スキル][A.Rカード]</font>は、スキルウィンドウ<font color='#00ff9c'>【K】</font>でスキル活性化後、\nスキル登録スロットに登録して使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[スキル][A.Rカード]</font>は、スキルウィンドウ<font color='#00ff9c'>【K】</font>でスキル活性化後、\nスキル登録スロットに登録して使用できます。
 
 ID=5882
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>スキルデッキ</font>を活用すると、戦闘にで有利な効果を獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>スキルデッキ</font>を活用すると、戦闘にで有利な効果を獲得できます。
 
 ID=5883
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>パッシブスキル</font>のレベルを上げると、基本アクションを強化できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>パッシブスキル</font>のレベルを上げると、基本アクションを強化できます。
 
 ID=5884
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>画面左下にある<font color='#00D8FF'>統合お知らせ</font>ウィンドウで、進行状況に関連した様々な内容を確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>画面左下にある<font color='#00D8FF'>統合お知らせ</font>ウィンドウで、進行状況に関連した様々な内容を確認できます。
 
 ID=5885
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ステータスウィンドウ【P】の「称号」タブで、名前の横に表示する各種<font color='#00D8FF'>称号</font>を自由に設定できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ステータスウィンドウ【P】の「称号」タブで、名前の横に表示する各種<font color='#00D8FF'>称号</font>を自由に設定できます。
 
 ID=5886
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>メイズ占有率</font>や<font color='#00D8FF'>町占有率</font>の進行状況に応じて、様々な報酬を獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>メイズ占有率</font>や<font color='#00D8FF'>町占有率</font>の進行状況に応じて、様々な報酬を獲得できます。
 
 ID=5887
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>町占有率</font>は、所属しているメイズの占有率に影響を受けます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>町占有率</font>は、所属しているメイズの占有率に影響を受けます。
 
 ID=5888
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>メイズ入場時に<font color='#00D8FF'>[オートマッチング]</font>を使用すると、自動的にパーティーを組むことができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>メイズ入場時に<font color='#00D8FF'>[オートマッチング]</font>を使用すると、自動的にパーティーを組むことができます。
 
 ID=5889
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ステータス</font>ウィンドウ【P】でプロフィールを修正できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ステータス</font>ウィンドウ【P】でプロフィールを修正できます。
 
 ID=5890
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>左<font color='#00ff9c'>【Alt】</font>キーで、マウスモードに変更することができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>左<font color='#00ff9c'>【Alt】</font>キーで、マウスモードに変更することができます。
 
 ID=5891
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>最高レベル到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>最高レベル到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
 
 ID=5892
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>現在のチャンネルが混雑している時は、ミニマップの上にある<font color='#00D8FF'>チャンネル移動機能</font>で\n別チャンネルに移動してください。
+<font color='#FFFFFF'><font size="30">TIP：</font>現在のチャンネルが混雑している時は、ミニマップの上にある<font color='#00D8FF'>チャンネル移動機能</font>で\n別チャンネルに移動してください。
 
 ID=5893
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ブッカーズポイント<font color='#00ff9c'>[BP]</font>は<font color='#00D8FF'>第6区域</font>または<font color='#00D8FF'>スチールグレイブ</font>で獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ブッカーズポイント<font color='#00ff9c'>[BP]</font>は<font color='#00D8FF'>第6区域</font>または<font color='#00D8FF'>スチールグレイブ</font>で獲得できます。
 
 ID=5894
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>第6区域</font>の<font color='#00ff9c'>BP商店</font>では、特別なアイテムを購入できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>第6区域</font>の<font color='#00ff9c'>BP商店</font>では、特別なアイテムを購入できます。
 
 ID=5895
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>クエスト情報</font>ウィンドウ【J】の右上にある<font color='#00ff9c'>[ミッション]</font>タブから、デイリーミッションを確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>クエスト情報</font>ウィンドウ【J】の右上にある<font color='#00ff9c'>[ミッション]</font>タブから、デイリーミッションを確認できます。
 
 ID=5896
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>デイリーミッション</font>を通して獲得した<font color='#00ff9c'>[Sコイン]</font>は、専用商店で使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>デイリーミッション</font>を通して獲得した<font color='#00ff9c'>[Sコイン]</font>は、専用商店で使用できます。
 
 ID=5897
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>メイズ内では、ランダムで</font><font color='#00D8FF'>[シークレットミッション]</font>が発生します。
+<font color='#FFFFFF'><font size="30">TIP：</font>メイズ内では、ランダムで</font><font color='#00D8FF'>[シークレットミッション]</font>が発生します。
 
 ID=5898
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>ゲーム進行中に獲得した</font><font color='#00D8FF'>[サポーター]</font>をメイズに呼び出してみましょう。\n心強い仲間があなたをサポートしてくれます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ゲーム進行中に獲得した</font><font color='#00D8FF'>[サポーター]</font>をメイズに呼び出してみましょう。\n心強い仲間があなたをサポートしてくれます。
 
 ID=5899
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>イオ</font>の所で</font><font color='#00D8FF'>オーブ</font>を登録してください。\n登録したオーブは、フレンドのサポーターが使用できるようになります。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>イオ</font>の所で</font><font color='#00D8FF'>オーブ</font>を登録してください。\n登録したオーブは、フレンドのサポーターが使用できるようになります。
 
 ID=5900
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>下着を身につけた状態で、バスタブ/シャワーブースを使用すると…！！
+<font color='#FFFFFF'><font size="30">TIP：</font>下着を身につけた状態で、バスタブ/シャワーブースを使用すると…！！
 
 ID=5901
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>アイテムモールで<font color='#00D8FF'>[外見アイテム]</font>を購入することで、外見を変更できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>アイテムモールで<font color='#00D8FF'>[外見アイテム]</font>を購入することで、外見を変更できます。
 
 ID=5902
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[HP]</font>はキャラクターの体力を表し、0になると戦闘不能状態になります。HPの管理には気をつけましょう。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[HP]</font>はキャラクターの体力を表し、0になると戦闘不能状態になります。HPの管理には気をつけましょう。
 
 ID=5903
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[SG]</font>はソウルゲージと呼ばれる異能の根源です。\nスキル使用時に消費し、各キャラクターごとに回復する方法が異なります。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[SG]</font>はソウルゲージと呼ばれる異能の根源です。\nスキル使用時に消費し、各キャラクターごとに回復する方法が異なります。
 
 ID=5904
-TEXT=<font color='#FFFFFF'><font size="30">TIP：</font>第6区域ではブレイクスキルの<font color='#00D8FF'>「イロージョン」</font>を使用できません。
+<font color='#FFFFFF'><font size="30">TIP：</font>第6区域ではブレイクスキルの<font color='#00D8FF'>「イロージョン」</font>を使用できません。
 
 ID=5905
-TEXT=<font color='#FFFFFF'><font size="30">TIP。</font>第6区域では<font color='#00D8FF'>[DRAW]型</font>A.Rカードを使用できません。
+<font color='#FFFFFF'><font size="30">TIP。</font>第6区域では<font color='#00D8FF'>[DRAW]型</font>A.Rカードを使用できません。
 
 ID=6011
 代表変更
@@ -3596,10 +3605,10 @@ ID=6014
 等級
 
 ID=6015
-TEXT=[フレンド]
+[フレンド]
 
 ID=6016
-TEXT=[ギルド]
+[ギルド]
 
 ID=6017
 所持ジェニー
@@ -3614,7 +3623,7 @@ ID=6020
 A.Rカード「{0}」を\n削除しますか？
 
 ID=6021
-TEXT={0}の{1}\nA.Rカードを持ってきますか？\nレンタル期間：{2}時間　必要ジェニー：{3}\n差引き後の所持ジェニー：{4}
+{0}の{1}\nA.Rカードを持ってきますか？\nレンタル期間：{2}時間　必要ジェニー：{3}\n差引き後の所持ジェニー：{4}
 
 ID=6022
 フレンドのA.Rカードを選択しませんでした。
@@ -3629,7 +3638,7 @@ ID=6025
 A.Rカードボックスを使用します。\n獲得したA.Rカードは取引できません。
 
 ID=6026
-A.Rカードを使用して固有能力を獲得します。\n使用したA.Rカードはインベントリから削除され、\nスキルウィンドウ[K]のA.Rカードタブに登録されます。\n本当に使用しますか？
+A.Rカードを使用して固有能力を獲得します。\n使用したA.Rカードはインベントリから削除され、\n合成で得られた経験値も同時にリセットされます。\n使用後は、スキルウィンドウ[K]のA.Rカードタブに登録されます。\n本当に使用しますか？
 
 ID=6027
 A.Rカードの空きがないためアイテムを使用できません。
@@ -3719,7 +3728,7 @@ ID=6055
 合成EXPMax状態でのみ\n製作材料として使用できます。
 
 ID=6056
-TEXT={0} {1}個を{2} {3}個と交換しますか？
+{0} {1}個を{2} {3}個と交換しますか？
 
 ID=6057
 製作対象とレア度が同じ\nA.Rカードを登録してください。
@@ -3812,7 +3821,7 @@ ID=8001
 進行率
 
 ID=8002
-TEXT={0}%
+{0}%
 
 ID=8003
 ステージ変更
@@ -3827,7 +3836,7 @@ ID=8006
 中止({0})
 
 ID=8100
-TEXT={0}-{1}
+{0}-{1}
 
 ID=8101
 入場可能
@@ -3860,7 +3869,7 @@ ID=8305
 残り時間
 
 ID=8306
-TEXT={0}：{1}：{2}
+{0}：{1}：{2}
 
 ID=8307
 支給完了
@@ -4184,13 +4193,13 @@ ID=9984
 ルインフォートレス安全地帯近道
 
 ID=9985
-TEXT=[スチールグレイブ]カンダスシティ
+[スチールグレイブ]カンダスシティ
 
 ID=9986
-TEXT=[スチールグレイブ]グレイスシティ
+[スチールグレイブ]グレイスシティ
 
 ID=9987
-TEXT=[スチールグレイブ]ルインフォートレス
+[スチールグレイブ]ルインフォートレス
 
 ID=9988
 ゴールデンシタデル入口
@@ -4199,43 +4208,43 @@ ID=9989
 ゴールデンシタデル
 
 ID=9990
-TEXT=[ゴールデンシタデル]中央広場
+[ゴールデンシタデル]中央広場
 
 ID=9991
-TEXT=[ゴールデンシタデル]第1区域
+[ゴールデンシタデル]第1区域
 
 ID=9992
-TEXT=[ゴールデンシタデル]第2区域
+[ゴールデンシタデル]第2区域
 
 ID=9993
-TEXT=[ゴールデンシタデル]第3区域
+[ゴールデンシタデル]第3区域
 
 ID=9994
-TEXT=[ゴールデンシタデル]第4区域
+[ゴールデンシタデル]第4区域
 
 ID=9995
-TEXT=[ゴールデンシタデル]空中広場
+[ゴールデンシタデル]空中広場
 
 ID=10011
-TEXT=-
+-
 
 ID=10012
-TEXT=-
+-
 
 ID=10021
-TEXT=-
+-
 
 ID=10022
-TEXT=-
+-
 
 ID=10023
-TEXT=-
+-
 
 ID=10024
-TEXT=-
+-
 
 ID=10025
-TEXT=-
+-
 
 ID=10031
 スタリーフォレスト連合加入のためのテストが\n行われる基礎体力訓練場で\n軽い戦闘テストが進行できる。
@@ -4250,10 +4259,10 @@ ID=10034
 狂気のヴェシ「エドガー」が\n国立病院内に自分だけのサーカス団\nを作り、人々を脅かしている。
 
 ID=10035
-TEXT=-
+-
 
 ID=10036
-TEXT=-
+-
 
 ID=10041
 ネッドカンパニーが秘密研究を進めていた\n極秘研究施設。現在はある事故により\n施設全体が閉鎖されている。
@@ -4703,7 +4712,7 @@ ID=10502
 闇の下に
 
 ID=10503
-揺れる地
+揺れる大地
 
 ID=10504
 地中の太陽
@@ -5153,7 +5162,7 @@ ID=16804
 取引所出品
 
 ID=16805
-TEXT={0}/{1}/{2}\n{3}：{4}
+{0}/{1}/{2}\n{3}：{4}
 
 ID=16806
 アイテム取引所
@@ -5252,10 +5261,10 @@ ID=16837
 回収
 
 ID=16838
-TEXT={0}時間
+{0}時間
 
 ID=16839
-TEXT={0}日
+{0}日
 
 ID=16840
 全キャラクター
@@ -5288,7 +5297,7 @@ ID=16849
 ギャラクシー
 
 ID=16850
-TEXT={0}個
+{0}個
 
 ID=16851
 統合検索は検索オプションを設定できません。
@@ -5323,6 +5332,21 @@ ID=16860
 ID=16861
 全体
 
+ID=16862
+販売手数料
+
+ID=16863
+登録手数料
+
+ID=16864
+最近の出品リスト
+
+ID=16865
+最近の出品リストは10個まで表示されます。
+
+ID=16866
+VIPシステム情報
+
 ID=18000
 強化回数を使い切ったため、これ以上強化できません。
 
@@ -5339,7 +5363,7 @@ ID=18004
 破壊状態の装備が復元されました。
 
 ID=18005
-TEXT={0}を復元しますか？\n復元回数は{1}回です。
+{0}を復元しますか？\n復元回数は{1}回です。
 
 ID=18006
 復元
@@ -5408,7 +5432,7 @@ ID=18029
 シーリングスタンパー
 
 ID=18030
-TEXT={0}を封印しますか？\n封印回数は{1}回です。
+{0}を封印しますか？\n封印回数は{1}回です。
 
 ID=18031
 封印回数
@@ -5432,7 +5456,7 @@ ID=18037
 残り時間
 
 ID=18038
-TEXT=-
+-
 
 ID=18039
 分解完了
@@ -5447,16 +5471,16 @@ ID=18042
 出品数
 
 ID=18043
-TEXT={0}、{1}、{2}が出品されます。続行しますか？
+{0}、{1}、{2}が出品されます。続行しますか？
 
 ID=18044
-TEXT={0}日
+{0}日
 
 ID=18045
-TEXT={0}時間
+{0}時間
 
 ID=18046
-TEXT={0}分
+{0}分
 
 ID=18047
 1分以内
@@ -5474,10 +5498,10 @@ ID=18051
 期間制アイテム「{0}」が返却処理されました。詳細はメールを確認してください。
 
 ID=18052
-TEXT={0}年{1}月{2}日{3}時{4}分
+{0}年{1}月{2}日{3}時{4}分まで
 
 ID=18053
-TEXT=({0}日)
+({0}日)
 
 ID=18054
 期間制アイテム
@@ -5486,37 +5510,37 @@ ID=18055
 期間設定
 
 ID=18056
-TEXT=<font color='#47C83E'>ビット</font>、<font color='#4374D9'>キロ</font>等級ブローチ合成可能
+<font color='#47C83E'>ビット</font>、<font color='#4374D9'>キロ</font>等級ブローチ合成可能
 
 ID=18057
-TEXT=<font color='#E0B94F'>メガ</font>、<font color='#F15F5F'>ギガ</font>、<font color='#8041D9'>テラ</font>等級ブローチ合成可能
+<font color='#E0B94F'>メガ</font>、<font color='#F15F5F'>ギガ</font>、<font color='#8041D9'>テラ</font>等級ブローチ合成可能
 
 ID=18058
-TEXT={0}の強化回数を{1}回減少させることができます。\n確認を押すと、強化を実行した回数が減少し、{2}が1個消費されます。\n\n強化回数を減少させますか？
+{0}の強化回数を{1}回減少させます。\n確認を押すと、強化回数が減少し、{2}を1個消費します。\n\n強化回数を減少させますか？
 
 ID=18059
-TEXT={0}の封印回数を{1}回減少させることができます。\n確認を押すと、封印を実行した回数が減少し、{2}が1個消費されます。\n\n封印回数を減少させますか？
+{0}の封印回数を{1}回減少させます。\n確認を押すと、封印回数が減少し、{2}を1個消費します。\n\n封印回数を減少させますか？
 
 ID=18060
-TEXT={0}の復元回数を{1}回減少させることができます。\n確認を押すと、復元を実行した回数が減少し、{2}が1個消費されます。\n\n復元回数を減少させますか？
+{0}の復元回数を{1}回減少させます。\n確認を押すと、復元回数が減少し、{2}を1個消費します。\n\n復元回数を減少させますか？
 
 ID=18061
-TEXT={0}の強化回数が{1}減少しました。
+{0}の強化回数が{1}減少しました。
 
 ID=18062
-TEXT={0}の封印回数が{1}減少しました。
+{0}の復元回数が{1}減少しました。
 
 ID=18063
-TEXT={0}の復元回数が{1}減少しました。
+{0}の封印回数が{1}減少しました。
 
 ID=18064
-TEXT={0}：{1}入場回数が残っているため使用できません。
+{0}：{1}入場回数が残っているため使用できません。
 
 ID=18068
 入場情報が初期化されました。{0}：{1}へ入場可能です。
 
 ID=18069
-TEXT={0}を使用して入力したキャラクター名に変更しますか？確認を押すと、{0}を1個消費します。
+{0}を使用して入力したキャラクター名に変更しますか？確認を押すと、{0}を1個消費します。
 
 ID=18070
 キャラクター名を変更しました。再ログイン時、変更したキャラクター名が表示されます。
@@ -5537,10 +5561,10 @@ ID=18075
 耐久度が減少したアイテムは封印できません。
 
 ID=18076
-TEXT=<font color='#FFFFFF'>(シールデリーター</font><font color='#6799FF'>使用可能</font><font color='#FFFFFF'>)</font>
+<font color='#FFFFFF'>(シールデリーター</font><font color='#6799FF'>使用可能</font><font color='#FFFFFF'>)</font>
 
 ID=18077
-TEXT=<font color='#FFFFFF'>(シールデリーター</font><font color='#F15F5F'>使用不可</font><font color='#FFFFFF'>)</font>
+<font color='#FFFFFF'>(シールデリーター</font><font color='#F15F5F'>使用不可</font><font color='#FFFFFF'>)</font>
 
 ID=18078
 一度に販売できる個数は10個までです。
@@ -5570,7 +5594,7 @@ ID=18179
 復元回数
 
 ID=18180
-ブローチスロット最大{0}個付与
+ブローチソケット{0}個付与
 
 ID=18181
 着用ブローチ情報
@@ -5588,79 +5612,79 @@ ID=18185
 ファミリアソケット拡張可能
 
 ID=19000
-TEXT=<font color='#47C83E'>攻撃力1%/攻撃失敗時ダメージ増加1%</font>
+<font color='#47C83E'>攻撃力1%/攻撃失敗時ダメージ増加1%</font>
 
 ID=19001
-TEXT=<font color='#4374D9'>攻撃力2%/攻撃失敗時ダメージ増加2%</font>
+<font color='#4374D9'>攻撃力2%/攻撃失敗時ダメージ増加2%</font>
 
 ID=19002
-TEXT=<font color='#E0B94F'>攻撃力3%/攻撃失敗時ダメージ増加3%</font>
+<font color='#E0B94F'>攻撃力3%/攻撃失敗時ダメージ増加3%</font>
 
 ID=19003
-TEXT=<font color='#F15F5F'>攻撃力4%/攻撃失敗時ダメージ増加4%/敵防御度貫通1%</font>
+<font color='#F15F5F'>攻撃力4%/攻撃失敗時ダメージ増加4%/敵防御度貫通1%</font>
 
 ID=19004
-TEXT=<font color='#8041D9'>攻撃力5%/攻撃失敗時ダメージ増加5%/敵防御度貫通2%</font>
+<font color='#8041D9'>攻撃力5%/攻撃失敗時ダメージ増加5%/敵防御度貫通2%</font>
 
 ID=19005
-TEXT=<font color='#47C83E'>防御度5%/HP4%増加</font>
+<font color='#47C83E'>防御度5%/HP4%増加</font>
 
 ID=19006
-TEXT=<font color='#4374D9'>防御度10%/HP8%増加</font>
+<font color='#4374D9'>防御度10%/HP8%増加</font>
 
 ID=19007
-TEXT=<font color='#E0B94F'>防御度15%/HP12%増加</font>
+<font color='#E0B94F'>防御度15%/HP12%増加</font>
 
 ID=19008
-TEXT=<font color='#F15F5F'>防御度20%/HP16%増加</font>
+<font color='#F15F5F'>防御度20%/HP16%増加</font>
 
 ID=19009
-TEXT=<font color='#8041D9'>防御度25%/HP20%増加</font>
+<font color='#8041D9'>防御度25%/HP20%増加</font>
 
 ID=19010
-TEXT=<font color='#47C83E'>回避度10/クリティカル抵抗1%</font>
+<font color='#47C83E'>回避度10/クリティカル抵抗1%</font>
 
 ID=19011
-TEXT=<font color='#4374D9'>回避度20/クリティカル抵抗2%</font>
+<font color='#4374D9'>回避度20/クリティカル抵抗2%</font>
 
 ID=19012
-TEXT=<font color='#E0B94F'>回避度30/クリティカル抵抗3%</font>
+<font color='#E0B94F'>回避度30/クリティカル抵抗3%</font>
 
 ID=19013
-TEXT=<font color='#F15F5F'>回避度40/クリティカル抵抗4%/ダメージ減少4%</font>
+<font color='#F15F5F'>回避度40/クリティカル抵抗4%/ダメージ減少4%</font>
 
 ID=19014
-TEXT=<font color='#8041D9'>回避度50/クリティカル抵抗5%/ダメージ減少5%</font>
+<font color='#8041D9'>回避度50/クリティカル抵抗5%/ダメージ減少5%</font>
 
 ID=19015
-TEXT=<font color='#47C83E'>最大スタミナ5/攻撃速度1%</font>
+<font color='#47C83E'>最大スタミナ5/攻撃速度1%</font>
 
 ID=19016
-TEXT=<font color='#4374D9'>最大スタミナ8/攻撃速度2%</font>
+<font color='#4374D9'>最大スタミナ8/攻撃速度2%</font>
 
 ID=19017
-TEXT=<font color='#E0B94F'>最大スタミナ11/攻撃速度3%</font>
+<font color='#E0B94F'>最大スタミナ11/攻撃速度3%</font>
 
 ID=19018
-TEXT=<font color='#F15F5F'>最大スタミナ14/攻撃速度4%/移動速度3%</font>
+<font color='#F15F5F'>最大スタミナ14/攻撃速度4%/移動速度3%</font>
 
 ID=19019
-TEXT=<font color='#8041D9'>最大スタミナ17/攻撃速度5%/移動速度4%</font>
+<font color='#8041D9'>最大スタミナ17/攻撃速度5%/移動速度4%</font>
 
 ID=19020
-TEXT=<font color='#47C83E'>命中度10/クリティカルダメージ増加600</font>
+<font color='#47C83E'>命中度10/クリティカルダメージ増加600</font>
 
 ID=19021
-TEXT=<font color='#4374D9'>命中度20/クリティカルダメージ増加700</font>
+<font color='#4374D9'>命中度20/クリティカルダメージ増加700</font>
 
 ID=19022
-TEXT=<font color='#E0B94F'>命中度30/クリティカルダメージ増加800</font>
+<font color='#E0B94F'>命中度30/クリティカルダメージ増加800</font>
 
 ID=19023
-TEXT=<font color='#F15F5F'>命中度40/クリティカルダメージ増加900/クリティカル率1%</font>
+<font color='#F15F5F'>命中度40/クリティカルダメージ増加900/クリティカル率1%</font>
 
 ID=19024
-TEXT=<font color='#8041D9'>命中度50/クリティカルダメージ増加1000/クリティカル率2%</font>
+<font color='#8041D9'>命中度50/クリティカルダメージ増加1000/クリティカル率2%</font>
 
 ID=19025
 テキスト_タイプ2_髪ビットブローチセット_オプション
@@ -5744,7 +5768,7 @@ ID=20011
 「挨拶」を使用しました。
 
 ID=20012
-TEXT={0}が挨拶しています。
+{0}が挨拶しています。
 
 ID=20020
 笑う
@@ -5753,7 +5777,7 @@ ID=20021
 「笑う」を使用しました。
 
 ID=20022
-TEXT={0}が笑っています。
+{0}が笑っています。
 
 ID=20030
 悲しむ
@@ -5762,7 +5786,7 @@ ID=20031
 「泣く」を使用しました。
 
 ID=20032
-TEXT={0}が泣いています。
+{0}が泣いています。
 
 ID=20040
 応援
@@ -5771,7 +5795,7 @@ ID=20041
 「応援」を使用しました。
 
 ID=20042
-TEXT={0}が応援しています。
+{0}が応援しています。
 
 ID=20050
 座る
@@ -5780,7 +5804,7 @@ ID=20051
 「座る」を使用しました。
 
 ID=20052
-TEXT={0}が座ります。
+{0}が座ります。
 
 ID=20060
 踊る
@@ -5789,7 +5813,7 @@ ID=20061
 「踊る」を使用しました。
 
 ID=20062
-TEXT={0}が踊っています。
+{0}が踊っています。
 
 ID=20070
 挑発
@@ -5798,7 +5822,7 @@ ID=20071
 「挑発」を使用しました。
 
 ID=20072
-TEXT={0}が挑発しています。
+{0}が挑発しています。
 
 ID=20080
 自慢
@@ -5807,7 +5831,7 @@ ID=20081
 「自慢」を使用しました。
 
 ID=20082
-TEXT={0}が自慢しています。
+{0}が自慢しています。
 
 ID=20300
 このCHは非常に混雑しているため、設置できません。他のCHをご利用ください。
@@ -5852,10 +5876,10 @@ ID=20402
 休憩中…
 
 ID=21000
-TEXT={0}の好感度が{1}増加しました。
+{0}の好感度が{1}増加しました。
 
 ID=21001
-TEXT={0}に対する顧客等級Lv{1}を達成しました。段階による特典が付与されます。
+{0}に対する顧客等級Lv{1}を達成しました。段階による特典が付与されます。
 
 ID=21002
 顧客等級[Lv{0}]
@@ -5870,10 +5894,10 @@ ID=21005
 好感度
 
 ID=21006
-TEXT={0}
+{0}
 
 ID=21007
-TEXT=- {0} x{1}
+- {0} x{1}
 
 ID=21008
 修理費用が{0}{1}減少
@@ -5897,7 +5921,7 @@ ID=21014
 特殊アイテム[{0}]購入可能
 
 ID=21015
-TEXT={0}が販売する特殊アイテムの一日購入個数が2倍に増加
+{0}が販売する特殊アイテムの一日購入個数が2倍に増加
 
 ID=21016
 乗り物利用時、30分間攻撃力/防御度が{0}{1}増加
@@ -5945,13 +5969,13 @@ ID=21030
 一日購入回数超過
 
 ID=21031
-TEXT={0}との交流で1日に獲得できる好感度を全て獲得したため、これ以上蓄積されません。\n[午前9:00初期化]
+{0}との交流で1日に獲得できる好感度を全て獲得したため、これ以上蓄積されません。\n[午前9:00初期化]
 
 ID=21032
 FPが不足しているため、メイズに入場できません。
 
 ID=21033
-TEXT={0}のFPが不足しているため、メイズに入場できません。
+{0}のFPが不足しているため、メイズに入場できません。
 
 ID=21034
 FPが足りないため、このエピソードではパーティ検索機能を使用できません。
@@ -6101,7 +6125,7 @@ ID=21529
 ショートカットキー設定
 
 ID=21530
-TEXT={0}/{1}
+{0}/{1}
 
 ID=21531
 フレンド装備選択
@@ -6110,13 +6134,13 @@ ID=21532
 装備
 
 ID=21533
-TEXT={0}({1})が解除され、消滅しました。新しい支援装備を着用できます。
+{0}({1})が解除され、消滅しました。新しい支援装備を着用できます。
 
 ID=21534
 メイズ離脱によりサポーターの召喚が解除されました。
 
 ID=21535
-TEXT={0}の召喚が解除されました。
+{0}の召喚が解除されました。
 
 ID=21536
 特性
@@ -6275,7 +6299,7 @@ ID=22031
 円
 
 ID=22032
-TEXT={0} pt
+{0} pt
 
 ID=22033
 固定
@@ -6866,7 +6890,7 @@ ID=22635
 NPCセリフ
 
 ID=22636
-ストーリーセリフ
+シネマ
 
 ID=22637
 システムメッセージ色
@@ -6995,10 +7019,10 @@ ID=22678
 自動アイテム回収
 
 ID=22679
-TEXT={0}キーとの組み合わせは設定できません。
+{0}キーとの組み合わせは設定できません。
 
 ID=22680
-TEXT={0}キーと組み合わせた設定をしてください。
+{0}キーと組み合わせた設定をしてください。
 
 ID=23000
 基本FPが全回復しました。
@@ -7235,7 +7259,7 @@ ID=24302
 鉱石
 
 ID=24303
-魂
+特殊
 
 ID=24304
 生地
@@ -8198,16 +8222,16 @@ ID=25300
 ソウルゲージ
 
 ID=25301
-TEXT=[ハル]のSGは、攻撃成功時に回復します。
+[ハル]のSGは、攻撃成功時に回復します。
 
 ID=25302
-TEXT=[アーウィン]のSGは、攻撃成功またはスキルを連携して使用時に回復します。
+[アーウィン]のSGは、攻撃成功またはスキルを連携して使用時に回復します。
 
 ID=25303
-TEXT=[リリー]のSGは、攻撃成功時に回復し、一定の数値を越えると狂気モードになります。
+[リリー]のSGは、攻撃成功時に回復し、一定の数値を越えると狂気モードになります。
 
 ID=25305
-TEXT=[ステラ]のSGは自動で素早く回復し、SGが少ないほど回復量が増加します。
+[ステラ]のSGは自動で素早く回復し、SGが少ないほど回復量が増加します。
 
 ID=25311
 攻撃成功時回復
@@ -8768,13 +8792,13 @@ ID=26336
 攻撃を受けた時、20%の確率で6秒間スーパーアーマー効果
 
 ID=26337
-回避時、ダメージ減少{0}%
+回避時、5秒間ダメージ減少{0}%
 
 ID=26338
-ダメージ減少：エアリアル{0}%
+空中でダメージを受けた時、5秒間ダメージ減少{0}%
 
 ID=26339
-ダメージ減少：ダウン{0}%
+ダウン状態時、5秒間ダメージ減少{0}%
 
 ID=26340
 攻撃を受けた時にHPが50%未満の場合、10%の確率で5秒間防御度{0}%増加
@@ -8984,7 +9008,7 @@ ID=28055
 ギルド委任が完了しました。\n前マスター：{0}\n委任者：{1}
 
 ID=28056
-TEXT={0}から{1}にギルドマスターが委任されました。
+{0}から{1}にギルドマスターが委任されました。
 
 ID=28057
 職位入力
@@ -8993,28 +9017,28 @@ ID=28058
 職位解除
 
 ID=28059
-TEXT={0}の職位を解除しますか？
+{0}の職位を解除しますか？
 
 ID=28060
-TEXT={0}が新たに作成されました。
+{0}が新たに作成されました。
 
 ID=28061
-TEXT={0}が{1}に修正されました。
+{0}が{1}に修正されました。
 
 ID=28062
-TEXT={0}が{1}に任命されました。
+{0}が{1}に任命されました。
 
 ID=28063
-TEXT={0}の職位が解除されました。
+{0}の職位が解除されました。
 
 ID=28064
-TEXT={0}の権限を保存しますか？
+{0}の権限を保存しますか？
 
 ID=28065
 権限保存
 
 ID=28066
-TEXT={0}の権限設定が完了しました。
+{0}の権限設定が完了しました。
 
 ID=28067
 作成完了時間になっていません。\n{0}分後に作成できます。
@@ -9041,7 +9065,7 @@ ID=28074
 ギルド告知中止
 
 ID=28075
-TEXT={0}分後に掲示板を作成できます。
+{0}分後に掲示板を作成できます。
 
 ID=28076
 ギルド掲示板作成不可
@@ -9050,31 +9074,31 @@ ID=28077
 すでに{0}は他のギルドに加入しています。
 
 ID=28078
-TEXT={0}は他のギルド招待要請を確認中です。
+{0}は他のギルド招待要請を確認中です。
 
 ID=28079
 すでに{0}にはギルド招待要請を送っています。
 
 ID=28080
-TEXT={0}は現在ログインしていません。
+{0}は現在ログインしていません。
 
 ID=28081
-TEXT={0}は現在町にいません。
+{0}は現在町にいません。
 
 ID=28082
 ギルドに加入できるメンバー数を超過しました。
 
 ID=28083
-TEXT={0}は脱退ペナルティ適用中のため、ギルドに加入できません。
+{0}は脱退ペナルティ適用中のため、ギルドに加入できません。
 
 ID=28084
-TEXT={0}から[{1}]への加入要請が届きました。承諾しますか？\n承諾時間：{2}秒
+{0}から[{1}]への加入要請が届きました。承諾しますか？\n承諾時間：{2}秒
 
 ID=28085
 ギルド招待案内
 
 ID=28086
-TEXT={0}がギルド招待を拒否しました。
+{0}がギルド招待を拒否しました。
 
 ID=28087
 ギルド招待拒否案内
@@ -9086,7 +9110,7 @@ ID=28089
 ギルド加入案内
 
 ID=28090
-TEXT={0}に加入申請しますか？
+{0}に加入申請しますか？
 
 ID=28091
 ギルド加入申請
@@ -9104,7 +9128,7 @@ ID=28095
 ギルド脱退ペナルティ
 
 ID=28096
-TEXT={0}のギルド加入申請を承諾しますか？
+{0}のギルド加入申請を承諾しますか？
 
 ID=28097
 ギルド加入可否
@@ -9116,7 +9140,7 @@ ID=28099
 ギルド加入不可
 
 ID=28100
-TEXT={0}のギルド加入申請を拒否しますか？
+{0}のギルド加入申請を拒否しますか？
 
 ID=28101
 ギルド拒否可否
@@ -9128,19 +9152,19 @@ ID=28103
 ギルド加入申請超過
 
 ID=28104
-TEXT={0}日前
+{0}日前
 
 ID=28105
-TEXT={0}時間前
+{0}時間前
 
 ID=28106
-TEXT={0}分前
+{0}分前
 
 ID=28107
-TEXT={0}に加入しました。
+{0}に加入しました。
 
 ID=28108
-TEXT={0}がギルド[{1}]に加入しました。
+{0}がギルド[{1}]に加入しました。
 
 ID=28109
 ギルドを脱退する場合、現在のギルドと関連する情報が全て初期化され、1日間ギルドに加入できません。\n脱退しますか？
@@ -9155,28 +9179,28 @@ ID=28112
 ギルド脱退完了
 
 ID=28113
-TEXT={0}から脱退しました。
+{0}から脱退しました。
 
 ID=28114
-TEXT={0}がギルドから脱退しました。
+{0}がギルドから脱退しました。
 
 ID=28115
-TEXT={0}をギルドから追放しますか？
+{0}をギルドから追放しますか？
 
 ID=28116
 ギルド追放案内
 
 ID=28117
-TEXT={0}をギルドから追放しました。
+{0}をギルドから追放しました。
 
 ID=28118
 ギルド追放完了
 
 ID=28119
-TEXT={0}がギルドから追放されました。
+{0}がギルドから追放されました。
 
 ID=28120
-TEXT={0}から追放されました。
+{0}から追放されました。
 
 ID=28121
 追放権限を持つプレイヤー同士では追放できません。
@@ -9395,13 +9419,13 @@ ID=28192
 新入り
 
 ID=28193
-TEXT={0}日
+{0}日
 
 ID=28194
-TEXT={0}時間
+{0}時間
 
 ID=28195
-TEXT={0}分
+{0}分
 
 ID=28196
 ギルド詳細情報
@@ -9443,7 +9467,7 @@ ID=28208
 ギルド解散ペナルティにより、{0}時間ギルドを設立できません。
 
 ID=28209
-TEXT=<権限のないキャラクターは作成できません>
+<権限のないキャラクターは作成できません>
 
 ID=28210
 募集告知
@@ -9584,7 +9608,7 @@ ID=29036
 相手のマイルーム入場案内
 
 ID=29037
-TEXT={0}のマイルームに入場しますか？
+{0}のマイルームに入場しますか？
 
 ID=29038
 ランダムマイルーム入場案内
@@ -9596,7 +9620,7 @@ ID=29040
 マイルーム入場不可案内
 
 ID=29041
-TEXT={0}のマイルームには入場できません。
+{0}のマイルームには入場できません。
 
 ID=29042
 設定可否案内
@@ -9614,13 +9638,13 @@ ID=29046
 マイルーム強制退場対象案内
 
 ID=29047
-TEXT={0}をマイルームから追放しますか？
+{0}をマイルームから追放しますか？
 
 ID=29048
 マイルーム追放案内
 
 ID=29049
-TEXT={0}のマイルームから追放されました。
+{0}のマイルームから追放されました。
 
 ID=29050
 配置モード変更案内
@@ -9659,7 +9683,7 @@ ID=29061
 使用
 
 ID=29062
-TEXT={0}が家具インベントリに保管されます。
+{0}が家具インベントリに保管されます。
 
 ID=29063
 町でのみ使用できます。
@@ -9707,16 +9731,16 @@ ID=31001
 パーティーの最大人員を超過しました。
 
 ID=31002
-TEXT=[{0}]は他のパーティーに加入しています。
+[{0}]は他のパーティーに加入しています。
 
 ID=31003
 現在[{0}]はメイズにいるため招待できません。
 
 ID=31004
-TEXT=[{0}]が招待を拒否しました。
+[{0}]が招待を拒否しました。
 
 ID=31005
-TEXT=[{0}]は検索できないかログイン状態ではありません。
+[{0}]は検索できないかログイン状態ではありません。
 
 ID=31006
 すでにパーティー招待をしています。
@@ -9740,31 +9764,31 @@ ID=31012
 パーティーの最大人員を超過しました。
 
 ID=31013
-TEXT=[{0}]がパーティー招待を拒否しました。
+[{0}]がパーティー招待を拒否しました。
 
 ID=31014
-TEXT=[{0}]がパーティーに合流しました。
+[{0}]がパーティーに合流しました。
 
 ID=31015
 パーティーに合流しました。
 
 ID=31016
-TEXT=[{0}]がパーティーから追放されました。
+[{0}]がパーティーから追放されました。
 
 ID=31017
 パーティーから追放されました。
 
 ID=31018
-TEXT=[{0}]がパーティーから離脱しました。
+[{0}]がパーティーから離脱しました。
 
 ID=31019
 パーティーを離脱しました。
 
 ID=31020
-TEXT=[{0}]がパーティーリーダーになりました。
+[{0}]がパーティーリーダーになりました。
 
 ID=31021
-TEXT=[{0}]がパーティーリーダーを委任しました。
+[{0}]がパーティーリーダーを委任しました。
 
 ID=31022
 時間制限により、[{0}]がパーティーから追放されました。
@@ -9794,10 +9818,10 @@ ID=31030
 今の状態では途中合流できません。
 
 ID=31031
-TEXT={0} {1} {2}は第6区域にいるため、入場できません。
+{0} {1} {2}は第6区域にいるため、入場できません。
 
 ID=31032
-TEXT={0}は招待不可エリアにいます。
+{0}は招待不可エリアにいます。
 
 ID=31033
 ここではパーティーには合流できません。
@@ -9809,7 +9833,7 @@ ID=31035
 今は{0}を追放できません。
 
 ID=31036
-TEXT={0} {1} {2}は同じ町でなく別の場所でログアウトしたため、メイズに入場できません。
+{0} {1} {2}は同じ町でなく別の場所でログアウトしたため、メイズに入場できません。
 
 ID=31037
 メンバーの{0}が、メイズ入場を拒否しました。
@@ -9938,7 +9962,7 @@ ID=31078
 募集登録時間
 
 ID=31079
-TEXT={0}分
+{0}分
 
 ID=31080
 申請
@@ -10058,10 +10082,10 @@ ID=31118
 登録を解除しますか？
 
 ID=31119
-TEXT=<パーティー募集>{0}/目的：{1}/パーティーリーダー：{2}/メンバー：{3}/4
+<パーティー募集>{0}/目的：{1}/パーティーリーダー：{2}/メンバー：{3}/4
 
 ID=31120
-TEXT={0}秒後にパーティー申請ができます。
+{0}秒後にパーティー申請ができます。
 
 ID=31121
 待機登録が完了しました。
@@ -10130,7 +10154,7 @@ ID=31142
 メンバーの応答を待っています。\n(再挑戦したくない場合は「中止」をクリック)
 
 ID=31143
-TEXT={0}がメイズ再開申請を拒否しました。
+{0}がメイズ再開申請を拒否しました。
 
 ID=31144
 メイズに再挑戦しますか？
@@ -10142,7 +10166,7 @@ ID=31146
 FPが不足しているため、メイズに再挑戦できません。
 
 ID=31147
-TEXT={0}のFPが不足しているため、メイズに再挑戦できません。
+{0}のFPが不足しているため、メイズに再挑戦できません。
 
 ID=31148
 メイズ再挑戦までの待機時間：{0}秒
@@ -10157,7 +10181,7 @@ ID=31151
 目的
 
 ID=31152
-TEXT={0}：{1}
+{0}：{1}
 
 ID=31153
 オートマッチングにより構成されたパーティーであるため、[{0}]分[{1}]秒間はオートマッチングを使用できません。
@@ -10538,13 +10562,13 @@ ID=33001
 少しずつ、あなたとの距離が縮まるのを感じます。\n遅かれ早かれ出会うことになりますが、\n待つ時間が長いほど、出会いの瞬間というのはすばらしく輝くものです。\nドラマチックな状況を演出するために、ちょっとしたゲームを準備いたしました。\n私がいる部屋の前へは、今のあなたの力では辿り着くことはできません。\nしかし、私の部下が持っているバッジを身につけたなら、 \n明け方の森の中を歩くかのごとく通過できるよう演出しました。\nお急ぎください。\nあなたを待ち焦がれるこの気持ちが、憎悪に変わるその前に…。\n-道化師エドガーより-
 
 ID=33002
-TEXT=-レポート：アマリリス-\n\n1．SJ-DS-01にソウルエナジー耐性機能を追加。状態はとても不安定。\n\n2．SJ-DS-01は、ソウルエナジーの宿主である人間に寄生できることが判明。\n寄生対象となった人間は、ソウルエナジーを持続的に奪われ、皮膚が石膏のように固まってSJ-DS-01の食料となる。\n\n3．SJ-DS-01をディグニティースナッチャーと名付ける。ディグニティースナッチャーの内部に蓄えられているソウルエナジーの総量が存在することが明らかになる。しかし、平凡な人間は該当総量を全て満たす程のソウルエナジーを持ち合わせていない。現在の総量は測定不可。
+-レポート：アマリリス-\n\n1．SJ-DS-01にソウルエナジー耐性機能を追加。状態はとても不安定。\n\n2．SJ-DS-01は、ソウルエナジーの宿主である人間に寄生できることが判明。\n寄生対象となった人間は、ソウルエナジーを持続的に奪われ、皮膚が石膏のように固まってSJ-DS-01の食料となる。\n\n3．SJ-DS-01をディグニティースナッチャーと名付ける。ディグニティースナッチャーの内部に蓄えられているソウルエナジーの総量が存在することが明らかになる。しかし、平凡な人間は該当総量を全て満たす程のソウルエナジーを持ち合わせていない。現在の総量は測定不可。
 
 ID=33003
-TEXT=-レポート：テンペスト-\n1. 精密な機械で構成されている。ラピッドフレイムの技術レベルを根拠に検討した結果、ラピッドフレイム自体では製作不可能であるという結論。外部の支援があったと判断。\n\n2. 武装は、高密度のデザイアエナジーを発射する主砲。\n\n3. 特殊ワイヤーと握力700kgの爪が特殊武装として装着。\nしかし、武装としての性能は期待できない水準。\n\n4. 特殊ワイヤーは、ソウルエナジーの保管及び移動を可能にした特殊材料で構成。
+-レポート：テンペスト-\n1. 精密な機械で構成されている。ラピッドフレイムの技術レベルを根拠に検討した結果、ラピッドフレイム自体では製作不可能であるという結論。外部の支援があったと判断。\n\n2. 武装は、高密度のデザイアエナジーを発射する主砲。\n\n3. 特殊ワイヤーと握力700kgの爪が特殊武装として装着。\nしかし、武装としての性能は期待できない水準。\n\n4. 特殊ワイヤーは、ソウルエナジーの保管及び移動を可能にした特殊材料で構成。
 
 ID=33004
-TEXT=-ある雲った日。\nあの子の暴走は予想していた。むしろ、それを「災い」呼ぶ者たちを理解できなかった。我々は罪を犯し、それを償う時がやって来た…ただそれだけだ。他の子らの代わりに、裁きを下しに来たのだ。それがもし復讐という名を持っていたとしても、私は甘んじて受け入れる。\n\n-ある雪の日。\nあの子は愚かな人間たちによって再び眠りについた。彼らは、あの子が眠れば全て終わるという甘い考えに染まっていた。ネッドカンパニーが我々を助けてくれるなどという愚かな考えに腹が立った。彼らはきっと、真実を知る者全てを葬り去るだろう。何事もなかったかのように。\n\n-ある晴れた日。\nこの施設の閉鎖が決まり、首脳部を除く全ての人間はこの地獄へ取り残されることになった。おそらく、そう長くは保たないだろう。罪深き我々の最後にはお似合いだ。…不思議な気分だ。あれほど怖がっていた死が、今はまったく怖くない。
+-ある雲った日。\nあの子の暴走は予想していた。むしろ、それを「災い」呼ぶ者たちを理解できなかった。我々は罪を犯し、それを償う時がやって来た…ただそれだけだ。他の子らの代わりに、裁きを下しに来たのだ。それがもし復讐という名を持っていたとしても、私は甘んじて受け入れる。\n\n-ある雪の日。\nあの子は愚かな人間たちによって再び眠りについた。彼らは、あの子が眠れば全て終わるという甘い考えに染まっていた。ネッドカンパニーが我々を助けてくれるなどという愚かな考えに腹が立った。彼らはきっと、真実を知る者全てを葬り去るだろう。何事もなかったかのように。\n\n-ある晴れた日。\nこの施設の閉鎖が決まり、首脳部を除く全ての人間はこの地獄へ取り残されることになった。おそらく、そう長くは保たないだろう。罪深き我々の最後にはお似合いだ。…不思議な気分だ。あれほど怖がっていた死が、今はまったく怖くない。
 
 ID=33005
 Model Name：NS_EX_008\nName：Cleany\n\n1. その名の通り掃除専用ロボット。私物に込められたソウルエナジーを判別し、分別収集及び紛失物捜索に適する。\n\n2. 現在は動力喪失状態のため、強制スリープモードに入っている。エナジーを3回に分けて順番に注入すれば、自らスリープモードを解除し動き出す。\n(動作までに約24時間所要)\n\n3. コアが破壊されたり消失した場合、コアを取り換えた後に使用可能な増幅装置をコアのあった位置へ設置すると、コアが復活する。\n(注意：動力源が1%でも残っている必要あり)\n\n数少ないヒントでここまで至った方に、まずは感謝の意を表します。\nこのルインフォートレスで「人間」以外の者に罪はありません。\nこのロボットもまた何の罪もない存在です。\n「HELP ME」という文字に反応し、ここまで来たあなたなら、きっとこの子を受け入れてくれるはずです。よろしくお願いします。 \nそして、クリーニー。どうか、幸せに…。
@@ -10696,6 +10720,12 @@ ID=33547
 ID=33548
 亡霊の魂
 
+ID=33549
+추락하는 조화
+
+ID=33550
+새벽 빛의 영광
+
 ID=35000
 一般
 
@@ -10754,28 +10784,28 @@ ID=35104
 あ
 
 ID=35105
-TEXT={0}のダメージを与えました。
+{0}のダメージを与えました。
 
 ID=35106
-TEXT={0}のダメージを受けました。
+{0}のダメージを受けました。
 
 ID=35107
 HPを{0}回復しました。
 
 ID=35108
-TEXT={0}の能力値が{1}に変更されました。
+{0}の能力値が{1}に変更されました。
 
 ID=35109
-TEXT={0}が力尽きました。
+{0}が力尽きました。
 
 ID=35110
-TEXT={0}を使用しました。
+{0}を使用しました。
 
 ID=35111
-TEXT={0}の効果が付与されました。
+{0}の効果が付与されました。
 
 ID=35112
-TEXT={0}がLv{1}になりました。
+{0}がLv{1}になりました。
 
 ID=35113
 SPを{0}獲得しました。
@@ -10787,16 +10817,16 @@ ID=35115
 チャットマナー違反ペナルティにより60秒間チャットできません。\n(残り：{0}秒)
 
 ID=35200
-TEXT={0)に勝利して、BPを{1}獲得しました。
+{0)に勝利して、BPを{1}獲得しました。
 
 ID=35201
-TEXT={0)に敗北して、BPが{1}減少しました。
+{0)に敗北して、BPが{1}減少しました。
 
 ID=35202
 BPを{0}獲得しました。
 
 ID=35203
-TEXT={0}を{1}BPで購入しました。
+{0}を{1}BPで購入しました。
 
 ID=36000
 選択
@@ -10829,7 +10859,7 @@ ID=36009
 即入場
 
 ID=38000
-TEXT={0}秒
+{0}秒
 
 ID=38001
 EXP獲得量{0}%増加
@@ -10988,13 +11018,13 @@ ID=38540
 EXP獲得量100%増加
 
 ID=39950
-TEXT=<font color='#C6C5B6'>{0}</font>
+<font color='#C6C5B6'>{0}</font>
 
 ID=39951
-TEXT=<font color='#10FF97'>{0}：{1}増加</font>
+<font color='#10FF97'>{0}：{1}増加</font>
 
 ID=39952
-TEXT=<font color='#C62424'>{0}：{1}減少</font>
+<font color='#C62424'>{0}：{1}減少</font>
 
 ID=40001
 カバンを開けてオペレーションデバイスを入手してください。
@@ -11696,7 +11726,7 @@ ID=40403
 トラップを回避しながら該当区域を素早く通り抜けてください。一定時間内に通過すると報酬を獲得できます。
 
 ID=40404
-中央の赤いテンプテーションストーンにダメージを与えるためには、青いテンプテーションストーンを全て破壊する必要があります。
+中央の赤いテンプテーションストーンにダメージを与えるためには、青いテンプテーションストーンと召喚された敵を全て殲滅する必要があります。
 
 ID=40405
 エドガーを倒してください。エドガーを倒さないと敵が召喚されます。
@@ -11714,7 +11744,7 @@ ID=40409
 中央の赤いテンプテーションストーンを破壊すると次のエリアに移動できます。\n青いテンプテーションストーンが破壊されました。15秒間、赤いテンプテーションストーンを攻撃できます。
 
 ID=40410
-青いテンプテーションストーンが全て破壊されました。\n赤いテンプテーションストーンを攻撃できます。
+青いテンプテーションストーンと召喚された全ての敵を殲滅しました。\n赤いテンプテーションストーンを攻撃できます。
 
 ID=40411
 エドガーを倒すまで、順次敵が召喚されます。\n時間が経つにつれ、より強力な敵が召喚されます。
@@ -11964,6 +11994,57 @@ ID=40515
 
 ID=40516
 間もなくエレベーターが止まります。
+
+ID=40601
+4개 지역의 몬스터를 모두 처치하면 종말의 관으로 이동 가능한 포탈이 활성화 됩니다.
+
+ID=40602
+봉인 크리스탈을 사용하면 전투가 시작됩니다.
+
+ID=40603
+잠시 후 적들이 등장합니다. 모든 적을 처치하면 이터니티가 등장합니다.
+
+ID=40604
+잠시 후 적들이 등장합니다. 모든 적을 처치하면 저거노트가 등장합니다.
+
+ID=40605
+잠시 후 적들이 등장합니다. 모든 적을 처치하면 아포칼립스 등장합니다.
+
+ID=40606
+잠시 후 적들이 등장합니다. 모든 적을 처치하면 판데모니아가 등장합니다.
+
+ID=40607
+영겁의 관을 클리어 하였습니다. 전조의 관으로 이동하세요
+
+ID=40608
+격돌의 관을 클리어 하였습니다. 전조의 관으로 이동하세요
+
+ID=40609
+재앙의 관을 클리어 하였습니다. 전조의 관으로 이동하세요
+
+ID=40610
+혼돈의 관을 클리어 하였습니다. 전조의 관으로 이동하세요
+
+ID=40611
+종말의 관을 클리어 하였습니다. 전조의 관을 통해 디스트릭트로 이동할 수 있습니다.
+
+ID=40612
+보온장치를 사용하면 동상효과를 제거할 수 있습니다.
+
+ID=40613
+5초안에 4개의 보온장치를 모두 사용하게 되면 보온장치 주변에 빙결효과를 막아주는 지역이 생성됩니다.
+
+ID=40614
+재화의 틀 위에 생성된 플레임 크리스탈을 파괴하면 용암분출을 정지시킬 수 있습니다.
+
+ID=40615
+이터니티가 빛기둥을 통과하게 되면 방어력이 대폭 감소됩니다.
+
+ID=40616
+뇌전 효과는 주변 아군에게 강력한 피해를 줍니다. \n골드 오벨리스크를 이용하면 뇌전 효과를 제거할 수 있습니다.
+
+ID=40617
+판데믹 덴드로비움 처치 시 모든 중독상태를 해제할 수 있습니다.
 
 ID=42000
 ジャック・ザ・キング
@@ -12848,7 +12929,7 @@ ID=42293
 火炎戦隊ラピッドフレイム μ
 
 ID=42294
-紅炎戦隊ラピッドフレイム
+紅炎戦隊ラピッドフレイム μ
 
 ID=42295
 グルトン
@@ -12861,6 +12942,60 @@ ID=42297
 
 ID=42298
 夕陽の花ミリアム
+
+ID=42299
+グルトン軍団
+
+ID=42300
+暴食グルトン軍団
+
+ID=42301
+暴食の災厄グルトン軍団
+
+ID=42302
+グルトン軍団μ
+
+ID=42303
+暴食グルトン軍団μ
+
+ID=42304
+暴食の災厄グルトン軍団μ
+
+ID=42305
+チェイサー
+
+ID=42306
+奇襲部隊チェイサー
+
+ID=42307
+血吸の刃チェイサー
+
+ID=42308
+チェイサーμ
+
+ID=42309
+奇襲部隊チェイサーμ
+
+ID=42310
+血吸の刃チェイサーμ
+
+ID=42311
+インテンションカルラ
+
+ID=42312
+強襲のインテンションカルラ
+
+ID=42313
+強襲怪鳥インテンションカルラ
+
+ID=42314
+インテンションカルラμ
+
+ID=42315
+強襲のインテンションカルラμ
+
+ID=42316
+強襲怪鳥インテンションカルラμ
 
 ID=43139
 ディグニティースナッチャー
@@ -13112,154 +13247,172 @@ ID=43155
 サニー
 
 ID=43265
-TEXT=[S]カイン
+[S]カイン
 
 ID=43268
-TEXT=[SH]カイン
+[SH]カイン
 
 ID=43271
-TEXT=[S]ビッグパペット
+[S]ビッグパペット
 
 ID=43274
-TEXT=[SH]ビッグパペット
+[SH]ビッグパペット
 
 ID=43277
-TEXT=[S]巨神アスファルトゴーレム
+[S]巨神アスファルトゴーレム
 
 ID=43280
-TEXT=[SH]巨神アスファルトゴーレム
+[SH]巨神アスファルトゴーレム
 
 ID=43283
-TEXT=[S]魔眼マッドビホールダー
+[S]魔眼マッドビホールダー
 
 ID=43286
-TEXT=[SH]魔眼マッドビホールダー
+[SH]魔眼マッドビホールダー
 
 ID=43289
-TEXT=[S]ラピッドフレイム
+[S]ラピッドフレイム
 
 ID=43292
-TEXT=[SH]ラピッドフレイム
+[SH]ラピッドフレイム
 
 ID=43157
-TEXT=[S]医療部隊フォーチュン
+[S]医療部隊フォーチュン
 
 ID=43160
-TEXT=[SH]医療部隊フォーチュン
+[SH]医療部隊フォーチュン
 
 ID=43163
-TEXT=[S]フォースストライク
+[S]フォースストライク
 
 ID=43166
-TEXT=[SH]フォースストライク
+[SH]フォースストライク
 
 ID=43169
-TEXT=[S]研究部署STラボ
+[S]研究部署STラボ
 
 ID=43172
-TEXT=[SH]研究部署STラボ
+[SH]研究部署STラボ
 
 ID=43175
-TEXT=[S]ヘビーギアズ
+[S]ヘビーギアズ
 
 ID=43178
-TEXT=[SH]ヘビーギアズ
+[SH]ヘビーギアズ
 
 ID=43181
-TEXT=[S]ショーン
+[S]ショーン
 
 ID=43184
-TEXT=[SH]ショーン
+[SH]ショーン
 
 ID=43187
-TEXT=[S]ワイルドストーン
+[S]ワイルドストーン
 
 ID=43190
-TEXT=[SH]ワイルドストーン
+[SH]ワイルドストーン
 
 ID=43193
-TEXT=[S]ブロック
+[S]ブロック
 
 ID=43196
-TEXT=[SH]ブロック
+[SH]ブロック
 
 ID=43199
-TEXT=[S]ウォーライク
+[S]ウォーライク
 
 ID=43202
-TEXT=[SH]ウォーライク
+[SH]ウォーライク
 
 ID=43205
-TEXT=[S]シウォラット
+[S]シウォラット
 
 ID=43208
-TEXT=[SH]シウォラット
+[SH]シウォラット
 
 ID=43211
-TEXT=[S]ヴェノムミューカス
+[S]ヴェノムミューカス
 
 ID=43214
-TEXT=[SH]ヴェノムミューカス
+[SH]ヴェノムミューカス
 
 ID=43217
-TEXT=[S]ダークアリゲーター
+[S]ダークアリゲーター
 
 ID=43220
-TEXT=[SH]ダークアリゲーター
+[SH]ダークアリゲーター
 
 ID=43223
-TEXT=[S]セル
+[S]セル
 
 ID=43226
-TEXT=[SH]セル
+[SH]セル
 
 ID=43229
-TEXT=[S]S-01
+[S]S-01
 
 ID=43232
-TEXT=[SH]S-01
+[SH]S-01
 
 ID=43235
-TEXT=[S]ビクター
+[S]ビクター
 
 ID=43238
-TEXT=[SH]ビクター
+[SH]ビクター
 
 ID=43241
-TEXT=[S]ガルス
+[S]ガルス
 
 ID=43244
-TEXT=[SH]ガルス
+[SH]ガルス
 
 ID=43247
-TEXT=[S]ボーンクラッシャー
+[S]ボーンクラッシャー
 
 ID=43250
-TEXT=[SH]ボーンクラッシャー
+[SH]ボーンクラッシャー
 
 ID=43253
-TEXT=[S]ブラックガントレット
+[S]ブラックガントレット
 
 ID=43256
-TEXT=[SH]ブラックガントレット
+[SH]ブラックガントレット
 
 ID=43259
-TEXT=[S]ヘルインフォーサー
+[S]ヘルインフォーサー
 
 ID=43262
-TEXT=[SH]ヘルインフォーサー
+[SH]ヘルインフォーサー
 
 ID=43295
-TEXT=[S]グルトン
+[S]グルトン
 
 ID=43296
-TEXT=[SH]グルトン
+[SH]グルトン
 
 ID=43297
-TEXT=[S]輝くグルトン
+[S]輝くグルトン
 
 ID=43298
-TEXT=[S]夕陽の花ミリアム
+[S]夕陽の花ミリアム
+
+ID=43299
+[S]그루톤 군단
+
+ID=43300
+[SH]그루톤 군단
+
+ID=43301
+[S]체이서
+
+ID=43302
+[SH]체이서
+
+ID=43303
+[S]인텐션 가루라
+
+ID=43304
+[SH]인텐션 가루라
 
 ID=45000
 アイテムモール
@@ -13409,7 +13562,7 @@ ID=45048
 直接入力
 
 ID=45049
-TEXT=-Empty-
+-Empty-
 
 ID=45050
 残り回数：
@@ -13484,10 +13637,10 @@ ID=45115
 これ以上アイテムが入りません。
 
 ID=45116
-TEXT={0}
+{0}
 
 ID=45117
-TEXT={0}の購入が完了しました。\n一部のアイテムは購入に失敗しました。
+{0}の購入が完了しました。\n一部のアイテムは購入に失敗しました。
 
 ID=45118
 エクストラインベントリに空きがありません。\n該当アイテム購入時、「メール」で受け取り可能です。\nアイテムを購入しますか？
@@ -13496,7 +13649,7 @@ ID=45119
 家具インベントリに空きがありません。\n該当アイテム購入時、「メール」で受け取り可能です。\nアイテムを購入しますか？
 
 ID=45120
-アイテム購入が完了しました。\n該当アイテムは自身のマイルームで確認ができます。
+アイテムの購入が完了しました。\n該当アイテムは自身のマイルームで確認ができます。
 
 ID=45121
 プレビュー
@@ -13508,10 +13661,10 @@ ID=45123
 外見変更
 
 ID=45201
-TEXT={0}Lｖ{1}
+{0}Lｖ{1}
 
 ID=45202
-TEXT={0}にリバース可能
+{0}にリバース可能
 
 ID=45203
 リバース不可
@@ -13565,7 +13718,7 @@ ID=45303
 キューブ使用
 
 ID=45304
-キューブの種類によって獲得できるアイテムが異なることがあります。
+キューブの種類によって獲得できるアイテムが異なります。
 
 ID=45305
 一般キューブ使用
@@ -13577,7 +13730,7 @@ ID=45307
 A.Rカードキューブ使用
 
 ID=45308
-TEXT={0}を使用しますか？
+{0}を使用しますか？
 
 ID=45309
 アイテム獲得：{0}\n該当アイテムはインベントリで確認できます。
@@ -13592,7 +13745,7 @@ ID=45312
 アイテム使用結果画面
 
 ID=45313
-TEXT={0}個使用
+{0}個使用
 
 ID=45314
 1個使用
@@ -13607,7 +13760,7 @@ ID=45317
 Skip
 
 ID=45318
-TEXT={0}が足りないため、使用できません。
+{0}が足りないため、使用できません。
 
 ID=46000
 スチールグレイブ
@@ -13622,7 +13775,7 @@ ID=46003
 報酬情報
 
 ID=46004
-TEXT={0}>{1}
+{0}>{1}
 
 ID=46010
 最大進行チャプター
@@ -13667,7 +13820,7 @@ ID=46201
 FAILED
 
 ID=46202
-TEXT={0}秒後に町に移動します。
+{0}秒後に町に移動します。
 
 ID=46203
 確認を押すと町に移動します。
@@ -13709,7 +13862,7 @@ ID=49005
 遂行エリア：
 
 ID=49006
-TEXT=({0}/{1})
+({0}/{1})
 
 ID=49100
 報酬受け取り
@@ -13778,7 +13931,7 @@ ID=49209
 ログイン画面に移動
 
 ID=49210
-TEXT={0}秒後にログアウトします。
+{0}秒後にログアウトします。
 
 ID=49211
 終了
@@ -13820,7 +13973,7 @@ ID=49223
 町に移動
 
 ID=49224
-TEXT={0}秒後、移動します。
+{0}秒後、移動します。
 
 ID=49225
 移動
@@ -13967,13 +14120,13 @@ ID=49338
 表示
 
 ID=49339
-TEXT={0}報酬リスト
+{0}報酬リスト
 
 ID=49340
-TEXT={0}段階報酬アイテム
+{0}段階報酬アイテム
 
 ID=49341
-TEXT={0}段階
+{0}段階
 
 ID=49342
 レイド
@@ -14126,7 +14279,7 @@ ID=49623
 ウィンドウ解像度と同じか、それより大きな解像度には変更できません。
 
 ID=49624
-TEXT=[キー入力回避時固定]使用
+[キー入力回避時固定]使用
 
 ID=49625
 基本キー配置
@@ -14240,10 +14393,10 @@ ID=49783
 登録開始
 
 ID=49790
-http：//www.liongames.co.kr/Front/
+http://soulworker.hangame.co.jp/community/noticebbs.nhn?m=read&view=&bbsid=2510&bbstype=notice&page=1&docid=9594364
 
 ID=49912
-TEXT=-ミッション失敗-\nメイズの外に移動します。\n-残り時間：{0}秒-
+-ミッション失敗-\nメイズの外に移動します。\n-残り時間：{0}秒-
 
 ID=49913
 メイズ内のパーティーがミッション失敗状態なので\n合流できません。
@@ -14252,10 +14405,10 @@ ID=49914
 シークレットイベント報酬
 
 ID=49915
-TEXT=<インベントリで確認可能>
+<インベントリで確認可能>
 
 ID=49916
-TEXT=<メールで確認可能>
+<メールで確認可能>
 
 ID=49917
 シークレットイベント
@@ -14285,37 +14438,37 @@ ID=49925
 ミッション
 
 ID=49926
-TEXT={0}/{1}
+{0}/{1}
 
 ID=49927
 オペレーター
 
 ID=49928
-TEXT=[{0}]スペシャルミッション報酬支給
+[{0}]スペシャルミッション報酬支給
 
 ID=49929
-TEXT=[{0}]ゲリラミッション報酬支給
+[{0}]ゲリラミッション報酬支給
 
 ID=49930
 イベントミッション報酬支給
 
 ID=49931
-TEXT=[{0}]を[{1}]で{2}回討伐
+[{0}]を[{1}]で{2}回討伐
 
 ID=49932
-TEXT=[{0}]の敵を[{1}]で{2}回討伐
+[{0}]の敵を[{1}]で{2}回討伐
 
 ID=49933
-TEXT=[{0}]の敵を[{1}]で{2}回討伐
+[{0}]の敵を[{1}]で{2}回討伐
 
 ID=49934
-TEXT=[{0}]をSSランクで{1}回クリア
+[{0}]をSSランクで{1}回クリア
 
 ID=49935
-TEXT=[{0}]を{1}分以内に{2}回クリア
+[{0}]を{1}分以内に{2}回クリア
 
 ID=49936
-TEXT=[{0}]を{1}回クリア
+[{0}]を{1}回クリア
 
 ID=49937
 自分とLv{0}差のプレイヤー{1}名とパーティーを組み、[{2}]を{3}回クリア
@@ -14327,31 +14480,31 @@ ID=49939
 自分とLv{0}差のプレイヤー{1}名とフレンドになる
 
 ID=49940
-TEXT=[{0}]{1}名とフレンドになる
+[{0}]{1}名とフレンドになる
 
 ID=49941
-TEXT=[{0}]を装備したプレイヤー{1}名とフレンドになる
+[{0}]を装備したプレイヤー{1}名とフレンドになる
 
 ID=49942
-TEXT=[{0}]を装着したプレイヤー{1}名とフレンドになる
+[{0}]を装着したプレイヤー{1}名とフレンドになる
 
 ID=49943
-TEXT=[称号][{0}]を装着したプレイヤー{1}名とフレンドになる
+[称号][{0}]を装着したプレイヤー{1}名とフレンドになる
 
 ID=49944
-TEXT=[称号][{0}]を装着したプレイヤー{1}名とフレンドになる
+[称号][{0}]を装着したプレイヤー{1}名とフレンドになる
 
 ID=49945
-TEXT=[称号][{0}]を装着したプレイヤー{1}名とフレンドになる
+[称号][{0}]を装着したプレイヤー{1}名とフレンドになる
 
 ID=49946
-TEXT=[{0}]から[{1}]{2}個入手
+[{0}]から[{1}]{2}個入手
 
 ID=49947
-TEXT=[{0}]{1}回討伐
+[{0}]{1}回討伐
 
 ID=49948
-TEXT=[{0}]{1}回破壊
+[{0}]{1}回破壊
 
 ID=49949
 通常攻撃
@@ -14387,61 +14540,61 @@ ID=49959
 ミッション完了報酬がメールで支給されました。
 
 ID=49960
-TEXT=[{0}]のゲリラミッションに失敗しました。
+[{0}]のゲリラミッションに失敗しました。
 
 ID=49961
-TEXT=[{0}]のゲリラミッションが始まりました。
+[{0}]のゲリラミッションが始まりました。
 
 ID=49962
-TEXT=[{0}]のデイリーミッションを受注しました。
+[{0}]のデイリーミッションを受注しました。
 
 ID=49963
 デイリーミッションが初期化され、新しいミッションが追加されました。
 
 ID=49964
-TEXT={0}と会話
+{0}と会話
 
 ID=49965
-TEXT={0}に移動
+{0}に移動
 
 ID=49966
-TEXT={0}討伐：{1}/{2}
+{0}討伐：{1}/{2}
 
 ID=49967
-TEXT={0}収集：{1}/{2}
+{0}収集：{1}/{2}
 
 ID=49968
-TEXT={0}に{1}を持って行け。
+{0}に{1}を持って行け。
 
 ID=49969
-TEXT={0}に報告
+{0}に報告
 
 ID=49970
-TEXT={0}/{1}
+{0}/{1}
 
 ID=49971
-TEXT={0}と会話
+{0}と会話
 
 ID=49972
-TEXT={0}破壊：{1}/{2}
+{0}破壊：{1}/{2}
 
 ID=49973
-TEXT={0}調査
+{0}調査
 
 ID=49974
-TEXT={0}を護衛して移動
+{0}を護衛して移動
 
 ID=49975
-TEXT={0}[Lv{1}]
+{0}[Lv{1}]
 
 ID=49976
-TEXT={0}[削除]
+{0}[削除]
 
 ID=49977
-TEXT={0}[獲得]
+{0}[獲得]
 
 ID=49978
-TEXT={0}：[完了]
+{0}：[完了]
 
 ID=49979
 任務：{0}[失敗]
@@ -14456,7 +14609,7 @@ ID=49982
 任務：{0}[受注]
 
 ID=49983
-TEXT=[完了]
+[完了]
 
 ID=49984
 お知らせ解除
@@ -14465,7 +14618,7 @@ ID=49985
 放棄できない依頼です。
 
 ID=49986
-TEXT=[完了]
+[完了]
 
 ID=49987
 メイン
@@ -14489,7 +14642,7 @@ ID=49993
 報酬アイテムを選択すると任務を完了できます。
 
 ID=49994
-TEXT=[{0}]の依頼
+[{0}]の依頼
 
 ID=49995
 任務報酬
@@ -14531,7 +14684,7 @@ ID=50009
 モバイル認証失敗
 
 ID=50010
-잠시 뒤에 다시 시도해주시길 바랍니다.
+しばらくしてからもう一度お試しください。
 
 ID=50101
 入力したIDは存在しません。
@@ -15050,7 +15203,7 @@ ID=52412
 承諾待機時間が経過しました。
 
 ID=52413
-TEXT={0}は現在別の要請をしています。
+{0}は現在別の要請をしています。
 
 ID=52416
 遮断登録した相手とは取引できません。
@@ -15236,7 +15389,7 @@ ID=53027
 パーティー申請をしたパーティーが存在しません。
 
 ID=53028
-TEXT={0}は現在別の要請をしています。
+{0}は現在別の要請をしています。
 
 ID=53029
 ボスとの戦闘中はパーティー離脱ができません。
@@ -15413,10 +15566,10 @@ ID=55039
 クエストを進行すると、次に進めます。
 
 ID=55040
-TEXT={0}はログアウト状態なのでメイズに入場できません。
+はログアウト状態なのでメイズに入場できません。
 
 ID=55041
-TEXT={0}は同じ町にいないため、メイズに入場できません。
+は同じ場所にいないため、メイズへ入場できません。
 
 ID=55042
 メイズ離脱時間が3分経過したため、入場できません。
@@ -15428,7 +15581,7 @@ ID=55044
 FPが不足しているため、オートマッチングができません。
 
 ID=55047
-TEXT={0}は同じチャンネルにいないため、メイズに入場できません。
+は同じチャンネルにいないため、メイズに入場できません。
 
 ID=55048
 該当メイズに入場できないメンバーがいるため、メイズに入場できません。
@@ -15447,6 +15600,9 @@ ID=55052
 
 ID=55053
 メイズ入場制限回数を超過したため、入場できません。
+
+ID=55055
+パーティーメンバーが入場クエストを満たしていないため入場できません。
 
 ID=55101
 すでにフレンドに登録されたキャラクターです。
@@ -15467,16 +15623,16 @@ ID=55106
 これ以上遮断リストに登録できません。\n遮断登録は最大50名までです。
 
 ID=55107
-TEXT={0}がフレンド要請を拒否しました。
+{0}がフレンド要請を拒否しました。
 
 ID=55108
-TEXT={0}をフレンドリストから削除しました。
+{0}をフレンドリストから削除しました。
 
 ID=55109
 サーバー内に存在しないキャラクターです。
 
 ID=55110
-TEXT={0}の遮断によりパーティー招待できません。
+{0}の遮断によりパーティー招待できません。
 
 ID=55111
 相手がフレンド要請待機中です。しばらくしてからもう一度お試しください。
@@ -15494,7 +15650,7 @@ ID=55115
 フレンドは遮断できません。
 
 ID=55116
-TEXT={0}は遮断リストに登録されているため、ささやきを送れません。
+{0}は遮断リストに登録されているため、ささやきを送れません。
 
 ID=55201
 同じ名前のＩＤが存在します。
@@ -15608,7 +15764,7 @@ ID=56531
 全メンバーのユニティメイズが開放されなければなりません。
 
 ID=57000
-TEXT={0}は現在ログインしていません。
+{0}は現在ログインしていません。
 
 ID=57001
 ギルド名：{0}はすでに使用されています。
@@ -15674,7 +15830,7 @@ ID=57021
 ギルド招待を受けたユーザーが町に存在しません。
 
 ID=57022
-TEXT={0}分後に掲示板を作成できます。
+{0}分後に掲示板を作成できます。
 
 ID=57023
 申請者リストがいっぱいです。
@@ -15695,7 +15851,7 @@ ID=57028
 ギルドマスターです。
 
 ID=57029
-TEXT={0}分後に告知を作成できます。
+{0}分後に告知を作成できます。
 
 ID=57030
 この職位はこれ以上付与できません。
@@ -15719,10 +15875,10 @@ ID=57036
 自分の職位は変更できません。
 
 ID=57037
-TEXT={0}はギルド脱退ペナルティにより、現在ギルドに加入できません。
+{0}はギルド脱退ペナルティにより、現在ギルドに加入できません。
 
 ID=57038
-TEXT={0}は現在別の要請をしています。
+{0}は現在別の要請をしています。
 
 ID=57039
 ギルド募集告知の最大文字数を超過しました。
@@ -15833,10 +15989,10 @@ ID=58301
 販売価格を入力してください。
 
 ID=58302
-出品可能数を超過しました。出品できる最大数は10個です。
+出品可能数を超過しました。最大出品数は5個までです。
 
 ID=58303
-出品待機数を超過しました。出品待機できる最大数は10個です。
+出品待機数を超過しました。最大出品数は5個までです。
 
 ID=58304
 該当アイテムは出品期間が満了したため、購入できません。
@@ -15851,13 +16007,13 @@ ID=59001
 インベントリに空きがないため、デイリーログイン報酬を受け取れません。
 
 ID=59200
-TEXT={0}は情報公開をoffにしています。
+{0}は情報公開をoffにしています。
 
 ID=59201
-TEXT={0}はささやき受信拒否した状態です。
+{0}はささやき受信拒否した状態です。
 
 ID=59202
-TEXT={0}はフレンド登録拒否状態です。
+{0}はフレンド登録拒否状態です。
 
 ID=59300
 該当チャンネルは大変混雑しているため設置できません。\n別のチャンネルをご利用ください。
@@ -15887,7 +16043,7 @@ ID=60001
 該当箇所に[{0}]を装着しますか？\nブローチ装着後は解除できません。
 
 ID=60002
-TEXT=[{0}]を[{1}]に装着しました。
+[{0}]を[{1}]に装着しました。
 
 ID=60003
 装着可能なアイテムタイプではありません。
@@ -15905,13 +16061,13 @@ ID=60007
 装着された[{0}]を[{1}]に変更しますか？\n装着時、既存のブローチは削除されます。
 
 ID=60008
-TEXT=[{0}]を[{1}]に変更しました。
+[{0}]を[{1}]に変更しました。
 
 ID=60009
-TEXT=[{0}]を使用してロックを解除しますか？
+[{0}]を使用してロックを解除しますか？
 
 ID=60010
-TEXT=[{0}]が存在しません。[{1}]を使用してブローチスロットのロックを解除できます。
+[{0}]が存在しません。[{1}]を使用してブローチスロットのロックを解除できます。
 
 ID=60100
 レイドランキングは新しいシーズンになると初期化されます。
