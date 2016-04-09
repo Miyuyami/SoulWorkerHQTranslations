@@ -15,3 +15,8 @@ Homepage: http://soulworkerhq.com
   3. Additional questions can be asked on [Discord](https://discord.gg/0elCk6HCY5XkLg0t)
   4. Use ASCII (English) commas, dots, exclamation/question marks, etc...
   5. Keep Japanese the onomatopoeia and Japanese honorifics in translations (ex. Auauau, Onee-chan).
+
+### Special Thanks to:
+  - everyone from discord chat
+  - all translators, staff and contributors
+  - [WRS/x1nixmzeng](http://forum.xentax.com/memberlist.php?mode=viewprofile&u=16084) for helping a lot with extracting the data, check him out and give him some "Thanks"
