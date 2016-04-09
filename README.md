@@ -14,4 +14,4 @@ Homepage: http://soulworkerhq.com
     4. Do NOT edit the HTML code (there are a few lines that use HTML for coloring).
   3. Additional questions can be asked on [Discord](https://discord.gg/0elCk6HCY5XkLg0t)
   4. Use ASCII (English) commas, dots, exclamation/question marks, etc...
-  5. Keep Japanese Onomatopoeias and Japanese honorifics in translations (ex. Onee-chan, Auauau).
+  5. Keep Japanese the onomatopoeia and Japanese honorifics in translations (ex. Auauau, Onee-chan).
