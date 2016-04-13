@@ -128,7 +128,7 @@ ID=62
 Enhance
 
 ID=63
-Socket Brooch
+Socket Broach
 
 ID=90
 Haru
@@ -458,7 +458,7 @@ ID=335
 The selected items cannot be equipped by you.\nAre you sure that you want to buy?
 
 ID=336
-{0} was sold in the {1}.
+{0} was sold for {1}.
 
 ID=337
 {2} has been sold to {1}.
@@ -476,10 +476,10 @@ ID=341
 Expansion Fee: {0} Han Coin
 
 ID=342
-o you want to buy [{0}]{1} from {2}?
+Do you want to buy {1} [{0}] for {2}?
 
 ID=343
-Do you want to sell [{0}]{1} items at {2}?
+Do you want to sell {1}x [{0}] for {2}?
 
 ID=344
 Are you sure you want use {0} to expand your slots?
@@ -650,7 +650,7 @@ ID=418
 Evolve
 
 ID=419
-Socket Brooch
+Socket Broach
 
 ID=421
 Show only usable equips.
@@ -668,7 +668,7 @@ ID=431
 Type
 
 ID=432
-Character
+Class
 
 ID=433
 Grade
@@ -704,7 +704,7 @@ ID=443
 Required BP
 
 ID=444
-Required Zenny
+Zenny Cost
 
 ID=445
 You successfully crafted {0}.
@@ -749,7 +749,7 @@ ID=463
 Insufficient funds for repairing.
 
 ID=464
-This item can not be repaired.\n(Only items with decreased durability can be repaired)
+Items could not be repaired.\n(Only items with decreased durability can be repaired)
 
 ID=465
 This item can't be equipped because it has 0 durability.
@@ -797,7 +797,7 @@ ID=481
 Largest Combo
 
 ID=482
-Completion Reward
+Clear\nReward
 
 ID=483
 Performance Reward
@@ -860,7 +860,7 @@ ID=505
 Whisper
 
 ID=506
-Add Friend
+Befriend
 
 ID=510
 Revive
@@ -890,7 +890,7 @@ ID=518
 ※<font color='#FFBB00'>Since you have no [Greater Accident Call],</font>you are not able to revive.
 
 ID=521
-Withdraw
+Leave
 
 ID=522
 Appoint
@@ -977,7 +977,7 @@ ID=565
 Are you sure you want to activate the skills?
 
 ID=566
-Cards Possessed:
+Cards Owned:
 
 ID=567
 Time Left
@@ -1064,16 +1064,16 @@ ID=607
 Soul Vapor
 
 ID=608
-Movement Speed(%)
+Movement Speed
 
 ID=609
-Attack Speed(%)
+Attack Speed
 
 ID=610
 Minimum Attack
 
 ID=611
-Maximum Attack
+Attack
 
 ID=612
 Minimum Magic Attack
@@ -1097,16 +1097,16 @@ ID=618
 Weak Attack
 
 ID=619
-Critical Hit Rate(%)
+Critical Hit Rate
 
 ID=620
 Magic Critical Rate(%)
 
 ID=621
-Critical Resistance(%)
+Critical Resistance
 
 ID=622
-Magic Critical Resistance(%)
+Magic Critical Resistance
 
 ID=623
 Critical Rate(%)
@@ -1142,7 +1142,7 @@ ID=640
 Display Info
 
 ID=641
-Add Friend
+Befriend
 
 ID=642
 Whisper
@@ -1400,7 +1400,7 @@ ID=768
 Duration:
 
 ID=769
- second(s)
+ sec
 
 ID=770
 Minute(s)
@@ -1508,10 +1508,10 @@ ID=806
 Exp
 
 ID=807
-Brooch Details
+Broach Details
 
 ID=808
-Socket Brooch
+Socket Broach
 
 ID=809
 Broach Socketable
@@ -1697,7 +1697,7 @@ ID=900
 Status
 
 ID=901
-Character
+Class
 
 ID=902
 Lv
@@ -1712,10 +1712,10 @@ ID=905
 Basic Information
 
 ID=906
-Maximum Attack
+Attack
 
 ID=907
-Defense Power
+Defense
 
 ID=908
 Current Title
@@ -1835,7 +1835,7 @@ ID=951
 Enhance
 
 ID=952
-Exchange Items
+Exchange
 
 ID=953
 Select an equipment to enhance.
@@ -1844,7 +1844,7 @@ ID=954
 Maximum Enhance Limit: +{0}
 
 ID=955
-Enhancement Grade
+Enhances
 
 ID=956
 Enhancement Material
@@ -1868,7 +1868,7 @@ ID=962
 Prevents the item from being destroyed.
 
 ID=963
-Required Zenny
+Zenny Cost
 
 ID=964
 Required BP
@@ -1898,7 +1898,7 @@ ID=972
 Max
 
 ID=973
-Exchange Items
+Exchange
 
 ID=974
 Quantity Obtained:
@@ -2075,10 +2075,10 @@ ID=1101
 Select Appearance
 
 ID=1102
-Character Name
+Name
 
 ID=1103
-Duplicate Check
+Verify
 
 ID=1104
 Confirm Character
@@ -2126,7 +2126,7 @@ ID=1118
 Random Look
 
 ID=1119
-Finish Creation
+Create
 
 ID=1120
 You can determine the appearance of the character.
@@ -2318,7 +2318,7 @@ ID=2101
 Community
 
 ID=2102
-Add Friend
+Befriend
 
 ID=2103
 Party
@@ -2330,13 +2330,13 @@ ID=2105
 Block List
 
 ID=2106
-On({0})
+Online({0})
 
 ID=2107
-Off({0})
+Offline({0})
 
 ID=2108
-Character Name
+Name
 
 ID=2109
 Search
@@ -2345,7 +2345,7 @@ ID=2110
 Friend Ads
 
 ID=2111
-Add Friend
+Befriend
 
 ID=2112
 This list is updated every 10 minutes.
@@ -2354,7 +2354,7 @@ ID=2113
 Unblock
 
 ID=2114
-Friend Search
+Search
 
 ID=2115
 Party Invite
@@ -2369,7 +2369,7 @@ ID=2118
 Unfriend
 
 ID=2119
-Blacklist
+Blocklist
 
 ID=2120
 Block
@@ -2486,7 +2486,7 @@ ID=2226
 Unclaimed
 
 ID=2227
-Remaining Duration
+Time Left
 
 ID=2228
 {0}-{1}-{2} {3}h {4}m
@@ -2594,7 +2594,7 @@ ID=2503
 Remaining {0}day(s)
 
 ID=2504
-Remaining {0}hour(s)
+Remaining {0} hour(s)
 
 ID=2505
 CH{0}
@@ -2603,13 +2603,13 @@ ID=2506
 Lv{0}
 
 ID=2520
-Search Friends
+Find Friend
 
 ID=2521
 Post Ad
 
 ID=2522
-Character
+Class
 
 ID=2523
 Lv
@@ -2627,28 +2627,28 @@ ID=2540
 Friend
 
 ID=2541
-Friend Search
+Search
 
 ID=2542
-Try a friend search again in ({0}) seconds.
+Pending ({0})
 
 ID=2543
-On({0})
+Online({0})
 
 ID=2544
-Off({0})
+Offline({0})
 
 ID=2545
-Friend Search
+Search
 
 ID=2546
-Character Name
+Name
 
 ID=2547
-Friend Search
+Search
 
 ID=2548
-Add Friend
+Befriend
 
 ID=2560
 Guild
@@ -2660,10 +2660,10 @@ ID=2580
 Block List
 
 ID=2581
-Blacklist
+Blocklist
 
 ID=2582
-Blacklist
+Blocklist
 
 ID=2583
 Blocked User
@@ -2891,7 +2891,7 @@ ID=3110
 By achieving a position of {0} out of {1}, the following rewards are awarded.
 
 ID=3111
-For using {0}, the following rewards are awarded.
+Following items have been acquired from {0}.
 
 ID=3112
 EXP
@@ -2999,7 +2999,7 @@ ID=5002
 Cooldown:
 
 ID=5003
- second(s)
+ sec
 
 ID=5004
 COST:
@@ -3254,13 +3254,13 @@ ID=5512
 Underwear
 
 ID=5513
-Finish Creation
+Create
 
 ID=5514
 Return
 
 ID=5515
-Character Name
+Name
 
 ID=5516
 2 to 12 characters.
@@ -3296,19 +3296,19 @@ ID=5806
 <font color='#FFFFFF'><font size="30">TIP: </font>Talking to <font color='#B2EBF4'>[Zenith]</font>, you can<font color='#00D8FF'>[Craft]</font> Weapons, Gear, Avatar items.
 
 ID=5807
-<font color='#FFFFFF'><font size="30">TIP: </font>You can send mail by using <font color='#00ff9c'>HEMS </font>. A small fee will be paid.\nItems and Zenny may also be attached.
+<font color='#FFFFFF'><font size="30">TIP: </font>You can send mail by using <font color='#00ff9c'>HEMS</font>. A small fee will be paid.\nItems and Zenny may also be attached.
 
 ID=5808
 <font color='#FFFFFF'><font size="30">TIP:</font> You may store extra <font color='#00D8FF'>Items</font> at the bank by talking to <font color='#00ff9c'>Odon</font>.
 
 ID=5809
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>ミニマップ</font>で自分の現在地や各<font color='#00D8FF'>NPC</font>の場所、<font color='#00D8FF'>メイズ</font>の入口を確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>You can check the<font color='#00ff9c'>mini-map</font>to find the location of<font color='#00D8FF'>NPCs</font>,or <font color='#00D8FF'>dungeon entrances.</font></font>
 
 ID=5810
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行情報は、ショートカットキー<font color='#00ff9c'>【L】</font>の<font color='#00D8FF'>[レコード][占有率]</font>ウィンドウから確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>Press the hotkey <font color='#00ff9c'>【L】</font>to see your<font color='#00D8FF'>[Achievements][Secured Area Percentages].</font></font>
 
 ID=5811
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行状況に応じて、<font color='#00D8FF'>進行情報</font>ウィンドウ<font color='#00ff9c'>【L】</font>から報酬を確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>Depending on your<font color='#00D8FF'>progress</font>, you can press <font color='#00ff9c'>【L】</font> to collect rewards.</font>
 
 ID=5812
 <font color='#FFFFFF'><font size="30">TIP：</font>必要な材料を集めて町にいる<font color='#00ff9c'>イオ</font>に渡すと、<font color='#00D8FF'>A.Rカード</font>を製作できます。
@@ -3485,16 +3485,16 @@ ID=5869
 <font color='#FFFFFF'><font size="30">TIP: </font>Talking to <font color='#B2EBF4'>[Zenith]</font>, you can<font color='#00D8FF'>[Craft]</font> Weapons, Gear, Avatar items.
 
 ID=5870
-<font color='#FFFFFF'><font size="30">TIP: </font>You can send mail by using <font color='#00ff9c'>HEMS </font>. A small fee will be paid.\nItems and Zenny may also be attached.
+<font color='#FFFFFF'><font size="30">TIP: </font>You can send mail by using <font color='#00ff9c'>HEMS</font>. A small fee will be paid.\nItems and Zenny may also be attached.
 
 ID=5871
 <font color='#FFFFFF'><font size="30">TIP:</font> You may store extra <font color='#00D8FF'>Items</font> at the bank by talking to <font color='#00ff9c'>Odon</font>.
 
 ID=5872
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>ミニマップ</font>で自分の現在地や各<font color='#00D8FF'>NPC</font>の場所、<font color='#00D8FF'>メイズ</font>の入口を確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>You can check the<font color='#00ff9c'>mini-map</font>to find the location of<font color='#00D8FF'>NPCs</font>,or <font color='#00D8FF'>dungeon entrances.</font></font>
 
 ID=5873
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行情報は、ショートカットキー<font color='#00ff9c'>【L】</font>の<font color='#00D8FF'>[レコード][占有率]</font>ウィンドウから確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>Press the hotkey <font color='#00ff9c'>【L】</font>to see your<font color='#00D8FF'>[Achievements][Secured Area Percentages].</font></font>
 
 ID=5874
 <font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行状況に応じて、<font color='#00D8FF'>進行情報</font>ウィンドウ【L】から報酬を獲得できます。
@@ -3725,10 +3725,10 @@ ID=6054
 Sort By Equips
 
 ID=6055
-You can only use it as crafting material/nwhen the synthesis EXP is at max.
+Is a Crafting material when\n synthesis EXP is maxed.
 
 ID=6056
-Would you like to trade {0} {1}to{2} {3}?
+Would you like to trade {1} {0} to {3} {2} ?
 
 ID=6057
 Please register the A.R. card if/nthe rarity and the crafting target is the same.
@@ -3863,7 +3863,7 @@ ID=8303
 Claim
 
 ID=8304
-Daily Login Check Reward
+Daily Login Reward Check
 
 ID=8305
 Time Left
@@ -3887,7 +3887,7 @@ ID=8311
 You have received the login reward for logging in.
 
 ID=8312
-Daily Login Check Reward
+Daily Login Reward Check
 
 ID=8313
 You have received the reward for logging in today.
@@ -4013,13 +4013,13 @@ ID=9002
 Season.3
 
 ID=9100
-MyRoom
+Room
 
 ID=9101
-芝生布団キャンプ
+Futon Camp
 
 ID=9102
-MyRoom
+Room
 
 ID=9103
 Alice Breeze
@@ -4331,10 +4331,10 @@ ID=10090
 Use the last escape route in N-102 after activating the time bomb. Defeat the mighty 「Beholder」blocking you to clear the way.
 
 ID=10091
-ネッドカンパニーの野望は生きている人を使った禁断の実験だった。\nソウルワーカー量産計画を阻止し、犠牲者に安息を与えよう。
+NED Company's ambition was a forbidden experiment on living people./nLet's prevent their wretched plan of mass producing Soul Workers, and put all the victims to rest.
 
 ID=10092
-最強の無人ロボットが完成を待ち、眠っていたアケロンの別の侵入路。長い眠りから目覚めた無人ロボットを突破し、作戦を成功させなければならない。
+This is another passageway to Acheron, where the strongest unmanned robot was waiting to be completed. The unmanned robot that has woke up must be defeated, and the mission must be completed.
 
 ID=10093
 0
@@ -4349,7 +4349,7 @@ ID=10096
 0
 
 ID=10097
-生き残っていたソウルジャンクの群れとエドガーの人形部隊が再びロコタウンに襲い掛かる。濃い霧と火炎に包まれたロコタウンを最後まで守らなければならない。
+The remains of Soul Junk horde and Edgar's Puppet army has invaded Rocco Town yet again. Amidst the deep fog and flames, we must protect Rocco Town at all costs.
 
 ID=10098
 0
@@ -4376,7 +4376,7 @@ ID=10201
 World Map
 
 ID=10211
-Transparency Mode
+Alpha Mode
 
 ID=10212
 Basic Mode
@@ -4448,7 +4448,7 @@ ID=10257
 Mailbox:
 
 ID=10258
-ソウリスト：
+Soul List:
 
 ID=10301
 Tutorial
@@ -4628,7 +4628,7 @@ ID=10432
 Dark City
 
 ID=10433
-Traces of immorality
+Traces of Immorality
 
 ID=10434
 A New Leap
@@ -4643,7 +4643,7 @@ ID=10443
 Check Item List
 
 ID=10444
-暴食する影
+Shadow of Gluttony
 
 ID=10451
 Discovered Weapons
@@ -4700,7 +4700,7 @@ ID=10492
 Iron and Gunpowder
 
 ID=10493
-立ちはだかる光
+Obstructing Light
 
 ID=10494
 Nest of Steel
@@ -4874,7 +4874,7 @@ ID=15002
 "Dread" the Soul Junk which moves around the bowling site .\nThe main culprit destroyed a hospital in  Warren, and by which pushed Rocco Town \nover in fear of an infectious disease. Before the infectious disease spreads, I'll take care of it.
 
 ID=15003
-I have come to the bowling site by Miriam's request.\nI have to find the survivors who were isolated by the \nSoul Junk and rescue them
+I have come to the bowling site by Miriam's request.\nI have to find the survivors who were isolated by the \nSoul Junk and rescue them.
 
 ID=15004
 Ryu went to the site alone in order to verify the information which showed an awakening body. I don't know what's going to happen.\ n I will join him quickly.
@@ -4934,61 +4934,61 @@ ID=15022
 The bad smell from an underground waterway stands at various places by the city, and has begun to spread.\n It's clear that there the only cause of the bad smell is in the underground waterway....
 
 ID=15023
-ネッドカンパニーから大勢の傭兵と研究員が地下水路に派遣された。不審に思ったブロックは彼らの監視を指示する。
+Mercenaries and researchers from NED company were dispatched to an underground waterway. As it seems suspicious Brock instructs their surveillance.
 
 ID=15024
-ジャンクナイトの出現はスタリーフォレスト連合全体に衝撃を与えた。ブロックは、ネッドカンパニーに責任を問うためにジャンクナイトのサンプル確保を指示した。
+The emergence of Junk Knight has shocked all of Starry Forest League. In order to question NED Company into holding responsibility, Block has ordered to attain a sample of Junk Knight.
 
 ID=15025
-ネッドカンパニーが何かを運ぼうとした輸送船が、近くの屋敷に墜落したらしい。\n何を輸送しようとしていたのかを調査する必要がある。
+It seems like a carrier ship of NED Company has crashed to a house nearby./nWe need to investigate exactly what they were trying to carry.
 
 ID=15026
-屋敷全体がソウルジャンクの巣窟になってしまった。\n強力な感染力を持つソウルジャンクがいるため、外に出る前に始末せねばならない。
+The entire house has become a den of Soul Junk./nAs there is a Soul Junk with high contamination rate nearby, we need to get rid of it before it gets out.
 
 ID=15027
-ラルフの話から考えると、キャサリンは屋敷内部にいる可能性が高い。キャサリンを探しに屋敷の奥へ進んでみよう。
+According to Ralph's story, it seems highly likely that Catherine will be somewhere deep inside the house. Let's move deeper in the mansion to look for Catherine.
 
 ID=15028
-キャサリンをさらったアラクニスというソウルジャンクが、\n屋敷の地下の奥に隠れているという。\n急いでキャサリンを探しだそう。
+Soul Junk named Arachniss that took Catherine away/nseems like it's hiding somewhere in the basement./nLet's quickly find and rescue Catherine.
 
 ID=15029
-バキュームベインに感染したキャサリンを救うことができる唯一の解毒剤が、ネッドカンパニーの研究所内にある。\nしかし、研究所は既にソウルジャンクの巣窟となり…。
+The only antidote for Catherine's Vacuum Vain infection is at the research facility of NED Company./nBut that research facility was already a den of Soul Junk...
 
 ID=15030
-第二研究所内部もやはりソウルジャンクの巣窟に…。一体何がこの場所であったのかはわからないが、今はキャサリンの解毒剤を確保することが優先だ。
+Second research facility was also crawling with Soul Junk... We don't know what in the world happened here, but getting the antidote for Catherine is top priority.
 
 ID=15031
-ビクターはキャサリンのことへの罪悪感から解毒剤を探しに一人で研究所へと入っていった。\n彼がソウルジャンクに襲われる前に見つけ出そう。
+Out of guilt for Catherine, Victor has went to the research facility to find the antidote by himself./nFind him before the Soul Junk do.
 
 ID=15032
-ヘンリーは解毒剤を使用するためにはビホールダーの粘液が必要だと言い、さらに研究所の爆破も指示する。
+Henry says that in order to use the antidote, the slime from the Beholder is needed. He also ordered us to activate the explosion trigger to destroy the research facility.
 
 ID=15033
-ロコタウンから戻ると、カンダスシティはすさまじい数のソウルジャンクに襲撃されていた。人々を退避させるために防空壕の開閉装置を作動させなければならない。
+When we returned from Rocco Town, Candus City was under attack by Soul Junk. We need to trigger the opening switch for the refuge center for people to evacuate.
 
 ID=15034
-防空壕内部、輸送船に向かう道で多数のソウルジャンクが発見された。人々が攻撃されないよう先に処理しよう。
+A large number of Soul Junk has been discovered on the path to the transport ship located in the bomb shelter. For the safety of everyone, they must be dealt with.
 
 ID=15035
-住民の大部分を避難させ、残りはキャサリンと自分たちだけだった。しかしその時、乗る予定の輸送船に多くのソウルジャンクが向かうのを目撃した。
+Every has taken shelter except for Catherine and us. However, at that time, we discovered that there were a large number of Soul Junk near the transport ship.
 
 ID=15036
-カンダスシティからの脱出を開始した。\nしかし、ソウルジャンクの襲撃はしつこく、皆の不安は募るばかりだった。
+The escape from Grace City has commenced. However, the Soul Junk's unrelenting attacks are making everyone anxious.
 
 ID=15037
-ヘンリー追跡を優先したいところだが、ヴェシとの戦闘経験を積むための命令が下った。今は黙って動くしかない。
+I wanted to chase after Henry, but was ordered to gain some experience fighting against the Veshi. I have no choice but to follow the orders for now.
 
 ID=15038
 力のデザイアを崇拝するヴェシ「ラピッドフレイム」。その突撃部隊が高速道路からグレイスシティへ侵攻する隙を虎視眈々と狙っている。
 
 ID=15039
-ヘンリーが乗っていたと思われる車輌が発見された。不明な点が山ほどあるが、今は彼の身柄を確保しなければならない。ヴェシにやられる前に…。
+The supposed vehicle carrying Henry has been spotted. The information is a bit unreliable, but he must be arrested at all costs. At least, before the Veshi get to him...
 
 ID=15040
-捜していたヘンリーは見当たらず、ラピッドフレイム勢力の幹部「スカー」が高速道路に姿を現した。 ヘンリーの行方を知るためには、スカーから討伐しなければならない。
+「Scar」of the Rapid Flame Faction has appeared on the highway. In order to find out Henry's whereabouts, Scar must be defeated and interrogated.
 
 ID=15041
-ヘンリーがネッドカンパニーの本社に侵入後、\nラピッドフレイムの奇襲部隊が建物を占領した。\n気は進まないが、彼を救出しなければ…。
+The NED Company headquarters was raided by the Rapid Flame Faction after Henry sneaked inside.\nAlthough I'm reluctant to do so...\nHe must be rescued.
 
 ID=15042
 ネッドカンパニー内はラピッドフレイムの占拠によって\n電力供給が行き届いていない状況だ。 
@@ -5006,40 +5006,40 @@ ID=15046
 作戦名「ウルフクライ」は、高周波を発生させるミサイル「ファイナルアリア」を上空に打ち上げ、強襲部隊の主力であるクイーンカルラを殲滅するという作戦だ。
 
 ID=15047
-アリアミサイル発射ポイントまでヒルブレイカーが移動できない。スタリーフォレスト連合のソウルワーカー「ケインバレル」とラピッドフレイムの強襲部隊討伐に向かう。
+Heel Breaker cannot progress towards the Area Missile firing zone. With Starry Forest League's Soul Worker 「Kainbarrel」, exterminate the Rapid Flame's assault squad.
 
 ID=15048
-愛鳥のクイーンカルラに傷を負わせたので、ラピッドフレイムの強襲部隊長ファルコンが姿を現した。ついに出てきた相手に、感謝の気持ちすら湧き上がる。
+Assault Captain of the Rapid Flames, Falcon, has finally showed his face after his precious bird Queen Karla has been damaged.  To the target that has finally showed its head, we can almost feel gratitude for it.
 
 ID=15049
-人はおらず静寂だけが町を覆う中、デーブタウンに降る冷たい雨が嫌な予感を感じさせていた。
+While the entire village was vacant and an eery silence was all that was left, the rain falling down on Dave Town had a gloomy feeling.
 
 ID=15050
-グレイスシティ付近の小さな町「デーブタウン」は、戦場から離れていて自給自足できるという理由で、多くの市民が居住していた。
+「Dave Town」, a town located near Grace City, is inhabited with many people due to the fact that it is away from front lines and therefore can sustain itself.
 
 ID=15051
-嫌な予感が当たらないように願う状況。デーブタウン内部でソウル経路を確認するため、「スピリットパスファインダー」の設置を急がなければならない。
+Situation where I hope for the best. To find the path for Souls within Dave Town, we need to install the 「Spirit Path Finder」as fast as possible.
 
 ID=15052
-嫌な予感は現実のものとなってしまった。これほどのことをしてまで彼らが求める物はなんなのだろうか？しかし、今は生存者を探すのが優先だ。
+The situation has turned for the worst. What is it that they are trying to accomplish with these acts? But for now, finding survivors is top priority.
 
 ID=15053
-ヘンリーとラピッドフレイム勢力との同盟が現実となった。非道の限りを尽くすヘンリーを捕まえ罪を償わせないといけない。
+The alliance between Henry and Rapid Flames has become reality. Henry must pay for the crimes he have committed.
 
 ID=15054
-ラピッドフレイム勢力の本拠地だと思われていた場所は、ネッドカンパニーとラピッドフレイムがでっちあげた罠だった。
+The supposed stronghold for Rapid Flames were trap set up by NED Company and Rapid Flames.
 
 ID=15055
-ネッドカンパニーの罠によって、グレイスシティの多くの戦力が失われ、存立を脅かすほどの危機が訪れた。このままみんなを死なせるわけにはいかない。
+Due to NED Company's trap, majority of the forces at Grace City has been wiped out. This crisis has put the city's existence is on the line. We can't let everyone die.
 
 ID=15056
-ラピッドフレイム勢力の暗殺部隊が支援部隊救出を妨害している。一人でも多く救出するためにも妨害する敵を倒す必要がある。
+Rapid Flame faction's Assassination squad is hindering the rescuing process of backup. We need to defeat these enemies in order to rescue many people as possible.
 
 ID=15057
-ネッドカンパニーが軍事衛星インドラをハッキングした痕跡が見つかった。ハッキングの痕跡を辿って彼らの本当の本拠地を突き止めなければならない。
+The remnants of hacking on military satellite Indra by NED Company has been confirmed. We need to trace back through their hacking in order to learn their true motive.
 
 ID=15058
-グレイスシティ外郭山脈付近にネッドカンパニーの痕跡が残っていた。彼らに審判を下す時がきた。
+NED Company's traces has led up to the mountains near Grace City. It is time for their judgement.
 
 ID=15059
 ヘンリーとラウファーの行方を捜すためには軍事衛星インドラを妨害する電波を除去しなければならない。
@@ -5057,16 +5057,16 @@ ID=15063
 突如発生した謎の歪みは、多くの人形をこの世へと解き放った。彼らが現れた理由を知る者は誰もいない。ただ、人形が持つ力と強烈なまでの敵意だけは明らかだった。
 
 ID=16000
-ねじれた理の世界で
+Twisted Logic of the World
 
 ID=16001
-力を持ちし審判者よ
+Judgement and Virtue
 
 ID=16002
-再生の歩みの中で
+Renewal Once More
 
 ID=16003
-あなたは選択することになるでしょう
+Please select.
 
 ID=16004
 LION GAMES PRESENT
@@ -5189,7 +5189,7 @@ ID=16813
 Category Search
 
 ID=16814
-Character
+Class
 
 ID=16815
 Level
@@ -5201,7 +5201,7 @@ ID=16817
 Price
 
 ID=16818
-Enhancement Grade
+Enhances
 
 ID=16819
 Min
@@ -5213,7 +5213,7 @@ ID=16821
 Item Name
 
 ID=16822
-Quantity
+Units
 
 ID=16823
 Total
@@ -5297,19 +5297,19 @@ ID=16849
 Galaxy
 
 ID=16850
-{0} items
+{0} units
 
 ID=16851
 The following search parameters are not usable.
 
 ID=16852
-出品待機中の{0} {1}個を回収しますか？\n(回収したアイテムはメールで送られます)
+Remove {1} {0} from sale?\n(Returned items will be sent to your mailbox)
 
 ID=16853
 出品中の{0} {1}個を回収しますか？\n(回収したアイテムはメールで送られます)
 
 ID=16854
-The item {0} will be withdrawn, having being listed for {1} days.\n (The item will be sent to your mail.)
+{1}x {0} will be withdrawn, having being listed.\n (The item will be sent to your mail.)
 
 ID=16855
 検索オプションが変更されました。変更した内容で再検索しますか？\n(キャンセル時、以前の検索オプションに変更後、ページが移動します)
@@ -5345,7 +5345,7 @@ ID=16865
 Up to 10 listings are shown at a time.
 
 ID=16866
-VIPシステム情報
+VIP System Information
 
 ID=18000
 強化回数を使い切ったため、これ以上強化できません。
@@ -5366,37 +5366,37 @@ ID=18005
 {0}を復元しますか？\n復元回数は{1}回です。
 
 ID=18006
-復元
+Restoration
 
 ID=18007
 Restorations
 
 ID=18008
-リバイブセル
+Self Revive
 
 ID=18009
-復元
+Restoration
 
 ID=18010
-復元可能です。
+Can be restored.
 
 ID=18011
-復元完了
+Restoration completed
 
 ID=18012
-ブローチ合成
+Broach Synthesis 
 
 ID=18013
 Synthesis
 
 ID=18014
-ブローチ合成完了
+Broach synthesis completed
 
 ID=18015
-登録したブローチを本当に合成しますか？
+Are you sure you want to synthesize the broach?
 
 ID=18016
-ブローチを合成できます。
+You can synthesize the broach.
 
 ID=18017
 合成にはブローチが5個必要です。
@@ -5408,7 +5408,7 @@ ID=18019
 一度に10個まで分解できます。
 
 ID=18020
-Up to the last 10 marketprice going rates will be shown.
+Up to the last 10 marketprice going rates will show.
 
 ID=18021
 A fee of 7% is levied on all sold items.
@@ -5420,10 +5420,10 @@ ID=18023
 分解するアイテムは<font color='#A566FF'>価値の高いアイテム</font>です。一度分解すると、復元できなくなります。分解しますか？
 
 ID=18026
-封印
+Sealed
 
 ID=18027
-封印できます。
+Sealable
 
 ID=18028
 Sealed Count
@@ -5441,10 +5441,10 @@ ID=18032
 装備の要求レベルよりファミリアの要求レベルが高いので登録できません。
 
 ID=18033
-封印
+Sealed
 
 ID=18034
-封印完了
+Sealing completed
 
 ID=18035
 You can prevent an equipment piece from being destroyed by using 1 Q.B.D[Enhancement Protector] on the equipment being enhanced.\n Do you wish to continue enhancing?
@@ -5459,7 +5459,7 @@ ID=18038
 -
 
 ID=18039
-分解完了
+Dismantling completed
 
 ID=18040
 分解が完了しました。
@@ -5480,7 +5480,7 @@ ID=18045
 {0} hr
 
 ID=18046
-{0} mins
+{0} m
 
 ID=18047
 Within 1 Minute
@@ -5597,7 +5597,7 @@ ID=18180
 ブローチソケット{0}個付与
 
 ID=18181
-Brooch Details:
+Broach Details:
 
 ID=18182
 Broach Slot Locked
@@ -5837,13 +5837,13 @@ ID=20300
 Cannot join channel due to congestion. Please use another one.
 
 ID=20301
-設置スペースが不足または設置不可エリアです。
+The operation cannot be done due to insufficient space or an invalid area.
 
 ID=20302
-設置スペースが不足または設置不可エリアです。
+The operation cannot be done due to insufficient space or an invalid area.
 
 ID=20303
-設置スペースがありません。
+No available area.
 
 ID=20304
 Time Left: {0}m
@@ -5852,28 +5852,28 @@ ID=20305
 使用を中止しますか？
 
 ID=20306
-既存設置アイテムは除去されます。実行しますか？
+Existing furniture will be removed; do you wish to proceed?
 
 ID=20307
-使用中のアイテムが消失しました。
+The used item has disappeared.
 
 ID=20308
-設置されたソーシャルアイテムがありません。
+You do not have the ソーシャルアイテム.
 
 ID=20309
-使用中のアイテムではありません。
+The item is currently inactive.
 
 ID=20310
 設置されたアイテムの解除権限がありません。
 
 ID=20400
-FP回復中…
+During FP Recovery, 
 
 ID=20401
-1分未満
+Less than 1 minute
 
 ID=20402
-休憩中…
+During break,
 
 ID=21000
 {0}の好感度が{1}増加しました。
@@ -5882,13 +5882,13 @@ ID=21001
 {0}に対する顧客等級Lv{1}を達成しました。段階による特典が付与されます。
 
 ID=21002
-顧客等級[Lv{0}]
+Relationship[Lv {0}]
 
 ID=21003
 等級特典
 
 ID=21004
-報酬アイテム
+Item Reward
 
 ID=21005
 好感度
@@ -5933,37 +5933,37 @@ ID=21018
 サポータークエスト遂行可能[サポーター：リュー]
 
 ID=21019
-サポータークエスト遂行可能[サポーター：ハイディンガー]
+Supporter Quest Complete [Supporter: Haidinger]
 
 ID=21020
-サポータークエスト遂行可能[サポーター：ミリアム]
+Supporter Quest Complete [Supporter: Miriam]
 
 ID=21021
-サポータークエスト遂行可能[サポーター：オートパニッシャー]
+Supporter Quest Complete [Supporter: サポーター：オートパニッシャー]
 
 ID=21022
-サポータークエスト遂行可能[サポーター：クリーニー]
+Supporter Quest Complete [Supporter: Kurini]
 
 ID=21023
-サポータークエスト遂行可能[サポーター：マクシム]
+Supporter Quest Complete [Supporter: Maxim]
 
 ID=21024
-サポータークエスト遂行可能[サポーター：ルーシー]
+Supporter Quest Complete [Supporter: Lucy]
 
 ID=21025
-サポータークエスト遂行可能[サポーター：ラルフ]
+Supporter Quest Complete [Supporter: Ralph]
 
 ID=21026
-サポータークエスト遂行可能[サポーター：センスン]
+Supporter Quest Complete [Supporter: Sensen]
 
 ID=21027
-達成
+Achievement
 
 ID=21028
-未達成
+Locked
 
 ID=21029
-顧客等級不足
+Insufficient customer relationship.
 
 ID=21030
 一日購入回数超過
@@ -6029,7 +6029,7 @@ ID=21400
 Travel
 
 ID=21401
-Do you want to move to a safe zone {0}?\nZenny Fee: {1}
+Do you want to move to {0}?\nFee: {1} zenny
 
 ID=21402
 Zenny Fee:
@@ -6062,7 +6062,7 @@ ID=21508
 Short-Range Attack
 
 ID=21509
-状態異常及び攻撃型
+Abnormal Attack State
 
 ID=21510
 Short-Range Attack
@@ -6089,13 +6089,13 @@ ID=21517
 Activate\nAttack Orb
 
 ID=21518
-Increases the supporters' attack by 20%
+Increases the supporters' ATK by 20%
 
 ID=21519
 Activate\nDefense Orb
 
 ID=21520
-Increases the supporters' defenses by 20%
+Increases the supporters' DEF by 20%
 
 ID=21521
 Are you sure you want to apply the attack orb's 20% attack buff?
@@ -6152,16 +6152,16 @@ ID=21538
 In Use
 
 ID=21539
-If there is a level difference of 5 or more; the combat abilities of the supporters will decrease proportionately.
+For level differences of 5 or greater, ability penalties apply on the supporter.
 
 ID=21540
-If there is a level difference of 5 or more; the combat abilities of the user will decrease proportionately.
+For level differences of 5 or greater, ability penalties apply on the user.
 
 ID=21541
 Apply: {0}
 
 ID=21542
-Change Supporter Order
+Supporter Order
 
 ID=21543
 Active Supporters
@@ -6179,7 +6179,7 @@ ID=21547
 Support buffs are available.
 
 ID=21548
-支援が終了しました。報酬を受け取ってください。
+Support has expired; claim the reward.
 
 ID=21549
 支援終了時間待機中です。
@@ -6272,7 +6272,7 @@ ID=22022
 Windowed Mode
 
 ID=22023
-Full Window Mode
+Borderless Window Mode
 
 ID=22024
 Full Screen
@@ -6353,7 +6353,7 @@ ID=22201
 Display Information
 
 ID=22202
-Character Name
+Name
 
 ID=22203
 Guild Name
@@ -6419,7 +6419,7 @@ ID=22223
 Mouse Sensitivity
 
 ID=22224
-Incoming Messages
+Interaction Controls
 
 ID=22225
 Whisper
@@ -6434,7 +6434,7 @@ ID=22228
 Guild Invite
 
 ID=22229
-Add Friend
+Befriend
 
 ID=22230
 Display Info
@@ -6488,10 +6488,10 @@ ID=22308
 Viewing Distance
 
 ID=22309
-Object Models Distance
+Object Models Dist.
 
 ID=22310
-Environmental Models Distance
+Environment M. Dist.
 
 ID=22311
 Brightness
@@ -6773,7 +6773,7 @@ ID=22574
 Targetting
 
 ID=22575
-Enter MyRoom
+Enter Room
 
 ID=22576
 Supporters List
@@ -6884,7 +6884,7 @@ ID=22633
 Event
 
 ID=22634
-Announcement
+Notice
 
 ID=22635
 NPC Lines
@@ -6950,7 +6950,7 @@ ID=22655
 Transparency (Active)
 
 ID=22656
-Transparency (Inactive)
+Transp. (Inactive)
 
 ID=22657
 Miscellaneous
@@ -7148,7 +7148,7 @@ ID=24265
 Familiar
 
 ID=24266
-Brooch
+Broach
 
 ID=24267
 Consumables
@@ -7385,7 +7385,7 @@ ID=24515
 Familiar
 
 ID=24516
-Brooch
+Broach
 
 ID=24517
 Consumables
@@ -7412,7 +7412,7 @@ ID=24524
 Prevent Enhancement Destruction
 
 ID=24525
-Enhancements Done:
+Enhances
 
 ID=24526
 EXP Gain Increase
@@ -7436,7 +7436,7 @@ ID=24532
 Restore Destroyed Item
 
 ID=24533
-ブローチ合成
+Broach Synthesis 
 
 ID=24534
 Additional Familia Socket
@@ -7841,10 +7841,10 @@ ID=24767
 General
 
 ID=24768
-Offense-type
+Offense Related
 
 ID=24769
-Defense-type
+Defense Related
 
 ID=24770
 General
@@ -8048,7 +8048,7 @@ ID=24836
 Supporter Avatar
 
 ID=24837
-MyRoom
+Miriam
 
 ID=24838
 Ryu
@@ -8078,7 +8078,7 @@ ID=24846
 Secret A.R Card
 
 ID=24847
-My Room Package
+Room Package
 
 ID=24848
 Hancoin Package
@@ -8381,7 +8381,7 @@ ID=26030
 Maximum Soul Vapor[%]
 
 ID=26031
-Movement Speed[%]
+Movement Speed
 
 ID=26032
 Attack Speed(%)
@@ -8420,16 +8420,16 @@ ID=26043
 Ineffective Attack Damage[%]
 
 ID=26044
-Critical Hit Rate(%)
+Critical Hit Rate
 
 ID=26045
 Magic Critical Rate[%]
 
 ID=26046
-Critical Resistance[%]
+Critical Resistance
 
 ID=26047
-Magic Critical Resistance[%]
+Magic Critical Resistance
 
 ID=26048
 Critical Hit Rate[%]
@@ -8459,13 +8459,13 @@ ID=26056
 Magic Damage Reduction[%]
 
 ID=26057
-Resistance:Burn[%]
+Burn Resistance
 
 ID=26058
-Resistance:Poison[%]
+Poison Resistance
 
 ID=26059
-Resistance:Shock[%]
+Shock Resistance
 
 ID=26060
 Evasion Rate
@@ -8489,25 +8489,25 @@ ID=26066
 Cooldown Reduction[%]
 
 ID=26067
-Additional Damage: PvP[%]
+Damage: PvP
 
 ID=26068
 Damage Reduction: PvP[%]
 
 ID=26069
-Additional Damage on General Mobs[%]
+Damage on General Mobs
 
 ID=26070
-Additional Damage on Bosses[%]
+Damage on Bosses
 
 ID=26071
-Additional Damage on Short-Ranged Attacks[%]
+Damage on Short-Ranged Attacks
 
 ID=26072
-Additional Damage on Long-Ranged Attacks[%]
+Damage on Long-Ranged Attacks
 
 ID=26073
-Additional Damage on Aerial Attacks[%]
+Damage on Aerial Attacks
 
 ID=26074
 Reduce Bonus Enemy Damage[%]
@@ -8564,55 +8564,55 @@ ID=26091
 Reflect Damage Rate
 
 ID=26092
-Resistance:Bleeding[%]
+Bleed Resistance
 
 ID=26093
-Resistance:Fainting[%]
+Stun Resistance
 
 ID=26094
-Resistance:Paralysis[%]
+Paralysis Resistance
 
 ID=26095
-Resistance:Sleep[%]
+Sleep Resistance
 
 ID=26096
-Resistance:Freeze[%]
+Freeze Resistance
 
 ID=26097
-Resistance:Silenced[%]
+Silence Resistance
 
 ID=26098
-Resistance:Armor Penetrated[%]
+Armor Penetration Resistance
 
 ID=26099
-Resistance:Charmed[%]
+Charm Resistance
 
 ID=26100
-Resistance:Confusion[%]
+Confusion Resistance
 
 ID=26101
-Additional Damage Dealt on Soul Junk[%]
+Damage Dealt on Soul Junk
 
 ID=26102
-Additional Damage Dealt on Puppet Faction[%]
+Damage Dealt on Puppet Faction
 
 ID=26103
-Additional Damage Dealt on NED Company[%]
+Damage Dealt on NED Company
 
 ID=26104
-Additional Damage: Rapid Flames[%]
+Damage: Rapid Flames Faction
 
 ID=26105
-Additional Damage Dealt on Nihilum Kingdom Gang[%]
+Damage Dealt on Nihilum Kingdom Gang
 
 ID=26106
-Additional Damage Dealt on Iron Force Faction[%]
+Damage Dealt on Iron Force Faction
 
 ID=26107
-Additional Damage Dealt on Imperfect Soul Worker[%]
+Damage Dealt on Imperfect Soul Worker
 
 ID=26108
-Additional Damage Dealt on District 6 Foes[%]
+Damage Dealt on District 6 Foes
 
 ID=26109
 Reduce Damage Taken from Soul Junk[%]
@@ -8711,7 +8711,7 @@ ID=26309
 Reduce the cooldown of skill by {0}%
 
 ID=26310
-回避使用時、HP{0}%回復
+When avoiding, recover {0}% HP.
 
 ID=26311
 スキル使用時、5%の確率でクールタイム{0}%減少
@@ -8792,7 +8792,7 @@ ID=26336
 When attacked, 20% probability of a 6 second super armor effect
 
 ID=26337
-回避時、5秒間ダメージ減少{0}%
+For 5 seconds, damage is decreased by {0}%.
 
 ID=26338
 空中でダメージを受けた時、5秒間ダメージ減少{0}%
@@ -8828,7 +8828,7 @@ ID=27002
 クリティカル命中時、7%の確率で3秒間クリティカル攻撃力が{0}%増加
 
 ID=27500
-ジェニー獲得時、獲得量の{0}%HP回復
+Upon gaining Zenny, HP increases by {0}%
 
 ID=27700
 敵討伐時、ソウルベイパー{0}%獲得
@@ -8840,7 +8840,7 @@ ID=27702
 命中時、スキル倍率{0}%増加
 
 ID=28000
-Guild established.
+Create Guild
 
 ID=28001
 Guild
@@ -8867,10 +8867,10 @@ ID=28008
 Enter a guild name.
 
 ID=28009
-Your guild name can be up to 8 characters long.
+A name can be up to 8 characters long.
 
 ID=28010
-Available Guild Name(s)
+Available Guild Name
 
 ID=28011
 The guild name {0} is usable.
@@ -8891,7 +8891,7 @@ ID=28016
 Guild Master
 
 ID=28017
-Please confirm your action.
+Please consider once more.
 
 ID=28018
 Set Guild Exit
@@ -9035,85 +9035,85 @@ ID=28064
 Do you want to save the guild permissions for {0} rank?
 
 ID=28065
-Save Permissions
+Save
 
 ID=28066
 Completed permission changes to {0}.
 
 ID=28067
-You can try creating a guild again in \n{0} minutes.
+You can try creating a guild announcement again in \n{0} minutes.
 
 ID=28068
 Cancel Guild Announcement
 
 ID=28069
-Do you want to proceed with the guild announcement?
+Do you want to proceed with the guild notice?
 
 ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to by Soul Workers HQ Translation Team; version 1.00alpha.\nPlease check your guild's information, there are updates.
+This translation was brought to by Soul Workers HQ Translation Team; version 1.00alpha.\nPlease check your guild's information for updates.
 
 ID=28072
-新たなギルド告知が追加されました。\n内容を確認してください。
+New guild notices have been posted.\n Check it out.
 
 ID=28073
-ギルド告知作成を完了せずに中止しますか？
+Do you wish to cancel the guild notice being made?
 
 ID=28074
-ギルド告知中止
+Cancel Guild Notice
 
 ID=28075
-{0}分後に掲示板を作成できます。
+You may post another BBS message in {0} minutes.
 
 ID=28076
-ギルド掲示板作成不可
+The guild bulletin post was not created.
 
 ID=28077
-すでに{0}は他のギルドに加入しています。
+{0} is already in another guild.
 
 ID=28078
-{0}は他のギルド招待要請を確認中です。
+{0} has a guild invitation received already.
 
 ID=28079
-すでに{0}にはギルド招待要請を送っています。
+{0} has already sent the guild invite request.
 
 ID=28080
-{0}は現在ログインしていません。
+{0} is not currently logged in.
 
 ID=28081
-{0}は現在町にいません。
+{0} is not currently in town.
 
 ID=28082
-ギルドに加入できるメンバー数を超過しました。
+The maximum number of guild members has been reached.
 
 ID=28083
-{0}は脱退ペナルティ適用中のため、ギルドに加入できません。
+{0} cannot join due to a guild withdrawl penalty.
 
 ID=28084
-{0}から[{1}]への加入要請が届きました。承諾しますか？\n承諾時間：{2}秒
+{0} [{1}} wishes to join. Do you accept?\n Response Time: {2} seconds remaining
 
 ID=28085
-ギルド招待案内
+Invite Guild Member
 
 ID=28086
-{0}がギルド招待を拒否しました。
+{0} has been rejected from joining the guild.
 
 ID=28087
-ギルド招待拒否案内
+Guild Invite Refusal
 
 ID=28088
 ギルドメンバー数を超過したため、加入できません。
 
 ID=28089
-ギルド加入案内
+Guild Info
 
 ID=28090
-{0}に加入申請しますか？
+Are you sure you want to join {0}?
 
 ID=28091
-ギルド加入申請
+Guild Application
 
 ID=28092
 ギルドが存在しないか、申請ができない状態です。
@@ -9179,10 +9179,10 @@ ID=28112
 ギルド脱退完了
 
 ID=28113
-{0}から脱退しました。
+You have left {0}.
 
 ID=28114
-{0}がギルドから脱退しました。
+{0} has left the Guild.
 
 ID=28115
 Kick {0} from the guild?
@@ -9191,37 +9191,37 @@ ID=28116
 ギルド追放案内
 
 ID=28117
-{0}をギルドから追放しました。
+{0} has been expelled from the Guild.
 
 ID=28118
 ギルド追放完了
 
 ID=28119
-{0}がギルドから追放されました。
+{0} has been expelled from the Guild.
 
 ID=28120
-{0}から追放されました。
+You were expelled from {0}.
 
 ID=28121
-追放権限を持つプレイヤー同士では追放できません。
+You can not expel this member; they have higher authority.
 
 ID=28122
 ギルド追放不可
 
 ID=28123
-ギルドレベル達成：{0}
+Guild Level: {0}
 
 ID=28124
 Guild skills info
 
 ID=28125
-ギルド銀行にジェニーが足りないため、スキルを習得できません。
+Can't learn guild skills; insufficient guild funds.
 
 ID=28126
 ギルド銀行にジェニーが足りないため、スキルを強化できません。
 
 ID=28127
-ギルド委任者選択
+Modify Rank
 
 ID=28128
 Name
@@ -9230,13 +9230,13 @@ ID=28129
 Lv
 
 ID=28130
-Character
+Class
 
 ID=28131
 Rank
 
 ID=28132
-選択完了
+Finish
 
 ID=28133
 Guild
@@ -9266,13 +9266,13 @@ ID=28141
 Leave
 
 ID=28142
-Announcement
+Notice
 
 ID=28143
 Announce
 
 ID=28144
-Finish Creation
+Create
 
 ID=28145
 Cancel Creation
@@ -9290,7 +9290,7 @@ ID=28149
 Guild Applicants List
 
 ID=28150
-Master Menu
+Guild Controls
 
 ID=28151
 Rank Settings
@@ -9299,10 +9299,10 @@ ID=28152
 Expel
 
 ID=28153
-Information Control Settings
+Show Publicly
 
 ID=28154
-Permissions Settings
+Permissions
 
 ID=28155
 Vice Master
@@ -9323,7 +9323,7 @@ ID=28160
 Permissions Control
 
 ID=28161
-Guild Announcements
+Guild Notices
 
 ID=28162
 Guild Invite
@@ -9344,7 +9344,7 @@ ID=28167
 Can't withdraw; there is a limit of 1 per day.
 
 ID=28168
-Save Permissions
+Save
 
 ID=28169
 Post Date:
@@ -9371,7 +9371,7 @@ ID=28176
 Search
 
 ID=28177
-Guild Membership Applicants
+Guild Applicants
 
 ID=28178
 Apply
@@ -9425,7 +9425,7 @@ ID=28194
 {0} hr
 
 ID=28195
-{0} mins
+{0} m
 
 ID=28196
 Guild Details
@@ -9455,7 +9455,7 @@ ID=28204
 The rank modification was denied.
 
 ID=28205
-You can use up to 8 characters for a guild name.
+Use 2 to 8 characters for a guild name.
 
 ID=28206
 Can't create guild with present guild name, this word is not allowed.
@@ -9467,7 +9467,7 @@ ID=28208
 A guild can not be made again within {0} hours as one was dissolved recently.
 
 ID=28209
-< Only authorized members can announce >
+< Only authorized members can modify >
 
 ID=28210
 Recruit Ad
@@ -9479,19 +9479,19 @@ ID=28212
 ギルド募集告知を作成します。
 
 ID=28213
-作成後、{0}分後から作成可能です。
+The new ad/announcement can be made in {0} minutes.
 
 ID=28214
-ギルド募集告知作成不可
+Guild notice cancelled.
 
 ID=28215
-ギルド募集告知内容に間違いはありませんか？
+Do you wish to post the guild notice/recruit ad?
 
 ID=28216
-ギルド募集告知確認
+Guild Recruit Notice
 
 ID=28217
-Information Control Settings
+Show Publicly
 
 ID=28218
 On
@@ -9500,16 +9500,16 @@ ID=28219
 Off
 
 ID=29000
-MyRoom
+Room
 
 ID=29001
-訪問
+Visit
 
 ID=29002
-ランダム訪問
+Random Visit
 
 ID=29003
-Visit MyRoom
+Visit Room
 
 ID=29004
 マイルーム追放
@@ -9524,10 +9524,10 @@ ID=29007
 Room Settings
 
 ID=29009
-Room Management mode has been cancelled.
+Cancel Arrange Mode
 
 ID=29010
-配置
+Place
 
 ID=29011
 Public
@@ -9548,7 +9548,7 @@ ID=29016
 General
 
 ID=29017
-星占い順
+Horoscope Order
 
 ID=29018
 自分のフレンドのみ
@@ -9560,22 +9560,22 @@ ID=29020
 Furniture
 
 ID=29021
-家具配置
+Arrange Furniture
 
 ID=29022
 Move
 
 ID=29023
-配置完了
+Place
 
 ID=29024
-除去
+Remove
 
 ID=29025
-配置中
+Place
 
 ID=29026
-Create My Room
+Create Room
 
 ID=29027
 Creating a room costs 5,000 Zenny.\n Do you want to make one?\n (Limit one room)
@@ -9599,7 +9599,7 @@ ID=29033
 マイルーム作成費用が不足しています。
 
 ID=29034
-My Room 
+Enter Room
 
 ID=29035
 Do you want to enter your room?
@@ -9608,10 +9608,10 @@ ID=29036
 相手のマイルーム入場案内
 
 ID=29037
-{0}のマイルームに入場しますか？
+Do you want to admit {0} to your room?
 
 ID=29038
-ランダムマイルーム入場案内
+Enter Random MyRoom
 
 ID=29039
 ランダムでマイルームに入場しますか？
@@ -9623,28 +9623,28 @@ ID=29041
 {0}のマイルームには入場できません。
 
 ID=29042
-設定可否案内
+Controls can be set
 
 ID=29043
-設定に変更があります。ウィンドウを閉じますか？
+Changes were made to settings; do you wish to close the window?
 
 ID=29044
-マイルーム入場メンバー超過案内
+The maximum number of guests have been reached.
 
 ID=29045
-マイルーム入場メンバーが超過しているため入場できません。
+You can not enter the room because the guest capacity limit was reached.
 
 ID=29046
 マイルーム強制退場対象案内
 
 ID=29047
-{0}をマイルームから追放しますか？
+Are you sure you want to kick {0} from your room?
 
 ID=29048
-マイルーム追放案内
+Kick Guest Prompt
 
 ID=29049
-{0}のマイルームから追放されました。
+{0} has been kicked from your room.
 
 ID=29050
 Change Room Layout
@@ -9653,10 +9653,10 @@ ID=29051
 To begin managing your room, all guests will be kicked out.\n Do you still wish to proceed?\n (Confirmation)
 
 ID=29052
-Room Management mode has been cancelled.
+Cancel Arrange Mode
 
 ID=29053
-配置モード状態を解除しますか？
+Do you wish to turn layout mode off?
 
 ID=29054
 以前のマイルーム公開/ローカル状態に自動転換します。
@@ -9668,16 +9668,16 @@ ID=29056
 Camera Height
 
 ID=29057
-Camera Rotation
+Rotate Camera
 
 ID=29058
 Camera Zoom
 
 ID=29059
-Camera Initialization
+Reset Camera
 
 ID=29060
-マイルーム退室
+Leave Room
 
 ID=29061
 Use
@@ -9692,7 +9692,7 @@ ID=29064
 家具使用人員を超過しました。
 
 ID=29065
-設置内装
+Interior Decor
 
 ID=30000
 Profile
@@ -9713,10 +9713,10 @@ ID=30101
 Looking for a guild.
 
 ID=30102
-Search Friends
+Find Friend
 
 ID=30103
-Soloing[Do not Disturb]
+Soloing[Go away]
 
 ID=30104
 Newbie
@@ -9728,7 +9728,7 @@ ID=31000
 Invitation is only the leader.
 
 ID=31001
-パーティーの最大人員を超過しました。
+No more party members can be added; the party is full.
 
 ID=31002
 [{0}]は他のパーティーに加入しています。
@@ -9761,7 +9761,7 @@ ID=31011
 You cannot join the party.
 
 ID=31012
-パーティーの最大人員を超過しました。
+No more party members can be added; the party is full.
 
 ID=31013
 [{0}]がパーティー招待を拒否しました。
@@ -9851,46 +9851,46 @@ ID=31041
 Leave Party
 
 ID=31042
-入場要請
+Request Entry
 
 ID=31043
-入場要請待機
+Cancel Request
 
 ID=31044
 Change Party Leader
 
 ID=31045
-パーティー追放
+You have been kicked from the party
 
 ID=31046
-メイズ入場拒否
+Entry to dungeon denied
 
 ID=31047
-準備完了
+Ready
 
 ID=31048
 EPISODE
 
 ID=31049
-オートマッチング
+Auto-Matching
 
 ID=31050
-オートマッチング使用不可
+Auto-matching disabled
 
 ID=31051
-オートマッチング検索不可
+Auto-Matching Search Cancelled
 
 ID=31052
-オートマッチング進行選択
+Auto-matching inprogress
 
 ID=31053
-オートマッチング強制退場
+Auto-matching forced to exit
 
 ID=31054
-オートマッチング終了
+Auto-matching ended
 
 ID=31055
-パーティー加入中は、オートマッチングは使用できません。
+Auto-matching cannot be used in a party.
 
 ID=31056
 時間内に検索できませんでした。
@@ -9902,13 +9902,13 @@ ID=31058
 パーティー進行可否を選択しなかったため強制退場となりました。
 
 ID=31059
-オートマッチングを終了しますか？
+Do you want to exit auto-matching?
 
 ID=31060
 ペナルティ発生により、[{0}]分[{1}]秒間オートマッチングを使用できません。
 
 ID=31061
-Remaining Search Time
+Time Left
 
 ID=31062
 パーティー進行可否選択中
@@ -9959,10 +9959,10 @@ ID=31077
 Requests
 
 ID=31078
-募集登録時間
+Recruitment Time
 
 ID=31079
-{0} mins
+{0} m
 
 ID=31080
 Apply
@@ -10013,7 +10013,7 @@ ID=31095
 Lv
 
 ID=31096
-Character
+Class
 
 ID=31097
 Location
@@ -10139,19 +10139,19 @@ ID=31137
 Unequip
 
 ID=31138
-パーティーを結成しました。
+Party has been formed.
 
 ID=31139
 メイズ再挑戦をメンバーに要請しますか？\n(残り時間：{0}秒)
 
 ID=31140
-リーダーの{0}がメイズ再挑戦を要請しています。\n要請に応じますか？\n(残り時間：{1}秒)
+The leader{0}has requested a dungeon retry.\nWill you accept the request?\n(Remaining time: {1}seconds)
 
 ID=31141
 Request
 
 ID=31142
-メンバーの応答を待っています。\n(再挑戦したくない場合は「中止」をクリック)
+Waiting for members to respond.\n(Click "Cancel" if you do not want to retry)
 
 ID=31143
 {0}がメイズ再開申請を拒否しました。
@@ -10202,19 +10202,19 @@ ID=31158
 Unjoin
 
 ID=31159
-Remainining Time:
+Time Left
 
 ID=31160
-オートマッチング離脱案内
+Auto-matching withdrawal
 
 ID=31161
-現在のパーティーから離脱すると、オートマッチング利用に制限がかかります。\n本当に離脱しますか？
+When withdrawing from the current party, there will be a time limit for auto-matching.\nAre you sure you want to leave?
 
 ID=31162
 待機者リストに登録されていないプレイヤーです。
 
 ID=31163
-お知らせ
+Notice
 
 ID=31164
 パーティー申請できるレベルではありません。
@@ -10226,7 +10226,7 @@ ID=31166
 マッチング中のメンバーがキャンセルしました。
 
 ID=31167
-パーティーが戦闘中です。合流しますか？\n(残り時間：{0}秒)
+The party is in combat; do you wish to join? \n (Time remaining: {0} seconds)
 
 ID=31168
 Party Join Request Ad
@@ -10235,7 +10235,7 @@ ID=31169
 メンバーの離脱により、敵が弱体化されます。
 
 ID=31170
-Destination
+Area
 
 ID=31171
 Party Join Request Ad
@@ -10469,7 +10469,7 @@ ID=32071
 Party
 
 ID=32072
-オートマッチング
+Auto-Matching
 
 ID=32073
 パーティー検索
@@ -10553,7 +10553,7 @@ ID=32099
 Synthesis
 
 ID=32100
-Exchange Items
+Exchange
 
 ID=33000
 こんにちは。\n私、この入り混じりし世にて至極のショーを求め彷徨う「道化師エドガー」と申します。\n突然のお手紙に、さぞ驚かれたことでしょう。\nですが、あなたの力に感嘆を禁じえなかったこの思いをお伝えしたかったのです。\nあなたのその力は、短い我が人生の中でもっとも美しく印象的でした。\n華やかでありながら地味で、美しくも汚らわしい、\nそして…平穏でありながら破壊的な…。\nこの破裂しそうな私の気持ちをどう表現すべきか、悩んだ末に結論を出しました。\nあなたに…ささやかなプレゼントを贈ります。\nその力に対し敬意を表するという意味ゆえ、どうか拒否されませんよう。\nプレゼントは、あなた方が「ショッピングストリート」と呼ぶ場所で確認できます。\n願わくば…気に入ってくださらんことを祈りつつ。\n-道化師エドガーより-
@@ -10898,16 +10898,16 @@ ID=38500
 Rank
 
 ID=38501
-Beginner[D]
+Novice D
 
 ID=38502
-Beginner[C]
+Novice C
 
 ID=38503
-Beginner[B]
+Novice B
 
 ID=38504
-Beginner[A]
+Novice A
 
 ID=38505
 Rookie D
@@ -11024,7 +11024,7 @@ ID=39951
 <font color='#10FF97'>{0}：{1} Increased</font>
 
 ID=39952
-<font color='#C62424'>{0}：{1}減少</font>
+<font color='#C62424'>{0}：Reduce {1}</font>
 
 ID=40001
 Please open the bag and take out the operation device.
@@ -11069,7 +11069,7 @@ ID=40017
 Double Input
 
 ID=40018
-ダウン起床
+Recover
 
 ID=40101
 Please move to the next area.
@@ -11099,7 +11099,7 @@ ID=40111
 Please operate the switch.
 
 ID=40112
-Please activate the bomb by pulling the leave in the middle of the control room.
+Please activate the bomb by using the lever in the middle of the control room.
 
 ID=40113
 Please remove the highway debris with the C4.
@@ -11120,7 +11120,7 @@ ID=40118
 You must remove the special shield before moving to the next area.
 
 ID=40119
-Please stop the Soul Junk attacks before the explosion.
+Please defeat all Soul Junk before the bomb explodes.
 
 ID=40120
 Entered a safe zone.
@@ -11141,7 +11141,7 @@ ID=40125
 Please use the purifier to render the Mad Beholder's poisonous gas ineffective.
 
 ID=40126
-Purifier operation confirmed. The poisonous gas has been purified.
+Activation confirmed. The poisonous gas has been purified.
 
 ID=40127
 Poisonous gas purification failed. Poisonous gas fills the air.
@@ -11210,7 +11210,7 @@ ID=40152
 All the secret boxes will vanish after the time limit.
 
 ID=40153
-攻撃を避けて、祭壇に上がってください。
+To dodge the attack, go to the altar.
 
 ID=40154
 Junk Knight is preparing to do a powerful attack.\nAttack it to stop the attack.
@@ -11351,10 +11351,10 @@ ID=40199
 Defeat all enemies within the time limit.
 
 ID=40200
-侵入者警報装置停止成功
+Intruder Alarm Disabled
 
 ID=40201
-侵入者警報装置停止失敗
+Intruder Alarm Unsuccessfully disabled
 
 ID=40202
 エレベーター内の侵入者警報装置が作動しました。\n安全な場所へ移動し、敵を討伐してください。
@@ -11465,16 +11465,16 @@ ID=40237
 一定時間、敵の出現が止まります。
 
 ID=40238
-東側エリアに敵が出現します。
+In the east area, enemies appeared.
 
 ID=40239
-西側エリアに敵が出現します。
+In the west area, enemies appeared.
 
 ID=40240
-東側エリアの敵出現が止まりました。\n一定時間後、別の敵が出現します。
+The enemies in the east area have cleared out.\n After a certain time, the enemies will respawn.
 
 ID=40241
-西側エリアの敵出現が止まりました。\n一定時間後、別の敵が出現します。
+The enemies in the west area have cleared out.\n After a certain time, the enemies will respawn.
 
 ID=40242
 ダメージを与える粘液が消えます。
@@ -11495,13 +11495,13 @@ ID=40247
 周期的に発生する磁気フィールドに注意してください。
 
 ID=40248
-磁気フィールド発生5秒前
+The magnetic field was generated recently.
 
 ID=40249
 非常アリーナの外に出ると磁気フィールドによるダメージを受けます。
 
 ID=40250
-コントローラー作動時、1～15体の敵が出現します。
+When the controller is operating, 1 to 15 enemies will appear.
 
 ID=40251
 ヘビーセルは、出現時に移動速度を減少させる地域を発生させます。
@@ -12308,10 +12308,10 @@ ID=42086
 テッド&ジュリー
 
 ID=42087
-セニア
+Senia
 
 ID=42088
-作戦将校セニア
+Tactics Officer Senia
 
 ID=42089
 セントリーコマンダー
@@ -12404,7 +12404,7 @@ ID=42118
 アサルトゴースト
 
 ID=42119
-ベティ
+Betty
 
 ID=42120
 グラスパー
@@ -12632,16 +12632,16 @@ ID=42194
 作戦兵ブロック
 
 ID=42195
-戦闘指揮の作戦兵ブロック
+Block Strategist Lead Commander
 
 ID=42196
-ブロックμ
+Micro Block Soldier
 
 ID=42197
-作戦兵ブロックμ
+Micro Block Commander Strategist
 
 ID=42198
-戦闘指揮の作戦兵ブロックμ
+Micro Block Strategist Lead Commander
 
 ID=42199
 ウォーライク
@@ -12650,16 +12650,16 @@ ID=42200
 堅固なウォーライク
 
 ID=42201
-好戦的な岩石ウォーライク
+Militant Warlike Rock
 
 ID=42202
-Warlike μ
+Micro Warlike
 
 ID=42203
-Strong Warlike µ
+Micro Strong Warlike
 
 ID=42204
-Martial Warlike µ
+Micro Warlike Martial
 
 ID=42205
 シウォラット
@@ -12668,16 +12668,16 @@ ID=42206
 下水溝の主シウォラット
 
 ID=42207
-闇の下水王シウォラット
+Dark Sewer King Shirwatto
 
 ID=42208
-シウォラットμ
+Micro Shirwatto
 
 ID=42209
-下水溝の主シウォラットμ
+Micro Sewer Shirwatto
 
 ID=42210
-闇の下水王シウォラットμ
+Micro Dark Sewer King Shirwatto
 
 ID=42211
 ヴェノムミューカス
@@ -12686,16 +12686,16 @@ ID=42212
 黒き巨人ヴェノムミューカス
 
 ID=42213
-猛毒の巨人ヴェノムミューカス
+Deadly Giant Venomous Scum
 
 ID=42214
-ヴェノムミューカスμ
+Micro Venomous Scum
 
 ID=42215
-黒き巨人ヴェノムミューカスμ
+Micro Black Giant Venomous Scum
 
 ID=42216
-猛毒の巨人ヴェノムミューカスμ
+Micro Deadly Giant Venomous Scum
 
 ID=42217
 ダークアリゲーター
@@ -12704,16 +12704,16 @@ ID=42218
 略奪者ダークアリゲーター
 
 ID=42219
-紫の巨獣ダークアリゲーター
+Violet Dark Alligator Beast
 
 ID=42220
-ダークアリゲーターμ
+Micro Dark Alligator
 
 ID=42221
-略奪者ダークアリゲーターμ
+Micro Marauder Dark Alligator
 
 ID=42222
-紫の巨獣ダークアリゲーターμ
+Micro Violet Dark Alligator Beast
 
 ID=42223
 セル
@@ -12767,7 +12767,7 @@ ID=42239
 研究員ビクターμ
 
 ID=42240
-不眠の研究員ビクターμ
+Micro Restless Researcher Victor
 
 ID=42241
 ガルス
@@ -13151,7 +13151,7 @@ ID=43086
 テッド&ジュリー
 
 ID=43087
-セニア
+Senia
 
 ID=43089
 セントリーコマンダー
@@ -13196,7 +13196,7 @@ ID=43118
 アサルトゴースト
 
 ID=43119
-ベティ
+Betty
 
 ID=43120
 グラスパー
@@ -13343,7 +13343,7 @@ ID=43220
 [SH]ダークアリゲーター
 
 ID=43223
-[S]セル
+[S] Cell
 
 ID=43226
 [SH]セル
@@ -13427,7 +13427,7 @@ ID=45003
 Hide
 
 ID=45004
-Manage Externally
+Warddrobe
 
 ID=45005
 Open
@@ -13565,7 +13565,7 @@ ID=45049
 -Empty-
 
 ID=45050
-Remaining Times:
+Remaining:
 
 ID=45051
 Sale Time: {0}
@@ -13724,7 +13724,7 @@ ID=45305
 Open General Items Cube.
 
 ID=45306
-Open Brooch Cube.
+Open Broach Cube.
 
 ID=45307
 Open A.R. Cube.
@@ -13736,7 +13736,7 @@ ID=45309
 Item acquired:\n {0} 
 
 ID=45310
-Brooch obtained:\n{0}
+Broach obtained:\n{0}
 
 ID=45311
 A.R. Card Acquired:\n {0}
@@ -14054,7 +14054,7 @@ ID=49316
 List
 
 ID=49317
-Confirm Rewards
+Preview
 
 ID=49318
 Step
@@ -14063,7 +14063,7 @@ ID=49319
 Secured
 
 ID=49320
-Receive Reward
+Reward Status
 
 ID=49321
 Achievements
@@ -14300,13 +14300,13 @@ ID=49630
 Additional Info
 
 ID=49631
-Offense-type
+Offense Related
 
 ID=49632
-Defense-type
+Defense Related
 
 ID=49633
-Assistant Type
+Utility Related
 
 ID=49700
 Secondary(2) Password Registration
@@ -14381,10 +14381,10 @@ ID=49737
 You entered the wrong password.\n Try again.
 
 ID=49780
-Save Now
+Set Now
 
 ID=49781
-Save Later
+Set Later
 
 ID=49782
 Moving to homepage.
@@ -14672,13 +14672,13 @@ ID=50004
 Failed to move worlds.
 
 ID=50005
-エラー発生によりパーティー検索に失敗しました。
+Could not search for a party.
 
 ID=50006
-メモリー不足によりメイズ生成に失敗しました。
+Could not load dungeon; insufficient memory.
 
 ID=50007
-内部エラー発生によりメイズ生成に失敗しました。
+Could not load dungeon; system error.
 
 ID=50009
 Mobile confirmation error.
@@ -14753,10 +14753,10 @@ ID=51010
 You cannot be revived in this dungeon.
 
 ID=51012
-ギルドマスターは、キャラクターを削除できません。
+You cannot delete the character; revoke your guild mastership first.
 
 ID=52001
-誤ったインベントリです。
+Invalid inventory retrieval.
 
 ID=52002
 The item information does not match.
@@ -14768,223 +14768,223 @@ ID=52004
 The selected item does not have information.
 
 ID=52005
-タイプ制限により、アイテム装着に失敗しました。
+Incorrect type, could not attach to the item.
 
 ID=52006
-位置制限により、アイテム装着に失敗しました。
+Mismatched position, could not attach to the item.
 
 ID=52007
-レベル制限により、アイテム装着に失敗しました。
+Insufficient level, could not attach to the item.
 
 ID=52008
-ボディタイプ制限により、アイテム装着に失敗しました。
+Mismatched body physique, could not attach to the item.
 
 ID=52009
-キャラクター制限により、選択したアイテムは装着できません。
+Mismatched character, could not attach to the item.
 
 ID=52010
-インベントリに空きスロットが不足しています。
+Insufficient inventory space.
 
 ID=52011
 There is an error in the item information.
 
 ID=52012
-正常なスロットではありません。
+Incorrect slot.
 
 ID=52013
-正常な数ではありません。
+Incorrect quantity.
 
 ID=52014
-数が一致しません。
+Insufficient quantity.
 
 ID=52015
-選択したアイテムは合成できないアイテムです。
+This item can't be used for synthesis.
 
 ID=52016
-選択したアイテムは分解できないアイテムです。
+This item can't be dismantled.
 
 ID=52017
-選択したアイテム情報が見つかりません。
+This item's data is non-existent.
 
 ID=52018
-選択したアイテムは移動できません。
+This item can't be stored or moved.
 
 ID=52019
-選択したアイテムは合成できません。
+This item can't be synthesized.
 
 ID=52020
-選択したアイテムは分解できません。
+This item can't be dismantled.
 
 ID=52021
-アイテム破壊に失敗しました。
+Failed to discard item.
 
 ID=52022
-アイテム生成に失敗しました。
+Failed to make item.
 
 ID=52023
-スロット拡張に失敗しました。
+Failed to expand slots.
 
 ID=52024
-帰属状態のアイテムです。
+This item is bound.
 
 ID=52025
-銀行入金失敗
+Could not deposit items into the bank.
 
 ID=52026
-現在使用できるアイテムではありません。
+This item can't be used.
 
 ID=52027
-破壊するアイテムの数が現在の数と異なります。
+The number of items to be discarded does not match with your current quantity.
 
 ID=52028
-該当アイテムは「破棄不可」オプションに設定されたアイテムです。
+These items can't be discarded.
 
 ID=52029
-インベントリに空きが不足しているため、アイテムを獲得できません。
+Insufficient inventory space to obtain new items.
 
 ID=52030
-インベントリに空きが不足しているため、アイテムを装着/解除できません。
+Insufficient inventory space; the operation has been cancelled.
 
 ID=52031
-インベントリに空きが不足しているため、アイテムを装着できません。
+Insufficient inventory space, could not attach to the item.
 
 ID=52032
-選択したアイテムは装着できないアイテムです。
+The selected item can't have an attachment.
 
 ID=52033
-選択したアイテムはレベル制限により装着できません。
+The selected item can't have an attachment due to level restrictions.
 
 ID=52034
-選択したアイテムはキャラクター制限により装着できません。
+The selected item can't have an attachment due to character restrictions.
 
 ID=52035
-銀行のスロットが不足しているため、アイテムを保管できません。
+Insufficient bank space; please empty to store your items.
 
 ID=52036
-インベントリに空きが不足しているため、アイテムを取り出せません。
+Insufficient inventory space; item retrieval is not possible.
 
 ID=52037
-選択したアイテムは修理できないアイテムです。
+This item can't be repaired.
 
 ID=52038
-選択したアイテムは「修理不可」設定が適用されているアイテムです。
+This item can't be repaired.
 
 ID=52039
-耐久度が減少していないアイテムは修理できません。
+Equipment in pristine condition can't be repaired.
 
 ID=52040
-修理費が足りないため、修理できませんでした。
+Insufficient funds to repair equipment.
 
 ID=52041
-分割中のアイテムを破棄することはできません。
+You can not discard items while performing the split operation.
 
 ID=52042
-アイテム装着に失敗しました。装着可能スロットを確認してください。
+Mismatched attachment slot.
 
 ID=52043
-帰属状態のアイテムは銀行に預けられません。
+Bound items are not storable.
 
 ID=52044
-取引不可アイテムは銀行に保管できません。
+Untradable items are not storable.
 
 ID=52045
-スチールグレイブの入場回数が残っているので使用できません。
+The item could not be used; you can still enter Steel Grave.
 
 ID=52046
-スチールグレイブの入場情報が初期化されました。スチールグレイブへ入場できます。
+The daily entry limit for Steel Grave has been reset.
 
 ID=52101
-使用できないスロットです。
+The item's slot could not be used.
 
 ID=52102
-ショートカットスロット登録中にエラーが発生しました。
+Could not register quick slot.
 
 ID=52103
-ショートカットスロット番号が有効ではありません。
+Invalid quick slot number.
 
 ID=52104
-ショートカットスロットタイプが有効ではありません。
+Invalid quick slot type.
 
 ID=52105
-タイトル情報が有効ではありません。
+Could not remove the saved quick slot.
 
 ID=52106
-ショートカットスロット情報の削除に失敗しました。
+Could not update the quick slot.
 
 ID=52107
-タイトル情報の更新に失敗しました。
+Could not update current title.
 
 ID=52108
-ショートカットスロット情報の保存に失敗しました。
+Could not save quick slot.
 
 ID=52109
-ショートカットスロット情報の更新に失敗しました。
+Could not update quick slot.
 
 ID=52201
-強化可能なアイテムです。
+This item can be enhanced.
 
 ID=52202
-このアイテムはこれ以上強化できません。
+This item can't be enhanced anymore.
 
 ID=52203
-強化対象アイテムが登録されていません。
+Cannot enhance the item, no target item registered.
 
 ID=52204
-すでに登録されている強化材料です。
+Registered preqrequisite enhancement materials already.
 
 ID=52205
-等級が異なる強化材料です。
+The enhanced equip is not the same; they have different rarity grades.
 
 ID=52206
-強化アイテムタイプが有効ではありません。
+This item can't be enhanced at all.
 
 ID=52207
-強化材料がいっぱいです。
+You have inputted the maximum number of prerequisite enhancement materials.
 
 ID=52208
-強化材料が不足しています。
+Insufficient prerequisite enhancement materials.
 
 ID=52209
-強化等級が一致しません。
+The enhanced equip is not the same; they have different enhancement levels.
 
 ID=52210
-強化に必要な費用が不足しています。
+Could not enhance the equip; insufficient funds.
 
 ID=52211
-強化情報の更新に失敗しました。
+Could not update the item's enhancement level.
 
 ID=52212
-このアイテムはこれ以上オプションを追加できません。
+This item can't be enhanced.
 
 ID=52213
-合成材料の等級が一致しません。
+Synthesis materials are of differing quality. 
 
 ID=52214
-合成できないアイテムです。
+Cannot synthesize this item.
 
 ID=52215
-補助剤が不足しています。
+Insufficient synthesis materials.
 
 ID=52216
-選択したアイテムは合成できません。
+This item can't be synthesized.
 
 ID=52217
-強化NPCではありません。
+Not an NPC that enhances equips.
 
 ID=52218
-強化できないインベンタイプです。
+This item can't be enhanced.
 
 ID=52219
-アイテムにエラーがあります。
+There is a problem with the item.
 
 ID=52220
-BPが不足しています。
+Insufficient BP.
 
 ID=52221
-インベントリの空きが不足しています。
+Insufficient inventory space.
 
 ID=52222
-インベントリにエラーが発生しました。
+There is a problem with the inventory.
 
 ID=52223
 Insufficient enhancement materials. Item cannot be enhanced.
@@ -15005,28 +15005,28 @@ ID=52254
 Insufficient crafting material. Item cannot be crafted.
 
 ID=52255
-対象アイテムを使用中です。
+This item is in use.
 
 ID=52256
-インベントリの空きが不足しています。
+Insufficient inventory space.
 
 ID=52257
-製作に失敗しました。
+Could not make the item.
 
 ID=52260
-該当NPCには使用できない機能です。
+This NPC can't do the desired operation.
 
 ID=52261
-存在しない交換番号です。
+This exchange is impossible.
 
 ID=52262
-使用できないアイテムです。
+This item can't be used.
 
 ID=52263
-存在しないインベントリです。
+The inventory space does not exist.
 
 ID=52264
-インベントリの空きが不足しています。
+Insufficient inventory space.
 
 ID=52265
 交換に失敗しました。
@@ -15077,7 +15077,7 @@ ID=52290
 必要なアイテムが不足しています。
 
 ID=52291
-ソケット分離に失敗しました。
+Socket unsuccessfully released.
 
 ID=52292
 No socket available.
@@ -15137,7 +15137,7 @@ ID=52315
 ゲームマスターは商店を利用できません。
 
 ID=52316
-アイテム購入失敗：Sコイン不足
+Insufficient S coins to make a purchase.
 
 ID=52317
 アイテム購入に失敗しました。しばらくしてからもう一度お試しください。
@@ -15374,7 +15374,7 @@ ID=53017
 メイズ内にメンバーがいる場合、パーティー招待ができません。
 
 ID=53018
-別のパーティーの招待要請を受けています。
+Another party invitation request has been received.
 
 ID=53021
 申請者が存在しません。
@@ -15422,7 +15422,7 @@ ID=54006
 エピソードのお知らせ登録または削除に失敗しました。
 
 ID=54007
-相互作用の個体が見つかりません。
+Could not interact.
 
 ID=54008
 相互作用に必要なアイテムがありません。
@@ -15728,10 +15728,10 @@ ID=56005
 Cannot use skill due to lack of SG.
 
 ID=56006
-スタミナが不足しているため、スキルを使用できません。
+Insufficient stamina; skills cannot be utilized.
 
 ID=56007
-ソウルベイパーが不足しているため、スキルを使用できません。
+Insufficient soul vapour; cannot use skills.
 
 ID=56008
 現在PARTY GISTが必要なPARTY GISTより少ない。
@@ -15758,13 +15758,13 @@ ID=56501
 Cannot be currently used.
 
 ID=56502
-所持ジェニーが不足しています。
+Insufficient Zenny.
 
 ID=56531
 全メンバーのユニティメイズが開放されなければなりません。
 
 ID=57000
-{0}は現在ログインしていません。
+{0} is not currently logged in.
 
 ID=57001
 Guild Name: {0}is already in use.
@@ -15824,13 +15824,13 @@ ID=57019
 You do not have permission to invite to guild.
 
 ID=57020
-ギルド加入者リストからの削除に失敗しました。
+Failed to remove guild members.
 
 ID=57021
-ギルド招待を受けたユーザーが町に存在しません。
+The invited user does not exist.
 
 ID=57022
-{0}分後に掲示板を作成できます。
+You may post another BBS message in {0} minutes.
 
 ID=57023
 申請者リストがいっぱいです。
@@ -15857,13 +15857,13 @@ ID=57030
 この職位はこれ以上付与できません。
 
 ID=57031
-The guild announcement is over the character limit.
+The guild notice is over the character limit.
 
 ID=57032
 ギルド検索には2文字以上の入力が必要です。
 
 ID=57033
-You can use up to 8 characters for a guild name.
+Use 2 to 8 characters for a guild name.
 
 ID=57034
 自分をギルドから追放することはできません。
@@ -15935,7 +15935,7 @@ ID=58104
 まだステージ進行中です。
 
 ID=58105
-入場に必要な条件を満たしていません。\nまだ訪問していない町を確認してください。
+You do not meet the requirements for entry; you have not explored the town yet.
 
 ID=59100
 キューブが不足しています。
@@ -15986,7 +15986,7 @@ ID=58300
 出品可能回数を超過しました。現在の等級は[{0}]で、出品可能回数は{1}回です。
 
 ID=58301
-販売価格を入力してください。
+Please enter the sale price.
 
 ID=58302
 出品可能数を超過しました。最大出品数は5個までです。
@@ -16019,10 +16019,10 @@ ID=59300
 該当チャンネルは大変混雑しているため設置できません。\n別のチャンネルをご利用ください。
 
 ID=59301
-設置スペースが不足または設置不可エリアです。
+The operation cannot be done due to insufficient space or an invalid area.
 
 ID=59302
-設置スペースが不足または設置不可エリアです。
+The operation cannot be done due to insufficient space or an invalid area.
 
 ID=59304
 スペースがありません。
@@ -16031,7 +16031,7 @@ ID=59305
 町でのみ中止ができます。
 
 ID=59306
-使用できないアイテムです。
+This item can't be used.
 
 ID=59307
 設置されたアイテムを解除する権限がありません。
@@ -16055,16 +16055,16 @@ ID=60005
 ブローチは攻撃型・防御型・機能型の順に装着されます。
 
 ID=60006
-ブローチを装着できない箇所です。
+The broach can't be inserted here.
 
 ID=60007
 装着された[{0}]を[{1}]に変更しますか？\n装着時、既存のブローチは削除されます。
 
 ID=60008
-[{0}]を[{1}]に変更しました。
+The [{0}] has been converted to [{1}].
 
 ID=60009
-[{0}]を使用してロックを解除しますか？
+Are you sure you want to unlock it by using [{0}]?
 
 ID=60010
 [{0}]が存在しません。[{1}]を使用してブローチスロットのロックを解除できます。
@@ -16097,19 +16097,19 @@ ID=60108
 Top 100
 
 ID=60109
-Confirm Rewards
+Preview
 
 ID=60110
 Rank
 
 ID=60111
-Character
+Class
 
 ID=60112
 Level
 
 ID=60113
-Character Name
+Name
 
 ID=60114
 Completion Time
