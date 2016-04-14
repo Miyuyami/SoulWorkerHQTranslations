@@ -617,10 +617,10 @@ ID=407
 Discard
 
 ID=408
-Deliver
+Withdraw
 
 ID=409
-Unequip
+Remove
 
 ID=410
 Delete
@@ -2966,7 +2966,7 @@ ID=4012
 Clearance Level Up
 
 ID=4013
-Obtained Clearance Level {1} : {0} 
+Completed Clearance Level {1} : {0} 
 
 ID=4014
 Memorial Completed
@@ -3338,7 +3338,7 @@ ID=5820
 <font color='#FFFFFF'><font size="30">TIP: </font>Improving your <font color='#00D8FF'>Passive Skills</font> will enhance your basic actions.
 
 ID=5821
-<font color='#FFFFFF'><font size="30">TIP：</font>画面左下にある<font color='#00D8FF'>統合お知らせ</font>ウィンドウから、進行状況に関連した様々な内容を確認できます。
+<font color='#FFFFFF'><font size="30">TIP: </font>The <font color='#00D8FF'>Notification Icons </font> at the lower left area of your screen will notify you of various events requiring your attention.
 
 ID=5822
 <font color='#FFFFFF'><font size="30">TIP: </font>You may freely change the <font color='#00D8FF'>Title</font> above your name by using the Status Window [P].
@@ -6089,13 +6089,13 @@ ID=21517
 Activate\nAttack Orb
 
 ID=21518
-Increases supporters' ATK by 20%
++ Supporters' ATK by 20%
 
 ID=21519
 Activate\nDefense Orb
 
 ID=21520
-Increases supporters' DEF by 20%
++ Supporters' DEF by 20%
 
 ID=21521
 Are you sure you want to apply the attack orb's 20% attack buff?
@@ -10079,7 +10079,7 @@ ID=31117
 The advertisement will last for 10 minutes. Do you wish to post it?
 
 ID=31118
-Do you wish to cancel your party search request advertisement?
+Do you wish to remove your party search request advertisement?
 
 ID=31119
 < Party Recruiting > {0} / Purpose: {1} / Party Leader: {2} / Members: {3} / 4
@@ -10136,7 +10136,7 @@ ID=31136
 Post
 
 ID=31137
-Unequip
+Remove
 
 ID=31138
 Party has been formed.
@@ -11117,7 +11117,7 @@ ID=40117
 Please activate the elevator control unit.
 
 ID=40118
-You must remove the special shield before moving to the next area.
+You must remove the special seal before moving to the next area.
 
 ID=40119
 Please defeat all Soul Junk before the bomb explodes.
@@ -13718,7 +13718,7 @@ ID=45303
 Open Cube.
 
 ID=45304
-Different items can be acquired depending on the type of cube used.
+A variety of items can be obtained.
 
 ID=45305
 Open General Items Cube.
@@ -14402,7 +14402,7 @@ ID=49913
 The party failed the mission. \nCannot join the party.
 
 ID=49914
-Event Rewards
+Mission Rewards
 
 ID=49915
 < Confirmable by checking Inventory >
@@ -14450,7 +14450,7 @@ ID=49929
 Obtained [{0}] Guerilla Mission Rewards.
 
 ID=49930
-Received event mission rewards.
+Received secret mission rewards.
 
 ID=49931
 [{0}]を[{1}]で{2}回討伐
@@ -15827,7 +15827,7 @@ ID=57020
 Failed to remove guild members.
 
 ID=57021
-The invited user does not exist.
+This user is not in the same town and cannot be invited.
 
 ID=57022
 You may post another BBS message in {0} minutes.
@@ -16007,7 +16007,7 @@ ID=59001
 インベントリに空きがないため、デイリーログイン報酬を受け取れません。
 
 ID=59200
-{0}は情報公開をoffにしています。
+{0} turned off their public info.
 
 ID=59201
 {0}はささやき受信拒否した状態です。
