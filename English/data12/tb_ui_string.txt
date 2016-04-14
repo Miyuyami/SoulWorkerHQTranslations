@@ -425,7 +425,7 @@ ID=315
 Are you sure you want to discard {0}?
 
 ID=316
-Selling Mode
+Sell Mode
 
 ID=317
 Ether:
@@ -458,7 +458,7 @@ ID=335
 The selected items cannot be equipped by you.\nAre you sure that you want to buy?
 
 ID=336
-{0} was sold for {1}.
+{0} was sold for {1} zenny.
 
 ID=337
 {2} has been sold to {1}.
@@ -485,10 +485,10 @@ ID=344
 Are you sure you want use {0} to expand your slots?
 
 ID=345
-{0} will be put up for sale.
+After selling all items, you will obtain {0} Zenny.
 
 ID=346
-Your selection contains a <font color='#A566FF'>High Valued</font> item, selling it will gain {0} Zenny. Are you sure you want to sell?
+Your selection contains a <font color='#A566FF'>High Valued</font> item, selling it will give you {0}. Are you sure you want to sell?
 
 ID=351
 Junk
@@ -497,7 +497,7 @@ ID=352
 Normal
 
 ID=353
-Magic
+Magical
 
 ID=354
 Rare
@@ -692,7 +692,7 @@ ID=439
 Essential
 
 ID=440
-Item Crafting
+Craft Item
 
 ID=441
 Fixed Crafting
@@ -752,7 +752,7 @@ ID=464
 Items could not be repaired.\n(Only items with decreased durability can be repaired)
 
 ID=465
-This item can't be equipped because it has 0 durability.
+Cannot equip items with 0 durability.
 
 ID=466
 Please repair your equipment.
@@ -761,10 +761,10 @@ ID=467
 Durability {0}
 
 ID=470
-Dungeon\nFully unlocked
+Dungeon \nClear
 
 ID=471
-Statistics
+Clearance
 
 ID=472
 {0}h {1}m {2}s
@@ -773,7 +773,7 @@ ID=473
 {0}m {1}s
 
 ID=474
-Additional rewards acquired: {0} X {1}
+Bonus rewards acquired: {0} X {1}
 
 ID=475
 Since there is no inventory space, it has been shipped by [{0} x {1}] mail
@@ -791,7 +791,7 @@ ID=479
 Clear Time
 
 ID=480
-Dungeon Difficulty
+Difficulty
 
 ID=481
 Largest Combo
@@ -815,7 +815,7 @@ ID=487
 Event
 
 ID=488
-Internet Cafe
+Netcafe
 
 ID=489
 Final Reward
@@ -824,7 +824,7 @@ ID=490
 Party Ranking
 
 ID=491
-Additional Reward
+Bonus Rewards
 
 ID=492
 <Aquired>
@@ -839,10 +839,10 @@ ID=495
 Current Dungeon Earnings
 
 ID=496
-In order to receive additional rewards, a bonus key card is required.
+In order to receive bonus rewards, a bonus key card is required.
 
 ID=497
-This closes after {0} seconds.
+Auto-closing in {0} seconds.
 
 ID=501
 Display Info
@@ -995,16 +995,16 @@ ID=571
 Do you want to use {0}?\n(A.R Cards that are used cannot be sold nor traded)
 
 ID=572
-Insufficient Lv.
+Lv. Req:
 
 ID=573
-Insufficient SP.
+SP Cost:
 
 ID=574
 Repeated Completion Points:
 
 ID=581
-Items Acquired
+Items Gained
 
 ID=582
 Use
@@ -1121,7 +1121,7 @@ ID=626
 Magic Critical Attack
 
 ID=627
-Damage Reduction Chance(%)
+Damage Reduction Chance[%]
 
 ID=628
 Damage Reduction
@@ -1277,7 +1277,7 @@ ID=723
 Manage Sockets
 
 ID=724
-Accept Order[Space]
+Accept Quest[Space]
 
 ID=725
 Decline[Back]
@@ -1352,7 +1352,7 @@ ID=750
 Level Limit
 
 ID=751
-Equipment Item(s)
+Equipment Item
 
 ID=752
 {0}[+{1}]
@@ -1415,7 +1415,7 @@ ID=773
 Required Lv
 
 ID=774
-Durability
+Cnd
 
 ID=775
 Showcase Item\nAction denied
@@ -1481,7 +1481,7 @@ ID=795
 The effect is passively applied.
 
 ID=796
-Random Attribute {0} applied.
+Bonus {0} Random Attribute.
 
 ID=797
 Activate Sniper Mode
@@ -1520,7 +1520,7 @@ ID=811
 Attach Socket Item
 
 ID=812
-Attachr Familia
+Attach Familiar
 
 ID=813
 You do not have the funds or item\n required to socket the item.
@@ -1538,16 +1538,16 @@ ID=817
 You can attach the socket item after unattaching the applied socket item.
 
 ID=818
-Are you sure you want to attach the Familia to the target socket?
+Are you sure you want to attach the Familiar to the target socket?
 
 ID=819
-You have successfully attached the Familia.
+You have successfully attached the Familiar.
 
 ID=820
 Socket Item Management
 
 ID=821
-You can add a new Familia in the socket.\nRelease the Familia first.
+You can add a new Familia in the socket.\nRelease the Familiar first.
 
 ID=822
 You do not have enough items\nor fee needed to dismantle items.
@@ -1556,7 +1556,7 @@ ID=823
 Items required to add the new socket are missing.
 
 ID=824
-Familia successfuly released.
+Familiar successfully released.
 
 ID=825
 Additional Socket
@@ -1667,7 +1667,7 @@ ID=877
 Underwear
 
 ID=881
-Dismantled {0}.\nAcquired Item: {1} X {2}\nAcquired Ether{3}
+Dismantled {0}.\n Acquired Item(s): {1} X {2}\n Acquired Ether: X {3}
 
 ID=882
 Dismantling failed.
@@ -1676,7 +1676,7 @@ ID=883
 Do you want to dismantle {0}?
 
 ID=884
-Dismantle the selected item and press confirm.\nAre you sure you want to dismantle?
+Are you sure you want to dismantle the\n item(s)?
 
 ID=885
 Selected items are of<font color='#A566FF'>high rarity</font>.\nIf you hit confirm, selected item will be dismantled and they will not be able to be restored. Would you like to dismantle anyway?
@@ -1742,7 +1742,7 @@ ID=915
 Effect on Magic Attack and Magic Resistance
 
 ID=916
-Effect on Ineffective Attack Rate and Critical Rate
+Effect on Weak Attack Rate and Critical Rate
 
 ID=917
 Effect on HP and Physical Defense
@@ -1763,7 +1763,7 @@ ID=922
 Physical Damage to enemies
 
 ID=923
-Reduce Chance of Ineffective Attacks
+Reduce Chance of Weak Attacks
 
 ID=924
 When attacking, the probability of critical hits increases
@@ -1775,7 +1775,7 @@ ID=926
 Magical Damage to enemies
 
 ID=927
-Reduce Chance of Ineffective Magic Attacks
+Reduce Chance of Weak Magic Attacks
 
 ID=928
 When casting magic attacks, the probability of critical hits increases
@@ -1886,7 +1886,7 @@ ID=968
 Select a replacement item.
 
 ID=969
-Quantity:
+Qnty:
 
 ID=970
 ▲
@@ -2585,7 +2585,7 @@ ID=2500
 Community
 
 ID=2501
-Login
+Online
 
 ID=2502
 Offline
@@ -2861,19 +2861,19 @@ ID=3100
 Quest Completion Award
 
 ID=3101
-Achievements  Completion Reward
+Records Completion Reward
 
 ID=3102
-Secured Area Rewards
+Clearance Rewards
 
 ID=3103
 Memorial Collection Reward
 
 ID=3104
-Ranking Achievement Reward
+Ranking Record Reward
 
 ID=3105
-Items Acquired
+Items Gained
 
 ID=3106
 When completing {0}, the following rewards are awarded.
@@ -2882,7 +2882,7 @@ ID=3107
 You have achieved the {0}, the rewards below have been awarded.
 
 ID=3108
-You have completed {0} achievements, the following rewards will be awarded.
+You have completed {0} records, the following rewards will be awarded.
 
 ID=3109
 By collecting {0}, the following rewards are awarded.
@@ -2921,7 +2921,7 @@ ID=3202
 Do you want to use [{0}]?\n(You can obtain the following items)
 
 ID=3203
-Do you want to use [{0}]?\n(The following items from {1} can be won randomly)
+Do you want to use [{0}]?\n({1} of the following items can be won)
 
 ID=3204
 You can not use the item as there is insufficient inventory space.
@@ -2930,10 +2930,10 @@ ID=4000
 Unread Mail
 
 ID=4001
-You have unread {0} mail(s). Please check with HEMS.
+You have {0} unread mail(s). Please check with HEMS.
 
 ID=4002
-Available Skill
+Skill Unlocked
 
 ID=4003
 Lv {1} {0} Available
@@ -2945,7 +2945,7 @@ ID=4005
 Lv {1} {0} Available
 
 ID=4006
-Break Skill Available
+Break Skill Unlocked
 
 ID=4007
 {0} Available
@@ -2960,13 +2960,13 @@ ID=4010
 Record Achieved
 
 ID=4011
-Achievement {0} Attained.
+Record "{0}" attained.
 
 ID=4012
-Progress Reached
+Clearance Level Up
 
 ID=4013
-{0} {1}Area Secured Level
+Obtained Clearance Level {1} : {0} 
 
 ID=4014
 Memorial Completed
@@ -2981,10 +2981,10 @@ ID=4017
 You received a friend request from {0}
 
 ID=4018
-Progress Reached
+Clearance Level Up
 
 ID=4019
-{0} Completion Rate: {1}%
+{0} Clearance Rate: {1}%
 
 ID=4020
 Title Acquired
@@ -2993,7 +2993,7 @@ ID=4021
 You have acquired the title {0}.
 
 ID=5001
-Unlearned
+New
 
 ID=5002
 Cooldown:
@@ -3032,10 +3032,10 @@ ID=5013
 SV
 
 ID=5050
-[Break Skill]\nPeak Available
+[Break Skill]\nPeak Mode Unlocked
 
 ID=5051
-[Break Skill]\nErosion Available
+[Break Skill]\nErosion Mode Unlocked
 
 ID=5052
 SV{0}% Cost
@@ -3275,7 +3275,7 @@ ID=5519
 Character Style Settings
 
 ID=5800
-<font color='#FFFFFF'><font size="30">TIP:</font>Basic equipment items in each town's <font color='#00ff9c'>Equipment Shop</font>can be bought.
+<font color='#FFFFFF'><font size="30">TIP:</font>Basic equipment items in each town's <font color='#00ff9c'> Equipment Shop</font> can be bought.
 
 ID=5801
 <font color='#FFFFFF'><font size="30">TIP:</font>Basic consumable items in each town's <font color='#00ff9c'>General Merchant Shop</font> can be bought.</font>
@@ -3293,55 +3293,55 @@ ID=5805
 <font color='#FFFFFF'><font size="30">TIP: </font>Equipment can be<font color='#00D8FF'>enhanced</font>to be upgraded, or<font color='#00D8FF'>dismantled</font>to obtain items needed to upgrade or craft other equipment.</font>
 
 ID=5806
-<font color='#FFFFFF'><font size="30">TIP: </font>Talking to <font color='#B2EBF4'>[Zenith]</font>, you can<font color='#00D8FF'>[Craft]</font> Weapons, Gear, Avatar items.
+<font color='#FFFFFF'><font size="30">TIP: </font>Talking to <font color='#B2EBF4'>[Zenith]</font>, you can <font color='#00D8FF'>[Craft]</font> weapons, gear, and avatar items.
 
 ID=5807
 <font color='#FFFFFF'><font size="30">TIP: </font>You can send mail by using <font color='#00ff9c'>HEMS</font>. A small fee will be paid.\nItems and Zenny may also be attached.
 
 ID=5808
-<font color='#FFFFFF'><font size="30">TIP:</font> You may store extra <font color='#00D8FF'>Items</font> at the bank by talking to <font color='#00ff9c'>Odon</font>.
+<font color='#FFFFFF'><font size="30">TIP:</font> You may store extra items at the<font color='#00D8FF'>bank</font> by talking to <font color='#00ff9c'>Odon</font>.
 
 ID=5809
 <font color='#FFFFFF'><font size="30">TIP：</font>You can check the<font color='#00ff9c'>mini-map</font>to find the location of<font color='#00D8FF'>NPCs</font>,or <font color='#00D8FF'>dungeon entrances.</font></font>
 
 ID=5810
-<font color='#FFFFFF'><font size="30">TIP：</font>Press the hotkey <font color='#00ff9c'>【L】</font>to see your<font color='#00D8FF'>[Achievements][Secured Area Percentages].</font></font>
+<font color='#FFFFFF'><font size="30">TIP：</font>Press the hotkey <font color='#00ff9c'>【L】</font>to see your<font color='#00D8FF'>[Records][Secured Area Percentages].</font></font>
 
 ID=5811
 <font color='#FFFFFF'><font size="30">TIP：</font>Depending on your<font color='#00D8FF'>progress</font>, you can press <font color='#00ff9c'>【L】</font> to collect rewards.</font>
 
 ID=5812
-<font color='#FFFFFF'><font size="30">TIP：</font>必要な材料を集めて町にいる<font color='#00ff9c'>イオ</font>に渡すと、<font color='#00D8FF'>A.Rカード</font>を製作できます。
+<font color='#FFFFFF'><font size="30">TIP: </font>By collection ingredients and bringing them to <font color='#00ff9c'>IO</font>, you can create an<font color='#00D8FF'>A.R Card</font>.
 
 ID=5813
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>A.Rカード</font>には、スロットに登録した状態で自動的に効果が発生するものもあります。
+<font color='#FFFFFF'><font size="30">TIP: </font>Putting a HOLD type  <font color='#00D8FF'>A.R Card</font> onto your A.R Card slot will allow it to activate automatically.
 
 ID=5814
-<font color='#FFFFFF'><font size="30">TIP：</font>新しいクエストが発生すると<font color='#fff94a'>[<font size="30">！</font>]</font>マークが、完了可能なクエストがあると<font color='#fff94a'>[<font size="30">？</font>]</font>マークが\nNPCの頭上やミニマップ上に表示されます。
+<font color='#FFFFFF'><font size="30">TIP: </font>When a new quest is available, a <font color='#fff94a'>[<font size="30">！</font>]</font> mark will appear above an NPC's head. A <font color='#fff94a'>[<font size="30">？</font>]</font> mark will appear for quests that are ready to be handed in.\nIt will also be displayed on your minimap.
 
 ID=5815
-<font color='#FFFFFF'><font size="30">TIP：</font>受注したクエストは、画面右の<font color='#00D8FF'>クエスト案内</font>または、クエスト情報ウィンドウ<font color='#00ff9c'>【J】</font>を開いて確認できます。
+<font color='#FFFFFF'><font size="30">TIP: </font>Accepted quests will appear on your <font color='#00D8FF'>Quest Tracker</font>. Quest information can be viewed by pressing <font color='#00ff9c'>【J】</font> to open the Quest Window.
 
 ID=5816
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの全般的な設定は、<font color='#00ff9c'>【ESC】</font>キーの<font color='#00D8FF'>[環境設定]</font>タブから変更できます。
+<font color='#FFFFFF'><font size="30">TIP: </font>The game's settings can be changed by pressing the <font color='#00ff9c'>[ESC]</font> key and going to the <font color='#00D8FF'>[System Settings]</font> option.
 
 ID=5817
-<font color='#FFFFFF'><font size="30">TIP：</font>コミュニティーウィンドウ【O】では、<font color='#00D8FF'>[フレンド]</font>に関連した機能を使用できます。
+<font color='#FFFFFF'><font size="30">TIP: </font>Open the Communication window by pressing [O]. You can manage your <font color='#00D8FF'>[Friend List]</font> there.
 
 ID=5818
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[スキル][A.Rカード]</font>の使用は、ショートカットキー<font color='#00ff9c'>【K】</font>やメニューでスキルウィンドウ活性化後、\nスキルスロットに登録すると使用できます。
+<font color='#FFFFFF'><font size="30">TIP: </font><font color='#00D8FF'>[Skills] & [A.R Cards]</font> can be set onto quick slots with the Skill Window by pressing <font color='#00ff9c'>【K】</font>. 
 
 ID=5819
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>スキルデッキ</font>を活用すると、戦闘で有利な効果を獲得できます。
+<font color='#FFFFFF'><font size="30">TIP: </font>Effective use of your <font color='#00D8FF'>Skill Deck</font> will prove helpful in battle.
 
 ID=5820
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>パッシブスキル</font>のレベルを上げると、基本アクションを強化できます。
+<font color='#FFFFFF'><font size="30">TIP: </font>Improving your <font color='#00D8FF'>Passive Skills</font> will enhance your basic actions.
 
 ID=5821
 <font color='#FFFFFF'><font size="30">TIP：</font>画面左下にある<font color='#00D8FF'>統合お知らせ</font>ウィンドウから、進行状況に関連した様々な内容を確認できます。
 
 ID=5822
-<font color='#FFFFFF'><font size="30">TIP：</font>ステータスウィンドウ【P】の「称号」タブから、名前の横に表示する各種<font color='#00D8FF'>称号</font>を自由に設定できます。
+<font color='#FFFFFF'><font size="30">TIP: </font>You may freely change the <font color='#00D8FF'>Title</font> above your name by using the Status Window [P].
 
 ID=5823
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>メイズ占有率</font>や<font color='#00D8FF'>町占有率</font>の進行状況に応じて、様々な報酬を獲得できます。
@@ -3350,13 +3350,13 @@ ID=5824
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>町占有率</font>は、所属しているメイズの占有率に影響を受けます。
 
 ID=5825
-<font color='#FFFFFF'><font size="30">TIP：</font>メイズ入場時に<font color='#00D8FF'>[オートマッチング]</font>を使用すると、自動的にパーティーを組むことができます。
+<font color='#FFFFFF'><font size="30">TIP: </font>When entering a dungeon, use <font color='#00D8FF'>[Auto-Matching]</font> to automatically find a party.
 
 ID=5826
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ステータス</font>ウィンドウ【P】からプロフィールを修正できます。
+<font color='#FFFFFF'><font size="30">TIP: </font>You can revise your profile in the <font color='#00D8FF'>Status</font> window[P].
 
 ID=5827
-<font color='#FFFFFF'><font size="30">TIP：</font>左<font color='#00ff9c'>【Alt】</font>キーで、マウスモードに変更することができます。
+<font color='#FFFFFF'><font size="30">TIP: </font>Press the left <font color='#00ff9c'>[Alt]</font> key to activate the mouse mode.。
 
 ID=5828
 <font color='#FFFFFF'><font size="30">TIP：</font>最高レベル到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
@@ -3464,7 +3464,7 @@ ID=5862
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ベリーハード</font>は敵が強い分、獲得できる報酬の質が上がります。
 
 ID=5863
-<font color='#FFFFFF'><font size="30">TIP:</font>Basic equipment items in each town's <font color='#00ff9c'>Equipment Shop</font>can be bought.
+<font color='#FFFFFF'><font size="30">TIP:</font>Basic equipment items in each town's <font color='#00ff9c'> Equipment Shop</font> can be bought.
 
 ID=5864
 <font color='#FFFFFF'><font size="30">TIP:</font>Basic consumable items in each town's <font color='#00ff9c'>General Merchant Shop</font> can be bought.</font>
@@ -3482,40 +3482,40 @@ ID=5868
 <font color='#FFFFFF'><font size="30">TIP: </font>Equipment can be<font color='#00D8FF'>enhanced</font>to be upgraded, or<font color='#00D8FF'>dismantled</font>to obtain items needed to upgrade or craft other equipment.</font>
 
 ID=5869
-<font color='#FFFFFF'><font size="30">TIP: </font>Talking to <font color='#B2EBF4'>[Zenith]</font>, you can<font color='#00D8FF'>[Craft]</font> Weapons, Gear, Avatar items.
+<font color='#FFFFFF'><font size="30">TIP: </font>Talking to <font color='#B2EBF4'>[Zenith]</font>, you can <font color='#00D8FF'>[Craft]</font> weapons, gear, and avatar items.
 
 ID=5870
 <font color='#FFFFFF'><font size="30">TIP: </font>You can send mail by using <font color='#00ff9c'>HEMS</font>. A small fee will be paid.\nItems and Zenny may also be attached.
 
 ID=5871
-<font color='#FFFFFF'><font size="30">TIP:</font> You may store extra <font color='#00D8FF'>Items</font> at the bank by talking to <font color='#00ff9c'>Odon</font>.
+<font color='#FFFFFF'><font size="30">TIP:</font> You may store extra items at the<font color='#00D8FF'>bank</font> by talking to <font color='#00ff9c'>Odon</font>.
 
 ID=5872
 <font color='#FFFFFF'><font size="30">TIP：</font>You can check the<font color='#00ff9c'>mini-map</font>to find the location of<font color='#00D8FF'>NPCs</font>,or <font color='#00D8FF'>dungeon entrances.</font></font>
 
 ID=5873
-<font color='#FFFFFF'><font size="30">TIP：</font>Press the hotkey <font color='#00ff9c'>【L】</font>to see your<font color='#00D8FF'>[Achievements][Secured Area Percentages].</font></font>
+<font color='#FFFFFF'><font size="30">TIP：</font>Press the hotkey <font color='#00ff9c'>【L】</font>to see your<font color='#00D8FF'>[Records][Secured Area Percentages].</font></font>
 
 ID=5874
 <font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行状況に応じて、<font color='#00D8FF'>進行情報</font>ウィンドウ【L】から報酬を獲得できます。
 
 ID=5875
-<font color='#FFFFFF'><font size="30">TIP：</font>必要な材料を集めて町にいる<font color='#00ff9c'>イオ</font>に渡すと、<font color='#00D8FF'>A.Rカード</font>を製作できます。
+<font color='#FFFFFF'><font size="30">TIP: </font>By collection ingredients and bringing them to <font color='#00ff9c'>IO</font>, you can create an<font color='#00D8FF'>A.R Card</font>.
 
 ID=5876
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>A.Rカード</font>には、スロットに登録した状態で自動的に効果が発生するものもあります。
+<font color='#FFFFFF'><font size="30">TIP: </font>Putting a HOLD type  <font color='#00D8FF'>A.R Card</font> onto your A.R Card slot will allow it to activate automatically.
 
 ID=5877
-<font color='#FFFFFF'><font size="30">TIP：</font>新しいクエストが発生すると<font color='#fff94a'>[<font size="30">！</font>]</font>マークが、完了可能なクエストがあると<font color='#fff94a'>[<font size="30">？</font>]</font>マークが\nNPCの頭上やミニマップ上に表示されます。
+<font color='#FFFFFF'><font size="30">TIP: </font>When a new quest is available, a <font color='#fff94a'>[<font size="30">！</font>]</font> mark will appear above an NPC's head. A <font color='#fff94a'>[<font size="30">？</font>]</font> mark will appear for quests that are ready to be handed in.\nIt will also be displayed on your minimap.
 
 ID=5878
-<font color='#FFFFFF'><font size="30">TIP：</font>受注したクエストは、画面右の<font color='#00D8FF'>クエスト案内</font>または、クエスト情報ウィンドウ<font color='#00ff9c'>【J】</font>を開いて確認できます。
+<font color='#FFFFFF'><font size="30">TIP: </font>Accepted quests will appear on your <font color='#00D8FF'>Quest Tracker</font>. Quest information can be viewed by pressing <font color='#00ff9c'>【J】</font> to open the Quest Window.
 
 ID=5879
 <font color='#FFFFFF'><font size="30">TIP：</font>ゲームの全般的な詳細設定は、<font color='#00ff9c'>[ESC]</font>キーの<font color='#00D8FF'>[環境設定]</font>タブから変更できます。
 
 ID=5880
-<font color='#FFFFFF'><font size="30">TIP：</font>コミュニティーウィンドウ【O】では、<font color='#00D8FF'>[フレンド]</font>に関連した機能を使用できます。
+<font color='#FFFFFF'><font size="30">TIP: </font>Open the Communication window by pressing [O]. You can manage your <font color='#00D8FF'>[Friend List]</font> there.
 
 ID=5881
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[スキル][A.Rカード]</font>は、スキルウィンドウ<font color='#00ff9c'>【K】</font>でスキル活性化後、\nスキル登録スロットに登録して使用できます。
@@ -3524,7 +3524,7 @@ ID=5882
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>スキルデッキ</font>を活用すると、戦闘にで有利な効果を獲得できます。
 
 ID=5883
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>パッシブスキル</font>のレベルを上げると、基本アクションを強化できます。
+<font color='#FFFFFF'><font size="30">TIP: </font>Improving your <font color='#00D8FF'>Passive Skills</font> will enhance your basic actions.
 
 ID=5884
 <font color='#FFFFFF'><font size="30">TIP：</font>画面左下にある<font color='#00D8FF'>統合お知らせ</font>ウィンドウで、進行状況に関連した様々な内容を確認できます。
@@ -3539,13 +3539,13 @@ ID=5887
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>町占有率</font>は、所属しているメイズの占有率に影響を受けます。
 
 ID=5888
-<font color='#FFFFFF'><font size="30">TIP：</font>メイズ入場時に<font color='#00D8FF'>[オートマッチング]</font>を使用すると、自動的にパーティーを組むことができます。
+<font color='#FFFFFF'><font size="30">TIP: </font>When entering a dungeon, use <font color='#00D8FF'>[Auto-Matching]</font> to automatically find a party.
 
 ID=5889
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ステータス</font>ウィンドウ【P】でプロフィールを修正できます。
 
 ID=5890
-<font color='#FFFFFF'><font size="30">TIP：</font>左<font color='#00ff9c'>【Alt】</font>キーで、マウスモードに変更することができます。
+<font color='#FFFFFF'><font size="30">TIP: </font>Press the left <font color='#00ff9c'>[Alt]</font> key to activate the mouse mode.。
 
 ID=5891
 <font color='#FFFFFF'><font size="30">TIP：</font>最高レベル到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
@@ -3575,7 +3575,7 @@ ID=5899
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>イオ</font>の所で</font><font color='#00D8FF'>オーブ</font>を登録してください。\n登録したオーブは、フレンドのサポーターが使用できるようになります。
 
 ID=5900
-<font color='#FFFFFF'><font size="30">TIP：</font>下着を身につけた状態で、バスタブ/シャワーブースを使用すると…！！
+<font color='#FFFFFF'><font size="30">TIP：</font>This translation was brought to by The Soul Workers HQ Translation Team : Hiromi, Miyu, Ootoro, Tokufi, Kanra Spadow, HiruKita
 
 ID=5901
 <font color='#FFFFFF'><font size="30">TIP：</font>アイテムモールで<font color='#00D8FF'>[外見アイテム]</font>を購入することで、外見を変更できます。
@@ -3815,7 +3815,7 @@ ID=7102
 SG Cost -{0}%
 
 ID=8000
-Completion Rate {0}/{1}({2}%)
+Clearance Rate {0}/{1}({2}%)
 
 ID=8001
 Progression Ratio
@@ -3884,13 +3884,13 @@ ID=8310
 Login Check Reward
 
 ID=8311
-You have received the login reward for logging in.
+You have received today's login reward.
 
 ID=8312
 Daily Login Reward Check
 
 ID=8313
-You have received the reward for logging in today.
+You have received a reward for logging in today.
 
 ID=8314
 Cannot receive rewards.
@@ -4877,7 +4877,7 @@ ID=15003
 I have come to the bowling site by Miriam's request.\nI have to find the survivors who were isolated by the \nSoul Junk and rescue them.
 
 ID=15004
-Ryu went to the site alone in order to verify the information which showed an awakening body. I don't know what's going to happen.\ n I will join him quickly.
+Ryu went to the site alone in order to verify the information which showed an awakening body. I don't know what's going to happen.\n I will join him quickly.
 
 ID=15005
 The Clown's invitation leads towards the Street Plaza.\nWhat kind of present waits for me there?
@@ -4979,7 +4979,7 @@ ID=15037
 I wanted to chase after Henry, but was ordered to gain some experience fighting against the Veshi. I have no choice but to follow the orders for now.
 
 ID=15038
-力のデザイアを崇拝するヴェシ「ラピッドフレイム」。その突撃部隊が高速道路からグレイスシティへ侵攻する隙を虎視眈々と狙っている。
+Rapid Flames, a brigade that reveres the greed for power, is looking for every opportunity to invade Grace City through the highway.
 
 ID=15039
 The supposed vehicle carrying Henry has been spotted. The information is a bit unreliable, but he must be arrested at all costs. At least, before the Veshi get to him...
@@ -4991,19 +4991,19 @@ ID=15041
 The NED Company headquarters was raided by the Rapid Flame Faction after Henry sneaked inside.\nAlthough I'm reluctant to do so...\nHe must be rescued.
 
 ID=15042
-ネッドカンパニー内はラピッドフレイムの占拠によって\n電力供給が行き届いていない状況だ。 
+NED Company's building was cut off from electricity/ndue to Rapid Flames' taking over the building. 
 
 ID=15043
-ネッドカンパニーの電力を復旧させるには、\n建物内の電力を手動で作動させなければならない。\nラピッドフレイムがその「カギ」を持っているらしい。
+In order to repair electricity for NED Company,/nit looks like one has to manually activate the switch inside the building./nRapid Flames seem to have the key to activating the switch.
 
 ID=15044
-カンダスシティの事件の証拠を入手するためには、\nネッドカンパニー内部にあるセキュリティボックスの\n全データをコピーしなければならない。
+In order to retrieve evidence for the incident at Candus City,/nwe need to copy all the data/nfrom NED Company's security box.
 
 ID=15045
-第2高速道路を侵攻するラピッドフレイムの強襲部隊を討伐するための作戦「ウルフクライ」が発動されたら、ヒルブレイカーの射撃場所を確保しなければならない。
+In order to exterminate Rapid Flames coming in from the second highway, we need to take back the firing zone "Hill Breaker" for Operation Wolf Cry to commence.
 
 ID=15046
-作戦名「ウルフクライ」は、高周波を発生させるミサイル「ファイナルアリア」を上空に打ち上げ、強襲部隊の主力であるクイーンカルラを殲滅するという作戦だ。
+Operation Wolf Cry involves firing missiles called 「Final Aria」which spreads strong radio wave in its vicinity. With this, we can exterminate Queen Carla, main force for the assault brigade.
 
 ID=15047
 Heel Breaker cannot progress towards the Area Missile firing zone. With Starry Forest League's Soul Worker 「Kainbarrel」, exterminate the Rapid Flame's assault squad.
@@ -5042,19 +5042,19 @@ ID=15058
 NED Company's traces has led up to the mountains near Grace City. It is time for their judgement.
 
 ID=15059
-ヘンリーとラウファーの行方を捜すためには軍事衛星インドラを妨害する電波を除去しなければならない。
+In order to find Henry and Raufa, we need to find the source of the radio wave that is disrupting the military satellite, Indra.
 
 ID=15060
-インドラの施設内部をスキャンした結果、ヘンリーとラウファーと推定される生命反応を感知した。今こそ理想的な復讐をする時だ。
+We've detected life signals indicating Henry and Raufa within Indra. This is the most ideal time for revenge.
 
 ID=15061
-ソウルワーカーのために開発された仮想訓練装置。データベースに登録された敵を具現化し、実践同様の戦闘が可能。しかし、エナジー消費が激しいため頻繁には利用できない。
+Virtual training program designed for Soul Workers. It can simulate the monsters from the database, then an experience just like a real battle begins. However, as it spends a lot of energy, it cannot be used frequently.
 
 ID=15062
-空白によって完全に廃墟と化した地域。持続的にソウルジャンクが発生しており、スタリーフォレスト連合は立入禁止区域に指定。民間人の立ち入りを禁止している。
+Area completely ravaged by the Void. Soul Junk constantly appears in the area, and the Starry Forest League has forbidden any civilians from entering.
 
 ID=15063
-突如発生した謎の歪みは、多くの人形をこの世へと解き放った。彼らが現れた理由を知る者は誰もいない。ただ、人形が持つ力と強烈なまでの敵意だけは明らかだった。
+Mysterious distortion that appeared out of nowhere released many puppets out into the world. No one knows why they appeared. They did know, however, the power and the hostility that the puppets showed towards them.
 
 ID=16000
 Twisted Logic of the World
@@ -5072,22 +5072,22 @@ ID=16004
 LION GAMES PRESENT
 
 ID=16100
-見覚えのない場所。\n見知らぬ人々。\n聞きなれない会話。\n私の知っている世界はなくなっていた…。\nこれからどうなっちゃうんだろう……？
+Unfamiliar place./nUnfamiliar people../nUnfamiliar conversations./nThe world that I once knew no longer existed./nWhat do I do from now on...?
 
 ID=16200
-目覚めたら、世界は一変していた。\n怪物が徘徊し、人々が超能力を使う世界。\n俺が創ろうとしていた世界が…目の前に広がっていた。\nこれは…興奮するなっていう方がムリな話だよな。
+The world had changed when I opened my eyes./nMonsters crawling and people using special powers./nThe world that I once sought to create...was now in front of me./nThis...is too much to not get excited about.
 
 ID=16300
-今までの常識が通用しない世界…。\nでも…。\nわたくしは今まで、望むものは全て手に入れてきた。\nこの世界でも…今まで通りにするだけ。
+The world where all the knowledge I had until now was void.../nBut.../nI have claimed everything that I wanted with my own hands./nI'll do the same in this world, too.
 
 ID=16400
-15年も眠っていた間に、世界は随分と変わってしまったようだ。\n生き残ることが優先される世界…。\nだが…オレは今までだって必死だった。\n人間らしく…情熱をもって生き続けることに…。
+The world had changed a lot during the 15 years I was asleep for./nWorld where survival comes first./nBut...I was still desperate./nTo have passion...and live like any human would with passion.
 
 ID=16500
-いつの間にか15年経ってたみたい。\n冬眠したクマって、こんな感じなのかな…？\nみんな難しい話ばっかり…お腹ペコペコなのに…。\n…でも、みんながいるから寂しくない。
+Seems like 15 years flashed by./nDo hibernating bears all feel this way...?/nStories too difficult to understand, and I'm really hungry./nBut, since everyone is with me, I don't feel lonely.
 
 ID=16600
-もう、私が知ってる世界はない。\n全てが不慣れで窮屈で、一分一秒もここにいたくない。\nけど、我慢するしかない。\nもう、ここが私の世界であり…私が生きていくべき世界だから。\n我慢して我慢して、耐えるしか…。
+The world that I once knew was no more./nI didn't want to stay for a minute, or even a second for that matter in this unfamiliar place./nBut I have no choice but to hold it in./nThis is my world now...The world that I must live in./nThere is no choice but to hold it in as much as possible...
 
 ID=16550
 Junk
@@ -5096,7 +5096,7 @@ ID=16551
 Normal
 
 ID=16552
-Magic
+Magical
 
 ID=16553
 Rare
@@ -5300,46 +5300,46 @@ ID=16850
 {0} units
 
 ID=16851
-The following search parameters are not usable.
+The following search parameters are not applicable.
 
 ID=16852
 Remove {1} {0} from sale?\n(Returned items will be sent to your mailbox)
 
 ID=16853
-出品中の{0} {1}個を回収しますか？\n(回収したアイテムはメールで送られます)
+Do you wish to withdraw {1} of {0} from the item showcase?\n (Items recovered will be sent to mail.)
 
 ID=16854
 {1}x {0} will be withdrawn, having being listed.\n (The item will be sent to your mail.)
 
 ID=16855
-検索オプションが変更されました。変更した内容で再検索しますか？\n(キャンセル時、以前の検索オプションに変更後、ページが移動します)
+Search options have been changed. Would you like to refresh the page with current searching options?/n(Page will be moved and search options will change if cancelled.)
 
 ID=16856
-一つ以上の入力が必要です。
+More than one input is necessary.
 
 ID=16857
 The maximum sale item price is 999,999,999 Zenny.
 
 ID=16858
-選択したアイテム数より多く出品することはできません。
+Unable to sell more items than possessed.
 
 ID=16859
-出品アイテム数より多く購入することはできません。
+You can't buy more items than what are put up on the market.
 
 ID=16860
-自分が販売しているアイテムは購入できません。
+You cannot purchase your own item.
 
 ID=16861
 All
 
 ID=16862
-販売手数料
+Trading Fee
 
 ID=16863
-登録手数料
+Registration fee 
 
 ID=16864
-最近の出品リスト
+Recent Item Entry
 
 ID=16865
 Up to 10 listings are shown at a time.
@@ -5348,22 +5348,22 @@ ID=16866
 VIP System Information
 
 ID=18000
-強化回数を使い切ったため、これ以上強化できません。
+As the enhancing limit was reached, you can't enhance this equipment any further.
 
 ID=18001
-強化に失敗し、アイテムが破壊されました。
+Due to enhancing failure, the item has been destroyed.
 
 ID=18002
-破壊状態の装備は着用できません。
+You can't equip broken items.
 
 ID=18003
-破壊状態の装備は取引できません。
+You cannot trade broken equipment.
 
 ID=18004
-破壊状態の装備が復元されました。
+Broken equipment has been recovered.
 
 ID=18005
-{0}を復元しますか？\n復元回数は{1}回です。
+Do you wish to recover {0}?\nRecover Limit: {1}.
 
 ID=18006
 Restoration
@@ -5399,13 +5399,13 @@ ID=18016
 You can synthesize the broach.
 
 ID=18017
-合成にはブローチが5個必要です。
+You need 5 brooch for synthesis.
 
 ID=18018
-これ以上登録できません。
+You can't register anymore items.
 
 ID=18019
-一度に10個まで分解できます。
+You can dismantle up to 10 items at once.
 
 ID=18020
 Up to the last 10 marketprice going rates will show.
@@ -5432,13 +5432,13 @@ ID=18029
 Sealing Stamp
 
 ID=18030
-{0}を封印しますか？\n封印回数は{1}回です。
+Would you like to seal{0}?\nSeal Limit: {1}.
 
 ID=18031
 Sealed Count
 
 ID=18032
-装備の要求レベルよりファミリアの要求レベルが高いので登録できません。
+Equipment could not be registered on the Familiar; the level is too high.
 
 ID=18033
 Sealed
@@ -5450,7 +5450,7 @@ ID=18035
 You can prevent an equipment piece from being destroyed by using 1 Q.B.D[Enhancement Protector] on the equipment being enhanced.\n Do you wish to continue enhancing?
 
 ID=18036
-現在使用中の機能に登録されたアイテムがあるため\n整列することができません。
+You are in an operation mode, therefore \n you can't organize your inventory. 
 
 ID=18037
 Time Left
@@ -5459,16 +5459,16 @@ ID=18038
 -
 
 ID=18039
-Dismantling completed
+Dismantle Done
 
 ID=18040
-分解が完了しました。
+Dismantling completed
 
 ID=18041
-販売時、手数料が発生しません。
+There will be no additional fees on selling this item.
 
 ID=18042
-出品数
+Item Entry
 
 ID=18043
 {0}, {1}, {2} will be showcased. Do you want continue?
@@ -5492,10 +5492,10 @@ ID=18049
 Redeem Ticket(s)
 
 ID=18050
-期間制アイテム「{0}」の使用期間が残っています。{0}を破棄すると、アイテムモールに返却処理され、該当アイテムに対する補償は行われません。\n破棄しますか？
+There is still time remaining on「{0}」. If {0} is destroyed, it will be returned to the item mall and there will be no rewards.\nWould you still like to destroy the item?
 
 ID=18051
-期間制アイテム「{0}」が返却処理されました。詳細はメールを確認してください。
+Temporary item「{0}」has been refunded. Please check your mail for more details.
 
 ID=18052
 {0} year(s) {1} month(s) {2} day(s) {3} hour(s) {4) minute(s)
@@ -5504,10 +5504,10 @@ ID=18053
 ({0} days)
 
 ID=18054
-期間制アイテム
+Temporary Item
 
 ID=18055
-期間設定
+Set duration
 
 ID=18056
 <font color='#47C83E'>ビット</font>、<font color='#4374D9'>キロ</font>等級ブローチ合成可能
@@ -5555,7 +5555,7 @@ ID=18073
 When used, all your skills will be reset.\nAre you sure you want to use?
 
 ID=18074
-インベントリにあるアイテムのみ封印できます。
+Item can only be sealed in the inventory. 
 
 ID=18075
 耐久度が減少したアイテムは封印できません。
@@ -5567,10 +5567,10 @@ ID=18077
 <font color='#FFFFFF'>(シールデリーター</font><font color='#F15F5F'>使用不可</font><font color='#FFFFFF'>)</font>
 
 ID=18078
-一度に販売できる個数は10個までです。
+You can only sell 10 items at a time.
 
 ID=18172
-ファミリアソケット最大{0}個付与
+Maximum {0} Familiars attached
 
 ID=18173
 Details
@@ -5579,7 +5579,7 @@ ID=18174
 Description
 
 ID=18175
-セットオプション情報
+Set Option Information
 
 ID=18176
 Familiar
@@ -5594,7 +5594,7 @@ ID=18179
 Restorations
 
 ID=18180
-ブローチソケット{0}個付与
+Ope {0} Sockets to Brooch
 
 ID=18181
 Broach Details:
@@ -5603,28 +5603,28 @@ ID=18182
 Broach Slot Locked
 
 ID=18183
-強化オプション
+Enhancing Options
 
 ID=18184
-着用ファミリアなし
+No Equipped Famliar
 
 ID=18185
-ファミリアソケット拡張可能
+Familiar Socket available for Expansion
 
 ID=19000
-<font color='#47C83E'>攻撃力1%/攻撃失敗時ダメージ増加1%</font>
+<font color='#47C83E'>Attack +1%/Damage Increased by 1% if attack fails</font>
 
 ID=19001
-<font color='#4374D9'>攻撃力2%/攻撃失敗時ダメージ増加2%</font>
+<font color='#4374D9'>Attack +2%/Damage Increased by 2% if attack fails</font>
 
 ID=19002
-<font color='#E0B94F'>攻撃力3%/攻撃失敗時ダメージ増加3%</font>
+<font color='#E0B94F'>Attack +3%/Damage Increased by 3% if attack fails</font>
 
 ID=19003
-<font color='#F15F5F'>攻撃力4%/攻撃失敗時ダメージ増加4%/敵防御度貫通1%</font>
+<font color='#F15F5F'>Attack +4%/Damage Increased by 4% if attack fails/Enemy Defense Pen +1%</font>
 
 ID=19004
-<font color='#8041D9'>攻撃力5%/攻撃失敗時ダメージ増加5%/敵防御度貫通2%</font>
+<font color='#8041D9'>Attack +5%/Damage Increased by 5% if attack fails/Enemy Defense Pen +2%</font>
 
 ID=19005
 <font color='#47C83E'>Defense 5%/Increase HP by 4% </font>
@@ -5687,7 +5687,7 @@ ID=19024
 <font color='#8041D9'>Accuracy 50/Increase Critical Damage by 1000/クリティカル率2%</font>
 
 ID=19025
-テキスト_タイプ2_髪ビットブローチセット_オプション
+Text_Type2_Hair beat Brooch Set_Options
 
 ID=19026
 テキスト_タイプ2_髪キロブローチセット_オプション
@@ -5765,7 +5765,7 @@ ID=20010
 Greet
 
 ID=20011
-Used「Greet」.
+Used 「Greet」.
 
 ID=20012
 {0} is greeting.
@@ -5849,7 +5849,7 @@ ID=20304
 Time Left: {0}m
 
 ID=20305
-使用を中止しますか？
+Would you like to stop the usage?
 
 ID=20306
 Existing furniture will be removed; do you wish to proceed?
@@ -5864,7 +5864,7 @@ ID=20309
 The item is currently inactive.
 
 ID=20310
-設置されたアイテムの解除権限がありません。
+You have no dismantling permission for the selected item.
 
 ID=20400
 During FP Recovery, 
@@ -5876,7 +5876,7 @@ ID=20402
 During break,
 
 ID=21000
-{0}の好感度が{1}増加しました。
+{0}'s affection rate was increased by {1}.
 
 ID=21001
 {0}に対する顧客等級Lv{1}を達成しました。段階による特典が付与されます。
@@ -5957,13 +5957,13 @@ ID=21026
 Supporter Quest Complete [Supporter: Sensen]
 
 ID=21027
-Achievement
+Record
 
 ID=21028
 Locked
 
 ID=21029
-Insufficient customer relationship.
+Customer grade too low.
 
 ID=21030
 一日購入回数超過
@@ -6014,10 +6014,10 @@ ID=21054
 HP Recovery Potion stage 2 is available for purchase.
 
 ID=21055
-HP Recovery Potion stages 2 to 3 is available for purchase.
+HP Recovery Potion stages 2 to 3 are available for purchase.
 
 ID=21056
-HP Recovery Potion stages 2 to 4 is available for purchase.
+HP Recovery Potion stages 2 to 4 are available for purchase.
 
 ID=21057
 SG 50% Recovery Potion is available for purchase.
@@ -6041,7 +6041,7 @@ ID=21501
 Long-Range Attack
 
 ID=21502
-Abnormal Rushing State
+AoE Type
 
 ID=21503
 Long-Range Support Attack
@@ -6083,19 +6083,19 @@ ID=21515
 Claim
 
 ID=21516
-Register Supporter
+Buff Supporter
 
 ID=21517
 Activate\nAttack Orb
 
 ID=21518
-Increases the supporters' ATK by 20%
+Increases supporters' ATK by 20%
 
 ID=21519
 Activate\nDefense Orb
 
 ID=21520
-Increases the supporters' DEF by 20%
+Increases supporters' DEF by 20%
 
 ID=21521
 Are you sure you want to apply the attack orb's 20% attack buff?
@@ -6107,10 +6107,10 @@ ID=21523
 Applied Buff
 
 ID=21524
-Attack Increased: {0}
++ ATK: {0}
 
 ID=21525
-Defense Increased: {0}
++ DEF: {0}
 
 ID=21526
 Buff End Time:
@@ -6140,7 +6140,7 @@ ID=21534
 The Supporters have withdrawn because you have left the dungeon.
 
 ID=21535
-Summoning of {0} has been canceled. 
+{0} has been recalled.
 
 ID=21536
 Type
@@ -6182,13 +6182,13 @@ ID=21548
 Support has expired; claim the reward.
 
 ID=21549
-支援終了時間待機中です。
+Supporter Buff
 
 ID=21550
-支援報酬を受け取りますか？
+Do you want to receive the supporter buff?
 
 ID=21551
-支援報酬支給が完了しました。
+Supporter buff obtained.
 
 ID=21552
 Insufficient inventory space . Funds cannot be utilized.
@@ -6293,7 +6293,7 @@ ID=22029
 Best
 
 ID=22030
-Show
+Complex
 
 ID=22031
 Simple
@@ -7418,7 +7418,7 @@ ID=24526
 EXP Gain Increase
 
 ID=24527
-Additional Reward Gained
+Obtained Bonus Reward
 
 ID=24528
 Reset One Skil
@@ -7439,7 +7439,7 @@ ID=24533
 Broach Synthesis 
 
 ID=24534
-Additional Familia Socket
+Additional Familiar Socket
 
 ID=24535
 Additional Avatar Socket
@@ -8120,10 +8120,10 @@ ID=24905
 Iris
 
 ID=25000
-Tutorial End
+End Tutorial
 
 ID=25001
-Tutorial End
+End Tutorial
 
 ID=25002
 Exit the tutorial and enter the field.\n(Warning! You will not get the turotial completion EXP)
@@ -8141,16 +8141,16 @@ ID=25102
 Basic Attack
 
 ID=25103
-Aerial Attack
+Air Attack
 
 ID=25104
 Rising Roll
 
 ID=25105
-Get up quickly
+Get Up
 
 ID=25106
-Mid-jump
+Float
 
 ID=25200
 Basic Attack Combo
@@ -8183,13 +8183,13 @@ ID=25230
 Destroy the object
 
 ID=25231
-You can destroy some objects.\Please go near the object and try to destroy it.
+You can destroy some objects.\n Please go near the object and try to destroy it.
 
 ID=25240
 Special Ability
 
 ID=25241
-You can activate special abilities through Right Click. \nHaru's special ability is to launch enemies into the air.\nEnemies will slowly fall down.
+You can activate special abilities through Right Click. \nHaru's special ability is to launch enemies into the air. \nEnemies will slowly fall down.
 
 ID=25242
 You can activate special abilities through Right Click. /nErwin's special ability is to install traps./nEnemies that step on the traps are temporarily slowed.
@@ -8213,10 +8213,10 @@ ID=25281
 After defeating all enemies within the area,\n new enemies will appear\n The mini-map will be updated accordingly.
 
 ID=25290
-Sector Clear
+Sector Clearing
 
 ID=25291
-By defeating all enemies, completing all objectives,\nand by progressing through the quest, you can move onto the next area.
+By defeating all enemies, completing\nall objectives, and by progressing through \nthe quest, you can move onto \nthe next area.
 
 ID=25300
 Soul Gauge
@@ -8243,7 +8243,7 @@ ID=25313
 Get Up and Dodge
 
 ID=25314
-Restore Attack and Skill Deck Settings
+Chain Attacks and Skills
 
 ID=25315
 Recover upon successfully landing a hit.
@@ -8258,10 +8258,10 @@ ID=25320
 SG will recover faster when low.
 
 ID=25330
-Rising&Rolling Up
+Slide & Roll
 
 ID=25331
-If you are knocked down by enemies, you can SHIFT+Directional Key to roll back up/nor press SPACE to get up quickly.
+If you are knocked down by enemies, you can SHIFT+Directional Key to roll back up or press SPACE to get up quickly.
 
 ID=25400
 Skill Usage
@@ -8270,10 +8270,10 @@ ID=25401
 Place a skill into your quick slot.
 
 ID=25402
-Pressing a quick slot key will activate the corrosponding skill.
+Pressing a quick slot key will activate the matching skill.
 
 ID=25403
-Up to 6 skills may be placed into your quick slots.
+Up to 6 skills may be quick slotted.
 
 ID=25410
 Skill Deck Usage
@@ -8282,10 +8282,10 @@ ID=25411
 Up to 3 skills may be put into a skill deck.
 
 ID=25412
-A combo indicator will appear when using a skill.
+A combo gauge will appear when using a skill.
 
 ID=25413
-You may link skills in your skill deck under certain conditions.
+You may link skills in your skill deck.
 
 ID=25414
 Linking skills will provide an extra effect.
@@ -8384,7 +8384,7 @@ ID=26031
 Movement Speed
 
 ID=26032
-Attack Speed(%)
+Attack Speed
 
 ID=26033
 Attack
@@ -8402,7 +8402,7 @@ ID=26037
 Defense
 
 ID=26038
-Defense Increase[%]
+Defense Increase
 
 ID=26039
 Magic Resistance
@@ -8417,7 +8417,7 @@ ID=26042
 Magic Accuracy[%]
 
 ID=26043
-Ineffective Attack Damage[%]
+Weak Attack Damage
 
 ID=26044
 Critical Hit Rate
@@ -8486,7 +8486,7 @@ ID=26065
 Magic Resistance Penetration[%]
 
 ID=26066
-Cooldown Reduction[%]
+Cooldown Reduction
 
 ID=26067
 Damage: PvP
@@ -8510,13 +8510,13 @@ ID=26073
 Damage on Aerial Attacks
 
 ID=26074
-Reduce Bonus Enemy Damage[%]
+Reduce Bonus Enemy Damage
 
 ID=26075
-Damage Reduction from General Mobs[%]
+Damage Reduction from General Mobs
 
 ID=26076
-Damage Reduction from Bosses[%]
+Damage Reduction from Bosses
 
 ID=26077
 Damage Reduction on Short-Ranged Attacks[%]
@@ -8525,10 +8525,10 @@ ID=26078
 Damage Reduction on Long-Ranged Attacks[%]
 
 ID=26079
-Super Armor Ability Power[%]
+Super Armor Ability Power
 
 ID=26080
-SG Cost Reduction{%]
+SG Cost Reduction
 
 ID=26081
 Increase EXP Gain[%]
@@ -8639,7 +8639,7 @@ ID=26116
 Reduce Damage Taken from District 6 Foes[%]
 
 ID=26117
-Reduce Damage Taken from Ineffective Attacks[%]
+Reduce Damage Taken from Weak Attacks
 
 ID=26118
 Reduce Damage Taken from Aerial Attacks[%]
@@ -8660,10 +8660,10 @@ ID=26123
 Buff on Evasion
 
 ID=26124
-Town Movement Speed[%]
+Town Movement Speed
 
 ID=26125
-Combat Movement Speed[%]
+Combat Movement Speed
 
 ID=26201
 Last-Hit Attack
@@ -8672,13 +8672,13 @@ ID=26202
 Last-Hit Defense
 
 ID=26203
-Last-Hit Attack Speed[%]
+Last-Hit Attack Speed
 
 ID=26204
 Last-Hit HP
 
 ID=26205
-Same-Level Defense[%]
+Same-Level Defense
 
 ID=26300
 5% chance to reflect {0}% damage.
@@ -8705,7 +8705,7 @@ ID=26307
 Receiving a hit at less than 50% HP will increase attack by {0}% for 5 seconds.
 
 ID=26308
-人形勢力討伐時、10秒間、攻撃力{0}%増加
+After killing a puppet, attack power is increased by {0}% for 10 seconds.
 
 ID=26309
 Reduce the cooldown of skill by {0}%
@@ -8714,67 +8714,67 @@ ID=26310
 When avoiding, recover {0}% HP.
 
 ID=26311
-スキル使用時、5%の確率でクールタイム{0}%減少
+When using a skill, cooldown is reduced by {0}% with 5% probability.
 
 ID=26312
-死亡時、{0}%の確率で復活
+When incapacitated, {0}% chance of being revived.
 
 ID=26313
-クリティカル攻撃を受けた時、10秒間クリティカル抵抗{0}増加
+When hit by a critical attack, critical resistance is increased by {0} for 10 seconds.
 
 ID=26314
-ボスクラスの敵から攻撃を受けた時、3秒間、最大スタミナ{0}増加
+When attacked by a Boss Monster, maximum stamina is increased by {0} for 3 seconds.
 
 ID=26315
-命中時、3%の確率で3秒間攻撃力{0}%増加
+When hit,  3% probability of increasing attack power by {0}% for 3 seconds.
 
 ID=26316
-命中時、1%の確率で5秒間攻撃力{0}%増加
+When hit, 1% probability of increasing attack power by {0}% for 5 seconds.
 
 ID=26317
-クリティカル時、3%の確率で3秒間敵防御度貫通{0}%
+During a critical attack, 3% chance of penetrating the enemy's defense by {0}% for 3 seconds.
 
 ID=26318
-クリティカル時、1%の確率で5秒間敵防御度貫通{0}%
+During a critical attack, 1% chance of penetrating the enemy's defense by {0}% for 5 seconds.
 
 ID=26319
-攻撃を受けた時、15%の確率で3秒間回避度{0}増加
+When attacked, 15% probability of increasing aversion by {0} for 3 seconds.
 
 ID=26320
-回避時、10%の確率で10秒間攻撃失敗ダメージ{0}%増加
+During aversion, 10% probability of increasing averted damage by {0}%.
 
 ID=26321
-クリティカル攻撃を受けた時、50%の確率でHP{0}回復
+When hit by a critical attack, 50% chance of recovering HP by {0}.
 
 ID=26322
-命中時、5%の確率で5秒間スーパーアーマー破壊力{0}%増加
+When hit, 5% probability of increasing Super Armor destructive power by {0}% for 5 seconds.
 
 ID=26323
-町での移動速度{0}%増加
+Movement speed is increased by {0}% when in a town.
 
 ID=26324
-ボスから攻撃を受けた時、10%の確率で5秒間ダメージ{0}%減少
+When attacked by a Boss Monster,  10% probability of damage reduction by {0}% for 5 seconds.
 
 ID=26325
-回避時、次の攻撃力{0}%増加
+During evasion, the next attack is increased by {0}%.
 
 ID=26326
-回避時、5%の確率でHP{0}回復
+During evasion, 5% probability of recovering HP by {0}.
 
 ID=26327
-命中時、2%の確率でスタミナ{0}回復
+When hit, 2% chance of recovering stamina by {0}.
 
 ID=26328
-戦闘地域での移動速度{0}%増加
+Increased movement speed of {0}% in a combat zone
 
 ID=26329
-攻撃を受けた時、15%の確率で5秒間防御度{0}%増加
+When attacked, 15% probability of increasing defense by {0}% for 5 seconds.
 
 ID=26330
-攻撃を受けた時、8%の確率で10秒間クリティカル抵抗{0}増加
+When attacked, 8% probability of increasing critical resistance by {0} for 10 seconds.
 
 ID=26331
-攻撃を受けた時、20%の確率でダメージ量{0}%反射
+When attacked, 20% probability of {0}% damage reflection.
 
 ID=26332
 When attacked, 20% probability of a 1 second super armor effect
@@ -9014,10 +9014,10 @@ ID=28057
 Freeze Rank
 
 ID=28058
-Unfreeze Rank
+Reset Rank
 
 ID=28059
-Do you want to demote {0} from the appointed rank(s)?
+Do you want to reset {0}'s rank?
 
 ID=28060
 {0} has been established.
@@ -9029,7 +9029,7 @@ ID=28062
 {0} has been appointed to {1} rank.
 
 ID=28063
-Rank {0} settings have been modified.
+{0}'s rank has been reset.
 
 ID=28064
 Do you want to save the guild permissions for {0} rank?
@@ -9104,7 +9104,7 @@ ID=28087
 Guild Invite Refusal
 
 ID=28088
-ギルドメンバー数を超過したため、加入できません。
+Guild is full. Cannot be joined.
 
 ID=28089
 Guild Info
@@ -9116,34 +9116,34 @@ ID=28091
 Guild Application
 
 ID=28092
-ギルドが存在しないか、申請ができない状態です。
+Guild does not exist. Cannot apply.
 
 ID=28093
-ギルド加入申請不可
+Guild application failed
 
 ID=28094
 ギルド脱退ペナルティにより、\n{0}時間ギルドに加入できません。
 
 ID=28095
-ギルド脱退ペナルティ
+Guild withdrawal penalty
 
 ID=28096
-{0}のギルド加入申請を承諾しますか？
+Do you accept the guild applicant {0}?
 
 ID=28097
-ギルド加入可否
+Guild Applicant
 
 ID=28098
 加入申請者が存在しないか、\n他のギルドに加入している状態です。
 
 ID=28099
-ギルド加入不可
+Cannot join guild
 
 ID=28100
-{0}のギルド加入申請を拒否しますか？
+Do you wish to reject the guild applicant {0}?
 
 ID=28101
-ギルド拒否可否
+Reject Member
 
 ID=28102
 加入申請が混み合っているため、現在申請ができません。
@@ -9155,16 +9155,16 @@ ID=28104
 {0} days ago
 
 ID=28105
-{0} hours ago
+{0} hrs ago
 
 ID=28106
-{0} minutes ago
+{0} mins ago
 
 ID=28107
 Joined {0}.
 
 ID=28108
-{0}がギルド[{1}]に加入しました。
+{0} has joined the [{1}] guild.
 
 ID=28109
 If you leave the guild, you may not join a new one for 1 day.\n Do you still wish to leave?
@@ -9176,7 +9176,7 @@ ID=28111
 ギルド脱退が完了しました。\nこれから1日間[ギルド加入]ができません。
 
 ID=28112
-ギルド脱退完了
+Guild withdrawal complete
 
 ID=28113
 You have left {0}.
@@ -9188,16 +9188,16 @@ ID=28115
 Kick {0} from the guild?
 
 ID=28116
-ギルド追放案内
+Confirm Expel Member
 
 ID=28117
-{0} has been expelled from the Guild.
+{0} has been kicked from the Guild.
 
 ID=28118
-ギルド追放完了
+Expel Member
 
 ID=28119
-{0} has been expelled from the Guild.
+{0} has been kicked from the Guild.                                                            
 
 ID=28120
 You were expelled from {0}.
@@ -9206,7 +9206,7 @@ ID=28121
 You can not expel this member; they have higher authority.
 
 ID=28122
-ギルド追放不可
+Failed to kick from guild
 
 ID=28123
 Guild Level: {0}
@@ -9251,7 +9251,7 @@ ID=28136
 Guild Master
 
 ID=28137
-Members
+#
 
 ID=28138
 Vice Master
@@ -9293,7 +9293,7 @@ ID=28150
 Guild Controls
 
 ID=28151
-Rank Settings
+Set Rank
 
 ID=28152
 Expel
@@ -9317,7 +9317,7 @@ ID=28158
 Modify Rank
 
 ID=28159
-Unfreeze Rank
+Reset Rank
 
 ID=28160
 Permissions Control
@@ -9440,7 +9440,7 @@ ID=28199
 If you have a rank you wish to add, please enter it.
 
 ID=28200
-Saved Rank
+Save Rank
 
 ID=28201
 Add Rank Name
@@ -9458,7 +9458,7 @@ ID=28205
 Use 2 to 8 characters for a guild name.
 
 ID=28206
-Can't create guild with present guild name, this word is not allowed.
+Can't use this name, this word is not allowed.
 
 ID=28207
 Verify
@@ -9662,13 +9662,13 @@ ID=29054
 以前のマイルーム公開/ローカル状態に自動転換します。
 
 ID=29055
-Camera Movement
+Move Camera
 
 ID=29056
 Camera Height
 
 ID=29057
-Rotate Camera
+Rotate Cam
 
 ID=29058
 Camera Zoom
@@ -9869,7 +9869,7 @@ ID=31047
 Ready
 
 ID=31048
-EPISODE
+EP
 
 ID=31049
 Auto-Matching
@@ -9893,7 +9893,7 @@ ID=31055
 Auto-matching cannot be used in a party.
 
 ID=31056
-時間内に検索できませんでした。
+Unable to find a party within the time limit.
 
 ID=31057
 メンバーが不足していますが、このまま進行しますか？\n時間内に選択しなかった場合は、自動で入場します。\n(残り時間：{0}秒)
@@ -9932,7 +9932,7 @@ ID=31068
 Leave
 
 ID=31069
-Progress
+Proceed
 
 ID=31070
 Standby
@@ -10001,7 +10001,7 @@ ID=31091
 Leader
 
 ID=31092
-Members
+#
 
 ID=31093
 Time Left
@@ -10016,7 +10016,7 @@ ID=31096
 Class
 
 ID=31097
-Location
+Place
 
 ID=31098
 Time
@@ -10220,10 +10220,10 @@ ID=31164
 パーティー申請できるレベルではありません。
 
 ID=31165
-パーティーマッチング中止
+Party matching stopped
 
 ID=31166
-マッチング中のメンバーがキャンセルしました。
+Members have canceled the matching.
 
 ID=31167
 The party is in combat; do you wish to join? \n (Time remaining: {0} seconds)
@@ -10232,7 +10232,7 @@ ID=31168
 Party Join Request Ad
 
 ID=31169
-メンバーの離脱により、敵が弱体化されます。
+Since party members left, the enemies have weakened.
 
 ID=31170
 Area
@@ -10256,7 +10256,7 @@ ID=32000
 Gameplay Controls
 
 ID=32001
-Grow
+Growth
 
 ID=32002
 Action
@@ -10310,7 +10310,7 @@ ID=32018
 Quest
 
 ID=32019
-Achievements
+Records
 
 ID=32020
 Memorial
@@ -10334,7 +10334,7 @@ ID=32026
 Damage
 
 ID=32027
-Down
+Knocked Down
 
 ID=32028
 Death
@@ -10430,7 +10430,7 @@ ID=32058
 Dungeon Portal
 
 ID=32059
-イベントスポーン
+Event Spawn
 
 ID=32060
 Move
@@ -10448,7 +10448,7 @@ ID=32064
 Tooltip
 
 ID=32065
-Durability
+Cnd
 
 ID=32066
 Enhance
@@ -10472,7 +10472,7 @@ ID=32072
 Auto-Matching
 
 ID=32073
-パーティー検索
+Party Search
 
 ID=32074
 Friend
@@ -10496,10 +10496,10 @@ ID=32080
 Quest
 
 ID=32081
-Achievements
+Records
 
 ID=32082
-Secured
+Clearance
 
 ID=32083
 Memorial
@@ -10535,7 +10535,7 @@ ID=32093
 Chat Options
 
 ID=32094
-フレンド募集
+Looking for friends
 
 ID=32095
 Guild
@@ -10748,13 +10748,13 @@ ID=35006
 NPC Lines
 
 ID=35007
-Attack Information
+Attack
 
 ID=35008
-Damage Information
+Dmg Info.
 
 ID=35009
-Recovery Information
+Recovery
 
 ID=35010
 Status
@@ -10763,7 +10763,7 @@ ID=35011
 EXP
 
 ID=35012
-Items Acquired
+Items Gained
 
 ID=35013
 Other Information
@@ -10805,25 +10805,25 @@ ID=35111
 {0}の効果が付与されました。
 
 ID=35112
-{0}がLv{1}になりました。
+{0} is now Lv{1}.
 
 ID=35113
-SPを{0}獲得しました。
+SP {0} acquired. 
 
 ID=35114
 Chat interval Limit of 10 seconds reached.\n(Remaining: {9}s)
 
 ID=35115
-チャットマナー違反ペナルティにより60秒間チャットできません。\n(残り：{0}秒)
+You cannot chat for 60 seconds because of violation of chat rules.\n(Time remaining：{0} seconds)
 
 ID=35200
-{0)に勝利して、BPを{1}獲得しました。
+{0)has won, {1} BP has been gained.
 
 ID=35201
-{0)に敗北して、BPが{1}減少しました。
+{0)has been defeated, BP is reduced by {1}.
 
 ID=35202
-BPを{0}獲得しました。
+BP {0} acquired.
 
 ID=35203
 Used {1} BP to purchase {0}
@@ -11075,7 +11075,7 @@ ID=40101
 Please move to the next area.
 
 ID=40102
-You may move to town.
+You can move to town.
 
 ID=40105
 Please talk to Miriam.
@@ -11228,7 +11228,7 @@ ID=40158
 You may freely move between the four districts.
 
 ID=40159
-Junk, The King's defense will increase when its phantoms appear.
+The King Junk's defense will increase when its phantoms appear.
 
 ID=40160
 箱を壊すと、隠れていたエドガーが現れます。
@@ -11405,28 +11405,28 @@ ID=40217
 制御装置を使用すると、大型シャッターを開けられます。
 
 ID=40218
-大型シャッターが開きます。
+The large shutter opens.
 
 ID=40219
 全ての敵を討伐し、大型シャッターを開けてください。
 
 ID=40220
-爆弾シャトルを回避してください。
+Please evade the bomb shuttle
 
 ID=40221
-間もなく敵が召喚されます。\nスイッチを作動させて、敵の召喚を止めてください。
+The enemies will be summoned soon.\nActivate the switch and defeat the enemies.
 
 ID=40222
-間もなく敵が召喚されます。
+The enemies will be summoned soon.
 
 ID=40223
-間もなく広域攻撃が発動します。\nスイッチを作動させて、広域攻撃発動を止めてください。
+A wide-area attack will soon be fired.\nActivate the switch and stop the wide-area attack.
 
 ID=40224
-間もなく敵が召喚されます。\n中央の制御装置を破壊し、召喚を止めてください。
+The enemies will be summoned soon.\nDestroy the center control device and stop the enemies. 
 
 ID=40225
-間もなく敵が持続的に召喚されます。\n敵の召喚を止めるには、召喚装置を破壊する必要があります。
+Continuous enemies will be summoned.\nTo stop the summoning, destroy the summoning device.
 
 ID=40226
 セキュリティーは4段階にわたり解除され、装置作動時は対人防御システムが発動します。
@@ -11435,13 +11435,13 @@ ID=40227
 2個のセキュリティ装置中、1個はトラップが設置されています。\n正しいセキュリティ装置を作動させると扉が開きます。
 
 ID=40228
-間もなく新しい敵が召喚されます。\n注意してください。
+New enemies will be summoned soon.\nPlease be careful.
 
 ID=40229
-シャトルが通過します。\n安全な場所へ避難してください。
+The shuttle will pass.\nPlease evacuate to a safe place.
 
 ID=40230
-エレベーター侵入者警報装置が作動しました。\n敵をすべて討伐するか、スイッチを操作することで警報装置を止めることができます。
+Elevator intruder alarm has been activated.\nDefeat all enemies, or stop the alarm system by turning off the switch.
 
 ID=40231
 未定
@@ -11462,7 +11462,7 @@ ID=40236
 2個のスタリーフォレスト連合保護対象中、一つでも破壊されると、エナジーチャージが止まります。
 
 ID=40237
-一定時間、敵の出現が止まります。
+After a certain amount of time, enemies will stop appearing.
 
 ID=40238
 In the east area, enemies appeared.
@@ -11522,43 +11522,43 @@ ID=40256
 2個のデバイスは、敵を強化する地域を順番に発生させます。
 
 ID=40257
-コントローラー作動時、敵が出現します。
+When the controller is activated, enemies will appear.
 
 ID=40258
-間もなく強力な敵が出現します。
+A powerful enemy will appear soon.
 
 ID=40259
 敵を倒すと、コントローラーが召喚されます。\n3個のコントローラーを全て起動してください。
 
 ID=40260
-1番コントローラー作動開始
+Controller 1 has been activated
 
 ID=40261
-2番コントローラー作動開始
+Controller 2 has been activated
 
 ID=40262
-全てのコントローラーを起動しました。 \n間もなく最後の敵が出現します。
+All controllers have been activated.\nThe final enemies will be summoned.
 
 ID=40263
-コントローラー作動時、強化効果が付与されます。
+When the controller is activated, strengthening effects are granted. 
 
 ID=40264
-コントローラー作動時、攻撃力増加効果が付与されます。
+When the controller is activated, attack power is increased.
 
 ID=40265
-コントローラー作動時、防御度増加効果が付与されます。
+When the controller is activated, defense is increased.
 
 ID=40266
-20秒ごとに1個のコントローラーが召喚されます。
+One controller will be summoned every 20 seconds.
 
 ID=40267
-コントローラー作動時、レーザービームが発射されます。\nレーザービームは、敵とプレイヤーの全てを攻撃してくるので注意してください。
+When the controller is activated, a laser beam will be fired.\nPlease note that the laser will attack all enemies and players.
 
 ID=40268
 20秒ごとに1個ずつ、全部で2個のコントローラーが召喚されます。\n2個起動時、支援レーザーキャノンが発射されます。
 
 ID=40269
-レーザーキャノン発射要請を確認。\n間もなくキャノンが発射されます。
+Confirmed laser canon firing request.\nThe cannon will soon be fired.
 
 ID=40270
 ランドクラッシャーを倒すと、コントローラーが召喚されます。
@@ -11585,13 +11585,13 @@ ID=40277
 バキュームベインは、1体ごとにダークワームの攻撃力と防御度を増加させます。
 
 ID=40278
-敵を倒すと、コントローラーが召喚されます。
+Defeat the enemies and the controller will be summoned.
 
 ID=40279
-コントローラー作動時、右側の遮断壁ロックが解除されます。
+When the controller is activated, the right barrier will release.
 
 ID=40280
-コントローラー作動時、左側遮断壁のロックが解除されます。
+When the controller is activated, the left barrier will release.
 
 ID=40281
 一定時間ごとに敵にダメージを与える磁気フィールドが発生します。
@@ -11621,7 +11621,7 @@ ID=40289
 S-00はHPが60%以下になると、敵とプレイヤー全てのHPを回復させるスキルを使用します。
 
 ID=40290
-コントローラー作動時、敵が出現します。
+When the controller is activated, enemies will appear.
 
 ID=40291
 30秒に1回、強力なダメージを与えるデバフがプレイヤーに付与されます。\n生成されたキューブ破壊時、該当デバフは解除されます。
@@ -11852,7 +11852,7 @@ ID=40459
 シールド発生装置を作動させると、フレイムテンペストの攻撃を防ぐことができます。
 
 ID=40460
-EMP発生装置のチャージが完了しました。
+EMP generator charge is complete.
 
 ID=40461
 シールド発生装置が到着しました。装置作動時、敵の攻撃を無効化するシールドが発生します。
@@ -11933,7 +11933,7 @@ ID=40495
 コンデンサーが全て破壊され、遮断ゲート解除スイッチの使用が可能になりました。
 
 ID=40496
-メインコアが危険を感知！\n防御レベルが上昇し、敵の増援が到着しました。
+The main core is in danger!\nDefense level is increased and enemy reinforcements have arrived.
 
 ID=40497
 コンデンサーを破壊すると、稼動中の防御機能を解除できます。
@@ -12059,7 +12059,7 @@ ID=42003
 Dancing Dress
 
 ID=42004
-一夜の宴ダンシングドールズ
+Nightly Dancing Dolls
 
 ID=42005
 月夜のロンドダンシングドールズ
@@ -13673,7 +13673,7 @@ ID=45204
 Lv{0}
 
 ID=45205
-Unlearned
+New
 
 ID=45206
 Change Character Name
@@ -13988,7 +13988,7 @@ ID=49228
 Reset Location
 
 ID=49229
-Tutorial End
+End Tutorial
 
 ID=49230
 Leave Room Confirmation
@@ -14003,13 +14003,13 @@ ID=49233
 Because the account is being logged in, the game will close.
 
 ID=49300
-Achievements
+Records
 
 ID=49301
-Achievements
+Records
 
 ID=49302
-Achievement Type
+Record Type
 
 ID=49303
 All
@@ -14030,16 +14030,16 @@ ID=49308
 Play
 
 ID=49309
-Achievement List
+Record List
 
 ID=49310
-Achievements
+Records
 
 ID=49311
 Rewards
 
 ID=49312
-Achievements
+Records
 
 ID=49313
 Ongoing
@@ -14048,7 +14048,7 @@ ID=49314
 Complete
 
 ID=49315
-Secured
+Clearance
 
 ID=49316
 List
@@ -14060,13 +14060,13 @@ ID=49318
 Step
 
 ID=49319
-Secured
+Clearance
 
 ID=49320
 Reward Status
 
 ID=49321
-Achievements
+Records
 
 ID=49322
 Season{0}
@@ -14084,10 +14084,10 @@ ID=49326
 Item Record
 
 ID=49327
-Dungeon Achievements
+Dungeon Records
 
 ID=49328
-Combat Achievements
+Combat Records
 
 ID=49329
 Quest Record
@@ -14102,7 +14102,7 @@ ID=49332
 Done:
 
 ID=49333
-Achievement Emblems
+Emblem Records
 
 ID=49334
 Special Mission
@@ -14156,7 +14156,7 @@ ID=49407
 System
 
 ID=49408
-Achievements
+Records
 
 ID=49409
 Memorial
@@ -14267,7 +14267,7 @@ ID=49619
 Please move to the next area.
 
 ID=49620
-Can't create guild with present guild name, this word is not allowed.
+Can't use this name, this word is not allowed.
 
 ID=49621
 Character names can not include spaces or special characters.
@@ -14411,7 +14411,7 @@ ID=49916
 < Confirmable by mail >
 
 ID=49917
-Secret Event
+Secret Mission
 
 ID=49918
 Success
@@ -14522,7 +14522,7 @@ ID=49953
 クリティカル攻撃
 
 ID=49954
-Down
+Knocked Down
 
 ID=49955
 Knockback
@@ -14819,7 +14819,7 @@ ID=52021
 Failed to discard item.
 
 ID=52022
-Failed to make item.
+Failed to obtain item.
 
 ID=52023
 Failed to expand slots.
@@ -15068,7 +15068,7 @@ ID=52287
 該当NPCではありません。
 
 ID=52288
-ジェニーが不足しているため、購入できません。
+Insufficient Zenny. Purchase failed.
 
 ID=52289
 活性化状態ではありません。
@@ -15299,13 +15299,13 @@ ID=52613
 スチールグレイブ入場回数が残っています。
 
 ID=52615
-アイテム獲得に失敗しました。もう一度お試しください。
+Failed to acquire item. Please try again.
 
 ID=52616
-このメイズでは消費アイテムを使用できません。
+Cannot use consumables in this dungeon.
 
 ID=52617
-このメイズでは復活アイテムを使用できません。
+Cannot use resurrection items in this dungeon.
 
 ID=52700
 PvP対象のレベル差によって、BPの獲得及び減少はありません。
@@ -15323,7 +15323,7 @@ ID=52704
 PvP、PvE関連のデイリーBP獲得制限が初期化されました。
 
 ID=53001
-メイズ内部にいるプレイヤーは、パーティーに招待できません。
+Players who are in dungeon cannot be invited to party.
 
 ID=53002
 You are not the party leader.
@@ -15377,7 +15377,7 @@ ID=53018
 Another party invitation request has been received.
 
 ID=53021
-申請者が存在しません。
+Applicant does not exist.
 
 ID=53024
 制限時間経過後に登録できます。 
@@ -15392,7 +15392,7 @@ ID=53028
 {0}は現在別の要請をしています。
 
 ID=53029
-ボスとの戦闘中はパーティー離脱ができません。
+Cannot leave the party while in a boss battle.
 
 ID=53030
 無法地帯ではパーティー申請ができません。
@@ -15677,7 +15677,7 @@ ID=55306
 Mail has been deleted.
 
 ID=55307
-ジェニー所持量が最大値を超えました。
+You have too much Zenny. I think you're a bot.
 
 ID=55308
 Insufficient inventory space.
@@ -15815,7 +15815,7 @@ ID=57016
 The guild does not exist.
 
 ID=57017
-Failed to send guild request. 
+Failed to send guild application. 
 
 ID=57018
 The guild is full.
@@ -15845,13 +15845,13 @@ ID=57026
 このギルドに申請中です。
 
 ID=57027
-職位名は1～4文字まで使用できます。
+Guild ranks must be between 1 to 4 characters.
 
 ID=57028
 ギルドマスターです。
 
 ID=57029
-{0}分後に告知を作成できます。
+A notice can be made after {0} minutes.
 
 ID=57030
 この職位はこれ以上付与できません。
@@ -15869,7 +15869,7 @@ ID=57034
 自分をギルドから追放することはできません。
 
 ID=57035
-Can't create guild with present guild name, this word is not allowed.
+Can't use this name, this word is not allowed.
 
 ID=57036
 自分の職位は変更できません。
