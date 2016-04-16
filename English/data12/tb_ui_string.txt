@@ -728,7 +728,7 @@ ID=456
 The equipment durability has been reduced, \nthe durability has been reduced by {0}%.
 
 ID=457
-Are you sure you want to repair all items possessed?\n(Cost: {0} Zenny)
+Are you sure you want to repair all items?\n(Cost: {0} Zenny)
 
 ID=458
 Are you sure you want to repair all equipment?\n(Cost: {0} Zenny)
@@ -764,7 +764,7 @@ ID=470
 Dungeon \nClear
 
 ID=471
-Clearance
+Completion
 
 ID=472
 {0}h {1}m {2}s
@@ -800,7 +800,7 @@ ID=482
 Clear\nReward
 
 ID=483
-Performance Reward
+Performance Bonus
 
 ID=484
 Special Reward
@@ -1292,7 +1292,7 @@ ID=728
 Lv{0}
 
 ID=731
-Rank {0}
+#{0}
 
 ID=732
 Casual Raid, also known as 「Aberrant Void」, is a high difficulty party-only dungeon. Please prepare properly before participating in the raid.
@@ -1337,7 +1337,7 @@ ID=745
 Solo, 1
 
 ID=746
-1 Person
+Solo
 
 ID=747
 2 People
@@ -1403,7 +1403,7 @@ ID=769
  sec
 
 ID=770
-Minute(s)
+ min(s)
 
 ID=771
 Time
@@ -2402,7 +2402,7 @@ ID=2129
 {0} has been removed from your block list.
 
 ID=2130
-The person is a friend that you have befriended.\nAre you sure you want to cut off interaction?
+This person is a friend that you have befriended.\nAre you sure you want to cut off interaction?
 
 ID=2131
 {0} cannot accept requests currently due to pending requests.
@@ -2834,7 +2834,7 @@ ID=3068
 You can register up to 5 concurrent items only.
 
 ID=3069
-I purchased {1} in {0}'s personal shop.
+You purchased {1} in {0}'s personal shop.
 
 ID=3070
 {0} has been sold for {1} Zenny.
@@ -2966,7 +2966,7 @@ ID=4012
 Clearance Level Up
 
 ID=4013
-Clearance Level {1} Complete :\n {0} 
+Clearance Level {1} Complete: {0} 
 
 ID=4014
 Memorial Completed
@@ -3302,10 +3302,10 @@ ID=5808
 <font color='#FFFFFF'><font size="30">TIP:</font> You may store extra items at the<font color='#00D8FF'>bank</font> by talking to <font color='#00ff9c'>Odon</font>.
 
 ID=5809
-<font color='#FFFFFF'><font size="30">TIP：</font>You can check the <font color='#00ff9c'>mini-map</font> to find the location of <font color='#00D8FF'>NPCs</font> ,or <font color='#00D8FF'>dungeon entrances.</font></font>
+<font color='#FFFFFF'><font size="30">TIP：</font>You can check the <font color='#00ff9c'>mini-map</font> to find the location of <font color='#00D8FF'>NPCs</font>, or <font color='#00D8FF'>dungeon entrances.</font></font>
 
 ID=5810
-<font color='#FFFFFF'><font size="30">TIP：</font>Press the hotkey <font color='#00ff9c'>【L】</font>to see your<font color='#00D8FF'>[Records][Secured Area Percentages].</font></font>
+<font color='#FFFFFF'><font size="30">TIP：</font>Press the hotkey <font color='#00ff9c'>【L】</font>to see your <font color='#00D8FF'>[Records] & [Secured Area Percentages].</font></font>
 
 ID=5811
 <font color='#FFFFFF'><font size="30">TIP：</font>Depending on your<font color='#00D8FF'>progress</font>, you can press <font color='#00ff9c'>【L】</font> to collect rewards.</font>
@@ -3491,10 +3491,10 @@ ID=5871
 <font color='#FFFFFF'><font size="30">TIP:</font> You may store extra items at the<font color='#00D8FF'>bank</font> by talking to <font color='#00ff9c'>Odon</font>.
 
 ID=5872
-<font color='#FFFFFF'><font size="30">TIP：</font>You can check the <font color='#00ff9c'>mini-map</font> to find the location of <font color='#00D8FF'>NPCs</font> ,or <font color='#00D8FF'>dungeon entrances.</font></font>
+<font color='#FFFFFF'><font size="30">TIP：</font>You can check the <font color='#00ff9c'>mini-map</font> to find the location of <font color='#00D8FF'>NPCs</font>, or <font color='#00D8FF'>dungeon entrances.</font></font>
 
 ID=5873
-<font color='#FFFFFF'><font size="30">TIP：</font>Press the hotkey <font color='#00ff9c'>【L】</font>to see your<font color='#00D8FF'>[Records][Secured Area Percentages].</font></font>
+<font color='#FFFFFF'><font size="30">TIP：</font>Press the hotkey <font color='#00ff9c'>【L】</font>to see your <font color='#00D8FF'>[Records] & [Secured Area Percentages].</font></font>
 
 ID=5874
 <font color='#FFFFFF'><font size="30">TIP：</font>Based on your game progess, you can check the <font color='#00D8FF'>Progress Information</font> window 【L】to receive some rewards.
@@ -3998,7 +3998,7 @@ ID=8401
 Current Position : {0}
 
 ID=8402
-You are too far from the target.
+Too far away.
 
 ID=8403
 OFFLINE
@@ -4745,49 +4745,49 @@ ID=14000
 Steel Grave
 
 ID=14001
-Chapter 1
+Chp. 1
 
 ID=14002
-Chapter 2
+Chp. 2
 
 ID=14003
-Chapter 3
+Chp. 3
 
 ID=14004
-Chapter 4
+Chp. 4
 
 ID=14005
-Chapter 5
+Chp. 5
 
 ID=14006
-Chapter 6
+Chp. 6
 
 ID=14007
-Chapter 7
+Chp. 7
 
 ID=14008
-Chapter 8
+Chp. 8
 
 ID=14009
-Chapter 9
+Chp. 9
 
 ID=14010
-Chapter 10
+Chp. 10
 
 ID=14011
-Chapter 11
+Chp. 11
 
 ID=14012
-Chapter 12
+Chp. 12
 
 ID=14013
-Chapter 13
+Chp. 13
 
 ID=14014
-Chapter 14
+Chp. 14
 
 ID=14015
-Chapter 15
+Chp. 15
 
 ID=14200
 Stage 1
@@ -5483,7 +5483,7 @@ ID=18046
 {0} m
 
 ID=18047
-Within 1 Minute
+Within 1 minute
 
 ID=18048
 Sold Time
@@ -5543,7 +5543,7 @@ ID=18069
 Do you want to change your character name {0}? It consumes 1 {0}.
 
 ID=18070
-キャラクター名を変更しました。再ログイン時、変更したキャラクター名が表示されます。
+Successfully changed character name, relog to see the changes.
 
 ID=18071
 Failed to purchase item: Insufficient Zenny
@@ -5558,7 +5558,7 @@ ID=18074
 Item can only be sealed in the inventory. 
 
 ID=18075
-耐久度が減少したアイテムは封印できません。
+Items in non-pristine condition cannot be sealed.
 
 ID=18076
 <font color='#FFFFFF'>(シールデリーター</font><font color='#6799FF'>使用可能</font><font color='#FFFFFF'>)</font>
@@ -5957,7 +5957,7 @@ ID=21026
 Supporter Quest Complete [Supporter: Sensen]
 
 ID=21027
- Done
+Done
 
 ID=21028
 Locked
@@ -6089,13 +6089,13 @@ ID=21517
 Activate\nAttack Orb
 
 ID=21518
-Supporters' ATK\n + 20%
+Supporters' ATK + 20%
 
 ID=21519
 Activate\nDefense Orb
 
 ID=21520
-Supporters' DEF\n + 20%
+Supporters' DEF + 20%
 
 ID=21521
 Are you sure you want to apply the attack orb's 20% attack buff?
@@ -8807,7 +8807,7 @@ ID=26341
 回避スキル使用時、2%の確率でHP{0}%回復
 
 ID=26342
-回避スキル使用時、3%の確率でHP{0}%回復
+Using the evasion skill will have a 3% chance of recovering {0}% HP.
 
 ID=26343
 When dashing, 10% chance for 5 seconds of movement speed +{0}%
@@ -8834,10 +8834,10 @@ ID=27700
 When enemy is defeated, +{0}% Soul Vapor
 
 ID=27701
-敵討伐時、ソウルベイパー{0}%追加獲得
+Additional {0}% Soul Vapor earned on killed enemies.
 
 ID=27702
-命中時、スキル倍率{0}%増加
+When hit, the skill power increases by {0}%.
 
 ID=28000
 Create Guild
@@ -9122,7 +9122,7 @@ ID=28093
 Guild application failed
 
 ID=28094
-ギルド脱退ペナルティにより、\n{0}時間ギルドに加入できません。
+Unable to join the guild.\n {0} hours remain for Guild withdrawl penalty.
 
 ID=28095
 Guild withdrawal penalty
@@ -9134,7 +9134,7 @@ ID=28097
 Guild Applicant
 
 ID=28098
-加入申請者が存在しないか、\n他のギルドに加入している状態です。
+Guild applicant no longer exists\n or is in a guild already.
 
 ID=28099
 Cannot join guild
@@ -9146,10 +9146,10 @@ ID=28101
 Reject Member
 
 ID=28102
-加入申請が混み合っているため、現在申請ができません。
+Guild applicants reached  maximum capacity; no more can be accepted.
 
 ID=28103
-ギルド加入申請超過
+The guild is full; no more can be accepted.
 
 ID=28104
 {0} days ago
@@ -9218,7 +9218,7 @@ ID=28125
 Can't learn guild skills; insufficient guild funds.
 
 ID=28126
-ギルド銀行にジェニーが足りないため、スキルを強化できません。
+Insufficient guild funds. Could not enhance guild skill levels.
 
 ID=28127
 Modify Rank
@@ -9476,7 +9476,7 @@ ID=28211
 Input
 
 ID=28212
-ギルド募集告知を作成します。
+Guild Recruitment Advertisement posted.
 
 ID=28213
 The new ad/announcement can be made in {0} minutes.
@@ -9635,7 +9635,7 @@ ID=29045
 You can not enter the room because the guest capacity limit was reached.
 
 ID=29046
-マイルーム強制退場対象案内
+Confirm Kick Guest
 
 ID=29047
 Are you sure you want to kick {0} from your room?
@@ -9659,7 +9659,7 @@ ID=29053
 Do you wish to turn layout mode off?
 
 ID=29054
-以前のマイルーム公開/ローカル状態に自動転換します。
+Your room publicity settings have been reverted to their defaults.
 
 ID=29055
 Move Camera
@@ -9896,7 +9896,7 @@ ID=31056
 Unable to find a party within the time limit.
 
 ID=31057
-メンバーが不足していますが、このまま進行しますか？\n時間内に選択しなかった場合は、自動で入場します。\n(残り時間：{0}秒)
+Would you like to proceed with this party?\nWill automatically continue if no input is given.\n(Remaining Time: {0} seconds)
 
 ID=31058
 パーティー進行可否を選択しなかったため強制退場となりました。
@@ -10055,13 +10055,13 @@ ID=31109
 Please vote on the party's goals.
 
 ID=31110
-Your party recruitment ad lasts for [{0}] / [{1}] seconds.
+Your party recruitment ad lasts for [{0}]m [{1}]s.
 
 ID=31111
 パーティー申請が完了しました。\nパーティー申請は30分後に自動で削除されます。\n(残り申請可能回数：{0}回)
 
 ID=31112
-Party request will cancelled after 30 minutes.
+Party request will canceled after 30 minutes.
 
 ID=31113
 Too many party requests. Please try again later.
@@ -10556,22 +10556,22 @@ ID=32100
 Exchange
 
 ID=33000
-Hello.\nI, entered this mixed world wandering, seeking for an excellent show my name is "Clown Edgar"\nI'm sure that you are surprised by the sudden letter.\nBut I wanted to tell you my thoughts as I cannot repress my admiration for your power.\nYour power was the most beautiful and impressive thing I've seen in my life.\nFlamboyant yet modest, beautiful but filthy.\nAnd... Peaceful yet destructive.\nTherefore, Not knowing how to express this burst of feelings I've come to the conclusion.\nFor you... I've sent a present.\nDo accept it, for this means that your power is worth the respect.\nYou will find the present in the "Shopping Street".\nI am hoping... hoping that you would like it.\n-From Clown Edgar-
+potentialfilebreak
 
 ID=33001
-Little by little, I feel the distance between you and me shrinking.\nWe'll encounter each other sooner or later.\nThe longer the wait, the moment of the encounter is shines wonderfully.\nTo produce a much more dramatic situation, we have prepared a little game.\nYou cannot enter my room as you are now.\nHowever, If you were to have the badge that my men are wearing.\nJust like walking in the woods at dawn you will be able to pass.\nPlease hurry up.\nWaiting to see you burn-
+potentialfilebreak
 
 ID=33002
--Report: Amaryllis-\n\n1.Soul energy resistance feature added to SJ-DS-01. States are very unstable.\n\n2.SJ-DS-01 turns out to be parasitic to man who is the host of soul energy. A human targeted by the parasite will continuously be drained of soul energy, the skin hardens like plaster and becomes food for SJ-DS-01.\n\n3.SJ-DS-01 called Dignity Snatcher. It becomes clear that a volume of the soul energy inside Dignity Snatcher exists. But ordinary humans don't have the soul energy to the extent of satisfying the relevant total volume. It's impossible to measure the present total volume.
+potentialfilebreak
 
 ID=33003
--Report: Tempest-\n1. It is composed of precision machinery. It was concluded that it's impossible to manufacture a Rapid Flame by itself after the technological level of the Rapid Flame was considered as a basis. Definitely there was outside support.\n\n2. Equipped with a high-density Desire Energy firing main gun.\n\n3. A special wire and a nail with a grip of 700kg is loaded as a special armament. \nBut the same performance as the main armament can't expected.\n\n4. Storage and transfer of soul energy are made possible by a special wire composed of special material.
+potentialfilebreak
 
 ID=33004
--ある雲った日。\nあの子の暴走は予想していた。むしろ、それを「災い」呼ぶ者たちを理解できなかった。我々は罪を犯し、それを償う時がやって来た…ただそれだけだ。他の子らの代わりに、裁きを下しに来たのだ。それがもし復讐という名を持っていたとしても、私は甘んじて受け入れる。\n\n-ある雪の日。\nあの子は愚かな人間たちによって再び眠りについた。彼らは、あの子が眠れば全て終わるという甘い考えに染まっていた。ネッドカンパニーが我々を助けてくれるなどという愚かな考えに腹が立った。彼らはきっと、真実を知る者全てを葬り去るだろう。何事もなかったかのように。\n\n-ある晴れた日。\nこの施設の閉鎖が決まり、首脳部を除く全ての人間はこの地獄へ取り残されることになった。おそらく、そう長くは保たないだろう。罪深き我々の最後にはお似合いだ。…不思議な気分だ。あれほど怖がっていた死が、今はまったく怖くない。
+potentialbreak
 
 ID=33005
-Model Name：NS_EX_008\nName：Cleany\n\n1. As the name suggests it is a cleaning exclusive robot. It distinguishes the soul energy included among private property, suitable for sorting and finding lost items.\n\n2. For the power loss situation, forced sleep mode is activated. To unlock sleep mode energy is injected 3 times in particular order for it to move.\n(Approximately 24 hours is required before it moves)\n\n3.  If the core is lost or destroyed, install the amplifying device at the location of the core and after the replacement of the core , the core should be restored.\n(Note: There at least needs to be a remaining power of 1%)\n\nFor those having reached up to this point of the few tips, thank you.\nThere is no sin in a person other than the "humans" in this Ruin Fortress.\nThis robot is also not guilty for it's existence.\nIn response to the letter "HELP ME", if you came up here, you should be able to surely accept this child. Nice to meet you.\nAnd, Cleany. Please, Be happy ....
+potentialfilebreak
 
 ID=33500
 Dead Desparate Soldier's Belongings
@@ -11171,13 +11171,13 @@ ID=40139
 Vampire effect will expire in 20 seconds if the enemy steps on the floor.
 
 ID=40140
-Stepping on the floor will increase attack power.
+Stepping on the glowing area will increase your attack power.
 
 ID=40141
-Stepping on the floor will cause immobility for 5 seconds.
+Stepping on the glowing area will immobilize you.
 
 ID=40142
-Stepping on the floor will cause a slow movement speed for 10 seconds.
+Stepping on the glowing area will slow you.
 
 ID=40143
 An enemy has appeared from behind.
@@ -11243,16 +11243,16 @@ ID=40163
 ファントムの幻影が自爆し、30秒間ファントムの防御度を上昇させます。
 
 ID=40164
-AIルーシーが対人防御システムを作動させました。
+The AI Lucy has activated the personal defense system.
 
 ID=40165
-対人防御システムにより、強力な磁気フィールドが発生しています。
+A powerful magnetic field has been activated due to the personal defense system.
 
 ID=40166
-防御システムにリンクされたヘビーセントリーを破壊してください。
+Please destroy the sentry linked to the defense system.
 
 ID=40167
-4個のサブAIコアを破壊すると、サブAIコア動力源を停止できます。\nサブAIコアが破壊されると、磁気フィールドが発生します。
+Stop the Sub-AI Core power source by destroying the 4 Sub-AI cores.\nDestroying the Sub-AI Core will activate the magnetic field.
 
 ID=40168
 The power source of the sub AI core has been stopped.
@@ -11633,7 +11633,7 @@ ID=40293
 Glutton has appeared. After defeating glutton,\n you can earn a variety of rewards.
 
 ID=40294
-Al Lucy is operating a defensive device. Stop the device and kill all enemies to proceed.
+Al Lucy is operating a defensive device. \nStop the device and kill all enemies to proceed.
 
 ID=40295
 The obstacles near the door have been removed.
@@ -12074,19 +12074,19 @@ ID=42008
 Brock
 
 ID=42009
-作戦兵ブロック
+Strategic Blockade Operation
 
 ID=42010
-ウォーライク
+Warlike
 
 ID=42011
-堅固なウォーライク
+Strong Warlike
 
 ID=42012
-アスファルトゴーレム
+Asphalt Golem
 
 ID=42013
-シウォラット
+Shiworatto
 
 ID=42014
 下水溝の主シウォラット
@@ -12173,7 +12173,7 @@ ID=42041
 HKMA
 
 ID=42042
-ガルス
+Gallus
 
 ID=42043
 -Blue Sky Gallus
@@ -12464,13 +12464,13 @@ ID=42138
 強化型訓練用ダミー
 
 ID=42139
-ディグニティースナッチャー
+Diligent Kidnapper
 
 ID=42140
-強奪者ディグニティースナッチャー
+Diligent Bandit
 
 ID=42141
-尊厳強奪者ディグニティースナッチャー
+Extremely Diligent Bandit
 
 ID=42142
 ドレインクロー
@@ -12629,7 +12629,7 @@ ID=42193
 Brock
 
 ID=42194
-作戦兵ブロック
+Strategic Blockade Operation
 
 ID=42195
 Block Strategist Lead Commander
@@ -12644,10 +12644,10 @@ ID=42198
 Micro Block Strategist Lead Commander
 
 ID=42199
-ウォーライク
+Warlike
 
 ID=42200
-堅固なウォーライク
+Strong Warlike
 
 ID=42201
 Militant Warlike Rock
@@ -12662,7 +12662,7 @@ ID=42204
 Micro Warlike Martial
 
 ID=42205
-シウォラット
+Shiworatto
 
 ID=42206
 下水溝の主シウォラット
@@ -12770,7 +12770,7 @@ ID=42240
 Micro Restless Researcher Victor
 
 ID=42241
-ガルス
+Gallus
 
 ID=42242
 -Blue Sky Gallus
@@ -12971,7 +12971,7 @@ ID=42307
 血吸の刃チェイサー
 
 ID=42308
-チェイサーμ
+Micro Chaser
 
 ID=42309
 奇襲部隊チェイサーμ
@@ -12998,7 +12998,7 @@ ID=42316
 強襲怪鳥インテンションカルラμ
 
 ID=43139
-ディグニティースナッチャー
+Diligent Kidnapper
 
 ID=43143
 F-ARIA
@@ -13046,13 +13046,13 @@ ID=43008
 Brock
 
 ID=43010
-ウォーライク
+Warlike
 
 ID=43012
-アスファルトゴーレム
+Asphalt Golem
 
 ID=43013
-シウォラット
+Shiworatto
 
 ID=43015
 ヴェノムミューカス
@@ -13082,7 +13082,7 @@ ID=43041
 HKMA
 
 ID=43042
-ガルス
+Gallus
 
 ID=43044
 Bonecrusher
@@ -13577,7 +13577,7 @@ ID=45053
 Time
 
 ID=45054
-Minute(s)
+ min(s)
 
 ID=45055
 Items cannot be added to the gift box.
@@ -13769,10 +13769,10 @@ ID=46001
 Chapter Selection
 
 ID=46002
-Enemy Debriefing Information
+Enemy Debriefing
 
 ID=46003
-Rewards Information
+Reward
 
 ID=46004
 {0}>{1}
@@ -13790,7 +13790,7 @@ ID=46102
 Performance Rewards
 
 ID=46103
-Special Mission Rewards
+Mission Bonus
 
 ID=46104
 Press confirm to move to the next stage.
@@ -14480,22 +14480,22 @@ ID=49939
 Become friends with a level difference of {0} as {1} 
 
 ID=49940
-.name_player.befriend
+nameplayerbefriend
 
 ID=49941
-.name_player.befriend,equip
+nameplayerbefriendequip
 
 ID=49942
-.name_player.befriend.use
+nameplayerbefrienduse
 
 ID=49943
-.name_player.befriend.use.title
+nameplayerbefriendusetitle
 
 ID=49944
-.name_player.befriend.use.title
+nameplayerbefriendusetitle
 
 ID=49945
-.name_player.befriend.use.title
+nameplayerbefriendusetitle
 
 ID=49946
 [{0}] Obtain [{1}] {2} pieces
@@ -14663,7 +14663,7 @@ ID=50000
 Mission Accepted
 
 ID=50001
-エラーが発生しました。\n(ERROR NOT MOVER)
+Error has occurred. \n (ERROR NOT MOVER)
 
 ID=50002
 Unknown user
@@ -15029,28 +15029,28 @@ ID=52264
 Insufficient inventory space.
 
 ID=52265
-交換に失敗しました。
+Exchange failed.
 
 ID=52270
 Dismantling failed.
 
 ID=52271
-アイテム分解ができないインベントリです。
+The items in the inventory can't be degraded.
 
 ID=52272
-アイテムにエラーが発生しました。
+Corrupted item data.
 
 ID=52273
-インベントリが不足しているため、アイテムを分解できません。
+The item no longer exists, you cannot dismantle it.
 
 ID=52280
-ソケット装着に失敗しました。
+Could not implement the socket.
 
 ID=52281
 Mismatch socket type.
 
 ID=52282
-装着できないソケット等級です。
+Mismatched socket, insertion is not possible.
 
 ID=52283
 ソケットが活性化状態ではありません。
@@ -15425,7 +15425,7 @@ ID=54007
 Could not interact.
 
 ID=54008
-相互作用に必要なアイテムがありません。
+Items do not need to be used for interacting with entities.
 
 ID=54009
 相互作用のクエストがありません。
@@ -15632,7 +15632,7 @@ ID=55109
 Somebody doesn't exist here.
 
 ID=55110
-You cannot invite someone who has denied party requests. (a.k.a Beater)
+You cannot invite {0} because they reject party invitations.
 
 ID=55111
 The target has a pending friend request already. Try again later.

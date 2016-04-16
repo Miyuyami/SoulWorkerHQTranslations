@@ -20,7 +20,7 @@ ID=15
 顧客特典
 Attack and Defense +20%.
 Icon/Buff/Icon_Common_Buff_Reg
-強化
+Enhanced
 
 ID=100
 Breaker
@@ -42,7 +42,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=103
 増強
-10秒間、攻撃力が10%増加する。
+Attack power increase by 10% for 10 seconds
 Icon/Buff/Icon_Common_Buff_ATK
 0
 
@@ -92,7 +92,7 @@ ID=202
 Fever
 Movement and Attack Speed +5% for 10 seconds.
 Icon/Buff/Icon_Common_Buff_Reg
-強化
+Enhanced
 
 ID=203
 Fever
@@ -102,19 +102,19 @@ SG Recovery
 
 ID=204
 Fever
-10秒間、クールタイムが50%減少、スキルSGを使用しない。
+No need SG cost when casting skill ,and skill cooldown decrease 50% for 10 seconds
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 Cooldown Reduction
 
 ID=301
 Divine Protection
-HPを毎秒10%ずつ回復する。
+Recover HP 10% per second
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=302
 Guard Crash
-10秒間、攻撃力が10%増加する。
+Attack power increase by 10% for 10 seconds
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
 
@@ -1253,61 +1253,61 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
 ID=6511
-トラブルパスⅠ
+Trouble Path I
 Defense -10%.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense Reduce
 
 ID=6512
-トラブルパスⅡ
+Trouble Path II
 Defense -15%.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense Reduce
 
 ID=6513
-トラブルパスⅢ
+Trouble Path III
 Defense -20%.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense Reduce
 
 ID=6514
-トラブルパスⅣ
+Trouble Path IV
 Defense -25%.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense Reduce
 
 ID=6515
-トラブルパスⅤ
+Trouble Path V
 Defense -30%.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense Reduce
 
 ID=6516
-トラブルパスⅠ
+Trouble Path I
 Recover 5% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=6517
-トラブルパスⅡ
+Trouble Path II
 Recover 5% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=6518
-トラブルパスⅢ
+Trouble Path III
 Recover 5% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=6519
-トラブルパスⅣ
+Trouble Path IV
 Recover 5% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=6520
-トラブルパスⅤ
+Trouble Path V
 Recover 5% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
@@ -1344,91 +1344,91 @@ Defense Reduce
 
 ID=6526
 ディケードパルスⅠ
-移動速度を10%減少させる。
+Movement speed reduce by 10%
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
 ID=6527
 ディケードパルスⅡ
-移動速度を10%減少させる。
+Movement speed reduce by 10%
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
 ID=6528
 ディケードパルスⅢ
-移動速度を10%減少させる。
+Movement speed reduce by 10%
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
 ID=6529
 ディケードパルスⅣ
-移動速度を10%減少させる。
+Movement speed reduce by 10%
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
 ID=6530
 ディケードパルスⅤ
-移動速度を10%減少させる。
+Movement speed reduce by 10%
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
 ID=6531
 ディケードパルスⅠ
-攻撃成功時、ダメージ量の100%HPを回復する。
+When hit , recover HP by amout of damage 100%
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6532
 ディケードパルスⅡ
-攻撃成功時、ダメージ量の100%HPを回復する。
+When hit , recover HP by amout of damage 100%
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6533
 ディケードパルスⅢ
-攻撃成功時、ダメージ量の100%HPを回復する。
+When hit , recover HP by amout of damage 100%
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6534
 ディケードパルスⅣ
-攻撃成功時、ダメージ量の100%HPを回復する。
+When hit , recover HP by amout of damage 100%
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6535
 ディケードパルスⅤ
-攻撃成功時、ダメージ量の100%HPを回復する。
+When hit , recover HP by amout of damage 100%
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6536
 ビーズプレイⅠ
-HPを25%回復する。
+Recover HP by 25%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=6537
 ビーズプレイⅡ
-HPを25%回復する。
+Recover HP by 25%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=6538
 ビーズプレイⅢ
-HPを25%回復する。
+Recover HP by 25%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=6539
 ビーズプレイⅣ
-HPを25%回復する。
+Recover HP by 25%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=6540
 ビーズプレイⅤ
-HPを25%回復する。
+Recover HP by 25%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
@@ -1470,7 +1470,7 @@ HP Recovery
 
 ID=6547
 Best Tempo II
-HPを25%回復する。
+Recover HP by 25%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
@@ -1799,25 +1799,25 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Recovery
 
 ID=21001
-怒涛
+Raging
 Attack Power +5% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
 
 ID=21002
-怒涛
+Raging
 Attack Power +7% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
 
 ID=21003
-怒涛
+Raging
 Attack Power +10% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
 
 ID=21004
-怒涛
+Raging
 Attack Power +5% for 3 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
@@ -1914,12 +1914,12 @@ Super Armor Penetration
 
 ID=21253
 金剛
-3秒間、無敵状態になる。
+Invincible for 3 seconds
 Icon/Buff/Icon_Common_Buff_SArmor
 Invincible
 
 ID=22001
-怒涛
+Raging
 Attack Power +12% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
@@ -1946,19 +1946,19 @@ ID=22005
 怒涛/強靭
 Attack Power +15% and Defense +100% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_Reg
-強化
+Enhanced
 
 ID=22006
 疾風/狂気
 Attack Rate +8% and Critical Rate +12% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_Reg
-強化
+Enhanced
 
 ID=22007
 集中/風
 Accuracy and Evasion +300 for 5 minutes.
 Icon/Buff/Icon_Common_Buff_Reg
-強化
+Enhanced
 
 ID=22008
 HP Recovery
@@ -2003,13 +2003,13 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 Stamina recovery
 
 ID=22015
-怒涛
+Raging
 60秒間、1秒間隔でスタミナを10回復する。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 Stamina recovery
 
 ID=25001
-怒涛
+Raging
 Attack Power +5% for 1 minute.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
@@ -2106,25 +2106,25 @@ HP Recovery
 
 ID=30013
 Light and Darkness
-周りにいる味方のHPが毎秒10%回復する。
+Allies around HP recovery 10%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=30014
 Light and Darkness
-周りにいる味方のHPが毎秒15%回復する。
+Allies around HP recovery 15%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=30015
 Doomsday
-15秒間、すべての効果に対する完全耐性を得る。
+Get resistance all effects for 15 seconds
 Icon/Buff/Icon_Common_Buff_Immun
 Invincible
 
 ID=30041
 Pandora's Box
-周りにいる味方の攻撃力を30%増加させる。
+Allies around attack power increase 30%
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
 
@@ -2138,22 +2138,22 @@ ID=30063
 怒涛/強靭
 攻撃力と防御度がそれぞれ10%増加する。
 Icon/Buff/Icon_Common_Buff_Reg
-強化
+Enhanced
 
 ID=60000
 休憩時間
-10秒間、全員のHPを回復する。
+Recover HP all allies for 10 seconds
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=39005
-過負荷
+Overload
 少しの間、テンペストの全機能が麻痺する。
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralysis
 
 ID=39006
-過負荷
+Overload
 少しの間、テンペストの全機能が麻痺する。
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralysis
@@ -2172,25 +2172,25 @@ HP吸収解除
 
 ID=39009
 加速
-10秒間、移動速度が10%増加する。
+Movement speed increase by 10% for 10 seconds
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed Increase
 
 ID=39010
 急襲
-10秒間、攻撃力が上昇する。
+Attack power increase for 10 seconds
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
 
 ID=39011
 Paralysis
-2秒間、麻痺状態になる。
+Paralyzed for 2 seconds
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralysis
 
 ID=39012
 鈍化
-10秒間、移動速度が減少する。
+Movement speed reduce for 10 seconds
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
@@ -2198,23 +2198,23 @@ ID=39013
 ナマクラ
 10秒間、攻撃力が減少する。
 Icon/Buff/Icon_Common_DeBuff_ATK
-攻撃力減少
+Attack power reduce
 
 ID=39014
 Poison
-10秒間、中毒効果を受ける。
+Poisoned effect for 10 seconds
 Icon/Buff/Icon_Common_Debuff_Poison
 Poison
 
 ID=39015
 Paralysis
-30秒間、キャラクターが動けなくなる。
+Can not move for 30 seconds
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralysis
 
 ID=39016
 Poison
-30秒間、中毒効果を受ける。
+Poisoned effect for 30 seconds
 Icon/Buff/Icon_Common_Debuff_Poison
 Poison
 
@@ -2232,9 +2232,9 @@ Recover
 
 ID=30018
 硬い皮
-受けるダメージを30％減少させる。
+Damage reduction increase 30%
 Icon/Buff/Icon_Common_Buff_Def
-ダメージ量減少
+Damage reduction
 
 ID=30024
 -
@@ -2286,7 +2286,7 @@ Bleed
 
 ID=30042
 ベタベタ粘液
-移動速度が60%減少する。
+Movemend speed reduce by 60%
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
@@ -2340,19 +2340,19 @@ Movement Speed Reduce
 
 ID=30051
 鈍化
-2秒間、移動速度が50%減少する。
+Movement speed -50% for 2 seconds
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
 ID=30052
 鈍化
-3秒間、移動速度が60%減少する。
+Movement speed -60% for 3 seconds
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
 ID=30053
 鈍化
-1秒間、移動速度が80%減少する。
+Movement speed -80% for 1 second
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
@@ -2436,7 +2436,7 @@ HP Reduce
 
 ID=30471
 Player Shocked
-3秒間、感電状態にする。
+Shocked effect for 3 seconds
 Icon/Buff/Icon_Common_Debuff_Shock
 Shock
 
@@ -2448,13 +2448,13 @@ HP Reduce
 
 ID=30473
 Attack Power Increase
-60秒間、攻撃力が10%増加する。
+Attack Power +10% for 60 seconds
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
 
 ID=30474
 Movement Speed Increase
-60秒間、攻撃力が5%増加する。
+Attack Power +5% for 60 seconds
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed Increase
 
@@ -2484,19 +2484,19 @@ SG Recovery
 
 ID=35000
 HP Reduce
-2秒ごとにHP3%減少
+HP -3% per 2 seconds
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP Reduce
 
 ID=35001
 HP Reduce
-2秒ごとにHP3%減少
+HP -3% per 2 seconds
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP Reduce
 
 ID=35002
 HP Reduce
-HP100%減少(即死)
+HP -100% (Instant Death)
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP Reduce
 
@@ -2508,21 +2508,21 @@ Invincible
 
 ID=35004
 ソウルエナジー増幅
-20秒間、プレイヤーの攻撃力2000%増加
+The Player's Attack Power +2000% for 20 seconds
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力大幅増加
 
 ID=35005
-強化
-攻撃力/防御度20%増加
+Enhanced
+Attack / Defense +20%
 Icon/Buff/Icon_Common_Buff_Reg
-強化
+Enhanced
 
 ID=35006
-強化
-攻撃力/防御度1000%増加
+Enhanced
+Attack / Defense +1000%
 Icon/Buff/Icon_Common_Buff_Reg
-強化
+Enhanced
 
 ID=35007
 Invincible
@@ -2538,19 +2538,19 @@ Paralysis
 
 ID=35009
 HP Reduce
-1秒ごとにHP5%減少3秒間維持
+HP-5% per second for 3 seconds
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP Reduce
 
 ID=35010
 HP Reduce
-1秒ごとにHP5%減少3秒間維持
+HP-5% per second for 3 seconds
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP Reduce
 
 ID=35011
 HP Recovery
-1秒ごとにHP10%回復2秒間維持
+HP -10% per second for 2 seconds
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
@@ -2568,15 +2568,15 @@ Invincible
 
 ID=35300
 HP Reduce
-HPが40%減少。
+HP reduce by -40%
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP Reduce
 
 ID=35302
-衰弱
+Weakness
 全ての能力値が50%減少。
 Icon/Buff/Icon_Common_Debuff_Weakness
-衰弱
+Weakness
 
 ID=35303
 Defense Reduce
@@ -2586,7 +2586,7 @@ Icon/Buff/Icon_Common_Debuff_Def
 
 ID=35304
 HP Reduce
-HPが15%減少。
+HP reduce by -15%
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP Reduce
 
@@ -2604,7 +2604,7 @@ Burn
 
 ID=35312
 Movement Speed Reduce
-5秒間、移動速度が40%減少する。
+Movement Speed -40% for 5 seconds
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
@@ -2616,13 +2616,13 @@ Shock
 
 ID=37300
 HP Reduce
-2秒ごとにHP5%減少
+HP -5% per 2 seconds
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP Reduce
 
 ID=37421
 HP Reduce
-2秒ごとにHP3%減少
+HP -3% per 2 seconds
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP Reduce
 
@@ -2652,13 +2652,13 @@ Poison
 
 ID=39021
 スキあり
-5秒間、防御度が50%減少する。
+Defense -50% for 5 seconds
 Icon/Buff/Icon_Common_Debuff_Def
 Defense Reduce
 
 ID=39022
 Poison
-10秒間、中毒効果を受ける。
+Poisoned effect for 10 seconds
 Icon/Buff/Icon_Common_Debuff_Poison
 Poison
 
@@ -4494,7 +4494,7 @@ Attack Power Increase
 
 ID=55120
 Attack Power Increase
-10秒間、攻撃力が10%増加する。
+Attack power increase by 10% for 10 seconds
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
@@ -4541,10 +4541,10 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 HP Reduce
 
 ID=63005
-強化
+Enhanced
 Attack and Defense +30% for 10 seconds
 Icon/Buff/Icon_Common_Buff_Reg
-強化
+Enhanced
 
 ID=63006
 Movement Speed Reduce
@@ -4577,10 +4577,10 @@ Icon/Buff/Icon_Common_Debuff_Stun
 Stun
 
 ID=63011
-強化
+Enhanced
 Attack and Defense +30% for 10 seconds
 Icon/Buff/Icon_Common_Buff_Reg
-強化
+Enhanced
 
 ID=63012
 攻撃増加
