@@ -17,7 +17,7 @@ Icon/Buff/Icon_Common_Buff_Immun
 Invincible
 
 ID=15
-顧客特典
+Customer Benefits
 Attack and Defense +20%.
 Icon/Buff/Icon_Common_Buff_Reg
 Enhanced
@@ -41,31 +41,31 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
 ID=103
-増強
+Enhancement
 Attack power increase by 10% for 10 seconds
 Icon/Buff/Icon_Common_Buff_ATK
 0
 
 ID=104
-弾性
+Elastic
 Damage taken -10% for 10 seconds.
 Icon/Buff/Icon_Common_Buff_Def
 0
 
 ID=105
-ラッシュの時間
+Rush Hour
 Move Speed +5% for 10 seconds.
 Icon/Buff/Icon_Common_Buff_MSR
 0
 
 ID=106
-俊敏な手つき
+Dexterous Hands
 Attack Speed +5% for 10 seconds.
 Icon/Buff/Icon_Common_Buff_ASR
 0
 
 ID=107
-スキあり
+Love Everywhere
 Critical Rate +10% for 10 seconds.
 Icon/Buff/Icon_Common_Buff_CRI
 0
@@ -125,7 +125,7 @@ Icon/Buff/Icon_Common_Buff_Def
 Defense Increase
 
 ID=304
-素早い手さばき
+Nimble Hands
 Attack Speed +10% for 10 seconds.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed Increase
@@ -756,7 +756,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=5005
 Special Attack
-宙に浮いた状態。
+Smacked into the air.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
@@ -911,31 +911,31 @@ Icon/Buff/Icon_Common_Debuff_Poison
 Poison
 
 ID=5521
-ネイボムファームⅠ
+Nawab's Farm I
 HP is reduced by 3% from burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5522
-ネイボムファームⅡ
+Nawab's Farm II
 HP is reduced by 4% from burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5523
-ネイボムファームⅢ
+Nawab's Farm III
 HP is reduced by 6% from burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5524
-ネイボムファームⅣ
+Nawab's Farm IV
 HP is reduced by 8% from burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5525
-ネイボムファームⅤ
+Nawab's Farm V
 HP is reduced by 1% from bleeding.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
@@ -1085,8 +1085,8 @@ Icon/Buff/Icon_Common_Buff_Immun
 Invincible
 
 ID=5998
-快楽の弾丸
-3重複すると、SGを3回復する。
+Pleasureful Bullets
+Stack SG restoration up to 3 times.
 Icon/Buff/Icon_Common_Buff_ASR
 SG Recovery
 
@@ -1097,7 +1097,7 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=6005
-狂気の死神
+Mad Reaper of Death
 Attack Power and Critical Rate are increased.
 Icon/Buff/Icon_Common_Buff_Reg
 0
@@ -1224,7 +1224,7 @@ Movement Speed Reduce
 
 ID=6061
 Passive
-エフェクト表示関連のバフ
+Show Related Buff Effects
 Icon/Buff/Icon_Common_Debuff_Paralysis
 0
 
@@ -2651,7 +2651,7 @@ Icon/Buff/Icon_Common_Debuff_Poison
 Poison
 
 ID=39021
-スキあり
+Love Everywhere
 Defense -50% for 5 seconds
 Icon/Buff/Icon_Common_Debuff_Def
 Defense Reduce
@@ -4445,13 +4445,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
 ID=55112
-気持ち悪い
+Creepy
 Movement Speed +5% for 5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed Increase
 
 ID=55113
-上下
+Unstable
 Critical Rate +10% for 5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate Increased
@@ -4463,7 +4463,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=55115
-正風
+Right Fit
 Defense +10% for 5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
@@ -4481,7 +4481,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=55118
-最高
+Best
 Stamina is immediately recovered.
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina recovery
