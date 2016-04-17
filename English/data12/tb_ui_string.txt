@@ -152,7 +152,7 @@ ID=99
 Common
 
 ID=100
-General
+All
 
 ID=101
 Extra
@@ -161,7 +161,7 @@ ID=102
 Fashion
 
 ID=103
-General
+All
 
 ID=104
 Fashion
@@ -914,7 +914,7 @@ ID=537
 A
 
 ID=538
-General
+All
 
 ID=539
 Trade
@@ -1865,7 +1865,7 @@ ID=961
 Insufficient funds or prerequisite materials to enhance the item.
 
 ID=962
-Prevents the item from being destroyed.
+Prevents item destruction.
 
 ID=963
 Zenny Cost
@@ -3290,7 +3290,7 @@ ID=5804
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>Talking to [Trisha]</font>, you can <font color='#00D8FF'>[exchange] or [enhance]</font> materials/equipment.</font>
 
 ID=5805
-<font color='#FFFFFF'><font size="30">TIP: </font>Equipment can be<font color='#00D8FF'>enhanced</font>to be upgraded, or<font color='#00D8FF'>dismantled</font>to obtain items needed to upgrade or craft other equipment.</font>
+<font color='#FFFFFF'><font size="30">TIP: </font>Equipment can be<font color='#00D8FF'> enhanced </font>to be upgraded, or<font color='#00D8FF'> dismantled </font>to obtain items needed to upgrade or craft other equipment.</font>
 
 ID=5806
 <font color='#FFFFFF'><font size="30">TIP: </font>Talking to <font color='#B2EBF4'>[Zenith]</font>, you can <font color='#00D8FF'>[Craft]</font> weapons, gear, and avatar items.
@@ -3479,7 +3479,7 @@ ID=5867
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>Talking to [Trisha]</font>, you can <font color='#00D8FF'>[exchange] or [enhance]</font> materials/equipment.</font>
 
 ID=5868
-<font color='#FFFFFF'><font size="30">TIP: </font>Equipment can be<font color='#00D8FF'>enhanced</font>to be upgraded, or<font color='#00D8FF'>dismantled</font>to obtain items needed to upgrade or craft other equipment.</font>
+<font color='#FFFFFF'><font size="30">TIP: </font>Equipment can be<font color='#00D8FF'> enhanced </font>to be upgraded, or<font color='#00D8FF'> dismantled </font>to obtain items needed to upgrade or craft other equipment.</font>
 
 ID=5869
 <font color='#FFFFFF'><font size="30">TIP: </font>Talking to <font color='#B2EBF4'>[Zenith]</font>, you can <font color='#00D8FF'>[Craft]</font> weapons, gear, and avatar items.
@@ -3518,7 +3518,7 @@ ID=5880
 <font color='#FFFFFF'><font size="30">TIP: </font>Open the community list by pressing [O]. You can manage your <font color='#00D8FF'>[Friend List]</font> there.
 
 ID=5881
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[スキル][A.Rカード]</font>は、スキルウィンドウ<font color='#00ff9c'>【K】</font>でスキル活性化後、\nスキル登録スロットに登録して使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[A.R cards][Skills]</font>are accessible by pressing<font color='#00ff9c'>【K】</font>.\n You can quick slot skills.</font>
 
 ID=5882
 <font color='#FFFFFF'><font size="30">TIP：</font>Using your <font color='#00D8FF'>Skill Deck</font> effectively will prove useful in combat.
@@ -3818,7 +3818,7 @@ ID=8000
 Clearance Rate {0}/{1}({2}%)
 
 ID=8001
-Progression Ratio
+Clear:
 
 ID=8002
 {0}%
@@ -4952,7 +4952,7 @@ ID=15028
 Soul Junk named Arachniss that took Catherine away\nseems like it's hiding somewhere in the basement.\nLet's quickly find and rescue Catherine.
 
 ID=15029
-The only antidote for Catherine's Vacuum Vain infection is at the research facility of NED Company.\nBut that research facility was already a den of Soul Junk...
+The only antidote for Catherine's Vacuum-vain infection is at the research facility of NED Company.\nBut that research facility was already a den of Soul Junk...
 
 ID=15030
 Second research facility was also crawling with Soul Junk... We don't know what in the world happened here, but getting the antidote for Catherine is top priority.
@@ -5417,7 +5417,7 @@ ID=18022
 Your item is a <font color='#A566FF'>High Valued Item</font>.  You will acquire {0} upon selling it. Do you wish to sell it?
 
 ID=18023
-分解するアイテムは<font color='#A566FF'>価値の高いアイテム</font>です。一度分解すると、復元できなくなります。分解しますか？
+Your selection contains a <font color='#A566FF'>High Valued</font> item, Are you sure you want to decompose it? Restoration is impossible.
 
 ID=18026
 Sealed
@@ -5510,10 +5510,10 @@ ID=18055
 Set duration
 
 ID=18056
-<font color='#47C83E'>ビット</font>、<font color='#4374D9'>キロ</font>等級ブローチ合成可能
+<font color='#47C83E'>Bit</font> and <font color='#4374D9'>KB</font>grade brooch synthesis is possible
 
 ID=18057
-<font color='#E0B94F'>メガ</font>、<font color='#F15F5F'>ギガ</font>、<font color='#8041D9'>テラ</font>等級ブローチ合成可能
+<font color='#E0B94F'>MB</font>,<font color='#F15F5F'>GB</font>,<font color='#8041D9'>TB</font> grade brooch synthesis is possible.
 
 ID=18058
 The remaining number of enhancements of {0} {1} will decrease.\n Upon confirmation, one {2} is used up. \n\n Do you wish to continue?
@@ -5882,10 +5882,10 @@ ID=21001
 Attained favorability Lv {1} for {0}. NPC rewards are unlocked.
 
 ID=21002
-Favorability Lv {0}
+Favorability Lv{0}
 
 ID=21003
-Level Reward
+Level Bonus
 
 ID=21004
 Item Reward
@@ -5921,7 +5921,7 @@ ID=21014
 The special item [{0}] can be bought.
 
 ID=21015
-{0}が販売する特殊アイテムの一日購入個数が2倍に増加
+Number of special items you can buy from {0} per day increase two-fold
 
 ID=21016
 While being mobilized, increase attack/defense of {0} by {1} for 30 minutes
@@ -5981,7 +5981,7 @@ ID=21034
 Insufficient FP. You cannot use the find party feature.
 
 ID=21035
-基本FP状態でのみ使用できます。
+You can only use it on base FP state.
 
 ID=21036
 The usage limit has been reached. You can use it again in {0} hours.
@@ -7787,7 +7787,7 @@ ID=24649
 Accessories
 
 ID=24750
-General
+All
 
 ID=24751
 Offensive Brooch
@@ -7799,19 +7799,19 @@ ID=24753
 Utility Brooch
 
 ID=24754
-General
+All
 
 ID=24755
 Avatar Package
 
 ID=24756
-General
+All
 
 ID=24757
 Personal
 
 ID=24758
-General
+All
 
 ID=24759
 Pen
@@ -7838,7 +7838,7 @@ ID=24766
 Common
 
 ID=24767
-General
+All
 
 ID=24768
 Defensive
@@ -7847,7 +7847,7 @@ ID=24769
 Defense Related
 
 ID=24770
-General
+All
 
 ID=24771
 Technical-type
@@ -8699,7 +8699,7 @@ ID=26305
 5% chance to heal HP by {0} when attacking enemies
 
 ID=26306
-最大攻撃力に対し、HP{0}%上昇
+HP increased by {0}% of Maximum Attack
 
 ID=26307
 Receiving a hit at less than 50% HP will increase attack by {0}% for 5 seconds.
@@ -8804,7 +8804,7 @@ ID=26340
 At a 10% chance, while at 50% or less HP while being hit, the defense increases by {0}%.
 
 ID=26341
-回避スキル使用時、2%の確率でHP{0}%回復
+When dodging, 2% chance to heal HP by {0}%.
 
 ID=26342
 Using the evasion skill will have a 3% chance of recovering {0}% HP.
@@ -8816,7 +8816,7 @@ ID=26344
 When using skills, 2% chance for cooldown time -{0}%
 
 ID=26500
-敵討伐時、30秒間、敵の防御度貫通{0}%増加
+Defense Penetration increased by {0}% for 30 seconds for every monster defeated
 
 ID=27000
 When hit,  5% probability of increasing attack power by {0}% for 3 seconds.
@@ -9053,7 +9053,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to by Soul Workers HQ Translation Team; version 1.00alpha.\nPlease check your guild's information for updates.
+This translation was brought to by Soul Workers HQ Translation Team; version 1.01alpha.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -9254,7 +9254,7 @@ ID=28137
 #
 
 ID=28138
-Vice Master
+Sub Master
 
 ID=28139
 Rank
@@ -9305,7 +9305,7 @@ ID=28154
 Permissions
 
 ID=28155
-Vice Master
+Sub Master
 
 ID=28156
 All
@@ -9353,7 +9353,7 @@ ID=28170
 Input
 
 ID=28171
-General
+All
 
 ID=28172
 Ranking
@@ -9545,7 +9545,7 @@ ID=29015
 Search
 
 ID=29016
-General
+All
 
 ID=29017
 Horoscope Order
@@ -9746,7 +9746,7 @@ ID=31006
 Already invited to party.
 
 ID=31007
-他のパーティーに加入するか検討中です。
+Checking if the target is already in a party...
 
 ID=31008
 The target cannot be invited; they blocked all party requests.
@@ -9881,13 +9881,13 @@ ID=31051
 Auto-Matching Search Cancelled
 
 ID=31052
-Auto-matching inprogress
+Auto-Matching In-Progress
 
 ID=31053
 Auto-matching forced to exit
 
 ID=31054
-Auto-matching ended
+Auto-Matching Ended
 
 ID=31055
 Auto-matching cannot be used in a party.
@@ -9899,7 +9899,7 @@ ID=31057
 Would you like to proceed with this party?\nWill automatically continue if no input is given.\n(Remaining Time: {0} seconds)
 
 ID=31058
-パーティー進行可否を選択しなかったため強制退場となりました。
+As you have not confirmed the dungeon entry, you have been kicked out of the party.
 
 ID=31059
 Do you want to exit auto-matching?
@@ -9911,7 +9911,7 @@ ID=31061
 Time Left
 
 ID=31062
-パーティー進行可否選択中
+Deciding on party entry...
 
 ID=31063
 Select Party Leader
@@ -9926,7 +9926,7 @@ ID=31066
 Locked
 
 ID=31067
-Stop Matching
+Stop
 
 ID=31068
 Leave
@@ -10058,7 +10058,7 @@ ID=31110
 Your party recruitment ad lasts for [{0}]m [{1}]s.
 
 ID=31111
-パーティー申請が完了しました。\nパーティー申請は30分後に自動で削除されます。\n(残り申請可能回数：{0}回)
+Party request complete./nParty requests will be automatically deleted after 30 minutes./n(Amount of requests left: {0})
 
 ID=31112
 Party request will canceled after 30 minutes.
@@ -10067,13 +10067,13 @@ ID=31113
 Too many party requests. Please try again later.
 
 ID=31114
-パーティー申請をしたパーティーがありません。
+The party that you have requested for does not exist.
 
 ID=31115
-すでに申請しています。
+Applied already.
 
 ID=31116
-申請者がいっぱいです。しばらくしてからもう一度申請してください。
+There are too many requests. Please try again later.
 
 ID=31117
 The advertisement will last for 10 minutes. Do you wish to post it?
@@ -10124,7 +10124,7 @@ ID=31132
 The party application has been sent already.
 
 ID=31133
-申請パーティー混雑状態
+Requested party is busy.
 
 ID=31134
 Post Ad
@@ -10142,7 +10142,7 @@ ID=31138
 Party has been formed.
 
 ID=31139
-メイズ再挑戦をメンバーに要請しますか？\n(残り時間：{0}秒)
+Would you like to request for retry for the dungeon?/n(Remaining time: {0} seconds)
 
 ID=31140
 The leader {0} has requested a dungeon retry.\nWill you accept the request?\n(Remaining time: {1} seconds)
@@ -10154,7 +10154,7 @@ ID=31142
 Waiting for members to respond.\n(Click "Cancel" if you do not want to retry)
 
 ID=31143
-{0}がメイズ再開申請を拒否しました。
+Declined {0} retry request.
 
 ID=31144
 Do you want to clear the dungeon again?
@@ -10205,19 +10205,19 @@ ID=31159
 Time Left
 
 ID=31160
-Auto-matching withdrawal
+Auto-Matching Withdrawal
 
 ID=31161
 When withdrawing from the current party, there will be a time limit for auto-matching.\nAre you sure you want to leave?
 
 ID=31162
-待機者リストに登録されていないプレイヤーです。
+This player is not registered in the waitlist.
 
 ID=31163
 Notice
 
 ID=31164
-パーティー申請できるレベルではありません。
+This player's level is not high enough for party request.
 
 ID=31165
 Party matching stopped
@@ -10241,16 +10241,16 @@ ID=31171
 Party Join Request Ad
 
 ID=31172
-相手が無法地帯にいるため、パーティー要請ができません。
+There are no party requests as the target is in the wasteland.
 
 ID=31173
-無法地帯ではパーティー要請ができません。
+There are no party requests in the wasteland.
 
 ID=31174
-その他のエラーによる終了状態のため、合流できます。\n合流しますか？-残り時間：{0}秒-
+An unexpected error occurred.\nWould you like to rejoin? -Remaining time: {0} seconds-
 
 ID=31175
-意図的に終了をした場合は合流できません。\nその他のエラーによる終了の場合は合流できます。
+You cannot rejoin if you quit the game on purpose./nYou can only rejoin if the game has ended due to an unexpected error.
 
 ID=32000
 Gameplay Controls
@@ -10556,19 +10556,19 @@ ID=32100
 Exchange
 
 ID=33000
-potentialfilebreak
+Hello,\n I have wondered the world, \nseeking for a glorious show.\n  My name is "Clown Edgar".\n I admit you must be surprised.\n I lust for your power.\n It is flamboyant, yet modest.\n Tranquil, yet destructive and refined.\n For you, I sent a present.\nAccept it, it is a token\n of respect. Come to "The Shopping District"\n, you'll like it.\n - Clown Edgar.
 
 ID=33001
-potentialfilebreak
+Little by little,\n the distance between us is shrinking.\n We will cross paths sooner or later.\n The longer the wait, the greater the thrill.\n We made it dramatic with a little game.\n You cannot enter now,\n but if you had a badge.\n Cross the woods at dawn.\n Hurry up.\n Waiting to see you burn.
 
 ID=33002
-potentialfilebreak
+Report on Amaryllis\n\n Soul Energy Resistance added to SJ-DS-01. Unstable.\n\n 2. SJ-DS-01 is parasitic to soul energy hosts. Contact to humans, fatal. The skin hardens and becomes food.\n\n 3. SJ-DS-01 is known as Dignity Snatcher. It sucks up soul energy. \nOrdinary humans possess very little.
 
 ID=33003
-potentialfilebreak
+Report on Tempest.\n 1. Precise machinery. Reproduction unfeasible. 2. High-density firing gun.\n\n 3. Special wire and nail with heavyduty grip as a weapon.\n Weaker than main one.\n\n4. Soul Energy storage and transfer possible by a special wire.
 
 ID=33004
-potentialbreak
+That day was cloudy.\n The runaway child knew. Rather, I did not understand how the "calamity" came. We had committed crimes; we could of atoned for it. Yet, we did not. Unlike other children, I came to pass judgement..\n\n The cloudy day.\n The child was brought to death by humans. They had naive ideas that everything was over. Silly as I did, I thought NED company would help. They, will definitely bury the truth. As if nothing happened.\n\n  We were buried in hell. A fateful ending for us.
 
 ID=33005
 potentialfilebreak
@@ -10727,7 +10727,7 @@ ID=33550
 새벽 빛의 영광
 
 ID=35000
-General
+All
 
 ID=35001
 Party
@@ -10793,7 +10793,7 @@ ID=35107
 Healed {0} HP.
 
 ID=35108
-{0}の能力値が{1}に変更されました。
+{0}'s stats have been changed to {1}.
 
 ID=35109
 {0} is exhausted. 
@@ -10802,7 +10802,7 @@ ID=35110
 {0} was used.
 
 ID=35111
-{0}の効果が付与されました。
+{0}'s effects have been applied.
 
 ID=35112
 {0} is now Lv{1}.
@@ -11240,7 +11240,7 @@ ID=40162
 When the destruction of the box is prevented, Edgar will appear.
 
 ID=40163
-ファントムの幻影が自爆し、30秒間ファントムの防御度を上昇させます。
+Phantom's ghost explodes, increasing Phantom's defense for 30 seconds.
 
 ID=40164
 The AI Lucy has activated the personal defense system.
@@ -11258,58 +11258,58 @@ ID=40168
 The power source of the sub AI core has been stopped.
 
 ID=40169
-セキュリティ装置を操作すると、扉を開けることができます。
+You can open the door by using the security device.
 
 ID=40170
-セキュリティ装置を操作し、閉ざされた扉を開けてください。
+Use the security device and open the closed door.
 
 ID=40171
-敵を討伐し、閉ざされた扉を開けてください。
+Open the door and defeat all enemies inside.
 
 ID=40172
-セキュリティ装置を利用してロックを解除すると、隠されたスイッチが出現します。
+When unlocked using the security device, hidden switch will appear.
 
 ID=40173
-電力制御装置を利用して、閉ざされた扉を開けてください。
+Open the closed door using the electrical switch device.
 
 ID=40174
-侵入者警報装置が作動しました。\nアラームセンサーを全て破壊して、隠されたスイッチを探し出してください。
+Intruder alert has gone off./nFind the hidden switch by destroying all the alarm sensors.
 
 ID=40175
-侵入者警報装置が作動しました。\nアラームセンサーを全て破壊してください。
+Intruder alert has gone off./nDestroy all the alarm sensors.
 
 ID=40176
-電力制御装置を利用して、閉ざされた3個の扉を開いてください。
+Using the electricity control device, open the three-fold door.
 
 ID=40177
-冷却材保管容器を利用して、磁気フィールド発生装置を無力化できます。
+By using the cooling device container, you can nullify the electric field device.
 
 ID=40178
-敵を討伐すると、隠されていたスイッチが出現します。
+Upon defeating the enemies, a hidden switch will appear.
 
 ID=40179
-キューブスイッチを利用すると、隠されたスイッチが出現します。
+When a cube switch is used, a hidden switch will appear.
 
 ID=40180
-電力制御装置を利用すると、フローティングスクエアを回転させられます。
+When you use the control device, you can rotate the Floating Square.
 
 ID=40181
-電力制御装置を利用すると、フローティングブリッジを起動できます。
+When you use the control device, you can activate the Floating Bridge.
 
 ID=40182
-スレイブコア制御装置の対人防御機能が作動しました。
+The servant kernal's defense function was activated.
 
 ID=40183
-スレイブコア制御装置を操作して、スレイブコアの機能を停止させてください。
+Please turn off the servant kernals by using the servant kernals' control devices.
 
 ID=40184
-全ての敵を討伐すると、対人防御装置を停止できます。
+When you neutralize all enemies, the defense systems can be stopped.
 
 ID=40185
-二つのセキュリティ装置を操作すると、バスターコア防御装置を停止できます。
+When the two security devices are used, you can deactivate the Buster Core's defenses.
 
 ID=40186
-キューブスイッチを操作すると、セキュリティ装置の電力供給を遮断できます。
+When you operate the cube switch, the security device's power will be cut off.
 
 ID=40187
 Primary power supply has been cut off. The first door opens after 15 seconds.
@@ -11327,16 +11327,16 @@ ID=40191
 バスターコアの対人防御装置の強力な磁気フィールドが5秒後に発生します。安全地帯に避難してください。
 
 ID=40192
-30秒以内にリーダークラスの敵を討伐できなかった場合、新たな敵が出現します。
+Defeat the leader class enemy within 30 seconds or a new enemy will appear.
 
 ID=40193
-地面に落下しないように注意してください。
+Please be careful not to fall.
 
 ID=40194
 発電機スイッチを利用して、地面の磁気フィールドを解除できます。
 
 ID=40195
-レバーを操作すると、漏れる油を止めることができます。
+Use the operating lever to stop the leaking oil.
 
 ID=40196
 Toxic gas has spread. Please be careful.
@@ -11360,7 +11360,7 @@ ID=40202
 Intruder alarm in the elevator has been activated.\nMove to a safe place and defeat all enemies.
 
 ID=40203
-エレベーター内の侵入者警報装置が作動しました。\n内部に設置された2個のスイッチを、全て作動させることで警報装置を停止させられます。
+The intruder alarm system within the elevator has been activated.\n Use the two switches from within to stop the alarm system.
 
 ID=40204
 The shuttle will periodically arrive. Please find a safe place to fight.
@@ -11432,7 +11432,7 @@ ID=40226
 The interpersonal defense system will be activated when the equipment is running as long as the 4 stage security system is deactivated.
 
 ID=40227
-2個のセキュリティ装置中、1個はトラップが設置されています。\n正しいセキュリティ装置を作動させると扉が開きます。
+Out of the two security devices, one is a dummy trap.\n The other one will open the door to the next area.
 
 ID=40228
 New enemies will be summoned soon.\nPlease be careful.
@@ -11456,7 +11456,7 @@ ID=40234
 Undecided
 
 ID=40235
-ヒールコクーンは敵のHPを回復させます。\n優先的に除去してください。
+The enemy is restoring HP to the cocoon.\n Please neutralize them quickly.
 
 ID=40236
 2個のスタリーフォレスト連合保護対象中、一つでも破壊されると、エナジーチャージが止まります。
@@ -11480,25 +11480,25 @@ ID=40242
 ダメージを与える粘液が消えます。
 
 ID=40243
-東側及び西側に配置されたスタリーフォレスト連合車両を調査してください。
+Please investigate the Starry Forest League vehicles on the east and west sides.
 
 ID=40244
 制限時間内に最後の実験室を占拠しているマッドビホールダーを討伐してください。\n失敗時、侵入者警報装置が作動します。
 
 ID=40245
-60秒以内にレーザートラップを破壊してください。
+Destroy the laser trap within 60 seconds.
 
 ID=40246
-トラップの種類によって戦闘に利用できます。
+The trap can be used for combat purposes depending on its type.
 
 ID=40247
-周期的に発生する磁気フィールドに注意してください。
+Please be aware the magnetic field.
 
 ID=40248
 The magnetic field was generated recently.
 
 ID=40249
-非常アリーナの外に出ると磁気フィールドによるダメージを受けます。
+You will incur damage from leaving the arena by the magnetic field.
 
 ID=40250
 When the controller is operating, 1 to 15 enemies will appear.
@@ -11507,19 +11507,19 @@ ID=40251
 ヘビーセルは、出現時に移動速度を減少させる地域を発生させます。
 
 ID=40252
-EMPマインは、プレイヤーと敵の全てを攻撃します。プレイヤー接近時に作動します。
+The main EMP will attack everything; it will be activated when you approach it.
 
 ID=40253
-4個のデバイスは、ランダムで強力な毒ガスを噴出します。
+Four devices will spew out an extremely poisonous gas at random intervals.
 
 ID=40254
-コントローラー作動時、敵が順番に出現します。
+The enemy will appear, when running the controller.
 
 ID=40255
-キューブ破壊時、強力な磁気フィールドが発生し敵とプレイヤー全てを麻痺させます。
+When the cube is destroyed, all players will be paralyzed and a magnetic field will be generated.
 
 ID=40256
-2個のデバイスは、敵を強化する地域を順番に発生させます。
+The two devices will raise the enemy's strength in sequential order.
 
 ID=40257
 When the controller is activated, enemies will appear.
@@ -11528,7 +11528,7 @@ ID=40258
 A powerful enemy will appear soon.
 
 ID=40259
-敵を倒すと、コントローラーが召喚されます。\n3個のコントローラーを全て起動してください。
+Defeat the enemies and the controller will be summoned. Please operate all controllers.
 
 ID=40260
 Controller 1 has been activated
@@ -11561,19 +11561,19 @@ ID=40269
 Confirmed laser canon firing request.\nThe cannon will soon be fired.
 
 ID=40270
-ランドクラッシャーを倒すと、コントローラーが召喚されます。
+After defeating the land crusher, the controller will be summoned.
 
 ID=40271
 2個のコントローラー作動時、ウォーライクの防御度を大幅減少させるウェーブが発生します。
 
 ID=40272
-コントローラー作動時、ガトリング砲の支援射撃を受けることができます。\nガトリング砲は1回使用すると壊れます。
+When the controller is used, support fire from the Gatling gun is possible. It can only be used once.
 
 ID=40273
 30秒後に生成されるコントローラー作動時、強力なレーザーキャノンが発射されます。\nレーザーキャノンは全てを攻撃し、最大HPの90%のダメージを与えます。
 
 ID=40274
-間もなくレーザーキャノンが発射されます。
+The Laser Cannon will be fired soon.
 
 ID=40275
 When the cube is destroyed, you will recover HP.
@@ -11597,28 +11597,28 @@ ID=40281
 一定時間ごとに敵にダメージを与える磁気フィールドが発生します。
 
 ID=40282
-キューブ破壊時、敵に移動速度減少効果を付与できます。
+Enemy will be slowed when the cube breaks.
 
 ID=40283
-キューブが召喚されました。破壊時、攻撃力増加効果が付与されます。
+Cube has been summoned. Attack power will increase upon its destruction.
 
 ID=40284
-キューブが召喚されました。破壊時、防御度増加効果が付与されます。
+Cube has been summoned. Defense will increase upon its destruction.
 
 ID=40285
-キューブが召喚されました。破壊時、HPが全回復します。
+Cube has been summoned. Destroy it to fully restore HP.
 
 ID=40286
-キューブが4個召喚されました。キューブ破壊時、強力な力が付与されます。
+4 Cubes have been summoned. A powerful effect will be granted upon cube destruction.
 
 ID=40287
-コントローラー作動時、特殊な敵が召喚されます。
+A special enemy will be summoned when using the controller.
 
 ID=40288
 When the Habitant is less than 60% HP, the enemy will self-destruct and damage all players.
 
 ID=40289
-S-00はHPが60%以下になると、敵とプレイヤー全てのHPを回復させるスキルを使用します。
+When the S-00 falls below 60% HP, both the player & enemy's HP will be fully restored.
 
 ID=40290
 When the controller is activated, enemies will appear.
@@ -11648,19 +11648,19 @@ ID=40298
 ゲートの後ろに、トラップを解除するための装置があります。\nゲート前のスイッチを作動させてください。
 
 ID=40299
-磁気フィールドが除去されました。
+The magnetic fields have been deactivated.
 
 ID=40300
-スチールグレイブは1日1回、全部で5個のステージに挑戦できます。
+You can challenge five stages a day within Steel Grave.
 
 ID=40301
-コントローラーを操作すると、敵が出現します。
+While operating the controller, enemies will appear.
 
 ID=40302
-サポーター召喚装置を操作すると、戦闘を支援してくれる仲間が出現します。
+While using the supporters' summoning equipment, the supporters' familiars will appear.
 
 ID=40303
-敵を討伐すると、コントローラーが生成されます。
+Neutralize the enemy to spawn the controllers.
 
 ID=40304
 コントローラーを作動させると、キューブバリケードを通過できるフローティングボードが生成されます。
@@ -11672,19 +11672,19 @@ ID=40306
 敵を討伐すると、キューブバリケードを通過できるフローティングボードが生成されます。
 
 ID=40307
-コントローラーを作動させると、フローティングエリアに移動できるフローティングボードが生成されます。
+While operating the controller, the floating board will appear; it can be used to move to the floating area.
 
 ID=40308
 フローティングエリアにあるコントローラーを作動させると、敵が召喚されます。
 
 ID=40309
-キューブが召喚されました。破壊時、攻撃力増加効果が付与されます。
+Cube has been summoned. Attack power will increase upon its destruction.
 
 ID=40310
-キューブが召喚されました。破壊時、防御度増加効果が付与されます。
+Cube has been summoned. Defense will increase upon its destruction.
 
 ID=40311
-キューブが召喚されました。破壊時、HPが全回復します。
+Cube has been summoned. Destroy it to fully restore HP.
 
 ID=40312
 フローティングエリアにあるコントローラーを作動させると、フロアトラップが停止します。
@@ -11693,10 +11693,10 @@ ID=40313
 ポイズンのHPが一定数値になると狂暴化し、広域攻撃を繰り出します。
 
 ID=40314
-コントローラーを全て作動させると、キューブバリケードが解除されます。
+When all controllers are operated, the cube-shaped barricades will be cleared.
 
 ID=40315
-フレイムテンペストは、30秒ごとに持続的な広域攻撃を繰り出します。
+The Flame Tempest Forces will perform a wide-area attack every 30 seconds.
 
 ID=40316
 10秒ごとにレッドフード2体が召喚されます。\nレッドフードは一定間隔でマップ上にダメージエリアを生成します。
@@ -11711,7 +11711,7 @@ ID=40319
 間もなく仲間が召喚されます。仲間は召喚と同時に支援射撃を行います。\n支援射撃はプレイヤーと敵全てにダメージを与えるので注意してください。
 
 ID=40320
-コントローラーを作動させると、広域攻撃が停止し、フレイムテンペストは10秒間麻痺状態になります。
+Use the controller to stop the wide-area attacks. The Flame Tempest Forces will be put into a 10-second paralysis state.
 
 ID=40321
 一部のフローティングエリアは見えませんが、プレイヤーが登ることができます。
@@ -11720,7 +11720,7 @@ ID=40401
 トラップを避けながら敵を討伐してください。\n間もなく敵が召喚されます。注意してください。
 
 ID=40402
-トラップを避けながら敵を討伐してください。
+Destroy the enemies while avoiding the trap.
 
 ID=40403
 トラップを回避しながら該当区域を素早く通り抜けてください。一定時間内に通過すると報酬を獲得できます。
@@ -11735,7 +11735,7 @@ ID=40406
 Failure to defeat the enemy within the time limit will cause the time bomb to explode and deal heavy damage.
 
 ID=40407
-全ての敵を討伐すると次の段階に移動します。
+Destroy all enemies and move to the next stage.
 
 ID=40408
 Avoid the traps while fighting enemies.\n They will activate promptly after being triggered.
@@ -11747,25 +11747,25 @@ ID=40410
 青いテンプテーションストーンと召喚された全ての敵を殲滅しました。\n赤いテンプテーションストーンを攻撃できます。
 
 ID=40411
-エドガーを倒すまで、順次敵が召喚されます。\n時間が経つにつれ、より強力な敵が召喚されます。
+Edgar will continuously summon enemies.\n As time passes, more powerful enemies will appear.
 
 ID=40412
-弱ったエドガーの最後の攻撃が始まります。\nカーニバルボムが落下して爆発すると、ダメージと同時に火炎地帯を生成するので気を付けてください。
+Edgar's final assault stage begins.\n If a carnival bomb falls and explode, it will cause a large area of damage. Be careful.
 
 ID=40421
-中央磁気フィールド発生装置を作動させなければなりません。
+The center magnetic-field generating device must be operated.
 
 ID=40422
-磁気フィールド発生装置がチャージを完了するまで、磁気フィールド充電装置を敵から守ってください。
+Until the magnetic-field generating device has fully charged, please defend it from oncoming enemies.
 
 ID=40423
-充電装置が破壊されたためチャージ量が減少し、チャージ完了までの時間が増加しました。
+The maximum charge capacity has decreased while the charging time has increased, because the charging device was destroyed.
 
 ID=40424
-充電装置が全て破壊されたため作戦が失敗しました。これ以上進行ができません。
+All charging devices have been destroyed; you may no longer progress.
 
 ID=40425
-磁気フィールド装置のチャージが完了しました。\n磁気フィールドが発生する前に安全区域に戻ってください。
+The magnetic field charging device has fully charged.\n Retreat back to the safety zone before the field is generated.
 
 ID=40426
 The magnetic fields will discharge.
@@ -11786,7 +11786,7 @@ ID=40431
 二番目のスイッチがあるマップ右のB-1研究室のドアが開きました。
 
 ID=40432
-三番目のスイッチがあるマップ上部のC-1研究室のドアが開きました。
+The third C-1 Laboratory's door switch has been activated.
 
 ID=40433
 All the switches have been activated.
@@ -11807,25 +11807,25 @@ ID=40444
 More reinforcements are coming out from the Rapid Gate. Attacking a Rapid Gate will destroy it.
 
 ID=40445
-故障した戦車が進入路を塞いでいます。無事な戦車を利用して破壊できます。
+The immobile tank is blocking the path. Destroy it using other tanks.
 
 ID=40446
-進入路がコンテナで塞がれています。スイッチを作動させ、クレーンでコンテナを動かせます。
+The road has been blockaded by a container. Use the switch to move the container away with a crane.
 
 ID=40447
-外郭地域で多数のテンペストによる砲撃が始まります。
+Bombardment by the Tempest Forces to the outer vicinity will begin.
 
 ID=40448
-ラピッドフレイムの砲撃が始まります。急いで砲撃地域から離れてください。
+The bombardment of the Rapid Flames Faction will begin, please evacuate the area immediately.
 
 ID=40449
 砲撃により落下したコンテナが道を塞いでいます。耐久度は高くないので破壊できます。
 
 ID=40450
-2個の起爆装置を作動させると、広場に設置された爆弾が爆発します。爆発は敵味方を区別しません。
+When activating the two detonators, bombs that were placed in the Plaza will explode. It will neither distinguish enemy nor foe.
 
 ID=40451
-遮断壁が道を塞いでいます。C4爆弾を作動させることで、遮断壁を破壊できます。
+A blockade is blocking the road. By activating the C4 bomb, you can destroy it.
 
 ID=40452
 テンペストが砲撃を始めます。EMP発生装置をチャージし、作動させてテンペストを制圧できます。
@@ -11846,46 +11846,46 @@ ID=40457
 To deploy the 2nd EMP generator, it must be charged for 30 seconds.
 
 ID=40458
-外郭から多数のフレイムテンペストが砲撃を始めました。
+Bombardment from the Flame Tempest Forces have started.
 
 ID=40459
-シールド発生装置を作動させると、フレイムテンペストの攻撃を防ぐことができます。
+The shield generator can be activated to negate the Flame Tempests' attacks.
 
 ID=40460
 EMP generator charge is complete.
 
 ID=40461
-シールド発生装置が到着しました。装置作動時、敵の攻撃を無効化するシールドが発生します。
+The shield generator has arrived, when it is activated, you can prevent the enemies' attacks from reaching.
 
 ID=40471
-デバイスを操作すると、ランドバイソンが作動します。\n障壁はランドバイソンでのみ破壊可能です。
+When the device is utilized, the land bison will be activated.\n Barriers can only be destroyed by the land bison.
 
 ID=40472
-ランドバイソンの耐久度、残り50%です。性能が低下します。
+With the land bison's strength remaining at least than 50%, its performance will be reduced.
 
 ID=40473
-ランドバイソンの耐久度、残り20%です。\nランドバイソン破壊時、作戦は失敗となります。
+With the land bison's strength remaining at least than 20%, \nwhen it is destroyed, the operation will fail.
 
 ID=40474
-ランドバイソン破壊。これ以上は進行できません。\n作戦は失敗です。
+The land bison has been destroyed.\n The operation has failed.
 
 ID=40475
-スイッチを作動させると、エレベーターが作動します。
+Upon activating the switch, the elevator can be used.
 
 ID=40476
-敵の襲撃により、エレベーターが停止しました。\n全ての敵を制圧すると、エレベーター作動スイッチを使用できます。
+The elevator has stopped moving due to the enemy's attack. If\n all enemies are neutralized, you can operate the elevator's switch.
 
 ID=40477
-メインコアによる防御システムが稼働しました。\nメインコアを破壊し、防御システムを停止させてください。
+The main core's defense system is operating.\n Destroy it to stop the defense system.
 
 ID=40478
-アークシップ甲鈑に移動するために、動力制御装置を作動させてください。
+In order to move the arc's ship first-grade steel players, please activate the power control device.
 
 ID=40479
 The intruder elimination program has been unintentionally activated due to the operation of the power switch device. \n Before the power switch self-destructs, please destroy the power generator.
 
 ID=40480
-スイッチを作動させると、アークシップ甲鈑まで移動可能なエレベーターを使用できます。
+Upon the switch's activation, you can use the elevator move to the arc's ship first-grade steel plates.
 
 ID=40481
 Activate the defense capsule to generate a barrier that protects players.
@@ -11894,106 +11894,106 @@ ID=40482
 動力源破壊によりアークシップ防御機能が暴走しました。\nレーザー攻撃がアークシップ甲鈑に向かってランダムに放たれます。
 
 ID=40483
-レーザーはプレイヤーの全ての能力値を下げますが、敵の防御力も減少させます。
+The lasers will reduce the player's strength; however it will also reduce the enemies' forces.
 
 ID=40484
-レーザーはプレイヤーにのみダメージを与えます。\nまた、アークシップ甲鈑を融解させて高熱地帯を生成します。\n高熱地帯はプレイヤーを火傷状態にします。
+Laser only damages players. \n It will also melt the ship's high-grade steel plates to generate a thermal heat zone. \n In the thermal heat zone, players will be burned.
 
 ID=40485
-ジークプロトゼロがアークシップ主砲制御に成功しました。\n甲鈑への無差別砲撃が開始されます。
+The Proto Ziegs have taken over the arc ship's main gun.\n Bombardment to the first-grade plate will begin promptly.
 
 ID=40486
-敵の襲撃によりエレベーターが停止しました。\n全ての敵を制圧すると、エレベーターの扉が開きます。
+The elevator's operation has stopped due to an attack.\n You must defeat all enemies to open the elevator's door.
 
 ID=40487
-ゲートを開くためにはスイッチを作動させる必要があります。
+In order to open the gate, the switch must be activated.
 
 ID=40488
-次のエリアに行くための遮断ゲート解除スイッチがオフになっています。
+The gate switch to the next area is turned off.
 
 ID=40489
-エリアの奥にあるコンデンサーを破壊すればスイッチを使用できます。
+The switch can be used when the condensers at the back are destroyed.
 
 ID=40490
-コンデンサー破壊により、遮断ゲート解除スイッチの使用が可能になりました。
+Neutralization of the condenser was successful; you can now use the gate deactivation switches.
 
 ID=40491
-コンデンサーを破壊すると、コンデンサーの電力で稼動している防御機能を解除できます。
+Upon neutralizing the condenser, you can prevent it from defensive functions.
 
 ID=40492
-電気球体から出ているケーブルに触れると、感電状態になります。
+You will receive an electric shock if you touch the cable lines exending from the electrical sphere.
 
 ID=40493
-エリア内には、レーザーコイルと罠を解除するためのスイッチが隠されています。\n電気球体は2個のスイッチを押すことで解除できます。
+The switch to deactivate the traps and laser coils are hidden.\n The electrical spheres can be turned off by turning off two switches.
 
 ID=40494
-次のエリアに行くための遮断ゲート解除スイッチが停止状態です。\n左側エリアのアークシップコンデンサーを破壊すると、スイッチを使用できます。
+The gate-closing switches have been activated; therefore entry to the next area is impossible. \nDestroy the condenser to the left to deactivate them.
 
 ID=40495
-コンデンサーが全て破壊され、遮断ゲート解除スイッチの使用が可能になりました。
+The condenser has been destroyed, you can now use the gate deactivator switches.
 
 ID=40496
 The main core is in danger!\nDefense level is increased and enemy reinforcements have arrived.
 
 ID=40497
-コンデンサーを破壊すると、稼動中の防御機能を解除できます。
+Destroy the condenser to prevent retaliatory fire from enemies.
 
 ID=40498
-メインコアが危険を感知して、防御レベルを引き上げました。
+The main core has detected nearby presences; it has gone into an increased level of alertness.
 
 ID=40499
-アークシップ甲板への進入を防ぐため、防御兵力が持続的に投入されます。
+Defensive forces will appear to prevent you from entering the arc ship's command room.
 
 ID=40500
-スイッチを作動させると、アークシップ甲板まで移動できるエレベーターを利用できます。
+Upon turning on the switch, the elevator can be used to move to the arc ship's command room.
 
 ID=40501
-フローティングスクエアが稼働中です。しばらくお待ちください。
+The floating square is in operation. Please wait for a while.
 
 ID=40502
-バスターコア防御装置が停止しました。
+The buster core has stopped.
 
 ID=40503
-フローティングブリッジが稼働中です。しばらくお待ちください。
+The floating bridge is in operation. Please wait for a while.
 
 ID=40504
-換気口から強力な中毒ガスが噴き出しています。\nガスに触れると、HPが急激に低下するので気を付けてください。
+A powerful intoxicating gas has been discharged from the ventilation opening.\n Please be careful to not touch it\n as your HP will drop quickly.
 
 ID=40505
-ガスの噴出が止まりました。
+The stream of gas has stopped.
 
 ID=40506
-地面の磁気フィールドエリアに入ると、HPが持続的に減少します。\nスイッチを作動させて、磁気フィールドを解除できます。
+While entering the area affected by the magnetic field, your HP will be reduced overtime.\n When the switch is turned off, the magnetic field is cancelled.
 
 ID=40507
-シャトルが周期的に出現します。\nシャトルを避けて、敵を倒してください。
+Shuttles will appear periodically.\n To prevent them from appearing, please defeat the enemy.
 
 ID=40508
 The door's mechanism has been unlocked.
 
 ID=40509
-バフボンベを破壊すると、強化効果が付与されます。
+When the bafubone is neutralized, a buff is granted.
 
 ID=40510
-広域攻撃がキャンセルされました。
+The area attack has been cancelled.
 
 ID=40511
-エレベーターが落下しています。
+The elevator is falling.
 
 ID=40512
-前方のスレイブコアを無力化できない場合、持続的にドミニアゼロが召喚されます。
+The Dominiazero will remain summoned until the servant kernals are neutralized.
 
 ID=40513
-間もなくドミニアゼロが再召喚されます。\n前方にあるスレイブコアを先に無力化してください。
+Dominiazero will be summoned shortly. \nPlease defeat the servant kernel beforehand.
 
 ID=40514
-中央のスポーン制御装置が敵を持続的に召喚するのを阻止してください。
+Please destroy the spawning control device in the center to prevent continous waves of spawn.
 
 ID=40515
-スポーン制御装置が破壊されました。\nグラスパーがスポーン制御装置を修理するのを阻止してください。
+The spawning control device was destroyed.\n Prevent the graspers from repairing it.
 
 ID=40516
-間もなくエレベーターが止まります。
+The lift will stop soon.
 
 ID=40601
 4 개 지역의 몬스터를 모두 처치하면 종말의 관으로 이동 가능한 포탈이 활성화 됩니다.
@@ -12062,13 +12062,13 @@ ID=42004
 Nightly Dancing Dolls
 
 ID=42005
-月夜のロンドダンシングドールズ
+Moonlight London Dancing Dolls
 
 ID=42006
 Wild Stone
 
 ID=42007
-堅固なワイルドストーン
+Wild Stone
 
 ID=42008
 Brock
@@ -12089,46 +12089,46 @@ ID=42013
 Shiworatto
 
 ID=42014
-下水溝の主シウォラット
+Sewer Shiworatto
 
 ID=42015
-ヴェノムミューカス
+Venomous Mucus
 
 ID=42016
-黒き巨人ヴェノムミューカス
+Black Giant's Venomous Mucus
 
 ID=42017
-ダークアリゲーター
+Dark Aligator
 
 ID=42018
-略奪者ダークアリゲーター
+Dark Aligator Pillager
 
 ID=42019
-ジャンクナイト
+Junk Knight
 
 ID=42020
-漆黒の鎧ジャンクナイト
+Dark Armored Junk Knight
 
 ID=42021
-黒く染まりし魂ジャンクナイト
+Black Soul Junk Knight
 
 ID=42022
-バキュームベイン
+Vacuum -vain
 
 ID=42023
-岩虫バキュームベイン
+Vacuum-vain Parasite
 
 ID=42024
-彷徨う岩虫バキュームベイン
+Loitering Vacuum-vain Parasite
 
 ID=42025
-マングローブセル
+Mangrove Cell
 
 ID=42026
-捕食者マングローブセル
+Predatory Mangrove Cell
 
 ID=42027
-赤影の捕食者マングローブセル
+Red Shadowed Predatory Mangrove Cell
 
 ID=42028
 Cynthia
@@ -12224,40 +12224,40 @@ ID=42058
 Suprising Snake Blade
 
 ID=42059
-肉斬骨断の刃スネーク
+Flesh Shearing Razor Snake
 
 ID=42060
-インテンションカルラ
+Intentional Carla
 
 ID=42061
-強襲のインテンションカルラ
+Violent Intentional Carla
 
 ID=42062
-レッドメイン
+Red main
 
 ID=42063
-クイーンカルラ
+Queen Carra
 
 ID=42064
-怪鳥クイーンカルラ
+Mysterious Queen Carra
 
 ID=42065
-セデュリン
+Dr. Sedeyurin
 
 ID=42066
-主席博士セデュリン
+Head Dr. Sedeyurin
 
 ID=42067
-シングルレッグ
+Single Leg
 
 ID=42068
-ソラ
+Sora
 
 ID=42069
-フレイムテンペスト
+Flame Tempest
 
 ID=42070
-殺戮のフレイムテンペスト
+Murderous Flame Tempest
 
 ID=42071
 Scarr
@@ -12266,7 +12266,7 @@ ID=42072
 Crimson Giant Scarr
 
 ID=42073
-咆哮する真紅巨人スカー
+Submersive Crimson Giant Scarr
 
 ID=42074
 Marauder
@@ -12275,37 +12275,37 @@ ID=42075
 Assassin Marauder
 
 ID=42076
-ホワイトファング
+White Fang
 
 ID=42077
-白影ホワイトファング
+White Shadow Fang
 
 ID=42078
-純白の影ホワイトファング
+Pure White Shadow Fang
 
 ID=42079
-ヘルコレクター
+Hell Collector
 
 ID=42080
-ダンシングシャドー
+Dancing Shadow
 
 ID=42081
-暗殺者ダンシングシャドー
+Assassin Dancing Shadow
 
 ID=42082
-ロードバスター
+Road Buster
 
 ID=42083
-戦闘マシンロードバスター
+War Road Buster
 
 ID=42084
-メギドメーカーMKⅡ
+Megiddo Producer MK II
 
 ID=42085
-強化型メギドメーカーMKⅡ
+Augmented Megiddo Producer MK II
 
 ID=42086
-テッド&ジュリー
+Ted & Julie
 
 ID=42087
 Senia
@@ -12314,55 +12314,55 @@ ID=42088
 Tactics Officer Senia
 
 ID=42089
-セントリーコマンダー
+Sentry Commander  
 
 ID=42090
-三倍速セントリーコマンダー
+3x Sentry Commander
 
 ID=42091
-ヘビーアースクエイカー
+Heavy Ground Shaker
 
 ID=42092
-重量級ヘビーアースクエイカー
+Heavyweight Ground Shaker
 
 ID=42093
-アマンダ
+Amanda
 
 ID=42094
-通信兵アマンダ
+Reconnaisance Officer Amandea
 
 ID=42095
-ジークプロト
+Proto Ziegs
 
 ID=42096
-戦闘兵器ジークプロト
+Combatant Proto Zieg
 
 ID=42097
-ブレードウルフ
+Blade Wolf
 
 ID=42098
-鉄の狼ブレードウルフ
+Iron Blade Wolf
 
 ID=42099
-スコール
+Squall
 
 ID=42100
-燃える狼スコール
+Blazing Wolf Squall
 
 ID=42101
-灼熱の狼スコール
+Burning Wolf Squall
 
 ID=42102
-ドミニアゼロ
+Dominiazero
 
 ID=42103
 Sarah
 
 ID=42104
-カットスロート
+Cut Throat
 
 ID=42105
-アサルトスパイダー
+Assault Spider
 
 ID=42106
 Heavy Iron Worm
@@ -12371,10 +12371,10 @@ ID=42107
 Sharp Heavy Iron Worm
 
 ID=42108
-センスン
+Sensun
 
 ID=42109
-ラッキーガイセンスン
+Lucky Sensun
 
 ID=42110
 Trekker
@@ -12395,73 +12395,73 @@ ID=42115
 Deus Ex Machina
 
 ID=42116
-巨神デウス・エクス・マキナ
+Colossus Deux Ex Machina
 
 ID=42117
-機械神デウス・エクス・マキナ
+Mechanical Deux Ex Machina God
 
 ID=42118
-アサルトゴースト
+Assault Ghost
 
 ID=42119
 Betty
 
 ID=42120
-グラスパー
+Grasper
 
 ID=42121
-クイーンオブフラワー
+Queen of Flower
 
 ID=42122
-花の女王クイーンオブフラワー
+Royal Queen of Flowers
 
 ID=42123
-ハンマーヘッド
+Hammerhead
 
 ID=42124
-ジェノサイダーエックス
+Genocider X
 
 ID=42125
-ディグモンスター
+Dig Monster
 
 ID=42126
-掘削兵器ディグモンスター
+Excavation Weapon Dig Monster
 
 ID=42127
-ナンバーレス・リム
+Numberless Rim
 
 ID=42128
-煉獄の円ナンバーレス・リム
+Circle of Purgatory, Numberless Rim
 
 ID=42129
 Jessi
 
 ID=42130
-補助AIジェシー
+Support AI Jessie
 
 ID=42131
 Ian
 
 ID=42132
-攻撃部隊兵イアン
+Attack Force Soldier Ian
 
 ID=42133
-フルアーマージークプロト
+Armored Proto Ziegs
 
 ID=42134
-大戦車フルアーマージークプロト
+Full-Armored Proto Zieg Tanks
 
 ID=42135
-マーティン
+Martin
 
 ID=42136
-臨時指揮官マーティン
+Temporary Commander Martin
 
 ID=42137
-訓練用ダミー
+Training Dummy
 
 ID=42138
-強化型訓練用ダミー
+Reinforced Training Dummy
 
 ID=42139
 Diligent Kidnapper
@@ -12473,25 +12473,25 @@ ID=42141
 Extremely Diligent Bandit
 
 ID=42142
-ドレインクロー
+Drain Claw
 
 ID=42143
 F-ARIA
 
 ID=42144
-音波ミサイルF-ARIA
+Sonic Missle F-ARIA
 
 ID=42145
-驚天動地のミサイルF-ARIA
+Earth Shattering Missle F-ARIA
 
 ID=42146
-誘惑の欠片
+Fragment of Temptation
 
 ID=42147
-強大な誘惑の石
+Gem of Powerful Temptation
 
 ID=42148
-絶対誘惑の石
+Gem of Certain Temptation
 
 ID=42149
 Booker TV
@@ -12536,94 +12536,94 @@ ID=42162
 Micro Lucky Miraculous White Coat
 
 ID=42163
-フォースストライク
+Force Strike
 
 ID=42164
-攻撃部隊フォースストライク
+Offensive Strike Force
 
 ID=42165
-一騎当千フォースストライク
+The One True Strike Force
 
 ID=42166
-フォースストライクμ
+Force Strike μ
 
 ID=42167
-攻撃部隊フォースストライクμ
+Micro Offensive Strike Force
 
 ID=42168
-一騎当千フォースストライクμ
+The One True Micro Strike Force
 
 ID=42169
-研究部署STラボ
+ST Lab Research Department
 
 ID=42170
-知識の探究者STラボ
+ST Lab Knowledge Researcher
 
 ID=42171
-燦爛たる知識の館STラボ
+ST Lab's Brilliant Hall of Knowledge
 
 ID=42172
-研究部署STラボμ
+ST Lab Research Department μ
 
 ID=42173
-知識の探究者STラボμ
+ST Lab Knowledge Researcher μ
 
 ID=42174
-燦爛たる知識の館STラボμ
+ST Lab's Brilliant Hall of Knowledge μ
 
 ID=42175
-ヘビーギアズ
+Heavy Gears
 
 ID=42176
-不撓不屈ヘビーギアズ
+Inflexible Heavy Gear
 
 ID=42177
-最強火力ヘビーギアズ
+Almighty Steam Powered Heavy Gear
 
 ID=42178
-ヘビーギアズμ
+Heavy Gears μ
 
 ID=42179
-不撓不屈ヘビーギアズμ
+Inflexible Heavy Gear μ
 
 ID=42180
-最強火力ヘビーギアズμ
+Almighty Steam Powered Heavy Gear μ
 
 ID=42181
-ショーン
+Sean
 
 ID=42182
-守銭奴ショーン
+Miser Sean
 
 ID=42183
-必死の守銭奴ショーン
+Desperate Miser Sean
 
 ID=42184
-ショーンμ
+Sean μ
 
 ID=42185
-守銭奴ショーンμ
+Miser Sean μ
 
 ID=42186
-必死の守銭奴ショーンμ
+Desperate Miser Sean μ
 
 ID=42187
 Wild Stone
 
 ID=42188
-堅固なワイルドストーン
+Wild Stone
 
 ID=42189
-岩石の小悪魔ワイルドストーン
+Little Rock Spirit, Wild Stone
 
 ID=42190
-ワイルドストーンμ
+Wild Stone μ
 
 ID=42191
-堅固なワイルドストーンμ
+Solid Wild Stone μ
 
 ID=42192
-岩石の小悪魔ワイルドストーンμ
+Little Rock Spirit, Wild Stone μ
 
 ID=42193
 Brock
@@ -12665,7 +12665,7 @@ ID=42205
 Shiworatto
 
 ID=42206
-下水溝の主シウォラット
+Sewer Shiworatto
 
 ID=42207
 Dark Sewer King Shirwatto
@@ -12680,10 +12680,10 @@ ID=42210
 Micro Dark Sewer King Shirwatto
 
 ID=42211
-ヴェノムミューカス
+Venomous Mucus
 
 ID=42212
-黒き巨人ヴェノムミューカス
+Black Giant's Venomous Mucus
 
 ID=42213
 Deadly Giant Venomous Scum
@@ -12698,10 +12698,10 @@ ID=42216
 Micro Deadly Giant Venomous Scum
 
 ID=42217
-ダークアリゲーター
+Dark Aligator
 
 ID=42218
-略奪者ダークアリゲーター
+Dark Aligator Pillager
 
 ID=42219
 Violet Dark Alligator Beast
@@ -12722,7 +12722,7 @@ ID=42224
 Improved Cell
 
 ID=42225
-地を這う闇セル
+Crawling Earth Dark Cell
 
 ID=42226
 Micro Szell
@@ -12764,7 +12764,7 @@ ID=42238
 Micro JVC
 
 ID=42239
-研究員ビクターμ
+Researcher Victor μ
 
 ID=42240
 Micro Restless Researcher Victor
@@ -12776,16 +12776,16 @@ ID=42242
 -Blue Sky Gallus
 
 ID=42243
-蒼空の脅威ガルス
+Menace of the Blue Skies Gallus
 
 ID=42244
-ガルスμ
+Gallus μ
 
 ID=42245
-蒼空のガルスμ
+Blue Skies Gallus μ
 
 ID=42246
-蒼空の脅威ガルスμ
+Menace of the Blue Skies Gallus μ
 
 ID=42247
 Bonecrusher
@@ -12794,16 +12794,16 @@ ID=42248
 Crushing Bonecrusher
 
 ID=42249
-破砕の悪魔ボーンクラッシャー
+Evil Crushing Bonecrusher
 
 ID=42250
-ボーンクラッシャーμ
+Bonecrusher μ
 
 ID=42251
-破砕のボーンクラッシャーμ
+Crushing Bonecrusher μ
 
 ID=42252
-破砕の悪魔ボーンクラッシャーμ
+Evil Crushing Bonecrusher μ
 
 ID=42253
 Black Gantlet
@@ -12812,16 +12812,16 @@ ID=42254
 Black Fist Black Gauntlet
 
 ID=42255
-爆砕の拳ブラックガントレット
+Blasting Fist Black Gauntlet
 
 ID=42256
-ブラックガントレットμ
+Black Gauntlet μ
 
 ID=42257
-黒拳ブラックガントレットμ
+Black Fist Black Gauntlet μ
 
 ID=42258
-爆砕の拳ブラックガントレットμ
+Blasting Fist Black Gauntlet μ
 
 ID=42259
 Hell Informant Sayegh
@@ -12830,136 +12830,136 @@ ID=42260
 Engraved Hell Informant Sayegh
 
 ID=42261
-紅き豪腕ヘルインフォーサー
+Red Arm Hell Enforcer
 
 ID=42262
-ヘルインフォーサーμ
+Hell Enforcer μ
 
 ID=42263
-刻印者ヘルインフォーサーμ
+Engraver Hell Enforcer μ
 
 ID=42264
-紅き豪腕ヘルインフォーサーμ
+Red Arm Hell Enforcer μ
 
 ID=42265
 Cain
 
 ID=42266
-牙狼カイン
+Fanged Wolf Kain
 
 ID=42267
-疾風迅雷の牙狼カイン
+Lightning Speed Fanged Wolf Kain
 
 ID=42268
-カイン μ
+Kain μ
 
 ID=42269
-牙狼カイン μ
+Fanged Wolf Kain μ
 
 ID=42270
 Micro Whirlwind Fang Wolf Cain
 
 ID=42271
-ビッグパペット
+Big Puppet
 
 ID=42272
-災厄の巨人ビッグパペット
+The Disastrous Giant, Big Puppet
 
 ID=42273
-破滅の自爆兵器ビッグパペット
+Self Destructing Big Puppet of Destruction
 
 ID=42274
-ビッグパペット μ
+Big Puppet μ
 
 ID=42275
-災厄の巨人ビッグパペット μ
+The Disastrous Giant, Big Puppet μ
 
 ID=42276
-破滅の自爆兵器ビッグパペット μ
+Self Destructing Big Puppet of Destruction μ
 
 ID=42277
-巨神アスファルトゴーレム
+Giant Asphalt Golem
 
 ID=42278
-灰色の岩アスファルトゴーレム
+Grey Stone Asphalt Golem
 
 ID=42279
-咆哮の巨岩アスファルトゴーレム
+Howling Giant Stone Asphalt Golem
 
 ID=42280
-巨神アスファルトゴーレム μ
+Giant Asphalt Golem μ
 
 ID=42281
-灰色の岩アスファルトゴーレムμ
+灰色の岩アスファルトゴーレム μ
 
 ID=42282
-咆哮の巨岩アスファルトゴーレム μ
+Howling Giant Stone Asphalt Golem μ
 
 ID=42283
-魔眼マッドビホールダー
+Demon Eyed Mad Beholder
 
 ID=42284
-三色眼マッドビホールダー
+Triple Colored Eyed Mad Beholder
 
 ID=42285
-三色魔眼マッドビホールダー
+Triple Colored Demon Eyed Mad Beholder
 
 ID=42286
-魔眼マッドビホールダー μ
+Devil Eyed Mad Beholder μ
 
 ID=42287
-三色眼マッドビホールダーμ
+Triple Colored Eyed Mad Beholder μ
 
 ID=42288
-三色魔眼マッドビホールダー μ
+Triple Colored Demon Eyed Mad Beholder μ
 
 ID=42289
 Rapid Flames Faction
 
 ID=42290
-神速のラピッドフレイム
+Godly Fast Rapid Flame
 
 ID=42291
-神速の炎ラピッドフレイム
+Flame of Swiftness Rapid Flame
 
 ID=42292
-ラピッドフレイム μ
+Rapid Flame μ
 
 ID=42293
-火炎戦隊ラピッドフレイム μ
+Rapid Flame Blazing Squadron μ
 
 ID=42294
-紅炎戦隊ラピッドフレイム μ
+Flame of Swiftness Rapid Flame μ
 
 ID=42295
-グルトン
+Glutton
 
 ID=42296
-グルトンμ
+Glutton μ
 
 ID=42297
-輝くグルトン
+Shining Glutton
 
 ID=42298
-夕陽の花ミリアム
+Sunset Flower Miriam
 
 ID=42299
-グルトン軍団
+Glutton Corps
 
 ID=42300
-暴食グルトン軍団
+Gluttony Glutton Corps
 
 ID=42301
-暴食の災厄グルトン軍団
+Overly Disastrous Glutton Corps
 
 ID=42302
-グルトン軍団μ
+Glutton Corps μ
 
 ID=42303
-暴食グルトン軍団μ
+Gluttony Glutton Corps μ
 
 ID=42304
-暴食の災厄グルトン軍団μ
+Overly Disastrous Glutton Corps μ
 
 ID=42305
 Chaser
@@ -12968,34 +12968,34 @@ ID=42306
 Raid Force Chaser
 
 ID=42307
-血吸の刃チェイサー
+Blood Absorption's Edge Chaser
 
 ID=42308
 Micro Chaser
 
 ID=42309
-奇襲部隊チェイサーμ
+Stealth Unit Chaser μ
 
 ID=42310
-血吸の刃チェイサーμ
+Blood Absorption's Edge Chaser μ
 
 ID=42311
-インテンションカルラ
+Intentional Carla
 
 ID=42312
-強襲のインテンションカルラ
+Violent Intentional Carla
 
 ID=42313
-強襲怪鳥インテンションカルラ
+Violent Mystery Bird Intentional Carla
 
 ID=42314
-インテンションカルラμ
+Intentional Carla
 
 ID=42315
-強襲のインテンションカルラμ
+Violent Intentional Carlaμ
 
 ID=42316
-強襲怪鳥インテンションカルラμ
+Blood Absorption's Edge Chaser μ
 
 ID=43139
 Diligent Kidnapper
@@ -13004,7 +13004,7 @@ ID=43143
 F-ARIA
 
 ID=43146
-誘惑の欠片
+Fragment of Temptation
 
 ID=43000
 Jack King
@@ -13013,7 +13013,7 @@ ID=43003
 Dancing Dolls
 
 ID=43019
-ジャンクナイト
+Junk Knight
 
 ID=43028
 Cynthia
@@ -13028,10 +13028,10 @@ ID=43071
 Scarr
 
 ID=43076
-ホワイトファング
+White Fang
 
 ID=43099
-スコール
+Squall
 
 ID=43110
 Trekker
@@ -13055,16 +13055,16 @@ ID=43013
 Shiworatto
 
 ID=43015
-ヴェノムミューカス
+Venomous Mucus
 
 ID=43017
-ダークアリゲーター
+Dark Aligator
 
 ID=43022
-バキュームベイン
+Vacuum -vain
 
 ID=43025
-マングローブセル
+Mangrove Cell
 
 ID=43034
 Cell
@@ -13112,79 +13112,79 @@ ID=43056
 Benin
 
 ID=43060
-インテンションカルラ
+Intentional Carla
 
 ID=43062
-レッドメイン
+Red main
 
 ID=43063
-クイーンカルラ
+Queen Carra
 
 ID=43065
-セデュリン
+Dr. Sedeyurin
 
 ID=43067
-シングルレッグ
+Single Leg
 
 ID=43068
-ソラ
+Sora
 
 ID=43069
-フレイムテンペスト
+Flame Tempest
 
 ID=43074
 Marauder
 
 ID=43079
-ヘルコレクター
+Hell Collector
 
 ID=43080
-ダンシングシャドー
+Dancing Shadow
 
 ID=43082
-ロードバスター
+Road Buster
 
 ID=43084
-メギドメーカーMKⅡ
+Megiddo Producer MK II
 
 ID=43086
-テッド&ジュリー
+Ted & Julie
 
 ID=43087
 Senia
 
 ID=43089
-セントリーコマンダー
+Sentry Commander  
 
 ID=43091
-ヘビーアースクエイカー
+Heavy Ground Shaker
 
 ID=43093
-アマンダ
+Amanda
 
 ID=43095
-ジークプロト
+Proto Ziegs
 
 ID=43097
-ブレードウルフ
+Blade Wolf
 
 ID=43102
-ドミニアゼロ
+Dominiazero
 
 ID=43103
 Sarah
 
 ID=43104
-カットスロート
+Cut Throat
 
 ID=43105
-アサルトスパイダー
+Assault Spider
 
 ID=43106
 Heavy Iron Worm
 
 ID=43108
-センスン
+Sensun
 
 ID=43113
 Clinic
@@ -13193,28 +13193,28 @@ ID=43114
 Steel Robot Brother
 
 ID=43118
-アサルトゴースト
+Assault Ghost
 
 ID=43119
 Betty
 
 ID=43120
-グラスパー
+Grasper
 
 ID=43121
-クイーンオブフラワー
+Queen of Flower
 
 ID=43123
-ハンマーヘッド
+Hammerhead
 
 ID=43124
-ジェノサイダーエックス
+Genocider X
 
 ID=43125
-ディグモンスター
+Dig Monster
 
 ID=43127
-ナンバーレス・リム
+Numberless Rim
 
 ID=43129
 Jessi
@@ -13223,16 +13223,16 @@ ID=43131
 Ian
 
 ID=43133
-フルアーマージークプロト
+Armored Proto Ziegs
 
 ID=43135
-マーティン
+Martin
 
 ID=43137
-訓練用ダミー
+Training Dummy
 
 ID=43142
-ドレインクロー
+Drain Claw
 
 ID=43149
 Booker TV
@@ -13262,7 +13262,7 @@ ID=43277
 [S] Giant Asphalt Golem
 
 ID=43280
-[SH]巨神アスファルトゴーレム
+[SH] Giant Asphalt Golem
 
 ID=43283
 [S]Mad Evil Eye Beholder
@@ -13481,13 +13481,13 @@ ID=45021
 Items Purchased
 
 ID=45022
-Quantity Purchasing:
+Quantity:
 
 ID=45023
 Total Cost:
 
 ID=45024
-Remaining Hancoin Total:
+Hancoin Remainl:
 
 ID=45025
 Buy
@@ -13778,7 +13778,7 @@ ID=46004
 {0}>{1}
 
 ID=46010
-Highest Chapter Progressed
+Chapter Record
 
 ID=46100
 STAGE
@@ -13787,7 +13787,7 @@ ID=46101
 CLEAR
 
 ID=46102
-Performance Rewards
+Clearing Bonus
 
 ID=46103
 Mission Bonus
@@ -13898,7 +13898,7 @@ ID=49110
 Obtained memorial item.
 
 ID=49111
-The memorial collecting achievement has been unlocked.
+The memorial series has unlocked.
 
 ID=49200
 System
@@ -14474,7 +14474,7 @@ ID=49937
 Party someone with a Lv difference of {0} as {1} for [{2}] for {3} times
 
 ID=49938
-自分のキャラクターを含んだ[{0}]{1}名とパーティーを組み、[{2}]を{3}回クリア
+Clear [{2}] {3} times with [{0}] {1}.
 
 ID=49939
 Become friends with a level difference of {0} as {1} 
@@ -14537,7 +14537,7 @@ ID=49958
 Time Limit {0}:{1}:{2}
 
 ID=49959
-ミッション完了報酬がメールで支給されました。
+Mission completion reward sent to mail.
 
 ID=49960
 [{0}] Failed Guerilla Mission
@@ -14549,7 +14549,7 @@ ID=49962
 [{0}] Guerilla Mission Complete
 
 ID=49963
-デイリーミッションが初期化され、新しいミッションが追加されました。
+A daily mission has begin. A new mission has been added.
 
 ID=49964
 Talk to {0}
@@ -14612,7 +14612,7 @@ ID=49983
 [Completed]
 
 ID=49984
-お知らせ解除
+News release
 
 ID=49985
 Cannot abandon quest.
@@ -14630,16 +14630,16 @@ ID=49989
 Quest
 
 ID=49990
-お知らせ登録
+Post Notice
 
 ID=49991
 Story
 
 ID=49992
-空きスロットが無いため、任務を完了できません。
+No inventory slots , you can't complete the quest.
 
 ID=49993
-報酬アイテムを選択すると任務を完了できます。
+Select a reward item to end mission.
 
 ID=49994
 [{0}] requests:
@@ -15053,28 +15053,28 @@ ID=52282
 Mismatched socket, insertion is not possible.
 
 ID=52283
-ソケットが活性化状態ではありません。
+Socket is unavailable.
 
 ID=52284
-ジェニーが不足しています。
+Insufficient Jenny.
 
 ID=52285
-必要なアイテムが不足しています。
+Lacking required item.
 
 ID=52286
-ソケット活性化に失敗しました。
+Socket failed.
 
 ID=52287
-該当NPCではありません。
+Cannot speak to this NPC.
 
 ID=52288
 Insufficient Zenny. Purchase failed.
 
 ID=52289
-活性化状態ではありません。
+Conditions are not available.
 
 ID=52290
-必要なアイテムが不足しています。
+Lacking required item.
 
 ID=52291
 Socket unsuccessfully released.
@@ -15113,115 +15113,115 @@ ID=52307
 You can no longer re-purchase the item. 
 
 ID=52308
-商店機能を保有するNPCではありません。
+Not an NPC that has a shop.
 
 ID=52309
-正常な商品インデックスではありません。
+Not a normal item index.
 
 ID=52310
-所持金[ジェニー/ハンコイン/BP]が不足しているため、アイテム購入に失敗しました。
+Insufficient Zenny/Han Coin/BP. You can't purchase the item.
 
 ID=52311
-アイテム購入失敗：インベントリ空き不足
+Failed to purchase an item : Inventory full.
 
 ID=52312
-販売できないアイテムです。
+You can't sell this item.
 
 ID=52313
 This recipient does not exist.
 
 ID=52314
-プレゼント送信時に問題が発生しました。\nもう一度お試しください。
+There was a problem in sending the gifts.\n Please try again.
 
 ID=52315
-ゲームマスターは商店を利用できません。
+GMs cannot use the store.
 
 ID=52316
 Insufficient S coins to make a purchase.
 
 ID=52317
-アイテム購入に失敗しました。しばらくしてからもう一度お試しください。
+Failed to purchase an item. Please try again.
 
 ID=52318
-アイテム購入が完了していません。しばらくしてからもう一度お試しください。
+Failed to purchase an item. Please try again.
 
 ID=52319
-使用中のキャラクターのアイテムではないため、購入できません。
+Since the character is unable to use the item, it cannot be purchased.
 
 ID=52320
-プレゼント対象キャラクターのアイテムではないため、プレゼントできません。
+Since this item is non-giftable, it cannot be gifted.
 
 ID=52321
-すでに所持している外見アイテムのため、購入できません。
+Items that are owned already cannot be purchased again.
 
 ID=52322
-販売期間が終了しているため、購入できません。
+Sale period has ended ,you can't purchase it anymore.
 
 ID=52323
-このアイテムはこれ以上購入できません。
+You can't purchase this item anymore.
 
 ID=52324
-該当エリアではアイテムモールをオープンできません。
+Can't open item mall in the area.
 
 ID=52401
-対象プレイヤーはすでに取引中です。
+Player already in trading.
 
 ID=52402
-対象プレイヤーと離れているため中止されました。
+The request was canceled,because it's far away from target player.
 
 ID=52403
-対象プレイヤーが取引を中止しました。
+Player has canceled the trade.
 
 ID=52404
-所持ジェニーを上回っています。
+Too much Zenny.
 
 ID=52405
-取引が制限されたアイテムです。
+This item cannot be traded.
 
 ID=52406
-取引スロットがいっぱいです。
+Trading slot is full.
 
 ID=52407
-取引リストでアイテムが見つかりません。
+Item can't be found in trading list.
 
 ID=52408
-対象プレイヤーはすでに取引要請中です。
+Player already in trade request.
 
 ID=52409
-対象プレイヤーが見つかりません。
+Player cannot be found.
 
 ID=52410
-対象プレイヤーがログアウトしました。
+Player has logged out.
 
 ID=52411
-対象プレイヤーと別の場所にいます。
+Different area than target player.
 
 ID=52415
-ゲームマスターは個人取引ができません。
+Game Master cannot personal trade.
 
 ID=52412
-承諾待機時間が経過しました。
+You have run of time to accept the request.
 
 ID=52413
-{0}は現在別の要請をしています。
+{0} is currently on other request.
 
 ID=52416
 You cannot trade with a blocked player.
 
 ID=52430
-個人商店が開設された状態です。
+Personal Shop is already open.
 
 ID=52431
-個人商店開設に失敗しました。
+You have failed to open your Personal Shop.
 
 ID=52432
 The item does not exist.
 
 ID=52433
-個人商店開設券タイプではありません。
+This isn't the correct type of ticket for opening Personal Shop.
 
 ID=52434
-個人商店が終了した状態です。
+Personal Shop has ended.
 
 ID=52435
 Your personal shop has been closed.
@@ -15245,7 +15245,7 @@ ID=52441
 Insufficient inventory space. You cannot purchase the item.
 
 ID=52442
-すでに他のプレイヤーが個人商店を利用中です。
+Other players are currently using the Personal Shop.
 
 ID=52450
 The item could not be repaired.
@@ -15257,7 +15257,7 @@ ID=52452
 This item has maximum durability already.
 
 ID=52453
-ジェニーが不足しています。
+Insufficient Jenny.
 
 ID=52454
 This NPC can't repair items.
@@ -15296,7 +15296,7 @@ ID=52612
 You can not use consumable items in the dungeon Steel Grave.
 
 ID=52613
-スチールグレイブ入場回数が残っています。
+There is still Steel Grave entries left.
 
 ID=52615
 Failed to acquire item. Please try again.
@@ -15359,19 +15359,19 @@ ID=53012
 An error has occurred in the party.
 
 ID=53013
-遮断対象に登録されているため招待できません。
+You cannot invite the selected character due to them being on your blacklist.
 
 ID=53014
-該当者とは現在パーティーを組めません。
+You cannot make party with the selected player.
 
 ID=53015
-すでにパーティー招待要請中です。
+Party request is still pending.
 
 ID=53016
 You cannot join the party.
 
 ID=53017
-メイズ内にメンバーがいる場合、パーティー招待ができません。
+You cannot give party requests if there are still members within the dungeon.
 
 ID=53018
 Another party invitation request has been received.
@@ -15380,28 +15380,28 @@ ID=53021
 Applicant does not exist.
 
 ID=53024
-制限時間経過後に登録できます。 
+You can register after the time limit has passed. 
 
 ID=53025
-パーティーが定員オーバー状態のため登録できません。
+The party cannot be entered as there are too much members.
 
 ID=53027
-パーティー申請をしたパーティーが存在しません。
+The party that the request was sent to no longer exists.
 
 ID=53028
-{0}は現在別の要請をしています。
+{0} is currently on other request.
 
 ID=53029
 Cannot leave the party while in a boss battle.
 
 ID=53030
-無法地帯ではパーティー申請ができません。
+You cannot request for party members in the wasteland.
 
 ID=53031
-相手が無法地帯にいるため申請できません。
+You cannot make a request as the target is in the wasteland.
 
 ID=53032
-メイズにいるパーティーメンバーは追放できません。
+You cannot kick out members in the dungeon.
 
 ID=54001
 The mission is already active.
@@ -15410,16 +15410,16 @@ ID=54002
 The mission is already done.
 
 ID=54003
-選択したエピソードを完了できません。
+You cannot complete the selected episode.
 
 ID=54004
-該当エピソードが見つかりません。
+Selected episode does not exist.
 
 ID=54005
-エピソード削除に失敗しました。
+You have failed to remove the episode.
 
 ID=54006
-エピソードのお知らせ登録または削除に失敗しました。
+You have failed to register or remove episode summary.
 
 ID=54007
 Could not interact.
@@ -15428,22 +15428,22 @@ ID=54008
 Items do not need to be used for interacting with entities.
 
 ID=54009
-相互作用のクエストがありません。
+There is no quest for interaction.
 
 ID=54010
-相互作用に必要なアイテムが不足しています。
+There is a lack of items for interaction.
 
 ID=54011
-相互作用後、削除するアイテムがありません。
+There is no item to remove after interaction.
 
 ID=54012
-相互作用アイテムの削除中にエラーが発生しました。
+There was an error while removing an item with interaction.
 
 ID=54013
-相互作用アイテムの追加中にエラーが発生しました。
+There was an error while adding an item with interaction.
 
 ID=54014
-サーバーでCallCountがすでに「0」のため使用できません。
+As CallCount is already「0」in the server, it cannot be used.
 
 ID=54015
 Could not interact with the individual.
@@ -15461,7 +15461,7 @@ ID=54019
 Mismatched character. Cannot start the episode.
 
 ID=54020
-先行クエストを遂行していません。
+You have not cleared the prerequisite quest.
 
 ID=54021
 Inventory is insufficient. Failed to proceed quest.
@@ -15479,13 +15479,13 @@ ID=55004
 Only the party leader can choose the dungeon.
 
 ID=55005
-チェックセクターボックスではワールドを検索できません。
+Cannot search the world from the Check Sector Box.
 
 ID=55006
-チェックセクターボックスでチェック有効なセクターを検索できません。
+Cannot find the available sector for check within the Check Sector Box.
 
 ID=55007
-該当のワールドを検索できません。
+You can't search the selected world.
 
 ID=55008
 Your game files are corrupted; dungeon does not exist.
@@ -15500,7 +15500,7 @@ ID=55011
 Party members have declined entry.
 
 ID=55012
-メイズ入場レベルに到達していないため、入場できません。
+As you do not fit the level requirements for this dungeon, you cannot enter.
 
 ID=55013
 Somebody does not meet the level requirements for the dungeon, dungeon entry is not possible.
@@ -15572,7 +15572,7 @@ ID=55041
 Cannot enter the dungeon, someone is not present.
 
 ID=55042
-For withdrawing from the dungeon, you may not enter again for 3 minutes.
+The dungeon cannot be entered after leaving it for 3 minutes or more.
 
 ID=55043
 Cannot make purchases; you are in a boss battle.
@@ -15761,7 +15761,7 @@ ID=56502
 Insufficient Zenny.
 
 ID=56531
-全メンバーのユニティメイズが開放されなければなりません。
+Unity Dungeon for all members must be open. 
 
 ID=57000
 {0} is not currently logged in.
@@ -15878,7 +15878,7 @@ ID=57037
 {0} is unable to join the guild due to a guild withdrawl penalty.
 
 ID=57038
-{0}は現在別の要請をしています。
+{0} is currently on other request.
 
 ID=57039
 The Guild Ad has too many characters. Unable to post.
