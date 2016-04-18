@@ -4344,49 +4344,49 @@ HP Recovery
 
 ID=55002
 ビックリボックスⅢ
-30秒間、防御度が50%減少する。
+Defense -50% for 30 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Reduce
 
 ID=55005
 スネークショック
-30秒間、防御度が10%増加する。
+Defense +10% for 30 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=55006
 スネークショック
-30秒間、防御度が30%増加する。
+Defense +30% for 30 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=55010
 力の咆哮
-7秒間、攻撃力が10%増加する。
+Attack power +10% for 7 seconds.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
 
 ID=55011
 守りの咆哮
-7秒間、防御度が10%増加する。
+Defense +10% for 7 seconds.
 Icon/Buff/Icon_Common_Buff_Def
 Defense Increase
 
 ID=55012
 瞬きの咆哮
-7秒間、攻撃速度が10%増加する。
+Attack speed +10% for 7 seconds.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed Increase
 
 ID=55101
 Attack Power Increase
-7秒間、攻撃力が10%増加する。
+Attack power +10% for 7 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=55102
 Attack Speed Increase
-7秒間、攻撃速度が10%増加する。
+Attack speed +10% for 7 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
@@ -4398,19 +4398,19 @@ Skill Release
 
 ID=55104
 HP Reduce
-10秒間、HPが毎秒2%ずつ減少する。
+HP -2% per second for 10 seconds
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Reduce
 
 ID=55105
 Movement Speed Reduce
-10秒間、移動速度が10%減少する。(最大5重複)
+Movement speed -10% for 10 seconds. (Maximum 5 Duplicates)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed Reduce
 
 ID=55106
 HP Reduce
-10秒間、HPが毎秒2%ずつ減少する。(最大5重複)
+HP -2% per second for 10 seconds. (Maximum 5 Duplicates)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Reduce
 
@@ -4428,7 +4428,7 @@ Attack Speed Increase
 
 ID=55109
 吸血
-5秒間、攻撃命中時にHPを2%回復する。
+HP recovering of damage you have dealt to enemy by 2%, for 5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 吸血
 
@@ -4506,7 +4506,7 @@ Attack Speed Increase
 
 ID=55122
 吸血
-10秒間、攻撃命中時にHPを2%回復する。
+HP recovering of damage you have dealt to enemy by 2%, for 10 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 吸血
 
