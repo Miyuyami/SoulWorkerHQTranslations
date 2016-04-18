@@ -1512,13 +1512,13 @@ Counter
 
 ID=7011
 Spirit Surge
-一定時間、挑発対象を攻撃する。
+After a certain duration, the target is provoked to attack.
 Icon/Buff/Icon_Common_Debuff_Provoke
 Taunt
 
 ID=7501
 Overheat
-SGが全回復する。前回復する。
+SG is fully restored.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
@@ -1823,91 +1823,91 @@ Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
 
 ID=21011
-強靭
+Toughen
 Defense +20% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_Def
 Defense Increase
 
 ID=21012
-強靭
+Toughen
 Defense +30% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_Def
 Defense Increase
 
 ID=21013
-強靭
+Toughen
 Defense +40% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_Def
 Defense Increase
 
 ID=21014
-強靭
+Toughen
 Defense +20% for 3 minutes.
 Icon/Buff/Icon_Common_Buff_Def
 Defense Increase
 
 ID=21021
-疾風
+Swiften
 Attack speed +2% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed Increase
 
 ID=21022
-疾風
+Swiften
 Attack speed +4% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed Increase
 
 ID=21023
-疾風
+Swiften
 Attack speed +6% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed Increase
 
 ID=21031
-迅速
+Quicken
 Move Speed +2% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed Increase
 
 ID=21032
-迅速
+Quicken
 Move Speed +4% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed Increase
 
 ID=21033
-迅速
+Quicken
 Move Speed +6% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed Increase
 
 ID=21041
-狂気
+Maddened
 Critical Rate +4% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate Increased
 
 ID=21042
-狂気
+Maddened
 Critical Rate +6% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate Increased
 
 ID=21043
-狂気
+Maddened
 Critical Rate +8% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate Increased
 
 ID=21251
-死守
+Persevere
 Gain super armor for 15 seconds.
 Icon/Buff/Icon_Common_Buff_SArmor
 Super Armor
 
 ID=21252
-破壊者
+Destroyed
 Ignore super armor for 5 seconds.
 Icon/Buff/Icon_Common_Buff_SABreak
 Super Armor Penetration
@@ -1925,19 +1925,19 @@ Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
 
 ID=22002
-強靭
+Toughen
 Defense +50% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_Def
 Defense Increase
 
 ID=22003
-疾風
+Swiften
 Attack speed +10% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed Increase
 
 ID=22004
-狂気
+Maddened
 Critical Rate +10% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate Increased
@@ -2015,13 +2015,13 @@ Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
 
 ID=25002
-強靭
+Toughen
 Defense +30% for 1 minute.
 Icon/Buff/Icon_Common_Buff_Def
 Defense Increase
 
 ID=25003
-迅速
+Quicken
 Move Speed +7% for 1 minute.
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed Increase
@@ -2196,7 +2196,7 @@ Movement Speed Reduce
 
 ID=39013
 ナマクラ
-10秒間、攻撃力が減少する。
+Attack Power reduce.
 Icon/Buff/Icon_Common_DeBuff_ATK
 Attack power reduce
 
@@ -2424,7 +2424,7 @@ Paralysis
 
 ID=30069
 Player HP Reduce
-毎秒HPが減少する。
+HP reduce per second.
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP Reduce
 
@@ -2510,7 +2510,7 @@ ID=35004
 ソウルエナジー増幅
 The Player's Attack Power +2000% for 20 seconds
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃力大幅増加
+Greatly Attack Power Increase.
 
 ID=35005
 Enhanced
@@ -2598,7 +2598,7 @@ Invincible
 
 ID=35306
 Burn
-毎秒HPが減少する。
+HP reduce per second.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
@@ -2849,7 +2849,7 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=50141
-自己回復力Lv1
+Self-recover power Lv.1
 Upon successfully landing a hit, 1% chance of recovering stamina by 10%.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 Stamina recovery
@@ -2864,7 +2864,7 @@ ID=50161
 ビクターの法則Lv1
 Upon successfully landing a hit, you have a 1% chance to increase accuracy by 20% for 2 seconds.
 Icon/Buff/Icon_Common_Buff_Accuracy
-命中度増加
+Accuracy increase.
 
 ID=50171
 魔眼解放Lv1
@@ -2873,7 +2873,7 @@ Icon/Buff/Icon_Common_Buff_Immun
 Invincible
 
 ID=50181
-スカイハイLv1
+Sky High Lv.1
 ジャンプ時、1%の確率でスタミナが5%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 Stamina recovery
@@ -2909,13 +2909,13 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=53021
-硬皮化Ⅰ
+Hard Skin I
 When attacked, 5% chance for 1 second of Defense +50%.(Cooldown for 10 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53022
-硬皮化Ⅱ
+Hard Skin II
 When attacked, 10% chance for 1 second of Defense +50%.(Cooldown for 10 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
@@ -3050,13 +3050,13 @@ ID=53123
 ビクターの法則Ⅰ
 When hit, 4% chance for 2 seconds of Accuracy +200. (Cooldown for 15 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53131
 ビクターの法則Ⅱ
 When hit, 5% chance for 2 seconds of Accuracy +250. (Cooldown for 15 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53132
 魔眼解放Ⅰ
@@ -3065,7 +3065,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Invincible
 
 ID=53133
-スカイハイⅠ
+Sky High I
 When jump , 10% chance of Stamina recovering by 5% (Cooldown for 10 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina recovery
@@ -3122,13 +3122,13 @@ ID=53163
 紅き烙印Ⅰ
 クリティカル攻撃を受けた時、3秒間、命中度が500上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53171
 紅き烙印Ⅱ
 クリティカル攻撃を受けた時、5秒間、命中度が500上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53172
 臨時指揮官の威厳Ⅰ
@@ -3314,13 +3314,13 @@ ID=53313
 軽いけど正確にⅠ
 When attacked, 20% chance for 5 seconds of Attack Power -20% , Accuracy +1000. (Cooldown for 1 minute)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53321
 軽いけど正確にⅡ
 When attacked, 20% chance for 5 seconds of Attack Power -15% , Accuracy +1000. (Cooldown for 1 minute)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53322
 ブレイキングメッセージⅠ
@@ -3374,7 +3374,7 @@ ID=53361
 照準…発射！！Ⅰ
 Every 1 minute, Accuracy +200 for 10 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53362
 痛くても我慢Ⅰ
@@ -3488,13 +3488,13 @@ ID=53442
 戦闘タイプ分析Ⅰ
 When casting skill, 10% chance for 5 seconds of Accuracy +500. (Cooldown for 10 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53443
 戦闘タイプ分析Ⅱ
 When casting skill, 10% chance for 5 seconds of Accuracy +600. (Cooldown for 10 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53451
 筋力は衰えないⅠ
@@ -3779,13 +3779,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53563
-硬皮化Ⅰ
+Hard Skin I
 When attacked, 5% chance for 5 seconds of Defense +50% (Cooldown for 10 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53564
-硬皮化Ⅱ
+Hard Skin II
 When attacked, 10% chance for 5 seconds of Defense +50% (Cooldown for 10 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
@@ -3797,13 +3797,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53566
-硬皮化Ⅰ
+Hard Skin I
 When attacked, 10% chance for 5 seconds of Defense +50% (Cooldown for 10 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53567
-硬皮化Ⅱ
+Hard Skin II
 When attacked, 15% chance for 5 seconds of Defense +50% (Cooldown for 10 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
@@ -4070,37 +4070,37 @@ ID=53611
 ビクターの法則Ⅰ
 When hit, 7% chance for 4 seconds of Accuracy +250.(Cooldown for 10 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53612
 ビクターの法則Ⅱ
 When hit, 7% chance for 4 seconds of Accuracy +250.(Cooldown for 10 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53613
 ビクターの法則Ⅲ
 When hit, 7% chance for 4 seconds of Accuracy +300.(Cooldown for 10 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53614
 ビクターの法則Ⅰ
 When hit, 9% for 4 seconds of Accuracy +250.(Cooldown for 10 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53615
 ビクターの法則Ⅱ
 When hit, 9% for 4 seconds of Accuracy +300.(Cooldown for 10 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53616
 ビクターの法則Ⅲ
 When hit, 9% for 4 seconds of Accuracy +350.(Cooldown for 10 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53617
 ガルスの逆鱗Ⅰ
@@ -4214,37 +4214,37 @@ ID=53635
 紅き烙印Ⅰ
 When critical attacked by enemy , Accuracy +500 for 7 seconds.(Cooldown for 20 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53636
 紅き烙印Ⅱ
 When critical attacked by enemy , Accuracy +500 for 12 seconds.(Cooldown for 20 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53637
 紅き烙印Ⅲ
 クリティカル攻撃を受けた時、17秒間、命中度が500上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53638
 紅き烙印Ⅰ
 クリティカル攻撃を受けた時、9秒間、命中度が500上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53639
 紅き烙印Ⅱ
 クリティカル攻撃を受けた時、14秒間、命中度が500上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53640
 紅き烙印Ⅲ
 クリティカル攻撃を受けた時、19秒間、命中度が500上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=53641
 眩しい
@@ -4460,7 +4460,7 @@ ID=55114
 Pinpoint Weapon
 Accuracy +50 for 5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
-命中度増加
+Accuracy increase.
 
 ID=55115
 Right Fit
