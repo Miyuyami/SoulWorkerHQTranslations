@@ -65,7 +65,7 @@ ID=22
 End Conversation
 
 ID=23
-Repair Equip
+Repair Eqp
 
 ID=24
 Repair All
@@ -467,7 +467,7 @@ ID=338
 Slot Expansion
 
 ID=339
-Level Required: {0}
+Required Level: {0}
 
 ID=340
 Expansion Fee: {0} Zenny
@@ -497,7 +497,7 @@ ID=352
 Normal
 
 ID=353
-Magical
+Magic
 
 ID=354
 Rare
@@ -653,7 +653,7 @@ ID=419
 Socket Brooch
 
 ID=421
-Show only usable equips.
+Show only usable equipment
 
 ID=423
 Zenny
@@ -674,10 +674,10 @@ ID=433
 Grade
 
 ID=434
-Show items within 4 Lvs.
+Show items within 4 Lvs
 
 ID=435
-Show only usable equips.
+Show only usable equipment
 
 ID=436
 Basic Materials
@@ -713,7 +713,7 @@ ID=446
 Crafting List
 
 ID=447
-Required Materials
+Required Material
 
 ID=448
 Blueprints are automatically registered.
@@ -782,7 +782,7 @@ ID=476
 Result
 
 ID=477
-Performance Record
+*Performance Record
 
 ID=478
 Clear Score
@@ -1091,7 +1091,7 @@ ID=616
 Accuracy
 
 ID=617
-Magical Accuracy(%)
+Magic Accuracy(%)
 
 ID=618
 Weak Attack
@@ -1286,7 +1286,7 @@ ID=726
 {0} Zenny
 
 ID=727
-[0} EXP
+{0} EXP
 
 ID=728
 Lv{0}
@@ -1334,7 +1334,7 @@ ID=744
 Entry Limit
 
 ID=745
-Solo, 1
+Solo
 
 ID=746
 Solo
@@ -1415,7 +1415,7 @@ ID=773
 Req.  Lv
 
 ID=774
-Cnd
+DUR
 
 ID=775
 Showcase Item\nAction denied
@@ -1481,7 +1481,7 @@ ID=795
 The effect is passively applied.
 
 ID=796
-Bonus {0} Random Attribute.
+Random Attribute: {0}
 
 ID=797
 Activate Sniper Mode
@@ -1766,19 +1766,19 @@ ID=923
 Reduce Chance of Weak Attacks
 
 ID=924
-When attacking, the probability of critical hits increases
+When attacking, the chance of critical hits increases
 
 ID=925
 When attacking, critical hit damage is increased
 
 ID=926
-Magical Damage to enemies
+Magic Damage to enemies
 
 ID=927
 Reduce Chance of Weak Magic Attacks
 
 ID=928
-When casting magic attacks, the probability of critical hits increases
+When casting magic attacks, the chance of critical hits increases
 
 ID=929
 When casting magic attacks, magic critical hit damage is increased
@@ -1787,7 +1787,7 @@ ID=930
 Reduces damage taken from physical attacks
 
 ID=931
-Reduces damage taken by magical attacks
+Reduces damage taken by magic attacks
 
 ID=932
 Physical Critical Attack Resistance
@@ -1865,7 +1865,7 @@ ID=961
 Insufficient funds or prerequisite materials to enhance the item.
 
 ID=962
-Prevents item destruction.
+Prevents item destruction
 
 ID=963
 Zenny Cost
@@ -1937,7 +1937,7 @@ ID=985
 Exchange Item
 
 ID=986
-Acquire Items
+Acquired Item
 
 ID=987
 Select an item.
@@ -2891,7 +2891,7 @@ ID=3110
 By achieving a position of {0} out of {1}, the following rewards are awarded.
 
 ID=3111
-Following items have been acquired from {0}.
+You have acquired the following item from {0}.
 
 ID=3112
 EXP
@@ -3182,7 +3182,7 @@ ID=5440
 Uses a sword as a weapon.\nThis weapon has a balanced style and its performance is exceptional.
 
 ID=5441
-Uses a pistol as a weapon.\nPerforms nimble movements at the expense of the enemy.
+Uses a handgun as a weapon.\nPerforms nimble movements at the expense of the enemy.
 
 ID=5442
 Uses a scythe as a weapon.\nSweep away enemies with the power of long-reaching attacks.
@@ -3308,7 +3308,7 @@ ID=5810
 <font color='#FFFFFF'><font size="30">TIP：</font>Press the hotkey <font color='#00ff9c'>【L】</font>to see your <font color='#00D8FF'>[Records] & [Secured Area Percentages].</font></font>
 
 ID=5811
-<font color='#FFFFFF'><font size="30">TIP：</font>Depending on your<font color='#00D8FF'>progress</font>, you can press <font color='#00ff9c'>【L】</font> to collect rewards.</font>
+<font color='#FFFFFF'><font size="30">TIP：</font>Depending on your <font color='#00D8FF'>progress</font>, you can press <font color='#00ff9c'>【L】</font> to collect rewards.</font>
 
 ID=5812
 <font color='#FFFFFF'><font size="30">TIP: </font>By collection ingredients and bringing them to <font color='#00ff9c'>IO</font>, you can create an<font color='#00D8FF'>A.R Card</font>.
@@ -3401,7 +3401,7 @@ ID=5841
 <font color='#FFFFFF'><font size="30">TIP: </font>Clicking the 「！」 icon at the top right corner will open <font color='#00D8FF'>[Help]</font>, where various information about the game can be found.
 
 ID=5842
-<font color='#FFFFFF'><font size="30">TIP: </font>Entering a dungeon will consume<font color='#00D8FF'>[FP]</font>.
+<font color='#FFFFFF'><font size="30">TIP: </font>Entering a dungeon will consume <font color='#00D8FF'>[FP]</font>.
 
 ID=5843
 <font color='#FFFFFF'><font size="30">TIP: </font>Level up your <font color='#00D8FF'>Skills</font> and <font color='#00D8FF'>Abilities</font> according to your own style.
@@ -3689,7 +3689,7 @@ ID=6042
 Release Card
 
 ID=6043
-Make/Remove
+Craft/Remove
 
 ID=6044
 Craft A.R. cards using respective materials.\nCrafted A.R. cards cannot be traded.
@@ -3725,7 +3725,7 @@ ID=6054
 Sort By Equips
 
 ID=6055
-Is a Crafting material when\n synthesis EXP is maxed.
+Only used as crafting material when\nsynthesis EXP is maxed.
 
 ID=6056
 Would you like to trade {1} {0} to {3} {2} ?
@@ -3767,7 +3767,7 @@ ID=7004
 Select a skill deck.
 
 ID=7005
-Show Break Skills
+Show Break Skill
 
 ID=7006
 Peak
@@ -3785,7 +3785,7 @@ ID=7010
 Select Attribute
 
 ID=7011
-Learnable
+Available
 
 ID=7012
 Equipped
@@ -5096,7 +5096,7 @@ ID=16551
 Normal
 
 ID=16552
-Magical
+Magic
 
 ID=16553
 Rare
@@ -5132,7 +5132,7 @@ ID=16582
 Bit
 
 ID=16583
-KB
+Kilo
 
 ID=16584
 MB
@@ -5510,7 +5510,7 @@ ID=18055
 Set duration
 
 ID=18056
-<font color='#47C83E'>Bit</font> and <font color='#4374D9'>KB</font>grade brooch synthesis is possible
+<font color='#47C83E'>Bit</font> and <font color='#4374D9'>Kilo</font>grade brooch synthesis is possible
 
 ID=18057
 <font color='#E0B94F'>MB</font>,<font color='#F15F5F'>GB</font>,<font color='#8041D9'>TB</font> grade brooch synthesis is possible.
@@ -5924,7 +5924,7 @@ ID=21015
 Number of special items you can buy from {0} per day increase two-fold
 
 ID=21016
-While being mobilized, increase attack/defense of {0} by {1} for 30 minutes
+While being mobilized, increase attack/defense of {0} by {1} for 30 min
 
 ID=21017
 Supporter Quest Complete [Supporter: Hugh]
@@ -5963,7 +5963,7 @@ ID=21028
 Locked
 
 ID=21029
-Favorability level too low.
+Favorability level too low
 
 ID=21030
 Maximum purchases attained for the day.
@@ -5993,22 +5993,22 @@ ID=21038
 Character cannot use the item.
 
 ID=21039
-Level is insufficient. Item cannot be used.
+Level is insufficient. This item cannot be used.
 
 ID=21040
 Daily Usage Restriction：[{0}/{1}]
 
 ID=21041
-Item cannot be used because the basic FP (200) is maxed.
+This item cannot be used because your basic FP (200) is maxed.
 
 ID=21051
-Item cannot be used because HP is maxed.
+This item cannot be used because your HP is maxed.
 
 ID=21052
-Item cannot be used because SG is maxed.
+This item cannot be used because your SG is maxed.
 
 ID=21053
-Item cannot be used because ST is maxed.
+This item cannot be used because your ST is maxed.
 
 ID=21054
 HP Recovery Potion stage 2 is available for purchase.
@@ -6083,7 +6083,7 @@ ID=21515
 Claim
 
 ID=21516
-Buff Supporter
+Supporter Buff
 
 ID=21517
 Activate\nAttack Orb
@@ -6152,7 +6152,7 @@ ID=21538
 In Use
 
 ID=21539
-For level differences of 5 or greater, ability penalties apply on the supporter.
+For level differences of 5 or greater, ability penalties apply on the Supporter.
 
 ID=21540
 For level differences of 5 or greater, ability penalties apply on the user.
@@ -6176,7 +6176,7 @@ ID=21546
 Releasing this Supporter will have its equipped orb disappear. Do you want to continue?
 
 ID=21547
-Support buffs are available.
+Supporter buffs are available.
 
 ID=21548
 Support has expired; claim the reward.
@@ -7790,10 +7790,10 @@ ID=24750
 All
 
 ID=24751
-Offensive Brooch
+Attack Brooch
 
 ID=24752
-Defensive Brooch
+Defense Brooch
 
 ID=24753
 Utility Brooch
@@ -7841,10 +7841,10 @@ ID=24767
 All
 
 ID=24768
-Defensive
+Attack
 
 ID=24769
-Defense Related
+Defense
 
 ID=24770
 All
@@ -7898,10 +7898,10 @@ ID=24786
 Familiar
 
 ID=24787
-Offensive Brooch
+Attack Brooch
 
 ID=24788
-Defensive Brooch
+Defense Brooch
 
 ID=24789
 Utility Brooch
@@ -8024,7 +8024,7 @@ ID=24828
 Sword
 
 ID=24829
-Pistol
+Handgun
 
 ID=24830
 Scythe
@@ -8480,10 +8480,10 @@ ID=26063
 Magic Attack Success Rate[Not Used]
 
 ID=26064
-Penetration Rate[%]
+Penetration Rate
 
 ID=26065
-Magic Resistance Penetration[%]
+Magic Resistance Penetration
 
 ID=26066
 Cooldown Reduction
@@ -8525,7 +8525,7 @@ ID=26078
 Damage Reduction on Long-Ranged Attacks[%]
 
 ID=26079
-Super Armor Ability Power
+Super Armor Destruction
 
 ID=26080
 SG Cost Reduction
@@ -8534,10 +8534,10 @@ ID=26081
 Increase EXP Gain[%]
 
 ID=26082
-Increase Zenny Gain Rate[%]
+Increase Zenny Gain Rate
 
 ID=26083
-Increase Soul Vapor Gain Rate[%]
+Increase Soul Vapor Gain Rate
 
 ID=26084
 Durability Usage
@@ -8684,13 +8684,13 @@ ID=26300
 5% chance to reflect {0}% damage.
 
 ID=26301
-When poisoned by Rapid Flame Faction enemies, 10% chance to heal HP by {0}
+When poisoned by Rapid Flame Faction foes, 10% chance to heal HP by {0}
 
 ID=26302
 50% chance for Damage Reduction from Puppets
 
 ID=26303
-50% chance to increase Evasion by {0} for 10 seconds when skill is used
+When a skill is used, 50% chance to increase Evasion by {0} for 10 sec
 
 ID=26304
 50% chance to gain additional Zenny when acquiring them
@@ -8702,10 +8702,10 @@ ID=26306
 HP increased by {0}% of Maximum Attack
 
 ID=26307
-Receiving a hit at less than 50% HP will increase attack by {0}% for 5 seconds.
+When being hit while under 50% HP, attack is increased by {0}% for 5 sec
 
 ID=26308
-After killing a puppet, attack power is increased by {0}% for 10 seconds.
+After killing a puppet, attack power is increased by {0}% for 10 sec
 
 ID=26309
 Reduce the cooldown of skill by {0}%
@@ -8714,31 +8714,31 @@ ID=26310
 When avoiding, recover {0}% HP.
 
 ID=26311
-When using a skill, cooldown is reduced by {0}% with 5% probability.
+When using a skill, cooldown is reduced by {0}% at a 5% chance.
 
 ID=26312
 When incapacitated, {0}% chance of being revived.
 
 ID=26313
-When hit by a critical attack, critical resistance is increased by {0} for 10 seconds.
+When hit by a critical attack, critical resistance is increased by {0} for 10 sec
 
 ID=26314
-When attacked by a Boss Monster, maximum stamina is increased by {0} for 3 seconds.
+When attacked by a Boss Monster, maximum stamina is increased by {0} for 3 sec
 
 ID=26315
-When hit,  3% probability of increasing attack power by {0}% for 3 seconds.
+When hit, 3% chance of increasing ATK by {0}% for 3 sec
 
 ID=26316
-When hit, 1% probability of increasing attack power by {0}% for 5 seconds.
+When hit, 1% chance of increasing ATK by {0}% for 5 sec
 
 ID=26317
-During a critical attack, 3% chance of penetrating the enemy's defense by {0}% for 3 seconds.
+During a critical attack, 3% chance of penetrating the enemy's DEF by {0}% for 3 sec
 
 ID=26318
-During a critical attack, 1% chance of penetrating the enemy's defense by {0}% for 5 seconds.
+During a critical attack, 1% chance of penetrating the enemy's DEF by {0}% for 5 sec
 
 ID=26319
-When attacked, 15% probability of increasing evasion by {0} for 3 seconds.
+When attacked, 15% chance of increasing evasion by {0} for 3 sec
 
 ID=26320
 During evasion, 10% probability of increasing evaded damage by {0}%.
@@ -8747,13 +8747,13 @@ ID=26321
 When hit by a critical attack, 50% chance of recovering HP by {0}.
 
 ID=26322
-When hit, 5% probability of increasing Super Armor destructive power by {0}% for 5 seconds.
+When hit, 5% chance of increasing SA destructive power by {0}% for 5 sec
 
 ID=26323
-Movement speed is increased by {0}% when in a town.
+Movement speed is increased by {0}% when in town.
 
 ID=26324
-When attacked by a Boss Monster,  10% probability of damage reduction by {0}% for 5 seconds.
+When attacked by a Boss Monster,  10% chance of damage reduction by {0}% for 5 sec
 
 ID=26325
 During evasion, the next attack is increased by {0}%.
@@ -8768,40 +8768,40 @@ ID=26328
 Increased movement speed of {0}% in a combat zone
 
 ID=26329
-When attacked, 15% probability of increasing defense by {0}% for 5 seconds.
+When attacked, 15% chance of increasing defense by {0}% for 5 sec
 
 ID=26330
-When attacked, 8% probability of increasing critical resistance by {0} for 10 seconds.
+When attacked, 8% chance of increasing critical resistance by {0} for 10 sec
 
 ID=26331
-When attacked, 20% probability of {0}% damage reflection.
+When attacked, 20% chance of {0}% damage reflection.
 
 ID=26332
-When attacked, 20% probability of a 1 second super armor effect
+When attacked, 20% chance of a 1 sec super armor effect
 
 ID=26333
-When attacked, 20% probability of a 2 second super armor effect
+When attacked, 20% chance of a 2 sec super armor effect
 
 ID=26334
-When attacked, 20% probability of a 4 second super armor effect
+When attacked, 20% chance of a 4 sec super armor effect
 
 ID=26335
-When attacked, 20% probability of a 5 second super armor effect
+When attacked, 20% chance of a 5 sec super armor effect
 
 ID=26336
-When attacked, 20% probability of a 6 second super armor effect
+When attacked, 20% chance of a 6 sec super armor effect
 
 ID=26337
 For 5 seconds, damage is decreased by {0}%.
 
 ID=26338
-While in the air, damage taken is reduced by {0}% for 5 seconds.
+While in the air, DMG taken is reduced by {0}% for 5 sec.
 
 ID=26339
-While on the ground, damage taken is reduced by {0%} for 5 seconds.
+While on the ground, DMG taken is reduced by {0%} for 5 sec.
 
 ID=26340
-At a 10% chance, while at 50% or less HP while being hit, the defense increases by {0}%.
+At a 10% chance, while at 50% or less HP while being hit, the DEF increases by {0}%.
 
 ID=26341
 When dodging, 2% chance to heal HP by {0}%.
@@ -8810,7 +8810,7 @@ ID=26342
 Using the evasion skill will have a 3% chance of recovering {0}% HP.
 
 ID=26343
-When dashing, 10% chance for 5 seconds of movement speed +{0}%
+When dashing, 10% chance for 5 sec of movement speed +{0}%
 
 ID=26344
 When using skills, 2% chance for cooldown time -{0}%
@@ -8819,10 +8819,10 @@ ID=26500
 Defense Penetration increased by {0}% for 30 seconds for every monster defeated
 
 ID=27000
-When hit,  5% probability of increasing attack power by {0}% for 3 seconds.
+When hit,  5% chance of increasing ATK by {0}% for 3 sec.
 
 ID=27001
-When attacked, 20% chance for 5 seconds of Defense +{0}%
+When attacked, 20% chance for 5 sec of Defense +{0}%
 
 ID=27002
 During a critical hit, 7% chance for 3 seconds of Critical Attack Power +{0}%
@@ -9053,7 +9053,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to by Soul Workers HQ Translation Team; version 1.02 beta.\nPlease check your guild's information for updates.
+This translation was brought to by Soul Workers HQ Translation Team; version 1.03 beta.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -9395,7 +9395,7 @@ ID=28184
 20
 
 ID=28185
-Guild Creation Fees
+Guild Creation Fee
 
 ID=28186
 100000 Zenny
@@ -10448,7 +10448,7 @@ ID=32064
 Tooltip
 
 ID=32065
-Cnd
+DUR
 
 ID=32066
 Enhance
@@ -11252,7 +11252,7 @@ ID=40166
 Please destroy the sentry linked to the defense system.
 
 ID=40167
-Stop the Sub-AI Core power source by destroying the 4 Sub-AI cores.\nDestroying the Sub-AI Core will activate the magnetic field.
+Stop the Sub-AI Core power source by destroying the 4 Sub-AI cores.\nDestroying a Sub-AI Core will activate a magnetic field.
 
 ID=40168
 The power source of the sub AI core has been stopped.
@@ -11414,16 +11414,16 @@ ID=40220
 Please evade the bomb shuttle
 
 ID=40221
-The enemies will be summoned soon.\nActivate the switch and defeat the enemies.
+Enemies will be summoned soon.\nActivate the switch and defeat the enemies.
 
 ID=40222
-The enemies will be summoned soon.
+Enemies will be summoned soon.
 
 ID=40223
 A wide-area attack will soon be fired.\nActivate the switch and stop the wide-area attack.
 
 ID=40224
-The enemies will be summoned soon.\nDestroy the center control device and stop the enemies. 
+Enemies will be summoned soon.\nDestroy the center control device and stop the enemies. 
 
 ID=40225
 Continuous enemies will be summoned.\nTo stop the summoning, destroy the summoning device.
@@ -11657,7 +11657,7 @@ ID=40301
 While operating the controller, enemies will appear.
 
 ID=40302
-While using the supporters' summoning equipment, the supporters' familiars will appear.
+While using the Supporters' summoning equipment, the Supporters' familiars will appear.
 
 ID=40303
 Neutralize the enemy to spawn the controllers.
@@ -11792,7 +11792,7 @@ ID=40433
 All the switches have been activated.
 
 ID=40434
-If you cut off the center of the sub AI core power source, the defense system will be disabled.
+If you disable the central power source, the defense system will be disabled.
 
 ID=40441
 Access road has been blocked by a huge debris. You can destroy it by activating the detonator.
@@ -13715,19 +13715,19 @@ ID=45302
 The items in possession have expired, therefore they can no longer be used.
 
 ID=45303
-Open Cube.
+Open Cube
 
 ID=45304
 A variety of items can be obtained.
 
 ID=45305
-Open General Items Cube.
+Open General Cube
 
 ID=45306
-Open Brooch Cube.
+Open Brooch Cube
 
 ID=45307
-Open A.R. Cube.
+Open A.R. Cube
 
 ID=45308
 Do you want to use {0}?
@@ -13754,7 +13754,7 @@ ID=45315
 Close
 
 ID=45316
-Cube in stock
+Current Cubes
 
 ID=45317
 Skip
@@ -14300,10 +14300,10 @@ ID=49630
 Additional Info
 
 ID=49631
-Defensive
+Attack
 
 ID=49632
-Defense Related
+Defense
 
 ID=49633
 Utility
@@ -14645,10 +14645,10 @@ ID=49994
 [{0}] requests:
 
 ID=49995
-Mission Reward
+Reward
 
 ID=49996
-Mission Reward
+Reward
 
 ID=49997
 Reward Choice(s):
@@ -15908,19 +15908,19 @@ ID=58003
 No Supporter buff was applied. Apply one first before you can claim it.
 
 ID=58004
-Not equippable with the current supporter.
+Not equippable with the current Supporter.
 
 ID=58005
 Cannot summon, on cooldown.
 
 ID=58006
-You may not summon your supporter(s) in town.
+You may not summon any Supporter in town.
 
 ID=58007
-This dungeon does not permit supporters.
+This dungeon does not permit Supporters.
 
 ID=58008
-Can't summon anymore supporters. [{0} / {1}]
+You cannot summon Supporters anymore. [{0} / {1}]
 
 ID=58101
 Steel Grave is reset daily.\n It resets at 8PM Eastern, 5PM pacific, 2AM Europe time.
@@ -16040,7 +16040,7 @@ ID=59308
 Item data could not be found.
 
 ID=60001
-Do you wish to attach the brooch [{0}] to the slot?\n Note that it cannot be removed thereafter.
+Do you wish to attach this brooch [{0}] to the slot?\n Note that it cannot be removed thereafter.
 
 ID=60002
 [{0}] has been attached to [{1}].
@@ -16052,7 +16052,7 @@ ID=60004
 This brooch being attached is mismatched to the respective slot.
 
 ID=60005
-The brooch slot order is offense, defense and utility respectively.
+The brooch slot order is attack, defense and utility respectively.
 
 ID=60006
 The brooch can't be inserted here.
