@@ -2299,6 +2299,18 @@ Restorations
 ID=1410
 Destroyed
 
+ID=1450
+{0}が{1}+{2}強化に成功しました。
+
+ID=1451
+{0}が{1}+{2}強化に失敗し、破壊されました。
+
+ID=1452
+{0}が{1}を製作しました。
+
+ID=1453
+{0}が{1}を製作しました。
+
 ID=2001
 Select a company name.
 
@@ -3638,7 +3650,7 @@ ID=6025
 Use the A.R Card Box.\nAcquired A.R cards cannot be traded.
 
 ID=6026
-Earn unique abilities by using A.R. cards.\nUsed A.R. cards will be removed from the inventory,\nand the EXP from card synthesis will also be reset.\nUsed cards will be registered on A.R. tab on [K].\nDo you really wish to use the card?
+A.Rカードを使用して固有能力を獲得します。\n使用したA.Rカードはインベントリから削除され、\n合成で得た経験値も初期化されます。\nスキルウィンドウ[K]のA.Rカードタブに登録されます。\n使用しますか？
 
 ID=6027
 Cannot use item because A.R card slots are full.
@@ -3713,10 +3725,10 @@ ID=6050
 Sort Normally
 
 ID=6051
-Strongest First
+成長レベルの高い順
 
 ID=6052
-Weakest First
+成長レベルの低い順
 
 ID=6053
 Sort by Type
@@ -4208,22 +4220,22 @@ ID=9989
 Golden Citadel
 
 ID=9990
-[Golden Citadel]Central Square
+予兆の館
 
 ID=9991
-[Golden Citadel]First(1) Area
+混沌の館
 
 ID=9992
-[Golden Citadel]Second(2) Area
+激突の館
 
 ID=9993
-[Golden Citadel]Third(3) Area
+永劫の館
 
 ID=9994
-[Golden Citadel]Fourth(4) Area
+災厄の館
 
 ID=9995
-[Golden Citadel]Sky Plaza
+終末の館
 
 ID=10011
 -
@@ -5408,10 +5420,10 @@ ID=18019
 You can dismantle up to 10 items at once.
 
 ID=18020
-Up to the last 10 marketprice going rates will show.
+取引されたアイテムが最大10個表示されます。
 
 ID=18021
-A fee of 7% is levied on all sold items.
+販売時、総販売価格の9%が手数料となります。
 
 ID=18022
 Your item is a <font color='#A566FF'>High Valued Item</font>.  You will acquire {0} upon selling it. Do you wish to sell it?
@@ -5568,6 +5580,18 @@ ID=18077
 
 ID=18078
 You can only sell 10 items at a time.
+
+ID=18079
+ブローチソケットが付いているアイテムは、インベントリに移してからしか装備できません。
+
+ID=18080
+모든 캐주얼 레이드 입장 횟수가 0회이기 때문에 사용할 수 없습니다.
+
+ID=18081
+ 현재까지 입장한 캐주얼레이드 입장 횟수는 아래와 같습니다.. \n라스트 카니발    :  {0}/3\n정크 하이브       :  {1}/3\n밴디트 하이웨이 :  {2}/3\n아이언 캐슬       :  {3}/3\n모든 캐주얼레이드의 입장 횟수를 1씩 감소 시키겠습니까?\n(0회 일 경우 0이하로 감소되지 않습니다.)
+
+ID=18082
+모든 캐주얼레이드의 입장횟수가 각각 1씩 감소하였습니다.
 
 ID=18172
 Maximum {0} Familiars attached
@@ -7099,6 +7123,9 @@ Blueprint
 ID=24019
 Familiar
 
+ID=24020
+Cultivate
+
 ID=24250
 Zenny
 
@@ -7333,6 +7360,9 @@ Furniture Material
 ID=24327
 Coating
 
+ID=24328
+Crop
+
 ID=24499
 Booker's Point
 
@@ -7523,7 +7553,7 @@ ID=24561
 Hat
 
 ID=24562
-Eye 1
+Eye
 
 ID=24563
 Mouth
@@ -7700,7 +7730,7 @@ ID=24620
 Head
 
 ID=24621
-Eye 1
+Eye
 
 ID=24622
 Mouth
@@ -7785,6 +7815,33 @@ Seal Item
 
 ID=24649
 Accessories
+
+ID=24650
+種
+
+ID=24651
+Crop
+
+ID=24652
+しおれた作物
+
+ID=24653
+腐った作物
+
+ID=24654
+植木鉢利用券
+
+ID=24655
+栽培促進
+
+ID=24656
+腐敗防止
+
+ID=24657
+栽培製作
+
+ID=24658
+ギルドマーク変更券
 
 ID=24750
 All
@@ -8222,19 +8279,19 @@ ID=25300
 Soul Gauge
 
 ID=25301
-[Haru] will recover SG upon landing a successful attack.
+[ハル]のSGは、攻撃命中時に回復します。
 
 ID=25302
 [Erwin]When you land a successful attack or use a skill successfully, you recover SG.
 
 ID=25303
-[Lily]When she enters berserk mode upon reaching a certain combo threshold, she will recover SG from all attacks.
+[リリー]のSGは、攻撃命中時に回復し、一定の数値を越えると狂気モードになります。
 
 ID=25305
 [Stella]She will quickly recover her SG when her SG is low.
 
 ID=25311
-Recover upon successfully landing a hit.
+攻撃命中時回復
 
 ID=25312
 Get Up and Dodge
@@ -8246,7 +8303,7 @@ ID=25314
 Chain Attacks and Skills
 
 ID=25315
-Recover upon successfully landing a hit.
+攻撃命中時回復
 
 ID=25316
 Going over 100% will activate enraged mode.
@@ -8696,7 +8753,7 @@ ID=26304
 50% chance to gain additional Zenny when acquiring them
 
 ID=26305
-5% chance to heal HP by {0} when attacking enemies
+攻撃命中時、5%の確率でHP{0}回復
 
 ID=26306
 HP increased by {0}% of Maximum Attack
@@ -9498,6 +9555,126 @@ On
 
 ID=28219
 Off
+
+ID=28220
+ギルド経験値
+
+ID=28221
+{0}/{1}
+
+ID=28222
+ギルドメンバーのFP消費で獲得\n1人当たり一日最大200獲得
+
+ID=28223
+Lv{0}
+
+ID=28224
+{0}%
+
+ID=28225
+ギルドメンバーのメイズクリア報酬ジェニーの1%積立
+
+ID=28226
+Fund
+
+ID=28227
+Ranking
+
+ID=28228
+Time
+
+ID=28229
+ギルドポイントを{0}獲得しました。
+
+ID=28230
+ギルドスキル{0}Lv{1}習得
+
+ID=28231
+Guild Mark
+
+ID=28232
+模様選択
+
+ID=28233
+基礎選択
+
+ID=28234
+Decoration.
+
+ID=28235
+ギルドマークを変更するには、ギルドマーク変更権が必要です。\n使用しますか？
+
+ID=28236
+ギルドマーク変更権を持っていないため、ギルドマークを変更できません。
+
+ID=28237
+ギルドマークが適用されました。
+
+ID=28238
+ギルドマークが変更されました。
+
+ID=28239
+{0}Lv{1}になりました。  \n{2}しました。
+
+ID=28240
+基本スキル
+
+ID=28241
+一般スキル
+
+ID=28242
+GP{0}/{1}
+
+ID=28243
+{0}/{1}
+
+ID=28244
+({0}GP)
+
+ID=28245
+{0}を習得しますか？\n[{1}GPと基金を{2}消費します]
+
+ID=28246
+{0}をレベルアップしますか？\n[{1}GPと基金を{2}消費します]
+
+ID=28247
+ギルド基金が不足しています。
+
+ID=28248
+倉庫を更新中です。\n[{0}秒]
+
+ID=28249
+ギルド倉庫に{0}を{1}個移動しますか？
+
+ID=28250
+インベントリに{0}を{1}個移動しますか？
+
+ID=28251
+Store
+
+ID=28252
+Withdraw
+
+ID=28253
+ギルド倉庫のレベルが足りないため、活性化できませんでした。
+
+ID=28254
+出庫するアイテムの情報がありません。
+
+ID=28255
+要請したアイテムの情報が異なります。
+
+ID=28256
+倉庫に空きがありません。
+
+ID=28257
+入庫できないタイプのアイテムです。
+
+ID=28258
+ギルド倉庫の権限がありません。
+
+ID=28259
+GP
 
 ID=29000
 Room
@@ -10718,13 +10895,124 @@ ID=33547
 The Bloodline of the Shadow
 
 ID=33548
-Soul of the Dead
+混沌の君主
 
 ID=33549
-추락하는 조화
+乱れる調和
 
 ID=33550
-새벽 빛의 영광
+夜明けの栄光
+
+ID=34000
+제 1화분
+
+ID=34001
+제 2화분
+
+ID=34002
+제 3화분
+
+ID=34003
+제 4화분
+
+ID=34004
+제 5화분
+
+ID=34005
+제 6화분
+
+ID=34006
+{0} 을 사용하기 위해서는 {1} 이 필요합니다.\n화분을 소유 하시겠습니까?
+
+ID=34007
+{0} 사용이 가능합니다.
+
+ID=34008
+{0}을 소지하지 않아 {1} 을 소유할 수 없습니다.
+
+ID=34009
+재배
+
+ID=34010
+도우미
+
+ID=34011
+{0}일
+
+ID=34012
+{0}시간 {1}분
+
+ID=34013
+{0}분
+
+ID=34014
+{0} %
+
+ID=34015
+준비중
+
+ID=34016
+재배중
+
+ID=34017
+완료
+
+ID=34018
+시듬
+
+ID=34019
+부패
+
+ID=34020
+사용
+
+ID=34021
+사용중
+
+ID=34022
+{0} 을 사용 하시겠습니까?
+
+ID=34023
+취소
+
+ID=34024
+재배 등록 가능한 아이템이 아닙니다.
+
+ID=34025
+작물 성장에 도움을 주셨습니다.
+
+ID=34026
+도움을 줄 자리가 가득 찼습니다.
+
+ID=34027
+이미 도움을 준 작물 입니다.
+
+ID=34028
+도움을 줄 수 없는 상태입니다.
+
+ID=34029
+{0} 재배를 취소 하시겠습니까?\n(재배에 사용된 재료는 회수되지 않습니다.)
+
+ID=34030
+재배완료\n{0}개의 재배 완료된 작물이 있습니다.
+
+ID=34031
+수확 성공
+
+ID=34032
+수확 대성공
+
+ID=34033
+ x{0} 획득
+
+ID=34034
+확인
+
+ID=34035
+수확 실패 : 인벤토리 공간 없음
+
+ID=34036
+수확
 
 ID=35000
 All
@@ -10857,6 +11145,15 @@ Use
 
 ID=36009
 Accept Entry
+
+ID=36010
+Menu
+
+ID=36011
+微細移動補助
+
+ID=36012
+Move
 
 ID=38000
 {0}s
@@ -11921,10 +12218,10 @@ ID=40491
 Upon neutralizing the condenser, you can prevent it from defensive functions.
 
 ID=40492
-You will receive an electric shock if you touch the cable lines exending from the electrical sphere.
+エレキボールから出ているケーブルに触れると、感電状態になります。
 
 ID=40493
-The switch to deactivate the traps and laser coils are hidden.\n The electrical spheres can be turned off by turning off two switches.
+エリア内には、レーザーコイルと罠を解除するためのスイッチが隠されています。\nエレキボールは2個のスイッチを押すことで解除できます。
 
 ID=40494
 The gate-closing switches have been activated; therefore entry to the next area is impossible. \nDestroy the condenser to the left to deactivate them.
@@ -11996,55 +12293,55 @@ ID=40516
 The lift will stop soon.
 
 ID=40601
-4 개 지역의 몬스터를 모두 처치하면 종말의 관으로 이동 가능한 포탈이 활성화 됩니다.
+4地域のモンスターを全て討伐すると、終末の館へと続くポータルが活性化します。
 
 ID=40602
-봉인 크리스탈을 사용하면 전투가 시작됩니다.
+封印のクリスタルを使用すると、戦闘が始まります。
 
 ID=40603
-잠시 후 적들이 등장합니다. 모든 적을 처치하면 이터니티가 등장합니다.
+間もなく敵が現れます。全て討伐するとエターニティが登場します。
 
 ID=40604
-잠시 후 적들이 등장합니다. 모든 적을 처치하면 저거노트가 등장합니다.
+間もなく敵が現れます。全て討伐するとジャガーノートが登場します。
 
 ID=40605
-잠시 후 적들이 등장합니다. 모든 적을 처치하면 아포칼립스 등장합니다.
+間もなく敵が現れます。全て討伐するとアポカリプスが登場します。
 
 ID=40606
-잠시 후 적들이 등장합니다. 모든 적을 처치하면 판데모니아가 등장합니다.
+間もなく敵が現れます。全て討伐するとパンデモニアが登場します。
 
 ID=40607
-영겁의 관을 클리어 하였습니다. 전조의 관으로 이동하세요
+永劫の館をクリアしました。予兆の館に移動してください。
 
 ID=40608
-격돌의 관을 클리어 하였습니다. 전조의 관으로 이동하세요
+激突の館をクリアしました。予兆の館に移動してください。
 
 ID=40609
-재앙의 관을 클리어 하였습니다. 전조의 관으로 이동하세요
+災厄の館をクリアしました。予兆の館に移動してください。
 
 ID=40610
-혼돈의 관을 클리어 하였습니다. 전조의 관으로 이동하세요
+混沌の館をクリアしました。予兆の館に移動してください。
 
 ID=40611
-종말의 관을 클리어 하였습니다. 전조의 관을 통해 디스트릭트로 이동할 수 있습니다.
+終末の館をクリアしました。予兆の館から町に移動できます。
 
 ID=40612
-보온장치를 사용하면 동상효과를 제거할 수 있습니다.
+保温装置を使用すると、凍傷効果を防ぐことができます。
 
 ID=40613
-5 초안에 4 개의 보온장치를 모두 사용하게 되면 보온장치 주변에 빙결효과를 막아주는 지역이 생성됩니다.
+5秒以内に保温装置を4つ全て使用すると、周辺に氷結効果を防ぐ地域が生成されます。
 
 ID=40614
-재화의 틀 위에 생성된 플레임 크리스탈을 파괴하면 용암분출을 정지시킬 수 있습니다.
+災禍の陣上に生成されたフレイムクリスタルを破壊すると、溶岩の噴出を止めることができます。
 
 ID=40615
-이터니티가 빛기둥을 통과하게 되면 방어력이 대폭 감소됩니다.
+エターニティが光の柱を通過すると防御力が大幅に減少します。
 
 ID=40616
-뇌전 효과는 주변 아군에게 강력한 피해를 줍니다. \n 골드 오벨리스크를 이용하면 뇌전 효과를 제거할 수 있습니다.
+雷電効果は、近くの味方に大ダメージを与えます。 \nゴールドオベリスクを利用すると、雷電効果を除去できます。
 
 ID=40617
-판데믹 덴드로비움 처치 시 모든 중독상태를 해제할 수 있습니다.
+パンデミックデンドロビウム討伐時、中毒状態を解除できます。
 
 ID=42000
 Jack King
@@ -12851,13 +13148,13 @@ ID=42267
 Lightning Speed Fanged Wolf Kain
 
 ID=42268
-Kain μ
+カインμ
 
 ID=42269
-Fanged Wolf Kain μ
+牙狼カインμ
 
 ID=42270
-Micro Whirlwind Fang Wolf Cain
+疾風迅雷の牙狼カインμ
 
 ID=42271
 Big Puppet
@@ -12869,13 +13166,13 @@ ID=42273
 Self Destructing Big Puppet of Destruction
 
 ID=42274
-Big Puppet μ
+ビッグパペットμ
 
 ID=42275
-The Disastrous Giant, Big Puppet μ
+災厄の巨人ビッグパペットμ
 
 ID=42276
-Self Destructing Big Puppet of Destruction μ
+破滅の自爆兵器ビッグパペットμ
 
 ID=42277
 Giant Asphalt Golem
@@ -12887,13 +13184,13 @@ ID=42279
 Howling Giant Stone Asphalt Golem
 
 ID=42280
-Giant Asphalt Golem μ
+巨神アスファルトゴーレムμ
 
 ID=42281
 灰色の岩アスファルトゴーレム μ
 
 ID=42282
-Howling Giant Stone Asphalt Golem μ
+咆哮の巨岩アスファルトゴーレムμ
 
 ID=42283
 Demon Eyed Mad Beholder
@@ -12905,13 +13202,13 @@ ID=42285
 Triple Colored Demon Eyed Mad Beholder
 
 ID=42286
-Devil Eyed Mad Beholder μ
+魔眼マッドビホールダーμ
 
 ID=42287
 Triple Colored Eyed Mad Beholder μ
 
 ID=42288
-Triple Colored Demon Eyed Mad Beholder μ
+三色魔眼マッドビホールダーμ
 
 ID=42289
 Rapid Flames Faction
@@ -12923,13 +13220,13 @@ ID=42291
 Flame of Swiftness Rapid Flame
 
 ID=42292
-Rapid Flame μ
+ラピッドフレイムμ
 
 ID=42293
-Rapid Flame Blazing Squadron μ
+神速のラピッドフレイムμ
 
 ID=42294
-Flame of Swiftness Rapid Flame μ
+神速の炎ラピッドフレイムμ
 
 ID=42295
 Glutton
@@ -12996,6 +13293,42 @@ Violent Intentional Carlaμ
 
 ID=42316
 Blood Absorption's Edge Chaser μ
+
+ID=42317
+Queen Carra
+
+ID=42318
+Mysterious Queen Carra
+
+ID=42319
+蒼空の覇者クイーンカルラ
+
+ID=42320
+クイーンカルラμ
+
+ID=42321
+怪鳥クイーンカルラμ
+
+ID=42322
+蒼空の覇者クイーンカルラμ
+
+ID=42323
+Dr. Sedeyurin
+
+ID=42324
+Head Dr. Sedeyurin
+
+ID=42325
+怠惰なる兵器開発者セデュリン
+
+ID=42326
+セデュリンμ
+
+ID=42327
+主席博士セデュリンμ
+
+ID=42328
+怠惰なる兵器開発者セデュリンμ
 
 ID=43139
 Diligent Kidnapper
@@ -13397,22 +13730,34 @@ ID=43298
 [S] Dusk Cherry Blossom Miriam
 
 ID=43299
-[S] 그루톤 군단
+[S]グルトン軍団
 
 ID=43300
-[SH] 그루톤 군단
+[SH]グルトン軍団
 
 ID=43301
-[S] 체이서
+[S]チェイサー
 
 ID=43302
-[SH] 체이서
+[SH]チェイサー
 
 ID=43303
-[S] 인텐션 가루라
+[S]インテンションカルラ
 
 ID=43304
-[SH] 인텐션 가루라
+[SH]インテンションカルラ
+
+ID=43305
+[S] Queen Carla
+
+ID=43306
+[SH] Queen Carla
+
+ID=43307
+[S] Sedurin
+
+ID=43308
+[SH] Sedurin
 
 ID=45000
 Item Mall
@@ -13448,7 +13793,7 @@ ID=45010
 Purchase Hancoin
 
 ID=45011
-Buy
+一括購入
 
 ID=45012
 Return
@@ -13502,7 +13847,7 @@ ID=45028
 Day(s)
 
 ID=45029
-Sale Type
+販売個数
 
 ID=45030
 Unit
@@ -13655,7 +14000,7 @@ ID=45121
 Preview
 
 ID=45122
-Clear
+カート初期化
 
 ID=45123
 Change Appearance
@@ -14393,7 +14738,7 @@ ID=49783
 Start Registeration
 
 ID=49790
-http://soulworker.hangame.co.jp/community/noticebbs.nhn?m=read&view=&bbsid=2510&bbstype=notice&page=1&docid=9594364
+http://soulworker.hangame.co.jp/community/noticebbs.nhn?m=read&view=&bbsid=2510&bbstype=notice&page=1&docid=9594364 
 
 ID=49912
 -Mission Failed- \n Leaving dungeon\n in (0} seconds-
@@ -15895,6 +16240,24 @@ Blocked users cannot be invited to the guild.
 ID=57043
 You rejected the guild invitation.
 
+ID=57044
+리그 위임 조건에 만족하지 않습니다.
+
+ID=57045
+리그 마크 변경에 실패하였습니다.
+
+ID=57046
+리그 스킬이 없습니다.
+
+ID=57047
+리그 레벨 조건이 맞지 않아 습득할 수 없습니다.
+
+ID=57048
+리그 스킬 포인트가 부족합니다.
+
+ID=57049
+리그 기금이 부족합니다.
+
 ID=58000
 The NPC does not exist in the next area.
 
@@ -15956,7 +16319,7 @@ ID=58204
 Room entrance failure.
 
 ID=58205
-While tidying up the room, the guests have been removed.
+入室マイルームが配置モードになったため、入室できません。
 
 ID=58206
 Somebody's having fun. A party? Well, it's full. Sorry.
@@ -15989,10 +16352,10 @@ ID=58301
 Please enter the sale price.
 
 ID=58302
-Only five items can be listed on the market at a time.
+出品可能数を超過しました。出品可能数は最大10個までです。
 
 ID=58303
-Only five items can be queued in the item showcase at a time.
+出品待機数を超過しました。出品待機数は最大10個までです。
 
 ID=58304
 The item's listing period elapsed; failed to make the purchase.

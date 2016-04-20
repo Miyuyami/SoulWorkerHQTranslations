@@ -1122,19 +1122,19 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=6011
 Grim Countdown Trait A I
-When attack is successful, recover HP from 4% of the damage dealt.
+攻撃命中時、ダメージ量の4%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6012
 Grim Countdown Trait A II
-When attack is successful, recover HP from 8% of the damage dealt.
+攻撃命中時、ダメージ量の8%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6013
 Grim Countdown Trait A III
-When attack is successful, recover HP from 16% of the damage dealt.
+攻撃命中時、ダメージ量の16%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
@@ -1182,25 +1182,25 @@ Critical Rate Increased
 
 ID=6042
 Force Region II
-Critical Rate +8%.
+クリティカル率が9%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate Increased
 
 ID=6043
 Force Region III
-Critical rate +10%.
+Critical Rate +12%.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate Increased
 
 ID=6044
 Force Region IV
-Critical Rate +12%.
+Critical Rate +15%.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate Increased
 
 ID=6045
 Force Region V
-Critical Rate +15%.
+クリティカル率が20%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate Increased
 
@@ -1374,31 +1374,31 @@ Movement Speed Reduce
 
 ID=6531
 Decade Pulse I
-Upon successfully landing a hit, you will be healed for 100% of the damage dealt.
+攻撃命中時、ダメージ量の100%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6532
 Decade Pulse II
-Upon successfully landing a hit, you will be healed for 100% of the damage dealt.
+攻撃命中時、ダメージ量の100%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6533
 Decade Pulse III
-Upon successfully landing a hit, you will be healed for 100% of the damage dealt.
+攻撃命中時、ダメージ量の100%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6534
 Decade Pulse IV
-Upon successfully landing a hit, you will be healed for 100% of the damage dealt.
+攻撃命中時、ダメージ量の100%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6535
 Decade Pulse V
-Upon successfully landing a hit, you will be healed for 100% of the damage dealt.
+攻撃命中時、ダメージ量の100%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
@@ -1434,31 +1434,31 @@ HP Recovery
 
 ID=6541
 Best Tempo I
-When attack is successful, recover HP from 6% of the damage dealt.
+攻撃命中時、ダメージ量の6%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6542
 Best Tempo II
-When attack is successful, recover HP from 8% of the damage dealt.
+攻撃命中時、ダメージ量の8%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6543
 Best Tempo III
-When attack is successful, recover HP from 10% of the damage dealt.
+攻撃命中時、ダメージ量の10%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6544
 Best Tempo IV
-When attack is successful, recover HP from 12% of the damage dealt.
+攻撃命中時、ダメージ量の12%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6545
 Best Tempo V
-When attack is successful, recover HP from 15% of the damage dealt.
+攻撃命中時、ダメージ量の15%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
@@ -2454,7 +2454,7 @@ Attack Power Increase
 
 ID=30474
 Movement Speed Increase
-Attack Power +5% for 60 seconds
+60秒間、移動速度が5%増加する。
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed Increase
 
@@ -2796,7 +2796,7 @@ Defense Increase
 
 ID=50031
 正確な急所突きLv1
-When attacked, 1% chance for 2 seconds of Critical Rate +20%.
+攻撃命中時、1%の確率で2秒間、クリティカル率が20%上昇する。
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate Increased
 
@@ -2808,7 +2808,7 @@ Attack Power Increase
 
 ID=50051
 一挙入魂Lv1
-Upon successfully landing a hit, you have a 1% chance to stun normal / elite monsters.
+攻撃命中時、一般・エリートモンスターに1%の確率で1秒間、スタン効果を付与する。
 Icon/Buff/Icon_Common_Debuff_Stun
 Stun
 
@@ -2826,13 +2826,13 @@ HP Recovery
 
 ID=50071
 心眼Lv1
-攻撃成功時、1%の確率で命中度が10%下落し、攻撃力が20%上昇する。
+攻撃命中時、1%の確率で命中度が10%下落し、攻撃力が20%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
 
 ID=50101
 バキュームLv1
-Upon a successful Critical Hit, you have a 10% chance of recovering 2% of your HP.
+クリティカル命中時、10%の確率でHPが2%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
@@ -2850,7 +2850,7 @@ HP Recovery
 
 ID=50141
 Self-recover power Lv.1
-Upon successfully landing a hit, 1% chance of recovering stamina by 10%.
+攻撃命中時、1%の確率でスタミナが10%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 Stamina recovery
 
@@ -2862,7 +2862,7 @@ SG Recovery
 
 ID=50161
 ビクターの法則Lv1
-Upon successfully landing a hit, you have a 1% chance to increase accuracy by 20% for 2 seconds.
+攻撃命中時、1%の確率で2秒間、命中度が20%上昇する。
 Icon/Buff/Icon_Common_Buff_Accuracy
 Accuracy increase.
 
@@ -2892,7 +2892,7 @@ Attack Power Increase
 
 ID=50211
 復讐鬼Lv1
-Upon a successful Critical Hit, you have a 5% chance for all following attacks to be Critical Hits for 2 seconds.
+クリティカル命中時、5%の確率で2秒間、全ての攻撃がクリティカルになる。
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate Increased
 
@@ -2922,13 +2922,13 @@ Defense Increase
 
 ID=53023
 正確な急所突きⅠ
-When hit, 5% for 2 seconds of Critical Rate +20%. (Cooldown for 15 seconds)
+攻撃命中時、5%の確率で2秒間、クリティカル率が20%上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate Increased
 
 ID=53031
 正確な急所突きⅡ
-When hit, 10% for 3 seconds of Critical Rate +20%. (Cooldown for 15 seconds)
+攻撃命中時、10%の確率で3秒間、クリティカル率が20%上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate Increased
 
@@ -2946,7 +2946,7 @@ Attack Power Increase
 
 ID=53041
 一挙入魂Ⅰ
-When hit, 3% chance for 3 seconds,Character will get Super Armor.(Cooldown for 15 seconds)
+攻撃命中時、3%の確率で3秒間、スーパーアーマー状態になる。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Super Armor
 
@@ -2964,13 +2964,13 @@ Movement Speed Increase
 
 ID=53051
 心眼Ⅰ
-When hit, 4% chance of recovering HP by 5%.(Cooldown for 1 minute)
+攻撃命中時、4%の確率でHPが5%回復する。(クールタイム1分)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53052
 心眼Ⅱ
-When hit, 5% chance of recovering HP by 5%.(Cooldown for 1 minute)
+攻撃命中時、5%の確率でHPが5%回復する。(クールタイム1分)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
@@ -2988,19 +2988,19 @@ Attack Power Increase
 
 ID=53072
 バキュームⅠ
-Upon a successful Critical Hit, you have a 3% chance of recovering 2% of your HP. (15 second cooldown)
+クリティカル命中時、3%の確率でHPが2%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53073
 バキュームⅡ
-Upon a successful Critical Hit, you have a 6% chance of recovering 3% of your HP. (15 second cooldown)
+クリティカル命中時、6%の確率でHPが3%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53081
 バキュームⅢ
-When critical hit, 9% chance of recovering HP by 4% (Cooldown for 15 seconds)
+クリティカル命中時、9%の確率でHPが4%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
@@ -3024,13 +3024,13 @@ SG Recovery
 
 ID=53112
 自己回復力Ⅰ
-When hit, 5% chance of recovering stamina by 5% (Cooldown for 10 seconds) 
+攻撃命中時、5%の確率でスタミナが5%回復する。（クールタイム10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina recovery
 
 ID=53113
 自己回復力Ⅱ
-When hit, 5% chance of recovering stamina by 10% (Cooldown for 10 seconds) 
+攻撃命中時、5%の確率でスタミナが10%回復する。（クールタイム10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina recovery
 
@@ -3048,13 +3048,13 @@ SG Recovery
 
 ID=53123
 ビクターの法則Ⅰ
-When hit, 4% chance for 2 seconds of Accuracy +200. (Cooldown for 15 seconds)
+攻撃命中時、4%の確率で2秒間、命中度が200上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
 ID=53131
 ビクターの法則Ⅱ
-When hit, 5% chance for 2 seconds of Accuracy +250. (Cooldown for 15 seconds)
+攻撃命中時、5%の確率で2秒間、命中度が250上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
@@ -3096,19 +3096,19 @@ Attack Power Increase
 
 ID=53152
 復讐鬼Ⅰ
-Upon a successful critical hit, you have a 5% chance to make all attacks critical for 2 seconds. (30 second cooldown)
+クリティカル命中時、5%の確率で2秒間、全ての攻撃がクリティカルに固定される効果が発生する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate Increased
 
 ID=53153
 猛攻四連Ⅰ
-When hit, 10% chance for 3 seconds of Attack Speed +10% (Cooldown for 10 seconds)
+攻撃命中時、10%の確率で3秒間、攻撃速度が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
 ID=53161
 猛攻四連Ⅱ
-When hit, 10% chance for 5 seconds of Attack Speed +10% (Cooldown for 10 seconds)
+攻撃命中時、10%の確率で5秒間、攻撃速度が10%上昇する。（クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
@@ -3162,13 +3162,13 @@ Attack Power Increase
 
 ID=53201
 轟音Ⅰ
-空中攻撃成功時、50%の確率でHPが3%回復する。(クールタイム40秒)
+空中攻撃命中時、50%の確率でHPが3%回復する。(クールタイム40秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53202
 轟音Ⅱ
-空中攻撃成功時、50%の確率でHPが6%回復する。(クールタイム30秒)
+空中攻撃命中時、50%の確率でHPが6%回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
@@ -3180,13 +3180,13 @@ Stamina recovery
 
 ID=53211
 怪鳥の翼Ⅰ
-When hit, 15% chance for 3 seconds of Defense +50% (Cooldown for 10 seconds)
+攻撃命中時、15%の確率で3秒間、防御度が50%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53212
 怪鳥の翼Ⅱ
-When hit, 20% chance for 5 seconds of Defense +50% (Cooldown for 10 seconds)
+攻撃命中時、20%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
@@ -3216,13 +3216,13 @@ HP Recovery
 
 ID=53231
 ソウルドレインⅠ
-When hit, 4% chance of SG recovering by 10% (Cooldown for 30 seconds)
+攻撃命中時、4%の確率でSGが10%回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53232
 ソウルドレインⅡ
-When hit, 5% chance of SG recovering by 10% (Cooldown for 30 seconds)
+攻撃命中時、5%の確率でSGが10%回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
@@ -3282,7 +3282,7 @@ Stamina recovery
 
 ID=53301
 決死の攻撃Ⅰ
-When hit, defense -50% , attack power +15% for 5 seconds. (Cooldown for 30 seconds)
+攻撃命中時、5秒間、防御度が50%減少し、攻撃力が15%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
@@ -3300,13 +3300,13 @@ SG Recovery
 
 ID=53311
 ラッシュの時間Ⅰ
-10% chance of Attack Speed +10% for 4 seconds upon landing a successful critical hit. (40 second cooldown)
+クリティカル命中時、10%の確率で4秒間、攻撃速度が10%上昇する。(クールタイム40秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
 ID=53312
 ラッシュの時間Ⅱ
-10% chance of Attack Speed +10% for 6seconds upon landing a successful critical hit. (40 second cooldown)
+クリティカル命中時、10%の確率で6秒間、攻撃速度が10%上昇する。(クールタイム40秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
@@ -3324,25 +3324,25 @@ Accuracy increase.
 
 ID=53322
 ブレイキングメッセージⅠ
-When critical hit, 5% chance for 3 seconds of Defense +100% (Cooldown for 10 seconds)
+クリティカル命中時、5%の確率で3秒間、防御度が100%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53323
 ブレイキングメッセージⅡ
-When critical hit, 10% chance for 3 seconds of Defense +100% (Cooldown for 10 seconds)
+クリティカル命中時、10%の確率で3秒間、防御度が100%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53331
 クリティカルパワーⅠ
-When critical hit, 50% chance for 2 seconds of Attack Power +3% (Cooldown for 1 minute)
+クリティカル命中時、50%の確率で2秒間、攻撃力が3%上昇する。(クールタイム1秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53332
 クリティカルパワーⅡ
-When critical hit, 50% chance for 2 seconds of Attack Power +4% (Cooldown for 1 minute)
+クリティカル命中時、50%の確率で2秒間、攻撃力が4%上昇する。(クールタイム1秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
@@ -3414,13 +3414,13 @@ Invincible
 
 ID=53392
 桃園の誓いⅠ
-5% chance of Attack Power +10% and Move Speed -50% for 5 seconds. (10 second cooldown)
+クリティカル命中時、5%の確率で5秒間、攻撃力が10%上昇、移動速度が50%減少する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53403
 サイレントヒーリングⅠ
-空中攻撃成功時、スタミナを5%回復する。(クールタイム1分)
+空中攻撃命中時、スタミナを5%回復する。(クールタイム1分)
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina recovery
 
@@ -3474,13 +3474,13 @@ Defense Increase
 
 ID=53433
 吹き飛べⅠ
-When hit, 10% chance for 3 seconds of Attack Speed and Movement Speed +5% (Cooldown for 10 seconds)
+攻撃命中時、10%の確率で3秒間、攻撃速度と移動速度が5%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
 ID=53441
 吹き飛べⅡ
-When hit, 10% chance for 5 seconds of Attack Speed and Movement Speed +5% (Cooldown for 10 seconds)
+攻撃命中時、10%の確率で5秒間、攻撃速度と移動速度が5%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
@@ -3498,13 +3498,13 @@ Accuracy increase.
 
 ID=53451
 筋力は衰えないⅠ
-When critical hit, Attack Power +10% for 3 seconds. (Cooldown for 10 seconds)
+クリティカル命中時、3秒間、攻撃力が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53452
 筋力は衰えないⅡ
-When critical hit, Attack Power +15% for 3 seconds. (Cooldown for 10 seconds)
+クリティカル命中時、3秒間、攻撃力が15%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
@@ -3816,37 +3816,37 @@ Defense Increase
 
 ID=53569
 正確な急所突きⅠ
-When hit, 5% chance for 2.5 seconds of Critical Rate +20% (Cooldown for 10 seconds)
+攻撃命中時、5%の確率で2.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate Increased
 
 ID=53570
 正確な急所突きⅡ
-When hit, 10% chance for 3.5 seconds of Critical Rate +20% (Cooldown for 10 seconds)
+攻撃命中時、10%の確率で3.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate Increased
 
 ID=53571
 正確な急所突きⅢ
-When hit, 15% chance for 4.5 seconds of Critical Rate +20% (Cooldown for 10 seconds)
+攻撃命中時、15%の確率で4.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate Increased
 
 ID=53572
 正確な急所突きⅠ
-When hit, 10% chance for 2.5 seconds of Critical Rate +20% (Cooldown for 10 seconds)
+攻撃命中時、10%の確率で2.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate Increased
 
 ID=53573
 正確な急所突きⅡ
-When hit, 15% chance for 3.5 seconds of Critical Rate +20% (Cooldown for 10 seconds)
+攻撃命中時、15%の確率で3.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate Increased
 
 ID=53574
 正確な急所突きⅢ
-When hit, 20% chance for 4.5 seconds of Critical Rate +20% (Cooldown for 10 seconds)
+攻撃命中時、20%の確率で4.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate Increased
 
@@ -3924,37 +3924,37 @@ Movement Speed Increase
 
 ID=53587
 心眼Ⅰ
-攻撃成功時、7%の確率で即時にHPが10%回復する。(クールタイム60秒)
+攻撃命中時、7%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53588
 心眼Ⅱ
-攻撃成功時、12%の確率で即時にHPが10%回復する。(クールタイム60秒)
+攻撃命中時、12%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53589
 心眼Ⅲ
-攻撃成功時、17%の確率で即時にHPが10%回復する。(クールタイム60秒)
+攻撃命中時、17%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53590
 心眼Ⅰ
-攻撃成功時、9%の確率で即時にHPが10%回復する。(クールタイム60秒)
+攻撃命中時、9%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53591
 心眼Ⅱ
-攻撃成功時、14%の確率で即時にHPが10%回復する。(クールタイム60秒)
+攻撃命中時、14%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53592
 心眼Ⅲ
-攻撃成功時、19%の確率で即時にHPが10%回復する。(クールタイム60秒)
+攻撃命中時、19%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
@@ -3996,37 +3996,37 @@ Attack Power Increase
 
 ID=53599
 自己回復力Ⅰ
-攻撃成功時、5%の確率でスタミナが7%回復する。
+攻撃命中時、5%の確率でスタミナが7%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina recovery
 
 ID=53600
 自己回復力Ⅱ
-攻撃成功時、5%の確率でスタミナが12%回復する。
+攻撃命中時、5%の確率でスタミナが12%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina recovery
 
 ID=53601
 自己回復力Ⅲ
-When hit, 5% chance of Stamina recovering by 17%
+攻撃命中時、5%の確率でスタミナが17%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina recovery
 
 ID=53602
 自己回復力Ⅰ
-When hit, 5% chance of Stamina recovering by 9%
+攻撃命中時、5%の確率でスタミナが9%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina recovery
 
 ID=53603
 自己回復力Ⅱ
-When hit, 5% chance of Stamina recovering by 14%
+攻撃命中時、5%の確率でスタミナが14%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina recovery
 
 ID=53604
 自己回復力Ⅲ
-When hit, 5% chance of Stamina recovering by 19%
+攻撃命中時、5%の確率でスタミナが19%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina recovery
 
@@ -4068,37 +4068,37 @@ SG Recovery
 
 ID=53611
 ビクターの法則Ⅰ
-When hit, 7% chance for 4 seconds of Accuracy +250.(Cooldown for 10 seconds)
+攻撃命中時、7%の確率で4秒間、命中度が200上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
 ID=53612
 ビクターの法則Ⅱ
-When hit, 7% chance for 4 seconds of Accuracy +250.(Cooldown for 10 seconds)
+攻撃命中時、7%の確率で4秒間、命中度が250上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
 ID=53613
 ビクターの法則Ⅲ
-When hit, 7% chance for 4 seconds of Accuracy +300.(Cooldown for 10 seconds)
+攻撃命中時、7%の確率で4秒間、命中度が300上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
 ID=53614
 ビクターの法則Ⅰ
-When hit, 9% for 4 seconds of Accuracy +250.(Cooldown for 10 seconds)
+攻撃命中時、9%の確率で4秒間、命中度が250上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
 ID=53615
 ビクターの法則Ⅱ
-When hit, 9% for 4 seconds of Accuracy +300.(Cooldown for 10 seconds)
+攻撃命中時、9%の確率で4秒間、命中度が300上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
 ID=53616
 ビクターの法則Ⅲ
-When hit, 9% for 4 seconds of Accuracy +350.(Cooldown for 10 seconds)
+攻撃命中時、9%の確率で4秒間、命中度が350上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
@@ -4176,37 +4176,37 @@ Attack Power Increase
 
 ID=53629
 猛攻四連Ⅰ
-When attacking, 15% chance for 2.5 seconds of Attack Speed +3%. (Maximum only 3 stacks)
+攻撃命中時、15%の確率で2.5秒間、攻撃速度が3%上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
 ID=53630
 猛攻四連Ⅱ
-When attacking, 15% chance for 3 seconds of Attack Speed +3%. (Maximum only 3 stacks)
+攻撃命中時、15%の確率で3秒間、攻撃速度が3%上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
 ID=53631
 猛攻四連Ⅲ
-When attacking, 15% chance for 3.5 seconds of Attack Speed +3%. (Maximum only 3 stacks)
+攻撃命中時、15%の確率で3.5秒間、攻撃速度が3%上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
 ID=53632
 猛攻四連Ⅰ
-When attacking, 15% chance for 2.5 seconds of Attack Speed +5%. (Maximum only 3 stacks)
+攻撃命中時、15%の確率で2.5秒間、攻撃速度が5%上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
 ID=53633
 猛攻四連Ⅱ
-When attacking, 15% chance for 3.5 seconds of Attack Speed +5%. (Maximum only 3 stacks)
+攻撃命中時、15%の確率で3.5秒間、攻撃速度が5%上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
 ID=53634
 猛攻四連Ⅲ
-When attacking, 15% chance for 4.5 seconds of Attack Speed +5%. (Maximum only 3 stacks)
+攻撃命中時、15%の確率で4.5秒間、攻撃速度が5%上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
@@ -4272,75 +4272,147 @@ HP Increase
 
 ID=53652
 奇襲のプロⅠ
-クリティカル成功時、5%の確率でSGが10%回復する。（クールタイム30秒）
+クリティカル命中時、20%の確率でSGが10%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53653
 奇襲のプロⅡ
-クリティカル成功時、5%の確率でSGが13%回復する。（クールタイム30秒）
+クリティカル命中時、20%の確率でSGが13%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53654
 奇襲のプロⅢ
-クリティカル成功時、7%の確率でSGが16%回復する。（クールタイム30秒）
+クリティカル命中時、20%の確率でSGが16%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53655
 奇襲のプロⅠ
-クリティカル成功時、6%の確率でSGが12%回復する。（クールタイム30秒）
+クリティカル命中時、20%の確率でSGが12%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53656
 奇襲のプロⅡ
-クリティカル成功時、8%の確率でSGが15%回復する。（クールタイム30秒）
+クリティカル命中時、20%の確率でSGが15%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53657
 奇襲のプロⅢ
-クリティカル成功時、10%確率でSGが18%回復する。（クールタイム30秒）
+クリティカル命中時、20%の確率でSGが18%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53658
-轟音Ⅰ
-空中攻撃成功時、30%の確率でHPが1%回復する。（クールタイム50秒）
+翼動Ⅰ
+空中攻撃失敗時、60%の確率でHPが5%回復する。（クールタイム40秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53659
-轟音Ⅱ
-空中攻撃成功時、50%の確率でHPが1%回復する。（クールタイム40秒）
+翼動Ⅱ
+空中攻撃失敗時、70%の確率でHPが7%回復する。（クールタイム35秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53660
-轟音Ⅲ
-空中攻撃成功時、70%の確率でHPが2%回復する。（クールタイム30秒）
+翼動Ⅲ
+空中攻撃失敗時、80%の確率でHPが9%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53661
-轟音Ⅰ
-空中攻撃成功時、50%の確率でHPが1%回復する。（クールタイム45秒）
+翼動Ⅰ
+空中攻撃失敗時、70%の確率でHPが6%回復する。（クールタイム40秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53662
-轟音Ⅱ
-空中攻撃成功時、70%の確率でHPが2%回復する。（クールタイム35秒）
+翼動Ⅱ
+空中攻撃失敗時、80%の確率でHPが8%回復する。（クールタイム35秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53663
-轟音Ⅲ
-空中攻撃成功時、90%の確率でHPが3%回復する。（クールタイム25秒）
+翼動Ⅲ
+空中攻撃失敗時、90%の確率でHPが10%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
+
+ID=53664
+怪鳥の翼Ⅰ
+命中時、10%の確率で次の一撃の攻撃力が5%増加する。(クールタイム8秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Power Increase
+
+ID=53665
+怪鳥の翼Ⅱ
+命中時、10%の確率で次の一撃の攻撃力が7%増加する。(クールタイム8秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Power Increase
+
+ID=53666
+怪鳥の翼Ⅲ
+命中時、10%の確率で次の一撃の攻撃力が10%増加する。(クールタイム8秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Power Increase
+
+ID=53667
+怪鳥の翼Ⅰ
+命中時、10%の確率で次の一撃の攻撃力が6%増加する。(クールタイム8秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Power Increase
+
+ID=53668
+怪鳥の翼Ⅱ
+命中時、10%の確率で次の一撃の攻撃力が10%増加する。(クールタイム8秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Power Increase
+
+ID=53669
+怪鳥の翼Ⅲ
+命中時、10%の確率で次の一撃の攻撃力が15%増加する。(クールタイム8秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Power Increase
+
+ID=53670
+物質変換Ⅰ
+アイテム獲得時、4秒間、攻撃力が20%上昇する。(クールタイム30秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Power Increase
+
+ID=53671
+物質変換Ⅱ
+アイテム獲得時、7秒間、攻撃力が20%上昇する。(クールタイム30秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Power Increase
+
+ID=53672
+物質変換Ⅲ
+アイテム獲得時、11秒間、攻撃力が20%上昇する。(クールタイム30秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Power Increase
+
+ID=53673
+物質変換Ⅰ
+アイテム獲得時、4秒間、攻撃力が25%上昇する。(クールタイム30秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Power Increase
+
+ID=53674
+物質変換Ⅱ
+アイテム獲得時、7秒間、攻撃力が25%上昇する。(クールタイム30秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Power Increase
+
+ID=53675
+物質変換Ⅲ
+アイテム獲得時、11秒間、攻撃力が25%上昇する。(クールタイム30秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Power Increase
 
 ID=55002
 ビックリボックスⅢ
