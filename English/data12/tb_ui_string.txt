@@ -59,7 +59,7 @@ ID=20
 Reset
 
 ID=21
-Invade
+Enter
 
 ID=22
 End Conversation
@@ -128,7 +128,7 @@ ID=62
 Enhance
 
 ID=63
-Socket Brooch
+Brooch Socketable
 
 ID=90
 Haru
@@ -650,7 +650,7 @@ ID=418
 Evolve
 
 ID=419
-Socket Brooch
+Brooch Socketable
 
 ID=421
 Show only usable equipment
@@ -680,7 +680,7 @@ ID=435
 Show only usable equipment
 
 ID=436
-Basic Materials
+Basic Material
 
 ID=437
 Additional Materials
@@ -782,7 +782,7 @@ ID=476
 Result
 
 ID=477
-Score
+Total Score
 
 ID=478
 Clear Score
@@ -794,7 +794,7 @@ ID=480
 Difficulty
 
 ID=481
-Longest Combo
+Max Combo
 
 ID=482
 Clear\nReward
@@ -851,7 +851,7 @@ ID=502
 Pass Leader
 
 ID=503
-Expel Party Member
+Kick Member
 
 ID=504
 Leave Party
@@ -1511,10 +1511,10 @@ ID=807
 Brooch Details
 
 ID=808
-Socket Brooch
+Wearable Part
 
 ID=809
-Brooch Socketable
+No Brooch Added
 
 ID=811
 Attach Socket Item
@@ -1676,7 +1676,7 @@ ID=883
 Do you want to dismantle {0}?
 
 ID=884
-Are you sure you want to dismantle the\n item(s)?
+Are you sure that you want to\ndismantle the item(s)?
 
 ID=885
 Selected items are of<font color='#A566FF'>high rarity</font>.\nIf you hit confirm, selected item will be dismantled and they will not be able to be restored. Would you like to dismantle anyway?
@@ -2270,7 +2270,7 @@ ID=1400
 NED Company
 
 ID=1401
-Starry Forest Coalition
+Starry Forest League
 
 ID=1402
 Nihilum Kingdom Gang
@@ -2291,7 +2291,7 @@ ID=1407
 Shadow Junk
 
 ID=1408
-Sealed Count
+Seal Count
 
 ID=1409
 Restorations
@@ -2930,7 +2930,7 @@ ID=4000
 Unread Mail
 
 ID=4001
-You have {0} unread mail(s). Please check with HEMS.
+You have {0} unread mail(s). Please check at HEMS.
 
 ID=4002
 Skill Unlocked
@@ -3284,7 +3284,7 @@ ID=5802
 <font color='#FFFFFF' size='30'>TIP: </font>Various shops in towns can <font color='#00D8FF'>[repair]</font> your equipment or <font color='#00D8FF'>[dismantle]</font> them.
 
 ID=5803
-<font color='#FFFFFF' size='30'>TIP: </font>When using shops from NPCs, <font color='#00D8FF'>[Favorability Level]</font>will increase.\nSpecial benefits will be given depending on Favorability Level.
+<font color='#FFFFFF' size='30'>TIP: </font>When using shops from NPCs, <font color='#00D8FF'>[Favorability Level]</font> will increase.\nSpecial benefits will be given depending on Favorability Level.
 
 ID=5804
 <font color='#FFFFFF' size='30'>TIP: </font>Talking to <font color='#00ff9c'>[Trisha]</font>, you can <font color='#00D8FF'>[exchange]</font> or <font color='#00D8FF'>[enhance]</font> materials/equipment.
@@ -3473,7 +3473,7 @@ ID=5865
 <font color='#FFFFFF' size='30'>TIP: </font>Various shops in towns can <font color='#00D8FF'>[repair]</font> your equipment or <font color='#00D8FF'>[dismantle]</font> them.
 
 ID=5866
-<font color='#FFFFFF' size='30'>TIP: </font>When using shops from NPCs, <font color='#00D8FF'>[Favorability Level]</font>will increase.\nSpecial benefits will be given depending on Favorability Level.
+<font color='#FFFFFF' size='30'>TIP: </font>When using shops from NPCs, <font color='#00D8FF'>[Favorability Level]</font> will increase.\nSpecial benefits will be given depending on Favorability Level.
 
 ID=5867
 <font color='#FFFFFF' size='30'>TIP: </font>Talking to <font color='#00ff9c'>[Trisha]</font>, you can <font color='#00D8FF'>[exchange]</font> or <font color='#00D8FF'>[enhance]</font> materials/equipment.
@@ -3581,7 +3581,7 @@ ID=5901
 <font color='#FFFFFF' size='30'>TIP: </font>At the Item Mall, you can purchase <font color='#00D8FF'>[Fashion Items]</font> to change the outward look of your character.
 
 ID=5902
-<font color='#FFFFFF' size='30'>TIP: </font>If you character reaches 0 <color='#00D8FF'>[HP]</font>, it will become incapacitated and unable to fight. Be careful!
+<font color='#FFFFFF' size='30'>TIP: </font>If your character reaches 0 <color='#00D8FF'>[HP]</font>, it will become incapacitated and unable to fight. Be careful!
 
 ID=5903
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[SG]</font> (Soul Gauge) is the source of your power.\nUsing a skill will consume SG. Each character has their own way of recovering SG.
@@ -5159,7 +5159,7 @@ ID=16803
 Selling
 
 ID=16804
-Sell Product(s)
+Sell Product
 
 ID=16805
 {0}/{1}/{2}\n{3}: {4}
@@ -5426,7 +5426,7 @@ ID=18027
 Sealable
 
 ID=18028
-Sealed Count
+Seal Count
 
 ID=18029
 Sealing Stamp
@@ -5435,7 +5435,7 @@ ID=18030
 Would you like to seal{0}?\nSeal Limit: {1}.
 
 ID=18031
-Sealed Count
+Seal Count
 
 ID=18032
 Equipment could not be registered on the Familiar; the level is too high.
@@ -5588,7 +5588,7 @@ ID=18177
 Enhances
 
 ID=18178
-Sealed Count
+Seal Count
 
 ID=18179
 Restorations
@@ -5906,7 +5906,7 @@ ID=21009
 Crafting fee decreased by {0}{1}.
 
 ID=21010
-Crafting materials cost reduced by {0}.
+Crafting materials cost reduced by {0}%
 
 ID=21011
 Enhancing fee decreased by {0}{1}.
@@ -6071,7 +6071,7 @@ ID=21511
 Summon
 
 ID=21512
-Recall
+Desummon
 
 ID=21513
 Details
@@ -6197,7 +6197,7 @@ ID=21553
 Toggle Settings
 
 ID=21554
-Desummon
+Recall
 
 ID=21555
 Summonable on solo play.
@@ -7328,7 +7328,7 @@ ID=24325
 Furniture Blueprint
 
 ID=24326
-Furniture Materials
+Furniture Material
 
 ID=24327
 Coating
@@ -7850,7 +7850,7 @@ ID=24770
 All
 
 ID=24771
-Technical-type
+Utility
 
 ID=24772
 Zenny
@@ -7970,7 +7970,7 @@ ID=24810
 Enhancement Item
 
 ID=24811
-Furniture Materials
+Furniture Material
 
 ID=24812
 Supporter Weapon
@@ -9053,7 +9053,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to by Soul Workers HQ Translation Team; version 1.0.3.4 beta.\nPlease check your guild's information for updates.
+This translation was brought to by Soul Workers HQ Translation Team; version 1.0.3.5.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -11291,7 +11291,7 @@ ID=40179
 When a cube switch is used, a hidden switch will appear.
 
 ID=40180
-When you use the control device, you can rotate the Floating Square.
+When you use the control device, you can rotate the floating platform.
 
 ID=40181
 When you use the control device, you can activate the Floating Bridge.
@@ -11948,7 +11948,7 @@ ID=40500
 Upon turning on the switch, the elevator can be used to move to the arc ship's command room.
 
 ID=40501
-The floating square is in operation. Please wait for a while.
+The floating platform is in operation. Please wait for a while.
 
 ID=40502
 The buster core has stopped.
@@ -12071,7 +12071,7 @@ ID=42007
 Wild Stone
 
 ID=42008
-Brock
+Block
 
 ID=42009
 Strategic Blockade Operation
@@ -12626,7 +12626,7 @@ ID=42192
 Little Rock Spirit, Wild Stone μ
 
 ID=42193
-Brock
+Block
 
 ID=42194
 Strategic Blockade Operation
@@ -13043,7 +13043,7 @@ ID=43006
 Wild Stone
 
 ID=43008
-Brock
+Block
 
 ID=43010
 Warlike
@@ -13313,10 +13313,10 @@ ID=43190
 [SH]Wild Stone
 
 ID=43193
-[S]Brock
+[S]Block
 
 ID=43196
-[SH]Brock
+[SH]Block
 
 ID=43199
 [S]Warlike
