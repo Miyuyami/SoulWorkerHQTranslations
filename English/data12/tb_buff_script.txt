@@ -840,7 +840,7 @@ Stamina Usage Reduce
 
 ID=5500
 Erosion I
-All attacks will do maximum damage. Attack speed +30%. Movement Speed +20%. Gain super armor.
+All attacks do maximum damage. ATK speed +30%. Move Speed +20%. Gain super armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -962,19 +962,19 @@ ID=5536
 Guided Shot Trait B I
 Defense -10% for 4 seconds.
 Icon/Buff/Icon_Common_Debuff_Def
-Defense Reduce
+Reduced Defense
 
 ID=5537
 Guided Shot Trait B II
 Defense -10% for 6 seconds.
 Icon/Buff/Icon_Common_Debuff_Def
-Defense Reduce
+Reduced Defense
 
 ID=5538
 Guided Shot Trait B III
 Defense -0% for 8 seconds.
 Icon/Buff/Icon_Common_Debuff_Def
-Defense Reduce
+Reduced Defense
 
 ID=5541
 Sprinter I
@@ -1122,19 +1122,19 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=6011
 Grim Countdown Trait A I
-攻撃命中時、ダメージ量の4%HPを回復する。
+When hitting with an attack, recover 4% of damage as HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6012
 Grim Countdown Trait A II
-攻撃命中時、ダメージ量の8%HPを回復する。
+When hitting with an attack, recover 8% of damage as HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6013
 Grim Countdown Trait A III
-攻撃命中時、ダメージ量の16%HPを回復する。
+When hitting with an attack, recover 16% of damage as HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
@@ -1256,31 +1256,31 @@ ID=6511
 Trouble Path I
 Defense -10%.
 Icon/Buff/Icon_Common_Debuff_Def
-Defense Reduce
+Reduced Defense
 
 ID=6512
 Trouble Path II
 Defense -15%.
 Icon/Buff/Icon_Common_Debuff_Def
-Defense Reduce
+Reduced Defense
 
 ID=6513
 Trouble Path III
 Defense -20%.
 Icon/Buff/Icon_Common_Debuff_Def
-Defense Reduce
+Reduced Defense
 
 ID=6514
 Trouble Path IV
 Defense -25%.
 Icon/Buff/Icon_Common_Debuff_Def
-Defense Reduce
+Reduced Defense
 
 ID=6515
 Trouble Path V
 Defense -30%.
 Icon/Buff/Icon_Common_Debuff_Def
-Defense Reduce
+Reduced Defense
 
 ID=6516
 Trouble Path I
@@ -1322,25 +1322,25 @@ ID=6522
 Decade Pulse II
 Defense -30%.
 Icon/Buff/Icon_Common_Debuff_Def
-Defense Reduce
+Reduced Defense
 
 ID=6523
 Decade Pulse III
 Defense -45%.
 Icon/Buff/Icon_Common_Debuff_Def
-Defense Reduce
+Reduced Defense
 
 ID=6524
 Decade Pulse IV
 Defense -60%.
 Icon/Buff/Icon_Common_Debuff_Def
-Defense Reduce
+Reduced Defense
 
 ID=6525
 Decade Pulse V
 Defense -80%.
 Icon/Buff/Icon_Common_Debuff_Def
-Defense Reduce
+Reduced Defense
 
 ID=6526
 Decade Pulse I
@@ -1374,31 +1374,31 @@ Movement Speed Reduce
 
 ID=6531
 Decade Pulse I
-攻撃命中時、ダメージ量の100%HPを回復する。
+When hitting with an attack, recover 100% of damage as HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6532
 Decade Pulse II
-攻撃命中時、ダメージ量の100%HPを回復する。
+When hitting with an attack, recover 100% of damage as HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6533
 Decade Pulse III
-攻撃命中時、ダメージ量の100%HPを回復する。
+When hitting with an attack, recover 100% of damage as HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6534
 Decade Pulse IV
-攻撃命中時、ダメージ量の100%HPを回復する。
+When hitting with an attack, recover 100% of damage as HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6535
 Decade Pulse V
-攻撃命中時、ダメージ量の100%HPを回復する。
+When hitting with an attack, recover 100% of damage as HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
@@ -1434,31 +1434,31 @@ HP Recovery
 
 ID=6541
 Best Tempo I
-攻撃命中時、ダメージ量の6%HPを回復する。
+When hitting with an attack, recover 6% of damage as HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6542
 Best Tempo II
-攻撃命中時、ダメージ量の8%HPを回復する。
+When hitting with an attack, recover 8% of damage as HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6543
 Best Tempo III
-攻撃命中時、ダメージ量の10%HPを回復する。
+When hitting with an attack, recover 10% of damage as HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6544
 Best Tempo IV
-攻撃命中時、ダメージ量の12%HPを回復する。
+When hitting with an attack, recover 12% of damage as HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6545
 Best Tempo V
-攻撃命中時、ダメージ量の15%HPを回復する。
+When hitting with an attack, recover 15% of damage as HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
@@ -1944,7 +1944,7 @@ Critical Rate Increased
 
 ID=22005
 怒涛/強靭
-Attack Power +15% and Defense +100% for 5 minutes.
+Attack +15% and Defense +100% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_Reg
 Enhance
 
@@ -2579,8 +2579,8 @@ Icon/Buff/Icon_Common_Debuff_Weakness
 Weakness
 
 ID=35303
-Defense Reduce
-Defense Reduce for 15 seconds
+Reduced Defense
+Reduced Defense for 15 seconds
 Icon/Buff/Icon_Common_Debuff_Def
 装甲溶解
 
@@ -2654,7 +2654,7 @@ ID=39021
 Love Everywhere
 Defense -50% for 5 seconds.
 Icon/Buff/Icon_Common_Debuff_Def
-Defense Reduce
+Reduced Defense
 
 ID=39022
 Poison
@@ -2682,7 +2682,7 @@ Attack Power Increase
 
 ID=39026
 鉄壁
-Defense Power increase.
+Increased Defense.
 Icon/Buff/Icon_Common_Buff_Def
 Defense Increase
 
@@ -2790,25 +2790,25 @@ Icon/Buff/Icon_PC_Buff_ExpBoost
 
 ID=50021
 硬皮化Lv1
-5% chance of Defense +50% for 1 second when hit by an enemy attack.
+5% chance of Defense +50% for 1 second when hit by an enemy.
 Icon/Buff/Icon_Common_Buff_Def
 Defense Increase
 
 ID=50031
 正確な急所突きLv1
-攻撃命中時、1%の確率で2秒間、クリティカル率が20%上昇する。
+When hitting with an attack, 1% chance of Critical Rate +20% for 2 seconds.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate Increased
 
 ID=50041
 好戦の証明Lv1
-5% chance of Attack Power +10% for 2 seconds when hit by an enemy attack. (10 second cooldown)
+5% chance of Attack Power +10% for 2 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
 
 ID=50051
 一挙入魂Lv1
-攻撃命中時、一般・エリートモンスターに1%の確率で1秒間、スタン効果を付与する。
+When hitting a normal or elite monster, you have a 1% chance to stun for 1 second.
 Icon/Buff/Icon_Common_Debuff_Stun
 Stun
 
@@ -2856,7 +2856,7 @@ Stamina recovery
 
 ID=50151
 急速カルシウム補給Lv1
-5% chance of recovering 15% of your SG per second for 2 seconds when hit by an enemy attack.
+5% chance of recovering 15% of your SG per second for 2 sec. when hit by an enemy.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Recovery
 
@@ -2868,7 +2868,7 @@ Accuracy increase.
 
 ID=50171
 魔眼解放Lv1
-5% chance of triggering invincibility for 1 second when hit by an enemy attack.
+5% chance of triggering invincibility for 1 second when hit by an enemy.
 Icon/Buff/Icon_Common_Buff_Immun
 Invincible
 
@@ -2880,13 +2880,13 @@ Stamina recovery
 
 ID=50201
 俊敏なマッチョLv1
-5% chance of Evasion +20% for 2 seconds when hit by an enemy attack.
+5% chance of Evasion +20% for 2 seconds when hit by an enemy.
 Icon/Buff/Icon_Common_Buff_Accuracy
 回避度増加
 
 ID=50191
 ガルスの逆鱗Lv1
-5% chance of Attack Power +10% for 2 seconds when hit by an enemy attack.
+5% chance of Attack Power +10% for 2 seconds when hit by an enemy.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power Increase
 
@@ -2910,13 +2910,13 @@ HP Recovery
 
 ID=53021
 Hard Skin I
-5% chance of Defense +50% for 1 second when hit by an enemy attack. (10 second cooldown)
+5% chance of Defense +50% for 1 sec when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53022
 Hard Skin II
-10% chance of Defense +50% for 1 second when hit by an enemy attack. (10 second cooldown)
+10% chance of Defense +50% for 1 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
@@ -2934,13 +2934,13 @@ Critical Rate Increased
 
 ID=53032
 好戦の証明Ⅰ
-5% chance of Attack Power +8% for 2 seconds when hit by an enemy attack. (10 second cooldown)
+5% chance of Attack Power +8% for 2 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53033
 好戦の証明Ⅱ
-10% chance of Attack Power +8% for 3 seconds when hit by an enemy attack. (10 second cooldown)
+10% chance of Attack Power +8% for 3 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
@@ -2976,13 +2976,13 @@ HP Recovery
 
 ID=53053
 攻撃の儀式Ⅰ
-3% chance of Attack Power +10% for 2 seconds when jumping. (15 second cooldown)
+3% chance of Attack Power +10% for 2 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53061
 攻撃の儀式Ⅱ
-5% chance of Attack Power +10% for 2 seconds when jumping. (15 second cooldown)
+5% chance of Attack Power +10% for 2 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
@@ -3006,19 +3006,19 @@ HP Recovery
 
 ID=53082
 魂のジャンプⅠ
-10% chance of recovering 5% SG when jumping. (10 second cooldown)
+10% chance of recovering 5% SG when jumping. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53083
 魂のジャンプⅡ
-10% chance of recovering 10% SG when jumping. (10 second cooldown)
+10% chance of recovering 10% SG when jumping. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53091
 魂のジャンプⅢ
-10% chance of recovering 20% SG when jumping. (10 second cooldown)
+10% chance of recovering 20% SG when jumping. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
@@ -3036,13 +3036,13 @@ Stamina recovery
 
 ID=53121
 急速カルシウム補給Ⅰ
-5% chance of recovering 10% of your SG when hit by an enemy attack. (20 second cooldown)
+5% chance of recovering 10% of your SG when hit by an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53122
 急速カルシウム補給Ⅱ
-10% chance of recovering 10% of your SG when hit by an enemy attack. (20 second cooldown)
+10% chance of recovering 10% of your SG when hit by an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
@@ -3060,37 +3060,37 @@ Accuracy increase.
 
 ID=53132
 魔眼解放Ⅰ
-5% chance of triggering invincibility for 1 second when hit by an enemy attack. (10 second cooldown)
+5% chance of triggering invincibility for 1 second when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Invincible
 
 ID=53133
 Sky High I
-10% chance of recovering 5% Stamina when jumping. (10 second cooldown)
+10% chance of recovering 5% Stamina when jumping. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina recovery
 
 ID=53141
 ガルスの逆鱗Ⅰ
-5% chance of Evasion +200 for 2 seconds when hit by an enemy attack. (10 second cooldown)
+5% chance of Evasion +200 for 2 seconds when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53142
 ガルスの逆鱗Ⅱ
-5% chance of Evasion +200 for 3 seconds when hit by an enemy attack. (10 second cooldown)
+5% chance of Evasion +200 for 3 seconds when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53143
 俊敏なマッチョⅠ
-5% chance of Attack Power +6% for 3 seconds when hit by enemy attack. (10 second cooldown)
+5% chance of Attack Power +6% for 3 seconds when hit by enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53151
 俊敏なマッチョⅡ
-5% chance of Attack Power +12% for 3 seconds when hit by an enemy attack. (10 second cooldown)
+5% chance of Attack Power +12% for 3 seconds when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
@@ -3120,13 +3120,13 @@ Defense Increase
 
 ID=53163
 紅き烙印Ⅰ
-Accuracy +500 for 3 seconds upon receiving a Critical Hit from an enemy attack. (30 second cooldown)
+Accuracy +500 for 3 seconds upon receiving a Critical Hit from an enemy. (30 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
 ID=53171
 紅き烙印Ⅱ
-Accuracy +500 for 5 seconds upon receiving a Critical Hit from an enemy attack. (20 second cooldown)
+Accuracy +500 for 5 seconds upon receiving a Critical Hit from an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
@@ -3174,7 +3174,7 @@ HP Recovery
 
 ID=53203
 秘蔵の呼吸法Ⅰ
-Recover 5% stamina when hit by an enemy attack. (20 second cooldown)
+Recover 5% stamina when hit by an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina recovery
 
@@ -3204,13 +3204,13 @@ Attack Power Increase
 
 ID=53222
 一点集中Ⅰ
-5% chance of Attack Power -10% and Attack Speed +15% for 2 seconds when hit by an enemy attack. (30 second cooldown)
+5% chance of ATK Power -10% and ATK Speed +15% for 2 sec. when hit by an enemy. (30 s. CD)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
 ID=53223
 怪我はするほど強くなるⅠ
-10% chance of recovering 5% HP when hit by an enemy attack. (10 second cooldown)
+10% chance of recovering 5% HP when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
@@ -3228,13 +3228,13 @@ SG Recovery
 
 ID=53243
 肉を切らせて骨を断つⅠ
-10% chance of Attack Power +5% for 5 seconds when hit by an enemy attack. (10 second cooldown)
+10% chance of Attack Power +5% for 5 seconds when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53251
 肉を切らせて骨を断つⅡ
-20% chance of Attack Power +5% for 5 seconds when hit by an enemy attack. (10 second cooldown)
+20% chance of Attack Power +5% for 5 seconds when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
@@ -3246,25 +3246,25 @@ HP Recovery
 
 ID=53281
 踊る影Ⅰ
-Recover 10% stamina when hit by an enemy attack. (10 second cooldown)
+Recover 10% stamina when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53282
 踊る影Ⅱ
-Recover 20% stamina when hit by an enemy attack. (10 second cooldown)
+Recover 20% stamina when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53283
 シールド出力全開Ⅰ
-Defense +100% and Attack Power -70% for 2 seconds when hit by an enemy attack. (30 second cooldown)
+Defense +100% and Attack Power -70% for 2 sec. when hit by an enemy. (30 sec. CD)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53291
 シールド出力全開Ⅱ
-Defense +100% and Attack Power -50% for 4 seconds when hit by an enemy attack. (30 second cooldown)
+Defense +100% and Attack Power -50% for 4 sec. when hit by an enemy. (30 sec. CD)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
@@ -3312,13 +3312,13 @@ Attack Speed Increase
 
 ID=53313
 軽いけど正確にⅠ
-20% chance of Accuracy +1000 and Attack Power -20% for 5 seconds when hit by an enemy attack. (1 minute cooldown)
+20% chance of ACC +1000 and ATK Power -20% for 5 sec. when hit by an enemy. (1 min. CD)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
 ID=53321
 軽いけど正確にⅡ
-20% chance of Accuracy +1000 and Attack Power -15% for 5 seconds when hit by an enemy attack. (1 minute cooldown)
+20% chance of ACC +1000 and ATK Power -15% for 5 sec. when hit by an enemy. (1 min. CD)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
@@ -3348,13 +3348,13 @@ Attack Power Increase
 
 ID=53333
 ランニングチャージⅠ
-10% chance of recovering 10% SG when dashing. (5 second cooldown)
+10% chance of recovering 10% SG when dashing. (5 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53341
 ランニングチャージⅡ
-20% chance of recovering 10% SG when dashing. (3 second cooldown)
+20% chance of recovering 10% SG when dashing. (3 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
@@ -3378,31 +3378,31 @@ Accuracy increase.
 
 ID=53362
 痛くても我慢Ⅰ
-10% chance of recovering 3% HP when hit by an enemy attack. (30 second cooldown)
+10% chance of recovering 3% HP when hit by an enemy. (30 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53363
 静寂の暗殺者Ⅰ
-10% chance of Attack Power +5% for 3 seconds after killing an enemy. (15 second cooldown)
+10% chance of Attack Power +5% for 3 seconds after killing an enemy. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
 ID=53371
 静寂の暗殺者Ⅱ
-10% chance of Attack Power +5% for 5 seconds after killing an enemy. (10 second cooldown)
+10% chance of Attack Power +5% for 5 seconds after killing an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
 ID=53372
 ラッキーデイⅠ
-Attack Power +10% for 2 seconds upon receiving a Critical Hit from an enemy attack. (10 second cooldown)
+Attack Power +10% for 2 sec. when Critical Hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53373
 ラッキーデイⅡ
-Attack Power +10% for 2 seconds upon receiving a Critical Hit from an enemy attack. (5 second cooldown)
+Attack Power +10% for 2 sec. when Critical Hit by an enemy. (5 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
@@ -3432,7 +3432,7 @@ Attack Speed Increase
 
 ID=53412
 ハイヒールな気分Ⅰ
-Movement speed +10% for 5 seconds when jumping. (10 second cooldown)
+Movement speed +10% for 5 seconds when jumping. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed Increase
 
@@ -3450,25 +3450,25 @@ Attack Power Increase
 
 ID=53422
 作用反作用の法則Ⅰ
-20% chance of Attack Power +10% for 3 seconds upon receiving a Critical Hit from an enemy attack. (10 second cooldown)
+20% chance of Attack Power +10% for 3 sec. when Critical Hit by an enemy. (10 sec. CD)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53423
 ヒットアンドアウェイⅠ
-30% chance of evasion +100 for 5 seconds after an enemy fails to hit with an attack. (1 minute cooldown)
+30% chance of evasion +100 for 5 sec. after an enemy fails to hit with an attack. (1 min. CD)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53431
 鉄壁の鎧Ⅰ
-40% chance of Defense +20% for 5 seconds after an ally uses a skill. (20 second cooldown)
+40% chance of Defense +20% for 5 seconds after an ally uses a skill. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53432
 鉄壁の鎧Ⅱ
-40% chance of Defense +30% for 5 seconds after an ally uses a skill. (20 second cooldown)
+40% chance of Defense +30% for 5 seconds after an ally uses a skill. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
@@ -3486,13 +3486,13 @@ Attack Speed Increase
 
 ID=53442
 戦闘タイプ分析Ⅰ
-10% chance of Accuracy +500 for 5 seconds after using a skill. (10 second cooldown)
+10% chance of Accuracy +500 for 5 seconds after using a skill. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
 ID=53443
 戦闘タイプ分析Ⅱ
-10% chance of Accuracy +600 for 5 seconds after using a skill. (10 second cooldown)
+10% chance of Accuracy +600 for 5 seconds after using a skill. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
@@ -3522,25 +3522,25 @@ Attack Power Increase
 
 ID=53462
 オタクの底力Ⅰ
-20% chance of HP +3% and SG +3% per second for 5 seconds when hit by an enemy attack. (10 second cooldown)
+20% chance of HP & SG +3% per sec for 5 sec when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53463
 オタクの底力Ⅱ
-20% chance of HP +5% and SG +5% per second for 5 seconds when hit by an enemy attack. (10 second cooldown)
+20% chance of HP & SG +5% per sec for 5 sec when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP Recovery
 
 ID=53471
 殴られ屋Ⅰ
-50% chance of Attack Power +1% for 60 seconds when hit by an enemy attack. (1 second cooldown; maximum 3 stacks)
+50% chance of Attack Power +1% for 60 sec. when hit by an enemy. (1 sec. CD; max. 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53472
 殴られ屋Ⅱ
-100% chance of Attack Power +1% for 60 seconds when hit by an enemy attack. (1 second cooldown; maximum 5 stacks)
+100% chance of Attack Power +1% for 60 sec. when hit by an enemy. (1 sec. CD; max. 5 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
@@ -3780,37 +3780,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53563
 Hard Skin I
-5% chance of Defense +50% for 5 seconds when hit by an enemy attack. (10 second cooldown)
+5% chance of Defense +50% for 5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53564
 Hard Skin II
-10% chance of Defense +50% for 5 seconds when hit by an enemy attack. (10 second cooldown)
+10% chance of Defense +50% for 5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53565
 硬皮化Ⅲ
-15% chance of Defense +50% for 5 seconds when hit by an enemy attack. (10 second cooldown)
+15% chance of Defense +50% for 5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53566
 Hard Skin I
-10% chance of Defense +50% for 5 seconds when hit by an enemy attack. (10 second cooldown)
+10% chance of Defense +50% for 5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53567
 Hard Skin II
-15% chance of Defense +50% for 5 seconds when hit by an enemy attack. (10 second cooldown)
+15% chance of Defense +50% for 5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53568
 硬皮化Ⅲ
-20% chance of Defense +50% for 5 seconds when hit by an enemy attack. (10 second cooldown)
+20% chance of Defense +50% for 5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
@@ -3852,37 +3852,37 @@ Critical Rate Increased
 
 ID=53575
 好戦の証明Ⅰ
-5% chance of Attack Power +10% for 2.5 seconds when hit by an enemy attack. (10 seconds cooldown)
+5% chance of Attack Power +10% for 2.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53576
 好戦の証明Ⅱ
-10% chance of Attack Power +10% for 3.5 seconds when hit by an enemy attack. (10 second cooldown)
+10% chance of Attack Power +10% for 3.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53577
 好戦の証明Ⅲ
-15% chance of Attack Power +10% for 4.5 seconds when hit by an enemy attack. (10 second cooldown)
+15% chance of Attack Power +10% for 4.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53578
 好戦の証明Ⅰ
-10% chance of Attack Power +10% for 2.5 seconds when hit by an enemy attack. (10 second cooldown)
+10% chance of Attack Power +10% for 2.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53579
 好戦の証明Ⅱ
-15% chance of Attack Power +10% for 3.5 seconds when hit by an enemy attack. (10 second cooldown)
+15% chance of Attack Power +10% for 3.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53580
 好戦の証明Ⅲ
-20% chance of Attack Power +10% for 4.5 seconds when hit by an enemy attack. (10 second cooldown)
+20% chance of Attack Power +10% for 4.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
@@ -3960,37 +3960,37 @@ HP Recovery
 
 ID=53593
 攻撃の儀式Ⅰ
-15% chance of Attack Power +10% for 4 seconds when jumping. (15 second cooldown)
+15% chance of Attack Power +10% for 4 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53594
 攻撃の儀式Ⅱ
-20% chance of Attack Power +10% for 4 seconds when jumping. (15 second cooldown)
+20% chance of Attack Power +10% for 4 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53595
 攻撃の儀式Ⅲ
-25% chance of Attack Power +10% for 4 seconds when jumping. (15 second cooldown)
+25% chance of Attack Power +10% for 4 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53596
 攻撃の儀式Ⅰ
-20% chance of Attack Power +10% for 4 seconds when jumping. (15 second cooldown)
+20% chance of Attack Power +10% for 4 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53597
 攻撃の儀式Ⅱ
-25% chance of Attack Power +10% for 4 seconds when jumping. (15 second cooldown)
+25% chance of Attack Power +10% for 4 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53598
 攻撃の儀式Ⅲ
-30% chance of Attack Power +10% for 4 seconds when jumping. (15 second cooldown)
+30% chance of Attack Power +10% for 4 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
@@ -4032,37 +4032,37 @@ Stamina recovery
 
 ID=53605
 急速カルシウム補給Ⅰ
-7% chance of recovering 15% SG when hit by an enemy attack. (20 second cooldown)
+7% chance of recovering 15% SG when hit by an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53606
 急速カルシウム補給Ⅱ
-12% chance of recovering 15% SG when hit by an enemy attack. (20 second cooldown)
+12% chance of recovering 15% SG when hit by an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53607
 急速カルシウム補給Ⅲ
-17% chance of recovering 15% SG when hit by an enemy attack. (20 second cooldown)
+17% chance of recovering 15% SG when hit by an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53608
 急速カルシウム補給Ⅰ
-9% chance of recovering 15% SG when hit by an enemy attack. (20 second cooldown)
+9% chance of recovering 15% SG when hit by an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53609
 急速カルシウム補給Ⅱ
-14% chance of recovering 15% SG when hit by an enemy attack. (20 second cooldown)
+14% chance of recovering 15% SG when hit by an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
 ID=53610
 急速カルシウム補給Ⅲ
-19% chance of recovering 15% SG when hit by an enemy attack. (20 second cooldown)
+19% chance of recovering 15% SG when hit by an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Recovery
 
@@ -4104,73 +4104,73 @@ Accuracy increase.
 
 ID=53617
 ガルスの逆鱗Ⅰ
-5% chance of Evasion +500 for 2 seconds when hit by an enemy attack. (10 second cooldown)
+5% chance of Evasion +500 for 2 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53618
 ガルスの逆鱗Ⅱ
-5% chance of Evasion +500 for 3 seconds when hit by an enemy attack. (10 second cooldown)
+5% chance of Evasion +500 for 3 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53619
 ガルスの逆鱗Ⅲ
-5% chance of Evasion +500 for 4 seconds when hit by an enemy attack. (10 second cooldown)
+5% chance of Evasion +500 for 4 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53620
 ガルスの逆鱗Ⅰ
-9% chance of Evasion +500 for 3 seconds when hit by an enemy attack. (10 second cooldown)
+9% chance of Evasion +500 for 3 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53621
 ガルスの逆鱗Ⅱ
-9% chance of Evasion +500 for 4 seconds when hit by an enemy attack. (10 second cooldown)
+9% chance of Evasion +500 for 4 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53622
 ガルスの逆鱗Ⅲ
-9% chance of Evasion +500 for 5 seconds when hit by an enemy attack. (10 second cooldown)
+9% chance of Evasion +500 for 5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53623
 俊敏なマッチョⅠ
-7% chance of Attack Power +10% for 2 seconds when hit by an enemy attack. (10 second cooldown)
+7% chance of Attack Power +10% for 2 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53624
 俊敏なマッチョⅡ
-7% chance of Attack Power +15% for 2.5 seconds when hit by an enemy attack. (10 second cooldown)
+7% chance of Attack Power +15% for 2.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53625
 俊敏なマッチョⅢ
-7% chance of Attack Power +20% for 3 seconds when hit by an enemy attack. (10 second cooldown)
+7% chance of Attack Power +20% for 3 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53626
 俊敏なマッチョⅠ
-9% chance of Attack Power +10% for 3.5 seconds when hit by an enemy attack. (10 second cooldown)
+9% chance of Attack Power +10% for 3.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53627
 俊敏なマッチョⅡ
-9% chance of Attack Power +15% for 4 seconds when hit by an enemy attack. (10 second cooldown)
+9% chance of Attack Power +15% for 4 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
 ID=53628
 俊敏なマッチョⅢ
-9% chance of Attack Power +20% for 4.5 seconds when hit by an enemy attack. (10 second cooldown)
+9% chance of Attack Power +20% for 4.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power Increase
 
@@ -4212,37 +4212,37 @@ Attack Speed Increase
 
 ID=53635
 紅き烙印Ⅰ
-Accuracy +500 for 7 seconds upon receiving a Critical Hit from an enemy attack. (20 second cooldown)
+Accuracy +500 for 7 sec. when Critical Hit by an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
 ID=53636
 紅き烙印Ⅱ
-Accuracy +500 for 12 seconds upon receiving a Critical Hit from an enemy attack. (20 second cooldown)
+Accuracy +500 for 12 sec. when Critical Hit by an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
 ID=53637
 紅き烙印Ⅲ
-Accuracy +500 for 17 seconds upon receiving a Critical Hit from an enemy attack. (20 second cooldown)
+Accuracy +500 for 17 sec. when Critical Hit by an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
 ID=53638
 紅き烙印Ⅰ
-Accuracy +500 for 9 seconds upon receiving a Critical Hit from an enemy attack. (20 second cooldown)
+Accuracy +500 for 9 sec. when Critical Hit by an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
 ID=53639
 紅き烙印Ⅱ
-Accuracy +500 for 14 seconds upon receiving a Critical Hit from an enemy attack. (20 second cooldown)
+Accuracy +500 for 14 sec. when Critical Hit by an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
 ID=53640
 紅き烙印Ⅲ
-Accuracy +500 for 19 seconds upon receiving a Critical Hit from an enemy attack. (20 second cooldown)
+Accuracy +500 for 19 sec. when Critical Hit by an enemy. (20 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy increase.
 
@@ -4418,7 +4418,7 @@ ID=55002
 ビックリボックスⅢ
 Defense -50% for 30 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense Reduce
+Reduced Defense
 
 ID=55005
 スネークショック
@@ -4724,7 +4724,7 @@ ID=63023
 Defense Reduce
 Defense -100% for 10 minutes.
 Icon/Buff/Icon_Common_Debuff_Def
-Defense Reduce
+Reduced Defense
 
 ID=63024
 HP Reduce
@@ -4866,6 +4866,6 @@ HP Reduce
 
 ID=63047
 HP Reduce
-HP -15% per 2 seconds
+HP -15% for every 2 seconds.
 0
 HP Reduce
