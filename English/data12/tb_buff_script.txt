@@ -42,7 +42,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=103
 Enhancement
-Attack Power +10% for 10 seconds.
+Attack +10% for 10 seconds.
 Icon/Buff/Icon_Common_Buff_ATK
 0
 
@@ -114,9 +114,9 @@ HP Recovery
 
 ID=302
 Guard Crash
-Attack Power +10% for 10 seconds.
+Attack +10% for 10 seconds.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=303
 Defense Mode
@@ -732,7 +732,7 @@ Silence
 
 ID=5000
 Erosion I
-Attack Power +20%. Damage taken -50%. Movement speed +20%. Gain super armor.
+Attack +20%. Damage taken -50%. Movement speed +20%. Gain super armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -780,33 +780,33 @@ Movement Speed Reduce
 
 ID=5031
 Arena Rush I
-Attack Power +7%.
+Attack +7%.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=5032
 Arena Rush II
-Attack Power is +9%.
+Attack +9%.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=5033
 Arena Rush III
-Attack Power +12%.
+Attack +12%.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=5034
 Arena Rush IV
-Attack Power +15%.
+Attack +15%.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=5035
 Arena Rush V
-Attack Power +20%.
+Attack +20%.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=5041
 Blow-up I
@@ -1098,7 +1098,7 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=6005
 Mad Reaper of Death
-Attack Power and Critical Rate are increased.
+Attack and Critical Rate are increased.
 Icon/Buff/Icon_Common_Buff_Reg
 0
 
@@ -1800,27 +1800,27 @@ SG Recovery
 
 ID=21001
 Raging
-Attack Power +5% for 5 minutes.
+Attack +5% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=21002
 Raging
-Attack Power +7% for 5 minutes.
+Attack +7% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=21003
 Raging
-Attack Power +10% for 5 minutes.
+Attack +10% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=21004
 Raging
-Attack Power +5% for 3 minutes.
+Attack +5% for 3 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=21011
 Toughen
@@ -1920,9 +1920,9 @@ Invincible
 
 ID=22001
 Raging
-Attack Power +12% for 5 minutes.
+Attack +12% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=22002
 Toughen
@@ -2010,9 +2010,9 @@ Stamina recovery
 
 ID=25001
 Raging
-Attack Power +5% for 1 minute.
+Attack +5% for 1 minute.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=25002
 Toughen
@@ -2034,7 +2034,7 @@ HP Recovery
 
 ID=30001
 Kill Command
-Attack Power +10% for 20 seconds.
+Attack +10% for 20 seconds.
 Icon/Buff/Icon_Common_Buff_ATK
 Increase Attack
 
@@ -2082,9 +2082,9 @@ Stun
 
 ID=30009
 Bloody Rage
-Attack Power +100% for 1 minute.
+Attack +100% for 1 minute.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=30010
 Shadow of Revenge
@@ -2124,9 +2124,9 @@ Invincible
 
 ID=30041
 Pandora's Box
-Increase nearby allies' attack power by 30%.
+Increase nearby allies' attack by 30%.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=30020
 Light and Darkness
@@ -2178,9 +2178,9 @@ Movement Speed Increase
 
 ID=39010
 急襲
-Increased attack power for 10 seconds.
+Increased attack for 10 seconds.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=39011
 Paralysis
@@ -2196,9 +2196,9 @@ Movement Speed Reduce
 
 ID=39013
 ナマクラ
-Reduced attack power for 10 seconds.
+Reduced attack for 10 seconds.
 Icon/Buff/Icon_Common_DeBuff_ATK
-Attack power reduction
+Reduced Attack
 
 ID=39014
 Poison
@@ -2357,10 +2357,10 @@ Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
 ID=30054
-HP Reduce
+Reduced HP
 HP -10%
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=30055
 Movement Speed Reduce
@@ -2369,22 +2369,22 @@ Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
 ID=30056
-HP Reduce
+Reduced HP
 HP5%減少：3秒持続、0.5秒、時間更新
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=30057
-HP Reduce
+Reduced HP
 HP -70%
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=30058
-HP Reduce
+Reduced HP
 HP1%減少：10秒持続、3重複
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=30059
 Movement Speed Reduce
@@ -2393,28 +2393,28 @@ Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
 ID=30060
-HP Reduce
+Reduced HP
 HP -40%
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=30061
-HP Reduce
+Reduced HP
 HP -2%
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=30066
-HP Reduce
+Reduced HP
 HP -15% (1 time)
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=30067
-HP Reduce
+Reduced HP
 HP -70%
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=30068
 Player Paralyzed
@@ -2423,16 +2423,16 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralysis
 
 ID=30069
-Player HP Reduce
+Player HP Reduced.
 HP reduce per second.
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=30470
-HP Reduce
+Reduced HP
 HP -15%
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=30471
 Player Shocked
@@ -2441,16 +2441,16 @@ Icon/Buff/Icon_Common_Debuff_Shock
 Shock
 
 ID=30472
-HP Reduce
+Reduced HP
 HP -30%
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=30473
-Attack Power Increase
-Attack Power +10% for 60 seconds
+Attack Increase
+Attack +10% for 60 seconds
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=30474
 Movement Speed Increase
@@ -2483,22 +2483,22 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Recovery
 
 ID=35000
-HP Reduce
+Reduced HP
 HP -3% per 2 seconds
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=35001
-HP Reduce
+Reduced HP
 HP -3% per 2 seconds
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=35002
-HP Reduce
+Reduced HP
 HP -100% (Instant Death)
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=35003
 Invincible
@@ -2508,9 +2508,9 @@ Invincible
 
 ID=35004
 Soul energy amplification.
-The player's Attack Power +2000% for 20 seconds
+The player's Attack +2000% for 20 seconds
 Icon/Buff/Icon_Common_Buff_ATK
-Greatly increase Attack Power.
+Greatly increases Attack.
 
 ID=35005
 Enhance
@@ -2537,16 +2537,16 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralysis
 
 ID=35009
-HP Reduce
+Reduced HP
 HP -5% per second for 3 seconds.
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=35010
-HP Reduce
+Reduced HP
 HP -5% per second for 3 seconds.
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=35011
 HP Recovery
@@ -2567,10 +2567,10 @@ Icon/Buff/Icon_Common_Buff_Immun
 Invincible
 
 ID=35300
-HP Reduce
+Reduced HP
 HP reduce by -40%
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=35302
 Weakness
@@ -2585,10 +2585,10 @@ Icon/Buff/Icon_Common_Debuff_Def
 装甲溶解
 
 ID=35304
-HP Reduce
+Reduced HP
 HP reduced by 15%.
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=35305
 Invincible
@@ -2609,22 +2609,22 @@ Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
 ID=35313
-HP Reduce
+Reduced HP
 Become shocked, taking some damage over 3 seconds.
 Icon/Buff/Icon_Common_Debuff_Shock
 Shock
 
 ID=37300
-HP Reduce
+Reduced HP
 HP -5% for every 2 seconds.
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=37421
-HP Reduce
+Reduced HP
 HP -3% per 2 seconds
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=39001
 -
@@ -2676,9 +2676,9 @@ Movement Speed Reduce
 
 ID=39025
 奇襲
-Attack Power increase.
+Increased Attack.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=39026
 鉄壁
@@ -2802,9 +2802,9 @@ Critical Rate Increased
 
 ID=50041
 好戦の証明Lv1
-5% chance of Attack Power +10% for 2 sec. when hit by an enemy. (10 sec. cooldown)
+5% chance of Attack +10% for 2 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=50051
 一挙入魂Lv1
@@ -2828,7 +2828,7 @@ ID=50071
 心眼Lv1
 攻撃命中時、1%の確率で命中度が10%下落し、攻撃力が20%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=50101
 バキュームLv1
@@ -2886,9 +2886,9 @@ Icon/Buff/Icon_Common_Buff_Accuracy
 
 ID=50191
 ガルスの逆鱗Lv1
-5% chance of Attack Power +10% for 2 seconds when hit by an enemy.
+5% chance of Attack +10% for 2 seconds when hit by an enemy.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=50211
 復讐鬼Lv1
@@ -2934,15 +2934,15 @@ Critical Rate Increased
 
 ID=53032
 好戦の証明Ⅰ
-5% chance of Attack Power +8% for 2 sec. when hit by an enemy. (10 sec. cooldown)
+5% chance of Attack +8% for 2 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53033
 好戦の証明Ⅱ
-10% chance of Attack Power +8% for 3 sec. when hit by an enemy. (10 sec. cooldown)
+10% chance of Attack +8% for 3 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53041
 一挙入魂Ⅰ
@@ -2976,15 +2976,15 @@ HP Recovery
 
 ID=53053
 攻撃の儀式Ⅰ
-3% chance of Attack Power +10% for 2 seconds when jumping. (15 sec. cooldown)
+3% chance of Attack +10% for 2 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53061
 攻撃の儀式Ⅱ
-5% chance of Attack Power +10% for 2 seconds when jumping. (15 sec. cooldown)
+5% chance of Attack +10% for 2 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53072
 バキュームⅠ
@@ -3084,15 +3084,15 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53143
 俊敏なマッチョⅠ
-5% chance of Attack Power +6% for 3 seconds when hit by enemy. (10 sec. cooldown)
+5% chance of Attack +6% for 3 seconds when hit by enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53151
 俊敏なマッチョⅡ
-5% chance of Attack Power +12% for 3 seconds when hit by an enemy. (10 sec. cooldown)
+5% chance of Attack +12% for 3 seconds when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53152
 復讐鬼Ⅰ
@@ -3152,13 +3152,13 @@ ID=53182
 子供は風の子Ⅰ
 ダッシュ中、5%の確率で5秒間、攻撃力が10%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53183
 毒を以って毒を制すⅠ
 状態異常にかかった時、50%の確率で10秒間、攻撃力が10%上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53201
 轟音Ⅰ
@@ -3194,13 +3194,13 @@ ID=53213
 物質変換Ⅰ
 アイテム入手時、20%の確率で5秒間、攻撃力が10%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53221
 物質変換Ⅱ
 アイテム入手時、30%の確率で5秒間、攻撃力が10%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53222
 一点集中Ⅰ
@@ -3228,15 +3228,15 @@ SG Recovery
 
 ID=53243
 肉を切らせて骨を断つⅠ
-10% chance of Attack Power +5% for 5 seconds when hit by an enemy. (10 sec. cooldown)
+10% chance of Attack +5% for 5 seconds when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53251
 肉を切らせて骨を断つⅡ
-20% chance of Attack Power +5% for 5 seconds when hit by an enemy. (10 sec. cooldown)
+20% chance of Attack +5% for 5 seconds when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53273
 赤い眼光Ⅰ
@@ -3258,13 +3258,13 @@ HP Recovery
 
 ID=53283
 シールド出力全開Ⅰ
-Defense +100% and Attack Power -70% for 2 sec. when hit by an enemy. (30 sec. CD)
+Defense +100% and Attack -70% for 2 sec. when hit by an enemy. (30 sec. CD)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
 ID=53291
 シールド出力全開Ⅱ
-Defense +100% and Attack Power -50% for 4 sec. when hit by an enemy. (30 sec. CD)
+Defense +100% and Attack -50% for 4 sec. when hit by an enemy. (30 sec. CD)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense Increase
 
@@ -3284,7 +3284,7 @@ ID=53301
 決死の攻撃Ⅰ
 攻撃命中時、5秒間、防御度が50%減少し、攻撃力が15%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53302
 黙りなさいⅠ
@@ -3338,13 +3338,13 @@ ID=53331
 クリティカルパワーⅠ
 クリティカル命中時、50%の確率で2秒間、攻撃力が3%上昇する。(クールタイム1秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53332
 クリティカルパワーⅡ
 クリティカル命中時、50%の確率で2秒間、攻撃力が4%上昇する。(クールタイム1秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53333
 ランニングチャージⅠ
@@ -3384,27 +3384,27 @@ HP Recovery
 
 ID=53363
 静寂の暗殺者Ⅰ
-10% chance of Attack Power +5% for 3 seconds after killing an enemy. (15 sec. cooldown)
+10% chance of Attack +5% for 3 seconds after killing an enemy. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
 ID=53371
 静寂の暗殺者Ⅱ
-10% chance of Attack Power +5% for 5 seconds after killing an enemy. (10 sec. cooldown)
+10% chance of Attack +5% for 5 seconds after killing an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed Increase
 
 ID=53372
 ラッキーデイⅠ
-Attack Power +10% for 2 sec. when Critical Hit by an enemy. (10 sec. cooldown)
+Attack +10% for 2 sec. when Critical Hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53373
 ラッキーデイⅡ
-Attack Power +10% for 2 sec. when Critical Hit by an enemy. (5 sec. cooldown)
+Attack +10% for 2 sec. when Critical Hit by an enemy. (5 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53391
 忘れ物センターⅠ
@@ -3416,7 +3416,7 @@ ID=53392
 桃園の誓いⅠ
 クリティカル命中時、5%の確率で5秒間、攻撃力が10%上昇、移動速度が50%減少する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53403
 サイレントヒーリングⅠ
@@ -3440,19 +3440,19 @@ ID=53413
 使者の花Ⅰ
 スーパーアーマーブレイクが発生すると、10%の確率で10秒間、攻撃力が15%上昇する。(クールタイム1分)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53421
 使者の花Ⅱ
 スーパーアーマーブレイクが発生すると、20%の確率で10秒間、攻撃力が15%上昇する。(クールタイム1分)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53422
 作用反作用の法則Ⅰ
-20% chance of Attack Power +10% for 3 sec. when Critical Hit by an enemy. (10 sec. CD)
+20% chance of Attack +10% for 3 sec. when Critical Hit by an enemy. (10 sec. CD)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53423
 ヒットアンドアウェイⅠ
@@ -3500,25 +3500,25 @@ ID=53451
 筋力は衰えないⅠ
 クリティカル命中時、3秒間、攻撃力が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53452
 筋力は衰えないⅡ
 クリティカル命中時、3秒間、攻撃力が15%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53453
 復讐血戦Ⅰ
 近くの味方が死亡時、50%の確率で10秒間、攻撃力が30%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53461
 復讐血戦Ⅱ
 近くの味方が死亡時、60%の確率で10秒間、攻撃力が40%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53462
 オタクの底力Ⅰ
@@ -3534,15 +3534,15 @@ HP Recovery
 
 ID=53471
 殴られ屋Ⅰ
-50% chance of Attack Power +1% for 60 sec. when hit by an enemy. (1 sec. CD; max. 3 stacks)
+50% chance of Attack +1% for 60 sec. when hit by an enemy. (1 sec. CD; max. 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53472
 殴られ屋Ⅱ
-100% chance of Attack Power +1% for 60 sec. when hit by an enemy. (1 sec. CD; max. 5 stacks)
+100% chance of Attack +1% for 60 sec. when hit by an enemy. (1 sec. CD; max. 5 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53483
 略奪者Ⅰ
@@ -3554,13 +3554,13 @@ ID=53511
 ラジオスターⅠ
 第6区域でのみ適用。10秒ごとに3秒間、攻撃力が3%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53512
 ラジオスターⅡ
 第6区域でのみ適用。10秒ごとに5秒間、攻撃力が5%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53513
 搭乗サービスⅠ
@@ -3674,37 +3674,37 @@ ID=53545
 ヒットフィーバーⅠ
 コンボ100hitごとに(最大300hit)15秒間、攻撃力が3%ずつ上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53546
 ヒットフィーバーⅡ
 コンボ100hitごとに(最大300hit)15秒間、攻撃力が4%ずつ上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53547
 ヒットフィーバーⅢ
 コンボ100hitごとに(最大300hit)15秒間、攻撃力が5%ずつ上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53548
 ヒットフィーバーⅠ
 コンボ100hitごとに(最大300hit)15秒間、攻撃力が4%ずつ上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53549
 ヒットフィーバーⅡ
 コンボ100hitごとに(最大300hit)15秒間、攻撃力が5%ずつ上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53550
 ヒットフィーバーⅢ
 コンボ100hitごとに(最大300hit)15秒間、攻撃力が6%ずつ上昇する。(最大3重複)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53551
 緊急シールドⅠ
@@ -3852,39 +3852,39 @@ Critical Rate Increased
 
 ID=53575
 好戦の証明Ⅰ
-5% chance of Attack Power +10% for 2.5 sec. when hit by an enemy. (10 sec. cooldown)
+5% chance of Attack +10% for 2.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53576
 好戦の証明Ⅱ
-10% chance of Attack Power +10% for 3.5 sec. when hit by an enemy. (10 sec. cooldown)
+10% chance of Attack +10% for 3.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53577
 好戦の証明Ⅲ
-15% chance of Attack Power +10% for 4.5 sec. when hit by an enemy. (10 sec. cooldown)
+15% chance of Attack +10% for 4.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53578
 好戦の証明Ⅰ
-10% chance of Attack Power +10% for 2.5 sec. when hit by an enemy. (10 sec. cooldown)
+10% chance of Attack +10% for 2.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53579
 好戦の証明Ⅱ
-15% chance of Attack Power +10% for 3.5 sec. when hit by an enemy. (10 sec. cooldown)
+15% chance of Attack +10% for 3.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53580
 好戦の証明Ⅲ
-20% chance of Attack Power +10% for 4.5 sec. when hit by an enemy. (10 sec. cooldown)
+20% chance of Attack +10% for 4.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53581
 疾走チュウⅠ
@@ -3960,39 +3960,39 @@ HP Recovery
 
 ID=53593
 攻撃の儀式Ⅰ
-15% chance of Attack Power +10% for 4 seconds when jumping. (15 sec. cooldown)
+15% chance of Attack +10% for 4 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53594
 攻撃の儀式Ⅱ
-20% chance of Attack Power +10% for 4 seconds when jumping. (15 sec. cooldown)
+20% chance of Attack +10% for 4 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53595
 攻撃の儀式Ⅲ
-25% chance of Attack Power +10% for 4 seconds when jumping. (15 sec. cooldown)
+25% chance of Attack +10% for 4 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53596
 攻撃の儀式Ⅰ
-20% chance of Attack Power +10% for 4 seconds when jumping. (15 sec. cooldown)
+20% chance of Attack +10% for 4 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53597
 攻撃の儀式Ⅱ
-25% chance of Attack Power +10% for 4 seconds when jumping. (15 sec. cooldown)
+25% chance of Attack +10% for 4 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53598
 攻撃の儀式Ⅲ
-30% chance of Attack Power +10% for 4 seconds when jumping. (15 sec. cooldown)
+30% chance of Attack +10% for 4 seconds when jumping. (15 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53599
 自己回復力Ⅰ
@@ -4140,39 +4140,39 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53623
 俊敏なマッチョⅠ
-7% chance of Attack Power +10% for 2 sec. when hit by an enemy. (10 sec. cooldown)
+7% chance of Attack +10% for 2 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53624
 俊敏なマッチョⅡ
-7% chance of Attack Power +15% for 2.5 sec. when hit by an enemy. (10 sec. cooldown)
+7% chance of Attack +15% for 2.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53625
 俊敏なマッチョⅢ
-7% chance of Attack Power +20% for 3 sec. when hit by an enemy. (10 sec. cooldown)
+7% chance of Attack +20% for 3 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53626
 俊敏なマッチョⅠ
-9% chance of Attack Power +10% for 3.5 sec. when hit by an enemy. (10 sec. cooldown)
+9% chance of Attack +10% for 3.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53627
 俊敏なマッチョⅡ
-9% chance of Attack Power +15% for 4 sec. when hit by an enemy. (10 sec. cooldown)
+9% chance of Attack +15% for 4 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53628
 俊敏なマッチョⅢ
-9% chance of Attack Power +20% for 4.5 sec. when hit by an enemy. (10 sec. cooldown)
+9% chance of Attack +20% for 4.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53629
 猛攻四連Ⅰ
@@ -4346,73 +4346,73 @@ ID=53664
 怪鳥の翼Ⅰ
 命中時、10%の確率で次の一撃の攻撃力が5%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53665
 怪鳥の翼Ⅱ
 命中時、10%の確率で次の一撃の攻撃力が7%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53666
 怪鳥の翼Ⅲ
 命中時、10%の確率で次の一撃の攻撃力が10%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53667
 怪鳥の翼Ⅰ
 命中時、10%の確率で次の一撃の攻撃力が6%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53668
 怪鳥の翼Ⅱ
 命中時、10%の確率で次の一撃の攻撃力が10%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53669
 怪鳥の翼Ⅲ
 命中時、10%の確率で次の一撃の攻撃力が15%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53670
 物質変換Ⅰ
 アイテム獲得時、4秒間、攻撃力が20%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53671
 物質変換Ⅱ
 アイテム獲得時、7秒間、攻撃力が20%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53672
 物質変換Ⅲ
 アイテム獲得時、11秒間、攻撃力が20%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53673
 物質変換Ⅰ
 アイテム獲得時、4秒間、攻撃力が25%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53674
 物質変換Ⅱ
 アイテム獲得時、7秒間、攻撃力が25%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=53675
 物質変換Ⅲ
 アイテム獲得時、11秒間、攻撃力が25%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=55002
 ビックリボックスⅢ
@@ -4434,9 +4434,9 @@ Defense Increase
 
 ID=55010
 力の咆哮
-Attack power +10% for 7 seconds.
+Attack +10% for 7 seconds.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=55011
 守りの咆哮
@@ -4451,10 +4451,10 @@ Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed Increase
 
 ID=55101
-Attack Power Increase
-Attack power +10% for 7 seconds.
+Attack Increase
+Attack +10% for 7 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=55102
 Attack Speed Increase
@@ -4469,10 +4469,10 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Skill Release
 
 ID=55104
-HP Reduce
+Reduced HP
 HP -2% per second for 10 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP Reduce
+Reduced HP
 
 ID=55105
 Movement Speed Reduce
@@ -4481,16 +4481,16 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed Reduce
 
 ID=55106
-HP Reduce
+Reduced HP
 HP -2% per second for 10 seconds. (Maximum 5 Stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-HP Reduce
+Reduced HP
 
 ID=55107
-Attack Power Increase
-Attack Power +10% for 5 seconds.
+Attack Increase
+Attack +10% for 5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=55108
 Attack Speed Increase
@@ -4506,9 +4506,9 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=55110
 回転
-Attack Power +10% for 5 seconds.
+Attack +10% for 5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=55111
 白鳥
@@ -4559,16 +4559,16 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Stamina recovery
 
 ID=55119
-Attack Power Increase
-Attack Power +10% for 20 seconds.
+Attack Increase
+Attack +10% for 20 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=55120
-Attack Power Increase
-Attack Power +10% for 10 seconds.
+Attack Increase
+Attack +10% for 10 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack Power Increase
+Attack Increase
 
 ID=55121
 Attack Speed Increase
@@ -4583,16 +4583,16 @@ Icon/Buff/Icon_Common_Buff_Akashic
 吸血
 
 ID=63000
-HP Reduce
+Reduced HP
 HP -15%
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=63001
-HP Reduce
+Reduced HP
 HP -25%
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=63002
 行動不能
@@ -4601,16 +4601,16 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralysis
 
 ID=63003
-HP Reduce
+Reduced HP
 HP -50%
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=63004
-HP Reduce
+Reduced HP
 HP -2%
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=63005
 Enhance
@@ -4637,10 +4637,10 @@ Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed Reduce
 
 ID=63009
-HP Reduce
+Reduced HP
 HP -10% per 2 seconds for 10 seconds.
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=63010
 行動不能
@@ -4656,9 +4656,9 @@ Enhance
 
 ID=63012
 Increase Attack
-Attack Power +30% for 10 minutes.
+Attack +30% for 10 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=63013
 Defense Increase
@@ -4674,9 +4674,9 @@ HP Recovery
 
 ID=63015
 Increase Attack
-Attack Power +30% for 10 minutes.
+Attack +30% for 10 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=63016
 Defense Increase
@@ -4691,16 +4691,16 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=63018
-HP Reduce
+Reduced HP
 HP -15%
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=63019
 Increase Attack
-Attack Power +30% for 10 minutes.
+Attack +30% for 10 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=63020
 Defense Increase
@@ -4715,10 +4715,10 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=63022
-HP Reduce
+Reduced HP
 -99% HP
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=63023
 Defense Reduce
@@ -4727,34 +4727,34 @@ Icon/Buff/Icon_Common_Debuff_Def
 Reduced Defense
 
 ID=63024
-HP Reduce
+Reduced HP
 HP -20% 
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=63025
-HP Reduce
+Reduced HP
 HP -90% 
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=63026
-HP Reduce
+Reduced HP
 HP -2%
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=63027
 Increase Attack
-Attack Power +500% for 15 seconds.
+Attack +500% for 15 seconds.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=63028
-HP Reduce
+Reduced HP
 HP -20% per 2 seconds for 20 seconds.
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=63029
 HP Recovery
@@ -4763,10 +4763,10 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=63030
-HP Reduce
+Reduced HP
 HP -10%
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=63031
 Movement Speed Reduce
@@ -4776,9 +4776,9 @@ Movement Speed Reduce
 
 ID=63032
 Increase Attack
-Attack Power +30% for 10 minutes.
+Attack +30% for 10 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=63033
 Defense Increase
@@ -4793,16 +4793,16 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=63035
-HP Reduce
+Reduced HP
 HP -5% for every 3 seconds.
 0
-HP Reduce
+Reduced HP
 
 ID=63036
 Increase Attack
-Attack Power +30% for 5 minutes
+Attack +30% for 5 minutes
 Icon/Buff/Icon_Common_Buff_ATK
-Attack Power Increase
+Attack Increase
 
 ID=63037
 Defense Increase
@@ -4817,22 +4817,22 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP Recovery
 
 ID=63039
-HP Reduce
+Reduced HP
 HP -20% 
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=63040
-HP Reduce
+Reduced HP
 HP -20% 
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=63041
-HP Reduce
+Reduced HP
 HP -20% 
 Icon/Buff/Icon_Common_Debuff_Bleed
-HP Reduce
+Reduced HP
 
 ID=63042
 行動不能
@@ -4841,10 +4841,10 @@ Icon/Buff/Icon_Common_Debuff_Shock
 Shock
 
 ID=63043
-HP Reduce
+Reduced HP
 HP -15% per second for 3 seconds.
 0
-HP Reduce
+Reduced HP
 
 ID=63044
 Movement Speed Reduce
@@ -4859,13 +4859,13 @@ Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed Increase
 
 ID=63046
-HP Reduce
+Reduced HP
 Reduce 15% HP
 0
-HP Reduce
+Reduced HP
 
 ID=63047
-HP Reduce
+Reduced HP
 HP -15% for every 2 seconds.
 0
-HP Reduce
+Reduced HP
