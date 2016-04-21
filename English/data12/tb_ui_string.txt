@@ -260,7 +260,7 @@ ID=135
 Enhance
 
 ID=136
-Repairing
+Repair
 
 ID=137
 Buyback
@@ -638,7 +638,7 @@ ID=414
 Equip Socket
 
 ID=415
-Repairing
+Repair
 
 ID=416
 Register Items
@@ -1409,7 +1409,7 @@ ID=771
 Time
 
 ID=772
-Day(s)
+d
 
 ID=773
 Req.  Lv
@@ -1514,7 +1514,7 @@ ID=808
 Wearable Part
 
 ID=809
-No Brooch Added
+No Brooch added
 
 ID=811
 Attach Socket Item
@@ -2603,7 +2603,7 @@ ID=2502
 Offline
 
 ID=2503
-Remaining {0}day(s)
+Remaining {0}d
 
 ID=2504
 Remaining {0} hour(s)
@@ -3389,7 +3389,7 @@ ID=5833
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00ff9c'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font>, they can used at the <font color='#00D8FF'>Void Vending Machine</font>.
 
 ID=5834
-<font color='#FFFFFF' size='30'>TIP: <font color='#00D8FF'>[Hidden Quests]</font></font> will randomly appear inside dungeons.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Secret Mission]</font> will randomly appear inside dungeons.
 
 ID=5835
 <font color='#FFFFFF' size='30'>TIP: </font>As you progress through the game, you will be able to call forth a reassuring </font><font color='#00D8FF'>[Supporter]</font> to support you.
@@ -3473,7 +3473,7 @@ ID=5861
 <font color='#FFFFFF' size='30'>TIP: </font>The combat research institute <font color='#00D8FF'>Steel Grave</font> gives you one attempt at clearing up to 5 stages per day.
 
 ID=5862
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>Very Hard</font> features stronger enemies and better rewards.
+<font color='#FFFFFF' size='30'>TIP: </font>Entering<font color='#00D8FF'>Very Hard</font>mode dungeons features stronger enemies and better rewards.
 
 ID=5863
 <font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought in each town's <font color='#00ff9c'>Equipment Shop</font>.
@@ -3578,7 +3578,7 @@ ID=5896
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00ff9c'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font>, they can used at the <font color='#00D8FF'>Void Vending Machine</font>.
 
 ID=5897
-<font color='#FFFFFF' size='30'>TIP: <font color='#00D8FF'>[Hidden Quests]</font></font> will randomly appear inside dungeons.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Secret Mission]</font> will randomly appear inside dungeons.
 
 ID=5898
 <font color='#FFFFFF' size='30'>TIP: </font>As you progress through the game, you will be able to call forth a reassuring </font><font color='#00D8FF'>[Supporter]</font> to support you.
@@ -3836,10 +3836,10 @@ ID=8002
 {0}%
 
 ID=8003
-Change Episode
+Change EP
 
 ID=8004
-Change Difficulty
+Difficulty
 
 ID=8005
 Enter({0})
@@ -5273,7 +5273,7 @@ ID=16837
 Withdraw
 
 ID=16838
-{0} hr
+{0}h
 
 ID=16839
 {0} d(s)
@@ -5489,7 +5489,7 @@ ID=18044
 {0} d(s)
 
 ID=18045
-{0} hr
+{0}h
 
 ID=18046
 {0}m
@@ -5510,7 +5510,7 @@ ID=18051
 Temporary item「{0}」has been refunded. Please check your mail for more details.
 
 ID=18052
-{0} year(s) {1} month(s) {2} day(s) {3} hour(s) {4) minute(s)
+{0}-{1}-{2} {3}:{4)
 
 ID=18053
 ({0} days)
@@ -9212,7 +9212,7 @@ ID=28104
 {0} days ago
 
 ID=28105
-{0} hrs ago
+{0}h ago
 
 ID=28106
 {0} mins ago
@@ -9479,7 +9479,7 @@ ID=28193
 {0} d(s)
 
 ID=28194
-{0} hr
+{0}h
 
 ID=28195
 {0}m
@@ -11660,10 +11660,10 @@ ID=40203
 The intruder alarm system within the elevator has been activated.\n Use the two switches from within to stop the alarm system.
 
 ID=40204
-The shuttle will periodically arrive. Please find a safe place to fight.
+The shuttle will arrive periodically. Please find a safe place to fight.
 
 ID=40205
-The shuttle will return regularly. Please fight while dodging the shuttle.
+The shuttle will return regularly. Please avoid the shuttle while fighting.
 
 ID=40206
 Please stop the shuttle by activating its control unit.
@@ -11708,7 +11708,7 @@ ID=40219
 Defeat all the enemies and open the large shutter.
 
 ID=40220
-Please dodge the bomb shuttle
+Please dodge the bomb shuttle.
 
 ID=40221
 Enemies will be summoned soon.\nActivate the switch and defeat the enemies.
@@ -11735,7 +11735,7 @@ ID=40228
 New enemies will be summoned soon.\nPlease be careful.
 
 ID=40229
-The shuttle will pass.\nPlease evacuate to a safe place.
+Incoming shuttle.\nPlease avoid.
 
 ID=40230
 Elevator intruder alarm has been activated.\nDefeat all enemies, or stop the alarm system by turning off the switch.
@@ -12263,7 +12263,7 @@ ID=40506
 While entering the area affected by the magnetic field, your HP will be reduced overtime.\n When the switch is turned off, the magnetic field is cancelled.
 
 ID=40507
-Shuttles will appear periodically.\n To prevent them from appearing, please defeat the enemy.
+Shuttles will arrive periodically. \nDefeat the enemy to stop the shuttles.
 
 ID=40508
 The door's mechanism has been unlocked.
@@ -12296,19 +12296,19 @@ ID=40601
 Upon defeating all four enemies, the path's portal to the mansion will be opened.
 
 ID=40602
-Unleashing the sealed crystal will star the battle.
+Unleashing the sealed crystal will start the battle.
 
 ID=40603
-[Eternity] will appear soon. Defeat it.
+[Eternity] will appear soon after all enemies have been killed. Defeat it.
 
 ID=40604
-[Juggernaut] will appear soon. Defeat it.
+[Juggernaut] will appear soon after all enemies have been killed. Defeat it.
 
 ID=40605
-[Apocalypse] will appear soon. Defeat it.
+[Apocalypse] will appear soon after all enemies have been killed. Defeat it.
 
 ID=40606
-[Pandemonia] will appear soon. Defeat it.
+[Pandemonia] will appear soon after all enemies have been killed. Defeat it.
 
 ID=40607
 Please secure the house of eternity and then proceed to the house of premonition.
@@ -13844,7 +13844,7 @@ ID=45027
 Use Duration
 
 ID=45028
-Day(s)
+d
 
 ID=45029
 Sold Units
@@ -13916,7 +13916,7 @@ ID=45051
 Sale Time: {0}
 
 ID=45052
-Day(s)
+d
 
 ID=45053
 Time
@@ -14228,7 +14228,7 @@ ID=49105
 Missing
 
 ID=49106
-Rewards List
+Reward List
 
 ID=49107
 Ongoing
@@ -14465,7 +14465,7 @@ ID=49338
 View
 
 ID=49339
-{0} Rewards List
+{0} Reward List
 
 ID=49340
 Phase {0} Reward Items
@@ -14825,22 +14825,22 @@ ID=49939
 Become friends with a level difference of {0} as {1} 
 
 ID=49940
-nameplayerbefriend
+[{0}]{1}名とフレンドになる
 
 ID=49941
-nameplayerbefriendequip
+[{0}]を装備したプレイヤー{1}名とフレンドになる
 
 ID=49942
-nameplayerbefrienduse
+[{0}]を装着したプレイヤー{1}名とフレンドになる
 
 ID=49943
-nameplayerbefriendusetitle
+[称号][{0}]を装着したプレイヤー{1}名とフレンドになる
 
 ID=49944
-nameplayerbefriendusetitle
+[称号][{0}]を装着したプレイヤー{1}名とフレンドになる
 
 ID=49945
-nameplayerbefriendusetitle
+[称号][{0}]を装着したプレイヤー{1}名とフレンドになる
 
 ID=49946
 [{0}] Obtain [{1}] {2} pieces
@@ -16082,7 +16082,7 @@ ID=56008
 Not enough PARTY GIST.
 
 ID=56009
-Skill can not be used in abnormal state.
+Skill can not be used right now.
 
 ID=56010
 On cooldown, can not be used right now.
@@ -16181,7 +16181,7 @@ ID=57023
 The applicant list is full. 
 
 ID=57024
-You have just disbanded a guild, try making another one in {0} day(s).
+You have just disbanded your guild, you can create another one in {0} day(s).
 
 ID=57025
 Joining {0} guild failed. You have just recently left a guild. Try again in a day.
@@ -16322,7 +16322,7 @@ ID=58205
 Can not enter room because it is in rearranging mode.
 
 ID=58206
-Somebody's having fun. A party? Well, it's full. Sorry.
+The room is full of occupants. You cannot enter.
 
 ID=58207
 The room is private.
@@ -16337,7 +16337,7 @@ ID=58210
 This room is private.
 
 ID=58211
-You now have a room. Grats - Hiromi
+You now have a room. 
 
 ID=58212
 Your furniture storage is full. \nPlease remove the items as necessary.

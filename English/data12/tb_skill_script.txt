@@ -7,8 +7,8 @@ null
 
 ID=11
 Basic Attack Mastery I
-[スキル情報]\n剣で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法：地上]\nマウス：(左クリック)×4\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×2
-SG獲得量が20%増加する。\n分岐攻撃Aを使用できる。
+[Skill Info]\nAttack with your sword.\nAs this skill's level increases, you will be able to perform a variety of combo attacks.\nYou will regain SG as you attack.\nSG gain depends on which attack hits which monster.\n\n[Usage: Ground]\nMouse: (L-Click)x4\n\n[Usage: Mid-Air]\nMouse: After Jumping (L-Click)x2
+SG Gain +20%.\nUnlock alternative attack "A".
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
@@ -757,7 +757,7 @@ Description_Image/Skill/SoulumSword/Image_SSword_Break_Erode
 ID=12
 Basic Attack Mastery I
 [スキル情報]\n銃で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法：地上]\nマウス：(左クリック)×5\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×2
-SG獲得量が20%増加する。\n分岐攻撃Aを使用できる。
+SG Gain +20%.\nUnlock alternative attack "A".
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
@@ -1506,7 +1506,7 @@ Description_Image/Skill/GunJazz/Image_GJazz_Break_Erode
 ID=13
 Basic Attack Mastery I
 Attack with a scythe.\nMore chain attacks and higher damage as skill level increases.\nTiming the attacks will gain more SG.\nSG gain is increased in accordance with the linking stage and monster rank.\nSG gain is + 0%.\n[Ground Attack]\nLv1: (L click)×4\n[Air Attack]\nLv.1: (L click)×2
-SG獲得量が20%増加する。\n分岐攻撃Aを使用できる。
+SG Gain +20%.\nUnlock alternative attack "A".
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
@@ -1533,7 +1533,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 
 ID=53
 Basic Attack Mastery V
-[Skill information]\nto attack the enemy with sickle.\nkind of skill level goes up about linking attacks to increase. When\n attack, won the SG. \nSG acquisition amount is increased in accordance with the linking stage and monsters grade.\nSG acquisition amount[200%]To increase.\n[Method of operation: the ground]\nmouse:\n[1](Left click)×5\n[2](Left click)-(right click)-(Right-click barrage)\n[3](Left click)×3-(right click)×3\n\n[Operation method: air]\nMouse:(Left click)×3
+Attack the enemies with a scythe.\nMore chain attacks and higher damage as skill level increases.\nTiming the attacks will acquire more SG.\nSG acquisition is increased in accordance with the linking stage and monster rank.\nSG acquisition is + 200%.\n[Ground Attack]\nLv.5: (left click)×3-(hold right click)×3\n[Air Attack]\nLv.5: (left click)×3
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
@@ -5138,7 +5138,7 @@ Soul Drain II
 
 ID=30233
 On the Verge of a Beast I
-Scarr is attacking the enemies to provoke them\n (Cooldown: 1 min)
+Scarr lets out an attack that pulls enemies towards him.\n (Cooldown: 1 min)
 .
 0
 0
