@@ -1001,7 +1001,7 @@ ID=573
 SP Cost:
 
 ID=574
-Repeated Completion Points:
+SP Gain(Next Level):
 
 ID=581
 Items Gained
@@ -3650,7 +3650,7 @@ ID=6025
 Use the A.R Card Box.\nAcquired A.R cards can not be traded.
 
 ID=6026
-The A.R. card has now become [Unique] grade. The A.R. card will be removed from your inventory while and the EXP will be reset during synthesis.\n Do you wish to register the A.R. card (Press [K])?
+The A.R. card is now usable. The A.R. card will be removed from your inventory while and the EXP will be reset during registration.\n Do you wish to register the A.R. card (Press [K])?
 
 ID=6027
 Can not use item because A.R card slots are full.
@@ -5573,10 +5573,10 @@ ID=18075
 Items in non-pristine condition can not be sealed.
 
 ID=18076
-<font color='#FFFFFF'>(Seal Deleter</font><font color='#6799FF'> Useable</font><font color='#FFFFFF'>)</font>
+<font color='#FFFFFF'>(Unsealer</font><font color='#6799FF'> Usable</font><font color='#FFFFFF'>)</font>
 
 ID=18077
-<font color='#FFFFFF'>(Seal Deleter</font><font color='#F15F5F'> Unuseable</font><font color='#FFFFFF'>)</font>
+<font color='#FFFFFF'>(Unsealer</font><font color='#F15F5F'> Unusable</font><font color='#FFFFFF'>)</font>
 
 ID=18078
 You can only sell 10 items at a time.
@@ -11096,7 +11096,7 @@ ID=35112
 {0} is now Lv{1}.
 
 ID=35113
-SP {0} acquired. 
+{0} SP acquired. 
 
 ID=35114
 Chat interval Limit of 10 seconds reached.\n(Remaining: {9}s)
@@ -11660,10 +11660,10 @@ ID=40203
 The intruder alarm system within the elevator has been activated.\n Use the two switches from within to stop the alarm system.
 
 ID=40204
-The shuttle will arrive periodically. Please find a safe place to fight.
+The shuttle will return periodically. Please find a safe place to fight.
 
 ID=40205
-The shuttle will return regularly. Please avoid the shuttle while fighting.
+The shuttle will return periodically. Please avoid the shuttle while fighting.
 
 ID=40206
 Please stop the shuttle by activating its control unit.
@@ -12263,7 +12263,7 @@ ID=40506
 While entering the area affected by the magnetic field, your HP will be reduced overtime.\n When the switch is turned off, the magnetic field is cancelled.
 
 ID=40507
-Shuttles will arrive periodically. \nDefeat the enemy to stop the shuttles.
+The shuttles will return periodically. \nDefeat the enemy to stop the shuttles.
 
 ID=40508
 The door's mechanism has been unlocked.
@@ -12272,7 +12272,7 @@ ID=40509
 When the Buff Bomb is destroyed, a buff will be granted.
 
 ID=40510
-The area attack has been cancelled.
+The explosive field has been deactivated.
 
 ID=40511
 The elevator is falling.
@@ -15608,7 +15608,7 @@ ID=52454
 This NPC can not repair items.
 
 ID=52501
-The item being repaired no longer exists.
+The item could not be found.
 
 ID=52601
 The item can not be used due to level requirements not being met.
@@ -15677,7 +15677,7 @@ ID=53003
 You have selected yourself.
 
 ID=53004
-You are already in a party and can not be invited.
+The player is already in a party; they cannot be invited.
 
 ID=53005
 Failed to create party.
