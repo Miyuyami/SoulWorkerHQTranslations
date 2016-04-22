@@ -404,13 +404,13 @@ ID=308
 BP:
 
 ID=309
-You can repair all equipped/possessed items.
+Repair all items.
 
 ID=310
-You can repair all equipped items.
+Repair all equipped items.
 
 ID=311
-You can select an item to repair.
+Select an item to repair.
 
 ID=312
 Buy
@@ -434,13 +434,13 @@ ID=318
 Dismantle Mode
 
 ID=325
-Are you sure you want to extend your inventory slots?
+Are you sure you want to expand your inventory slots?
 
 ID=326
-Are you sure you want to extend your bank slots?
+Are you sure you want to expand your bank slots?
 
 ID=327
-Are you sure you want to extend {0} slots?
+Are you sure you want to expand {0} slots?
 
 ID=328
 You do not meet the level requirements for a slot expansion.
@@ -455,7 +455,7 @@ ID=334
 {0} was purchased from {1}.
 
 ID=335
-The selected items can not be equipped by you.\nAre you sure that you want to buy?
+Are you sure that you want to buy the selected item(s)?\nThe selected item(s) can not be equipped by you.
 
 ID=336
 {0} was sold for {1} zenny.
@@ -482,7 +482,7 @@ ID=343
 Do you want to sell {1}x [{0}] for {2}?
 
 ID=344
-Are you sure you want use {0} to expand your slots?
+Are you sure you want to use {0} to expand your slots?
 
 ID=345
 After selling all items, you will obtain {0} Zenny.
@@ -3425,7 +3425,7 @@ ID=5845
 <font color='#FFFFFF' size='30'>TIP: </font>Sometimes, an unflinching enemy with <font color='#00D8FF'>[Super Armor]</font> will appear.\nDestroying the Super Armor with attacks will cause the enemy to become temporarily dazed.
 
 ID=5846
-<font color='#FFFFFF' size='30'>TIP: </font>Clicking while <font color='#00D8FF'>[Dashing]</font> or <font color='#00D8FF'>[Jumping]</font> will allow you to do an attack.
+<font color='#FFFFFF' size='30'>TIP: </font>Clicking during a <font color='#00D8FF'>[Dash]</font> or <font color='#00D8FF'>[Jump]</font> will allow you to do an attack.
 
 ID=5847
 <font color='#FFFFFF' size='30'>TIP: </font>Enemies launched in the air will receive extra damage from your attacks.
@@ -5582,7 +5582,7 @@ ID=18078
 You can only sell 10 items at a time.
 
 ID=18079
-ブローチソケットが付いているアイテムは、インベントリに移してからしか装備できません。
+Items with Brooch Sockets can only be equipped with one when it is in the Inventory.
 
 ID=18080
 모든 캐주얼 레이드 입장 횟수가 0 회이기 때문에 사용할 수 없습니다.

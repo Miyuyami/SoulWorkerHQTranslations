@@ -1358,7 +1358,7 @@ ID=752
 {0}[+{1}]
 
 ID=755
-<font color='#0099FF'>Recycable</font>
+<font color='#0099FF'>Recyclable</font>
 
 ID=756
 <font color='#0099FF'>強化可能</font>
@@ -1445,7 +1445,7 @@ ID=783
 Ennemi
 
 ID=784
-Maîtisée
+Maîtrisée
 
 ID=785
 Chargez avant utilisation
@@ -3809,7 +3809,7 @@ ID=7014
 累積使用SP不足
 
 ID=7015
-Maîtisée
+Maîtrisée
 
 ID=7016
 所持カード数
@@ -6098,7 +6098,7 @@ ID=21512
 Désinvoquer
 
 ID=21513
-詳細情報
+Details
 
 ID=21514
 サポーター専用装備
@@ -6131,10 +6131,10 @@ ID=21523
 登録内容
 
 ID=21524
-攻撃力：{0}
++ ATT: {0}
 
 ID=21525
-防御度：{0}
++ DEF: {0}
 
 ID=21526
 支援終了時間：
@@ -6146,7 +6146,7 @@ ID=21528
 フレンド支援が終了しました。新たに支援登録ができます。
 
 ID=21529
-ショートカットキー設定
+Raccourcis
 
 ID=21530
 {0}/{1}
@@ -6218,13 +6218,13 @@ ID=21552
 インベントリ空間が不足しているため、支援報酬を受け取れません。
 
 ID=21553
-Activer/désactiver les paramètres
+Activer/désactiver
 
 ID=21554
 Rappel
 
 ID=21555
-ソロプレイ時のみ召喚できます。
+Summonable on solo play.
 
 ID=22000
 Actif
@@ -6305,13 +6305,13 @@ ID=22025
 Très bas(se)
 
 ID=22026
-Bas(se)
+Bas
 
 ID=22027
-Moyen(ne)
+Moyen
 
 ID=22028
-Haut(e)
+Haut
 
 ID=22029
 Meilleur
@@ -6350,10 +6350,10 @@ ID=22105
 MODE CAMERA LIBRE
 
 ID=22106
-カメラとキャラクターを分離し、自由に視点を変更できます。
+The camera's perspective is isomorphic to the character.
 
 ID=22107
-カメラの方向に攻撃
+Sync Camera to Attacks
 
 ID=22108
 Caméra
@@ -6674,7 +6674,7 @@ ID=22533
 Switch Carte AR
 
 ID=22534
-武器の出し入れ
+Sortir/Rentrer Arme
 
 ID=22535
 Réglages Caméra
@@ -6692,10 +6692,10 @@ ID=22539
 Baisser la caméra
 
 ID=22540
-Tourner la caméra sur la gauche
+Tourner cam. à gauche
 
 ID=22541
-Tourner la caméra sur la droite
+Tourner cam. à droite
 
 ID=22542
 Interface Util.
@@ -6734,7 +6734,7 @@ ID=22553
 Carte de Monde
 
 ID=22554
-システムメニュー表示
+Menu Système
 
 ID=22555
 Chat
@@ -7022,10 +7022,10 @@ ID=22671
 Anti-aliasing will apply upon restarting the game.
 
 ID=22672
-Key Controls Help
+Aide Commandes
 
 ID=22673
-Call Supporters
+Appeler Supporters
 
 ID=22674
 Supporter Call is on cooldown.\n({0} sec)
@@ -9692,7 +9692,7 @@ ID=29004
 マイルーム追放
 
 ID=29005
-退室
+Sortie
 
 ID=29006
 配置モード
@@ -9707,13 +9707,13 @@ ID=29010
 配置
 
 ID=29011
-公開
+Public
 
 ID=29012
-非公開
+Privé
 
 ID=29013
-リンク
+Lien
 
 ID=29014
 ルーム名
@@ -9896,10 +9896,10 @@ ID=30103
 ソロプレイ中[妨害禁止]
 
 ID=30104
-初心者
+Débutant
 
 ID=30105
-離席
+AFK
 
 ID=31000
 招待はリーダーのみ可能です。
@@ -9929,7 +9929,7 @@ ID=31008
 遮断対象のため招待できません。
 
 ID=31009
-パーティーが解散しました。
+Le groupe a été dissout
 
 ID=31010
 パーティーがメイズにいるため合流できません。
@@ -10043,13 +10043,13 @@ ID=31046
 メイズ入場拒否
 
 ID=31047
-準備完了
+Prêt
 
 ID=31048
-EPISODE
+EP
 
 ID=31049
-オートマッチング
+Rech. Auto
 
 ID=31050
 オートマッチング使用不可
@@ -10154,7 +10154,7 @@ ID=31083
 募集登録
 
 ID=31084
-招待
+Inviter
 
 ID=31085
 情報
@@ -10412,7 +10412,7 @@ ID=31169
 メンバーの離脱により、敵が弱体化されます。
 
 ID=31170
-目的地
+Zone
 
 ID=31171
 パーティー待機者登録
@@ -10463,7 +10463,7 @@ ID=32010
 Donjon
 
 ID=32011
-エリア
+Zone
 
 ID=32012
 Objet
@@ -10487,13 +10487,13 @@ ID=32018
 Quête
 
 ID=32019
-進行情報
+Succès
 
 ID=32020
-メモリアル
+Memorial
 
 ID=32021
-マップ
+Carte
 
 ID=32022
 Inventaire
@@ -10505,13 +10505,13 @@ ID=32024
 操作キー
 
 ID=32025
-攻撃
+Attaque
 
 ID=32026
-ダメージ
+Dégâts
 
 ID=32027
-ダウン
+Renversé
 
 ID=32028
 死亡
@@ -10577,7 +10577,7 @@ ID=32048
 Magasin
 
 ID=32049
-メール
+Courrier
 
 ID=32050
 Guilde
@@ -10613,7 +10613,7 @@ ID=32060
 エリア移動
 
 ID=32061
-町
+Ville
 
 ID=32062
 Type
@@ -10622,7 +10622,7 @@ ID=32063
 ソケット
 
 ID=32064
-ツールチップ
+Info-bulle
 
 ID=32065
 DUR
@@ -10646,7 +10646,7 @@ ID=32071
 Groupe
 
 ID=32072
-オートマッチング
+Rech. Auto
 
 ID=32073
 パーティー検索
@@ -10658,7 +10658,7 @@ ID=32075
 Gestuelle
 
 ID=32076
-チャンネル
+Canal
 
 ID=32077
 Chat
@@ -10679,13 +10679,13 @@ ID=32082
 占有率
 
 ID=32083
-メモリアル
+Memorial
 
 ID=32084
-マップ
+Carte
 
 ID=32085
-ミニマップ
+Mini Carte
 
 ID=32086
 Inventaire
@@ -14213,10 +14213,10 @@ ID=49100
 報酬受け取り
 
 ID=49101
-メモリアル
+Memorial
 
 ID=49102
-メモリアル
+Memorial
 
 ID=49103
 収集リスト
@@ -14348,7 +14348,7 @@ ID=49233
 ログインアカウントが重複しているため、ゲームを終了します。
 
 ID=49300
-進行情報
+Succès
 
 ID=49301
 レコード
@@ -14501,10 +14501,10 @@ ID=49407
 Système
 
 ID=49408
-進行情報
+Succès
 
 ID=49409
-メモリアル
+Memorial
 
 ID=49450
 公式ホームページ
@@ -14867,7 +14867,7 @@ ID=49953
 クリティカル攻撃
 
 ID=49954
-ダウン
+Renversé
 
 ID=49955
 ノックバック
