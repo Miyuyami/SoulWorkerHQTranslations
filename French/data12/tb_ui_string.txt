@@ -104,7 +104,7 @@ ID=54
 Magasin
 
 ID=55
-Statut
+Profil
 
 ID=56
 Compétence
@@ -122,7 +122,7 @@ ID=60
 Liste des Titres
 
 ID=61
-Configuration Système
+Configuration
 
 ID=62
 Amélioration
@@ -566,7 +566,7 @@ ID=379
 ◀
 
 ID=380
-Effacer
+Eff.
 
 ID=381
 Extension d'emplacement
@@ -1202,7 +1202,7 @@ ID=676
 Acquis: {0} EXP
 
 ID=677
-Acquis: {0} EXP [X{1} bonus]
+Acquis: {0} EXP [Bonus : X{1}]
 
 ID=700
 Parler
@@ -1259,7 +1259,7 @@ ID=717
 Retour
 
 ID=718
-Suivant [Space]
+Suivant [Espace]
 
 ID=719
 Passer
@@ -1268,19 +1268,19 @@ ID=720
 Fermer [ESC]
 
 ID=721
-Finir la Conversation [Espace]
+Terminer la Conversation [Espace]
 
 ID=722
-Terminer [Space]
+Terminer [Espace]
 
 ID=723
 Gestion des Emplacements
 
 ID=724
-Accepter Quête [Space]
+Accepter Quête [Espace]
 
 ID=725
-Refuser [Back]
+Refuser [Retour]
 
 ID=726
 {0} Zenny
@@ -1301,7 +1301,7 @@ ID=733
 「Golden Citadel」est un donjon de haut-niveau pour groupe de 4 joueurs. Traversez le désastre doré afin de survivre.
 
 ID=734
-La Simulation de combat ultime "Steel Grave" est disponible une fois par jour uniquement.
+La Simulation de combat ultime "Steel Grave" est disponible qu'1 seule fois par jour.
 
 ID=735
 Basique
@@ -1310,46 +1310,46 @@ ID=736
 Très difficile
 
 ID=737
-エキスパート
+Expert
 
 ID=738
-パーティー専用
+Réservé aux groupes
 
 ID=739
-パーティー専用[4人]
+Groupe Uniquement [4 Joueurs]
 
 ID=740
-FP消費
+PF Consommé
 
 ID=741
-専用入場券が必要です。
+Nécessite un ticket d'entrée.
 
 ID=742
-推奨Ｌｖ：{0}
+Niveau Recommandé : {0}
 
 ID=743
-推奨人数：{0}
+Nombre de joueurs recommandés dans le groupe : {0}
 
 ID=744
-入場回数
+Limite d'entrée
 
 ID=745
-1人単独
+1 Joueur
 
 ID=746
-1人
+1 Joueur
 
 ID=747
-2人
+2 Joueurs
 
 ID=748
-3人
+3 Joueurs
 
 ID=749
-パーティー推奨
+Groupe Recommandé
 
 ID=750
-レベル制限
+Niveau Limite
 
 ID=751
 装備中のアイテム
@@ -1358,7 +1358,7 @@ ID=752
 {0}[+{1}]
 
 ID=755
-<font color='#0099FF'>分解可能</font>
+<font color='#0099FF'>Recycable</font>
 
 ID=756
 <font color='#0099FF'>強化可能</font>
@@ -1367,13 +1367,13 @@ ID=757
 <font color='#0099FF'>進化可能</font>
 
 ID=758
-<font color='#FF0000'>装備時帰属</font>
+<font color='#FF0000'>Lié quand équipé</font>
 
 ID=759
-<font color='#FF0000'>獲得時帰属</font>
+<font color='#FF0000'>Lié quand obtenu</font>
 
 ID=760
-<font color='#FF0000'>帰属アイテム</font>
+<font color='#FF0000'>Lié</font>
 
 ID=761
 <font color='#FF0000'>取引不可</font>
@@ -1694,7 +1694,7 @@ ID=891
 装備すると、アイテムは帰属状態になります。\nアイテムを装備しますか？
 
 ID=900
-Statut
+Profil
 
 ID=901
 Classe
@@ -2201,7 +2201,7 @@ ID=1316
 ステージ終了
 
 ID=1317
-Effacer
+Eff.
 
 ID=1318
 {0} Stage
@@ -3065,7 +3065,7 @@ ID=5103
 サーバー変更
 
 ID=5104
-Configuration Système
+Configuration
 
 ID=5200
 アカウントログイン
@@ -3170,7 +3170,7 @@ ID=5404
 Class Data
 
 ID=5405
-Statut
+Profil
 
 ID=5406
 プレイ難易度
@@ -7181,7 +7181,7 @@ ID=24267
 一般消費
 
 ID=24268
-FP消費
+PF Consommé
 
 ID=24269
 機能
@@ -7421,7 +7421,7 @@ ID=24517
 一般消費
 
 ID=24518
-FP消費
+PF Consommé
 
 ID=24519
 パッケージ
@@ -10499,7 +10499,7 @@ ID=32022
 Inventaire
 
 ID=32023
-Configuration Système
+Configuration
 
 ID=32024
 操作キー
@@ -11045,7 +11045,7 @@ ID=35009
 回復情報
 
 ID=35010
-Statut
+Profil
 
 ID=35011
 EXP
@@ -14249,7 +14249,7 @@ ID=49200
 システム
 
 ID=49201
-Configuration Système
+Configuration
 
 ID=49202
 キャラクター選択
@@ -14477,7 +14477,7 @@ ID=49342
 レイド
 
 ID=49400
-Statut
+Profil
 
 ID=49401
 Inventaire
