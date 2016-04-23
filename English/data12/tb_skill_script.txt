@@ -104,28 +104,28 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=1041
-緊急回避Ⅰ
+Emergency Dodge I
 [Skill Info]\nStamina Cost: [20]\n\nSwiftly move in a direction.\nNegate damage during an emergency dodge.\n\nUseage\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=1081
-回転起床Ⅰ
+Rising Roll I
 [Skill Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 スタミナ消費量：[25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=1082
-回転起床Ⅱ
+Rising II
 [Skill Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 回転起床の速度が上昇する。
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=1083
-回転起床Ⅲ
+Rising Roll III
 [Skill Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
@@ -146,21 +146,21 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=1071
-起床攻撃Ⅰ
+Rising Attack I
 [Skill Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
 スタミナ消費量：[30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=1072
-起床攻撃Ⅱ
+Rising Attack II
 [Skill Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
 無敵時間が2秒増加する。
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=1073
-起床攻撃Ⅲ
+Rising Attack III
 [Skill Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 3s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
@@ -174,22 +174,22 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
 
 ID=1051
-特殊回避Ⅰ
-[Skill Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly move as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+Special Dodge I
+[Skill Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
 クールタイム：[50秒]-10秒
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=1052
-特殊回避Ⅱ
-[Skill Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly move as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+Special Dodge II
+[Skill Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
 クールタイム：[50秒]-10秒
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=1053
-特殊回避Ⅲ
-[Skill Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly move as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: When taking damage (Move Key) + (Shift Key)
+Special Dodge III
+[Skill Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: When taking damage (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
@@ -223,28 +223,28 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=1131
-復讐の剣Ⅰ
+Vengeful Sword I
 [Skill Info]\nGain SG when hitting an enemy.\nPassively gain SG in set intervals.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
 
 ID=1141
-果てなき闘争Ⅰ
+Endless Struggle I
 [Skill Info]\nPassive Effect: Attack Power +5%\nStrengthen your attacks.
 攻撃力増加：[5%]+5%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
 0
 
 ID=1142
-果てなき闘争Ⅱ
+Endless Struggle II
 [Skill Info]\nPassive Effect: Attack Power +10%\nStrengthen your attacks.
 攻撃力増加：[10%]+5%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
 0
 
 ID=1143
-果てなき闘争Ⅲ
+Endless Struggle III
 [Skill Info]\nPassive Effect: Attack Power +15%\nStrengthen your attacks.
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
@@ -853,28 +853,28 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=2041
-緊急回避Ⅰ
+Emergency Dodge I
 [Skill Info]\nStamina Cost: [20]\n\nSwiftly move in a direction.\nNegate damage during an emergency dodge.\n\nUseage\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=2081
-回転起床Ⅰ
+Rising Roll I
 [Skill Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 スタミナ消費量：[25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=2082
-回転起床Ⅱ
+Rising II
 [Skill Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 回転起床の速度が上昇する。
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=2083
-回転起床Ⅲ
+Rising Roll III
 [Skill Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
@@ -895,21 +895,21 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=2071
-起床攻撃Ⅰ
+Rising Attack I
 [Skill Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
 スタミナ消費量：[30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=2072
-起床攻撃Ⅱ
+Rising Attack II
 [Skill Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
 無敵時間が2秒増加する。
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=2073
-起床攻撃Ⅲ
+Rising Attack III
 [Skill Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 3s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
@@ -923,22 +923,22 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
 
 ID=2051
-特殊回避Ⅰ
-[Skill Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly move as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+Special Dodge I
+[Skill Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
 クールタイム：[50秒]-10秒
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=2052
-特殊回避Ⅱ
-[Skill Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly move as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+Special Dodge II
+[Skill Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
 クールタイム：[50秒]-10秒
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=2053
-特殊回避Ⅲ
-[Skill Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly move as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: When taking damage (Move Key) + (Shift Key)
+Special Dodge III
+[Skill Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: When taking damage (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
@@ -1602,28 +1602,28 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=3041
-緊急回避Ⅰ
+Emergency Dodge I
 [Skill Info]\nStamina Cost: [20]\n\nSwiftly move in a direction.\nNegate damage during an emergency dodge.\n\nUseage\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=3081
-回転起床Ⅰ
+Rising Roll I
 [Skill Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 スタミナ消費量：[25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=3082
-回転起床Ⅱ
+Rising II
 [Skill Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 回転起床の速度が上昇する。
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=3083
-回転起床Ⅲ
+Rising Roll III
 [Skill Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
@@ -1644,21 +1644,21 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=3071
-起床攻撃Ⅰ
+Rising Attack I
 [Skill Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
 スタミナ消費量：[30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=3072
-起床攻撃Ⅱ
+Rising Attack II
 [Skill Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
 無敵時間が2秒増加する。
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=3073
-起床攻撃Ⅲ
+Rising Attack III
 [Skill Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 3s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
@@ -1672,22 +1672,22 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
 
 ID=3051
-特殊回避Ⅰ
-[Skill Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly move as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+Special Dodge I
+[Skill Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
 クールタイム：[50秒]-10秒
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=3052
-特殊回避Ⅱ
-[Skill Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly move as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+Special Dodge II
+[Skill Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
 クールタイム：[50秒]-10秒
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=3053
-特殊回避Ⅲ
-[Skill Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly move as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: When taking damage (Move Key) + (Shift Key)
+Special Dodge III
+[Skill Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: When taking damage (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
@@ -2365,28 +2365,28 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=4041
-緊急回避Ⅰ
+Emergency Dodge I
 [Skill Info]\nStamina Cost: [20]\n\nSwiftly move in a direction.\nNegate damage during an emergency dodge.\n\nUseage\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=4081
-回転起床Ⅰ
+Rising Roll I
 [Skill Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 スタミナ消費量：[25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=4082
-回転起床Ⅱ
+Rising II
 [Skill Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 回転起床の速度が上昇する。
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=4083
-回転起床Ⅲ
+Rising Roll III
 [Skill Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
@@ -2407,21 +2407,21 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=4071
-起床攻撃Ⅰ
+Rising Attack I
 [スキル情報]\n敵に100%のダメージを与える。\nスキル使用時、スタミナを30消費する。\nスキル使用後1秒間、無敵状態になる。\nクールタイム：15秒\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
 スタミナ消費量が10減少する。
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=4072
-起床攻撃Ⅱ
+Rising Attack II
 [Skill Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
 スタミナ消費量：[30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=4073
-起床攻撃Ⅲ
+Rising Attack III
 [Skill Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
 無敵時間が2秒増加する。
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
@@ -2435,22 +2435,22 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
 
 ID=4051
-特殊回避Ⅰ
-[Skill Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly move as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+Special Dodge I
+[Skill Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
 クールタイム：[50秒]-10秒
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=4052
-特殊回避Ⅱ
-[Skill Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly move as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+Special Dodge II
+[Skill Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
 クールタイム：[50秒]-10秒
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=4053
-特殊回避Ⅲ
-[Skill Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly move as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: When taking damage (Move Key) + (Shift Key)
+Special Dodge III
+[Skill Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: When taking damage (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
@@ -3065,29 +3065,29 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=5041
-緊急回避Ⅰ
+Emergency Dodge I
 [Skill Info]\nStamina Cost: [20]\n\nSwiftly move in a direction.\nNegate damage during an emergency dodge.\n\nUseage\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=5051
-特殊回避Ⅰ
-[Skill Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly move as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+Special Dodge I
+[Skill Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
 クールタイム：[50秒]-10秒
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=5052
-特殊回避Ⅱ
-[Skill Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly move as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+Special Dodge II
+[Skill Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
 クールタイム：[50秒]-10秒
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=5053
-特殊回避Ⅲ
-[Skill Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly move as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: When taking damage (Move Key) + (Shift Key)
+Special Dodge III
+[Skill Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: When taking damage (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
@@ -3114,42 +3114,42 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=5071
-起床攻撃Ⅰ
+Rising Attack I
 [Skill Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
 スタミナ消費量：[30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=5072
-起床攻撃Ⅱ
+Rising Attack II
 [Skill Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
 無敵時間が2秒増加する。
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=5073
-起床攻撃Ⅲ
+Rising Attack III
 [Skill Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 3s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=5081
-回転起床Ⅰ
+Rising Roll I
 [Skill Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 スタミナ消費量：[25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=5082
-回転起床Ⅱ
+Rising II
 [Skill Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 回転起床の速度が上昇する。
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=5083
-回転起床Ⅲ
+Rising Roll III
 [Skill Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter

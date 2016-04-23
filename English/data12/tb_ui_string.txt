@@ -1229,7 +1229,7 @@ ID=707
 Costume(Pending)
 
 ID=708
-Move
+Area
 
 ID=709
 Guild Management(Pending)
@@ -1943,7 +1943,7 @@ ID=987
 Select an item.
 
 ID=988
-Exchange Rate
+Exchange
 
 ID=989
 Item Evolution
@@ -3326,7 +3326,7 @@ ID=5812
 <font color='#FFFFFF' size='30'>TIP: </font>By collection ingredients and bringing them to <font color='#00ff9c'>IO</font>, you can create an <font color='#00D8FF'>A.R Card</font>.
 
 ID=5813
-<font color='#FFFFFF' size='30'>TIP: </font>Registering a HOLD type <font color='#00D8FF'>A.R Card</font> into your slot will allow it to activate automatically.
+<font color='#FFFFFF' size='30'>TIP: </font>Registering a HOLD type <font color='#00D8FF'>A.R Card</font> into your slot will allow it to activate passively.
 
 ID=5814
 <font color='#FFFFFF' size='30'>TIP: </font>When a new quest is available, a <font color='#fff94a'>[<font size='30'>！</font>]</font> mark will appear above an NPC's head. A <font color='#fff94a'>[<font size='30'>？</font>]</font> mark will appear for quests that are ready to be handed in.\nIt will also be displayed on your minimap.
@@ -3395,7 +3395,7 @@ ID=5835
 <font color='#FFFFFF' size='30'>TIP: </font>As you progress through the game, you will be able to call forth a reassuring </font><font color='#00D8FF'>[Supporter]</font> to support you.
 
 ID=5836
-<font color='#FFFFFF' size='30'>TIP: </font>Please try activating <font color='#00D8FF'>Orbs</font> at <font color='#00ff9c'>IO</font>.\nAn activated Orb can be used by your Supporter.
+<font color='#FFFFFF' size='30'>TIP: </font>Please try activating <font color='#00D8FF'>Orbs</font> at <font color='#00ff9c'>the Soul Manipulator</font> NPC.\nAn activated Orb can be used by your Supporter.
 
 ID=5837
 <font color='#FFFFFF' size='30'>TIP: </font>Soloing is hard! You might feel lonely! \nIn times like those, you can use </font><font color='#00D8FF'>Find Party</font> <font color='#00ff9c'>[N]</font> and </font><font color='#00D8FF'>Community</font> <font color='#00ff9c'>[O]</font> to make some friends!
@@ -3515,7 +3515,7 @@ ID=5875
 <font color='#FFFFFF' size='30'>TIP: </font>By collection ingredients and bringing them to <font color='#00ff9c'>IO</font>, you can create an <font color='#00D8FF'>A.R Card</font>.
 
 ID=5876
-<font color='#FFFFFF' size='30'>TIP: </font>Registering a HOLD type <font color='#00D8FF'>A.R Card</font> into your slot will allow it to activate automatically.
+<font color='#FFFFFF' size='30'>TIP: </font>Registering a HOLD type <font color='#00D8FF'>A.R Card</font> into your slot will allow it to activate passively.
 
 ID=5877
 <font color='#FFFFFF' size='30'>TIP: </font>When a new quest is available, a <font color='#fff94a'>[<font size='30'>！</font>]</font> mark will appear above an NPC's head. A <font color='#fff94a'>[<font size='30'>？</font>]</font> mark will appear for quests that are ready to be handed in.\nIt will also be displayed on your minimap.
@@ -3584,7 +3584,7 @@ ID=5898
 <font color='#FFFFFF' size='30'>TIP: </font>As you progress through the game, you will be able to call forth a reassuring </font><font color='#00D8FF'>[Supporter]</font> to support you.
 
 ID=5899
-<font color='#FFFFFF' size='30'>TIP: </font>Please try activating <font color='#00D8FF'>Orbs</font> at <font color='#00ff9c'>IO</font>.\nAn activated Orb can be used by your Supporter.
+<font color='#FFFFFF' size='30'>TIP: </font>Please try activating <font color='#00D8FF'>Orbs</font> at <font color='#00ff9c'>the Soul Manipulator</font> NPC.\nAn activated Orb can be used by your Supporter.
 
 ID=5900
 <font color='#FFFFFF' size='30'>TIP: </font>When using a bathtub/shower booth, currently worn underwear will be shown...!!
@@ -5915,7 +5915,7 @@ ID=21004
 Item Reward
 
 ID=21005
-Favorability
+Favor
 
 ID=21006
 {0}
@@ -10610,7 +10610,7 @@ ID=32059
 Event Spawn
 
 ID=32060
-Move
+Area
 
 ID=32061
 Town
@@ -12269,7 +12269,7 @@ ID=40508
 The door's mechanism has been unlocked.
 
 ID=40509
-When the Buff Bomb is destroyed, a buff will be granted.
+Destroy the Buff Bomb to receive a buff.
 
 ID=40510
 The explosive field has been deactivated.
@@ -15614,7 +15614,7 @@ ID=52601
 The item can not be used due to level requirements not being met.
 
 ID=52602
-The item can not be used due to cooldown limitations.
+The item cannot be used due to cooldown limitations.
 
 ID=52603
 The item can not be used due to not being in a party.
@@ -16085,7 +16085,7 @@ ID=56009
 Skill can not be used right now.
 
 ID=56010
-This action cannot be used right now due to cooldown.
+This action cannot be performed right now due to the cooldown limits.
 
 ID=56011
 Action data does not exist.
