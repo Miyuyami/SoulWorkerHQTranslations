@@ -15,21 +15,21 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 ID=21
 Basic Attack Mastery II
 [Skill Info]\nAttack with your sword.\nAs this skill's level increases, you will be able to perform new combo attacks.\nYou will regain SG as you attack.\nSG gain varies by enemy type.\n\nSG Gain +20%\n\n[Usage: Ground]\nMouse:\n[1] (L-Click)×4\n[2] (L-Click)×2 - (R-Click)×2\n\n[Usage: Aerial]\nMouse: After Jumping (L-Click)×2
-SG獲得量：[20%]+50%\n基本攻撃の追加攻撃を使用できる。
+SG Gain: [20%]+50%\nUnlock additional basic attack.
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=31
 Basic Attack Mastery III
 [Skill Info]\nAttack with your sword.\nAs this skill's level increases, you will be able to perform new combo attacks.\nYou will regain SG as you attack.\nSG gain will vary by type of enemy hit.\n\nSG Gain +70%\n\n[Usage: Ground]\nMouse:\n[1] (L-Click)×5\n[2] (L-Click)×2 - (R-Click)×2\n\n[Usage: Aerial]\nMouse: After Jumping (L-Click)×2
-SG獲得量：[70%]+50%\n分岐攻撃Bを使用できる。\n空中攻撃の追加攻撃を使用できる。
+SG Gain: [70%]+50%\mUnlock alternative attack "B".\nUnlock alternative aerial attack.
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=41
 Basic Attack Mastery IV
 [Skill Info]\nAttack with your sword.\nAs this skill's level increases, you will be able to perform new combo attacks.\nYou will regain SG as you attack.\nSG gain will vary by type of enemy hit.\n\nSG Gain +120%\n\n[Usage: Ground]\nMouse:\n[1] (L-Click)×5\n[2] (L-Click)×2 - (R-Click)×2\n[3] (L-Click)×3 - (R-Click)×3\n\n[Usage: Aerial]\nMouse: After Jumping (L-Click)×3
-SG獲得量：[120%]+80%\n分岐攻撃Cを使用できる。
+SG Gain: [120%]+80%\nUnlock alternative attack "C".
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
@@ -105,7 +105,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=1041
 Emergency Dodge I
-[Skill Info]\nStamina Cost: [20]\n\nSwiftly move in a direction.\nNegate damage during an emergency dodge.\n\nUseage\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
+[Skill Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\nUseage\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
@@ -133,14 +133,14 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 
 ID=1101
 Dash I
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
+Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
 ダッシュの速度が上昇する。
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=1102
 Dash II
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
+Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
@@ -287,175 +287,175 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 
 ID=11021
 Fast Blade I
-[Skill: Basic Attack]\nDamage: [361%]\nSA Break: [194%]\n\n[Skill Info: Additional Attack]\nDamage: [225%]\nSA Break: [121%]\n\n[SkillInfo: General]\nSG Cost: [55]\nCooldown: [15s]\n\Combo attack while moving forward.\nCan do an additional attack at the end.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: After the last attack (R-Click)
+[Skill: Basic Attack]\nDamage: [361%]\nSA Break: [194%]\n\n[Skill Info: Additional Attack]\nDamage: [225%]\nSA Break: [121%]\n\n[SkillInfo: General]\nSG Cost: [55]\nCooldown: [15s]\n\nCombo attack while moving forward.\nCan do an additional attack at the end.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: After the last attack (R-Click)
 Amount of damage of normal attacks \n [361%] +18 %\nSA destruction total: 194% +9 %\n\n [followup] \n damage amount: [225] +12 %\nSA fracture % 121% +6%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 0
 
 ID=11022
 Fast Blade II
-[Skill: Basic Attack]\nDamage: [379%]\nSA Break: [203%]\n\n[Skill Info: Additional Attack]\nDamage: [237%]\nSA Break: [127%]\n\n[SkillInfo: General]\nSG Cost: [55]\nCooldown: [15s]\n\Combo attack while moving forward.\nCan do an additional attack at the end.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: After the last attack (R-Click)
+[Skill: Basic Attack]\nDamage: [379%]\nSA Break: [203%]\n\n[Skill Info: Additional Attack]\nDamage: [237%]\nSA Break: [127%]\n\n[SkillInfo: General]\nSG Cost: [55]\nCooldown: [15s]\n\nCombo attack while moving forward.\nCan do an additional attack at the end.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: After the last attack (R-Click)
 [通常攻撃]\nダメージ量：[379%]+45%\nSA破壊量：[203%]+25%\n\n[追加攻撃]\nダメージ量：[237%]+28%\nSA破壊量：[127%]+15%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 0
 
 ID=11023
 Fast Blade III
-[Skill: Basic Attack]\nDamage: [424%]\nSA Break: [228%]\n\n[Skill Info: Additional Attack]\nDamage: [265%]\nSA Break: [147%]\n\n[SkillInfo: General]\nSG Cost: [55]\nCooldown: [15s]\n\Combo attack while moving forward.\nCan do an additional attack at the end.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: After the last attack (R-Click)
+[Skill: Basic Attack]\nDamage: [424%]\nSA Break: [228%]\n\n[Skill Info: Additional Attack]\nDamage: [265%]\nSA Break: [147%]\n\n[SkillInfo: General]\nSG Cost: [55]\nCooldown: [15s]\n\nCombo attack while moving forward.\nCan do an additional attack at the end.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: After the last attack (R-Click)
 [通常攻撃]\nダメージ量：[424%]+45%\nSA破壊量：[228%]+24%\n\n[追加攻撃]\nダメージ量：[265%]+29%\nSA破壊量：[142%]+15%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 0
 
 ID=11024
 Fast Blade IV
-[Skill: Basic Attack]\nDamage: [469%]\nSA Break: [252%]\n\n[Skill Info: Additional Attack]\nDamage: [294%]\nSA Break: [157%]\n\n[SkillInfo: General]\nSG Cost: [55]\nCooldown: [15s]\n\Combo attack while moving forward.\nCan do an additional attack at the end.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: After the last attack (R-Click)
+[Skill: Basic Attack]\nDamage: [469%]\nSA Break: [252%]\n\n[Skill Info: Additional Attack]\nDamage: [294%]\nSA Break: [157%]\n\n[SkillInfo: General]\nSG Cost: [55]\nCooldown: [15s]\n\nCombo attack while moving forward.\nCan do an additional attack at the end.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: After the last attack (R-Click)
 [通常攻撃]\nダメージ量：[469%]+72%\nSA破壊量：[252%]+38%\n\n[追加攻撃]\nダメージ量：[294%]+45%\nSA破壊量：[157%]+24%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 0
 
 ID=11025
 Fast Blade V
-[Skill: Basic Attack]\nDamage: [541%]\nSA Break: [290%]\n\n[Skill Info: Additional Attack]\nDamage: [339%]\nSA Break: [181%]\n\n[SkillInfo: General]\nSG Cost: [55]\nCooldown: [15s]\n\Combo attack while moving forward.\nCan do an additional attack at the end.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: After the last attack (R-Click)
+[Skill: Basic Attack]\nDamage: [541%]\nSA Break: [290%]\n\n[Skill Info: Additional Attack]\nDamage: [339%]\nSA Break: [181%]\n\n[SkillInfo: General]\nSG Cost: [55]\nCooldown: [15s]\n\nCombo attack while moving forward.\nCan do an additional attack at the end.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: After the last attack (R-Click)
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 0
 
 ID=11041
 Pierce Step I
-[Skill Info]\nDamage: [83%]\nSA Break: [330%]\nSG Cost: [30]\nCooldown: [8s]\n\nPush enemies aside by rushing forward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [83%]\nSA Break: [330%]\nSG Cost: [30]\nCooldown: [8s]\n\nPerform a series of slashes while advancing forward. An additional strike can be used with additional input.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[83%]+4%\nSA破壊量：[330%]+17%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ID=11042
 Pierce Step II
-[Skill Info]\nDamage: [87%]\nSA Break: [347%]\nSG Cost: [30]\nCooldown: [8s]\n\nPush enemies aside by rushing forward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [87%]\nSA Break: [347%]\nSG Cost: [30]\nCooldown: [8s]\n\nPerform a series of slashes while advancing forward. An additional strike can be used with additional input.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[87%]+10%\nSA破壊量：[347%]+41%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ID=11043
 Pierce Step III
-[Skill Info]\nDamage: [97%]\nSA Break: [388%]\nSG Cost: [30]\nCooldown: [8s]\n\nPush enemies aside by rushing forward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [97%]\nSA Break: [388%]\nSG Cost: [30]\nCooldown: [8s]\n\nPerform a series of slashes while advancing forward. An additional strike can be used with additional input.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[97%]+11%\nSA破壊量：[388%]+41%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ID=11044
 Pierce Step IV
-[Skill Info]\nDamage: [108%]\nSA Break: [429%]\nSG Cost: [30]\nCooldown: [8s]\n\nPush enemies aside by rushing forward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [108%]\nSA Break: [429%]\nSG Cost: [30]\nCooldown: [8s]\n\nPerform a series of slashes while advancing forward. An additional strike can be used with additional input.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[108%]+16%\nSA破壊量：[429%]+66%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ID=11045
 Pierce Step V
-[Skill Info]\nDamage: [124%]\nSA Break: [495%]\nSG Cost: [30]\nCooldown: [8s]\n\nPush enemies aside by rushing forward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [124%]\nSA Break: [495%]\nSG Cost: [30]\nCooldown: [8s]\n\nPerform a series of slashes while advancing forward. An additional strike can be used with additional input.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ID=11121
 Spin Cutter I
-[Skill Info]\nDamage: [178%]\nSA Break: [92%]\nSG Cost: [35]\nCooldown: [5s]\n\nDo consecutive attacks while spinning forward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [178%]\nSA Break: [92%]\nSG Cost: [35]\nCooldown: [5s]\n\nPush enemies away by performing a spinning slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[178%]+9%\nSA破壊量：[92%]+4%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 ID=11122
 Spin Cutter II
-[Skill Info]\nDamage: [187%]\nSA Break: [96%]\nSG Cost: [35]\nCooldown: [5s]\n\nDo consecutive attacks while spinning forward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [187%]\nSA Break: [96%]\nSG Cost: [35]\nCooldown: [5s]\n\nPush enemies away by performing a spinning slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[187%]+22%\nSA破壊量：[96%]+12%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 ID=11123
 Spin Cutter III
-[Skill Info]\nDamage: [209%]\nSA Break: [108%]\nSG Cost: [35]\nCooldown: [5s]\n\nDo consecutive attacks while spinning forward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [209%]\nSA Break: [108%]\nSG Cost: [35]\nCooldown: [5s]\n\nPush enemies away by performing a spinning slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[209%]+22%\nSA破壊量：[108%]+11%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 ID=11124
 Spin Cutter IV
-[Skill Info]\nDamage: [231%]\nSA Break: [119%]\nSG Cost: [35]\nCooldown: [5s]\n\nDo consecutive attacks while spinning forward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [231%]\nSA Break: [119%]\nSG Cost: [35]\nCooldown: [5s]\n\nPush enemies away by performing a spinning slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[231%]+36%\nSA破壊量：[119%]+19%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 ID=11125
 Spin Cutter V
-[Skill Info]\nDamage: [267%]\nSA Break: [138%]\nSG Cost: [35]\nCooldown: [5s]\n\nDo consecutive attacks while spinning forward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [267%]\nSA Break: [138%]\nSG Cost: [35]\nCooldown: [5s]\n\nPush enemies away by performing a spinning slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 ID=11131
 Blow Up I
-[Skill Info]\nPassive Effect: Stamina Cost -50%\nBuff Duration: [6s]\nSG Cost: [80]\nCooldown: [45s]\n\nEmpower your body, reducing all stamina costs by 50%.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nPassive Effect: Stamina Cost -50%\nBuff Duration: [6s]\nSG Cost: [80]\nCooldown: [45s]\n\nEnhance the body with supernatural powers, decreasing stamina consumption.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 バフ持続時間：[6秒]+2秒
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 0
 
 ID=11132
 Blow Up II
-[Skill Info]\nPassive Effect: Stamina Cost -50%\nBuff Duration: [8s]\nSG Cost: [80]\nCooldown: [45s]\n\nEmpower your body, reducing all stamina costs by 50%.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nPassive Effect: Stamina Cost -50%\nBuff Duration: [8s]\nSG Cost: [80]\nCooldown: [45s]\n\nEnhance the body with supernatural powers, decreasing stamina consumption.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 スタミナ消費量減少：[50%]+10%\nバフ持続時間：[8秒]+2秒
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 0
 
 ID=11133
 Blow Up III
-[Skill Info]\nPassive Effect: Stamina Cost -60%\nBuff Duration: [10s]\nSG Cost: [80]\nCooldown: [45s]\n\nEmpower your body, reducing all stamina costs by 50%.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nPassive Effect: Stamina Cost -60%\nBuff Duration: [10s]\nSG Cost: [80]\nCooldown: [45s]\n\nEnhance the body with supernatural powers, decreasing stamina consumption.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 スタミナ消費量減少：[60%]+10%\nバフ持続時間：[10秒]+2秒
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 0
 
 ID=11134
 Blow Up IV
-[Skill Info]\nPassive Effect: Stamina Cost -70%\nBuff Duration: [12s]\nSG Cost: [80]\nCooldown: [45s]\n\nEmpower your body, reducing all stamina costs by 50%.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nPassive Effect: Stamina Cost -70%\nBuff Duration: [12s]\nSG Cost: [80]\nCooldown: [45s]\n\nEnhance the body with supernatural powers, decreasing stamina consumption.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 スタミナ消費量減少：[70%]+10%\nバフ持続時間：[12秒]+3秒
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 0
 
 ID=11135
 Blow Up V
-[Skill Info]\nPassive Effect: Stamina Cost -50%\nBuff Duration: [15s]\nSG Cost: [80]\nCooldown: [45s]\n\nEmpower your body, reducing all stamina costs by 50%.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nPassive Effect: Stamina Cost -50%\nBuff Duration: [15s]\nSG Cost: [80]\nCooldown: [45s]\n\nEnhance the body with supernatural powers, decreasing stamina consumption.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 0
 
 ID=11031
 Blade Quake I
-[Skill Info]\nDamage: [212%]\nSA Break: [444%]\nSG Cost: [45]\nCooldown: [16s]\n\nImpale the ground with your sword, summoning multiple swords out of the ground to damage your enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [212%]\nSA Break: [444%]\nSG Cost: [45]\nCooldown: [16s]\n\nPush the sword through the ground, summoning multiple swords to deal damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[212%]+11%\nSA破壊量：[444%]+22%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
 
 ID=11032
 Blade Quake II
-[Skill Info]\nDamage: [223%]\nSA Break: [466%]\nSG Cost: [45]\nCooldown: [16s]\n\nImpale the ground with your sword, summoning multiple swords out of the ground to damage your enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [223%]\nSA Break: [466%]\nSG Cost: [45]\nCooldown: [16s]\n\nPush the sword through the ground, summoning multiple swords to deal damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[223%]+26%\nSA破壊量：[466%]+56%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
 
 ID=11033
 Blade Quake III
-[Skill Info]\nDamage: [249%]\nSA Break: [522%]\nSG Cost: [45]\nCooldown: [16s]\n\nImpale the ground with your sword, summoning multiple swords out of the ground to damage your enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [249%]\nSA Break: [522%]\nSG Cost: [45]\nCooldown: [16s]\n\nPush the sword through the ground, summoning multiple swords to deal damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[249%]+27%\nSA破壊量：[522%]+55%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
 
 ID=11034
 Blade Quake IV
-[Skill Info]\nDamage: [276%]\nSA Break: [577%]\nSG Cost: [45]\nCooldown: [16s]\n\nImpale the ground with your sword, summoning multiple swords out of the ground to damage your enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [276%]\nSA Break: [577%]\nSG Cost: [45]\nCooldown: [16s]\n\nPush the sword through the ground, summoning multiple swords to deal damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[276%]+42%\nSA破壊量：[577%]+89%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
 
 ID=11035
 Blade Quake V
-[Skill Info]\nDamage: [318%]\nSA Break: [666%]\nSG Cost: [45]\nCooldown: [16s]\n\nImpale the ground with your sword, summoning multiple swords out of the ground to damage your enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [318%]\nSA Break: [666%]\nSG Cost: [45]\nCooldown: [16s]\n\nPush the sword through the ground, summoning multiple swords to deal damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
@@ -497,140 +497,140 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeWall
 
 ID=11011
 Power Slash I
-[Skill Info]\nDamage: [455%]\nSA Break: [262%]\nSG Cost: [60]\nCooldown: [15s]\n\nPut all your power into one forward slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [455%]\nSA Break: [262%]\nSG Cost: [60]\nCooldown: [15s]\n\nSlashes frontward with great power.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[455%]+23%\nSA破壊量：[262%]+14%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PowerSlash
 0
 
 ID=11012
 Power Slash II
-[Skill Info]\nDamage: [478%]\nSA Break: [276%]\nSG Cost: [60]\nCooldown: [15s]\n\nPut all your power into one forward slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [478%]\nSA Break: [276%]\nSG Cost: [60]\nCooldown: [15s]\n\nSlashes frontward with great power.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[478%]+57%\nSA破壊量：[276%]+32%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PowerSlash
 0
 
 ID=11013
 Power Slash III
-[Skill Info]\nDamage: [535%]\nSA Break: [308%]\nSG Cost: [60]\nCooldown: [15s]\n\nPut all your power into one forward slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [535%]\nSA Break: [308%]\nSG Cost: [60]\nCooldown: [15s]\n\nSlashes frontward with great power.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[535%]+57%\nSA破壊量：[308%]+33%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PowerSlash
 0
 
 ID=11014
 Power Slash IV
-[Skill Info]\nDamage: [592%]\nSA Break: [341%]\nSG Cost: [60]\nCooldown: [15s]\n\nPut all your power into one forward slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [592%]\nSA Break: [341%]\nSG Cost: [60]\nCooldown: [15s]\n\nSlashes frontward with great power.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[592%]+91%\nSA破壊量：[341%]+53%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PowerSlash
 0
 
 ID=11015
 Power Slash V
-[Skill Info]\nDamage: [638%]\nSA Break: [394%]\nSG Cost: [60]\nCooldown: [15s]\n\nPut all your power into one forward slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [638%]\nSA Break: [394%]\nSG Cost: [60]\nCooldown: [15s]\n\nSlashes frontward with great power.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PowerSlash
 0
 
 ID=11051
 Leap Attack I
-[Skill Info]\nDamage: [392%]\nSA Break: [629%]\nSG Cost: [50]\nCooldown: [20s]\n\nLeap forward and strike the ground, launching enemies into the air. Hold the skill button to charge the skill and leap further.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [392%]\nSA Break: [629%]\nSG Cost: [50]\nCooldown: [20s]\n\nLeap forward and slam the ground, launching enemies into the air. Hold the skill button to charge the skill and leap further.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[392%]+19%\nSA破壊量：[629%]+31%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack
 0
 
 ID=11052
 Leap Attack II
-[Skill Info]\nDamage: [411%]\nSA Break: [660%]\nSG Cost: [50]\nCooldown: [20s]\n\nLeap forward and strike the ground, launching enemies into the air. Hold the skill button to charge the skill and leap further.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [411%]\nSA Break: [660%]\nSG Cost: [50]\nCooldown: [20s]\n\nLeap forward and slam the ground, launching enemies into the air. Hold the skill button to charge the skill and leap further.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[411%]+49%\nSA破壊量：[660%]+79%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack
 0
 
 ID=11053
 Leap Attack III
-[Skill Info]\nDamage: [460%]\nSA Break: [739%]\nSG Cost: [50]\nCooldown: [20s]\n\nLeap forward and strike the ground, launching enemies into the air. Hold the skill button to charge the skill and leap further.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [460%]\nSA Break: [739%]\nSG Cost: [50]\nCooldown: [20s]\n\nLeap forward and slam the ground, launching enemies into the air. Hold the skill button to charge the skill and leap further.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[460%]+49%\nSA破壊量：[739%]+78%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack
 0
 
 ID=11054
 Leap Attack IV
-[Skill Info]\nDamage: [509%]\nSA Break: [817%]\nSG Cost: [50]\nCooldown: [20s]\n\nLeap forward and strike the ground, launching enemies into the air. Hold the skill button to charge the skill and leap further.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [509%]\nSA Break: [817%]\nSG Cost: [50]\nCooldown: [20s]\n\nLeap forward and slam the ground, launching enemies into the air. Hold the skill button to charge the skill and leap further.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[509%]+79%\nSA破壊量：[817%]+126%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack
 0
 
 ID=11055
 Leap Attack V
-[Skill Info]\nDamage: [588%]\nSA Break: [943%]\nSG Cost: [50]\nCooldown: [20s]\n\nLeap forward and strike the ground, launching enemies into the air. Hold the skill button to charge the skill and leap further.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [588%]\nSA Break: [943%]\nSG Cost: [50]\nCooldown: [20s]\n\nLeap forward and slam the ground, launching enemies into the air. Hold the skill button to charge the skill and leap further.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack
 0
 
 ID=11071
 Arena Rush I
-[Skill Info]\nDamage: [100%]\nSA Break: [100%]\nPassive Effect: Attack Power +7%\nBuff Duration: [20s]\nBuff Area Duration: [10s]\nSG Cost: [50]\nCooldown: [45s]\n\nPlace a magic circle on the ground. An attack power buff will be granted to you and any ally that stands inside the circle.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [100%]\nSA Break: [100%]\nPassive Effect: Attack Power +7%\nBuff Duration: [20s]\nBuff Area Duration: [10s]\nSG Cost: [50]\nCooldown: [45s]\n\nCreate an enhancing field in a set radius. All party members within the area will have increased damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 攻撃力増加：[7%]+2%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush
 0
 
 ID=11072
 Arena Rush II
-[Skill Info]\nDamage: [100%]\nSA Break: [100%]\nPassive Effect: Attack Power +9%\nBuff Duration: [20s]\nBuff Area Duration: [10s]\nSG Cost: [50]\nCooldown: [45s]\n\nPlace a magic circle on the ground. An attack power buff will be granted to you and any ally that stands inside the circle.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [100%]\nSA Break: [100%]\nPassive Effect: Attack Power +9%\nBuff Duration: [20s]\nBuff Area Duration: [10s]\nSG Cost: [50]\nCooldown: [45s]\n\nCreate an enhancing field in a set radius. All party members within the area will have increased damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 攻撃力増加：[9%]+3%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush
 0
 
 ID=11073
 Arena Rush III
-[Skill Info]\nDamage: [100%]\nSA Break: [100%]\nPassive Effect: Attack Power +12%\nBuff Duration: [20s]\nBuff Area Duration: [10s]\nSG Cost: [50]\nCooldown: [45s]\n\nPlace a magic circle on the ground. An attack power buff will be granted to you and any ally that stands inside the circle.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [100%]\nSA Break: [100%]\nPassive Effect: Attack Power +12%\nBuff Duration: [20s]\nBuff Area Duration: [10s]\nSG Cost: [50]\nCooldown: [45s]\n\nCreate an enhancing field in a set radius. All party members within the area will have increased damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 攻撃力増加：[12%]+3%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush
 0
 
 ID=11074
 Arena Rush IV
-[Skill Info]\nDamage: [100%]\nSA Break: [100%]\nPassive Effect: Attack Power +15%\nBuff Duration: [20s]\nBuff Area Duration: [10s]\nSG Cost: [50]\nCooldown: [45s]\n\nPlace a magic circle on the ground. An attack power buff will be granted to you and any ally that stands inside the circle.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [100%]\nSA Break: [100%]\nPassive Effect: Attack Power +15%\nBuff Duration: [20s]\nBuff Area Duration: [10s]\nSG Cost: [50]\nCooldown: [45s]\n\nCreate an enhancing field in a set radius. All party members within the area will have increased damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 攻撃力増加：[15%]+5%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush
 0
 
 ID=11075
 Arena Rush V
-[Skill Info]\nDamage: [100%]\nSA Break: [100%]\nPassive Effect: Attack Power +20%\nBuff Duration: [20s]\nBuff Area Duration: [10s]\nSG Cost: [50]\nCooldown: [45s]\n\nPlace a magic circle on the ground. An attack power buff will be granted to you and any ally that stands inside the circle.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [100%]\nSA Break: [100%]\nPassive Effect: Attack Power +20%\nBuff Duration: [20s]\nBuff Area Duration: [10s]\nSG Cost: [50]\nCooldown: [45s]\n\nCreate an enhancing field in a set radius. All party members within the area will have increased damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush
 0
 
 ID=11091
 Flash Step I
-[Skill Info]\nDamage: [468%]\nSA Break: [605%]\nSG Cost: [35]\nCooldown: [20s]\n\nJump backwards and fire concentrated energy from your sword.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [468%]\nSA Break: [605%]\nSG Cost: [35]\nCooldown: [20s]\n\nSwiftly leap backwards, summoning a sword imbued with supernatural powers and firing it frontward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[468%]+23%\nSA破壊量：[605%]+30%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 0
 
 ID=11092
 Flash Step II
-[Skill Info]\nDamage: [491%]\nSA Break: [635%]\nSG Cost: [35]\nCooldown: [20s]\n\nJump backwards and fire concentrated energy from your sword.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [491%]\nSA Break: [635%]\nSG Cost: [35]\nCooldown: [20s]\n\nSwiftly leap backwards, summoning a sword imbued with supernatural powers and firing it frontward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[491%]+59%\nSA破壊量：[635%]+75%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 0
 
 ID=11093
 Flash Step III
-[Skill Info]\nDamage: [550%]\nSA Break: [710%]\nSG Cost: [35]\nCooldown: [20s]\n\nJump backwards and fire concentrated energy from your sword.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [550%]\nSA Break: [710%]\nSG Cost: [35]\nCooldown: [20s]\n\nSwiftly leap backwards, summoning a sword imbued with supernatural powers and firing it frontward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[550%]+58%\nSA破壊量：[710%]+76%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 0
 
 ID=11094
 Flash Step IV
-[Skill Info]\nDamage: [608%]\nSA Break: [786%]\nSG Cost: [35]\nCooldown: [20s]\n\nJump backwards and fire concentrated energy from your sword.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [608%]\nSA Break: [786%]\nSG Cost: [35]\nCooldown: [20s]\n\nSwiftly leap backwards, summoning a sword imbued with supernatural powers and firing it frontward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[608%]+94%\nSA破壊量：[786%]+121%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 0
 
 ID=11095
 Flash Step V
-[Skill Info]\nDamage: [702%]\nSA Break: [907%]\nSG Cost: [35]\nCooldown: [20s]\n\nJump backwards and fire concentrated energy from your sword.\n\n[Usage]\nPlace in skill slot and press corresponding key.
+[Skill Info]\nDamage: [702%]\nSA Break: [907%]\nSG Cost: [35]\nCooldown: [20s]\n\nSwiftly leap backwards, summoning a sword imbued with supernatural powers and firing it frontward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 0
@@ -749,42 +749,42 @@ Skill/Icon_SSword_Skill_BreakZenith
 
 ID=11911
 Erosion I
-[スキル情報]\n60秒間、覚醒状態になる。\n-攻撃力が20%増加する。\n-受けるダメージ量が50%減少する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nマウス：数字キー「7」入力
+[Skill info]\nAwaken for 60s.\nAttack Power +20%.\nReceived Damage -50%.\nMove Speed +20%.\nGain Super Armor\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press Number Key [7]
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BreakErode
 Description_Image/Skill/SoulumSword/Image_SSword_Break_Erode
 
 ID=12
 Basic Attack Mastery I
-[スキル情報]\n銃で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法：地上]\nマウス：(左クリック)×5\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×2
+[Skill Info]\n Attack with guns.\nAs this skill's level increases, you will be able to perform new combo attacks.\nGain SG on hit.\n SG gain varies based on attack and enemy type.\n[Usage: Ground]\nMouse: (L-Click)×5\n\n[Usage: Mid-Air]\nMouse: After jumping (L-Click)×2
 SG Gain +20%.\nUnlock alternative attack "A".
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=22
 Basic Attack Mastery II
-[スキル情報]\n銃で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\nSG獲得量が[20%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×5\n[2](左クリック)×2-(右クリック)×2\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×2
-SG獲得量：[20%]+50%\n基本攻撃の追加攻撃を使用できる。
+[Skill Info]\n Attack with guns.\nAs this skill's level increases, you will be able to perform new combo attacks.\nGain SG on hit.\n SG gain varies based on attack and enemy type.\nSG gain +20%\n[Usage: Ground]\nMouse:\n[1] (L-Click)×5\n[2] (L-Click)×2 - (R-Click)×2\n\n[Usage: Mid-Air]\nMouse: After jumping (L-Click)×2
+SG Gain: [20%]+50%\nUnlock additional basic attack.
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=32
 Basic Attack Mastery III
-[スキル情報]\n銃で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\nSG獲得量が[70%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×6\n[2](左クリック)×2-(右クリック)×2\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×2
+[Skill Info]\n Attack with guns.\nAs this skill's level increases, you will be able to perform new combo attacks.\nGain SG on hit.\n SG gain varies based on attack and enemy type.\nSG gain +70%\n[Usage: Ground]\nMouse:\n[1] (L-Click)×6\n[2] (L-Click)×2 - (R-Click)×2\n\n[Usage: Aerial]\nMouse: After jumping (L-Click)×2
 SG獲得量：[70%]+50%\n空中攻撃の追加攻撃を使用できる。
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=42
 Basic Attack Mastery IV
-[スキル情報]\n銃で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\nSG獲得量が[120%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×6\n[2](左クリック)×2-(右クリック)×2\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×3
+[Skill Info]\n Attack with guns.\nAs this skill's level increases, you will be able to perform new combo attacks.\nGain SG on hit.\n SG gain varies based on attack and enemy type.\nSG gain +120%\n[Usage: Ground]\nMouse:\n[1] (L-Click)×6\n[2] (L-Click)×2 - (R-Click)×2\n\n[Usage: Aerial]\nMouse: After jumping (L-Click)×3
 SG獲得量：[120%]+80%\n分岐攻撃Bを使用できる。
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=52
 Basic Attack Mastery V
-[スキル情報]\n銃で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\nSG獲得量が[200%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×6\n[2](左クリック)×2-(右クリック)×2\n[3](左クリック)×5-(右クリック)\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×3
+[Skill Info]\n Attack with guns.\nAs this skill's level increases, you will be able to perform new combo attacks.\nGain SG on hit.\n SG gain varies based on attack and enemy type.\nSG gain +200%\n[Usage: Ground]\nMouse:\n[1] (L-Click)×6\n[2] (L-Click)×2 - (R-Click)×2\n[3] (L-Click)×5 - (R-Click)\n\n[Usage: Aerial]\nMouse: After jumping (L-Click)×3
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
@@ -833,28 +833,28 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 
 ID=212
 Sub-weapon Mastery
-[スキル情報]\n敵に100%のダメージを与える。\n\n敵に付着後、爆発するトラップを発射する。付着した対象へは命中度が100%増加する。付着したトラップは5秒後に爆発する。
+[Skill Info]\nDeal 100% damage to an enemy.\nFire a sticky bomb at an enemy. Attacking an adhered enemy will have Accuracy +100%. The bomb will explode after 5s.
 現在は習得できません。
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=222
 Sub-weapon Mastery
-[スキル情報]\n敵に100%のダメージを与える。\n\n敵に付着後、爆発するトラップを発射する。付着した対象へは命中度が100%増加する。付着したトラップは5秒後に爆発する。
+[Skill Info]\nDeal 100% damage to an enemy.\nFire a sticky bomb at an enemy. Attacking an adhered enemy will have Accuracy +100%. The bomb will explode after 5s.
 現在は習得できません。
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=232
 Sub-weapon Mastery
-[スキル情報]\n敵に100%のダメージを与える。\n\n敵に付着後、爆発するトラップを発射する。付着した対象へは命中度が100%増加する。付着したトラップは5秒後に爆発する。
+[Skill Info]\nDeal 100% damage to an enemy.\nFire a sticky bomb at an enemy. Attacking an adhered enemy will have Accuracy +100%. The bomb will explode after 5s.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=2041
 Emergency Dodge I
-[Skill Info]\nStamina Cost: [20]\n\nSwiftly move in a direction.\nNegate damage during an emergency dodge.\n\nUseage\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
+[Skill Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\nUseage\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
@@ -882,14 +882,14 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 
 ID=2101
 Dash I
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
+Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
 ダッシュの速度が上昇する。
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=2102
 Dash II
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
+Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
@@ -917,7 +917,7 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 
 ID=2111
 Dash Attack I
-[スキル情報]\nダメージ量：[102%]\nSA破壊量：[54%]\n\nダッシュ中に空中で体を回転させ、とび蹴りをする。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(左クリック)
+[Skill Info]\nDamage: [102%]\nSA Break: [54%]\n\nDo a flying kick while dashing.\nGain SG on hit.\nSG gain varies by attack and enemy type.\n\n[Usage]\nMouse: While dashing (L-Click)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
@@ -945,7 +945,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 
 ID=2121
 Special Dash Attack I
-[スキル情報]\nダメージ量：[271%]\nSA破壊量：[121]\nクールタイム：[5秒]\n\nダッシュ中に前方へ滑りながら、敵に接近して近接射撃を行う。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(右クリック)
+[Skill Info]\nDamage: [271%]\nSA Break: [121%]\nCooldown: [5s]\n\nSlide forward into the enemy and shoot your surroundings.\nGain SG on hit.\nSG gain varies by attack and enemy type.\n\n[Usage]\nMouse: While dashing (R-Click)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
@@ -973,28 +973,28 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 
 ID=2131
 快楽の弾丸Ⅰ
-[スキル情報]\n通常攻撃命中時、SGを回復する。\n一定時間ごとに自動でSGを回復する。\nスキル使用後、5秒以内に別のスキルを使用すると重複され、3重複するごとにSGを2回復する。
+[Skill Info]\nGain SG when hitting an enemy.\nPassively gain SG in set intervals.\nUsing a skill within 5s will duplicate it. Duplicating a skill 3 times will double the SG gain.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
 
 ID=2141
 意外な幸運Ⅰ
-[スキル情報]\nパッシブ効果：回避度[100]増加\n\n回避度が増加する。
+[Skill Info]\nPassive Effect: Evasion +100\nIncrease your evasion.
 回避度増加：[100]+100
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SGPassive
 0
 
 ID=2142
 意外な幸運Ⅱ
-[スキル情報]\nパッシブ効果：回避度[200]増加\n\n回避度が増加する。
+[Skill Info]\nPassive Effect: Evasion +200\nIncrease your evasion.
 回避度増加：[200]+100
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SGPassive
 0
 
 ID=2143
 意外な幸運Ⅲ
-[スキル情報]\nパッシブ効果：回避度[300]増加\n\n回避度が増加する。
+[Skill Info]\nPassive Effect: Evasion +300\nIncrease your evasion.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SGPassive
 0
@@ -1036,455 +1036,455 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 
 ID=12011
 Sky High I
-[スキル情報]\nダメージ量：[117%]\nSA破壊量：[156%]\nSG消費量：[1]\nクールタイム：[5秒]\n\n前方の敵をその場で蹴り上げ、高く浮かせる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [117%]\nSA Break: [156%]\nSG Cost: [1]\nCooldown: [5s]\n\nKick the enemies ahead of you, launching them to the air.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[117%]+6%\nSA破壊量：[156%]+7%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh
 0
 
 ID=12012
 Sky High II
-[スキル情報]\nダメージ量：[123%]\nSA破壊量：[163%]\nSG消費量：[1]\nクールタイム：[5秒]\n\n前方の敵をその場で蹴り上げ、高く浮かせる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [123%]\nSA Break: [163%]\nSG Cost: [1]\nCooldown: [5s]\n\nKick the enemies ahead of you, launching them to the air.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[123%]+14%\nSA破壊量：[163%]+20%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh
 0
 
 ID=12013
 Sky High III
-[スキル情報]\nダメージ量：[137%]\nSA破壊量：[183%]\nSG消費量：[1]\nクールタイム：[5秒]\n\n前方の敵をその場で蹴り上げ、高く浮かせる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [137%]\nSA Break: [183%]\nSG Cost: [1]\nCooldown: [5s]\n\nKick the enemies ahead of you, launching them to the air.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[137%]+15%\nSA破壊量：[183%]+19%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh
 0
 
 ID=12014
 Sky High IV
-[スキル情報]\nダメージ量：[152%]\nSA破壊量：[202%]\nSG消費量：[1]\nクールタイム：[5秒]\n\n前方の敵をその場で蹴り上げ、高く浮かせる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [152%]\nSA Break: [202%]\nSG Cost: [1]\nCooldown: [5s]\n\nKick the enemies ahead of you, launching them to the air.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[152%]+23%\nSA破壊量：[202%]+31%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh
 0
 
 ID=12015
 Sky High V
-[スキル情報]\nダメージ量：[175%]\nSA破壊量：[233%]\nSG消費量：[1]\nクールタイム：[5秒]\n\n前方の敵をその場で蹴り上げ、高く浮かせる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [175%]\nSA Break: [233%]\nSG Cost: [1]\nCooldown: [5s]\n\nKick the enemies ahead of you, launching them to the air.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh
 0
 
 ID=12021
 Rapid Fire I
-[スキル情報]\nダメージ量：[158%]\nSA破壊量：[125%]\nSG消費量：[2]\nクールタイム：[10秒]\n\n二丁の銃で前方を素早く連続射撃する。スキル使用中に移動可能。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [158%]\nSA Break: [125%]\nSG Cost: [2]\nCooldown: [10s]\n\nQuickly fire with both guns. Can move while using this skill.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[158%]+8%\nSA破壊量：[125%]+6%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_RapidFire
 0
 
 ID=12022
 Rapid Fire II
-[スキル情報]\nダメージ量：[166%]\nSA破壊量：[131%]\nSG消費量：[2]\nクールタイム：[10秒]\n\n二丁の銃で前方を素早く連続射撃する。スキル使用中に移動可能。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [166%]\nSA Break: [131%]\nSG Cost: [2]\nCooldown: [10s]\n\nQuickly fire with both guns. Can move while using this skill.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[166%]+19%\nSA破壊量：[131%]+15%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_RapidFire
 0
 
 ID=12023
 Rapid Fire III
-[スキル情報]\nダメージ量：[185%]\nSA破壊量：[146%]\nSG消費量：[2]\nクールタイム：[10秒]\n\n二丁の銃で前方を素早く連続射撃する。スキル使用中に移動可能。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [185%]\nSA Break: [146%]\nSG Cost: [2]\nCooldown: [10s]\n\nQuickly fire with both guns. Can move while using this skill.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[185%]+20%\nSA破壊量：[146%]+16%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_RapidFire
 0
 
 ID=12024
 Rapid Fire IV
-[スキル情報]\nダメージ量：[205%]\nSA破壊量：[162%]\nSG消費量：[2]\nクールタイム：[10秒]\n\n二丁の銃で前方を素早く連続射撃する。スキル使用中に移動可能。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [205%]\nSA Break: [162%]\nSG Cost: [2]\nCooldown: [10s]\n\nQuickly fire with both guns. Can move while using this skill.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[205%]+32%\nSA破壊量：[162%]+25%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_RapidFire
 0
 
 ID=12025
 Rapid Fire V
-[スキル情報]\nダメージ量：[237%]\nSA破壊量：[187%]\nSG消費量：[2]\nクールタイム：[10秒]\n\n二丁の銃で前方を素早く連続射撃する。スキル使用中に移動可能。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [237%]\nSA Break: [187%]\nSG Cost: [2]\nCooldown: [10s]\n\nQuickly fire with both guns. Can move while using this skill.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_RapidFire
 0
 
 ID=12031
 Slide Step I
-[スキル情報]\nダメージ量：[129%]\nSA破壊量：[132%]\nSG消費量：[1]\nクールタイム：[5秒]\n\n素早く後ろにスライドしながら攻撃を回避する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [129%]\nSA Break: [132%]\nSG Cost: [1]\nCooldown: [5s]\n\nRapidly slide back and avoid incoming attacks.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[129%]+7%\nSA破壊量：[132%]+6%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SlideStep
 0
 
 ID=12032
 Slide Step II
-[スキル情報]\nダメージ量：[136%]\nSA破壊量：[138%]\nSG消費量：[1]\nクールタイム：[5秒]\n\n素早く後ろにスライドしながら攻撃を回避する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [136%]\nSA Break: [138%]\nSG Cost: [1]\nCooldown: [5s]\n\nRapidly slide back and avoid incoming attacks.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[136%]+16%\nSA破壊量：[138%]+17%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SlideStep
 0
 
 ID=12033
 Slide Step III
-[スキル情報]\nダメージ量：[152%]\nSA破壊量：[155%]\nSG消費量：[1]\nクールタイム：[5秒]\n\n素早く後ろにスライドしながら攻撃を回避する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [152%]\nSA Break: [155%]\nSG Cost: [1]\nCooldown: [5s]\n\nRapidly slide back and avoid incoming attacks.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[152%]+16%\nSA破壊量：[155%]+16%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SlideStep
 0
 
 ID=12034
 Slide Step IV
-[スキル情報]\nダメージ量：[168%]\nSA破壊量：[171%]\nSG消費量：[1]\nクールタイム：[5秒]\n\n素早く後ろにスライドしながら攻撃を回避する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [168%]\nSA Break: [171%]\nSG Cost: [1]\nCooldown: [5s]\n\nRapidly slide back and avoid incoming attacks.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[168%]+26%\nSA破壊量：[171%]+26%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SlideStep
 0
 
 ID=12035
 Slide Step V
-[スキル情報]\nダメージ量：[194%]\nSA破壊量：[197%]\nSG消費量：[1]\nクールタイム：[5秒]\n\n素早く後ろにスライドしながら攻撃を回避する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [194%]\nSA Break: [197%]\nSG Cost: [1]\nCooldown: [5s]\n\nRapidly slide back and avoid incoming attacks.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SlideStep
 0
 
 ID=12131
 Take Aim I
-[スキル情報]\nバフ効果：敵の防御度貫通[7%]増加\nバフ持続時間：[20秒]\nSG消費量：[4]\nクールタイム：[45秒]\n\n一時的に集中力を向上させ、敵の弱点を狙う。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[Skill info]\nBuff Effect: Penetration Rate +7%\nBuff Duration: [20s]\nSG Cost: [4]\nCooldown: [45s]\n\nImprove concentration to aim at the enemy's weak points.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 敵の防御度貫通：[7%]+2%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_TakeAim
 0
 
 ID=12132
 Take Aim II
-[スキル情報]\nバフ効果：敵の防御度貫通[9%]増加\nバフ持続時間：[20秒]\nSG消費量：[4]\nクールタイム：[45秒]\n\n一時的に集中力を向上させ、敵の弱点を狙う。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[Skill info]\nBuff Effect: Penetration Rate +9%\nBuff Duration: [20s]\nSG Cost: [4]\nCooldown: [45s]\n\nImprove concentration to aim at the enemy's weak points.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 敵の防御度貫通：[9%]+3%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_TakeAim
 0
 
 ID=12133
 Take Aim III
-[スキル情報]\nバフ効果：敵の防御度貫通[12%]増加\nバフ持続時間：[20秒]\nSG消費量：[4]\nクールタイム：[45秒]\n\n一時的に集中力を向上させ、敵の弱点を狙う。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[Skill info]\nBuff Effect: Penetration Rate +12%\nBuff Duration: [20s]\nSG Cost: [4]\nCooldown: [45s]\n\nImprove concentration to aim at the enemy's weak points.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 敵の防御度貫通：[12%]+3%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_TakeAim
 0
 
 ID=12134
 Take Aim IV
-[スキル情報]\nバフ効果：敵の防御度貫通[15%]増加\nバフ持続時間：[20秒]\nSG消費量：[4]\nクールタイム：[45秒]\n\n一時的に集中力を向上させ、敵の弱点を狙う。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[Skill info]\nBuff Effect: Penetration Rate +15%\nBuff Duration: [20s]\nSG Cost: [4]\nCooldown: [45s]\n\nImprove concentration to aim at the enemy's weak points.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 敵の防御度貫通：[15%]+5%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_TakeAim
 0
 
 ID=12135
 Take Aim V
-[スキル情報]\nバフ効果：敵の防御度貫通[20%]増加\nバフ持続時間：[20秒]\nSG消費量：[4]\nクールタイム：[45秒]\n\n一時的に集中力を向上させ、敵の弱点を狙う。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[Skill info]\nBuff Effect: Penetration Rate +20%\nBuff Duration: [20s]\nSG Cost: [4]\nCooldown: [45s]\n\nImprove concentration to aim at the enemy's weak points.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_TakeAim
 0
 
 ID=12041
 Focus Shot I
-[スキル情報]\nダメージ量：攻撃1回あたり[59%]\nSA破壊量：攻撃1回あたり[34%]\nSG消費量：[3]\nクールタイム：[15秒]\n\n武器をマシンガン形態に変形させ、\nその場で前方に素早く連射する。\nスキルレベルが上がるほど射撃時間が増加する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック長押し)
+[Skill Info]\nDamage: [59%] per 1 hit\nSA Break: [34%] per 1 hit\nSG Cost: [3]\nCooldown: [15s]\n\nConvert the guns into a machine gun, firing rapidly at enemies. The fire duration increases as the skill level increases.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Addtional Attack]\nMouse: hold (L-Click)
 ダメージ量：[59%]+3%\nSA破壊量：[34%]+2%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot
 0
 
 ID=12042
 Focus Shot II
-[スキル情報]\nダメージ量：攻撃1回あたり[62%]\nSA破壊量：攻撃1回あたり[36%]\nSG消費量：[3]\nクールタイム：[15秒]\n\n武器をマシンガン形態に変形させ、\nその場で前方に素早く連射する。\nスキルレベルが上がるほど射撃時間が増加する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック長押し)
+[Skill Info]\nDamage: [62%] per 1 hit\nSA Break: [36%] per 1 hit\nSG Cost: [3]\nCooldown: [15s]\n\nConvert the guns into a machine gun, firing rapidly at enemies. The fire duration increases as the skill level increases.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Addtional Attack]\nMouse: hold (L-Click)
 ダメージ量：[62%]+7%\nSA破壊量：[36%]+4%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot
 0
 
 ID=12043
 Focus Shot III
-[スキル情報]\nダメージ量：攻撃1回あたり[69%]\nSA破壊量：攻撃1回あたり[40%]\nSG消費量：[3]\nクールタイム：[15秒]\n\n武器をマシンガン形態に変形させ、\nその場で前方に素早く連射する。\nスキルレベルが上がるほど射撃時間が増加する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック長押し)
+[Skill Info]\nDamage: [69%] per 1 hit\nSA Break: [40%] per 1 hit\nSG Cost: [3]\nCooldown: [15s]\n\nConvert the guns into a machine gun, firing rapidly at enemies. The fire duration increases as the skill level increases.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Addtional Attack]\nMouse: hold (L-Click)
 ダメージ量：[69%]+7%\nSA破壊量：[40%]+4%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot
 0
 
 ID=12044
 Focus Shot IV
-[スキル情報]\nダメージ量：攻撃1回あたり[76%]\nSA破壊量：攻撃1回あたり[44%]\nSG消費量：[3]\nクールタイム：[15秒]\n\n武器をマシンガン形態に変形させ、\nその場で前方に素早く連射する。\nスキルレベルが上がるほど射撃時間が増加する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック長押し)
+[Skill Info]\nDamage: [76%] per 1 hit\nSA Break: [44%] per 1 hit\nSG Cost: [3]\nCooldown: [15s]\n\nConvert the guns into a machine gun, firing rapidly at enemies. The fire duration increases as the skill level increases.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Addtional Attack]\nMouse: hold (L-Click)
 ダメージ量：[76%]+12%\nSA破壊量：[44%]+7%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot
 0
 
 ID=12045
 Focus Shot V
-[スキル情報]\nダメージ量：攻撃1回あたり[88%]\nSA破壊量：攻撃1回あたり[51%]\nSG消費量：[3]\nクールタイム：[15秒]\n\n武器をマシンガン形態に変形させ、\nその場で前方に素早く連射する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック長押し)
+[Skill Info]\nDamage: [88%] per 1 hit\nSA Break: [51%] per 1 hit\nSG Cost: [3]\nCooldown: [15s]\n\nConvert the guns into a machine gun, firing rapidly at enemies. The fire duration increases as the skill level increases.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Addtional Attack]\nMouse: hold (L-Click)
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot
 0
 
 ID=12051
 Gun Combination I
-[スキル情報]\nダメージ量：[196%]\nSA破壊量：[106%]\nSG消費量：[2]\nクールタイム：[8秒]\n\n前方の敵に素早く近づき、近接連射攻撃を繰り出す。\n発射された弾丸は分散するため、\n一番近い敵にもっとも大きなダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [196%]\nSA Break: [106%]\nSG Cost: [2]\nCooldown: [8s]\n\nApproach the enemies with great speed, and then fire at enemies close range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[196%]+10%\nSA破壊量：[106%]+5%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GunCombination
 0
 
 ID=12052
 Gun Combination II
-[スキル情報]\nダメージ量：[206%]\nSA破壊量：[111%]\nSG消費量：[2]\nクールタイム：[8秒]\n\n前方の敵に素早く近づき、近接連射攻撃を繰り出す。\n発射された弾丸は分散するため、\n一番近い敵にもっとも大きなダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [206%]\nSA Break: [111%]\nSG Cost: [2]\nCooldown: [8s]\n\nApproach the enemies with great speed, and then fire at enemies close range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[206%]+24%\nSA破壊量：[111%]+13%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GunCombination
 0
 
 ID=12053
 Gun Combination III
-[スキル情報]\nダメージ量：[230%]\nSA破壊量：[124%]\nSG消費量：[2]\nクールタイム：[8秒]\n\n前方の敵に素早く近づき、近接連射攻撃を繰り出す。\n発射された弾丸は分散するため、\n一番近い敵にもっとも大きなダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [230%]\nSA Break: [124%]\nSG Cost: [2]\nCooldown: [8s]\n\nApproach the enemies with great speed, and then fire at enemies close range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[230%]+25%\nSA破壊量：[124%]+13%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GunCombination
 0
 
 ID=12054
 Gun Combination IV
-[スキル情報]\nダメージ量：[255%]\nSA破壊量：[137%]\nSG消費量：[2]\nクールタイム：[8秒]\n\n前方の敵に素早く近づき、近接連射攻撃を繰り出す。\n発射された弾丸は分散するため、\n一番近い敵にもっとも大きなダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [255%]\nSA Break: [137%]\nSG Cost: [2]\nCooldown: [8s]\n\nApproach the enemies with great speed, and then fire at enemies close range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[255%]+39%\nSA破壊量：[137%]+21%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GunCombination
 0
 
 ID=12055
 Gun Combination V
-[スキル情報]\nダメージ量：[294%]\nSA破壊量：[158%]\nSG消費量：[2]\nクールタイム：[8秒]\n\n前方の敵に素早く近づき、近接連射攻撃を繰り出す。\n発射された弾丸は分散するため、\n一番近い敵にもっとも大きなダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [294%]\nSA Break: [158%]\nSG Cost: [2]\nCooldown: [8s]\n\nApproach the enemies with great speed, and then fire at enemies close range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GunCombination
 0
 
 ID=12061
 Combat Master I
-[スキル情報]\nダメージ量：[234%]\nSA破壊量：[133%]\nSG消費量：[2]\nクールタイム：[10秒]\n\n素早く前進し、近接射撃攻撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [234%]\nSA Break: [133%]\nSG Cost: [2]\nCooldown: [10s]\n\nFastly move forward and fire at enemies close range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[234%]+12%\nSA破壊量：[133%]+7%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_CombatMaster
 0
 
 ID=12062
 Combat Master II
-[スキル情報]\nダメージ量：[255%]\nSA破壊量：[140%]\nSG消費量：[2]\nクールタイム：[10秒]\n\n素早く前進し、近接射撃攻撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [255%]\nSA Break: [140%]\nSG Cost: [2]\nCooldown: [10s]\n\nFastly move forward and fire at enemies close range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[255%]+30%\nSA破壊量：[140%]+16%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_CombatMaster
 0
 
 ID=12063
 Combat Master III
-[スキル情報]\nダメージ量：[285%]\nSA破壊量：[156%]\nSG消費量：[2]\nクールタイム：[10秒]\n\n素早く前進し、近接射撃攻撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [285%]\nSA Break: [156%]\nSG Cost: [2]\nCooldown: [10s]\n\nFastly move forward and fire at enemies close range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[285%]+30%\nSA破壊量：[156%]+17%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_CombatMaster
 0
 
 ID=12064
 Combat Master IV
-[スキル情報]\nダメージ量：[315%]\nSA破壊量：[173%]\nSG消費量：[2]\nクールタイム：[10秒]\n\n素早く前進し、近接射撃攻撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [315%]\nSA Break: [173%]\nSG Cost: [2]\nCooldown: [10s]\n\nFastly move forward and fire at enemies close range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[315%]+49%\nSA破壊量：[173%]+26%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_CombatMaster
 0
 
 ID=12065
 Combat Master V
-[スキル情報]\nダメージ量：[364%]\nSA破壊量：[199%]\nSG消費量：[2]\nクールタイム：[10秒]\n\n素早く前進し、近接射撃攻撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [364%]\nSA Break: [199%]\nSG Cost: [2]\nCooldown: [10s]\n\nFastly move forward and fire at enemies close range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_CombatMaster
 0
 
 ID=12071
 Guided Shot I
-[スキル情報]\nダメージ量：[348%]\nSA破壊量：[387%]\nチャージ時、ダメージ量とSA破壊量が1.5倍に増加し、最大で2.25倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[3]\nクールタイム：[25秒]\n\n武器をスナイパーライフル形態に変形させた後、前方に強力な一撃を放つ。攻撃は貫通効果を持っており、直線上にいる敵に同一ダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを長押し
+[Skill Info]\nDamage: [348%]\nSA Break: [387%]\nCharge to increase Damage and SA Break by 1.5x - 2.25x.\n\n[Skill Info: General]\nMax Charge: [3]\n SG Cost: [3]\nCooldown: [25s]\n\nConvert the guns into a sniper rifle, shooting a powerful shot that penetrates through enemies in a straight line.\n\n[操作方法]\nスキルスロットに登録して該当キーを長押し
 ダメージ量：[348%]+18%\nSA破壊量：[387%]+19%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GuidedShot
 0
 
 ID=12072
 Guided Shot II
-[スキル情報]\nダメージ量：[366%]\nSA破壊量：[406%]\nチャージ時、ダメージ量とSA破壊量が1.5倍に増加し、最大で2.25倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[3]\nクールタイム：[25秒]\n\n武器をスナイパーライフル形態に変形させた後、前方に強力な一撃を放つ。攻撃は貫通効果を持っており、直線上にいる敵に同一ダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを長押し
+[Skill Info]\nDamage: [366%]\nSA Break: [406%]\nCharge to increase Damage and SA Break by 1.5x - 2.25x.\n\n[Skill Info: General]\nMax Charge: [3]\n SG Cost: [3]\nCooldown: [25s]\n\nConvert the guns into a sniper rifle, shooting a powerful shot that penetrates through enemies in a straight line.\n\n[操作方法]\nスキルスロットに登録して該当キーを長押し
 ダメージ量：[366%]+43%\nSA破壊量：[406%]+48%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GuidedShot
 0
 
 ID=12073
 Guided Shot III
-[スキル情報]\nダメージ量：[409%]\nSA破壊量：[454%]\nチャージ時、ダメージ量とSA破壊量が1.5倍に増加し、最大で2.25倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[3]\nクールタイム：[25秒]\n\n武器をスナイパーライフル形態に変形させた後、前方に強力な一撃を放つ。攻撃は貫通効果を持っており、直線上にいる敵に同一ダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを長押し
+[Skill Info]\nDamage: [409%]\nSA Break: [454%]\nCharge to increase Damage and SA Break by 1.5x - 2.25x.\n\n[Skill Info: General]\nMax Charge: [3]\n SG Cost: [3]\nCooldown: [25s]\n\nConvert the guns into a sniper rifle, shooting a powerful shot that penetrates through enemies in a straight line.\n\n[操作方法]\nスキルスロットに登録して該当キーを長押し
 ダメージ量：[409%]+44%\nSA破壊量：[454%]+48%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GuidedShot
 0
 
 ID=12074
 Guided Shot IV
-[スキル情報]\nダメージ量：[453%]\nSA破壊量：[502%]\nチャージ時、ダメージ量とSA破壊量が1.5倍に増加し、最大で2.25倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[3]\nクールタイム：[25秒]\n\n武器をスナイパーライフル形態に変形させた後、前方に強力な一撃を放つ。攻撃は貫通効果を持っており、直線上にいる敵に同一ダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを長押し
+[Skill Info]\nDamage: [453%]\nSA Break: [502%]\nCharge to increase Damage and SA Break by 1.5x - 2.25x.\n\n[Skill Info: General]\nMax Charge: [3]\n SG Cost: [3]\nCooldown: [25s]\n\nConvert the guns into a sniper rifle, shooting a powerful shot that penetrates through enemies in a straight line.\n\n[操作方法]\nスキルスロットに登録して該当キーを長押し
 ダメージ量：[453%]+69%\nSA破壊量：[502%]+78%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GuidedShot
 0
 
 ID=12075
 Guided Shot V
-[スキル情報]\nダメージ量：[522%]\nSA破壊量：[580%]\nチャージ時、ダメージ量とSA破壊量が1.5倍に増加し、最大で2.25倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[3]\nクールタイム：[25秒]\n\n武器をスナイパーライフル形態に変形させた後、前方に強力な一撃を放つ。攻撃は貫通効果を持っており、直線上にいる敵に同一ダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを長押し
+[Skill Info]\nDamage: [522%]\nSA Break: [580%]\nCharge to increase Damage and SA Break by 1.5x - 2.25x.\n\n[Skill Info: General]\nMax Charge: [3]\n SG Cost: [3]\nCooldown: [25s]\n\nConvert the guns into a sniper rifle, shooting a powerful shot that penetrates through enemies in a straight line.\n\n[操作方法]\nスキルスロットに登録して該当キーを長押し
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GuidedShot
 0
 
 ID=12081
 Electric Shot I
-[スキル情報]\nダメージ量：[171%]\nSA破壊量：[688%]\nSG消費量：[3]\nクールタイム：[20秒]\n\n武器をグレネードランチャー形態に変形させ、前方に強力な榴弾を発射する。榴弾は着弾地点で炸裂し、周辺の敵にダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [171%]\nSA Break: [688%]\nSG Cost: [3]\nCooldown: [20s]\n\nConvert the guns into a grenade launcher, which fires a powerful grenade that explodes and deal damage to the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[171%]+9%\nSA破壊量：[688%]+34%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_ElectricShot
 0
 
 ID=12082
 Electric Shot II
-[スキル情報]\nダメージ量：[180%]\nSA破壊量：[772%]\nSG消費量：[3]\nクールタイム：[20秒]\n\n武器をグレネードランチャー形態に変形させ、前方に強力な榴弾を発射する。榴弾は着弾地点で炸裂し、周辺の敵にダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [180%]\nSA Break: [772%]\nSG Cost: [3]\nCooldown: [20s]\n\nConvert the guns into a grenade launcher, which fires a powerful grenade that explodes and deal damage to the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[180%]+21%\nSA破壊量：[772%]+86%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_ElectricShot
 0
 
 ID=12083
 Electric Shot III
-[スキル情報]\nダメージ量：[201%]\nSA破壊量：[808%]\nSG消費量：[3]\nクールタイム：[20秒]\n\n武器をグレネードランチャー形態に変形させ、前方に強力な榴弾を発射する。榴弾は着弾地点で炸裂し、周辺の敵にダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [201%]\nSA Break: [808%]\nSG Cost: [3]\nCooldown: [20s]\n\nConvert the guns into a grenade launcher, which fires a powerful grenade that explodes and deal damage to the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[201%]+22%\nSA破壊量：[808%]+86%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_ElectricShot
 0
 
 ID=12084
 Electric Shot IV
-[スキル情報]\nダメージ量：[223%]\nSA破壊量：[894%]\nSG消費量：[3]\nクールタイム：[20秒]\n\n武器をグレネードランチャー形態に変形させ、前方に強力な榴弾を発射する。榴弾は着弾地点で炸裂し、周辺の敵にダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [223%]\nSA Break: [894%]\nSG Cost: [3]\nCooldown: [20s]\n\nConvert the guns into a grenade launcher, which fires a powerful grenade that explodes and deal damage to the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[223%]+34%\nSA破壊量：[894%]+138%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_ElectricShot
 0
 
 ID=12085
 Electric Shot V
-[スキル情報]\nダメージ量：[257%]\nSA破壊量：[1032%]\nSG消費量：[3]\nクールタイム：[20秒]\n\n武器をグレネードランチャー形態に変形させ、前方に強力な榴弾を発射する。榴弾は着弾地点で炸裂し、周辺の敵にダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [257%]\nSA Break: [1032%]\nSG Cost: [3]\nCooldown: [20s]\n\nConvert the guns into a grenade launcher, which fires a powerful grenade that explodes and deal damage to the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_ElectricShot
 0
 
 ID=12121
 Napalm Bomb I
-[スキル情報]\nダメージ量：攻撃1回あたり[17%]\nデバフ効果：火傷(1秒ごとに[3%]HP減少)\nデバフ持続時間：[3秒]\nSA破壊量：攻撃1回あたり[132%]\nSG消費量：[4]\nクールタイム：[20秒]\n\n空中で武器をグレネードランチャー形態に変形させ、地上広範囲を爆撃する。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Skill Info]\nDamage: [17%] per 1 hit\nDebuff Effect: Burn (3%HP per second)\nDebuff Duration: [3s]\nSA Break: [132%] per 1 hit\nSG Cost: [4]\nCooldown: [20s]\n\nFire many grenades by converting the guns into a grenade launcher in the air, dealing damage over a large area.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots).
 ダメージ量：[17%]+1%\n火傷効果：HP減少[3%]+1%\nSA破壊量：[132%]+7%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_NapalmBomb
 0
 
 ID=12122
 Napalm Bomb II
-[スキル情報]\nダメージ量：攻撃1回あたり[61%]\nデバフ効果：火傷(1秒ごとに[4%]HP減少)\nデバフ持続時間：[3秒]\nSA破壊量：攻撃1回あたり[100%]\nSG消費量：[4]\nクールタイム：[20秒]\n\n空中で武器をグレネードランチャー形態に変形させ、地上広範囲を爆撃する。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Skill Info]\nDamage: [61%] per 1 hit\nDebuff Effect: Burn (4%HP per second)\nDebuff Duration: [3s]\nSA Break: [100%] per 1 hit\nSG Cost: [4]\nCooldown: [20s]\n\nFire many grenades by converting the guns into a grenade launcher in the air, dealing damage over a large area.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots).
 ダメージ量：[18%]+2%\n火傷効果：HP減少[4%]+2%\nSA破壊量：[139%]+16%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_NapalmBomb
 0
 
 ID=12123
 Napalm Bomb III
-[スキル情報]\nダメージ量：攻撃1回あたり[68%]\nデバフ効果：火傷(1秒ごとに[6%]HP減少)\nデバフ持続時間：[3秒]\nSA破壊量：攻撃1回あたり[112%]\nSG消費量：[4]\nクールタイム：[20秒]\n\n空中で武器をグレネードランチャー形態に変形させ、地上広範囲を爆撃する。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Skill Info]\nDamage: [68%] per 1 hit\nDebuff Effect: Burn (6%HP per second)\nDebuff Duration: [3s]\nSA Break: [112%] per 1 hit\nSG Cost: [4]\nCooldown: [20s]\n\nFire many grenades by converting the guns into a grenade launcher in the air, dealing damage over a large area.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots).
 ダメージ量：[20%]+2%\n火傷効果：HP減少[6%]+2%\nSA破壊量：[155%]+17%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_NapalmBomb
 0
 
 ID=12124
 Napalm Bomb IV
-[スキル情報]\nダメージ量：攻撃1回あたり[22%]\nデバフ効果：火傷(1秒ごとに[8%]HP減少)\nデバフ持続時間：[3秒]\nSA破壊量：攻撃1回あたり[172%]\nSG消費量：[4]\nクールタイム：[20秒]\n\n空中で武器をグレネードランチャー形態に変形させ、地上広範囲を爆撃する。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Skill Info]\nDamage: [22%] per 1 hit\nDebuff Effect: Burn (8%HP per second)\nDebuff Duration: [3s]\nSA Break: [172%] per 1 hit\nSG Cost: [4]\nCooldown: [20s]\n\nFire many grenades by converting the guns into a grenade launcher in the air, dealing damage over a large area.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots).
 ダメージ量：[22%]+4%\n火傷効果：HP減少[8%]+7%\nSA破壊量：[172%]+26%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_NapalmBomb
 0
 
 ID=12125
 Napalm Bomb V
-[スキル情報]\nダメージ量：攻撃1回あたり[26%]\nデバフ効果：火傷(1秒ごとに[15%]HP減少)\nデバフ持続時間：[3秒]\nSA破壊量：攻撃1回あたり[198%]\nSG消費量：[4]\nクールタイム：[20秒]\n\n空中で武器をグレネードランチャー形態に変形させ、地上広範囲を爆撃する。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Skill Info]\nDamage: [26%] per 1 hit\nDebuff Effect: Burn (15%HP per second)\nDebuff Duration: [3s]\nSA Break: [198%] per 1 hit\nSG Cost: [4]\nCooldown: [20s]\n\nFire many grenades by converting the guns into a grenade launcher in the air, dealing damage over a large area.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots).
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_NapalmBomb
 0
 
 ID=12091
 Sprinter I
-[スキル情報]\nバフ効果：移動速度[10%]増加\nバフ持続時間：[20秒]\nSG消費量：[4]\nクールタイム：[45秒]\n\n空中に自分とパーティーメンバーの移動速度を増加させる弾を発射し、一定時間移動速度を増加させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nBuff Effect: Move Speed +10%\nBuff Duration: [20s]\nSG Cost: [4]\nCooldown: [45s]\n\nFire a bullet in the air that temporarily increases movement speed of all party members.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 移動速度増加：[10%]+1%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter
 0
 
 ID=12092
 Sprinter II
-[スキル情報]\nバフ効果：移動速度[11%]増加\nバフ持続時間：[20秒]\nSG消費量：[4]\nクールタイム：[45秒]\n\n空中に自分とパーティーメンバーの移動速度を増加させる弾を発射し、一定時間移動速度を増加させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nBuff Effect: Move Speed +11%\nBuff Duration: [20s]\nSG Cost: [4]\nCooldown: [45s]\n\nFire a bullet in the air that temporarily increases movement speed of all party members.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 移動速度増加：[11%]+2%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter
 0
 
 ID=12093
 Sprinter III
-[スキル情報]\nバフ効果：移動速度[13%]増加\nバフ持続時間：[20秒]\nSG消費量：[4]\nクールタイム：[45秒]\n\n空中に自分とパーティーメンバーの移動速度を増加させる弾を発射し、一定時間移動速度を増加させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nBuff Effect: Move Speed +13%\nBuff Duration: [20s]\nSG Cost: [4]\nCooldown: [45s]\n\nFire a bullet in the air that temporarily increases movement speed of all party members.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 移動速度増加：[13%]+3%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter
 0
 
 ID=12094
 Sprinter IV
-[スキル情報]\nバフ効果：移動速度[16%]増加\nバフ持続時間：[20秒]\nSG消費量：[4]\nクールタイム：[45秒]\n\n空中に自分とパーティーメンバーの移動速度を増加させる弾を発射し、一定時間移動速度を増加させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nBuff Effect: Move Speed +16%\nBuff Duration: [20s]\nSG Cost: [4]\nCooldown: [45s]\n\nFire a bullet in the air that temporarily increases movement speed of all party members.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 移動速度増加：[16%]+4%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter
 0
 
 ID=12095
 Sprinter V
-[スキル情報]\nバフ効果：移動速度[20%]増加\nバフ持続時間：[20秒]\nSG消費量：[4]\nクールタイム：[45秒]\n\n空中に自分とパーティーメンバーの移動速度を増加させる弾を発射し、一定時間移動速度を増加させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nBuff Effect: Move Speed +20%\nBuff Duration: [20s]\nSG Cost: [4]\nCooldown: [45s]\n\nFire a bullet in the air that temporarily increases movement speed of all party members.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter
 0
 
 ID=12101
 Hide and Seek I
-[スキル情報]\nダメージ量：[150%]\nバフ効果：無敵\nバフ持続時間：[1秒]\nSA破壊量：[500%]\nSG消費量：[5]\nクールタイム：[60秒]\n\n瞬間的にバリアを生成し、一時的にダメージを受けない状態になる。バリア発動時、周辺の敵を押し出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [150%]\nDebuf Effect: Invincibility\nBuff Duration: [1s]\nSA Break: [500%]\nSG Cost: [5]\nCooldown: [60s]\n\nCreate a barrier and temporarily gain invincibility. Enemies are pushed back when the barrier forms.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 バフ持続時間：[1秒]+0.2秒
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Hide
 0
 
 ID=12102
 Hide and Seek II
-[スキル情報]\nダメージ量：[150%]\nバフ効果：無敵\nバフ持続時間：[1.2秒]\nSA破壊量：[500%]\nSG消費量：[5]\nクールタイム：[60秒]\n\n瞬間的にバリアを生成し、一時的にダメージを受けない状態になる。バリア発動時、周辺の敵を押し出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [150%]\nDebuf Effect: Invincibility\nBuff Duration: [1.2s]\nSA Break: [500%]\nSG Cost: [5]\nCooldown: [60s]\n\nCreate a barrier and temporarily gain invincibility. Enemies are pushed back when the barrier forms.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 バフ持続時間：[1.2秒]+0.3秒
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Hide
 0
 
 ID=12103
 Hide and Seek III
-[スキル情報]\nダメージ量：[150%]\nバフ効果：無敵\nバフ持続時間：[1.5秒]\nSA破壊量：[500%]\nSG消費量：[5]\nクールタイム：[60秒]\n\n瞬間的にバリアを生成し、一時的にダメージを受けない状態になる。バリア発動時、周辺の敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [150%]\nDebuf Effect: Invincibility\nBuff Duration: [1.5s]\nSA Break: [500%]\nSG Cost: [5]\nCooldown: [60s]\n\nCreate a barrier and temporarily gain invincibility. Enemies are pushed back when the barrier forms.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 バフ持続時間：[1.5秒]+0.2秒
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Hide
 0
 
 ID=12104
 Hide and Seek IV
-[スキル情報]\nダメージ量：[150%]\nバフ効果：無敵\nバフ持続時間：[1.7秒]\nSA破壊量：[500%]\nSG消費量：[5]\nクールタイム：[60秒]\n\n瞬間的にバリアを生成し、一時的にダメージを受けない状態になる。バリア発動時、周辺の敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [150%]\nDebuf Effect: Invincibility\nBuff Duration: [1.7s]\nSA Break: [500%]\nSG Cost: [5]\nCooldown: [60s]\n\nCreate a barrier and temporarily gain invincibility. Enemies are pushed back when the barrier forms.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 バフ持続時間：[1.7秒]+0.3秒
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Hide
 0
 
 ID=12105
 Hide and Seek V
-[スキル情報]\nダメージ量：[150%]\nバフ効果：無敵\nバフ持続時間：[2秒]\nSA破壊量：[500%]\nSG消費量：[5]\nクールタイム：[60秒]\n\n瞬間的にバリアを生成し、一時的にダメージを受けない状態になる。バリア発動時、周辺の敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [150%]\nDebuf Effect: Invincibility\nBuff Duration: [2s]\nSA Break: [500%]\nSG Cost: [5]\nCooldown: [60s]\n\nCreate a barrier and temporarily gain invincibility. Enemies are pushed back when the barrier forms.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Hide
 0
 
 ID=12111
 Soul Launcher I
-[スキル情報]\nダメージ量：[1943%]\nSA破壊量：[1882%]\nSG消費量：[5]\nクールタイム：[45秒]\n\nグレネードランチャーを生成し、前方10m地点まで強力な砲撃を行う。攻撃が当たった敵は押し出される。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [1943%]\nSA Break: [1882%]\nSG Cost: [5]\nCooldown: [45s]\n\nBy turning guns into grenade launchers, fire a barrage of artillery up to 10 meters. Hit enemies will be pushed back.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[1943%]+97%\nSA破壊量：[1882%]+94%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SoulLauncher
 0
 
 ID=12112
 Soul Launcher II
-[スキル情報]\nダメージ量：[2040%]\nSA破壊量：[1976%]\nSG消費量：[5]\nクールタイム：[45秒]\n\nグレネードランチャーを生成し、前方10m地点まで強力な砲撃を行う。攻撃が当たった敵は押し出される。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [2040%]\nSA Break: [1976%]\nSG Cost: [5]\nCooldown: [45s]\n\nBy turning guns into grenade launchers, fire a barrage of artillery up to 10 meters. Hit enemies will be pushed back.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[2040%]+243%\nSA破壊量：[1976%]+235%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SoulLauncher
 0
 
 ID=12113
 Soul Launcher III
-[スキル情報]\nダメージ量：[2283%]\nSA破壊量：[2211%]\nSG消費量：[5]\nクールタイム：[45秒]\n\nグレネードランチャーを生成し、前方10m地点まで強力な砲撃を行う。攻撃が当たった敵は押し出される。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [2283%]\nSA Break: [2211%]\nSG Cost: [5]\nCooldown: [45s]\n\nBy turning guns into grenade launchers, fire a barrage of artillery up to 10 meters. Hit enemies will be pushed back.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[2283%]+242%\nSA破壊量：[2211%]+236%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SoulLauncher
 0
 
 ID=12114
 Soul Launcher IV
-[スキル情報]\nダメージ量：[2525%]\nSA破壊量：[2447%]\nSG消費量：[5]\nクールタイム：[45秒]\n\nグレネードランチャーを生成し、前方10m地点まで強力な砲撃を行う。攻撃が当たった敵は押し出される。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [2525%]\nSA Break: [2447%]\nSG Cost: [5]\nCooldown: [45s]\n\nBy turning guns into grenade launchers, fire a barrage of artillery up to 10 meters. Hit enemies will be pushed back.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[2525%]+389%\nSA破壊量：[2447%]+376%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SoulLauncher
 0
 
 ID=12115
 Soul Launcher V
-[スキル情報]\nダメージ量：[2914%]\nSA破壊量：[2823%]\nSG消費量：[5]\nクールタイム：[45秒]\n\nグレネードランチャーを生成し、前方10m地点まで強力な砲撃を行う。攻撃が当たった敵は押し出される。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [2914%]\nSA Break: [2823%]\nSG Cost: [5]\nCooldown: [45s]\n\nBy turning guns into grenade launchers, fire a barrage of artillery up to 10 meters. Hit enemies will be pushed back.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SoulLauncher
 0
@@ -1498,7 +1498,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakZenith
 
 ID=12911
 Erosion I
-[スキル情報]\n60秒間、覚醒状態になる。\n-全ての攻撃が最大ダメージになる。\n-攻撃速度が30%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nマウス：数字キー「7」入力
+[Skill Info]\nAwaken for 60s.\nDeal maximum damage will all attacks.\Attack Speed +30%.\nMove Speed +20%.\nGain Super Armor.\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press Number Key [7]
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakErode
 Description_Image/Skill/GunJazz/Image_GJazz_Break_Erode
@@ -1513,7 +1513,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 ID=23
 Basic Attack Mastery II
 Attack with a scythe.\nMore chain attacks and higher damage as skill level increases.\nTiming the attacks will gain more SG.\nSG gain is increased in accordance with the linking stage and monster rank.\nSG gain is + 20%.\n[Ground Attack]\nLv.2: (L click)-(R click)-(L click+)\n[Air Attack]\nLv.2: (L click)×2
-SG獲得量：[20%]+50%\n基本攻撃の追加攻撃を使用できる。
+SG Gain: [20%]+50%\nUnlock additional basic attack.
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
@@ -1582,28 +1582,28 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 
 ID=213
 Sub-weapon Mastery
-[スキル情報]\n敵に100%のダメージを与える。\n\n鎌を前方に投げ、複数の敵を攻撃する。攻撃を受けた敵は、キャラクターの方に若干引き寄せられる。
+[Skill Info]\nDeal 100% damage to an enemy.\n\nThrow the scythe forward, damaging multiple enemies. Damaged enemies are pulled towards the character.
 現在は習得できません。
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=223
 Sub-weapon Mastery
-[スキル情報]\n敵に100%のダメージを与える。\n\n鎌を前方に投げ、複数の敵を攻撃する。攻撃を受けた敵は、キャラクターの方に若干引き寄せられる。
+[Skill Info]\nDeal 100% damage to an enemy.\n\nThrow the scythe forward, damaging multiple enemies. Damaged enemies are pulled towards the character.
 現在は習得できません。
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=233
 Sub-weapon Mastery
-[スキル情報]\n敵に100%のダメージを与える。\n\n鎌を前方に投げ、複数の敵を攻撃する。攻撃を受けた敵は、キャラクターの方に若干引き寄せられる。
+[Skill Info]\nDeal 100% damage to an enemy.\n\nThrow the scythe forward, damaging multiple enemies. Damaged enemies are pulled towards the character.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=3041
 Emergency Dodge I
-[Skill Info]\nStamina Cost: [20]\n\nSwiftly move in a direction.\nNegate damage during an emergency dodge.\n\nUseage\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
+[Skill Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\nUseage\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
@@ -1631,14 +1631,14 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 
 ID=3101
 Dash I
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
+Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
 ダッシュの速度が上昇する。
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=3102
 Dash II
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
+Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
@@ -1666,7 +1666,7 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 
 ID=3111
 Dash Attack I
-[スキル情報]\nダメージ量：[139%]\nSA破壊量：[46%]\n\nダッシュ中に鎌を大きく振り敵を押し出す。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(左クリック)
+[Skill Info]\nDamage: [139%]\nSA Break: [46%]\n\nWhile dashing, push enemies away with your scythe.\nGain SG on hit.\nSG gained will vary by enemy type.\n\n[Usage]\nMouse: While dashing (L-Click)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
@@ -1694,7 +1694,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 
 ID=3121
 Special Dash Attack I
-[スキル情報]\nダメージ量：[217%]\nSA破壊量：[96%]\n\nダッシュ中に前方で鎌を振り上げ攻撃する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(右クリック)
+[Skill Info]\nDamage: [217%]\nSA Break: [96%]\n\nOverhead scythe attack during a dash.\nGain SG on hit.\nSG gained varies based on enemy type.\n\n[Usage]\nMouse: While dashing (R-Click)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
@@ -1722,28 +1722,28 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 
 ID=3131
 狂気の鎌Ⅰ
-[スキル情報]\n通常攻撃命中時、SGを回復する。\n一定時間ごとに自動でSGを回復する。\nSGが一定数値以上溜まると、狂気モードになる。\n-攻撃力が5%増加する。\n-クリティカル率が5%増加する。
+[Skill Info]\nGain SG when hitting an enemy.\nPassively gain SG in set intervals.\nCollecting a certain amount of SG will activated Madness Mode.\nAttack Power +5%.\nCritical Rate +5%.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
 
 ID=3141
 満ちる狂気Ⅰ
-[スキル情報]\nパッシブ効果：クリティカルダメージ量[400]増加\n\nクリティカルダメージ量が増加する。
+[Skill Info]\nPassive Effect: Critical Damage +400\n\nIncrease critical damage.
 クリティカルダメージ増加：[400]+400
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive
 0
 
 ID=3142
 満ちる狂気Ⅱ
-[スキル情報]\nパッシブ効果：クリティカルダメージ量[800]増加\n\nクリティカルダメージ量が増加する。
+[Skill Info]\nPassive Effect: Critical Damage +800\n\nIncrease critical damage.
 クリティカルダメージ増加：[800]+500
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive
 0
 
 ID=3143
 満ちる狂気Ⅲ
-[スキル情報]\nパッシブ効果：クリティカルダメージ量[1300]増加\n\nクリティカルダメージ量が増加する。
+[Skill Info]\nPassive Effect: Critical Damage +1300\n\nIncrease critical damage.
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive
 0
@@ -1785,210 +1785,210 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 
 ID=13011
 Evil Slash I
-[スキル情報]\nダメージ量：[182%]\nSA破壊量：[196%]\nSG消費量：[30]\nクールタイム：[10秒]\n\n鎌を素早く回転させ、最後の一撃で敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [182%]\nSA Break: [196%]\nSG Cost: [30]\nCooldown: [10s]\n\nQuickly rotate the scythe, pushes out the enemy at the end of the blow.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[182%]+9%\nSA破壊量：[196%]+10%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ID=13012
 Evil Slash II
-[スキル情報]\nダメージ量：[191%]\nSA破壊量：[206%]\nSG消費量：[30]\nクールタイム：[10秒]\n\n鎌を素早く回転させ、最後の一撃で敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [191%]\nSA Break: [206%]\nSG Cost: [30]\nCooldown: [10s]\n\nQuickly rotate the scythe, pushes out the enemy at the end of the blow.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[191%]+23%\nSA破壊量：[206%]+24%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ID=13013
 Evil Slash III
-[スキル情報]\nダメージ量：[214%]\nSA破壊量：[230%]\nSG消費量：[30]\nクールタイム：[10秒]\n\n鎌を素早く回転させ、最後の一撃で敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [214%]\nSA Break: [230%]\nSG Cost: [30]\nCooldown: [10s]\n\nQuickly rotate the scythe, pushes out the enemy at the end of the blow.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[214%]+23%\nSA破壊量：[230%]+25%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ID=13014
 Evil Slash IV
-[スキル情報]\nダメージ量：[237%]\nSA破壊量：[255%]\nSG消費量：[30]\nクールタイム：[10秒]\n\n鎌を素早く回転させ、最後の一撃で敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [237%]\nSA Break: [255%]\nSG Cost: [30]\nCooldown: [10s]\n\nQuickly rotate the scythe, pushes out the enemy at the end of the blow.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[237%]+36%\nSA破壊量：[255%]+39%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ID=13015
 Evil Slash V
-[スキル情報]\nダメージ量：[273%]\nSA破壊量：[294%]\nSG消費量：[30]\nクールタイム：[10秒]\n\n鎌を素早く回転させ、最後の一撃で敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [273%]\nSA Break: [294%]\nSG Cost: [30]\nCooldown: [10s]\n\nQuickly rotate the scythe, pushes out the enemy at the end of the blow.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ID=13021
 Spinning Devil I
-[スキル情報]\nダメージ量：[178%]\nSA破壊量：[209%]\nSG消費量：[25]\nクールタイム：[12秒]\n\n前方に素早く飛び出し、蹴りからの回転斬撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [178%]\nSA Break: [209%]\nSG Cost: [25]\nCooldown: [12s]\n\nQuickly dash forward, using the speed perform a spinning slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[178%]+9%\nSA破壊量：[209%]+10%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_SpinningDevil
 0
 
 ID=13022
 Spinning Devil II
-[スキル情報]\nダメージ量：[187%]\nSA破壊量：[219%]\nSG消費量：[25]\nクールタイム：[12秒]\n\n前方に素早く飛び出し、蹴りからの回転斬撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [187%]\nSA Break: [219%]\nSG Cost: [25]\nCooldown: [12s]\n\nQuickly dash forward, using the speed perform a spinning slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[187%]+22%\nSA破壊量：[219%]+27%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_SpinningDevil
 0
 
 ID=13023
 Spinning Devil III
-[スキル情報]\nダメージ量：[209%]\nSA破壊量：[246%]\nSG消費量：[25]\nクールタイム：[12秒]\n\n前方に素早く飛び出し、蹴りからの回転斬撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [209%]\nSA Break: [246%]\nSG Cost: [25]\nCooldown: [12s]\n\nQuickly dash forward, using the speed perform a spinning slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[209%]+22%\nSA破壊量：[246%]+26%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_SpinningDevil
 0
 
 ID=13024
 Spinning Devil IV
-[スキル情報]\nダメージ量：[231%]\nSA破壊量：[272%]\nSG消費量：[25]\nクールタイム：[12秒]\n\n前方に素早く飛び出し、蹴りからの回転斬撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [231%]\nSA Break: [272%]\nSG Cost: [25]\nCooldown: [12s]\n\nQuickly dash forward, using the speed perform a spinning slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[231%]+36%\nSA破壊量：[272%]+42%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_SpinningDevil
 0
 
 ID=13025
 Spinning Devil V
-[スキル情報]\nダメージ量：[267%]\nSA破壊量：[314%]\nSG消費量：[25]\nクールタイム：[12秒]\n\n前方に素早く飛び出し、蹴りからの回転斬撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [267%]\nSA Break: [314%]\nSG Cost: [25]\nCooldown: [12s]\n\nQuickly dash forward, using the speed perform a spinning slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_SpinningDevil
 0
 
 ID=13031
 Scythe Cutter I
-[スキル情報]\nダメージ量：[137%]\nSA破壊量：[192%]\nSG消費量：[20]\nクールタイム：[8秒]\n\n鎌を勢い良く振り上げる。攻撃を受けた敵は宙に浮く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [137%]\nSA Break: [192%]\nSG Cost: [20]\nCooldown: [8s]\n\nSwiftly raise the scythe. Enemies will be launched in the air.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[137%]+7%\nSA破壊量：[192%]+10%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ScytheCutter
 0
 
 ID=13032
 Scythe Cutter II
-[スキル情報]\nダメージ量：[144%]\nSA破壊量：[202%]\nSG消費量：[20]\nクールタイム：[8秒]\n\n鎌を勢い良く振り上げる。攻撃を受けた敵は宙に浮く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [144%]\nSA Break: [202%]\nSG Cost: [20]\nCooldown: [8s]\n\nSwiftly raise the scythe. Enemies will be launched in the air.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[144%]+17%\nSA破壊量：[202%]+24%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ScytheCutter
 0
 
 ID=13033
 Scythe Cutter III
-[スキル情報]\nダメージ量：[161%]\nSA破壊量：[226%]\nSG消費量：[20]\nクールタイム：[8秒]\n\n鎌を勢い良く振り上げる。攻撃を受けた敵は宙に浮く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [161%]\nSA Break: [226%]\nSG Cost: [20]\nCooldown: [8s]\n\nSwiftly raise the scythe. Enemies will be launched in the air.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[161%]+18%\nSA破壊量：[226%]+24%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ScytheCutter
 0
 
 ID=13034
 Scythe Cutter IV
-[スキル情報]\nダメージ量：[179%]\nSA破壊量：[250%]\nSG消費量：[20]\nクールタイム：[8秒]\n\n鎌を勢い良く振り上げる。攻撃を受けた敵は宙に浮く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [179%]\nSA Break: [250%]\nSG Cost: [20]\nCooldown: [8s]\n\nSwiftly raise the scythe. Enemies will be launched in the air.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[179%]+27%\nSA破壊量：[250%]+38%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ScytheCutter
 0
 
 ID=13035
 Scythe Cutter V
-[スキル情報]\nダメージ量：[206%]\nSA破壊量：[288%]\nSG消費量：[20]\nクールタイム：[8秒]\n\n鎌を勢い良く振り上げる。攻撃を受けた敵は宙に浮く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [206%]\nSA Break: [288%]\nSG Cost: [20]\nCooldown: [8s]\n\nSwiftly raise the scythe. Enemies will be launched in the air.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ScytheCutter
 0
 
 ID=13041
 Grim Countdown I
-[スキル情報]\nダメージ量：[358%]\nSA破壊量：[201%]\nSG消費量：[35]\nクールタイム：[15秒]\n\n回転しながら敵を押し出した後、召喚した死神と共に前方の敵を切り裂く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [358%]\nSA Break: [201%]\nSG Cost: [35]\nCooldown: [15s]\n\nAfter doing a rotation slash, cut the front enemies alongside the summoned Grim Reaper.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[358%]+18%\nSA破壊量：[201%]+10%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown
 0
 
 ID=13042
 Grim Countdown II
-[スキル情報]\nダメージ量：[376%]\nSA破壊量：[211%]\nSG消費量：[35]\nクールタイム：[15秒]\n\n回転しながら敵を押し出した後、召喚した死神と共に前方の敵を切り裂く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [376%]\nSA Break: [211%]\nSG Cost: [35]\nCooldown: [15s]\n\nAfter doing a rotation slash, cut the front enemies alongside the summoned Grim Reaper.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[376%]+45%\nSA破壊量：[211%]+26%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown
 0
 
 ID=13043
 Grim Countdown III
-[スキル情報]\nダメージ量：[421%]\nSA破壊量：[237%]\nSG消費量：[35]\nクールタイム：[15秒]\n\n回転しながら敵を押し出した後、召喚した死神と共に前方の敵を切り裂く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [421%]\nSA Break: [237%]\nSG Cost: [35]\nCooldown: [15s]\n\nAfter doing a rotation slash, cut the front enemies alongside the summoned Grim Reaper.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[421%]+44%\nSA破壊量：[237%]+25%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown
 0
 
 ID=13044
 Grim Countdown IV
-[スキル情報]\nダメージ量：[465%]\nSA破壊量：[262%]\nSG消費量：[35]\nクールタイム：[15秒]\n\n回転しながら敵を押し出した後、召喚した死神と共に前方の敵を切り裂く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [465%]\nSA Break: [262%]\nSG Cost: [35]\nCooldown: [15s]\n\nAfter doing a rotation slash, cut the front enemies alongside the summoned Grim Reaper.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[465%]+72%\nSA破壊量：[262%]+40%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown
 0
 
 ID=13045
 Grim Countdown V
-[スキル情報]\nダメージ量：[537%]\nSA破壊量：[302%]\nSG消費量：[35]\nクールタイム：[15秒]\n\n回転しながら敵を押し出した後、召喚した死神と共に前方の敵を切り裂く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [537%]\nSA Break: [302%]\nSG Cost: [35]\nCooldown: [15s]\n\nAfter doing a rotation slash, cut the front enemies alongside the summoned Grim Reaper.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown
 0
 
 ID=13131
 Fear Chain I
-[スキル情報]\nダメージ量：[65%]\nSA破壊量：[433%]\nSG消費量：[30]\nクールタイム：[16秒]\n10m以内の敵を引き寄せる。\n\n前方に死神を召喚する。死神は周辺の敵を鎖で繋ぎ、攻撃範囲の中心に引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [65%]\nSA Break: [433%]\nSG Cost: [30]\nCooldown: [16s]\nPulls enemies within 10m.\n\nSummons the Grim Reaper in front, the Grim Reaper connects the enemies with a chain, they are drawn towards the center of the attack range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[65%]+4%\nSA破壊量：[433%]+21%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_FearChain
 0
 
 ID=13132
 Fear Chain II
-[スキル情報]\nダメージ量：[69%]\nSA破壊量：[454%]\nSG消費量：[30]\nクールタイム：[16秒]\n10m以内の敵を引き寄せる。\n\n前方に死神を召喚する。死神は周辺の敵を鎖で繋ぎ、攻撃範囲の中心に引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [69%]\nSA Break: [454%]\nSG Cost: [30]\nCooldown: [16s]\nPulls enemies within 10m.\n\nSummons the Grim Reaper in front, the Grim Reaper connects the enemies with a chain, they are drawn towards the center of the attack range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[69%]+8%\nSA破壊量：[454%]+54%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_FearChain
 0
 
 ID=13133
 Fear Chain III
-[スキル情報]\nダメージ量：[77%]\nSA破壊量：[508%]\nSG消費量：[30]\nクールタイム：[16秒]\n10m以内の敵を引き寄せる。\n\n前方に死神を召喚する。死神は周辺の敵を鎖で繋ぎ、攻撃範囲の中心に引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [77%]\nSA Break: [508%]\nSG Cost: [30]\nCooldown: [16s]\nPulls enemies within 10m.\n\nSummons the Grim Reaper in front, the Grim Reaper connects the enemies with a chain, they are drawn towards the center of the attack range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[77%]+8%\nSA破壊量：[508%]+54%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_FearChain
 0
 
 ID=13134
 Fear Chain IV
-[スキル情報]\nダメージ量：[85%]\nSA破壊量：[562%]\nSG消費量：[30]\nクールタイム：[16秒]\n10m以内の敵を引き寄せる。\n\n前方に死神を召喚する。死神は周辺の敵を鎖で繋ぎ、攻撃範囲の中心に引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [85%]\nSA Break: [562%]\nSG Cost: [30]\nCooldown: [16s]\nPulls enemies within 10m.\n\nSummons the Grim Reaper in front, the Grim Reaper connects the enemies with a chain, they are drawn towards the center of the attack range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[85%]+13%\nSA破壊量：[562%]+87%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_FearChain
 0
 
 ID=13135
 Fear Chain V
-[スキル情報]\nダメージ量：[98%]\nSA破壊量：[649%]\nSG消費量：[30]\nクールタイム：[16秒]\n10m以内の敵を引き寄せる。\n\n前方に死神を召喚する。死神は周辺の敵を鎖で繋ぎ、攻撃範囲の中心に引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [98%]\nSA Break: [549%]\nSG Cost: [30]\nCooldown: [16s]\nPulls enemies within 10m.\n\nSummons the Grim Reaper in front, the Grim Reaper connects the enemies with a chain, they are drawn towards the center of the attack range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_FearChain
 0
 
 ID=13051
 Death Grinder I
-[スキル情報]\nダメージ量：攻撃1回あたり[26%]\nSA破壊量：攻撃1回あたり[55%]\nSG消費量：[25]\nクールタイム：[20秒]\n\n鎌をブーメランのように投げて攻撃する。鎌が戻ってくる時に攻撃を受けた敵を自分へ引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [26%] per 1 hit\nSA Break: [55%] per 1 hit\nSG Cost: [25]\nCooldown: [20s]\n\nAttack by throwing the scythe like a boomerang. Attract the enemies attacked when the scythe comes back to the owner.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[26%]+2%\nSA破壊量：[55%]+3%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder
 0
 
 ID=13052
 Death Grinder II
-[スキル情報]\nダメージ量：攻撃1回あたり[28%]\nSA破壊量：攻撃1回あたり[58%]\nSG消費量：[25]\nクールタイム：[20秒]\n\n鎌をブーメランのように投げて攻撃する。鎌が戻ってくる時に攻撃を受けた敵を自分へ引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [28%] per 1 hit\nSA Break: [58%] per 1 hit\nSG Cost: [25]\nCooldown: [20s]\n\nAttack by throwing the scythe like a boomerang. Attract the enemies attacked when the scythe comes back to the owner.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[28%]+3%\nSA破壊量：[58%]+7%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder
 0
 
 ID=13053
 Death Grinder III
-[スキル情報]\nダメージ量：攻撃1回あたり[31%]\nSA破壊量：攻撃1回あたり[65%]\nSG消費量：[25]\nクールタイム：[20秒]\n\n鎌をブーメランのように投げて攻撃する。鎌が戻ってくる時に攻撃を受けた敵を自分へ引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [31%] per 1 hit\nSA Break: [65%] per 1 hit\nSG Cost: [25]\nCooldown: [20s]\n\nAttack by throwing the scythe like a boomerang. Attract the enemies attacked when the scythe comes back to the owner.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[31%]+3%\nSA破壊量：[65%]+7%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder
 0
 
 ID=13054
 Death Grinder IV
-[スキル情報]\nダメージ量：攻撃1回あたり[34%]\nSA破壊量：攻撃1回あたり[72%]\nSG消費量：[25]\nクールタイム：[20秒]\n\n鎌をブーメランのように投げて攻撃する。鎌が戻ってくる時に攻撃を受けた敵を自分へ引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [34%] per 1 hit\nSA Break: [72%] per 1 hit\nSG Cost: [25]\nCooldown: [20s]\n\nAttack by throwing the scythe like a boomerang. Attract the enemies attacked when the scythe comes back to the owner.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[34%]+5%\nSA破壊量：[72%]+11%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder
 0
 
 ID=13055
 Death Grinder V
-[スキル情報]\nダメージ量：攻撃1回あたり[39%]\nSA破壊量：攻撃1回あたり[83%]\nSG消費量：[25]\nクールタイム：[20秒]\n\n鎌をブーメランのように投げて攻撃する。鎌が戻ってくる時に攻撃を受けた敵を自分へ引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [39%] per 1 hit\nSA Break: [83%] per 1 hit\nSG Cost: [25]\nCooldown: [20s]\n\nAttack by throwing the scythe like a boomerang. Attract the enemies attacked when the scythe comes back to the owner.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder
 0
@@ -2030,210 +2030,210 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 
 ID=13071
 Cruel Slash I
-[スキル情報]\nダメージ量：攻撃1回あたり[39%]\nSA破壊量：攻撃1回あたり[23%]\nフィニッシュダメージ量：[202%]\nフィニッシュSA破壊量：[275%]\nSG消費量：[45]\nクールタイム：[20秒]\n\n鎌を偃月刀形態に変形させ攻撃態勢をとる。左クリック連打で、一定時間その場で素早く連撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック連打)\n\n[操作方法：フィニッシュ]\nマウス：(右クリック)
+[Skill Info]\nDamage: [39%] per 1 hit\nSA Break: [23%] per 1 hit\nFinish Damage: [202%]\nFinish SA Break: [275%]\nSG Cost: [45]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: (Spam L-Click)\n\n[Usage: Finish]\nMouse: (R-Click)
 [通常攻撃]\nダメージ量：[39%]+2%\nSA破壊量：[23%]+1%\n\n[フィニッシュ攻撃]\nダメージ量：[202%]+10%\nSA破壊量：[275%]+13%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 ID=13072
 Cruel Slash II
-[スキル情報]\nダメージ量：攻撃1回あたり[41%]\nSA破壊量：攻撃1回あたり[24%]\nフィニッシュダメージ量：[212%]\nフィニッシュSA破壊量：[288%]\nSG消費量：[45]\nクールタイム：[20秒]\n\n鎌を偃月刀形態に変形させ攻撃態勢をとる。左クリック連打で、一定時間その場で素早く連撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック連打)\n\n[操作方法：フィニッシュ]\nマウス：(右クリック)
+[Skill Info]\nDamage: [41%] per 1 hit\nSA Break: [24%] per 1 hit\nFinish Damage: [212%]\nFinish SA Break: [288%]\nSG Cost: [45]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: (Spam L-Click)\n\n[Usage: Finish]\nMouse: (R-Click)
 [通常攻撃]\nダメージ量：[41%]+5%\nSA破壊量：[24%]+3%\n\n[フィニッシュ攻撃]\nダメージ量：[212%]+26%\nSA破壊量：[288%]+35%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 ID=13073
 Cruel Slash III
-[スキル情報]\nダメージ量：攻撃1回あたり[46%]\nSA破壊量：攻撃1回あたり[27%]\nフィニッシュダメージ量：[238%]\nフィニッシュSA破壊量：[323%]\nSG消費量：[45]\nクールタイム：[20秒]\n\n鎌を偃月刀形態に変形させ攻撃態勢をとる。左クリック連打で、一定時間その場で素早く連撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック連打)\n\n[操作方法：フィニッシュ]\nマウス：(右クリック)
+[Skill Info]\nDamage: [46%] per 1 hit\nSA Break: [27%] per 1 hit\nFinish Damage: [238%]\nFinish SA Break: [323%]\nSG Cost: [45]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: (Spam L-Click)\n\n[Usage: Finish]\nMouse: (R-Click)
 [通常攻撃]\nダメージ量：[46%]+5%\nSA破壊量：[27%]+2%\n\n[フィニッシュ攻撃]\nダメージ量：[238%]+25%\nSA破壊量：[323%]+34%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 ID=13074
 Cruel Slash IV
-[スキル情報]\nダメージ量：攻撃1回あたり[51%]\nSA破壊量：攻撃1回あたり[29%]\nフィニッシュダメージ量：[263%]\nフィニッシュSA破壊量：[357%]\nSG消費量：[45]\nクールタイム：[20秒]\n\n鎌を偃月刀形態に変形させ攻撃態勢をとる。左クリック連打で、一定時間その場で素早く連撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック連打)\n\n[操作方法：フィニッシュ]\nマウス：(右クリック)
+[Skill Info]\nDamage: [51%] per 1 hit\nSA Break: [29%] per 1 hit\nFinish Damage: [263%]\nFinish SA Break: [357%]\nSG Cost: [45]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: (Spam L-Click)\n\n[Usage: Finish]\nMouse: (R-Click)
 [通常攻撃]\nダメージ量：[51%]+7%\nSA破壊量：[29%]+5%\n\n[フィニッシュ攻撃]\nダメージ量：[263%]+40%\nSA破壊量：[3357%]+55%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 ID=13075
 Cruel Slash V
-[スキル情報]\nダメージ量：攻撃1回あたり[58%]\nSA破壊量：攻撃1回あたり[34%]\nフィニッシュダメージ量：[303%]\nフィニッシュSA破壊量：[412%]\nSG消費量：[45]\nクールタイム：[20秒]\n\n鎌を偃月刀形態に変形させ攻撃態勢をとる。左クリック連打で、一定時間その場で素早く連撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック連打)\n\n[操作方法：フィニッシュ]\nマウス：(右クリック)
+[Skill Info]\nDamage: [58%] per 1 hit\nSA Break: [34%] per 1 hit\nFinish Damage: [303%]\nFinish SA Break: [412%]\nSG Cost: [45]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: (Spam L-Click)\n\n[Usage: Finish]\nMouse: (R-Click)
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 ID=13081
 Grim Reaper I
-[スキル情報]\nダメージ量：[365%]\nSA破壊量：[602%]\nSG消費量：[30]\nクールタイム：[28秒]\n\n空中でのみ使用可能。前方に死神を召喚し、敵を宙に浮かせる。すでに空中にいる敵にも同一ダメージを与える。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Skill Info]\nDamage: [365%]\nSA Break: [602%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots).
 ダメージ量：[365%]+19%\nSA破壊量：[602%]+30%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13082
 Grim Reaper II
-[スキル情報]\nダメージ量：[384%]\nSA破壊量：[632%]\nSG消費量：[30]\nクールタイム：[28秒]\n\n空中でのみ使用可能。前方に死神を召喚し、敵を宙に浮かせる。すでに空中にいる敵にも同一ダメージを与える。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Skill Info]\nDamage: [384%]\nSA Break: [632%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots).
 ダメージ量：[384%]+45%\nSA破壊量：[632%]+76%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13083
 Grim Reaper III
-[スキル情報]\nダメージ量：[429%]\nSA破壊量：[708%]\nSG消費量：[30]\nクールタイム：[28秒]\n\n空中でのみ使用可能。前方に死神を召喚し、敵を宙に浮かせる。すでに空中にいる敵にも同一ダメージを与える。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Skill Info]\nDamage: [429%]\nSA Break: [708%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots).
 ダメージ量：[429%]+46%\nSA破壊量：[708%]+75%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13084
 Grim Reaper IV
-[スキル情報]\nダメージ量：[475%]\nSA破壊量：[783%]\nSG消費量：[30]\nクールタイム：[28秒]\n\n空中でのみ使用可能。前方に死神を召喚し、敵を宙に浮かせる。すでに空中にいる敵にも同一ダメージを与える。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Skill Info]\nDamage: [475%]\nSA Break: [783%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots).
 ダメージ量：[475%]+73%\nSA破壊量：[783%]+120%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13085
 Grim Reaper V
-[スキル情報]\nダメージ量：[548%]\nSA破壊量：[903%]\nSG消費量：[30]\nクールタイム：[28秒]\n\n空中でのみ使用可能。前方に死神を召喚し、敵を宙に浮かせる。すでに空中にいる敵にも同一ダメージを与える。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Skill Info]\nDamage: [548%]\nSA Break: [903%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots).
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13091
 Force Region I
-[スキル情報]\nバフ効果：クリティカル率[7%]増加\nバフ持続時間：[20秒]\nSG消費量：[85]\nクールタイム：[45秒]\n\n召喚された死神が咆哮と共に、範囲内の自分を含むパーティーメンバーにクリティカル率を上昇させるバフを付与する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nBuff Effect: Critical Rate +7%\nBuff Duration: [20s]\nSG Cost: [85]\nCooldown: [45]\n\nThe summoned Grim Reaper roar will grant a buff that increases critical chance to the party members in range, including self.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 クリティカル率増加：[7%]+2%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 ID=13092
 Force Region II
-[スキル情報]\nバフ効果：クリティカル率[9%]増加\nバフ持続時間：[20秒]\nSG消費量：[85]\nクールタイム：[45秒]\n\n召喚された死神が咆哮と共に、範囲内の自分を含むパーティーメンバーにクリティカル率を上昇させるバフを付与する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nBuff Effect: Critical Rate +9%\nBuff Duration: [20s]\nSG Cost: [85]\nCooldown: [45]\n\nThe summoned Grim Reaper roar will grant a buff that increases critical chance to the party members in range, including self.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 クリティカル率増加：[9%]+3%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 ID=13093
 Force Region III
-[スキル情報]\nバフ効果：クリティカル率[12%]増加\nバフ持続時間：[20秒]\nSG消費量：[85]\nクールタイム：[45秒]\n\n召喚された死神が咆哮と共に、範囲内の自分を含むパーティーメンバーにクリティカル率を上昇させるバフを付与する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nBuff Effect: Critical Rate +12%\nBuff Duration: [20s]\nSG Cost: [85]\nCooldown: [45]\n\nThe summoned Grim Reaper roar will grant a buff that increases critical chance to the party members in range, including self.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 クリティカル率増加：[12%]3%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 ID=13094
 Force Region IV
-[スキル情報]\nバフ効果：クリティカル率[15%]増加\nバフ持続時間：[20秒]\nSG消費量：[85]\nクールタイム：[45秒]\n\n召喚された死神が咆哮と共に、範囲内の自分を含むパーティーメンバーにクリティカル率を上昇させるバフを付与する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nBuff Effect: Critical Rate +15%\nBuff Duration: [20s]\nSG Cost: [85]\nCooldown: [45]\n\nThe summoned Grim Reaper roar will grant a buff that increases critical chance to the party members in range, including self.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 クリティカル率増加：[15%]+5%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 ID=13095
 Force Region V
-[スキル情報]\nバフ効果：クリティカル率[20%]増加\nバフ持続時間：[20秒]\nSG消費量：[85]\nクールタイム：[45秒]\n\n召喚された死神が咆哮と共に、範囲内の自分を含むパーティーメンバーにクリティカル率を上昇させるバフを付与する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nBuff Effect: Critical Rate +20%\nBuff Duration: [20s]\nSG Cost: [85]\nCooldown: [45]\n\nThe summoned Grim Reaper roar will grant a buff that increases critical chance to the party members in range, including self.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 ID=13101
 Death Tornado I
-[スキル情報]\nダメージ量：攻撃1回あたり[39%]\nSA破壊量：攻撃1回あたり[62%]\nSG消費量：[50]\nクールタイム：[30秒]\n\n前方に強力な竜巻を作り出し、敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [39%] per 1 hit\nSA Break: [62%] per 1 hit\nSG Cost: [50]\nCooldown: [30s]\n\nIt creates a powerful tornado to attack the enemies in front.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[39%]+1%\nSA破壊量：[62%]+3%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 0
 
 ID=13102
 Death Tornado II
-[スキル情報]\nダメージ量：攻撃1回あたり[40%]\nSA破壊量：攻撃1回あたり[65%]\nSG消費量：[50]\nクールタイム：[30秒]\n\n前方に強力な竜巻を作り出し、敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [40%] per 1 hit\nSA Break: [65%] per 1 hit\nSG Cost: [50]\nCooldown: [30s]\n\nIt creates a powerful tornado to attack the enemies in front.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[40%]+5%\nSA破壊量：[65%]+7%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 0
 
 ID=13103
 Death Tornado III
-[スキル情報]\nダメージ量：攻撃1回あたり[45%]\nSA破壊量：攻撃1回あたり[72%]\nSG消費量：[50]\nクールタイム：[30秒]\n\n前方に強力な竜巻を作り出し、敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [45%] per 1 hit\nSA Break: [72%] per 1 hit\nSG Cost: [50]\nCooldown: [30s]\n\nIt creates a powerful tornado to attack the enemies in front.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[45%]+5%\nSA破壊量：[72%]+7%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 0
 
 ID=13104
 Death Tornado IV
-[スキル情報]\nダメージ量：攻撃1回あたり[50%]\nSA破壊量：攻撃1回あたり[80%]\nSG消費量：[50]\nクールタイム：[30秒]\n\n前方に強力な竜巻を作り出し、敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [50%] per 1 hit\nSA Break: [80%] per 1 hit\nSG Cost: [50]\nCooldown: [30s]\n\nIt creates a powerful tornado to attack the enemies in front.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[50%]+8%\nSA破壊量：[80%]+12%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 0
 
 ID=13105
 Death Tornado V
-[スキル情報]\nダメージ量：攻撃1回あたり[58%]\nSA破壊量：攻撃1回あたり[92%]\nSG消費量：[50]\nクールタイム：[30秒]\n\n前方に強力な竜巻を作り出し、敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [58%] per 1 hit\nSA Break: [92%] per 1 hit\nSG Cost: [50]\nCooldown: [30s]\n\nIt creates a powerful tornado to attack the enemies in front.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 0
 
 ID=13111
 Evil Trinity I
-[スキル情報]\nダメージ量：[911%]\nSA破壊量：[1263%]\nSG消費量：[60]\nクールタイム：[35秒]\n\n二つの鎌を持つ死神が現れ、ミストサイスと共に地面を強打する。地面強打時、三つの衝撃波が発生して範囲内の敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [911%]\nSA Break: [1263%]\nSG Cost: [60]\nCooldown: [35s]\n\nThe Grim Reaper with two scythes appears, swinging them along with Lily. The ground smash creates three shock waves that will hit the enemies in the range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[911%]+45%\nSA破壊量：[1263%]+64%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 ID=13112
 Evil Trinity II
-[スキル情報]\nダメージ量：[956%]\nSA破壊量：[1327%]\nSG消費量：[60]\nクールタイム：[35秒]\n\n二つの鎌を持つ死神が現れ、ミストサイスと共に地面を強打する。地面強打時、三つの衝撃波が発生して範囲内の敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [956%]\nSA Break: [1327%]\nSG Cost: [60]\nCooldown: [35s]\n\nThe Grim Reaper with two scythes appears, swinging them along with Lily. The ground smash creates three shock waves that will hit the enemies in the range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[956%]+114%\nSA破壊量：[1327%]+158%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 ID=13113
 Evil Trinity III
-[スキル情報]\nダメージ量：[1070%]\nSA破壊量：[1485%]\nSG消費量：[60]\nクールタイム：[35秒]\n\n二つの鎌を持つ死神が現れ、ミストサイスと共に地面を強打する。地面強打時、三つの衝撃波が発生して範囲内の敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [1070%]\nSA Break: [1485%]\nSG Cost: [60]\nCooldown: [35s]\n\nThe Grim Reaper with two scythes appears, swinging them along with Lily. The ground smash creates three shock waves that will hit the enemies in the range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[1070%]+114%\nSA破壊量：[1485%]+158%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 ID=13114
 Evil Trinity IV
-[スキル情報]\nダメージ量：[1184%]\nSA破壊量：[1643%]\nSG消費量：[60]\nクールタイム：[35秒]\n\n二つの鎌を持つ死神が現れ、ミストサイスと共に地面を強打する。地面強打時、三つの衝撃波が発生して範囲内の敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [1184%]\nSA Break: [1643%]\nSG Cost: [60]\nCooldown: [35s]\n\nThe Grim Reaper with two scythes appears, swinging them along with Lily. The ground smash creates three shock waves that will hit the enemies in the range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[1184%]+182%\nSA破壊量：[1643%]+252%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 ID=13115
 Evil Trinity V
-[スキル情報]\nダメージ量：[1366%]\nSA破壊量：[1895%]\nSG消費量：[60]\nクールタイム：[35秒]\n\n二つの鎌を持つ死神が現れ、ミストサイスと共に地面を強打する。地面強打時、三つの衝撃波が発生して範囲内の敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [1366%]\nSA Break: [1895%]\nSG Cost: [60]\nCooldown: [35s]\n\nThe Grim Reaper with two scythes appears, swinging them along with Lily. The ground smash creates three shock waves that will hit the enemies in the range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 ID=13121
 Death Guillotine I
-[スキル情報]\nダメージ量：[1516%]\nSA破壊量：[1524%]\nSG消費量：[75]\nクールタイム：[45秒]\n\n周辺の敵に鎖をかけて拘束後、巨大な断頭台を召喚して敵を押し入れる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [1516%]\nSA Break: [1524%]\nSG Cost: [75]\nCooldown: [45s]\n\nSurrounds and restraints the enemies with chains, pushing them under a summoning gigantic guillotine.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[1516%]+75%\nSA破壊量：[1524%]+76%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine
 0
 
 ID=13122
 Death Guillotine II
-[スキル情報]\nダメージ量：[1591%]\nSA破壊量：[1600%]\nSG消費量：[75]\nクールタイム：[45秒]\n\n周辺の敵に鎖をかけて拘束後、巨大な断頭台を召喚して敵を押し入れる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [1591%]\nSA Break: [1600%]\nSG Cost: [75]\nCooldown: [45s]\n\nSurrounds and restraints the enemies with chains, pushing them under a summoning gigantic guillotine.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[1591%]+190%\nSA破壊量：[1600%]+191%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine
 0
 
 ID=13123
 Death Guillotine III
-[スキル情報]\nダメージ量：[1781%]\nSA破壊量：[1791%]\nSG消費量：[75]\nクールタイム：[45秒]\n\n周辺の敵に鎖をかけて拘束後、巨大な断頭台を召喚して敵を押し入れる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [1781%]\nSA Break: [1791%]\nSG Cost: [75]\nCooldown: [45s]\n\nSurrounds and restraints the enemies with chains, pushing them under a summoning gigantic guillotine.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[1781%]+189%\nSA破壊量：[1791%]+190%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine
 0
 
 ID=13124
 Death Guillotine IV
-[スキル情報]\nダメージ量：[1970%]\nSA破壊量：[1981%]\nSG消費量：[75]\nクールタイム：[45秒]\n\n周辺の敵に鎖をかけて拘束後、巨大な断頭台を召喚して敵を押し入れる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [1970%]\nSA Break: [1981%]\nSG Cost: [75]\nCooldown: [45s]\n\nSurrounds and restraints the enemies with chains, pushing them under a summoning gigantic guillotine.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 ダメージ量：[1970%]+303%\nSA破壊量：[1981%]+305%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine
 0
 
 ID=13125
 Death Guillotine V
-[スキル情報]\nダメージ量：[2273%]\nSA破壊量：[2286%]\nSG消費量：[75]\nクールタイム：[45秒]\n\n周辺の敵に鎖をかけて拘束後、巨大な断頭台を召喚して敵を押し入れる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Skill Info]\nDamage: [2273%]\nSA Break: [2286%]\nSG Cost: [75]\nCooldown: [45s]\n\nSurrounds and restraints the enemies with chains, pushing them under a summoning gigantic guillotine.\n\n[Usage]\nPlace in skill slot and press corresponding key.
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine
 0
@@ -2261,14 +2261,14 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_BreakZenith
 
 ID=13911
 Erosion I
-[スキル情報]\n60秒間、覚醒状態になる。\n-クリティカル率が50%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nマウス：数字キー「7」入力
+[Skill Info]\nAwaken for 60s.\nCritical Rate +50%.\nMove Speed +20%.\nGain Super Armor.\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press Number Key [7]
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_BreakErode
 Description_Image/Skill/Mistscythe/Image_Mcythe_Break_Erode
 
 ID=14
 Basic Attack Mastery I
-[スキル情報]\n拳で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法：地上]\nマウス：(左クリック)×5\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×2
+[Skill Info]\nAttack with a fist.\nAs this skill's level increases, you will be able to perform new combo attacks.\Gain SG on hit.\nSG gain varies by attack and enemy type.\n\n[Usage: Ground]\nMouse: (L-Click)×5\n\n[Usage: Mid-Air]\nMouse: After jumping (L-Click)×2
 SG獲得量が00%増加する。\n分岐攻撃Aを使用できる。
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
@@ -2366,7 +2366,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=4041
 Emergency Dodge I
-[Skill Info]\nStamina Cost: [20]\n\nSwiftly move in a direction.\nNegate damage during an emergency dodge.\n\nUseage\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
+[Skill Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\nUseage\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
@@ -2394,21 +2394,21 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 
 ID=4101
 Dash I
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
+Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
 ダッシュの速度が上昇する。
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=4102
 Dash II
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
+Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=4071
 Rising Attack I
-[スキル情報]\n敵に100%のダメージを与える。\nスキル使用時、スタミナを30消費する。\nスキル使用後1秒間、無敵状態になる。\nクールタイム：15秒\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
+[Skill Info] Deal 100% damage to an enemy.\n30 stamina will be consumed.\nBecome invincible for 1s after using this skill.\nCooldown: 15s\n\nWhile downed, get up while damaging surrounding enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
 スタミナ消費量が10減少する。
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
@@ -2968,35 +2968,35 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 
 ID=15
 Basic Attack Mastery I
-[スキル情報]\nゴーストを召喚して敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加し、ダメージ量が増加する。\n\n[操作方法：地上]\nマウス：(左クリック)×4\n\n[操作方法：空中]\nマウス：(左クリック)×2
+[Skill Info]\nCall forth a ghost to attack an enemy.\nAs this skill's level increases, you will be able to perform new combo attacks.\n\n[Usage: Ground]\nMouse: (L-Click)×4\n\n[Usage: Mid-Air]\nMouse: (L-Click)×2
 ダメージ量が5%増加する。\n分岐攻撃Aを使用できる。
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=25
 Basic Attack Mastery II
-[スキル情報]\nゴーストを召喚して敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加し、ダメージ量が増加する。\n\nダメージ量が[5%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×4\n[2](左クリック)×2-(右クリック)\n\n[操作方法：空中]\nマウス：(左クリック)×2
+[Skill Info]\nCall forth a ghost to attack an enemy.\nAs this skill's level increases, you will be able to perform new combo attacks.\n\nDamage +5%.\n\n[Usage: Ground]\nMouse:\n[1] (L-Click)×4\n[2] (L-Click)×2 - (R-Click)\n\n[Usage: Mid-Air]\nMouse: (L-Click)×2
 ダメージ量：[5%]+12%\n分岐攻撃Bを使用できる。
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=35
 Basic Attack Mastery III
-[スキル情報]\nゴーストを召喚して敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加し、ダメージ量が増加する。\n\nダメージ量が[12%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×4\n[2](左クリック)×2-(右クリック)\n[3](左クリック)×3-(右クリック)\n\n[操作方法：空中]\nマウス：(左クリック)×3
+[Skill Info]\nCall forth a ghost to attack an enemy.\nAs this skill's level increases, you will be able to perform new combo attacks.\n\nDamage +12%.\n\n[Usage: Ground]\nMouse:\n[1] (L-Click)×4\n[2] (L-Click)×2 - (R-Click)\n[3] (L-Click)×3 - (R-Click)\n\n[Usage: Mid-Air]\nMouse: (L-Click)×3
 ダメージ量：[17%]+18%\n基本攻撃の追加攻撃を使用できる。\n空中攻撃の追加攻撃を使用できる。
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=45
 Basic Attack Mastery IV
-[スキル情報]\nゴーストを召喚して敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加し、ダメージ量が増加する。\n\nダメージ量が[30%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×5\n[2](左クリック)×2-(右クリック)\n[3](左クリック)×3-(右クリック)\n[4](左クリック)×4-(右クリック)\n\n[操作方法：空中]\nマウス：(左クリック)×3
+[Skill Info]\nCall forth a ghost to attack an enemy.\nAs this skill's level increases, you will be able to perform new combo attacks.\n\nDamage +30%.\n\n[Usage: Ground]\nMouse:\n[1] (L-Click)×5\n[2] (L-Click)×2 - (R-Click)\n[3] (L-Click)×3 - (R-Click)\n[4] (L-Click)×4 - (R-Click)\n\n[Usage: Mid-Air]\nMouse: (L-Click)×3
 ダメージ量：[30%]+20%\n分岐攻撃Cを使用できる。
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=55
 Basic Attack Mastery V
-[スキル情報]\nゴーストを召喚して敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加し、ダメージ量が増加する。\n\nダメージ量が[50%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×5\n[2](左クリック)×2-(右クリック)\n[3](左クリック)×3-(右クリック)\n[4](左クリック)×4-(右クリック)\n\n[操作方法：空中]\nマウス：(左クリック)×3
+[Skill Info]\nCall forth a ghost to attack an enemy.\nAs this skill's level increases, you will be able to perform new combo attacks.\n\nDamage +50%.\n\n[Usage: Ground]\nMouse:\n[1] (L-Click)×5\n[2] (L-Click)×2 - (R-Click)\n[3] (L-Click)×3 - (R-Click)\n[4] (L-Click)×4 - (R-Click)\n\n[Usage: Mid-Air]\nMouse: (L-Click)×3
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
@@ -3066,7 +3066,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=5041
 Emergency Dodge I
-[Skill Info]\nStamina Cost: [20]\n\nSwiftly move in a direction.\nNegate damage during an emergency dodge.\n\nUseage\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
+[Skill Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\nUseage\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
@@ -3157,14 +3157,14 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 
 ID=5101
 Dash I
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
+Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
 ダッシュの速度が上昇する。
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=5102
 Dash II
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
+Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
@@ -4697,14 +4697,14 @@ When attacked, there is a 10% chance at a limit of once per second of increasing
 
 ID=30023
 A Lethal Blow!
-攻撃命中時、5%の確率で2秒間、クリティカル率が20%上昇する。(クールタイム15秒)
+When landing a hit, 5% chance to increase CRIT rate by 20% for 2 sec. (Cooldown: 15 sec)
 .
 0
 0
 
 ID=30031
 A Lethal Blow II!
-攻撃命中時、10%の確率で3秒間、クリティカル率が20%上昇する。(クールタイム15秒)
+When landing a hit, 10% chance to increase CRIT rate by 20% for 3 sec. (Cooldown: 15 sec)
 .
 0
 0
@@ -4725,7 +4725,7 @@ On landing a successful hit, at a 10% chance, the critical rate increases by 10%
 
 ID=30041
 One's Determined Resolve I
-攻撃命中時、3%の確率で3秒間、SA状態が発生する。(クールタイム15秒)
+When landing a hit, 3% chance to break all SA for 3 sec. (Cooldown: 15 sec)
 .
 0
 0
@@ -4795,21 +4795,21 @@ Junk Knight performs a forward lunge attack, sending enemies into the air, then 
 
 ID=30072
 Vacuum I...
-クリティカル命中時、3%の確率でHPが2%回復する。(クールタイム15秒)
+During a critical hit, there is a 3% chance to recover 2% HP. (Cooldown: 15 sec)
 .
 0
 0
 
 ID=30073
 Vacuum II
-クリティカル命中時、6%の確率でHPが3%回復する。(クールタイム15秒)
+During a critical hit, there is a 6% chance to recover 3% HP. (Cooldown: 15 sec)
 .
 0
 0
 
 ID=30081
 Vacuum III
-クリティカル命中時、9%の確率でHPが4%回復する。(クールタイム15秒)
+During a critical hit, there is a 9% chance to recover 4% HP. (Cooldown: 15 sec)
 .
 0
 0
@@ -4879,14 +4879,14 @@ Attracts enemies and stuns them. (Cooldown: 80 sec)
 
 ID=30112
 Self-Recovery Power I
-攻撃命中時、5%の確率でスタミナが5%回復する。(クールタイム10秒)
+When hit, there is a 5% probability to recover 5% stamina. (Court time 10 seconds)
 .
 0
 0
 
 ID=30113
 Self-Recovery Power II
-攻撃命中時、5%の確率でスタミナが10%回復する。(クールタイム10秒)
+When hit, there is a 10% probability to recover 5% stamina. (Court time 10 seconds)
 .
 0
 0
@@ -4907,14 +4907,14 @@ When attacked, there is a 10% chance of recovering 10% SG. (Cooldown: 20 sec)
 
 ID=30123
 Judge Victor I
-攻撃命中時、4%の確率で2秒間、命中が200上昇する。(クールタイム15秒)
+When landing a hit, there is a 4% chance of increasing ACC by 200 for 2 sec. (Cooldown: 15 sec)
 .
 0
 0
 
 ID=30131
 Judge Victor II
-攻撃命中時、5%の確率で2秒間、命中が250上昇する。(クールタイム15秒)
+When landing a hit, there is a 5% chance of increasing ACC by 250 for 2 sec. (Cooldown: 15 sec)
 .
 0
 0
@@ -5446,21 +5446,21 @@ When landing a critical hit, there is a 5% chance of increasing ATK by 10% and r
 
 ID=30393
 God Hand I
-A hand of god comes down and pummels the enemy. (Cooldown: 1 min)
+Right hand appears and slams downward on enemies. (Cooldown: 1 min)
 .
 0
 0
 
 ID=30401
 God Hand II
-Two hands of god comes down and pummels the enemy. (Cooldown: 1 min)
+The two hands of god will come down and pummel the enemy. (1 min cooldown)
 .
 0
 0
 
 ID=30402
 God Hand III
-Two hands of god comes down and extensively pummels the enemy. (Cooldown: 1 min)
+The two hands of god will come down and extensively pummel the enemy. (1 min cooldown)
 .
 0
 0
@@ -6160,42 +6160,42 @@ Mind III
 
 ID=30741
 Ceremonial Attack I
-ジャンプ時、15%の確率で4秒間、攻撃力が10%上昇する。(クールタイム15秒)
+When jumping, there is a 15% chance of increasing ATK by 10% for 4 sec. (Cooldown: 15 sec)
 .
 0
 0
 
 ID=30742
 Ceremonial Attack II
-ジャンプ時、20%の確率で4秒間、攻撃力が10%上昇する。(クールタイム15秒)
+When jumping, there is a 20% chance of increasing ATK by 10% for 4 sec. (Cooldown: 15 sec)
 .
 0
 0
 
 ID=30743
 攻撃の儀式Ⅲ
-ジャンプ時、25%の確率で4秒間、攻撃力が10%上昇する。(クールタイム15秒)
+When jumping, there is a 25% chance of increasing ATK by 10% for 4 sec. (Cooldown: 15 sec)
 .
 0
 0
 
 ID=30751
 Ceremonial Attack I
-ジャンプ時、20%の確率で4秒間、攻撃力が10%上昇する。(クールタイム15秒)
+When jumping, there is a 20% chance of increasing ATK by 10% for 4 sec. (Cooldown: 15 sec)
 .
 0
 0
 
 ID=30752
 Ceremonial Attack II
-ジャンプ時、25%の確率で4秒間、攻撃力が10%上昇する。(クールタイム15秒)
+When jumping, there is a 25% chance of increasing ATK by 10% for 4 sec. (Cooldown: 15 sec)
 .
 0
 0
 
 ID=30753
 攻撃の儀式Ⅲ
-ジャンプ時、30%の確率で4秒間、攻撃力が10%上昇する。(クールタイム15秒)
+When jumping, there is a 30% chance of increasing ATK by 10% for 4 sec. (Cooldown: 15 sec)
 .
 0
 0
@@ -6538,84 +6538,84 @@ ID=30913
 
 ID=30921
 三玉Ⅰ
-破壊すると1種の特殊なバフを獲得できる\n玉を4個召喚する。（クールタイム90秒）
+One of the special buffs will be applied by each ball.\n Four Balls will be summoned. (CD: 90 sec)
 .
 0
 0
 
 ID=30922
 三玉Ⅱ
-破壊すると2種の特殊なバフを獲得できる\n玉を4個召喚する。（クールタイム90秒）
+Two of the special buffs will be applied by each ball.\n Four Balls will be summoned. (CD: 90 sec)
 .
 0
 0
 
 ID=30923
 三玉Ⅲ
-破壊すると3種の特殊なバフを獲得できる\n玉を5個召喚する。（クールタイム90秒）
+Three of the special buffs will be applied by each ball.\n Five Balls will be summoned. (CD: 90 sec)
 .
 0
 0
 
 ID=30931
 三玉Ⅰ
-破壊すると2種の特殊なバフを獲得できる\n玉を4個召喚する。（クールタイム90秒）
+Two of the special buffs will be applied by each ball.\n Four Balls will be summoned. (CD: 90 sec)
 .
 0
 0
 
 ID=30932
 三玉Ⅱ
-破壊すると3種の特殊なバフを獲得できる\n玉を5個召喚する。（クールタイム90秒）
+Three of the special buffs will be applied by each ball.\n Five Balls will be summoned. (CD: 90 sec)
 .
 0
 0
 
 ID=30933
 三玉Ⅲ
-破壊すると3種の特殊なバフを獲得できる\n玉を7個召喚する。（クールタイム90秒）
+Three of the special buffs will be applied by each ball.\n Seven Balls will be summoned. (CD: 90 sec)
 .
 0
 0
 
 ID=30941
 破壊命令Ⅰ
-アスファルトゴーレムが30秒間召喚され、\n全てのモンスターの攻撃対象となる。（クールタイム90秒）
+Asphalt Golem is summoned for 30 seconds and attacks all monsters. (CD: 90 sec)
 .
 0
 0
 
 ID=30942
 破壊命令Ⅱ
-アスファルトゴーレムが45秒間召喚され、\n全てのモンスターの攻撃対象となる。（クールタイム90秒）
+Asphalt Golem is summoned for 45 seconds and attacks all monsters. (CD: 90 sec)
 .
 0
 0
 
 ID=30943
 破壊命令Ⅲ
-アスファルトゴーレムが60秒間召喚され、\n全てのモンスターの攻撃対象となる。（クールタイム90秒）
+Asphalt Golem is summoned for 60 seconds and attacks all monsters. (CD: 90 sec)
 .
 0
 0
 
 ID=30951
 破壊命令Ⅰ
-アスファルトゴーレムが40秒間召喚され、\n全てのモンスターの攻撃対象となる。（クールタイム90秒）
+Asphalt Golem is summoned for 40 seconds and attacks all monsters. (CD: 90 sec)
 .
 0
 0
 
 ID=30952
 破壊命令Ⅱ
-アスファルトゴーレムが55秒間召喚され、\n全てのモンスターの攻撃対象となる。（クールタイム90秒）
+Asphalt Golem is summoned for 55 seconds and attacks all monsters. (CD: 90 sec)
 .
 0
 0
 
 ID=30953
 破壊命令Ⅲ
-アスファルトゴーレムが70秒間召喚され、\n全てのモンスターの攻撃対象となる。（クールタイム90秒）
+Asphalt Golem is summoned for 70 seconds and attacks all monsters. (CD: 90 sec)
 .
 0
 0

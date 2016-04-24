@@ -761,7 +761,7 @@ ID=467
 Durability {0}
 
 ID=470
-Fully\nCleared
+Total\nReward
 
 ID=471
 Completion
@@ -866,7 +866,7 @@ ID=510
 Revive
 
 ID=511
-※<font color='#F15F5F'>Abandoning the party</font>, in<font size='15' color='#F7AE54'>{0}</font> seconds, you'll be <font color='#F15F5F'>moved to the town</font>.
+※<font color='#F15F5F'>For leaving the battle</font>, in<font size='15' color='#F7AE54'>{0}</font> seconds, you'll be <font color='#F15F5F'>moved to the town</font>.
 
 ID=512
 Forfeit
@@ -932,7 +932,7 @@ ID=546
 [{0}] whispers:
 
 ID=547
-[{0}] says:
+to [{0}]:
 
 ID=548
 [{0}] shouts:
@@ -1001,7 +1001,7 @@ ID=573
 SP Cost:
 
 ID=574
-SP Gain(Next Level):
+Next Level SP Gain:
 
 ID=581
 Items Gained
@@ -1172,7 +1172,7 @@ ID=653
 {0} Party Members have refused to join the dungeon.
 
 ID=661
-You will soon be moved to another area.\n({0} second(s) remaining)
+You will soon be moved to another area.\n({0}s remaining)
 
 ID=665
 You have been incapacitated. Do you want to revive?
@@ -1625,7 +1625,7 @@ ID=856
 NPC
 
 ID=861
-Entered CH{0}.
+Entered CH. {0}.
 
 ID=865
 Weapon
@@ -1718,7 +1718,7 @@ ID=907
 Defense
 
 ID=908
-Current Title
+Title
 
 ID=909
 Proficiency
@@ -1838,7 +1838,7 @@ ID=952
 Exchange
 
 ID=953
-Select an equipment to enhance.
+Select a equip/card to enhance.
 
 ID=954
 Maximum Enhance Limit: +{0}
@@ -2450,7 +2450,7 @@ ID=2210
 Header
 
 ID=2211
-Attached Zenny
+Attachments
 
 ID=2212
 Mail Fee
@@ -2615,7 +2615,7 @@ ID=2506
 Lv{0}
 
 ID=2520
-Find Friend
+Find Friends
 
 ID=2521
 Post Ad
@@ -2630,7 +2630,7 @@ ID=2524
 Search
 
 ID=2525
-Friend Requests
+Suggested Friends
 
 ID=2526
 Delist Ad
@@ -3317,7 +3317,7 @@ ID=5809
 <font color='#FFFFFF' size='30'>TIP: </font>You can check the <font color='#00ff9c'>mini-map</font> to find the location of an <font color='#00D8FF'>NPC</font> or <font color='#00D8FF'>dungeon entrances</font>.
 
 ID=5810
-<font color='#FFFFFF' size='30'>TIP: </font>Press the hotkey <font color='#00ff9c'>[L]</font>to see your <font color='#00D8FF'>[Records]</font> and <font color='#00D8FF'>[Secured Area Percentages]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Press the hotkey <font color='#00ff9c'>[L]</font> to see your <font color='#00D8FF'>[Records]</font> and <font color='#00D8FF'>[Secured Area Percentages]</font>.
 
 ID=5811
 <font color='#FFFFFF' size='30'>TIP: </font>Depending on your <font color='#00D8FF'>progress</font>, you can press <font color='#00ff9c'>[L]</font> to collect rewards.
@@ -3374,7 +3374,7 @@ ID=5828
 <font color='#FFFFFF' size='30'>TIP: </font>Upon reaching max level, <font color='#00ff9c'>[Rank]</font> will be enabled.
 
 ID=5829
-<font color='#FFFFFF' size='30'>TIP: </font>When the current channel is full, please\n<font color='#00D8FF'>Channel Change</font> by clicking the top right area of your minimap.
+<font color='#FFFFFF' size='30'>TIP: </font>When the current channel is full, please\n<font color='#00D8FF'>Change Channel</font> by clicking the top right area of your minimap.
 
 ID=5830
 <font color='#FFFFFF' size='30'>TIP: </font>Bookers Points <font color='#00ff9c'>[BP]</font> may be acquired from <font color='#00D8FF'>District 6</font> or <font color='#00D8FF'>Steel Grave</font>.
@@ -3398,7 +3398,7 @@ ID=5836
 <font color='#FFFFFF' size='30'>TIP: </font>Please try activating <font color='#00D8FF'>Orbs</font> at <font color='#00ff9c'>the Soul Manipulator</font> NPC.\nAn activated Orb can be used by your Supporter.
 
 ID=5837
-<font color='#FFFFFF' size='30'>TIP: </font>Soloing is hard! You might feel lonely! \nIn times like those, you can use </font><font color='#00D8FF'>Find Party</font> <font color='#00ff9c'>[N]</font> and </font><font color='#00D8FF'>Community</font> <font color='#00ff9c'>[O]</font> to make some friends!
+<font color='#FFFFFF' size='30'>TIP: </font>Soloing is hard! You might feel lonely! \nIn times like these, you can use </font><font color='#00D8FF'>Find Party</font> <font color='#00ff9c'>[N]</font> and </font><font color='#00D8FF'>Community</font> <font color='#00ff9c'>[O]</font> to make some friends!
 
 ID=5838
 <font color='#FFFFFF' size='30'>TIP: </font>Expand your community by establishing a <font color='#00D8FF'>Guild</font> or joining a <font color='#00D8FF'>Guild</font>.
@@ -3407,7 +3407,7 @@ ID=5839
 <font color='#FFFFFF' size='30'>TIP: </font>Upon reaching Lv10, you will be able to have your very own <font color='#00D8FF'>[Room]</font>.
 
 ID=5840
-<font color='#FFFFFF' size='30'>TIP: </font>Sometimes <font color='#00D8FF'>Memorial</font>, a memory fragment, item will appear.\nCollect these items and claim a reward from the Memorial window <font color='#00ff9c'>[B]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Sometimes a <font color='#00D8FF'>Memorial</font>, A.K.A. memory fragment will appear.\nCollect these and claim a reward from the Memorial window <font color='#00ff9c'>[B]</font>.
 
 ID=5841
 <font color='#FFFFFF' size='30'>TIP: </font>Clicking the 「i」 icon at the top right corner will open <font color='#00D8FF'>[Help]</font>, where various information about the game can be found.
@@ -3443,7 +3443,7 @@ ID=5851
 <font color='#FFFFFF' size='30'>TIP: </font>You can attach a <font color='#00D8FF'>Familiar</font> to a weapon that has an open socket.
 
 ID=5852
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>Brooch</font> can be added to Fashion items that have an open socket.
+<font color='#FFFFFF' size='30'>TIP: </font>A <font color='#00D8FF'>Brooch</font> can be added to a Fashion item that has an open socket.
 
 ID=5853
 <font color='#FFFFFF' size='30'>TIP: </font>Defeated enemies will drop <font color='#00D8FF'>Ether</font>, which is used to <font color='#00ff9c'>Enhance</font> items.
@@ -3473,7 +3473,7 @@ ID=5861
 <font color='#FFFFFF' size='30'>TIP: </font>The combat research institute <font color='#00D8FF'>Steel Grave</font> gives you one attempt at clearing up to 5 stages per day.
 
 ID=5862
-<font color='#FFFFFF' size='30'>TIP: </font>Entering<font color='#00D8FF'>Very Hard</font>mode dungeons features stronger enemies and better rewards.
+<font color='#FFFFFF' size='30'>TIP: </font> Entering <font color='#00D8FF'>Very Hard</font>mode dungeons features stronger enemies and better rewards.
 
 ID=5863
 <font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought in each town's <font color='#00ff9c'>Equipment Shop</font>.
@@ -3506,7 +3506,7 @@ ID=5872
 <font color='#FFFFFF' size='30'>TIP: </font>You can check the <font color='#00ff9c'>mini-map</font> to find the location of an <font color='#00D8FF'>NPC</font> or <font color='#00D8FF'>dungeon entrances</font>.
 
 ID=5873
-<font color='#FFFFFF' size='30'>TIP: </font>Press the hotkey <font color='#00ff9c'>[L]</font>to see your <font color='#00D8FF'>[Records]</font> and <font color='#00D8FF'>[Secured Area Percentages]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Press the hotkey <font color='#00ff9c'>[L]</font> to see your <font color='#00D8FF'>[Records]</font> and <font color='#00D8FF'>[Secured Area Percentages]</font>.
 
 ID=5874
 <font color='#FFFFFF' size='30'>TIP: </font>Based on your game progess, you can check the <font color='#00D8FF'>Progress Information</font> window <font color='#00ff9c'>[L]</font> to receive some rewards.
@@ -3563,7 +3563,7 @@ ID=5891
 <font color='#FFFFFF' size='30'>TIP: </font>Upon reaching max level, <font color='#00ff9c'>[Rank]</font> will be enabled.
 
 ID=5892
-<font color='#FFFFFF' size='30'>TIP: </font>When the current channel is full, please\n<font color='#00D8FF'>Channel Change</font> by clicking the top right area of your minimap.
+<font color='#FFFFFF' size='30'>TIP: </font>When the current channel is full, please\n<font color='#00D8FF'>Change Channel</font> by clicking the top right area of your minimap.
 
 ID=5893
 <font color='#FFFFFF' size='30'>TIP: </font>Bookers Points <font color='#00ff9c'>[BP]</font> may be acquired from <font color='#00D8FF'>District 6</font> or <font color='#00D8FF'>Steel Grave</font>.
@@ -3596,7 +3596,7 @@ ID=5902
 <font color='#FFFFFF' size='30'>TIP: </font>If your character reaches 0 <color='#00D8FF'>[HP]</font>, it will become incapacitated and unable to fight. Be careful!
 
 ID=5903
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[SG]</font> (Soul Gauge) is the source of your power.\nUsing a skill will consume SG. Each character has their own way of recovering SG.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[SG]</font> (Soul Gauge) is the source of your power.\nUsing a skill will consume SG. Each character recovers SG differently.
 
 ID=5904
 <font color='#FFFFFF' size='30'>TIP: </font>The Break Skill, <font color='#00D8FF'>「Erosion」</font>, can not be used in <font color='#00D8FF'>District 6</font>.
@@ -4205,13 +4205,13 @@ ID=9984
 Ruin Fortress Shortcut
 
 ID=9985
-[Steel Grave]Candus City
+[S. Grave]Candus City
 
 ID=9986
-[Steel Grave]Grace City
+[S. Grave]Grace City
 
 ID=9987
-[Steel Grave]Ruin Fortress
+[S. Grave]Ruin Fortress
 
 ID=9988
 Golden Citadel Entrance
@@ -4589,7 +4589,7 @@ ID=10391
 A Ray of Light
 
 ID=10392
-Intuders
+Intruders
 
 ID=10393
 Shadows that Gather
@@ -5510,13 +5510,13 @@ ID=18051
 Temporary item「{0}」has been refunded. Please check your mail for more details.
 
 ID=18052
-{0}-{1}-{2} {3}:{4)
+{0}-{1}-{2} {3}:{4}
 
 ID=18053
 ({0} days)
 
 ID=18054
-Temporary Item
+Expiry Date:
 
 ID=18055
 Set duration
@@ -5999,7 +5999,7 @@ ID=21032
 Due to a lack of FP, you can not enter the dungeon.
 
 ID=21033
-Since {0} FP is missing, you can not enter the dungeon.
+{0} does not have enough FP to enter the dungeon.
 
 ID=21034
 Insufficient FP. You can not use the Find Party feature.
@@ -9110,7 +9110,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to by Soul Workers HQ Translation Team; version 1.0.4.0.\nPlease check your guild's information for updates.
+This translation was brought to by Soul Workers HQ Translation Team; version 1.0.4.15.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -9890,7 +9890,7 @@ ID=30101
 Looking for a guild.
 
 ID=30102
-Find Friend
+Find Friends
 
 ID=30103
 Soloing[Go away]
@@ -9986,7 +9986,7 @@ ID=31027
 Can not enter because a party member does not have a Soul Weapon equipped.
 
 ID=31028
-You may only enter the same dungeon as your party leader.
+Can't enter a different dungeon than your party leader.
 
 ID=31029
 Can not enter a different dungeon than your party members.
@@ -10733,7 +10733,7 @@ ID=32100
 Exchange
 
 ID=33000
-Hello,\n I have wondered the world, \nseeking for a glorious show.\n  My name is "Clown Edgar".\n I admit you must be surprised.\n I lust for your power.\n It is flamboyant, yet modest.\n Tranquil, yet destructive and refined.\n For you, I sent a present.\nAccept it, it is a token\n of respect. Come to "The Shopping District"\n, you'll like it.\n - Clown Edgar.
+Hello,\n I have wandered the world, \nseeking for a glorious show.\n  My name is "Clown Edgar".\n I admit you must be surprised.\n I lust for your power.\n It is flamboyant, yet modest.\n Tranquil, yet destructive and refined.\n For you, I sent a present.\nAccept it, it is a token\n of respect. Come to "The Shopping District"\n, you'll like it.\n - Clown Edgar.
 
 ID=33001
 Little by little,\n the distance between us is shrinking.\n We will cross paths sooner or later.\n The longer the wait, the greater the thrill.\n We made it dramatic with a little game.\n You can not enter now,\n but if you had a badge.\n Cross the woods at dawn.\n Hurry up.\n Waiting to see you burn.
@@ -10778,7 +10778,7 @@ ID=33508
 Eye of the Silent Attendant
 
 ID=33509
-Stregnth of an Empty Heart
+Strength of a Vacant Heart
 
 ID=33510
 Legacy of a Serial Killer
@@ -11318,7 +11318,7 @@ ID=39950
 <font color='#C6C5B6'>{0}</font>
 
 ID=39951
-<font color='#10FF97'>{0}：{1} Increased</font>
+<font color='#10FF97'>{0}：+{1}%</font>
 
 ID=39952
 <font color='#C62424'>{0}：Reduce {1}</font>
@@ -11393,7 +11393,7 @@ ID=40110
 Please destroy the special magnetic field by using a skill.
 
 ID=40111
-Please operate the switch.
+Please pull the lever.
 
 ID=40112
 Please activate the bomb by using the lever in the middle of the control room.
@@ -11651,7 +11651,7 @@ ID=40200
 Intruder Alarm Disabled
 
 ID=40201
-Intruder Alarm Unsuccessfully disabled
+Intruder Alarm Activated
 
 ID=40202
 Intruder alarm in the elevator has been activated.\nMove to a safe place and defeat all enemies.
@@ -12290,7 +12290,7 @@ ID=40515
 The spawning control device was destroyed.\n Prevent the graspers from repairing it.
 
 ID=40516
-The lift will stop soon.
+The elevator will stop soon.
 
 ID=40601
 Upon defeating all four enemies, the path's portal to the mansion will be opened.
@@ -12539,10 +12539,10 @@ ID=42064
 Mysterious Queen Carra
 
 ID=42065
-Dr. Sedeyurin
+Dr. Sedurin
 
 ID=42066
-Head Dr. Sedeyurin
+Head Dr. Sedurin
 
 ID=42067
 Single Leg
@@ -12605,10 +12605,10 @@ ID=42086
 Ted & Julie
 
 ID=42087
-Senya
+Xenia
 
 ID=42088
-Tactics Officer Senya
+Tactics Officer Xenia
 
 ID=42089
 Sentry Commander  
@@ -13313,10 +13313,10 @@ ID=42322
 Ruler of the Blue Sky Queen Carla μ
 
 ID=42323
-Dr. Sedeyurin
+Dr. Sedurin
 
 ID=42324
-Head Dr. Sedeyurin
+Head Dr. Sedurin
 
 ID=42325
 Lazy Weapons' Inventor Sedurin
@@ -13454,7 +13454,7 @@ ID=43063
 Queen Carra
 
 ID=43065
-Dr. Sedeyurin
+Dr. Sedurin
 
 ID=43067
 Single Leg
@@ -13484,7 +13484,7 @@ ID=43086
 Ted & Julie
 
 ID=43087
-Senya
+Xenia
 
 ID=43089
 Sentry Commander  
@@ -13790,7 +13790,7 @@ ID=45009
 Purchase All
 
 ID=45010
-Purchase Hancoin
+Buy Hancoin
 
 ID=45011
 Mass Purchase
@@ -13889,7 +13889,7 @@ ID=45042
 Delete
 
 ID=45043
-Purchase Hancoin
+Buy Hancoin
 
 ID=45044
 Buy
@@ -13949,7 +13949,7 @@ ID=45104
 Insufficient inventory space.
 
 ID=45105
-You do not have enough Hancoin to gift this item.
+You do not have enough Hancoin to make the purchases.
 
 ID=45106
 No items were selected for purchasing.
@@ -14180,7 +14180,7 @@ ID=46301
 Congratulations!\n Steel {0} Grave has been successfully cleared.\n Try again tomorrow.
 
 ID=46302
-Steel Grave has been unsuccessfully cleared.
+Steel Grave challenge failed.
 
 ID=46303
 Could not enter Steel {0} Grave.\n Try again tomorrow.
@@ -14459,7 +14459,7 @@ ID=49336
 Event Mission
 
 ID=49337
-There are no daily missions remaining.
+There are daily missions available.
 
 ID=49338
 View
@@ -14627,7 +14627,7 @@ ID=49624
 [Dodging]How to
 
 ID=49625
-Keyboard Layout
+Controls Layout
 
 ID=49626
 Keyboard
@@ -15422,7 +15422,7 @@ ID=52290
 Lacking required item.
 
 ID=52291
-Socket unsuccessfully released.
+Socket release failed.
 
 ID=52292
 No socket available.
@@ -15614,7 +15614,7 @@ ID=52601
 The item can not be used due to level requirements not being met.
 
 ID=52602
-The item cannot be used due to cooldown limitations.
+This item is still on cooldown.
 
 ID=52603
 The item can not be used due to not being in a party.
@@ -15866,7 +15866,7 @@ ID=55018
 You can not use your soul weapon here.
 
 ID=55019
-You may only enter the same dungeon as your party leader.
+Can't enter a different dungeon than your party leader.
 
 ID=55020
 Someone is logged out. Dungeon entry is not possible.
@@ -16085,7 +16085,7 @@ ID=56009
 Skill can not be used right now.
 
 ID=56010
-This action cannot be performed right now due to the cooldown limits.
+That skill is still on cooldown.
 
 ID=56011
 Action data does not exist.
