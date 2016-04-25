@@ -1097,7 +1097,7 @@ ID=618
 Evaded Attack DMG
 
 ID=619
-Critical Hit Rate
+Critical Rate
 
 ID=620
 Magic Critical Rate
@@ -1511,7 +1511,7 @@ ID=807
 Brooch Details
 
 ID=808
-Wearable Part
+Worn on
 
 ID=809
 No Brooch added
@@ -1571,7 +1571,7 @@ ID=828
 A Familiar can be attached to socket items.\n(Right-click the item to attach it)
 
 ID=829
-The selected Familiar has not disselected.
+Cancelled the selected Familiar.
 
 ID=830
 A socket has been added to the selected item.
@@ -2450,7 +2450,7 @@ ID=2210
 Header
 
 ID=2211
-Attachments
+Attached
 
 ID=2212
 Mail Fee
@@ -2468,7 +2468,7 @@ ID=2216
 Sender
 
 ID=2217
-Timestamp
+Date
 
 ID=2218
 Sent Time
@@ -2489,7 +2489,7 @@ ID=2223
 Mail Duration
 
 ID=2224
-{0} d(s)
+{0}day
 
 ID=2225
 Automatic Transfer Time
@@ -2603,10 +2603,10 @@ ID=2502
 Offline
 
 ID=2503
-Remaining {0}d
+Remaining {0}day
 
 ID=2504
-Remaining {0} hour(s)
+Remaining {0}h
 
 ID=2505
 CH{0}
@@ -2972,7 +2972,7 @@ ID=4010
 Record Achieved
 
 ID=4011
-Record "{0}" attained.
+Record 「{0}」 attained.
 
 ID=4012
 Clearance Level Up
@@ -3671,10 +3671,10 @@ ID=6032
 This A.R. card is being used.
 
 ID=6033
-A.R. card 「{0}」 has been successfully crafted.
+A.R. card 「{0}」 crafted.
 
 ID=6034
-A.R. card 「{0}」 has been successfully released.
+A.R. card 「{0}」 released.
 
 ID=6035
 Crafting A.R. card was unsuccessful.
@@ -4964,7 +4964,7 @@ ID=15028
 Soul Junk named Arachniss that took Catherine away\nseems like it's hiding somewhere in the basement.\nLet's quickly find and rescue Catherine.
 
 ID=15029
-The only antidote for Catherine's Vacuum-vein infection is at the research facility of NED Company.\nBut that research facility was already a den of Soul Junk...
+The only antidote for Catherine's Vacuum Vein infection is at the research facility of NED Company.\nBut that research facility was already a den of Soul Junk...
 
 ID=15030
 The second research facility was also crawling with Soul Junk... We don't know what in the world happened here, but getting the antidote for Catherine is top priority.
@@ -4982,7 +4982,7 @@ ID=15034
 A large number of Soul Junk has been discovered on the path to the transport ship located in the bomb shelter. For the safety of everyone, they must be dealt with.
 
 ID=15035
-Every has taken shelter except for Catherine and us. However, at that time, we discovered that there were a large number of Soul Junk near the transport ship.
+Everyone has taken shelter except for Catherine and us. However, at that time, we discovered that there were a large number of Soul Junk near the transport ship.
 
 ID=15036
 The escape from Grace City has commenced. However, the Soul Junk's unrelenting attacks are making everyone anxious.
@@ -5012,13 +5012,13 @@ ID=15044
 In order to retrieve evidence for the incident at Candus City,\nwe need to copy all the data\nfrom NED Company's security box.
 
 ID=15045
-In order to exterminate the Rapid Flames coming in from the second highway, we need to take back the firing zone "Hill Breaker" for Operation Wolf Cry to commence.
+In order to defeat the Rapid Flames coming in from the second highway, we need to take back the firing zone "Hill Breaker" for Operation Wolf Cry to commence.
 
 ID=15046
 Operation Wolf Cry involves firing missiles called 「Final Aria」which spreads strong radio waves in its vicinity. With this, we can exterminate Queen Carla, the main force of the assault brigade.
 
 ID=15047
-Heel Breaker can not progress towards the Area Missile firing zone. With Starry Forest League's Soul Worker 「Kainbarrel」, exterminate the Rapid Flame's assault squad.
+Heel Breaker can not progress towards the Area Missile firing zone. With Starry Forest League's Soul Worker 「Kainbarrel」, defeat the Rapid Flame's assault squad.
 
 ID=15048
 The Assault Captain of the Rapid Flames, Falcon, has finally showed his face after his precious bird Queen Karla has been damaged. To the target that has finally showed its head, we can almost feel grateful for it.
@@ -5276,7 +5276,7 @@ ID=16838
 {0}h
 
 ID=16839
-{0} d(s)
+{0}day
 
 ID=16840
 All Characters
@@ -5486,7 +5486,7 @@ ID=18043
 {0}, {1}, {2} will be showcased. Do you want continue?
 
 ID=18044
-{0} d(s)
+{0}day
 
 ID=18045
 {0}h
@@ -5513,7 +5513,7 @@ ID=18052
 {0}-{1}-{2} {3}:{4}
 
 ID=18053
-({0} days)
+({0}day)
 
 ID=18054
 Expiry Date:
@@ -6983,10 +6983,10 @@ ID=22658
 Return Chat Options to Default
 
 ID=22659
-【{0}】key is being used for other controls.\nDo you still wish to change and overwrite key settings?
+[{0}]key is being used for other controls.\nDo you still wish to change and overwrite key settings?
 
 ID=22660
-【{0}】key can not be used as a shortcut.\nPlease assign other keys for use.
+[{0}]key can not be used as a shortcut.\nPlease assign other keys for use.
 
 ID=22661
 Memorial
@@ -8459,7 +8459,7 @@ ID=26037
 Defense
 
 ID=26038
-Defense Increase
+Defense
 
 ID=26039
 Magic Resistance
@@ -8477,7 +8477,7 @@ ID=26043
 Evaded Attack Damage
 
 ID=26044
-Critical Hit Rate
+Critical Rate
 
 ID=26045
 Magic Critical Rate
@@ -8489,7 +8489,7 @@ ID=26047
 Magic Critical Resistance
 
 ID=26048
-Critical Hit Rate
+Critical Rate
 
 ID=26049
 Magic Critical Rate
@@ -8741,97 +8741,97 @@ ID=26300
 5% chance to reflect {0}% damage.
 
 ID=26301
-When poisoned by Rapid Flame Faction foes, 10% chance to heal HP by {0}
+When poisoned by Rapid Flame Faction foes, 10% chance of +{0} HP
 
 ID=26302
 50% chance for Damage Reduction from Puppets
 
 ID=26303
-On skill use, 50% chance to increase Evasion Rate by {0} for 10s
+On skill use, 50% chance to increase Evasion Rate by {0}% for 10s
 
 ID=26304
-50% chance to gain additional Zenny when acquiring them
+50% chance to gain additional bonus Zenny
 
 ID=26305
-5% chance to heal HP by {0} when attacking enemies
+5% chance to +{0} HP when attacking enemies
 
 ID=26306
 HP increased by {0}% of Maximum Attack
 
 ID=26307
-When being hit while under 50% HP, attack is increased by {0}% for 5 sec
+When being hit under 50% HP, +{0}% Attack for 5s
 
 ID=26308
-After killing a puppet, attack is increased by {0}% for 10 sec
+After defeating a puppet, +{0}% Attack for 10s
 
 ID=26309
-Reduce the cooldown of skill by {0}%
+On skill use, -{0}% cooldown
 
 ID=26310
-When avoiding, recover {0}% HP.
+On dodge, recover {0}% HP.
 
 ID=26311
-When using a skill, cooldown is reduced by {0}% at a 5% chance.
+When using a skill, 5% chance of -{0}% cooldown
 
 ID=26312
 {0}% chance of being revived when incapacitated.
 
 ID=26313
-When hit by a critical attack, critical resistance is increased by {0} for 10 sec
+When hit by a critical attack, +{0}% Critical Resistance for 10s
 
 ID=26314
-When attacked by a Boss Monster, maximum stamina is increased by {0} for 3 sec
+When attacked by a Boss Monster, +{0} maximum Stamina for 3s
 
 ID=26315
-When hit, 3% chance of increasing ATK by {0}% for 3 sec
+When hit, 3% chance of +{0}% Attack for 3s
 
 ID=26316
-When hit, 1% chance of increasing ATK by {0}% for 5 sec
+When hit, 1% chance of +{0}% Attack for 5s
 
 ID=26317
-During a critical attack, 3% chance of penetrating the enemy's DEF by {0}% for 3 sec
+During a critical attack, 3% chance of +{0}% Defense Penetration for 3s
 
 ID=26318
-During a critical attack, 1% chance of penetrating the enemy's DEF by {0}% for 5 sec
+During a critical attack, 1% chance of +{0}% Defense Penetration for 5s
 
 ID=26319
-When attacked, 15% chance of increasing Evasion Rate by {0} for 3s
+When attacked, 15% chance of +{0}% Evasion Rate for 3s
 
 ID=26320
-On dodge, 10% chance of increasing Evaded Attack DMG by {0}% for 10s
+On dodge, 10% chance of +{0}% Evaded Attack Damage for 10s
 
 ID=26321
-50% chance of recovering HP by {0} when hit by a critical attack
+When hit by a critical attack, 50% chance of +{0} HP
 
 ID=26322
-When hit, 5% chance of increasing SA destructive power by {0}% for 5 sec
+When hit, 5% chance of +{0}% SA Destruction by for 5s
 
 ID=26323
-Movement speed is increased by {0}% when in town.
++{0}% Movement speed while in town.
 
 ID=26324
-When attacked by a Boss Monster,  10% chance of damage reduction by {0}% for 5 sec
+When attacked by a Boss Monster, 10% chance of +{0}% Damage Reduction for 5s
 
 ID=26325
-On dodge, following attack is increased by {0}%.
+On dodge, following attack is increased by {0}%
 
 ID=26326
-On dodge, 5% chance of recovering {0} HP
+On dodge, 5% chance of +{0} HP
 
 ID=26327
-2% chance of recovering stamina by {0} when hit.
+When hit, 2% chance of +{0} Stamina
 
 ID=26328
-Increased movement speed of {0}% in a combat zone
++{0}% Movement Speed in combat zone
 
 ID=26329
-When attacked, 15% chance of increasing defense by {0}% for 5 sec
+When attacked, 15% chance of +{0}% Defense for 5s
 
 ID=26330
-When attacked, 8% chance of increasing critical resistance by {0} for 10 sec
+When attacked, 8% chance of +{0}% Critical Resistance for 10s
 
 ID=26331
-When attacked, 20% chance of {0}% damage reflection.
+When attacked, 20% chance of +{0}% Damage Reflection
 
 ID=26332
 When attacked, 20% chance of a 1 sec super armor effect
@@ -8849,52 +8849,52 @@ ID=26336
 When attacked, 20% chance of a 6 sec super armor effect
 
 ID=26337
-On dodge, {0}% Damage Reduction for 5s
+On dodge, +{0}% Damage Reduction for 5s
 
 ID=26338
-While in the air, DMG taken is reduced by {0}% for 5 sec.
+While in air, +{0}% Damage Reduction for 5s
 
 ID=26339
-While on the ground, DMG taken is reduced by {0}% for 5 sec.
+While on ground, +{0}% Damage Reduction for 5s
 
 ID=26340
-At a 10% chance, while at 50% or less HP while being hit, the DEF increases by {0}%.
+When being hit under 50% HP, +{0} Defense
 
 ID=26341
-On dodge, 2% chance to heal HP by {0}%.
+On dodge, 2% chance to +{0}% HP
 
 ID=26342
-On dodge skill, 3% chance of recovering {0}% HP.
+On dodge, 3% chance of +{0}% HP
 
 ID=26343
-When dashing, 10% chance for 5 sec of movement speed +{0}%
+When dashing, 10% chance of +{0}% Movement Speed for 5s
 
 ID=26344
-When using skills, 2% chance for cooldown time -{0}%
+On skill use, 2% chance of -{0}% Cooldown
 
 ID=26500
-Defense Penetration increased by {0}% for 30 seconds for every monster defeated
+On enemy death, +{0}% Defense Penetration for 30s
 
 ID=27000
-When hit,  5% chance of increasing ATK by {0}% for 3 sec.
+When hit,  5% chance of +{0}% Attack for 3s
 
 ID=27001
-When attacked, 20% chance for 5 sec of Defense +{0}%
+When attacked, 20% chance of +{0}% Defense for 5s
 
 ID=27002
-During a critical hit, 7% chance for 3 seconds of Critical Attack +{0}%
+On critical hit, 7% chance of +{0}% Critical Attack for 3s
 
 ID=27500
-Upon gaining Zenny, HP increases by {0}%
+On Zenny gain, +{0}% HP
 
 ID=27700
-When enemy is defeated, +{0}% Soul Vapor
+On enemy death, +{0}% Soul Vapor
 
 ID=27701
-Additional {0}% Soul Vapor earned on killed enemies.
+On enemy death, additional +{0}% Soul Vapor
 
 ID=27702
-When hit, the skill power increases by {0}%.
+When hit, +{0}% Skill Damage
 
 ID=28000
 Create Guild
@@ -8930,13 +8930,13 @@ ID=28010
 Available Guild Name
 
 ID=28011
-The guild name {0} is usable.
+Guild name 「{0}」 is available.
 
 ID=28012
 Guild name can not be used.
 
 ID=28013
-Guild name {0} has been used already. Select another guild name.
+Guild name 「{0}」 is already used. Choose another guild name.
 
 ID=28014
 Guild Creation Confirmation
@@ -8960,16 +8960,16 @@ ID=28020
 Guild successfully created.
 
 ID=28021
-Guild created.\n Guild Name:{0}\n Guild Master:{1}
+Guild created.\nGuild name: 「{0}」\nGuild Master: 「{1}」
 
 ID=28022
-Guild {0} was established.
+Guild 「{0}」 established.
 
 ID=28023
 Establish Guild
 
 ID=28024
-Another guild can not be created.\n A guild was disbanded {0} days ago.
+Guild cannot be created.\nYou disbanded a Guild {0} days ago.
 
 ID=28025
 Disband Guild
@@ -9020,10 +9020,10 @@ ID=28040
 Confirm Guild Disbandment
 
 ID=28041
-Guild Disbandment is complete. \nDisbanded Guild:\n {0}, Guild Master:{1}
+Guild successfully disbanded.\nDisbanded Guild: 「{0}」\nGuild Master: 「{1}」
 
 ID=28042
-Guild {0} was disbanded.
+Guild 「{0}」 was disbanded.
 
 ID=28043
 Guild mastership can not be transferred.
@@ -9062,10 +9062,10 @@ ID=28054
 Guild Mastership Successfully transferred.
 
 ID=28055
-Guild Mastership Transfer has succeeded. {1}\n has succeeded\n {0}
+Successfully transferred guild ownership.\nFrom: 「{1}」\nTo: 「{0}」
 
 ID=28056
-{0} {1} has been delegated as the new Guild master.
+「{0}」 has delegated 「{1}」 as the new Guild Master.
 
 ID=28057
 Freeze Rank
@@ -9077,10 +9077,10 @@ ID=28059
 Do you want to reset {0}'s rank?
 
 ID=28060
-{0} has been established.
+「{0}」 has been established.
 
 ID=28061
-{0} rank was changed to {1}.
+{0}'s rank was changed to {1}.
 
 ID=28062
 {0} has been appointed to {1} rank.
@@ -9089,16 +9089,16 @@ ID=28063
 {0}'s rank has been reset.
 
 ID=28064
-Do you want to save the guild permissions for {0} rank?
+Do you want to save the guild permissions for {0}'s rank?
 
 ID=28065
 Save
 
 ID=28066
-Completed permission changes to {0}.
+Completed permission changes for {0}.
 
 ID=28067
-You can try creating a guild announcement again in \n{0} minutes.
+Cannot create a Guild Announcement.\nTry again in {0} minutes.
 
 ID=28068
 Cancel Guild Announcement
@@ -9110,7 +9110,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to by Soul Workers HQ Translation Team; version 1.0.4.16.\nPlease check your guild's information for updates.
+This translation was brought to by Soul Workers HQ Translation Team.\nLast updated at 25/Apr/2016 7:00 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -9122,40 +9122,40 @@ ID=28074
 Cancel Guild Notice
 
 ID=28075
-You may post another BBS message in {0} minutes.
+Try posting again in the Bulletin Board in {0} minutes.
 
 ID=28076
 The guild bulletin post was not created.
 
 ID=28077
-{0} is already in another guild.
+{0} is already in a Guild.
 
 ID=28078
-{0} has a guild invitation received already.
+{0} is still reviewing another Guild's invitation.
 
 ID=28079
-{0} has already sent the guild invite request.
+{0} has already received a Guild invitation.
 
 ID=28080
-{0} is not currently logged in.
+{0} is currently not logged in.
 
 ID=28081
-{0} is not currently in town.
+{0} is currently not in town.
 
 ID=28082
 The maximum number of guild members has been reached.
 
 ID=28083
-{0} can not join due to a guild withdrawl penalty.
+{0} cannot join due to Guild withdrawal penalty.
 
 ID=28084
-{0} [{1}} wishes to join. Do you accept?\n Response Time: {2} seconds remaining
+{0} sent a request to 「{1}」. Do you accept it?\nResponse Time: {2} seconds
 
 ID=28085
 Invite Guild Member
 
 ID=28086
-{0} has been rejected from joining the guild.
+{0} refused to accept the Guild invitation.
 
 ID=28087
 Guild Invite Refusal
@@ -9167,7 +9167,7 @@ ID=28089
 Guild Info
 
 ID=28090
-Are you sure you want to join {0}?
+Are you sure you want to apply to {0}?
 
 ID=28091
 Guild Application
@@ -9179,13 +9179,13 @@ ID=28093
 Guild application failed
 
 ID=28094
-Unable to join the guild.\n {0} hours remain for Guild withdrawl penalty.
+Because of the Guild withdrawal penalty\nyou are unable join a guild for {0} hours.
 
 ID=28095
 Guild withdrawal penalty
 
 ID=28096
-Do you accept the guild applicant {0}?
+Do you want to accept {0}'s request to join the Guild?
 
 ID=28097
 Guild Applicant
@@ -9197,7 +9197,7 @@ ID=28099
 Can not join guild
 
 ID=28100
-Do you wish to reject the guild applicant {0}?
+Do you want to refuse {0}'s request to join the Guild?
 
 ID=28101
 Reject Member
@@ -9209,19 +9209,19 @@ ID=28103
 The guild is full; no more can be accepted.
 
 ID=28104
-{0} days ago
+{0}days ago
 
 ID=28105
 {0}h ago
 
 ID=28106
-{0} mins ago
+{0}m ago
 
 ID=28107
-Joined {0}.
+{0} has joined.
 
 ID=28108
-{0} has joined the [{1}] guild.
+{0} has joined the 「{1}」 guild.
 
 ID=28109
 If you leave the guild, you may not join a new one for 1 day.\n Do you still wish to leave?
@@ -9236,25 +9236,25 @@ ID=28112
 Guild withdrawal complete
 
 ID=28113
-You have left {0}.
+{0} has left.
 
 ID=28114
 {0} has left the Guild.
 
 ID=28115
-Kick {0} from the guild?
+Are you sure you want to expel {0} from the Guild?
 
 ID=28116
 Confirm Expel Member
 
 ID=28117
-{0} has been kicked from the Guild.
+{0} was expelled from the Guild.
 
 ID=28118
 Expel Member
 
 ID=28119
-{0} has been kicked from the Guild.                                                            
+{0} has been expelled from the Guild.                                                            
 
 ID=28120
 You were expelled from {0}.
@@ -9476,7 +9476,7 @@ ID=28192
 Recruit
 
 ID=28193
-{0} d(s)
+{0}day
 
 ID=28194
 {0}h
@@ -9521,7 +9521,7 @@ ID=28207
 Verify
 
 ID=28208
-A guild can not be made again within {0} hours as one was dissolved recently.
+Because of the Guild disband penalty,\nyou are unable to establish a guild for {0} hours.
 
 ID=28209
 < Only authorized members can modify >
@@ -9536,7 +9536,7 @@ ID=28212
 Guild Recruitment Advertisement posted.
 
 ID=28213
-The new ad/announcement can be made in {0} minutes.
+Another ad can be created after {0} minutes.
 
 ID=28214
 Guild notice cancelled.
@@ -9584,10 +9584,10 @@ ID=28228
 Time
 
 ID=28229
-You have earned {0} guild points.
+{0} Guild points have been gained.
 
 ID=28230
-Guild Skill {0} - Level {1} Obtained
+Guild skill {0} Lv{1} learned
 
 ID=28231
 Guild Mark
@@ -9614,7 +9614,7 @@ ID=28238
 The guild Insignia has been changed.
 
 ID=28239
-{0} has leveled up from {2} to {1}.
+{0} Lv{1} became Lv{2}.
 
 ID=28240
 Basic Skill
@@ -9632,7 +9632,7 @@ ID=28244
 ({0} GP)
 
 ID=28245
-Do you wish to learn {0}?\n GP Cost: {1}; Funds Consumed: {2}
+Do you wish to learn {0}?\n[Cost: {1} GP and {2} Funds]
 
 ID=28246
 Do you wish to raise {0}'s level?\n It will cost {1} GP and subtract {2} from the guild funds.
@@ -9914,7 +9914,7 @@ ID=31003
 [{0}] currently be invited because you are in dungeon.
 
 ID=31004
-[{0}] has rejected the invitation.
+[{0}] has refused the invitation.
 
 ID=31005
 [{0}] is not logged in or can not be found.
@@ -9941,7 +9941,7 @@ ID=31012
 No more party members can be added; the party is full.
 
 ID=31013
-[{0}] has rejected the party invitation.
+[{0}] has refused the party invitation.
 
 ID=31014
 [{0}] has joined the party.
@@ -10358,7 +10358,7 @@ ID=31151
 Purpose
 
 ID=31152
-{0}: {1}
+{0}:{1}
 
 ID=31153
 Since automatic party matching was just invoked, there is a cooldown for rejoining the queue for [[0]] [[1]] seconds.
@@ -10946,7 +10946,7 @@ ID=34013
 {0}m
 
 ID=34014
-{0} %
+{0}%
 
 ID=34015
 Preparing
@@ -11318,10 +11318,10 @@ ID=39950
 <font color='#C6C5B6'>{0}</font>
 
 ID=39951
-<font color='#10FF97'>{0}：+{1}%</font>
+<font color='#10FF97'>{0}: +{1}%</font>
 
 ID=39952
-<font color='#C62424'>{0}：Reduce {1}</font>
+<font color='#C62424'>{0}: Reduce {1}</font>
 
 ID=40001
 Please open the bag and take out the operation device.
@@ -11600,7 +11600,7 @@ ID=40183
 Please turn off the servant kernals by using the servant kernals' control devices.
 
 ID=40184
-When you neutralize all enemies, the defense systems can be stopped.
+When you defeat all enemies, the defense systems can be stopped.
 
 ID=40185
 When the two security devices are used, you can deactivate the Buster Core's defenses.
@@ -11879,7 +11879,7 @@ ID=40276
 Claura will self-destruct and recover the enemy's HP.
 
 ID=40277
-Each Vacuum-vein will increase the attack and defense of the Dark Worm.
+Every 1 Vacuum Vein will increase the attack and defense of the Dark Worm.
 
 ID=40278
 Defeat the enemies and the controller will be summoned.
@@ -11930,7 +11930,7 @@ ID=40293
 Glutton has appeared. After defeating glutton,\n you can earn a variety of rewards.
 
 ID=40294
-Al Lucy is operating a defensive device. \nStop the device and kill all enemies to proceed.
+Al Lucy is operating a defensive device.\nStop the device and defeat all enemies to proceed.
 
 ID=40295
 The obstacles near the door have been removed.
@@ -11957,7 +11957,7 @@ ID=40302
 While using the Supporters' summoning equipment, the Supporters' familiars will appear.
 
 ID=40303
-Neutralize the enemy to spawn the controllers.
+Defeat the enemy to spawn the controllers.
 
 ID=40304
 Pass the cube barricade by activating the switch and using the floating board.
@@ -12017,7 +12017,7 @@ ID=40401
 Please defeat the enemy while defending the trap.\nThe enemy will arrive shortly. Caution is advised.
 
 ID=40402
-Destroy the enemies while avoiding the trap.
+Defeat the enemies while avoiding the trap.
 
 ID=40403
 Please go to the designated area while dodging the traps. A reward will be given for successfully doing so within a certain time limit.
@@ -12032,7 +12032,7 @@ ID=40406
 Failure to defeat the enemy within the time limit will cause the time bomb to explode and deal heavy damage.
 
 ID=40407
-Destroy all enemies and move to the next stage.
+Defeat all enemies and move to the next stage.
 
 ID=40408
 Dodge the traps while fighting enemies.\n They will activate promptly after being triggered.
@@ -12173,7 +12173,7 @@ ID=40476
 The elevator has stopped moving due to the enemy's attack. If\n all enemies are neutralized, you can operate the elevator's switch.
 
 ID=40477
-The main core's defense system is operating.\n Destroy it to stop the defense system.
+The Main Core's defense system is operating.\nDefeat it to stop the defense system.
 
 ID=40478
 In order to move the arc's ship first-grade steel players, please activate the power control device.
@@ -12230,13 +12230,13 @@ ID=40495
 The condenser has been destroyed, you can now use the gate deactivator switches.
 
 ID=40496
-The main core is in danger!\nDefense level is increased and enemy reinforcements have arrived.
+The Main Core feels in danger!\nDefensive levels are rising, enemy reinforcements arrived.
 
 ID=40497
 Destroy the condenser to prevent retaliatory fire from enemies.
 
 ID=40498
-The main core has detected nearby presences; it has gone into an increased level of alertness.
+The Main Core feels in danger, it has raised the defensive levels.
 
 ID=40499
 Defensive forces will appear to prevent you from entering the arc ship's command room.
@@ -12341,7 +12341,7 @@ ID=40616
 The lightning effect causes great damage to nearby allies. Control the Golden Obelisk to negate this effect.
 
 ID=40617
-Subjugate the [パンデミックデンドロビウム] to remove the intoxication status effect.
+Defeat 「Pandemic Dendrobium」 to remove the intoxication status effect.
 
 ID=42000
 Jack King
@@ -12410,13 +12410,13 @@ ID=42021
 Black Soul Junk Knight
 
 ID=42022
-Vacuum -vein
+Vacuum Vein
 
 ID=42023
-Vacuum-vein Parasite
+Vacuum Vein Parasite
 
 ID=42024
-Loitering Vacuum-vein Parasite
+Loitering Vacuum Vein Parasite
 
 ID=42025
 Mangrove Cell
@@ -13394,7 +13394,7 @@ ID=43017
 Dark Aligator
 
 ID=43022
-Vacuum -vein
+Vacuum Vein
 
 ID=43025
 Mangrove Cell
@@ -14006,7 +14006,7 @@ ID=45123
 Change Appearance
 
 ID=45201
-{0}Lｖ{1}
+{0}Lv{1}
 
 ID=45202
 {0} can be changed back.
@@ -14078,13 +14078,13 @@ ID=45308
 Do you want to use {0}?
 
 ID=45309
-Item acquired:\n {0} 
+Item acquired: {0}\nThe item can be found in your inventory.
 
 ID=45310
-Brooch obtained:\n{0}
+Brooch obtained: {0}\nThe item can be found in your inventory.
 
 ID=45311
-A.R. Card Acquired:\n {0}
+A.R Card Acquired: {0}\nThe item can be found in your inventory.
 
 ID=45312
 Item Effects Results
@@ -14207,7 +14207,7 @@ ID=49005
 Performance:
 
 ID=49006
-({0} / {1})
+({0}/{1})
 
 ID=49100
 Claim
@@ -14741,7 +14741,7 @@ ID=49790
 http://soulworker.hangame.co.jp/community/noticebbs.nhn?m=read&view=&bbsid=2510&bbstype=notice&page=1&docid=9594364 
 
 ID=49912
--Mission Failed- \n Leaving dungeon\n in (0} seconds-
+-Mission Failed-\nLeaving dungeon\nin (0} seconds-
 
 ID=49913
 The party failed the mission. \nCan not join the party.
@@ -14903,7 +14903,7 @@ ID=49965
 Move to {0}
 
 ID=49966
-Subdue {0}: {1}/{2}
+Defeat {0}: {1}/{2}
 
 ID=49967
 Collect {0}: {1} / {2}
@@ -16109,7 +16109,7 @@ ID=56531
 Unity Dungeon for all members must be open. 
 
 ID=57000
-{0} is not currently logged in.
+{0} is currently not logged in.
 
 ID=57001
 Guild Name: {0}is already in use.
@@ -16175,7 +16175,7 @@ ID=57021
 This user is not in the same town and can not be invited.
 
 ID=57022
-You may post another BBS message in {0} minutes.
+Try posting again in the Bulletin Board in {0} minutes.
 
 ID=57023
 The applicant list is full. 

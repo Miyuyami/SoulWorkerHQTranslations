@@ -43,12 +43,12 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 ID=111
 Special Ability Mastery I
 [Skill Info: Ground]\nDamage: [175%]\nSA Break: [140%]\n\n[Skill Info: Aerial]\nDamage:[229%]\nSA Break: [170%]\n\n[Skill Info]: General\nCooldown: 10s\nGain SG on hit.\nSG gain will vary by type of enemy hit.\n\nLaunch enemies into the air.\n\n[Usage: Ground]\nMouse: (R-Click)\n\n[Usage: Aerial]\nMouse: After Jumping (R-Click)
-[地上]\nダメージ量：[175%]+9%\nSA破壊量：[140%]+7%\n\n[空中]\nダメージ量：[229%]+12%\nSA破壊量：[170%]+8%\n浮かし攻撃の高さが若干増加する。\n\n[共通]\nSG獲得量が20%増加する。
+[Ground]\nDamage: [175%]+9%\nSA Break: [140%]+7%\n\n[Aerial]\nDamage: [229%]+12%\nSA Break: [170%]+8%\nLaunch enemies higher in the air.\n\n[Common]\nSG Gain +20%.
 Icon/Skill/SoulumSword/Icon_SSword_Skill_OwnAbility
 0
 
 ID=1110
-空中特殊攻撃
+Special Aerial Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -56,13 +56,13 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 
 ID=121
 Special Ability Mastery II
-[Skill Info: Ground]\nDamage: [184%]\nSA Break: [147%]\n\n[Skill Info: Aerial]\nDamage:[241%]\nSA Break: [178%]\n\n[Skill Info]: General\nCooldown: 10s\nGain SG on hit +20%.\nSG gain will vary by type of enemy hit.\n\nLaunch enemies into the air.\n\n[Usage: Ground]\nMouse: (R-Click)\n\n[Usage: Aerial]\nMouse: After Jumping (R-Click)
-[地上]\nダメージ量：[184%]+22%\nSA破壊量：[147%]+18%\n\n[空中]\nダメージ量：[241%]+29%\nSA破壊量：[178%]+22%\n浮かし攻撃の高さが若干増加する。\n\n[共通]\nSG獲得量：[20%]+50%
+[Skill Info: Ground]\nDamage: [184%]\nSA Break: [147%]\n\n[Skill Info: Aerial]\nDamage:[241%]\nSA Break: [178%]\n\n[Skill Info]: General\nCooldown: 10s\nGain SG on hit +20%.\nSG gain will vary by type of enemy hit.\n\n浮かし攻撃の高さが若干増加する。\n\n[Usage: Ground]\nMouse: (R-Click)\n\n[Usage: Aerial]\nMouse: After Jumping (R-Click)
+[Ground]\nDamage: [184%]+22%\nSA Break: [147%}+18%\n\n[Aerial]\nDamage: [241%]+29%\nSA Break: [178%]+22%\n浮かし攻撃の高さが若干増加する。\n\n[Common]\nSG Gain: [20%]+50%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_OwnAbility
 0
 
 ID=1210
-空中特殊攻撃
+Special Aerial Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -76,7 +76,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_OwnAbility
 0
 
 ID=1310
-空中特殊攻撃
+Special Aerial Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -85,14 +85,14 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 ID=211
 Sub-weapon Mastery
 [Skill Info]\nDeal 100% damage to an enemy.\n\nMake the enemy bleed.\nCan be used on ground or in-air. Use the sub-weapon button to control the timing of the throw on ground.
-現在は習得できません。
+Can not be learned right now.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=221
 Sub-weapon Mastery
 [Skill Info]\nDeal 100% damage to an enemy.\n\nMake the enemy bleed.\nCan be used on ground or in-air. Use the sub-weapon button to control the timing of the throw on ground.
-現在は習得できません。
+Can not be learned right now.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
@@ -113,14 +113,14 @@ Icon/Skill/Common/Icon_Common_Skill_Evasion
 ID=1081
 Rising Roll I
 [Skill Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
-スタミナ消費量：[25]-10
+Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=1082
 Rising II
 [Skill Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
-回転起床の速度が上昇する。
+Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
@@ -134,7 +134,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 ID=1101
 Dash I
 Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
-ダッシュの速度が上昇する。
+Increase the speed of your Dash.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
@@ -148,14 +148,14 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 ID=1071
 Rising Attack I
 [Skill Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
-スタミナ消費量：[30]-10
+Stamina Cost: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=1072
 Rising Attack II
 [Skill Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
-無敵時間が2秒増加する。
+Invincibility Duration +2s.
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
@@ -176,14 +176,14 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 ID=1051
 Special Dodge I
 [Skill Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
-クールタイム：[50秒]-10秒
+Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=1052
 Special Dodge II
 [Skill Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
-クールタイム：[50秒]-10秒
+Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
@@ -202,21 +202,21 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
 
 ID=1061
-ノックダウン脱出Ⅰ
+Rise Up I
 [Skill Info]\nGet up from a knockdown and consume 35 stamina.\nCooldown: [5s]\n\nGet up quickly after being knocked down by an enemy's attack.\n\n[Usage]\nMouse: While downed (Spacebar Key)
-スタミナ消費量が5減少する。
+Stamina Cost -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=1062
-ノックダウン脱出Ⅱ
+Rise Up II
 [Skill Info]\nGet up from a knockdown and consume 30 stamina.\nCooldown: [5s]\n\nGet up quickly after being knocked down by an enemy's attack.\n\n[Usage]\nMouse: While downed (Spacebar Key)
-スタミナ消費量が5減少する。
+Stamina Cost -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=1063
-ノックダウン脱出Ⅲ
+Rise Up III
 [Skill Info]\nGet up from a knockdown and consume 25 stamina.\nCooldown: [5s]\n\nGet up quickly after being knocked down by an enemy's attack.\n\n[Usage]\nMouse: While downed (Spacebar Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
@@ -232,14 +232,14 @@ Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 ID=1141
 Endless Struggle I
 [Skill Info]\nPassive Effect: Attack Power +5%\nStrengthen your attacks.
-攻撃力増加：[5%]+5%
+Attack Power: [5%]+5%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
 0
 
 ID=1142
 Endless Struggle II
 [Skill Info]\nPassive Effect: Attack Power +10%\nStrengthen your attacks.
-攻撃力増加：[10%]+5%
+Attack Power: [10%]+5%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
 0
 
@@ -253,28 +253,28 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
 ID=1151
 Stamina Mastery I
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +10%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[10%]+10%
+Stamina Recover Rate: [10%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=1152
 Stamina Mastery II
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +20%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[20%]+10%
+Stamina Recovery Rate: [20%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=1153
 Stamina Mastery III
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +30%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[30%]+10%
+Stamina Recovery Rate: [30%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=1154
 Stamina Mastery IV
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +40%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[40%]+10%
+Stamina Recovery Rate: [40%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
@@ -295,21 +295,21 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 ID=11022
 Fast Blade II
 [Skill: Basic Attack]\nDamage: [379%]\nSA Break: [203%]\n\n[Skill Info: Additional Attack]\nDamage: [237%]\nSA Break: [127%]\n\n[SkillInfo: General]\nSG Cost: [55]\nCooldown: [15s]\n\nCombo attack while moving forward.\nCan do an additional attack at the end.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: After the last attack (R-Click)
-[通常攻撃]\nダメージ量：[379%]+45%\nSA破壊量：[203%]+25%\n\n[追加攻撃]\nダメージ量：[237%]+28%\nSA破壊量：[127%]+15%
+[Normal Attack]\nDamage: [379%]+45%\nSA Break: [203%]+25%\n\n[Additional Attack]\nDamage: [237%]+28%\nSA Break: [127%]+15%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 0
 
 ID=11023
 Fast Blade III
 [Skill: Basic Attack]\nDamage: [424%]\nSA Break: [228%]\n\n[Skill Info: Additional Attack]\nDamage: [265%]\nSA Break: [147%]\n\n[SkillInfo: General]\nSG Cost: [55]\nCooldown: [15s]\n\nCombo attack while moving forward.\nCan do an additional attack at the end.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: After the last attack (R-Click)
-[通常攻撃]\nダメージ量：[424%]+45%\nSA破壊量：[228%]+24%\n\n[追加攻撃]\nダメージ量：[265%]+29%\nSA破壊量：[142%]+15%
+[Normal Attack]\nDamage: [424%]+45%\nSA Break: [228%]+24%\n\n[Additional Attack]\nDamage: [265%]+29%\nSA Break: [142%]+15%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 0
 
 ID=11024
 Fast Blade IV
 [Skill: Basic Attack]\nDamage: [469%]\nSA Break: [252%]\n\n[Skill Info: Additional Attack]\nDamage: [294%]\nSA Break: [157%]\n\n[SkillInfo: General]\nSG Cost: [55]\nCooldown: [15s]\n\nCombo attack while moving forward.\nCan do an additional attack at the end.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: After the last attack (R-Click)
-[通常攻撃]\nダメージ量：[469%]+72%\nSA破壊量：[252%]+38%\n\n[追加攻撃]\nダメージ量：[294%]+45%\nSA破壊量：[157%]+24%
+[Normal Attack]\nDamage: [469%]+72%\nSA Break: [252%]+38%\n\n[Additional Attack]\nDamage: [294%]+45%\nSA Break: [157%]+24%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 0
 
@@ -323,28 +323,28 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 ID=11041
 Pierce Step I
 [Skill Info]\nDamage: [83%]\nSA Break: [330%]\nSG Cost: [30]\nCooldown: [8s]\n\nPerform a series of slashes while advancing forward. An additional strike can be used with additional input.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[83%]+4%\nSA破壊量：[330%]+17%
+Damage: [83%]+4%\nSA Break: [330%]+17%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ID=11042
 Pierce Step II
 [Skill Info]\nDamage: [87%]\nSA Break: [347%]\nSG Cost: [30]\nCooldown: [8s]\n\nPerform a series of slashes while advancing forward. An additional strike can be used with additional input.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[87%]+10%\nSA破壊量：[347%]+41%
+Damage: [87%]+10%\nSA Break: [347%]+41%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ID=11043
 Pierce Step III
 [Skill Info]\nDamage: [97%]\nSA Break: [388%]\nSG Cost: [30]\nCooldown: [8s]\n\nPerform a series of slashes while advancing forward. An additional strike can be used with additional input.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[97%]+11%\nSA破壊量：[388%]+41%
+Damage: [97%]+11%\nSA Break: [388%]+41%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ID=11044
 Pierce Step IV
 [Skill Info]\nDamage: [108%]\nSA Break: [429%]\nSG Cost: [30]\nCooldown: [8s]\n\nPerform a series of slashes while advancing forward. An additional strike can be used with additional input.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[108%]+16%\nSA破壊量：[429%]+66%
+Damage: [108%]+16%\nSA Break: [429%]+66%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
@@ -797,7 +797,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_OwnAbility
 0
 
 ID=1120
-空中特殊攻撃
+Special Aerial Attack
 %
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -811,7 +811,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_OwnAbility
 0
 
 ID=1220
-空中特殊攻撃
+Special Aerial Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -825,7 +825,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_OwnAbility
 0
 
 ID=1320
-空中特殊攻撃
+Special Aerial Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -834,14 +834,14 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 ID=212
 Sub-weapon Mastery
 [Skill Info]\nDeal 100% damage to an enemy.\nFire a sticky bomb at an enemy. Attacking an adhered enemy will have Accuracy +100%. The bomb will explode after 5s.
-現在は習得できません。
+Can not be learned right now.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=222
 Sub-weapon Mastery
 [Skill Info]\nDeal 100% damage to an enemy.\nFire a sticky bomb at an enemy. Attacking an adhered enemy will have Accuracy +100%. The bomb will explode after 5s.
-現在は習得できません。
+Can not be learned right now.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
@@ -862,14 +862,14 @@ Icon/Skill/Common/Icon_Common_Skill_Evasion
 ID=2081
 Rising Roll I
 [Skill Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
-スタミナ消費量：[25]-10
+Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=2082
 Rising II
 [Skill Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
-回転起床の速度が上昇する。
+Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
@@ -883,7 +883,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 ID=2101
 Dash I
 Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
-ダッシュの速度が上昇する。
+Increase the speed of your Dash.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
@@ -897,14 +897,14 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 ID=2071
 Rising Attack I
 [Skill Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
-スタミナ消費量：[30]-10
+Stamina Cost: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=2072
 Rising Attack II
 [Skill Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
-無敵時間が2秒増加する。
+Invincibility Duration +2s.
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
@@ -925,14 +925,14 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 ID=2051
 Special Dodge I
 [Skill Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
-クールタイム：[50秒]-10秒
+Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=2052
 Special Dodge II
 [Skill Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
-クールタイム：[50秒]-10秒
+Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
@@ -951,21 +951,21 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
 
 ID=2061
-ノックダウン脱出Ⅰ
+Rise Up I
 [Skill Info]\nGet up from a knockdown and consume 35 stamina.\nCooldown: [5s]\n\nGet up quickly after being knocked down by an enemy's attack.\n\n[Usage]\nMouse: While downed (Spacebar Key)
-スタミナ消費量が5減少する。
+Stamina Cost -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=2062
-ノックダウン脱出Ⅱ
+Rise Up II
 [Skill Info]\nGet up from a knockdown and consume 30 stamina.\nCooldown: [5s]\n\nGet up quickly after being knocked down by an enemy's attack.\n\n[Usage]\nMouse: While downed (Spacebar Key)
-スタミナ消費量が5減少する。
+Stamina Cost -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=2063
-ノックダウン脱出Ⅲ
+Rise Up III
 [Skill Info]\nGet up from a knockdown and consume 25 stamina.\nCooldown: [5s]\n\nGet up quickly after being knocked down by an enemy's attack.\n\n[Usage]\nMouse: While downed (Spacebar Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
@@ -1002,28 +1002,28 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_SGPassive
 ID=2151
 Stamina Mastery I
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +10%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[10%]+10%
+Stamina Recover Rate: [10%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=2152
 Stamina Mastery II
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +20%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[20%]+10%
+Stamina Recovery Rate: [20%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=2153
 Stamina Mastery III
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +30%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[30%]+10%
+Stamina Recovery Rate: [30%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=2154
 Stamina Mastery IV
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +40%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[40%]+10%
+Stamina Recovery Rate: [40%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
@@ -1546,7 +1546,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_OwnAbility
 0
 
 ID=1130
-空中特殊攻撃
+Special Aerial Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -1560,7 +1560,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_OwnAbility
 0
 
 ID=1230
-空中特殊攻撃
+Special Aerial Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -1574,7 +1574,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_OwnAbility
 0
 
 ID=1330
-空中特殊攻撃
+Special Aerial Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -1583,14 +1583,14 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 ID=213
 Sub-weapon Mastery
 [Skill Info]\nDeal 100% damage to an enemy.\n\nThrow the scythe forward, damaging multiple enemies. Damaged enemies are pulled towards the character.
-現在は習得できません。
+Can not be learned right now.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=223
 Sub-weapon Mastery
 [Skill Info]\nDeal 100% damage to an enemy.\n\nThrow the scythe forward, damaging multiple enemies. Damaged enemies are pulled towards the character.
-現在は習得できません。
+Can not be learned right now.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
@@ -1611,14 +1611,14 @@ Icon/Skill/Common/Icon_Common_Skill_Evasion
 ID=3081
 Rising Roll I
 [Skill Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
-スタミナ消費量：[25]-10
+Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=3082
 Rising II
 [Skill Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
-回転起床の速度が上昇する。
+Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
@@ -1632,7 +1632,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 ID=3101
 Dash I
 Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
-ダッシュの速度が上昇する。
+Increase the speed of your Dash.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
@@ -1646,14 +1646,14 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 ID=3071
 Rising Attack I
 [Skill Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
-スタミナ消費量：[30]-10
+Stamina Cost: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=3072
 Rising Attack II
 [Skill Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
-無敵時間が2秒増加する。
+Invincibility Duration +2s.
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
@@ -1674,14 +1674,14 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 ID=3051
 Special Dodge I
 [Skill Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
-クールタイム：[50秒]-10秒
+Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=3052
 Special Dodge II
 [Skill Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
-クールタイム：[50秒]-10秒
+Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
@@ -1700,21 +1700,21 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
 
 ID=3061
-ノックダウン脱出Ⅰ
+Rise Up I
 [Skill Info]\nGet up from a knockdown and consume 35 stamina.\nCooldown: [5s]\n\nGet up quickly after being knocked down by an enemy's attack.\n\n[Usage]\nMouse: While downed (Spacebar Key)
-スタミナ消費量が5減少する。
+Stamina Cost -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=3062
-ノックダウン脱出Ⅱ
+Rise Up II
 [Skill Info]\nGet up from a knockdown and consume 30 stamina.\nCooldown: [5s]\n\nGet up quickly after being knocked down by an enemy's attack.\n\n[Usage]\nMouse: While downed (Spacebar Key)
-スタミナ消費量が5減少する。
+Stamina Cost -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=3063
-ノックダウン脱出Ⅲ
+Rise Up III
 [Skill Info]\nGet up from a knockdown and consume 25 stamina.\nCooldown: [5s]\n\nGet up quickly after being knocked down by an enemy's attack.\n\n[Usage]\nMouse: While downed (Spacebar Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
@@ -1728,21 +1728,21 @@ Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
 
 ID=3141
-満ちる狂気Ⅰ
+Intensifying Madness I
 [Skill Info]\nPassive Effect: Critical Damage +400\n\nIncrease critical damage.
 クリティカルダメージ増加：[400]+400
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive
 0
 
 ID=3142
-満ちる狂気Ⅱ
+Intensifying Madness II
 [Skill Info]\nPassive Effect: Critical Damage +800\n\nIncrease critical damage.
 クリティカルダメージ増加：[800]+500
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive
 0
 
 ID=3143
-満ちる狂気Ⅲ
+Intensifying Madness III
 [Skill Info]\nPassive Effect: Critical Damage +1300\n\nIncrease critical damage.
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive
@@ -1751,28 +1751,28 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive
 ID=3151
 Stamina Mastery I
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +10%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[10%]+10%
+Stamina Recover Rate: [10%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=3152
 Stamina Mastery II
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +20%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[20%]+10%
+Stamina Recovery Rate: [20%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=3153
 Stamina Mastery III
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +30%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[30%]+10%
+Stamina Recovery Rate: [30%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=3154
 Stamina Mastery IV
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +40%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[40%]+10%
+Stamina Recovery Rate: [40%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
@@ -2309,7 +2309,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_OwnAbility
 0
 
 ID=1140
-空中特殊攻撃
+Special Aerial Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -2323,7 +2323,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_OwnAbility
 0
 
 ID=1240
-空中特殊攻撃
+Special Aerial Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -2337,7 +2337,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_OwnAbility
 0
 
 ID=1340
-空中特殊攻撃
+Special Aerial Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -2374,14 +2374,14 @@ Icon/Skill/Common/Icon_Common_Skill_Evasion
 ID=4081
 Rising Roll I
 [Skill Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
-スタミナ消費量：[25]-10
+Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=4082
 Rising II
 [Skill Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
-回転起床の速度が上昇する。
+Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
@@ -2395,7 +2395,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 ID=4101
 Dash I
 Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
-ダッシュの速度が上昇する。
+Increase the speed of your Dash.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
@@ -2416,14 +2416,14 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 ID=4072
 Rising Attack II
 [Skill Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
-スタミナ消費量：[30]-10
+Stamina Cost: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=4073
 Rising Attack III
 [Skill Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
-無敵時間が2秒増加する。
+Invincibility Duration +2s.
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
@@ -2437,14 +2437,14 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 ID=4051
 Special Dodge I
 [Skill Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
-クールタイム：[50秒]-10秒
+Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=4052
 Special Dodge II
 [Skill Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
-クールタイム：[50秒]-10秒
+Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
@@ -3009,7 +3009,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_OwnAbility
 0
 
 ID=1150
-空中特殊攻撃
+Special Aerial Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -3023,7 +3023,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_OwnAbility
 0
 
 ID=1250
-空中特殊攻撃
+Special Aerial Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -3037,7 +3037,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_OwnAbility
 0
 
 ID=1350
-空中特殊攻撃
+Special Aerial Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -3074,14 +3074,14 @@ Icon/Skill/Common/Icon_Common_Skill_Evasion
 ID=5051
 Special Dodge I
 [Skill Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
-クールタイム：[50秒]-10秒
+Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=5052
 Special Dodge II
 [Skill Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
-クールタイム：[50秒]-10秒
+Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
@@ -3093,21 +3093,21 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=5061
-ノックダウン脱出Ⅰ
+Rise Up I
 [Skill Info]\nGet up from a knockdown and consume 35 stamina.\nCooldown: [5s]\n\nGet up quickly after being knocked down by an enemy's attack.\n\n[Usage]\nMouse: While downed (Spacebar Key)
-スタミナ消費量が5減少する。
+Stamina Cost -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=5062
-ノックダウン脱出Ⅱ
+Rise Up II
 [Skill Info]\nGet up from a knockdown and consume 30 stamina.\nCooldown: [5s]\n\nGet up quickly after being knocked down by an enemy's attack.\n\n[Usage]\nMouse: While downed (Spacebar Key)
-スタミナ消費量が5減少する。
+Stamina Cost -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=5063
-ノックダウン脱出Ⅲ
+Rise Up III
 [Skill Info]\nGet up from a knockdown and consume 25 stamina.\nCooldown: [5s]\n\nGet up quickly after being knocked down by an enemy's attack.\n\n[Usage]\nMouse: While downed (Spacebar Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
@@ -3116,14 +3116,14 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 ID=5071
 Rising Attack I
 [Skill Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
-スタミナ消費量：[30]-10
+Stamina Cost: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=5072
 Rising Attack II
 [Skill Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (L/R-Click)
-無敵時間が2秒増加する。
+Invincibility Duration +2s.
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
@@ -3137,14 +3137,14 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 ID=5081
 Rising Roll I
 [Skill Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
-スタミナ消費量：[25]-10
+Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=5082
 Rising II
 [Skill Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
-回転起床の速度が上昇する。
+Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
@@ -3158,7 +3158,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 ID=5101
 Dash I
 Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
-ダッシュの速度が上昇する。
+Increase the speed of your Dash.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
@@ -3214,28 +3214,28 @@ Icon/Skill/Howling/Icon_Howling_Skill_SGPassive
 ID=5151
 Stamina Mastery I
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +10%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[10%]+10%
+Stamina Recover Rate: [10%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=5152
 Stamina Mastery II
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +20%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[20%]+10%
+Stamina Recovery Rate: [20%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=5153
 Stamina Mastery III
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +30%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[30%]+10%
+Stamina Recovery Rate: [30%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=5154
 Stamina Mastery IV
 [Skill Info]\nPassive Effect: Stamina Recovery Rate +40%\n\nImprove stamina recovery rate.
-スタミナ回復量増加：[40%]+10%
+Stamina Recovery Rate: [40%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
@@ -5585,14 +5585,14 @@ When an ally is almost dead, there is a 60% chance of increasing ATK by 40% for 
 0
 
 ID=30462
-Latent Geek Power I
+An Otaku's Potential I
 When attacked, there is a 20% chance of recovering HP and SG for 3% per sec for 5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30463
-Latent Geek Power II
+An Otaku's Potential II
 When attacked, there is a 20% chance of recovering HP and SG for 5% per sec for 5 sec. (Cooldown: 10 sec)
 .
 0

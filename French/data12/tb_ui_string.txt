@@ -1073,7 +1073,7 @@ ID=610
 Attaque Minimum
 
 ID=611
-Attaque Maximum 
+Attaque
 
 ID=612
 Attaque Magique Minimum
@@ -1445,7 +1445,7 @@ ID=783
 Ennemi
 
 ID=784
-Maîtrisée
+Max
 
 ID=785
 Chargez avant utilisation
@@ -1541,7 +1541,7 @@ ID=818
 対象ソケットにファミリアを装着しますか？
 
 ID=819
-ファミリア装着に成功しました。
+Familia sertie avec succès.
 
 ID=820
 ソケットアイテム管理
@@ -1556,19 +1556,19 @@ ID=823
 新規ソケット追加に必要なアイテムが不足しています。
 
 ID=824
-ファミリア解除
+Familia dessertie avec succès.
 
 ID=825
 Emplacement supplémentaire
 
 ID=826
-ソケットに装着されているアイテムを解除しますか？\n(解除したアイテムはインベントリに移動します)
+Êtes-vous sûr de vouloir dessertir l'objet ?\n (L'objet sera placé dans votre inventaire)
 
 ID=827
 Voulez-vous ajouter un nouvel emplacement sur l'objet sélectionné ?
 
 ID=828
-ファミリア装着はソケットアイテム装着ポップアップで進行できます。\n(装着ポップアップはアイテム右クリックメニューから選択できます)
+Cet objet peut recevoir un Familia.\n (Clic-Droit pour sertir)
 
 ID=829
 選択したファミリアが解除されました。
@@ -1712,10 +1712,10 @@ ID=905
 Information de Base
 
 ID=906
-Attaque Maximum 
+Attaque
 
 ID=907
-Défense
+Défenses
 
 ID=908
 Titre actuel
@@ -1802,7 +1802,7 @@ ID=935
 Effets de Malus Actifs : Etourdissement, Paralysie, Sommeil, Gelé ; Réduit les chances de subir un effet
 
 ID=936
-Effets n, [Silence, Faiblesse]
+Effets de Malus Spéciaux : Sourdine, Affaibli ; Réduit les chances de subir un effet
 
 ID=937
 %
@@ -1943,7 +1943,7 @@ ID=987
 Sélectionnez un objet.
 
 ID=988
-Taux d'échange
+Échanger
 
 ID=989
 Evolution d'objet
@@ -2450,10 +2450,10 @@ ID=2210
 En-tête
 
 ID=2211
-Zenny joints
+Colis
 
 ID=2212
-Coût du message
+Frais Envoi
 
 ID=2213
 Zenny
@@ -2471,7 +2471,7 @@ ID=2217
 Horodatage
 
 ID=2218
-Heure d'envoi
+Date Envoi
 
 ID=2219
 {0}-{1}-{2} {3}h {4}m
@@ -2522,7 +2522,7 @@ ID=2244
 Réclamer
 
 ID=2245
-Ecrire un message
+Ecrire Message
 
 ID=2246
 Ouvrir
@@ -2702,10 +2702,10 @@ ID=3005
 Modifier l'Enregistrement
 
 ID=3006
-Terminer l'échange
+Terminer
 
 ID=3007
-Annuler l'échange
+Annuler
 
 ID=3008
 アイテムとジェニーを登録後、「登録確認」をクリックしてください。
@@ -2921,7 +2921,7 @@ ID=3116
 Titre
 
 ID=3117
-Support
+Allié
 
 ID=3200
 パッケージ使用
@@ -2939,10 +2939,10 @@ ID=3204
 インベントリに空きがないためアイテムを使用できません。
 
 ID=4000
-Courrier non lu
+Message(s) non lu(s)
 
 ID=4001
-Vous avez {0} courriers non lu. Consulter le HEMS.
+Vous avez {0} message(s). Veuillez Consulter HEMS.
 
 ID=4002
 Compétence Débloqué
@@ -3056,7 +3056,7 @@ ID=5100
 Vidéo d'introduction
 
 ID=5101
-Equipe de Production
+Eqp. Production
 
 ID=5102
 Quitter
@@ -3293,7 +3293,7 @@ ID=5801
 <font color='#FFFFFF' size='30'>ASTUCE : </font>Des consommables basiques sont disponibles au <font color='#00ff9c'>Marchand général</font> de chaque villes.
 
 ID=5802
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Divers marchands peuvent <font color='#00D8FF'>[reparer]</font>  or <font color='#00D8FF'>[démanteler]</font> votre équipement.
+<font color='#FFFFFF' size='30'>ASTUCE : </font>Certains marchands peuvent <font color='#00D8FF'>[réparer]</font>  ou <font color='#00D8FF'>[démanteler]</font> votre équipement.
 
 ID=5803
 <font color='#FFFFFF' size='30'>ASTUCE : </font>En utilisant les magasin des PNJ, le <font color='#00D8FF'>[Niv. d'amitié]</font> évoluera.\nVous obtiendrez divers bénéfices selon le niveau d’amitié.
@@ -3482,7 +3482,7 @@ ID=5864
 <font color='#FFFFFF' size='30'>ASTUCE : </font>Des consommables basiques sont disponibles au <font color='#00ff9c'>Marchand général</font> de chaque villes.
 
 ID=5865
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Divers marchands peuvent <font color='#00D8FF'>[reparer]</font>  or <font color='#00D8FF'>[démanteler]</font> votre équipement.
+<font color='#FFFFFF' size='30'>ASTUCE : </font>Certains marchands peuvent <font color='#00D8FF'>[réparer]</font>  ou <font color='#00D8FF'>[démanteler]</font> votre équipement.
 
 ID=5866
 <font color='#FFFFFF' size='30'>ASTUCE : </font>En utilisant les magasin des PNJ, le <font color='#00D8FF'>[Niv. d'amitié]</font> évoluera.\nVous obtiendrez divers bénéfices selon le niveau d’amitié.
@@ -3809,7 +3809,7 @@ ID=7014
 Total de SP insuffisant.
 
 ID=7015
-Maîtrisée
+Max
 
 ID=7016
 Carte No.
@@ -5792,73 +5792,73 @@ ID=20011
 Utilisé 「Saluer」
 
 ID=20012
-{0}が挨拶しています。
+{0} fait un salut.
 
 ID=20020
-笑う
+Rire
 
 ID=20021
-「笑う」を使用しました。
+Utilisé 「Rire」
 
 ID=20022
-{0}が笑っています。
+{0} rigole.
 
 ID=20030
-悲しむ
+Tristre
 
 ID=20031
-「泣く」を使用しました。
+Utilisé 「Pleurer」
 
 ID=20032
-{0}が泣いています。
+{0} pleure.
 
 ID=20040
-応援
+Joie
 
 ID=20041
-「応援」を使用しました。
+Utilisé 「Joie」
 
 ID=20042
-{0}が応援しています。
+{0} est joyeux/se.
 
 ID=20050
 S'asseoir
 
 ID=20051
-「座る」を使用しました。
+Utilisé 「S'asseoir」
 
 ID=20052
-{0} is sitting.
+{0} s’assoie.
 
 ID=20060
 Danser
 
 ID=20061
-「踊る」を使用しました。
+Utilisé 「Danser」
 
 ID=20062
-{0}が踊っています。
+{0} danse.
 
 ID=20070
-挑発
+Narguer
 
 ID=20071
-「挑発」を使用しました。
+Utilisé 「Se moquer」
 
 ID=20072
-{0}が挑発しています。
+{0} se moque.
 
 ID=20080
-自慢
+Se vanter
 
 ID=20081
-「自慢」を使用しました。
+Utilisé 「Se Vanter」
 
 ID=20082
-{0}が自慢しています。
+{0} s'envoi des fleurs.
 
 ID=20300
-このCHは非常に混雑しているため、設置できません。他のCHをご利用ください。
+Ce canal est plein. Veuillez choisir un autre.
 
 ID=20301
 設置スペースが不足または設置不可エリアです。
@@ -5900,7 +5900,7 @@ ID=20402
 休憩中…
 
 ID=21000
-{0}の好感度が{1}増加しました。
+L'amitié de {0} a augmenté de {1}.
 
 ID=21001
 {0}に対する顧客等級Lv{1}を達成しました。段階による特典が付与されます。
@@ -5909,13 +5909,13 @@ ID=21002
 Amitié [Niv{0}]
 
 ID=21003
-等級特典
+Bonus
 
 ID=21004
-報酬アイテム
+Récompense
 
 ID=21005
-好感度
+Amitié
 
 ID=21006
 {0}
@@ -5924,22 +5924,22 @@ ID=21007
 - {0} x{1}
 
 ID=21008
-修理費用が{0}{1}減少
+Frais de réparations diminués de {0}{1}.
 
 ID=21009
-製作費用が{0}{1}減少
+Frais d'artisanat diminués de {0}{1}.
 
 ID=21010
-製作に必要な材料数が{0}%減少
+Coût des matériaux d'artisanat diminués de {0}%
 
 ID=21011
-強化費用が{0}{1}減少
+Frais d'amélioration diminués de {0}{1}.
 
 ID=21012
-強化確率が{0}{1}増加
+Chances de succès des améliorations augmentées de {0}{1}.
 
 ID=21013
-乗り物利用料が{0}{1}減少
+Frais de transport diminués de {0}{1}.
 
 ID=21014
 特殊アイテム[{0}]購入可能
@@ -5951,40 +5951,40 @@ ID=21016
 乗り物利用時、30分間攻撃力/防御度が{0}{1}増加
 
 ID=21017
-サポータークエスト遂行可能[サポーター：ヒュー]
+Quête Allié Terminée [Support : Hugh]
 
 ID=21018
-サポータークエスト遂行可能[サポーター：リュー]
+Quête Allié Terminée [Support : Ryu]
 
 ID=21019
-サポータークエスト遂行可能[サポーター：ハイディンガー]
+Quête Allié Terminée [Support : Haidinger]
 
 ID=21020
-サポータークエスト遂行可能[サポーター：ミリアム]
+Quête Allié Terminée [Support : Miriam]
 
 ID=21021
-サポータークエスト遂行可能[サポーター：オートパニッシャー]
+Quête Allié Terminée [Support : サポーター：オートパニッシャー]
 
 ID=21022
-サポータークエスト遂行可能[サポーター：クリーニー]
+Quête Allié Terminée [Support : Kurini]
 
 ID=21023
-サポータークエスト遂行可能[サポーター：マクシム]
+Quête Allié Terminée [Support : Maxim]
 
 ID=21024
-サポータークエスト遂行可能[サポーター：ルーシー]
+Quête Allié Terminée [Support : Lucy]
 
 ID=21025
-サポータークエスト遂行可能[サポーター：ラルフ]
+Quête Allié Terminée [Support : Ralph]
 
 ID=21026
-サポータークエスト遂行可能[サポーター：センスン]
+Quête Allié Terminée [Support : Sensen]
 
 ID=21027
-達成
+Terminé
 
 ID=21028
-未達成
+Bloqué
 
 ID=21029
 Niveau d’amitié insuffisant
@@ -5999,7 +5999,7 @@ ID=21032
 Vous n'avez pas assez de FP pour accéder au donjon.
 
 ID=21033
-{0}のFPが不足しているため、メイズに入場できません。
+{0} n'as pas suffisamment de FP pour participer au donjon.
 
 ID=21034
 FP insuffisant. Vous ne pouvez pas utiliser la recherche de groupe.
@@ -6101,25 +6101,25 @@ ID=21513
 Details
 
 ID=21514
-Equipement supports.
+Equipement Alliés.
 
 ID=21515
 Réclamer
 
 ID=21516
-支援登録
+Effet Bénéfique Allié
 
 ID=21517
 Activer\nOrbe Offensive
 
 ID=21518
- ATT des Supports + 20%
+ ATT des Alliés + 20%
 
 ID=21519
 Activer\nOrbe Défensive
 
 ID=21520
-DEF des Supports + 20%
+DEF des Alliés + 20%
 
 ID=21521
 攻撃のオーブ[キャラクター攻撃力20%適用]で支援登録しますか？
@@ -6128,7 +6128,7 @@ ID=21522
 防御のオーブ[キャラクター防御度20%適用]で支援登録しますか？
 
 ID=21523
-登録内容
+Effet Bénéfique appliqué
 
 ID=21524
 + ATT: {0}
@@ -6137,13 +6137,13 @@ ID=21525
 + DEF: {0}
 
 ID=21526
-支援終了時間：
+Fin de l'effet :
 
 ID=21527
-支援終了：報酬受領後、再登録可能
+Une fois l'effet Bénéfique terminé, vous pouvez l'appliquer de nouveau. 
 
 ID=21528
-フレンド支援が終了しました。新たに支援登録ができます。
+L'effet Bénéfique Allié est terminé.
 
 ID=21529
 Raccourcis
@@ -6152,7 +6152,7 @@ ID=21530
 {0}/{1}
 
 ID=21531
-フレンド装備選択
+Equipements Alliés
 
 ID=21532
 Équiper
@@ -6164,16 +6164,16 @@ ID=21534
 メイズ離脱によりサポーターの召喚が解除されました。
 
 ID=21535
-{0}の召喚が解除されました。
+{0} a été rappelé. 
 
 ID=21536
 Type
 
 ID=21537
-Supports
+Liste Allié
 
 ID=21538
-使用中
+Utilisation en cours
 
 ID=21539
 使用者とのレベル差が5以上ある場合、サポーターのレベルに合わせて能力値が減少します。
@@ -6182,19 +6182,19 @@ ID=21540
 使用者とのレベル差が5以上ある場合、使用者のレベルに合わせて能力値が減少します。
 
 ID=21541
-適用：{0}
+Appliquer : {0}
 
 ID=21542
-召喚順序変更
+Ordre des Alliés
 
 ID=21543
-Supports Actifs
+Alliés Actifs
 
 ID=21544
-攻撃のオーブ
+Orbe Offensive
 
 ID=21545
-防御のオーブ
+Orbe Défensive
 
 ID=21546
 召喚中のサポーターを解除すると、着用中のオーブが消滅します。このまま続けますか？
@@ -6449,7 +6449,7 @@ ID=22225
 Chuchotement
 
 ID=22226
-Demande d'échange
+Échanger
 
 ID=22227
 Invit. Groupe
@@ -6659,7 +6659,7 @@ ID=22528
 Carte A.R. 5
 
 ID=22529
-Options
+Utilitaires
 
 ID=22530
 Répondre Chucho.
@@ -6800,7 +6800,7 @@ ID=22575
 Entrer dans le Salon
 
 ID=22576
-Supports
+Liste des Alliés
 
 ID=22577
 Trouver Groupe
@@ -6920,7 +6920,7 @@ ID=22637
 Couleur Msg Système
 
 ID=22638
-Attaque
+攻撃関連
 
 ID=22639
 Dégâts
@@ -7025,10 +7025,10 @@ ID=22672
 Aide Commandes
 
 ID=22673
-Appeler Supporters
+Appeler Alliés
 
 ID=22674
-Supporter Call is on cooldown.\n({0} sec)
+Appel est en cours de recharge.\n({0} sec)
 
 ID=22675
 You can not assign combined key bind with START button.
@@ -7088,7 +7088,7 @@ ID=24007
 Consommables 
 
 ID=24008
-Options
+Utilitaires
 
 ID=24009
 Apparence
@@ -7109,7 +7109,7 @@ ID=24014
 Matériaux
 
 ID=24015
-Support
+Allié
 
 ID=24016
 Artefact
@@ -7184,7 +7184,7 @@ ID=24268
 FP Consommés
 
 ID=24269
-Options
+Utilitaires
 
 ID=24270
 Coupe de cheveux
@@ -7898,16 +7898,16 @@ ID=24767
 Tout
 
 ID=24768
-Attaque
+Offensives
 
 ID=24769
-Défense
+Défensives
 
 ID=24770
 Tout
 
 ID=24771
-Utilitaire
+Utilitaires
 
 ID=24772
 Zenny
@@ -7976,7 +7976,7 @@ ID=24793
 アバターパッケージ
 
 ID=24794
-Options
+Utilitaires
 
 ID=24795
 Apparence
@@ -8444,10 +8444,10 @@ ID=26032
 Vit. d'attaque
 
 ID=26033
-Attaque
+攻撃力
 
 ID=26034
-Attaque
+攻撃力[%]
 
 ID=26035
 Attaque Magique
@@ -8459,7 +8459,7 @@ ID=26037
 Défense
 
 ID=26038
-Augmentation Défense
+防御度[%]
 
 ID=26039
 Défense Magique
@@ -8522,7 +8522,7 @@ ID=26058
 Résist. Poison
 
 ID=26059
-Résist. électrocution
+Résist. électrochocs
 
 ID=26060
 Taux d'esquive
@@ -8606,37 +8606,37 @@ ID=26086
 ダメージを受けた時のエフェクト変更_オプション表示しない[ツールチップ]
 
 ID=26087
-討伐効果：HP回復
+Coup Fatal : Récupération PV
 
 ID=26088
-討伐効果：SG回復
+Coup Fatal : Récupération SG
 
 ID=26089
-命中効果：毒
+Poison
 
 ID=26090
-ダメージ効果：火炎
+Brûlure
 
 ID=26091
-ダメージ効果：反射
+Réflexion de Dégâts 
 
 ID=26092
-抵抗：出血[%]
+Résist. Saignement
 
 ID=26093
-抵抗：気絶[%]
+Résist. Etourdie
 
 ID=26094
-抵抗：麻痺[%]
+Résist. Paralysie
 
 ID=26095
-抵抗：睡眠[%]
+Résist. Sommeil
 
 ID=26096
-抵抗：凍結[%]
+Résist. Gel
 
 ID=26097
-抵抗：沈黙[%]
+Résist. Sourdine
 
 ID=26098
 抵抗：衰弱[%]
@@ -8645,7 +8645,7 @@ ID=26099
 抵抗：魅惑[%]
 
 ID=26100
-抵抗：混乱[%]
+Résist. Confusion
 
 ID=26101
 敵追加ダメージ：ソウルジャンク[%]
@@ -8699,10 +8699,10 @@ ID=26117
 ダメージ減少：攻撃失敗[%]
 
 ID=26118
-ダメージ減少：エアリアル[%]
+Réduction Dégâts Attaques Aériennes
 
 ID=26119
-ダメージ減少：ダウン[%]
+Réduction Dégâts au Sol
 
 ID=26120
 命中効果：スタミナ回復[%]
@@ -8735,7 +8735,7 @@ ID=26204
 最終HP
 
 ID=26205
-同一レベル基準防御率[%]
+Défense à Niv. équivalent
 
 ID=26300
 5%の確率でダメージ量{0}%反射
@@ -8783,10 +8783,10 @@ ID=26314
 ボスクラスの敵から攻撃を受けた時、3秒間、最大スタミナ{0}増加
 
 ID=26315
-命中時、3%の確率で3秒間攻撃力{0}%増加
+3% de chance d'augmenter l'attaque de {0}% pendant 3 sec à chaque coup porté
 
 ID=26316
-命中時、1%の確率で5秒間攻撃力{0}%増加
+1% de chance d'augmenter l'attaque de {0}% pendant 5 sec à chaque coup porté
 
 ID=26317
 クリティカル時、3%の確率で3秒間敵防御度貫通{0}%
@@ -8804,7 +8804,7 @@ ID=26321
 クリティカル攻撃を受けた時、50%の確率でHP{0}回復
 
 ID=26322
-命中時、5%の確率で5秒間スーパーアーマー破壊力{0}%増加
+5% de chance d'augmenter les dégâts SA de {0}% pendant 5 sec à chaque coup porté
 
 ID=26323
 町での移動速度{0}%増加
@@ -8852,10 +8852,10 @@ ID=26337
 回避時、5秒間ダメージ減少{0}%
 
 ID=26338
-空中でダメージを受けた時、5秒間ダメージ減少{0}%
+Réduction des dégâts reçus en l'air de {0}% pendant 5 sec.
 
 ID=26339
-ダウン状態時、5秒間ダメージ減少{0}%
+Réduction des dégâts reçus au sol de {0}% pendant 5 sec.
 
 ID=26340
 攻撃を受けた時にHPが50%未満の場合、10%の確率で5秒間防御度{0}%増加
@@ -8876,7 +8876,7 @@ ID=26500
 敵討伐時、30秒間、敵の防御度貫通{0}%増加
 
 ID=27000
-命中時、5%の確率で3秒間攻撃力が{0}%増加
+5% de chance d'augmenter l'attaque de {0}% pendant 3 sec à chaque coup porté
 
 ID=27001
 攻撃を受けた時、20%の確率で5秒間防御度が{0}%増加
@@ -8897,10 +8897,10 @@ ID=27702
 命中時、スキル倍率{0}%増加
 
 ID=28000
-ギルド設立
+Créer une guilde
 
 ID=28001
-ギルドリスト
+Guilde
 
 ID=28002
 ギルドを設立するためには、以下の条件を満たす必要があります。
@@ -8909,7 +8909,7 @@ ID=28003
 ギルド設立可能レベル
 
 ID=28004
-ギルド設立不可
+Création de guilde
 
 ID=28005
 レベルが低いため、ギルドを設立できません。\nギルド設立可能レベル：20
@@ -8921,7 +8921,7 @@ ID=28007
 入力完了
 
 ID=28008
-ギルド名入力
+Entrez un nom de guilde
 
 ID=28009
 ギルド名は最大8文字まで入力できます。
@@ -8945,7 +8945,7 @@ ID=28015
 Nom de Guilde
 
 ID=28016
-ギルドマスター
+Chef de guilde
 
 ID=28017
 この内容でいいか確認してください。
@@ -8966,7 +8966,7 @@ ID=28022
 ギルド[{0}]が設立されました。
 
 ID=28023
-ギルド設立不可
+Création de guilde
 
 ID=28024
 ギルド解散ペナルティにより\n{0}日間設立できません。
@@ -9305,7 +9305,7 @@ ID=28135
 Niv.
 
 ID=28136
-ギルドマスター
+Chef de guilde
 
 ID=28137
 #
@@ -9728,16 +9728,16 @@ ID=29017
 星占い順
 
 ID=29018
-自分のフレンドのみ
+Amis Uniquement
 
 ID=29019
-自分のギルドのみ
+Guilde Uniquement
 
 ID=29020
-家具インベントリ
+Meubles
 
 ID=29021
-家具配置
+Arranger Meubles
 
 ID=29022
 移動
@@ -9758,13 +9758,13 @@ ID=29027
 マイルーム作成には5,000ジェニー必要です。\nマイルームを作成しますか？\n(マイルームは一つのみ作成できます)
 
 ID=29028
-マイルーム作成完了
+Création du salon terminée.
 
 ID=29029
 Salon créé.
 
 ID=29030
-マイルーム作成レベル不足
+Niveau trop bas pour créer un salon.
 
 ID=29031
 マイルーム作成に必要なレベルに達していません。\n必要条件：Lv10
@@ -9773,10 +9773,10 @@ ID=29032
 マイルーム作成ジェニー不足
 
 ID=29033
-マイルーム作成費用が不足しています。
+Fonds insuffisants. Impossible de créer un salon.
 
 ID=29034
-マイルーム入場案内
+Salon
 
 ID=29035
 マイルームに入場しますか？
@@ -9872,13 +9872,13 @@ ID=29065
 設置内装
 
 ID=30000
-プロフィール
+Profil
 
 ID=30001
 Statut
 
 ID=30002
-コメント
+Notes
 
 ID=30003
 Mémo
@@ -9944,25 +9944,25 @@ ID=31013
 [{0}]がパーティー招待を拒否しました。
 
 ID=31014
-[{0}]がパーティーに合流しました。
+[{0}] a rejoint le groupe.
 
 ID=31015
-パーティーに合流しました。
+Vous avez rejoint le groupe.
 
 ID=31016
-[{0}]がパーティーから追放されました。
+[{0}] a été exclu du groupe.
 
 ID=31017
-パーティーから追放されました。
+Vous avez été exclu du groupe.
 
 ID=31018
-[{0}]がパーティーから離脱しました。
+[{0}] a quitté le groupe.
 
 ID=31019
-パーティーを離脱しました。
+Vous avez quitté le groupe.
 
 ID=31020
-[{0}]がパーティーリーダーになりました。
+[{0}] est maintenant chef de groupe.
 
 ID=31021
 [{0}]がパーティーリーダーを委任しました。
@@ -10091,7 +10091,7 @@ ID=31062
 パーティー進行可否選択中
 
 ID=31063
-パーティーリーダー選定中…
+Choisir chef de groupe
 
 ID=31064
 メイズ入場まで
@@ -10115,22 +10115,22 @@ ID=31070
 待機
 
 ID=31071
-パーティ検索
+Rech. Groupe
 
 ID=31072
 待機者リスト
 
 ID=31073
-パーティー申請
+Demande de groupe
 
 ID=31074
 Poster Annonce
 
 ID=31075
-パーティー申請者
+Postulants au groupe
 
 ID=31076
-パーティ募集
+Recrutement
 
 ID=31077
 待機者
@@ -10505,7 +10505,7 @@ ID=32024
 操作キー
 
 ID=32025
-Attaque
+攻撃
 
 ID=32026
 Dégâts
@@ -10691,7 +10691,7 @@ ID=32086
 Inventaire
 
 ID=32087
-家具インベントリ
+Meubles
 
 ID=32088
 Caméra
@@ -11036,7 +11036,7 @@ ID=35006
 PNJ
 
 ID=35007
-Attaque
+攻撃情報
 
 ID=35008
 Info Dégâts
@@ -11324,7 +11324,7 @@ ID=39952
 <font color='#C62424'>{0}：Diminué {1}</font>
 
 ID=40001
-カバンを開けてオペレーションデバイスを入手してください。
+Veuillez ouvrir le sac et sortez-en l'appareil de commande.
 
 ID=40002
 移動
@@ -11369,85 +11369,85 @@ ID=40018
 ダウン起床
 
 ID=40101
-次のエリアに移動してください。
+Veuillez vous déplacer vers la prochaine zone.
 
 ID=40102
-町に移動できます。
+Vous pouvez aller en ville.
 
 ID=40105
-ミリアムと会話してください。
+Parlez à Miriam.
 
 ID=40106
-ミリアムについて行ってください。
+Suivez Miriam.
 
 ID=40107
-ベンジャミンと会話してください。
+Parlez à Benjamin.
 
 ID=40108
-回避を使用してレーザートラップを通過してください。
+Passez à travers le piège en utilisant la touche d'esquive.
 
 ID=40109
-スキルデッキに登録されたスキルを最後まで連続で使用してください。
+Utilisez les 3 compétences d'un ensemble d'une compétence.
 
 ID=40110
-スキルを使用して、特殊磁気フィールドを破壊してください。
+Détruisez le champ magnétique en utilisant une compétence.
 
 ID=40111
-スイッチを作動させてください。
+Tirez le levier.
 
 ID=40112
-管制室中央レバーを引いて爆破装置を起動してください。
+Activez la bombe en utilisant le levier au milieu de la salle de contrôle.
 
 ID=40113
-C4を爆発させて高架道路の残骸を除去してください。
+Dégagez les débris de la voie rapide en utilisant le C4.
 
 ID=40114
-レバーを引いて有毒ガスを換気してください。
+Tirez le levier pour évacuer les émanations empoisonnées.
 
 ID=40115
-4個のシールド制御装置を解体した後、サブAIコアを破壊してください。
+Après avoir démonter les 4 unités de contrôle du bouclier, détruisez le noyau de l'IA.
 
 ID=40116
 スレイブコア活性化装置を起動してください。
 
 ID=40117
-エレベーター制御装置を起動してください。
+Activez le panneau de contrôle de l'ascenseur.
 
 ID=40118
-特殊シールドを解除しないと、次のエリアに移動できません。
+Vous devez d'abord retirer le sceau spécial avant de vous rendre à la prochaine zone.
 
 ID=40119
-爆発する前に、ソウルジャンクの攻撃を切り抜けてください。
+Vainquez tous les Débris d'Âme avant que les bombes explosent.
 
 ID=40120
-安全地帯に進入しました。
+Vous êtes en zone sûre.
 
 ID=40121
-無法地帯に進入しました
+Vous êtes en zone de danger.
 
 ID=40122
 マッドビホールダーが毒ガスを噴出しようとしています。
 
 ID=40123
-浄化装置を作動させ、毒ガスを浄化してください。
+Purifiez l'air en utilisant le purificateur.
 
 ID=40124
-急いで浄化装置を作動させてください。
+Dépêchez-vous et utilisez le purificateur.
 
 ID=40125
-浄化装置を作動させ、マッドビホールダーの毒ガスを無力化してください。
+Utilisez le purificateur d'air pour rendre le gaz empoisonné de Mad Beholder inefficace.
 
 ID=40126
-浄化装置作動確認。毒ガスが浄化されます。
+Activation confirmée. Le gaz empoisonné a été purifié.
 
 ID=40127
-毒ガス浄化に失敗し、中毒状態になりました。
+La purification de l'air a échouée. Le gaz empoisonné se répand dans l'air.
 
 ID=40128
-カプセル内の制御装置を全て起動し、ソウルジャンクの乱入を防がなければなりません。
+Vous devez activer les contrôles à l'intérieur de la capsule et arrêter tout Soul Junk franchissant la limite.
 
 ID=40129
-左の制御装置起動完了
+Activation du contrôle gauche confirmée.
 
 ID=40130
 右の制御装置起動完了
@@ -12128,13 +12128,13 @@ ID=40452
 テンペストが砲撃を始めます。EMP発生装置をチャージし、作動させてテンペストを制圧できます。
 
 ID=40453
-25%チャージ完了。
+Chargé à 25%.
 
 ID=40454
-50%チャージ完了。
+Chargé à 50%.
 
 ID=40455
-75%チャージ完了。
+Chargé à 50%.
 
 ID=40456
 100%チャージ完了。 EMP発生装置が作動します。
@@ -14537,10 +14537,10 @@ ID=49459
 http://cafe.naver.com/fakesoul/152
 
 ID=49497
-Mode Curseur
+Curseur ON
 
 ID=49498
-Mode Caméra
+Caméra ON
 
 ID=49499
 Menu
@@ -14642,16 +14642,16 @@ ID=49629
 案内メッセージ
 
 ID=49630
-Infos Supplémentaires
+Autres Stats.
 
 ID=49631
-Attaque
+Offensives
 
 ID=49632
-Défense
+Défensives
 
 ID=49633
-Utilitaire
+Utilitaires
 
 ID=49700
 Enregistrement MDP Secondaire(2)
@@ -15362,7 +15362,7 @@ ID=52260
 該当NPCには使用できない機能です。
 
 ID=52261
-Cet échange est impossible.
+Echange impossible.
 
 ID=52262
 Impossible d'utiliser cet objet.
@@ -16277,13 +16277,13 @@ ID=58005
 Invocation en recharge.
 
 ID=58006
-Invocation des supports impossible en ville.
+Invocation des Alliés impossible en ville.
 
 ID=58007
 Ce donjon n'autorise pas les Supports.
 
 ID=58008
-Vous ne pouvez plus invoquer les Supports. [{0} / {1}]
+Vous ne pouvez plus invoquer d'Alliés. [{0} / {1}]
 
 ID=58101
 Steel Grave est réinitialisé quotidiennement.\n Réinitialisation à 8PM Eastern, 5PM pacific, 2AM Europe time.
