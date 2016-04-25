@@ -1532,13 +1532,13 @@ ID=815
 Familia sertie
 
 ID=816
-装着中のアイテムを解除後に、新しいアイテムを装着できます。
+Vous pourrez sertir un nouvel objet une fois cet objet enlevé.
 
 ID=817
 非活性化ソケットは、活性化状態に変更した後でアイテムを装着できます。
 
 ID=818
-対象ソケットにファミリアを装着しますか？
+Êtes vous sûr de vouloir sertir le Familia sur l'objet sélectionné ?
 
 ID=819
 Familia sertie avec succès.
@@ -1553,7 +1553,7 @@ ID=822
 アイテムの解除に必要な\nアイテムまたは手数料が不足しています。
 
 ID=823
-新規ソケット追加に必要なアイテムが不足しています。
+Objet d'ajout d'emplacement manquant.
 
 ID=824
 Familia dessertie avec succès.
@@ -1574,7 +1574,7 @@ ID=829
 選択したファミリアが解除されました。
 
 ID=830
-選択したアイテムにソケットが追加されました。
+Un emplacement a été ajouté sur l'objet sélectionné.
 
 ID=831
 ソケット機能を使用できないアイテムです。
@@ -1613,7 +1613,7 @@ ID=852
 Guilde
 
 ID=853
-Quête
+Quêtes
 
 ID=854
 Donjon
@@ -2417,7 +2417,7 @@ ID=2130
 フレンド登録したフレンドです。\n遮断しますか？
 
 ID=2131
-{0}は現在、他の要請を進行中です。
+{0} ne peut pas accepter de nouvelles demandes pour le moment.
 
 ID=2201
 HEMS
@@ -2687,7 +2687,7 @@ ID=2585
 Annuler
 
 ID=3001
-[{0}]のアイテム
+Objet(s) de [{0}]
 
 ID=3002
 Enregistrement
@@ -2723,34 +2723,34 @@ ID=3012
 {0}から取引要請が来ました。承諾しますか？\n[残り{1}秒]
 
 ID=3013
-対象プレイヤーと距離があり、取引要請が中止されました。
+La cible est trop éloignée; annulation de la demande d'échange.
 
 ID=3014
-対象プレイヤーがログアウトし、取引要請が中止されました。
+Ce joueur s'est déconnecté; annulation de la demande d'échange.
 
 ID=3015
 取引が中止されました。\n(対象と同じ町でのみ取引ができます)
 
 ID=3016
-{0}への取引要請を中止しました。
+La demande d'échange avec {0} a été annulée.
 
 ID=3017
-{0}の取引要請を拒否しました。
+Vous avez refusé la demande d'échange de {0}.
 
 ID=3018
-{0}が取引要請を中止しました。
+{0} a annulé la demande d'échange.
 
 ID=3019
-{0}が取引要請を拒否しました。
+{0} a refusé la demande d'échange.
 
 ID=3020
 承諾待機時間が終了し、取引要請が中止されました。
 
 ID=3021
-取引進行中はNPC機能を利用できません。
+Impossible d’interagir avec un PNJ lors d'un échange.
 
 ID=3022
-取引進行中は装備を変更できません。
+Impossible de changer l'équipement lors d'un échange.
 
 ID=3023
 対象プレイヤーはすでに取引進行中です。\nしばらくしてからもう一度お試しください。
@@ -2759,10 +2759,10 @@ ID=3024
 対象プレイヤーはすでに取引を要請中です。\nしばらくしてからもう一度お試しください。
 
 ID=3025
-{0}との取引が成立しました。
+Echange avec {0} réussi.
 
 ID=3026
-インベントリに空きスロットが無いため、取引を完了できません。
+Inventaire plein, échange annulé.
 
 ID=3027
 {0}と進行中の取引を中止しますか？
@@ -2771,7 +2771,7 @@ ID=3028
 {0}との取引を中止しました。
 
 ID=3029
-{0}が取引を中止しました。
+{0} a annulé l'échange.
 
 ID=3030
 対象プレイヤーと距離があり、進行中の取引が中止されました。
@@ -2786,7 +2786,7 @@ ID=3033
 {0}は現在個人商店開設準備中なので取引ができません。
 
 ID=3034
-対象は取引できない状態です。
+Impossible d'échanger avec ce joueur.
 
 ID=3035
 Changer
@@ -2804,28 +2804,28 @@ ID=3054
 変更完了
 
 ID=3055
-販売開始
+Ouvrir le magasin
 
 ID=3056
 販売中止
 
 ID=3057
-価格変更
+Changer les Prix
 
 ID=3058
-登録中止
+Enregistrement Terminé
 
 ID=3059
-商店終了
+Fermer le magasin
 
 ID=3060
-個人商店アイテム登録
+Enregistrer Produit
 
 ID=3061
 Confirmer l'Enregistrement
 
 ID=3062
-登録中止
+Enregistrement Terminé
 
 ID=3063
 現在地に個人商店を開きますか？
@@ -2924,19 +2924,19 @@ ID=3117
 Allié
 
 ID=3200
-パッケージ使用
+Ouvrir Boite
 
 ID=3201
-ランダムボックス使用
+Ouvrir aléatoirement
 
 ID=3202
-[{0}]を使用しますか？\n(以下のアイテムを獲得できます)
+Utiliser [{0}] ?\n(Vous pouvez obtenir les objets suivant)
 
 ID=3203
-[{0}]を使用しますか？\n(以下のアイテムからランダムに{1}個を獲得できます)
+Utiliser [{0}] ?\n(Vous pouvez obtenir {1} des objets suivant)
 
 ID=3204
-インベントリに空きがないためアイテムを使用できません。
+Impossible d'utiliser l'objet, espace insuffisant.
 
 ID=4000
 Message(s) non lu(s)
@@ -2948,22 +2948,22 @@ ID=4002
 Compétence Débloqué
 
 ID=4003
-{0}Lv{1}習得可能
+Niv {1} {0} Disponible
 
 ID=4004
-特性習得可能
+Attribut Disponible
 
 ID=4005
-{0}Lv{1}習得可能
+Niv {1} {0} Disponible
 
 ID=4006
-ブレイクスキル使用可能
+Break Skill Débloqué
 
 ID=4007
 {0} Disponible
 
 ID=4008
-メイズ入場可能
+Accès au donjon autorisé.
 
 ID=4009
 Vous pouvez accéder à {0}-{1} {2}
@@ -3050,7 +3050,7 @@ ID=5051
 <ブレイクスキル>\nイロージョン使用可能
 
 ID=5052
-SV{0}%消費
+Coût en SV{0}%
 
 ID=5100
 Vidéo d'introduction
@@ -3206,7 +3206,7 @@ ID=5444
 Utilise une guitare comme arme.\n Joue des mélodies mortelles aux sons distordant en invoquant des esprits. 
 
 ID=5445
-使用武器はキャノン。\n圧倒的火力で敵を制圧。
+Utilise un canon.\n Domine les ennemis avec une force de frappe dévastatrice.
 
 ID=5470
 Une fille qui utilise son sentiment d'impuissance devant son incapacité à faire quoi que ce soit en tant que voyante. Une fille douce, maniant une épée géante qui souffre d'un sentiment d'obligation et de culpabilité.
@@ -3287,88 +3287,88 @@ ID=5519
 Réglages de Style du Personnage
 
 ID=5800
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Des équipements basiques sont disponibles au <font color='#00ff9c'>Marchand d'équipements</font> de chaque villes.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Des équipements basiques sont disponibles au <font color='#00ff9c'>Marchand d'équipements</font> de chaque villes.
 
 ID=5801
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Des consommables basiques sont disponibles au <font color='#00ff9c'>Marchand général</font> de chaque villes.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Des consommables basiques sont disponibles au <font color='#00ff9c'>Marchand général</font> de chaque villes.
 
 ID=5802
 <font color='#FFFFFF' size='30'>ASTUCE : </font>Certains marchands peuvent <font color='#00D8FF'>[réparer]</font>  ou <font color='#00D8FF'>[démanteler]</font> votre équipement.
 
 ID=5803
-<font color='#FFFFFF' size='30'>ASTUCE : </font>En utilisant les magasin des PNJ, le <font color='#00D8FF'>[Niv. d'amitié]</font> évoluera.\nVous obtiendrez divers bénéfices selon le niveau d’amitié.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>En utilisant les magasin des PNJ, le <font color='#00D8FF'>[Niv. d'amitié]</font> évoluera.\nVous obtiendrez divers bénéfices selon le niveau d’amitié.
 
 ID=5804
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Discutez avec <font color='#00ff9c'>[Trisha]</font> pour <font color='#00D8FF'>[échanger]</font> ou <font color='#00D8FF'>[améliorer]</font> vos matériaux/équipements.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Discutez avec <font color='#00ff9c'>[Trisha]</font> pour <font color='#00D8FF'>[échanger]</font> ou <font color='#00D8FF'>[améliorer]</font> vos matériaux/équipements.
 
 ID=5805
-<font color='#FFFFFF'><font size="30">TIP：</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して\n別の装備品の強化・製作アイテムを入手することもできます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>L'équipement peut être <font color='#00D8FF'>enchanté</font> afin de l'améliorer, ou <font color='#00D8FF'>démantelé</font> afin d'obtenir les matériaux requis pour fabriquer ou améliorer un autre équipement.
 
 ID=5806
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Discutez avec <font color='#B2EBF4'>[Zenith]</font> pour <font color='#00D8FF'>[Fabriquer]</font> des armes/équipements et tenues.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Discutez avec <font color='#B2EBF4'>[Zenith]</font> pour <font color='#00D8FF'>[Fabriquer]</font> des armes/équipements et tenues.
 
 ID=5807
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Envoyez du courrier en utilisant <font color='#00ff9c'>HEMS</font>. Des frais d'envois seront demandés.\nVous pouvez inclure des objets et Zenny.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Envoyez du courrier en utilisant <font color='#00ff9c'>HEMS</font>. Des frais d'envois seront demandés.\nVous pouvez inclure des objets et Zenny.
 
 ID=5808
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Vous pouvez stocker vos objets à la <font color='#00D8FF'>Banque</font> en discutant avec <font color='#00ff9c'>Odon</font>.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Vous pouvez stocker vos objets à la <font color='#00D8FF'>Banque</font> en discutant avec <font color='#00ff9c'>Odon</font>.
 
 ID=5809
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Consultez la <font color='#00ff9c'>mini-map</font> pour localiser les <font color='#00D8FF'>PNJ</font> ou <font color='#00D8FF'>portails de donjons</font>.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Consultez la <font color='#00ff9c'>mini-map</font> pour localiser les <font color='#00D8FF'>PNJ</font> ou <font color='#00D8FF'>portails de donjons</font>.
 
 ID=5810
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Utilisez la touche <font color='#00ff9c'>[L]</font> pour consulter vos <font color='#00D8FF'>[Exploits]</font> et la <font color='#00D8FF'>[Progression des Donjons]</font>.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Utilisez la touche <font color='#00ff9c'>[L]</font> pour consulter vos <font color='#00D8FF'>[Exploits]</font> et la <font color='#00D8FF'>[Progression des Donjons]</font>.
 
 ID=5811
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Selon votre <font color='#00D8FF'>progression</font>, appuyez sur <font color='#00ff9c'>[L]</font> pour obtenir des récompenses.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Selon votre <font color='#00D8FF'>progression</font>, appuyez sur <font color='#00ff9c'>[L]</font> pour obtenir des récompenses.
 
 ID=5812
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Récoltez des ingrédient et apportez les à <font color='#00ff9c'>IO</font>, afin de créer une <font color='#00D8FF'>CARTE A.R.</font>.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Récoltez des ingrédient et apportez les à <font color='#00ff9c'>IO</font>, afin de créer une <font color='#00D8FF'>CARTE A.R.</font>.
 
 ID=5813
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Équipez une <font color='#00D8FF'>CARTE A.R.</font> de type HOLD afin de recevoir un bonus passif.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Équipez une <font color='#00D8FF'>CARTE A.R.</font> de type HOLD afin de recevoir un bonus passif.
 
 ID=5814
 <font color='#FFFFFF' size='30'>ASTUCE : </font>Le symbole <font color='#fff94a'>[<font size='30'>！</font>]</font> apparaît au dessus d'un PNJ ayant une nouvelle quête. Le symbole <font color='#fff94a'>[<font size='30'>？</font>]</font> apparaîtra pour une quête déjà acceptée.\nElle sera aussi indiqué sur la minimap.
 
 ID=5815
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Les quêtes acceptées apparaîtront dans la <font color='#00D8FF'>Liste de Quêtes</font>. Appuyez sur <font color='#00ff9c'>[J]</font> pour ouvrir le journal de quêtes afin d'obtenir plus d'informations.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Les quêtes acceptées apparaîtront dans la <font color='#00D8FF'>Liste de Quêtes</font>. Appuyez sur <font color='#00ff9c'>[J]</font> pour ouvrir le journal de quêtes afin d'obtenir plus d'informations.
 
 ID=5816
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの全般的な設定は、<font color='#00ff9c'>【ESC】</font>キーの<font color='#00D8FF'>[環境設定]</font>タブから変更できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Les paramètres du jeu peuvent être changé en appuyant sur la touche <font color='#00ff9c'>[ESC]</font> puis sur le bouton <font color='#00D8FF'>[Configuration]</font>.
 
 ID=5817
-<font color='#FFFFFF'><font size="30">TIP：</font>コミュニティーウィンドウ【O】では、<font color='#00D8FF'>[フレンド]</font>に関連した機能を使用できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Accédez à l'écran communauté en appuyant sur <font color='#00ff9c'>[O]</font>. Vous pouvez ainsi gérer votre <font color='#00D8FF'>[Liste d'amis]</font>.
 
 ID=5818
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[スキル][A.Rカード]</font>の使用は、ショートカットキー<font color='#00ff9c'>【K】</font>やメニューでスキルウィンドウ活性化後、\nスキルスロットに登録すると使用できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font><font color='#00D8FF'>[Compétences]</font> and <font color='#00D8FF'>[Cartes A.R.]</font> peuvent être paramétrées via la fenêtre de compétences en appuyant sur <font color='#00ff9c'>[K]</font>.
 
 ID=5819
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>スキルデッキ</font>を活用すると、戦闘で有利な効果を獲得できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Une utilisation efficace de votre <font color='#00D8FF'>Barre de Compétences</font> fera la différence en combat.
 
 ID=5820
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>パッシブスキル</font>のレベルを上げると、基本アクションを強化できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Améliorez vos <font color='#00D8FF'>Compétences Passives</font> afin d'optimiser vos actions.
 
 ID=5821
-<font color='#FFFFFF'><font size="30">TIP：</font>画面左下にある<font color='#00D8FF'>統合お知らせ</font>ウィンドウから、進行状況に関連した様々な内容を確認できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Les <font color='#00D8FF'>Icônes de Notification</font> situé dans le coin inférieur gauche de l'écran vous informeront d’événements nécessitant votre attention. 
 
 ID=5822
-<font color='#FFFFFF'><font size="30">TIP：</font>ステータスウィンドウ【P】の「称号」タブから、名前の横に表示する各種<font color='#00D8FF'>称号</font>を自由に設定できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Changez librement le <font color='#00D8FF'>Titre</font> au dessus votre nom via le <font color='#00D8FF'>Profil</font> en appuyant sur <font color='#00ff9c'>[P]</font>.
 
 ID=5823
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>メイズ占有率</font>や<font color='#00D8FF'>町占有率</font>の進行状況に応じて、様々な報酬を獲得できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Récupérez vos récompenses de <font color='#00D8FF'>Mémorial</font> en appuyant sur <font color='#00ff9c'>[B]</font> en fonction de la <font color='#00D8FF'>Progression des Donjons</font>.
 
 ID=5824
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>町占有率</font>は、所属しているメイズの占有率に影響を受けます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Le niveau de <font color='#00D8FF'>Progression de la ville</font> dépend des niveaux de la Progression des Donjons .
 
 ID=5825
-<font color='#FFFFFF'><font size="30">TIP：</font>メイズ入場時に<font color='#00D8FF'>[オートマッチング]</font>を使用すると、自動的にパーティーを組むことができます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Utilisez la <font color='#00D8FF'>[Recherche Automatique]</font> en entrant dans un donjon afin de trouver un groupe.
 
 ID=5826
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ステータス</font>ウィンドウ【P】からプロフィールを修正できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Consultez votre <font color='#00D8FF'>Profil</font> en appuyant sur <font color='#00ff9c'>[P]</font>.
 
 ID=5827
-<font color='#FFFFFF'><font size="30">TIP：</font>左<font color='#00ff9c'>【Alt】</font>キーで、マウスモードに変更することができます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Appuyez sur <font color='#00ff9c'>[Alt]</font>  pour afficher le curseur.
 
 ID=5828
 <font color='#FFFFFF'><font size="30">TIP：</font>最高レベル到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
@@ -3476,58 +3476,58 @@ ID=5862
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ベリーハード</font>は敵が強い分、獲得できる報酬の質が上がります。
 
 ID=5863
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Des équipements basiques sont disponibles au <font color='#00ff9c'>Marchand d'équipements</font> de chaque villes.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Des équipements basiques sont disponibles au <font color='#00ff9c'>Marchand d'équipements</font> de chaque villes.
 
 ID=5864
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Des consommables basiques sont disponibles au <font color='#00ff9c'>Marchand général</font> de chaque villes.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Des consommables basiques sont disponibles au <font color='#00ff9c'>Marchand général</font> de chaque villes.
 
 ID=5865
 <font color='#FFFFFF' size='30'>ASTUCE : </font>Certains marchands peuvent <font color='#00D8FF'>[réparer]</font>  ou <font color='#00D8FF'>[démanteler]</font> votre équipement.
 
 ID=5866
-<font color='#FFFFFF' size='30'>ASTUCE : </font>En utilisant les magasin des PNJ, le <font color='#00D8FF'>[Niv. d'amitié]</font> évoluera.\nVous obtiendrez divers bénéfices selon le niveau d’amitié.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>En utilisant les magasin des PNJ, le <font color='#00D8FF'>[Niv. d'amitié]</font> évoluera.\nVous obtiendrez divers bénéfices selon le niveau d’amitié.
 
 ID=5867
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Discutez avec <font color='#00ff9c'>[Trisha]</font> pour <font color='#00D8FF'>[échanger]</font> ou <font color='#00D8FF'>[améliorer]</font> vos matériaux/équipements.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Discutez avec <font color='#00ff9c'>[Trisha]</font> pour <font color='#00D8FF'>[échanger]</font> ou <font color='#00D8FF'>[améliorer]</font> vos matériaux/équipements.
 
 ID=5868
-<font color='#FFFFFF'><font size="30">TIP：</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して\n別の装備品の強化・製作アイテムを入手することもできます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>L'équipement peut être <font color='#00D8FF'>enchanté</font> afin de l'améliorer, ou <font color='#00D8FF'>démantelé</font> afin d'obtenir les matériaux requis pour fabriquer ou améliorer un autre équipement.
 
 ID=5869
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Discutez avec <font color='#B2EBF4'>[Zenith]</font> pour <font color='#00D8FF'>[Fabriquer]</font> des armes/équipements et tenues.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Discutez avec <font color='#B2EBF4'>[Zenith]</font> pour <font color='#00D8FF'>[Fabriquer]</font> des armes/équipements et tenues.
 
 ID=5870
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Envoyez du courrier en utilisant <font color='#00ff9c'>HEMS</font>. Des frais d'envois seront demandés.\nVous pouvez inclure des objets et Zenny.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Envoyez du courrier en utilisant <font color='#00ff9c'>HEMS</font>. Des frais d'envois seront demandés.\nVous pouvez inclure des objets et Zenny.
 
 ID=5871
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Vous pouvez stocker vos objets à la <font color='#00D8FF'>Banque</font> en discutant avec <font color='#00ff9c'>Odon</font>.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Vous pouvez stocker vos objets à la <font color='#00D8FF'>Banque</font> en discutant avec <font color='#00ff9c'>Odon</font>.
 
 ID=5872
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Consultez la <font color='#00ff9c'>mini-map</font> pour localiser les <font color='#00D8FF'>PNJ</font> ou <font color='#00D8FF'>portails de donjons</font>.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Consultez la <font color='#00ff9c'>mini-map</font> pour localiser les <font color='#00D8FF'>PNJ</font> ou <font color='#00D8FF'>portails de donjons</font>.
 
 ID=5873
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Utilisez la touche <font color='#00ff9c'>[L]</font> pour consulter vos <font color='#00D8FF'>[Exploits]</font> et la <font color='#00D8FF'>[Progression des Donjons]</font>.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Utilisez la touche <font color='#00ff9c'>[L]</font> pour consulter vos <font color='#00D8FF'>[Exploits]</font> et la <font color='#00D8FF'>[Progression des Donjons]</font>.
 
 ID=5874
 <font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行状況に応じて、<font color='#00D8FF'>進行情報</font>ウィンドウ【L】から報酬を獲得できます。
 
 ID=5875
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Récoltez des ingrédient et apportez les à <font color='#00ff9c'>IO</font>, afin de créer une <font color='#00D8FF'>CARTE A.R.</font>.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Récoltez des ingrédient et apportez les à <font color='#00ff9c'>IO</font>, afin de créer une <font color='#00D8FF'>CARTE A.R.</font>.
 
 ID=5876
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Équipez une <font color='#00D8FF'>CARTE A.R.</font> de type HOLD afin de recevoir un bonus passif.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Équipez une <font color='#00D8FF'>CARTE A.R.</font> de type HOLD afin de recevoir un bonus passif.
 
 ID=5877
 <font color='#FFFFFF' size='30'>ASTUCE : </font>Le symbole <font color='#fff94a'>[<font size='30'>！</font>]</font> apparaît au dessus d'un PNJ ayant une nouvelle quête. Le symbole <font color='#fff94a'>[<font size='30'>？</font>]</font> apparaîtra pour une quête déjà acceptée.\nElle sera aussi indiqué sur la minimap.
 
 ID=5878
-<font color='#FFFFFF' size='30'>ASTUCE : </font>Les quêtes acceptées apparaîtront dans la <font color='#00D8FF'>Liste de Quêtes</font>. Appuyez sur <font color='#00ff9c'>[J]</font> pour ouvrir le journal de quêtes afin d'obtenir plus d'informations.
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Les quêtes acceptées apparaîtront dans la <font color='#00D8FF'>Liste de Quêtes</font>. Appuyez sur <font color='#00ff9c'>[J]</font> pour ouvrir le journal de quêtes afin d'obtenir plus d'informations.
 
 ID=5879
 <font color='#FFFFFF'><font size="30">TIP：</font>ゲームの全般的な詳細設定は、<font color='#00ff9c'>[ESC]</font>キーの<font color='#00D8FF'>[環境設定]</font>タブから変更できます。
 
 ID=5880
-<font color='#FFFFFF'><font size="30">TIP：</font>コミュニティーウィンドウ【O】では、<font color='#00D8FF'>[フレンド]</font>に関連した機能を使用できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Accédez à l'écran communauté en appuyant sur <font color='#00ff9c'>[O]</font>. Vous pouvez ainsi gérer votre <font color='#00D8FF'>[Liste d'amis]</font>.
 
 ID=5881
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[スキル][A.Rカード]</font>は、スキルウィンドウ<font color='#00ff9c'>【K】</font>でスキル活性化後、\nスキル登録スロットに登録して使用できます。
@@ -3536,7 +3536,7 @@ ID=5882
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>スキルデッキ</font>を活用すると、戦闘にで有利な効果を獲得できます。
 
 ID=5883
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>パッシブスキル</font>のレベルを上げると、基本アクションを強化できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Améliorez vos <font color='#00D8FF'>Compétences Passives</font> afin d'optimiser vos actions.
 
 ID=5884
 <font color='#FFFFFF'><font size="30">TIP：</font>画面左下にある<font color='#00D8FF'>統合お知らせ</font>ウィンドウで、進行状況に関連した様々な内容を確認できます。
@@ -3545,19 +3545,19 @@ ID=5885
 <font color='#FFFFFF'><font size="30">TIP：</font>ステータスウィンドウ【P】の「称号」タブで、名前の横に表示する各種<font color='#00D8FF'>称号</font>を自由に設定できます。
 
 ID=5886
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>メイズ占有率</font>や<font color='#00D8FF'>町占有率</font>の進行状況に応じて、様々な報酬を獲得できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Récupérez vos récompenses de <font color='#00D8FF'>Mémorial</font> en appuyant sur <font color='#00ff9c'>[B]</font> en fonction de la <font color='#00D8FF'>Progression des Donjons</font>.
 
 ID=5887
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>町占有率</font>は、所属しているメイズの占有率に影響を受けます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Le niveau de <font color='#00D8FF'>Progression de la ville</font> dépend des niveaux de la Progression des Donjons .
 
 ID=5888
-<font color='#FFFFFF'><font size="30">TIP：</font>メイズ入場時に<font color='#00D8FF'>[オートマッチング]</font>を使用すると、自動的にパーティーを組むことができます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Utilisez la <font color='#00D8FF'>[Recherche Automatique]</font> en entrant dans un donjon afin de trouver un groupe.
 
 ID=5889
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ステータス</font>ウィンドウ【P】でプロフィールを修正できます。
 
 ID=5890
-<font color='#FFFFFF'><font size="30">TIP：</font>左<font color='#00ff9c'>【Alt】</font>キーで、マウスモードに変更することができます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Appuyez sur <font color='#00ff9c'>[Alt]</font>  pour afficher le curseur.
 
 ID=5891
 <font color='#FFFFFF'><font size="30">TIP：</font>最高レベル到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
@@ -5279,7 +5279,7 @@ ID=16839
 {0} j(s)
 
 ID=16840
-全キャラクター
+Tout les personnages
 
 ID=16841
 Normal
@@ -5357,7 +5357,7 @@ ID=16865
 最近の出品リストは10個まで表示されます。
 
 ID=16866
-VIPシステム情報
+Infos VIP
 
 ID=18000
 強化回数を使い切ったため、これ以上強化できません。
@@ -6005,7 +6005,7 @@ ID=21034
 FP insuffisant. Vous ne pouvez pas utiliser la recherche de groupe.
 
 ID=21035
-基本FP状態でのみ使用できます。
+Utilisable uniquement sur les FP de base.
 
 ID=21036
 1日の使用回数を超えました。{0}時間後に使用できます。
@@ -7115,7 +7115,7 @@ ID=24016
 Artefact
 
 ID=24017
-Quête
+Quêtes
 
 ID=24018
 設計図
@@ -7634,7 +7634,7 @@ ID=24588
 Caoutchouc
 
 ID=24589
-Polyesther
+Polyester
 
 ID=24590
 Laine
@@ -10214,7 +10214,7 @@ ID=31103
 材料収集
 
 ID=31104
-Quête
+Quêtes
 
 ID=31105
 自由
@@ -10484,7 +10484,7 @@ ID=32017
 Titre
 
 ID=32018
-Quête
+Quêtes
 
 ID=32019
 Succès
@@ -10670,7 +10670,7 @@ ID=32079
 Titre
 
 ID=32080
-Quête
+Quêtes
 
 ID=32081
 Exploits
@@ -14369,7 +14369,7 @@ ID=49306
 戦闘
 
 ID=49307
-Quête
+Quêtes
 
 ID=49308
 Jeu
@@ -14489,7 +14489,7 @@ ID=49403
 Compétence
 
 ID=49404
-Quête
+Quêtes
 
 ID=49405
 Communauté
@@ -14780,7 +14780,7 @@ ID=49924
 Échec
 
 ID=49925
-Mission
+Missions
 
 ID=49926
 {0}/{1}
@@ -14972,7 +14972,7 @@ ID=49988
 Secondaire
 
 ID=49989
-Quête
+Quêtes
 
 ID=49990
 お知らせ登録
