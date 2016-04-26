@@ -1,26 +1,26 @@
 ID=15
 Régénération Endurance
-1秒あたりに回復するスタミナ量です。
+Taux de régénération de l'Endurance
 
 ID=18
 Vit. Déplacement
 プレイヤーの移動速度倍率です。
 
 ID=19
-攻撃速度
+Vit. d'Attaque
 プレイヤーの攻撃速度倍率です。
 
 ID=21
-攻撃力
-敵に与える最大ダメージ量です。
+Puissance d'Attaque
+Ceci sont les dégâts maximum que vous pouvez infliger à un ennemi.
 
 ID=24
-防御度
+Défense
 敵の攻撃によるダメージを防御率に応じて減少させます。\n防御率：同じレベル基準{0}%減少\nレベル差によって防御率の差が発生します。
 
 ID=26
-命中度
-攻撃に失敗する確率を減少させます。
+Précision
+Réduit les chances de rater une attaque.
 
 ID=28
 攻撃失敗時ダメージ
@@ -28,15 +28,15 @@ ID=28
 
 ID=29
 Critique
-攻撃時のクリティカル発生確率です。
+Chance de faire un coup critique.
 
 ID=31
-クリティカル抵抗
-クリティカルダメージを受ける確率を減少させます。
+Résistance aux coups critiques
+Les dégâts des coups critiques sont réduits.
 
 ID=35
-Dégâts Critique
-クリティカル発生時に追加されるダメージです。
+Dégâts Critiques
+Ajoute des dégâts à une attaque critique
 
 ID=38
 ダメージ減少
@@ -75,7 +75,7 @@ ID=54
 麻痺状態になる確率が減少します。
 
 ID=11000
-挨拶
+Saluer
 挨拶をします。
 
 ID=11001
@@ -319,7 +319,7 @@ Familia
 ソウルウェポンにはまれにソケットを持つものがあります。ファミリアを装着すると効果を増加させることができます。
 
 ID=30033
-Synthère/Libération Carte A.R.
+Synthèse/Libération Carte A.R.
 カードとアカシックキーアイテムを組み合わせ、\nA.Rカードを入手したり上位等級を\n製作することができます。
 
 ID=30034
@@ -327,7 +327,7 @@ Acquérir Carte A.R.
 A.Rカードを使用して獲得すると、\nスキルウィンドウに登録されます。\n一度登録されたカードは元に戻せません。
 
 ID=30035
-アカシック登録及び使用
+Enregistrement et Utilisation de l'A.R
 スキルウィンドウに登録されたA.Rカードは\nクイックスロットに配置され、戦闘時に使用したり\n有益な効果を受けることができます。
 
 ID=30036
