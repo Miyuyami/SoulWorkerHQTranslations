@@ -1625,7 +1625,7 @@ ID=856
 NPC
 
 ID=861
-Entered CH. {0}.
+Entered Channel {0}.
 
 ID=865
 Weapon
@@ -3311,7 +3311,7 @@ ID=5807
 <font color='#FFFFFF' size='30'>TIP: </font>You can send a mail by using <font color='#00ff9c'>HEMS</font>. A small fee will be paid.\nItems and Zenny may also be attached.
 
 ID=5808
-<font color='#FFFFFF' size='30'>TIP: </font>You may store extra items at the <font color='#00D8FF'>Bank Teller</font> by talking to <font color='#00ff9c'>Odon</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You may store extra items at the <font color='#00D8FF'>Bank</font> by talking to <font color='#00ff9c'>Ordon</font>.
 
 ID=5809
 <font color='#FFFFFF' size='30'>TIP: </font>You can check the <font color='#00ff9c'>mini-map</font> to find the location of an <font color='#00D8FF'>NPC</font> or <font color='#00D8FF'>dungeon entrances</font>.
@@ -3455,7 +3455,7 @@ ID=5855
 <font color='#FFFFFF' size='30'>TIP: </font>As your weapon's <font color='#00D8FF'>Durability</font> decreases, so will the effectiveness of your weapon. Repair your item often at the shop.
 
 ID=5856
-<font color='#FFFFFF' size="30">TIP: </font>Going to another city or town will require moving through the lawless area, <font color='#00D8FF'>District 6</font>.
+<font color='#FFFFFF' size="30">TIP: </font>Going to another city or town will require moving through the lawless area: <font color='#00D8FF'>District 6</font>.
 
 ID=5857
 <font color='#FFFFFF' size='30'>TIP: </font>A <font color='#00D8FF'>Starry Forest League Transport Helicopter</font> can be used to safely traverse across <font color='#00D8FF'>District 6</font>.
@@ -3500,7 +3500,7 @@ ID=5870
 <font color='#FFFFFF' size='30'>TIP: </font>You can send a mail by using <font color='#00ff9c'>HEMS</font>. A small fee will be paid.\nItems and Zenny may also be attached.
 
 ID=5871
-<font color='#FFFFFF' size='30'>TIP: </font>You may store extra items at the <font color='#00D8FF'>Bank Teller</font> by talking to <font color='#00ff9c'>Odon</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You may store extra items at the <font color='#00D8FF'>Bank</font> by talking to <font color='#00ff9c'>Ordon</font>.
 
 ID=5872
 <font color='#FFFFFF' size='30'>TIP: </font>You can check the <font color='#00ff9c'>mini-map</font> to find the location of an <font color='#00D8FF'>NPC</font> or <font color='#00D8FF'>dungeon entrances</font>.
@@ -4118,7 +4118,7 @@ ID=9501
 Ruin Fortress
 
 ID=9511
-Control  Zone
+Control Base
 
 ID=9512
 Buster Core
@@ -7931,16 +7931,16 @@ ID=24778
 Sub-Weapon
 
 ID=24779
-H Gear
+Head
 
 ID=24780
-S Gear
+Shoulder
 
 ID=24781
-B Gear
+Body
 
 ID=24782
-L Gear
+Leg
 
 ID=24783
 Pendant
@@ -11690,19 +11690,19 @@ ID=40213
 Please use the equipment that corresponds to the shockwave's color.
 
 ID=40214
-Please activate the switch in front.
+Please activate the switch.
 
 ID=40215
-Activate the switch on the drone to make it explode, causing damage to surrounding enemies.
+You can deal damage to enemies by making the drone explode via the nearby control console.
 
 ID=40216
-Use the electric power controller to deactivate the electromagnetic field.
+Deactivate the electro-magnetic field by using the power controller.
 
 ID=40217
 Open the large shutter by using the control unit.
 
 ID=40218
-The large shutter opens.
+The large shutter has opened.
 
 ID=40219
 Defeat all the enemies and open the large shutter.
@@ -11810,7 +11810,7 @@ ID=40253
 Four devices will spew out an extremely poisonous gas at random intervals.
 
 ID=40254
-The enemy will appear when using the controller.
+Use the controller device to summon enemies.
 
 ID=40255
 When the cube is destroyed, all players will be paralyzed and a magnetic field will be generated.
@@ -12230,13 +12230,13 @@ ID=40495
 The condenser has been destroyed, you can now use the gate deactivator switches.
 
 ID=40496
-The Main Core feels in danger!\nDefensive levels are rising, enemy reinforcements arrived.
+The Main Core detects danger!\nThe system's defense level rises. Enemy reinforcements have arrived.
 
 ID=40497
 Destroy the condenser to prevent retaliatory fire from enemies.
 
 ID=40498
-The Main Core feels in danger, it has raised the defensive levels.
+The Main Core detects danger; it has raised the system's defense level.
 
 ID=40499
 Defensive forces will appear to prevent you from entering the arc ship's command room.
@@ -12536,7 +12536,7 @@ ID=42063
 Queen Carra
 
 ID=42064
-Mysterious Queen Carra
+Mysterious Queen Carla
 
 ID=42065
 Dr. Sedurin
@@ -13298,7 +13298,7 @@ ID=42317
 Queen Carra
 
 ID=42318
-Mysterious Queen Carra
+Mysterious Queen Carla
 
 ID=42319
 Ruler of the Blue Sky Queen Carla
@@ -13793,7 +13793,7 @@ ID=45010
 Buy Hancoin
 
 ID=45011
-Mass Purchase
+Buy All
 
 ID=45012
 Main
@@ -13832,7 +13832,7 @@ ID=45023
 Total Cost:
 
 ID=45024
-Hancoin Remainl:
+After Balance:
 
 ID=45025
 Buy
@@ -15986,7 +15986,7 @@ ID=55112
 Friend Request Ads can not be updated.
 
 ID=55113
-You can not add friends while in dungeon.         
+You can not add friends while in a dungeon.         
 
 ID=55114
 User's friend list is full.
@@ -15998,7 +15998,7 @@ ID=55116
 You can not whisper to someone you have blocked. {0}
 
 ID=55201
-The ID name has already been in use.
+The name is already in use.
 
 ID=55202
 The ID is available.
@@ -16205,7 +16205,7 @@ ID=57031
 The guild notice is over the character limit.
 
 ID=57032
-Searching a guild requires a search string of 2 characters.
+Searching a guild requires a search string of at least 2 characters.
 
 ID=57033
 Use 2 to 8 characters for a guild name.
