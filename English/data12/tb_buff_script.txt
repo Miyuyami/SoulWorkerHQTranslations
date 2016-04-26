@@ -2795,7 +2795,7 @@ Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
 ID=50031
-正確な急所突きLv1
+A Lethal Blow Lv1
 When hitting with an attack, 1% chance of Critical Rate +20% for 2 seconds.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate ↑
@@ -2831,7 +2831,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=50101
-バキュームLv1
+Vacuum Lv1
 クリティカル命中時、10%の確率でHPが2%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
@@ -2862,7 +2862,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=50161
 ビクターの法則Lv1
-攻撃命中時、1%の確率で2秒間、命中度が20%上昇する。
+When landing a hit, 1% chance for 2 seconds of Accuracy +20%
 Icon/Buff/Icon_Common_Buff_Accuracy
 Accuracy↑
 
@@ -2904,7 +2904,7 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=50541
 静かなる微笑みLv1
-装着時、 3秒間、HPが1秒あたり200回復する。
+Restores HP by 200 per second for 3 seconds.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -2921,13 +2921,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
 ID=53023
-正確な急所突きⅠ
+A Lethal Blow I
 When landing a hit, 5% chance of increasing CRIT by 20% for 2 sec. (Cooldown: 15 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53031
-正確な急所突きⅡ
+A Lethal Blow II
 When landing a hit, 10% chance of increasing CRIT by 20% for 2 sec. (Cooldown: 15 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
@@ -2964,13 +2964,13 @@ Move Speed ↑
 
 ID=53051
 心眼Ⅰ
-攻撃命中時、4%の確率でHPが5%回復する。(クールタイム1分)
+When landing a hit, 4% chance of HP recovering by 5% (Cooldown : 1 minute)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53052
 心眼Ⅱ
-攻撃命中時、5%の確率でHPが5%回復する。(クールタイム1分)
+When landing a hit, 5% chance of HP recovering by 5% (Cooldown : 1 minute)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
@@ -2987,19 +2987,19 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53072
-バキュームⅠ
+Vacuum I
 When a critical hit occurs, 2% HP will be recovered at a 3% chance. (Cooldown: 15 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53073
-バキュームⅡ
+Vacuum II
 When a critical hit occurs, 3% HP will be recovered at a 6% chance. (Cooldown: 15 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53081
-バキュームⅢ
+Vacuum III
 When a critical hit occurs, 4% HP will be recovered at a 9% chance. (Cooldown: 15 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
@@ -3137,13 +3137,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53173
-奇襲のプロⅠ
+Surprise Attack Pro I
 クリティカル攻撃時、5%の確率でSGが10%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53181
-奇襲のプロⅡ
+Surprise Attack Pro II
 During a critical attack, there is a 10% chance of recovering 20% SG. (Cooldown: 15 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
@@ -3209,7 +3209,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53223
-怪我はするほど強くなるⅠ
+Strength from Injuries I
 10% chance of recovering 5% HP when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
@@ -3239,7 +3239,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53273
-赤い眼光Ⅰ
+Crimson Gaze I 
 状態異常にかかると、HPが10%回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
@@ -3509,13 +3509,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53453
-復讐血戦Ⅰ
+Bloody Revenge I
 When an ally is near-dead, there is a 50% chance of increasing ATK by 30% for 10 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53461
-復讐血戦Ⅱ
+Bloody Revenge II
 When an ally is near-dead, there is a 60% chance of increasing ATK by 40% for 10 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
@@ -3636,73 +3636,73 @@ HP↑
 
 ID=53539
 初戦撲殺Ⅰ
-装着時、攻撃力が4%、クリティカル率が1%増加する。
+Attack Power Increase +4% and Critical Rate Increase +1% 
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack↑
 
 ID=53540
 初戦撲殺Ⅱ
-装着時、攻撃力が5%、クリティカル率が1%増加する。
+Attack Power Increase +5% and Critical Rate Increase +1% 
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack↑
 
 ID=53541
 初戦撲殺Ⅲ
-装着時、攻撃力が6%、クリティカル率が2%増加する。
+Attack Power Increase +6% and Critical Rate Increase +2% 
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack↑
 
 ID=53542
 初戦撲殺Ⅰ
-装着時、攻撃力が4%、クリティカル率が2%増加する。
+Attack Power Increase +4% and Critical Rate Increase +2% 
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack↑
 
 ID=53543
 初戦撲殺Ⅱ
-装着時、攻撃力が6%、クリティカル率が2%増加する。
+Attack Power Increase +6% and Critical Rate Increase +2% 
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack↑
 
 ID=53544
 初戦撲殺Ⅲ
-装着時、攻撃力が8%、クリティカル率が3%増加する。
+Attack Power Increase +8% and Critical Rate Increase +3% 
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack↑
 
 ID=53545
 ヒットフィーバーⅠ
-コンボ100hitごとに(最大300hit)15秒間、攻撃力が3%ずつ上昇する。(最大3重複)
+Every 100 hit combo (up to 3 times), Attack Power +3% for 15 seconds.(Stackable 3 times)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53546
 ヒットフィーバーⅡ
-コンボ100hitごとに(最大300hit)15秒間、攻撃力が4%ずつ上昇する。(最大3重複)
+Every 100 hit combo (up to 3 times), Attack Power +4% for 15 seconds.(Stackable 3 times)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53547
 ヒットフィーバーⅢ
-コンボ100hitごとに(最大300hit)15秒間、攻撃力が5%ずつ上昇する。(最大3重複)
+Every 100 hit combo (up to 3 times), Attack Power +5% for 15 seconds.(Stackable 3 times)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53548
 ヒットフィーバーⅠ
-コンボ100hitごとに(最大300hit)15秒間、攻撃力が4%ずつ上昇する。(最大3重複)
+Every 100 hit combo (up to 3 times), Attack Power +4% for 15 seconds.(Stackable 3 times)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53549
 ヒットフィーバーⅡ
-コンボ100hitごとに(最大300hit)15秒間、攻撃力が5%ずつ上昇する。(最大3重複)
+Every 100 hit combo (up to 3 times), Attack Power +5% for 15 seconds.(Stackable 3 times)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53550
 ヒットフィーバーⅢ
-コンボ100hitごとに(最大300hit)15秒間、攻撃力が6%ずつ上昇する。(最大3重複)
+Every 100 hit combo (up to 3 times), Attack Power +6% for 15 seconds.(Stackable 3 times)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
@@ -3744,37 +3744,37 @@ Defense↑
 
 ID=53557
 権力の真髄Ⅰ
-モンスター死亡時、ジェニーを追加で5%獲得する。
+When killed enemy, Jenny increase +5%
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53558
 権力の真髄Ⅱ
-モンスター死亡時、ジェニーを追加で10%獲得する。
+When killed enemy, Jenny increase +10%
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53559
 権力の真髄Ⅲ
-モンスター死亡時、ジェニーを追加で15%獲得する。
+When killed enemy, Jenny increase +15%
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53560
 権力の真髄Ⅰ
-モンスター死亡時、ジェニーを追加で10%獲得する。
+When killed enemy, Jenny increase +10%
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53561
 権力の真髄Ⅱ
-モンスター死亡時、ジェニーを追加で15%獲得する。
+When killed enemy, Jenny increase +15%
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53562
 権力の真髄Ⅲ
-モンスター死亡時、ジェニーを追加で20%獲得する。
+When killed enemy, Jenny increase +20%
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
@@ -3815,37 +3815,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
 ID=53569
-正確な急所突きⅠ
+A Lethal Blow I
 When landing a hit, there is a 5% chance of increasing CRIT rate by 20% for 2.5 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53570
-正確な急所突きⅡ
+A Lethal Blow II
 When landing a hit, there is a 10% chance of increasing CRIT rate by 20% for 3.5 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53571
-正確な急所突きⅢ
+A Lethal Blow III
 When landing a hit, there is a 15% chance of increasing CRIT rate by 20% for 4.5 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53572
-正確な急所突きⅠ
+A Lethal Blow I
 When landing a hit, there is a 10% chance of increasing CRIT rate by 20% for 2.5 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53573
-正確な急所突きⅡ
+A Lethal Blow II
 When landing a hit, there is a 15% chance of increasing CRIT rate by 20% for 2.5 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53574
-正確な急所突きⅢ
+A Lethal Blow III
 When landing a hit, there is a 20% chance of increasing CRIT rate by 20% for 4.5 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
@@ -3924,37 +3924,37 @@ Move Speed ↑
 
 ID=53587
 心眼Ⅰ
-攻撃命中時、7%の確率で即時にHPが10%回復する。(クールタイム60秒)
+When landing a hit, 7% chance of HP recovering by 10% (Cooldown : 60 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53588
 心眼Ⅱ
-攻撃命中時、12%の確率で即時にHPが10%回復する。(クールタイム60秒)
+When landing a hit, 12% chance of HP recovering by 10% (Cooldown : 60 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53589
 心眼Ⅲ
-攻撃命中時、17%の確率で即時にHPが10%回復する。(クールタイム60秒)
+When landing a hit, 17% chance of HP recovering by 10% (Cooldown : 60 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53590
 心眼Ⅰ
-攻撃命中時、9%の確率で即時にHPが10%回復する。(クールタイム60秒)
+When landing a hit, 9% chance of HP recovering by 10% (Cooldown : 60 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53591
 心眼Ⅱ
-攻撃命中時、14%の確率で即時にHPが10%回復する。(クールタイム60秒)
+When landing a hit, 14% chance of HP recovering by 10% (Cooldown : 60 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53592
 心眼Ⅲ
-攻撃命中時、19%の確率で即時にHPが10%回復する。(クールタイム60秒)
+When landing a hit, 19% chance of HP recovering by 10% (Cooldown : 60 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
@@ -4271,37 +4271,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53652
-奇襲のプロⅠ
+Surprise Attack Pro I
 When critical hit, 20% chance of SG recovering by 10% (Cooldown : 30 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53653
-奇襲のプロⅡ
+Surprise Attack Pro II
 When critical hit, 20% chance of SG recovering by 13% (Cooldown : 30 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53654
-奇襲のプロⅢ
+Surprise Attack Pro IIII
 When critical hit, 20% chance of SG recovering by 16% (Cooldown : 30 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53655
-奇襲のプロⅠ
+Surprise Attack Pro I
 When critical hit, 20% chance of SG recovering by 12% (Cooldown : 30 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53656
-奇襲のプロⅡ
+Surprise Attack Pro II
 When critical hit, 20% chance of SG recovering by 15% (Cooldown : 30 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53657
-奇襲のプロⅢ
+Surprise Attack Pro IIII
 When critical hit, 20% chance of SG recovering by 18% (Cooldown : 30 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG

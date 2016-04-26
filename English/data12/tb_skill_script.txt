@@ -56,8 +56,8 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 
 ID=121
 Special Ability Mastery II
-[Skill Info: Ground]\nDamage: [184%]\nSA Break: [147%]\n\n[Skill Info: Aerial]\nDamage:[241%]\nSA Break: [178%]\n\n[Skill Info]: General\nCooldown: 10s\nGain SG on hit +20%.\nSG gain will vary by type of enemy hit.\n\n浮かし攻撃の高さが若干増加する。\n\n[Usage: Ground]\nMouse: (R-Click)\n\n[Usage: Aerial]\nMouse: After Jumping (R-Click)
-[Ground]\nDamage: [184%]+22%\nSA Break: [147%}+18%\n\n[Aerial]\nDamage: [241%]+29%\nSA Break: [178%]+22%\n浮かし攻撃の高さが若干増加する。\n\n[Common]\nSG Gain: [20%]+50%
+[Skill Info: Ground]\nDamage: [184%]\nSA Break: [147%]\n\n[Skill Info: Aerial]\nDamage:[241%]\nSA Break: [178%]\n\n[Skill Info]: General\nCooldown: 10s\nGain SG on hit +20%.\nSG gain will vary by type of enemy hit.\n\nLaunch enemies higher into the air.\n\n[Usage: Ground]\nMouse: (R-Click)\n\n[Usage: Aerial]\nMouse: After Jumping (R-Click)
+[Ground]\nDamage: [184%]+22%\nSA Break: [147%}+18%\n\n[Aerial]\nDamage: [241%]+29%\nSA Break: [178%]+22%\nLaunch enemies higher into the air.\n\n[Common]\nSG Gain: [20%]+50%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_OwnAbility
 0
 
@@ -358,28 +358,28 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 ID=11121
 Spin Cutter I
 [Skill Info]\nDamage: [178%]\nSA Break: [92%]\nSG Cost: [35]\nCooldown: [5s]\n\nPush enemies away by performing a spinning slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[178%]+9%\nSA破壊量：[92%]+4%
+Damage: [178%]+9%\nSA Break: [92%]+4%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 ID=11122
 Spin Cutter II
 [Skill Info]\nDamage: [187%]\nSA Break: [96%]\nSG Cost: [35]\nCooldown: [5s]\n\nPush enemies away by performing a spinning slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[187%]+22%\nSA破壊量：[96%]+12%
+Damage: [187%]+22%\nSA Break: [96%]+12%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 ID=11123
 Spin Cutter III
 [Skill Info]\nDamage: [209%]\nSA Break: [108%]\nSG Cost: [35]\nCooldown: [5s]\n\nPush enemies away by performing a spinning slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[209%]+22%\nSA破壊量：[108%]+11%
+Damage: [209%]+22%\nSA Break: [108%]+11%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 ID=11124
 Spin Cutter IV
 [Skill Info]\nDamage: [231%]\nSA Break: [119%]\nSG Cost: [35]\nCooldown: [5s]\n\nPush enemies away by performing a spinning slash.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[231%]+36%\nSA破壊量：[119%]+19%
+Damage: [231%]+36%\nSA Break: [119%]+19%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
@@ -393,28 +393,28 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 ID=11131
 Blow Up I
 [Skill Info]\nPassive Effect: Stamina Cost -50%\nBuff Duration: [6s]\nSG Cost: [80]\nCooldown: [45s]\n\nEnhance the body with supernatural powers, decreasing stamina consumption.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-バフ持続時間：[6秒]+2秒
+Buff Duration: [6s] +2s
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 0
 
 ID=11132
 Blow Up II
 [Skill Info]\nPassive Effect: Stamina Cost -50%\nBuff Duration: [8s]\nSG Cost: [80]\nCooldown: [45s]\n\nEnhance the body with supernatural powers, decreasing stamina consumption.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-スタミナ消費量減少：[50%]+10%\nバフ持続時間：[8秒]+2秒
+Staming Cost Reduction: [50%]+10%\Buff Duration: [8s] +2s
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 0
 
 ID=11133
 Blow Up III
 [Skill Info]\nPassive Effect: Stamina Cost -60%\nBuff Duration: [10s]\nSG Cost: [80]\nCooldown: [45s]\n\nEnhance the body with supernatural powers, decreasing stamina consumption.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-スタミナ消費量減少：[60%]+10%\nバフ持続時間：[10秒]+2秒
+Staming Cost Reduction: [60%]+10%\Buff Duration: [10s] +2s
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 0
 
 ID=11134
 Blow Up IV
 [Skill Info]\nPassive Effect: Stamina Cost -70%\nBuff Duration: [12s]\nSG Cost: [80]\nCooldown: [45s]\n\nEnhance the body with supernatural powers, decreasing stamina consumption.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-スタミナ消費量減少：[70%]+10%\nバフ持続時間：[12秒]+3秒
+Staming Cost Reduction: [70%]+10%\Buff Duration: [12s] +3s
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 0
 
@@ -428,28 +428,28 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 ID=11031
 Blade Quake I
 [Skill Info]\nDamage: [212%]\nSA Break: [444%]\nSG Cost: [45]\nCooldown: [16s]\n\nPush the sword through the ground, summoning multiple swords to deal damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[212%]+11%\nSA破壊量：[444%]+22%
+Damage: [212%]+11%\nSA Break: [444%]+22%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
 
 ID=11032
 Blade Quake II
 [Skill Info]\nDamage: [223%]\nSA Break: [466%]\nSG Cost: [45]\nCooldown: [16s]\n\nPush the sword through the ground, summoning multiple swords to deal damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[223%]+26%\nSA破壊量：[466%]+56%
+Damage: [223%]+26%\nSA Break: [466%]+56%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
 
 ID=11033
 Blade Quake III
 [Skill Info]\nDamage: [249%]\nSA Break: [522%]\nSG Cost: [45]\nCooldown: [16s]\n\nPush the sword through the ground, summoning multiple swords to deal damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[249%]+27%\nSA破壊量：[522%]+55%
+Damage: [249%]+27%\nSA Break: [522%]+55%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
 
 ID=11034
 Blade Quake IV
 [Skill Info]\nDamage: [276%]\nSA Break: [577%]\nSG Cost: [45]\nCooldown: [16s]\n\nPush the sword through the ground, summoning multiple swords to deal damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[276%]+42%\nSA破壊量：[577%]+89%
+Damage: [276%]+42%\nSA Break: [577%]+89%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
 
@@ -463,28 +463,28 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 ID=11081
 Blade Wall I
 [Skill Info]\nDamage: [149%]\nSA Break: [310%]\nSG Cost: [40]\nCooldown: [12s]\n\nSummoned swords will damage enemies and pull them towards the player.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[149%]+8%\nSA破壊量：[310%]+16%
+Damage: [149%]+8%\nSA Break: [310%]+16%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeWall
 0
 
 ID=11082
 Blade Wall II
 [Skill Info]\nDamage: [157%]\nSA Break: [326%]\nSG Cost: [40]\nCooldown: [12s]\n\nSummoned swords will damage enemies and pull them towards the player.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[157%]+18%\nSA破壊量：[326%]+38%
+Damage: [157%]+18%\nSA Break: [326%]+38%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeWall
 0
 
 ID=11083
 Blade Wall III
 [Skill Info]\nDamage: [175%]\nSA Break: [364%]\nSG Cost: [40]\nCooldown: [12s]\n\nSummoned swords will damage enemies and pull them towards the player.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[175%]+19%\nSA破壊量：[364%]+39%
+Damage: [175%]+19%\nSA Break: [364%]+39%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeWall
 0
 
 ID=11084
 Blade Wall IV
 [Skill Info]\nDamage: [194%]\nSA Break: [403%]\nSG Cost: [40]\nCooldown: [12s]\n\nSummoned swords will damage enemies and pull them towards the player.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[194%]+30%\nSA破壊量：[403%]+62%
+Damage: [194%]+30%\nSA Break: [403%]+62%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeWall
 0
 
@@ -498,28 +498,28 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeWall
 ID=11011
 Power Slash I
 [Skill Info]\nDamage: [455%]\nSA Break: [262%]\nSG Cost: [60]\nCooldown: [15s]\n\nSlashes frontward with great power.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[455%]+23%\nSA破壊量：[262%]+14%
+Damage: [455%]+23%\nSA Break: [262%]+14%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PowerSlash
 0
 
 ID=11012
 Power Slash II
 [Skill Info]\nDamage: [478%]\nSA Break: [276%]\nSG Cost: [60]\nCooldown: [15s]\n\nSlashes frontward with great power.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[478%]+57%\nSA破壊量：[276%]+32%
+Damage: [478%]+57%\nSA Break: [276%]+32%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PowerSlash
 0
 
 ID=11013
 Power Slash III
 [Skill Info]\nDamage: [535%]\nSA Break: [308%]\nSG Cost: [60]\nCooldown: [15s]\n\nSlashes frontward with great power.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[535%]+57%\nSA破壊量：[308%]+33%
+Damage: [535%]+57%\nSA Break: [308%]+33%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PowerSlash
 0
 
 ID=11014
 Power Slash IV
 [Skill Info]\nDamage: [592%]\nSA Break: [341%]\nSG Cost: [60]\nCooldown: [15s]\n\nSlashes frontward with great power.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[592%]+91%\nSA破壊量：[341%]+53%
+Damage: [592%]+91%\nSA Break: [341%]+53%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PowerSlash
 0
 
@@ -533,28 +533,28 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_PowerSlash
 ID=11051
 Leap Attack I
 [Skill Info]\nDamage: [392%]\nSA Break: [629%]\nSG Cost: [50]\nCooldown: [20s]\n\nLeap forward and slam the ground, launching enemies into the air. Hold the skill button to charge the skill and leap further.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[392%]+19%\nSA破壊量：[629%]+31%
+Damage: [392%]+19%\nSA Break: [629%]+31%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack
 0
 
 ID=11052
 Leap Attack II
 [Skill Info]\nDamage: [411%]\nSA Break: [660%]\nSG Cost: [50]\nCooldown: [20s]\n\nLeap forward and slam the ground, launching enemies into the air. Hold the skill button to charge the skill and leap further.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[411%]+49%\nSA破壊量：[660%]+79%
+Damage: [441%]+49%\nSA Break: [660%]+79%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack
 0
 
 ID=11053
 Leap Attack III
 [Skill Info]\nDamage: [460%]\nSA Break: [739%]\nSG Cost: [50]\nCooldown: [20s]\n\nLeap forward and slam the ground, launching enemies into the air. Hold the skill button to charge the skill and leap further.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[460%]+49%\nSA破壊量：[739%]+78%
+Damage: [460%]+29%\nSA Break: [739%]+78%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack
 0
 
 ID=11054
 Leap Attack IV
 [Skill Info]\nDamage: [509%]\nSA Break: [817%]\nSG Cost: [50]\nCooldown: [20s]\n\nLeap forward and slam the ground, launching enemies into the air. Hold the skill button to charge the skill and leap further.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[509%]+79%\nSA破壊量：[817%]+126%
+Damage: [509%]+79%\nSA Break: [817%]+126%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack
 0
 
@@ -568,28 +568,28 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack
 ID=11071
 Arena Rush I
 [Skill Info]\nDamage: [100%]\nSA Break: [100%]\nPassive Effect: Attack Power +7%\nBuff Duration: [20s]\nBuff Area Duration: [10s]\nSG Cost: [50]\nCooldown: [45s]\n\nCreate an enhancing field in a set radius. All party members within the area will have increased damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-攻撃力増加：[7%]+2%
+Attack Power Increase: [7%]+2%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush
 0
 
 ID=11072
 Arena Rush II
 [Skill Info]\nDamage: [100%]\nSA Break: [100%]\nPassive Effect: Attack Power +9%\nBuff Duration: [20s]\nBuff Area Duration: [10s]\nSG Cost: [50]\nCooldown: [45s]\n\nCreate an enhancing field in a set radius. All party members within the area will have increased damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-攻撃力増加：[9%]+3%
+Attack Power Increase: [9%]+3%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush
 0
 
 ID=11073
 Arena Rush III
 [Skill Info]\nDamage: [100%]\nSA Break: [100%]\nPassive Effect: Attack Power +12%\nBuff Duration: [20s]\nBuff Area Duration: [10s]\nSG Cost: [50]\nCooldown: [45s]\n\nCreate an enhancing field in a set radius. All party members within the area will have increased damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-攻撃力増加：[12%]+3%
+Attack Power Increase: [12%]+3%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush
 0
 
 ID=11074
 Arena Rush IV
 [Skill Info]\nDamage: [100%]\nSA Break: [100%]\nPassive Effect: Attack Power +15%\nBuff Duration: [20s]\nBuff Area Duration: [10s]\nSG Cost: [50]\nCooldown: [45s]\n\nCreate an enhancing field in a set radius. All party members within the area will have increased damage.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-攻撃力増加：[15%]+5%
+Attack Power Increase: [15%]+5%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush
 0
 
@@ -610,21 +610,21 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 ID=11092
 Flash Step II
 [Skill Info]\nDamage: [491%]\nSA Break: [635%]\nSG Cost: [35]\nCooldown: [20s]\n\nSwiftly leap backwards, summoning a sword imbued with supernatural powers and firing it frontward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[491%]+59%\nSA破壊量：[635%]+75%
+Damage: [491%]+59%\nSA Break: [635%]+75%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 0
 
 ID=11093
 Flash Step III
 [Skill Info]\nDamage: [550%]\nSA Break: [710%]\nSG Cost: [35]\nCooldown: [20s]\n\nSwiftly leap backwards, summoning a sword imbued with supernatural powers and firing it frontward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[550%]+58%\nSA破壊量：[710%]+76%
+Damage: [550%]+58%\nSA Break: [710%]+76%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 0
 
 ID=11094
 Flash Step IV
 [Skill Info]\nDamage: [608%]\nSA Break: [786%]\nSG Cost: [35]\nCooldown: [20s]\n\nSwiftly leap backwards, summoning a sword imbued with supernatural powers and firing it frontward.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[608%]+94%\nSA破壊量：[786%]+121%
+Damage: [608%]+94%\nSA Break: [786%]+121%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 0
 
@@ -638,21 +638,21 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 ID=11111
 Cross Strike I
 [Skill Info]\nDamage: [135%]\nSA Break: [102%]\nSG Cost: [45]\nCooldown: [30s]\nCreate an area of fire on the ground for 5s.\nFire AoE Damage: [108%] per sec.\nFire AoE SA Break: [82%] per sec.\n\nDo a crosswise slash in the air, hurling fire at the ground. Enemies will be damaged only while standing inside the fire.\n\n[Usage]\nMouse: corresponding key in-air\n(aerial skills are automatically placed onto your quickslots).
-ダメージ量：[135%]+7%\nSA破壊量：[102%]+5%\n火炎地帯ダメージ量：[108%]+5%\n火炎地帯SA破壊量：[82%]+3%
+Damage: [135%]+7%\nSA Break: [102%]+5%\nFire Area Damage: [108%]+5%\nFire Area SA Break: [82%]+3%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
 
 ID=11112
 Cross Strike II
 [Skill Info]\nDamage: [142%]\nSA Break: [107%]\nSG Cost: [45]\nCooldown: [30s]\nCreate an area of fire on the ground for 5s.\nFire AoE Damage: [113%] per sec.\nFire AoE SA Break: [85%] per sec.\n\nDo a crosswise slash in the air, hurling fire at the ground. Enemies will be damaged only while standing inside the fire.\n\n[Usage]\nMouse: corresponding key in-air\n(aerial skills are automatically placed onto your quickslots).
-ダメージ量：[142%]+17%\nSA破壊量：[107%]+13%\n火炎地帯ダメージ量：[113%]+14%\n火炎地帯SA破壊量：[85%]+11%
+Damage: [142%]+17%\nSA Break: [107%]+13%\nFire Area Damage: [113%]+14%\nFire Area SA Break: [85%]+11%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
 
 ID=11113
 Cross Strike III
 [Skill Info]\nDamage: [159%]\nSA Break: [120%]\nSG Cost: [45]\nCooldown: [30s]\nCreate an area of fire on the ground for 5s.\nFire AoE Damage: [127%] per sec.\nFire AoE SA Break: [96%] per sec.\n\nDo a crosswise slash in the air, hurling fire at the ground. Enemies will be damaged only while standing inside the fire.\n\n[Usage]\nMouse: corresponding key in-air\n(aerial skills are automatically placed onto your quickslots).
-ダメージ量：[159%]+17%\nSA破壊量：[120%]+13%\n火炎地帯ダメージ量：[127%]+14%\n火炎地帯SA破壊量：[96%]+10%
+Damage: [159%]+17%\nSA Break: [120%]+13%\nFire Area Damage: [127%]+14%\nFire Area SA Break: [96%]+10%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
 
@@ -4696,14 +4696,14 @@ When attacked, there is a 10% chance at a limit of once per second of increasing
 0
 
 ID=30023
-A Lethal Blow!
+A Lethal Blow I
 When landing a hit, 5% chance to increase CRIT rate by 20% for 2 sec. (Cooldown: 15 sec)
 .
 0
 0
 
 ID=30031
-A Lethal Blow II!
+A Lethal Blow II
 When landing a hit, 10% chance to increase CRIT rate by 20% for 3 sec. (Cooldown: 15 sec)
 .
 0
@@ -5011,14 +5011,14 @@ When avoiding a hit, there is a 20% chance to restore 5% HP. (Cooldown: 15 sec)
 0
 
 ID=30173
-Prepared Surprise Assault
+Surprise Attack Pro I
 On a critical hit, there is a 5% chance to recover 10% SG. (Cooldown: 20 sec)
 .
 0
 0
 
 ID=30181
-Prepared Surprise Assault II
+Surprise Attack Pro II
 On a critical hit, there is a 10% chance to recover 20% SG. (Cooldown: 15 sec)
 .
 0
@@ -5116,7 +5116,7 @@ When attacked, there is a 5% probability of decreasing ATK by 10% and increasing
 0
 
 ID=30223
-Not a bad injury at all.
+Strength from Injuries I
 When attacked, there is a 10% chance to recover 5% HP. (Cooldown: 10 sec)
 .
 0
@@ -5193,7 +5193,7 @@ White Star III
 0
 
 ID=30273
-Red Eye I 
+Crimson Gaze I 
 When being inflicted with an abnormal status effect, there is a 100% chance of recovering 10% HP  (Cooldown: 30 sec)
 .
 0
@@ -5991,42 +5991,42 @@ When hit, 20% chance for 5 seconds of Defense +50% (Cooldown for 10 seconds)
 0
 
 ID=30661
-A Lethal Blow!
+A Lethal Blow I
 When landing a hit, there is a 5% chance of increasing CRIT by 20% for 2.5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30662
-A Lethal Blow II!
+A Lethal Blow II
 When landing a hit, there is a 10% chance of increasing CRIT by 20% for 3.5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30663
-正確な急所突きⅢ
+A Lethal Blow III
 When landing a hit, there is a 15% chance of increasing CRIT by 20% for 4.5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30671
-A Lethal Blow!
+A Lethal Blow I
 When landing a hit, there is a 10% chance of increasing CRIT by 20% for 2.5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30672
-A Lethal Blow II!
+A Lethal Blow II
 When landing a hit, there is a 15% chance of increasing CRIT by 20% for 3.5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30673
-正確な急所突きⅢ
+A Lethal Blow III
 When landing a hit, there is a 20% chance of increasing CRIT by 20% for 4.5 sec. (Cooldown: 10 sec)
 .
 0
@@ -6768,42 +6768,42 @@ ID=31043
 0
 
 ID=31051
-Prepared Surprise Assault
+Surprise Attack Pro I
 クリティカル命中時、5%の確率でSGが10%回復する。（クールタイム30秒）
 .
 0
 0
 
 ID=31052
-Prepared Surprise Assault II
+Surprise Attack Pro II
 クリティカル命中時、5%の確率でSGが13%回復する。（クールタイム30秒）
 .
 0
 0
 
 ID=31053
-奇襲のプロⅢ
+Surprise Attack Pro III
 クリティカル命中時、7%の確率でSGが16%回復する。（クールタイム30秒）
 .
 0
 0
 
 ID=31061
-Prepared Surprise Assault
+Surprise Attack Pro I
 クリティカル命中時、6%の確率でSGが12%回復する。（クールタイム30秒）
 .
 0
 0
 
 ID=31062
-Prepared Surprise Assault II
+Surprise Attack Pro II
 クリティカル命中時、8%の確率でSGが15%回復する。（クールタイム30秒）
 .
 0
 0
 
 ID=31063
-奇襲のプロⅢ
+Surprise Attack Pro III
 クリティカル命中時、10%の確率でSGが18%回復する。（クールタイム30秒）
 .
 0

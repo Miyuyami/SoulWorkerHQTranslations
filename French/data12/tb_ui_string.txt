@@ -68,7 +68,7 @@ ID=23
 Réparer éqp
 
 ID=24
-Réparer tout
+Tout réparer
 
 ID=25
 Réparer
@@ -128,7 +128,7 @@ ID=62
 Amélioration
 
 ID=63
-Emplacement Broche
+Sertir
 
 ID=90
 Haru
@@ -158,19 +158,19 @@ ID=101
 Extra
 
 ID=102
-Fashion
+Costume
 
 ID=103
 Tout
 
 ID=104
-Fashion
+Costume
 
 ID=105
 Équipement
 
 ID=106
-Fashion
+Costume
 
 ID=107
 Artefact
@@ -182,10 +182,10 @@ ID=109
 Accessoires
 
 ID=110
-Fashion[General]
+Costume[General]
 
 ID=111
-Fashion[Hancoin]
+Costumes[Hancoin]
 
 ID=112
 Consommables 
@@ -482,7 +482,7 @@ ID=343
 Voulez vous vendre {1}x [{0}] pour {2}?
 
 ID=344
-ëtes vous sur de vouloir utiliser {0} pour ajouter des emplacements?
+ëtes vous sur de vouloir utiliser {0} pour ajouter un emplacement ?
 
 ID=345
 La vente des objets vous rapportera {0} Zenny.
@@ -650,7 +650,7 @@ ID=418
 Évoluer
 
 ID=419
-Emplacement Broche
+Sertir
 
 ID=421
 Afficher équipable uniquement
@@ -1229,7 +1229,7 @@ ID=707
 Costume(En Attente)
 
 ID=708
-エリア移動
+Zone
 
 ID=709
 Gestion de Guilde(En Attente)
@@ -1430,7 +1430,7 @@ ID=778
 Info. Sertissage
 
 ID=779
-ソケット追加アイテム使用時、ソケット活性化可能。
+Quand un vous utilisez un objet pour ajouter un emplacement, cet emplacement est actif. 
 
 ID=780
 Opérant :
@@ -1511,7 +1511,7 @@ ID=807
 Détails Broche
 
 ID=808
-Partie dégradable
+Emplacement
 
 ID=809
 Pas de Broche équipée
@@ -1535,7 +1535,7 @@ ID=816
 Vous pourrez sertir un nouvel objet une fois cet objet enlevé.
 
 ID=817
-非活性化ソケットは、活性化状態に変更した後でアイテムを装着できます。
+Vous pouvez sertir l'objet après avoir retiré l'objet actuellement serti.
 
 ID=818
 Êtes vous sûr de vouloir sertir le Familia sur l'objet sélectionné ?
@@ -1544,13 +1544,13 @@ ID=819
 Familia sertie avec succès.
 
 ID=820
-ソケットアイテム管理
+Gestion des Sertissages
 
 ID=821
-ソケットに装着中のファミリアを解除したり、\n新しいソケットを追加できます。
+Vous pouvez sertir un nouveau Familia.\nEnlevez le Familia au préalable.
 
 ID=822
-アイテムの解除に必要な\nアイテムまたは手数料が不足しています。
+Vous ne possédez pas l'objet \nou les fonds requis pour démanteler.
 
 ID=823
 Objet d'ajout d'emplacement manquant.
@@ -1571,13 +1571,13 @@ ID=828
 Cet objet peut recevoir un Familia.\n (Clic-Droit pour sertir)
 
 ID=829
-選択したファミリアが解除されました。
+Annulation du Familia sélectionné.
 
 ID=830
 Un emplacement a été ajouté sur l'objet sélectionné.
 
 ID=831
-ソケット機能を使用できないアイテムです。
+Impossible de sertir cet objet.
 
 ID=832
 Main Droite
@@ -2042,13 +2042,13 @@ ID=1035
 Cheveux 5
 
 ID=1041
-ボトムバインド
+Bottom Bind
 
 ID=1042
-カットバインド
+Cut Bind
 
 ID=1043
-ミドルバインド
+Center Bind
 
 ID=1044
 Cheveux 4
@@ -2228,16 +2228,16 @@ ID=1335
  Invasion de Poupées
 
 ID=1336
-ラピッドフレイムの侵攻
+Invasion des Flammes Véloces
 
 ID=1337
-ラピッドフレイムの逆襲
+Résistance des Flammes Véloces
 
 ID=1338
 Raid aérien de Ned Compagnie 
 
 ID=1339
-District Condition
+La Situation du District
 
 ID=1340
 Limite de tps
@@ -2276,19 +2276,19 @@ ID=1402
 Nihilum Kingdom Gang
 
 ID=1403
-ラピッドフレイム
+Faction des Flammes Véloces
 
 ID=1404
-チェリーブロッサム勢力
+Cherry Blossom Gang
 
 ID=1405
-RSB勢力
+RSB Forces
 
 ID=1406
-ソウルジャンク
+Âme Déchue
 
 ID=1407
-シャドージャンク
+Ombre Déchue
 
 ID=1408
 Scellement
@@ -2414,7 +2414,7 @@ ID=2129
 {0} a été débloqué.
 
 ID=2130
-フレンド登録したフレンドです。\n遮断しますか？
+Cette personne est votre ami.\n Êtes-vous sûr de ne plus vouloir interagir avec ?
 
 ID=2131
 {0} ne peut pas accepter de nouvelles demandes pour le moment.
@@ -2708,19 +2708,19 @@ ID=3007
 Annuler
 
 ID=3008
-アイテムとジェニーを登録後、「登録確認」をクリックしてください。
+Après avoir placé vos objets et Zenny, veuillez cliquer sur "Terminer".
 
 ID=3009
-内容を確認して、「取引完了」をクリックしてください。
+Vérifiez le contenu, veuillez cliquer sur "Terminer"
 
 ID=3010
-相手の取引完了を待っています。\n(取引したくない場合は「取引中止」をクリックしてください)
+En attente d'une réponse du joueur.\n(Cliquer sur "Annuler" si vous ne souhaitez plus faire un échange)
 
 ID=3011
-{0}に取引を要請しました。相手の承諾を待っています。\n[残り{1}秒]
+Demande d'échange envoyée à {0}. En attente d'acception du joueur.\n[{1}s restante(s)]
 
 ID=3012
-{0}から取引要請が来ました。承諾しますか？\n[残り{1}秒]
+Vous avez reçu une demande d'échange de {0}. Accepter ?\n[{1}s restante(s)]
 
 ID=3013
 La cible est trop éloignée; annulation de la demande d'échange.
@@ -2729,7 +2729,7 @@ ID=3014
 Ce joueur s'est déconnecté; annulation de la demande d'échange.
 
 ID=3015
-取引が中止されました。\n(対象と同じ町でのみ取引ができます)
+Echange annulé.\n(Vous devez être dans la même ville que l'autre joueur)
 
 ID=3016
 La demande d'échange avec {0} a été annulée.
@@ -2744,7 +2744,7 @@ ID=3019
 {0} a refusé la demande d'échange.
 
 ID=3020
-承諾待機時間が終了し、取引要請が中止されました。
+Demande d'échange expirée.
 
 ID=3021
 Impossible d’interagir avec un PNJ lors d'un échange.
@@ -2753,10 +2753,10 @@ ID=3022
 Impossible de changer l'équipement lors d'un échange.
 
 ID=3023
-対象プレイヤーはすでに取引進行中です。\nしばらくしてからもう一度お試しください。
+Le joueur ciblé effectue déjà un échange.\nVeuillez réessayer.
 
 ID=3024
-対象プレイヤーはすでに取引を要請中です。\nしばらくしてからもう一度お試しください。
+Le joueur ciblé effectue déjà une demande d'échange.\n Veuillez réessayer.
 
 ID=3025
 Echange avec {0} réussi.
@@ -2765,10 +2765,10 @@ ID=3026
 Inventaire plein, échange annulé.
 
 ID=3027
-{0}と進行中の取引を中止しますか？
+Voulez-vous annuler l'échange avec {0} ?
 
 ID=3028
-{0}との取引を中止しました。
+Annulation de l'échange avec {0}.
 
 ID=3029
 {0} a annulé l'échange.
@@ -3284,7 +3284,7 @@ ID=5518
 Apparence aléatoire
 
 ID=5519
-Réglages de Style du Personnage
+Personnalisation
 
 ID=5800
 <font color='#FFFFFF' size='30'>ASTUCE: </font>Des équipements basiques sont disponibles au <font color='#00ff9c'>Marchand d'équipements</font> de chaque villes.
@@ -3371,28 +3371,28 @@ ID=5827
 <font color='#FFFFFF' size='30'>ASTUCE: </font>Appuyez sur <font color='#00ff9c'>[Alt]</font>  pour afficher le curseur.
 
 ID=5828
-<font color='#FFFFFF'><font size="30">TIP：</font>最高レベル到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Une fois au niveau maximum, le <font color='#00ff9c'>[Rang]</font> sera activé.
 
 ID=5829
-<font color='#FFFFFF'><font size="30">TIP：</font>現在のチャンネルが混雑している時は、ミニマップの上にある\n<font color='#00D8FF'>チャンネル移動機能</font>で別チャンネルに移動してください。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Si le canal actuel est plein\n<font color='#00D8FF'>Changez de Canal</font> en appuyant sur le coin supérieur droit de votre minicarte.
 
 ID=5830
-<font color='#FFFFFF'><font size="30">TIP：</font>ブッカーズポイント<font color='#00ff9c'>[BP]</font>は<font color='#00D8FF'>第6区域</font>または<font color='#00D8FF'>スチールグレイブ</font>で獲得できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Les Bookers Points <font color='#00ff9c'>[BP]</font> peuvent être obtenus au <font color='#00D8FF'>District 6</font> ou au <font color='#00D8FF'>Tombeau d'acier</font>.
 
 ID=5831
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>第6区域</font>の<font color='#00ff9c'>BP商店</font>では、特別なアイテムを購入できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Vous pouvez acheter des objets spéciaux au <font color='#00ff9c'>BP Shop</font> dans le <font color='#00D8FF'>District 6</font>.
 
 ID=5832
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>クエスト情報</font>ウィンドウ【J】の右上にある<font color='#00ff9c'>[ミッション]</font>タブから、デイリーミッションを確認できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Ouvrez le <font color='#00D8FF'>Journal de Quêtes</font> en appuyant sur <font color='#00ff9c'>[J]</font> et cliquez sur the <font color='#00ff9c'>[Missions]</font> pour accéder aux missions journalières.
 
 ID=5833
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>デイリーミッション</font>を通して獲得した<font color='#00ff9c'>[Sコイン]</font>は、専用商店で使用できます。
 
 ID=5834
-<font color='#FFFFFF'><font size="30">TIP：</font>メイズ内では、ランダムで</font><font color='#00D8FF'>[シークレットミッション]</font>が発生します。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Des<font color='#00D8FF'>[Missions Secretes]</font> peuvent apparaître aléatoirement dans les donjons.
 
 ID=5835
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲーム進行中に獲得した</font><font color='#00D8FF'>[サポーター]</font>をメイズに呼び出してみましょう。\n心強い仲間があなたをサポートしてくれます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>En progressant dans le jeu, vous pourrez invoquer des </font><font color='#00D8FF'>[Alliés]</font> afin de vous aider.
 
 ID=5836
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>イオ</font>の所で</font><font color='#00D8FF'>オーブ</font>を登録してください。\n登録したオーブは、フレンドのサポーターが使用できるようになります。
@@ -3404,7 +3404,7 @@ ID=5838
 <font color='#FFFFFF'><font size="30">TIP：</font></font><font color='#00D8FF'>ギルド</font>を設立したり、他の</font><font color='#00D8FF'>ギルド</font>に加入してコミュニティを広げましょう。
 
 ID=5839
-<font color='#FFFFFF'><font size="30">TIP：</font>Lv10になったら、自分だけのスペース<font color='#00D8FF'>[マイルーム]</font>を持つことができます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>A partir du Niveau 10, vous pourrez avoir votre propre <font color='#00D8FF'>[Salon]</font>.
 
 ID=5840
 <font color='#FFFFFF'><font size="30">TIP：</font>メイズ進行中、まれに記憶の欠片「<font color='#00D8FF'>メモリアル</font>」アイテムが出現することがあります。\nアイテムを集めてメモリアルウィンドウ【B】で報酬を獲得しましょう。
@@ -3416,7 +3416,7 @@ ID=5842
 <font color='#FFFFFF'><font size="30">TIP：</font>メイズに入場すると<font color='#00D8FF'>[FP]</font>を消費します。
 
 ID=5843
-<font color='#FFFFFF'><font size="30">TIP：</font>自分のスタイルに合わせて、<font color='#00D8FF'>スキル</font>や<font color='#00D8FF'>特性</font>をレベルアップさせてください。\n新たな効果が発生したり、機能が追加されます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Améliorez vos <font color='#00D8FF'>Compétences</font> selon votre style de jeu.
 
 ID=5844
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[状態異常]</font>は自分がかかると厄介ですが、敵に付与できれば戦闘を有利に進めることができます。
@@ -3428,7 +3428,7 @@ ID=5846
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[ダッシュ]</font>や<font color='#00D8FF'>[ジャンプ]</font>中にクリックすると、攻撃を繰り出せます。
 
 ID=5847
-<font color='#FFFFFF'><font size="30">TIP：</font>空中に浮いた敵を攻撃すると、追加ダメージを与えることができます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Un ennemi envoyé puis frappé en l'air recevra des dégâts supplémentaires
 
 ID=5848
 <font color='#FFFFFF'><font size="30">TIP：</font>特定イベントを完了すると、メイズ内で<font color='#00D8FF'>ソウルベイパー</font>を獲得でき、<font color='#00ff9c'>[ブレイクスキル]</font>を使用できます。
@@ -3560,28 +3560,28 @@ ID=5890
 <font color='#FFFFFF' size='30'>ASTUCE: </font>Appuyez sur <font color='#00ff9c'>[Alt]</font>  pour afficher le curseur.
 
 ID=5891
-<font color='#FFFFFF'><font size="30">TIP：</font>最高レベル到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Une fois au niveau maximum, le <font color='#00ff9c'>[Rang]</font> sera activé.
 
 ID=5892
 <font color='#FFFFFF'><font size="30">TIP：</font>現在のチャンネルが混雑している時は、ミニマップの上にある<font color='#00D8FF'>チャンネル移動機能</font>で\n別チャンネルに移動してください。
 
 ID=5893
-<font color='#FFFFFF'><font size="30">TIP：</font>ブッカーズポイント<font color='#00ff9c'>[BP]</font>は<font color='#00D8FF'>第6区域</font>または<font color='#00D8FF'>スチールグレイブ</font>で獲得できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Les Bookers Points <font color='#00ff9c'>[BP]</font> peuvent être obtenus au <font color='#00D8FF'>District 6</font> ou au <font color='#00D8FF'>Tombeau d'acier</font>.
 
 ID=5894
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>第6区域</font>の<font color='#00ff9c'>BP商店</font>では、特別なアイテムを購入できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Vous pouvez acheter des objets spéciaux au <font color='#00ff9c'>BP Shop</font> dans le <font color='#00D8FF'>District 6</font>.
 
 ID=5895
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>クエスト情報</font>ウィンドウ【J】の右上にある<font color='#00ff9c'>[ミッション]</font>タブから、デイリーミッションを確認できます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Ouvrez le <font color='#00D8FF'>Journal de Quêtes</font> en appuyant sur <font color='#00ff9c'>[J]</font> et cliquez sur the <font color='#00ff9c'>[Missions]</font> pour accéder aux missions journalières.
 
 ID=5896
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>デイリーミッション</font>を通して獲得した<font color='#00ff9c'>[Sコイン]</font>は、専用商店で使用できます。
 
 ID=5897
-<font color='#FFFFFF'><font size="30">TIP：</font>メイズ内では、ランダムで</font><font color='#00D8FF'>[シークレットミッション]</font>が発生します。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>Des<font color='#00D8FF'>[Missions Secretes]</font> peuvent apparaître aléatoirement dans les donjons.
 
 ID=5898
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲーム進行中に獲得した</font><font color='#00D8FF'>[サポーター]</font>をメイズに呼び出してみましょう。\n心強い仲間があなたをサポートしてくれます。
+<font color='#FFFFFF' size='30'>ASTUCE: </font>En progressant dans le jeu, vous pourrez invoquer des </font><font color='#00D8FF'>[Alliés]</font> afin de vous aider.
 
 ID=5899
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>イオ</font>の所で</font><font color='#00D8FF'>オーブ</font>を登録してください。\n登録したオーブは、フレンドのサポーターが使用できるようになります。
@@ -4118,7 +4118,7 @@ ID=9501
 Forteresse Délabrée
 
 ID=9511
-Zone de Contrôle
+Base de Contrôle
 
 ID=9512
 バスターコア
@@ -4397,16 +4397,16 @@ ID=10221
 Deuxième escalier
 
 ID=10231
-Cloudream Est
+Cloudream Est 
 
 ID=10232
-Cloudream Ouest
+Cloudream Ouest 
 
 ID=10233
-Cloudream Sud
+Cloudream Sud 
 
 ID=10234
-Cloudream Nord
+Cloudream Nord 
 
 ID=10241
 Portail Actif
@@ -7064,13 +7064,13 @@ ID=23004
 Infos FP
 
 ID=24000
-所持金
+Zenny
 
 ID=24001
 Arme Spirituelle
 
 ID=24002
-ギア
+Equipement
 
 ID=24003
 Accessoires
@@ -7847,13 +7847,13 @@ ID=24750
 Tout
 
 ID=24751
-攻撃型ブローチ
+Broche Offensive
 
 ID=24752
-防御型ブローチ
+Broche Défensive
 
 ID=24753
-機能型ブローチ
+Broche Utilitaire
 
 ID=24754
 Tout
@@ -7931,16 +7931,16 @@ ID=24778
 Arme secondaire
 
 ID=24779
-Hギア
+Casque
 
 ID=24780
-Sギア
+Epaulette
 
 ID=24781
-Bギア
+Plastron
 
 ID=24782
-Lギア
+Jambière
 
 ID=24783
 Collier
@@ -7955,13 +7955,13 @@ ID=24786
 Familia
 
 ID=24787
-攻撃型ブローチ
+Broche Offensive
 
 ID=24788
-防御型ブローチ
+Broche Défensive
 
 ID=24789
-機能型ブローチ
+Broche Utilitaire
 
 ID=24790
 Consommables 
@@ -7988,7 +7988,7 @@ ID=24797
 A.R. Card Key
 
 ID=24798
-空カード
+Carte Céleste
 
 ID=24799
 家具
@@ -8030,7 +8030,7 @@ ID=24811
 家具材料
 
 ID=24812
-サポーターウェポン
+Arme d'Allié
 
 ID=24813
 サポーターアバター
@@ -8045,19 +8045,19 @@ ID=24816
 Patron d'arme Spirituelle
 
 ID=24817
-サブウェポン設計図
+Patron Arme secondaire
 
 ID=24818
-ギア設計図
+Patron d'équipement
 
 ID=24819
-Sギア設計図
+Patron d'épaulette
 
 ID=24820
-Bギア設計図
+Patron de Plastron
 
 ID=24821
-Lギア設計図
+Patron de Jambière
 
 ID=24822
 Patron de Collier
@@ -8117,7 +8117,7 @@ ID=24840
 Haidinger
 
 ID=24841
-ケインバレル
+Kainbarrel
 
 ID=24842
 Good Boy
@@ -8177,10 +8177,10 @@ ID=24905
 Iris
 
 ID=25000
-チュートリアル終了
+Quitter Tutoriel
 
 ID=25001
-チュートリアル終了
+Quitter Tutoriel
 
 ID=25002
 チュートリアルを中断してフィールドに進みます。\n（注意！チュートリアル過程の経験値は受け取れません）
@@ -9209,13 +9209,13 @@ ID=28103
 ギルド加入申請超過
 
 ID=28104
-{0}日前
+{0} jours
 
 ID=28105
-{0}時間前
+{0}h
 
 ID=28106
-{0}分前
+{0}m
 
 ID=28107
 {0}に加入しました。
@@ -9251,7 +9251,7 @@ ID=28117
 {0}をギルドから追放しました。
 
 ID=28118
-ギルド追放完了
+Exclure Membre
 
 ID=28119
 {0}がギルドから追放されました。
@@ -9278,7 +9278,7 @@ ID=28126
 ギルド銀行にジェニーが足りないため、スキルを強化できません。
 
 ID=28127
-ギルド委任者選択
+Modifier Rang
 
 ID=28128
 Nom
@@ -9293,7 +9293,7 @@ ID=28131
 Rang
 
 ID=28132
-選択完了
+Terminer
 
 ID=28133
 Guilde
@@ -9320,7 +9320,7 @@ ID=28140
 資本金
 
 ID=28141
-脱退
+Quitter
 
 ID=28142
 Notice
@@ -9353,7 +9353,7 @@ ID=28151
 職位設定
 
 ID=28152
-ギルド追放
+Exclure
 
 ID=28153
 公開設定
@@ -9371,7 +9371,7 @@ ID=28157
 長老
 
 ID=28158
-職位付与
+Modifier Rang
 
 ID=28159
 職位解除
@@ -9386,7 +9386,7 @@ ID=28162
 Invit. Guilde
 
 ID=28163
-ギルド追放
+Exclure
 
 ID=28164
 ギルド自販機
@@ -9413,7 +9413,7 @@ ID=28171
 Tout
 
 ID=28172
-ランキング
+Classement
 
 ID=28173
 加入申請
@@ -9440,7 +9440,7 @@ ID=28180
 Non
 
 ID=28181
-解散
+Dissoudre
 
 ID=28182
 ギルド名を使用するには、重複の確認が必要です。
@@ -9575,10 +9575,10 @@ ID=28225
 ギルドメンバーのメイズクリア報酬ジェニーの1%積立
 
 ID=28226
-基金
+Fonds
 
 ID=28227
-記録
+Classement
 
 ID=28228
 Temps
@@ -9623,13 +9623,13 @@ ID=28241
 一般スキル
 
 ID=28242
-GP{0}/{1}
+GP {0}/{1}
 
 ID=28243
 {0}/{1}
 
 ID=28244
-({0}GP)
+({0} GP)
 
 ID=28245
 {0}を習得しますか？\n[{1}GPと基金を{2}消費します]
@@ -9695,7 +9695,7 @@ ID=29005
 Sortie
 
 ID=29006
-配置モード
+Gérer Salon
 
 ID=29007
 Paramètres Salon
@@ -9704,7 +9704,7 @@ ID=29009
 配置モード解除
 
 ID=29010
-配置
+Placer
 
 ID=29011
 Public
@@ -9884,10 +9884,10 @@ ID=30003
 Mémo
 
 ID=30100
-パーティー募集中
+Cherche un groupe.
 
 ID=30101
-ギルド募集中
+Cherche une guilde.
 
 ID=30102
 Trouver un Ami
@@ -9935,7 +9935,7 @@ ID=31010
 パーティーがメイズにいるため合流できません。
 
 ID=31011
-該当パーティーに加入できません。
+Impossible de rejoindre de groupe.
 
 ID=31012
 パーティーの最大人員を超過しました。
@@ -10085,7 +10085,7 @@ ID=31060
 ペナルティ発生により、[{0}]分[{1}]秒間オートマッチングを使用できません。
 
 ID=31061
-検索残り時間
+Tps restant
 
 ID=31062
 パーティー進行可否選択中
@@ -10103,10 +10103,10 @@ ID=31066
 Bloqué
 
 ID=31067
-マッチング中止
+Arrêter
 
 ID=31068
-退場
+Quitter
 
 ID=31069
 進行
@@ -10133,7 +10133,7 @@ ID=31076
 Recrutement
 
 ID=31077
-待機者
+Requêtes
 
 ID=31078
 募集登録時間
@@ -10208,7 +10208,7 @@ ID=31101
 選択
 
 ID=31102
-育成
+Entrainement
 
 ID=31103
 材料収集
@@ -10217,7 +10217,7 @@ ID=31104
 Quêtes
 
 ID=31105
-自由
+Libre Arbitre
 
 ID=31106
 30分間募集します。
@@ -10325,7 +10325,7 @@ ID=31140
 リーダーの{0}がメイズ再挑戦を要請しています。\n要請に応じますか？\n(残り時間：{1}秒)
 
 ID=31141
-要請
+Requête
 
 ID=31142
 メンバーの応答を待っています。\n(再挑戦したくない場合は「中止」をクリック)
@@ -10358,7 +10358,7 @@ ID=31151
 目的
 
 ID=31152
-{0}：{1}
+{0}:{1}
 
 ID=31153
 オートマッチングにより構成されたパーティーであるため、[{0}]分[{1}]秒間はオートマッチングを使用できません。
@@ -10379,7 +10379,7 @@ ID=31158
 合流不可
 
 ID=31159
-残り登録時間
+Tps restant
 
 ID=31160
 オートマッチング離脱案内
@@ -10391,7 +10391,7 @@ ID=31162
 待機者リストに登録されていないプレイヤーです。
 
 ID=31163
-お知らせ
+Notification
 
 ID=31164
 パーティー申請できるレベルではありません。
@@ -10445,7 +10445,7 @@ ID=32004
 Compétence
 
 ID=32005
-戦闘
+Bataille
 
 ID=32006
 Echanger
@@ -10457,7 +10457,7 @@ ID=32008
 Banque
 
 ID=32009
-ペット
+Animal de compagnie
 
 ID=32010
 Donjon
@@ -10469,7 +10469,7 @@ ID=32012
 Objet
 
 ID=32013
-ランキング
+Classement
 
 ID=32014
 Groupe
@@ -10505,7 +10505,7 @@ ID=32024
 操作キー
 
 ID=32025
-攻撃
+Attaque
 
 ID=32026
 Dégâts
@@ -10526,7 +10526,7 @@ ID=32031
 能力値
 
 ID=32032
-AI
+IA
 
 ID=32033
 図鑑
@@ -10544,10 +10544,10 @@ ID=32037
 スキル習得
 
 ID=32038
-スキルレベル
+Niveau Compétence
 
 ID=32039
-スキル使用法
+Infos. Compétence
 
 ID=32040
 Afficher compétence d'enchainement
@@ -10562,7 +10562,7 @@ ID=32043
 Energie Spirituelle
 
 ID=32044
-ドロップ
+Drop
 
 ID=32045
 SG
@@ -10592,25 +10592,25 @@ ID=32053
 ギルド自販機
 
 ID=32054
-ギルド戦
+Guerre de Guilde
 
 ID=32055
 Banque
 
 ID=32056
-ギルド銀行
+Banque de Guilde
 
 ID=32057
-ペット
+Animal de compagnie
 
 ID=32058
 メイズポータル
 
 ID=32059
-イベントスポーン
+Apparition d'Événement 
 
 ID=32060
-エリア移動
+Zone
 
 ID=32061
 Ville
@@ -10634,13 +10634,13 @@ ID=32067
 Équiper
 
 ID=32068
-Fashion
+Costume
 
 ID=32069
 Artisanat
 
 ID=32070
-ランキング
+Classement
 
 ID=32071
 Groupe
@@ -10781,7 +10781,7 @@ ID=33509
 空虚なる心の力
 
 ID=33510
-残忍な虐殺者の遺産
+La Légende du Tueur en Série
 
 ID=33511
 危険な偶像の贈り物
@@ -10850,7 +10850,7 @@ ID=33532
 ルーシーの贈り物
 
 ID=33533
-機械の涙
+Larmes Mécaniques
 
 ID=33534
 殺人マシンの部品
@@ -10877,7 +10877,7 @@ ID=33541
 鋼鉄墓の守護天使MKⅢ
 
 ID=33542
-空虚な奈落
+Enfer Vide
 
 ID=33543
 鋼鉄墓の守護者
@@ -10889,7 +10889,7 @@ ID=33545
 鋼鉄墓の守護者MKⅢ
 
 ID=33546
-憎悪する闇
+Sombre Haine
 
 ID=33547
 陰の血脈
@@ -10964,7 +10964,7 @@ ID=34019
 Pourri
 
 ID=34020
-사용
+Utiliser
 
 ID=34021
 사용중
@@ -12344,13 +12344,13 @@ ID=40617
 パンデミックデンドロビウム討伐時、中毒状態を解除できます。
 
 ID=42000
-ジャック・ザ・キング
+Jack King
 
 ID=42001
-塔の守護者ジャック・ザ・キング
+Jack King le gardien de la tour
 
 ID=42002
-暴拳鉄槌ジャック・ザ・キング
+Jack King aux poings d'acier
 
 ID=42003
 ダンシングドールズ
@@ -12383,10 +12383,10 @@ ID=42012
 アスファルトゴーレム
 
 ID=42013
-シウォラット
+Shiworatto
 
 ID=42014
-下水溝の主シウォラット
+Shiworatto des égouts
 
 ID=42015
 ヴェノムミューカス
@@ -12431,16 +12431,16 @@ ID=42028
 Cynthia
 
 ID=42029
-リポーターシンシア
+Cynthia la Journaliste
 
 ID=42030
 真実の伝播者シンシア
 
 ID=42031
-アラクニス
+Arachnéen
 
 ID=42032
-捕食者アラクニス
+Prédateur Arachnéen
 
 ID=42033
 赤眼蜘蛛アラクニス
@@ -12455,22 +12455,22 @@ ID=42036
 S-01
 
 ID=42037
-改良型S-01
+S-01 Amélioré
 
 ID=42038
-ビクター
+Victor
 
 ID=42039
-研究員ビクター
+Victor le Chercheur
 
 ID=42040
-ビホールダー
+L'Observeur
 
 ID=42041
-ホクマ
+HKMA
 
 ID=42042
-ガルス
+Gallus
 
 ID=42043
 蒼空のガルス
@@ -12500,7 +12500,7 @@ ID=42051
 刻印者ヘルインフォーサー
 
 ID=42052
-トール
+Thor
 
 ID=42053
 チェイサー
@@ -12533,22 +12533,22 @@ ID=42062
 レッドメイン
 
 ID=42063
-クイーンカルラ
+La Reine Carla
 
 ID=42064
-怪鳥クイーンカルラ
+ La Mystérieuse Reine Carla
 
 ID=42065
-セデュリン
+Dr. Sedurin
 
 ID=42066
-主席博士セデュリン
+Médecin en Chef Sedurin
 
 ID=42067
 シングルレッグ
 
 ID=42068
-ソラ
+Sora
 
 ID=42069
 フレイムテンペスト
@@ -12608,7 +12608,7 @@ ID=42087
 Xenia
 
 ID=42088
-作戦将校セニア
+Officier Tacticien Xenia
 
 ID=42089
 セントリーコマンダー
@@ -12668,10 +12668,10 @@ ID=42107
 鋭尾ヘビーアイアンワーム
 
 ID=42108
-センスン
+Sensun
 
 ID=42109
-ラッキーガイセンスン
+Sensun le Chanceux
 
 ID=42110
 トレッカー
@@ -12689,10 +12689,10 @@ ID=42114
 鋼鉄のロボット兄弟
 
 ID=42115
-デウス・エクス・マキナ
+Deus Ex Machina
 
 ID=42116
-巨神デウス・エクス・マキナ
+Deus Ex Machina Colossal
 
 ID=42117
 機械神デウス・エクス・マキナ
@@ -12707,10 +12707,10 @@ ID=42120
 グラスパー
 
 ID=42121
-クイーンオブフラワー
+La Reine des Fleurs
 
 ID=42122
-花の女王クイーンオブフラワー
+Sa majesté la Reine des Fleurs
 
 ID=42123
 ハンマーヘッド
@@ -12749,13 +12749,13 @@ ID=42134
 大戦車フルアーマージークプロト
 
 ID=42135
-マーティン
+Martin
 
 ID=42136
-臨時指揮官マーティン
+Commandant Extraordinaire Martin
 
 ID=42137
-訓練用ダミー
+Mannequin d'entrainement
 
 ID=42138
 強化型訓練用ダミー
@@ -12791,10 +12791,10 @@ ID=42148
 絶対誘惑の石
 
 ID=42149
-ブッカーTV
+Booker TV
 
 ID=42150
-無法者ブッカーTV
+Booker TV Le Hors-la-loi
 
 ID=42151
 Azin
@@ -12806,13 +12806,13 @@ ID=42153
 Erik
 
 ID=42154
-整備工エリック
+Erik le Mécanicien
 
 ID=42155
 Sonny
 
 ID=42156
-医療部隊員サニー
+Officier Médical Sonny
 
 ID=42157
 医療部隊フォーチュン
@@ -12896,7 +12896,7 @@ ID=42183
 必死の守銭奴ショーン
 
 ID=42184
-ショーンμ
+Sean μ
 
 ID=42185
 守銭奴ショーンμ
@@ -12932,13 +12932,13 @@ ID=42195
 戦闘指揮の作戦兵ブロック
 
 ID=42196
-ブロックμ
+Brock μ
 
 ID=42197
-作戦兵ブロックμ
+Brock la Tacticienne µ
 
 ID=42198
-戦闘指揮の作戦兵ブロックμ
+Commandante Tacticienne Brock µ
 
 ID=42199
 ウォーライク
@@ -12959,16 +12959,16 @@ ID=42204
 好戦的な岩石ウォーライクμ
 
 ID=42205
-シウォラット
+Shiworatto
 
 ID=42206
-下水溝の主シウォラット
+Shiworatto des égouts
 
 ID=42207
 闇の下水王シウォラット
 
 ID=42208
-シウォラットμ
+Shirwatto µ
 
 ID=42209
 下水溝の主シウォラットμ
@@ -13034,40 +13034,40 @@ ID=42229
 S-01
 
 ID=42230
-改良型S-01
+S-01 Amélioré
 
 ID=42231
 迫り来る脅威S-01
 
 ID=42232
-S-01μ
+S-01 µ
 
 ID=42233
-改良型S-01μ
+S-01 Amélioré µ
 
 ID=42234
 迫り来る脅威S-01μ
 
 ID=42235
-ビクター
+Victor
 
 ID=42236
-研究員ビクター
+Victor le Chercheur
 
 ID=42237
-不眠の研究員ビクター
+Victor le Savant Fou
 
 ID=42238
 ビクターμ
 
 ID=42239
-研究員ビクターμ
+Victor le Chercheur µ
 
 ID=42240
-不眠の研究員ビクターμ
+Victor le Savant Fou µ
 
 ID=42241
-ガルス
+Gallus
 
 ID=42242
 蒼空のガルス
@@ -13211,7 +13211,7 @@ ID=42288
 三色魔眼マッドビホールダーμ
 
 ID=42289
-ラピッドフレイム
+Faction des Flammes Véloces
 
 ID=42290
 神速のラピッドフレイム
@@ -13295,40 +13295,40 @@ ID=42316
 強襲怪鳥インテンションカルラμ
 
 ID=42317
-クイーンカルラ
+La Reine Carla
 
 ID=42318
-怪鳥クイーンカルラ
+ La Mystérieuse Reine Carla
 
 ID=42319
 蒼空の覇者クイーンカルラ
 
 ID=42320
-クイーンカルラμ
+La Reine Carla µ
 
 ID=42321
-怪鳥クイーンカルラμ
+La Mystérieuse Reine Carla µ
 
 ID=42322
 蒼空の覇者クイーンカルラμ
 
 ID=42323
-セデュリン
+Dr. Sedurin
 
 ID=42324
-主席博士セデュリン
+Médecin en Chef Sedurin
 
 ID=42325
 怠惰なる兵器開発者セデュリン
 
 ID=42326
-セデュリンμ
+Sedurin µ
 
 ID=42327
-主席博士セデュリンμ
+Médecin en Chef Sedurin µ
 
 ID=42328
-怠惰なる兵器開発者セデュリンμ
+Sedurin la fainéante créative d'armes µ
 
 ID=43139
 ディグニティースナッチャー
@@ -13340,7 +13340,7 @@ ID=43146
 誘惑の欠片
 
 ID=43000
-ジャック・ザ・キング
+Jack King
 
 ID=43003
 ダンシングドールズ
@@ -13352,7 +13352,7 @@ ID=43028
 Cynthia
 
 ID=43031
-アラクニス
+Arachnéen
 
 ID=43057
 スネーク
@@ -13370,7 +13370,7 @@ ID=43110
 トレッカー
 
 ID=43115
-デウス・エクス・マキナ
+Deus Ex Machina
 
 ID=43006
 ワイルドストーン
@@ -13385,7 +13385,7 @@ ID=43012
 アスファルトゴーレム
 
 ID=43013
-シウォラット
+Shiworatto
 
 ID=43015
 ヴェノムミューカス
@@ -13406,16 +13406,16 @@ ID=43036
 S-01
 
 ID=43038
-ビクター
+Victor
 
 ID=43040
-ビホールダー
+L'Observeur
 
 ID=43041
-ホクマ
+HKMA
 
 ID=43042
-ガルス
+Gallus
 
 ID=43044
 ボーンクラッシャー
@@ -13433,7 +13433,7 @@ ID=43050
 ヘルインフォーサー
 
 ID=43052
-トール
+Thor
 
 ID=43053
 チェイサー
@@ -13451,16 +13451,16 @@ ID=43062
 レッドメイン
 
 ID=43063
-クイーンカルラ
+La Reine Carla
 
 ID=43065
-セデュリン
+Dr. Sedurin
 
 ID=43067
 シングルレッグ
 
 ID=43068
-ソラ
+Sora
 
 ID=43069
 フレイムテンペスト
@@ -13517,7 +13517,7 @@ ID=43106
 ヘビーアイアンワーム
 
 ID=43108
-センスン
+Sensun
 
 ID=43113
 クリーニー
@@ -13535,7 +13535,7 @@ ID=43120
 グラスパー
 
 ID=43121
-クイーンオブフラワー
+La Reine des Fleurs
 
 ID=43123
 ハンマーヘッド
@@ -13559,16 +13559,16 @@ ID=43133
 フルアーマージークプロト
 
 ID=43135
-マーティン
+Martin
 
 ID=43137
-訓練用ダミー
+Mannequin d'entrainement
 
 ID=43142
 ドレインクロー
 
 ID=43149
-ブッカーTV
+Booker TV
 
 ID=43151
 Azin
@@ -13634,10 +13634,10 @@ ID=43178
 [SH]ヘビーギアズ
 
 ID=43181
-[S]ショーン
+[S] Sean
 
 ID=43184
-[SH]ショーン
+[SH] Sean
 
 ID=43187
 [S]ワイルドストーン
@@ -13646,10 +13646,10 @@ ID=43190
 [SH]ワイルドストーン
 
 ID=43193
-[S]ブロック
+[S] Brock
 
 ID=43196
-[SH]ブロック
+[SH] Brock
 
 ID=43199
 [S]ウォーライク
@@ -13658,10 +13658,10 @@ ID=43202
 [SH]ウォーライク
 
 ID=43205
-[S]シウォラット
+[S] Shirwatto
 
 ID=43208
-[SH]シウォラット
+[SH] Shirwatto
 
 ID=43211
 [S]ヴェノムミューカス
@@ -13682,22 +13682,22 @@ ID=43226
 [SH]セル
 
 ID=43229
-[S]S-01
+[S] S-01
 
 ID=43232
-[SH]S-01
+[SH] S-01
 
 ID=43235
-[S]ビクター
+[S] Victor
 
 ID=43238
-[SH]ビクター
+[SH] Victor
 
 ID=43241
-[S]ガルス
+[S] Gallus
 
 ID=43244
-[SH]ガルス
+[SH] Gallus
 
 ID=43247
 [S]ボーンクラッシャー
@@ -13718,10 +13718,10 @@ ID=43262
 [SH]ヘルインフォーサー
 
 ID=43295
-[S]グルトン
+[S] Glouton
 
 ID=43296
-[SH]グルトン
+[SH] Glouton
 
 ID=43297
 [S]輝くグルトン
@@ -13748,16 +13748,16 @@ ID=43304
 [SH]インテンションカルラ
 
 ID=43305
-[S]クイーンカルラ
+[S] Reine Carla
 
 ID=43306
-[SH]クイーンカルラ
+[SH] Reine Carla
 
 ID=43307
-[S]セデュリン
+[S] Sedurin
 
 ID=43308
-[SH]セデュリン
+[SH] Sedurin
 
 ID=45000
 Boutique
@@ -13793,7 +13793,7 @@ ID=45010
 Acheter Hancoin
 
 ID=45011
-一括購入
+Achat de masse
 
 ID=45012
 Retour
@@ -13823,7 +13823,7 @@ ID=45020
 NOUVEAU
 
 ID=45021
-アイテム購入
+Achats réussis
 
 ID=45022
 Quantité :
@@ -13832,7 +13832,7 @@ ID=45023
 Coût Total :
 
 ID=45024
-購入後
+Hancoins restants :
 
 ID=45025
 Acheter
@@ -13913,7 +13913,7 @@ ID=45050
 Restant :
 
 ID=45051
-販売期間：{0}
+Tmps de Vente : {0}
 
 ID=45052
 j
@@ -13928,7 +13928,7 @@ ID=45055
 保管箱にプレゼントできないアイテムがあります。ご確認ください。
 
 ID=45056
-アバター/下着プレビュー
+Aperçu des Costumes
 
 ID=45057
 購入できないアイテムが含まれています。
@@ -13946,16 +13946,16 @@ ID=45103
 購入エラー
 
 ID=45104
-インベントリ不足
+Espace d'inventaire insuffisant.
 
 ID=45105
-ハンコイン不足
+Vous ne possédez pas assez de Hancoin pour effectuer l'achat.
 
 ID=45106
 購入するアイテムを選択していません。
 
 ID=45107
-買い物カゴにアイテムがありません。
+Le panier est vide.
 
 ID=45108
 Veuillez saisir un nom.
@@ -13964,22 +13964,22 @@ ID=45109
 同じキャラクターの場合のみセット保存できます。
 
 ID=45110
-空きスロットがありません。
+Aucunes places dans l'inventaire.
 
 ID=45111
-選択されたアイテムがありません。
+Aucun objet sélectionné.
 
 ID=45112
 選択したセットを装着しますか？
 
 ID=45113
-選択したセットを削除しますか？
+Souhaitez-vous enlever l'objet sélectionné ?
 
 ID=45114
 アイテム検索には2文字以上の入力が必要です。
 
 ID=45115
-これ以上アイテムが入りません。
+Impossible de recevoir les objets.
 
 ID=45116
 {0}
@@ -13994,7 +13994,7 @@ ID=45119
 家具インベントリに空きがありません。\n該当アイテム購入時、「メール」で受け取り可能です。\nアイテムを購入しますか？
 
 ID=45120
-アイテムの購入が完了しました。\n該当アイテムは自身のマイルームで確認ができます。
+Achats réussis et disponibles dans votre salon.
 
 ID=45121
 Aperçu
@@ -14027,7 +14027,7 @@ ID=45207
 Changer le nom de la Guilde
 
 ID=45208
-超時空ラジオ
+Radio Multi-dimensionelle
 
 ID=45209
 Quitter
@@ -14054,16 +14054,16 @@ ID=45216
 ブースターアイテムの効果が適用されています。\nアイテム使用時、既存ブースター効果はなくなります。\nアイテムを使用しますか？
 
 ID=45301
-インベントリのスロットが不足しています。
+Espace d'inventaire insuffisant.
 
 ID=45302
-該当アイテムは使用期間が終了しているため、使用できません。
+Les objets ont expiré, ils ne peuvent plus être utilisés.
 
 ID=45303
 Ouvrir Cube
 
 ID=45304
-キューブの種類によって獲得できるアイテムが異なります。
+Divers objets peuvent être acquis.
 
 ID=45305
 Ouvrir Cube Standard
@@ -14180,10 +14180,10 @@ ID=46301
 Félicitation !\n Steel {0} Grave a été complété avec succès.\n Revenez demain.
 
 ID=46302
-スチールグレイブ挑戦失敗
+Échec du défi du Tombeau d'acier
 
 ID=46303
-スチールグレイブ{0}挑戦に失敗しました。\n明日、再挑戦してください。
+Impossible d'accéder au Tombeau {0] d'acier.\n Réessayez demain.
 
 ID=46304
 Temps de fin
@@ -14312,7 +14312,7 @@ ID=49221
 Voulez vous quitter le donjon ?
 
 ID=49222
-退場
+Quitter
 
 ID=49223
 Retourner en Ville
@@ -14333,13 +14333,13 @@ ID=49228
 Déblocage
 
 ID=49229
-チュートリアル終了
+Quitter Tutoriel
 
 ID=49230
-マイルーム退室確認
+Confirmation de sortie du salon
 
 ID=49231
-マイルームから退室しますか？
+Souhaitez-vous quitter le salon ?
 
 ID=49232
 異常座標脱出機能を使用できません。\nしばらくしてからもう一度お試しください。
@@ -14366,7 +14366,7 @@ ID=49305
 Donjon
 
 ID=49306
-戦闘
+Bataille
 
 ID=49307
 Quêtes
@@ -14513,7 +14513,7 @@ ID=49451
 http://www.liongames.co.kr/
 
 ID=49452
-攻略サイト
+Sites Web
 
 ID=49453
 http://www.inven.co.kr/webzine/news/?news=107139&sw=%EC%86%8C%EC%9A%B8%EC%9B%8C%EC%BB%A4
@@ -14546,7 +14546,7 @@ ID=49499
 Menu
 
 ID=49500
-ヘルプをクリックすると確認できます。
+Vous pouvez obtenir des conseil en cliquant sur Aide.
 
 ID=49501
 Aide
@@ -14558,22 +14558,22 @@ ID=49601
 Passer la cinématique ?
 
 ID=49602
-クールタイム：残り{0}時間未満
+Tmp de Recharge : moins de {0} heures restantes
 
 ID=49603
-クールタイム：残り{0}時間
+Tmp de Recharge : {0} heures restantes
 
 ID=49604
 Le mode plein écran n'est pas disponible avec cette résolution.
 
 ID=49605
-サポート対象外の解像度です。
+Cette résolution n'est pas supportée.
 
 ID=49606
 Utiliser
 
 ID=49607
-不使用
+Ne pas utiliser
 
 ID=49608
 Groupe
@@ -14591,25 +14591,25 @@ ID=49612
 ゲームパッドを認識できません。ゲームパッドモードを解除します。
 
 ID=49613
-サーバーとの接続が切れました。\nもう一度ログインしてください。
+La connexion au serveur a été interrompue.\n Veuillez réessayer.
 
 ID=49614
-システムエラーによりサーバーと接続できません。
+Impossible de se connecter au serveur à cause d'une erreurs système.
 
 ID=49615
-該当サーバーにすでに接続しています。
+Vous êtes déjà connecté au serveur.
 
 ID=49616
-サーバーと接続が切れたか接続できない状態です。
+Impossible de se connecter au serveur, vous avez été déconnecté.
 
 ID=49617
-存在しないメイズです。
+Le donjon n'existe pas.
 
 ID=49618
-異常な領域または存在しない領域です。
+La zone n'existe pas.
 
 ID=49619
-移動するエリアを選択してください。
+Sélectionnez la zone où vous souhaitez vous rendre.
 
 ID=49620
 特殊文字・禁止語句が含まれています。
@@ -14621,7 +14621,7 @@ ID=49622
 Clavier
 
 ID=49623
-ウィンドウ解像度と同じか、それより大きな解像度には変更できません。
+Vous pouvez utiliser une résolution plus élevée que celle en cours.
 
 ID=49624
 Comment [Esquiver]
@@ -14639,7 +14639,7 @@ ID=49628
 Vidéo en cours. Veuillez patienter.
 
 ID=49629
-案内メッセージ
+Image de Profil
 
 ID=49630
 Autres Stats.
@@ -14723,7 +14723,7 @@ ID=49736
 Mot de passe incorrect.
 
 ID=49737
-登録パスワードと一致しません。\nもう一度入力してください。
+Mode de passe incorrect.\n Veuillez réessayer.
 
 ID=49780
 Définir maintenant
@@ -14786,7 +14786,7 @@ ID=49926
 {0}/{1}
 
 ID=49927
-オペレーター
+Opérateur
 
 ID=49928
 [{0}]スペシャルミッション報酬支給
@@ -14807,13 +14807,13 @@ ID=49933
 [{0}]の敵を[{1}]で{2}回討伐
 
 ID=49934
-[{0}]をSSランクで{1}回クリア
+[{0}] Terminé {1] fois. avec le rang SS.
 
 ID=49935
 [{0}]を{1}分以内に{2}回クリア
 
 ID=49936
-[{0}]を{1}回クリア
+[{0}] Terminé {1] fois.
 
 ID=49937
 自分とLv{0}差のプレイヤー{1}名とパーティーを組み、[{2}]を{3}回クリア
@@ -15671,7 +15671,7 @@ ID=53001
 メイズ内部にいるプレイヤーは、パーティーに招待できません。
 
 ID=53002
-パーティーリーダーではありません。
+Vous n'êtes pas chef de groupe.
 
 ID=53003
 自分自身を選択しました。
@@ -15713,7 +15713,7 @@ ID=53015
 すでにパーティー招待要請中です。
 
 ID=53016
-該当パーティーに加入できません。
+Impossible de rejoindre de groupe.
 
 ID=53017
 メイズ内にメンバーがいる場合、パーティー招待ができません。
@@ -15851,7 +15851,7 @@ ID=55013
 メイズ入場レベルに達していないメンバーがいるため、入場できません。
 
 ID=55014
-ポータルが活性化されていません。
+Le portail n'est pas actif.
 
 ID=55015
 次のエリアへの移動に必要なメンバーが不足しています。
@@ -15950,28 +15950,28 @@ ID=55055
 パーティーメンバーが入場クエストを満たしていないため入場できません。
 
 ID=55101
-すでにフレンドに登録されたキャラクターです。
+Cette personne fait déjà parti de votre liste d'ami.
 
 ID=55102
-該当のプレイヤーはメイズ進行中です。メイズにいるプレイヤーはフレンド要請が制限されています。
+Ce joueur est en donjon et ne peut donc pas accepter de requête d'ami.
 
 ID=55103
-これ以上フレンドを登録できません。\nフレンド登録は最大50名までです。
+Vous ne pouvez plus ajouter d'amis.\nLe maximum est de 50 amis.
 
 ID=55104
 サーバー内に存在しないキャラクターです。
 
 ID=55105
-すでに遮断リストに登録されたキャラクターです。
+Ce personnage est déjà dans votre liste noire.
 
 ID=55106
-これ以上遮断リストに登録できません。\n遮断登録は最大50名までです。
+La limite de joueurs que vous pouvez bloquer est atteinte.\n 50 joueurs bloqués.
 
 ID=55107
-{0}がフレンド要請を拒否しました。
+{0} a refusé la demande d'ami.
 
 ID=55108
-{0}をフレンドリストから削除しました。
+Vous avez supprimé {0} de votre liste d'amis.
 
 ID=55109
 サーバー内に存在しないキャラクターです。
@@ -15986,22 +15986,22 @@ ID=55112
 推奨フレンド要請パケット時間がエラー(10分前にサーバーに更新が要請)
 
 ID=55113
-メイズではフレンドを追加できません。
+Impossible d'ajouter un ami lors d'un donjon.
 
 ID=55114
 相手がこれ以上フレンドを登録できません。
 
 ID=55115
-フレンドは遮断できません。
+Impossible de bloquer un ami.
 
 ID=55116
 {0}は遮断リストに登録されているため、ささやきを送れません。
 
 ID=55201
-同じ名前のＩＤが存在します。
+Ce nom est déjà utilisé.
 
 ID=55202
-使用可能なＩＤです。
+Ce nom est disponible.
 
 ID=55301
 受信者が存在しません。
@@ -16019,7 +16019,7 @@ ID=55305
 添付数が最大値を超過しました。
 
 ID=55306
-メールが削除されました。
+Le message a été effacé.
 
 ID=55307
 ジェニー所持量が最大値を超えました。
@@ -16034,7 +16034,7 @@ ID=55614
 ゲームマスターはメール送信ができません。
 
 ID=55615
-メールボックスがいっぱいです。
+La boite aux lettres est pleine.
 
 ID=55616
 インベントリリスト更新失敗
@@ -16067,10 +16067,10 @@ ID=56003
 使用レベルに達していません。
 
 ID=56004
-HPが不足しているため、スキルを使用できません。
+Vous n'avez pas assez de PV pour utiliser la compétence.
 
 ID=56005
-SGが不足しているため、スキルを使用できません。
+Vous n'avez pas assez de SG pour utiliser la compétence.
 
 ID=56006
  Endurance insuffisante, compétences indisponibles.
@@ -16079,13 +16079,13 @@ ID=56007
 Energie Spirituelle insuffisante, compétences indisponibles.
 
 ID=56008
-現在PARTY GISTが必要なPARTY GISTより少ない。
+Not enough PARTY GIST.
 
 ID=56009
 Vous ne pouvez pas utiliser cette compétence maintenant.
 
 ID=56010
-クールタイムにより、今は使用できません。
+Impossible d'utiliser une compétence en cours de recharge.
 
 ID=56011
 アクションデータが存在しません。
@@ -16142,7 +16142,7 @@ ID=57010
 ギルド加入に失敗しました。
 
 ID=57011
-ギルド作成に失敗しました。
+Échec de création de la guilde.
 
 ID=57012
 レベルが低いため、ギルドを設立できません。\nギルド設立可能レベル：20
@@ -16151,7 +16151,7 @@ ID=57013
 費用が足りないため、ギルドを設立できません。\nギルド設立費用：100,000ジェニー
 
 ID=57014
-ギルド削除に失敗しました。
+Échec de suppression de la guilde.
 
 ID=57015
 Vous n'êtes plus chef de guilde.
@@ -16541,7 +16541,7 @@ ID=60135
 段階
 
 ID=60136
-記録
+Classement
 
 ID=60137
 Classement Ami

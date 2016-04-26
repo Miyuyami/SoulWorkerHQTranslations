@@ -7,43 +7,43 @@ null
 
 ID=11
 Attaque de Base I
-[スキル情報]\n剣で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法：地上]\nマウス：(左クリック)×4\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×2
-SG獲得量が20%増加する。\n分岐攻撃Aを使用できる。
+[Infos]\nAttaque à l'épée.\nNouveaux enchaînements disponible à chaque gain de niveau.\nGain de SG en attaquant.\nLe gain de SG varie selon le type d'ennemi.\n\n[Usage: Sol]\nSouris: (Clic-G)×4\n\n[Usage: Air]\nSouris: Lors d'un saut (Clic-G)×2
+Gain SG +20%.\nDébloque Attaque Supplémentaire "A".
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=21
 Attaque de Base II
-[スキル情報]\n剣で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\nSG獲得量が[20%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×4\n[2](左クリック)×2-(右クリック)×2\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×2
-SG獲得量：[20%]+50%\n基本攻撃の追加攻撃を使用できる。
+[Infos]\nAttaque à l'épée.\nNouveaux enchaînements disponible à chaque gain de niveau.\nGain de SG en attaquant.\nLe gain de SG varie selon le type d'ennemi.\n\nGain de SG +20%\n\n[Usage: Sol]\nSouris:n[1] (Clic-G)×4\n[2] (Clic-G)×2 - (Clic-D)×2\n\n[Usage: Air]\nSouris: Lors d'un saut (Clic-G)×2
+Gain SG [20%]+50%.\nDébloque Attaque de base supplémentaire.
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=31
 Attaque de Base III
-[スキル情報]\n剣で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\nSG獲得量が[70%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×5\n[2](左クリック)×2-(右クリック)×2\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×2
-SG獲得量：[70%]+50%\n分岐攻撃Bを使用できる。\n空中攻撃の追加攻撃を使用できる。
+[Infos]\nAttaque à l'épée.\nNouveaux enchaînements disponible à chaque gain de niveau.\nGain de SG en attaquant.\nLe gain de SG varie selon le type d'ennemi.\n\nGain de SG +70%\n\n[Usage: Sol]\nSouris:n[1] (Clic-G)×5\n[2] (Clic-G)×2 - (Clic-D)×2\n\n[Usage: Air]\nSouris: Lors d'un saut (Clic-G)×2
+Gain SG [70%]+50%.\nDébloque Attaque supplémentaire "B".\nDébloque attaque aérienne supplémentaire.
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=41
 Attaque de Base IV
-[スキル情報]\n剣で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\nSG獲得量が[120%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×5\n[2](左クリック)×2-(右クリック)×2\n[3](左クリック)×3-(右クリック)×3\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×3
-SG獲得量：[120%]+80%\n分岐攻撃Cを使用できる。
+[Infos]\nAttaque à l'épée.\nNouveaux enchaînements disponible à chaque gain de niveau.\nGain de SG en attaquant.\nLe gain de SG varie selon le type d'ennemi.\n\nGain de SG +120%\n\n[Usage: Sol]\nSouris:n[1] (Clic-G)×5\n[2] (Clic-G)×2 - (Clic-D)×2\n[3] (Clic-G)×3 - (Clic-D)×3\n\n[Usage: Air]\nSouris: Lors d'un saut (Clic-G)×3
+Gain SG [120%]+80%.\nDébloque Attaque supplémentaire "C".
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=51
 Attaque de Base V
-[スキル情報]\n剣で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\nSG獲得量が[200%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×5\n[2](左クリック)×2-(右クリック)×2\n[3](左クリック)×3-(右クリック)×3\n[4](左クリック)×2-(右クリック)-(右クリック長押し)\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×3
-NivMax
+[Infos]\nAttaque à l'épée.\nNouveaux enchaînements disponible à chaque gain de niveau.\nGain de SG en attaquant.\nLe gain de SG varie selon le type d'ennemi.\n\nGain de SG +200%\n\n[Usage: Sol]\nSouris:n[1] (Clic-G)×5\n[2] (Clic-G)×2 - (Clic-D)×2\n[3] (Clic-G)×3 - (Clic-D)×3\n[4] (Clic-G)×2 - (Clic-D) - (Clic-D[Maintenir])\n\n[Usage: Air]\nSouris: Lors d'un saut (Clic-G)×3
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=111
 Capacité Spéciale I
-[スキル情報：地上]\nダメージ量：[175%]\nSA破壊量：[140%]\n\n[スキル情報：空中]\nダメージ量：[229%]\nSA破壊量：[170%]\n\n[スキル情報：一般]\nクールタイム：[10秒]\n攻撃時、SGを獲得。\nSG獲得量はモンスター等級に応じて増加する。\n\n異能力により一定範囲内の敵を宙に浮かせ、動きを遅くする。\n空中で使用時、素早く蹴り攻撃を繰り出して着地する。\n\n[操作方法：地上]\nマウス：(右クリック)\n\n[操作方法：空中]\nマウス：ジャンプ後(右クリック)
-[地上]\nダメージ量：[175%]+9%\nSA破壊量：[140%]+7%\n\n[空中]\nダメージ量：[229%]+12%\nSA破壊量：[170%]+8%\n浮かし攻撃の高さが若干増加する。\n\n[共通]\nSG獲得量が20%増加する。
+[Infos: Sol]\nDégâts: [175%]\nDégâts SA: [140%]\n\n[Infos: Air]\nDégâts:[229%]\nDégâts SA: [170%]\n\n[Infos: Générales]\nTps Recharge: 10s\nGain de SG.\nLe gain de SG varie selon le type d'ennemi.\n\nEnvoi l'ennemi en l'air.\n\n[Usage: Sol]\nSouris: (Clic-D)\n\n[Usage: Air]\nSouris: Lors d'un saut (Clic-D)
+[Sol]\nDégâts: [175%]+9%\nDégâts SA: [140%]+7%\n\n[Air]\nDégâts: [229%]+12%\nDégâts SA: [170%]+8%\nMaintient l'ennemi en l'air plus longtemps.\n\n[Général]\nGain SG +20%.
 Icon/Skill/SoulumSword/Icon_SSword_Skill_OwnAbility
 0
 
@@ -56,8 +56,8 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 
 ID=121
 Capacité Spéciale II
-[スキル情報：地上]\nダメージ量：[184%]\nSA破壊量：[147%]\n\n[スキル情報：空中]\nダメージ量：[241%]\nSA破壊量：[178%]\n\n[スキル情報：一般]\nクールタイム：[10秒]\n攻撃時、SG獲得量が[20%]増加する。\nSG獲得量はモンスター等級に応じて増加する。\n\n異能力により一定範囲内の敵を宙に浮かせ、動きを遅くする。\n空中で使用時、素早く蹴り攻撃を繰り出して着地する。\n\n[操作方法：地上]\nマウス：(右クリック)\n\n[操作方法：空中]\nマウス：ジャンプ後(右クリック)
-[地上]\nダメージ量：[184%]+22%\nSA破壊量：[147%]+18%\n\n[空中]\nダメージ量：[241%]+29%\nSA破壊量：[178%]+22%\n浮かし攻撃の高さが若干増加する。\n\n[共通]\nSG獲得量：[20%]+50%
+[Infos: Sol]\nDégâts: [184%]\nDégâts SA: [147%]\n\n[Infos: Air]\nDégâts:[241%]\nDégâts SA: [178%]\n\n[Infos: Générales]\nTps Recharge: 10s\nGain SG +20%.\nLe gain de SG varie selon le type d'ennemi.\n\nMaintient l'ennemi en l'air plus longtemps.\n\n[Usage: Sol]\nSouris: (Clic-D)\n\n[Usage: Air]\nSouris: Lors d'un saut (Clic-D)
+[Sol]\nDégâts: [184%]+22%\nDégâts SA: [147%]+18%\n\n[Air]\nDégâts: [241%]+29%\nDégâts SA: [178%]+22%\nMaintient l'ennemi en l'air plus longtemps.\n\n[Général]\nGain SG [+20%.]+50%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_OwnAbility
 0
 
@@ -70,8 +70,8 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 
 ID=131
 Capacité Spéciale III
-[スキル情報：地上]\nダメージ量：[206%]\nSA破壊量：[165%]\n\n[スキル情報：空中]\nダメージ量：[270%]\nSA破壊量：[200%]\n\n[スキル情報：一般]\nクールタイム：[10秒]\n攻撃時、SG獲得量が[70%]増加する。\nSG獲得量はモンスター等級に応じて増加する。\n\n異能力により一定範囲内の敵を宙に浮かせ、動きを遅くする。\n空中で使用時、素早く蹴り攻撃を繰り出して着地する。\n\n[操作方法：地上]\nマウス：(右クリック)\n\n[操作方法：空中]\nマウス：ジャンプ後(右クリック)
-NivMax
+[Infos: Sol]\nDégâts: [206%]\nDégâts SA: [165%]\n\n[Infos: Air]\nDégâts:[270%]\nDégâts SA: [200%]\n\n[Infos: Générales]\nTps Recharge: 10s\nGain SG +70%.\nLe gain de SG varie selon le type d'ennemi.\n\nEnvoi l'ennemi en l'air.\n\n[Usage: Sol]\nSouris: (Clic-D)\n\n[Usage: Air]\nSouris: Lors d'un saut (Clic-D)
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_OwnAbility
 0
 
@@ -84,35 +84,35 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 
 ID=211
 Maîtrise Arme Secondaire
-[スキル情報]\n敵に100%のダメージを与える。\n\n短剣を素早く前方に飛ばし、敵を出血状態にする。\n地上と空中で使用可能。地上で使用時、サブウェポン入力ボタンで短剣を投げるタイミングを調節できる。
-Ne peut être acquis.
+[nfos]\nInglige 100% de dégâts à l'ennemi.\n\nInflige Saignement.\nUtilisable au sol et en l'air. Use the sub-weapon button to control the timing of the throw on ground.
+Ne peut être apprise actuellement.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=221
 Maîtrise Arme Secondaire
-[スキル情報]\n敵に100%のダメージを与える。\n\n短剣を素早く前方に飛ばし、敵を出血状態にする。\n地上と空中で使用可能。地上で使用時、サブウェポン入力ボタンで短剣を投げるタイミングを調節できる。
-Ne peut être acquis.
+[nfos]\nInglige 100% de dégâts à l'ennemi.\n\nInflige Saignement.\nUtilisable au sol et en l'air. Use the sub-weapon button to control the timing of the throw on ground.
+Ne peut être apprise actuellement.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=231
 Maîtrise Arme Secondaire
-[スキル情報]\n敵に100%のダメージを与える。\n\n短剣を素早く前方に飛ばし、敵を出血状態にする。\n地上と空中で使用可能。地上で使用時、サブウェポン入力ボタンで短剣を投げるタイミングを調節できる。
-NivMax
+[nfos]\nInglige 100% de dégâts à l'ennemi.\n\nInflige Saignement.\nUtilisable au sol et en l'air. Use the sub-weapon button to control the timing of the throw on ground.
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=1041
 Esquive I
-[スキル情報]\nスタミナ消費量：[20]\n\n指定した方向に素早く移動する。\n緊急回避中はダメージを受けない。\n\n[操作方法]\nマウス：\n[1](移動キー)+(Shiftキー)\n[2](移動キー)二回入力
-NivMax
+[Info]\nEndurance: [20]\n\nEsquive dans une directon.\nNe subît pas de dégâts lors d'une esquive.\n\nUsage\nSouris:\n[1] (Touche Direction) + (MAJ)\n[2] (Touche Direction) x2.
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=1081
 Roulade I
-[スキル情報]\nスタミナ消費量：[25]\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
+[Info]\nEndurance: [25]\n\nRelevez vous en roulant dans une direction.\nNu subît pas de dégâts lors d'une roulade.\n\n[Usage]\nMouse: à terre (Touche Direction) + (MAJ)
 スタミナ消費量：[25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -127,7 +127,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 ID=1083
 Roulade III
 [スキル情報]\nスタミナ消費量：[15]\n少し早く回転起床ができる。\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
@@ -141,7 +141,7 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 ID=1102
 Sprint II
 前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
@@ -162,14 +162,14 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 ID=1073
 Réaction III
 [スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[20]\nクールタイム：[15秒]\nスキル使用後3秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=1111
 Ruée I
 [スキル情報]\nダメージ量：[116%]\nSA破壊量：[46%]\n\nダッシュ中に剣を大きく振り敵を押し出す。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(左クリック)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
 
@@ -190,14 +190,14 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 ID=1053
 Esquive Améliorée III
 [スキル情報]\nスタミナ消費量：[40]\nクールタイム：[40秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=1121
-特殊ダッシュアタックⅠ
+Charge I
 [スキル情報]\nダメージ量：[206%]\nSA破壊量：[92%]\nクールタイム：[5秒]\n\nダッシュ中に前方にジャンプして回転斬り攻撃を繰り出す。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(右クリック)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
 
@@ -218,14 +218,14 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 ID=1063
 Rétablissement III
 [スキル情報]\nノックダウン脱出使用時、スタミナを25消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=1131
 Lame Vengeresse
 [スキル情報]\n通常攻撃命中時、SGを回復する。\n一定時間ごとに自動でSGを回復する。
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
 
@@ -237,16 +237,16 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
 0
 
 ID=1142
-Lutte Sans Fin 
+Lutte Sans Fin II
 [スキル情報]\nパッシブ効果：攻撃力[10%]増加\n\n攻撃力が増加する。
 攻撃力増加：[10%]+5%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
 0
 
 ID=1143
-果てなき闘争Ⅲ
+Lutte Sans Fin III
 [スキル情報]\nパッシブ効果：攻撃力[15%]増加\n\n攻撃力が増加する。
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
 0
 
@@ -281,7 +281,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 ID=1155
 Endurance V
 [スキル情報]\nパッシブ効果：スタミナ回復量[50%]増加\n\nスタミナ回復量が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
@@ -316,7 +316,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 ID=11025
 Lame Rapide V
 [スキル情報：基本攻撃]\nダメージ量：[541%]\nSA破壊量：[290%]\n\n[スキル情報：追加攻撃]\nダメージ量：[339%]\nSA破壊量：[181%]\n\n[スキル情報：一般]\nSG消費量：[55]\nクールタイム：[15秒]\n\n素早く前進し、連続攻撃を繰り出す。\nその後、追加操作により最後に斬り上げ攻撃を行う。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 0
 
@@ -351,7 +351,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 ID=11045
 Frappe Pénétrante V
 [スキル情報]\nダメージ量：[124%]\nSA破壊量：[495%]\nSG消費量：[30]\nクールタイム：[8秒]\n\n前方に素早く突進して敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
@@ -386,7 +386,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 ID=11125
 Frappe Tranchante V
 [スキル情報]\nダメージ量：[267%]\nSA破壊量：[138%]\nSG消費量：[35]\nクールタイム：[5秒]\n\n体を素早く回転させ、前方の敵を連続で攻撃しながら押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
@@ -421,7 +421,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 ID=11135
 Dépassement V
 [スキル情報]\nバフ効果：スタミナ消費量[80%]減少\nバフ持続時間：[15秒]\nSG消費量：[80]\nクールタイム：[45秒]\n\n異能力の力で身体を強化し、一時的にスタミナ消費量を減少させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 0
 
@@ -456,7 +456,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 ID=11035
 Frappe Sismique V
 [スキル情報]\nダメージ量：[318%]\nSA破壊量：[666%]\nSG消費量：[45]\nクールタイム：[16秒]\n\n剣を地面に突き刺し、異能力の剣を召喚して連続攻撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
 
@@ -491,7 +491,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeWall
 ID=11085
 Mur de Lame V
 [スキル情報]\nダメージ量：[224%]\nSA破壊量：[465%]\nSG消費量：[40]\nクールタイム：[12秒]\n\n前方に異能力の大剣を召喚し、敵にダメージを与えながらプレイヤーの前に引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeWall
 0
 
@@ -526,7 +526,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_PowerSlash
 ID=11015
 Entaille V
 [スキル情報]\nダメージ量：[683%]\nSA破壊量：[394%]\nSG消費量：[60]\nクールタイム：[15秒]\n\n前方に渾身の力を込めた一撃を放つ。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PowerSlash
 0
 
@@ -561,7 +561,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack
 ID=11055
 Frappe Bondissante V
 [スキル情報]\nダメージ量：[588%]\nSA破壊量：[943%]\nSG消費量：[50]\nクールタイム：[20秒]\n\n前方にジャンプし、そのまま地面を強打して敵を浮かせる。チャージ（スキルボタン長押し）時間に応じてジャンプ可能距離が増加する。\n\n[操作方法]\nスキルスロットに登録して該当キーを長押し
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack
 0
 
@@ -596,77 +596,77 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush
 ID=11075
 アリーナラッシュⅤ
 [スキル情報]\nダメージ量：[100%]\nSA破壊量：[100%]\nバフ効果：攻撃力[20%]増加\nバフ持続時間：[20秒]\nバフエリア持続時間：[10秒]\nSG消費量：[50]\nクールタイム：[45秒]\n\n一定範囲に能力強化エリアを作り出す。エリアは、範囲内にいる自分及びパーティーメンバーの攻撃力を上昇させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush
 0
 
 ID=11091
-フラッシュステップⅠ
+Retraite Éclair I
 [スキル情報]\nダメージ量：[468%]\nSA破壊量：[605%]\nSG消費量：[35]\nクールタイム：[20秒]\n\n素早く後ろに回避し、異能力を付与した剣を前方に飛ばす。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 ダメージ量：[468%]+23%\nSA破壊量：[605%]+30%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 0
 
 ID=11092
-フラッシュステップⅡ
+Retraite Éclair II
 [スキル情報]\nダメージ量：[491%]\nSA破壊量：[635%]\nSG消費量：[35]\nクールタイム：[20秒]\n\n素早く後ろに回避し、異能力を付与した剣を前方に飛ばす。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 ダメージ量：[491%]+59%\nSA破壊量：[635%]+75%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 0
 
 ID=11093
-フラッシュステップⅢ
+Retraite Éclair III
 [スキル情報]\nダメージ量：[550%]\nSA破壊量：[710%]\nSG消費量：[35]\nクールタイム：[20秒]\n\n素早く後ろに回避し、異能力を付与した剣を前方に飛ばす。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 ダメージ量：[550%]+58%\nSA破壊量：[710%]+76%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 0
 
 ID=11094
-フラッシュステップⅣ
+Retraite Éclair IV
 [スキル情報]\nダメージ量：[608%]\nSA破壊量：[786%]\nSG消費量：[35]\nクールタイム：[20秒]\n\n素早く後ろに回避し、異能力を付与した剣を前方に飛ばす。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 ダメージ量：[608%]+94%\nSA破壊量：[786%]+121%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 0
 
 ID=11095
-フラッシュステップⅤ
+Retraite Éclair V
 [スキル情報]\nダメージ量：[702%]\nSA破壊量：[907%]\nSG消費量：[35]\nクールタイム：[20秒]\n\n素早く後ろに回避し、異能力を付与した剣を前方に飛ばす。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 0
 
 ID=11111
-クロスストライクⅠ
+Frappe Aérienne I
 [スキル情報]\nダメージ量：[135%]\nSA破壊量：[102%]\nSG消費量：[45]\nクールタイム：[30秒]\n5秒間、追加ダメージを与える火炎地帯を生成。\n火炎地帯ダメージ量：1秒あたり[108%]\n火炎地帯SA破壊量1秒あたり：[82%]\n\n空中で十字に剣を振り強力な剣気を飛ばす。剣気は地面で爆発すると火炎地帯を作り出し、エリア内にいる敵に追加ダメージを与える。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量：[135%]+7%\nSA破壊量：[102%]+5%\n火炎地帯ダメージ量：[108%]+5%\n火炎地帯SA破壊量：[82%]+3%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
 
 ID=11112
-クロスストライクⅡ
+Frappe Aérienne II
 [スキル情報]\nダメージ量：[142%]\nSA破壊量：[107%]\nSG消費量：[45]\nクールタイム：[30秒]\n5秒間、追加ダメージを与える火炎地帯を生成。\n火炎地帯ダメージ量：1秒あたり[113%]\n火炎地帯SA破壊量1秒あたり：[85%]\n\n空中で十字に剣を振り強力な剣気を飛ばす。剣気は地面で爆発すると火炎地帯を作り出し、エリア内にいる敵に追加ダメージを与える。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量：[142%]+17%\nSA破壊量：[107%]+13%\n火炎地帯ダメージ量：[113%]+14%\n火炎地帯SA破壊量：[85%]+11%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
 
 ID=11113
-クロスストライクⅢ
+Frappe Aérienne III
 [スキル情報]\nダメージ量：[159%]\nSA破壊量：[120%]\nSG消費量：[45]\nクールタイム：[30秒]\n5秒間、追加ダメージを与える火炎地帯を生成。\n火炎地帯ダメージ量：1秒あたり[127%]\n火炎地帯SA破壊量1秒あたり：[96%]\n\n空中で十字に剣を振り強力な剣気を飛ばす。剣気は地面で爆発すると火炎地帯を作り出し、エリア内にいる敵に追加ダメージを与える。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量：[159%]+17%\nSA破壊量：[120%]+13%\n火炎地帯ダメージ量：[127%]+14%\n火炎地帯SA破壊量：[96%]+10%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
 
 ID=11114
-クロスストライクⅣ
+Frappe Aérienne IV
 [スキル情報]\nダメージ量：[176%]\nSA破壊量：[133%]\nSG消費量：[45]\nクールタイム：[30秒]\n5秒間、追加ダメージを与える火炎地帯を生成。\n火炎地帯ダメージ量：1秒あたり[141%]\n火炎地帯SA破壊量1秒あたり：[106%]\n\n空中で十字に剣を振り強力な剣気を飛ばす。剣気は地面で爆発すると火炎地帯を作り出し、エリア内にいる敵に追加ダメージを与える。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量：[159%]+27%\nSA破壊量：[120%]+20%\n火炎地帯ダメージ量：[127%]+21%\n火炎地帯SA破壊量：[96%]+16%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
 
 ID=11115
-クロスストライクⅤ
+Frappe Aérienne V
 [スキル情報]\nダメージ量：[203%]\nSA破壊量：[153%]\nSG消費量：[45]\nクールタイム：[30秒]\n5秒間、追加ダメージを与える火炎地帯を生成。\n火炎地帯ダメージ量：1秒あたり[162%]\n火炎地帯SA破壊量1秒あたり：[122%]\n\n空中で十字に剣を振り強力な剣気を飛ばす。剣気は地面で爆発すると火炎地帯を作り出し、エリア内にいる敵に追加ダメージを与える。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
 
@@ -701,70 +701,70 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_WindBreak
 ID=11065
 ウィンドブレイクⅤ
 [スキル情報]\nダメージ量：攻撃1回あたり[250%]\nSA破壊量：[575%]\nSG消費量：[50]\nクールタイム：[35秒]\n\n力を溜め、素早く剣気を飛ばして敵を押し出す。剣気は敵を押し出しながら持続的にダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_WindBreak
 0
 
 ID=11101
-ブレードシャワーⅠ
+Pluie de Lames I
 [スキル情報]\nダメージ量：[1678%]\nSA破壊量：[1721%]\nSG消費量：[75]\nクールタイム：[45秒]\n\n前方空中に剣を投げ、強力な剣の雨を発生させる。剣の雨は広範囲に降り注ぐ。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 ダメージ量：[1678%]+83%\nSA破壊量：[1721%]+87%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeShower
 0
 
 ID=11102
-ブレードシャワーⅡ
+Pluie de Lames II
 [スキル情報]\nダメージ量：[1761%]\nSA破壊量：[1808%]\nSG消費量：[75]\nクールタイム：[45秒]\n\n前方空中に剣を投げ、強力な剣の雨を発生させる。剣の雨は広範囲に降り注ぐ。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 ダメージ量：[1761%]+210%\nSA破壊量：[1808%]+215%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeShower
 0
 
 ID=11103
-ブレードシャワーⅢ
+Pluie de Lames III
 [スキル情報]\nダメージ量：[1971%]\nSA破壊量：[2023%]\nSG消費量：[75]\nクールタイム：[45秒]\n\n前方空中に剣を投げ、強力な剣の雨を発生させる。剣の雨は広範囲に降り注ぐ。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 ダメージ量：[1971%]+210%\nSA破壊量：[2023%]+215%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeShower
 0
 
 ID=11104
-ブレードシャワーⅣ
+Pluie de Lames IV
 [スキル情報]\nダメージ量：[2181%]\nSA破壊量：[2238%]\nSG消費量：[75]\nクールタイム：[45秒]\n\n前方空中に剣を投げ、強力な剣の雨を発生させる。剣の雨は広範囲に降り注ぐ。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 ダメージ量：[2181%]+335%\nSA破壊量：[2238%]+344%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeShower
 0
 
 ID=11105
-ブレードシャワーⅤ
+Pluie de Lames V
 [スキル情報]\nダメージ量：[2516%]\nSA破壊量：[2582%]\nSG消費量：[75]\nクールタイム：[45秒]\n\n前方空中に剣を投げ、強力な剣の雨を発生させる。剣の雨は広範囲に降り注ぐ。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeShower
 0
 
 ID=11811
 ブレイク_ピーク
 -
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BreakZenith
 Skill/Icon_SSword_Skill_BreakZenith
 
 ID=11911
-イロージョンⅠ
+Erosion I
 [スキル情報]\n60秒間、覚醒状態になる。\n-攻撃力が20%増加する。\n-受けるダメージ量が50%減少する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nマウス：数字キー「7」入力
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BreakErode
 Description_Image/Skill/SoulumSword/Image_SSword_Break_Erode
 
 ID=12
 Attaque de Base I
 [スキル情報]\n銃で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法：地上]\nマウス：(左クリック)×5\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×2
-SG獲得量が20%増加する。\n分岐攻撃Aを使用できる。
+Gain SG +20%.\nDébloque Attaque Supplémentaire "A".
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=22
 Attaque de Base II
 [スキル情報]\n銃で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\nSG獲得量が[20%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×5\n[2](左クリック)×2-(右クリック)×2\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×2
-SG獲得量：[20%]+50%\n基本攻撃の追加攻撃を使用できる。
+Gain SG [20%]+50%.\nDébloque Attaque de base supplémentaire.
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
@@ -785,7 +785,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 ID=52
 Attaque de Base V
 [スキル情報]\n銃で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\nSG獲得量が[200%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×6\n[2](左クリック)×2-(右クリック)×2\n[3](左クリック)×5-(右クリック)\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×3
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
@@ -820,7 +820,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 ID=132
 Capacité Spéciale III
 [スキル情報：地上]\nダメージ量：[202%]\nデバフ効果：移動速度[60%]減少\nデバフ持続時間：[5秒]\nSA破壊量：[90%]\n同時に最大2個まで設置可能。\n\n[スキル情報：空中]\nダメージ量：[321%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[143]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n攻撃時、SG獲得量が[70%]増加する。\nSG獲得量はモンスター等級に応じて増加する。\n\n前方にスロー効果を付与するトラップを投げて設置する。空中で使用時、地面に向かって電気波を放ち、敵を麻痺させる。\n\n[操作方法：地上]\nマウス：(右クリック)\n\n[操作方法：空中]\nマウス：ジャンプ後(右クリック)
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_OwnAbility
 0
 
@@ -834,34 +834,34 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 ID=212
 Maîtrise Arme Secondaire
 [スキル情報]\n敵に100%のダメージを与える。\n\n敵に付着後、爆発するトラップを発射する。付着した対象へは命中度が100%増加する。付着したトラップは5秒後に爆発する。
-Ne peut être acquis.
+Ne peut être apprise actuellement.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=222
 Maîtrise Arme Secondaire
 [スキル情報]\n敵に100%のダメージを与える。\n\n敵に付着後、爆発するトラップを発射する。付着した対象へは命中度が100%増加する。付着したトラップは5秒後に爆発する。
-Ne peut être acquis.
+Ne peut être apprise actuellement.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=232
 Maîtrise Arme Secondaire
 [スキル情報]\n敵に100%のダメージを与える。\n\n敵に付着後、爆発するトラップを発射する。付着した対象へは命中度が100%増加する。付着したトラップは5秒後に爆発する。
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=2041
 Esquive I
-[スキル情報]\nスタミナ消費量：[20]\n\n指定した方向に素早く移動する。\n緊急回避中はダメージを受けない。\n\n[操作方法]\nマウス：\n[1](移動キー)+(Shiftキー)\n[2](移動キー)二回入力
-NivMax
+[Info]\nEndurance: [20]\n\nEsquive dans une directon.\nNe subît pas de dégâts lors d'une esquive.\n\nUsage\nSouris:\n[1] (Touche Direction) + (MAJ)\n[2] (Touche Direction) x2.
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=2081
 Roulade I
-[スキル情報]\nスタミナ消費量：[25]\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
+[Info]\nEndurance: [25]\n\nRelevez vous en roulant dans une direction.\nNu subît pas de dégâts lors d'une roulade.\n\n[Usage]\nMouse: à terre (Touche Direction) + (MAJ)
 スタミナ消費量：[25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -876,7 +876,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 ID=2083
 Roulade III
 [スキル情報]\nスタミナ消費量：[15]\n少し早く回転起床ができる。\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
@@ -890,7 +890,7 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 ID=2102
 Sprint II
 前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
@@ -911,14 +911,14 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 ID=2073
 Réaction III
 [スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[20]\nクールタイム：[15秒]\nスキル使用後3秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=2111
 Ruée I
 [スキル情報]\nダメージ量：[102%]\nSA破壊量：[54%]\n\nダッシュ中に空中で体を回転させ、とび蹴りをする。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(左クリック)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
 
@@ -939,14 +939,14 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 ID=2053
 Esquive Améliorée III
 [スキル情報]\nスタミナ消費量：[40]\nクールタイム：[40秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=2121
-特殊ダッシュアタックⅠ
+Charge I
 [スキル情報]\nダメージ量：[271%]\nSA破壊量：[121]\nクールタイム：[5秒]\n\nダッシュ中に前方へ滑りながら、敵に接近して近接射撃を行う。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(右クリック)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
 
@@ -967,14 +967,14 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 ID=2063
 Rétablissement III
 [スキル情報]\nノックダウン脱出使用時、スタミナを25消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=2131
 快楽の弾丸Ⅰ
 [スキル情報]\n通常攻撃命中時、SGを回復する。\n一定時間ごとに自動でSGを回復する。\nスキル使用後、5秒以内に別のスキルを使用すると重複され、3重複するごとにSGを2回復する。
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
 
@@ -995,7 +995,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_SGPassive
 ID=2143
 意外な幸運Ⅲ
 [スキル情報]\nパッシブ効果：回避度[300]増加\n\n回避度が増加する。
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SGPassive
 0
 
@@ -1030,7 +1030,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 ID=2155
 Endurance V
 [スキル情報]\nパッシブ効果：スタミナ回復量[50%]増加\n\nスタミナ回復量が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
@@ -1065,7 +1065,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh
 ID=12015
 スカイハイⅤ
 [スキル情報]\nダメージ量：[175%]\nSA破壊量：[233%]\nSG消費量：[1]\nクールタイム：[5秒]\n\n前方の敵をその場で蹴り上げ、高く浮かせる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh
 0
 
@@ -1100,7 +1100,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_RapidFire
 ID=12025
 ラピッドファイアⅤ
 [スキル情報]\nダメージ量：[237%]\nSA破壊量：[187%]\nSG消費量：[2]\nクールタイム：[10秒]\n\n二丁の銃で前方を素早く連続射撃する。スキル使用中に移動可能。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_RapidFire
 0
 
@@ -1135,7 +1135,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_SlideStep
 ID=12035
 スライドステップⅤ
 [スキル情報]\nダメージ量：[194%]\nSA破壊量：[197%]\nSG消費量：[1]\nクールタイム：[5秒]\n\n素早く後ろにスライドしながら攻撃を回避する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SlideStep
 0
 
@@ -1170,7 +1170,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_TakeAim
 ID=12135
 テイクエイムⅤ
 [スキル情報]\nバフ効果：敵の防御度貫通[20%]増加\nバフ持続時間：[20秒]\nSG消費量：[4]\nクールタイム：[45秒]\n\n一時的に集中力を向上させ、敵の弱点を狙う。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_TakeAim
 0
 
@@ -1205,7 +1205,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot
 ID=12045
 フォーカスショットⅤ
 [スキル情報]\nダメージ量：攻撃1回あたり[88%]\nSA破壊量：攻撃1回あたり[51%]\nSG消費量：[3]\nクールタイム：[15秒]\n\n武器をマシンガン形態に変形させ、\nその場で前方に素早く連射する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック長押し)
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot
 0
 
@@ -1240,7 +1240,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_GunCombination
 ID=12055
 ガンコンビネーションⅤ
 [スキル情報]\nダメージ量：[294%]\nSA破壊量：[158%]\nSG消費量：[2]\nクールタイム：[8秒]\n\n前方の敵に素早く近づき、近接連射攻撃を繰り出す。\n発射された弾丸は分散するため、\n一番近い敵にもっとも大きなダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GunCombination
 0
 
@@ -1275,7 +1275,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_CombatMaster
 ID=12065
 コンバットマスターⅤ
 [スキル情報]\nダメージ量：[364%]\nSA破壊量：[199%]\nSG消費量：[2]\nクールタイム：[10秒]\n\n素早く前進し、近接射撃攻撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_CombatMaster
 0
 
@@ -1310,7 +1310,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_GuidedShot
 ID=12075
 ガイデッドショットⅤ
 [スキル情報]\nダメージ量：[522%]\nSA破壊量：[580%]\nチャージ時、ダメージ量とSA破壊量が1.5倍に増加し、最大で2.25倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[3]\nクールタイム：[25秒]\n\n武器をスナイパーライフル形態に変形させた後、前方に強力な一撃を放つ。攻撃は貫通効果を持っており、直線上にいる敵に同一ダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを長押し
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GuidedShot
 0
 
@@ -1345,7 +1345,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_ElectricShot
 ID=12085
 エレクトリックショットⅤ
 [スキル情報]\nダメージ量：[257%]\nSA破壊量：[1032%]\nSG消費量：[3]\nクールタイム：[20秒]\n\n武器をグレネードランチャー形態に変形させ、前方に強力な榴弾を発射する。榴弾は着弾地点で炸裂し、周辺の敵にダメージを与える。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_ElectricShot
 0
 
@@ -1380,7 +1380,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_NapalmBomb
 ID=12125
 ナパームボムⅤ
 [スキル情報]\nダメージ量：攻撃1回あたり[26%]\nデバフ効果：火傷(1秒ごとに[15%]HP減少)\nデバフ持続時間：[3秒]\nSA破壊量：攻撃1回あたり[198%]\nSG消費量：[4]\nクールタイム：[20秒]\n\n空中で武器をグレネードランチャー形態に変形させ、地上広範囲を爆撃する。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_NapalmBomb
 0
 
@@ -1415,7 +1415,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter
 ID=12095
 スプリンターⅤ
 [スキル情報]\nバフ効果：移動速度[20%]増加\nバフ持続時間：[20秒]\nSG消費量：[4]\nクールタイム：[45秒]\n\n空中に自分とパーティーメンバーの移動速度を増加させる弾を発射し、一定時間移動速度を増加させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter
 0
 
@@ -1450,7 +1450,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_Hide
 ID=12105
 ハイドアンドシークⅤ
 [スキル情報]\nダメージ量：[150%]\nバフ効果：無敵\nバフ持続時間：[2秒]\nSA破壊量：[500%]\nSG消費量：[5]\nクールタイム：[60秒]\n\n瞬間的にバリアを生成し、一時的にダメージを受けない状態になる。バリア発動時、周辺の敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Hide
 0
 
@@ -1485,35 +1485,35 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_SoulLauncher
 ID=12115
 ソウルランチャーⅤ
 [スキル情報]\nダメージ量：[2914%]\nSA破壊量：[2823%]\nSG消費量：[5]\nクールタイム：[45秒]\n\nグレネードランチャーを生成し、前方10m地点まで強力な砲撃を行う。攻撃が当たった敵は押し出される。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SoulLauncher
 0
 
 ID=12811
 ブレイク_ピーク
 -
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakZenith
 0
 
 ID=12911
-イロージョンⅠ
+Erosion I
 [スキル情報]\n60秒間、覚醒状態になる。\n-全ての攻撃が最大ダメージになる。\n-攻撃速度が30%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nマウス：数字キー「7」入力
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakErode
 Description_Image/Skill/GunJazz/Image_GJazz_Break_Erode
 
 ID=13
 Attaque de Base I
 [スキル情報]\n鎌で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法：地上]\nマウス：(左クリック)×4\n\n[操作方法：空中]\nマウス：(左クリック)×2
-SG獲得量が20%増加する。\n分岐攻撃Aを使用できる。
+Gain SG +20%.\nDébloque Attaque Supplémentaire "A".
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=23
 Attaque de Base II
 [スキル情報]\n鎌で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\nSG獲得量が[20%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×4\n[2](左クリック)-(右クリック)-(右クリック連打)\n\n[操作方法：空中]\nマウス：(左クリック)×2
-SG獲得量：[20%]+50%\n基本攻撃の追加攻撃を使用できる。
+Gain SG [20%]+50%.\nDébloque Attaque de base supplémentaire.
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
@@ -1534,7 +1534,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 ID=53
 Attaque de Base V
 [スキル情報]\n鎌で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\nSG獲得量が[200%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×5\n[2](左クリック)-(右クリック)-(右クリック連打)\n[3](左クリック)×3-(右クリック)×3\n\n[操作方法：空中]\nマウス：(左クリック)×3
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
@@ -1569,7 +1569,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 ID=133
 Capacité Spéciale III
 [スキル情報：地上]\nダメージ量：[193%]\nデバフ効果：移動速度[50%]減少\nデバフ持続時間：[3秒]\nSA破壊量：[140%]\n\n[スキル情報：空中]\nダメージ量：[281%]\nSA破壊量：[140%]\n追加入力時、落下して1回反復\n\n[スキル情報：空中追加]\nダメージ量：[198%]\nSA破壊量：[131%]\n\n[スキル情報：一般]\nクールタイム：[10秒]\n攻撃時、SG獲得量が[70%]増加する。\nSG獲得量はモンスター等級に応じて増加する。\n\n素早く前方に移動し、移動ルート上にいる敵の動きを遅くする。\n空中で使用時、回転斬りを繰り出す。追加入力時、下に向かって回転攻撃を繰り出す。\n\n[操作方法：地上]\nマウス：(右クリック長押し)\n\n[操作方法：空中]\nマウス：(右クリック)×2
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_OwnAbility
 0
 
@@ -1583,34 +1583,34 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 ID=213
 Maîtrise Arme Secondaire
 [スキル情報]\n敵に100%のダメージを与える。\n\n鎌を前方に投げ、複数の敵を攻撃する。攻撃を受けた敵は、キャラクターの方に若干引き寄せられる。
-Ne peut être acquis.
+Ne peut être apprise actuellement.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=223
 Maîtrise Arme Secondaire
 [スキル情報]\n敵に100%のダメージを与える。\n\n鎌を前方に投げ、複数の敵を攻撃する。攻撃を受けた敵は、キャラクターの方に若干引き寄せられる。
-Ne peut être acquis.
+Ne peut être apprise actuellement.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=233
 Maîtrise Arme Secondaire
 [スキル情報]\n敵に100%のダメージを与える。\n\n鎌を前方に投げ、複数の敵を攻撃する。攻撃を受けた敵は、キャラクターの方に若干引き寄せられる。
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
 ID=3041
 Esquive I
-[スキル情報]\nスタミナ消費量：[20]\n\n指定した方向に素早く移動する。\n緊急回避中はダメージを受けない。\n\n[操作方法]\nマウス：\n[1](移動キー)+(Shiftキー)\n[2](移動キー)二回入力
-NivMax
+[Info]\nEndurance: [20]\n\nEsquive dans une directon.\nNe subît pas de dégâts lors d'une esquive.\n\nUsage\nSouris:\n[1] (Touche Direction) + (MAJ)\n[2] (Touche Direction) x2.
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=3081
 Roulade I
-[スキル情報]\nスタミナ消費量：[25]\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
+[Info]\nEndurance: [25]\n\nRelevez vous en roulant dans une direction.\nNu subît pas de dégâts lors d'une roulade.\n\n[Usage]\nMouse: à terre (Touche Direction) + (MAJ)
 スタミナ消費量：[25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -1625,7 +1625,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 ID=3083
 Roulade III
 [スキル情報]\nスタミナ消費量：[15]\n少し早く回転起床ができる。\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
@@ -1639,7 +1639,7 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 ID=3102
 Sprint II
 前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
@@ -1660,14 +1660,14 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 ID=3073
 Réaction III
 [スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[20]\nクールタイム：[15秒]\nスキル使用後3秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=3111
 Ruée I
 [スキル情報]\nダメージ量：[139%]\nSA破壊量：[46%]\n\nダッシュ中に鎌を大きく振り敵を押し出す。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(左クリック)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
 
@@ -1688,14 +1688,14 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 ID=3053
 Esquive Améliorée III
 [スキル情報]\nスタミナ消費量：[40]\nクールタイム：[40秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=3121
-特殊ダッシュアタックⅠ
+Charge I
 [スキル情報]\nダメージ量：[217%]\nSA破壊量：[96%]\n\nダッシュ中に前方で鎌を振り上げ攻撃する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(右クリック)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
 
@@ -1716,14 +1716,14 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 ID=3063
 Rétablissement III
 [スキル情報]\nノックダウン脱出使用時、スタミナを25消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=3131
 狂気の鎌Ⅰ
 [スキル情報]\n通常攻撃命中時、SGを回復する。\n一定時間ごとに自動でSGを回復する。\nSGが一定数値以上溜まると、狂気モードになる。\n-攻撃力が5%増加する。\n-クリティカル率が5%増加する。
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
 
@@ -1744,7 +1744,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive
 ID=3143
 満ちる狂気Ⅲ
 [スキル情報]\nパッシブ効果：クリティカルダメージ量[1300]増加\n\nクリティカルダメージ量が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive
 0
 
@@ -1779,7 +1779,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 ID=3155
 Endurance V
 [スキル情報]\nパッシブ効果：スタミナ回復量[50%]増加\n\nスタミナ回復量が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
@@ -1814,7 +1814,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 ID=13015
 イビルスラッシュⅤ
 [スキル情報]\nダメージ量：[273%]\nSA破壊量：[294%]\nSG消費量：[30]\nクールタイム：[10秒]\n\n鎌を素早く回転させ、最後の一撃で敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
@@ -1849,7 +1849,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_SpinningDevil
 ID=13025
 スピニングデビルⅤ
 [スキル情報]\nダメージ量：[267%]\nSA破壊量：[314%]\nSG消費量：[25]\nクールタイム：[12秒]\n\n前方に素早く飛び出し、蹴りからの回転斬撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_SpinningDevil
 0
 
@@ -1884,7 +1884,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ScytheCutter
 ID=13035
 サイスカッターⅤ
 [スキル情報]\nダメージ量：[206%]\nSA破壊量：[288%]\nSG消費量：[20]\nクールタイム：[8秒]\n\n鎌を勢い良く振り上げる。攻撃を受けた敵は宙に浮く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ScytheCutter
 0
 
@@ -1919,7 +1919,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown
 ID=13045
 グリムカウントダウンⅤ
 [スキル情報]\nダメージ量：[537%]\nSA破壊量：[302%]\nSG消費量：[35]\nクールタイム：[15秒]\n\n回転しながら敵を押し出した後、召喚した死神と共に前方の敵を切り裂く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown
 0
 
@@ -1954,7 +1954,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_FearChain
 ID=13135
 フィアチェーンⅤ
 [スキル情報]\nダメージ量：[98%]\nSA破壊量：[649%]\nSG消費量：[30]\nクールタイム：[16秒]\n10m以内の敵を引き寄せる。\n\n前方に死神を召喚する。死神は周辺の敵を鎖で繋ぎ、攻撃範囲の中心に引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_FearChain
 0
 
@@ -1989,7 +1989,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder
 ID=13055
 デスグラインダーⅤ
 [スキル情報]\nダメージ量：攻撃1回あたり[39%]\nSA破壊量：攻撃1回あたり[83%]\nSG消費量：[25]\nクールタイム：[20秒]\n\n鎌をブーメランのように投げて攻撃する。鎌が戻ってくる時に攻撃を受けた敵を自分へ引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder
 0
 
@@ -2024,7 +2024,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 ID=13065
 デスサイスⅤ
 [スキル情報：基本]\nダメージ量：[311%]\nSA破壊量：[671%]\n6.5m以内の敵を引き寄せる。\n\n[スキル情報：追加]\nダメージ量：[253%]\nSA破壊量：[356%]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[25秒]\n\n死神が現れ、周辺にいる敵を引き寄せて攻撃する。死神の攻撃後、任意操作により最後の攻撃方法が変化する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：遠くへ吹き飛ばす。\n[2]右クリック：敵を宙に浮かせる。
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 0
 
@@ -2059,7 +2059,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 ID=13075
 クルエルスラッシュⅤ
 [スキル情報]\nダメージ量：攻撃1回あたり[58%]\nSA破壊量：攻撃1回あたり[34%]\nフィニッシュダメージ量：[303%]\nフィニッシュSA破壊量：[412%]\nSG消費量：[45]\nクールタイム：[20秒]\n\n鎌を偃月刀形態に変形させ攻撃態勢をとる。左クリック連打で、一定時間その場で素早く連撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック連打)\n\n[操作方法：フィニッシュ]\nマウス：(右クリック)
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
@@ -2094,7 +2094,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 ID=13085
 グリムリーパーⅤ
 [スキル情報]\nダメージ量：[548%]\nSA破壊量：[903%]\nSG消費量：[30]\nクールタイム：[28秒]\n\n空中でのみ使用可能。前方に死神を召喚し、敵を宙に浮かせる。すでに空中にいる敵にも同一ダメージを与える。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
@@ -2129,7 +2129,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 ID=13095
 フォースリージョンⅤ
 [スキル情報]\nバフ効果：クリティカル率[20%]増加\nバフ持続時間：[20秒]\nSG消費量：[85]\nクールタイム：[45秒]\n\n召喚された死神が咆哮と共に、範囲内の自分を含むパーティーメンバーにクリティカル率を上昇させるバフを付与する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
@@ -2164,7 +2164,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 ID=13105
 デストルネードⅤ
 [スキル情報]\nダメージ量：攻撃1回あたり[58%]\nSA破壊量：攻撃1回あたり[92%]\nSG消費量：[50]\nクールタイム：[30秒]\n\n前方に強力な竜巻を作り出し、敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 0
 
@@ -2199,7 +2199,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 ID=13115
 イビルトリニティⅤ
 [スキル情報]\nダメージ量：[1366%]\nSA破壊量：[1895%]\nSG消費量：[60]\nクールタイム：[35秒]\n\n二つの鎌を持つ死神が現れ、ミストサイスと共に地面を強打する。地面強打時、三つの衝撃波が発生して範囲内の敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
@@ -2234,7 +2234,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine
 ID=13125
 デスギロチンⅤ
 [スキル情報]\nダメージ量：[2273%]\nSA破壊量：[2286%]\nSG消費量：[75]\nクールタイム：[45秒]\n\n周辺の敵に鎖をかけて拘束後、巨大な断頭台を召喚して敵を押し入れる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine
 0
 
@@ -2255,14 +2255,14 @@ ID=13831
 ID=13811
 ブレイク_ピーク
 -
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_BreakZenith
 0
 
 ID=13911
-イロージョンⅠ
+Erosion I
 [スキル情報]\n60秒間、覚醒状態になる。\n-クリティカル率が50%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nマウス：数字キー「7」入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_BreakErode
 Description_Image/Skill/Mistscythe/Image_Mcythe_Break_Erode
 
@@ -2297,7 +2297,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 ID=54
 Attaque de Base V
 [スキル情報]\n拳で敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加する。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\nSG獲得量が[00%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×5\n[2](左クリック)×2-(右クリック)×2\n[3](左クリック)×4-(右クリック)\n[4](左クリック)×4-(右クリック長押し)\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)×3
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
@@ -2332,7 +2332,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 ID=134
 Capacité Spéciale III
 [スキル情報：地上]\nダメージ量：[000%]\nSA破壊量：[000%]\n近くの敵を3秒間、気絶状態にする。\n\n[スキル情報：空中] \nダメージ量：[000%]\nSA破壊量：[000%]\n\n[スキル情報：共通]\nクールタイム：[10秒]\n攻撃時、SG獲得量が[70%]増加する。\nSG獲得量はモンスター等級に応じて増加する。\n\n足で地面に衝撃を与える。\nダメージを受けた敵は気絶状態になる。\n空中で使用時、地面に向かって拳を振り下ろす。\n\n[操作方法：地上]\nマウス：(右クリック)\n\n[操作方法：空中]\nマウス：ジャンプ後(右クリック)
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_OwnAbility
 0
 
@@ -2366,14 +2366,14 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=4041
 Esquive I
-[スキル情報]\nスタミナ消費量：[20]\n\n指定した方向に素早く移動する。\n緊急回避中はダメージを受けない。\n\n[操作方法]\nマウス：\n[1](移動キー)+(Shiftキー)\n[2](移動キー)二回入力
-NivMax
+[Info]\nEndurance: [20]\n\nEsquive dans une directon.\nNe subît pas de dégâts lors d'une esquive.\n\nUsage\nSouris:\n[1] (Touche Direction) + (MAJ)\n[2] (Touche Direction) x2.
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=4081
 Roulade I
-[スキル情報]\nスタミナ消費量：[25]\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
+[Info]\nEndurance: [25]\n\nRelevez vous en roulant dans une direction.\nNu subît pas de dégâts lors d'une roulade.\n\n[Usage]\nMouse: à terre (Touche Direction) + (MAJ)
 スタミナ消費量：[25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -2388,7 +2388,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 ID=4083
 Roulade III
 [スキル情報]\nスタミナ消費量：[15]\n少し早く回転起床ができる。\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
@@ -2402,7 +2402,7 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 ID=4102
 Sprint II
 前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
@@ -2430,7 +2430,7 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 ID=4111
 Ruée I
 [スキル情報]\nダメージ量：[000%]\nSA破壊量：[00%]\n\nダッシュ中に前方へ滑りながら拳を繰り出す。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(右クリック)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
 
@@ -2451,14 +2451,14 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 ID=4053
 Esquive Améliorée III
 [スキル情報]\nスタミナ消費量：[40]\nクールタイム：[40秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=4121
-特殊ダッシュアタックⅠ
+Charge I
 [スキル情報]\nダメージ量：[000%]\nSA破壊量：[00%]\n\nダッシュ中に前方にジャンプし、ドロップキックする。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(右クリック)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
 
@@ -2542,7 +2542,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 ID=14015
 カウンターアタックⅤ
 [スキル情報：基本攻撃]\nダメージ量：[000%]\nSA破壊量：[000%]\n\n[スキル情報：追加攻撃]\nダメージ量：[000%]\nSA破壊量：[000%]\n\n[スキル情報：一般]\nSG消費量：[00]\nクールタイム：[00秒]\n近距離攻撃に対してのみ反撃可能。\n\nカウンター姿勢時に敵から攻撃を受けると、敵の攻撃を無視して反撃する。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×2
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
@@ -2577,7 +2577,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 ID=14025
 グローリーアッパーⅤ
 [スキル情報：基本攻撃]\nダメージ量：[000%]\nSA破壊量：[000%]\n\n[スキル情報：追加攻撃]\nダメージ量：[000%]\nSA破壊量：[000%]\n\n[スキル情報：一般]\nSG消費量：[00]\nクールタイム：[00秒]\n\n低姿勢で接近後、拳で敵を打ち上げる。\nアッパー攻撃は敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×3
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
@@ -2612,7 +2612,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 ID=14035
 ハンマーキックⅤ
 [スキル情報]\nダメージ量：[000%]\nSA破壊量：[000%]\nSG消費量：[00]\nクールタイム：[00秒]\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。攻撃された敵は宙に浮く。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
@@ -2647,7 +2647,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 ID=14045
 パーフェクトコンビネーションⅤ
 [スキル情報：基本攻撃]\nダメージ量：[000%]\nSA破壊量：[000%]\n\n[スキル情報：追加攻撃]\nダメージ量：[000%]\nSA破壊量：[000%]\n\n[スキル情報：一般]\nSG消費量：[00]\nクールタイム：[00秒]\n\n素早く突進し、タックルしながら敵を押し出す。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×2
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
@@ -2682,7 +2682,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 ID=14055
 スピリットサージⅤ
 [スキル情報：味方]\nバフ効果：ダメージ量[0%]減少\nバフ持続時間：[00秒]\n\n[スキル情報：敵]\nデバフ効果：[挑発]\nデバフ持続時間：[00秒]\n\n[スキル情報：一般]\nSG消費量：[00]\nクールタイム：[00秒]\n\nその場で異能力を放出し、味方を守りながら敵を威嚇する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
@@ -2717,7 +2717,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 ID=14065
 グラビティツイスターⅤ
 [スキル情報]\nダメージ量：[000%]\nデバフ効果：麻痺\nデバフ持続時間：[00秒]\nSA破壊量：[000%]\nSG消費量：[00]\nクールタイム：[00秒]\n\n異能力を使い、前方の敵を手前に\n引き寄せて麻痺させる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
@@ -2752,7 +2752,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 ID=14075
 スピリットエクスプロージョンⅤ
 [スキル情報]\nダメージ量：[000%]\nSA破壊量：[000%]\nチャージ時、ダメージ量とSA破壊量が00倍に増加し、最大で00倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[00]\nクールタイム：[00秒]\n\nガントレットに力を集め、前方に強力な一撃を放つ。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
@@ -2787,7 +2787,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 ID=14085
 スピリットシューターⅤ
 [スキル情報]\nダメージ量：[000%]\nデバフ効果：麻痺\nデバフ持続時間：[00秒]\nSA破壊量：[000%]\nSG消費量：[00]\nクールタイム：[00秒]\n\n瞬間的に衝撃波を発生させ、敵を麻痺させた後に\n反動を利用して後退する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
@@ -2822,7 +2822,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 ID=14095
 クアドラブローⅤ
 [スキル情報]\nダメージ量：攻撃1回あたり[000%]\nSA破壊量：攻撃1回あたり[000%]\nSG消費量：[00]\nクールタイム：[00秒]\n\n異能力を球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
@@ -2857,7 +2857,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 ID=14105
 ヘビードロップⅤ
 [スキル情報]\nダメージ量：[000%]\nSA破壊量：[000%]\nチャージ時、ダメージ量とSA破壊量が00倍に増加し、最大で00倍増加する。\nチャージ段階に応じて爆発範囲が広がる。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[00]\nクールタイム：[00秒]\n\n空中で異能力を集め、巨大な球体を作り出す。この球体が地面に触れると大爆発を引き起こし、周囲の敵にダメージを与える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
@@ -2892,7 +2892,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 ID=14115
 フュージョンアーマーⅤ
 [スキル情報]\n[1]バフ効果：無敵\n[1]バフ持続時間：[00秒]\n[2]バフ効果：防御度[00%]増加\n[2]バフ持続時間：[00秒]\nSG消費量：[00]\nクールタイム：[00秒]\n\nソウルエナジーを集め、それを放出することで味方を守るバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
@@ -2927,7 +2927,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 ID=14125
 ラピッドパンチャーⅤ
 [スキル情報]\nダメージ量：攻撃1回あたり[00%]\nSA破壊量：攻撃1回あたり[00%]\nフィニッシュダメージ量：[000%]\nフィニッシュSA破壊量：[000%]\nSG消費量：[00]\nクールタイム：[00秒]\n\n最大出力状態のガントレットで、左右交互に拳を打ち出す。以降、敵への攻撃に強力なフィニッシュ攻撃が加えられる。\nスキルレベルが上がるほど攻撃時間が増加する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック連打)\n\n[操作方法：フィニッシュ]\nマウス：(右クリック)
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
@@ -2962,7 +2962,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 ID=14135
 ファイナルフィストⅤ
 [スキル情報]\nダメージ量：[000%]\nSA破壊量：[000%]\nSG消費量：[00]\nクールタイム：[00秒]\n\n最大出力状態のガントレットを両腕に装着後、地面を打つ。地面を打つたびに広範囲爆発を引き起こす。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
@@ -2997,7 +2997,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 ID=55
 Attaque de Base V
 [スキル情報]\nゴーストを召喚して敵を攻撃する。\nスキルレベルが上がるほど連係攻撃の種類が増加し、ダメージ量が増加する。\n\nダメージ量が[50%]増加する。\n\n[操作方法：地上]\nマウス：\n[1](左クリック)×5\n[2](左クリック)×2-(右クリック)\n[3](左クリック)×3-(右クリック)\n[4](左クリック)×4-(右クリック)\n\n[操作方法：空中]\nマウス：(左クリック)×3
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
@@ -3032,7 +3032,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 ID=135
 Capacité Spéciale III
 [スキル情報：地上]\nモードを切り替え、スキル効果を変化させる。\n悲しみの楽想効果を受ける。\nクールタイム：[3秒]\n\n[スキル情報：空中]\nダメージ量：[239%]\nSA破壊量：[146%]\nクールタイム：[3秒]\n\n特殊なギターを演奏して、現在のモードを切り替える。\n空中で使用時、拳形態のゴーストを召喚して攻撃する。\n\n[操作方法：地上]\nマウス：(右クリック)\n\n[操作方法：空中]\nマウス：(右クリック)
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_OwnAbility
 0
 
@@ -3066,8 +3066,8 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=5041
 Esquive I
-[スキル情報]\nスタミナ消費量：[20]\n\n指定した方向に素早く移動する。\n緊急回避中はダメージを受けない。\n\n[操作方法]\nマウス：\n[1](移動キー)+(Shiftキー)\n[2](移動キー)二回入力
-NivMax
+[Info]\nEndurance: [20]\n\nEsquive dans une directon.\nNe subît pas de dégâts lors d'une esquive.\n\nUsage\nSouris:\n[1] (Touche Direction) + (MAJ)\n[2] (Touche Direction) x2.
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
@@ -3088,7 +3088,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 ID=5053
 Esquive Améliorée III
 [スキル情報]\nスタミナ消費量：[40]\nクールタイム：[40秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
@@ -3109,7 +3109,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 ID=5063
 Rétablissement III
 [スキル情報]\nノックダウン脱出使用時、スタミナを25消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
@@ -3130,13 +3130,13 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 ID=5073
 Réaction III
 [スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[20]\nクールタイム：[15秒]\nスキル使用後3秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=5081
 Roulade I
-[スキル情報]\nスタミナ消費量：[25]\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
+[Info]\nEndurance: [25]\n\nRelevez vous en roulant dans une direction.\nNu subît pas de dégâts lors d'une roulade.\n\n[Usage]\nMouse: à terre (Touche Direction) + (MAJ)
 スタミナ消費量：[25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -3151,7 +3151,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 ID=5083
 Roulade III
 [スキル情報]\nスタミナ消費量：[15]\n少し早く回転起床ができる。\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
@@ -3165,28 +3165,28 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 ID=5102
 Sprint II
 前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=5111
 Ruée I
 [スキル情報]\nダメージ量：[127%]\nSA破壊量：[42%]\n\nダッシュ中にゴーストを前方に突進させて攻撃する。\n\n[操作方法]\nマウス：ダッシュ中(左クリック)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
 
 ID=5121
-特殊ダッシュアタックⅠ
+Charge I
 [スキル情報]\nダメージ量：[277%]\nSA破壊量：[171%]\n\nダッシュ中に音波を利用して攻撃する。\n\n[操作方法]\nマウス：ダッシュ中(右クリック)
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
 
 ID=5131
 悲しみの楽想Ⅰ
 [スキル情報]\n一定時間ごとに自動でSGを回復する。\nモード転換時、特殊能力マスタリーのレベルによって追加効果を得る。\n\n[特殊能力マスタリーレベル別効果]\nLv1：SGを5%回復\nLv2：SGを10%回復\nLv3：SGを15%回復
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
 
@@ -3207,7 +3207,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_SGPassive
 ID=5143
 サウンドウェーブⅢ
 [スキル情報]\nパッシブ効果：SG最大値[30%]増加\n\nSG最大値が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_SGPassive
 0
 
@@ -3242,7 +3242,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 ID=5155
 Endurance V
 [スキル情報]\nパッシブ効果：スタミナ回復量[50%]増加\n\nスタミナ回復量が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
@@ -3277,7 +3277,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_WhirlDance
 ID=15015
 ワールダンスⅤ
 [スキル情報]\nダメージ量：[245%]\nSA破壊量：[346%]\nSG消費量：[15]\nクールタイム：[8秒]\n\nギターにゴーストを憑依させた後、体を回転させて攻撃する。最後にギターを振り下ろして敵を浮かせる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_WhirlDance
 0
 
@@ -3312,7 +3312,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_PhantomRelease
 ID=15025
 ファントムリリースⅤ
 [スキル情報]\nダメージ量：[398%]\nSA破壊量：[214%]\nSG消費量：[20]\nクールタイム：[10秒]\n\nその場でギターを演奏してゴーストを解放する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_PhantomRelease
 0
 
@@ -3347,7 +3347,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_TroublePass
 ID=15035
 トラブルパスⅤ
 [スキル情報：攻撃モード]\nダメージ量：攻撃1回あたり[92%]\nSA破壊量：攻撃1回あたり[60%]\n\n[スキル情報：支援モード]\nバフ効果：ゴースト1体あたりHP[5%]回復\n使用者は効果を受けない。\n\n[スキル情報：一般]\n6体のゴーストを放つ。\nSG消費量：[25]\nクールタイム：[12秒]\n\nゴーストを発射してダメージを与える。モード変換時、ゴーストは味方のHPを回復させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass
 0
 
@@ -3382,7 +3382,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_HystericShock-
 ID=15045
 ヒステリックショックⅤ
 [スキル情報]\nダメージ量：[394%]\nSA破壊量：[609%]\nSG消費量：[30]\nクールタイム：[15秒]\n\nギターを演奏して地面に亀裂を発生させ、爆発させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_HystericShock-
 0
 
@@ -3417,7 +3417,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeastParade
 ID=15055
 ビーストパレードⅤ
 [スキル情報]\nダメージ量：[592%]\nSA破壊量：[1219%]\nSG消費量：[30]\nクールタイム：[20秒]\n\nゴーストを呼び出した後、背中に乗って突進する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_BeastParade
 0
 
@@ -3452,7 +3452,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 ID=15065
 ビーズプレイⅤ
 [スキル情報：攻撃モード]\nダメージ量：球1個あたり[185%]\nSA破壊量：球1個あたり[38%]\n\n[スキル情報：支援モード]\nバフ効果：球1個あたりHP[25%]回復\n\n[スキル情報：一般]\nチャージ段階に応じて球の数が増加する。\nチャージ完了時、敵を押し出す。\n最大チャージ段階：[3]\nSG消費量：[35]\nクールタイム：[20秒]\n\n敵に当たると爆発する球を作り出す。\nモード変換時、HPを回復させる球を生成する。\n\n[操作方法]\nスキルスロットに登録して該当キーを長押し
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 0
 
@@ -3487,7 +3487,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse
 ID=15075
 ディケードパルスⅤ
 [スキル情報：攻撃モード]\nダメージ量：攻撃1回あたり[78%]\nデバフ効果：移動速度[10%]減少\nSA破壊量：攻撃1回あたり[45%]\n\n[スキル情報：支援モード]\nダメージ量：[26%](HP吸収100%)\nデバフ効果：麻痺\nデバフ持続時間：[1秒]\nSA破壊量：[15%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[15秒]\n\nギターを利用して、敵を攻撃するパルスを放出する。\nモード変換時、敵を麻痺させてHPを吸収する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック長押し)
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse
 0
 
@@ -3522,7 +3522,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 ID=15085
 ソウルスクリームⅤ
 [スキル情報：一般]\nダメージ量：[100%]\nバフ効果：無敵\nバフ持続時間：[1秒]\nSA破壊量：[250%]\nSG消費量：[20]\nクールタイム：[30秒]\n\n[スキル情報：バリア]\nダメージ量：1秒あたり[10%]\nSA破壊量：1秒あたり[25%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nバリア持続時間：[10秒]\n\nゴーストを暴走させ、バリアを生成する。スキル使用時、無敵判定。バリアは一定時間持続し、周囲の敵にダメージを与えて麻痺状態にする。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 0
 
@@ -3557,7 +3557,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_TwistPull
 ID=15095
 ツイストプルⅤ
 [スキル情報]\nダメージ量：[927%]\nSA破壊量：[1041%]\nSG消費量：[40]\nクールタイム：[30秒]\n\n前方にゴーストで作られたブラックホールを発生させ、敵を引き寄せた後に爆発して吹き飛ばす。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_TwistPull
 0
 
@@ -3592,7 +3592,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeastParty
 ID=15135
 ビーストパーティーⅤ
 [スキル情報]\nダメージ量：[670%]\nSA破壊量：[2531%]\nSG消費量：[40]\nクールタイム：[35秒]\n\nゴーストの群れを召喚し、前方に突進させる。ゴーストと衝突した敵は後ろに押し出される。\n\n[操作方法]\nマウス：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_BeastParty
 0
 
@@ -3627,7 +3627,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BestTempo
 ID=15125
 ベストテンポⅤ
 [スキル情報：攻撃モード]\nバフ効果：HP吸収[15%]\nバフ持続時間：[12秒]\n\n[スキル情報：支援モード]\nバフ効果：HP[80%]回復\n\n[スキル情報：一般]\nSG消費量：[45]\nクールタイム：[45秒]\n\nギターを演奏し、味方のHPを持続的に回復させる。\nモード変換時、味方のHPを即時に回復させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_BestTempo
 0
 
@@ -3662,7 +3662,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 ID=15105
 ブラックモーラスⅤ
 [1][スキル情報：引き寄せ]\nダメージ量：[200%]\nSA破壊量：[344%]\n\n[2][スキル情報：浮かし]\nダメージ量：[163%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[777%]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[35秒]\n\nギターを演奏し、前方の地面に沼を作り出して多数のゴーストを召喚する。その後、任意操作により最後の攻撃方法が変化する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：敵を中央に引き寄せる。\n[2]右クリック：敵を宙に浮かせる。
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 0
 
@@ -3697,21 +3697,21 @@ Icon/Skill/Howling/Icon_Howling_Skill_BassAttack
 ID=15115
 ベースアタックⅤ
 [スキル情報]\nダメージ量：攻撃1回あたり[646%]\nSA破壊量：攻撃1回あたり[604%]\nSG消費量：[45]\nクールタイム：[45秒]\n\n専用スピーカーを召喚し、舞台を作り出す。左右のスピーカーが激しく揺れ、中央の敵を攻撃する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：左側のスピーカーから強力な音波が発生する。\n[2]右クリック：右側のスピーカーから強力な音波が発生する。
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_BassAttack
 0
 
 ID=15811
 ブレイク_ピーク
 -
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 0
 
 ID=15911
-イロージョンⅠ
+Erosion I
 [スキル情報]\n60秒間、覚醒状態になる。\n-SGを1秒あたり15%回復する。\n-移動速度が50%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nマウス：数字キー「7」入力
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_BreakErode
 Description_Image/Skill/Howling/Image_Howling_Break_Erode
 
@@ -3732,7 +3732,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade_A
 ID=21023
 範囲増加Ⅲ
 [特性情報：基本]\nダメージ量増加値：[162%]\nSA破壊量増加値：[62%]\n\n[特性情報：追加]\nダメージ量増加値：[101%]\nSA破壊量増加値：[87%]\n追加攻撃の範囲が増加する。\n\n刃に異能力を付与し、攻撃範囲を増加させる。
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade_A
 0
 
@@ -3746,14 +3746,14 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep_A
 ID=21042
 回転斬りⅡ
 [特性情報：基本]\nダメージ量追加値：[92%]\nSA破壊量減少値：[381%]\n\n[特性情報：追加]\nダメージ量：[216%]\nSA破壊量：[114%]\n\nピアスステップ後、2回転斬りで敵を押し出す。\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep_A
 0
 
 ID=21044
 斬り上げⅠ
 [特性情報：追加攻撃]\nダメージ量：[74%]\nSA破壊量：[297%]\n\nピアスステップ後、斬り上げて敵を宙に浮かせる。\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep_B
 0
 
@@ -3774,7 +3774,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake_A
 ID=21033
 気絶Ⅲ
 [特性情報]\nデバフ効果：気絶\nデバフ持続時間：[5秒]\n\n攻撃を受けた敵を気絶状態にする。
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake_A
 0
 
@@ -3795,7 +3795,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack_A
 ID=21053
 攻撃回数増加Ⅲ
 [特性情報]\nダメージ量増加値：[285%]\nSA破壊量増加値：[470%]\n\n攻撃回数が増加し、多段ヒットが発生する。
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack_A
 0
 
@@ -3816,7 +3816,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack_B
 ID=21056
 範囲増加Ⅲ
 [特性情報]\nダメージ量増加値：[176%]\nSA破壊量増加値：[183%]\n攻撃範囲が増加する。\n\n地面を強く打ち、攻撃範囲が増加する。
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack_B
 0
 
@@ -3837,7 +3837,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush_A
 ID=21073
 時間増加Ⅲ
 [特性情報]\nエリア持続時間増加値：[9秒]\n\nエリアの持続時間が増加する。
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush_A
 0
 
@@ -3858,7 +3858,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush_B
 ID=21076
 気絶Ⅲ
 [特性情報]\nデバフ効果：気絶\nデバフ持続時間：[3秒]\n\n攻撃を受けた敵を気絶状態にする。
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush_B
 0
 
@@ -3879,7 +3879,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike_A
 ID=21113
 追加攻撃Ⅲ
 [特性情報]\nダメージ量減少値：[49%]\nSA破壊量減少値：[48%]\n火炎地帯ダメージ量追加値：1秒あたり[235%]\n火炎地帯SA破壊量追加値：1秒あたり[177%]\n剣気発射数が5発に増加する。\n\n剣気を追加で飛ばして攻撃する。
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike_A
 0
 
@@ -3893,14 +3893,14 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_WindBreak_A
 ID=21062
 チャージⅡ
 [特性情報]\n力を溜めて剣気を追加で放つ。\nチャージ時、本来の剣気の0.7倍の威力を持つ剣気を2発放つ。\n最大チャージ時、剣気を3発放つ。\nチャージ段階に応じて射程距離も増加する。\n\n[操作方法]\nスキルスロットに登録して該当キーを長押し
-NivMax
+Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_WindBreak_A
 0
 
 ID=22011
 衝撃弾Ⅰ
 [特性情報：追加攻撃]\nダメージ量：[175%]\nSA破壊量：[223%]\n\n強力な衝撃弾を撃ち出し、敵を吹き飛ばす。
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh_A
 0
 
@@ -3921,7 +3921,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh_B
 ID=22016
 空中連射Ⅲ
 [特性情報：追加攻撃]\nダメージ量：攻撃1回あたり[53%]\nSA破壊量：攻撃1回あたり[68%]\n最大攻撃時間：[1.65秒]\nフィニッシュダメージ量：[88]%\nフィニッシュSA破壊量：[112%]\n\n宙に浮かせた敵に連続射撃する。
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh_B
 0
 
@@ -3942,7 +3942,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_SlideStep_A
 ID=22023
 スロー煙幕Ⅲ
 [特性情報]\nデバフ効果：移動速度[75%]減少\nデバフ持続時間：[3秒]\nデバフエリア持続時間：[10秒]\n\nスキルを使用した位置にスロー煙幕を発生させる。\n煙幕内にいる敵をスロー状態にする。
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SlideStep_A
 0
 
@@ -3963,7 +3963,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_SlideStep_B
 ID=22026
 中毒煙幕Ⅲ
 [特性情報]\nデバフ効果：中毒(1秒ごとに[5%]HP減少)\nデバフ持続時間：[3秒]\nデバフエリア持続時間：[5秒]\n\nスキルを使用した位置に毒煙幕を発生させる。\nエリア内にいる敵を中毒状態にする。
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SlideStep_B
 0
 
@@ -3984,7 +3984,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot_A
 ID=22043
 麻痺弾Ⅲ
 [特性情報：追加攻撃]\nダメージ量：[128%]\nデバフ効果：麻痺\nデバフエリア持続時間：[5秒]\nSA破壊量：[74%]\n\n最後に強力なエナジーを発射して攻撃する。\nエナジーが爆発した地点に麻痺エリアが発生する。
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot_A
 0
 
@@ -4005,7 +4005,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot_B
 ID=22046
 ブラックホールⅢ
 [特性情報：追加攻撃]\nダメージ量：[128%]\nSA破壊量：[74%]\n8m以内の敵を引き寄せる。\n\n最後に強力なエナジーを発射して攻撃する。\nエナジーが爆発した地点を基準に、周囲の\n敵を全て引き寄せる。
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot_B
 0
 
@@ -4026,7 +4026,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_GunCombination_A
 ID=22053
 貫通Ⅲ
 [特性情報]\nダメージ量追加値：[132%]増加\nSA破壊量追加値：[71%]増加\n\n銃による攻撃が敵を貫通する。
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GunCombination_A
 0
 
@@ -4047,7 +4047,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_GuidedShot_A
 ID=22073
 防御度貫通Ⅲ
 [特性情報]\nバフ効果：敵防御度貫通[80%]\n\n攻撃を受けた敵の防御度を一定量無効化する。
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GuidedShot_A
 0
 
@@ -4068,14 +4068,14 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter_A
 ID=22093
 SG回復Ⅲ
 [特性情報]\nバフ効果：1秒あたりSG[3%]回復\nバフ持続時間：[20秒]\n\n味方のSGを回復させるバフが追加で発動する。
-NivMax
+Niv. Max
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter_A
 0
 
 ID=23031
 チャージⅠ
 [特性情報：チャージ]\nチャージの性能が1.3倍に増加する。\n敵と一緒に空中へ飛び上がる。\n\nチャージ時、敵をさらに高く浮かせる。
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ScytheCutter_A
 0
 
@@ -4096,7 +4096,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown_A
 ID=23043
 HP吸収Ⅲ
 [特性情報]\nHP吸収：[16%]\n\n攻撃を受けた敵からHPを奪い、自分のHPを回復する。
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown_A
 0
 
@@ -4117,7 +4117,7 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_FearChain_A
 ID=23133
 範囲増加Ⅲ
 [特性情報]\n攻撃範囲増加値：[4m]増加\n\n攻撃範囲が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_FearChain_A
 0
 
@@ -4138,7 +4138,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder_A
 ID=23053
 死神召喚Ⅲ
 [特性情報：死神攻撃]\nダメージ量：攻撃1回あたり[29%]\nSA破壊量：攻撃1回あたり[59%]\n\n死神を召喚し、追加で鎌を投げる。
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder_A
 0
 
@@ -4159,7 +4159,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder_B
 ID=23056
 旋風Ⅲ
 [特性情報]\nダメージ量増加値：攻撃1回あたり[16%]\nSA破壊量増加値：攻撃1回あたり[25%]増加\n\n前方に鎌を投げて旋風を発生させる。鎌は一定距離を進むと止まり、その場で敵にダメージを与える。
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder_B
 0
 
@@ -4180,7 +4180,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash_A
 ID=23073
 防御度貫通Ⅲ
 [特性情報]\nバフ効果：敵の防御度貫通[70%]\n\n攻撃を受けた敵の防御度を一定量無視する。
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash_A
 0
 
@@ -4201,7 +4201,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash_B
 ID=23076
 クリティカル率増加Ⅲ
 [特性情報]\nバフ効果：クリティカル率[10%]増加\n\nクリティカル率が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash_B
 0
 
@@ -4222,7 +4222,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_A
 ID=23103
 誘導Ⅲ
 [特性情報]\nダメージ量増加値：攻撃1回あたり[68%]\nSA破壊量減少値：攻撃1回あたり[1%]\n\n発生した竜巻が敵に向かって移動する。
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_A
 0
 
@@ -4243,7 +4243,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_B
 ID=23106
 広域Ⅲ
 [特性情報]\nダメージ量増加値：攻撃1回あたり[35%]増加\nSA破壊量増加値：攻撃1回あたり[55%]増加\n\n竜巻が前方に向かって移動する。
-NivMax
+Niv. Max
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_B
 0
 
@@ -4264,7 +4264,7 @@ ID=24012
 ID=24013
 気絶Ⅲ
 [特性情報]\nダメージ量増加値：[00%]\nデバフ効果：気絶\nデバフ持続時間：[3秒]\n\n攻撃を受けた敵を気絶状態にする。
-NivMax
+Niv. Max
 0
 0
 
@@ -4285,7 +4285,7 @@ SA破壊Ⅱ
 ID=24016
 SA破壊Ⅲ
 [特性情報]\nダメージ量増加値：[00%]\nSA破壊量増加値：[00%]\n\nSA破壊量が増加します。
-NivMax
+Niv. Max
 0
 0
 
@@ -4306,7 +4306,7 @@ ID=24022
 ID=24023
 ノックダウンⅢ
 [特性情報：追加攻撃]\nダメージ量：[000%]\nSA破壊量：[000%]\n\nグローリーアッパーの追加攻撃後に発動。\n敵を追撃し強力な一撃を加える。\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)
-NivMax
+Niv. Max
 0
 0
 
@@ -4327,7 +4327,7 @@ ID=24025
 ID=24026
 アッパーⅢ
 [特性情報：追加攻撃]\nダメージ量：[000%]\nSA破壊量：[000%]\n\nグローリーアッパーの追加攻撃後に発動。\n異能力で前方の敵を攻撃する。\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)
-NivMax
+Niv. Max
 0
 0
 
@@ -4348,7 +4348,7 @@ ID=24052
 ID=24053
 強化Ⅲ
 [特性情報]\nデバフ効果： \n[1]敵の防御度減少[00%] \n[2]敵の攻撃力増加[00%]\n\n挑発された敵は若干攻撃力が増加するが\n防御度が大幅に減少する。
-NivMax
+Niv. Max
 0
 0
 
@@ -4369,7 +4369,7 @@ ID=24062
 ID=24063
 衝撃波Ⅲ
 [特性情報]\nダメージ量増加値：[00%]\nSA破壊量増加値：[00%]\n\n多段ヒットする衝撃波を発生させ、攻撃を受けた敵を麻痺状態にする。
-NivMax
+Niv. Max
 0
 0
 
@@ -4390,7 +4390,7 @@ ID=24072
 ID=24073
 衝撃弾Ⅲ
 [特性情報]\nダメージ量増加値：[00%]\nSA破壊量増加値：[00%]\n\nチャージしたエナジーを前方に発射する。
-NivMax
+Niv. Max
 0
 0
 
@@ -4411,7 +4411,7 @@ ID=24075
 ID=24076
 範囲増加Ⅲ
 [特性情報]\nダメージ量増加値：[00%]\nSA破壊量増加値：[00%]\n攻撃範囲が増加する。\n\nチャージしたエナジーが大きなウェーブを発生させ、敵を攻撃する。
-NivMax
+Niv. Max
 0
 0
 
@@ -4432,7 +4432,7 @@ ID=24092
 ID=24093
 個数増加Ⅲ
 [特性情報：追加発射体]\nダメージ量：攻撃1回あたり[000%]\nSA破壊量：攻撃1回あたり[00%]\n\n小さな弾を追加発射する。
-NivMax
+Niv. Max
 0
 0
 
@@ -4453,14 +4453,14 @@ ID=24102
 ID=24103
 攻撃回数増加Ⅲ
 [特性情報]\nダメージ量増加値：[00%]\nSA破壊量増加値：[00%]\n\n衝撃弾の速度は遅くなるが、連続攻撃になる。
-NivMax
+Niv. Max
 0
 0
 
 ID=25021
 攻撃回数増加Ⅰ
 [特性情報]\n攻撃回数が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_PhantomRelease_A
 0
 
@@ -4481,7 +4481,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_A
 ID=25033
 範囲増加Ⅲ
 [特性情報：攻撃モード]\nダメージ量増加値：攻撃1回あたり[41%]\nSA破壊量増加値：攻撃1回あたり[27%]\n攻撃範囲が増加する。\n\nゴーストが爆発する範囲が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_A
 0
 
@@ -4502,7 +4502,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_B
 ID=25036
 強化Ⅲ
 [特性情報：支援モード]\nゴーストHP回復増加値：[3%]\n\nゴーストの味方HP回復量が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_B
 0
 
@@ -4516,7 +4516,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_HystericShock_A
 ID=25042
 攻撃回数増加Ⅱ
 [特性情報]\nダメージ量増加値：[197%]\nSA破壊量増加値：[305%]\n\n攻撃回数が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_HystericShock_A
 0
 
@@ -4537,7 +4537,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_A
 ID=25063
 麻痺Ⅲ
 [特性情報：攻撃モード]\nダメージ量減少値：攻撃1回あたり[159%]\nSA破壊量増加値：攻撃1回あたり[76%]\nデバフ効果：麻痺[1.5秒]\n\n球が敵を貫通して麻痺効果を付与する。
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_A
 0
 
@@ -4558,7 +4558,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_B
 ID=25066
 強化Ⅲ
 [特性情報：支援モード]\n球のHP回復増加値：[15%]\n\n球による回復量が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_B
 0
 
@@ -4579,7 +4579,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse_A
 ID=25073
 時間増加Ⅲ
 [特性情報]\n最大攻撃時間：[3秒]増加\n\nパルスを発射する時間が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse_A
 0
 
@@ -4600,7 +4600,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse_B
 ID=25076
 射程距離増加Ⅲ
 [特性情報]\n攻撃有効距離：[6m]増加\n連係ダメージ対象数が増加する。\n\nパルスの射程距離が増加し、より多くの敵が\n電流のダメージを受ける。
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse_B
 0
 
@@ -4614,7 +4614,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_TwistPull_A
 ID=25092
 範囲増加Ⅱ
 [特性情報]\nダメージ量増加値：[1205%]\nSA破壊量増加値：[1353%]\n攻撃範囲が増加する。\n\nゴーストが攻撃する範囲が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_TwistPull_A
 0
 
@@ -4635,7 +4635,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass_A
 ID=25103
 時間増加Ⅲ
 [特性情報]\n最大攻撃時間：[3秒]増加\n\n攻撃可能時間が増加する。
-NivMax
+Niv. Max
 Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass_A
 0
 
