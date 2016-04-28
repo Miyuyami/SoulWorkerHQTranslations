@@ -485,7 +485,7 @@ ID=344
 Are you sure you want to use {0} to expand your slots?
 
 ID=345
-After selling all items, you will obtain {0}.
+売却すると{0}を獲得し、\n選択されたアイテムは売却されます。
 
 ID=346
 Your selection contains a <font color='#A566FF'>High Valued</font> item, selling it will give you {0}. Are you sure you want to sell?
@@ -1226,16 +1226,16 @@ ID=706
 Craft
 
 ID=707
-Costume(Pending)
+Costume (Pending)
 
 ID=708
 Area
 
 ID=709
-Guild Management(Pending)
+Guild Management (Pending)
 
 ID=710
-Guild Management(Pending)
+Guild Management (Pending)
 
 ID=711
 Communication
@@ -1244,7 +1244,7 @@ ID=712
 NPC Function
 
 ID=713
-Quest List[Space]
+Quest List [Space]
 
 ID=714
 Converse
@@ -1259,28 +1259,28 @@ ID=717
 Return
 
 ID=718
-Next[Space]
+Next [Space]
 
 ID=719
 Skip
 
 ID=720
-Close[ESC]
+Close [ESC]
 
 ID=721
-End Conversation[Space]
+End Conversation [Space]
 
 ID=722
-End[Space]
+End [Space]
 
 ID=723
 Manage Sockets
 
 ID=724
-Accept Quest[Space]
+Accept Quest [Space]
 
 ID=725
-Decline[Back]
+Decline [Back]
 
 ID=726
 {0} Zenny
@@ -1316,7 +1316,7 @@ ID=738
 Party Only
 
 ID=739
-Party Only[4 People]
+Party Only [4 People]
 
 ID=740
 FP Consumption
@@ -1547,7 +1547,7 @@ ID=820
 Socket Item Management
 
 ID=821
-You can add a new Familia in the socket.\nRelease the Familiar first.
+You can add a new Familiar in the socket.\nRelease the Familiar first.
 
 ID=822
 You do not have the items \nor fee needed to dismantle items.
@@ -1562,13 +1562,13 @@ ID=825
 Additional Socket
 
 ID=826
-Are you sure you want to remove the socketed item?\n(It will be returned to the inventory)
+Are you sure you want to remove the socketed item?\n(It will be returned to the inventory.)
 
 ID=827
 Do you want to add a new socket to the selected item?
 
 ID=828
-A Familiar can be attached to socket items.\n(Right-click the item to attach it)
+A Familiar can be attached to socket items.\n(Right-click the item to attach it.)
 
 ID=829
 Cancelled the selected Familiar.
@@ -1691,7 +1691,7 @@ ID=888
 MAX
 
 ID=891
-This item binds on equip.\nDo you want to equip the item?
+This item binds on equip.\nDo you still want to equip the item?
 
 ID=900
 Status
@@ -1751,7 +1751,7 @@ ID=918
 Influenced by Chance
 
 ID=919
-1Stamina Recovered per Second
+1 Stamina recovered per Second
 
 ID=920
 Movement Speed Increase
@@ -1784,7 +1784,7 @@ ID=929
 When casting magic attacks, magic critical hit damage is increased
 
 ID=930
-Reduces damage taken from physical attacks
+Reduces damage taken by physical attacks
 
 ID=931
 Reduces damage taken by magic attacks
@@ -1919,7 +1919,7 @@ ID=979
 The item has failed to enhance.\nBy using Q.B.D [Enhancement Protection], the item was not destroyed.
 
 ID=980
-When enhancement fails, there is a chance of it being destroyed.\nDo you wish to proceed?\n(Q.B.D [Enhancement protection can be used to prevent item destruction]
+When enhancement fails, there is a chance of it being destroyed.\nDo you wish to proceed?\n(Q.B.D [Enhancement Protection] can be used to prevent item destruction)
 
 ID=981
 Evolve
@@ -1958,7 +1958,7 @@ ID=992
 The equipment item can not be enhanced.
 
 ID=993
-Unenhancable: [{0}] missing
+Can not enhance: [{0}] missing
 
 ID=994
 You can enhance this item. It may result in destroying the item.
@@ -1967,7 +1967,7 @@ ID=995
 You can enhance this item.\nIt may result in destroying the item.\nDestruction mitigation items can not be used.
 
 ID=996
-Unevolvable: [{0}] missing
+Can not evolve: [{0}] missing
 
 ID=997
 Enhances
@@ -2303,7 +2303,7 @@ ID=1450
 The enhancement to {0} was successfully done from {1} to {2} grade level.
 
 ID=1451
-The enhancement to {0}  from {1} to {2} grade level failed, your item is destroyed.
+The enhancement to {0}  from {1} to {2} grade level failed. Your item was destroyed.
 
 ID=1452
 {0} has successfully crafted {1}.
@@ -2414,10 +2414,10 @@ ID=2129
 {0} has been removed from your block list.
 
 ID=2130
-This person is a friend that you have befriended.\nAre you sure you want to cut off interaction?
+This person is registered as your friend.\nAre you sure you want to block this person?
 
 ID=2131
-{0} can not accept requests currently due to pending requests.
+{0} currently can not accept requests due to already pending requests.
 
 ID=2201
 HEMS
@@ -2711,10 +2711,10 @@ ID=3008
 After registering your items and Zenny, please click on the "Complete Registration".
 
 ID=3009
-Check the contents, please click on the "Complete Trade."
+Please check the contents and click "Complete Trade."
 
 ID=3010
-Waiting for a response from the other trader.\n(If you do not want to trade, please click on the button "Cancel Trade"
+Waiting for a response from the other trader.\n(If you do not want to trade, please click on the button "Cancel Trade".)
 
 ID=3011
 Trade request sent to {0}. Waiting for the consent of the other party.\n[{1}s remaining]
@@ -2729,7 +2729,7 @@ ID=3014
 The player has logged out. The trade request has been aborted.
 
 ID=3015
-The trade has been cancelled.\n(You must be in the same town as the other party)
+The trade has been cancelled.\n(You must be in the same town as the other party.)
 
 ID=3016
 The trade request with {0} was cancelled.
@@ -5090,13 +5090,13 @@ ID=16200
 The world changed when I opened my eyes.\nMonsters crawling and people using special powers.\nThe world that I once sought to create...was now in front of me.\nThis...is too much to not get excited about.
 
 ID=16300
-The world where all the knowledge I had until now was void.../nBut.../nI have claimed everything that I wanted with my own hands./nI'll do the same in this world, too.
+The world where all the knowledge I had until now was void...\nBut...\nI have claimed everything that I wanted with my own hands.\nI'll do the same in this world, too.
 
 ID=16400
-The world has changed a lot during the 15 years I was asleep./nA world where survival comes first./nBut... I was still desperate /nto have passion... and to live like any human would.
+The world has changed a lot during the 15 years I was asleep.\nA world where survival comes first.\nBut... I was still desperate \nto have passion... and to live like any human would.
 
 ID=16500
-Seems like 15 years flashed by./nDo hibernating bears all feel this way...?/nStories too difficult to understand, and I'm really hungry./nBut, since everyone is with me, I don't feel lonely.
+Seems like 15 years flashed by.\nDo hibernating bears all feel this way...?\nStories too difficult to understand, and I'm really hungry.\nBut, since everyone is with me, I don't feel lonely.
 
 ID=16600
 The world that I once knew was no more.\nI didn't want to stay for a minute, or even a second for that matter in this unfamiliar place.\nBut I have no choice but to hold it in.\nThis is my world now... The world that I must live in.\nThere is no choice but to hold it in as much as possible...
@@ -5153,7 +5153,7 @@ ID=16585
 Giga
 
 ID=16586
-TB
+Tera
 
 ID=16587
 PB
@@ -5525,7 +5525,7 @@ ID=18056
 <font color='#47C83E'>Bit</font> and <font color='#4374D9'>Kilo</font>grade brooch synthesis is possible
 
 ID=18057
-<font color='#E0B94F'>MB</font>,<font color='#F15F5F'>GB</font>,<font color='#8041D9'>TB</font> grade brooch synthesis is possible.
+<font color='#E0B94F'>MEGA</font>,<font color='#F15F5F'>GIGA</font>,<font color='#8041D9'>TERA</font> grade brooch synthesis is possible.
 
 ID=18058
 The remaining number of enhancements of {0} {1} will decrease.\n Upon confirmation, one {2} is used up. \n\n Do you wish to continue?
@@ -5582,16 +5582,16 @@ ID=18078
 You can only sell 10 items at a time.
 
 ID=18079
-Items with Brooch Sockets can only be equipped with one when it is in the Inventory.
+ソケットアイテムはインベントリにある時のみ装着できます。
 
 ID=18080
-모든 캐주얼 레이드 입장 횟수가 0 회이기 때문에 사용할 수 없습니다.
+全てのカジュアルレイド入場回数が0回のため使用できません。
 
 ID=18081
- 현재까지 입장한 캐주얼레이드 입장 횟수는 아래와 같습니다.. \n라스트 카니발    :  {0}/3\n정크 하이브       :  {1}/3\n밴디트 하이웨이 :  {2}/3\n아이언 캐슬       :  {3}/3\n모든 캐주얼레이드의 입장 횟수를 1씩 감소 시키겠습니까?\n(0회 일 경우 0이하로 감소되지 않습니다.)
+今までに入場したカジュアルレイドの回数は下記の通りです。 \nラストカーニバル：{0}/3\nジャンクハイブ：{1}/3\nバンディットハイウェイ：{2}/3\nアイアンキャッスル：{3}/3\n全てのカジュアルレイド入場回数を1回ずつ減少させますか？\n(0回の場合は減少しません)
 
 ID=18082
-모든 캐주얼레이드의 입장횟수가 각각 1씩 감소하였습니다.
+全てのカジュアルレイド入場回数が1回ずつ減少しました。
 
 ID=18172
 Maximum {0} Familiars attached
@@ -8858,7 +8858,7 @@ ID=26339
 While on ground, +{0}% Damage Reduction for 5s
 
 ID=26340
-When being hit under 50% HP, +{0} Defense
+When being hit under 50% HP, 10% chance of +{0}% Defense for 5s
 
 ID=26341
 On dodge, 2% chance to +{0}% HP
@@ -10235,10 +10235,10 @@ ID=31110
 Your party recruitment ad lasts for [{0}]m [{1}]s.
 
 ID=31111
-Party request complete./nParty requests will be automatically deleted after 30 minutes./n(Amount of requests left: {0})
+Party request complete.\nParty requests will be automatically deleted after 30 minutes.\n(Amount of requests left: {0})
 
 ID=31112
-Party request will canceled after 30 minutes.
+Party request will be cancelled after 30 minutes.
 
 ID=31113
 Too many party requests. Please try again later.
@@ -10319,7 +10319,7 @@ ID=31138
 Party has been formed.
 
 ID=31139
-Would you like to request for retry for the dungeon?/n(Remaining time: {0} seconds)
+Would you like to request for retry for the dungeon?\n(Remaining time: {0} seconds)
 
 ID=31140
 The leader {0} has requested a dungeon retry.\nWill you accept the request?\n(Remaining time: {1} seconds)
@@ -10349,7 +10349,7 @@ ID=31148
 The dungeon has a re-entry cooldown of {0} seconds.
 
 ID=31149
-The leader canceled the request to join {0} dungeon.
+The leader cancelled the request to join {0} dungeon.
 
 ID=31150
 Cancel Dungeon Entry
@@ -10400,7 +10400,7 @@ ID=31165
 Party matching stopped
 
 ID=31166
-Members have canceled the matching.
+Members have cancelled the matching.
 
 ID=31167
 The party is in combat; do you wish to join? \n (Time remaining: {0} seconds)
@@ -10427,7 +10427,7 @@ ID=31174
 An unexpected error occurred.\nWould you like to rejoin? -Remaining time: {0} seconds-
 
 ID=31175
-You can not rejoin if you quit the game on purpose./nYou can only rejoin if the game has ended due to an unexpected error.
+You can not rejoin if you quit the game on purpose.\nYou can only rejoin if the game has ended due to an unexpected error.
 
 ID=32000
 Gameplay Controls
@@ -10904,40 +10904,40 @@ ID=33550
 A Dawn's Glory
 
 ID=34000
-The First Plant
+植木鉢1
 
 ID=34001
-The Second Plant
+植木鉢2
 
 ID=34002
-The Third Plant
+植木鉢3
 
 ID=34003
-The Fourth Plant
+植木鉢4
 
 ID=34004
-The Fifth Plant
+植木鉢5
 
 ID=34005
-The Sixth Plant
+植木鉢6
 
 ID=34006
-{1} is required to use {0}.\nAre you sure you want to own this Flower Pot?
+{0}を使うには{1}が必要です。\n植木鉢を所有しますか？
 
 ID=34007
-{0} can be used.
+{0}を使用できます。
 
 ID=34008
-You can not own {1} because you do not have {0}.
+{0}を持っていないため{1}を所有できません。
 
 ID=34009
-재배
+Cultivate
 
 ID=34010
-Helper
+Help
 
 ID=34011
-{0}d
+{0}day
 
 ID=34012
 {0}h {1}m
@@ -10949,70 +10949,70 @@ ID=34014
 {0}%
 
 ID=34015
-Preparing
+準備中
 
 ID=34016
-Growing
+栽培中
 
 ID=34017
 Complete
 
 ID=34018
-Withered
+しおれ
 
 ID=34019
-Spoiled
+腐敗
 
 ID=34020
 Use
 
 ID=34021
-Using
+In Use
 
 ID=34022
-Would you like to use {0}?
+Do you want to use {0}?
 
 ID=34023
 Cancel
 
 ID=34024
-This item can not be registered to the Growing List.
+栽培登録が可能なアイテムではありません。
 
 ID=34025
-작물 성장에 도움을 주셨습니다.
+作物の成長が促進されました。
 
 ID=34026
-도움을 줄 자리가 가득 찼습니다.
+成長促進場所がいっぱいです。
 
 ID=34027
-이미 도움을 준 작물 입니다.
+すでに成長を促進させた作物です。
 
 ID=34028
-도움을 줄 수 없는 상태입니다.
+成長を促進できない状態です。
 
 ID=34029
-{0} 재배를 취소 하시겠습니까?\n(재배에 사용된 재료는 회수되지 않습니다.)
+{0}の栽培を中止しますか？\n(栽培に使用した材料は回収できません)
 
 ID=34030
-재배완료\n{0}개의 재배 완료된 작물이 있습니다.
+栽培完了。\n{0}個の作物の栽培が完了しました。
 
 ID=34031
-수확 성공
+収穫成功
 
 ID=34032
-수확 대성공
+収穫大成功
 
 ID=34033
- x{0} 획득
+x{0}獲得
 
 ID=34034
-확인
+Confirm
 
 ID=34035
-수확 실패 : 인벤토리 공간 없음
+収穫失敗：インベントリ空きなし
 
 ID=34036
-수확
+収穫
 
 ID=35000
 All
@@ -12014,7 +12014,7 @@ ID=40321
 The player is able to walk on the invisible portion of the floating area.
 
 ID=40401
-Please defeat the enemy while defending the trap.\nThe enemy will arrive shortly. Caution is advised.
+Please defeat the enemy while avoiding the trap.\nThe enemy will arrive shortly. Caution is advised.
 
 ID=40402
 Defeat the enemies while avoiding the trap.
@@ -13805,7 +13805,7 @@ ID=45014
 Remove
 
 ID=45015
-RANK
+PICK UP
 
 ID=45016
 Checkout
@@ -14347,6 +14347,9 @@ You may not unstuck your character again.\n Please try again later.
 ID=49233
 Because the account is being logged in, the game will close.
 
+ID=49234
+현재 메이즈를 포기하고 나가시겠습니까? \n퇴장 시 나머지 FP가 차감되며, 재입장이 불가능합니다.
+
 ID=49300
 Records
 
@@ -14606,7 +14609,7 @@ ID=49617
 The dungeon does not exist.
 
 ID=49618
-The area does not exist.
+異常な領域または存在しないエリアです。
 
 ID=49619
 Please select the area you want to go to.
@@ -14639,7 +14642,7 @@ ID=49628
 The cutscenes are being played. Please wait.
 
 ID=49629
-Profile Background
+Notice
 
 ID=49630
 Additional Info
@@ -14825,7 +14828,7 @@ ID=49939
 Become friends with a level difference of {0} as {1} 
 
 ID=49940
-[{0}]{1}名とフレンドになる
+[{0}] Become friends with {1}
 
 ID=49941
 [{0}]を装備したプレイヤー{1}名とフレンドになる
@@ -16241,22 +16244,22 @@ ID=57043
 You rejected the guild invitation.
 
 ID=57044
-리그 위임 조건에 만족하지 않습니다.
+ギルド委任条件を満たしていません。
 
 ID=57045
-리그 마크 변경에 실패하였습니다.
+ギルドマーク変更に失敗しました。
 
 ID=57046
-리그 스킬이 없습니다.
+ギルドスキルがありません。
 
 ID=57047
-리그 레벨 조건이 맞지 않아 습득할 수 없습니다.
+ギルドレベル条件に合っていないため、習得できません。
 
 ID=57048
-리그 스킬 포인트가 부족합니다.
+ギルドSPが足りません。
 
 ID=57049
-리그 기금이 부족합니다.
+ギルド基金が足りません。
 
 ID=58000
 The NPC does not exist in the next area.
@@ -16362,6 +16365,9 @@ The item's listing period has ended; failed to make the purchase.
 
 ID=58305
 Unable to purchase the item; it has been withdrawn from the market.
+
+ID=58306
+찜한 아이템은 10개까지 등록 가능합니다.
 
 ID=59000
 Your inventory is full, therefore you can not receive the login rewards.
