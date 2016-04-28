@@ -791,7 +791,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 
 ID=112
 Special Ability Mastery I
-[Skill Info:Ground]\nDamage: [172%]\nEffect: Move Speed -60%\nDuration: [5s]\nSA Break: [76%]\nTwo Mines can be placed.\n\n[Skill Info:Air]\nDamage: [274%]\nEffect: Paralyze\nDuration: [3s]\nSA Break: [122%]\n\n[Skill Info:General]\nCooldown: [5s]\nGain SG on hit.\nSG gain varies by monster type.\n\nThrow a slowing trap forward. When used mid-air, you will shoot an electric wave at the ground to inflict paralysis.\n\n[Usage:Ground]\nMouse: (L-Click)\n\n[Usage:Air]\nMouse: After jumping (R-Click)
+[Skill Info:Ground]\nDamage: [172%]\nEffect: Move Speed -60%\nDuration: [5s]\nSA Break: [76%]\nTwo Mines can be placed.\n\n[Skill Info:Air]\nDamage: [274%]\nEffect: Paralyze\nDuration: [3s]\nSA Break: [122%]\n\n[Skill Info:General]\nCooldown: [5s]\nGain SG on hit.\nSG gain varies by monster type.\n\nThrow a slowing trap forward. When used mid-air, you will shoot an electric wave at the ground to inflict paralysis.\n\n[Usage:Ground]\nMouse: (R-Click)\n\n[Usage:Air]\nMouse: After jumping (R-Click)
 [Ground]\nDamage: [172%]+9%\nSA Break: [76%]+4%\nSG Gain +20%.\n\n[Aerial]\nDamage:[274%]+13%\nSA Break: [122%]+6%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_OwnAbility
 0
@@ -805,7 +805,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 
 ID=122
 Special Ability Mastery II
-[Skill Info:Ground]\nDamage: [181%]\nEffect: Move Speed -60%\nDuration: [5s]\nSA Break: [80%]\nTwo Mines can be placed.\n\n[Skill Info:Air]\nDamage: [287%]\nEffect: Paralyze\nDuration: [3s]\nSA Break: [128%]\n\n[Skill Info:General]\nCooldown: [5s]\nGain SG +20%.\nSG gain varies by monster type.\n\nThrow a slowing trap forward. When used mid-air, you will shoot an electric wave at the ground to inflict paralysis.\n\n[Usage:Ground]\nMouse: (L-Click)\n\n[Usage:Air]\nMouse: After jumping (R-Click)
+[Skill Info:Ground]\nDamage: [181%]\nEffect: Move Speed -60%\nDuration: [5s]\nSA Break: [80%]\nTwo Mines can be placed.\n\n[Skill Info:Air]\nDamage: [287%]\nEffect: Paralyze\nDuration: [3s]\nSA Break: [128%]\n\n[Skill Info:General]\nCooldown: [5s]\nGain SG +20%.\nSG gain varies by monster type.\n\nThrow a slowing trap forward. When used mid-air, you will shoot an electric wave at the ground to inflict paralysis.\n\n[Usage:Ground]\nMouse: (R-Click)\n\n[Usage:Air]\nMouse: After jumping (R-Click)
 [Ground]\nDamage: [181%]+21%\nSA Break: [80%]+10%\nSG Gain: [20%]+[50%]\n\n[Aerial]\nDamage:[287%]+34%\nSA Break: [128%]+15%\nSG Gain: [20%]+[50%]
 Icon/Skill/GunJazz/Icon_GJazz_Skill_OwnAbility
 0
@@ -819,7 +819,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 
 ID=132
 Special Ability Mastery III
-[Skill Info:Ground]\nDamage: [202%]\nEffect: Move Speed -60%\nDuration: [5s]\nSA Break: [90%]\nTwo Mines can be placed.\n\n[Skill Info:Air]\nDamage: [321%]\nEffect: Paralyze\nDuration: [3s]\nSA Break: [143%]\n\n[Skill Info:General]\nCooldown: [5s]\nGain SG +70%.\nSG gain varies by monster type.\n\nThrow a slowing trap forward. When used mid-air, you will shoot an electric wave at the ground to inflict paralysis.\n\n[Usage:Ground]\nMouse: (L-Click)\n\n[Usage:Air]\nMouse: After jumping (R-Click)
+[Skill Info:Ground]\nDamage: [202%]\nEffect: Move Speed -60%\nDuration: [5s]\nSA Break: [90%]\nTwo Mines can be placed.\n\n[Skill Info:Air]\nDamage: [321%]\nEffect: Paralyze\nDuration: [3s]\nSA Break: [143%]\n\n[Skill Info:General]\nCooldown: [5s]\nGain SG +70%.\nSG gain varies by monster type.\n\nThrow a slowing trap forward. When used mid-air, you will shoot an electric wave at the ground to inflict paralysis.\n\n[Usage:Ground]\nMouse: (R-Click)\n\n[Usage:Air]\nMouse: After jumping (R-Click)
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_OwnAbility
 0
@@ -4696,14 +4696,14 @@ When attacked, there is a 10% chance at a limit of once per second of increasing
 0
 
 ID=30023
-A Lethal Blow I
+Lethal Blow I
 When landing a hit, 5% chance to increase CRIT rate by 20% for 2 sec. (Cooldown: 15 sec)
 .
 0
 0
 
 ID=30031
-A Lethal Blow II
+Lethal Blow II
 When landing a hit, 10% chance to increase CRIT rate by 20% for 3 sec. (Cooldown: 15 sec)
 .
 0
@@ -4837,21 +4837,21 @@ When you jump, 10% chance of recovering 20% SG (Cooldown: 10 sec)
 
 ID=30092
 Former Teen Idol Talent I
-シンシアが登場し、周囲にいる味方のHPを持続時間中最大6%回復する。(クールタイム30秒)
+Cynthia appears and heals all ally's HP by 6% over time. (Cooldown: 30 sec)
 .
 0
 0
 
 ID=30093
 Former Teen Idol Talent II
-シンシアが登場し、周囲にいる味方のHPを持続時間中最大11%回復する。(クールタイム30秒)
+Cynthia appears and heals all ally's HP by 11% over time. (Cooldown: 30 sec)
 .
 0
 0
 
 ID=30101
 Former Teen Idol Talent III
-シンシアが登場し、周囲にいる味方のHPを持続時間中最大15%回復する。(クールタイム30秒)
+Cynthia appears and heals all ally's HP by 15% over time. (Cooldown: 30 sec)
 .
 0
 0
@@ -4963,21 +4963,21 @@ When attacked, there is a 5% chance of increasing attack by 15% for 2 sec. (Cool
 
 ID=30152
 Revengeful Demon I
-クリティカル命中時、5%の確率で2秒間、全ての攻撃がクリティカルで発動する。(クールタイム30秒)
+When you land a Critical Hit, there is 5% chance for every hit to be Critical for 2 seconds. (Cooldown: 30 sec) 
 .
 0
 0
 
 ID=30153
 Quadra Gang Assault
-攻撃命中時、10%の確率で3秒間、攻撃速度が10%上昇する。(クールタイム10秒)
+When you land a hit, there is 10% chance for Attack Speed to increase by 10% for 3 seconds. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30161
 Quadra Gang Assault II
-攻撃命中時、10%の確率で5秒間、攻撃速度が10%上昇する。(クールタイム10秒)
+When you land a hit, there is 10% chance for Attack Speed to increase by 10% for 5 seconds. (Cooldown: 10 sec)
 .
 0
 0
@@ -5061,14 +5061,14 @@ Summon many snakes to attack surrounding enemies (Cooldown: 80 sec)
 
 ID=30201
 Roar I
-空中攻撃命中時、50%の確率でHPが3%回復する。(クールタイム40秒)
+When you land an Aerial Hit, there is 50% chance to heal HP by 3%. (Cooldown: 40 sec)
 .
 0
 0
 
 ID=30202
 Roar II
-空中攻撃命中時、50%の確率でHPが6%回復する。(クールタイム30秒)
+When you land an Aerial Hit, there is 50% chance to heal HP by 6%. (Cooldown: 40 sec)
 .
 0
 0
@@ -5082,14 +5082,14 @@ When attacked, recover 5% stamina. (Cooldown: 20 sec)
 
 ID=30211
 Eerie Bird Wings I
-攻撃命中時、15%の確率で3秒間、防御度が50%上昇する。(クールタイム10秒)
+When you land a hit, there is 15% chance to increase Defense by 50%. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30212
 Eerie Bird Wings I
-攻撃命中時、20%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
+When you land a hit, there is 20% chance to increase Defense by 50%. (Cooldown: 10 sec)
 .
 0
 0
@@ -5124,14 +5124,14 @@ When attacked, there is a 10% chance to recover 5% HP. (Cooldown: 10 sec)
 
 ID=30231
 Soul Drain I
-攻撃命中時、4%の確率でSGが10%回復する。(クールタイム30秒)
+When you land a hit, there is 4% chance to heal SG by 10%. (Cooldown: 30 sec)
 .
 0
 0
 
 ID=30232
 Soul Drain II
-攻撃命中時、5%の確率でSGが10%回復する。(クールタイム30秒)
+When you land a hit, there is 5% chance to heal SG by 10%. (Cooldown: 30 sec)
 .
 0
 0
@@ -5585,14 +5585,14 @@ When an ally is almost dead, there is a 60% chance of increasing ATK by 40% for 
 0
 
 ID=30462
-An Otaku's Potential I
+Otaku's Potential I
 When attacked, there is a 20% chance of recovering HP and SG for 3% per sec for 5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30463
-An Otaku's Potential II
+Otaku's Potential II
 When attacked, there is a 20% chance of recovering HP and SG for 5% per sec for 5 sec. (Cooldown: 10 sec)
 .
 0
@@ -5991,42 +5991,42 @@ When hit, 20% chance for 5 seconds of Defense +50% (Cooldown for 10 seconds)
 0
 
 ID=30661
-A Lethal Blow I
+Lethal Blow I
 When landing a hit, there is a 5% chance of increasing CRIT by 20% for 2.5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30662
-A Lethal Blow II
+Lethal Blow II
 When landing a hit, there is a 10% chance of increasing CRIT by 20% for 3.5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30663
-A Lethal Blow III
+Lethal Blow III
 When landing a hit, there is a 15% chance of increasing CRIT by 20% for 4.5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30671
-A Lethal Blow I
+Lethal Blow I
 When landing a hit, there is a 10% chance of increasing CRIT by 20% for 2.5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30672
-A Lethal Blow II
+Lethal Blow II
 When landing a hit, there is a 15% chance of increasing CRIT by 20% for 3.5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30673
-A Lethal Blow III
+Lethal Blow III
 When landing a hit, there is a 20% chance of increasing CRIT by 20% for 4.5 sec. (Cooldown: 10 sec)
 .
 0

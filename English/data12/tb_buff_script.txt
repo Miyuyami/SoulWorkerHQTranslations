@@ -71,7 +71,7 @@ Icon/Buff/Icon_Common_Buff_CRI
 0
 
 ID=108
-+Super Armor
+Super Armor
 Gain super armor for 5 seconds.
 Icon/Buff/Icon_Common_Buff_SArmor
 0
@@ -492,61 +492,61 @@ Paralyzed
 
 ID=1601
 Sleep Lv1
-Character is asleep for 0.5 seconds; canceled when attacked.
+Character is asleep for 0.5 seconds; cancelled when attacked.
 Icon/Buff/Icon_Common_Debuff_Sleep
 Sleep
 
 ID=1602
 Sleep Lv2
-Character is asleep for 1 second; canceled when attacked.
+Character is asleep for 1 second; cancelled when attacked.
 Icon/Buff/Icon_Common_Debuff_Sleep
 Sleep
 
 ID=1603
 Sleep Lv3
-Character is asleep for 1.5 seconds; canceled when attacked.
+Character is asleep for 1.5 seconds; cancelled when attacked.
 Icon/Buff/Icon_Common_Debuff_Sleep
 Sleep
 
 ID=1604
 Sleep Lv4
-Character is asleep for 2 seconds; canceled when attacked.
+Character is asleep for 2 seconds; cancelled when attacked.
 Icon/Buff/Icon_Common_Debuff_Sleep
 Sleep
 
 ID=1605
 Sleep Lv5
-Character is asleep for 2.5 seconds; canceled when attacked.
+Character is asleep for 2.5 seconds; cancelled when attacked.
 Icon/Buff/Icon_Common_Debuff_Sleep
 Sleep
 
 ID=1606
 Sleep Lv6
-Character is asleep for 3 seconds; canceled when attacked.
+Character is asleep for 3 seconds; cancelled when attacked.
 Icon/Buff/Icon_Common_Debuff_Sleep
 Sleep
 
 ID=1607
 Sleep Lv7
-Character is asleep for 3.5 seconds; canceled when attacked.
+Character is asleep for 3.5 seconds; cancelled when attacked.
 Icon/Buff/Icon_Common_Debuff_Sleep
 Sleep
 
 ID=1608
 Sleep Lv8
-Character is asleep for 4 seconds; canceled when attacked.
+Character is asleep for 4 seconds; cancelled when attacked.
 Icon/Buff/Icon_Common_Debuff_Sleep
 Sleep
 
 ID=1609
 Sleep Lv9
-Character is asleep for 4.5 seconds; canceled when attacked.
+Character is asleep for 4.5 seconds; cancelled when attacked.
 Icon/Buff/Icon_Common_Debuff_Sleep
 Sleep
 
 ID=1610
 Sleep Lv10
-Character is asleep for 5 seconds; canceled when attacked.
+Character is asleep for 5 seconds; cancelled when attacked.
 Icon/Buff/Icon_Common_Debuff_Sleep
 Sleep
 
@@ -1904,7 +1904,7 @@ ID=21251
 Persevere
 Gain super armor for 15 seconds.
 Icon/Buff/Icon_Common_Buff_SArmor
-+Super Armor
+Super Armor
 
 ID=21252
 Destroyed
@@ -2795,7 +2795,7 @@ Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
 ID=50031
-A Lethal Blow Lv1
+Lethal Blow Lv1
 When hitting with an attack, 1% chance of Critical Rate +20% for 2 seconds.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate ↑
@@ -2921,13 +2921,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
 ID=53023
-A Lethal Blow I
+Lethal Blow I
 When landing a hit, 5% chance of increasing CRIT by 20% for 2 sec. (Cooldown: 15 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53031
-A Lethal Blow II
+Lethal Blow II
 When landing a hit, 10% chance of increasing CRIT by 20% for 2 sec. (Cooldown: 15 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
@@ -2948,7 +2948,7 @@ ID=53041
 一挙入魂Ⅰ
 When landing a hit, 3% chance of gaining super armor for 3 sec. (Cooldown: 15 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
-+Super Armor
+Super Armor
 
 ID=53042
 疾走チュウⅠ
@@ -3360,7 +3360,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53352
 逃走注意Ⅰ
-スーパーアーマーブレイクが発生すると、50%の確率で3秒間、移動速度が50%上昇する。(クールタイム1分)
+When breaking super armor, 50% chance to increase movement speed by 50% for 3 sec. Cooldown: 1 min
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
@@ -3521,13 +3521,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53462
-An Otaku's Potential I
+Otaku's Potential I
 20% chance of HP & SG +3% per sec for 5 sec when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53463
-An Otaku's Potential II
+Otaku's Potential II
 20% chance of HP & SG +5% per sec for 5 sec when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
@@ -3815,37 +3815,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
 ID=53569
-A Lethal Blow I
+Lethal Blow I
 When landing a hit, there is a 5% chance of increasing CRIT rate by 20% for 2.5 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53570
-A Lethal Blow II
+Lethal Blow II
 When landing a hit, there is a 10% chance of increasing CRIT rate by 20% for 3.5 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53571
-A Lethal Blow III
+Lethal Blow III
 When landing a hit, there is a 15% chance of increasing CRIT rate by 20% for 4.5 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53572
-A Lethal Blow I
+Lethal Blow I
 When landing a hit, there is a 10% chance of increasing CRIT rate by 20% for 2.5 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53573
-A Lethal Blow II
+Lethal Blow II
 When landing a hit, there is a 15% chance of increasing CRIT rate by 20% for 2.5 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53574
-A Lethal Blow III
+Lethal Blow III
 When landing a hit, there is a 20% chance of increasing CRIT rate by 20% for 4.5 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
