@@ -2801,38 +2801,38 @@ Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate ↑
 
 ID=50041
-好戦の証明Lv1
+Official Military Certificate Lv1
 5% chance of Attack +10% for 2 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=50051
-一挙入魂Lv1
+Determined Resolve Lv1
 When hitting a normal or elite monster, you have a 1% chance to stun for 1 second.
 Icon/Buff/Icon_Common_Debuff_Stun
 Stunned
 
 ID=50061
-疾走チュウLv1
-装着時、一定時間毎に10%の確率で2秒間、移動速度が10%増加する。
+Dashing Sprint Lv1
+When registered, periodically, there is a 10% chance to increase movement speed by 10% for 2 sec.
 Icon/Buff/Icon_Common_Buff_MSR
 Move Speed ↑
 
 ID=50081
-日光浴Lv1
-装着時、一定時間毎に3%の確率で3秒間、HPが1秒あたり10%回復する。
+Sunbathing Lv1
+When registered, periodically, there is a 3% chance recover 10% HP per sec for 3 sec.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=50071
-心眼Lv1
-攻撃命中時、1%の確率で命中度が10%下落し、攻撃力が20%上昇する。
+Mind's Eye Lv1
+When hitting with an attack, 1% chance to reduce ACC by 10% and increase ATK by 20%..
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=50101
 Vacuum Lv1
-クリティカル命中時、10%の確率でHPが2%回復する。
+When landing a critical hit, 10% chance to recover 2% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -2844,13 +2844,13 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=50121
 元アイドルの実力Lv1
-シンシアが踊り、周囲のプレイヤーのHPを回復させる。
+Cynthia dances, and restores HP to nearby allies.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=50141
 Self-recover power Lv.1
-攻撃命中時、1%の確率でスタミナが10%回復する。
+When landing a hit, 1% chance to recover stamina by 10%.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +Stamina
 
@@ -2892,13 +2892,13 @@ Attack Power ↑
 
 ID=50211
 復讐鬼Lv1
-クリティカル命中時、5%の確率で2秒間、全ての攻撃がクリティカルになる。
+When landing a critical hit, 5% chance of having all further attacks be critical hits for 2 sec.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate ↑
 
 ID=50521
 搭乗サービスLv1
-装着時、一定時間毎にHPを500回復する。
+When registered, periodically recover 500 HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -2933,13 +2933,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53032
-好戦の証明Ⅰ
+Official Military Certificate I
 5% chance of Attack +8% for 2 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53033
-好戦の証明Ⅱ
+Official Military Certificate II
 10% chance of Attack +8% for 3 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
@@ -2958,18 +2958,18 @@ Move Speed ↑
 
 ID=53043
 疾走チュウⅡ
-毎秒20%の確率で2秒間、移動速度が10%上昇する。（クールタイム13秒）
+Every second, there is a 20% chance of increasing MV SPD by 10% for 2 sec. (Cooldown: 13 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
 ID=53051
-心眼Ⅰ
+Mind's Eye I
 When landing a hit, 4% chance of HP recovering by 5% (Cooldown : 1 minute)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53052
-心眼Ⅱ
+Mind's Eye II
 When landing a hit, 5% chance of HP recovering by 5% (Cooldown : 1 minute)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
@@ -3096,7 +3096,7 @@ Attack Power ↑
 
 ID=53152
 復讐鬼Ⅰ
-クリティカル命中時、5%の確率で2秒間、全ての攻撃がクリティカルに固定される効果が発生する。(クールタイム30秒)
+When landing a critical hit, 5% chance of having all further attacks be critical hits for 2 sec. (Cooldown: 30 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
@@ -3114,7 +3114,7 @@ Attack Speed ↑
 
 ID=53162
 山のごときⅠ
-毎秒30%の確率で10秒間、攻撃力が20%減少し、防御度が100%上昇する。（クールタイム60秒）
+Every second, there is a 30% chance of increasing DEF by 100% and reducing ATK by 20% for 10 sec. (Cooldown: 60 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
@@ -3138,7 +3138,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53173
 Surprise Attack Pro I
-クリティカル攻撃時、5%の確率でSGが10%回復する。(クールタイム20秒)
+When landing a critical attack, there is a 5% chance to recover 10% SG (Cooldown: 20 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
@@ -3150,7 +3150,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53182
 子供は風の子Ⅰ
-ダッシュ中、5%の確率で5秒間、攻撃力が10%上昇する。
+When dashing, there is a 5% chance of increasing ATK by 10% for 5 sec.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
@@ -3162,13 +3162,13 @@ Attack Power ↑
 
 ID=53201
 轟音Ⅰ
-空中攻撃命中時、50%の確率でHPが3%回復する。(クールタイム40秒)
+When landing an aerial attack, 50% chance to recover 3% HP. (Cooldown: 40 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53202
 轟音Ⅱ
-空中攻撃命中時、50%の確率でHPが6%回復する。(クールタイム30秒)
+When landing an aerial attack, 50% chance to recover 6% HP. (Cooldown: 30 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
@@ -3192,13 +3192,13 @@ Defense↑
 
 ID=53213
 物質変換Ⅰ
-アイテム入手時、20%の確率で5秒間、攻撃力が10%上昇する。(クールタイム30秒)
+When obtaining an item, there is a 20% chance of increasing ATK by 10% for 5 sec. (Cooldown: 30 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53221
 物質変換Ⅱ
-アイテム入手時、30%の確率で5秒間、攻撃力が10%上昇する。(クールタイム30秒)
+When obtaining an item, there is a 30% chance of increasing ATK by 10% for 5 sec. (Cooldown: 30 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
@@ -3216,13 +3216,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53231
 ソウルドレインⅠ
-攻撃命中時、4%の確率でSGが10%回復する。(クールタイム30秒)
+When landing an attack, 4% chance to recover 10% SG. (Cooldown: 30 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53232
 ソウルドレインⅡ
-攻撃命中時、5%の確率でSGが10%回復する。(クールタイム30秒)
+When landing an attack, 5% chance to recover 10% SG. (Cooldown: 30 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
@@ -3240,7 +3240,7 @@ Attack Power ↑
 
 ID=53273
 Crimson Gaze I 
-状態異常にかかると、HPが10%回復する。(クールタイム30秒)
+When an abnormal state is inflicted, recover 10% HP. (Cooldown: 30 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
@@ -3282,7 +3282,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53301
 決死の攻撃Ⅰ
-攻撃命中時、5秒間、防御度が50%減少し、攻撃力が15%上昇する。(クールタイム30秒)
+When landing a hit, DEF is decreased by 50% and ATK is increased by 15% (Cooldown: 30 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
@@ -3300,13 +3300,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53311
 ラッシュの時間Ⅰ
-クリティカル命中時、10%の確率で4秒間、攻撃速度が10%上昇する。(クールタイム40秒)
+During a critical hit, there is a 10% chance of increasing ATK SPD by 10% for 4 sec. (Cooldown: 40 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53312
 ラッシュの時間Ⅱ
-クリティカル命中時、10%の確率で6秒間、攻撃速度が10%上昇する。(クールタイム40秒)
+During a critical hit, there is a 10% chance of increasing ATK SPD by 10% for 6 sec. (Cooldown: 40 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
@@ -3336,13 +3336,13 @@ Defense↑
 
 ID=53331
 クリティカルパワーⅠ
-クリティカル命中時、50%の確率で2秒間、攻撃力が3%上昇する。(クールタイム1秒)
+During a critical hit, there is a 50% chance of increasing ATK by 3% for 2 sec. (Cooldown: 1 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53332
 クリティカルパワーⅡ
-クリティカル命中時、50%の確率で2秒間、攻撃力が4%上昇する。(クールタイム1秒)
+During a critical hit, there is a 50% chance of increasing ATK by 4% for 2 sec. (Cooldown: 1 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
@@ -3366,7 +3366,7 @@ Move Speed ↑
 
 ID=53353
 ビジネスエナジーⅠ
-敵死亡時、10%の確率でSGが10%回復する。(クールタイム1分)
+When defeating an enemy, there is a 10% chance to recover 10% SG (Cooldown: 1 min)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
@@ -3384,13 +3384,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53363
 静寂の暗殺者Ⅰ
-10% chance of Attack +5% for 3 seconds after killing an enemy. (15 sec. cooldown)
+After defeating an enemy, 10% chance of ATK SPD +5% for 3 sec. (15 sec. Cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53371
 静寂の暗殺者Ⅱ
-10% chance of Attack +5% for 5 seconds after killing an enemy. (10 sec. cooldown)
+After defeating an enemy, 10% chance of ATK SPD +5% for 5 sec. (15 sec. Cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
@@ -3408,7 +3408,7 @@ Attack Power ↑
 
 ID=53391
 忘れ物センターⅠ
-アイテム入手時、10%の確率で2秒間、無敵状態になる。(クールタイム1分)
+When obtaining an item, there is a 10% chance of being invincible for 2 sec. (Cooldown: 1 min)
 Icon/Buff/Icon_Common_Buff_Akashic
 Invincible
 
@@ -3420,7 +3420,7 @@ Attack Power ↑
 
 ID=53403
 サイレントヒーリングⅠ
-空中攻撃命中時、スタミナを5%回復する。(クールタイム1分)
+When landing an aerial attack, recover 5% stamina (Cooldown: 1 min)
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
@@ -3438,13 +3438,13 @@ Move Speed ↑
 
 ID=53413
 使者の花Ⅰ
-スーパーアーマーブレイクが発生すると、10%の確率で10秒間、攻撃力が15%上昇する。(クールタイム1分)
+When super armor is broken, there is a 10% chance to increase ATK by 15% for 10 sec. (Cooldown: 1 min)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53421
 使者の花Ⅱ
-スーパーアーマーブレイクが発生すると、20%の確率で10秒間、攻撃力が15%上昇する。(クールタイム1分)
+When super armor is broken, there is a 20% chance to increase ATK by 15% for 10 sec. (Cooldown: 1 min)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
@@ -3474,13 +3474,13 @@ Defense↑
 
 ID=53433
 吹き飛べⅠ
-During an attack, there is a 10% chance of increasing move speed and ATK by 5% for 3 sec. (Cooldown: 10 sec)
+During an attack, there is a 10% chance of increasing movement speed and ATK SPD by 5% for 3 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53441
 吹き飛べⅡ
-During an attack, there is a 10% chance of increasing move speed and ATK by 5% for 5 sec. (Cooldown: 10 sec)
+During an attack, there is a 10% chance of increasing movement speed and ATK SPD by 5% for 5 sec. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
@@ -3552,13 +3552,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53511
 ラジオスターⅠ
-第6区域でのみ適用。10秒ごとに3秒間、攻撃力が3%上昇する。
+While within the No. 6 District, every 10 sec, ATK increases by 3% for 3 sec.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53512
 ラジオスターⅡ
-第6区域でのみ適用。10秒ごとに5秒間、攻撃力が5%上昇する。
+While within the No. 6 District, every 10 sec, ATK increases by 5% for 5 sec.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
@@ -3851,37 +3851,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53575
-好戦の証明Ⅰ
+Official Military Certificate I
 5% chance of Attack +10% for 2.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53576
-好戦の証明Ⅱ
+Official Military Certificate II
 10% chance of Attack +10% for 3.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53577
-好戦の証明Ⅲ
+Official Military Certificate III
 15% chance of Attack +10% for 4.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53578
-好戦の証明Ⅰ
+Official Military Certificate I
 10% chance of Attack +10% for 2.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53579
-好戦の証明Ⅱ
+Official Military Certificate II
 15% chance of Attack +10% for 3.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53580
-好戦の証明Ⅲ
+Official Military Certificate III
 20% chance of Attack +10% for 4.5 sec. when hit by an enemy. (10 sec. cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
@@ -3894,13 +3894,13 @@ Move Speed ↑
 
 ID=53582
 疾走チュウⅡ
-毎秒20%の確率で3秒間、移動速度が10%上昇する。（クールタイム13秒）
+Every second, there is a 20% chance of increasing MV SPD by 10% for 3 sec. (Cooldown: 13 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
 ID=53583
 疾走チュウⅢ
-毎秒30%の確率で3.5秒間、移動速度が10%上昇する。（クールタイム11秒）
+Every second, there is a 30% chance of increasing MV SPD by 10% for 3.5 sec. (Cooldown: 11 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
@@ -3912,48 +3912,48 @@ Move Speed ↑
 
 ID=53585
 疾走チュウⅡ
-毎秒25%の確率で3.5秒間、移動速度が10%上昇する。（クールタイム13秒）
+Every second, there is a 25% chance of increasing MV SPD by 10% for 3.5 sec. (Cooldown: 13 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
 ID=53586
 疾走チュウⅢ
-毎秒35%の確率で4秒間、移動速度が10%上昇する。（クールタイム11秒）
+Every second, there is a 35% chance of increasing MV SPD by 10% for 4 sec. (Cooldown: 11 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
 ID=53587
-心眼Ⅰ
+Mind's Eye I
 When landing a hit, 7% chance of HP recovering by 10% (Cooldown : 60 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53588
-心眼Ⅱ
+Mind's Eye II
 When landing a hit, 12% chance of HP recovering by 10% (Cooldown : 60 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53589
-心眼Ⅲ
+Mind's Eye III
 When landing a hit, 17% chance of HP recovering by 10% (Cooldown : 60 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53590
-心眼Ⅰ
+Mind's Eye I
 When landing a hit, 9% chance of HP recovering by 10% (Cooldown : 60 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53591
-心眼Ⅱ
+Mind's Eye II
 When landing a hit, 14% chance of HP recovering by 10% (Cooldown : 60 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53592
-心眼Ⅲ
+Mind's Eye III
 When landing a hit, 19% chance of HP recovering by 10% (Cooldown : 60 seconds)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
@@ -4176,37 +4176,37 @@ Attack Power ↑
 
 ID=53629
 猛攻四連Ⅰ
-When hitting with an attack, 15% chance of Attack Speed +3% for 2.5 seconds. (Maximum 3 duplicates)
+When hitting with an attack, 15% chance of Attack Speed +3% for 2.5 seconds. (Maximum 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53630
 猛攻四連Ⅱ
-When hitting with an attack, 15% chance of Attack Speed +3% for 3 seconds. (Maximum 3 duplicates)
+When hitting with an attack, 15% chance of Attack Speed +3% for 3 seconds. (Maximum 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53631
 猛攻四連Ⅲ
-When hitting with an attack, 15% chance of Attack Speed +3% for 3.5 seconds. (Maximum 3 duplicates)
+When hitting with an attack, 15% chance of Attack Speed +3% for 3.5 seconds. (Maximum 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53632
 猛攻四連Ⅰ
-When hitting with an attack, 15% chance of Attack Speed +5% for 2.5 seconds. (Maximum 3 duplicates)
+When hitting with an attack, 15% chance of Attack Speed +5% for 2.5 seconds. (Maximum 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53633
 猛攻四連Ⅱ
-When hitting with an attack, 15% chance of Attack Speed +5% for 3.5 seconds. (Maximum 3 duplicates)
+When hitting with an attack, 15% chance of Attack Speed +5% for 3.5 seconds. (Maximum 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53634
 猛攻四連Ⅲ
-When hitting with an attack, 15% chance of Attack Speed +5% for 4.5 seconds. (Maximum 3 duplicates)
+When hitting with an attack, 15% chance of Attack Speed +5% for 4.5 seconds. (Maximum 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
@@ -4248,19 +4248,19 @@ Accuracy↑
 
 ID=53641
 眩しい
-A.Rカードの合成時に使用すると合成経験値を獲得できる。ステータス上昇効果はない。
+This card is used for boosting the A.R. card's EXP for further card synthesis. There are no applicable status effects to this card.
 0
 0
 
 ID=53642
 お腹パンパン
-アイテムモールで購入したA.Rカードの合成経験値2倍効果が適用される。ステータス上昇効果はない。
+This card purchased from the item mall is used for doubling the A.R. card's EXP earned during card synthesis. There are no applicable status effects to this card.
 0
 0
 
 ID=53643
 お腹パンパン
-アイテムモールで購入したA.Rカードの合成経験値3倍効果が適用される。ステータス上昇効果はない。
+This card purchased from the item mall is used for tripling he A.R. card's EXP earned during card synthesis. There are no applicable status effects to this card.
 0
 0
 
@@ -4344,37 +4344,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53664
 怪鳥の翼Ⅰ
-命中時、10%の確率で次の一撃の攻撃力が5%増加する。(クールタイム8秒)
+When hit, the next attack's ATK will increase by 5% at 10% chance. (Cooldown: 8 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53665
 怪鳥の翼Ⅱ
-命中時、10%の確率で次の一撃の攻撃力が7%増加する。(クールタイム8秒)
+When hit, the next attack's ATK will increase by 7% at 10% chance. (Cooldown: 8 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53666
 怪鳥の翼Ⅲ
-命中時、10%の確率で次の一撃の攻撃力が10%増加する。(クールタイム8秒)
+When hit, the next attack's ATK will increase by 10% at 10% chance. (Cooldown: 8 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53667
 怪鳥の翼Ⅰ
-命中時、10%の確率で次の一撃の攻撃力が6%増加する。(クールタイム8秒)
+When hit, the next attack's ATK will increase by 6% at 10% chance. (Cooldown: 8 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53668
 怪鳥の翼Ⅱ
-命中時、10%の確率で次の一撃の攻撃力が10%増加する。(クールタイム8秒)
+When hit, the next attack's ATK will increase by 10% at 10% chance. (Cooldown: 8 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53669
 怪鳥の翼Ⅲ
-命中時、10%の確率で次の一撃の攻撃力が15%増加する。(クールタイム8秒)
+When hit, the next attack's ATK will increase by 15% at 10% chance. (Cooldown: 8 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 

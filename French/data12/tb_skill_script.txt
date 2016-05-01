@@ -42,7 +42,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 
 ID=111
 Capacité Spéciale I
-[Infos: Sol]\nDégâts: [175%]\nDégâts SA: [140%]\n\n[Infos: Air]\nDégâts:[229%]\nDégâts SA: [170%]\n\n[Infos: Générales]\nTps Recharge: 10s\nGain de SG.\nLe gain de SG varie selon le type d'ennemi.\n\nEnvoi l'ennemi en l'air.\n\n[Usage: Sol]\nSouris: (Clic-D)\n\n[Usage: Air]\nSouris: Lors d'un saut (Clic-D)
+[Infos: Sol]\nDégâts: [175%]\nDégâts SA: [140%]\n\n[Infos: Air]\nDégâts:[229%]\nDégâts SA: [170%]\n\n[Infos: Générales]\nTps de Recharge: 10s\nGain de SG.\nLe gain de SG varie selon le type d'ennemi.\n\nEnvoi l'ennemi en l'air.\n\n[Usage: Sol]\nSouris: (Clic-D)\n\n[Usage: Air]\nSouris: Lors d'un saut (Clic-D)
 [Sol]\nDégâts: [175%]+9%\nDégâts SA: [140%]+7%\n\n[Air]\nDégâts: [229%]+12%\nDégâts SA: [170%]+8%\nMaintient l'ennemi en l'air plus longtemps.\n\n[Général]\nGain SG +20%.
 Icon/Skill/SoulumSword/Icon_SSword_Skill_OwnAbility
 0
@@ -56,7 +56,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 
 ID=121
 Capacité Spéciale II
-[Infos: Sol]\nDégâts: [184%]\nDégâts SA: [147%]\n\n[Infos: Air]\nDégâts:[241%]\nDégâts SA: [178%]\n\n[Infos: Générales]\nTps Recharge: 10s\nGain SG +20%.\nLe gain de SG varie selon le type d'ennemi.\n\nMaintient l'ennemi en l'air plus longtemps.\n\n[Usage: Sol]\nSouris: (Clic-D)\n\n[Usage: Air]\nSouris: Lors d'un saut (Clic-D)
+[Infos: Sol]\nDégâts: [184%]\nDégâts SA: [147%]\n\n[Infos: Air]\nDégâts:[241%]\nDégâts SA: [178%]\n\n[Infos: Générales]\nTps de Recharge: 10s\nGain SG +20%.\nLe gain de SG varie selon le type d'ennemi.\n\nMaintient l'ennemi en l'air plus longtemps.\n\n[Usage: Sol]\nSouris: (Clic-D)\n\n[Usage: Air]\nSouris: Lors d'un saut (Clic-D)
 [Sol]\nDégâts: [184%]+22%\nDégâts SA: [147%]+18%\n\n[Air]\nDégâts: [241%]+29%\nDégâts SA: [178%]+22%\nMaintient l'ennemi en l'air plus longtemps.\n\n[Général]\nGain SG [+20%.]+50%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_OwnAbility
 0
@@ -70,7 +70,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 
 ID=131
 Capacité Spéciale III
-[Infos: Sol]\nDégâts: [206%]\nDégâts SA: [165%]\n\n[Infos: Air]\nDégâts:[270%]\nDégâts SA: [200%]\n\n[Infos: Générales]\nTps Recharge: 10s\nGain SG +70%.\nLe gain de SG varie selon le type d'ennemi.\n\nEnvoi l'ennemi en l'air.\n\n[Usage: Sol]\nSouris: (Clic-D)\n\n[Usage: Air]\nSouris: Lors d'un saut (Clic-D)
+[Infos: Sol]\nDégâts: [206%]\nDégâts SA: [165%]\n\n[Infos: Air]\nDégâts:[270%]\nDégâts SA: [200%]\n\n[Infos: Générales]\nTps de Recharge: 10s\nGain SG +70%.\nLe gain de SG varie selon le type d'ennemi.\n\nEnvoi l'ennemi en l'air.\n\n[Usage: Sol]\nSouris: (Clic-D)\n\n[Usage: Air]\nSouris: Lors d'un saut (Clic-D)
 Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_OwnAbility
 0
@@ -105,63 +105,63 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=1041
 Esquive I
-[Info]\nEndurance: [20]\n\nEsquive dans une directon.\nNe subît pas de dégâts lors d'une esquive.\n\nUsage\nSouris:\n[1] (Touche Direction) + (MAJ)\n[2] (Touche Direction) x2.
+[Infos]\nCoût en Endurance: [20]\n\nEsquive dans une directon.\nNe subît pas de dégâts lors d'une esquive.\n\nUsage\nClavier:\n[1] (Touche Direction) + (MAJ)\n[2] (Touche Direction) x2.
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=1081
 Roulade I
-[Info]\nEndurance: [25]\n\nRelevez vous en roulant dans une direction.\nNu subît pas de dégâts lors d'une roulade.\n\n[Usage]\nMouse: à terre (Touche Direction) + (MAJ)
-スタミナ消費量：[25]-10
+[Infos]\nCoût en Endurance: [25]\n\nRelevez vous en roulant dans une direction.\nNe subît pas de dégâts lors d'une roulade.\n\n[Usage]\nClavier: Renversé (Touche Direction) + (MAJ)
+Coût en Endurance : [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=1082
 Roulade II
-[スキル情報]\nスタミナ消費量：[15]\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
-回転起床の速度が上昇する。
+[Infos]\nCoût en Endurance: [15]\n\nRelevez vous en roulant dans une direction.\nNe subît pas de dégâts lors d'une roulade.\n\n[Usage]\nClavier: renversé (Touche Direction) + (MAJ)
+Augmente la vitesse d'exécution.
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=1083
 Roulade III
-[スキル情報]\nスタミナ消費量：[15]\n少し早く回転起床ができる。\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
+[Infos]\nCoût en Endurance: [15]\n\nRelevez vous en roulant dans une direction.\nNe subît pas de dégâts lors d'une roulade.\n\n[Usage]\nClavier: à terre (Touche Direction) + (MAJ)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=1101
 Sprint I
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
-ダッシュの速度が上昇する。
+Sprintez vers l'avant.\n\n[Usage]\nClavier: (Touche pour avancer) x2
+Augmente la vitesse du Sprint.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=1102
 Sprint II
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
+Sprintez vers l'avant.\n\n[Usage]\nClavier: (Touche pour avancer) x2
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=1071
 Réaction I
-[スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[30]\nクールタイム：[15秒]\nスキル使用後1秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
-スタミナ消費量：[30]-10
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [30]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+Coût en Endurance: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=1072
 Réaction II
-[スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[20]\nクールタイム：[15秒]\nスキル使用後1秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
-無敵時間が2秒増加する。
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+Durée Invincibilité : +2s
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=1073
 Réaction III
-[スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[20]\nクールタイム：[15秒]\nスキル使用後3秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 3s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
@@ -175,21 +175,21 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 
 ID=1051
 Esquive Améliorée I
-[スキル情報]\nスタミナ消費量：[40]\nクールタイム：[60秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
-クールタイム：[50秒]-10秒
+[Infos]\nCoût en Endurance: [40]\nTps de recharge: [60s]\n\nEsquivez un ennemi vous attaquant.\nNe subît pas de dégâts lors de l'esquive améliorée.\n\n[Usage]\nClavier: En encaissant des dégâts (Touche Direction) + (MAJ)
+Temps de Recharge: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=1052
 Esquive Améliorée II
-[スキル情報]\nスタミナ消費量：[40]\nクールタイム：[50秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
-クールタイム：[50秒]-10秒
+[Infos]\nCoût en Endurance: [40]\nTps de recharge: [50s]\n\nEsquivez un ennemi vous attaquant.\nNe subît pas de dégâts lors de l'esquive améliorée.\n\n[Usage]\nClavier: En encaissant des dégâts (Touche Direction) + (MAJ)
+Temps de Recharge: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=1053
 Esquive Améliorée III
-[スキル情報]\nスタミナ消費量：[40]\nクールタイム：[40秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
+[Infos]\nCoût en Endurance: [40]\nTps de recharge: [40s]\n\nEsquivez un ennemi vous attaquant.\nNe subît pas de dégâts lors de l'esquive améliorée.\n\n[Usage]\nClavier: En encaissant des dégâts (Touche Direction) + (MAJ)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
@@ -203,21 +203,21 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 
 ID=1061
 Rétablissement I
-[スキル情報]\nノックダウン脱出使用時、スタミナを35消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
-スタミナ消費量が5減少する。
+[Infos]\nCoût en Endurance: [35]\ntps de Recharge: [5s]\n\nRelevez-vous rapidement après une mise au sol.\n\n[Usage]\nClavier: Renversé (Barre ESPACE)
+Coût en Endurance: -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=1062
 Rétablissement II
-[スキル情報]\nノックダウン脱出使用時、スタミナを30消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
-スタミナ消費量が5減少する。
+[Infos]\nCoût en Endurance: [30]\ntps de Recharge: [5s]\n\nRelevez-vous rapidement après une mise au sol.\n\n[Usage]\nClavier: Renversé (Barre ESPACE)
+Coût en Endurance: -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=1063
 Rétablissement III
-[スキル情報]\nノックダウン脱出使用時、スタミナを25消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
+[Infos]\nCoût en Endurance: [25]\ntps de Recharge: [5s]\n\nRelevez-vous rapidement après une mise au sol.\n\n[Usage]\nClavier: Renversé (Barre ESPACE)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
@@ -231,21 +231,21 @@ Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 
 ID=1141
 Lutte Sans Fin I
-[スキル情報]\nパッシブ効果：攻撃力[5%]増加\n\n攻撃力が増加する。
-攻撃力増加：[5%]+5%
+[Infos]\nEffet Passif: Puissance d'Attaque +5%\nAugmente vos dégâts.
+Puissance d'Attaque: [5%]+5%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
 0
 
 ID=1142
 Lutte Sans Fin II
-[スキル情報]\nパッシブ効果：攻撃力[10%]増加\n\n攻撃力が増加する。
-攻撃力増加：[10%]+5%
+[Infos]\nEffet Passif: Puissance d'Attaque +10%\nAugmente vos dégâts.
+Puissance d'Attaque: [10%]+5%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
 0
 
 ID=1143
 Lutte Sans Fin III
-[スキル情報]\nパッシブ効果：攻撃力[15%]増加\n\n攻撃力が増加する。
+[Infos]\nEffet Passif: Puissance d'Attaque +15%\nAugmente vos dégâts.
 Niv. Max
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
 0
@@ -854,63 +854,63 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=2041
 Esquive I
-[Info]\nEndurance: [20]\n\nEsquive dans une directon.\nNe subît pas de dégâts lors d'une esquive.\n\nUsage\nSouris:\n[1] (Touche Direction) + (MAJ)\n[2] (Touche Direction) x2.
+[Infos]\nCoût en Endurance: [20]\n\nEsquive dans une directon.\nNe subît pas de dégâts lors d'une esquive.\n\nUsage\nClavier:\n[1] (Touche Direction) + (MAJ)\n[2] (Touche Direction) x2.
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=2081
 Roulade I
-[Info]\nEndurance: [25]\n\nRelevez vous en roulant dans une direction.\nNu subît pas de dégâts lors d'une roulade.\n\n[Usage]\nMouse: à terre (Touche Direction) + (MAJ)
-スタミナ消費量：[25]-10
+[Infos]\nCoût en Endurance: [25]\n\nRelevez vous en roulant dans une direction.\nNe subît pas de dégâts lors d'une roulade.\n\n[Usage]\nClavier: Renversé (Touche Direction) + (MAJ)
+Coût en Endurance : [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=2082
 Roulade II
-[スキル情報]\nスタミナ消費量：[15]\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
-回転起床の速度が上昇する。
+[Infos]\nCoût en Endurance: [15]\n\nRelevez vous en roulant dans une direction.\nNe subît pas de dégâts lors d'une roulade.\n\n[Usage]\nClavier: renversé (Touche Direction) + (MAJ)
+Augmente la vitesse d'exécution.
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=2083
 Roulade III
-[スキル情報]\nスタミナ消費量：[15]\n少し早く回転起床ができる。\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
+[Infos]\nCoût en Endurance: [15]\n\nRelevez vous en roulant dans une direction.\nNe subît pas de dégâts lors d'une roulade.\n\n[Usage]\nClavier: à terre (Touche Direction) + (MAJ)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=2101
 Sprint I
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
-ダッシュの速度が上昇する。
+Sprintez vers l'avant.\n\n[Usage]\nClavier: (Touche pour avancer) x2
+Augmente la vitesse du Sprint.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=2102
 Sprint II
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
+Sprintez vers l'avant.\n\n[Usage]\nClavier: (Touche pour avancer) x2
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=2071
 Réaction I
-[スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[30]\nクールタイム：[15秒]\nスキル使用後1秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
-スタミナ消費量：[30]-10
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [30]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+Coût en Endurance: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=2072
 Réaction II
-[スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[20]\nクールタイム：[15秒]\nスキル使用後1秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
-無敵時間が2秒増加する。
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+Durée Invincibilité : +2s
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=2073
 Réaction III
-[スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[20]\nクールタイム：[15秒]\nスキル使用後3秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 3s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
@@ -924,21 +924,21 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 
 ID=2051
 Esquive Améliorée I
-[スキル情報]\nスタミナ消費量：[40]\nクールタイム：[60秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
-クールタイム：[50秒]-10秒
+[Infos]\nCoût en Endurance: [40]\nTps de recharge: [60s]\n\nEsquivez un ennemi vous attaquant.\nNe subît pas de dégâts lors de l'esquive améliorée.\n\n[Usage]\nClavier: En encaissant des dégâts (Touche Direction) + (MAJ)
+Temps de Recharge: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=2052
 Esquive Améliorée II
-[スキル情報]\nスタミナ消費量：[40]\nクールタイム：[50秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
-クールタイム：[50秒]-10秒
+[Infos]\nCoût en Endurance: [40]\nTps de recharge: [50s]\n\nEsquivez un ennemi vous attaquant.\nNe subît pas de dégâts lors de l'esquive améliorée.\n\n[Usage]\nClavier: En encaissant des dégâts (Touche Direction) + (MAJ)
+Temps de Recharge: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=2053
 Esquive Améliorée III
-[スキル情報]\nスタミナ消費量：[40]\nクールタイム：[40秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
+[Infos]\nCoût en Endurance: [40]\nTps de recharge: [40s]\n\nEsquivez un ennemi vous attaquant.\nNe subît pas de dégâts lors de l'esquive améliorée.\n\n[Usage]\nClavier: En encaissant des dégâts (Touche Direction) + (MAJ)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
@@ -952,21 +952,21 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 
 ID=2061
 Rétablissement I
-[スキル情報]\nノックダウン脱出使用時、スタミナを35消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
-スタミナ消費量が5減少する。
+[Infos]\nCoût en Endurance: [35]\ntps de Recharge: [5s]\n\nRelevez-vous rapidement après une mise au sol.\n\n[Usage]\nClavier: Renversé (Barre ESPACE)
+Coût en Endurance: -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=2062
 Rétablissement II
-[スキル情報]\nノックダウン脱出使用時、スタミナを30消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
-スタミナ消費量が5減少する。
+[Infos]\nCoût en Endurance: [30]\ntps de Recharge: [5s]\n\nRelevez-vous rapidement après une mise au sol.\n\n[Usage]\nClavier: Renversé (Barre ESPACE)
+Coût en Endurance: -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=2063
 Rétablissement III
-[スキル情報]\nノックダウン脱出使用時、スタミナを25消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
+[Infos]\nCoût en Endurance: [25]\ntps de Recharge: [5s]\n\nRelevez-vous rapidement après une mise au sol.\n\n[Usage]\nClavier: Renversé (Barre ESPACE)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
@@ -1603,63 +1603,63 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=3041
 Esquive I
-[Info]\nEndurance: [20]\n\nEsquive dans une directon.\nNe subît pas de dégâts lors d'une esquive.\n\nUsage\nSouris:\n[1] (Touche Direction) + (MAJ)\n[2] (Touche Direction) x2.
+[Infos]\nCoût en Endurance: [20]\n\nEsquive dans une directon.\nNe subît pas de dégâts lors d'une esquive.\n\nUsage\nClavier:\n[1] (Touche Direction) + (MAJ)\n[2] (Touche Direction) x2.
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=3081
 Roulade I
-[Info]\nEndurance: [25]\n\nRelevez vous en roulant dans une direction.\nNu subît pas de dégâts lors d'une roulade.\n\n[Usage]\nMouse: à terre (Touche Direction) + (MAJ)
-スタミナ消費量：[25]-10
+[Infos]\nCoût en Endurance: [25]\n\nRelevez vous en roulant dans une direction.\nNe subît pas de dégâts lors d'une roulade.\n\n[Usage]\nClavier: Renversé (Touche Direction) + (MAJ)
+Coût en Endurance : [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=3082
 Roulade II
-[スキル情報]\nスタミナ消費量：[15]\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
-回転起床の速度が上昇する。
+[Infos]\nCoût en Endurance: [15]\n\nRelevez vous en roulant dans une direction.\nNe subît pas de dégâts lors d'une roulade.\n\n[Usage]\nClavier: renversé (Touche Direction) + (MAJ)
+Augmente la vitesse d'exécution.
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=3083
 Roulade III
-[スキル情報]\nスタミナ消費量：[15]\n少し早く回転起床ができる。\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
+[Infos]\nCoût en Endurance: [15]\n\nRelevez vous en roulant dans une direction.\nNe subît pas de dégâts lors d'une roulade.\n\n[Usage]\nClavier: à terre (Touche Direction) + (MAJ)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=3101
 Sprint I
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
-ダッシュの速度が上昇する。
+Sprintez vers l'avant.\n\n[Usage]\nClavier: (Touche pour avancer) x2
+Augmente la vitesse du Sprint.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=3102
 Sprint II
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
+Sprintez vers l'avant.\n\n[Usage]\nClavier: (Touche pour avancer) x2
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=3071
 Réaction I
-[スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[30]\nクールタイム：[15秒]\nスキル使用後1秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
-スタミナ消費量：[30]-10
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [30]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+Coût en Endurance: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=3072
 Réaction II
-[スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[20]\nクールタイム：[15秒]\nスキル使用後1秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
-無敵時間が2秒増加する。
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+Durée Invincibilité : +2s
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=3073
 Réaction III
-[スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[20]\nクールタイム：[15秒]\nスキル使用後3秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 3s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
@@ -1673,21 +1673,21 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 
 ID=3051
 Esquive Améliorée I
-[スキル情報]\nスタミナ消費量：[40]\nクールタイム：[60秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
-クールタイム：[50秒]-10秒
+[Infos]\nCoût en Endurance: [40]\nTps de recharge: [60s]\n\nEsquivez un ennemi vous attaquant.\nNe subît pas de dégâts lors de l'esquive améliorée.\n\n[Usage]\nClavier: En encaissant des dégâts (Touche Direction) + (MAJ)
+Temps de Recharge: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=3052
 Esquive Améliorée II
-[スキル情報]\nスタミナ消費量：[40]\nクールタイム：[50秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
-クールタイム：[50秒]-10秒
+[Infos]\nCoût en Endurance: [40]\nTps de recharge: [50s]\n\nEsquivez un ennemi vous attaquant.\nNe subît pas de dégâts lors de l'esquive améliorée.\n\n[Usage]\nClavier: En encaissant des dégâts (Touche Direction) + (MAJ)
+Temps de Recharge: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=3053
 Esquive Améliorée III
-[スキル情報]\nスタミナ消費量：[40]\nクールタイム：[40秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
+[Infos]\nCoût en Endurance: [40]\nTps de recharge: [40s]\n\nEsquivez un ennemi vous attaquant.\nNe subît pas de dégâts lors de l'esquive améliorée.\n\n[Usage]\nClavier: En encaissant des dégâts (Touche Direction) + (MAJ)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
@@ -1701,21 +1701,21 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 
 ID=3061
 Rétablissement I
-[スキル情報]\nノックダウン脱出使用時、スタミナを35消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
-スタミナ消費量が5減少する。
+[Infos]\nCoût en Endurance: [35]\ntps de Recharge: [5s]\n\nRelevez-vous rapidement après une mise au sol.\n\n[Usage]\nClavier: Renversé (Barre ESPACE)
+Coût en Endurance: -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=3062
 Rétablissement II
-[スキル情報]\nノックダウン脱出使用時、スタミナを30消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
-スタミナ消費量が5減少する。
+[Infos]\nCoût en Endurance: [30]\ntps de Recharge: [5s]\n\nRelevez-vous rapidement après une mise au sol.\n\n[Usage]\nClavier: Renversé (Barre ESPACE)
+Coût en Endurance: -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=3063
 Rétablissement III
-[スキル情報]\nノックダウン脱出使用時、スタミナを25消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
+[Infos]\nCoût en Endurance: [25]\ntps de Recharge: [5s]\n\nRelevez-vous rapidement après une mise au sol.\n\n[Usage]\nClavier: Renversé (Barre ESPACE)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
@@ -2366,42 +2366,42 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=4041
 Esquive I
-[Info]\nEndurance: [20]\n\nEsquive dans une directon.\nNe subît pas de dégâts lors d'une esquive.\n\nUsage\nSouris:\n[1] (Touche Direction) + (MAJ)\n[2] (Touche Direction) x2.
+[Infos]\nCoût en Endurance: [20]\n\nEsquive dans une directon.\nNe subît pas de dégâts lors d'une esquive.\n\nUsage\nClavier:\n[1] (Touche Direction) + (MAJ)\n[2] (Touche Direction) x2.
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=4081
 Roulade I
-[Info]\nEndurance: [25]\n\nRelevez vous en roulant dans une direction.\nNu subît pas de dégâts lors d'une roulade.\n\n[Usage]\nMouse: à terre (Touche Direction) + (MAJ)
-スタミナ消費量：[25]-10
+[Infos]\nCoût en Endurance: [25]\n\nRelevez vous en roulant dans une direction.\nNe subît pas de dégâts lors d'une roulade.\n\n[Usage]\nClavier: Renversé (Touche Direction) + (MAJ)
+Coût en Endurance : [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=4082
 Roulade II
-[スキル情報]\nスタミナ消費量：[15]\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
-回転起床の速度が上昇する。
+[Infos]\nCoût en Endurance: [15]\n\nRelevez vous en roulant dans une direction.\nNe subît pas de dégâts lors d'une roulade.\n\n[Usage]\nClavier: renversé (Touche Direction) + (MAJ)
+Augmente la vitesse d'exécution.
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=4083
 Roulade III
-[スキル情報]\nスタミナ消費量：[15]\n少し早く回転起床ができる。\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
+[Infos]\nCoût en Endurance: [15]\n\nRelevez vous en roulant dans une direction.\nNe subît pas de dégâts lors d'une roulade.\n\n[Usage]\nClavier: à terre (Touche Direction) + (MAJ)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=4101
 Sprint I
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
-ダッシュの速度が上昇する。
+Sprintez vers l'avant.\n\n[Usage]\nClavier: (Touche pour avancer) x2
+Augmente la vitesse du Sprint.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=4102
 Sprint II
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
+Sprintez vers l'avant.\n\n[Usage]\nClavier: (Touche pour avancer) x2
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
@@ -2415,15 +2415,15 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 
 ID=4072
 Réaction II
-[スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[30]\nクールタイム：[15秒]\nスキル使用後1秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
-スタミナ消費量：[30]-10
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [30]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+Coût en Endurance: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=4073
 Réaction III
-[スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[20]\nクールタイム：[15秒]\nスキル使用後1秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
-無敵時間が2秒増加する。
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+Durée Invincibilité : +2s
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
@@ -2436,21 +2436,21 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 
 ID=4051
 Esquive Améliorée I
-[スキル情報]\nスタミナ消費量：[40]\nクールタイム：[60秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
-クールタイム：[50秒]-10秒
+[Infos]\nCoût en Endurance: [40]\nTps de recharge: [60s]\n\nEsquivez un ennemi vous attaquant.\nNe subît pas de dégâts lors de l'esquive améliorée.\n\n[Usage]\nClavier: En encaissant des dégâts (Touche Direction) + (MAJ)
+Temps de Recharge: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=4052
 Esquive Améliorée II
-[スキル情報]\nスタミナ消費量：[40]\nクールタイム：[50秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
-クールタイム：[50秒]-10秒
+[Infos]\nCoût en Endurance: [40]\nTps de recharge: [50s]\n\nEsquivez un ennemi vous attaquant.\nNe subît pas de dégâts lors de l'esquive améliorée.\n\n[Usage]\nClavier: En encaissant des dégâts (Touche Direction) + (MAJ)
+Temps de Recharge: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=4053
 Esquive Améliorée III
-[スキル情報]\nスタミナ消費量：[40]\nクールタイム：[40秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
+[Infos]\nCoût en Endurance: [40]\nTps de recharge: [40s]\n\nEsquivez un ennemi vous attaquant.\nNe subît pas de dégâts lors de l'esquive améliorée.\n\n[Usage]\nClavier: En encaissant des dégâts (Touche Direction) + (MAJ)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
@@ -3066,105 +3066,105 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=5041
 Esquive I
-[Info]\nEndurance: [20]\n\nEsquive dans une directon.\nNe subît pas de dégâts lors d'une esquive.\n\nUsage\nSouris:\n[1] (Touche Direction) + (MAJ)\n[2] (Touche Direction) x2.
+[Infos]\nCoût en Endurance: [20]\n\nEsquive dans une directon.\nNe subît pas de dégâts lors d'une esquive.\n\nUsage\nClavier:\n[1] (Touche Direction) + (MAJ)\n[2] (Touche Direction) x2.
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=5051
 Esquive Améliorée I
-[スキル情報]\nスタミナ消費量：[40]\nクールタイム：[60秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
-クールタイム：[50秒]-10秒
+[Infos]\nCoût en Endurance: [40]\nTps de recharge: [60s]\n\nEsquivez un ennemi vous attaquant.\nNe subît pas de dégâts lors de l'esquive améliorée.\n\n[Usage]\nClavier: En encaissant des dégâts (Touche Direction) + (MAJ)
+Temps de Recharge: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=5052
 Esquive Améliorée II
-[スキル情報]\nスタミナ消費量：[40]\nクールタイム：[50秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
-クールタイム：[50秒]-10秒
+[Infos]\nCoût en Endurance: [40]\nTps de recharge: [50s]\n\nEsquivez un ennemi vous attaquant.\nNe subît pas de dégâts lors de l'esquive améliorée.\n\n[Usage]\nClavier: En encaissant des dégâts (Touche Direction) + (MAJ)
+Temps de Recharge: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=5053
 Esquive Améliorée III
-[スキル情報]\nスタミナ消費量：[40]\nクールタイム：[40秒]\n\n敵から攻撃を受けている最中に素早く移動する。\n特殊回避中はダメージを受けない。\n\n[操作方法]\nマウス：ダメージ中(移動キー)+(Shiftキー)
+[Infos]\nCoût en Endurance: [40]\nTps de recharge: [40s]\n\nEsquivez un ennemi vous attaquant.\nNe subît pas de dégâts lors de l'esquive améliorée.\n\n[Usage]\nClavier: En encaissant des dégâts (Touche Direction) + (MAJ)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=5061
 Rétablissement I
-[スキル情報]\nノックダウン脱出使用時、スタミナを35消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
-スタミナ消費量が5減少する。
+[Infos]\nCoût en Endurance: [35]\ntps de Recharge: [5s]\n\nRelevez-vous rapidement après une mise au sol.\n\n[Usage]\nClavier: Renversé (Barre ESPACE)
+Coût en Endurance: -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=5062
 Rétablissement II
-[スキル情報]\nノックダウン脱出使用時、スタミナを30消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
-スタミナ消費量が5減少する。
+[Infos]\nCoût en Endurance: [30]\ntps de Recharge: [5s]\n\nRelevez-vous rapidement après une mise au sol.\n\n[Usage]\nClavier: Renversé (Barre ESPACE)
+Coût en Endurance: -5
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=5063
 Rétablissement III
-[スキル情報]\nノックダウン脱出使用時、スタミナを25消費する。\nクールタイム：5秒\n\n敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。\n\n[操作方法]\nマウス：ノックダウン中(Spacebarキー)
+[Infos]\nCoût en Endurance: [25]\ntps de Recharge: [5s]\n\nRelevez-vous rapidement après une mise au sol.\n\n[Usage]\nClavier: Renversé (Barre ESPACE)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=5071
 Réaction I
-[スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[30]\nクールタイム：[15秒]\nスキル使用後1秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
-スタミナ消費量：[30]-10
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [30]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+Coût en Endurance: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=5072
 Réaction II
-[スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[20]\nクールタイム：[15秒]\nスキル使用後1秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
-無敵時間が2秒増加する。
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+Durée Invincibilité : +2s
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=5073
 Réaction III
-[スキル情報]\nダメージ量：[100%]\nスタミナ消費量：[20]\nクールタイム：[15秒]\nスキル使用後3秒間、無敵状態になる。\n\nダウン時、周辺の敵を攻撃しながら起き上がる。\n\n[操作方法]\nマウス：ダウン中(左/右クリック)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 3s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=5081
 Roulade I
-[Info]\nEndurance: [25]\n\nRelevez vous en roulant dans une direction.\nNu subît pas de dégâts lors d'une roulade.\n\n[Usage]\nMouse: à terre (Touche Direction) + (MAJ)
-スタミナ消費量：[25]-10
+[Infos]\nCoût en Endurance: [25]\n\nRelevez vous en roulant dans une direction.\nNe subît pas de dégâts lors d'une roulade.\n\n[Usage]\nClavier: Renversé (Touche Direction) + (MAJ)
+Coût en Endurance : [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=5082
 Roulade II
-[スキル情報]\nスタミナ消費量：[15]\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
-回転起床の速度が上昇する。
+[Infos]\nCoût en Endurance: [15]\n\nRelevez vous en roulant dans une direction.\nNe subît pas de dégâts lors d'une roulade.\n\n[Usage]\nClavier: renversé (Touche Direction) + (MAJ)
+Augmente la vitesse d'exécution.
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=5083
 Roulade III
-[スキル情報]\nスタミナ消費量：[15]\n少し早く回転起床ができる。\n\nダウン時、指定した方向に素早く回転しながら起き上がる。\n回転起床中はダメージを受けない。\n\n[操作方法]\nマウス：ダウン中(移動キー)+(Shiftキー)
+[Infos]\nCoût en Endurance: [15]\n\nRelevez vous en roulant dans une direction.\nNe subît pas de dégâts lors d'une roulade.\n\n[Usage]\nClavier: à terre (Touche Direction) + (MAJ)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=5101
 Sprint I
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
-ダッシュの速度が上昇する。
+Sprintez vers l'avant.\n\n[Usage]\nClavier: (Touche pour avancer) x2
+Augmente la vitesse du Sprint.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=5102
 Sprint II
-前方に素早くダッシュする。\n\n[操作方法]\nマウス：(前方移動キー)二回入力
+Sprintez vers l'avant.\n\n[Usage]\nClavier: (Touche pour avancer) x2
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0

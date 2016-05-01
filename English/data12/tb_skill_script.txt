@@ -5222,7 +5222,7 @@ When attacked, increase DEF by 100% and reduce ATK by 70% for 2 sec. (Cooldown: 
 
 ID=30291
 Maximize Shield II
-攻撃を受けた時、4秒間、防御度が100%上昇し、攻撃力が50%減少する。(クールタイム30秒)
+When attacked, increase DEF by 100% and reduce ATK by 100% for 4 sec. (Cooldown: 30 sec)
 .
 0
 0
@@ -5243,7 +5243,7 @@ Every 15 seconds, recover 20% stamina.
 
 ID=30301
 Suicide Attack I
-攻撃命中時、5秒間、防御度が50%減少し、攻撃力が15%上昇する。(クールタイム30秒)
+When you land a hit, decrease DEF by 50% for 5 sec and increase ATK by 15% for 5 sec. (Cooldown: 30 sec)
 .
 0
 0
@@ -5453,14 +5453,14 @@ Right hand appears and slams downward on enemies. (Cooldown: 1 min)
 
 ID=30401
 God Hand II
-The two hands of god will come down and pummel the enemy. (1 min cooldown)
+Both hand appear and slams downward on enemies. (Cooldown: 1 min)
 .
 0
 0
 
 ID=30402
 God Hand III
-The two hands of god will come down and extensively pummel the enemy. (1 min cooldown)
+Both hand appear and slams downward on enemies in a large radius. (Cooldown: 1 min)
 .
 0
 0
@@ -6132,28 +6132,28 @@ When landing a hit, there is a 12% chance of recovering 10% HP (Cooldown: 60 sec
 
 ID=30723
 Mind III
-攻撃命中時、17%の確率でHPが10%回復する。(クールタイム60秒)
+When landing a hit, there is a 17% chance of recovering 10% HP (Cooldown: 60 sec)
 .
 0
 0
 
 ID=30731
 Mind's Eye I
-攻撃命中時、9%の確率でHPが10%回復する。(クールタイム60秒)
+When landing a hit, there is a 9% chance of recovering 10% HP (Cooldown: 60 sec)
 .
 0
 0
 
 ID=30732
 Mind's Eye II
-攻撃命中時、14%の確率でHPが10%回復する。(クールタイム60秒)
+When landing a hit, there is a 14% chance of recovering 10% HP (Cooldown: 60 sec)
 .
 0
 0
 
 ID=30733
 Mind III
-攻撃命中時、19%の確率でHPが10%回復する。(クールタイム60秒)
+When landing a hit, there is a 19% chance of recovering 10% HP (Cooldown: 60 sec)
 .
 0
 0
@@ -6202,336 +6202,336 @@ When jumping, there is a 30% chance of increasing ATK by 10% for 4 sec. (Cooldow
 
 ID=30761
 Self-Recovery Power I
-攻撃命中時、5%の確率でスタミナが7%回復する。
+When landing a hit, there is a 5% chance of recovery 7% stamina.
 .
 0
 0
 
 ID=30762
 Self-Recovery Power II
-攻撃命中時、5%の確率でスタミナが12%回復する。
+When landing a hit, there is a 5% chance of recovery 12% stamina.
 .
 0
 0
 
 ID=30763
 自己回復力Ⅲ
-攻撃命中時、5%の確率でスタミナが17%回復する。
+When landing a hit, there is a 5% chance of recovery 17% stamina.
 .
 0
 0
 
 ID=30771
 Self-Recovery Power I
-攻撃命中時、5%の確率でスタミナが9%回復する。
+When landing a hit, there is a 5% chance of recovery 9% stamina.
 .
 0
 0
 
 ID=30772
 Self-Recovery Power II
-攻撃命中時、5%の確率でスタミナが14%回復する。
+When landing a hit, there is a 5% chance of recovery 14% stamina.
 .
 0
 0
 
 ID=30773
 自己回復力Ⅲ
-攻撃命中時、5%の確率でスタミナが19%回復する。
+When landing a hit, there is a 5% chance of recovery 19% stamina.
 .
 0
 0
 
 ID=30781
 Fast-Acting Calcium Supplement I
-攻撃を受けた時、7%の確率でSGが15%回復する。(クールタイム20秒)
+When being hit, there is a 7% chance to recover 15% SG. (Cooldown: 20 sec)
 .
 0
 0
 
 ID=30782
 Fast-Acting Calcium Supplement II
-攻撃を受けた時、12%の確率でSGが15%回復する。(クールタイム20秒)
+When being hit, there is a 12% chance to recover 15% SG. (Cooldown: 20 sec)
 .
 0
 0
 
 ID=30783
 急速カルシウム補給Ⅲ
-攻撃を受けた時、17%の確率でSGが15%回復する。(クールタイム20秒)
+When being hit, there is a 17% chance to recover 15% SG. (Cooldown: 20 sec)
 .
 0
 0
 
 ID=30791
 Fast-Acting Calcium Supplement I
-攻撃を受けた時、9%の確率でSGが15%回復する。(クールタイム20秒)
+When being hit, there is a 9% chance to recover 15% SG. (Cooldown: 20 sec)
 .
 0
 0
 
 ID=30792
 Fast-Acting Calcium Supplement II
-攻撃を受けた時、14%の確率でSGが15%回復する。(クールタイム20秒)
+When being hit, there is a 14% chance to recover 15% SG. (Cooldown: 20 sec)
 .
 0
 0
 
 ID=30793
 急速カルシウム補給Ⅲ
-攻撃を受けた時、19%の確率でSGが15%回復する。(クールタイム20秒)
+When being hit, there is a 19% chance to recover 15% SG. (Cooldown: 20 sec)
 .
 0
 0
 
 ID=30801
 Judge Victor I
-攻撃命中時、7%の確率で4秒間、命中度が200上昇する。(クールタイム10秒)
+When landing a hit, there is a 7% chance of increasing ACC by 200 for 4 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30802
 Judge Victor II
-攻撃命中時、7%の確率で4秒間、命中度が250上昇する。(クールタイム10秒)
+When landing a hit, there is a 7% chance of increasing ACC by 250 for 4 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30803
 ビクターの法則Ⅲ
-攻撃命中時、7%の確率で4秒間、命中度が300上昇する。(クールタイム10秒)
+When landing a hit, there is a 7% chance of increasing ACC by 300 for 4 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30811
 Judge Victor I
-攻撃命中時、9%の確率で4秒間、命中度が250上昇する。(クールタイム10秒)
+When landing a hit, there is a 9% chance of increasing ACC by 250 for 4 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30812
 Judge Victor II
-攻撃命中時、9%の確率で4秒間、命中度が300上昇する。(クールタイム10秒)
+When landing a hit, there is a 9% chance of increasing ACC by 300 for 4 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30813
 ビクターの法則Ⅲ
-攻撃命中時、9%の確率で4秒間、命中度が350上昇する。(クールタイム10秒)
+When landing a hit, there is a 9% chance of increasing ACC by 350 for 4 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30821
 Gallus' Wrath I
-攻撃を受けた時、5%の確率で2秒間、回避度が500上昇する。(クールタイム10秒)
+When being hit, there is a 5% chance to increase aversion by 500 for 2 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30822
 Gallus' Wrath II
-攻撃を受けた時、5%の確率で3秒間、回避度が500上昇する。(クールタイム10秒)
+When being hit, there is a 5% chance to increase aversion by 500 for 23sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30823
 ガルスの逆鱗Ⅲ
-攻撃を受けた時、5%の確率で4秒間、回避度が500上昇する。(クールタイム10秒)
+When being hit, there is a 5% chance to increase aversion by 500 for 4 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30831
 Gallus' Wrath I
-攻撃を受けた時、9%の確率で3秒間、回避度が500上昇する。(クールタイム10秒)
+When being hit, there is a 9% chance to increase aversion by 500 for 3 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30832
 Gallus' Wrath II
-攻撃を受けた時、9%の確率で4秒間、回避度が500上昇する。(クールタイム10秒)
+When being hit, there is a 9% chance to increase aversion by 500 for 4 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30833
 ガルスの逆鱗Ⅲ
-攻撃を受けた時、9%の確率で5秒間、回避度が500上昇する。(クールタイム10秒)
+When being hit, there is a 9% chance to increase aversion by 500 for 5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30841
 Nimble Macho Man I
-攻撃を受けた時、7%の確率で2秒間、攻撃力が10%上昇する。(クールタイム10秒)
+When being hit, there is a 7% chance to increase ATK by 10% for 2 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30842
 Nimble Macho Man II
-攻撃を受けた時、7%の確率で2.5秒間、攻撃力が15%上昇する。(クールタイム10秒)
+When being hit, there is a 7% chance to increase ATK by 15% for 2.5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30843
 俊敏なマッチョⅢ
-攻撃を受けた時、7%の確率で3秒間、攻撃力が20%上昇する。(クールタイム10秒)
+When being hit, there is a 7% chance to increase ATK by 20% for 3 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30851
 Nimble Macho Man I
-攻撃を受けた時、9%の確率で3.5秒間、攻撃力が10%上昇する。(クールタイム10秒)
+When being hit, there is a 9% chance to increase ATK by 10% for 3.5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30852
 Nimble Macho Man II
-攻撃を受けた時、9%の確率で4秒間、攻撃力が15%上昇する。(クールタイム10秒)
+When being hit, there is a 9% chance to increase ATK by 15% for 4 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30853
 俊敏なマッチョⅢ
-攻撃を受けた時、9%の確率で4.5秒間、攻撃力が20%上昇する。(クールタイム10秒)
+When being hit, there is a 9% chance to increase ATK by 20% for 4.5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30861
 Quadra Gang Assault
-攻撃命中時、15%の確率で2.5秒間、攻撃速度が3%\n上昇する。(最大3重複)
+When landing a hit, there is a 15% chance of increasing ATK SPD by 3% for 2.5 sec. (Max 3 stacks)
 .
 0
 0
 
 ID=30862
 Quadra Gang Assault II
-攻撃命中時、15%の確率で3秒間、攻撃速度が3%\n上昇する。(最大3重複)
+When landing a hit, there is a 15% chance of increasing ATK SPD by 3% for 3 sec. (Max 3 stacks)
 .
 0
 0
 
 ID=30863
 猛攻四連Ⅲ
-攻撃命中時、15%の確率で3.5秒間、攻撃速度が3%\n上昇する。(最大3重複)
+When landing a hit, there is a 15% chance of increasing ATK SPD by 3% for 3.5 sec. (Max 3 stacks)
 .
 0
 0
 
 ID=30871
 Quadra Gang Assault
-攻撃命中時、15%の確率で2.5秒間、攻撃速度が5%\n上昇する。(最大3重複)
+When landing a hit, there is a 15% chance of increasing ATK SPD by 5% for 2.5 sec. (Max 3 stacks)
 .
 0
 0
 
 ID=30872
 Quadra Gang Assault II
-攻撃命中時、15%の確率で3.5秒間、攻撃速度が5%\n上昇する。(最大3重複)
+When landing a hit, there is a 15% chance of increasing ATK SPD by 5% for 3.5 sec. (Max 3 stacks)
 .
 0
 0
 
 ID=30873
 猛攻四連Ⅲ
-攻撃命中時、15%の確率で4.5秒間、攻撃速度が5%\n上昇する。(最大3重複)
+When landing a hit, there is a 15% chance of increasing ATK SPD by 5% for 4.5 sec. (Max 3 stacks)
 .
 0
 0
 
 ID=30881
 Crimson Mark I
-クリティカル攻撃を受けた時、7秒間、命中度が500上昇する。(クールタイム20秒)
+When hit by a critical hit, ACC increases by 500 for 7 sec. (Cooldown: 20 sec)
 .
 0
 0
 
 ID=30882
 Crimson Mark II
-クリティカル攻撃を受けた時、12秒間、命中度が500上昇する。(クールタイム20秒)
+When hit by a critical hit, ACC increases by 500 for 12 sec. (Cooldown: 20 sec)
 .
 0
 0
 
 ID=30883
 紅き烙印Ⅲ
-クリティカル攻撃を受けた時、17秒間、命中度が500上昇する。(クールタイム20秒)
+When hit by a critical hit, ACC increases by 500 for 17 sec. (Cooldown: 20 sec)
 .
 0
 0
 
 ID=30891
 Crimson Mark I
-クリティカル攻撃を受けた時、9秒間、命中度が500上昇する。(クールタイム20秒)
+When hit by a critical hit, ACC increases by 500 for 9 sec. (Cooldown: 20 sec)
 .
 0
 0
 
 ID=30892
 Crimson Mark II
-クリティカル攻撃を受けた時、14秒間、命中度が500上昇する。(クールタイム20秒)
+When hit by a critical hit, ACC increases by 500 for 14 sec. (Cooldown: 20 sec)
 .
 0
 0
 
 ID=30893
 紅き烙印Ⅲ
-クリティカル攻撃を受けた時、19秒間、命中度が500上昇する。(クールタイム20秒)
+When hit by a critical hit, ACC increases by 500 for 19 sec. (Cooldown: 20 sec)
 .
 0
 0
 
 ID=30901
 雷の加護Ⅰ
-カインが登場し、麻痺攻撃を6秒間使用する。（クールタイム90秒）
+Summon Kain to perform paralyzing attacks for 6 seconds. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30902
 雷の加護Ⅱ
-カインが登場し、麻痺攻撃を7秒間使用する。（クールタイム90秒）
+Summon Kain to perform paralyzing attacks for 7 seconds. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30903
 雷の加護Ⅲ
-カインが登場し、麻痺攻撃を8秒間使用する。（クールタイム90秒）
+Summon Kain to perform paralyzing attacks for 8 seconds. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30911
 雷の加護Ⅰ
-カインが登場し、5秒間敵のHPを減少させる。（クールタイム90秒）
+Summon Kain to perform damaging attacks to the enemy's HP for 5 seconds. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30912
 雷の加護Ⅱ
-カインが登場し、7秒間敵のHPを減少させる。（クールタイム90秒）
+Summon Kain to perform damaging attacks to the enemy's HP for 7 seconds. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30913
 雷の加護Ⅲ
-カインが登場し、10秒間敵のHPを減少させる。（クールタイム90秒）
+Summon Kain to perform damaging attacks to the enemy's HP for 10 seconds. (Cooldown: 90 sec)
 .
 0
 0
@@ -6622,84 +6622,84 @@ Asphalt Golem is summoned for 70 seconds and attacks all monsters. (CD: 90 sec)
 
 ID=30961
 Magic Eye! I
-召喚されたマッドビホールダーを攻撃すると、\n周辺に5秒間攻撃力上昇バフを付与する。（クールタイム90秒）
+Summon Mad Beholder to grant attack-based buffs within the area for 5 sec when attacking. (Cooldown; 90 sec)
 .
 0
 0
 
 ID=30962
 Magic Eye! II
-召喚されたマッドビホールダーを攻撃すると、\n周辺に5秒間攻撃速度上昇バフを付与する。（クールタイム90秒）
+Summon Mad Beholder to grant attack-speed based buffs within the area for 5 sec when attacking. (Cooldown; 90 sec)
 .
 0
 0
 
 ID=30963
 Magic Eye! III
-召喚されたマッドビホールダーを攻撃すると、\n周辺に5秒間吸血バフを付与する。（クールタイム90秒）
+Summon Mad Beholder to grant life-steal based buffs within the area for 5 sec when attacking. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30971
 Magic Eye! I
-召喚されたマッドビホールダーを攻撃すると、\n周辺に10秒間攻撃力上昇バフを付与する。（クールタイム90秒）
+Summon Mad Beholder to grant attack-speed based buffs within the area for 10 sec when attacking. (Cooldown; 90 sec)
 .
 0
 0
 
 ID=30972
 Magic Eye! II
-召喚されたマッドビホールダーを近くで攻撃すると、\n周辺に10秒間攻撃速度上昇バフを付与する。（クールタイム90秒）
+Summon Mad Beholder grant attack-speed based buffs within the area for 10 sec when attacking (Cooldown; 90 sec)
 .
 0
 0
 
 ID=30973
 Magic Eye! III
-召喚されたマッドビホールダーを近くで攻撃すると、\n周辺に10秒間吸血バフを付与する。（クールタイム90秒）
+Summon Mad Beholder to grant life-steal based buffs within the area for 10 sec when attacking. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30981
 衝撃分散の術Ⅰ
-30秒間マローダーが召喚され、周囲にランダムなバフ（2種）を付与し、\nプレイヤーのHP減少効果の身代わりになる。（クールタイム90秒）
+Summon a Marauder for 30 sec which grants two buffs, and acts as a substitute for the player's HP for received damage. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30982
 衝撃分散の術Ⅱ
-30秒間マローダーが召喚され、周囲にランダムなバフ（4種）を付与し、\nプレイヤーのHP減少効果の身代わりになる。（クールタイム90秒）
+Summon a Marauder for 30 sec which grants four buffs, and acts as a substitute for the player's HP for received damage. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30983
 衝撃分散の術Ⅲ
-30秒間マローダーが召喚され、周囲にランダムなバフ（5種）を付与し、\nプレイヤーのHP減少効果の身代わりになる。（クールタイム90秒）
+Summon a Marauder for 30 sec which grants five buffs, and acts as a substitute for the player's HP for received damage. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30991
 Burning Flame I
-30秒間マローダーが召喚され、周囲にランダムなバフ（7種）を付与し、\nプレイヤーのHP減少効果の身代わりになる。（クールタイム90秒）
+Summon a Marauder for 30 sec which grants seven buffs, and acts as a substitute for the player's HP for received damage. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30992
 Burning Flame II
-30秒間マローダーが召喚され、周囲にランダムなバフ（8種）を付与し、\nプレイヤーのHP減少効果の身代わりになる。（クールタイム90秒）
+Summon a Marauder for 30 sec which grants eight buffs, and acts as a substitute for the player's HP for received damage. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30993
 Burning Flame III
-30秒間マローダーが召喚され、周囲にランダムなバフ（10種）を付与し、\nプレイヤーのHP減少効果の身代わりになる。（クールタイム90秒）
+Summon a Marauder for 30 sec which grants ten buffs, and acts as a substitute for the player's HP for received damage. (Cooldown: 90 sec)
 .
 0
 0
@@ -6727,182 +6727,182 @@ ID=31021
 
 ID=31031
 瞬食Ⅰ
-グルトンが5匹登場し、約20秒間戦闘に加わる。（クールタイム90秒）
+Summon five gluttons to assist with combat for 20 sec. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=31032
 瞬食Ⅱ
-グルトンが7匹登場し、約25秒間戦闘に加わる。（クールタイム90秒）
+Summon seven gluttons to assist with combat for 25 sec. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=31033
 瞬食Ⅲ
-グルトンが9匹登場し、約30秒間戦闘に加わる。（クールタイム90秒）
+Summon nine gluttons to assist with combat for 30 sec. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=31041
 瞬食Ⅰ
-グルトンが6匹登場し、約25秒間戦闘に加わる。（クールタイム90秒）
+Summon six gluttons to assist with combat for 25 sec. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=31042
 瞬食Ⅱ
-グルトンが8匹登場し、約30秒間戦闘に加わる。（クールタイム90秒）
+Summon eight gluttons to assist with combat for 30 sec. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=31043
 瞬食Ⅲ
-グルトンが10匹登場し、約35秒間戦闘に加わる。（クールタイム90秒）
+Summon ten gluttons to assist with combat for 35 sec. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=31051
 Surprise Attack Pro I
-クリティカル命中時、5%の確率でSGが10%回復する。（クールタイム30秒）
+During a critical hit, there is a 5% chance to recover 10% SG. (Cooldown: 30 sec)
 .
 0
 0
 
 ID=31052
 Surprise Attack Pro II
-クリティカル命中時、5%の確率でSGが13%回復する。（クールタイム30秒）
+During a critical hit, there is a 5% chance to recover 13% SG. (Cooldown: 30 sec)
 .
 0
 0
 
 ID=31053
 Surprise Attack Pro III
-クリティカル命中時、7%の確率でSGが16%回復する。（クールタイム30秒）
+During a critical hit, there is a 7% chance to recover 16% SG. (Cooldown: 30 sec)
 .
 0
 0
 
 ID=31061
 Surprise Attack Pro I
-クリティカル命中時、6%の確率でSGが12%回復する。（クールタイム30秒）
+During a critical hit, there is a 6% chance to recover 12% SG. (Cooldown: 30 sec)
 .
 0
 0
 
 ID=31062
 Surprise Attack Pro II
-クリティカル命中時、8%の確率でSGが15%回復する。（クールタイム30秒）
+During a critical hit, there is a 8% chance to recover 15% SG. (Cooldown: 30 sec)
 .
 0
 0
 
 ID=31063
 Surprise Attack Pro III
-クリティカル命中時、10%の確率でSGが18%回復する。（クールタイム30秒）
+During a critical hit, there is a 10% chance to recover 18% SG. (Cooldown: 30 sec)
 .
 0
 0
 
 ID=31071
 翼動Ⅰ
-空中攻撃失敗時、60%の確率でHPが5%回復する。（クールタイム40秒）
+When failing to land an effective aerial attack, there is a 60% chance to recover 5% HP. (Cooldown: 40 sec)
 .
 0
 0
 
 ID=31072
 翼動Ⅱ
-空中攻撃失敗時、70%の確率でHPが7%回復する。（クールタイム35秒）
+When failing to land an effective aerial attack, there is a 70% chance to recover 7% HP. (Cooldown: 35 sec)
 .
 0
 0
 
 ID=31073
 翼動Ⅲ
-空中攻撃失敗時、80%の確率でHPが9%回復する。（クールタイム30秒）
+When failing to land an effective aerial attack, there is a 80% chance to recover 9% HP. (Cooldown: 30 sec)
 .
 0
 0
 
 ID=31081
 翼動Ⅰ
-空中攻撃失敗時、70%の確率でHPが6%回復する。（クールタイム40秒）
+When failing to land an effective aerial attack, there is a 70% chance to recover 6% HP. (Cooldown: 40 sec)
 .
 0
 0
 
 ID=31082
 翼動Ⅱ
-空中攻撃失敗時、80%の確率でHPが8%回復する。（クールタイム35秒）
+When failing to land an effective aerial attack, there is a 80% chance to recover 8% HP. (Cooldown: 35 sec)
 .
 0
 0
 
 ID=31083
 翼動Ⅲ
-空中攻撃失敗時、90%の確率でHPが10%回復する。（クールタイム30秒）
+When failing to land an effective aerial attack, there is a 90% chance to recover 10% HP. (Cooldown: 30 sec)
 .
 0
 0
 
 ID=31091
 Eerie Bird Wings I
-命中時、10%の確率で次の一撃の攻撃力が5%増加する。(クールタイム8秒)
+When hit, the next attack's ATK increases by 5% at a 10% chance. (Cooldown: 8 sec)
 .
 0
 0
 
 ID=31092
 Eerie Bird Wings I
-命中時、10%の確率で次の一撃の攻撃力が7%増加する。(クールタイム8秒)
+When hit, the next attack's ATK increases by 7% at a 10% chance. (Cooldown: 8 sec)
 .
 0
 0
 
 ID=31093
 怪鳥の翼Ⅲ
-命中時、10%の確率で次の一撃の攻撃力が10%増加する。(クールタイム8秒)
+When hit, the next attack's ATK increases by 10% at a 10% chance. (Cooldown: 8 sec)
 .
 0
 0
 
 ID=31101
 Eerie Bird Wings I
-命中時、10%の確率で次の一撃の攻撃力が6%増加する。(クールタイム8秒)
+When hit, the next attack's ATK increases by 6% at a 10% chance. (Cooldown: 8 sec)
 .
 0
 0
 
 ID=31102
 Eerie Bird Wings I
-命中時、10%の確率で次の一撃の攻撃力が10%増加する。(クールタイム8秒)
+When hit, the next attack's ATK increases by 10% at a 10% chance. (Cooldown: 8 sec)
 .
 0
 0
 
 ID=31103
 怪鳥の翼Ⅲ
-命中時、10%の確率で次の一撃の攻撃力が15%増加する。(クールタイム8秒)
+When hit, the next attack's ATK increases by 15% at a 10% chance. (Cooldown: 8 sec)
 .
 0
 0
 
 ID=31111
 Substance Conversion I
-アイテム獲得時、4秒間、攻撃力が20%上昇する。(クールタイム30秒)
+When an item is obtained, ATK is increased by 20% for 4 sec. (Cooldown: 30 sec)
 .
 0
 0
 
 ID=31112
 Substance Conversion II
-アイテム獲得時、7秒間、攻撃力が20%上昇する。(クールタイム30秒)
+When an item is obtained, ATK is increased by 20% for 7 sec. (Cooldown: 30 sec)
 .
 0
 0

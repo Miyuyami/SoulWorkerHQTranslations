@@ -245,7 +245,7 @@ ID=130
 Foot
 
 ID=131
-Restoration
+Restore Item
 
 ID=132
 Buff
@@ -485,7 +485,7 @@ ID=344
 Are you sure you want to use {0} to expand your slots?
 
 ID=345
-売却すると{0}を獲得し、\n選択されたアイテムは売却されます。
+Sell the selected item(s) for {0}?
 
 ID=346
 Your selection contains a <font color='#A566FF'>High Valued</font> item, selling it will give you {0}. Are you sure you want to sell?
@@ -1679,7 +1679,7 @@ ID=884
 Are you sure that you want to\ndismantle the item(s)?
 
 ID=885
-Selected items are of<font color='#A566FF'>high rarity</font>.\nIf you hit confirm, selected item will be dismantled and they will not be able to be restored. Would you like to dismantle anyway?
+Selected items are of<font color='#A566FF'>high rarity</font>.\nIf you hit confirm, the selected item(s) will be dismantled and they will not be able to be restored. Would you like to dismantle them anyway?
 
 ID=886
 You do not have enough {0}, therefore it can not be dismantled.
@@ -1799,16 +1799,16 @@ ID=934
 Persistant Abnormal Status Effects: Burns, Poisoning, Electric Shocks, Bleeding; decreases affected chance of receiving an effect
 
 ID=935
-Active Abnormal States Effects: Stun, Paralysis, Sleep, Freeze; decreases affected chance of receiving an effect
+Active Abnormal Status Effects: Stun, Paralysis, Sleep, Freeze; decreases affected chance of receiving an effect
 
 ID=936
-Special Abnormal States Effects: Silence, Weakness; decreases affected chance of receiving an effect
+Special Abnormal Status Effects: Silence, Weakness; decreases affected chance of receiving an effect
 
 ID=937
 %
 
 ID=938
-May Enhance
+Enhancable
 
 ID=939
 Evolvable
@@ -3308,7 +3308,7 @@ ID=5806
 <font color='#FFFFFF' size='30'>TIP: </font>Talking to <font color='#B2EBF4'>[Zenith]</font>, you can <font color='#00D8FF'>[Craft]</font> weapons, gear, and avatar items.
 
 ID=5807
-<font color='#FFFFFF' size='30'>TIP: </font>You can send a mail by using <font color='#00ff9c'>HEMS</font>. A small fee will be paid.\nItems and Zenny may also be attached.
+<font color='#FFFFFF' size='30'>TIP: </font>You can send mail by using <font color='#00ff9c'>HEMS</font>. A small fee will be paid.\nItems and Zenny may also be attached.
 
 ID=5808
 <font color='#FFFFFF' size='30'>TIP: </font>You may store extra items at the <font color='#00D8FF'>Bank</font> by talking to <font color='#00ff9c'>Ordon</font>.
@@ -3386,7 +3386,7 @@ ID=5832
 <font color='#FFFFFF' size='30'>TIP: </font>Open the <font color='#00D8FF'>Quest Information</font> window <font color='#00ff9c'>[J]</font> and click on the <font color='#00ff9c'>[Mission]</font> tab to access the daily missions.
 
 ID=5833
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00ff9c'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font>, they can used at the <font color='#00D8FF'>Void Vending Machine</font>.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00ff9c'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font> can be used at the <font color='#00D8FF'>Void Vending Machine</font>.
 
 ID=5834
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Secret Mission]</font> will randomly appear inside dungeons.
@@ -3407,7 +3407,7 @@ ID=5839
 <font color='#FFFFFF' size='30'>TIP: </font>Upon reaching Lv10, you will be able to have your very own <font color='#00D8FF'>[Room]</font>.
 
 ID=5840
-<font color='#FFFFFF' size='30'>TIP: </font>Sometimes a <font color='#00D8FF'>Memorial</font>, A.K.A. memory fragment will appear.\nCollect these and claim a reward from the Memorial window <font color='#00ff9c'>[B]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Sometimes a <font color='#00D8FF'>Memorial</font>, A.K.A. memory fragment, will appear.\nCollect these and claim a reward from the Memorial window <font color='#00ff9c'>[B]</font>.
 
 ID=5841
 <font color='#FFFFFF' size='30'>TIP: </font>Clicking the 「i」 icon at the top right corner will open <font color='#00D8FF'>[Help]</font>, where various information about the game can be found.
@@ -3434,7 +3434,7 @@ ID=5848
 <font color='#FFFFFF' size='30'>TIP: </font>Upon completion of a special event, you will be able to collect <font color='#00D8FF'>Soul Vapor</font> while inside dungeons. Your <font color='#00ff9c'>[Break Skill]</font> can be activated once you have collected enough.
 
 ID=5849
-<font color='#FFFFFF' size='30'>TIP: </font>When inside a dungeon, you might randomly encounter <font color='#00D8FF'>Glutton</font>.\nIt may drop rare items when you defeat him.
+<font color='#FFFFFF' size='30'>TIP: </font>When inside a dungeon, you might randomly encounter <font color='#00D8FF'>Glutton</font>.\nHe may drop rare items when you defeat him.
 
 ID=5850
 <font color='#FFFFFF' size='30'>TIP: </font>As you progress through the game, you can collect various <font color='#00D8FF'>items</font> that will make you more powerful.
@@ -3497,7 +3497,7 @@ ID=5869
 <font color='#FFFFFF' size='30'>TIP: </font>Talking to <font color='#B2EBF4'>[Zenith]</font>, you can <font color='#00D8FF'>[Craft]</font> weapons, gear, and avatar items.
 
 ID=5870
-<font color='#FFFFFF' size='30'>TIP: </font>You can send a mail by using <font color='#00ff9c'>HEMS</font>. A small fee will be paid.\nItems and Zenny may also be attached.
+<font color='#FFFFFF' size='30'>TIP: </font>You can send mail by using <font color='#00ff9c'>HEMS</font>. A small fee will be paid.\nItems and Zenny may also be attached.
 
 ID=5871
 <font color='#FFFFFF' size='30'>TIP: </font>You may store extra items at the <font color='#00D8FF'>Bank</font> by talking to <font color='#00ff9c'>Ordon</font>.
@@ -3530,7 +3530,7 @@ ID=5880
 <font color='#FFFFFF' size='30'>TIP: </font>Open the community list by pressing <font color='#00ff9c'>[O]</font>. You can manage your <font color='#00D8FF'>[Friend List]</font> there.
 
 ID=5881
-<font color='#FFFFFF' size='30'>TIP：</font><font color='#00D8FF'>[A.R cards]</font> and <font color='#00D8FF'>[Skills]</font> are accessible by pressing <font color='#00ff9c'>[K]</font>.\nYou can equip them on our quick slots.
+<font color='#FFFFFF' size='30'>TIP：</font><font color='#00D8FF'>[A.R cards]</font> and <font color='#00D8FF'>[Skills]</font> are accessible by pressing <font color='#00ff9c'>[K]</font>.\nYou can equip them onto quick slots.
 
 ID=5882
 <font color='#FFFFFF' size='30'>TIP: </font>Using your <font color='#00D8FF'>Skill Deck</font> effectively will prove useful in combat.
@@ -3575,7 +3575,7 @@ ID=5895
 <font color='#FFFFFF' size='30'>TIP: </font>Open the <font color='#00D8FF'>Quest Information</font> window <font color='#00ff9c'>[J]</font> and click on the <font color='#00ff9c'>[Mission]</font> tab to access the daily missions.
 
 ID=5896
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00ff9c'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font>, they can used at the <font color='#00D8FF'>Void Vending Machine</font>.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00ff9c'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font> can be used at the <font color='#00D8FF'>Void Vending Machine</font>.
 
 ID=5897
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Secret Mission]</font> will randomly appear inside dungeons.
@@ -3641,7 +3641,7 @@ ID=6022
 Did not select Friend's A.R Card.
 
 ID=6023
-An additional {0} zenny was required due to the A.R Card rental.
+An additional {0} Zenny was required due to the A.R Card rental.
 
 ID=6024
 The rental period is almost finished.\n({0} second(s) remaining)
@@ -3650,7 +3650,7 @@ ID=6025
 Use the A.R Card Box.\nAcquired A.R cards can not be traded.
 
 ID=6026
-The A.R. card is now usable. The A.R. card will be removed from your inventory while and the EXP will be reset during registration.\n Do you wish to register the A.R. card (Press [K])?
+The A.R. card is now usable. The A.R. card will be removed from your inventory and the EXP will be reset during registration.\n Do you wish to register the A.R. card (Press [K])?
 
 ID=6027
 Can not use item because A.R card slots are full.
@@ -3743,7 +3743,7 @@ ID=6056
 Would you like to trade {1} {0} to {3} {2} ?
 
 ID=6057
-Please register the A.R. card if\nthe rarity and the crafting target is the same.
+Register the A.R. card with the matching rarity and card succession.
 
 ID=6058
 You can not use Draw-type A.R. cards in this area.
@@ -5255,7 +5255,7 @@ ID=16831
 Duration
 
 ID=16832
-Post
+Register
 
 ID=16833
 Register Product
@@ -5375,10 +5375,10 @@ ID=18004
 Broken equipment has been recovered.
 
 ID=18005
-Do you wish to recover {0}?\nRecover Limit: {1}.
+Do you wish to restore {0}'s condition?\nRestoration Limit: {1}.
 
 ID=18006
-Restoration
+Restore Item
 
 ID=18007
 Restorations
@@ -5387,10 +5387,10 @@ ID=18008
 Self Revive
 
 ID=18009
-Restoration
+Restore Item
 
 ID=18010
-Can be restored.
+The item's condition is restorable.
 
 ID=18011
 Restoration completed
@@ -5582,16 +5582,16 @@ ID=18078
 You can only sell 10 items at a time.
 
 ID=18079
-ソケットアイテムはインベントリにある時のみ装着できます。
+Socketing an item is only possible if a socket-type item exists within the inventory.
 
 ID=18080
-全てのカジュアルレイド入場回数が0回のため使用できません。
+All daily Casual Raid entries have been used.
 
 ID=18081
-今までに入場したカジュアルレイドの回数は下記の通りです。 \nラストカーニバル：{0}/3\nジャンクハイブ：{1}/3\nバンディットハイウェイ：{2}/3\nアイアンキャッスル：{3}/3\n全てのカジュアルレイド入場回数を1回ずつ減少させますか？\n(0回の場合は減少しません)
+The following casual raids have been entered up to these amount of times.\nLast Carnival: {0} / 3\nJunk Hive: {1} / 3\nIron Castle: {3} / 3\nDo you want to decrease all counted admission entries by one?\n (Cannot counted entries below 0.)
 
 ID=18082
-全てのカジュアルレイド入場回数が1回ずつ減少しました。
+All daily counted Casual Raid entries have been reduced by one.
 
 ID=18172
 Maximum {0} Familiars attached
@@ -8783,10 +8783,10 @@ ID=26314
 When attacked by a Boss Monster, +{0} maximum Stamina for 3s
 
 ID=26315
-When hit, 3% chance of +{0}% Attack for 3s
+When hitting, 3% chance of +{0}% Attack for 3s
 
 ID=26316
-When hit, 1% chance of +{0}% Attack for 5s
+When hitting, 1% chance of +{0}% Attack for 5s
 
 ID=26317
 During a critical attack, 3% chance of +{0}% Defense Penetration for 3s
@@ -8795,7 +8795,7 @@ ID=26318
 During a critical attack, 1% chance of +{0}% Defense Penetration for 5s
 
 ID=26319
-When attacked, 15% chance of +{0}% Evasion Rate for 3s
+When attacked, 15% chance of +{0} Evasion Rate for 3s
 
 ID=26320
 On dodge, 10% chance of +{0}% Evaded Attack Damage for 10s
@@ -8804,7 +8804,7 @@ ID=26321
 When hit by a critical attack, 50% chance of +{0} HP
 
 ID=26322
-When hit, 5% chance of +{0}% SA Destruction by for 5s
+When hitting, 5% chance of +{0}% SA Destruction by for 5s
 
 ID=26323
 +{0}% Movement speed while in town.
@@ -8819,7 +8819,7 @@ ID=26326
 On dodge, 5% chance of +{0} HP
 
 ID=26327
-When hit, 2% chance of +{0} Stamina
+When hitting, 2% chance of +{0} Stamina
 
 ID=26328
 +{0}% Movement Speed in combat zone
@@ -8828,7 +8828,7 @@ ID=26329
 When attacked, 15% chance of +{0}% Defense for 5s
 
 ID=26330
-When attacked, 8% chance of +{0}% Critical Resistance for 10s
+When attacked, 8% chance of +{0} Critical Resistance for 10s
 
 ID=26331
 When attacked, 20% chance of +{0}% Damage Reflection
@@ -8876,7 +8876,7 @@ ID=26500
 On enemy death, +{0}% Defense Penetration for 30s
 
 ID=27000
-When hit,  5% chance of +{0}% Attack for 3s
+When hitting,  5% chance of +{0}% Attack for 3s
 
 ID=27001
 When attacked, 20% chance of +{0}% Defense for 5s
@@ -8894,7 +8894,7 @@ ID=27701
 On enemy death, additional +{0}% Soul Vapor
 
 ID=27702
-When hit, +{0}% Skill Damage
+When hitting, +{0}% Skill Damage
 
 ID=28000
 Create Guild
@@ -10310,7 +10310,7 @@ ID=31135
 Cancel Search
 
 ID=31136
-Post
+Register
 
 ID=31137
 Remove
@@ -10904,31 +10904,31 @@ ID=33550
 A Dawn's Glory
 
 ID=34000
-植木鉢1
+Flowerpot 1
 
 ID=34001
-植木鉢2
+Flowerpot 2
 
 ID=34002
-植木鉢3
+Flowerpot 3
 
 ID=34003
-植木鉢4
+Flowerpot 4
 
 ID=34004
-植木鉢5
+Flowerpot 5
 
 ID=34005
-植木鉢6
+Flowerpot 6
 
 ID=34006
-{0}を使うには{1}が必要です。\n植木鉢を所有しますか？
+In order to use {0}, {1} is required. Do you wish to get a flower pot?
 
 ID=34007
-{0}を使用できます。
+{0} is usable.
 
 ID=34008
-{0}を持っていないため{1}を所有できません。
+Since you do not have {1}, {0} cannot be owned.
 
 ID=34009
 Cultivate
@@ -10949,19 +10949,19 @@ ID=34014
 {0}%
 
 ID=34015
-準備中
+In Queue
 
 ID=34016
-栽培中
+Growing
 
 ID=34017
 Complete
 
 ID=34018
-しおれ
+Wilted
 
 ID=34019
-腐敗
+Decomposed
 
 ID=34020
 Use
@@ -10976,43 +10976,43 @@ ID=34023
 Cancel
 
 ID=34024
-栽培登録が可能なアイテムではありません。
+The crop cannot be planted.
 
 ID=34025
-作物の成長が促進されました。
+The crops have been fertilized.
 
 ID=34026
-成長促進場所がいっぱいです。
+The crops have been placed in a growth-inducing area.
 
 ID=34027
-すでに成長を促進させた作物です。
+The crops have already received all the possible growth-related bonuses.
 
 ID=34028
-成長を促進できない状態です。
+The crops cannot have growth-promoting effects applied due to its state.
 
 ID=34029
-{0}の栽培を中止しますか？\n(栽培に使用した材料は回収できません)
+Do you wish to stop harvesting {0}?\n (All invested materials will not be returned)
 
 ID=34030
-栽培完了。\n{0}個の作物の栽培が完了しました。
+Successfully harvested {0}.
 
 ID=34031
-収穫成功
+Successful harvest.
 
 ID=34032
-収穫大成功
+Exceptionally successful harvest.
 
 ID=34033
-x{0}獲得
+Obtained x {0}
 
 ID=34034
 Confirm
 
 ID=34035
-収穫失敗：インベントリ空きなし
+Insufficient inventory space; harvesting was not possible.
 
 ID=34036
-収穫
+Harvest
 
 ID=35000
 All
@@ -11150,7 +11150,7 @@ ID=36010
 Menu
 
 ID=36011
-Micro Mobile Device
+Mobile Device
 
 ID=36012
 Move
@@ -11318,7 +11318,7 @@ ID=39950
 <font color='#C6C5B6'>{0}</font>
 
 ID=39951
-<font color='#10FF97'>{0}: +{1}%</font>
+<font color='#10FF97'>{0}: +{1}</font>
 
 ID=39952
 <font color='#C62424'>{0}: Reduce {1}</font>
@@ -11534,7 +11534,7 @@ ID=40161
 When the enemies are defeated, Edgar will appear.
 
 ID=40162
-When the destruction of the box is prevented, Edgar will appear.
+When the box is not destroyed, Edgar will appear.
 
 ID=40163
 Phantom's ghost explodes, increasing Phantom's defense for 30 seconds.
@@ -11921,7 +11921,7 @@ ID=40290
 When the controller is activated, enemies will appear.
 
 ID=40291
-Once in 30 seconds, the player will be affected by a large damage dealing debuff.\nDestroy the corresponding cubes to remove the debuff.
+Periodically, every 30 seconds, the player will be inflicted by a heavy-damaging debuff.\n Destroy the cubes to prevent further debuffs from being applied.
 
 ID=40292
 Every 15 seconds, magnetic waves may appear at various areas and damage the player.
@@ -12035,7 +12035,7 @@ ID=40407
 Defeat all enemies and move to the next stage.
 
 ID=40408
-Dodge the traps while fighting enemies.\n They will activate promptly after being triggered.
+Dodge the traps while fighting enemies.\nThe traps will be activated soon.
 
 ID=40409
 Destroying the central red temptation stone will allow you to move to the next area\nThe blue/green temptation stone has been successfully destroyed. You may attack the red temptation stone in 15 seconds.
@@ -12395,10 +12395,10 @@ ID=42016
 Black Giant's Venomous Mucus
 
 ID=42017
-Dark Aligator
+Dark Alligator
 
 ID=42018
-Dark Aligator Pillager
+Dark Alligator Pillager
 
 ID=42019
 Junk Knight
@@ -12473,7 +12473,7 @@ ID=42042
 Gallus
 
 ID=42043
--Blue Sky Gallus
+Blue Sky Gallus
 
 ID=42044
 Bonecrusher
@@ -12518,16 +12518,16 @@ ID=42057
 Snake
 
 ID=42058
-Suprising Snake Blade
+Ambushing Snake Blade
 
 ID=42059
 Flesh Shearing Razor Snake
 
 ID=42060
-Intentional Carla
+Intentful Carla
 
 ID=42061
-Violent Intentional Carla
+Violent Intentful Carla
 
 ID=42062
 Red main
@@ -12824,13 +12824,13 @@ ID=42159
 Lucky Miraculous White Coat
 
 ID=42160
-Micro Lucky Medical Corps
+Lucky Medical Corps µ
 
 ID=42161
-Micro Lucky Nurse
+Lucky Nurse µ
 
 ID=42162
-Micro Lucky Miraculous White Coat
+Lucky Miraculous White Coat µ
 
 ID=42163
 Force Strike
@@ -12845,10 +12845,10 @@ ID=42166
 Force Strike μ
 
 ID=42167
-Micro Offensive Strike Force
+Offensive Strike Force µ
 
 ID=42168
-The One True Micro Strike Force
+The One True Strike Force µ
 
 ID=42169
 ST Lab Research Department
@@ -12950,13 +12950,13 @@ ID=42201
 Militant Warlike Rock
 
 ID=42202
-Micro Warlike
+Warlike µ
 
 ID=42203
-Micro Strong Warlike
+Strong Warlike µ
 
 ID=42204
-Micro Warlike Martial
+Warlike Martial µ
 
 ID=42205
 Shiworatto
@@ -12968,13 +12968,13 @@ ID=42207
 Dark Sewer King Shirwatto
 
 ID=42208
-Micro Shirwatto
+Shirwatto µ
 
 ID=42209
-Micro Sewer Shirwatto
+Sewer Shirwatto µ
 
 ID=42210
-Micro Dark Sewer King Shirwatto
+Dark Sewer King Shirwatto µ
 
 ID=42211
 Venomous Mucus
@@ -12986,31 +12986,31 @@ ID=42213
 Deadly Giant Venomous Scum
 
 ID=42214
-Micro Venomous Scum
+Venomous Scum µ
 
 ID=42215
-Micro Black Giant Venomous Scum
+Black Giant Venomous Scum µ
 
 ID=42216
-Micro Deadly Giant Venomous Scum
+Deadly Giant Venomous Scum µ
 
 ID=42217
-Dark Aligator
+Dark Alligator
 
 ID=42218
-Dark Aligator Pillager
+Dark Alligator Pillager
 
 ID=42219
 Violet Dark Alligator Beast
 
 ID=42220
-Micro Dark Alligator
+Dark Alligator µ
 
 ID=42221
-Micro Marauder Dark Alligator
+Marauding Dark Alligator µ
 
 ID=42222
-Micro Violet Dark Alligator Beast
+Violet Dark Alligator Beast µ
 
 ID=42223
 Cell
@@ -13022,13 +13022,13 @@ ID=42225
 Crawling Earth Dark Cell
 
 ID=42226
-Micro Szell
+Cell µ
 
 ID=42227
-Improved Micro Szell
+Improved Cell µ
 
 ID=42228
-Creeping Dark Micro Szell
+Creeping Dark Cell µ
 
 ID=42229
 S-01
@@ -13040,10 +13040,10 @@ ID=42231
 Menacing Threatful S-01
 
 ID=42232
-Micro S-01
+S-01 µ
 
 ID=42233
-Improved Micro S-01 
+Improved S-01 µ
 
 ID=42234
 Menacing Threatful S-01
@@ -13055,22 +13055,22 @@ ID=42236
 Researcher Victor
 
 ID=42237
-Restless Scientist Victor
+Restless Researcher Victor
 
 ID=42238
-Micro JVC
+JVC µ
 
 ID=42239
 Researcher Victor μ
 
 ID=42240
-Micro Restless Researcher Victor
+Restless Researcher Victor µ
 
 ID=42241
 Gallus
 
 ID=42242
--Blue Sky Gallus
+Blue Sky Gallus
 
 ID=42243
 Menace of the Blue Skies Gallus
@@ -13268,7 +13268,7 @@ ID=42307
 Blood Absorption's Edge Chaser
 
 ID=42308
-Micro Chaser
+Chaser µ
 
 ID=42309
 Stealth Unit Chaser μ
@@ -13277,19 +13277,19 @@ ID=42310
 Blood Absorption's Edge Chaser μ
 
 ID=42311
-Intentional Carla
+Intentful Carla
 
 ID=42312
-Violent Intentional Carla
+Violent Intentful Carla
 
 ID=42313
-Violent Mystery Bird Intentional Carla
+Violent Mysterious Intentful Bird Carla
 
 ID=42314
-Intentional Carla
+Intentful Carla
 
 ID=42315
-Violent Intentional Carlaμ
+Violent Intentful Carlaμ
 
 ID=42316
 Blood Absorption's Edge Chaser μ
@@ -13391,7 +13391,7 @@ ID=43015
 Venomous Mucus
 
 ID=43017
-Dark Aligator
+Dark Alligator
 
 ID=43022
 Vacuum Vein
@@ -13445,7 +13445,7 @@ ID=43056
 Benin
 
 ID=43060
-Intentional Carla
+Intentful Carla
 
 ID=43062
 Red main
@@ -13580,10 +13580,10 @@ ID=43155
 Sonny
 
 ID=43265
-[S]Cain
+[S]Kain
 
 ID=43268
-[SH]Cain
+[SH]Kain
 
 ID=43271
 [S]Big Puppet
@@ -13742,10 +13742,10 @@ ID=43302
 [SH] Chaser
 
 ID=43303
-[S] Intentional Carla
+[S] Intentful Carla
 
 ID=43304
-[SH] Intentional Carla
+[SH] Intentful Carla
 
 ID=43305
 [S] Queen Carla
@@ -14087,7 +14087,7 @@ ID=45311
 A.R Card Acquired: {0}\nThe item can be found in your inventory.
 
 ID=45312
-Item Effects Results
+Obtained Item Results
 
 ID=45313
 Open {0}
@@ -14609,7 +14609,7 @@ ID=49617
 The dungeon does not exist.
 
 ID=49618
-異常な領域または存在しないエリアです。
+The crops cannot be planted in an unsuitable or non-existent area.
 
 ID=49619
 Please select the area you want to go to.
@@ -14795,7 +14795,7 @@ ID=49928
 Obtained [{0}] Special Mission Rewards.
 
 ID=49929
-Obtained [{0}] Guerilla Mission Rewards.
+Obtained [{0}] Guerrilla Mission Rewards.
 
 ID=49930
 Received secret mission rewards.
@@ -14888,13 +14888,13 @@ ID=49959
 Mission completion reward sent to mail.
 
 ID=49960
-[{0}] Failed Guerilla Mission
+[{0}] Failed Guerrilla Mission
 
 ID=49961
-[{0}] Guerilla Mission Start
+[{0}] Guerrilla Mission Start
 
 ID=49962
-[{0}] Guerilla Mission Complete
+[{0}] Guerilla Mission Received
 
 ID=49963
 A daily mission has begin. A new mission has been added.
@@ -16244,22 +16244,22 @@ ID=57043
 You rejected the guild invitation.
 
 ID=57044
-ギルド委任条件を満たしていません。
+The conditions for deleting a new guild leader has not been met.
 
 ID=57045
-ギルドマーク変更に失敗しました。
+Unable to change the guild insignia.
 
 ID=57046
-ギルドスキルがありません。
+There are no usable guild skills.
 
 ID=57047
-ギルドレベル条件に合っていないため、習得できません。
+Insufficient guild level to learn the selected guild skills.
 
 ID=57048
-ギルドSPが足りません。
+Insufficient guild SP to learn the selected guild skills.
 
 ID=57049
-ギルド基金が足りません。
+Insufficient guild funds to perform the selected operation.
 
 ID=58000
 The NPC does not exist in the next area.
