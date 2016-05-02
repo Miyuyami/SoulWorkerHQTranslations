@@ -147,28 +147,28 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 
 ID=1071
 Réaction I
-[Infos]\nDégâts: [100%]\nCoût en Endurance: [30]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [30]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic-G/D)
 Coût en Endurance: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=1072
 Réaction II
-[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic-G/D)
 Durée Invincibilité : +2s
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=1073
 Réaction III
-[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 3s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 3s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic-G/D)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=1111
 Ruée I
-[スキル情報]\nダメージ量：[116%]\nSA破壊量：[46%]\n\nダッシュ中に剣を大きく振り敵を押し出す。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(左クリック)
+[Infos]\nDégats: [116%]\nDégats SA: [46%]\n\nRepousse les ennemies avec une grande frappe vers l'avant lors d'une course.\nGain SG si réussie.\nLe gain de SG varie selon le type d'ennemi.\n\n[Usage]\nSouris: Lors d'une course (Clic-D)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
@@ -196,7 +196,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 
 ID=1121
 Charge I
-[スキル情報]\nダメージ量：[206%]\nSA破壊量：[92%]\nクールタイム：[5秒]\n\nダッシュ中に前方にジャンプして回転斬り攻撃を繰り出す。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(右クリック)
+[Infos]\nDégats: [206%]\nDégats SA: [92%]\nCooldown:[5s]\n\nEffectue une attaque tournayante sauté lors d'une course.\nGain SG si réussie.\nLe gain de SG varie selon le type d'ennemi.\n\n[Usage]\nSouris: Lors d'une course (Clic-D)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
@@ -224,7 +224,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 
 ID=1131
 Lame Vengeresse
-[スキル情報]\n通常攻撃命中時、SGを回復する。\n一定時間ごとに自動でSGを回復する。
+[Infos]\nRégénère des SG en frappant l'ennemi.\nRégénération passive par intervalles réguliers. 
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
@@ -252,35 +252,35 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_SGPassive
 
 ID=1151
 Endurance I
-[スキル情報]\nパッシブ効果：スタミナ回復量[10%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[10%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +10%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [10%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=1152
 Endurance II
-[スキル情報]\nパッシブ効果：スタミナ回復量[20%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[20%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +20%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [20%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=1153
 Endurance III
-[スキル情報]\nパッシブ効果：スタミナ回復量[30%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[30%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +30%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [30%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=1154
 Endurance IV
-[スキル情報]\nパッシブ効果：スタミナ回復量[40%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[40%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +40%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [40%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=1155
 Endurance V
-[スキル情報]\nパッシブ効果：スタミナ回復量[50%]増加\n\nスタミナ回復量が増加する。
+[Infos]\nEffet Passif: Taux de récupération Endurance +50%\n\nAméliore le taux de récupération de l'Endurance.
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
@@ -896,21 +896,21 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 
 ID=2071
 Réaction I
-[Infos]\nDégâts: [100%]\nCoût en Endurance: [30]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [30]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic-G/D)
 Coût en Endurance: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=2072
 Réaction II
-[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic-G/D)
 Durée Invincibilité : +2s
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=2073
 Réaction III
-[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 3s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 3s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic-G/D)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
@@ -1001,35 +1001,35 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_SGPassive
 
 ID=2151
 Endurance I
-[スキル情報]\nパッシブ効果：スタミナ回復量[10%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[10%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +10%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [10%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=2152
 Endurance II
-[スキル情報]\nパッシブ効果：スタミナ回復量[20%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[20%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +20%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [20%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=2153
 Endurance III
-[スキル情報]\nパッシブ効果：スタミナ回復量[30%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[30%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +30%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [30%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=2154
 Endurance IV
-[スキル情報]\nパッシブ効果：スタミナ回復量[40%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[40%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +40%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [40%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=2155
 Endurance V
-[スキル情報]\nパッシブ効果：スタミナ回復量[50%]増加\n\nスタミナ回復量が増加する。
+[Infos]\nEffet Passif: Taux de récupération Endurance +50%\n\nAméliore le taux de récupération de l'Endurance.
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
@@ -1645,21 +1645,21 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 
 ID=3071
 Réaction I
-[Infos]\nDégâts: [100%]\nCoût en Endurance: [30]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [30]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic-G/D)
 Coût en Endurance: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=3072
 Réaction II
-[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic-G/D)
 Durée Invincibilité : +2s
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=3073
 Réaction III
-[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 3s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 3s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic-G/D)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
@@ -1750,35 +1750,35 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive
 
 ID=3151
 Endurance I
-[スキル情報]\nパッシブ効果：スタミナ回復量[10%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[10%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +10%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [10%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=3152
 Endurance II
-[スキル情報]\nパッシブ効果：スタミナ回復量[20%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[20%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +20%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [20%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=3153
 Endurance III
-[スキル情報]\nパッシブ効果：スタミナ回復量[30%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[30%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +30%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [30%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=3154
 Endurance IV
-[スキル情報]\nパッシブ効果：スタミナ回復量[40%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[40%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +40%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [40%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=3155
 Endurance V
-[スキル情報]\nパッシブ効果：スタミナ回復量[50%]増加\n\nスタミナ回復量が増加する。
+[Infos]\nEffet Passif: Taux de récupération Endurance +50%\n\nAméliore le taux de récupération de l'Endurance.
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
@@ -2415,14 +2415,14 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 
 ID=4072
 Réaction II
-[Infos]\nDégâts: [100%]\nCoût en Endurance: [30]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [30]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic-G/D)
 Coût en Endurance: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=4073
 Réaction III
-[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic-G/D)
 Durée Invincibilité : +2s
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
@@ -3115,21 +3115,21 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 
 ID=5071
 Réaction I
-[Infos]\nDégâts: [100%]\nCoût en Endurance: [30]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [30]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic-G/D)
 Coût en Endurance: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=5072
 Réaction II
-[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 1s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic-G/D)
 Durée Invincibilité : +2s
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=5073
 Réaction III
-[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 3s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic G/D)
+[Infos]\nDégâts: [100%]\nCoût en Endurance: [20]\nTps de : [15s]\nInvinciblitité pendant 3s après utilisation.\n\nRelevez-vous tout en attaquant les ennemis.\n\n[Usage]\nSouris: Renversé (Clic-G/D)
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
@@ -3213,35 +3213,35 @@ Icon/Skill/Howling/Icon_Howling_Skill_SGPassive
 
 ID=5151
 Endurance I
-[スキル情報]\nパッシブ効果：スタミナ回復量[10%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[10%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +10%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [10%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=5152
 Endurance II
-[スキル情報]\nパッシブ効果：スタミナ回復量[20%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[20%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +20%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [20%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=5153
 Endurance III
-[スキル情報]\nパッシブ効果：スタミナ回復量[30%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[30%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +30%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [30%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=5154
 Endurance IV
-[スキル情報]\nパッシブ効果：スタミナ回復量[40%]増加\n\nスタミナ回復量が増加する。
-スタミナ回復量増加：[40%]+10%
+[Infos]\nEffet Passif: Taux de récupération Endurance +40%\n\nAméliore le taux de récupération de l'Endurance.
+Taux de récupération Endurance: [40%]+10%
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 
 ID=5155
 Endurance V
-[スキル情報]\nパッシブ効果：スタミナ回復量[50%]増加\n\nスタミナ回復量が増加する。
+[Infos]\nEffet Passif: Taux de récupération Endurance +50%\n\nAméliore le taux de récupération de l'Endurance.
 Niv. Max
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
