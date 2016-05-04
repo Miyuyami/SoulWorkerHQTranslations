@@ -3473,7 +3473,7 @@ ID=5861
 <font color='#FFFFFF' size='30'>TIP: </font>The combat research institute <font color='#00D8FF'>Steel Grave</font> gives you one attempt at clearing up to 5 stages per day.
 
 ID=5862
-<font color='#FFFFFF' size='30'>TIP: </font> Entering <font color='#00D8FF'>Very Hard</font>mode dungeons features stronger enemies and better rewards.
+<font color='#FFFFFF' size='30'>TIP: </font> Entering <font color='#00D8FF'>Very Hard</font> mode dungeons features stronger enemies and better rewards.
 
 ID=5863
 <font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought in each town's <font color='#00ff9c'>Equipment Shop</font>.
@@ -4007,7 +4007,7 @@ ID=8400
 Dead
 
 ID=8401
-Current Position : {0}
+Current Position: {0}
 
 ID=8402
 Too far away.
@@ -8231,7 +8231,7 @@ ID=25220
 Sub Quest Interaction
 
 ID=25221
-You may open doors or activate objects by\nmoving to them and holding [Left Click].
+You may open doors or activate objects by\nmoving to them and holding [Left-Click].
 
 ID=25222
 Hold down the mouse button until it has fully activated.
@@ -8246,16 +8246,16 @@ ID=25240
 Special Ability
 
 ID=25241
-You can activate special abilities through Right Click. \nHaru's special ability is to launch enemies into the air. \nEnemies will slowly fall down.
+You can activate special abilities through Right-Click. \nHaru's special ability is to launch enemies into the air. \nEnemies will slowly fall down.
 
 ID=25242
-You can activate special abilities through Right Click. \nErwin's special ability is to install traps.\nEnemies that step on the traps are temporarily slowed.
+You can activate special abilities through Right-Click. \nErwin's special ability is to install traps.\nEnemies that step on the traps are temporarily slowed.
 
 ID=25243
-You can activate special abilities through Right Click. \nLily's special ability is to dash forward.\nEnemies that you touch will be slowed.\nHold the mouse button to charge the skill and increase the distance traveled.
+You can activate special abilities through Right-Click. \nLily's special ability is to dash forward.\nEnemies that you touch will be slowed.\nHold the mouse button to charge the skill and increase the distance traveled.
 
 ID=25245
-You can activate special abilities through Right Click. \nStella's special ability to to change the properties of her skills.\nUsing the special ability will return to the previous effect.
+You can activate special abilities through Right-Click. \nStella's special ability to to change the properties of her skills.\nUsing the special ability will return to the previous effect.
 
 ID=25270
 Dodge
@@ -8768,7 +8768,7 @@ ID=26309
 On skill use, -{0}% cooldown
 
 ID=26310
-On dodge, recover {0}% HP.
+On a successful dodge, recover {0}% HP.
 
 ID=26311
 When using a skill, 5% chance of -{0}% cooldown
@@ -8798,7 +8798,7 @@ ID=26319
 When attacked, 15% chance of +{0} Evasion Rate for 3s
 
 ID=26320
-On dodge, 10% chance of +{0}% Evaded Attack Damage for 10s
+When an attack is evaded, 10% chance of +{0}% Missed Damage for 10s
 
 ID=26321
 When hit by a critical attack, 50% chance of +{0} HP
@@ -8813,10 +8813,10 @@ ID=26324
 When attacked by a Boss Monster, 10% chance of +{0}% Damage Reduction for 5s
 
 ID=26325
-On dodge, following attack is increased by {0}%
+When an attack is evaded, following attack is increased by {0}%
 
 ID=26326
-On dodge, 5% chance of +{0} HP
+When an attack is evaded, 5% to recover {0} HP
 
 ID=26327
 When hitting, 2% chance of +{0} Stamina
@@ -8849,7 +8849,7 @@ ID=26336
 When attacked, 20% chance of a 6 sec super armor effect
 
 ID=26337
-On dodge, +{0}% Damage Reduction for 5s
+When an attack is evaded, +{0}% Damage Reduction for 5s
 
 ID=26338
 While in air, +{0}% Damage Reduction for 5s
@@ -8861,10 +8861,10 @@ ID=26340
 When being hit under 50% HP, 10% chance of +{0}% Defense for 5s
 
 ID=26341
-On dodge, 2% chance to +{0}% HP
+When Dodge skill is used, 2% chance to recover {0}% HP
 
 ID=26342
-On dodge, 3% chance of +{0}% HP
+When Dodge skill is used, 3% chance to recover {0}% HP
 
 ID=26343
 When dashing, 10% chance of +{0}% Movement Speed for 5s
@@ -10748,7 +10748,7 @@ ID=33004
 That day was cloudy.\n The runaway child knew. Rather, I did not understand how the "calamity" came. We had committed crimes; we could of atoned for it. Yet, we did not. Unlike other children, I came to pass judgement..\n\n The cloudy day.\n The child was brought to death by humans. They had naive ideas that everything was over. Silly as I did, I thought NED company would help. They, will definitely bury the truth. As if nothing happened.\n\n  We were buried in hell. A fateful ending for us.
 
 ID=33005
-potentialfilebreak
+Model Name：NS_EX_008\nName：Cleany\n\n1. その名の通り掃除専用ロボット。私物に込められたソウルエナジーを判別し、分別収集及び紛失物捜索に適する。\n\n2. 現在は動力喪失状態のため、強制スリープモードに入っている。エナジーを3回に分けて順番に注入すれば、自らスリープモードを解除し動き出す。\n(動作までに約24時間所要)\n\n3. コアが破壊されたり消失した場合、コアを取り換えた後に使用可能な増幅装置をコアのあった位置へ設置すると、コアが復活する。\n(注意：動力源が1%でも残っている必要あり)\n\n数少ないヒントでここまで至った方に、まずは感謝の意を表します。\nこのルインフォートレスで「人間」以外の者に罪はありません。\nこのロボットもまた何の罪もない存在です。\n「HELP ME」という文字に反応し、ここまで来たあなたなら、きっとこの子を受け入れてくれるはずです。よろしくお願いします。 \nそして、クリーニー。どうか、幸せに…。
 
 ID=33500
 Dead Desparate Soldier's Belongings
