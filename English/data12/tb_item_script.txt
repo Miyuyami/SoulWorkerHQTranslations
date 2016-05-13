@@ -56,7 +56,7 @@ Icon/Item/Etc/ETC_0_GlutonCoin
 0
 0
 S Coin
-特殊任務を完遂したソウルワーカーに贈られる貨幣。\n連合特製の各種アイテムを購入できる。\nスペシャルミッションクリア時、獲得可能。\n\n[特殊貨幣]
+Special currency given to Soul Workers who have completed special missions.\nSpecial items from the League can be bought with this coin.\nObtainable from clearing special missions.\n\n[Special Currency]
 
 ID=800001001
 Icon/Item/Cash/QBD
@@ -76,7 +76,7 @@ Icon/Item/Cash/Antilimiter
 0
 0
 Anti-Limiter +10
-アイテムを強化した回数を\n5回分リセットするアイテム。\n\n[強化実行回数減少アイテム]
+Item that decreases Enhance Limit by 5.\n\n[Enhance Limit Decrease Item]
 
 ID=800002001
 Icon/Item/Function/Tool_Disassemble_MagicHammer
@@ -86,7 +86,7 @@ Icon/Item/Function/Tool_Disassemble_MagicHammer
 0
 0
 Magic Hammer
-Officially called the “Anti Soul Particle Accelerator”.\nMade to accelerate Anti Souls.\nAnything that comes in contact with an accelerated Anti Soul Particle will have matching Soul Energy Particles be erased, resulting in changes to its natural properties.\n\n[Dismantling Item]
+Officially called the “Anti Soul Particle Accelerator”.\nMade to accelerate Anti Souls.\nAnything that comes in contact with an accelerated Anti Soul Particle will have matching Soul Energy Particles be erased, resulting in changes to its natural properties.\n\n[Dismantle Item]
 
 ID=800002002
 Icon/Item/Function/Tool_Disassemble_MagicHammer
@@ -96,7 +96,7 @@ Icon/Item/Function/Tool_Disassemble_MagicHammer
 0
 0
 Zaito’s Magic Hammer
-ジャイトからもらったマジックハンマー。\n既存のマジックハンマーと機能も外見も全てが同じ。\nなぜこれがジャイトのマジックハンマーなのだろう。\nジャイトからもらったから？\n\n[分解アイテム]
+Magic Hammer from Zaito.\nIt does the exact same thing and looks exactly the same with the default Magic Hammer.\nWhy do they call it Zaito's Magic Hammer?\nBecause we got it from Zaito?\n\n[Dismantle Item]
 
 ID=800003101
 Icon/Item/Function/Socket_Slot_Add_ImplantSlot
@@ -106,7 +106,7 @@ Icon/Item/Function/Socket_Slot_Add_ImplantSlot
 0
 0
 Implant Slot
-ソウルウェポンに[戦闘補助装置：ファミリア]を\n装着できるよう拡張スロットを挿入する機械。\n[一箇所に一定量以上のソウルは固定できない]という\nソウル総量の法則を辛うじて維持してくれる。\n\n[ファミリアソケット追加アイテム]
+Machine that inserts an expansion slot to allow [Familiar] to be equipped on Soul Weapon.\nThe machine narrowly allows for the preservation of the rule stating that [No more than a specified number of souls may exists in a single area].\n\n[Add Familiar Socket Item]
 
 ID=800004001
 Icon/Item/Function/Tool_Repair_NanoKit
@@ -126,7 +126,7 @@ Icon/Ticket/Ticket_WarLoad_1_Crystal_Doll
 0
 0
 Doll Crystal
-[ウォーロード入場券-ロコタウンW]を\n一定数使用することで、該当メイズに入場できる。
+[Warlord Ticket - Rocco Town W] can be used to enter the selected maze.
 
 ID=800005002
 Icon/Ticket/Ticket_WarLoad_2_Crystal_Pollution
@@ -136,7 +136,7 @@ Icon/Ticket/Ticket_WarLoad_2_Crystal_Pollution
 0
 0
 Contamined Crystal
-[ウォーロード入場券-カンダスシティW]を\n一定数使用することで、該当メイズに入場できる。
+[Warlord Ticket - Candus City W] can be used to enter the selected maze.
 
 ID=800005003
 Icon/Ticket/Ticket_WarLoad_3_Crystal_Flame
@@ -146,7 +146,7 @@ Icon/Ticket/Ticket_WarLoad_3_Crystal_Flame
 0
 0
 Firey Crystal
-[ウォーロード入場券-グレイスシティW]を\n一定数使用することで、該当メイズに入場できる。
+[Warlord Ticket - Grace City W] can be used to enter the selected maze.
 
 ID=800005004
 Icon/Ticket/Ticket_WarLoad_4_Crystal_Dimension
@@ -156,7 +156,7 @@ Icon/Ticket/Ticket_WarLoad_4_Crystal_Dimension
 0
 0
 Dimensional Crystal
-[ウォーロード入場券-ルインフォートレスW]を\n一定数使用することで、該当メイズに入場できる。
+[Warlord Ticket - Ruin Fortress W] can be used to enter the selected maze.
 
 ID=800005005
 Icon/Ticket/Ticket_WarLoad_5_Crystal_Nightmare
@@ -166,7 +166,7 @@ Icon/Ticket/Ticket_WarLoad_5_Crystal_Nightmare
 0
 0
 Wicked Crystal
-[ウォーロード入場券-ロコタウンWR]を\n一定数使用することで、該当メイズに入場できる。
+[Warlord Ticket - Rocco Town WR] can be used to enter the selected maze.
 
 ID=800005006
 Icon/Ticket/Ticket_WarLoad_6_Crystal_Infection
@@ -176,7 +176,7 @@ Icon/Ticket/Ticket_WarLoad_6_Crystal_Infection
 0
 0
 Contagious Crystal
-[ウォーロード入場券-カンダスシティWR]を\n一定数使用することで、該当メイズに入場できる。
+[Warlord Ticket - Candus City WR] can be used to enter the selected maze.
 
 ID=800005007
 Icon/Ticket/Ticket_WarLoad_7_Crystal_Chaos
@@ -186,7 +186,7 @@ Icon/Ticket/Ticket_WarLoad_7_Crystal_Chaos
 0
 0
 Chaotic Crystal
-[ウォーロード入場券-グレイスシティWR]を\n一定数使用することで、該当メイズに入場できる。
+[Warlord Ticket - Grace City WR] can be used to enter the selected maze.
 
 ID=800005008
 Icon/Ticket/Ticket_WarLoad_8_Crystal_Mad
@@ -196,7 +196,7 @@ Icon/Ticket/Ticket_WarLoad_8_Crystal_Mad
 0
 0
 Crystal of Madness
-[ウォーロード入場券-ルインフォートレスWR]を\n一定数使用することで、該当メイズに入場できる。
+[Warlord Ticket - Ruin Fortress WR] can be used to enter the selected maze.
 
 ID=211999999
 Icon/Costume/Icon_PC_A_EQ_Nurse_Costume_07
@@ -216,7 +216,7 @@ Icon/Item/Etc/ETC_0_PersonalStoreOpenTicket
 0
 0
 Personal Store Ticket
-簡易商店を開設するための許可証。\n商人組合以外は駐屯地で店を開くことができないが、\nこの許可証があればどこでも開くことができる。\n\n[個人商店開設アイテム]
+Permission ticket to open a Personal Store.\nAlthough people that are not part of the Merchant Association cannot open a shop, they can with this ticket.\n\n[Personal Shop Item]
 
 ID=800006002
 Icon/Item/Cash/ETC_0_FormatDevice
@@ -226,7 +226,7 @@ Icon/Item/Cash/ETC_0_FormatDevice
 0
 0
 Format Device
-スチールグレイブでの戦闘データを\n削除するプログラムが内蔵されている機械。\nこの施設の入場は一日一回と制限されているが、\n戦闘データを強制的に削除することで、\n何度でも入場できるようになる。\nしかし、一度使用すると壊れてしまう。\n\n[スチールグレイブ初期化アイテム]
+Machine which has a program that deletes battle data from Steel Grave. Although the entry for this place is limited to once per day, it can be reset with this item. However, it disappears once you use it.\n\n[Steel Grave Reset Item]
 
 ID=800006003
 Icon/Item/Consumption/CON_0_CasualRaidTicket_01
@@ -236,7 +236,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_01
 0
 0
 [Special Permit] Last Carnival
-特定異常空白発生地域の立ち入りに必要。\nソウルワーカーも例外ではない。\n1度しか使用できないため、準備はしっかりしよう。\n\n[カジュアルレイド入場回数初期化券]\nラストカーニバル
+Needed to enter Special Void Resurgence areas.\nSoul Workers aren't an exception.\nSince it can only be used once, ready yourself before using it.\n\n[Casual Raid Entry Limit Reset]\nLast Carnival
 
 ID=800006004
 Icon/Item/Consumption/CON_0_CasualRaidTicket_02
@@ -246,7 +246,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_02
 0
 0
 [Special Permit] Junk Hive
-特定異常空白発生地域の立ち入りに必要。\nソウルワーカーも例外ではない。\n1度しか使用できないため、準備はしっかりしよう。\n\n[カジュアルレイド入場回数初期化券]\nジャンクハイブ
+Needed to enter Special Void Resurgence areas.\nSoul Workers aren't an exception.\nSince it can only be used once, ready yourself before using it.\n\n[Casual Raid Entry Limit Reset]\nJunk Hive
 
 ID=800006005
 Icon/Item/Consumption/CON_0_CasualRaidTicket_03
@@ -256,7 +256,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_03
 0
 0
 [Special Permit] Bandit’s Highway
-特定異常空白発生地域の立ち入りに必要。\nソウルワーカーも例外ではない。\n1度しか使用できないため、準備はしっかりしよう。\n\n[カジュアルレイド入場回数初期化券]\nバンディットハイウェイ
+Needed to enter Special Void Resurgence areas.\nSoul Workers aren't an exception.\nSince it can only be used once, ready yourself before using it.\n\n[Casual Raid Entry Limit Reset]\nBandit's Highway
 
 ID=800006006
 Icon/Item/Consumption/CON_0_CasualRaidTicket_04
@@ -266,7 +266,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_04
 0
 0
 [Special Permit] Iron Castle
-特定異常空白発生地域の立ち入りに必要。\nソウルワーカーも例外ではない。\n1度しか使用できないため、準備はしっかりしよう。\n\n[カジュアルレイド入場回数初期化券]\nアイアンキャッスル
+Needed to enter Special Void Resurgence areas.\nSoul Workers aren't an exception.\nSince it can only be used once, ready yourself before using it.\n\n[Casual Raid Entry Limit Reset]\nIron Castle
 
 ID=800006007
 Icon/Item/Consumption/CON_0_DistrictRaidTicket_01
@@ -276,7 +276,7 @@ Icon/Item/Consumption/CON_0_DistrictRaidTicket_01
 0
 0
 [Special Permit] Golden Citadel
-黄金空白：ゴールデンシタデルへ入場できる一種の権限。特別危険地域ゆえ、ソウルワーカーといえど特別な許可なしには入場できない。\n一度使用すると、すぐに破棄される。\n\n[ディストリクトレイド入場回数初期化]ゴールデンシタデル
+Needed to enter Golden Citadel.\nSoul Workers aren't an exception.\nIt is discarded upon use.\n\n[District Raid Entry Limit Reset]Golden Citadel
 
 ID=800006008
 Icon/Item/Consumption/CON_0_CasualRaidTicket_05
@@ -285,8 +285,8 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_05
 0
 0
 0
-[特別許可書]異常空白
-異常空白発生地域の立ち入りが許されたことを証明するカード。\nたとえソウルワーカーといえど、異常空白に入るためには、このカードが必要。\n一度しか使用できないため、入る前に準備はしっかり整えておくべし。\n\n[カジュアルレイド入場回数1回減少]カジュアルレイド全体
+[Special Permit] Abnormal Void
+Card that approves the permission to enter Special Void Resurgence Area.\nEven if you are a Soul Worker, this card is needed to enter the area.\nSince it can only be used once, ready yourself before using it.\n\n[Casual Raid Limit Decreased by 1]All Casual Raids
 
 ID=810001001
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
@@ -1466,7 +1466,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Zaito`s Gift Box
-ジャイトより装備商店の顧客に感謝を込めて…。\n便利なアイテムが入っている。\n\n[顧客等級1段階達成報酬パッケージ]
+To thank the customers of Equipment Store...\nIt contains useful items.\n\n[Customer Level 1 Reward Package]
 
 ID=820900002
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1476,7 +1476,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Zaito`s Precious Gift Box
-ジャイトより装備商店の顧客に感謝を込めて…。\n貴重なアイテムが入っている。\n\n[顧客等級2段階達成報酬パッケージ]
+To thank the customers of Equipment Store...\nIt contains important items.\n\n[Customer Level 2 Reward Package]
 
 ID=820900003
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1486,7 +1486,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Zaito`s Friendship Gift Box
-ジャイトより装備商店の顧客に感謝を込めて…。\n友情が込められたアイテムが入っている。\n\n[顧客等級3段階達成報酬パッケージ]
+To thank the customers of Equipment Store...\nIt contains item that's filled with friendship.\n\n[Customer Level 3 Reward Package]
 
 ID=820900004
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1496,7 +1496,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Zaito`s Close Friendship Gift Box
-ジャイトより装備商店の顧客に感謝を込めて…。\n彼の気持ちがボックスから溢れ出しているようだ。\n…少し汗臭い？\n\n[顧客等級4段階達成報酬パッケージ]
+To thank the customers of Equipment Store...\nYou can almost feel his presence from the package...Is it sweat?\n\n[Customer Level 4 Reward Package]
 
 ID=820900005
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1506,7 +1506,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Zaito`s Gift Box of Affection
-ジャイトより装備商店の顧客に感謝を込めて…。\nこれにどれだけつぎ込んだのだろう！？\n\n[顧客等級5段階達成報酬パッケージ]
+To thank the customers of Equipment Store...\nHow much did you spend?!\n\n[Customer Level 5 Reward Package]
 
 ID=820900011
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1516,7 +1516,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Yomi`s Gift Box
-ヨミより雑貨商店の利用者に感謝を込めて…。\n便利なアイテムが入っている。\n\n[顧客等級1段階達成報酬パッケージ]
+To thank the customers of the General Store...\nIt contains useful items.\n\n[Customer Level 1 Reward Package]
 
 ID=820900012
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1526,7 +1526,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Yomi`s Precious Gift Box
-ヨミより雑貨商店の利用者に感謝を込めて…。\n貴重なアイテムが入っている。\n\n[顧客等級2段階達成報酬パッケージ]
+To thank the customers of the General Store...It contains important items.\n\n[Customer Level 2 Reward Package]
 
 ID=820900013
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1536,7 +1536,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Yomi`s Friendship Gift Box
-ヨミより雑貨商店の利用者に感謝を込めて…。\n友情が込められたアイテムが入っている。\n\n[顧客等級3段階達成報酬パッケージ]
+To thank the customers of the General Store...It contains item that's filled with friendship.\n\n[Customer Level 3 Reward Package]
 
 ID=820900014
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1546,7 +1546,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Yomi`s Close Friendship Gift Box
-ヨミより雑貨商店の利用者に感謝を込めて…。\nまさか商人と客が信頼で結ばれるとは…！\n\n[顧客等級4段階達成報酬パッケージ]
+To thank the customers of the General Store...\nTo think a merchant and a customer can be connected with trust...!\n\n[Customer Level 4 Reward Package]
 
 ID=820900015
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1556,7 +1556,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Yomi`s Gift Box of Affection
-ヨミより雑貨商店の利用者に感謝を込めて…。\nこれを集めるのにどれだけ苦労したのだろう？\n\n[顧客等級5段階達成報酬パッケージ]
+To thank the customers of the General Store...\nHow hard was it to collect all these...?\n\n[Customer Level 5 Reward Package]
 
 ID=820900021
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1566,7 +1566,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Zenith`s Gift Box
-ゼニスより製作の利用者に感謝を込めて…。\n便利なアイテムが入っている。\n\n[顧客等級1段階達成報酬パッケージ]
+To thank the customers of Crafting...\nIt contains useful items.\n\n[Customer Level 1 Reward Package]
 
 ID=820900022
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1576,7 +1576,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Zenith`s Precious Gift Box
-ゼニスより製作の利用者に感謝を込めて…。\n貴重なアイテムが入っている。\n\n[顧客等級2段階達成報酬パッケージ]
+To thank the customers of the Crafting...It contains important items.\n\n[Customer Level 2 Reward Package]
 
 ID=820900023
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1586,7 +1586,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Zenith`s Friendship Gift Box
-ゼニスより製作の利用者に感謝を込めて…。\n友情が込められたアイテムが入っている。\n\n[顧客等級3段階達成報酬パッケージ]
+To thank the customers of the Crafting...It contains item that's filled with friendship.\n\n[Customer Level 3 Reward Package]
 
 ID=820900024
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1596,7 +1596,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Zenith`s Close Friendship Gift Box
-ゼニスより製作の利用者に感謝を込めて…。\n信頼の証！…顔は見せてもらえないけど。\n\n[顧客等級4段階達成報酬パッケージ]
+To thank the customers of Crafting...\nThe proof of trust!... Although the face still won't be revealed.\n\n[Customer Level 4 Reward Package]
 
 ID=820900025
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1606,7 +1606,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Zenith`s Giftbox of Affection
-ゼニスより製作の利用者に感謝を込めて…。\nインベントリが製作アイテムで溢れそうだ！\n\n[顧客等級5段階達成報酬パッケージ]
+To thank the customers of Crafting...\nInventory will overflow from crafting items!\n\n[Customer Level 5 Reward Package]
 
 ID=820900031
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1616,7 +1616,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Trisha`s Gift Box
-トリシャより装備強化の利用者に感謝を込めて…。\n便利なアイテムが入っている。\n\n[顧客等級1段階達成報酬パッケージ]
+To thank the customers of Enhancing...\nIt contains useful items.\n\n[Customer Level 1 Reward Package]
 
 ID=820900032
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1626,7 +1626,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Trisha`s Valuable Gift Box
-トリシャより装備強化の利用者に感謝を込めて…。\n貴重なアイテムが入っている。\n\n[顧客等級2段階達成報酬パッケージ]
+To thank the customers of the Enhancing...It contains important items.\n\n[Customer Level 2 Reward Package]
 
 ID=820900033
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1636,7 +1636,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Trisha`s Friendship Gift Box
-トリシャより装備強化の利用者に感謝を込めて…。\n彼女の友情が込められたアイテムが入っている。\n\n[顧客等級3段階達成報酬パッケージ]
+To thank the customers of the Enhancing...It contains item that's filled with friendship.\n\n[Customer Level 3 Reward Package]
 
 ID=820900034
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1646,7 +1646,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Trisha`s Close Friendship Gift Box
-トリシャより装備強化の利用者に感謝を込めて…。\n装備を破壊するのだけは勘弁してほしい。\n\n[顧客等級4段階達成報酬パッケージ]
+To thank the customers of Enhancing...\nIf only equipment wasn't destroyed...\n\n[Customer Level 4 Reward Package]
 
 ID=820900035
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1656,7 +1656,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Trisha`s Gift Box of Affection
-トリシャより装備強化の利用者に感謝を込めて…。\n次の強化はうまくいきそうな気が…！\n\n[顧客等級5段階達成報酬パッケージ]
+To thank the customers of Enhancing...\nFeels like next enhance will succeed...!\n\n[Customer Level 5 Reward Package]
 
 ID=820900041
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1666,7 +1666,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Azin`s Gift Box
-スカイクラフトの利用者に感謝を込めて…。\n便利なアイテムが入っている。\n\n[顧客等級1段階達成報酬パッケージ]
+To thank the customers of the Sky Craft...\nIt contains useful items.\n\n[Customer Level 1 Reward Package]
 
 ID=820900042
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1676,7 +1676,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Azin`s Precious Gift Box
-スカイクラフトの利用者に感謝を込めて…。\n貴重なアイテムが入っている。\n\n[顧客等級2段階達成報酬パッケージ]
+To thank the customers of the Sky Craft...It contains important items.\n\n[Customer Level 2 Reward Package]
 
 ID=820900043
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1686,7 +1686,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Azin`s Friendship Gift Box
-スカイクラフトの利用者に感謝を込めて…。\nアジンからの友情の証。\n\n[顧客等級3段階達成報酬パッケージ]
+To thank the customers of the Sky Craft...It contains item that's filled with friendship.\n\n[Customer Level 3 Reward Package]
 
 ID=820900044
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1696,7 +1696,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Azin`s Close Friendship Gift Box
-スカイクラフトの利用者に感謝を込めて…。\nアジンからの信頼の証。\nしかし、スカイクラフトは少し揺れすぎだと思う。\n\n[顧客等級4段階達成報酬パッケージ]
+To thank the customers of Sky Craft...\nAlthough it's the proof of trust from Azin, the Sky Craft shakes way too much...\n\n[Customer Level 4 Reward Package]
 
 ID=820900045
 Icon/Item/Function/Package/ETC_0_PrimiumPackage
@@ -1706,7 +1706,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 Azin`s Gift Box of Affection
-スカイクラフトの利用者に感謝を込めて…。\n乗りすぎて吐きそうだが、これも愛ってやつだよね☆\n\n[顧客等級5段階達成報酬パッケージ]
+To thank the customers of Sky Craft...\nAlthough I feel like throwing up, I guess this is what you call love☆\n\n[Customer Level 5 Reward Package]
 
 ID=821010001
 Icon/Item/Function/Package/PackageBox_PC_A
@@ -17886,7 +17886,7 @@ Icon/Item/Cash/Antilimiter
 0
 0
 Anti Limiter
-アイテムを強化した回数を\n5回分リセットするアイテム。\n\n[強化実行回数減少アイテム]
+Item that decreases Enhance Limit by 5.\n\n[Enhance Limit Decrease Item]
 
 ID=834000004
 Icon/Item/Cash/ETC_0_BroachComposer
@@ -17906,7 +17906,7 @@ Icon/Item/Function/Socket_Slot_Add_ImplantSlot
 0
 0
 Implant Slot
-ソウルウェポンに[戦闘補助装置：ファミリア]を\n装着できるよう拡張スロットを挿入する機械。\n[一箇所に一定量以上のソウルは固定できない]という\nソウル総量の法則を辛うじて維持してくれる。\n\n[ファミリアソケット追加アイテム]
+Machine that inserts an expansion slot to allow [Familiar] to be equipped on Soul Weapon.\nThe machine narrowly allows for the preservation of the rule stating that [No more than a specified number of souls may exists in a single area].\n\n[Add Familiar Socket Item]
 
 ID=834000006
 Icon/Item/Cash/Broach Puncher
