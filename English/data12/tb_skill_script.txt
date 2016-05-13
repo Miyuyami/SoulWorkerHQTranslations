@@ -2031,7 +2031,7 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 ID=13071
 Cruel Slash I
 [Skill Info]\nDamage: [39%] per 1 hit\nSA Break: [23%] per 1 hit\nFinish Damage: [202%]\nFinish SA Break: [275%]\nSG Cost: [45]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left-click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: (Spam LMB)\n\n[Usage: Finish]\nMouse: (RMB)
-[通常攻撃]\nダメージ量：[39%]+2%\nSA破壊量：[23%]+1%\n\n[フィニッシュ攻撃]\nダメージ量：[202%]+10%\nSA破壊量：[275%]+13%
+[Basic Attack]\nDamage: [39%]+2%\nSA Break: [23%]+1%\n\n[Finish Attack]\nDamage: [202%]+10%\nSA Break: [275%]+13%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
@@ -2045,14 +2045,14 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 ID=13073
 Cruel Slash III
 [Skill Info]\nDamage: [46%] per 1 hit\nSA Break: [27%] per 1 hit\nFinish Damage: [238%]\nFinish SA Break: [323%]\nSG Cost: [45]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left-click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: (Spam LMB)\n\n[Usage: Finish]\nMouse: (RMB)
-[通常攻撃]\nダメージ量：[46%]+5%\nSA破壊量：[27%]+2%\n\n[フィニッシュ攻撃]\nダメージ量：[238%]+25%\nSA破壊量：[323%]+34%
+[Basic Attack]\nDamage: [46%]+5%\nSA Break: [27%]+2%\n\n[Finish Attack]\nDamage: [238%]+25%\nSA Break: [323%]+34%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 ID=13074
 Cruel Slash IV
 [Skill Info]\nDamage: [51%] per 1 hit\nSA Break: [29%] per 1 hit\nFinish Damage: [263%]\nFinish SA Break: [357%]\nSG Cost: [45]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left-click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: (Spam LMB)\n\n[Usage: Finish]\nMouse: (RMB)
-[通常攻撃]\nダメージ量：[51%]+7%\nSA破壊量：[29%]+5%\n\n[フィニッシュ攻撃]\nダメージ量：[263%]+40%\nSA破壊量：[3357%]+55%
+[Basic Attack]\nDamage: [51%]+7%\nSA Break: [29%]+1%\n\n[Finish Attack]\nDamage: [263%]+40%\nSA Break: [357%]+55%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
@@ -2066,28 +2066,28 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 ID=13081
 Grim Reaper I
 [Skill Info]\nDamage: [365%]\nSA Break: [602%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots).
-ダメージ量：[365%]+19%\nSA破壊量：[602%]+30%
+Damage: [365%]+19%\nSA Break: [602%]+30%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13082
 Grim Reaper II
 [Skill Info]\nDamage: [384%]\nSA Break: [632%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots).
-ダメージ量：[384%]+45%\nSA破壊量：[632%]+76%
+Damage: [384%]+45%\nSA Break: [632%]+76%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13083
 Grim Reaper III
 [Skill Info]\nDamage: [429%]\nSA Break: [708%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots).
-ダメージ量：[429%]+46%\nSA破壊量：[708%]+75%
+Damage: [429%]+46%\nSA Break: [708%]+75%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13084
 Grim Reaper IV
 [Skill Info]\nDamage: [475%]\nSA Break: [783%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots).
-ダメージ量：[475%]+73%\nSA破壊量：[783%]+120%
+Damage: [475%]+73%\nSA Break: [783%]+120%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
@@ -2101,28 +2101,28 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 ID=13091
 Force Region I
 [Skill Info]\nBuff Effect: Critical Rate +7%\nBuff Duration: [20s]\nSG Cost: [85]\nCooldown: [45]\n\nThe summoned Grim Reaper roar will grant a buff that increases critical chance to the party members in range, including self.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-クリティカル率増加：[7%]+2%
+Critical Rate Increase: [7%]+2%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 ID=13092
 Force Region II
 [Skill Info]\nBuff Effect: Critical Rate +9%\nBuff Duration: [20s]\nSG Cost: [85]\nCooldown: [45]\n\nThe summoned Grim Reaper roar will grant a buff that increases critical chance to the party members in range, including self.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-クリティカル率増加：[9%]+3%
+Critical Rate Increase: [(%]+3%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 ID=13093
 Force Region III
 [Skill Info]\nBuff Effect: Critical Rate +12%\nBuff Duration: [20s]\nSG Cost: [85]\nCooldown: [45]\n\nThe summoned Grim Reaper roar will grant a buff that increases critical chance to the party members in range, including self.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-クリティカル率増加：[12%]3%
+Critical Rate Increase: [12%]+3%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 ID=13094
 Force Region IV
 [Skill Info]\nBuff Effect: Critical Rate +15%\nBuff Duration: [20s]\nSG Cost: [85]\nCooldown: [45]\n\nThe summoned Grim Reaper roar will grant a buff that increases critical chance to the party members in range, including self.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-クリティカル率増加：[15%]+5%
+Critical Rate Increase: [15%]+5%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
@@ -2136,28 +2136,28 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 ID=13101
 Death Tornado I
 [Skill Info]\nDamage: [39%] per 1 hit\nSA Break: [62%] per 1 hit\nSG Cost: [50]\nCooldown: [30s]\n\nIt creates a powerful tornado to attack the enemies in front.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[39%]+1%\nSA破壊量：[62%]+3%
+Damage: [39%]+1%\nSA Break: [62%]+3%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 0
 
 ID=13102
 Death Tornado II
 [Skill Info]\nDamage: [40%] per 1 hit\nSA Break: [65%] per 1 hit\nSG Cost: [50]\nCooldown: [30s]\n\nIt creates a powerful tornado to attack the enemies in front.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[40%]+5%\nSA破壊量：[65%]+7%
+Damage: [40%]+5%\nSA Break: [65%]+7%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 0
 
 ID=13103
 Death Tornado III
 [Skill Info]\nDamage: [45%] per 1 hit\nSA Break: [72%] per 1 hit\nSG Cost: [50]\nCooldown: [30s]\n\nIt creates a powerful tornado to attack the enemies in front.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[45%]+5%\nSA破壊量：[72%]+7%
+Damage: [45%]+5%\nSA Break: [72%]+7%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 0
 
 ID=13104
 Death Tornado IV
 [Skill Info]\nDamage: [50%] per 1 hit\nSA Break: [80%] per 1 hit\nSG Cost: [50]\nCooldown: [30s]\n\nIt creates a powerful tornado to attack the enemies in front.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[50%]+8%\nSA破壊量：[80%]+12%
+Damage: [50%]+8%\nSA Break: [80%]+12%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 0
 
@@ -2171,28 +2171,28 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado
 ID=13111
 Evil Trinity I
 [Skill Info]\nDamage: [911%]\nSA Break: [1263%]\nSG Cost: [60]\nCooldown: [35s]\n\nThe Grim Reaper with two scythes appears, swinging them along with Lily. The ground smash creates three shock waves that will hit the enemies in the range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[911%]+45%\nSA破壊量：[1263%]+64%
+Damage: [911%]+45%\nSA Break: [1263%]+64%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 ID=13112
 Evil Trinity II
 [Skill Info]\nDamage: [956%]\nSA Break: [1327%]\nSG Cost: [60]\nCooldown: [35s]\n\nThe Grim Reaper with two scythes appears, swinging them along with Lily. The ground smash creates three shock waves that will hit the enemies in the range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[956%]+114%\nSA破壊量：[1327%]+158%
+Damage: [956%]+114%\nSA Break: [1327%]+158%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 ID=13113
 Evil Trinity III
 [Skill Info]\nDamage: [1070%]\nSA Break: [1485%]\nSG Cost: [60]\nCooldown: [35s]\n\nThe Grim Reaper with two scythes appears, swinging them along with Lily. The ground smash creates three shock waves that will hit the enemies in the range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[1070%]+114%\nSA破壊量：[1485%]+158%
+Damage: [1070%]+114%\nSA Break: [1485%]+158%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 ID=13114
 Evil Trinity IV
 [Skill Info]\nDamage: [1184%]\nSA Break: [1643%]\nSG Cost: [60]\nCooldown: [35s]\n\nThe Grim Reaper with two scythes appears, swinging them along with Lily. The ground smash creates three shock waves that will hit the enemies in the range.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[1184%]+182%\nSA破壊量：[1643%]+252%
+Damage: [1184%]+182%\nSA Break: [1643%]+252%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
@@ -2206,28 +2206,28 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 ID=13121
 Death Guillotine I
 [Skill Info]\nDamage: [1516%]\nSA Break: [1524%]\nSG Cost: [75]\nCooldown: [45s]\n\nSurrounds and restraints the enemies with chains, pushing them under a summoning gigantic guillotine.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[1516%]+75%\nSA破壊量：[1524%]+76%
+Damage: [1516%]+75%\nSA Break: [1524%]+76%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine
 0
 
 ID=13122
 Death Guillotine II
 [Skill Info]\nDamage: [1591%]\nSA Break: [1600%]\nSG Cost: [75]\nCooldown: [45s]\n\nSurrounds and restraints the enemies with chains, pushing them under a summoning gigantic guillotine.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[1591%]+190%\nSA破壊量：[1600%]+191%
+Damage: [1591%]+190%\nSA Break: [1600%]+191%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine
 0
 
 ID=13123
 Death Guillotine III
 [Skill Info]\nDamage: [1781%]\nSA Break: [1791%]\nSG Cost: [75]\nCooldown: [45s]\n\nSurrounds and restraints the enemies with chains, pushing them under a summoning gigantic guillotine.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[1781%]+189%\nSA破壊量：[1791%]+190%
+Damage: [1781%]+189%\nSA Break: [1791%]+190%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine
 0
 
 ID=13124
 Death Guillotine IV
 [Skill Info]\nDamage: [1970%]\nSA Break: [1981%]\nSG Cost: [75]\nCooldown: [45s]\n\nSurrounds and restraints the enemies with chains, pushing them under a summoning gigantic guillotine.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[1970%]+303%\nSA破壊量：[1981%]+305%
+Damage: [1970%]+303%\nSA Break: [1981%]+305%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine
 0
 
@@ -2409,7 +2409,7 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 ID=4071
 Rising Attack I
 [Skill Info] Deal 100% damage to an enemy.\n30 stamina will be consumed.\nBecome invincible for 1s after using this skill.\nCooldown: 15s\n\nWhile downed, get up while damaging surrounding enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
-スタミナ消費量が10減少する。
+Stamina cost -10.
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
@@ -2969,28 +2969,28 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 ID=15
 Basic Attack Mastery I
 [Skill Info]\nCall forth a ghost to attack an enemy.\nAs this skill’s level increases, you will be able to perform new combo attacks.\n\n[Usage: Ground]\nMouse: (LMB)×4\n\n[Usage: Mid-Air]\nMouse: (LMB)×2
-ダメージ量が5%増加する。\n分岐攻撃Aを使用できる。
+Damage +5%.\nUnlock alternate attack "A".
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=25
 Basic Attack Mastery II
 [Skill Info]\nCall forth a ghost to attack an enemy.\nAs this skill’s level increases, you will be able to perform new combo attacks.\n\nDamage +5%.\n\n[Usage: Ground]\nMouse:\n[1] (LMB)×4\n[2] (LMB)×2 - (RMB)\n\n[Usage: Mid-Air]\nMouse: (LMB)×2
-ダメージ量：[5%]+12%\n分岐攻撃Bを使用できる。
+Damage [5%]+12%.\nUnlock alternate attack "B".
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=35
 Basic Attack Mastery III
 [Skill Info]\nCall forth a ghost to attack an enemy.\nAs this skill’s level increases, you will be able to perform new combo attacks.\n\nDamage +12%.\n\n[Usage: Ground]\nMouse:\n[1] (LMB)×4\n[2] (LMB)×2 - (RMB)\n[3] (LMB)×3 - (RMB)\n\n[Usage: Mid-Air]\nMouse: (LMB)×3
-ダメージ量：[17%]+18%\n基本攻撃の追加攻撃を使用できる。\n空中攻撃の追加攻撃を使用できる。
+SG Gain: [17%]+18%\nUnlock an addiitonal basic attack.\nUnlock an additional aerial attack.
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=45
 Basic Attack Mastery IV
 [Skill Info]\nCall forth a ghost to attack an enemy.\nAs this skill’s level increases, you will be able to perform new combo attacks.\n\nDamage +30%.\n\n[Usage: Ground]\nMouse:\n[1] (LMB)×5\n[2] (LMB)×2 - (RMB)\n[3] (LMB)×3 - (RMB)\n[4] (LMB)×4 - (RMB)\n\n[Usage: Mid-Air]\nMouse: (LMB)×3
-ダメージ量：[30%]+20%\n分岐攻撃Cを使用できる。
+Damage [30%]+20%.\nUnlock alternate attack "C".
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
@@ -3193,7 +3193,7 @@ Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 ID=5141
 Sound Wave I
 [Skill Info]\nPassive Effect: Maximum SG increased by [10%]\n\nIncrease maximum SG.
-SG最大値増加：[10%]+10%
+Max SG Increase: [10%]+10%
 Icon/Skill/Howling/Icon_Howling_Skill_SGPassive
 0
 
@@ -3249,28 +3249,28 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 ID=15011
 Whirl Dance I
 [Skill Info]\nDamage: [164%]\nSA Break: [231%]\nSG Cost: [15]\nCooldown: [8s]\n\nPossess the guitar with ghosts, and swing it around to deal damage. The final slam will launch the enemies to the air.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[164%]+8%\nSA破壊量：[231%]+11%
+Damage: [164%]+8%\nSA Break: [231%]+11%
 Icon/Skill/Howling/Icon_Howling_Skill_WhirlDance
 0
 
 ID=15012
 Whirl Dance II
 [Skill Info]\nDamage: [172%]\nSA Break: [242%]\nSG Cost: [15]\nCooldown: [8s]\n\nPossess the guitar with ghosts, and swing it around to deal damage. The final slam will launch the enemies to the air.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[172%]+20%\nSA破壊量：[242%]+29%
+Damage: [172%]+20%\nSA Break: [242%]+29%
 Icon/Skill/Howling/Icon_Howling_Skill_WhirlDance
 0
 
 ID=15013
 Whirl Dance III
 [Skill Info]\nDamage: [192%]\nSA Break: [271%]\nSG Cost: [15]\nCooldown: [8s]\n\nPossess the guitar with ghosts, and swing it around to deal damage. The final slam will launch the enemies to the air.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[192%]+21%\nSA破壊量：[271%]+29%
+Damage: [192%]+21%\nSA Break: [271%]+29%
 Icon/Skill/Howling/Icon_Howling_Skill_WhirlDance
 0
 
 ID=15014
 Whirl Dance IV
 [Skill Info]\nDamage: [213%]\nSA Break: [300%]\nSG Cost: [15]\nCooldown: [8s]\n\nPossess the guitar with ghosts, and swing it around to deal damage. The final slam will launch the enemies to the air.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[213%]+32%\nSA破壊量：[300%]+46%
+Damage: [213%]+32%\nSA Break: [300%]+46%
 Icon/Skill/Howling/Icon_Howling_Skill_WhirlDance
 0
 
@@ -3284,28 +3284,28 @@ Icon/Skill/Howling/Icon_Howling_Skill_WhirlDance
 ID=15021
 Phantom Release I
 [Skill Info]\nDamage: [265%]\nSA Break: [143%]\nSG Cost: [20]\nCooldown: [10s]\n\nRelease ghosts by playing the guitar at the current location.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[265%]+14%\nSA破壊量：[143%]+7%
+Damage: [265%]+14%\nSA Break: [143%]+7%
 Icon/Skill/Howling/Icon_Howling_Skill_PhantomRelease
 0
 
 ID=15022
 Phantom Release II
 [Skill Info]\nDamage: [279%]\nSA Break: [150%]\nSG Cost: [20]\nCooldown: [10s]\n\nRelease ghosts by playing the guitar at the current location.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[279%]+33%\nSA破壊量：[150%]+18%
+Damage: [279%]+33%\nSA Break: [150%]+18%
 Icon/Skill/Howling/Icon_Howling_Skill_PhantomRelease
 0
 
 ID=15023
 Phantom Release III
 [Skill Info]\nDamage: [312%]\nSA Break: [168%]\nSG Cost: [20]\nCooldown: [10s]\n\nRelease ghosts by playing the guitar at the current location.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[312%]+33%\nSA破壊量：[168%]+18%
+Damage: [312%]+33%\nSA Break: [168%]+18%
 Icon/Skill/Howling/Icon_Howling_Skill_PhantomRelease
 0
 
 ID=15024
 Phantom Release IV
 [Skill Info]\nDamage: [345%]\nSA Break: [186%]\nSG Cost: [20]\nCooldown: [10s]\n\nRelease ghosts by playing the guitar at the current location.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-ダメージ量：[345%]+53%\nSA破壊量：[186%]+28%
+Damage: [345%]+53%\nSA Break: [186%]+28%
 Icon/Skill/Howling/Icon_Howling_Skill_PhantomRelease
 0
 
@@ -3319,28 +3319,28 @@ Icon/Skill/Howling/Icon_Howling_Skill_PhantomRelease
 ID=15031
 Trouble Pass I
 [Skill Info: Attack Mode]\nDamage: [62%] per 1 hit\nSA Break: [40%] per 1 hit\n\n[Skill Info: Support Mode]\nBuff Effect: [5%] HP recovery per ghost\nDoes not affect user.\n\n[Skill Info: General]\nShoot out 6 ghosts.\nSG Cost: [25]\nCooldown: [12s]\n\nFire ghosts at enemies to deal damage and decrease their defense. When the mode is converted, ghosts will heal the HP of party members.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-[攻撃モード]\nダメージ量：[62%]+3%\nSA破壊量：[40%]+2%
+[Attack Mode]\nDamage: [62%]+3%\nSA Break: [40%]+2%
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass
 0
 
 ID=15032
 Trouble Pass II
 [Skill Info: Attack Mode]\nDamage: [65%] per 1 hit\nSA Break: [42%] per 1 hit\n\n[Skill Info: Support Mode]\nBuff Effect: [5%] HP recovery per ghost\nDoes not affect user.\n\n[Skill Info: General]\nShoot out 6 ghosts.\nSG Cost: [25]\nCooldown: [12s]\n\nFire ghosts at enemies to deal damage and decrease their defense. When the mode is converted, ghosts will heal the HP of party members.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-[攻撃モード]\nダメージ量：[65%]+7%\nSA破壊量：[42%]+5%
+[Attack Mode]\nDamage: [65%]+7%\nSA Break: [42%]+5%
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass
 0
 
 ID=15033
 Trouble Pass III
 [Skill Info: Attack Mode]\nDamage: [72%] per 1 hit\nSA Break: [47%] per 1 hit\n\n[Skill Info: Support Mode]\nBuff Effect: [5%] HP recovery per ghost\nDoes not affect user.\n\n[Skill Info: General]\nShoot out 6 ghosts.\nSG Cost: [25]\nCooldown: [12s]\n\nFire ghosts at enemies to deal damage and decrease their defense. When the mode is converted, ghosts will heal the HP of party members.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-[攻撃モード]\nダメージ量：[72%]+8%\nSA破壊量：[47%]+5%
+[Attack Mode]\nDamage: [72%]+8%\nSA Break: [47%]+5%
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass
 0
 
 ID=15034
 Trouble Pass IV
 [Skill Info: Attack Mode]\nDamage: [80%] per 1 hit\nSA Break: [52%] per 1 hit\n\n[Skill Info: Support Mode]\nBuff Effect: [5%] HP recovery per ghost\nDoes not affect user.\n\n[Skill Info: General]\nShoot out 6 ghosts.\nSG Cost: [25]\nCooldown: [12s]\n\nFire ghosts at enemies to deal damage and decrease their defense. When the mode is converted, ghosts will heal the HP of party members.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-[攻撃モード]\nダメージ量：[80%]+12%\nSA破壊量：[52%]+8%
+[Attack Mode]\nDamage: [80%]+12%\nSA Break: [52%]+8%
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass
 0
 
