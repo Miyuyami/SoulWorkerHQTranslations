@@ -22,7 +22,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 ID=31
 Basic Attack Mastery III
 [Skill Info]\nAttack with your sword.\nAs this skill’s level increases, you will be able to perform new combo attacks.\nYou will regain SG as you attack.\nSG gain will vary by type of enemy hit.\n\nSG Gain +70%\n\n[Usage: Ground]\nMouse:\n[1] (LMB)×5\n[2] (LMB)×2 - (RMB)×2\n\n[Usage: Aerial]\nMouse: After Jumping (LMB)×2
-SG Gain: [70%]+50%\mUnlock alternative attack “B”.\nUnlock alternative aerial attack.
+SG Gain: [70%]+50%\nUnlock alternative attack “B”.\nUnlock alternative aerial attack.
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
@@ -3424,28 +3424,28 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeastParade
 ID=15061
 Beads Play I
 [Skill Info: Attack Mode]\nDamage: [124%] per 1 hit\nSA Break: [25%] per hit\n\n[Skill Info: Support Mode]\nBuff Effect: Heal [25%] per ghost.\n\n[Skill Info: General]\nCharging will increase number of beads.\nPush away enemies when charging completes.\nMax Charge: 3\nSG Cost: [35]\nCooldown: [20s]\n\nCreate beads which will explode on enemy contact.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-[Attack Mode]\nDamage: Per Bead [124%]+6%\nSA Break: Per Bead [25%]+2%
+[Attack Mode]\nDamage: Per Bead [124%]+6%\nSA Break: [25%]+2% per bead
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 0
 
 ID=15062
 Beads Play II
 [Skill Info: Attack Mode]\nDamage: [130%] per 1 hit\nSA Break: [27%] per hit\n\n[Skill Info: Support Mode]\nBuff Effect: Heal [25%] per ghost.\n\n[Skill Info: General]\nCharging will increase number of beads.\nPush away enemies when charging completes.\nMax Charge: 3\nSG Cost: [35]\nCooldown: [20s]\n\nCreate beads which will explode on enemy contact.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-[Attack Mode]\nDamage: Per Bead [130%]+15%\nSA Break: Per Bead [27%]+3%
+[Attack Mode]\nDamage: Per Bead [130%]+15%\nSA Break: [27%]+3% per bead
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 0
 
 ID=15063
 Beads Play III
 [Skill Info: Attack Mode]\nDamage: [145%] per 1 hit\nSA Break: [30%] per hit\n\n[Skill Info: Support Mode]\nBuff Effect: Heal [25%] per ghost.\n\n[Skill Info: General]\nCharging will increase number of beads.\nPush away enemies when charging completes.\nMax Charge: 3\nSG Cost: [35]\nCooldown: [20s]\n\nCreate beads which will explode on enemy contact.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-[Attack Mode]\nDamage: Per Bead [145%]+15%\nSA Break: Per Bead [30%]+3%
+[Attack Mode]\nDamage: Per Bead [145%]+15%\nSA Break: [30%]+3% per bead
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 0
 
 ID=15064
 Beads Play IV
 [Skill Info: Attack Mode]\nDamage: [160%] per 1 hit\nSA Break: [33%] per hit\n\n[Skill Info: Support Mode]\nBuff Effect: Heal [25%] per ghost.\n\n[Skill Info: General]\nCharging will increase number of beads.\nPush away enemies when charging completes.\nMax Charge: 3\nSG Cost: [35]\nCooldown: [20s]\n\nCreate beads which will explode on enemy contact.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-[Attack Mode]\nDamage: Per Bead [160%]+25%\nSA Break: Per Bead [33%]+5%
+[Attack Mode]\nDamage: Per Bead [160%]+25%\nSA Break: [33%]+5% per bead
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 0
 
@@ -3494,28 +3494,28 @@ Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse
 ID=15081
 Soul Scream I
 [Skill Info: General]\nDamage: [100%]\nDebuff Effect: Invincibility\nBuff Duration: [1s]\nSA Break: [250%]\nSG Cost: [40]\nCooldown: [60s]\n\n[Skill Info: Barrier]\nDamage: [10%] per 1 hit\nSA Break: [25%] per sec\nDebuff Effect: Paralyze\nDebuff Duration: [3s]\nBarrier Duration: [10s]\n\nMake souls go rampant, creating a barrier around the caster. Invincibility will be granted on skill cast. The barrier will damage & stun all nearby enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-SG Consumption: [40]-5
+SG Cost: [40]-5
 Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 0
 
 ID=15082
 Soul Scream II
 [Skill Info: General]\nDamage: [100%]\nDebuff Effect: Invincibility\nBuff Duration: [1s]\nSA Break: [250%]\nSG Cost: [35]\nCooldown: [60s]\n\n[Skill Info: Barrier]\nDamage: [10%] per 1 hit\nSA Break: [25%] per sec\nDebuff Effect: Paralyze\nDebuff Duration: [3s]\nBarrier Duration: [10s]\n\nMake souls go rampant, creating a barrier around the caster. Invincibility will be granted on skill cast. The barrier will damage & stun all nearby enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-SG Consumption: [35]-5\nCooldown:[60s]-5s
+SG Cost: [35]-5\nCooldown:[60s]-5s
 Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 0
 
 ID=15083
 Soul Scream III
 [Skill Info: General]\nDamage: [100%]\nDebuff Effect: Invincibility\nBuff Duration: [1s]\nSA Break: [250%]\nSG Cost: [30]\nCooldown: [55s]\n\n[Skill Info: Barrier]\nDamage: [10%] per 1 hit\nSA Break: [25%] per sec\nDebuff Effect: Paralyze\nDebuff Duration: [3s]\nBarrier Duration: [10s]\n\nMake souls go rampant, creating a barrier around the caster. Invincibility will be granted on skill cast. The barrier will damage & stun all nearby enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-SG Consumption: [30]-5\nCooldown:[55s]-5s
+SG Cost: [30]-5\nCooldown:[55s]-5s
 Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 0
 
 ID=15084
 Soul Scream IV
 [Skill Info: General]\nDamage: [100%]\nDebuff Effect: Invincibility\nBuff Duration: [1s]\nSA Break: [250%]\nSG Cost: [25]\nCooldown: [50s]\n\n[Skill Info: Barrier]\nDamage: [10%] per 1 hit\nSA Break: [25%] per sec\nDebuff Effect: Paralyze\nDebuff Duration: [3s]\nBarrier Duration: [10s]\n\nMake souls go rampant, creating a barrier around the caster. Invincibility will be granted on skill cast. The barrier will damage & stun all nearby enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key.
-SG Consumption: [25]-5\nCooldown:[50s]-20s
+SG Cost: [25]-5\nCooldown:[50s]-20s
 Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 0
 
@@ -3717,34 +3717,34 @@ Description_Image/Skill/Howling/Image_Howling_Break_Erode
 
 ID=21021
 Range Increase I
-[Special Info]\nIncrease range of your additional attack.\n\nImbue your sword with energy, improving range.
+[Special Info]\nRange of the additional attack is increased.\n\nRange is also increased by imbuing your sword with energy.
 [Normal Attack]\nDamage +54%.\nSA Break +29%.\n\n[Additional Attack]\nDamage: +33%\nSA Break +19%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade_A
 0
 
 ID=21022
 Range Increase II
-[Type: Basic]\nDamage Increase: [54%]\nSA Break Increase: 29%\n\n[Type: Additional]\nDamage Increase: [33%]\nSA Increase: [19%]\nRange of additional attacks increased.\n\nAttack Range of weapon is increased.
-[Basic Attack]\nDamage Increase: [54%]+108%\nSA Break Increase: [29%]+59%\n\n[Additional Attack]\nDamage Increase: [33%]+68%\n\SA Break Increase: [19%]+36%
+[Type: Basic]\nDamage Increase: [54%]\nSA Break Increase: 29%\n\n[Type: Additional]\nDamage Increase: [33%]\nSA Increase: [19%]\nRange of the additional attack is increased.\n\nRange is also increased by imbuing your sword with energy.
+[Basic Attack]\nDamage Increase: [54%]+108%\nSA Break Increase: [29%]+59%\n\n[Additional Attack]\nDamage Increase: [33%]+68%\nSA Break Increase: [19%]+36%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade_A
 0
 
 ID=21023
 Range Increase III
-[Type: Basic]\nDamage Increase: [162%]\nSA Break Increase: 62%\n\n[Type: Additional]\nDamage Increase: [101%]\nSA Increase: [87%]\nRange of additional attacks increased.\n\nAttack Range of weapon is increased.
+[Type: Basic]\nDamage Increase: [162%]\nSA Break Increase: 62%\n\n[Type: Additional]\nDamage Increase: [101%]\nSA Increase: [87%]\nRange of the additional attack is increased.\n\nRange is also increased by imbuing your sword with energy.
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade_A
 0
 
 ID=21041
 Spinning Blade I
-[Type: Basic]
-[追加攻撃]\n回転切りが2回転になる。\nダメージ量：[65%]+151%\nSA破壊量：[34%]+80%
+[Type: Basic]\nDamage Increase: [92%]\nSA Break Decrease: [381%]\n\n[Type: Additional]\nDamage: [65%]\nSA Break: [34%]\n\nPushes the enemy away with two Spinning Blades after Pierce Step.\n\n[Activation: Additional Attack]\nMouse: After last attack (RMB)
+{Additional Attack]\nAttacks twice with 2 rotating slashes.\nDamage: [65%]+151%\nSA Break: [34%]+80%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep_A
 0
 
 ID=21042
-回転斬りⅡ
+Spinning Blade II
 [Type: Basic]\nDamage Increase: [92%]\nSA Break Decrease: [381%]\n\n[Type: Additional]\nDamage: [216%]\nSA Break: [114%]\n\nPushes the enemy away with two Spinning Blades after Pierce Step.\n\n[Activation: Additional Attack]\nMouse: After last attack (right-click)
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep_A
@@ -3779,22 +3779,22 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake_A
 0
 
 ID=21051
-Extra Attack I
-[Special Info]\nDamage Increase: [102%]\SA Break Increase: [172%]\n\nIncreases the number of attacks; adds to multi-stage hits.
+Extra Attack I\n 
+[Special Info]\nDamage Increase: [102%]\nSA Break Increase: [172%]\n\nIncreases the number of attacks; adds multiple hits.
 Damage Increase: [102%]+69%\nSA Break Increase: [172%]+111%\nIncreases the number of attacks.
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack_A
 0
 
 ID=21052
-Extra Attack II
-[Special Info]\nDamage Increase: [171%]\SA Break Increase: [283%]\n\nIncreases the number of attacks; adds to multi-stage hits.
+Extra Attack II\n 
+[Special Info]\nDamage Increase: [171%]\nSA Break Increase: [283%]\n\nIncreases the number of attacks; adds multiple hits.
 Damage Increase: [171%]+114%\nSA Break Increase: [283%]+187%\nIncreases the number of attacks.
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack_A
 0
 
 ID=21053
-Extra Attack III
-[Special Info]\nDamage Increase: [285%]\SA Break Increase: [470%]\n\nIncreases the number of attacks; adds to multi-stage hits.
+Extra Attack III\n 
+[Special Info]\nDamage Increase: [285%]\nSA Break Increase: [470%]\n\nIncreases the number of attacks; adds multiple hits.
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack_A
 0
@@ -3802,20 +3802,20 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack_A
 ID=21054
 Range Increase I
 [Special Info]\nAttack Range increased
-Damage increased by 58%. SA Break increased by 95%.
+Damage increased by 58%. \nSA Break increased by 95%.
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack_B
 0
 
 ID=21055
 Range Increase II
-[Special Info]\nDamage Increase: [58%]\nSA Break Increase: [95%]\nAttack Range is increased.\n\nslam impact attack range increased.
+[Special Info]\nDamage Increase: [58%]\nSA Break Increase: [95%]\nAttack Range is increased.\n\nSlam impact attack range increased.
 Damage Increase: [58%]+118%\nSA Break Increase: [95%]+188%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack_B
 0
 
 ID=21056
 Range Increase III
-[Special Info]\nDamage Increase: [176%]\nSA Break Increase: [183%]\nAttack Range is increased.\n\nslam impact attack range increased.
+[Special Info]\nDamage Increase: [176%]\nSA Break Increase: [183%]\nAttack Range is increased.\n\nSlam impact attack range increased.
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_LeapAttack_B
 0
@@ -3843,7 +3843,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush_A
 
 ID=21074
 Knock Out
-[Special Info]\nDebuff Type: Stun\nDebuff Duration：[1s]\n\nStuns the enemy.
+[Special Info]\nDebuff Type: Stun\nDebuff Duration: [1s]\n\nStuns the enemy.
 Debuff Duration: [1s]+1s
 Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush_B
 0
@@ -3851,7 +3851,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush_B
 ID=21075
 Knock Out II
 [Special Info]\nDebuff Type: Stun\nDebuff Duration：[2s]\n\nStuns the enemy.
-デバフ持続時間：[2秒]+1秒
+Debuff Duration: [2s]+1s
 Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush_B
 0
 
@@ -3863,21 +3863,21 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush_B
 0
 
 ID=21111
-Extra Attack I
+Extra Attack I\n 
 [Special Info]\nDamage Reduction：per slash [122%]\nSA Break Decrease：per slash[92%]\nThe number of slashes increased to 5\n\nFires multiple energy slashes
 [Special Info]\nDamage Reduction: per slash [122%]-18%\nSA Break Decrease: per slash [92%]-14%\nFire AoE DPS increased 24%.\nFire AoE  SA Break increased by 18% per second
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike_A
 0
 
 ID=21112
-Extra Attack II
+Extra Attack II\n 
 [Special Info]\nDamage Reduction: [104%]\nSA Break Reduction: [78%]\nFire AoE DPS increase: [186%]\nFlame AoE SA Break per second increase: [140%]\nSlashes increased to 5.\n\nFires multiple energy slashes.
 [Special Info]\nDamage Reduction：per slash [104%]-55%\nSA Break Decrease：per slash [92%]-44%\nFlame AoE DPS increased [73%]\nFire AoE SA Break Increase: 55% per second.
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike_A
 0
 
 ID=21113
-Extra Attack III
+Extra Attack III\n 
 [Special Info]\nDamage Reduction: [49%]\nSA Break Reduction: [48%]\nFire AoE DPS increase: [235%]\nFlame AoE SA Break per second increase: [177%]\nSlashes increased to 5.\n\nFires multiple energy slashes.
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike_A
@@ -3975,14 +3975,14 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot_A
 0
 
 ID=22042
-麻痺弾Ⅱ
+Paralyzing Shot II
 [特性情報：追加攻撃]\nダメージ量：[101%]\nデバフ効果：麻痺\nデバフエリア持続時間：[4秒]\nSA破壊量：[59%]\n\n最後に強力なエナジーを発射して攻撃する。\nエナジーが爆発した地点に麻痺エリアが発生する。
 ダメージ量：[101%] +27%\nSA破壊量：[59%] +15%\nデバフエリア持続時間：[4秒] +1秒
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot_A
 0
 
 ID=22043
-麻痺弾Ⅲ
+Paralyzing Shot III
 [特性情報：追加攻撃]\nダメージ量：[128%]\nデバフ効果：麻痺\nデバフエリア持続時間：[5秒]\nSA破壊量：[74%]\n\n最後に強力なエナジーを発射して攻撃する。\nエナジーが爆発した地点に麻痺エリアが発生する。
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot_A
@@ -4010,58 +4010,58 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot_B
 0
 
 ID=22051
-貫通Ⅰ
-[特性情報]\n銃による攻撃が敵を貫通する。
-ダメージ量が44%増加する。\nSA破壊量が24%増加する。
+Penetration I
+[Special Info]\nAttacks done by the guns go through enemies.
+Damage increases by 44%.\nSA break increases by 24%.
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GunCombination_A
 0
 
 ID=22052
-貫通Ⅱ
-[特性情報]\nダメージ量追加値：[44%]\nSA破壊量追加値：[24%]\n\n銃による攻撃が敵を貫通する。
-ダメージ量追加値：[44%]+88%\nSA破壊量追加値：[24%]+47%
+Penetration II
+[Special Info]\nDamage Increase: 44%.\nSA Break: 24%\n\nAttacks done by the guns go through enemies.
+Damage increase: [44%]+88%\nSA break increases by: [24%]+47%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GunCombination_A
 0
 
 ID=22053
-貫通Ⅲ
-[特性情報]\nダメージ量追加値：[132%]増加\nSA破壊量追加値：[71%]増加\n\n銃による攻撃が敵を貫通する。
+Penetration III
+[Special Info]\nDamage Increase: [132%]\nSA Break: [71%]\n\nAttacks done by guns go through enemies.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GunCombination_A
 0
 
 ID=22071
-防御度貫通Ⅰ
-[特性情報]\nバフ効果：敵防御度貫通[20%]\n\n攻撃を受けた敵の防御度を一定量無効化する。
-バフ効果：敵防御度貫通[20%]+20%
+Defense Penetration I
+[Special Info]\nBuff Effect: Enemy Defense Penetration[20%]\n\nAttacks done to the enemy ignore enemy's defense.
+Buff Effect: Penetration Rate [20%]+20%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GuidedShot_A
 0
 
 ID=22072
-防御度貫通Ⅱ
-[特性情報]\nバフ効果：敵防御度貫通[40%]\n\n攻撃を受けた敵の防御度を一定量無効化する。
-バフ効果：敵防御度貫通[40%]+40%
+Defense Penetration II
+[Special Info]\nBuff Effect: Enemy Defense Penetration[40%]\n\nAttacks done to the enemy ignore enemy's defense.
+Buff Effect: Penetration Rate [40%]+40%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GuidedShot_A
 0
 
 ID=22073
-防御度貫通Ⅲ
-[特性情報]\nバフ効果：敵防御度貫通[80%]\n\n攻撃を受けた敵の防御度を一定量無効化する。
+Defense Penetration III
+[Special Info]\nBuff Effect: Enemy Defense Penetration[80%]\n\nAttacks done to the enemy ignore enemy's defense.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_GuidedShot_A
 0
 
 ID=22091
 SG Recovery I
-[特性情報]\nバフ効果：1秒あたりSG[1%]回復\nバフ持続時間：[20秒]\n\n味方のSGを回復させるバフが追加で発動する。
-SG回復量：[1%]+1%
+[Special Info]\nBuff Effect: [1%] SG Recovery per second.\nBuff Duration [20s]\n\nGives a buff that recovers SG of allies.
+SG Recovery Rate: [1%}+1%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter_A
 0
 
 ID=22092
 SG Recovery II
 [特性情報]\nバフ効果：1秒あたりSG[2%]回復\nバフ持続時間：[20秒]\n\n味方のSGを回復させるバフが追加で発動する。
-SG回復量：[2%]+1%
+SG Recovery Rate: [2%}+1%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter_A
 0
 
@@ -4164,21 +4164,21 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder_B
 0
 
 ID=23071
-防御度貫通Ⅰ
+Defense Penetration I
 [特性情報]\nバフ効果：敵の防御度貫通[20%]\n\n攻撃を受けた敵の防御度を一定量無視する。
 敵の防御度貫通：[20%]+20%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash_A
 0
 
 ID=23072
-防御度貫通Ⅱ
+Defense Penetration II
 [特性情報]\nバフ効果：敵の防御度貫通[40%]\n\n攻撃を受けた敵の防御度を一定量無視する。
 敵の防御度貫通：[40%]+30%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash_A
 0
 
 ID=23073
-防御度貫通Ⅲ
+Defense Penetration III
 [特性情報]\nバフ効果：敵の防御度貫通[70%]\n\n攻撃を受けた敵の防御度を一定量無視する。
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash_A
@@ -4437,28 +4437,28 @@ LvMax
 0
 
 ID=24101
-Extra Attack I
+Extra Attack I\n 
 [特性情報]\nダメージ量増加値：[00%]\nSA破壊量増加値：[00%]\n\n衝撃弾の速度は遅くなるが、連続攻撃になる。
 ダメージ量増加値：[00%]+00%\nSA破壊量増加値：[00%]+00%
 0
 0
 
 ID=24102
-Extra Attack II
+Extra Attack II\n 
 [特性情報]\nダメージ量増加値：[00%]\nSA破壊量増加値：[00%]\n\n衝撃弾の速度は遅くなるが、連続攻撃になる。
 ダメージ量増加値：[00%]+00%\nSA破壊量増加値：[00%]+00%
 0
 0
 
 ID=24103
-Extra Attack III
+Extra Attack III\n 
 [特性情報]\nダメージ量増加値：[00%]\nSA破壊量増加値：[00%]\n\n衝撃弾の速度は遅くなるが、連続攻撃になる。
 LvMax
 0
 0
 
 ID=25021
-Extra Attack I
+Extra Attack I\n 
 [特性情報]\n攻撃回数が増加する。
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_PhantomRelease_A
@@ -4507,14 +4507,14 @@ Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_B
 0
 
 ID=25041
-Extra Attack I
+Extra Attack I\n 
 [特性情報]\nダメージ量増加値：[79%]\nSA破壊量増加値：[122%]\n\n攻撃回数が増加する。
 ダメージ量増加値：[79%]+118%\nSA破壊量増加値：[122%]+183%
 Icon/Skill/Howling/Icon_Howling_Skill_HystericShock_A
 0
 
 ID=25042
-Extra Attack II
+Extra Attack II\n 
 [特性情報]\nダメージ量増加値：[197%]\nSA破壊量増加値：[305%]\n\n攻撃回数が増加する。
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_HystericShock_A
