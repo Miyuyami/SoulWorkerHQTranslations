@@ -3899,28 +3899,28 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_WindBreak_A
 
 ID=22011
 Impact Bullets I
-[Special Info: Additional Attack]\nDamage：[175%]\nSA Break：[223%]\n\nKnocks back enemies by shooting them with impact bullets.
+[Type: Additional Attack]\nDamage：[175%]\nSA Break：[223%]\n\nKnocks back enemies by shooting them with impact bullets.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh_A
 0
 
 ID=22014
 Aerial Shots I
-[Special Info：Additional Attack]\nDamage: per shot [35%]\nSA Break: per shot [45%]\nMaximum Attack Duration:：[0.55s]\nFinishing Damage：[88]%\nFinishing SA break：[112%]\n\nShoot at enemies knocked into the air.
+[Type：Additional Attack]\nDamage: per shot [35%]\nSA Break: per shot [45%]\nMaximum Attack Duration:：[0.55s]\nFinishing Damage：[88]%\nFinishing SA break：[112%]\n\nShoot at enemies knocked into the air.
 [Additional Attack]\nMaximum Attack Duration：[0.55s]+0.55s
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh_B
 0
 
 ID=22015
 Aerial Shots II
-[Special Info：Additional Attack]\nDamage: per shot [35%]\nSA Break: per shot [45%]\nMaximum Attack Duration:：[1.1s]\nFinishing Damage：[88]%\nFinishing SA break：[112%]\n\nShoot at enemies knocked into the air.
+[Type：Additional Attack]\nDamage: per shot [35%]\nSA Break: per shot [45%]\nMaximum Attack Duration:：[1.1s]\nFinishing Damage：[88]%\nFinishing SA break：[112%]\n\nShoot at enemies knocked into the air.
 [Additional Attack]\nDamage: [35%]+8%\nSA Break: [45%]+23%\nMaximum Attack Duration：[1.1s]+0.55s
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh_B
 0
 
 ID=22016
 Aerial Shots III
-[Special Info：Additional Attack]\nDamage: per shot [53%]\nSA Break: per shot [68%]\nMaximum Attack Duration:：[1.65s]\nFinishing Damage：[88]%\nFinishing SA break：[112%]\n\nShoot at enemies knocked into the air.
+[Type：Additional Attack]\nDamage: per shot [53%]\nSA Break: per shot [68%]\nMaximum Attack Duration:：[1.65s]\nFinishing Damage：[88]%\nFinishing SA break：[112%]\n\nShoot at enemies knocked into the air.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh_B
 0
@@ -3969,42 +3969,42 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_SlideStep_B
 
 ID=22041
 Paralyzing Shot I
-[特性情報：追加攻撃]\nダメージ量：[88%]\nデバフ効果：麻痺\nデバフエリア持続時間：[3秒]\nSA破壊量：[51%]\n\n最後に強力なエナジーを発射して攻撃する。\nエナジーが爆発した地点に麻痺エリアが発生する。
-ダメージ量：[88%] +13%\nSA破壊量：[51%] +8%\nデバフエリア持続時間：[3秒] +1秒
+[Type: Additional Attack]\nDamage: [88%]\nEffect: Paralyze\nDuration: [3s]\nSA Break:[51%]\n\nFires a powerful energy at the end of the attack.\nInflicts paralysis at the affected area.
+Damage: [88%]+13%\nSA Break: [51%]+8%\nDuration[3s]+1s
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot_A
 0
 
 ID=22042
 Paralyzing Shot II
-[特性情報：追加攻撃]\nダメージ量：[101%]\nデバフ効果：麻痺\nデバフエリア持続時間：[4秒]\nSA破壊量：[59%]\n\n最後に強力なエナジーを発射して攻撃する。\nエナジーが爆発した地点に麻痺エリアが発生する。
-ダメージ量：[101%] +27%\nSA破壊量：[59%] +15%\nデバフエリア持続時間：[4秒] +1秒
+[Type: Additional Attack]\nDamage: [101%]\nEffect: Paralyze\nDuration: [4s]\nSA Break:[59%]\n\nFires a powerful energy at the end of the attack.\nInflicts paralysis at the affected area.
+Damage: [101%]+27%\nSA Break: [59%]+15%\nDuration[4s]+1s
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot_A
 0
 
 ID=22043
 Paralyzing Shot III
-[特性情報：追加攻撃]\nダメージ量：[128%]\nデバフ効果：麻痺\nデバフエリア持続時間：[5秒]\nSA破壊量：[74%]\n\n最後に強力なエナジーを発射して攻撃する。\nエナジーが爆発した地点に麻痺エリアが発生する。
+[Type: Additional Attack]\nDamage: [128%]\nEffect: Paralyze\nDuration: [5s]\nSA Break:[74%]\n\nFires a powerful energy at the end of the attack.\nInflicts paralysis at the affected area.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot_A
 0
 
 ID=22044
 Black Hole I
-[特性情報：追加攻撃]\nダメージ量：[88%]\nSA破壊量：[51%]\n4m以内の敵を引き寄せる。\n\n最後に強力なエナジーを発射して攻撃する。\nエナジーが爆発した地点を基準に、周囲の\n敵を全て引き寄せる。
-ダメージ量：[88%] +13%\nSA破壊量：[51%] +8%\n引き寄せる範囲が2m増加する。
+[Type: Additional Attack]\nDamage: [88%]\nSA Break: [51%]\nPulls enemies within 4m.\n\nFires a powerful energy at the end of the attack.\nEnemies will be pulled to the center of the affected area.
+Damage: [88%]+13%\nSA Break: [51%]+8%\Pull range increases by 2m.
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot_B
 0
 
 ID=22045
 Black Hole II
-[特性情報：追加攻撃]\nダメージ量：[101%]\nSA破壊量：[59%]\n6m以内の敵を引き寄せる。\n\n最後に強力なエナジーを発射して攻撃する。\nエナジーが爆発した地点を基準に、周囲の\n敵を全て引き寄せる。
-ダメージ量：[101%] +27%\nSA破壊量：[59%] +15%\n引き寄せる範囲が2m増加する。
+[Type: Additional Attack]\nDamage: [101%]\nSA Break: [59%]\nPulls enemies within 6m.\n\nFires a powerful energy at the end of the attack.\nEnemies will be pulled to the center of the affected area.
+Damage: [101%]+27%\nSA Break: [59%]+15%\Pull range increases by 2m.
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot_B
 0
 
 ID=22046
 Black Hole III
-[特性情報：追加攻撃]\nダメージ量：[128%]\nSA破壊量：[74%]\n8m以内の敵を引き寄せる。\n\n最後に強力なエナジーを発射して攻撃する。\nエナジーが爆発した地点を基準に、周囲の\n敵を全て引き寄せる。
+[Type: Additional Attack]\nDamage: [128%]\nSA Break: [74%]\nPulls enemies within 8m.\n\nFires a powerful energy at the end of the attack.\nEnemies will be pulled to the center of the affected area.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot_B
 0
@@ -4206,16 +4206,16 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash_B
 0
 
 ID=23101
-誘導Ⅰ
-[特性情報]\nダメージ量増加値：攻撃1回あたり[29%]\nSA破壊量減少値：攻撃1回あたり[20%]\n\n発生した竜巻が敵に向かって移動する。
-ダメージ量増加値：[29%]+13%\nSA破壊量減少値：[20%]-7%
+Induction I
+[Sepcial Info]\nDamage Increase:：per 1 hit [29%]\nSA Break Decrease: per 1 hit [20%]\n\nSummons a tornado that moves towards the enemy
+Damage Increase: [29%]+13%\nSA Break Decrease: [20%]-7%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_A
 0
 
 ID=23102
-誘導Ⅱ
-[特性情報]\nダメージ量増加値：攻撃1回あたり[42%]\nSA破壊量減少値：攻撃1回あたり[13%]\n\n発生した竜巻が敵に向かって移動する。
-ダメージ量増加値：[42%]+26%\nSA破壊量減少値：[13%]-12%
+Induction II
+[Special Info]\nDamage Increase: per 1 hit [42%]\nSA Break Decrease: per 1 hit [13%]\n\nSummons a tornado that moves towards the enemy
+Damage Increase: [42%]+26%\nSA Break Decrease: [13%]-12%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_A
 0
 
