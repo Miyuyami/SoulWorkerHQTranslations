@@ -4227,22 +4227,22 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_A
 0
 
 ID=23104
-広域Ⅰ
-[特性情報]\nダメージ量増加値：攻撃1回あたり[9%]増加\nSA破壊量増加値：攻撃1回あたり[14%]増加\n\n竜巻が前方に向かって移動する。
-ダメージ量増加値：[9%]+8%\nSA破壊量増加値：[14%]+13%
+Area Widener I - 
+[Special Info]\nDamage Increase: [9%] every 1 hit\nSA Break Increase: [14%] every 1 hit\n\nTornado moves towards the front.
+Damage Increase: [9%]+8%\nSA Break Increase: [14%]+13%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_B
 0
 
 ID=23105
-広域Ⅱ
-[特性情報]\nダメージ量増加値：攻撃1回あたり[17%]\nSA破壊量増加値：攻撃1回あたり[27%]\n\n竜巻が前方に向かって移動する。
-ダメージ量増加値：[17%]+18%\nSA破壊量増加値：[27%]+28%
+Area Widener II - 
+[Special Info]\nDamage Increase: [17%] every 1 hit\nSA Break Increase: [27%] every 1 hit\n\nTornado moves towards the front.
+Damage Increase: [17%]+18%\nSA Break Increase: [27%]+28%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_B
 0
 
 ID=23106
-広域Ⅲ
-[特性情報]\nダメージ量増加値：攻撃1回あたり[35%]増加\nSA破壊量増加値：攻撃1回あたり[55%]増加\n\n竜巻が前方に向かって移動する。
+Area Widener III - 
+[Special Info]\nDamage Increase: [35%] every 1 hit\nSA Break Increase: [55%] every 1 hit\n\nTornado moves towards the front.
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_B
 0
@@ -4459,182 +4459,182 @@ LvMax
 
 ID=25021
 Extra Attack I\n 
-[特性情報]\n攻撃回数が増加する。
+[Special Info]\nIncreases the number of attacks.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_PhantomRelease_A
 0
 
 ID=25031
 Range Increase I
-[特性情報：攻撃モード]\n攻撃範囲が増加する。\n\nゴーストが爆発する範囲が増加する。
-[攻撃モード]\nダメージ量が14%増加する。\nSA破壊量が9%増加する。
+[Type: Attack Mode]\nIncreases attack range.\n\nIncreases the range of exploding ghosts.
+[Attack Mode]\nDamage +14%.\nSA Break +9%
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_A
 0
 
 ID=25032
 Range Increase II
-[特性情報：攻撃モード]\nダメージ量増加値：攻撃1回あたり[14%]\nSA破壊量増加値：攻撃1回あたり[9%]\n攻撃範囲が増加する。\n\nゴーストが爆発する範囲が増加する。
-[攻撃モード]\nダメージ量増加値：[14%]+27%\nSA破壊量増加値：[9%]+18%
+[Type: Attack Mode]\nDamage Increase: [14%] every 1 attack\nSA break increase: [9%] every 1 attack.\nAttack radius increased.\n\nIncreases explosion radius of ghosts.
+[Attack Mode]\nDamage Increase: [14%]+27%\nSA Break Increase: [9%]+18%
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_A
 0
 
 ID=25033
 Range Increase III
-[特性情報：攻撃モード]\nダメージ量増加値：攻撃1回あたり[41%]\nSA破壊量増加値：攻撃1回あたり[27%]\n攻撃範囲が増加する。\n\nゴーストが爆発する範囲が増加する。
+[Type: Attack Mode]\nDamage Increase: [41%] every 1 attack\nSA break increase: [27%] every 1 attack.\nAttack radius increased.\n\nIncreases explosion radius of ghosts.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_A
 0
 
 ID=25034
 強化Ⅰ
-[特性情報：支援モード]\nゴーストHP回復増加値：[1%]\n\nゴーストの味方HP回復量が増加する。
-[支援モード]\nゴーストHP回復増加値：[1%]+1%
+[Type: Support Mode]\nGhost HP Recovery Increase: [1%]\n\nAlly HP recovery per ghost increases.
+[Support Mode]\nGhost HP Recovery Increase: [1%]+1%
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_B
 0
 
 ID=25035
 強化Ⅱ
-[特性情報：支援モード]\nゴーストHP回復増加値：[2%]\n\nゴーストの味方HP回復量が増加する。
-[支援モード]\nゴーストHP回復増加値：[2%]+1%
+[Type: Support Mode]\nGhost HP Recovery Increase: [2%]\n\nAlly HP recovery per ghost increases.
+[Support Mode]\nGhost HP Recovery Increase: [2%]+1%
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_B
 0
 
 ID=25036
 強化Ⅲ
-[特性情報：支援モード]\nゴーストHP回復増加値：[3%]\n\nゴーストの味方HP回復量が増加する。
+[Type: Support Mode]\nGhost HP Recovery Increase: [3%]\n\nAlly HP recovery per ghost increases.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_B
 0
 
 ID=25041
 Extra Attack I\n 
-[特性情報]\nダメージ量増加値：[79%]\nSA破壊量増加値：[122%]\n\n攻撃回数が増加する。
-ダメージ量増加値：[79%]+118%\nSA破壊量増加値：[122%]+183%
+[Special Info]\nDamage Increase: [79%]\nSA Break Increase: [122%]\n\nIncreases the number of attacks.
+Damage Increase: [79%]+118%\nSA Break Increase: [122%]+183%
 Icon/Skill/Howling/Icon_Howling_Skill_HystericShock_A
 0
 
 ID=25042
 Extra Attack II\n 
-[特性情報]\nダメージ量増加値：[197%]\nSA破壊量増加値：[305%]\n\n攻撃回数が増加する。
+[Special Info]\nDamage Increase: [197%]\nSA Break Increase: [305%]\n\nIncreases the number of attacks.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_HystericShock_A
 0
 
 ID=25061
-麻痺Ⅰ
-[特性情報：攻撃モード]\nダメージ量減少値：攻撃1回あたり[167%]\nSA破壊量増加値：攻撃1回あたり[41%]\nデバフ効果：麻痺[1.5秒]\n\n球が敵を貫通して麻痺効果を付与する。
-[攻撃モード]\nダメージ量減少値：[167%]-3%\nSA破壊量増加値：[41%]+11%
+Paralyze I - 
+[Type: Attack Mode]\nDamage Reduction: [167%] every 1 hit.\nSA Break Increase: [41%] every 1 hit\nDebuff Effect: [1.5s] Paralyze\n\nBeads go through enemies and paralyze them.
+[Attack Mode]\nDamage Reduction: [167%]-3%\nSA Break Increase: [41%]+11%
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_A
 0
 
 ID=25062
-麻痺Ⅱ
-[特性情報：攻撃モード]\nダメージ量減少値：攻撃1回あたり[164%]\nSA破壊量増加値：攻撃1回あたり[52%]\nデバフ効果：麻痺[1.5秒]\n\n球が敵を貫通して麻痺効果を付与する。
-[攻撃モード]\nダメージ量減少値：[164%]-5%\nSA破壊量増加値：[52%]+24%
+Paralyze II - 
+[Type: Attack Mode]\nDamage Reduction: [164%] every 1 hit.\nSA Break Increase: [52%] every 1 hit\nDebuff Effect: [1.5s] Paralyze\n\nBeads go through enemies and paralyze them.
+[Attack Mode]\nDamage Reduction: [164%]-5%\nSA Break Increase: [52%]+24%
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_A
 0
 
 ID=25063
-麻痺Ⅲ
-[特性情報：攻撃モード]\nダメージ量減少値：攻撃1回あたり[159%]\nSA破壊量増加値：攻撃1回あたり[76%]\nデバフ効果：麻痺[1.5秒]\n\n球が敵を貫通して麻痺効果を付与する。
+Paralyze II - 
+[Type: Attack Mode]\nDamage Reduction: [159%] every 1 hit.\nSA Break Increase: [76%] every 1 hit\nDebuff Effect: [1.5s] Paralyze\n\nBeads go through enemies and paralyze them.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_A
 0
 
 ID=25064
 強化Ⅰ
-[特性情報：支援モード]\n球のHP回復増加値：[5%]\n\n球による回復量が増加する。
-[支援モード]\n球HP回復増加値：[5%]+[5%]
+[Type: Support Mode]\nBeads' HP Recovery: [5%]\n\nHP Recovery done by beads increases.
+[Support Mode}\nBeads' HP Recovery: [5%]+%5
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_B
 0
 
 ID=25065
 強化Ⅱ
-[特性情報：支援モード]\n球のHP回復増加値：[10%]\n\n球による回復量が増加する。
-[支援モード]\n球HP回復増加値：[10%]+[5%]
+[Type: Support Mode]\nBeads' HP Recovery: [10%]\n\nHP Recovery done by beads increases.
+[Support Mode}\nBeads' HP Recovery: [10%]+%5
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_B
 0
 
 ID=25066
 強化Ⅲ
-[特性情報：支援モード]\n球のHP回復増加値：[15%]\n\n球による回復量が増加する。
+[Type: Support Mode]\nBeads' HP Recovery: [15%]\n\nHP Recovery done by beads increases.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_B
 0
 
 ID=25071
 Duration Increase I
-[特性情報]\n最大攻撃時間：[1秒]増加\n\nパルスを発射する時間が増加する。
-[特性情報]\n最大攻撃時間：[1秒]+1秒\n\nパルス発射時間が増加する。
+[Special Info]\nMaximum Attack Duration: +1s\n\nIncreases the duration of pulse.
+[Special Info]\nMaximum Attack Duration: [1s]+1s\n\nIncreases the duration of pulse.
 Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse_A
 0
 
 ID=25072
 Duration Increase II
-[特性情報]\n最大攻撃時間：[2秒]増加\n\nパルスを発射する時間が増加する。
-[特性情報]\n最大攻撃時間：[2秒]+1秒\n\nパルス発射時間が増加する。
+[Special Info]\nMaximum Attack Duration: +2s\n\nIncreases the duration of pulse.
+[Special Info]\nMaximum Attack Duration: [2s]+1s\n\nIncreases the duration of pulse.
 Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse_A
 0
 
 ID=25073
 Duration Increase III
-[特性情報]\n最大攻撃時間：[3秒]増加\n\nパルスを発射する時間が増加する。
+[Special Info]\nMaximum Attack Duration: +3s\n\nIncreases the duration of pulse.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse_A
 0
 
 ID=25074
-Range Increase I
-[特性情報]\n攻撃有効距離：[2m]増加\n連係ダメージ対象数が増加する。\n\nパルスの射程距離が増加し、より多くの敵が\n電流のダメージを受ける。
-攻撃有効距離増加：[2m]+2m
+Radius Increase I
+[Special Info]\nAttack Range Increase: +2m\nNumber of targets that can be hit by the damage increases.\n\nPulse range increases to allow more targets to be hit
+Attack Range Increase: [2m]+2m
 Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse_B
 0
 
 ID=25075
-Range Increase II
-[特性情報]\n攻撃有効距離：[4m]増加\n連係ダメージ対象数が増加する。\n\nパルスの射程距離が増加し、より多くの敵が\n電流のダメージを受ける。
-攻撃有効距離増加：[4m]+2m
+Radius Increase II
+[Special Info]\nAttack Range Increase: +4m\nNumber of targets that can be hit by the damage increases.\n\nPulse range increases to allow more targets to be hit
+Attack Range Increase: [4m]+2m
 Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse_B
 0
 
 ID=25076
-Range Increase III
-[特性情報]\n攻撃有効距離：[6m]増加\n連係ダメージ対象数が増加する。\n\nパルスの射程距離が増加し、より多くの敵が\n電流のダメージを受ける。
+Radius Increase III
+[Special Info]\nAttack Range Increase: +6m\nNumber of targets that can be hit by the damage increases.\n\nPulse range increases to allow more targets to be hit
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse_B
 0
 
 ID=25091
 Range Increase I
-[特性情報]\n攻撃範囲が増加する。\n\nゴーストが攻撃する範囲が増加する。
-ダメージ量が278%増加する。\nSA破壊量が312%増加する。
+[Special Info]\nAttack radius increases\n\nIncreases the attack radius of ghosts.
+Damage +278%.\nSA Break +312%.
 Icon/Skill/Howling/Icon_Howling_Skill_TwistPull_A
 0
 
 ID=25092
 Range Increase II
-[特性情報]\nダメージ量増加値：[1205%]\nSA破壊量増加値：[1353%]\n攻撃範囲が増加する。\n\nゴーストが攻撃する範囲が増加する。
+[Special Info]\nDamage Increase: [1205%]\nSA Break Increase: [1353%]\nAttack radius increases.\n\nIncreases the attack radius of ghosts.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_TwistPull_A
 0
 
 ID=25101
 Duration Increase I
-[特性情報]\n最大攻撃時間：[1秒]増加\n\n攻撃可能時間が増加する。
-最大攻撃時間増加：[1秒]+1秒
+[Special Info]\nMaximum Attack Duration: +1s\n\nPossible attack duration increases.
+Maximum Attack Duration: [1s]+1s
 Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass_A
 0
 
 ID=25102
 Duration Increase II
-[特性情報]\n最大攻撃時間：[2秒]増加\n\n攻撃可能時間が増加する。
-最大攻撃時間増加：[2秒]+1秒
+[Special Info]\nMaximum Attack Duration: +2s\n\nPossible attack duration increases.
+Maximum Attack Duration: [2s]+1s
 Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass_A
 0
 
 ID=25103
 Duration Increase III
-[特性情報]\n最大攻撃時間：[3秒]増加\n\n攻撃可能時間が増加する。
+[Special Info]\nMaximum Attack Duration: +3s\n\nPossible attack duration increases.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass_A
 0
@@ -6215,7 +6215,7 @@ When landing a hit, there is a 5% chance of recovery 12% stamina.
 0
 
 ID=30763
-自己回復力Ⅲ
+Self-Recovery Power III - 
 When landing a hit, there is a 5% chance of recovery 17% stamina.
 .
 0
@@ -6236,7 +6236,7 @@ When landing a hit, there is a 5% chance of recovery 14% stamina.
 0
 
 ID=30773
-自己回復力Ⅲ
+Self-Recovery Power III - 
 When landing a hit, there is a 5% chance of recovery 19% stamina.
 .
 0
@@ -6257,7 +6257,7 @@ When being hit, there is a 12% chance to recover 15% SG. (Cooldown: 20 sec)
 0
 
 ID=30783
-急速カルシウム補給Ⅲ
+Fast-Acting Calcium Supplement III - 
 When being hit, there is a 17% chance to recover 15% SG. (Cooldown: 20 sec)
 .
 0
@@ -6278,7 +6278,7 @@ When being hit, there is a 14% chance to recover 15% SG. (Cooldown: 20 sec)
 0
 
 ID=30793
-急速カルシウム補給Ⅲ
+Fast-Acting Calcium Supplement III - 
 When being hit, there is a 19% chance to recover 15% SG. (Cooldown: 20 sec)
 .
 0
@@ -6299,7 +6299,7 @@ When landing a hit, there is a 7% chance of increasing ACC by 250 for 4 sec. (Co
 0
 
 ID=30803
-ビクターの法則Ⅲ
+Judge Victor III - 
 When landing a hit, there is a 7% chance of increasing ACC by 300 for 4 sec. (Cooldown: 10 sec)
 .
 0
@@ -6320,7 +6320,7 @@ When landing a hit, there is a 9% chance of increasing ACC by 300 for 4 sec. (Co
 0
 
 ID=30813
-ビクターの法則Ⅲ
+Judge Victor III - 
 When landing a hit, there is a 9% chance of increasing ACC by 350 for 4 sec. (Cooldown: 10 sec)
 .
 0
@@ -6341,7 +6341,7 @@ When being hit, there is a 5% chance to increase aversion by 500 for 23sec. (Coo
 0
 
 ID=30823
-ガルスの逆鱗Ⅲ
+Gallus' Wrath III - 
 When being hit, there is a 5% chance to increase aversion by 500 for 4 sec. (Cooldown: 10 sec)
 .
 0
@@ -6362,7 +6362,7 @@ When being hit, there is a 9% chance to increase aversion by 500 for 4 sec. (Coo
 0
 
 ID=30833
-ガルスの逆鱗Ⅲ
+Gallus' Wrath III - 
 When being hit, there is a 9% chance to increase aversion by 500 for 5 sec. (Cooldown: 10 sec)
 .
 0
@@ -6383,7 +6383,7 @@ When being hit, there is a 7% chance to increase ATK by 15% for 2.5 sec. (Cooldo
 0
 
 ID=30843
-俊敏なマッチョⅢ
+Nimble Macho Man III - 
 When being hit, there is a 7% chance to increase ATK by 20% for 3 sec. (Cooldown: 10 sec)
 .
 0
@@ -6404,7 +6404,7 @@ When being hit, there is a 9% chance to increase ATK by 15% for 4 sec. (Cooldown
 0
 
 ID=30853
-俊敏なマッチョⅢ
+Nimble Macho Man III - 
 When being hit, there is a 9% chance to increase ATK by 20% for 4.5 sec. (Cooldown: 10 sec)
 .
 0
@@ -6425,7 +6425,7 @@ When landing a hit, there is a 15% chance of increasing ATK SPD by 3% for 3 sec.
 0
 
 ID=30863
-猛攻四連Ⅲ
+Quadra Gang Assault III - 
 When landing a hit, there is a 15% chance of increasing ATK SPD by 3% for 3.5 sec. (Max 3 stacks)
 .
 0
@@ -6446,7 +6446,7 @@ When landing a hit, there is a 15% chance of increasing ATK SPD by 5% for 3.5 se
 0
 
 ID=30873
-猛攻四連Ⅲ
+Quadra Gang Assault III - 
 When landing a hit, there is a 15% chance of increasing ATK SPD by 5% for 4.5 sec. (Max 3 stacks)
 .
 0
@@ -6467,7 +6467,7 @@ When hit by a critical hit, ACC increases by 500 for 12 sec. (Cooldown: 20 sec)
 0
 
 ID=30883
-紅き烙印Ⅲ
+Crimson Mark III - 
 When hit by a critical hit, ACC increases by 500 for 17 sec. (Cooldown: 20 sec)
 .
 0
@@ -6488,133 +6488,133 @@ When hit by a critical hit, ACC increases by 500 for 14 sec. (Cooldown: 20 sec)
 0
 
 ID=30893
-紅き烙印Ⅲ
+Crimson Mark III - 
 When hit by a critical hit, ACC increases by 500 for 19 sec. (Cooldown: 20 sec)
 .
 0
 0
 
 ID=30901
-雷の加護Ⅰ
+Blessing of Thunder I - 
 Summon Kain to perform paralyzing attacks for 6 seconds. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30902
-雷の加護Ⅱ
+Blessing of Thunder II - 
 Summon Kain to perform paralyzing attacks for 7 seconds. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30903
-雷の加護Ⅲ
+Blessing of Thunder III - 
 Summon Kain to perform paralyzing attacks for 8 seconds. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30911
-雷の加護Ⅰ
+Blessing of Thunder I - 
 Summon Kain to perform damaging attacks to the enemy’s HP for 5 seconds. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30912
-雷の加護Ⅱ
+Blessing of Thunder II - 
 Summon Kain to perform damaging attacks to the enemy’s HP for 7 seconds. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30913
-雷の加護Ⅲ
+Blessing of Thunder III - 
 Summon Kain to perform damaging attacks to the enemy’s HP for 10 seconds. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30921
-三玉Ⅰ
+Three Balls I - 
 One of the special buffs will be applied by each ball.\n Four Balls will be summoned. (CD: 90 sec)
 .
 0
 0
 
 ID=30922
-三玉Ⅱ
+Three Balls II - 
 Two of the special buffs will be applied by each ball.\n Four Balls will be summoned. (CD: 90 sec)
 .
 0
 0
 
 ID=30923
-三玉Ⅲ
+Three Balls III - 
 Three of the special buffs will be applied by each ball.\n Five Balls will be summoned. (CD: 90 sec)
 .
 0
 0
 
 ID=30931
-三玉Ⅰ
+Three Balls I - 
 Two of the special buffs will be applied by each ball.\n Four Balls will be summoned. (CD: 90 sec)
 .
 0
 0
 
 ID=30932
-三玉Ⅱ
+Three Balls II - 
 Three of the special buffs will be applied by each ball.\n Five Balls will be summoned. (CD: 90 sec)
 .
 0
 0
 
 ID=30933
-三玉Ⅲ
+Three Balls III - 
 Three of the special buffs will be applied by each ball.\n Seven Balls will be summoned. (CD: 90 sec)
 .
 0
 0
 
 ID=30941
-破壊命令Ⅰ
+Destruction Order I - 
 Asphalt Golem is summoned for 30 seconds and attacks all monsters. (CD: 90 sec)
 .
 0
 0
 
 ID=30942
-破壊命令Ⅱ
+Destruction Order II - 
 Asphalt Golem is summoned for 45 seconds and attacks all monsters. (CD: 90 sec)
 .
 0
 0
 
 ID=30943
-破壊命令Ⅲ
+Destruction Order II - 
 Asphalt Golem is summoned for 60 seconds and attacks all monsters. (CD: 90 sec)
 .
 0
 0
 
 ID=30951
-破壊命令Ⅰ
+Destruction Order I - 
 Asphalt Golem is summoned for 40 seconds and attacks all monsters. (CD: 90 sec)
 .
 0
 0
 
 ID=30952
-破壊命令Ⅱ
+Destruction Order II - 
 Asphalt Golem is summoned for 55 seconds and attacks all monsters. (CD: 90 sec)
 .
 0
 0
 
 ID=30953
-破壊命令Ⅲ
+Destruction Order II - 
 Asphalt Golem is summoned for 70 seconds and attacks all monsters. (CD: 90 sec)
 .
 0
@@ -6663,21 +6663,21 @@ Summon Mad Beholder to grant life-steal based buffs within the area for 10 sec w
 0
 
 ID=30981
-衝撃分散の術Ⅰ
+Impact Dispersion Technique I - 
 Summon a Marauder for 30 sec which grants two buffs, and acts as a substitute for the player’s HP for received damage. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30982
-衝撃分散の術Ⅱ
+Impact Dispersion Technique II - 
 Summon a Marauder for 30 sec which grants four buffs, and acts as a substitute for the player’s HP for received damage. (Cooldown: 90 sec)
 .
 0
 0
 
 ID=30983
-衝撃分散の術Ⅲ
+Impact Dispersion Technique III - 
 Summon a Marauder for 30 sec which grants five buffs, and acts as a substitute for the player’s HP for received damage. (Cooldown: 90 sec)
 .
 0
@@ -6706,7 +6706,7 @@ Summon a Marauder for 30 sec which grants ten buffs, and acts as a substitute fo
 
 ID=31001
 Radiant
-A.Rカードの合成時に使用すると合成経験値を獲得できる。ステータス上昇効果はない。
+Synthesis experience can be gained while used for A.R Card synthesis. There is no status increasing effect.
 .
 0
 0
@@ -6866,7 +6866,7 @@ When hit, the next attack’s ATK increases by 7% at a 10% chance. (Cooldown: 8 
 0
 
 ID=31093
-怪鳥の翼Ⅲ
+Eerie Bird Wings III - 
 When hit, the next attack’s ATK increases by 10% at a 10% chance. (Cooldown: 8 sec)
 .
 0
@@ -6887,7 +6887,7 @@ When hit, the next attack’s ATK increases by 10% at a 10% chance. (Cooldown: 8
 0
 
 ID=31103
-怪鳥の翼Ⅲ
+Eerie Bird Wings III - 
 When hit, the next attack’s ATK increases by 15% at a 10% chance. (Cooldown: 8 sec)
 .
 0

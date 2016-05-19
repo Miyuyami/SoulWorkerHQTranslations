@@ -872,7 +872,7 @@ ID=512
 Forfeit
 
 ID=513
-※<font color='#5CD1E5'>1 [Bless]</font>buff will apply.
+※Resurrecting will apply the buff effect <font color='#5CD1E5'>[Emergency Aid]</font>.
 
 ID=514
 ※<font color='#F2CB61'>1 [Accident Call] will be used</font> for resurrection.
@@ -1400,10 +1400,10 @@ ID=768
 Duration:
 
 ID=769
- sec
+s
 
 ID=770
- min(s)
+m
 
 ID=771
 Time
@@ -3011,7 +3011,7 @@ ID=5002
 Cooldown:
 
 ID=5003
- sec
+s
 
 ID=5004
 COST:
@@ -5423,7 +5423,7 @@ ID=18020
 You can trade up to 10 items at a time.
 
 ID=18021
-A levy fee of 9% will apply to all sold items.
+After the sale is over the charge fee will be {0}% of the selling price.
 
 ID=18022
 Your item is a <font color='#A566FF'>High Valued Item</font>.  You will acquire {0} upon selling it. Do you wish to sell it?
@@ -5588,7 +5588,7 @@ ID=18080
 All daily Casual Raid entries have been used.
 
 ID=18081
-The following casual raids have been entered up to these amount of times.\nLast Carnival: {0} / 3\nJunk Hive: {1} / 3\nIron Castle: {3} / 3\nDo you want to decrease all counted admission entries by one?\n (Cannot counted entries below 0.)
+Current number of entries available are as follows.\nLast Carnival: {0}/2\nJunk Hive: {1}/2\nIron Castle: {3}/2\nDo you want to reduce the number of entries by 1?\n (Cannot decrease below 0)
 
 ID=18082
 All daily counted Casual Raid entries have been reduced by one.
@@ -5636,7 +5636,7 @@ ID=18185
 Familiar Socket available for Expansion
 
 ID=18186
-브로치 소켓 {0}개 부여 ({1}개확장 가능)
+{0} brooches permitted (extensible up to {1})
 
 ID=19000
 <font color='#47C83E'>Attack +1%/Evaded Attack Damage +1%</font>
@@ -7050,6 +7050,9 @@ You can not assign combined key bind with {0}.
 
 ID=22680
 Please assign the key bind combined with {0}.
+
+ID=22681
+Texture
 
 ID=23000
 Base FP has been recovered.
@@ -8816,7 +8819,7 @@ ID=26324
 When attacked by a Boss Monster, 10% chance of +{0}% Damage Reduction for 5s
 
 ID=26325
-回避時、次の一撃の攻撃力{0}%増加
+When an attack is evaded, following attack is increased by {0}%
 
 ID=26326
 When an attack is evaded, 5% to recover {0} HP
@@ -9032,7 +9035,7 @@ ID=28043
 Guild mastership can not be transferred.
 
 ID=28044
-ギルド委任条件を満たしていません。\nギルドレベル：2以上\nギルド構成メンバー：2名以上
+Conditions for changing the guild leader are not met.\nGuild Level: 2 or higher\nGuild Members: 2 or more members
 
 ID=28045
 Guild Mastership Succession Penalty
@@ -9113,7 +9116,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to by Soulworkers HQ Translation Team.\nLast updated at 17/May/2016 9:10 AM JST.\nPlease check your guild’s information for updates.
+This translation was brought to by Soulworkers HQ Translation Team.\nLast updated at 19/May/2016 10:50 AM JST.\nPlease check your guild’s information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -9566,7 +9569,7 @@ ID=28221
 {0}/{1}
 
 ID=28222
-Guild members can obtain 200 FP per day from guild member activities.
+Guild members can obtain 200 FP per day from guild member activities\nMaximum gained guild EXP per day is {0}
 
 ID=28223
 Lv
@@ -9605,10 +9608,10 @@ ID=28234
 Decoration
 
 ID=28235
-To change the guild insignia, you must have the proper authorization. Do you wish to proceed with the change?
+To change the Guild Mark you need a Guild Mark Change Ticket. Do you want to use it?
 
 ID=28236
-You do not have the necessary authorization to perform the changes.
+You cannot change the Guild Mark without a Guild Mark Change Ticket.
 
 ID=28237
 The guild Insignia was applied.
@@ -9617,7 +9620,7 @@ ID=28238
 The guild Insignia has been changed.
 
 ID=28239
-{0}Lv{1}になりました。 
+{0} reached Lv{1}. 
 
 ID=28240
 Basic Skill
@@ -9644,7 +9647,7 @@ ID=28247
 Insufficient guild funds.
 
 ID=28248
-Guild Warehouse settings has been applied.\n {0} seconds.
+Guild Warehouse settings has been applied.[{0} seconds]
 
 ID=28249
 Do you wish to move {0} {1} items in the guild warehouse?
@@ -9680,13 +9683,16 @@ ID=28259
 GP
 
 ID=28260
-{0}が{1}を{2}個入庫しました。
+{0} stored {2} of {1}.
 
 ID=28261
-{0}が{1}を{2}個出庫しました。
+{0} took {2} of {1}.
 
 ID=28262
-필요 리그 포인트
+Required GP
+
+ID=28263
+Do you want to change the Guild Mark?
 
 ID=29000
 Room
@@ -13343,22 +13349,22 @@ ID=42328
 Lazy Weapons' Inventor Sedurin μ
 
 ID=42329
-세츠카 & 료코
+Setsuka and Ryoko
 
 ID=42330
-수전노 자매 세츠카 & 료코
+Calculating Sisters Setsuka and Ryoko
 
 ID=42331
-무적 자매 세츠카 & 료코
+Unrivaled Sisters Setsuka and Ryoko
 
 ID=42332
-세츠카 & 료코 
+Setsuka and Ryoko μ
 
 ID=42333
-수전노 자매 세츠카 & 료코 
+Calculating Sisters Setsuka and Ryoko μ
 
 ID=42334
-무적 자매 세츠카 & 료코 
+Unrivaled Sisters Setsuka and Ryoko μ
 
 ID=43139
 Diligent Kidnapper
@@ -13790,10 +13796,10 @@ ID=43308
 [SH] Sedurin
 
 ID=43309
-[S]세츠카 & 료코
+[S] Setsuka and Ryoko
 
 ID=43310
-[SH]세츠카 & 료코
+[SH] Setsuka and Ryoko
 
 ID=45000
 Item Mall
@@ -13958,7 +13964,7 @@ ID=45053
 Time
 
 ID=45054
- min(s)
+m
 
 ID=45055
 Items can not be added to the gift box.
@@ -14345,7 +14351,7 @@ ID=49220
 Exit Dungeon
 
 ID=49221
-現在のメイズを放棄して退場しますか？\n退場時、疲労度が減少します。
+Are you sure you want to abandon current dungeon?\nLeaving at this moment will decrease your fatigue meter.
 
 ID=49222
 Leave
@@ -14384,7 +14390,13 @@ ID=49233
 Because the account is being logged in, the game will close.
 
 ID=49234
-現在のメイズを放棄して退場しますか？\n退場時、疲労度が減少し、再入場はできません。
+Are you sure you want to abandon current dungeon?\nLeaving at this moment will decrease your fatigue meter and you cannot re-enter.
+
+ID=49235
+Are you sure you want to abandon Steel Grave?\nLeaving at this moment won't let you re-enter.
+
+ID=49236
+Leave Steel Grave
 
 ID=49300
 Records
@@ -15277,6 +15289,18 @@ The item could not be used; you can still enter Steel Grave.
 ID=52046
 The daily entry limit for Steel Grave has been reset.
 
+ID=52047
+There are no free slots in the General Inventory
+
+ID=52048
+There are no free slots in the Fashion Inventory
+
+ID=52049
+There are no free slots in the Extra Inventory
+
+ID=52050
+There are no free slots in the Room Inventory
+
 ID=52101
 The item’s slot could not be used.
 
@@ -15500,7 +15524,7 @@ ID=52308
 Not an NPC that has a shop.
 
 ID=52309
-一日の購入可能数を超過したため、購入できません。
+You have exceeded the purchase limit for the day.
 
 ID=52310
 Insufficient Zenny/Han Coin/BP. You can not purchase the item.
@@ -15988,6 +16012,12 @@ Can not enter the dungeon; you have exceeded the entry limit.
 ID=55055
 The party members can not enter the dungeon, since they have not completed the entry quests.
 
+ID=55056
+Cannot enter because a party member possesses {0}.
+
+ID=55057
+Cannot enter because a party member exceeded the entry limit for today.
+
 ID=55101
 You have already befriended this person.
 
@@ -16220,7 +16250,7 @@ ID=57023
 The applicant list is full. 
 
 ID=57024
-You have just disbanded your guild, you can create another one in {0} day(s).
+You have just disbanded your guild, you can create another one in {0} days.
 
 ID=57025
 Joining {0} guild failed. You have just recently left a guild. Try again in a day.
@@ -16298,13 +16328,13 @@ ID=57049
 Insufficient guild funds to perform the selected operation.
 
 ID=57050
-리그 스킬이 최대치로 강화 할 수 없습니다.
+Cannot increase the Guild Skill any further.
 
 ID=57051
-리그 창고 정보를 찾을 수 없습니다.
+Cannot find any Guild Storage Information.
 
 ID=57052
-아이템 이동 실패 하였습니다.
+Item transfer failed.
 
 ID=58000
 The NPC does not exist in the next area.
@@ -16412,13 +16442,13 @@ ID=58305
 Unable to purchase the item; it has been withdrawn from the market.
 
 ID=58306
-お気に入りアイテムは10個まで登録できます。
+You can register up to a maximum of 10 favorite items.
 
 ID=58307
-登録手数料が不足しているため、出品することができません。
+Cannot list the item because of insufficient funds for the registration fee.
 
 ID=58308
-出品最大ジェニー金額を超えているため、出品することができません。
+Cannot list the item because the entered price exceeds the price limit.
 
 ID=59000
 Your inventory is full, therefore you can not receive the login rewards.
@@ -16430,13 +16460,13 @@ ID=59200
 {0} turned off their public info.
 
 ID=59201
-{0} is deaf.
+{0} refuses any incoming whispers.
 
 ID=59202
-{0} has rejected all friends requests by default.
+{0} refuses any friend request.
 
 ID=59300
-Unable to enter the channel because it is full. \nPlease enter another channel.
+Can not join channel due to congestion. Please use another one.
 
 ID=59301
 The operation can not be done due to insufficient space or an invalid area.
@@ -16445,16 +16475,16 @@ ID=59302
 The operation can not be done due to insufficient space or an invalid area.
 
 ID=59304
-Insufficient inventory space.
+No available area.
 
 ID=59305
-This operation can only be done in town.
+This action is only available while in town.
 
 ID=59306
 This item can not be used.
 
 ID=59307
-You can not remove the socketed item.
+You have no dismantling permission for the selected item.
 
 ID=59308
 Item data could not be found.
@@ -16499,7 +16529,7 @@ ID=60102
 The seasonal rankings have been reset for the new season.
 
 ID=60103
-The weekly rankings have been reset for the new week.
+Weekly Rankings are reset every week.
 
 ID=60104
 Ranking Window
@@ -16526,7 +16556,7 @@ ID=60111
 Class
 
 ID=60112
-Level
+Lv
 
 ID=60113
 Name
@@ -16556,7 +16586,7 @@ ID=60121
 Casual Raid Reward
 
 ID=60122
-Town Raid Reward
+District Raid Reward
 
 ID=60123
 Sort
@@ -16619,4 +16649,4 @@ ID=60142
 Clear
 
 ID=60143
-Stage
+STAGE
