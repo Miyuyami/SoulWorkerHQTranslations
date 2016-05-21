@@ -2702,7 +2702,7 @@ Defeat 50 [Spider Soul Junk] using normal attacks in [Control Zone 43]
 
 ID=1100003
 ソウルジャンク撲滅作戦
-Defeat any 50 [Soul Junk] using skills in the surrounding areas of [Rocco Town]
+[ソウルジャンク勢力]をスキル攻撃で50回討伐
 0
 0
 0
@@ -2793,7 +2793,7 @@ Defeat any 100 [Dolls] using skills in [Best Showtime]
 
 ID=1100016
 起きないで！
-Defeat any 150 [Enemies] using skills in the surrounding areas of [Rocco Town]
+[すべての敵]をスキル攻撃で150回討伐
 0
 0
 0
@@ -2835,7 +2835,7 @@ Defeat 40 [Stone Consuming Monster] using skills in [Concrete Jungle]
 
 ID=1100022
 石との死闘
-Defeat any 200 [Soul Junk] using skills in the surrounding areas of [Candus City]
+[ソウルジャンク勢力]をスキル攻撃で200回討伐
 0
 0
 0
@@ -2940,7 +2940,7 @@ Defeat 1 [Mad Beholder] using skills in [N-102: EP4 Normal]
 
 ID=1100037
 ソウルジャンク・ウォー
-Defeat any 250 [Soul Junk] using skills in the surrounding areas of [Candus City]
+[ソウルジャンク勢力]をスキル攻撃で250回討伐
 0
 0
 0
@@ -3234,7 +3234,7 @@ Defeat 1 [Land Crusher] using skills in [Concrete Jungle: EP4 Very Hard]
 
 ID=2100019
 下水溝の掃除中です
-Defeat any 250 [Soul Junk] using skills in the surrounding areas of [Candus City]
+[ソウルジャンク勢力]をスキル攻撃で250回討伐
 0
 0
 0
@@ -3318,7 +3318,7 @@ Defeat 1 [Iron Breaker] using normal attacks in [Breakout: EP4 Very Hard]
 
 ID=2100031
 暴走族取締り中
-Defeat any 250 [Rapid Flame] using normal attacks in the surrounding areas of [Grace City]
+[ラピッドフレイム勢力]を通常攻撃で250回討伐
 0
 0
 0
@@ -3423,21 +3423,21 @@ Defeat 1 [Laban: Hundred Sword] using skills in [Area 9: EP4 Very Hard]
 
 ID=1100061
 潤滑油注文した方？
-Defeat any 100 [E-Deliverer] using skills in the surrounding areas of [Ruin Fortress]
+[Eデリーバー]をスキル攻撃で100回討伐
 0
 0
 0
 
 ID=1100062
 装備をストップします
-Defeat any 100 [Trekker] using skills in the surrounding areas of [Ruin Fortress]
+[トレッカー]をスキル攻撃で100回討伐
 0
 0
 0
 
 ID=1100063
 フォースが共にあらんことを
-Defeat any 200 [Iron Force] using normal attacks in the surrounding areas of [Ruin Fortress]
+[アイアンフォース勢力]を通常攻撃で200回討伐
 0
 0
 0
@@ -3479,7 +3479,7 @@ Defeat 1 [Heavy Sprinter X] using normal attacks in [Control Base: EP4 Very Hard
 
 ID=1100069
 私の頭はハンマー
-Defeat any 100 [Hammerhead] using normal attacks in the surrounding areas of [Ruin Fortress]
+[ハンマーヘッド]を通常攻撃で100回討伐
 0
 0
 0
@@ -3710,21 +3710,21 @@ Defeat 1 [Full Armor G Prototype] using normal attacks in [Ark Ship: EP3 Normal]
 
 ID=1100102
 我がドリルは大地のみを穿つ！
-Defeat 1 [Heavy Sprinter] using skills in [Ark Ship: EP4 Very Hard]
+[アークシップ：EP4ベリーハード]で[スプリンター]をスキル攻撃で5回討伐
 0
 0
 0
 
 ID=2100046
 配達対象外
-Defeat any 200 [E-Deliverer] using normal attacks in the surrounding areas of [Ruin Fortress]
+[Eデリーバー]を通常攻撃で200回討伐
 0
 0
 0
 
 ID=2100047
 ダメだこりゃ
-Defeat any 200 [Trekker] using skills in the surrounding areas of [Ruin Fortress]
+[トレッカー]をスキル攻撃で200回討伐
 0
 0
 0
@@ -11079,6 +11079,69 @@ ID=601530
 [イオ]と会話
 [ルインフォートレス]で[イオ]と会話
 
+ID=601540
+注目
+0
+[グレイスシティ]で[セニア]と会話
+[ブッカーTV]と会話
+Talk to [Booker TV] in [District 6]
+
+ID=601545
+輝く空
+0
+[ゴールデンシタデル]で[ブッカーTV]と会話
+[ブッカーTV]と会話
+[ゴールデンシタデル]で[ブッカーTV]と会話
+
+ID=601550
+黄金の前兆
+0
+[ゴールデンシタデル]調査
+[ブッカーTV]と会話
+[ゴールデンシタデル]で[ブッカーTV]と会話
+
+ID=601535
+楽しい家庭菜園
+0
+[マイルーム]で[栽培]進行
+[リョーコ]と会話
+[ロコタウン]で[リョーコ]と会話
+
+ID=200025
+[反復]青々とした菜園
+0
+[マイルーム]で[栽培]進行
+[マイルーム端末機]と会話
+[マイルーム]で[マイルーム端末機]と会話
+
+ID=200030
+[反復]ラストカーニバル
+0
+[ラストカーニバル]クリア
+Talk to [Benjamin]
+Talk to [Benjamin] in [Rocco Town]
+
+ID=200035
+[反復]ジャンクハイブ
+0
+[ジャンクハイブ]クリア
+Talk to [Brock]
+Talk to [Brock] in [Candus City]
+
+ID=200040
+[反復]バンディットハイウェイ
+0
+[バンディットハイウェイ]クリア
+[セニア]と会話
+[グレイスシティ]で[セニア]と会話
+
+ID=200045
+[反復]アイアンキャッスル
+0
+[アイアンキャッスル]クリア
+[マーティン]と会話
+[ルインフォートレス]で[マーティン]と会話
+
 ID=1006651
 [ケインバレル]と会話
 [ケインバレル]ならば何か知っているかもしれない。[グレイスシティ]で[ケインバレル]と話してみよう
@@ -11257,6 +11320,90 @@ ID=7500002
 ID=7500003
 [ゼニスカスタムギター]製作
 ゼニスがくれた材料で[ゼニスカスタムギター]製作
+0
+0
+0
+
+ID=6015401
+[セニア]と会話
+[グレイスシティ]で[セニア]と会話
+0
+0
+0
+
+ID=6015451
+[ブッカーTV]と会話
+[ゴールデンシタデル]で[ブッカーTV]と会話
+0
+0
+0
+
+ID=6015501
+[金色の異邦人]討伐
+[ゴールデンシタデル]で[金色の異邦人]討伐
+0
+0
+0
+
+ID=6015502
+[アルティメイタム]討伐
+[ゴールデンシタデル]で[アルティメイタム]討伐
+0
+0
+0
+
+ID=6015351
+[バラ]収穫
+[マイルーム]の[栽培]で[バラ]収穫
+0
+0
+0
+
+ID=6015352
+[リョーコ]と会話
+[ロコタウン]で[リョーコ]と会話
+0
+0
+0
+
+ID=6015353
+[バラキャンディ]製作
+[バラキャンディ]は[バラ]と[濃縮器]を使って[マイルーム端末機]で制作できる。
+0
+0
+0
+
+ID=2000251
+作物収穫
+[マイルーム]の[栽培]で作物収穫。種類は関係なし。
+0
+0
+0
+
+ID=2000301
+[ラストカーニバル]クリア
+[ロコタウン]の異常空白[ラストカーニバル]クリア
+0
+0
+0
+
+ID=2000351
+[ジャンクハイブ]クリア
+[カンダスシティ]の異常空白[ジャンクハイブ]クリア
+0
+0
+0
+
+ID=2000401
+[バンディットハイウェイ]クリア
+[グレイスシティ]の異常空白[バンディットハイウェイ]クリア
+0
+0
+0
+
+ID=2000451
+[アイアンキャッスル]クリア
+[ルインフォートレス]の異常空白[アイアンキャッスル]クリア
 0
 0
 0

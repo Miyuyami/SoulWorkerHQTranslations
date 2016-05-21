@@ -2470,6 +2470,84 @@ ID=31001
 Icon/Buff/Icon_Common_Buff_Immun
 -
 
+ID=30114
+방어력감소
+10초동안, 방어율50%감소
+Icon/Buff/Icon_Common_Debuff_Def
+방어력 감소
+
+ID=30120
+주위감전
+주위의 아군을 감전시킨다.
+Icon/Buff/Icon_Common_Debuff_Bleed
+주위감전
+
+ID=30121
+찌릿찌릿 Lv2
+HP가 2% 씩 감소한다.
+Icon/Buff/Icon_Common_Debuff_Shock
+감전
+
+ID=30122
+감전치료
+감전효과가 사라진다.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP 회복
+
+ID=30130
+빙결
+3초동안, 움직일수 없게된다.
+Icon/Buff/Icon_Common_Debuff_MSR
+빙결
+
+ID=30131
+빙결
+10초동안, 움직일수 없게된다.
+Icon/Buff/Icon_Common_Debuff_MSR
+빙결
+
+ID=30132
+빙결저항
+데미지를 받지 않게 된다.
+Icon/Buff/Icon_Common_Debuff_Bleed
+빙결저항
+
+ID=30133
+빙결치료
+빙결효과가 해제된다.
+Icon/Buff/Icon_Common_Debuff_Bleed
+빙결치료
+
+ID=30140
+출혈
+10초동안, 초마다 HP가 1% 감소한다.
+Icon/Buff/Icon_Common_Debuff_Bleed
+출혈
+
+ID=30141
+약화
+공격속도와 방어율이 30%감소한다.
+Icon/Buff/Icon_Common_Debuff_MSR
+약화
+
+ID=30142
+둔화
+이동속도와 공격속도가 50% 감소한다.
+Icon/Buff/Icon_Common_Debuff_MSR
+둔화
+
+ID=30146
+쇠약
+방어율이 50% 감소한다.
+Icon/Buff/Icon_Common_Debuff_Weakness
+쇠약
+
+ID=30147
+쇠약
+모든 능력치가 크게 저하한다.
+Icon/Buff/Icon_Common_Debuff_Weakness
+쇠약
+
 ID=32001
 치유
 지속적으로 HP가 회복된다.
@@ -2508,7 +2586,7 @@ Icon/Buff/Icon_Common_Buff_Immun
 
 ID=35004
 소울 에너지 증폭
-20 초간, 플레이어의 공격력 2000% 증가
+30초동안, 플레이어의 공격력2000%증가
 Icon/Buff/Icon_Common_Buff_ATK
 공격력이 크게증가
 
@@ -4344,39 +4422,39 @@ HP 회복
 
 ID=53664
 괴조의 날개Ⅰ
-적중시, 10%의 확률로 다음 일격의 공격력이 5% 증가한다. (쿨타임 8 초)
+명중시, 10%의 확률로 2초동안, 다음 일격의 대미지량이 5% 증가한다. (쿨타임8초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+대미지량 증가
 
 ID=53665
 괴조의 날개Ⅱ
-적중시, 10%의 확률로 다음 일격의 공격력이 7% 증가한다. (쿨타임 8 초)
+명중시, 10%의 확률로 2초동안, 다음 일격의 대미지량이 7%증가한다. (쿨타임8초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+대미지량 증가
 
 ID=53666
 괴조의 날개Ⅲ
-적중시, 10%의 확률로 다음 일격의 공격력이 10% 증가한다. (쿨타임 8 초)
+명중시, 10%의 확률로 2초동안, 다음 일격의 대미지량이 10%증가한다. (쿨타임8초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+대미지량 증가
 
 ID=53667
 괴조의 날개Ⅰ
-적중시, 10%의 확률로 다음 일격의 공격력이 6% 증가한다. (쿨타임 8 초)
+명중시, 10%의 확률로 2초동안, 다음 일격의 대미지량이 6%증가한다. (쿨타임8초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+대미지량 증가
 
 ID=53668
 괴조의 날개Ⅱ
-적중시, 10%의 확률로 다음 일격의 공격력이 10% 증가한다. (쿨타임 8 초)
+명중시, 10%의 확률로 2초동안, 다음 일격의 대미지량이 10%증가한다. (쿨타임8초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+대미지량 증가
 
 ID=53669
 괴조의 날개Ⅲ
-적중시, 10%의 확률로 다음 일격의 공격력이 15% 증가한다. (쿨타임 8 초)
+명중시, 10%의 확률로 2초동안, 다음 일격의 대미지량이 15%증가한다. (쿨타임8초)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+대미지량 증가
 
 ID=53670
 물질 변환Ⅰ

@@ -659,7 +659,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 ID=11114
 Cross Strike IV
 [Skill Info]\nDamage: [176%]\nSA Break: [133%]\nSG Cost: [45]\nCooldown: [30s]\nCreate an area of fire on the ground for 5s.\nFire AoE Damage: [141%] per sec.\nFire AoE SA Break: [106%] per sec.\n\nDo a crosswise slash in the air, hurling fire at the ground. Enemies will be damaged only while standing inside the fire.\n\n[Usage]\nMouse: corresponding key in-air\n(aerial skills are automatically placed onto your quickslots).
-Damage: [159%]+27%\nSA Break: [120%]+20%\nFire Area Damage: [127%]+21%\nFire Area SA Break: [96%]+16%
+Damage: [176%]+27%\nSA Break: [133%]+20%\nFire Area Damage: [141%]+21%\nFire Area SA Break: [106%]+16%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
 
@@ -4332,21 +4332,21 @@ LvMax
 0
 
 ID=24051
-強化Ⅰ
+Strenghten I - 
 [特性情報]\nデバフ効果： \n[1]敵の防御度減少[00%] \n[2]敵の攻撃力増加[00%]\n\n挑発された敵は若干攻撃力が増加するが\n防御度が大幅に減少する。
 敵の防御度減少[00%]+00%\n敵の攻撃力増加[00%]+00%
 0
 0
 
 ID=24052
-強化Ⅱ
+Strenghten II - 
 [特性情報]\nデバフ効果： \n[1]敵の防御度減少[00%] \n[2]敵の攻撃力増加[00%]\n\n挑発された敵は若干攻撃力が増加するが\n防御度が大幅に減少する。
 敵の防御度減少[00%]+00%\n敵の攻撃力増加[00%]+00%
 0
 0
 
 ID=24053
-強化Ⅲ
+Strenghten III - 
 [特性情報]\nデバフ効果： \n[1]敵の防御度減少[00%] \n[2]敵の攻撃力増加[00%]\n\n挑発された敵は若干攻撃力が増加するが\n防御度が大幅に減少する。
 LvMax
 0
@@ -4486,21 +4486,21 @@ Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_A
 0
 
 ID=25034
-強化Ⅰ
+Strenghten I - 
 [Type: Support Mode]\nGhost HP Recovery Increase: [1%]\n\nAlly HP recovery per ghost increases.
 [Support Mode]\nGhost HP Recovery Increase: [1%]+1%
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_B
 0
 
 ID=25035
-強化Ⅱ
+Strenghten II - 
 [Type: Support Mode]\nGhost HP Recovery Increase: [2%]\n\nAlly HP recovery per ghost increases.
 [Support Mode]\nGhost HP Recovery Increase: [2%]+1%
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_B
 0
 
 ID=25036
-強化Ⅲ
+Strenghten III - 
 [Type: Support Mode]\nGhost HP Recovery Increase: [3%]\n\nAlly HP recovery per ghost increases.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_B
@@ -4542,21 +4542,21 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_A
 0
 
 ID=25064
-強化Ⅰ
+Strenghten I - 
 [Type: Support Mode]\nBeads' HP Recovery: [5%]\n\nHP Recovery done by beads increases.
 [Support Mode}\nBeads' HP Recovery: [5%]+%5
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_B
 0
 
 ID=25065
-強化Ⅱ
+Strenghten II - 
 [Type: Support Mode]\nBeads' HP Recovery: [10%]\n\nHP Recovery done by beads increases.
 [Support Mode}\nBeads' HP Recovery: [10%]+%5
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_B
 0
 
 ID=25066
-強化Ⅲ
+Strenghten III - 
 [Type: Support Mode]\nBeads' HP Recovery: [15%]\n\nHP Recovery done by beads increases.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_B
@@ -5138,21 +5138,21 @@ When you land a hit, there is 5% chance to heal SG by 10%. (Cooldown: 30 sec)
 
 ID=30233
 On the Verge of a Beast I
-Scarr lets out an attack that pulls enemies towards him.\n (Cooldown: 1 min)
+Scarr lets out an attack that pulls enemies towards him.(Cooldown: 1 min)
 .
 0
 0
 
 ID=30241
 On the Verge of a Beast II
-Scarr is attacking the enemies to provoke them, he also launches them into the air \n (Cooldown: 55 sec)
+Scarr is attacking the enemies to provoke them, he also launches them into the air.(Cooldown: 55 sec)
 .
 0
 0
 
 ID=30242
 On the Verge of a Beast III
-Scarr is buffing all allies ATK by 10% within the area; he also strikes enemies twice.\n (Cooldown: 50 sec)
+スカーが周辺の味方に20秒間攻撃力が10%増加する\nバフを付与後、敵を2回攻撃する。(クールタイム50秒)
 .
 0
 0
@@ -6622,14 +6622,14 @@ Asphalt Golem is summoned for 70 seconds and attacks all monsters. (CD: 90 sec)
 
 ID=30961
 Magic Eye! I
-Summon Mad Beholder to grant attack-based buffs within the area for 5 sec when attacking. (Cooldown; 90 sec)
+召喚されたマッドビホールダーを攻撃すると、\n周辺に5秒間攻撃力10%上昇バフを付与する。（クールタイム90秒）
 .
 0
 0
 
 ID=30962
 Magic Eye! II
-Summon Mad Beholder to grant attack-speed based buffs within the area for 5 sec when attacking. (Cooldown; 90 sec)
+召喚されたマッドビホールダーを攻撃すると、周辺に5秒間攻撃速度5%上昇バフを付与する。（クールタイム90秒）
 .
 0
 0
@@ -6643,14 +6643,14 @@ Summon Mad Beholder to grant life-steal based buffs within the area for 5 sec wh
 
 ID=30971
 Magic Eye! I
-Summon Mad Beholder to grant attack-speed based buffs within the area for 10 sec when attacking. (Cooldown; 90 sec)
+召喚されたマッドビホールダーを攻撃すると、\n周辺に10秒間攻撃力10%上昇バフを付与する。（クールタイム90秒）
 .
 0
 0
 
 ID=30972
 Magic Eye! II
-Summon Mad Beholder grant attack-speed based buffs within the area for 10 sec when attacking (Cooldown; 90 sec)
+召喚されたマッドビホールダーを攻撃すると、周辺に10秒間攻撃速度5%上昇バフを付与する。（クールタイム90秒）
 .
 0
 0
@@ -6664,42 +6664,42 @@ Summon Mad Beholder to grant life-steal based buffs within the area for 10 sec w
 
 ID=30981
 Impact Dispersion Technique I - 
-Summon a Marauder for 30 sec which grants two buffs, and acts as a substitute for the player’s HP for received damage. (Cooldown: 90 sec)
+マローダーが周囲にランダムなバフ（2種）を付与し、プレイヤーのHP減少効果を代わりに受ける。（クールタイム90秒）
 .
 0
 0
 
 ID=30982
 Impact Dispersion Technique II - 
-Summon a Marauder for 30 sec which grants four buffs, and acts as a substitute for the player’s HP for received damage. (Cooldown: 90 sec)
+マローダーが周囲にランダムなバフ（4種）を付与し、プレイヤーのHP減少効果を代わりに受ける。（クールタイム90秒）
 .
 0
 0
 
 ID=30983
 Impact Dispersion Technique III - 
-Summon a Marauder for 30 sec which grants five buffs, and acts as a substitute for the player’s HP for received damage. (Cooldown: 90 sec)
+マローダーが周囲にランダムなバフ（5種）を付与し、プレイヤーのHP減少効果を代わりに受ける。（クールタイム90秒）
 .
 0
 0
 
 ID=30991
 Burning Flame I
-Summon a Marauder for 30 sec which grants seven buffs, and acts as a substitute for the player’s HP for received damage. (Cooldown: 90 sec)
+マローダーが周囲にランダムなバフ（7種）を付与し、プレイヤーのHP減少効果を代わりに受ける。（クールタイム90秒）
 .
 0
 0
 
 ID=30992
 Burning Flame II
-Summon a Marauder for 30 sec which grants eight buffs, and acts as a substitute for the player’s HP for received damage. (Cooldown: 90 sec)
+マローダーが周囲にランダムなバフ（8種）を付与し、プレイヤーのHP減少効果を代わりに受ける。（クールタイム90秒）
 .
 0
 0
 
 ID=30993
 Burning Flame III
-Summon a Marauder for 30 sec which grants ten buffs, and acts as a substitute for the player’s HP for received damage. (Cooldown: 90 sec)
+マローダーが周囲にランダムなバフ（10種）を付与し、プレイヤーのHP減少効果を代わりに受ける。（クールタイム90秒）
 .
 0
 0
@@ -6853,42 +6853,42 @@ When failing to land an effective aerial attack, there is a 90% chance to recove
 
 ID=31091
 Eerie Bird Wings I
-When hit, the next attack’s ATK increases by 5% at a 10% chance. (Cooldown: 8 sec)
+命中時、10%の確率で2秒間、次の一撃の攻撃力が5%増加する。(クールタイム8秒)
 .
 0
 0
 
 ID=31092
 Eerie Bird Wings I
-When hit, the next attack’s ATK increases by 7% at a 10% chance. (Cooldown: 8 sec)
+命中時、10%の確率で2秒間、次の一撃の攻撃力が7%増加する。(クールタイム8秒)
 .
 0
 0
 
 ID=31093
 Eerie Bird Wings III - 
-When hit, the next attack’s ATK increases by 10% at a 10% chance. (Cooldown: 8 sec)
+命中時、10%の確率で2秒間、次の一撃の攻撃力が10%増加する。(クールタイム8秒)
 .
 0
 0
 
 ID=31101
 Eerie Bird Wings I
-When hit, the next attack’s ATK increases by 6% at a 10% chance. (Cooldown: 8 sec)
+命中時、10%の確率で2秒間、次の一撃の攻撃力が6%増加する。(クールタイム8秒)
 .
 0
 0
 
 ID=31102
 Eerie Bird Wings I
-When hit, the next attack’s ATK increases by 10% at a 10% chance. (Cooldown: 8 sec)
+命中時、10%の確率で2秒間、次の一撃の攻撃力が10%増加する。(クールタイム8秒)
 .
 0
 0
 
 ID=31103
 Eerie Bird Wings III - 
-When hit, the next attack’s ATK increases by 15% at a 10% chance. (Cooldown: 8 sec)
+命中時、10%の確率で2秒間、次の一撃の攻撃力が15%増加する。(クールタイム8秒)
 .
 0
 0
@@ -6936,43 +6936,43 @@ When an item is obtained, ATK is increased by 25% for 11 sec. (Cooldown: 30 sec)
 0
 
 ID=31131
-아버지가 있는 곳으로 I
-엘리트 등급 이하의 적을 약 1.5초동안 공중에 띄웁니다.\n(재 사용 대기 시간 90초)
+パパのもとへⅠ
+エリートランク以下の敵を約1.5秒間、宙に浮かせる。（クールタイム90秒）\n
 .
 0
 0
 
 ID=31132
-아버지가 있는 곳으로 II
-엘리트 등급 이하의 적을 약 2.5초동안 공중에 띄웁니다.\n(재 사용 대기 시간 90초)
+パパのもとへⅡ
+エリートランク以下の敵を約2.5秒間、宙に浮かせる。（クールタイム90秒）\n
 .
 0
 0
 
 ID=31133
-아버지가 있는 곳으로 III
-엘리트 등급 이하의 적을 약 3.5초동안 공중에 띄웁니다.\n(재 사용 대기 시간 90초)
+パパのもとへⅢ
+エリートランク以下の敵を約3.5秒間、宙に浮かせる。（クールタイム90秒）\n
 .
 0
 0
 
 ID=31141
-아버지가 있는 곳으로 I
-엘리트 등급 이하의 적을 약 2초동안 공중에 띄웁니다.\n(재 사용 대기 시간 90초)
+パパのもとへⅠ
+エリートランク以下の敵を約2秒間、宙に浮かせる。（クールタイム90秒）\n
 .
 0
 0
 
 ID=31142
-아버지가 있는 곳으로 II
-엘리트 등급 이하의 적을 약 3초동안 공중에 띄웁니다.\n(재 사용 대기 시간 90초)
+パパのもとへⅡ
+エリートランク以下の敵を約3秒間、宙に浮かせる。（クールタイム90秒）\n
 .
 0
 0
 
 ID=31143
-아버지가 있는 곳으로 III
-엘리트 등급 이하의 적을 약 4초동안 공중에 띄웁니다.\n(재 사용 대기 시간 90초)
+パパのもとへⅢ
+エリートランク以下の敵を約4秒間、宙に浮かせる。（クールタイム90秒）\n
 .
 0
 0
