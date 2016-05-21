@@ -2470,6 +2470,84 @@ ID=31001
 Icon/Buff/Icon_Common_Buff_Immun
 -
 
+ID=30114
+防御力減少
+10秒間、防御度50%減少
+Icon/Buff/Icon_Common_Debuff_Def
+防御度減少
+
+ID=30120
+周囲感電
+周囲の味方を感電させる。
+Icon/Buff/Icon_Common_Debuff_Bleed
+周囲感電
+
+ID=30121
+Trepidação Lv2
+HP diminui em 2%.
+Icon/Buff/Icon_Common_Debuff_Shock
+Choque elétrico
+
+ID=30122
+感電治療
+感電効果が消失する。
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+Recuperação de HP
+
+ID=30130
+氷結
+3秒間、動けなくなる。
+Icon/Buff/Icon_Common_Debuff_MSR
+氷結
+
+ID=30131
+氷結
+10秒間、動けなくなる。
+Icon/Buff/Icon_Common_Debuff_MSR
+氷結
+
+ID=30132
+氷結抵抗
+ダメージを受けなくなる。
+Icon/Buff/Icon_Common_Debuff_Bleed
+氷結抵抗
+
+ID=30133
+氷結治療
+氷結効果が解除される。
+Icon/Buff/Icon_Common_Debuff_Bleed
+氷結治療
+
+ID=30140
+Sangramento
+10秒間、毎秒HPが1%減少する。
+Icon/Buff/Icon_Common_Debuff_Bleed
+Sangramento
+
+ID=30141
+弱化
+攻撃速度と防御度が30%減少する。
+Icon/Buff/Icon_Common_Debuff_MSR
+弱化
+
+ID=30142
+鈍化
+移動速度と攻撃速度が50%減少する。
+Icon/Buff/Icon_Common_Debuff_MSR
+鈍化
+
+ID=30146
+衰弱
+防御度が50%減少する。
+Icon/Buff/Icon_Common_Debuff_Weakness
+衰弱
+
+ID=30147
+衰弱
+全ての能力値が大幅に低下する。
+Icon/Buff/Icon_Common_Debuff_Weakness
+衰弱
+
 ID=32001
 治癒
 持続的にHPが回復する。
@@ -2508,7 +2586,7 @@ Invencíbilidade
 
 ID=35004
 ソウルエナジー増幅
-20秒間、プレイヤーの攻撃力2000%増加
+30秒間、プレイヤーの攻撃力2000%増加
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力大幅増加
 
@@ -4344,39 +4422,39 @@ Recuperação de HP
 
 ID=53664
 怪鳥の翼Ⅰ
-命中時、10%の確率で次の一撃の攻撃力が5%増加する。(クールタイム8秒)
+命中時、10%の確率で2秒間、次の一撃のダメージ量が5%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Aumento de poder de ataque
+ダメージ量増加
 
 ID=53665
 怪鳥の翼Ⅱ
-命中時、10%の確率で次の一撃の攻撃力が7%増加する。(クールタイム8秒)
+命中時、10%の確率で2秒間、次の一撃のダメージ量が7%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Aumento de poder de ataque
+ダメージ量増加
 
 ID=53666
 怪鳥の翼Ⅲ
-命中時、10%の確率で次の一撃の攻撃力が10%増加する。(クールタイム8秒)
+命中時、10%の確率で2秒間、次の一撃のダメージ量が10%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Aumento de poder de ataque
+ダメージ量増加
 
 ID=53667
 怪鳥の翼Ⅰ
-命中時、10%の確率で次の一撃の攻撃力が6%増加する。(クールタイム8秒)
+命中時、10%の確率で2秒間、次の一撃のダメージ量が6%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Aumento de poder de ataque
+ダメージ量増加
 
 ID=53668
 怪鳥の翼Ⅱ
-命中時、10%の確率で次の一撃の攻撃力が10%増加する。(クールタイム8秒)
+命中時、10%の確率で2秒間、次の一撃のダメージ量が10%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Aumento de poder de ataque
+ダメージ量増加
 
 ID=53669
 怪鳥の翼Ⅲ
-命中時、10%の確率で次の一撃の攻撃力が15%増加する。(クールタイム8秒)
+命中時、10%の確率で2秒間、次の一撃のダメージ量が15%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-Aumento de poder de ataque
+ダメージ量増加
 
 ID=53670
 物質変換Ⅰ
