@@ -455,7 +455,7 @@ ID=334
 {0} was purchased from {1}.
 
 ID=335
-Are you sure that you want to buy the selected item(s)?\nThe selected item(s) can not be equipped by you.
+Are you sure that you want to buy the selected item(s)?\nThe selected item(s) cannot be equipped by you.
 
 ID=336
 {0} was sold for {1} zenny.
@@ -752,7 +752,7 @@ ID=464
 Items could not be repaired.\n(Only items with decreased durability can be repaired)
 
 ID=465
-Can not equip items with 0 durability.
+Cannot equip items with 0 durability.
 
 ID=466
 Please repair your equipment.
@@ -932,13 +932,13 @@ ID=546
 [{0}] whispers:
 
 ID=547
-to [{0}]:
+tTo [{0}]:
 
 ID=548
 [{0}] shouts:
 
 ID=549
-to
+TeStY
 
 ID=551
 You have received a party invitation from {0}.\nDo you want to join the party?\n({1} second(s) remaining)
@@ -992,7 +992,7 @@ ID=570
 The rented card will be placed in a dedicated slot.
 
 ID=571
-Do you want to use {0}?\n(A.R cards that are used can not be sold nor traded)
+Do you want to use {0}?\n(A.R cards that are used cannot be sold nor traded)
 
 ID=572
 Lv. Req:
@@ -1577,7 +1577,7 @@ ID=830
 A socket has been added to the selected item.
 
 ID=831
-This item can not be socketed with a socket item.
+This item cannot be socketed with a socket item.
 
 ID=832
 Right Hand
@@ -1682,7 +1682,7 @@ ID=885
 Selected items are of <font color='#A566FF'>high rarity</font>.\nIf you hit confirm, the selected item(s) will be dismantled and they will not be able to be restored. Would you like to dismantle them anyway?
 
 ID=886
-You do not have enough {0}, therefore it can not be dismantled.
+You do not have enough {0}, therefore it cannot be dismantled.
 
 ID=887
 Insufficient inventory space for dismantling.
@@ -1856,10 +1856,10 @@ ID=958
 Enhancement Target
 
 ID=959
-This item can not be enhanced.
+This item cannot be enhanced.
 
 ID=960
-This item can not be enhanced anymore.
+This item cannot be enhanced anymore.
 
 ID=961
 Insufficient funds or materials needed to enhance the item.
@@ -1913,7 +1913,7 @@ ID=977
 This item has failed to enhance. 
 
 ID=978
-This item can not be enhanced.\n It has been destroyed.
+This item cannot be enhanced.\n It has been destroyed.
 
 ID=979
 The item has failed to enhance.\nBy using Q.B.D [Enhancement Protection], the item was not destroyed.
@@ -1955,10 +1955,10 @@ ID=991
 Evolve
 
 ID=992
-The equipment item can not be enhanced.
+The equipment item cannot be enhanced.
 
 ID=993
-Can not enhance: [{0}] missing
+Cannot enhance: [{0}] missing
 
 ID=994
 You can enhance this item.\nIt may result in destroying the item.
@@ -1967,7 +1967,7 @@ ID=995
 You can enhance this item.\nIt may result in destroying the item.\nDestruction mitigation items cannot be used.
 
 ID=996
-Can not evolve: [{0}] missing
+Cannot evolve: [{0}] missing
 
 ID=997
 Enhances
@@ -2417,7 +2417,7 @@ ID=2130
 This person is registered as your friend.\nAre you sure you want to block this person?
 
 ID=2131
-{0} currently can not accept requests due to already pending requests.
+{0} currently cannot accept requests due to already pending requests.
 
 ID=2201
 HEMS
@@ -2561,10 +2561,10 @@ ID=2264
 Are you sure you want to delete the selected mail?\n(Attachment will be deleted)
 
 ID=2265
-You can not delete mail with pending COD.
+You cannot delete mail with pending COD.
 
 ID=2266
-You can not mail to yourself.
+You cannot mail to yourself.
 
 ID=2267
 This recipient does not exist.
@@ -2585,13 +2585,13 @@ ID=2274
 The mail was sent back to {0}.
 
 ID=2275
-You can not reply to billing-related mail.
+You cannot reply to billing-related mail.
 
 ID=2276
-You can not return the mail twice.
+You cannot return the mail twice.
 
 ID=2277
-System messages can not be sent back.
+System messages cannot be sent back.
 
 ID=2500
 Community
@@ -2783,10 +2783,10 @@ ID=3032
 Since the target player has moved into other areas, the trade has been cancelled.
 
 ID=3033
-{0} can not be traded with because they are currently opening a private shop.
+{0} cannot be traded with because they are currently opening a private shop.
 
 ID=3034
-You can not trade with this player.
+You cannot trade with this player.
 
 ID=3035
 Change
@@ -2837,10 +2837,10 @@ ID=3065
 Please enter the item price again.
 
 ID=3066
-Untradable items can not be registered.
+Untradable items cannot be registered.
 
 ID=3067
-Items in non-mint condition can not be sold.
+Items in non-mint condition cannot be sold.
 
 ID=3068
 You can register up to 5 concurrent items only.
@@ -2852,7 +2852,7 @@ ID=3070
 {0} has been sold for {1} Zenny.
 
 ID=3071
-While opening a personal store, you can not open ticket items.
+While opening a personal store, you cannot open ticket items.
 
 ID=3072
 !!! Start Selling !!!
@@ -2936,7 +2936,7 @@ ID=3203
 Do you want to use [{0}]?\n({1} of the following items can be won)
 
 ID=3204
-You can not use the item as there is insufficient inventory space.
+You cannot use the item as there is insufficient inventory space.
 
 ID=4000
 Unread Mail
@@ -3104,7 +3104,7 @@ ID=5304
 Connect to Server [Enter]
 
 ID=5305
-Can not connect to the server.
+Cannot connect to the server.
 
 ID=5306
 Please select a server.
@@ -3128,10 +3128,10 @@ ID=5312
 The character name may not be used for 7 days after deletion. Are you sure you want to delete this character?
 
 ID=5313
-A deleted character can not be recovered.\nAs a guild master, the guild will be disbanded.\nAre you sure you want to delete this character?
+A deleted character cannot be recovered.\nAs a guild master, the guild will be disbanded.\nAre you sure you want to delete this character?
 
 ID=5314
-A deleted character can not be recovered.\nThe guild leader’s position will be revoked.\nAre you sure you want to delete this character?
+A deleted character cannot be recovered.\nThe guild leader’s position will be revoked.\nAre you sure you want to delete this character?
 
 ID=5320
 Maintenance in progress
@@ -3599,10 +3599,10 @@ ID=5903
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[SG]</font> (Soul Gauge) is the source of your power.\nUsing a skill will consume SG. Each character recovers SG differently.
 
 ID=5904
-<font color='#FFFFFF' size='30'>TIP: </font>The Break Skill, <font color='#00D8FF'>「Erosion」</font>, can not be used in <font color='#00D8FF'>District 6</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>The Break Skill, <font color='#00D8FF'>「Erosion」</font>, cannot be used in <font color='#00D8FF'>District 6</font>.
 
 ID=5905
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[DRAW]</font> type <font color='#00D8FF'>A.R cards</font> can not be used in <font color='#00D8FF'>District 6</font>.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[DRAW]</font> type <font color='#00D8FF'>A.R cards</font> cannot be used in <font color='#00D8FF'>District 6</font>.
 
 ID=6011
 Change Representative
@@ -3647,13 +3647,13 @@ ID=6024
 The rental period is almost finished.\n({0} second(s) remaining)
 
 ID=6025
-Use the A.R card Box.\nAcquired A.R cards can not be traded.
+Use the A.R card Box.\nAcquired A.R cards cannot be traded.
 
 ID=6026
 The A.R card is now usable. The A.R card will be removed from your inventory and the EXP will be reset during registration.\n Do you wish to register the A.R card (Press [K])?
 
 ID=6027
-Can not use item because A.R card slots are full.
+Cannot use item because A.R card slots are full.
 
 ID=6028
 Acquired A.R card.
@@ -3704,7 +3704,7 @@ ID=6043
 Craft/Remove
 
 ID=6044
-Craft A.R cards using respective materials.\nCrafted A.R cards can not be traded.
+Craft A.R cards using respective materials.\nCrafted A.R cards cannot be traded.
 
 ID=6045
 Synthesis
@@ -3746,7 +3746,7 @@ ID=6057
 Please use an A.R card with the same rarity as the crafting target.
 
 ID=6058
-You can not use Draw-type A.R cards in this area.
+You cannot use Draw-type A.R cards in this area.
 
 ID=6059
 The Nebula grade or above is registered.\nWould you like to craft?
@@ -3755,10 +3755,10 @@ ID=6060
 The Nebula grade or above is registered.\nWould you like to synthesize?
 
 ID=6061
-These materials can not be used for crafting.
+These materials cannot be used for crafting.
 
 ID=6062
-These materials can not be used for crafting.
+These materials cannot be used for crafting.
 
 ID=6063
 Unreleasable
@@ -3905,10 +3905,10 @@ ID=8313
 You have received a reward for logging in today.
 
 ID=8314
-Can not receive rewards.
+Cannot receive rewards.
 
 ID=8315
-Your inventory is full; you can not receive the reward.
+Your inventory is full; you cannot receive the reward.
 
 ID=8316
 1
@@ -4496,7 +4496,7 @@ ID=10324
 The Emergence of a Giant
 
 ID=10325
-Mind Crusader
+People's Dying Spirit
 
 ID=10326
 Impregnable
@@ -4550,7 +4550,7 @@ ID=10354
 Gray Rock
 
 ID=10361
-Monster Lurking in Your Footsteps
+Monsters Watching Your Steps
 
 ID=10362
 Heavy Atmosphere
@@ -4580,7 +4580,7 @@ ID=10382
 Something Dark and Sinister
 
 ID=10383
-Eggs of Tragedy
+Disastrous Egg Hatching
 
 ID=10384
 Red Demon Eyes
@@ -5018,7 +5018,7 @@ ID=15046
 Operation Wolf Cry involves firing missiles called 「Final Aria」which spreads strong radio waves in its vicinity. With this, we can exterminate Queen Carla, the main force of the assault brigade.
 
 ID=15047
-Heel Breaker can not progress towards the Area Missile firing zone. With Starry Forest League’s Soulworker 「Kainbarrel」, defeat the Rapid Flame’s assault squad.
+Heel Breaker cannot progress towards the Area Missile firing zone. With Starry Forest League’s Soulworker 「Kainbarrel」, defeat the Rapid Flame’s assault squad.
 
 ID=15048
 The Assault Captain of the Rapid Flames, Falcon, has finally showed his face after his precious bird Queen Karla has been damaged. To the target that has finally showed its head, we can almost feel grateful for it.
@@ -5042,7 +5042,7 @@ ID=15054
 The supposed stronghold for the Rapid Flames was a trap set up by the NED Company and the Rapid Flames.
 
 ID=15055
-Due to the NED Company’s trap, the majority of the forces at Grace City has been wiped out. This crisis has put the city’s existence on the line. We can not let everyone die.
+Due to the NED Company’s trap, the majority of the forces at Grace City has been wiped out. This crisis has put the city’s existence on the line. We cannot let everyone die.
 
 ID=15056
 The Rapid Flame faction’s Assassination squad is hindering the rescuing process of backup. We need to defeat these enemies in order to rescue many people as possible.
@@ -5060,7 +5060,7 @@ ID=15060
 We’ve detected life signals indicating Henry and Raufa within Indra. This is the most ideal time for revenge.
 
 ID=15061
-A virtual training program designed for Soulworkers; it can simulate the monsters from the database, then an experience just like a real battle begins. However, since it spends a lot of energy, it can not be used frequently.
+A virtual training program designed for Soulworkers; it can simulate the monsters from the database, then an experience just like a real battle begins. However, since it spends a lot of energy, it cannot be used frequently.
 
 ID=15062
 An area completely ravaged by the Void. Soul Junk constantly appear in the area, and the Starry Forest League has forbidden any civilians from entering.
@@ -5336,10 +5336,10 @@ ID=16858
 Unable to sell more items than possessed.
 
 ID=16859
-You can not buy more items than what are put up on the market.
+You cannot buy more items than what are put up on the market.
 
 ID=16860
-You can not purchase your own item.
+You cannot purchase your own item.
 
 ID=16861
 All
@@ -5360,16 +5360,16 @@ ID=16866
 VIP System Information
 
 ID=18000
-Since the enhancing limit was reached, you can not enhance this equipment any further.
+Since the enhancing limit was reached, you cannot enhance this equipment any further.
 
 ID=18001
 Due to enhancing failure, the item has been destroyed.
 
 ID=18002
-You can not equip broken items.
+You cannot equip broken items.
 
 ID=18003
-You can not trade broken equipment.
+You cannot trade broken equipment.
 
 ID=18004
 Broken equipment has been recovered.
@@ -5414,7 +5414,7 @@ ID=18017
 You need 5 brooch for synthesis.
 
 ID=18018
-You can not register anymore items.
+You cannot register anymore items.
 
 ID=18019
 You can dismantle up to 10 items at once.
@@ -5462,7 +5462,7 @@ ID=18035
 You can prevent an equipment piece from being destroyed by using 1 Q.B.D[Enhancement Protector] on the equipment being enhanced.\n Do you wish to continue enhancing?
 
 ID=18036
-You are in an operation mode, therefore \n you can not organize your inventory. 
+You are in an operation mode, therefore \n you cannot organize your inventory. 
 
 ID=18037
 Time Left
@@ -5570,7 +5570,7 @@ ID=18074
 Item can only be sealed in the inventory. 
 
 ID=18075
-Items in non-pristine condition can not be sealed.
+Items in non-pristine condition cannot be sealed.
 
 ID=18076
 <font color='#FFFFFF'>(Unsealer</font><font color='#6799FF'> Usable</font><font color='#FFFFFF'>)</font>
@@ -5792,82 +5792,82 @@ ID=20010
 Greet
 
 ID=20011
-Used 「Greet」.
+Used「Greet」
 
 ID=20012
-{0} is greeting.
+{0} greets.
 
 ID=20020
 Laugh
 
 ID=20021
-Used「Laugh」.
+Used「Laugh」
 
 ID=20022
-{0} is laughing.
+{0} laughs.
 
 ID=20030
-Sad
+Cry
 
 ID=20031
-Used 「Cry」
+Used「Cry」
 
 ID=20032
-{0} is crying.
+{0} cries.
 
 ID=20040
 Cheer
 
 ID=20041
-Used 「Cheer」
+Used「Cheer」
 
 ID=20042
-{0} is cheering.
+{0} cheers.
 
 ID=20050
 Sit
 
 ID=20051
-Used 「Sit」
+Used「Sit」
 
 ID=20052
-{0} is sitting.
+{0} sits.
 
 ID=20060
 Dance
 
 ID=20061
-Used 「Dance」
+Used「Dance」
 
 ID=20062
-{0} is dancing.
+{0} dances.
 
 ID=20070
 Taunt
 
 ID=20071
-Used 「Taunt」
+Used「Taunt」
 
 ID=20072
-{0} is taunting.
+{0} taunts.
 
 ID=20080
 Boast
 
 ID=20081
-Used 「Boast」
+Used「Boast」
 
 ID=20082
-{0} is boasting.
+{0} boasts.
 
 ID=20300
-Can not join channel due to congestion. Please use another one.
+Cannot join channel due to congestion. Please use another one.
 
 ID=20301
-The operation can not be done due to insufficient space or an invalid area.
+The operation cannot be done due to insufficient space or an invalid area.
 
 ID=20302
-The operation can not be done due to insufficient space or an invalid area.
+The operation cannot be done due to insufficient space or an invalid area.
 
 ID=20303
 No available area.
@@ -5999,13 +5999,13 @@ ID=21031
 For acquiring the maximum amount of favorability with {0} in a day, no more can be accumulated.\n [Resets at 8PM ET, 5PM PT]
 
 ID=21032
-Due to a lack of FP, you can not enter the dungeon.
+Due to a lack of FP, you cannot enter the dungeon.
 
 ID=21033
 {0} does not have enough FP to enter the dungeon.
 
 ID=21034
-Insufficient FP. You can not use the Find Party feature.
+Insufficient FP. You cannot use the Find Party feature.
 
 ID=21035
 You can only use it on base FP state.
@@ -6017,25 +6017,25 @@ ID=21037
 The FP recovery potion will exceed the total amount of FP. Are you sure you want to use?
 
 ID=21038
-Character can not use the item.
+Character cannot use the item.
 
 ID=21039
-Level is insufficient. This item can not be used.
+Level is insufficient. This item cannot be used.
 
 ID=21040
 Daily Usage Restriction：[{0}/{1}]
 
 ID=21041
-This item can not be used because your basic FP (200) is maxed.
+This item cannot be used because your basic FP (200) is maxed.
 
 ID=21051
-This item can not be used because your HP is maxed.
+This item cannot be used because your HP is maxed.
 
 ID=21052
-This item can not be used because your SG is maxed.
+This item cannot be used because your SG is maxed.
 
 ID=21053
-This item can not be used because your ST is maxed.
+This item cannot be used because your ST is maxed.
 
 ID=21054
 HP Recovery Potion stage 2 is available for purchase.
@@ -6218,7 +6218,7 @@ ID=21551
 Supporter buff obtained.
 
 ID=21552
-Insufficient inventory space . Funds can not be utilized.
+Insufficient inventory space . Funds cannot be utilized.
 
 ID=21553
 Toggle Settings
@@ -6989,7 +6989,7 @@ ID=22659
 [{0}]key is being used for other controls.\nDo you still wish to change and overwrite key settings?
 
 ID=22660
-[{0}]key can not be used as a shortcut.\nPlease assign other keys for use.
+[{0}]key cannot be used as a shortcut.\nPlease assign other keys for use.
 
 ID=22661
 Memorial
@@ -7034,7 +7034,7 @@ ID=22674
 Supporter Call is on cooldown.\n({0} sec)
 
 ID=22675
-You can not assign combined key bind with START button.
+You cannot assign combined key bind with START button.
 
 ID=22676
 Particle Effects
@@ -7046,7 +7046,7 @@ ID=22678
 Auto-Loot
 
 ID=22679
-You can not assign combined key bind with {0}.
+You cannot assign combined key bind with {0}.
 
 ID=22680
 Please assign the key bind combined with {0}.
@@ -8939,7 +8939,7 @@ ID=28011
 Guild name 「{0}」 is available.
 
 ID=28012
-Guild name can not be used.
+Guild name cannot be used.
 
 ID=28013
 Guild name 「{0}」 is already used. Choose another guild name.
@@ -9008,7 +9008,7 @@ ID=28034
 Guild Disbanding Penalty
 
 ID=28035
-1. When the guild has disbanded, guild establishment fees will not be refunded.\n 2. A guild can not be re-made for 7 days.
+1. When the guild has disbanded, guild establishment fees will not be refunded.\n 2. A guild cannot be re-made for 7 days.
 
 ID=28036
 Confirm Guild Disbandment
@@ -9032,7 +9032,7 @@ ID=28042
 Guild 「{0}」 was disbanded.
 
 ID=28043
-Guild mastership can not be transferred.
+Guild mastership cannot be transferred.
 
 ID=28044
 Conditions for changing the guild leader are not met.\nGuild Level: 2 or higher\nGuild Members: 2 or more members
@@ -9041,7 +9041,7 @@ ID=28045
 Guild Mastership Succession Penalty
 
 ID=28046
-You can not transfer Guild Mastership again.\n The Guild Mastership was recently transferred.
+You cannot transfer Guild Mastership again.\n The Guild Mastership was recently transferred.
 
 ID=28047
 Transfer Guild Mastership
@@ -9116,7 +9116,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by Soulworkers HQ Translation Team.\nLast updated at 23/May/2016 6:40 AM JST.\nPlease check your guild’s information for updates.
+This translation was brought to you by Soulworkers HQ Translation Team.\nLast updated at 24/May/2016 10:20 AM JST.\nPlease check your guild’s information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -9167,7 +9167,7 @@ ID=28087
 Guild Invite Refusal
 
 ID=28088
-Guild is full. Can not be joined.
+Guild is full. Cannot be joined.
 
 ID=28089
 Guild Info
@@ -9179,7 +9179,7 @@ ID=28091
 Guild Application
 
 ID=28092
-Guild does not exist. Can not apply.
+Guild does not exist. Cannot apply.
 
 ID=28093
 Guild application failed
@@ -9200,7 +9200,7 @@ ID=28098
 Guild applicant no longer exists\n or is in a guild already.
 
 ID=28099
-Can not join guild
+Cannot join guild
 
 ID=28100
 Do you want to refuse {0}'s request to join the Guild?
@@ -9236,7 +9236,7 @@ ID=28110
 Leave Guild
 
 ID=28111
-Guild withdrawl is complete.\n You can not join a new one for 24 hours.
+Guild withdrawl is complete.\n You cannot join a new one for 24 hours.
 
 ID=28112
 Guild withdrawal complete
@@ -9266,7 +9266,7 @@ ID=28120
 You were expelled from {0}.
 
 ID=28121
-You can not expel this member; they have higher authority.
+You cannot expel this member; they have higher authority.
 
 ID=28122
 Failed to kick from guild
@@ -9278,7 +9278,7 @@ ID=28124
 Guild skills info
 
 ID=28125
-Can not learn guild skills; insufficient guild funds.
+Cannot learn guild skills; insufficient guild funds.
 
 ID=28126
 Insufficient guild funds. Could not enhance guild skill levels.
@@ -9404,7 +9404,7 @@ ID=28166
 Withdraw Guild Warehouse
 
 ID=28167
-Can not withdraw; there is a limit of 1 per day.
+Cannot withdraw; there is a limit of 1 per day.
 
 ID=28168
 Save
@@ -9521,7 +9521,7 @@ ID=28205
 Use 2 to 8 characters for a guild name.
 
 ID=28206
-Can not use this name, this word is not allowed.
+Cannot use this name, this word is not allowed.
 
 ID=28207
 Verify
@@ -9773,7 +9773,7 @@ ID=29026
 Create Room
 
 ID=29027
-Creating a room costs 5,000 Zenny.\n Do you want to make one?\n (Limit one room)
+Creating a room costs 5,000 Zenny.\nDo you want to create the room?\n(Only one room can be created)
 
 ID=29028
 Room creation complete.
@@ -9785,13 +9785,13 @@ ID=29030
 Level too low to create room.
 
 ID=29031
-Can not create room due to insufficient level.\nRequired Level: 10
+Cannot create room due to insufficient level.\nRequired Level: 10
 
 ID=29032
-Can not create room due to lack of zenny.
+Cannot create room due to lack of zenny.
 
 ID=29033
-Insuffiicient funds. Can not create room.
+Insuffiicient funds. Cannot create room.
 
 ID=29034
 Enter Room
@@ -9815,7 +9815,7 @@ ID=29040
 Room Entry Rejection Notice
 
 ID=29041
-Can not enter {0}'s room.
+Cannot enter {0}'s room.
 
 ID=29042
 Controls can be set
@@ -9827,7 +9827,7 @@ ID=29044
 The maximum number of guests have been reached.
 
 ID=29045
-You can not enter the room because the guest capacity limit was reached.
+You cannot enter the room because the guest capacity limit was reached.
 
 ID=29046
 Confirm Kick Guest
@@ -9935,7 +9935,7 @@ ID=31004
 [{0}] has refused the invitation.
 
 ID=31005
-[{0}] is not logged in or can not be found.
+[{0}] is not logged in or cannot be found.
 
 ID=31006
 Already invited to party.
@@ -9944,16 +9944,16 @@ ID=31007
 Checking if the target is already in a party...
 
 ID=31008
-The target can not be invited; they blocked all party requests.
+The target cannot be invited; they blocked all party requests.
 
 ID=31009
 The party was disbanded.
 
 ID=31010
-The dungeon can not be entered, there is an insufficient amount of party members.
+The dungeon cannot be entered, there is an insufficient amount of party members.
 
 ID=31011
-You can not join the party.
+You cannot join the party.
 
 ID=31012
 No more party members can be added; the party is full.
@@ -9989,10 +9989,10 @@ ID=31022
 [{0}] has been removed from the party due to time restraints.
 
 ID=31023
-Can not enter because a party member does not meet the level requirements.
+Cannot enter because a party member does not meet the level requirements.
 
 ID=31024
-Can not enter the area with the current party.
+Cannot enter the area with the current party.
 
 ID=31025
 Not enough members required to move to the next area.
@@ -10001,34 +10001,34 @@ ID=31026
 Only party members in the same town may enter a dungeon together.
 
 ID=31027
-Can not enter because a party member does not have a Soul Weapon equipped.
+Cannot enter because a party member does not have a Soul Weapon equipped.
 
 ID=31028
 Can’t enter a different dungeon than your party leader.
 
 ID=31029
-Can not enter a different dungeon than your party members.
+Cannot enter a different dungeon than your party members.
 
 ID=31030
-Can not join due to current state.
+Cannot join due to current state.
 
 ID=31031
-Can not enter because {0} {1} {2} is in District 6.
+Cannot enter because {0} {1} {2} is in District 6.
 
 ID=31032
-{0} is in an area that can not receive invitations.
+{0} is in an area that cannot receive invitations.
 
 ID=31033
-Can not join party here.
+Cannot join party here.
 
 ID=31034
-Can not leave party here.
+Cannot leave party here.
 
 ID=31035
-Can not remove {0} right now.
+Cannot remove {0} right now.
 
 ID=31036
-{0} {1} {2} logged out in a different town / area and can not enter the Dungeon.
+{0} {1} {2} logged out in a different town / area and cannot enter the Dungeon.
 
 ID=31037
 {0} Party Members have refused to join the dungeon.
@@ -10085,7 +10085,7 @@ ID=31054
 Auto-Matching Ended
 
 ID=31055
-Auto-matching can not be used in a party.
+Auto-matching cannot be used in a party.
 
 ID=31056
 Unable to find a party within the time limit.
@@ -10100,7 +10100,7 @@ ID=31059
 Do you want to exit auto-matching?
 
 ID=31060
-You can not use [{0}] Auto-Matching feature for {1} minutes.
+You cannot use [{0}] Auto-Matching feature for {1} minutes.
 
 ID=31061
 Time Left
@@ -10241,10 +10241,10 @@ ID=31106
 Recruiting for 30mins.
 
 ID=31107
-When removing your recruitment ad,\n you can not re-register until a cooldown period has elapsed. Are you sure you want to remove your ad? 
+When removing your recruitment ad,\n you cannot re-register until a cooldown period has elapsed. Are you sure you want to remove your ad? 
 
 ID=31108
-The party is full (can not apply).
+The party is full (cannot apply).
 
 ID=31109
 Please vote on the party’s goals.
@@ -10388,7 +10388,7 @@ ID=31155
 You may enter the dungeon after it has been cleared.
 
 ID=31156
-The dungeon can not be entered after leaving it for 3 minutes or more.
+The dungeon cannot be entered after leaving it for 3 minutes or more.
 
 ID=31157
 You may not join the party while the party is fighting a boss.
@@ -10445,7 +10445,7 @@ ID=31174
 An unexpected error occurred.\nWould you like to rejoin? -Remaining time: {0} seconds-
 
 ID=31175
-You can not rejoin if you quit the game on purpose.\nYou can only rejoin if the game has ended due to an unexpected error.
+You cannot rejoin if you quit the game on purpose.\nYou can only rejoin if the game has ended due to an unexpected error.
 
 ID=32000
 Gameplay Controls
@@ -10754,7 +10754,7 @@ ID=33000
 Hello,\n I have wandered the world, \nseeking for a glorious show.\n  My name is “Clown Edgar”.\n I admit you must be surprised.\n I lust for your power.\n It is flamboyant, yet modest.\n Tranquil, yet destructive and refined.\n For you, I sent a present.\nAccept it, it is a token\n of respect. Come to “The Shopping District”\n, you’ll like it.\n - Clown Edgar.
 
 ID=33001
-Little by little,\n the distance between us is shrinking.\n We will cross paths sooner or later.\n The longer the wait, the greater the thrill.\n We made it dramatic with a little game.\n You can not enter now,\n but if you had a badge.\n Cross the woods at dawn.\n Hurry up.\n Waiting to see you burn.
+Little by little,\n the distance between us is shrinking.\n We will cross paths sooner or later.\n The longer the wait, the greater the thrill.\n We made it dramatic with a little game.\n You cannot enter now,\n but if you had a badge.\n Cross the woods at dawn.\n Hurry up.\n Waiting to see you burn.
 
 ID=33002
 Report on Amaryllis\n\n Soul Energy Resistance added to SJ-DS-01. Unstable.\n\n 2. SJ-DS-01 is parasitic to soul energy hosts. Contact to humans, fatal. The skin hardens and becomes food.\n\n 3. SJ-DS-01 is known as Dignity Snatcher. It sucks up soul energy. \nOrdinary humans possess very little.
@@ -11120,7 +11120,7 @@ ID=35114
 Chat interval Limit of 10 seconds reached.\n(Remaining: {9}s)
 
 ID=35115
-You can not chat for 60 seconds because of violation of chat rules.\n(Time remaining：{0} seconds)
+You cannot chat for 60 seconds because of violation of chat rules.\n(Time remaining：{0} seconds)
 
 ID=35200
 {0) has won, {1} BP has been gained.
@@ -12362,13 +12362,13 @@ ID=40617
 Defeat 「Pandemic Dendrobium」 to remove the intoxication status effect.
 
 ID=42000
-Jack King
+Jack the King
 
 ID=42001
-Tower Guardian Jack King
+Tower Guardian Jack the King
 
 ID=42002
-Iron Hammer Fist Jack King
+Iron Hammer Fist Jack the King
 
 ID=42003
 Dancing Dolls
@@ -13376,7 +13376,7 @@ ID=43146
 Fragment of Temptation
 
 ID=43000
-Jack King
+Jack the King
 
 ID=43003
 Dancing Dolls
@@ -13967,13 +13967,13 @@ ID=45054
 m
 
 ID=45055
-Items can not be added to the gift box.
+Items cannot be added to the gift box.
 
 ID=45056
 Costume Preview
 
 ID=45057
-Some items can not be purchased.
+Some items cannot be purchased.
 
 ID=45100
 Confirm Purchase
@@ -14021,7 +14021,7 @@ ID=45114
 At least 2 characters must be entered into the search query.
 
 ID=45115
-The items can not be received.
+The items cannot be received.
 
 ID=45116
 {0}
@@ -14054,7 +14054,7 @@ ID=45202
 {0} can be changed back.
 
 ID=45203
-Can not be changed back.
+Cannot be changed back.
 
 ID=45204
 Lv{0}
@@ -14639,7 +14639,7 @@ ID=49611
 The auxiliary controller is connected.\n The controls can be used by\n activating auxiliary controller mode in system settings. 
 
 ID=49612
-Can not detect the auxiliary controller. Please reinstall it.
+Cannot detect the auxiliary controller. Please reinstall it.
 
 ID=49613
 Connection to the server has been terminated.\n Try again.
@@ -14663,10 +14663,10 @@ ID=49619
 Please select the area you want to go to.
 
 ID=49620
-Can not use this name, this word is not allowed.
+Cannot use this name, this word is not allowed.
 
 ID=49621
-Character names can not include spaces or special characters.
+Character names cannot include spaces or special characters.
 
 ID=49622
 Keyboard
@@ -15011,7 +15011,7 @@ ID=49984
 News release
 
 ID=49985
-Can not abandon quest.
+Cannot abandon quest.
 
 ID=49986
 [Completed]
@@ -15032,7 +15032,7 @@ ID=49991
 Story
 
 ID=49992
-Your inventory is full. You can not complete the quest.
+Your inventory is full. You cannot complete the quest.
 
 ID=49993
 Select a reward item to end mission.
@@ -15101,7 +15101,7 @@ ID=50106
 The ID you entered is already connected to the server.
 
 ID=50107
-Can not locate channel.
+Cannot locate channel.
 
 ID=50108
 This account is blocked from the game.
@@ -15119,13 +15119,13 @@ ID=50112
 The connection to the server has been terminated; there is ongoing maintenance.
 
 ID=51001
-Can not locate server.
+Cannot locate server.
 
 ID=51002
 Your character name does not meet the requirements of 2 to 10 characters.
 
 ID=51003
-You can not create any more characters.
+You cannot create any more characters.
 
 ID=51004
 The character name you have chosen exceeds the character limit.
@@ -15134,22 +15134,22 @@ ID=51005
 The character name you have chosen is already used.
 
 ID=51006
-Can not locate server.
+Cannot locate server.
 
 ID=51007
 The selected character is already logged in.
 
 ID=51008
-You can not enter this channel.
+You cannot enter this channel.
 
 ID=51009
 The character could not be created.
 
 ID=51010
-You can not be revived in this dungeon.
+You cannot be revived in this dungeon.
 
 ID=51012
-You can not delete the character; revoke your guild mastership first.
+You cannot delete the character; revoke your guild mastership first.
 
 ID=52001
 Invalid inventory retrieval.
@@ -15194,22 +15194,22 @@ ID=52014
 Insufficient quantity.
 
 ID=52015
-This item can not be used for synthesis.
+This item cannot be used for synthesis.
 
 ID=52016
-This item can not be dismantled.
+This item cannot be dismantled.
 
 ID=52017
 This item’s data is non-existent.
 
 ID=52018
-This item can not be stored or moved.
+This item cannot be stored or moved.
 
 ID=52019
-This item can not be synthesized.
+This item cannot be synthesized.
 
 ID=52020
-This item can not be dismantled.
+This item cannot be dismantled.
 
 ID=52021
 Failed to discard item.
@@ -15227,13 +15227,13 @@ ID=52025
 Could not deposit items into the bank.
 
 ID=52026
-This item can not be used.
+This item cannot be used.
 
 ID=52027
 The number of items to be discarded does not match with your current quantity.
 
 ID=52028
-These items can not be discarded.
+These items cannot be discarded.
 
 ID=52029
 Insufficient inventory space to obtain new items.
@@ -15245,13 +15245,13 @@ ID=52031
 Insufficient inventory space, could not attach to the item.
 
 ID=52032
-The selected item can not have an attachment.
+The selected item cannot have an attachment.
 
 ID=52033
-The selected item can not have an attachment due to level restrictions.
+The selected item cannot have an attachment due to level restrictions.
 
 ID=52034
-The selected item can not have an attachment due to character restrictions.
+The selected item cannot have an attachment due to character restrictions.
 
 ID=52035
 Insufficient bank space; please empty to store your items.
@@ -15260,19 +15260,19 @@ ID=52036
 Insufficient inventory space; item retrieval is not possible.
 
 ID=52037
-This item can not be repaired.
+This item cannot be repaired.
 
 ID=52038
-This item can not be repaired.
+This item cannot be repaired.
 
 ID=52039
-Equipment in pristine condition can not be repaired.
+Equipment in pristine condition cannot be repaired.
 
 ID=52040
 Insufficient funds to repair equipment.
 
 ID=52041
-You can not discard items while performing the split operation.
+You cannot discard items while performing the split operation.
 
 ID=52042
 Mismatched attachment slot.
@@ -15332,10 +15332,10 @@ ID=52201
 This item can be enhanced.
 
 ID=52202
-This item can not be enhanced anymore.
+This item cannot be enhanced anymore.
 
 ID=52203
-Can not enhance the item, no target item registered.
+Cannot enhance the item, no target item registered.
 
 ID=52204
 Registered preqrequisite enhancement materials already.
@@ -15344,7 +15344,7 @@ ID=52205
 The enhanced equip is not the same; they have different rarity grades.
 
 ID=52206
-This item can not be enhanced at all.
+This item cannot be enhanced at all.
 
 ID=52207
 You have inputted the maximum number of prerequisite enhancement materials.
@@ -15362,25 +15362,25 @@ ID=52211
 Could not update the item’s enhancement level.
 
 ID=52212
-This item can not be enhanced.
+This item cannot be enhanced.
 
 ID=52213
 Synthesis materials are of differing quality. 
 
 ID=52214
-Can not synthesize this item.
+Cannot synthesize this item.
 
 ID=52215
 Insufficient synthesis materials.
 
 ID=52216
-This item can not be synthesized.
+This item cannot be synthesized.
 
 ID=52217
 Not an NPC that enhances equips.
 
 ID=52218
-This item can not be enhanced.
+This item cannot be enhanced.
 
 ID=52219
 There is a problem with the item.
@@ -15395,10 +15395,10 @@ ID=52222
 There is a problem with the inventory.
 
 ID=52223
-Insufficient enhancement materials. Item can not be enhanced.
+Insufficient enhancement materials. Item cannot be enhanced.
 
 ID=52250
-Insufficient BP. Item can not be crafted.
+Insufficient BP. Item cannot be crafted.
 
 ID=52251
 Insufficient Zenny to purchase the item.
@@ -15410,7 +15410,7 @@ ID=52253
 The item does not exist.
 
 ID=52254
-Insufficient crafting material. Item can not be crafted.
+Insufficient crafting material. Item cannot be crafted.
 
 ID=52255
 This item is in use.
@@ -15422,13 +15422,13 @@ ID=52257
 Could not make the item.
 
 ID=52260
-This NPC can not do the desired operation.
+This NPC cannot do the desired operation.
 
 ID=52261
 This exchange is impossible.
 
 ID=52262
-This item can not be used.
+This item cannot be used.
 
 ID=52263
 The inventory space does not exist.
@@ -15443,13 +15443,13 @@ ID=52270
 Dismantling failed.
 
 ID=52271
-The items in the inventory can not be dismantled.
+The items in the inventory cannot be dismantled.
 
 ID=52272
 Corrupted item data.
 
 ID=52273
-The item no longer exists, you can not dismantle it.
+The item no longer exists, you cannot dismantle it.
 
 ID=52280
 Could not implement the socket.
@@ -15473,7 +15473,7 @@ ID=52286
 Socketing failed.
 
 ID=52287
-Can not speak to this NPC.
+Cannot speak to this NPC.
 
 ID=52288
 Insufficient Zenny. Purchase failed.
@@ -15500,7 +15500,7 @@ ID=52295
 You do not have the necessary items to remove the socket item.
 
 ID=52301
-Insufficient Zenny. You can not purchase the item.
+Insufficient Zenny. You cannot purchase the item.
 
 ID=52302
 The item could not be sold.
@@ -15527,13 +15527,13 @@ ID=52309
 You have exceeded the purchase limit for the day.
 
 ID=52310
-Insufficient Zenny/Han Coin/BP. You can not purchase the item.
+Insufficient Zenny/Han Coin/BP. You cannot purchase the item.
 
 ID=52311
 Failed to purchase this item. Your inventory is full.
 
 ID=52312
-You can not sell this item.
+You cannot sell this item.
 
 ID=52313
 This recipient does not exist.
@@ -15542,7 +15542,7 @@ ID=52314
 There was a problem in sending the gifts. \nPlease try again.
 
 ID=52315
-GMs can not use the store.
+GMs cannot use the store.
 
 ID=52316
 Insufficient S coins to make a purchase.
@@ -15554,22 +15554,22 @@ ID=52318
 Failed to purchase this item. Please try again.
 
 ID=52319
-Since the character is unable to use the item, it can not be purchased.
+Since the character is unable to use the item, it cannot be purchased.
 
 ID=52320
-Since this item is non-giftable, it can not be gifted.
+Since this item is non-giftable, it cannot be gifted.
 
 ID=52321
-Items that are owned already can not be purchased again.
+Items that are owned already cannot be purchased again.
 
 ID=52322
-Sale period has ended. You can not purchase this item anymore.
+Sale period has ended. You cannot purchase this item anymore.
 
 ID=52323
-You can not purchase this item anymore.
+You cannot purchase this item anymore.
 
 ID=52324
-Can not open Item Mall in the area.
+Cannot open Item Mall in the area.
 
 ID=52401
 Player is already trading.
@@ -15584,19 +15584,19 @@ ID=52404
 Too much Zenny.
 
 ID=52405
-This item can not be traded.
+This item cannot be traded.
 
 ID=52406
 Trading slot is full.
 
 ID=52407
-Item can not be found in trading list.
+Item cannot be found in trading list.
 
 ID=52408
 Player already in trade request.
 
 ID=52409
-Player can not be found.
+Player cannot be found.
 
 ID=52410
 Player has logged out.
@@ -15605,7 +15605,7 @@ ID=52411
 Different area than target player.
 
 ID=52415
-Game Master can not personal trade.
+Game Master cannot personal trade.
 
 ID=52412
 You have run out of time to accept the request.
@@ -15614,7 +15614,7 @@ ID=52413
 {0} is currently on other request.
 
 ID=52416
-You can not trade with a blocked player.
+You cannot trade with a blocked player.
 
 ID=52430
 Personal Shop is already open.
@@ -15641,16 +15641,16 @@ ID=52437
 Missing Zenny.
 
 ID=52438
-You can not open a personal shop here.
+You cannot open a personal shop here.
 
 ID=52439
 Your personal shop is too close to other shops; you may not set up here.
 
 ID=52440
-You can not open any more personal shops within the channel.
+You cannot open any more personal shops within the channel.
 
 ID=52441
-Insufficient inventory space. You can not purchase the item.
+Insufficient inventory space. You cannot purchase the item.
 
 ID=52442
 Other players are currently using the Personal Shop.
@@ -15659,7 +15659,7 @@ ID=52450
 The item could not be repaired.
 
 ID=52451
-This item can not be repaired.
+This item cannot be repaired.
 
 ID=52452
 This item is already at maximum durability.
@@ -15668,25 +15668,25 @@ ID=52453
 Insufficient Zenny.
 
 ID=52454
-This NPC can not repair items.
+This NPC cannot repair items.
 
 ID=52501
 The item could not be found.
 
 ID=52601
-The item can not be used due to level requirements not being met.
+The item cannot be used due to level requirements not being met.
 
 ID=52602
 This item is still on cooldown.
 
 ID=52603
-The item can not be used due to not being in a party.
+The item cannot be used due to not being in a party.
 
 ID=52604
-The item can not be used because there are no dead party members.
+The item cannot be used because there are no dead party members.
 
 ID=52605
-The item can not be used because it no longer exists.
+The item cannot be used because it no longer exists.
 
 ID=52606
 The operation being done is not possible for this item.
@@ -15695,13 +15695,13 @@ ID=52607
 This item is only usable within a dungeon.
 
 ID=52608
-You can not use revival type items in your current state.
+You cannot use revival type items in your current state.
 
 ID=52609
 The protection buff has already been applied.
 
 ID=52612
-You can not use consumable items in the dungeon Steel Grave.
+You cannot use consumable items in the dungeon Steel Grave.
 
 ID=52613
 There are still Steel Grave entries left.
@@ -15710,10 +15710,10 @@ ID=52615
 Failed to acquire item. Please try again.
 
 ID=52616
-Can not use consumables in this dungeon.
+Cannot use consumables in this dungeon.
 
 ID=52617
-Can not use resurrection items in this dungeon.
+Cannot use resurrection items in this dungeon.
 
 ID=52700
 If the PvP level difference is too great, either no BP is won, or BP is lost on losing.
@@ -15725,13 +15725,13 @@ ID=52702
 Maximum Daily BP earned. Resets at 00 hours.
 
 ID=52703
-The opponent has 0 BP. You can not win any BP.
+The opponent has 0 BP. You cannot win any BP.
 
 ID=52704
 PvP and PvE-earned BP limits have been reset.
 
 ID=53001
-Players who are in a dungeon can not be invited to party.
+Players who are in a dungeon cannot be invited to party.
 
 ID=53002
 You are not the party leader.
@@ -15761,25 +15761,25 @@ ID=53010
 The party is full.
 
 ID=53011
-Party members can not be found.
+Party members cannot be found.
 
 ID=53012
 An error has occurred in the party.
 
 ID=53013
-You can not invite the selected character due to them being on your blacklist.
+You cannot invite the selected character due to them being on your blacklist.
 
 ID=53014
-You can not make a party with the selected player.
+You cannot make a party with the selected player.
 
 ID=53015
 Party request is still pending.
 
 ID=53016
-You can not join the party.
+You cannot join the party.
 
 ID=53017
-You can not give party requests if there are still members within the dungeon.
+You cannot give party requests if there are still members within the dungeon.
 
 ID=53018
 Another party invitation request has been received.
@@ -15791,7 +15791,7 @@ ID=53024
 You can register after the time limit has passed. 
 
 ID=53025
-The party can not be entered because there are too many members.
+The party cannot be entered because there are too many members.
 
 ID=53027
 The party that the request was sent to no longer exists.
@@ -15800,16 +15800,16 @@ ID=53028
 {0} is currently on other request.
 
 ID=53029
-Can not leave the party while in a boss battle.
+Cannot leave the party while in a boss battle.
 
 ID=53030
-You can not request for party members in the wasteland.
+You cannot request for party members in the wasteland.
 
 ID=53031
-You can not make a request because the target is in the wasteland.
+You cannot make a request because the target is in the wasteland.
 
 ID=53032
-You can not kick out members in the dungeon.
+You cannot kick out members in the dungeon.
 
 ID=54001
 The mission is already active.
@@ -15818,7 +15818,7 @@ ID=54002
 The mission is already complete.
 
 ID=54003
-You can not complete the selected episode.
+You cannot complete the selected episode.
 
 ID=54004
 Selected episode does not exist.
@@ -15851,7 +15851,7 @@ ID=54013
 There was an error while adding an item with interaction.
 
 ID=54014
-As CallCount is already「0」in the server, it can not be used.
+As CallCount is already「0」in the server, it cannot be used.
 
 ID=54015
 Could not interact with the individual.
@@ -15863,10 +15863,10 @@ ID=54017
 While performing player-to-player interactions, quest operations are nullified.
 
 ID=54018
-Insufficient level. Can not start the episode.
+Insufficient level. Cannot start the episode.
 
 ID=54019
-Mismatched character. Can not start the episode.
+Mismatched character. Cannot start the episode.
 
 ID=54020
 You have not cleared the prerequisite quest.
@@ -15887,13 +15887,13 @@ ID=55004
 Only the party leader can choose the dungeon.
 
 ID=55005
-Can not search the world from the Check Sector Box.
+Cannot search the world from the Check Sector Box.
 
 ID=55006
-Can not find the available sector for check within the Check Sector Box.
+Cannot find the available sector for check within the Check Sector Box.
 
 ID=55007
-You can not search the selected world.
+You cannot search the selected world.
 
 ID=55008
 Your game files are corrupted; dungeon does not exist.
@@ -15908,7 +15908,7 @@ ID=55011
 Party members have declined entry.
 
 ID=55012
-Since you do not fit the level requirements for this dungeon, you can not enter.
+Since you do not fit the level requirements for this dungeon, you cannot enter.
 
 ID=55013
 Somebody does not meet the level requirements for the dungeon. Dungeon entry is not possible.
@@ -15920,13 +15920,13 @@ ID=55015
 Not enough members required to move to the next area.
 
 ID=55016
-You forgot your weapon, therefore you can not enter the dungeon.
+You forgot your weapon, therefore you cannot enter the dungeon.
 
 ID=55017
 Someone forgot their weapon, dungeon entry is not possible.
 
 ID=55018
-You can not use your soul weapon here.
+You cannot use your soul weapon here.
 
 ID=55019
 Can’t enter a different dungeon than your party leader.
@@ -15941,7 +15941,7 @@ ID=55022
 Dungeon entry is not possible; the dungeon does not exist.
 
 ID=55023
-Can not enter a different dungeon than your party members.
+Cannot enter a different dungeon than your party members.
 
 ID=55024
 You can only join the dungeon when all party members are present in the same town.
@@ -15950,7 +15950,7 @@ ID=55031
 if your level is {0} or higher, you can enter.
 
 ID=55032
-Can not enter the area with the current party.
+Cannot enter the area with the current party.
 
 ID=55033
 This area can only be entered while in a party.
@@ -15974,31 +15974,31 @@ ID=55039
 Please proceed with the quest.
 
 ID=55040
-Can not enter the dungeon because someone is logged out.
+Cannot enter the dungeon because someone is logged out.
 
 ID=55041
-Can not enter the dungeon because someone is not present.
+Cannot enter the dungeon because someone is not present.
 
 ID=55042
-The dungeon can not be entered after leaving it for 3 minutes or more.
+The dungeon cannot be entered after leaving it for 3 minutes or more.
 
 ID=55043
-Can not make purchases; you are in a boss battle.
+Cannot make purchases; you are in a boss battle.
 
 ID=55044
-You can not join the queue because you have no FP left.
+You cannot join the queue because you have no FP left.
 
 ID=55047
-Since the party is not in the same channel, you can not enter the dungeon.
+Since the party is not in the same channel, you cannot enter the dungeon.
 
 ID=55048
-Since there are party members who do not meet the dungeon requirement, you can not enter the dungeon.
+Since there are party members who do not meet the dungeon requirement, you cannot enter the dungeon.
 
 ID=55049
 Due to having fewer members, the monsters will be weakened.
 
 ID=55050
-You can not exit the dungeon if you are at the boss area.
+You cannot exit the dungeon if you are at the boss area.
 
 ID=55051
 Party requires 4 people to enter.
@@ -16007,10 +16007,10 @@ ID=55052
 Only guild members will be able to enter the party.
 
 ID=55053
-Can not enter the dungeon; you have exceeded the entry limit.
+Cannot enter the dungeon; you have exceeded the entry limit.
 
 ID=55055
-The party members can not enter the dungeon, since they have not completed the entry quests.
+The party members cannot enter the dungeon, since they have not completed the entry quests.
 
 ID=55056
 Cannot enter because a party member possesses {0}.
@@ -16022,10 +16022,10 @@ ID=55101
 You have already befriended this person.
 
 ID=55102
-This player is in a dungeon. They can not accept friend requests.
+This player is in a dungeon. They cannot accept friend requests.
 
 ID=55103
-You can not add anymore friends.\nUp to 50 friends can be added.
+You cannot add anymore friends.\nUp to 50 friends can be added.
 
 ID=55104
 Somebody doesn’t exist here.
@@ -16046,25 +16046,25 @@ ID=55109
 Somebody doesn’t exist here.
 
 ID=55110
-You can not invite {0} because they reject party invitations.
+You cannot invite {0} because they reject party invitations.
 
 ID=55111
 The target has a pending friend request already. Try again later.
 
 ID=55112
-Friend Request Ads can not be updated.
+Friend Request Ads cannot be updated.
 
 ID=55113
-You can not add friends while in a dungeon.         
+You cannot add friends while in a dungeon.         
 
 ID=55114
 User’s friend list is full.
 
 ID=55115
-Friends can not be blocked.
+Friends cannot be blocked.
 
 ID=55116
-You can not whisper to someone you have blocked. {0}
+You cannot whisper to someone you have blocked. {0}
 
 ID=55201
 The name is already in use.
@@ -16079,10 +16079,10 @@ ID=55302
 Zenny is insufficient.\n(Please check the attached Zenny fees)
 
 ID=55303
-Item can not be traded.
+Item cannot be traded.
 
 ID=55304
-Bound items can not be attached.
+Bound items cannot be attached.
 
 ID=55305
 The maximum number of item attachments has been reached. 
@@ -16097,10 +16097,10 @@ ID=55308
 Insufficient inventory space.
 
 ID=55613
-Inventory is full. The attached item can not be received.
+Inventory is full. The attached item cannot be received.
 
 ID=55614
-Game Masters can not send mail.
+Game Masters cannot send mail.
 
 ID=55615
 Mailbox is full.
@@ -16109,7 +16109,7 @@ ID=55616
 Inventory list failed to sort.
 
 ID=55617
-Account mail can not be saved.
+Account mail cannot be saved.
 
 ID=55618
 Failed to update account mail list.
@@ -16118,13 +16118,13 @@ ID=55619
 Failed to delete account mail.
 
 ID=55620
-This item can not have items attached.
+This item cannot have items attached.
 
 ID=55700
 The person you are whispering is not in game. 
 
 ID=55701
-You can not whisper yourself.
+You cannot whisper yourself.
 
 ID=56001
 The skill does not exist.
@@ -16136,22 +16136,22 @@ ID=56003
 Insufficient proficiency level.
 
 ID=56004
-Can not use skill due to lack of HP.
+Cannot use skill due to lack of HP.
 
 ID=56005
-Can not use skill due to lack of SG.
+Cannot use skill due to lack of SG.
 
 ID=56006
-Insufficient stamina; skills can not be utilized.
+Insufficient stamina; skills cannot be utilized.
 
 ID=56007
-Insufficient soul vapour; can not use skills.
+Insufficient soul vapour; cannot use skills.
 
 ID=56008
 Not enough PARTY GIST.
 
 ID=56009
-Skill can not be used right now.
+Skill cannot be used right now.
 
 ID=56010
 The skill cannot be used as it is on cooldown.
@@ -16160,16 +16160,16 @@ ID=56011
 Action data does not exist.
 
 ID=56012
-You can not learn the skill.
+You cannot learn the skill.
 
 ID=56013
-You can not expand the skill deck slot.
+You cannot expand the skill deck slot.
 
 ID=56014
 Unable to level up the skill.
 
 ID=56501
-Can not be currently used.
+Cannot be currently used.
 
 ID=56502
 Insufficient Zenny.
@@ -16193,7 +16193,7 @@ ID=57004
 Failed to change guild information.
 
 ID=57005
-You can not join the guild.
+You cannot join the guild.
 
 ID=57006
 You do not have permission.
@@ -16241,7 +16241,7 @@ ID=57020
 Failed to remove guild members.
 
 ID=57021
-This user is not in the same town and can not be invited.
+This user is not in the same town and cannot be invited.
 
 ID=57022
 Try posting again in the Bulletin Board in {0} minutes.
@@ -16268,7 +16268,7 @@ ID=57029
 A notice can be made after {0} minutes.
 
 ID=57030
-This rank can not be conferred by any more people.
+This rank cannot be conferred by any more people.
 
 ID=57031
 The guild notice is over the character limit.
@@ -16280,13 +16280,13 @@ ID=57033
 Use 2 to 8 characters for a guild name.
 
 ID=57034
-You can not expel yourself from the guild. 
+You cannot expel yourself from the guild. 
 
 ID=57035
-Can not use this name, this word is not allowed.
+Cannot use this name, this word is not allowed.
 
 ID=57036
-The title/rank can not be modified.
+The title/rank cannot be modified.
 
 ID=57037
 {0} is unable to join the guild due to a guild withdrawl penalty.
@@ -16304,7 +16304,7 @@ ID=57041
 Mismatch NPC selection. No guild operations can be done.
 
 ID=57042
-Blocked users can not be invited to the guild.
+Blocked users cannot be invited to the guild.
 
 ID=57043
 You rejected the guild invitation.
@@ -16340,10 +16340,10 @@ ID=58000
 The NPC does not exist in the next area.
 
 ID=58001
-Insufficient Zenny. Can not move to the area.
+Insufficient Zenny. Cannot move to the area.
 
 ID=58002
-Can not move to the area.
+Cannot move to the area.
 
 ID=58003
 No Supporter buff was applied. Apply one first before you can claim it.
@@ -16352,7 +16352,7 @@ ID=58004
 Not equippable with the current Supporter.
 
 ID=58005
-Can not summon, on cooldown.
+Cannot summon, on cooldown.
 
 ID=58006
 You may not summon any Supporter in town.
@@ -16361,13 +16361,13 @@ ID=58007
 This dungeon does not permit Supporters.
 
 ID=58008
-You can not summon Supporters anymore. [{0} / {1}]
+You cannot summon Supporters anymore. [{0} / {1}]
 
 ID=58101
 Steel Grave is reset daily.\n It resets at 8PM Eastern, 5PM pacific, 2AM Europe time.
 
 ID=58102
-Steel Grave is a place for solo players only; party members can not enter.
+Steel Grave is a place for solo players only; party members cannot enter.
 
 ID=58103
 Invalid. \nData failure.
@@ -16397,7 +16397,7 @@ ID=58204
 Room entrance failure.
 
 ID=58205
-Can not enter room because it is in rearranging mode.
+Cannot enter room because it is in rearranging mode.
 
 ID=58206
 The room is full of occupants. You cannot enter.
@@ -16451,10 +16451,10 @@ ID=58308
 Cannot list the item because the entered price exceeds the price limit.
 
 ID=59000
-Your inventory is full, therefore you can not receive the login rewards.
+Your inventory is full, therefore you cannot receive the login rewards.
 
 ID=59001
-Your inventory is full, therefore you can not receive the login rewards.
+Your inventory is full, therefore you cannot receive the login rewards.
 
 ID=59200
 {0} turned off their public info.
@@ -16466,13 +16466,13 @@ ID=59202
 {0} refuses any friend request.
 
 ID=59300
-Can not join channel due to congestion. Please use another one.
+Cannot join channel due to congestion. Please use another one.
 
 ID=59301
-The operation can not be done due to insufficient space or an invalid area.
+The operation cannot be done due to insufficient space or an invalid area.
 
 ID=59302
-The operation can not be done due to insufficient space or an invalid area.
+The operation cannot be done due to insufficient space or an invalid area.
 
 ID=59304
 No available area.
@@ -16481,7 +16481,7 @@ ID=59305
 This action is only available while in town.
 
 ID=59306
-This item can not be used.
+This item cannot be used.
 
 ID=59307
 You have no dismantling permission for the selected item.
@@ -16490,13 +16490,13 @@ ID=59308
 Item data could not be found.
 
 ID=60001
-Do you wish to attach this brooch [{0}] to the slot?\n Note that it can not be removed thereafter.
+Do you wish to attach this brooch [{0}] to the slot?\n Note that it cannot be removed thereafter.
 
 ID=60002
 [{0}] has been attached to [{1}].
 
 ID=60003
-This item can not be worn in the selected slot.
+This item cannot be worn in the selected slot.
 
 ID=60004
 This brooch being attached does not match the selected slot.
@@ -16505,7 +16505,7 @@ ID=60005
 The brooch slot order is attack, defense and utility.
 
 ID=60006
-The brooch can not be inserted here.
+The brooch cannot be inserted here.
 
 ID=60007
 Do you want to change the attachment from [{0}] in [{1}]? \n The existing brooch will be destroyed.
