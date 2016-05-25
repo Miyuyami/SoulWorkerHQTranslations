@@ -2471,16 +2471,16 @@ Icon/Buff/Icon_Common_Buff_Immun
 -
 
 ID=30114
-防御力減少
+Defense-
 DEF reduced by 50% for 10s
 Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
 
 ID=30120
-周囲感電
-周囲の味方を感電させる。
+Nearby Shock
+Surrounding allies are electrocuted.
 Icon/Buff/Icon_Common_Debuff_Bleed
-周囲感電
+Nearby Shock
 
 ID=30121
 Shock Lv2
@@ -2489,46 +2489,46 @@ Icon/Buff/Icon_Common_Debuff_Shock
 Shock
 
 ID=30122
-感電治療
-感電効果が消失する。
+Shock Cure
+Electrocuted status fades.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=30130
-氷結
-3秒間、動けなくなる。
+Slow
+Slowed for 3 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-氷結
+Slow
 
 ID=30131
-氷結
-10秒間、動けなくなる。
+Slow
+Slowed for 10 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-氷結
+Slow
 
 ID=30132
-氷結抵抗
-Become unable to receive damage.
+Frost Shield
+Cannot receive damage.
 Icon/Buff/Icon_Common_Debuff_Bleed
-氷結抵抗
+Frost Shield
 
 ID=30133
-氷結治療
-氷結効果が解除される。
+Frost Cure
+Frost effect fades.
 Icon/Buff/Icon_Common_Debuff_Bleed
-氷結治療
+Frost Cure
 
 ID=30140
 Bleed
-10秒間、毎秒HPが1%減少する。
+-1% HP per second for 10 seconds.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=30141
-弱化
+Weakened
 攻撃速度と防御度が30%減少する。
 Icon/Buff/Icon_Common_Debuff_MSR
-弱化
+Weakened
 
 ID=30142
 Slowed
@@ -2640,7 +2640,7 @@ Stunned
 
 ID=35205
 Invincible
-Become unable to receive damage.
+Cannot receive damage.
 Icon/Buff/Icon_Common_Buff_Immun
 Invincible
 
@@ -2670,7 +2670,7 @@ HP↓
 
 ID=35305
 Invincible
-Become unable to receive damage.
+Cannot receive damage.
 Icon/Buff/Icon_Common_Buff_Immun
 Invincible
 
