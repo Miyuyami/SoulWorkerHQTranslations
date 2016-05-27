@@ -2593,6 +2593,24 @@ You cannot return the mail twice.
 ID=2277
 System messages cannot be sent back.
 
+ID=2278
+一括削除
+
+ID=2279
+一括受信
+
+ID=2280
+「受信メール」内の添付アイテムとジェニーを全て受け取りますか？\n(インベントリに空きがない場合は受け取れません)
+
+ID=2281
+「アカウントメール」内の添付アイテムとジェニーを全て受け取りますか？\n(インベントリに空きがない場合は受け取れません)
+
+ID=2282
+選択したメールを全て削除しますか？\n(未読メールまたは添付されたアイテム、ジェニーがあるメールは削除されません)
+
+ID=2283
+メールを{0}個削除しました。
+
 ID=2500
 Community
 
@@ -3133,6 +3151,9 @@ A deleted character cannot be recovered.\nAs a guild master, the guild will be d
 ID=5314
 A deleted character cannot be recovered.\nThe guild leader’s position will be revoked.\nAre you sure you want to delete this character?
 
+ID=5315
+キャラクターは、作成後24時間経過すると削除できます。\n残り：{0}時間{1}分
+
 ID=5320
 Maintenance in progress
 
@@ -3602,7 +3623,7 @@ ID=5904
 <font color='#FFFFFF' size='30'>TIP: </font>The Break Skill, <font color='#00D8FF'>「Erosion」</font>, cannot be used in <font color='#00D8FF'>District 6</font>.
 
 ID=5905
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[DRAW]</font> type <font color='#00D8FF'>A.R cards</font> cannot be used in <font color='#00D8FF'>District 6</font>.
+<font color='#FFFFFF'><font size="30">TIP：</font>第6区域では<font color='#00D8FF'>[DRAW]型</font>A.Rカードを使用できません。
 
 ID=6011
 Change Representative
@@ -3755,7 +3776,7 @@ ID=6060
 The Nebula grade or above is registered.\nWould you like to synthesize?
 
 ID=6061
-These materials cannot be used for crafting.
+製作材料として使用できません。
 
 ID=6062
 These materials cannot be used for crafting.
@@ -5638,6 +5659,12 @@ Familiar Socket available for Expansion
 ID=18186
 {0} brooches permitted (extensible up to {1})
 
+ID=18187
+ジェスチャー「{0}」使用可能
+
+ID=18188
+検索されたアイテムはありません。
+
 ID=19000
 <font color='#47C83E'>Attack +1%/Evaded Attack Damage +1%</font>
 
@@ -5788,6 +5815,9 @@ ID=19048
 ID=19049
 テキスト_タイプ2_靴テラブローチセット_オプション
 
+ID=19500
+アイドルオブドリーム
+
 ID=20010
 Greet
 
@@ -5859,6 +5889,15 @@ Used「Boast」
 
 ID=20082
 {0} boasts.
+
+ID=20090
+アイドル
+
+ID=20091
+何だかアイドルになった気分だ。
+
+ID=20092
+{0}が得意気にポーズを取ります。
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -6797,7 +6836,7 @@ ID=22573
 Return Key Settings to Default
 
 ID=22574
-Targetting
+Targeting
 
 ID=22575
 Enter Room
@@ -9116,7 +9155,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by Soulworkers HQ Translation Team.\nLast updated at 26/May/2016 10:20 AM JST.\nPlease check your guild’s information for updates.
+This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 27/May/2016 10:30 AM JST.\nPlease check your guild’s information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -9693,6 +9732,12 @@ Required GP
 
 ID=28263
 Do you want to change the Guild Mark?
+
+ID=28264
+リーグマークの模様/基礎を選択してください。
+
+ID=28265
+以前のリーグマークと同じです。
 
 ID=29000
 Room
@@ -10739,7 +10784,7 @@ ID=32096
 Block List
 
 ID=32097
-Crafting
+Craft
 
 ID=32098
 Release
@@ -12311,7 +12356,7 @@ ID=40516
 The elevator will stop soon.
 
 ID=40601
-Upon defeating all four enemies, the path’s portal to the mansion will be opened.
+4地域の敵を全て討伐すると、終末の館へと続くポータルが活性化します。
 
 ID=40602
 Unleashing the sealed crystal will start the battle.
@@ -13366,6 +13411,60 @@ Calculating Sisters Setsuka and Ryoko μ
 ID=42334
 Unrivaled Sisters Setsuka and Ryoko μ
 
+ID=42335
+Flame Tempest
+
+ID=42336
+Murderous Flame Tempest
+
+ID=42337
+背徳のフレイムテンペスト
+
+ID=42338
+フレイムテンペストμ
+
+ID=42339
+殺戮のフレイムテンペストμ
+
+ID=42340
+背徳のフレイムテンペストμ
+
+ID=42341
+Marauder
+
+ID=42342
+Assassin Marauder
+
+ID=42343
+隠身の暗殺者マローダー
+
+ID=42344
+マローダーμ
+
+ID=42345
+暗殺者マローダーμ
+
+ID=42346
+隠身の暗殺者マローダーμ
+
+ID=42347
+リタ
+
+ID=42348
+有閑独女リタ
+
+ID=42349
+屈指の有閑独女リタ
+
+ID=42350
+リタμ
+
+ID=42351
+有閑独女リタμ
+
+ID=42352
+屈指の有閑独女リタμ
+
 ID=43139
 Dignity Snatcher
 
@@ -13800,6 +13899,24 @@ ID=43309
 
 ID=43310
 [SH] Setsuka and Ryoko
+
+ID=43311
+[S]フレイムテンペスト
+
+ID=43312
+[SH]フレイムテンペスト
+
+ID=43313
+[S]マローダー
+
+ID=43314
+[SH]マローダー
+
+ID=43315
+[S]リタ
+
+ID=43316
+[SH]リタ
 
 ID=45000
 Item Mall
@@ -15300,6 +15417,21 @@ There are no free slots in the Extra Inventory
 
 ID=52050
 There are no free slots in the Room Inventory
+
+ID=52051
+一般インベントリに空きがないため、これ以上アイテムを受け取れません。
+
+ID=52052
+ファッションインベントリに空きがないため、これ以上アイテムを受け取れません。
+
+ID=52053
+エクストラインベントリに空きがないため、これ以上アイテムを受け取れません。
+
+ID=52054
+家具インベントリに空きがないため、これ以上アイテムを受け取れません。
+
+ID=52055
+すでにジェニーが最大所持数に達しているため、これ以上ジェニーを受け取れません。
 
 ID=52101
 The item’s slot could not be used.
