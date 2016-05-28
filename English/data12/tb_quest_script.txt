@@ -90,7 +90,7 @@ Something Dark and Sinister
 0
 
 ID=3009
-Traces of Corruption
+Immorality Traces
 0
 0
 0
@@ -2975,7 +2975,7 @@ Defeat 100 [Wild Beak] using skills in [Front Line]
 
 ID=1100042
 腕が増えたら強くなる？
-Defeat 1 [Jin Fist All] using skills in [Front Line: EP4 Very Hard]
+Defeat 1 [Zin Pistol] using skills in [Front Line: EP4 Very Hard]
 0
 0
 0
@@ -3031,7 +3031,7 @@ Defeat 1 [Falcon] using skills in [Wolf Cry: EP4 Normal]
 
 ID=1100050
 笛を吹く男？
-Defeat 50 [Jin Summoner] using normal attacks in [Cold Rain]
+Defeat 50 [Zin Summoner] using normal attacks in [Cold Rain]
 0
 0
 0
@@ -5951,23 +5951,23 @@ Defeat {0} enemies with Jump Attack before clearing the stage
 ID=100001
 空から落ちる
 長い眠りから覚めた私を待っていたのは\n不吉な空と廃墟のような都市だった。\nここは一体…気持ちを整理する間もなく\n突然幼い子どもが目の前に現れ\n自分について来いと言う。\n私は戸惑いながらもついて行くことにした。\nどこかで見た覚えがあると思いながら…。
-[謎の子ども]について行く
+Follow the [Mysterious Child]
 自動完了
 自動完了
 
 ID=100002
 立ち向かう力
 子どもについて行くと、黒い狼の群れに襲われた。\n突如として現れた武器…。\n何とか切り抜けると、遠くから人の声が聞こえた。\n言われるがままに彼らのトラックに乗り込む。\n追り来る巨大な狼が牙をむいた瞬間\n時が止まった。\n体から何かが抜けるような感覚…。\nそして、そのまま気を失った。
-[狼の群れ]討伐
+Defeat the pack of wolves
 自動完了
 自動完了
 
 ID=100005
 見知らぬ部屋
 気がつくと、そこは病室だった。\n目の前には、助けてくれた女性が立っていた。\nミリアムと名乗るその女性は\n歩きながらこの「世界」について教えてくれた。\n変わり果てた世界、異能力者\nそして、スタリーフォレスト連合…。\n頭が痛くなってくる…。
-[ミリアム]について行く
-ミリアムと会話
-[スチールグレイブ]でミリアムと会話
+Follow [Miriam]
+Talk to [Miriam]
+Talk to [Miriam] in [Steel Grave]
 
 ID=100007
 断固たる要求
@@ -5977,39 +5977,39 @@ Talk to [Benjamin]
 自動完了
 
 ID=100009
-フィジカルテスト
+Physical Test
 テストはあっさりクリアした。\n身体能力テストと予想外の戦闘能力テスト。\nまさかあんなに訓練用ロボットが脆いとは…。\n周りを見ても現実世界とは思えない。\nゲームのようなものだったのか？\nしかし、クロエの反応がおかしい…。 \n何か想定外のことでもあったのだろうか？
-[スチールグレイブ]で[フィジカルテスト]実施
+Take the physical test in [Steel Grave]
 自動完了
 自動完了
 
 ID=100011
-バトルセンステスト
+Battle Sense Test
 緊張も少しずつ解け始めた。\nオペレーター「クロエ」の指示に従い\nとにかく進む。
-[スチールグレイブ]で[バトルセンステスト]実施
+Take the battle sense test in [Steel Grave]
 自動完了
 自動完了
 
 ID=100013
 異能力者
 スキル以外では破壊できない特殊磁気フィールド…\nクロエはそう説明していたが…。\nいよいよ現実ではないような気がしてきた。
-[特殊磁気フィールド]破壊
+Destroy the special magnetic field
 自動完了
 自動完了
 
 ID=100015
-ファイナルテスト
+Final Test
 訓練用ロボットを全て破壊すると\n巨大ロボット「トレーニングマスター」が現れた。 \n大きさから、威力までケタ違いのようだ。\n現実に存在したら、人が潰れるだろう…。\nしかし、この巨大ロボットも簡単に壊してしまった。\nクロエは想定外の事態に驚いたようだ。 \nまさか…今までのは、すべて本当の力…？\nだとしたら…一体どこでこんな力を…？
-[スチールグレイブ]で[ファイナルテスト]実施
-ベンジャミンと会話
-[スチールグレイブ]でベンジャミンと会話
+Take the final test in [Steel Grave]
+Talk to [Benjamin]
+Talk to [Benjamin] in [Steel Grave]
 
 ID=100017
 未知の力
 テストを終えた。\n私の力が施設の許容値を超えていたため、\n内部の機械が全て壊れてしまったらしい。\n復旧までに時間もかかるので、\n近くのロコタウンという町に移動することになった。
 Talk to [Miriam]
-ミリアムと会話
-[スチールグレイブ]でミリアムと会話
+Talk to [Miriam]
+Talk to [Miriam] in [Steel Grave]
 
 ID=1000011
 謎の子どもについて行く
@@ -6068,8 +6068,8 @@ ID=1000052
 0
 
 ID=1000071
-ベンジャミンと会話
-ベンジャミンと会話
+Talk to [Benjamin]
+Talk to [Benjamin]
 0
 0
 0
@@ -6180,8 +6180,8 @@ ID=1000153
 0
 
 ID=1000171
-ミリアムと会話
-ミリアムと会話
+Talk to [Miriam]
+Talk to [Miriam]
 0
 0
 0
@@ -6189,30 +6189,30 @@ ID=1000171
 ID=100350
 Grace City
 ヘンリーの行方を追って到着したのは、\n恵みの都市と呼ばれるグレイスシティ。\n今まで見てきた都市とは全く違う、平和な都市だ。\nグレイスシティの臨時指揮官のトールは、\nスタリーフォレスト連合とネッドカンパニーは\n対外的に協力関係を結んでいるため、\n公式的にはヘンリー追跡に協力できないと言う。\nただ、非公式な形の協力は惜しまない。\n何としても悪行の証拠を探せと言う。\nひとまず、グレイスシティに駐屯中のメンバーと\n簡単な挨拶を交わしたが…その中に妙な男性がいた。
-[グレイスシティ]で[ハイプ]と会話
-[ケインバレル]と会話
-[グレイスシティ]で[ケインバレル]と会話
+Talk to [Hype] in [Grace City]
+Talk to [Kainbarrel]
+Talk to [Kainbarrel] in [Grace City]
 
 ID=100355
 熱烈なファン
 男性の名前はケインバレル…ソウルワーカーだ。\nかつては、ソウルワーカーは各中隊に1名以上\n配置できるほどに、その人数も多かったが、\nある事件で大部分が帰らぬ人となったそうだ。\n詳しくは説明してくれなかったが…。\n熱烈な私のファンを自称するジェレミーと、\n作戦支援部隊所属のエミリートに挨拶をして、\n再びトールの所に戻った。
-[グレイスシティ]で[ジェレミー]と会話
+Talk to [Jeremy] in [Grace City]
 Talk to [Thor]
 Talk to [Thor] in [Grace City]
 
 ID=100360
 トールの特別講義
 ヴェシ…青炎の道化師エドガーと同じく\n人間と同じ言葉、同じ外見を持つ異界の存在。\nここの任務でヴェシとの戦闘は避けられない。\n早いうちにヴェシと戦っておくべきだという\nトールの指示によって、高速道路に向かった。\n現在グレイスシティ付近にいるヴェシは、\n強大な力を求めるラピッドフレイムだった。
-[異界の者たち]で[ラピッドフレイム突撃部隊]討伐
+Defeat [Rapid Flame Assault Unit] in [Beings of the Underworld]
 Talk to [Thor]
 Talk to [Thor] in [Grace City]
 
 ID=100365
 童顔な博士
 ヘンリー追跡に焦る姿を見たトールに、\n頭を冷やして来るように言われた。\n\nスタリーフォレスト連合の兵器開発部署STラボの\n首席博士セデュリンと話すと、連合に莫大な資金を\n提供してくれる謎の大富豪ネーブを紹介される。
-[グレイスシティ]で[セデュリン]と会話
-[ネーブ]と会話
-[グレイスシティ]で[ネーブ]と会話
+Talk to [Sedurin] in [Grace City]
+Talk to [Nave]
+Talk to [Nave] in [Grace City]
 
 ID=100370
 グレイスシティの大富豪
@@ -6224,149 +6224,149 @@ ID=100370
 ID=100375
 気が乗らない救出
 セニアが突然、ヘンリーの行方が分かったと言う。\nカンダスシティを逃れたヘンリーは、\n高速道路の自動車の中に孤立した状態だ。\nなぜ、ヴェシが占拠する高速道路に彼の自動車が\nあるのかは謎だが…それは関係ない。\nヘンリーを捕らえられるなら、どこにでも行ってやる。\n…それがたとえ罠であっても。
-[追跡]で[ネッドカンパニー車輌]を保護
+Protect the [NED Company Vehicle] in [Pursuit]
 Talk to [Thor]
 Talk to [Thor] in [Grace City]
 
 ID=100380
 咆哮する豪傑
 自動車に人影はなく、落ちていた書類カバンには\nネッドカンパニーのUSBがあり、\nキャサリン…アマリリスの情報が入っていた。\nしかし、これだけでは決定的な証拠とは言えない。\nUSBにはロックされたデータも存在したが、\nハッカーが解除するのを待つしかない。\nその間、高速道路に出現したラピッドフレイムの\n突撃部隊長スカー討伐の命を受けた。\nスカーに勝利して戻ると、吉報が待っていた。\nネッドカンパニー専用のある装置にUSBを\n連結するとロックが解除されるとのことだ。\nそこで、ネッドカンパニーの秘書室長と親しい\nエミリートに協力を頼んだ。
-[真紅巨人]で咆哮する豪傑[スカー]討伐
-[エミリート]と会話
-[グレイスシティ]で[エミリート]と会話
+Defeat [Scar] in [Crimson Giant]
+Talk to [Emreit]
+Talk to [Emreit] in [Grace City]
 
 ID=100385
 親友
 ネッドカンパニーの秘書室長であり、\nエミリートの親友ラウファーは取引を提案した。\nもし、ヘンリーを見つけ出してくれたら、\nUSBのロックを解除するデバイスを提供すると言う。\nヘンリーはネッドカンパニーの事務室にいるはずだが\nそこはラピッドフレイム奇襲部隊に占領されている。\n彼らを倒して上の階に向かおうとするも、\n電力不足でエレベーターが作動しなかった。
-[グレイスシティ]で[ラウファー]と会話
-[ラウファー]と会話
-[グレイスシティ]で[ラウファー]と会話
+Talk to [Laufer] in [Grace City]
+Talk to [Laufer]
+Talk to [Laufer] in [Grace City]
 
 ID=100390
 メイン動力の復旧
 ネッドカンパニーの事務室には非常時のメイン動力を\n強制稼動させる方法があるらしい。\n四つのサブ動力を手動で作動させると\nメイン動力源が一時的に回復し、\nエレベーターが利用できるようになるとのことだ。\nまた、USBのロックを解除するためのデバイス、\nセキュリティボックスを稼動させる\nセキュリティキーも建物内にあるらしい。\nメイン動力の稼動とセキュリティキーの確保…\nこの任務を終えて、報告に戻った。
-[残酷な刃]で[電源装置]起動
-[ラウファー]と会話
-[グレイスシティ]で[ラウファー]と会話
+Activate the [Power Supply] in [Cruel Blade]
+Talk to [Laufer]
+Talk to [Laufer] in [Grace City]
 
 ID=100395
 強行突破
 後はネッドカンパニーの最上階でヘンリーを探し、\nセキュリティボックスでUSBのロックを解除するだけだ。\nその前に、エミリートは一度報告に戻ると言う。\nトールとセニアにラウファーの不審な行動について\n報告するエミリート。\n罠の可能性を指摘するエミリートに、\nセニアは罠など壊してしまえばいいと言った。\nまた、ラピッドフレイム奇襲部隊長「ポイズン」が\nネッドカンパニーにいることも報告した。\nセニアは絶好の機会と考え、USBのロックを解除し、\nその上でポイズンを討伐するよう命令した。\n昔、ケインバレルがポイズンと戦った事があるので、\nアドバイスを受けるように言われたが…。
 Talk to [Thor] in [Grace City]
-[ケインバレル]と会話
-[グレイスシティ]で[ケインバレル]と会話
+Talk to [Kainbarrel]
+Talk to [Kainbarrel] in [Grace City]
 
 ID=100400
 緑風の魔女
 ケインバレルは、互いに武器もスタイルも違うので\nアドバイスなど何の役にも立たないだろうと言った。\nネッドカンパニーの精鋭傭兵NBRFの支援を受けて\nセキュリティボックスとUSBの連結に成功した。\n更にラピッドフレイム奇襲部隊長ポイズンと戦うが、\n約束の時間になったという意味深長な言葉と共に\n彼女は戦線を離脱した。
-[緑風の魔女]で[セキュリティボックス]調査
-[ラウファー]と会話
-[グレイスシティ]で[ラウファー]と会話
+Examine the [Security Box] in [The Witch of Summer Breezes]
+Talk to [Laufer]
+Talk to [Laufer] in [Grace City]
 
 ID=100405
 彼らの事情
 USBを連結したものの、ロックの解除ではなく、\n中のデータが全てラウファーに移っただけだった。\n騙されたと思いつつも、データ解析結果を\n共有するというラウファーの言葉を信じる事にした。\n心配するエミリートをよそに、ジェレミーは\nラウファーはエミリートを裏切らないと言い切る。\nジェレミーの勧めで、二人の関係について\nソラに聞くことになった。
-[グレイスシティ]で[エミリート]と会話
-[ソラ]と会話
-[グレイスシティ]で[ソラ]と会話
+Talk to [Emreit] in [Grace City]
+Talk to [Sora]
+Talk to [Sora] in [Grace City]
 
 ID=100410
 予想外の支援
 ソラからエミリートとラウファーの話を聞いた。\n幼い時から苦楽を共にしてきた彼らは、\n価値観の違いからそれぞれの道を歩む…。\n話を終えたソラは、ジェレミーと同じく\nラウファーがエミリートを裏切る事はないと言った。\n再びラウファー訪ねて話を聞くと、\nヘンリーのアマリリス計画への関与が明らかになり、\nネッドカンパニーも彼を捕らえることにしたと言う。\nまた、これまでのヘンリー追跡の費用と労力に対し、\nラピッドフレイム強襲部隊殲滅作戦ウルフクライへの\n支援で報いることを付け加えた。\nこの言葉をセニアに伝えると、彼女は鼻で笑った。
-[グレイスシティ]で[ラウファー]と会話
+Talk to [Laufer] in [Grace City]
 [セニア]と会話
 [グレイスシティ]で[セニア]と会話
 
 ID=100415
 ヘビーギアズ
 不利になると尻尾を振るネッドカンパニーの姿勢に\n不快感を露わにしながらも、莫大な予算のために\n実行不能だったウルフクライへの支援を喜ぶセニア。\nウルフクライの再開に大きく貢献したという理由で、\n作戦の主力として投入された。\n作戦の鍵を握るのは音波ミサイルF-Ariaと\nヒルブレイカーと呼ばれる特殊戦車。\nこれらを扱う兵器運用部隊ヘビーギアズの\nメンバーと挨拶を交わした。
-[グレイスシティ]で[ラン]と会話
-[セデュリン]と会話
-[グレイスシティ]で[セデュリン]と会話
+Talk to [Ran] in [Grace City]
+Talk to [Sedurin]
+Talk to [Sedurin] in [Grace City]
 
 ID=100420
 壁を越えて
 ウルフクライ作戦が始まったものの、\n特殊戦車ヒルブレイカーの移動路が塞がったらしい。\n移動路を塞いでいる道路の残骸を爆破させ、\n道を切り開いた。
-[暗雲]で[C4]を爆発させて壁を破壊
-[セデュリン]と会話
-[グレイスシティ]で[セデュリン]と会話
+Destroy the wall by detonating the [C4] in [Dark Clouds]
+Talk to [Sedurin]
+Talk to [Sedurin] in [Grace City]
 
 ID=100425
 音波兵器
 ケインバレルも作戦に投入されることが決まり、\n初めて他のソウルワーカーと共に任務に就いた。\nヒルブレイカーが射撃位置を確保した瞬間、\n対カルラ用音波ミサイルF-Ariaが空を揺るがす。
-[グレイスシティ]で[ケインバレル]と会話
-[ケインバレル]と会話
-[吠える狼]で[ケインバレル]と会話
+Talk to [Kainbarrel] in [Grace City]
+Talk to [Kainbarrel]
+Talk to [Kainbarrel] in [Howling Wolf]
 
 ID=100430
 怪鳥
 作戦は大成功を収めた。カルラの8割以上を撃墜し、\n強襲部隊長ファルコンの愛鳥クイーンカルラまで\n地上に引きずり下ろす快挙を収める。\nケインバレルが去った後、\nクイーンカルラと戦い、退却させた。
-[吠える狼]で怪鳥[クイーンカルラ]討伐
+Defeat Bird Monster [Queen Carla] in [Howling Wolf]
 [セニア]と会話
 [グレイスシティ]で[セニア]と会話
 
 ID=100435
 爆風の騎手
 ラピッドフレイム強襲部隊長ファルコンが\nクイーンカルラを大事に飼っているのは有名な話だ。\n激昂した彼が姿を見せる事を確信するセニア。\n予想通りファルコンが第2高速道路に現れたという。\n後は力でねじ伏せるだけだ。\n本当の敵が分からない愚かさが自らの首を絞める…\nファルコンの最後の言葉がやけに耳に残った。
-[グレイスシティ]で[セデュリン]と会話
+Talk to [Sedurin] in [Grace City]
 Talk to [Thor]
 Talk to [Thor] in [Grace City]
 
 ID=100440
 微笑んでいて
 対立勢力を全て追い払い、つかの間の休息を取る。\n突撃部隊長、奇襲部隊長、強襲部隊長を倒した話は\nすでにグレイスシティ中に知れ渡っていた。\nジェレミーの賞賛、エミリートの感謝、\nロイの皮肉を聞きながらたっぷりと休息を満喫した。
-[グレイスシティ]で[ジェレミー]と会話
+Talk to [Jeremy] in [Grace City]
 Talk to [Thor]
 Talk to [Thor] in [Grace City]
 
 ID=100445
 虚しい距離
 グレイスシティ付近の町デーブタウンで、\n300名近い住民が一瞬で失踪する事件が起きた。\nケインバレルを筆頭に大々的に捜索をしているが、\n今のところ何の収穫もないと言う。\n何か証拠を捜すようセニアに言われ、\nデーブタウンに向かった。\n出迎えたのは、地面に散乱する服と、\n雨の中で目を光らせるラピッドフレイムだけだった。
-[冷たい雨]で[住民の服]入手
+Obtain [Resident's Remains] in [Cold Rain]
 [セニア]と会話
 [グレイスシティ]で[セニア]と会話
 
 ID=100450
 ゾッとする感覚
 デーブタウンから持ってきた服は、\nなんの変哲もない普通の服だった。\nソラが調べてみると、内側に皮膚が付着していた。\nただ事ではないと感じたソラは、\nセデュリンに精密分析を要請した。
-[グレイスシティ]で[ソラ]と会話
-[セデュリン]と会話
-[グレイスシティ]で[セデュリン]と会話
+Talk to [Sora] in [Grace City]
+Talk to [Sedurin]
+Talk to [Sedurin] in [Grace City]
 
 ID=100455
 魂の痕跡
 服の内側に付着している物は人の皮膚だった。\nセデュリンは、体内に注入された\n過剰なソウルエナジーが爆発して\n身体が蒸発した現象と推測した。\nこの事件によって、ソウルエナジー変動量を測定する\nスピリットパスファインダーを各所に設置し、\nその変動量をチェックすることにした。\nその時、人間を蒸発させてソウルエナジーを吸収する\nラピッドフレイムの機械に遭遇した。\nコードネーム「テンペスト」だ。
-[背徳の痕跡]で[スピリットパスファインダー]設置
-[セデュリン]と会話
-[グレイスシティ]で[セデュリン]と会話
+Install the [Spirit Pathfinder] in [Immorality Traces]
+Talk to [Sedurin]
+Talk to [Sedurin] in [Grace City]
 
 ID=100460
 魂をむさぼる者
 テンペストの部品を調査したセデュリンは、\nその部品をネッドカンパニーの技術カンファレンスで\n見た事があると話した。\nネッドカンパニーとラピッドフレイムの同盟を\n疑いつつ、ラウファーを追及するセニア。\nラウファーは裏切り者扱いに不快感を露わにしたが、\nセニアが差し出した部品を見ると顔がこわばった。\nその部品ドレインクローには、ネッドカンパニーの\n技術が使われていて、その責任者はヘンリーだった。\nこれで彼の裏切りが確かなものになった。
-[グレイスシティ]で[ラウファー]と会話
+Talk to [Laufer] in [Grace City]
 Talk to [Thor]
 Talk to [Thor] in [Grace City]
 
 ID=100465
 許されない
 デーブタウンの全住民のソウルエナジーが\n集められたと推定される場所に進入した。\n\n待ち受けていたのは緑風の魔女ポイズン。\nなぜか時間を稼ぐように振る舞うポイズンは、\n戦闘中に突然姿を消した。\n\nそして、以前高速道路で戦った\n突撃部隊長スカーが立ちはだかった。
-[グレイスシティ]で[セデュリン]と会話
+Talk to [Sedurin] in [Grace City]
 自動完了
 自動完了
 
 ID=100470
 跳躍
 ソウルエナジーと完全に融合したスカーは、\n以前とは次元が違う強さだった。\nテンペストが集めたエナジーは彼の力になったのだ。\nだが自尊心を捨てたスカーは自らの力を疑い始め、\nそれが原因となり敗北した。\n欲望を失ってしまった哀れなヴェシ…。\nスカーは灰となって消えた。
-[新たな跳躍]で咆哮する赤い豪傑[ブラッディスカー]討伐
-[ケインバレル]と会話
-[グレイスシティ]で[ケインバレル]と会話
+Defeat Howling Red Hero [Bloody Scar] in [A New Leap]
+Talk to [Kainbarrel]
+Talk to [Kainbarrel] in [Grace City]
 
 ID=100475
 戦士に敬意を
 自分を見失うな…\nケインバレルの警告が、スカーの姿と重なった。
-[グレイスシティ]で[ジェレミー]と会話
-[ラウファー]と会話
-[グレイスシティ]で[ラウファー]と会話
+Talk to [Jeremy] in [Grace City]
+Talk to [Laufer]
+Talk to [Laufer] in [Grace City]
 
 ID=100480
 本拠地
@@ -6379,8 +6379,8 @@ ID=100485
 総力戦
 ロコタウンはエドガーの残党との戦いで余力がなく、\nカンダスシティはソウルジャンク掃討作戦進行中で、\nアーロンとビクターには声をかけられないほどの\n殺伐とした空気が漂っていた。\n支援を要請できない状況を確認して、\nグレイスシティに再び戻った。\nトールは各地の状況に理解を示し、\nグレイスシティの全兵力をかき集めて\nラピッドフレイムの本拠地を叩く事にした。
 Talk to [Aaron] in [Candus City]
-[エミリート]と会話
-[グレイスシティ]で[エミリート]と会話
+Talk to [Emreit]
+Talk to [Emreit] in [Grace City]
 
 ID=100490
 夜襲
@@ -6392,16 +6392,16 @@ ID=100490
 ID=100495
 黒い竜
 ラピッドフレイムの本拠地と思われた場所で\n感知されたヴェシの熱源は、\nネッドカンパニーがスタリーフォレスト連合の衛星を\nハッキングして情報操作したものだった。\n絶望的な状況で、合流予定地に残された人々がいた。\n彼らを助けなければ…。
-[罠]で[兵士たち]と会話
-[ロイ]と会話
-[罠]で[ロイ]と会話
+Talk to the [Soldiers] in [Trap]
+Talk to [Roy]
+Talk to [Roy] in [Trap]
 
 ID=100500
 暴食する影
 エミリートとジェレミーは生きている…。\nそう聞いて合流予定地に急行したが、待っていたのは\n冷たくなった兵士たちと倒れているエミリート、\nその横で絶望に沈んでいるジェレミーだった。\nラピッドフレイムの暗殺部隊長ファントム。\n多くの命を奪った彼は言った、\nこの戦争は最初から間違っていた…と。
-[暴食する影]で[ラピッドフレイム暗殺部隊]討伐
-[ジェレミー]の状態を確認
-[暴食する影]で[ジェレミー]の状態を確認
+Defeat [Rapid Flame Assassination Unit] in [Shadow of Gluttony]
+Check [Jeremy]'s condition
+Check [Jeremy]'s condition in [Shadow of Gluttony]
 
 ID=100505
 引き裂かれた理想
@@ -6413,49 +6413,49 @@ Talk to [Thor] in [Grace City]
 ID=100510
 現れた兵器
 ハッキングされた衛星の痕跡を逆探知した結果、\n戦術名エリア9がリストアップされた。\n\n捜索中に遭遇したのはネッドカンパニーの傭兵たち。\nそして道路の端、固く閉ざされている巨大な鉄門には\nネッドカンパニーのロゴが鮮明に写っていた。
-[現れた兵器]で[ネッドカンパニー傭兵]討伐
+Defeat [NED Company Mercenary] in [Discovered Weapons]
 [セニア]と会話
 [グレイスシティ]で[セニア]と会話
 
 ID=100515
 無力化
 ネッドカンパニーの秘密基地の内部を\nスキャンするために様々な方法を試したが、\nジャミングの発生によりスキャンが全く出来ない。\nそこで、妨害電波を発生させる機械を無力化する\nEMP爆弾を内部に設置することにした。\n作戦は成功し、内部施設をスキャンできた。\nリベンジの時は近い…。
-[グレイスシティ]で[セデュリン]と会話
+Talk to [Sedurin] in [Grace City]
 Talk to [Thor]
 Talk to [Thor] in [Grace City]
 
 ID=100520
 戒めの時間
 基地内部をスキャンした結果、\n幾つかの生命反応をキャッチした。\nその内二つはヘンリーとラウファー。\n残りの生命反応はすでに秘密基地を脱出している。\n…悠長に待つつもりはない。\n今すぐ、彼らの命をもって償わせなければ…！
-[百の剣]で秘密基地内部捜索
-[ラウファー]と一旦話し合おう
-[百の剣]で[ラウファー]と会話
+Investigate the interior of the secret base in [Hundred Swords]
+Have a brief talk with [Laufer]
+Talk to [Laufer] in [Hundred Swords]
 
 ID=100525
 親友のために
 ラウファーはエミリートの死に\n大きなショックと罪悪感を抱いていた。\nそんな彼を後に、ヘンリーを探して内部を駆け回る。\nそして、ついに見つけた。\n彼は人工的に作られたソウルワーカー、\nニアソウルワーカーのラバンを送り出す。
-[百の剣]で\n[ネッドカンパニー傭兵]討伐
+Defeat [NED Company Mercenary] in [Hundred Swords]
 自動完了
 自動完了
 
 ID=100530
 百の剣
 窮地に追い込まれる程に力を解放するラバン。\nその間にヘンリーは脱出してしまう。
-[百の剣]で[ラバン]と戦闘
+Fight [Laban] in [Hundred Swords]
 Talk to [Thor]
 Talk to [Thor] in [Grace City]
 
 ID=100535
 後始末
 ラバンの身柄を確保した。\n秘密基地から脱出した生命反応は\n全てニアソウルワーカーのものと判明したため、\n彼らの追跡を言い渡された。\nヘンリー追跡は連合の精鋭部隊に任せ、\n私はニアソウルワーカー追跡に全力を尽くす…。\nスタリーフォレスト連合とネッドカンパニーは、\n完全に敵になった。
-[グレイスシティ]で[セデュリン]と会話
-[ネーブ]と会話
-[グレイスシティ]で[ネーブ]と会話
+Talk to [Sedurin] in [Grace City]
+Talk to [Nave]
+Talk to [Nave] in [Grace City]
 
 ID=100540
 Steel Fortress
 ニアソウルワーカーが向かった場所…。\n鋼鉄の要塞ルインフォートレスに\nケインバレルと共に向かう。
-[グレイスシティ]で[ケインバレル]と会話
+Talk to [Kainbarrel] in [Grace City]
 Move to [Ruin Fortress]
 The next destination is [Ruin Fortress]
 
@@ -6464,315 +6464,315 @@ Everywhere is the same
 0
 Defeat [Wild Beak] in [Front Line]
 Talk to [Hype]
-[グレイスシティ]で[ハイプ]と会話
+Talk to [Hype] in [Grace City]
 
 ID=600650
 Small Assailants
 0
 Defeat [Red Hood] in [Front Line]
 Talk to [Hype]
-[グレイスシティ]で[ハイプ]と会話
+Talk to [Hype] in [Grace City]
 
 ID=600655
 ダイエットのお手伝い
 0
-[フロントライン]で[ドラム缶]破壊
-[ラン]と会話
-[グレイスシティ]で[ラン]と会話
+Destroy [Drum] in [Front Line]
+Talk to [Ran]
+Talk to [Ran] in [Grace City]
 
 ID=600660
 奇妙な腕Ⅰ
 0
-[異界の者たち]で[ブラックガントレット]から[ブラックガントレットの機械腕]入手
+Obtain [Black Gauntlet’s Mechanical Arm] from [Black Gauntlet] in [Beings of the Underworld]
 Talk to [Zaito]
-[グレイスシティ]で[ジャイト]と会話
+Talk to [Zaito] in [Grace City]
 
 ID=600665
 奇妙な腕Ⅱ
 0
-[ベリーハード][フロントライン]で[ジンフィストール]から[ジンフィストールの機械腕]入手
+Obtain [Zin Pistol's Mechanical Arm] from [Zin Pistol] in [Front Line][Very Hard]
 Talk to [Zaito]
-[グレイスシティ]で[ジャイト]と会話
+Talk to [Zaito] in [Grace City]
 
 ID=600670
 戦車の仇討ちⅠ
 0
-[力と力]で[アーマースチール]討伐
-[マクシム]と会話
-[グレイスシティ]で[マクシム]と会話
+Defeat [Armor Steel] in [Power Leads to Power]
+Talk to [Maxim]
+Talk to [Maxim] in [Grace City]
 
 ID=600675
 戦車の仇討ちⅡ
 0
-[力と力]で[アーマースチール]から[堅い鎧片]入手
-[マクシム]と会話
-[グレイスシティ]で[マクシム]と会話
+Obtain [Hard Armor Fragment] from [Armor Steel] in [Power Leads to Power]
+Talk to [Maxim]
+Talk to [Maxim] in [Grace City]
 
 ID=600680
 誰か、燃料を…！！
 0
-[力と力]で[注油器]から[ガソリンタンク]入手
-[ラン]と会話
-[グレイスシティ]で[ラン]と会話
+Obtain [Petrol Tank] from [Lubricator] in [Power Leads to Power]
+Talk to [Ran]
+Talk to [Ran] in [Grace City]
 
 ID=600685
 ワイルドワイルド
 0
-[追跡]で[ヘルインフォーサー]から[巨大ハンマー]入手
-[ラン]と会話
-[グレイスシティ]で[ラン]と会話
+Obtain [Enormous Hammer] from [Hell Infuser] in [Pursuit]
+Talk to [Ran]
+Talk to [Ran] in [Grace City]
 
 ID=600690
 グッドボーイの主人Ⅰ
 0
-[トール]、[テッド]と会話
-[グッドボーイ]と会話
-[グレイスシティ]で[グッドボーイ]と会話
+Talk to [Ted] and [Thor]
+Talk to [Good Boy]
+Talk to [Good Boy] in [Grace City]
 
 ID=600695
 グッドボーイの主人Ⅱ
 0
-[フロントライン]で[スチール]から[捨てられた球]入手
-[グッドボーイ]と会話
-[グレイスシティ]で[グッドボーイ]と会話
+Obtain [Abandoned Ball] from [Steel] in [Front Line]
+Talk to [Good Boy]
+Talk to [Good Boy] in [Grace City]
 
 ID=600700
 マクシムの頼み
 0
-[真紅巨人]で[スカー]から[赤い眼光のゴーグル]入手
-[マクシム]と会話
-[グレイスシティ]で[マクシム]と会話
+Obtain [Red Eyed Goggles] from [Scar] in [Crimson Giant]
+Talk to [Maxim]
+Talk to [Maxim] in [Grace City]
 
 ID=600705
 ここで遊んじゃダメⅠ
 0
-[ネッドカンパニー]で[アンイーブンフード]討伐
-[カーチャ]と会話
-[グレイスシティ]で[カーチャ]と会話
+Defeat [Uneven Hood] in [NED Company]
+Talk to [Katja]
+Talk to [Katja] in [Grace City]
 
 ID=600710
 子どもたちのためにⅠ
 0
-[ジュリー]と会話
-[アレン]と会話
-[グレイスシティ]で[アレン]と会話
+Talk to [Julie]
+Talk to [Allen]
+Talk to [Allen] in [Grace City]
 
 ID=600715
 子どもたちのためにⅡ
 0
-[ネッドカンパニー]で[パイソン]から[ポイズンのフィギュア]入手
-[アレン]と会話
-[グレイスシティ]で[アレン]と会話
+Obtain [Poison's Figurine] from [Python] in [NED Company]
+Talk to [Allen]
+Talk to [Allen] in [Grace City]
 
 ID=600720
 子どもたちのためにⅢ
 0
-[テッド]と会話
-[アレン]と会話
-[グレイスシティ]で[アレン]と会話
+Talk to [Ted]
+Talk to [Allen]
+Talk to [Allen] in [Grace City]
 
 ID=600725
 建物内で暴れないで！
 0
-[救出]で[ヘビースチール]討伐
-[ラン]と会話
-[グレイスシティ]で[ラン]と会話
+Defeat [Heavy Steel] in [Rescue]
+Talk to [Ran]
+Talk to [Ran] in [Grace City]
 
 ID=600730
 大人への扉Ⅰ
 0
 [セニア]と会話
-[ジュリー]と会話
-[グレイスシティ]で[ジュリー]と会話
+Talk to [Julie]
+Talk to [Julie] in [Grace City]
 
 ID=600735
 大人への扉Ⅱ
 0
-[破れた空気]で[ジンチェイサー]から[魔法のパッド]入手
-[ジュリー]と会話
-[グレイスシティ]で[ジュリー]と会話
+Obtain [Magic Pad] from [Zin Chaser] in [Worn Out Atmosphere]
+Talk to [Julie]
+Talk to [Julie] in [Grace City]
 
 ID=600740
 テッドと魔女の塔Ⅰ
 0
-[グッドボーイ]と会話
-[グッドボーイ]と会話
-[グレイスシティ]で[グッドボーイ]と会話
+Talk to [Good Boy]
+Talk to [Good Boy]
+Talk to [Good Boy] in [Grace City]
 
 ID=600745
 猛毒を手に入れろ！
 0
-[ネッドカンパニー]で[スネーク]から[スネークの猛毒]入手
-[ソラ]と会話
-[グレイスシティ]で[ソラ]と会話
+Obtain [Snake’s Deadly Venom] from [Snake] in [NED Company]
+Talk to [Sora]
+Talk to [Sora] in [Grace City]
 
 ID=600750
 ここで遊んじゃダメⅡ
 0
-[ネッドカンパニー]で[ジンスチール]討伐
-[カーチャ]と会話
-[グレイスシティ]で[カーチャ]と会話
+Defeat [Zin Steel] in [NED Company]
+Talk to [Katja]
+Talk to [Katja] in [Grace City]
 
 ID=600755
 大人への扉Ⅲ
 0
-[残酷な刃]で[ベニン]から[魅惑剤]入手
-[ジュリー]と会話
-[グレイスシティ]で[ジュリー]と会話
+Obtain [Seduction Drug] from [Venin] in [Cruel Blade]
+Talk to [Julie]
+Talk to [Julie] in [Grace City]
 
 ID=600760
 テッドと魔女の塔Ⅱ
 0
-[ベリーハード]\n[ネッドカンパニー]で[デスストーカー]討伐
-[グッドボーイ]と会話
-[グレイスシティ]で[グッドボーイ]と会話
+Defeat [Death Stalker] in [NED Company][Very Hard]
+Talk to [Good Boy]
+Talk to [Good Boy] in [Grace City]
 
 ID=600765
 私に勇気を！
 0
-[緑風の魔女]で[ポイズン]から[自信爆発剤]入手
-[アレン]と会話
-[グレイスシティ]で[アレン]と会話
+Obtain [Self-Confidence Drug] from [Poison] in [The Witch of Summer Breezes]
+Talk to [Allen]
+Talk to [Allen] in [Grace City]
 
 ID=600770
 たてがみ集め
 0
-[ウルフクライ]で[ビーストファング]から[野獣のたてがみ]入手
+Obtain [Beast’s Mane] from [Beast Fang] in [Wolf Cry]
 Talk to [Zaito]
-[グレイスシティ]で[ジャイト]と会話
+Talk to [Zaito] in [Grace City]
 
 ID=600775
 無敵の兵器運用部隊Ⅰ
 0
-[暗雲]で[カーマインビースト]討伐
-[マクシム]と会話
-[グレイスシティ]で[マクシム]と会話
+Defeat [Carmine Beast] in [Dark Clouds]
+Talk to [Maxim]
+Talk to [Maxim] in [Grace City]
 
 ID=600780
 無敵の兵器運用部隊Ⅱ
 0
-[ウルフクライ]で[クリムゾンビースト]討伐
-[ラン]と会話
-[グレイスシティ]で[ラン]と会話
+Defeat [Crimson Beast] in [Wolf Cry]
+Talk to [Ran]
+Talk to [Ran] in [Grace City]
 
 ID=600785
 空飛ぶ怪鳥Ⅰ
 0
-[ウルフクライ]で[インテンションカルラ]から[インテンションカルラのくちばし]入手
+Obtain [Intention Carla’s Beak] from [Intention Carla] in [Wolf Cry]
 Talk to [Yomi]
 [グレイスシティ]で[ヨミ]と会話
 
 ID=600790
 空飛ぶ怪鳥Ⅱ
 0
-[ベリーハード][ウルフクライ]で[アーマードカルラ]から[アーマードカルラのくちばし]入手
+Obtain [Armored Carla’s Beak] from [Armored Carla in [Wolf Cry][Very Hard]
 Talk to [Yomi]
 [グレイスシティ]で[ヨミ]と会話
 
 ID=600795
 たくましき老兵Ⅰ
 0
-[紅蓮の風]で[レッドメイン]討伐
+Defeat [Red Mane] in [Crimson Winds]
 Talk to [Hype]
-[グレイスシティ]で[ハイプ]と会話
+Talk to [Hype] in [Grace City]
 
 ID=600800
 傷つけない
 0
-[ウルフクライ]で[クローラー]討伐
-[ソラ]と会話
-[グレイスシティ]で[ソラ]と会話
+Defeat [Crawler] in [Wolf Cry]
+Talk to [Sora]
+Talk to [Sora] in [Grace City]
 
 ID=600805
 たくましき老兵Ⅱ
 0
-[紅蓮の風]で[レッドメイン]から[伝説のククリ]入手
-[マクシム]と会話
-[グレイスシティ]で[マクシム]と会話
+Obtain [Kukri’s Legend] from [Red Mane] in [Crimson Winds]
+Talk to [Maxim]
+Talk to [Maxim] in [Grace City]
 
 ID=600810
 空襲警報
 0
-[吠える狼]で[クイーンカルラ]討伐
+Defeat [Queen Carla] in [Howling Wolf]
 Talk to [Hype]
-[グレイスシティ]で[ハイプ]と会話
+Talk to [Hype] in [Grace City]
 
 ID=600815
 グッドボーイの主人Ⅲ
 0
-[ウルフクライ]で[サマナー]から[誰かのIDタグ]入手
-[グッドボーイ]と会話
-[グレイスシティ]で[グッドボーイ]と会話
+Obtain [Somebody’s ID Tag] from [Summoner] in [Wolf Cry]
+Talk to [Good Boy]
+Talk to [Good Boy] in [Grace City]
 
 ID=600820
 グッドボーイの主人Ⅳ
 0
 Talk to [Thor]
-[グッドボーイ]と会話
-[グレイスシティ]で[グッドボーイ]と会話
+Talk to [Good Boy]
+Talk to [Good Boy] in [Grace City]
 
 ID=600825
 たくましき老兵Ⅲ
 0
-[爆風の騎手]で[ファルコン]から[クイーンカルラの残骸]入手
-[マクシム]と会話
-[グレイスシティ]で[マクシム]と会話
+Obtain [Queen Carla's Remains] from [Falcon] in [Blasting Horsemen]
+Talk to [Maxim]
+Talk to [Maxim] in [Grace City]
 
 ID=600830
 男の純情Ⅰ
 0
-[コールドレイン]で[ジンサマナー]討伐
-[アレン]と会話
-[グレイスシティ]で[アレン]と会話
+Defeat [Zin Summoner] in [Cold Rain]
+Talk to [Allen]
+Talk to [Allen] in [Grace City]
 
 ID=600835
 幼子の肖像Ⅰ
 0
-[コールドレイン]で[ワイルドビーストファング]から[電気ケーブル]入手
-[テッド]と会話
-[グレイスシティ]で[テッド]と会話
+Obtain [Electric Cable] from [Wild Beast Fang] in [Cold Rain]
+Talk to [Ted]
+Talk to [Ted] in [Grace City]
 
 ID=600840
 幼子の肖像Ⅱ
 0
-[冷たい雨]で[シングルレッグ]討伐
-[ジュリー]と会話
-[グレイスシティ]で[ジュリー]と会話
+Defeat [Single Leg] in [Cold Rain]
+Talk to [Julie]
+Talk to [Julie] in [Grace City]
 
 ID=600845
 どの家の事だろう？
 0
-[暗い町]で[カーチャの祖母の家]捜索
-[カーチャ]と会話
-[グレイスシティ]で[カーチャ]と会話
+Investigate the [Katja's Grandmother's House] in [Dark City]
+Talk to [Katja]
+Talk to [Katja] in [Grace City]
 
 ID=600850
 デーブタウンでの思い出
 0
-[暗い町]で[スカーレットマスク]から[燃えてしまった写真]入手
-[カーチャ]と会話
-[グレイスシティ]で[カーチャ]と会話
+Obtain [Burning Photographs] from [Scarlet Mask] in [Dark City]
+Talk to [Katja]
+Talk to [Katja] in [Grace City]
 
 ID=600855
 男の純情Ⅱ
 0
-[コールドレイン]で[ジンパイソン]討伐
-[アレン]と会話
-[グレイスシティ]で[アレン]と会話
+Defeat [Zin Python] in [Cold Rain]
+Talk to [Allen]
+Talk to [Allen] in [Grace City]
 
 ID=600860
 幼子の肖像Ⅲ
 0
-[背徳の痕跡]で[フレイムテンペスト]討伐
-[テッド]と会話
-[グレイスシティ]で[テッド]と会話
+Defeat [Flame Tempest] in [Immorality Traces]
+Talk to [Ted]
+Talk to [Ted] in [Grace City]
 
 ID=600865
 彼らのために祈りを…
 0
-[背徳の痕跡]で[フレイムテンペスト]から[住民の遺品]入手
-[カーチャ]と会話
-[グレイスシティ]で[カーチャ]と会話
+Obtain [Resident's Remains] from [Flame Tempest] in [Immorality Traces]
+Talk to [Katja]
+Talk to [Katja] in [Grace City]
 
 ID=600870
 顔なき者
@@ -6785,8 +6785,8 @@ ID=600875
 忘れないで
 0
 [新たな跳躍]で[ブラッディスカー]から[スカーの巨大斧]入手
-[カーチャ]と会話
-[グレイスシティ]で[カーチャ]と会話
+Talk to [Katja]
+Talk to [Katja] in [Grace City]
 
 ID=600880
 リタに
@@ -6798,58 +6798,58 @@ Talk to [Rita] in [Candus City]
 ID=600885
 ネーブに
 0
-[ネーブ]と会話
-[ネーブ]と会話
-[グレイスシティ]で[ネーブ]と会話
+Talk to [Nave]
+Talk to [Nave]
+Talk to [Nave] in [Grace City]
 
 ID=600890
 デカくて変なヤツ
 0
 [夜中の奇襲]で[プレス]討伐
-[マクシム]と会話
-[グレイスシティ]で[マクシム]と会話
+Talk to [Maxim]
+Talk to [Maxim] in [Grace City]
 
 ID=600895
 恐ろしい計画
 0
 [フレイムブレイカー]で[ビッグブッチャー]から[太い鉄鎖]入手
-[ラン]と会話
-[グレイスシティ]で[ラン]と会話
+Talk to [Ran]
+Talk to [Ran] in [Grace City]
 
 ID=600900
 障害の除去
 0
 [フレイムブレイカー]で[パイソン]討伐
 Talk to [Hype]
-[グレイスシティ]で[ハイプ]と会話
+Talk to [Hype] in [Grace City]
 
 ID=600905
 その場所にいた
 0
 [燃える町]で[死亡したスタリーフォレスト連合支援兵]から[死亡した隊員のIDタグ]入手
-[ソラ]と会話
-[グレイスシティ]で[ソラ]と会話
+Talk to [Sora]
+Talk to [Sora] in [Grace City]
 
 ID=600910
 彼らの信条
 0
 [燃える町]で[ホワイトファング]から[暗殺部隊服務信条]入手
 Talk to [Hype]
-[グレイスシティ]で[ハイプ]と会話
+Talk to [Hype] in [Grace City]
 
 ID=600915
 変身！
 0
 [燃える町]で[ホワイトファング]から[白い仮面]入手
-[テッド]と会話
-[グレイスシティ]で[テッド]と会話
+Talk to [Ted]
+Talk to [Ted] in [Grace City]
 
 ID=600920
 勇者の剣！
 0
 [ベリーハード][フレイムブレイカー]で[ダンシングシャドー]から[ダンシングソード]入手
-[テッド]と会話
-[グレイスシティ]で[テッド]と会話
+Talk to [Ted]
+Talk to [Ted] in [Grace City]
 
 ID=600925
 カメラ破壊者
@@ -6863,21 +6863,21 @@ ID=600930
 0
 [罠]で[ヘルコレクター]から[魂の棺]入手
 Talk to [Hype]
-[グレイスシティ]で[ハイプ]と会話
+Talk to [Hype] in [Grace City]
 
 ID=600935
 風が強い日はⅠ
 0
-[ラン]と会話
-[マクシム]と会話
-[グレイスシティ]で[マクシム]と会話
+Talk to [Ran]
+Talk to [Maxim]
+Talk to [Maxim] in [Grace City]
 
 ID=600940
 風が強い日はⅡ
 0
 [暴食する影]で[ファントム]から[折れた真紅の刃]入手
-[ラン]と会話
-[グレイスシティ]で[ラン]と会話
+Talk to [Ran]
+Talk to [Ran] in [Grace City]
 
 ID=600945
 戦争の道
@@ -6890,78 +6890,78 @@ ID=600950
 復讐の道Ⅰ
 0
 [エリア9]で[ネッド傭兵]から[ネッド傭兵の血液サンプル]入手
-[ソラ]と会話
-[グレイスシティ]で[ソラ]と会話
+Talk to [Sora]
+Talk to [Sora] in [Grace City]
 
 ID=600955
 その名はヘビーギアズ
 0
-[ラン]と会話
-[ラン]と会話
-[グレイスシティ]で[ラン]と会話
+Talk to [Ran]
+Talk to [Ran]
+Talk to [Ran] in [Grace City]
 
 ID=600960
 復讐の道Ⅱ
 0
 [積み上げた力]で[メギドメーカーMKⅡ]討伐
 Talk to [Hype]
-[グレイスシティ]で[ハイプ]と会話
+Talk to [Hype] in [Grace City]
 
 ID=600965
 復讐の道Ⅲ
 0
 Talk to [Hype]
 Talk to [Hype]
-[グレイスシティ]で[ハイプ]と会話
+Talk to [Hype] in [Grace City]
 
 ID=600970
 幼子の肖像Ⅳ
 0
 [積み上げた力]で[ジュリー]捜索
-[カーチャ]と会話
-[グレイスシティ]で[カーチャ]と会話
+Talk to [Katja]
+Talk to [Katja] in [Grace City]
 
 ID=600975
 ネッドカンパニーの技術力Ⅰ
 0
 [エリア9]で[ドローン]から[ドローンの部品]入手
 Talk to [Zaito]
-[グレイスシティ]で[ジャイト]と会話
+Talk to [Zaito] in [Grace City]
 
 ID=600980
 ネッドカンパニーの技術力Ⅱ
 0
 [エリア9]で[パニッシャー]から[パニッシャーの重要部品]入手
 Talk to [Zaito]
-[グレイスシティ]で[ジャイト]と会話
+Talk to [Zaito] in [Grace City]
 
 ID=600985
 秘められた勇士の力
 0
 [戒めの時間]で[ジュリー]と[テッド]捜索
-[ジュリー]と会話
-[グレイスシティ]で[ジュリー]と会話
+Talk to [Julie]
+Talk to [Julie] in [Grace City]
 
 ID=600990
 戦士よ、立ち上がれ！
 0
 [ベリーハード][エリア9]で[パニッシャーα]から[パニッシャーαのAIチップ]入手
-[カーチャ]と会話
-[グレイスシティ]で[カーチャ]と会話
+Talk to [Katja]
+Talk to [Katja] in [Grace City]
 
 ID=600995
 彼の状態が
 0
 [百の剣]で[ラバン]から[ラバンのデータチップ]入手
-[ソラ]と会話
-[グレイスシティ]で[ソラ]と会話
+Talk to [Sora]
+Talk to [Sora] in [Grace City]
 
 ID=601000
 好転するまで
 0
 [ベリーハード][百の剣]で[ラバン：ハンドレッドソード]から[ラバンの薬が入ったカバン]入手 
-[ソラ]と会話
-[グレイスシティ]で[ソラ]と会話
+Talk to [Sora]
+Talk to [Sora] in [Grace City]
 
 ID=601497
 スチールグレイブⅠ
@@ -7035,7 +7035,7 @@ ID=750000
 
 ID=1003501
 Talk to [Hype]
-[グレイスシティ]で[ハイプ]と会話
+Talk to [Hype] in [Grace City]
 0
 0
 0
@@ -7049,14 +7049,14 @@ ID=1003502
 
 ID=1003551
 [ジェレミー]と会話
-[グレイスシティ]で[ジェレミー]と会話
+Talk to [Jeremy] in [Grace City]
 0
 0
 0
 
 ID=1003601
 [ラピッドフレイム突撃部隊]討伐
-[異界の者たち]で[ラピッドフレイム突撃部隊]討伐
+Defeat [Rapid Flame Assault Unit] in [Beings of the Underworld]
 0
 0
 0
@@ -7069,14 +7069,14 @@ ID=1003602
 0
 
 ID=1003651
-[セデュリン]と会話
-[グレイスシティ]で[セデュリン]と会話
+Talk to [Sedurin]
+Talk to [Sedurin] in [Grace City]
 0
 0
 0
 
 ID=1003701
-[ロイ]と会話
+Talk to [Roy]
 [グレイスシティ]で[ロイ]と会話
 0
 0
@@ -7084,7 +7084,7 @@ ID=1003701
 
 ID=1003751
 [ネッドカンパニー車輌]を保護
-[追跡]で[ネッドカンパニー車輌]を保護
+Protect the [NED Company Vehicle] in [Pursuit]
 0
 0
 0
@@ -7098,7 +7098,7 @@ ID=1003752
 
 ID=1003801
 咆哮する豪傑[スカー]討伐
-[真紅巨人]で咆哮する豪傑[スカー]討伐
+Defeat [Scar] in [Crimson Giant]
 0
 0
 0
@@ -7111,8 +7111,8 @@ Talk to [Thor] in [Grace City]
 0
 
 ID=1003851
-[ラウファー]と会話
-[グレイスシティ]で[ラウファー]と会話
+Talk to [Laufer]
+Talk to [Laufer] in [Grace City]
 0
 0
 0
@@ -7168,7 +7168,7 @@ Talk to [Thor] in [Grace City]
 
 ID=1004001
 [セキュリティボックス]調査
-[緑風の魔女]で[セキュリティボックス]調査
+Examine the [Security Box] in [The Witch of Summer Breezes]
 0
 0
 0
@@ -7181,36 +7181,36 @@ ID=1004002
 0
 
 ID=1004051
-[エミリート]と会話
-[グレイスシティ]で[エミリート]と会話
+Talk to [Emreit]
+Talk to [Emreit] in [Grace City]
 0
 0
 0
 
 ID=1004052
 [ジェレミー]と会話
-[グレイスシティ]で[ジェレミー]と会話
+Talk to [Jeremy] in [Grace City]
 0
 0
 0
 
 ID=1004101
-[ラウファー]と会話
-[グレイスシティ]で[ラウファー]と会話
+Talk to [Laufer]
+Talk to [Laufer] in [Grace City]
 0
 0
 0
 
 ID=1004151
-[ラン]と会話
-[グレイスシティ]で[ラン]と会話
+Talk to [Ran]
+Talk to [Ran] in [Grace City]
 0
 0
 0
 
 ID=1004152
-[マクシム]と会話
-[グレイスシティ]で[マクシム]と会話
+Talk to [Maxim]
+Talk to [Maxim] in [Grace City]
 0
 0
 0
@@ -7230,8 +7230,8 @@ ID=1004202
 0
 
 ID=1004251
-[ケインバレル]と会話
-[グレイスシティ]で[ケインバレル]と会話
+Talk to [Kainbarrel]
+Talk to [Kainbarrel] in [Grace City]
 0
 0
 0
@@ -7245,14 +7245,14 @@ ID=1004252
 
 ID=1004301
 怪鳥[クイーンカルラ]討伐
-[吠える狼]で怪鳥[クイーンカルラ]討伐
+Defeat Bird Monster [Queen Carla] in [Howling Wolf]
 0
 0
 0
 
 ID=1004351
-[セデュリン]と会話
-[グレイスシティ]で[セデュリン]と会話
+Talk to [Sedurin]
+Talk to [Sedurin] in [Grace City]
 0
 0
 0
@@ -7266,13 +7266,13 @@ ID=1004352
 
 ID=1004401
 [ジェレミー]と会話
-[グレイスシティ]で[ジェレミー]と会話
+Talk to [Jeremy] in [Grace City]
 0
 0
 0
 
 ID=1004402
-[ロイ]と会話
+Talk to [Roy]
 [グレイスシティ]で[ロイ]と会話
 0
 0
@@ -7307,8 +7307,8 @@ ID=1004454
 0
 
 ID=1004501
-[ソラ]と会話
-[グレイスシティ]で[ソラ]と会話
+Talk to [Sora]
+Talk to [Sora] in [Grace City]
 0
 0
 0
@@ -7349,15 +7349,15 @@ ID=1004555
 0
 
 ID=1004601
-[ラウファー]と会話
-[グレイスシティ]で[ラウファー]と会話
+Talk to [Laufer]
+Talk to [Laufer] in [Grace City]
 0
 0
 0
 
 ID=1004651
-[セデュリン]と会話
-[グレイスシティ]で[セデュリン]と会話
+Talk to [Sedurin]
+Talk to [Sedurin] in [Grace City]
 0
 0
 0
@@ -7371,14 +7371,14 @@ ID=1004652
 
 ID=1004701
 咆哮する赤い豪傑[ブラッディスカー]討伐
-[新たな跳躍]で咆哮する赤い豪傑[ブラッディスカー]討伐
+Defeat Howling Red Hero [Bloody Scar] in [A New Leap]
 0
 0
 0
 
 ID=1004751
 [ジェレミー]と会話
-[グレイスシティ]で[ジェレミー]と会話
+Talk to [Jeremy] in [Grace City]
 0
 0
 0
@@ -7405,7 +7405,7 @@ Talk to [Thor] in [Grace City]
 0
 
 ID=1004901
-[ロイ]と会話
+Talk to [Roy]
 [グレイスシティ]で[ロイ]と会話
 0
 0
@@ -7475,15 +7475,15 @@ Talk to [Thor] in [Grace City]
 0
 
 ID=1005052
-[ソラ]と会話
-[グレイスシティ]で[ソラ]と会話
+Talk to [Sora]
+Talk to [Sora] in [Grace City]
 0
 0
 0
 
 ID=1005101
 [ネッドカンパニー傭兵]討伐
-[現れた兵器]で[ネッドカンパニー傭兵]討伐
+Defeat [NED Company Mercenary] in [Discovered Weapons]
 0
 0
 0
@@ -7496,8 +7496,8 @@ ID=1005102
 0
 
 ID=1005151
-[セデュリン]と会話
-[グレイスシティ]で[セデュリン]と会話
+Talk to [Sedurin]
+Talk to [Sedurin] in [Grace City]
 0
 0
 0
@@ -7546,7 +7546,7 @@ ID=1005157
 
 ID=1005201
 秘密基地内部捜索
-[百の剣]で秘密基地内部捜索
+Investigate the interior of the secret base in [Hundred Swords]
 0
 0
 0
@@ -7573,15 +7573,15 @@ ID=1005302
 0
 
 ID=1005351
-[セデュリン]と会話
-[グレイスシティ]で[セデュリン]と会話
+Talk to [Sedurin]
+Talk to [Sedurin] in [Grace City]
 0
 0
 0
 
 ID=1005401
-[ケインバレル]と会話
-[グレイスシティ]で[ケインバレル]と会話
+Talk to [Kainbarrel]
+Talk to [Kainbarrel] in [Grace City]
 0
 0
 0
@@ -7602,49 +7602,49 @@ Defeat [Red Hood] in [Front Line]
 
 ID=6006551
 [ドラム缶]破壊
-[フロントライン]で[ドラム缶]破壊
+Destroy [Drum] in [Front Line]
 0
 0
 0
 
 ID=6006601
 [ブラックガントレットの機械腕]入手
-[異界の者たち]で[ブラックガントレット]から[ブラックガントレットの機械腕]入手
+Obtain [Black Gauntlet’s Mechanical Arm] from [Black Gauntlet] in [Beings of the Underworld]
 0
 0
 0
 
 ID=6006651
 [ジンフィストールの機械腕]入手
-[ベリーハード][フロントライン]で[ジンフィストール]から[ジンフィストールの機械腕]入手
+Obtain [Zin Pistol's Mechanical Arm] from [Zin Pistol] in [Front Line][Very Hard]
 0
 0
 0
 
 ID=6006701
 [アーマースチール]討伐
-[力と力]で[アーマースチール]討伐
+Defeat [Armor Steel] in [Power Leads to Power]
 0
 0
 0
 
 ID=6006751
 [堅い鎧片]入手
-[力と力]で[アーマースチール]から[堅い鎧片]入手
+Obtain [Hard Armor Fragment] from [Armor Steel] in [Power Leads to Power]
 0
 0
 0
 
 ID=6006801
 [ガソリンタンク]入手
-[力と力]で[注油器]から[ガソリンタンク]入手
+Obtain [Petrol Tank] from [Lubricator] in [Power Leads to Power]
 0
 0
 0
 
 ID=6006851
 [巨大ハンマー]入手
-[追跡]で[ヘルインフォーサー]から[巨大ハンマー]入手
+Obtain [Enormous Hammer] from [Hell Infuser] in [Pursuit]
 0
 0
 0
@@ -7657,64 +7657,64 @@ Talk to [Thor] in [Grace City]
 0
 
 ID=6006902
-[テッド]と会話
-[グレイスシティ]で[テッド]と会話
+Talk to [Ted]
+Talk to [Ted] in [Grace City]
 0
 0
 0
 
 ID=6006951
 [捨てられた球]入手
-[フロントライン]で[スチール]から[捨てられた球]入手
+Obtain [Abandoned Ball] from [Steel] in [Front Line]
 0
 0
 0
 
 ID=6007001
 [赤い眼光のゴーグル]入手
-[真紅巨人]で[スカー]から[赤い眼光のゴーグル]入手
+Obtain [Red Eyed Goggles] from [Scar] in [Crimson Giant]
 0
 0
 0
 
 ID=6007051
 [アンイーブンフード]討伐
-[ネッドカンパニー]で[アンイーブンフード]討伐
+Defeat [Uneven Hood] in [NED Company]
 0
 0
 0
 
 ID=6007101
-[ジュリー]と会話
-[グレイスシティ]で[ジュリー]と会話
+Talk to [Julie]
+Talk to [Julie] in [Grace City]
 0
 0
 0
 
 ID=6007151
 [ポイズンのフィギュア]入手
-[ネッドカンパニー]で[パイソン]から[ポイズンのフィギュア]入手
+Obtain [Poison's Figurine] from [Python] in [NED Company]
 0
 0
 0
 
 ID=6007201
-[テッド]と会話
-[グレイスシティ]で[テッド]と会話
+Talk to [Ted]
+Talk to [Ted] in [Grace City]
 0
 0
 0
 
 ID=6007202
-[ジュリー]と会話
-[グレイスシティ]で[ジュリー]と会話
+Talk to [Julie]
+Talk to [Julie] in [Grace City]
 0
 0
 0
 
 ID=6007251
 [ヘビースチール]討伐
-[救出]で[ヘビースチール]討伐
+Defeat [Heavy Steel] in [Rescue]
 0
 0
 0
@@ -7728,14 +7728,14 @@ ID=6007301
 
 ID=6007351
 [魔法のパッド]入手
-[破れた空気]で[ジンチェイサー]から[魔法のパッド]入手
+Obtain [Magic Pad] from [Zin Chaser] in [Worn Out Atmosphere]
 0
 0
 0
 
 ID=6007401
-[グッドボーイ]と会話
-[グレイスシティ]で[グッドボーイ]と会話
+Talk to [Good Boy]
+Talk to [Good Boy] in [Grace City]
 0
 0
 0
@@ -7749,105 +7749,105 @@ ID=6007402
 
 ID=6007451
 [スネークの猛毒]入手
-[ネッドカンパニー]で[スネーク]から[スネークの猛毒]入手
+Obtain [Snake’s Deadly Venom] from [Snake] in [NED Company]
 0
 0
 0
 
 ID=6007501
 [ジンスチール]討伐
-[ネッドカンパニー]で[ジンスチール]討伐
+Defeat [Zin Steel] in [NED Company]
 0
 0
 0
 
 ID=6007551
 [魅惑剤]入手
-[残酷な刃]で[ベニン]から[魅惑剤]入手
+Obtain [Seduction Drug] from [Venin] in [Cruel Blade]
 0
 0
 0
 
 ID=6007601
 [デスストーカー]討伐
-[ベリーハード]\n[ネッドカンパニー]で[デスストーカー]討伐
+Defeat [Death Stalker] in [NED Company][Very Hard]
 0
 0
 0
 
 ID=6007651
 [自信爆発剤]入手
-[緑風の魔女]で[ポイズン]から[自信爆発剤]入手
+Obtain [Self-Confidence Drug] from [Poison] in [The Witch of Summer Breezes]
 0
 0
 0
 
 ID=6007701
 [野獣のたてがみ]入手
-[ウルフクライ]で[ビーストファング]から[野獣のたてがみ]入手
+Obtain [Beast’s Mane] from [Beast Fang] in [Wolf Cry]
 0
 0
 0
 
 ID=6007751
 [カーマインビースト]討伐
-[暗雲]で[カーマインビースト]討伐
+Defeat [Carmine Beast] in [Dark Clouds]
 0
 0
 0
 
 ID=6007801
 [クリムゾンビースト]討伐
-[ウルフクライ]で[クリムゾンビースト]討伐
+Defeat [Crimson Beast] in [Wolf Cry]
 0
 0
 0
 
 ID=6007851
 [インテンションカルラのくちばし]入手
-[ウルフクライ]で[インテンションカルラ]から[インテンションカルラのくちばし]入手
+Obtain [Intention Carla’s Beak] from [Intention Carla] in [Wolf Cry]
 0
 0
 0
 
 ID=6007901
 [アーマードカルラのくちばし]入手
-[ベリーハード][ウルフクライ]で[アーマードカルラ]から[アーマードカルラのくちばし]入手
+Obtain [Armored Carla’s Beak] from [Armored Carla in [Wolf Cry][Very Hard]
 0
 0
 0
 
 ID=6007951
 [レッドメイン]討伐
-[紅蓮の風]で[レッドメイン]討伐
+Defeat [Red Mane] in [Crimson Winds]
 0
 0
 0
 
 ID=6008001
 [クローラー]討伐
-[ウルフクライ]で[クローラー]討伐
+Defeat [Crawler] in [Wolf Cry]
 0
 0
 0
 
 ID=6008051
 [伝説のククリ]入手
-[紅蓮の風]で[レッドメイン]から[伝説のククリ]入手
+Obtain [Kukri’s Legend] from [Red Mane] in [Crimson Winds]
 0
 0
 0
 
 ID=6008101
 [クイーンカルラ]討伐
-[吠える狼]で[クイーンカルラ]討伐
+Defeat [Queen Carla] in [Howling Wolf]
 0
 0
 0
 
 ID=6008151
 [誰かのIDタグ]入手
-[ウルフクライ]で[サマナー]から[誰かのIDタグ]入手
+Obtain [Somebody’s ID Tag] from [Summoner] in [Wolf Cry]
 0
 0
 0
@@ -7861,70 +7861,70 @@ Talk to [Thor]
 
 ID=6008251
 [クイーンカルラの残骸]入手
-[爆風の騎手]で[ファルコン]から[クイーンカルラの残骸]入手
+Obtain [Queen Carla's Remains] from [Falcon] in [Blasting Horsemen]
 0
 0
 0
 
 ID=6008301
 [ジンサマナー]討伐
-[コールドレイン]で[ジンサマナー]討伐
+Defeat [Zin Summoner] in [Cold Rain]
 0
 0
 0
 
 ID=6008351
 [電気ケーブル]入手
-[コールドレイン]で[ワイルドビーストファング]から[電気ケーブル]入手
+Obtain [Electric Cable] from [Wild Beast Fang] in [Cold Rain]
 0
 0
 0
 
 ID=6008401
 [シングルレッグ]討伐
-[冷たい雨]で[シングルレッグ]討伐
+Defeat [Single Leg] in [Cold Rain]
 0
 0
 0
 
 ID=6008451
 [カーチャの祖母の家]捜索
-[暗い町]で[カーチャの祖母の家]捜索
+Investigate the [Katja's Grandmother's House] in [Dark City]
 0
 0
 0
 
 ID=6008501
 [燃えてしまった写真]入手
-[暗い町]で[スカーレットマスク]から[燃えてしまった写真]入手
+Obtain [Burning Photographs] from [Scarlet Mask] in [Dark City]
 0
 0
 0
 
 ID=6008551
 [ジンパイソン]討伐
-[コールドレイン]で[ジンパイソン]討伐
+Defeat [Zin Python] in [Cold Rain]
 0
 0
 0
 
 ID=6008601
 [フレイムテンペスト]討伐
-[背徳の痕跡]で[フレイムテンペスト]討伐
+Defeat [Flame Tempest] in [Immorality Traces]
 0
 0
 0
 
 ID=6008602
-[ジュリー]と会話
-[グレイスシティ]で[ジュリー]と会話
+Talk to [Julie]
+Talk to [Julie] in [Grace City]
 0
 0
 0
 
 ID=6008651
 [住民の遺品]入手
-[背徳の痕跡]で[フレイムテンペスト]から[住民の遺品]入手
+Obtain [Resident's Remains] from [Flame Tempest] in [Immorality Traces]
 0
 0
 0
@@ -7951,8 +7951,8 @@ Talk to [Rita]
 0
 
 ID=6008851
-[ネーブ]と会話
-[ネーブ]と会話
+Talk to [Nave]
+Talk to [Nave]
 0
 0
 0
@@ -8056,8 +8056,8 @@ ID=6009301
 0
 
 ID=6009351
-[ラン]と会話
-[グレイスシティ]で[ラン]と会話
+Talk to [Ran]
+Talk to [Ran] in [Grace City]
 0
 0
 0
@@ -8084,8 +8084,8 @@ ID=6009501
 0
 
 ID=6009551
-[ラン]と会話
-[グレイスシティ]で[ラン]と会話
+Talk to [Ran]
+Talk to [Ran] in [Grace City]
 0
 0
 0
@@ -8098,8 +8098,8 @@ ID=6009552
 0
 
 ID=6009553
-[マクシム]と会話
-[グレイスシティ]で[マクシム]と会話
+Talk to [Maxim]
+Talk to [Maxim] in [Grace City]
 0
 0
 0
@@ -8113,7 +8113,7 @@ ID=6009601
 
 ID=6009651
 Talk to [Hype]
-[グレイスシティ]で[ハイプ]と会話
+Talk to [Hype] in [Grace City]
 0
 0
 0
@@ -8126,7 +8126,7 @@ ID=6009652
 0
 
 ID=6009653
-[ソラ]と会話
+Talk to [Sora]
 [グレイスシティ]の[ソラ]と会話
 0
 0
@@ -8161,8 +8161,8 @@ ID=6009851
 0
 
 ID=6009852
-[カーチャ]と会話
-[グレイスシティ]で[カーチャ]と会話
+Talk to [Katja]
+Talk to [Katja] in [Grace City]
 0
 0
 0
@@ -8175,8 +8175,8 @@ ID=6009901
 0
 
 ID=6009902
-[アレン]と会話
-[グレイスシティ]で[アレン]と会話
+Talk to [Allen]
+Talk to [Allen] in [Grace City]
 0
 0
 0
@@ -8268,14 +8268,14 @@ Talk to [Haidinger]
 ID=300020
 [サポーター]赤眼の猛獣
 0
-[ケインバレル]と会話
+Talk to [Kainbarrel]
 [イオ]と会話
 [グレイスシティ]で[イオ]と会話
 
 ID=300025
 [サポーター]懐かしさを泣き叫ぶ
 0
-[グッドボーイ]と会話
+Talk to [Good Boy]
 [イオ]と会話
 [グレイスシティ]で[イオ]と会話
 
@@ -8329,8 +8329,8 @@ Talk to [Haidinger] in [Candus City]
 0
 
 ID=3000201
-[ケインバレル]と会話
-[グレイスシティ]で[ケインバレル]と会話
+Talk to [Kainbarrel]
+Talk to [Kainbarrel] in [Grace City]
 0
 0
 0
@@ -8343,15 +8343,15 @@ ID=3000202
 0
 
 ID=3000203
-[ケインバレル]と会話
-[グレイスシティ]で[ケインバレル]と会話
+Talk to [Kainbarrel]
+Talk to [Kainbarrel] in [Grace City]
 0
 0
 0
 
 ID=3000251
-[グッドボーイ]と会話
-[グレイスシティ]で[グッドボーイ]と会話
+Talk to [Good Boy]
+Talk to [Good Boy] in [Grace City]
 0
 0
 0
@@ -8364,8 +8364,8 @@ ID=3000252
 0
 
 ID=3000253
-[グッドボーイ]と会話
-[グレイスシティ]で[グッドボーイ]と会話
+Talk to [Good Boy]
+Talk to [Good Boy] in [Grace City]
 0
 0
 0
@@ -8417,7 +8417,7 @@ ID=601040
 0
 [スチールグレイブⅡ]進行
 Talk to [Hype]
-[グレイスシティ]で[ハイプ]と会話
+Talk to [Hype] in [Grace City]
 
 ID=601045
 歪んだ次元
@@ -8556,7 +8556,7 @@ ID=100545
 冷たい空気
 ケインバレルと共にニアソウルワーカーの反応を追い到着した場所は、かつてネッドカンパニーの軍事要塞として使われていた「ルインフォートレス」だった。鋼鉄で作られた要塞は、周囲の冷たい空気と合わさり、一層物静かな様相をかもし出していた。今は誰一人おらず、機能も停止しているという事実が、その印象を強めた。\nスタリーフォレスト連合のメンバーはすでに到着していた。作戦指揮官である「マーティン」、通信担当の「アマンダ」、エナジー関連の「サラ」と簡単な挨拶をかわし、現状の説明を受けた。急造チームゆえ、施設に対する把握もままならず、全員初対面なのでチームワークも期待できそうにない。\n話を聞いたケインバレルは、思いやられたようにため息をつく。
 [ルインフォートレス]の人々と会話
-[ケインバレル]と会話
+Talk to [Kainbarrel]
 [ルインフォートレス]で[ケインバレル]と会話
 
 ID=100550
@@ -8770,7 +8770,7 @@ ID=1005504
 0
 
 ID=1005551
-[ケインバレル]と会話
+Talk to [Kainbarrel]
 [ルインフォートレス]で[ケインバレル]と会話
 0
 0
@@ -8847,7 +8847,7 @@ ID=1005701
 0
 
 ID=1005751
-[ヘビーウォーソルバー]破壊
+Destroy [Heavy War Solver]
 [三番目の心臓]で[ヘビーウォーソルバー]破壊
 0
 0
@@ -11047,7 +11047,7 @@ ID=6014951
 ID=100665
 世界の軸
 同じソウルワーカーなら何か知っているかもしれないという微かな希望を胸にケインバレルを訪ねた。だが、彼も金の鎧を纏い槍を持つ女性に心当たりはなかった。しかし、金色だということから「イオ」に話を聞いてみるのはどうかと提案してきた。\nイオの回答は想定外のものだった。あの女性の名はロスカー。限りなく神に近い存在であり、ソウルワーカーたちの原点。\n世界の軸を正すための歯車として選択され、成長するのを待たれていたらしい。しかし、予想外の出来事により危機に陥ったため、絶対に世界に介入しないという約束を破って助けてくれたのだ。その約束が破られたことで、世界の各地に異常空白が発生していた。\nイオはいつか来る災厄に備え、力をつけるようにと言う。そして、その為の場所として異常空白への進入を提案してきた。
-[ケインバレル]と会話
+Talk to [Kainbarrel]
 Talk to [Benjamin]
 Talk to [Benjamin] in [Rocco Town]
 
@@ -11143,7 +11143,7 @@ ID=200045
 [ルインフォートレス]で[マーティン]と会話
 
 ID=1006651
-[ケインバレル]と会話
+Talk to [Kainbarrel]
 [ケインバレル]ならば何か知っているかもしれない。[グレイスシティ]で[ケインバレル]と話してみよう
 0
 0
