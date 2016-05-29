@@ -549,7 +549,7 @@ ID=100265
 キャサリンは予断を許さない状態だった。\nバキュームべインに侵食され、\nすでにソウルジャンク化が進行していた。\nアーロンは娘の苦しむ姿に心を痛め、\nビクターは自責の念にかられていた。\nそして、キャサリンは懸命に普段通り振舞っていた。\nキャサリンを元に戻す方法はないのだろうか？
 Talk to [Aaron] and [Victor] in [Candus City]
 Talk to [Katherine]
-Confirm [Katherine]'s transport state to [Candus City]
+Check [Katherine]'s condition after being transported to [Candus City]
 
 ID=100270
 解毒剤
@@ -2456,7 +2456,7 @@ Destroy [Spider Cocoon] in [The Big Mouth]
 0
 
 ID=6004401
-Defeat [Infected Guard/Infected\nGirl]
+Defeat [Infected Guard/Infected Girl]
 Defeat [Eroded People] in [The Big Mouth]
 0
 0
@@ -6777,14 +6777,14 @@ Talk to [Katja] in [Grace City]
 ID=600870
 顔なき者
 0
-[ベリーハード]\n[コールドレイン]で[インテンションサマナー]討伐
+Defeat [Intention Summoner] in [Cold Rain][Very Hard]
 [オードン]と会話
-[グレイスシティ]で[オードン]と会話
+Talk to [Ordon] in [Grace City]
 
 ID=600875
 忘れないで
 0
-[新たな跳躍]で[ブラッディスカー]から[スカーの巨大斧]入手
+Obtain [Scar's Gigantic Axe] from [Bloody Scar] in [A New Leap]
 Talk to [Katja]
 Talk to [Katja] in [Grace City]
 
@@ -6805,63 +6805,63 @@ Talk to [Nave] in [Grace City]
 ID=600890
 デカくて変なヤツ
 0
-[夜中の奇襲]で[プレス]討伐
+Defeat [Press] in [A Midnight Surprise Attack]
 Talk to [Maxim]
 Talk to [Maxim] in [Grace City]
 
 ID=600895
 恐ろしい計画
 0
-[フレイムブレイカー]で[ビッグブッチャー]から[太い鉄鎖]入手
+Obtain [Thick Iron Chain] from [Big Butcher] in [Flame Breaker]
 Talk to [Ran]
 Talk to [Ran] in [Grace City]
 
 ID=600900
 障害の除去
 0
-[フレイムブレイカー]で[パイソン]討伐
+Defeat [Python] in [Flame Breaker]
 Talk to [Hype]
 Talk to [Hype] in [Grace City]
 
 ID=600905
 その場所にいた
 0
-[燃える町]で[死亡したスタリーフォレスト連合支援兵]から[死亡した隊員のIDタグ]入手
+Obtain [Deceased Soldier's ID Tag] from [Deceased Starry Forest League Supporting Troops] in [Burning City]
 Talk to [Sora]
 Talk to [Sora] in [Grace City]
 
 ID=600910
 彼らの信条
 0
-[燃える町]で[ホワイトファング]から[暗殺部隊服務信条]入手
+Obtain [Assassination Unit’s Soldier's Creed] from [White Fang] in [Burning City]
 Talk to [Hype]
 Talk to [Hype] in [Grace City]
 
 ID=600915
 変身！
 0
-[燃える町]で[ホワイトファング]から[白い仮面]入手
+Obtain [White Mask] from [White Fang] in [Burning City]
 Talk to [Ted]
 Talk to [Ted] in [Grace City]
 
 ID=600920
 勇者の剣！
 0
-[ベリーハード][フレイムブレイカー]で[ダンシングシャドー]から[ダンシングソード]入手
+Obtain [Dancing Sword] from [Dancing Shadow] in [Flame Breaker][Very Hard]
 Talk to [Ted]
 Talk to [Ted] in [Grace City]
 
 ID=600925
 カメラ破壊者
 0
-[フレイムブレイカー]で[ビッグブッチャー]討伐
+Defeat [Big Butcher in [Flame Breaker]
 [オードン]と会話
-[グレイスシティ]で[オードン]と会話
+Talk to [Ordon] in [Grace City]
 
 ID=600930
 地獄の収集家
 0
-[罠]で[ヘルコレクター]から[魂の棺]入手
+Obtain [Soul Coffin] from [Hell Collector] in [Trap]
 Talk to [Hype]
 Talk to [Hype] in [Grace City]
 
@@ -6875,21 +6875,21 @@ Talk to [Maxim] in [Grace City]
 ID=600940
 風が強い日はⅡ
 0
-[暴食する影]で[ファントム]から[折れた真紅の刃]入手
+Obtain [Broken Blood Blade] from [Phantom] in [Shadow of Gluttony]
 Talk to [Ran]
 Talk to [Ran] in [Grace City]
 
 ID=600945
 戦争の道
 0
-[エリア9]で[トライポッド]から[不発ミサイル]入手
+Obtain [Unexploded Missile] from [Tripod] in [Area 9]
 Talk to [Yomi]
 [グレイスシティ]で[ヨミ]と会話
 
 ID=600950
 復讐の道Ⅰ
 0
-[エリア9]で[ネッド傭兵]から[ネッド傭兵の血液サンプル]入手
+Obtain [NED Mercenary’s Blood Sample] from [NED Company Mercenary] in [Area 9]
 Talk to [Sora]
 Talk to [Sora] in [Grace City]
 
@@ -7931,14 +7931,14 @@ Obtain [Resident's Remains] from [Flame Tempest] in [Immorality Traces]
 
 ID=6008701
 [インテンションサマナー]討伐
-[ベリーハード]\n[コールドレイン]で[インテンションサマナー]討伐
+Defeat [Intention Summoner] in [Cold Rain][Very Hard]
 0
 0
 0
 
 ID=6008751
 [スカーの巨大斧]入手
-[新たな跳躍]で[ブラッディスカー]から[スカーの巨大斧]入手
+Obtain [Scar's Gigantic Axe] from [Bloody Scar] in [A New Leap]
 0
 0
 0
@@ -7959,98 +7959,98 @@ Talk to [Nave]
 
 ID=6008901
 [プレス]討伐
-[夜中の奇襲]で[プレス]討伐
+Defeat [Press] in [A Midnight Surprise Attack]
 0
 0
 0
 
 ID=6008951
 [太い鉄鎖]入手
-[フレイムブレイカー]で[ビッグブッチャー]から[太い鉄鎖]入手
+Obtain [Thick Iron Chain] from [Big Butcher] in [Flame Breaker]
 0
 0
 0
 
 ID=6009001
 [パイソン]討伐
-[フレイムブレイカー]で[パイソン]討伐
+Defeat [Python] in [Flame Breaker]
 0
 0
 0
 
 ID=6009051
 [古びたIDタグ]入手
-[燃える町]で[死亡したスタリーフォレスト連合支援兵]から[死亡した隊員のIDタグ]入手
+Obtain [Deceased Soldier's ID Tag] from [Deceased Starry Forest League Supporting Troops] in [Burning City]
 0
 0
 0
 
 ID=6009052
 [錆びたIDタグ]入手
-[燃える町]で[死亡したスタリーフォレスト連合支援兵]から[死亡した隊員のIDタグ]入手
+Obtain [Deceased Soldier's ID Tag] from [Deceased Starry Forest League Supporting Troops] in [Burning City]
 0
 0
 0
 
 ID=6009053
 [穴が開いたIDタグ]入手
-[燃える町]で[死亡したスタリーフォレスト連合支援兵]から[死亡した隊員のIDタグ]入手
+Obtain [Deceased Soldier's ID Tag] from [Deceased Starry Forest League Supporting Troops] in [Burning City]
 0
 0
 0
 
 ID=6009054
 [ボコボコなIDタグ]入手
-[燃える町]で[死亡したスタリーフォレスト連合支援兵]から[死亡した隊員のIDタグ]入手
+Obtain [Deceased Soldier's ID Tag] from [Deceased Starry Forest League Supporting Troops] in [Burning City]
 0
 0
 0
 
 ID=6009055
 [擦り減ったIDタグ]入手
-[燃える町]で[死亡したスタリーフォレスト連合支援兵]から[死亡した隊員のIDタグ]入手
+Obtain [Deceased Soldier's ID Tag] from [Deceased Starry Forest League Supporting Troops] in [Burning City]
 0
 0
 0
 
 ID=6009056
 [綺麗なIDタグ]入手
-[燃える町]で[死亡したスタリーフォレスト連合支援兵]から[死亡した隊員のIDタグ]入手
+Obtain [Deceased Soldier's ID Tag] from [Deceased Starry Forest League Supporting Troops] in [Burning City]
 0
 0
 0
 
 ID=6009101
 [暗殺部隊服務信条]入手
-[燃える町]で[ホワイトファング]から[暗殺部隊服務信条]入手
+Obtain [Assassination Unit’s Soldier's Creed] from [White Fang] in [Burning City]
 0
 0
 0
 
 ID=6009151
 [白い仮面]入手
-[燃える町]で[ホワイトファング]から[白い仮面]入手
+Obtain [White Mask] from [White Fang] in [Burning City]
 0
 0
 0
 
 ID=6009201
 [ダンシングソード]入手
-[ベリーハード][フレイムブレイカー]で[ダンシングシャドー]から[ダンシングソード]入手
+Obtain [Dancing Sword] from [Dancing Shadow] in [Flame Breaker][Very Hard]
 0
 0
 0
 
 ID=6009251
 [ビッグブッチャー]討伐
-[フレイムブレイカー]で[ビッグブッチャー]討伐
+Defeat [Big Butcher in [Flame Breaker]
 0
 0
 0
 
 ID=6009301
 [魂の棺]入手
-[罠]で[ヘルコレクター]から[魂の棺]入手
+Obtain [Soul Coffin] from [Hell Collector] in [Trap]
 0
 0
 0
@@ -8064,21 +8064,21 @@ Talk to [Ran] in [Grace City]
 
 ID=6009401
 [折れた真紅の刃]入手
-[暴食する影]で[ファントム]から[折れた真紅の刃]入手
+Obtain [Broken Blood Blade] from [Phantom] in [Shadow of Gluttony]
 0
 0
 0
 
 ID=6009451
 [不発ミサイル]入手
-[エリア9]で[トライポッド]から[不発ミサイル]入手
+Obtain [Unexploded Missile] from [Tripod] in [Area 9]
 0
 0
 0
 
 ID=6009501
 [ネッド傭兵の血液サンプル]入手
-[エリア9]で[ネッド傭兵]から[ネッド傭兵の血液サンプル]入手
+Obtain [NED Mercenary’s Blood Sample] from [NED Company Mercenary] in [Area 9]
 0
 0
 0
