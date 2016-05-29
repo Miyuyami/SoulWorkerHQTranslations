@@ -393,7 +393,7 @@ Talk to [Benjamin] in [Rocco Town]
 ID=100140
 Lunatic’s Moonlight Dance
 状況が落ち着いたと思っていたのは間違いだった。\n青炎の道化師はロコタウンのあちこちに爆弾を設置し、\n再び私を彼の舞台へと招いた。\n確認する間もなく、直ぐに病院の屋上へ向かった私は\n彼との最終決戦に臨んだ。\n死闘の末に何とか倒すことができたが、\n突然屋上のサーカス場が爆発する。\n私はヘリに乗り込み何とか脱出に成功した。\nそこで私は見た。\n炎の中で狂気に満ちた笑みを浮かべる道化師を…。
-Defeat [Edgar], Rescue [Stranded Soldier] in [Lunatic’s Moonlight Dance]
+Rescue [Stranded Soldier] and defeat [Edgar] in [Lunatic’s Moonlight Dance]
 Talk to [Benjamin]
 Talk to [Benjamin] in [Rocco Town]
 
@@ -526,21 +526,21 @@ Talk to [Ralph]
 ID=100250
 不吉な置き土産
 ラルフは、ブロックとヘンリーの言い合いを見て、\n何かが起こったのだと感づいたようだ。\n少し前に、ネッドカンパニーの輸送機が\nカンダスシティ近郊の屋敷に墜落した事件…。\n\nネッドカンパニーによる情報操作に、\nラルフもいよいよ怪しいと感じたと話してくれた。\nブロックは確信はないものの屋敷の調査を指示した。\n\n調査開始後に屋敷で見つかったものは、\nネッドカンパニーの輸送機の残骸や、\n何かが抜け出したかのような巨大カプセル、\nそれから見覚えのあるリボンだった。\nそれは…キャサリンのものだった。
-Defeat [Dark Worm] and search for traces of NED Company in [Residence of Pure Darkness]
+Defeat [Dark Worm] then search for traces of NED Company in [Residence of Pure Darkness]
 Talk to [Aaron]
 Talk to [Aaron] in [Candus City]
 
 ID=100255
 暗闇に伸ばした手
 ビクターはジャンクナイトの調査を準備している時に\nキャサリンが行方不明になったと報告したが、\nすでに手遅れだった。\n\n彼女を探すために噂をたどっていくと、ラルフは\nキャサリンが例の屋敷に入って行ったと言う。\n何とか彼女を助け出すことができたが、\n現れた巨大なクモ型のソウルジャンクが\nまたしてもキャサリンを連れ去ってしまった。\n\nアーロンは、キャサリンの行方を追うため、\n大々的な捜索作戦に乗り出した。
-Defeat [Duke Spider] and interfere with [Katherine]'s search in [Search] then talk to [Ralph] in [Candus City]
+Defeat [Duke Spider] which disturbed [Katherine]'s search in [Search] then talk to [Ralph] in [Candus City]
 Talk to [Aaron]
 Talk to [Aaron] in [Candus City]
 
 ID=100260
 麗しき捕食者
 アーロンは、特異なソウルジャンクならば、\nネッドカンパニーが情報を持っていると判断し、\nヘンリーから聞き出すよう命令した。\nブロックはしらを切り続けるヘンリーに殴打を加え、\n女王蜘蛛の情報を吐き出させた。\nコードネームは「アラクニス」。\nヘンリーの情報を元にアラクニスの隠れ家を探し、\n何とかキャサリンを救出できた。\nしかし、キャサリンはすでにバキュームベインに\n取り込まれた状態だった。
-Defeat the [Arachnis] that kidnapped [Katherine] in [Beautiful Predator] then talk to [Henry] in [Candus City]
+Defeat [Arachnis] which kidnapped [Katherine] in [Beautiful Predator] then talk to [Henry] in [Candus City]
 Rescue [Katherine]
 Rescue [Katherine] in [Beautiful Predator]
 
@@ -561,7 +561,7 @@ Talk to [Henry] in [Candus City]
 ID=100275
 決死の思い
 ブロックはネッドカンパニーが犯した\n数々の悪行に関する資料の破棄と引き換えに\nヘンリーから解毒剤の情報を得ることができた。\n彼はN-102に解毒剤があると言う。\nしかし、研究所はすでにソウルジャンクの巣窟…。\n危険を冒してN-102を捜索するも、\n解毒剤は手に入らなかった。\nN-102から戻ったブロックは\nイライラしながらビクターの居場所を尋ねた。\nしかし…そこにビクターの姿はなかった。
-Investigate the [Huge Capsule] at the central laboratory and destroy [Ominous Cocoon] in [Abyss]
+Investigate the [Huge Capsule] at the central laboratory then destroy [Ominous Cocoon] in [Abyss]
 Talk to [Brock]
 Talk to [Brock] in [Candus City]
 
@@ -617,7 +617,7 @@ Talk to [Aaron] in [Candus City]
 ID=100315
 残された手札
 ロコタウンでの話を聞いたアーロンは\nすぐにビクターにも伝えるよう指示した。\nビクターは、キャサリンの身を案じていた。\n現時点では治療する手段が無いため、\nグレイスシティにあるSTラボ部隊に頼んで、\n彼女を治療が済むまで眠らせる事まで考えていた。\nそして、アーロンとシェルターへと向かった。\nキャサリンの状態は、日に日に悪くなっていた。
-Wipe out the enemies in the transport aircraft's interior in [Gathering Shadows]\nthen talk to [Victor] in [Candus City]
+Wipe out the enemies in the transport aircraft's interior in [Gathering Shadows] then talk to [Victor] in [Candus City]
 Check [Katherine]'s condition
 Check [Katherine]'s condition in [Gathering Shadows]
 
@@ -1721,29 +1721,29 @@ Protect [Katherine] in [Gray Rock]
 0
 
 ID=1002051
-Activate the [Tunnel Disruption Bomb I]
-Activate the [Tunnel Disruption Bomb I] in [Gray Rock]
+Activate the [Tunnel Disruption Bomb Ⅰ]
+Activate the [Tunnel Disruption Bomb Ⅰ] in [Gray Rock]
 0
 0
 0
 
 ID=1002052
-Activate the [Tunnel Disruption Bomb II]
-Activate the [Tunnel Disruption Bomb II] in [Gray Rock]
+Activate the [Tunnel Disruption Bomb Ⅱ]
+Activate the [Tunnel Disruption Bomb Ⅱ] in [Gray Rock]
 0
 0
 0
 
 ID=1002053
-Activate the [Tunnel Disruption Bomb III]
-Activate the [Tunnel Disruption Bomb III] in [Gray Rock]
+Activate the [Tunnel Disruption Bomb Ⅲ]
+Activate the [Tunnel Disruption Bomb Ⅲ] in [Gray Rock]
 0
 0
 0
 
 ID=1002054
-Activate the [Tunnel Disruption Bomb IV]
-Activate the [Tunnel Disruption Bomb IV] in [Gray Rock]
+Activate the [Tunnel Disruption Bomb Ⅳ]
+Activate the [Tunnel Disruption Bomb Ⅳ] in [Gray Rock]
 0
 0
 0
@@ -6525,7 +6525,7 @@ Talk to [Ran] in [Grace City]
 ID=600690
 グッドボーイの主人Ⅰ
 0
-Talk to [Ted] and [Thor]
+Talk to [Thor] and [Ted]
 Talk to [Good Boy]
 Talk to [Good Boy] in [Grace City]
 
@@ -6903,7 +6903,7 @@ Talk to [Ran] in [Grace City]
 ID=600960
 復讐の道Ⅱ
 0
-[積み上げた力]で[メギドメーカーMKⅡ]討伐
+Defeat [Megiddo Maker MK Ⅱ] in [Layers of Strength]
 Talk to [Hype]
 Talk to [Hype] in [Grace City]
 
@@ -6917,79 +6917,79 @@ Talk to [Hype] in [Grace City]
 ID=600970
 幼子の肖像Ⅳ
 0
-[積み上げた力]で[ジュリー]捜索
+Search for [Julie] in [Layers of Strength]
 Talk to [Katja]
 Talk to [Katja] in [Grace City]
 
 ID=600975
 ネッドカンパニーの技術力Ⅰ
 0
-[エリア9]で[ドローン]から[ドローンの部品]入手
+Obtain [Drone Parts] from [Drone] in [Area 9]
 Talk to [Zaito]
 Talk to [Zaito] in [Grace City]
 
 ID=600980
 ネッドカンパニーの技術力Ⅱ
 0
-[エリア9]で[パニッシャー]から[パニッシャーの重要部品]入手
+Obtain [Punisher Main Components] from [Punisher] in [Area 9]
 Talk to [Zaito]
 Talk to [Zaito] in [Grace City]
 
 ID=600985
 秘められた勇士の力
 0
-[戒めの時間]で[ジュリー]と[テッド]捜索
+Search for [Ted] and [Julie] in [Time of Caution]
 Talk to [Julie]
 Talk to [Julie] in [Grace City]
 
 ID=600990
 戦士よ、立ち上がれ！
 0
-[ベリーハード][エリア9]で[パニッシャーα]から[パニッシャーαのAIチップ]入手
+Obtain [Punisher α AI Chip] from [Punisher α] in [Area 9][Very Hard]
 Talk to [Katja]
 Talk to [Katja] in [Grace City]
 
 ID=600995
 彼の状態が
 0
-[百の剣]で[ラバン]から[ラバンのデータチップ]入手
+Obtain [Laban’s Data Chip] from [Laban] in [Hundred Swords]
 Talk to [Sora]
 Talk to [Sora] in [Grace City]
 
 ID=601000
 好転するまで
 0
-[ベリーハード][百の剣]で[ラバン：ハンドレッドソード]から[ラバンの薬が入ったカバン]入手 
+Obtain [Laban’s Medicine Bag] from [Laban: Hundred Sword] in [Hundred Swords][Very Hard] 
 Talk to [Sora]
 Talk to [Sora] in [Grace City]
 
 ID=601497
-スチールグレイブⅠ
+Steel Grave Ⅰ
 0
-[スチールグレイブ]のチャプター1～5進行
-[HEMS]に接続
-[カンダスシティ]で[HEMS]に結果を報告
+Complete chapters 1 to 5 of [Steel Grave]
+Connect with [HEMS]
+Report the result to [HEMS] in [Candus City]
 
 ID=601500
-スチールグレイブⅡ
+Steel Grave Ⅱ
 0
-[スチールグレイブ]のチャプター6～10進行
-[HEMS]に接続
-[グレイスシティ]で[HEMS]に結果を報告
+Complete chapters 6 to 10 of [Steel Grave]
+Connect with [HEMS]
+Report the result to [HEMS] in [Candus City]
 
 ID=601505
 思いもよらぬ幸運、不運
 0
 [シークレットイベント]クリア
-[ペリー]と会話
-[ロコタウン]で[ペリー]と会話
+Talk to [Perry]
+Talk to [Perry] in [Rocco Town]
 
 ID=601510
 誠実さの証明
 0
-[デイリーミッション]クリア
-[ペリー]と会話
-[ロコタウン]で[ペリー]と会話
+Clear [Daily Mission]
+Talk to [Perry]
+Talk to [Perry] in [Rocco Town]
 
 ID=700000
 強くなりたいか？
@@ -8106,7 +8106,7 @@ Talk to [Maxim] in [Grace City]
 
 ID=6009601
 [メギドメーカーMKⅡ]討伐
-[積み上げた力]で[メギドメーカーMKⅡ]討伐
+Defeat [Megiddo Maker MK Ⅱ] in [Layers of Strength]
 0
 0
 0
@@ -8134,28 +8134,28 @@ Talk to [Sora]
 
 ID=6009701
 [ジュリー]捜索
-[積み上げた力]で[ジュリー]捜索
+Search for [Julie] in [Layers of Strength]
 0
 0
 0
 
 ID=6009751
 [ドローンの部品]入手
-[エリア9]で[ドローン]から[ドローンの部品]入手
+Obtain [Drone Parts] from [Drone] in [Area 9]
 0
 0
 0
 
 ID=6009801
 [パニッシャーの重要部品]入手
-[エリア9]で[パニッシャー]から[パニッシャーの重要部品]入手
+Obtain [Punisher Main Components] from [Punisher] in [Area 9]
 0
 0
 0
 
 ID=6009851
 [ジュリー]と[テッド]捜索
-[戒めの時間]で[ジュリー]と[テッド]捜索
+Search for [Ted] and [Julie] in [Time of Caution]
 0
 0
 0
@@ -8169,7 +8169,7 @@ Talk to [Katja] in [Grace City]
 
 ID=6009901
 [パニッシャーαのAIチップ]入手
-[ベリーハード][エリア9]で[パニッシャーα]から[パニッシャーαのAIチップ]入手
+Obtain [Punisher α AI Chip] from [Punisher α] in [Area 9][Very Hard]
 0
 0
 0
@@ -8183,14 +8183,14 @@ Talk to [Allen] in [Grace City]
 
 ID=6009951
 [ラバンのデータチップ]入手
-[百の剣]で[ラバン]から[ラバンのデータチップ]入手
+Obtain [Laban’s Data Chip] from [Laban] in [Hundred Swords]
 0
 0
 0
 
 ID=6010001
 [ラバンの薬が入ったカバン]入手
-[ベリーハード][百の剣]で[ラバン：ハンドレッドソード]から[ラバンの薬が入ったカバン]入手
+Obtain [Laban’s Medicine Bag] from [Laban: Hundred Sword] in [Hundred Swords][Very Hard]
 0
 0
 0
@@ -8381,8 +8381,8 @@ ID=601010
 暗闇の世界
 0
 [ゼニス]と会話
-[ペリー]と会話
-[ロコタウン]で[ペリー]と会話
+Talk to [Perry]
+Talk to [Perry] in [Rocco Town]
 
 ID=601020
 歴史を刻む器
@@ -8413,7 +8413,7 @@ Talk to [Zaito]
 Talk to [Zaito] in [Rocco Town]
 
 ID=601040
-スチールグレイブⅡ
+Steel Grave Ⅱ
 0
 [スチールグレイブⅡ]進行
 Talk to [Hype]
@@ -11031,7 +11031,7 @@ ID=6015051
 0
 
 ID=6015101
-[デイリーミッション]クリア
+Clear [Daily Mission]
 [デイリーミッション]をクリア。[デイリーミッション]はクエストウィンドウから受注できる。
 0
 0
