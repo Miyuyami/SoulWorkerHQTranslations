@@ -6231,7 +6231,7 @@ Talk to [Thor] in [Grace City]
 ID=100380
 咆哮する豪傑
 自動車に人影はなく、落ちていた書類カバンには\nネッドカンパニーのUSBがあり、\nキャサリン…アマリリスの情報が入っていた。\nしかし、これだけでは決定的な証拠とは言えない。\nUSBにはロックされたデータも存在したが、\nハッカーが解除するのを待つしかない。\nその間、高速道路に出現したラピッドフレイムの\n突撃部隊長スカー討伐の命を受けた。\nスカーに勝利して戻ると、吉報が待っていた。\nネッドカンパニー専用のある装置にUSBを\n連結するとロックが解除されるとのことだ。\nそこで、ネッドカンパニーの秘書室長と親しい\nエミリートに協力を頼んだ。
-Defeat [Scar] in [Crimson Giant]
+Defeat Howling Hero [Scar] in [Crimson Giant]
 Talk to [Emreit]
 Talk to [Emreit] in [Grace City]
 
@@ -6299,7 +6299,7 @@ Talk to [Kainbarrel]
 Talk to [Kainbarrel] in [Howling Wolf]
 
 ID=100430
-怪鳥
+Bird Monster
 作戦は大成功を収めた。カルラの8割以上を撃墜し、\n強襲部隊長ファルコンの愛鳥クイーンカルラまで\n地上に引きずり下ろす快挙を収める。\nケインバレルが去った後、\nクイーンカルラと戦い、退却させた。
 Defeat Bird Monster [Queen Carla] in [Howling Wolf]
 [セニア]と会話
@@ -6322,7 +6322,7 @@ Talk to [Thor] in [Grace City]
 ID=100445
 虚しい距離
 グレイスシティ付近の町デーブタウンで、\n300名近い住民が一瞬で失踪する事件が起きた。\nケインバレルを筆頭に大々的に捜索をしているが、\n今のところ何の収穫もないと言う。\n何か証拠を捜すようセニアに言われ、\nデーブタウンに向かった。\n出迎えたのは、地面に散乱する服と、\n雨の中で目を光らせるラピッドフレイムだけだった。
-Obtain [Resident's Remains] in [Cold Rain]
+Obtain [Resident's Clothes] in [Cold Rain]
 [セニア]と会話
 [グレイスシティ]で[セニア]と会話
 
@@ -6476,7 +6476,7 @@ Talk to [Hype] in [Grace City]
 ID=600655
 ダイエットのお手伝い
 0
-Destroy [Drum] in [Front Line]
+Destroy [Drum Can] in [Front Line]
 Talk to [Ran]
 Talk to [Ran] in [Grace City]
 
@@ -6539,7 +6539,7 @@ Talk to [Good Boy] in [Grace City]
 ID=600700
 マクシムの頼み
 0
-Obtain [Red Eyed Goggles] from [Scar] in [Crimson Giant]
+Obtain [Red Eye's Goggles] from [Scar] in [Crimson Giant]
 Talk to [Maxim]
 Talk to [Maxim] in [Grace City]
 
@@ -6980,7 +6980,7 @@ Report the result to [HEMS] in [Candus City]
 ID=601505
 思いもよらぬ幸運、不運
 0
-[シークレットイベント]クリア
+Clear [Secret Mission]
 Talk to [Perry]
 Talk to [Perry] in [Rocco Town]
 
@@ -6995,43 +6995,43 @@ ID=700000
 強くなりたいか？
 0
 Talk to [Ryu]
-[ゼニス]と会話
-[ロコタウン]で[ゼニス]と会話
+Talk to [Zenith]
+Talk to [Zenith] in [Rocco Town]
 
 ID=710000
 より強き刃
 0
 ゼニスと武器製作
-[ゼニス]と会話
-[ロコタウン]で[ゼニス]と会話
+Talk to [Zenith]
+Talk to [Zenith] in [Rocco Town]
 
 ID=720000
 より強き弾丸
 0
 ゼニスと武器製作
-[ゼニス]と会話
-[ロコタウン]で[ゼニス]と会話
+Talk to [Zenith]
+Talk to [Zenith] in [Rocco Town]
 
 ID=730000
 より強き鎌
 0
 ゼニスと武器製作
-[ゼニス]と会話
-[ロコタウン]で[ゼニス]と会話
+Talk to [Zenith]
+Talk to [Zenith] in [Rocco Town]
 
 ID=740000
 より強き拳
 0
 ゼニスと武器製作
-[ゼニス]と会話
-[ロコタウン]で[ゼニス]と会話
+Talk to [Zenith]
+Talk to [Zenith] in [Rocco Town]
 
 ID=750000
 より強き弦
 0
 ゼニスと武器製作
-[ゼニス]と会話
-[ロコタウン]で[ゼニス]と会話
+Talk to [Zenith]
+Talk to [Zenith] in [Rocco Town]
 
 ID=1003501
 Talk to [Hype]
@@ -7048,22 +7048,22 @@ ID=1003502
 0
 
 ID=1003551
-[ジェレミー]と会話
+Talk to [Jeremy]
 Talk to [Jeremy] in [Grace City]
 0
 0
 0
 
 ID=1003601
-[ラピッドフレイム突撃部隊]討伐
+Defeat [Rapid Flame Assault Unit]
 Defeat [Rapid Flame Assault Unit] in [Beings of the Underworld]
 0
 0
 0
 
 ID=1003602
-[ブラックガントレット]討伐
-[異界の者たち]で\n[ブラックガントレット]討伐
+Defeat [Black Gauntlet]
+Defeat [Black Gauntlet] in [Beings of the Underworld]
 0
 0
 0
@@ -7083,22 +7083,22 @@ Talk to [Roy]
 0
 
 ID=1003751
-[ネッドカンパニー車輌]を保護
+Protect the [NED Company Vehicle]
 Protect the [NED Company Vehicle] in [Pursuit]
 0
 0
 0
 
 ID=1003752
-[書類カバン]調査
-[追跡]で[書類カバン]調査
+Investigate the [Briefcase]
+Investigate the [Briefcase] in [Pursuit]
 0
 0
 0
 
 ID=1003801
-咆哮する豪傑[スカー]討伐
-Defeat [Scar] in [Crimson Giant]
+Defeat Howling Hero [Scar]
+Defeat Howling Hero [Scar] in [Crimson Giant]
 0
 0
 0
@@ -7118,43 +7118,43 @@ Talk to [Laufer] in [Grace City]
 0
 
 ID=1003852
-[ラピッドフレイム奇襲部隊]討伐
-[救出]で[ラピッドフレイム奇襲部隊]討伐
+Defeat [Rapid Flame Raid Unit]
+Defeat [Rapid Flame Raid Unit] in [Rescue]
 0
 0
 0
 
 ID=1003901
-[電源装置Ⅰ]起動
-[残酷な刃]で[電源装置Ⅰ]起動
+Activate the [Power Supply Ⅰ]
+Activate the [Power Supply Ⅰ] in [Cruel Blade]
 0
 0
 0
 
 ID=1003902
-[電源装置Ⅱ]起動
-[残酷な刃]で[電源装置Ⅱ]起動
+Activate the [Power Supply Ⅱ]
+Activate the [Power Supply Ⅱ] in [Cruel Blade]
 0
 0
 0
 
 ID=1003903
-[電源装置Ⅲ]起動
-[残酷な刃]で[電源装置Ⅲ]起動
+Activate the [Power Supply Ⅲ]
+Activate the [Power Supply Ⅲ] in [Cruel Blade]
 0
 0
 0
 
 ID=1003904
-[電源装置Ⅳ]起動
-[残酷な刃]で[電源装置Ⅳ]起動
+Activate the [Power Supply Ⅳ]
+Activate the [Power Supply Ⅳ] in [Cruel Blade]
 0
 0
 0
 
 ID=1003905
-[セキュリティキー]入手
-[残酷な刃]で[ベニン]から[セキュリティキー]入手
+Obtain [Security Key]
+Obtain [Security Key] from [Venin] in [Cruel Blade]
 0
 0
 0
@@ -7167,15 +7167,15 @@ Talk to [Thor] in [Grace City]
 0
 
 ID=1004001
-[セキュリティボックス]調査
+Investigate the [Security Box]
 Examine the [Security Box] in [The Witch of Summer Breezes]
 0
 0
 0
 
 ID=1004002
-緑風の魔女[ポイズン]討伐
-[緑風の魔女]で[ポイズン]討伐
+Defeat Witch of Summer Breeze [Poison]
+Defeat [Poison] in [The Witch of Summer Breezes]
 0
 0
 0
@@ -7188,7 +7188,7 @@ Talk to [Emreit] in [Grace City]
 0
 
 ID=1004052
-[ジェレミー]と会話
+Talk to [Jeremy]
 Talk to [Jeremy] in [Grace City]
 0
 0
@@ -7216,15 +7216,15 @@ Talk to [Maxim] in [Grace City]
 0
 
 ID=1004201
-[暗雲]で[マクシム]と会話
-[暗雲]で[マクシム]と会話
+Talk to [Maxim] in [Dark Clouds]
+Talk to [Maxim] in [Dark Clouds]
 0
 0
 0
 
 ID=1004202
-[C4]爆破
-[暗雲]で[C4]を爆破させて壁を破壊
+Detonate the [C4]
+Destroy the wall by detonating the [C4] in [Dark Clouds]
 0
 0
 0
@@ -7237,14 +7237,14 @@ Talk to [Kainbarrel] in [Grace City]
 0
 
 ID=1004252
-[ラピッドフレイム強襲部隊]討伐
-[吠える狼]で[ラピッドフレイム強襲部隊]討伐
+Defeat [Rapid Flame Assault Unit]
+Defeat [Rapid Flame Assault Unit] in [Howling Wolf]
 0
 0
 0
 
 ID=1004301
-怪鳥[クイーンカルラ]討伐
+Defeat Monster Bird [Queen Carla]
 Defeat Bird Monster [Queen Carla] in [Howling Wolf]
 0
 0
@@ -7258,14 +7258,14 @@ Talk to [Sedurin] in [Grace City]
 0
 
 ID=1004352
-爆風の騎手[ファルコン]討伐
-[爆風の騎手]で[ファルコン]討伐
+Defeat Blasting Horsemen [Falcon]
+Defeat [Falcon] in [Blasting Horsemen]
 0
 0
 0
 
 ID=1004401
-[ジェレミー]と会話
+Talk to [Jeremy]
 Talk to [Jeremy] in [Grace City]
 0
 0
@@ -7279,29 +7279,29 @@ Talk to [Roy]
 0
 
 ID=1004451
-[破れた住民の服]入手
-[冷たい雨]で[破れた住民の服]入手
+Obtain [Resident's Torn Clothes]
+Obtain [Resident's Torn Clothes] in [Cold Rain]
 0
 0
 0
 
 ID=1004452
-[汚れた住民の服]入手
-[冷たい雨]で[汚れた住民の服]入手
+Obtain [Resident's Dirty Clothes]
+Obtain [Resident's Dirty Clothes] in [Cold Rain]
 0
 0
 0
 
 ID=1004453
-[濡れた住民の服]入手
-[冷たい雨]で[濡れた住民の服]入手
+Obtain [Resident's Wet Clothes]
+Obtain [Resident's Wet Clothes] in [Cold Rain]
 0
 0
 0
 
 ID=1004454
-[穴が開いた住民の服]入手
-[冷たい雨]で[穴が開いた住民の服]入手
+Obtain [Resident's Tattered Clothes]
+Obtain [Resident's Tattered Clothes] in [Cold Rain]
 0
 0
 0
@@ -7314,36 +7314,36 @@ Talk to [Sora] in [Grace City]
 0
 
 ID=1004551
-[スピリットパスファインダーⅠ]設置
-[背徳の痕跡]で[スピリットパスファインダーⅠ]設置
+Install the [Spirit Pathfinder Ⅰ]
+Install the [Spirit Pathfinder Ⅰ] in [Immorality Traces]
 0
 0
 0
 
 ID=1004552
-[スピリットパスファインダーⅡ]設置
-[背徳の痕跡]で[スピリットパスファインダーⅡ]設置
+Install the [Spirit Pathfinder Ⅱ]
+Install the [Spirit Pathfinder Ⅱ] in [Immorality Traces]
 0
 0
 0
 
 ID=1004553
-[スピリットパスファインダーⅢ]設置
-[背徳の痕跡]で[スピリットパスファインダーⅢ]設置
+Install the [Spirit Pathfinder Ⅲ]
+Install the [Spirit Pathfinder Ⅲ] in [Immorality Traces]
 0
 0
 0
 
 ID=1004554
-[スピリットパスファインダーⅣ]設置
-[背徳の痕跡]で[スピリットパスファインダーⅣ]設置
+Install the [Spirit Pathfinder Ⅳ]
+Install the [Spirit Pathfinder Ⅳ] in [Immorality Traces]
 0
 0
 0
 
 ID=1004555
-[ドレインクロー]入手
-[背徳の痕跡]で[フレイムテンペスト]から[ドレインクロー]入手
+Obtain [Drain Claw]
+Obtain [Drain Claw] from [Flame Tempest] in [Immorality Traces]
 0
 0
 0
@@ -7363,21 +7363,21 @@ Talk to [Sedurin] in [Grace City]
 0
 
 ID=1004652
-ラピッドフレイム勢力を殲滅
-[新たな跳躍]で[ラピッドフレイム]殲滅
+Wipe out all rapid flame forces
+Wipe out all [Rapid Flame] in [A New Leap]
 0
 0
 0
 
 ID=1004701
-咆哮する赤い豪傑[ブラッディスカー]討伐
+Defeat Howling Red Hero [Bloody Scar]
 Defeat Howling Red Hero [Bloody Scar] in [A New Leap]
 0
 0
 0
 
 ID=1004751
-[ジェレミー]と会話
+Talk to [Jeremy]
 Talk to [Jeremy] in [Grace City]
 0
 0
@@ -7412,57 +7412,57 @@ Talk to [Roy]
 0
 
 ID=1004902
-敵勢力を奇襲攻撃
-[夜中の奇襲]で敵勢力を奇襲攻撃
+Ambush the enemy forces
+Ambush the enemy forces in [A Midnight Surprise Attack]
 0
 0
 0
 
 ID=1004951
-[怯える兵士]と会話
-[罠]で[怯える兵士]と会話
+Talk to [Frightened Soldier]
+Talk to [Frightened Soldier] in [Trap]
 0
 0
 0
 
 ID=1004952
-[震える兵士]と会話
-[罠]で[震える兵士]と会話
+Talk to [Shivering Soldier]
+Talk to [Shivering Soldier] in [Trap]
 0
 0
 0
 
 ID=1004953
-[意欲のない兵士]と会話
-[罠]で[意欲のない兵士]と会話
+Talk to [Unmotivated Soldier]
+Talk to [Unmotivated Soldier] in [Trap]
 0
 0
 0
 
 ID=1004954
-[疲れた兵士]と会話
-[罠]で[疲れた兵士]と会話
+Talk to [Worn-out Soldier]
+Talk to [Worn-out Soldier] in [Trap]
 0
 0
 0
 
 ID=1004955
-[ヘルコレクター]討伐
-[罠]で[ヘルコレクター]討伐
+Defeat [Hell Collector]
+Defeat [Hell Collector] in [Trap]
 0
 0
 0
 
 ID=1005001
-[ラピッドフレイム暗殺部隊]討伐
-[暴食する影]で\n[ラピッドフレイム暗殺部隊]討伐
+Defeat [Rapid Flame Assassination Unit]
+Defeat [Rapid Flame Assassination Unit] in [Shadow of Gluttony]
 0
 0
 0
 
 ID=1005002
-暴食する影[ファントム]討伐
-[暴食する影]で[ファントム]討伐
+Defeat Shadow of Gluttony [Phantom]
+Defeat [Phantom] in [Shadow of Gluttony]
 0
 0
 0
@@ -7482,15 +7482,15 @@ Talk to [Sora] in [Grace City]
 0
 
 ID=1005101
-[ネッドカンパニー傭兵]討伐
+Defeat [NED Company Mercenary]
 Defeat [NED Company Mercenary] in [Discovered Weapons]
 0
 0
 0
 
 ID=1005102
-[ロードバスター]討伐
-[現れた兵器]で[ロードバスター]討伐
+Defeat [Road Buster]
+Defeat [Road Buster] in [Discovered Weapons]
 0
 0
 0
@@ -7503,43 +7503,43 @@ Talk to [Sedurin] in [Grace City]
 0
 
 ID=1005152
-[EMP爆弾Ⅰ]設置
-[戒めの時間]で[EMP爆弾Ⅰ]設置
+Install the [EMP Bomb Ⅰ]
+Install the [EMP Bomb Ⅰ] in [Time of Caution]
 0
 0
 0
 
 ID=1005153
-[EMP爆弾Ⅱ]設置
-[戒めの時間]で[EMP爆弾Ⅱ]設置
+Install the [EMP Bomb Ⅱ]
+Install the [EMP Bomb Ⅱ] in [Time of Caution]
 0
 0
 0
 
 ID=1005154
-[EMP爆弾Ⅲ]設置
-[戒めの時間]で[EMP爆弾Ⅲ]設置
+Install the [EMP Bomb Ⅲ]
+Install the [EMP Bomb Ⅲ] in [Time of Caution]
 0
 0
 0
 
 ID=1005155
-[EMP爆弾Ⅳ]設置
-[戒めの時間]で[EMP爆弾Ⅳ]設置
+Install the [EMP Bomb Ⅳ]
+Install the [EMP Bomb Ⅳ] in [Time of Caution]
 0
 0
 0
 
 ID=1005156
-[EMP爆弾V]設置
-[戒めの時間]で[EMP爆弾V]設置
+Install the [EMP Bomb V]
+Install the [EMP Bomb V] in [Time of Caution]
 0
 0
 0
 
 ID=1005157
-[EMP爆弾Ⅵ]設置
-[戒めの時間]で[EMP爆弾Ⅵ]設置
+Install the [EMP Bomb Ⅵ]
+Install the [EMP Bomb Ⅵ] in [Time of Caution]
 0
 0
 0
@@ -7552,22 +7552,22 @@ Investigate the interior of the secret base in [Hundred Swords]
 0
 
 ID=1005251
-[ネッドカンパニー傭兵]討伐
-[百の剣]で[ネッドカンパニー傭兵]討伐
+Defeat [NED Company Mercenary]
+Defeat [NED Company Mercenary] in [Hundred Swords]
 0
 0
 0
 
 ID=1005301
-ニアソウルワーカー[ラバン]と戦闘
-[百の剣]で\nニアソウルワーカー[ラバン]と戦闘
+Fight Soulworker Replica [Laban]
+Fight Soulworker Replica [Laban] in [Hundred Swords]
 0
 0
 0
 
 ID=1005302
-[ラバン：ハンドレッドソード]討伐
-[百の剣]で\n[ラバン：ハンドレッドソード]討伐
+Defeat [Laban: Hundred Sword]
+Defeat [Laban: Hundred Sword] in [Hundred Sword]
 0
 0
 0
@@ -7587,63 +7587,63 @@ Talk to [Kainbarrel] in [Grace City]
 0
 
 ID=6006451
-[ワイルドビーク]討伐
+Defeat [Wild Beak]
 Defeat [Wild Beak] in [Front Line]
 0
 0
 0
 
 ID=6006501
-[レッドフード]討伐
+Defeat [Red Hood]
 Defeat [Red Hood] in [Front Line]
 0
 0
 0
 
 ID=6006551
-[ドラム缶]破壊
-Destroy [Drum] in [Front Line]
+Destroy [Drum Can]
+Destroy [Drum Can] in [Front Line]
 0
 0
 0
 
 ID=6006601
-[ブラックガントレットの機械腕]入手
+Obtain [Black Gauntlet’s Mechanical Arm]
 Obtain [Black Gauntlet’s Mechanical Arm] from [Black Gauntlet] in [Beings of the Underworld]
 0
 0
 0
 
 ID=6006651
-[ジンフィストールの機械腕]入手
+Obtain [Zin Pistol's Mechanical Arm]
 Obtain [Zin Pistol's Mechanical Arm] from [Zin Pistol] in [Front Line][Very Hard]
 0
 0
 0
 
 ID=6006701
-[アーマースチール]討伐
+Defeat [Armor Steel]
 Defeat [Armor Steel] in [Power Leads to Power]
 0
 0
 0
 
 ID=6006751
-[堅い鎧片]入手
+Obtain [Hard Armor Fragment]
 Obtain [Hard Armor Fragment] from [Armor Steel] in [Power Leads to Power]
 0
 0
 0
 
 ID=6006801
-[ガソリンタンク]入手
+Obtain [Petrol Tank]
 Obtain [Petrol Tank] from [Lubricator] in [Power Leads to Power]
 0
 0
 0
 
 ID=6006851
-[巨大ハンマー]入手
+Obtain [Enormous Hammer]
 Obtain [Enormous Hammer] from [Hell Infuser] in [Pursuit]
 0
 0
@@ -7664,21 +7664,21 @@ Talk to [Ted] in [Grace City]
 0
 
 ID=6006951
-[捨てられた球]入手
+Obtain [Abandoned Ball]
 Obtain [Abandoned Ball] from [Steel] in [Front Line]
 0
 0
 0
 
 ID=6007001
-[赤い眼光のゴーグル]入手
-Obtain [Red Eyed Goggles] from [Scar] in [Crimson Giant]
+Obtain [Red Eye's Goggles]
+Obtain [Red Eye's Goggles] from [Scar] in [Crimson Giant]
 0
 0
 0
 
 ID=6007051
-[アンイーブンフード]討伐
+Defeat [Uneven Hood]
 Defeat [Uneven Hood] in [NED Company]
 0
 0
@@ -7692,7 +7692,7 @@ Talk to [Julie] in [Grace City]
 0
 
 ID=6007151
-[ポイズンのフィギュア]入手
+Obtain [Poison's Figurine]
 Obtain [Poison's Figurine] from [Python] in [NED Company]
 0
 0
@@ -7713,7 +7713,7 @@ Talk to [Julie] in [Grace City]
 0
 
 ID=6007251
-[ヘビースチール]討伐
+Defeat [Heavy Steel]
 Defeat [Heavy Steel] in [Rescue]
 0
 0
@@ -7727,7 +7727,7 @@ ID=6007301
 0
 
 ID=6007351
-[魔法のパッド]入手
+Obtain [Magic Pad]
 Obtain [Magic Pad] from [Zin Chaser] in [Worn Out Atmosphere]
 0
 0
@@ -7741,112 +7741,112 @@ Talk to [Good Boy] in [Grace City]
 0
 
 ID=6007402
-[ジンチェイサー]討伐
-{破れた空気]で[ジンチェイサー]討伐
+Defeat [Zin Chaser]
+Defeat [Zin Chaser] in [Worn Out Atmosphere]
 0
 0
 0
 
 ID=6007451
-[スネークの猛毒]入手
+Obtain [Snake’s Deadly Venom]
 Obtain [Snake’s Deadly Venom] from [Snake] in [NED Company]
 0
 0
 0
 
 ID=6007501
-[ジンスチール]討伐
+Defeat [Zin Steel]
 Defeat [Zin Steel] in [NED Company]
 0
 0
 0
 
 ID=6007551
-[魅惑剤]入手
+Obtain [Seduction Drug]
 Obtain [Seduction Drug] from [Venin] in [Cruel Blade]
 0
 0
 0
 
 ID=6007601
-[デスストーカー]討伐
+Defeat [Death Stalker]
 Defeat [Death Stalker] in [NED Company][Very Hard]
 0
 0
 0
 
 ID=6007651
-[自信爆発剤]入手
+Obtain [Self-Confidence Drug]
 Obtain [Self-Confidence Drug] from [Poison] in [The Witch of Summer Breezes]
 0
 0
 0
 
 ID=6007701
-[野獣のたてがみ]入手
+Obtain [Beast's Mane]
 Obtain [Beast’s Mane] from [Beast Fang] in [Wolf Cry]
 0
 0
 0
 
 ID=6007751
-[カーマインビースト]討伐
+Defeat [Carmine Beast]
 Defeat [Carmine Beast] in [Dark Clouds]
 0
 0
 0
 
 ID=6007801
-[クリムゾンビースト]討伐
+Defeat [Crimson Beast]
 Defeat [Crimson Beast] in [Wolf Cry]
 0
 0
 0
 
 ID=6007851
-[インテンションカルラのくちばし]入手
+Obtain [Intention Carla’s Beak]
 Obtain [Intention Carla’s Beak] from [Intention Carla] in [Wolf Cry]
 0
 0
 0
 
 ID=6007901
-[アーマードカルラのくちばし]入手
+Obtain [Armored Carla’s Beak]
 Obtain [Armored Carla’s Beak] from [Armored Carla in [Wolf Cry][Very Hard]
 0
 0
 0
 
 ID=6007951
-[レッドメイン]討伐
+Defeat [Red Mane]
 Defeat [Red Mane] in [Crimson Winds]
 0
 0
 0
 
 ID=6008001
-[クローラー]討伐
+Defeat [Crawler]
 Defeat [Crawler] in [Wolf Cry]
 0
 0
 0
 
 ID=6008051
-[伝説のククリ]入手
+Obtain [Kukri's Legend]
 Obtain [Kukri’s Legend] from [Red Mane] in [Crimson Winds]
 0
 0
 0
 
 ID=6008101
-[クイーンカルラ]討伐
+Defeat [Queen Carla]
 Defeat [Queen Carla] in [Howling Wolf]
 0
 0
 0
 
 ID=6008151
-[誰かのIDタグ]入手
+Obtain [Somebody’s ID Tag]
 Obtain [Somebody’s ID Tag] from [Summoner] in [Wolf Cry]
 0
 0
@@ -7860,56 +7860,56 @@ Talk to [Thor]
 0
 
 ID=6008251
-[クイーンカルラの残骸]入手
+Obtain [Queen Carla's Remains]
 Obtain [Queen Carla's Remains] from [Falcon] in [Blasting Horsemen]
 0
 0
 0
 
 ID=6008301
-[ジンサマナー]討伐
+Defeat [Zin Summoner]
 Defeat [Zin Summoner] in [Cold Rain]
 0
 0
 0
 
 ID=6008351
-[電気ケーブル]入手
+Obtain [Electric Cable]
 Obtain [Electric Cable] from [Wild Beast Fang] in [Cold Rain]
 0
 0
 0
 
 ID=6008401
-[シングルレッグ]討伐
+Defeat [Single Leg]
 Defeat [Single Leg] in [Cold Rain]
 0
 0
 0
 
 ID=6008451
-[カーチャの祖母の家]捜索
+Search for the [Katja's Grandmother's House]
 Investigate the [Katja's Grandmother's House] in [Dark City]
 0
 0
 0
 
 ID=6008501
-[燃えてしまった写真]入手
+Obtain [Burning Photographs]
 Obtain [Burning Photographs] from [Scarlet Mask] in [Dark City]
 0
 0
 0
 
 ID=6008551
-[ジンパイソン]討伐
+Defeat [Zin Python]
 Defeat [Zin Python] in [Cold Rain]
 0
 0
 0
 
 ID=6008601
-[フレイムテンペスト]討伐
+Defeat [Flame Tempest]
 Defeat [Flame Tempest] in [Immorality Traces]
 0
 0
@@ -7923,21 +7923,21 @@ Talk to [Julie] in [Grace City]
 0
 
 ID=6008651
-[住民の遺品]入手
+Obtain [Resident's Remains]
 Obtain [Resident's Remains] from [Flame Tempest] in [Immorality Traces]
 0
 0
 0
 
 ID=6008701
-[インテンションサマナー]討伐
+Defeat [Intention Summoner]
 Defeat [Intention Summoner] in [Cold Rain][Very Hard]
 0
 0
 0
 
 ID=6008751
-[スカーの巨大斧]入手
+Obtain [Scar's Gigantic Axe]
 Obtain [Scar's Gigantic Axe] from [Bloody Scar] in [A New Leap]
 0
 0
@@ -7958,98 +7958,98 @@ Talk to [Nave]
 0
 
 ID=6008901
-[プレス]討伐
+Defeat [Press]
 Defeat [Press] in [A Midnight Surprise Attack]
 0
 0
 0
 
 ID=6008951
-[太い鉄鎖]入手
+Obtain [Thick Iron Chain]
 Obtain [Thick Iron Chain] from [Big Butcher] in [Flame Breaker]
 0
 0
 0
 
 ID=6009001
-[パイソン]討伐
+Defeat [Python]
 Defeat [Python] in [Flame Breaker]
 0
 0
 0
 
 ID=6009051
-[古びたIDタグ]入手
+Obtain [Ancient ID Tag]
 Obtain [Deceased Soldier's ID Tag] from [Deceased Starry Forest League Supporting Troops] in [Burning City]
 0
 0
 0
 
 ID=6009052
-[錆びたIDタグ]入手
+Obtain [Rusted ID Tag]
 Obtain [Deceased Soldier's ID Tag] from [Deceased Starry Forest League Supporting Troops] in [Burning City]
 0
 0
 0
 
 ID=6009053
-[穴が開いたIDタグ]入手
+Obtain [Tattered ID Tag]
 Obtain [Deceased Soldier's ID Tag] from [Deceased Starry Forest League Supporting Troops] in [Burning City]
 0
 0
 0
 
 ID=6009054
-[ボコボコなIDタグ]入手
+Obtain [Shallow ID Tag]
 Obtain [Deceased Soldier's ID Tag] from [Deceased Starry Forest League Supporting Troops] in [Burning City]
 0
 0
 0
 
 ID=6009055
-[擦り減ったIDタグ]入手
+Obtain [Used ID Tag]
 Obtain [Deceased Soldier's ID Tag] from [Deceased Starry Forest League Supporting Troops] in [Burning City]
 0
 0
 0
 
 ID=6009056
-[綺麗なIDタグ]入手
+Obtain [Pretty ID Tag]
 Obtain [Deceased Soldier's ID Tag] from [Deceased Starry Forest League Supporting Troops] in [Burning City]
 0
 0
 0
 
 ID=6009101
-[暗殺部隊服務信条]入手
+Obtain [Assassination Unit’s Soldier's Creed]
 Obtain [Assassination Unit’s Soldier's Creed] from [White Fang] in [Burning City]
 0
 0
 0
 
 ID=6009151
-[白い仮面]入手
+Obtain [White Mask]
 Obtain [White Mask] from [White Fang] in [Burning City]
 0
 0
 0
 
 ID=6009201
-[ダンシングソード]入手
+Obtain [Dancing Sword]
 Obtain [Dancing Sword] from [Dancing Shadow] in [Flame Breaker][Very Hard]
 0
 0
 0
 
 ID=6009251
-[ビッグブッチャー]討伐
+Defeat [Big Butcher]
 Defeat [Big Butcher in [Flame Breaker]
 0
 0
 0
 
 ID=6009301
-[魂の棺]入手
+Obtain [Soul Coffin]
 Obtain [Soul Coffin] from [Hell Collector] in [Trap]
 0
 0
@@ -8063,21 +8063,21 @@ Talk to [Ran] in [Grace City]
 0
 
 ID=6009401
-[折れた真紅の刃]入手
+Obtain [Broken Blood Blade]
 Obtain [Broken Blood Blade] from [Phantom] in [Shadow of Gluttony]
 0
 0
 0
 
 ID=6009451
-[不発ミサイル]入手
+Obtain [Unexploded Missile
 Obtain [Unexploded Missile] from [Tripod] in [Area 9]
 0
 0
 0
 
 ID=6009501
-[ネッド傭兵の血液サンプル]入手
+Obtain [NED Mercenary’s Blood Sample]
 Obtain [NED Mercenary’s Blood Sample] from [NED Company Mercenary] in [Area 9]
 0
 0
@@ -8091,8 +8091,8 @@ Talk to [Ran] in [Grace City]
 0
 
 ID=6009552
-[ロードバスター]討伐
-[現れた兵器]で[ロードバスター]討伐
+Defeat [Road Buster]
+Defeat [Road Buster] in [Discovered Weapons]
 0
 0
 0
@@ -8105,7 +8105,7 @@ Talk to [Maxim] in [Grace City]
 0
 
 ID=6009601
-[メギドメーカーMKⅡ]討伐
+Defeat [Megiddo Maker MK Ⅱ]
 Defeat [Megiddo Maker MK Ⅱ] in [Layers of Strength]
 0
 0
@@ -8119,42 +8119,42 @@ Talk to [Hype] in [Grace City]
 0
 
 ID=6009652
-[ファイアルーラー]討伐
-[エリア9]で[ネッドファイアルーラー]討伐
+Defeat [NED Fire Ruler]
+Defeat [NED Fire Ruler] in [Area 9]
 0
 0
 0
 
 ID=6009653
 Talk to [Sora]
-[グレイスシティ]の[ソラ]と会話
+Talk to [Sora] in [Grace City]
 0
 0
 0
 
 ID=6009701
-[ジュリー]捜索
+Search for [Julie]
 Search for [Julie] in [Layers of Strength]
 0
 0
 0
 
 ID=6009751
-[ドローンの部品]入手
+Obtain [Drone Parts]
 Obtain [Drone Parts] from [Drone] in [Area 9]
 0
 0
 0
 
 ID=6009801
-[パニッシャーの重要部品]入手
+Obtain [Punisher Main Components]
 Obtain [Punisher Main Components] from [Punisher] in [Area 9]
 0
 0
 0
 
 ID=6009851
-[ジュリー]と[テッド]捜索
+Search for [Julie] and [Ted]
 Search for [Ted] and [Julie] in [Time of Caution]
 0
 0
@@ -8168,7 +8168,7 @@ Talk to [Katja] in [Grace City]
 0
 
 ID=6009901
-[パニッシャーαのAIチップ]入手
+Obtain [Punisher α AI Chip]
 Obtain [Punisher α AI Chip] from [Punisher α] in [Area 9][Very Hard]
 0
 0
@@ -8182,14 +8182,14 @@ Talk to [Allen] in [Grace City]
 0
 
 ID=6009951
-[ラバンのデータチップ]入手
+Obtain [Laban’s Data Chip]
 Obtain [Laban’s Data Chip] from [Laban] in [Hundred Swords]
 0
 0
 0
 
 ID=6010001
-[ラバンの薬が入ったカバン]入手
+Obtain [Laban’s Medicine Bag]
 Obtain [Laban’s Medicine Bag] from [Laban: Hundred Sword] in [Hundred Swords][Very Hard]
 0
 0
@@ -8211,28 +8211,28 @@ Talk to [Booker TV] in [District 6]
 
 ID=6006351
 Obtain [Void Crystal Fragment]
-[第6区域]で[ソウルジャンク]から\n[空白結晶の破片]入手
+Obtain [Void Crystal Fragment] from [Soul Junk] in [District 6]
 0
 0
 0
 
 ID=2000101
 Obtain [Void Crystal]
-[第6区域]で[ソウルジャンク]から\n[空白結晶]入手
+Obtain [Void Crystal] from [Soul Junk] in [District 6]
 0
 0
 0
 
 ID=2000151
-[第6区域]で[ソウルジャンク]討伐
-[第6区域]で[ソウルジャンク]討伐
+Defeat [Soul Junk] in [District 6]
+Defeat [Soul Junk] in [District 6]
 0
 0
 0
 
 ID=2000201
-[ザ・シング]討伐
-[第6区域]で[ザ・シング]討伐
+Defeat [The Thing]
+Defeat [The Thing] in [District 6]
 0
 0
 0
@@ -8241,8 +8241,8 @@ ID=300005
 歴史を記す者
 0
 Talk to [Miriam] in [Rocco Town]
-[イオ]と会話
-[ロコタウン]で[イオ]と会話
+Talk to [Io]
+Talk to [Io] in [Rocco Town]
 
 ID=3000051
 Talk to [Miriam]
@@ -8255,29 +8255,29 @@ ID=300010
 [サポーター]傭兵の道
 0
 Talk to [Ralph]
-[イオ]と会話
-[カンダスシティ]で[イオ]と会話
+Talk to [Io]
+Talk to [Io] in [Candus City]
 
 ID=300015
 [サポーター]ハイテクゴミ箱
 0
 Talk to [Haidinger]
-[イオ]と会話
-[カンダスシティ]で[イオ]と会話
+Talk to [Io]
+Talk to [Io] in [Candus City]
 
 ID=300020
 [サポーター]赤眼の猛獣
 0
 Talk to [Kainbarrel]
-[イオ]と会話
-[グレイスシティ]で[イオ]と会話
+Talk to [Io]
+Talk to [Io] in [Grace City]
 
 ID=300025
 [サポーター]懐かしさを泣き叫ぶ
 0
 Talk to [Good Boy]
-[イオ]と会話
-[グレイスシティ]で[イオ]と会話
+Talk to [Io]
+Talk to [Io] in [Grace City]
 
 ID=3000101
 Talk to [Ralph]
@@ -8294,15 +8294,15 @@ Talk to [Yomi] in [Candus City]
 0
 
 ID=3000103
-[傭兵契約書]購入
-[カンダスシティ]で[ヨミ]から[傭兵契約書]購入
+Purchase [Mercenary's Contract]
+Purchase [Mercenary's Contract] from [Yomi] in [Candus City]
 0
 0
 0
 
 ID=3000104
 Talk to [Ralph]
-[カンダスシティ]でラルフと会話
+Talk to [Ralph] in [Candus City]
 0
 0
 0
@@ -8315,8 +8315,8 @@ Talk to [Haidinger] in [Candus City]
 0
 
 ID=3000152
-[分裂細胞]入手
-[分裂細胞]はベリーハード[赤い魔眼]で[マッドビホールダー]から獲得可能
+Obtain [Fission Cell]
+Obtain [Fission Cell] from [Mad Beholder] in [Red Demon Eyes][Very Hard]
 0
 0
 0
@@ -8336,8 +8336,8 @@ Talk to [Kainbarrel] in [Grace City]
 0
 
 ID=3000202
-[ファントム]討伐
-[ベリーハード]\n[暴食する影]で[ファントム]討伐
+Defeat [Phantom]
+Defeat [Phantom] in [Shadow of Gluttony][Very Hard]
 0
 0
 0
@@ -8357,8 +8357,8 @@ Talk to [Good Boy] in [Grace City]
 0
 
 ID=3000252
-[クリスの香水]入手
-[クリスの香水]はベリーハード[爆風の騎手]で[ファルコン]から獲得可能
+Obtain [Chris's Perfume]
+Obtain [Chris's Perfume] from [Falcon] in [Blasting Horsemen]
 0
 0
 0
@@ -8371,155 +8371,155 @@ Talk to [Good Boy] in [Grace City]
 0
 
 ID=601005
-バキュームイレギュラー
+Irregular Vacuum
 0
-[グルトン]討伐
+Defeat [Glutton]
 Talk to [Ryu]
 Talk with [Ryu] in [Rocco Town]
 
 ID=601010
 暗闇の世界
 0
-[ゼニス]と会話
+Talk to [Zenith]
 Talk to [Perry]
 Talk to [Perry] in [Rocco Town]
 
 ID=601020
 歴史を刻む器
 0
-[A.Rカード：エリック]製作
-[イオ]と会話
-[ロコタウン]で[イオ]と会話
+Craft [AR Card: Erik]
+Talk to [Io]
+Talk to [Io] in [Rocco Town]
 
 ID=601025
 空を駆ける
 0
-[アジン]と会話
-[アジン]と会話
-[第6区域]で[アジン]と会話
+Talk to [Azin]
+Talk to [Azin]
+Talk to [Azin] in [District 6]
 
 ID=601030
 暖かい私の家
 0
-[マイルーム]に移動
+Go to [Room]
 Talk to [Ryoko]
 Talk to [Ryoko] in [Rocco Town]
 
 ID=601035
 まずは叩いてみよう
 0
-[壊れた時計]分解
+Dismantle [Broken Clock]
 Talk to [Zaito]
 Talk to [Zaito] in [Rocco Town]
 
 ID=601040
 Steel Grave Ⅱ
 0
-[スチールグレイブⅡ]進行
+Complete [Steel Grave Ⅱ]
 Talk to [Hype]
 Talk to [Hype] in [Grace City]
 
 ID=601045
 歪んだ次元
 0
-[マリオネットエドガー]討伐
+Defeat [Marionette Edgar]
 [セニア]と会話
 [グレイスシティ]で[セニア]と会話
 
 ID=6010051
-[グルトン]討伐
-[グルトン]討伐[グルトン]はメイズ内部で低確率で出現
+Defeat [Glutton]
+At a low chance, [Glutton] can appear in dungeons. Defeat [Glutton]
 0
 0
 0
 
 ID=6010101
-[ゼニス]と会話
-[ロコタウン]で[ゼニス]と会話
+Talk to [Zenith]
+Talk to [Zenith] in [Rocco Town]
 0
 0
 0
 
 ID=6010102
-[ゼニスカスタムレッグギア]製作
-[壊れたコア]と[バラバラになった部品]を材料に[ゼニスカスタムレッグギア]製作
+Craft [Zenith's Custom Leg Gear]
+Craft [Zenith's Custom Leg Gear] using the materials [Broken Core] and [Broken Part]
 0
 0
 0
 
 ID=6010103
-[ゼニス]と会話
-[ロコタウン]で[ゼニス]と会話
+Talk to [Zenith]
+Talk to [Zenith] in [Rocco Town]
 0
 0
 0
 
 ID=6010201
-[A.Rカード：エリック]製作
-[スターカード]と[錆びたレンチ]を材料に[A.Rカード：エリック]製作
+Craft [AR Card: Erik]
+Craft [AR Card: Erik] using the materials [Star Card] and [Rusty Wrench]
 0
 0
 0
 
 ID=6010251
-[アジン]と会話
-[第6区域]で[アジン]と会話
+Talk to [Azin]
+Talk to [Azin] in [District 6]
 0
 0
 0
 
 ID=6010301
-[マイルーム]に移動
-[マイルーム]を見物しに行こう。マイルームは[メニュー]の[マイルーム]を選択すると入場できます。
+Go to [Room]
+View your [Room]. You can access it by selecting [Menu] then [Room].
 0
 0
 0
 
 ID=6010351
-[壊れた時計]分解
-[壊れた時計]を[マジックハンマー]もしくは[分解モード]で分解
+Dismantle [Broken Clock]
+Dismantle [Broken Clock] using [Magic Hammer] or [Dismantle Mode]
 0
 0
 0
 
 ID=6010401
-[ミラーカイン]討伐
-[スチールグレイブ]で[チャプター6]のボス[ミラーカイン]討伐
+Defeat [Mirror Cain]
+Defeat [Mirror Cain], the boss of [Chapter 6] in [Steel Grave]
 0
 0
 0
 
 ID=6010402
-[ミラージャック・ザ・キング]討伐
-[スチールグレイブ]で[チャプター7]のボス[ミラージャック・ザ・キング]討伐
+Defeat [Mirror Jack the King]
+Defeat [Mirror Jack the King], the boss of [Chapter 7] in [Steel Grave]
 0
 0
 0
 
 ID=6010403
-[ミラーマッドビホールダー]討伐
-[スチールグレイブ]で[チャプター8]のボス[ミラーマッドビホールダー]討伐
+Defeat [Mirror Mad Beholder]
+Defeat [Mirror Mad Beholder], the boss of [Chapter 8] in [Steel Grave]
 0
 0
 0
 
 ID=6010404
-[ミラーアラクニス]討伐
-[スチールグレイブ]で[チャプター9]のボス[ミラーアラクニス]討伐
+Defeat [Mirror Arachnis]
+Defeat [Mirror Arachnis], the boss of [Chapter 9] in [Steel Grave]
 0
 0
 0
 
 ID=6010405
-[ミラービッグパペット]討伐
-[スチールグレイブ]で[チャプター10]のボス[ミラービッグパペット]討伐
+Defeat [Mirror Big Puppet]
+Defeat [Mirror Big Puppet], the boss of [Chapter 10] in [Steel Grave]
 0
 0
 0
 
 ID=6010451
-[マリオネットエドガー]討伐
-[ラストカーニバル]で[マリオネットエドガー]討伐
+Defeat [Marionette Edgar]
+Defeat [Marionette Edgar] in [Last Carnival]
 0
 0
 0
@@ -8527,9 +8527,9 @@ ID=6010451
 ID=300030
 [サポーター]断固たる意志の力
 0
-[イオ]と会話
-[イオ]と会話
-[ロコタウン]で[イオ]と会話
+Talk to [Io]
+Talk to [Io]
+Talk to [Io] in [Rocco Town]
 
 ID=3000301
 Talk to [Ryu]
@@ -9501,14 +9501,14 @@ ID=601105
 追跡の隠れミノ
 0
 [バスターコア]で[トレッカー]から[電波受信装置]入手
-[ゼニス]と会話
+Talk to [Zenith]
 [ルインフォートレス]で[ゼニス]と会話
 
 ID=601110
 デリバリーサービス
 0
 [コールドリベンジ]で[Eデリーバー]から[Eデリーバー本体]入手
-[ゼニス]と会話
+Talk to [Zenith]
 [ルインフォートレス]で[ゼニス]と会話
 
 ID=601115
@@ -9557,7 +9557,7 @@ ID=601145
 罪ほろぼしに…
 0
 [地中の太陽]に[アップグレード電波妨害機]設置
-[ゼニス]と会話
+Talk to [Zenith]
 [ルインフォートレス]で[ゼニス]と会話
 
 ID=601150
@@ -9599,7 +9599,7 @@ ID=601175
 アップグレードプリーズ
 0
 [無心の影]で[ゴースト]から[ワイドライン]入手後、[クリーニー]と会話
-[ゼニス]と会話
+Talk to [Zenith]
 [ルインフォートレス]で[ゼニス]と会話
 
 ID=601180
@@ -9613,14 +9613,14 @@ ID=601185
 寂しい物の定義
 0
 [隠蔽された殺意]で[クリーニー]と会話
-[ゼニス]と会話
+Talk to [Zenith]
 [ルインフォートレス]で[ゼニス]と会話
 
 ID=601190
 大切な物の定義
 0
 [鉄と火薬]で[ウォーソルバー]討伐
-[ゼニス]と会話
+Talk to [Zenith]
 [ルインフォートレス]で[ゼニス]と会話
 
 ID=601195
@@ -9634,7 +9634,7 @@ ID=601200
 捨てられた物の定義
 0
 [闇の下に]で捨てられたロボット発見
-[ゼニス]と会話
+Talk to [Zenith]
 [ルインフォートレス]で[ゼニス]と会話
 
 ID=601205
@@ -9655,14 +9655,14 @@ ID=601215
 愛されるロボットⅠ
 0
 [積み上げた力]で[ヘビーアースクエイカー]と[ハーティー]討伐
-[ゼニス]と会話
+Talk to [Zenith]
 [ルインフォートレス]で[ゼニス]と会話
 
 ID=601220
 愛されるロボットⅡ
 0
 [ルインフォートレス]で[ジェシー]、[ゼニス]と会話
-[ゼニス]と会話
+Talk to [Zenith]
 [ルインフォートレス]で[ゼニス]と会話
 
 ID=601225
@@ -9711,14 +9711,14 @@ ID=601470
 何もなかった？Ⅰ
 0
 [コントロールベース]で閉鎖されていない制御施設である[招かれざる客]地域クリア
-[ゼニス]と会話
+Talk to [Zenith]
 [ルインフォートレス]で[ゼニス]と会話
 
 ID=601475
 何もなかった？Ⅱ
 0
 [招かれざる客]で[ヘビーアースクエイカー]から[ヘビーアースクエイカー本体]入手
-[ゼニス]と会話
+Talk to [Zenith]
 [ルインフォートレス]で[ゼニス]と会話
 
 ID=601480
@@ -10597,7 +10597,7 @@ ID=6012251
 0
 
 ID=6012252
-[ゼニス]と会話
+Talk to [Zenith]
 [ルインフォートレス]で[ゼニス]と会話
 0
 0
@@ -10796,14 +10796,14 @@ ID=600301
 不法船
 0
 [カンダスシティ]で強化職人[トリシャ]と会話
-[ゼニス]と会話
+Talk to [Zenith]
 [カンダスシティ]で[ゼニス]と会話
 
 ID=300035
 [サポーター]黄昏の錬金術士
 0
-[ゼニス]と会話
-[イオ]と会話
+Talk to [Zenith]
+Talk to [Io]
 [ルインフォートレス]の[イオ]と会話
 
 ID=300040
@@ -10814,7 +10814,7 @@ ID=300040
 [ルインフォートレス]の[ジェシー]と会話
 
 ID=3000351
-[ゼニス]と会話
+Talk to [Zenith]
 [ルインフォートレス]で[ゼニス]と会話
 0
 0
@@ -10849,7 +10849,7 @@ ID=3000355
 0
 
 ID=3000356
-[ゼニス]と会話
+Talk to [Zenith]
 [ルインフォートレス]で[ゼニス]と会話
 0
 0
@@ -10877,7 +10877,7 @@ ID=3000359
 0
 
 ID=3000350
-[ゼニス]と会話
+Talk to [Zenith]
 [ルインフォートレス]で[ゼニス]と会話
 0
 0
@@ -10954,21 +10954,21 @@ ID=3000400
 0
 
 ID=6014971
-[ミラーカイン]討伐
+Defeat [Mirror Cain]
 [スチールグレイブ]のチャプター1のステージ5で[ミラーカイン]討伐
 0
 0
 0
 
 ID=6014972
-[ミラービッグパペット]討伐
+Defeat [Mirror Big Puppet]
 [スチールグレイブ]のチャプター2のステージ5で[ミラービッグパペット]討伐
 0
 0
 0
 
 ID=6014973
-[ミラージャック・ザ・キング]討伐
+Defeat [Mirror Jack the King]
 [スチールグレイブ]のチャプター3のステージ5で[ミラージャック・ザ・キング]討伐
 0
 0
@@ -11003,14 +11003,14 @@ ID=6015002
 0
 
 ID=6015003
-[ミラーアラクニス]討伐
+Defeat [Mirror Arachnis]
 [スチールグレイブ]のチャプター8のステージ5で[ミラーアラクニス]討伐
 0
 0
 0
 
 ID=6015004
-[ミラーマッドビホールダー]討伐
+Defeat [Mirror Mad Beholder]
 [スチールグレイブ]のチャプター9のステージ5で[ミラーマッドビホールダー]討伐
 0
 0
@@ -11024,7 +11024,7 @@ ID=6015005
 0
 
 ID=6015051
-[シークレットイベント]クリア
+Clear [Secret Mission]
 [シークレットイベント]をクリア。[シークレットイベント]はメイズ進行中にランダムで発生する。
 0
 0
@@ -11076,7 +11076,7 @@ ID=601530
 鉄の城
 0
 異常空白[ アイアンキャッスル]調査
-[イオ]と会話
+Talk to [Io]
 [ルインフォートレス]で[イオ]と会話
 
 ID=601540
@@ -11150,8 +11150,8 @@ Talk to [Kainbarrel]
 0
 
 ID=1006652
-[イオ]と会話
-[グレイスシティ]で[イオ]と会話
+Talk to [Io]
+Talk to [Io] in [Grace City]
 0
 0
 0
@@ -11227,8 +11227,8 @@ ID=7100001
 0
 
 ID=7100002
-[ゼニス]と会話
-[ロコタウン]で[ゼニス]と会話
+Talk to [Zenith]
+Talk to [Zenith] in [Rocco Town]
 0
 0
 0
@@ -11248,8 +11248,8 @@ ID=7200001
 0
 
 ID=7200002
-[ゼニス]と会話
-[ロコタウン]で[ゼニス]と会話
+Talk to [Zenith]
+Talk to [Zenith] in [Rocco Town]
 0
 0
 0
@@ -11269,8 +11269,8 @@ ID=7300001
 0
 
 ID=7300002
-[ゼニス]と会話
-[ロコタウン]で[ゼニス]と会話
+Talk to [Zenith]
+Talk to [Zenith] in [Rocco Town]
 0
 0
 0
@@ -11290,8 +11290,8 @@ ID=7400001
 0
 
 ID=7400002
-[ゼニス]と会話
-[ロコタウン]で[ゼニス]と会話
+Talk to [Zenith]
+Talk to [Zenith] in [Rocco Town]
 0
 0
 0
@@ -11311,8 +11311,8 @@ ID=7500001
 0
 
 ID=7500002
-[ゼニス]と会話
-[ロコタウン]で[ゼニス]と会話
+Talk to [Zenith]
+Talk to [Zenith] in [Rocco Town]
 0
 0
 0
