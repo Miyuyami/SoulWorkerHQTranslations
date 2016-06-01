@@ -872,7 +872,7 @@ ID=512
 Forfeit
 
 ID=513
-※Resurrecting will apply the buff effect <font color='#5CD1E5'>[Emergency Aid]</font>.
+※バフ効果<font color='#5CD1E5'>[加護]</font>を使用して復活します。
 
 ID=514
 ※<font color='#F2CB61'>1 [Accident Call] will be used</font> for resurrection.
@@ -1712,10 +1712,10 @@ ID=905
 Basic Information
 
 ID=906
-Maximum Attack
+Attack
 
 ID=907
-Defense
+防御
 
 ID=908
 Title
@@ -5471,7 +5471,7 @@ ID=18031
 Seal Count
 
 ID=18032
-Equipment could not be registered on the Familiar; the level is too high.
+装備の必要Ｌｖよりファミリアの必要Ｌｖが高いので登録できません。
 
 ID=18033
 Sealed
@@ -5613,6 +5613,9 @@ Current number of entries available are as follows.\nLast Carnival: {0}/2\nJunk 
 
 ID=18082
 All daily counted Casual Raid entries have been reduced by one.
+
+ID=18083
+家具インベントリに新しい家具が{0}個保管されます。 
 
 ID=18172
 Maximum {0} Familiars attached
@@ -5816,7 +5819,7 @@ ID=19049
 テキスト_タイプ2_靴テラブローチセット_オプション
 
 ID=19500
-アイドルオブドリーム
+アイドル
 
 ID=20010
 Greet
@@ -6656,7 +6659,7 @@ ID=22513
 Use Break Skill
 
 ID=22514
-Quick Skill Deck Link
+スキルデッキ連携
 
 ID=22515
 Quick Slot
@@ -9155,7 +9158,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 31/May/2016 9:20 AM JST.\nPlease check your guild’s information for updates.
+This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 02/Jun/2016 01:00 AM JST.\nPlease check your guild’s information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -9734,10 +9737,10 @@ ID=28263
 Do you want to change the Guild Mark?
 
 ID=28264
-リーグマークの模様/基礎を選択してください。
+ギルドマークの模様/基礎を選択してください。
 
 ID=28265
-以前のリーグマークと同じです。
+以前のギルドマークと同じです。
 
 ID=29000
 Room
@@ -12254,7 +12257,7 @@ ID=40482
 The ark ship’s defense systems have gone wild due to its broken power source.\nThe laser canon will face the ships hulls and hit randomly.
 
 ID=40483
-The lasers will reduce the player’s strength; however it will also reduce the enemies' forces.
+レーザーはプレイヤーの全ての能力値を下げますが、敵の防御度も減少させます。
 
 ID=40484
 Laser only damages players. \n It will also melt the ship’s high-grade steel plates to generate a thermal heat zone. \n In the thermal heat zone, players will be burned.
@@ -12335,7 +12338,7 @@ ID=40509
 Destroy the Buff Bomb to receive a buff.
 
 ID=40510
-The explosive field has been deactivated.
+広域攻撃が停止しました。
 
 ID=40511
 The elevator is falling.
@@ -12398,7 +12401,7 @@ ID=40614
 Destroy the Flame Crystal located at the Camp of Calamity to stop the lava from flowing.
 
 ID=40615
-[Eternity] is passing through the pillar of light; as a result it’s defenses have been reduced.
+エターニティが光の柱を通過すると防御度が大幅に減少します。
 
 ID=40616
 The lightning effect causes great damage to nearby allies. Control the Golden Obelisk to negate this effect.
@@ -14705,10 +14708,10 @@ ID=49459
 http://cafe.naver.com/fakesoul/152
 
 ID=49497
-Cursor ON
+Perspective ON
 
 ID=49498
-Perspective ON
+Cursor ON
 
 ID=49499
 Menu
@@ -16782,3 +16785,6 @@ Clear
 
 ID=60143
 STAGE
+
+ID=60144
+반복 횟수 ({0}/{1})
