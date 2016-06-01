@@ -2471,7 +2471,7 @@ Icon/Buff/Icon_Common_Buff_Immun
 -
 
 ID=30114
-防御力減少
+防御度減少
 10秒間、防御度50%減少
 Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
@@ -2771,19 +2771,19 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 +PV
 
 ID=40001
-緊急救助
+Protection Divine
 10分以内に死亡した時、復活できる。
 Icon/Buff/Icon_Common_Buff_Revive
 Protection Divine
 
 ID=40002
-緊急救助
+Protection Divine
 30分以内に死亡した時、復活できる。
 Icon/Buff/Icon_Common_Buff_Revive
 Protection Divine
 
 ID=40003
-緊急救助
+Protection Divine
 60分以内に死亡した時、復活できる。
 Icon/Buff/Icon_Common_Buff_Revive
 Protection Divine
@@ -4493,76 +4493,76 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Puissance d'attaque ↑
 
 ID=53676
-소울 드레인 I
-적중 시 10% 확률로 SG가 10% 회복됩니다.\n(발동 대기시간 20초)
+ソウルドレインⅠ
+攻撃命中時、10%の確率でSGが10%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
++SG
 
 ID=53677
-소울 드레인 II
-적중 시 10% 확률로 SG가 15% 회복됩니다.\n(발동 대기시간 20초)
+ソウルドレインⅡ
+攻撃命中時、10%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
++SG
 
 ID=53678
-소울 드레인 III
-적중 시 15% 확률로 SG가 20% 회복됩니다.\n(발동 대기시간 15초)
+ソウルドレインⅢ
+攻撃命中時、15%の確率でSGが20%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
++SG
 
 ID=53679
-소울 드레인 I
-적중 시 15% 확률로 SG가 15% 회복됩니다.\n(발동 대기시간 20초)
+ソウルドレインⅠ
+攻撃命中時、15%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
++SG
 
 ID=53680
-소울 드레인 II
-적중 시 15% 확률로 SG가 20% 회복됩니다.\n(발동 대기시간 20초)
+ソウルドレインⅡ
+攻撃命中時、15%の確率でSGが20%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
++SG
 
 ID=53681
-소울 드레인 III
-적중 시 20% 확률로 SG가 25% 회복됩니다.\n(발동 대기시간 15초)
+ソウルドレインⅢ
+攻撃命中時、20%の確率でSGが25%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-SG 회복
++SG
 
 ID=53682
-육참골단 I
-피격 시 2%의 확률로 4초 동안 공격력이\n20% 상승합니다. (발동 대기시간 20초)
+肉を切らせて骨を断つⅠ
+攻撃を受けた時、2%の確率で4秒間、攻撃力が20%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Puissance d'attaque ↑
 
 ID=53683
-육참골단 II
-피격 시 4%의 확률로 5초 동안 공격력이\n20% 상승합니다. (발동 대기시간 20초)
+肉を切らせて骨を断つⅡ
+攻撃を受けた時、4%の確率で5秒間、攻撃力が20%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Puissance d'attaque ↑
 
 ID=53684
-육참골단 III
-피격 시 7%의 확률로 6초 동안 공격력이\n20% 상승합니다. (발동 대기시간 20초)
+肉を切らせて骨を断つⅢ
+攻撃を受けた時、7%の確率で6秒間、攻撃力が20%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Puissance d'attaque ↑
 
 ID=53685
-육참골단 I
-피격 시 3%의 확률로 5초 동안 공격력이\n25% 상승합니다. (발동 대기시간 20초)
+肉を切らせて骨を断つⅠ
+攻撃を受けた時、3%の確率で5秒間、攻撃力が25%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Puissance d'attaque ↑
 
 ID=53686
-육참골단 II
-피격 시 6%의 확률로 6초 동안 공격력이\n25% 상승합니다. (발동 대기시간 20초)
+肉を切らせて骨を断つⅡ
+攻撃を受けた時、6%の確率で6秒間、攻撃力が25%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Puissance d'attaque ↑
 
 ID=53687
-육참골단 III
-피격 시 10%의 확률로 7초 동안 공격력이\n25% 상승합니다. (발동 대기시간 20초)
+肉を切らせて骨を断つⅢ
+攻撃を受けた時、10%の確率で7秒間、攻撃力が25%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
-공격력 증가
+Puissance d'attaque ↑
 
 ID=55002
 ビックリボックスⅢ
