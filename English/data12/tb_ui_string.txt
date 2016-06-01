@@ -2891,7 +2891,7 @@ ID=3100
 Quest Completion Award
 
 ID=3101
-Records Completion Reward
+Achievement Completion Reward
 
 ID=3102
 Clearance Rewards
@@ -2987,10 +2987,10 @@ ID=4009
 {0}-{1} {2} can be entered.
 
 ID=4010
-Record Achieved
+Achievement Completed
 
 ID=4011
-Record 「{0}」 attained.
+Achievement 「{0}」 attained.
 
 ID=4012
 Clearance Level Up
@@ -3338,7 +3338,7 @@ ID=5809
 <font color='#FFFFFF' size='30'>TIP: </font>You can check the <font color='#00ff9c'>mini-map</font> to find the location of an <font color='#00D8FF'>NPC</font> or <font color='#00D8FF'>dungeon entrances</font>.
 
 ID=5810
-<font color='#FFFFFF' size='30'>TIP: </font>Press the hotkey <font color='#00ff9c'>[L]</font> to see your <font color='#00D8FF'>[Records]</font> and <font color='#00D8FF'>[Secured Area Percentages]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Press the hotkey <font color='#00ff9c'>[L]</font> to see your <font color='#00D8FF'>[Achievement]</font> and <font color='#00D8FF'>[Secured Area Percentages]</font>.
 
 ID=5811
 <font color='#FFFFFF' size='30'>TIP: </font>Depending on your <font color='#00D8FF'>progress</font>, you can press <font color='#00ff9c'>[L]</font> to collect rewards.
@@ -3527,7 +3527,7 @@ ID=5872
 <font color='#FFFFFF' size='30'>TIP: </font>You can check the <font color='#00ff9c'>mini-map</font> to find the location of an <font color='#00D8FF'>NPC</font> or <font color='#00D8FF'>dungeon entrances</font>.
 
 ID=5873
-<font color='#FFFFFF' size='30'>TIP: </font>Press the hotkey <font color='#00ff9c'>[L]</font> to see your <font color='#00D8FF'>[Records]</font> and <font color='#00D8FF'>[Secured Area Percentages]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Press the hotkey <font color='#00ff9c'>[L]</font> to see your <font color='#00D8FF'>[Achievement]</font> and <font color='#00D8FF'>[Secured Area Percentages]</font>.
 
 ID=5874
 <font color='#FFFFFF' size='30'>TIP: </font>Based on your game progess, you can check the <font color='#00D8FF'>Progress Information</font> window <font color='#00ff9c'>[L]</font> to receive some rewards.
@@ -4037,13 +4037,13 @@ ID=8403
 OFFLINE
 
 ID=9000
-Season.1
+Season 1
 
 ID=9001
-Season.2
+Season 2
 
 ID=9002
-Season.3
+Season 3
 
 ID=9100
 Room
@@ -10550,7 +10550,7 @@ ID=32018
 Quest
 
 ID=32019
-Records
+Progress Info
 
 ID=32020
 Memorial
@@ -10736,7 +10736,7 @@ ID=32080
 Quest
 
 ID=32081
-Records
+Achievement
 
 ID=32082
 Clearance
@@ -12260,7 +12260,7 @@ ID=40484
 Laser only damages players. \n It will also melt the ship’s high-grade steel plates to generate a thermal heat zone. \n In the thermal heat zone, players will be burned.
 
 ID=40485
-The Proto Ziegs have taken over the Ark Ship’s main gun.\n Bombardment to the first-grade plate will begin promptly.
+The Prototype Sieg have taken over the Ark Ship’s main gun.\n Bombardment to the first-grade plate will begin promptly.
 
 ID=40486
 The elevator’s operation has stopped due to an attack.\n You must defeat all enemies to open the elevator’s door.
@@ -12692,10 +12692,10 @@ ID=42094
 Reconnaisance Officer Amandea
 
 ID=42095
-Proto Ziegs
+Prototype Sieg
 
 ID=42096
-Combatant Proto Zieg
+Combatant Prototype Sieg
 
 ID=42097
 Blade Wolf
@@ -12806,10 +12806,10 @@ ID=42132
 Attack Force Soldier Ian
 
 ID=42133
-Armored Proto Ziegs
+Armored Prototype Sieg
 
 ID=42134
-Full-Armored Proto Zieg Tanks
+Full-Armored Prototype Sieg Tanks
 
 ID=42135
 Martin
@@ -13631,7 +13631,7 @@ ID=43093
 Amanda
 
 ID=43095
-Proto Ziegs
+Prototype Sieg
 
 ID=43097
 Blade Wolf
@@ -13691,7 +13691,7 @@ ID=43131
 Ian
 
 ID=43133
-Armored Proto Ziegs
+Armored Prototype Sieg
 
 ID=43135
 Martin
@@ -13985,13 +13985,13 @@ ID=45021
 Items Purchased
 
 ID=45022
-Quantity:
+Current Balance:
 
 ID=45023
 Total Cost:
 
 ID=45024
-After Balance:
+Balance Left:
 
 ID=45025
 Buy
@@ -14516,13 +14516,13 @@ ID=49236
 Leave Steel Grave
 
 ID=49300
-Records
+Progress Info
 
 ID=49301
-Records
+Achievement
 
 ID=49302
-Record Type
+Achievement Type
 
 ID=49303
 All
@@ -14543,10 +14543,10 @@ ID=49308
 Play
 
 ID=49309
-Record List
+Achievement List
 
 ID=49310
-Records
+Achievement
 
 ID=49311
 Reward
@@ -14582,7 +14582,7 @@ ID=49321
 Records
 
 ID=49322
-Season{0}
+Season {0}
 
 ID=49323
 Claim
@@ -14594,28 +14594,28 @@ ID=49325
 Complete
 
 ID=49326
-Item Record
+Item Achievement
 
 ID=49327
-Dungeon Records
+Dungeon Achievement
 
 ID=49328
-Combat Records
+Combat Achievement
 
 ID=49329
-Quest Record
+Quest Achievement
 
 ID=49330
-Play Record
+Play Achievement
 
 ID=49331
-Community Record
+Community Achievement
 
 ID=49332
 Done:
 
 ID=49333
-Emblem Records
+Emblem Achievement
 
 ID=49334
 Special Mission
@@ -14669,7 +14669,7 @@ ID=49407
 System
 
 ID=49408
-Records
+Progress Info
 
 ID=49409
 Memorial
@@ -14909,7 +14909,7 @@ ID=49790
 http://soulworker.hangame.co.jp/community/noticebbs.nhn?m=read&view=&bbsid=2510&bbstype=notice&page=1&docid=9594364 
 
 ID=49912
--Mission Failed-\nLeaving dungeon\nin (0} seconds-
+-Mission Failed-\nLeaving dungeon\n-Time left: (0} seconds-
 
 ID=49913
 The party failed the mission. \nCan not join the party.
