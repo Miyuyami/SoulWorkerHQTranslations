@@ -118,7 +118,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=1082
-Rising Ⅱ
+Rising Roll Ⅱ
 [Skill Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
@@ -288,7 +288,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 ID=11021
 Fast Blade Ⅰ
 [Skill: Basic Attack]\nDamage: [361%]\nSA Break: [194%]\n\n[Skill Info: Additional Attack]\nDamage: [225%]\nSA Break: [121%]\n\n[SkillInfo: General]\nSG Cost: [55]\nCooldown: [15s]\n\nCombo attack while moving forward.\nCan do an additional attack at the end.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Additional Attack]\nMouse: After the last attack (RMB)
-Amount of damage of normal attacks \n [361%] +18 %\nSA destruction total: 194% +9 %\n\n [followup] \n damage amount: [225] +12 %\nSA fracture % 121% +6%
+[Normal Attack]\nDamage: [361%]+18%\nSA Break: [194%]+9%\n\n[Additional Attack]\nDamage: [225%]+12%\nSA Break: [121%]+6%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 0
 
@@ -867,7 +867,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=2082
-Rising Ⅱ
+Rising Roll Ⅱ
 [Skill Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
@@ -1616,7 +1616,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=3082
-Rising Ⅱ
+Rising Roll Ⅱ
 [Skill Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
@@ -2379,7 +2379,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=4082
-Rising Ⅱ
+Rising Roll Ⅱ
 [Skill Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
@@ -3142,7 +3142,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=5082
-Rising Ⅱ
+Rising Roll Ⅱ
 [Skill Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
 Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
@@ -4269,7 +4269,7 @@ LvMax
 0
 
 ID=24014
-SA破壊Ⅰ
+SA DestructionⅠ
 [特性情報]\nダメージ量増加値：[00%]\nSA破壊量増加値：[00%]\n\nSA破壊量が増加します。
 ダメージ量増加値：[00%]+00%\nSA破壊量増加値：[00%]+00%
 0
@@ -4311,7 +4311,7 @@ LvMax
 0
 
 ID=24024
-アッパーⅠ
+UpperⅠ
 [特性情報：追加攻撃]\nダメージ量：[000%]\nSA破壊量：[000%]\n\nグローリーアッパーの追加攻撃後に発動。\n異能力で前方の敵を攻撃する。\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)
 [追加攻撃]\nダメージ量増加値：[00%]+00%\nSA破壊量増加値：[00%]+00%
 0
@@ -6776,77 +6776,77 @@ During a critical hit, 20% chance to recover 10% SG. (Cooldown: 30 sec)
 
 ID=31052
 Surprise Attack Pro Ⅱ
-クリティカル命中時、20%の確率でSGが13%回復する。（クールタイム30秒）
+20% chance to heal SG by 13% on Critical Hit. (Cooldown 30 sec)
 .
 0
 0
 
 ID=31053
 Surprise Attack Pro Ⅲ
-クリティカル命中時、20%の確率でSGが16%回復する。（クールタイム30秒）
+20% chance to heal SG by 16% on Critical Hit. (Cooldown 30 sec)
 .
 0
 0
 
 ID=31061
 Surprise Attack Pro Ⅰ
-クリティカル命中時、20%の確率でSGが12%回復する。（クールタイム30秒）
+20% chance to heal SG by 12% on Critical Hit. (Cooldown 30 sec)
 .
 0
 0
 
 ID=31062
 Surprise Attack Pro Ⅱ
-クリティカル命中時、20%の確率でSGが15%回復する。（クールタイム30秒）
+20% chance to heal SG by 15% on Critical Hit. (Cooldown 30 sec)
 .
 0
 0
 
 ID=31063
 Surprise Attack Pro Ⅲ
-クリティカル命中時、20%の確率でSGが18%回復する。（クールタイム30秒）
+20% chance to heal SG by 18% on Critical Hit. (Cooldown 30 sec)
 .
 0
 0
 
 ID=31071
 Moving Wing Ⅰ
-空中攻撃成功時、60%の確率でHPが5%回復する。（クールタイム40秒）
+60% chance to heal HP by 5% on Aerial Hit. (Cooldown 40 sec)
 .
 0
 0
 
 ID=31072
 Moving Wing Ⅱ
-空中攻撃成功時、70%の確率でHPが7%回復する。（クールタイム35秒）
+70% chance to heal HP by 7% on Aerial Hit. (Cooldown 35 sec)
 .
 0
 0
 
 ID=31073
 Moving Wing Ⅲ
-空中攻撃成功時、80%の確率でHPが9%回復する。（クールタイム30秒）
+80% chance to heal HP by 9% on Aerial Hit. (Cooldown 30 sec)
 .
 0
 0
 
 ID=31081
 Moving Wing Ⅰ
-空中攻撃成功時、70%の確率でHPが6%回復する。（クールタイム40秒）
+70% chance to heal HP by 6% on Aerial Hit. (Cooldown 40 sec)
 .
 0
 0
 
 ID=31082
 Moving Wing Ⅱ
-空中攻撃成功時、80%の確率でHPが8%回復する。（クールタイム35秒）
+80% chance to heal HP by 8% on Aerial Hit. (Cooldown 35 sec)
 .
 0
 0
 
 ID=31083
 Moving Wing Ⅲ
-空中攻撃成功時、90%の確率でHPが10%回復する。（クールタイム30秒）
+90% chance to heal HP by 10% on Aerial Hit. (Cooldown 30 sec)
 .
 0
 0
@@ -6936,85 +6936,85 @@ When an item is obtained, ATK is increased by 25% for 11 sec. (Cooldown: 30 sec)
 0
 
 ID=31131
-パパのもとへⅠ
-エリートランク以下の敵を約1.5秒間、宙に浮かせる。（クールタイム90秒）
+To DaddyⅠ
+All enemies below Elite rank will be launched into the air for 1.5 seconds. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31132
-パパのもとへⅡ
-エリートランク以下の敵を約2.5秒間、宙に浮かせる。（クールタイム90秒）
+To DaddyⅡ
+All enemies below Elite rank will be launched into the air for 2.5 seconds. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31133
-パパのもとへⅢ
-エリートランク以下の敵を約3.5秒間、宙に浮かせる。（クールタイム90秒）
+To Daddy Ⅲ
+All enemies below Elite rank will be launched into the air for 3.5 seconds. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31141
-パパのもとへⅠ
-エリートランク以下の敵を約2秒間、宙に浮かせる。（クールタイム90秒）
+To DaddyⅠ
+All enemies below Elite rank will be launched into the air for 2 seconds. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31142
-パパのもとへⅡ
-エリートランク以下の敵を約3秒間、宙に浮かせる。（クールタイム90秒）
+To DaddyⅡ
+All enemies below Elite rank will be launched into the air for 3 seconds. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31143
-パパのもとへⅢ
-エリートランク以下の敵を約4秒間、宙に浮かせる。（クールタイム90秒）
+To Daddy Ⅲ
+All enemies below Elite rank will be launched into the air for 4 seconds. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31151
-おいくらかしら？Ⅰ
-3mのコインエリアを生成し、周辺の敵にダメージを与え引き寄せる。範囲小。（クールタイム90秒）
+How much?Ⅰ
+Create a 3 meter wide coin area, damaging and pulling in enemies. Small AoE. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31152
-おいくらかしら？Ⅱ
-3mのコインエリアを生成し、周辺の敵にダメージを与え引き寄せる。範囲中。（クールタイム90秒）
+How much? Ⅱ
+Create a 3 meter wide coin area, damaging and pulling in enemies. Medium AoE. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31153
-おいくらかしら？Ⅲ
-5mのコインエリアを生成し、周辺の敵にダメージを与え引き寄せる。範囲中。（クールタイム90秒）
+How much? Ⅲ
+Create a 5 meter wide coin area, damaging and pulling in enemies. Medium AoE. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31161
-おいくらかしら？Ⅰ
-3mのコインエリアを生成し、周辺の敵にダメージを与え引き寄せる。範囲小。（クールタイム90秒）
+How much?Ⅰ
+Create a 3 meter wide coin area, damaging and pulling in enemies. Small AoE. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31162
-おいくらかしら？Ⅱ
-5mのコインエリアを生成し、周辺の敵にダメージを与え引き寄せる。範囲中。（クールタイム90秒）
+How much? Ⅱ
+Create a 5 meter wide coin area, damaging and pulling in enemies. Medium AoE. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31163
-おいくらかしら？Ⅲ
-7mのコインエリアを生成し、周辺の敵にダメージを与え引き寄せる。範囲大。（クールタイム90秒）
+How much? Ⅲ
+Create a 7 meter wide coin area, damaging and pulling in enemies. Large AoE. (Cooldown 90 sec)
 .
 0
 0
