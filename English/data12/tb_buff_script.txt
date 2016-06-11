@@ -811,32 +811,62 @@ Attack Power ↑
 ID=5041
 Blow-up Ⅰ
 Stamina usage -50%.
-Icon/Buff/Icon_Common_Buff_ST_Recovery
+Icon/Buff/Icon_Common_Buff_SG_Recovery
 Stamina Cost ↓
 
 ID=5042
 Blow-up Ⅱ
 Stamina usage -50%.
-Icon/Buff/Icon_Common_Buff_ST_Recovery
+Icon/Buff/Icon_Common_Buff_SG_Recovery
 Stamina Cost ↓
 
 ID=5043
 Blow-up Ⅲ
 Stamina usage -60%.
-Icon/Buff/Icon_Common_Buff_ST_Recovery
+Icon/Buff/Icon_Common_Buff_SG_Recovery
 Stamina Cost ↓
 
 ID=5044
 Blow-up Ⅳ
 Stamina usage -70%.
-Icon/Buff/Icon_Common_Buff_ST_Recovery
+Icon/Buff/Icon_Common_Buff_SG_Recovery
 Stamina Cost ↓
 
 ID=5045
 Blow-up Ⅴ
 Stamina usage -80%.
-Icon/Buff/Icon_Common_Buff_ST_Recovery
+Icon/Buff/Icon_Common_Buff_SG_Recovery
 Stamina Cost ↓
+
+ID=5046
+블로우 업 I
+스태미나 소모량이 50% 만큼 감소합니다.
+Icon/Buff/Icon_Common_Buff_ST_Recovery
+스태미나 소모량 감소
+
+ID=5047
+블로우 업 II
+스태미나 소모량이 50% 만큼 감소합니다.
+Icon/Buff/Icon_Common_Buff_ST_Recovery
+스태미나 소모량 감소
+
+ID=5048
+블로우 업 III
+스태미나 소모량이 60% 만큼 감소합니다.
+Icon/Buff/Icon_Common_Buff_ST_Recovery
+스태미나 소모량 감소
+
+ID=5049
+블로우 업 IV
+스태미나 소모량이 70% 만큼 감소합니다.
+Icon/Buff/Icon_Common_Buff_ST_Recovery
+스태미나 소모량 감소
+
+ID=5050
+블로우 업 V
+스태미나 소모량이 80% 만큼 감소합니다.
+Icon/Buff/Icon_Common_Buff_ST_Recovery
+스태미나 소모량 감소
 
 ID=5500
 Erosion Ⅰ
@@ -1083,6 +1113,36 @@ Hide and Seek Ⅴ
 Damage is nullified.
 Icon/Buff/Icon_Common_Buff_Immun
 Invincible
+
+ID=5576
+하이드 앤 식 I
+슈퍼아머 상태가 되고 모든 공격이 MISS로 들어옵니다.
+Icon/Buff/Icon_Common_Buff_Sarmor
+완전회피
+
+ID=5577
+하이드 앤 식 II
+슈퍼아머 상태가 되고 모든 공격이 MISS로 들어옵니다.
+Icon/Buff/Icon_Common_Buff_Sarmor
+완전회피
+
+ID=5578
+하이드 앤 식 III
+슈퍼아머 상태가 되고 모든 공격이 MISS로 들어옵니다.
+Icon/Buff/Icon_Common_Buff_Sarmor
+완전회피
+
+ID=5579
+하이드 앤 식 IV
+슈퍼아머 상태가 되고 모든 공격이 MISS로 들어옵니다.
+Icon/Buff/Icon_Common_Buff_Sarmor
+완전회피
+
+ID=5580
+하이드 앤 식 V
+슈퍼아머 상태가 되고 모든 공격이 MISS로 들어옵니다.
+Icon/Buff/Icon_Common_Buff_Sarmor
+완전회피
 
 ID=5998
 Pleasureful Bullets
@@ -1435,31 +1495,31 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 ID=6541
 Best Tempo Ⅰ
 When hitting with an attack, recover 6% of damage as HP.
-Icon/Buff/Icon_Common_Buff_VampHP2
+Icon/Buff/Icon_Common_Buff_SG_Recovery
 HP Absorption
 
 ID=6542
 Best Tempo Ⅱ
 When hitting with an attack, recover 8% of damage as HP.
-Icon/Buff/Icon_Common_Buff_VampHP2
+Icon/Buff/Icon_Common_Buff_SG_Recovery
 HP Absorption
 
 ID=6543
 Best Tempo Ⅲ
 When hitting with an attack, recover 10% of damage as HP.
-Icon/Buff/Icon_Common_Buff_VampHP2
+Icon/Buff/Icon_Common_Buff_SG_Recovery
 HP Absorption
 
 ID=6544
 Best Tempo Ⅳ
 When hitting with an attack, recover 12% of damage as HP.
-Icon/Buff/Icon_Common_Buff_VampHP2
+Icon/Buff/Icon_Common_Buff_SG_Recovery
 HP Absorption
 
 ID=6545
 Best Tempo Ⅴ
 When hitting with an attack, recover 15% of damage as HP.
-Icon/Buff/Icon_Common_Buff_VampHP2
+Icon/Buff/Icon_Common_Buff_SG_Recovery
 HP Absorption
 
 ID=6546
@@ -1498,11 +1558,83 @@ Paralyze surrounding enemies.
 Icon/Buff/Icon_Common_Buff_Sarmor
 Barrier
 
+ID=6561
+트러블 패스
+받는 피해량이 10%만큼 감소합니다.
+Icon/Buff/Icon_Common_Buff_Def
+방어도 증가
+
+ID=6562
+트러블 패스 III
+방어도가 60만큼 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+방어도 증가
+
+ID=6563
+트러블 패스 III
+방어도가 120만큼 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+방어도 증가
+
+ID=6564
+트러블 패스 III
+방어도가 250만큼 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+방어도 증가
+
+ID=6566
+비즈 플레이
+공격력이 50만큼 증가합니다.
+Icon/Buff/Icon_Common_Buff_ATK
+공격력 증가
+
+ID=6567
+비즈 플레이 III
+공격력이 150만큼 증가합니다.
+Icon/Buff/Icon_Common_Buff_ATK
+공격력 증가
+
+ID=6568
+비즈 플레이 III
+공격력이 250만큼 증가합니다.
+Icon/Buff/Icon_Common_Buff_ATK
+공격력 증가
+
+ID=6569
+비즈 플레이 III
+공격력이 500만큼 증가합니다.
+Icon/Buff/Icon_Common_Buff_ATK
+공격력 증가
+
+ID=6994
+슬픔의 악상 I
+2초당 SG를 1%씩 회복합니다
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG 회복
+
+ID=6995
+슬픔의 악상 II
+2초당 SG를 2%씩 회복합니다
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG 회복
+
+ID=6996
+슬픔의 악상 III
+2초당 SG를 3%씩 회복합니다
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG 회복
+
 ID=6999
 Theme of Grief
 Recover SG at set intervals of time.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
+
+ID=7000
+침식 I
+피해량의 50%를 HP로 흡수합니다.\n적의 방어도를 50% 만큼 무시합니다.\n이동 속도가 20% 만큼 증가합니다.\n슈퍼아머 상태가 됩니다.
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
 
 ID=7001
 0
@@ -1510,11 +1642,143 @@ ID=7001
 0
 Counter
 
-ID=7011
-Spirit Surge
-After a certain duration, the target is provoked to attack.
+ID=7010
+도발
+일정 시간 동안 도발 대상을 공격합니다.
 Icon/Buff/Icon_Common_Debuff_Provoke
-Taunt
+도발
+
+ID=7021
+도발
+일정 시간 동안 도발 대상을 공격하고 도발 중 회피가 감소합니다.
+Icon/Buff/Icon_Common_Debuff_Provoke
+도발 + 회피 감소
+
+ID=7026
+스피릿 서지 I
+일정 시간 동안 방어도가 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+방어도 증가
+
+ID=7027
+스피릿 서지 II
+일정 시간 동안 방어도가 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+방어도 증가
+
+ID=7028
+스피릿 서지 III
+일정 시간 동안 방어도가 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+방어도 증가
+
+ID=7029
+스피릿 서지 IV
+일정 시간 동안 방어도가 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+방어도 증가
+
+ID=7030
+스피릿 서지 V
+일정 시간 동안 방어도가 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+방어도 증가
+
+ID=7031
+스피릿 서지 특성A I
+흥분 상태가 되어 회피도가 감소합니다.
+Icon/Buff/Icon_Common_Debuff_Weakness
+0
+
+ID=7032
+스피릿 서지 특성A II
+흥분 상태가 되어 회피도가 감소합니다.
+Icon/Buff/Icon_Common_Debuff_Weakness
+0
+
+ID=7033
+스피릿 서지 특성A III
+흥분 상태가 되어 회피도가 감소합니다.
+Icon/Buff/Icon_Common_Debuff_Weakness
+0
+
+ID=7041
+퓨전 아머 I
+일정 시간 동안 무적 상태가 됩니다.
+Icon/Buff/Icon_Common_Buff_SArmor
+무적
+
+ID=7042
+퓨전 아머 II
+일정 시간 동안 무적 상태가 됩니다.
+Icon/Buff/Icon_Common_Buff_SArmor
+무적
+
+ID=7043
+퓨전 아머 III
+일정 시간 동안 무적 상태가 됩니다.
+Icon/Buff/Icon_Common_Buff_SArmor
+무적
+
+ID=7044
+퓨전 아머 IV
+일정 시간 동안 무적 상태가 됩니다.
+Icon/Buff/Icon_Common_Buff_SArmor
+무적
+
+ID=7045
+퓨전 아머 V
+일정 시간 동안 무적 상태가 됩니다.
+Icon/Buff/Icon_Common_Buff_SArmor
+무적
+
+ID=7046
+퓨전 아머 I
+일정 시간 동안 방어도가 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+방어도 증가
+
+ID=7047
+퓨전 아머 II
+일정 시간 동안 방어도가 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+방어도 증가
+
+ID=7048
+퓨전 아머 III
+일정 시간 동안 방어도가 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+방어도 증가
+
+ID=7049
+퓨전 아머 IV
+일정 시간 동안 방어도가 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+방어도 증가
+
+ID=7050
+퓨전 아머 V
+일정 시간 동안 방어도가 증가합니다.
+Icon/Buff/Icon_Common_Buff_Def
+방어도 증가
+
+ID=7060
+헤비 드랍
+방어도가 20%만큼 감소합니다.
+Icon/Buff/Icon_Common_Debuff_Def
+방어도 감소
+
+ID=7061
+헤비 드랍
+방어도가 30%만큼 감소합니다.
+Icon/Buff/Icon_Common_Debuff_Def
+방어도 감소
+
+ID=7062
+헤비 드랍
+방어도가 30%만큼 감소합니다.
+Icon/Buff/Icon_Common_Debuff_Def
+방어도 감소
 
 ID=7501
 Overheat
@@ -1527,6 +1791,36 @@ Overheat
 Skill cannot be used.
 Icon/Buff/Icon_Common_Debuff_Silence
 0
+
+ID=7071
+0
+0
+0
+소울 회복
+
+ID=7072
+0
+0
+0
+소울 회복
+
+ID=7073
+0
+0
+0
+소울 회복
+
+ID=7074
+0
+0
+0
+소울 회복
+
+ID=7075
+0
+0
+0
+소울 회복
 
 ID=20001
 +HP
@@ -2691,6 +2985,12 @@ HP↓
 Become shocked, taking some damage over 3 seconds.
 Icon/Buff/Icon_Common_Debuff_Shock
 Shock
+
+ID=35400
+이동속도 감소
+5초간 이동 속도 50% 감소
+Icon/Buff/Icon_Common_Debuff_MSR
+이동속도 감소
 
 ID=37300
 HP↓
@@ -4386,37 +4686,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53658
 Moving Wings Ⅰ
-When attack failed in the air, 60% chance of HP recovering 5% (Cooldown : 40 seconds)
+空中攻撃成功時、60%の確率でHPが5%回復する。（クールタイム40秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53659
 Moving Wings Ⅱ
-When attack failed in the air, 70% chance of HP recovering 7% (Cooldown : 35 seconds)
+空中攻撃成功時、70%の確率でHPが7%回復する。（クールタイム35秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53660
 Moving Wings Ⅲ
-When attack failed in the air, 80% chance of HP recovering 9% (Cooldown : 30 seconds)
+空中攻撃成功時、80%の確率でHPが9%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53661
 Moving Wings Ⅰ
-When attack failed in the air, 70% chance of HP recovering 6% (Cooldown : 40 seconds)
+空中攻撃成功時、70%の確率でHPが6%回復する。（クールタイム40秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53662
 Moving Wings Ⅱ
-When attack failed in the air, 80% chance of HP recovering 8% (Cooldown : 35 seconds)
+空中攻撃成功時、80%の確率でHPが8%回復する。（クールタイム35秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53663
 Moving Wings Ⅲ
-When attack failed in the air, 90% chance of HP recovering 10% (Cooldown : 30 seconds)
+空中攻撃成功時、90%の確率でHPが10%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
@@ -4563,6 +4863,78 @@ ID=53687
 攻撃を受けた時、10%の確率で7秒間、攻撃力が25%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
+
+ID=53688
+춤추는 그림자 I
+장착시 공격력이 5% 증가 합니다.
+Icon/Buff/Icon_Common_Buff_Akashic
+공격력 증가
+
+ID=53689
+춤추는 그림자 II
+장착시 공격력이 7% 증가 합니다.
+Icon/Buff/Icon_Common_Buff_Akashic
+공격력 증가
+
+ID=53690
+춤추는 그림자 III
+장착시 공격력이 10% 증가 합니다.
+Icon/Buff/Icon_Common_Buff_Akashic
+공격력 증가
+
+ID=53691
+춤추는 그림자 I
+장착시 공격력이 6% 증가 합니다.
+Icon/Buff/Icon_Common_Buff_Akashic
+공격력 증가
+
+ID=53692
+춤추는 그림자 II
+장착시 공격력이 9% 증가 합니다.
+Icon/Buff/Icon_Common_Buff_Akashic
+공격력 증가
+
+ID=53693
+춤추는 그림자 III
+장착시 공격력이 13% 증가 합니다.
+Icon/Buff/Icon_Common_Buff_Akashic
+공격력 증가
+
+ID=53694
+출력을 실드에 집중 I
+장착시 최대 HP가 8% 증가 합니다.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP 증가
+
+ID=53695
+출력을 실드에 집중 II
+장착시 최대 HP가 13% 증가 합니다.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP 증가
+
+ID=53696
+출력을 실드에 집중 III
+장착시 최대 HP가 18% 증가 합니다.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP 증가
+
+ID=53697
+출력을 실드에 집중 I
+장착시 최대 HP가 12% 증가 합니다.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP 증가
+
+ID=53698
+출력을 실드에 집중 II
+장착시 최대 HP가 17% 증가 합니다.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP 증가
+
+ID=53699
+출력을 실드에 집중 III
+장착시 최대 HP가 22% 증가 합니다.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP 증가
 
 ID=55002
 Surprise Box Ⅲ
