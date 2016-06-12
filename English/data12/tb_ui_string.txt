@@ -872,7 +872,7 @@ ID=512
 Forfeit
 
 ID=513
-※バフ効果<font color='#5CD1E5'>[加護]</font>を使用して復活します。
+※Upon resurrection the buff <font color='#5CD1E5'>[Divine Protection]</font> will be applied.
 
 ID=514
 ※<font color='#F2CB61'>1 [Accident Call] will be used</font> for resurrection.
@@ -1715,7 +1715,7 @@ ID=906
 Attack
 
 ID=907
-防御
+Defense
 
 ID=908
 Title
@@ -2300,7 +2300,7 @@ ID=1410
 Destroyed
 
 ID=1450
-The enhancement to {0} was successfully done from {1} to {2} grade level.
+{0} successfully enhanced {1}+{2}.
 
 ID=1451
 {0} failed to enhance {1}+{2} and the item was destroyed.
@@ -2594,22 +2594,22 @@ ID=2277
 System messages cannot be sent back.
 
 ID=2278
-一括削除
+Delete All
 
 ID=2279
-一括受信
+Receive All
 
 ID=2280
-「受信メール」内の添付アイテムとジェニーを全て受け取りますか？\n(インベントリに空きがない場合は受け取れません)
+Do you want to receive all attached items in the「Inbox」?\n(You cannot receive them if there is no space in the inventory)
 
 ID=2281
-「アカウントメール」内の添付アイテムとジェニーを全て受け取りますか？\n(インベントリに空きがない場合は受け取れません)
+Do you want to receive all attached items in the「Account Mail」?\n(You cannot receive them if there is no space in the inventory)
 
 ID=2282
-選択したメールを全て削除しますか？\n(未読メールまたは添付されたアイテム、ジェニーがあるメールは削除されません)
+Are you sure you want to delete all selected mails?\n(Unread mails or mails with attached items or zenny will not be deleted)
 
 ID=2283
-メールを{0}個削除しました。
+Email {0} was deleted.
 
 ID=2500
 Community
@@ -3023,10 +3023,10 @@ ID=4021
 You have acquired the title {0}.
 
 ID=4022
-재배 완료
+Planting Completed
 
 ID=4023
-{0} 개 재배 수확 가능
+You can grow {0}
 
 ID=5001
 New
@@ -3158,7 +3158,7 @@ ID=5314
 A deleted character cannot be recovered.\nThe guild leader’s position will be revoked.\nAre you sure you want to delete this character?
 
 ID=5315
-キャラクターは、作成後24時間経過すると削除できます。\n残り：{0}時間{1}分
+Characters can only be deleted 24 hours after creation.\nRemaining: {0} hours {1} minutes
 
 ID=5320
 Maintenance in progress
@@ -3629,7 +3629,7 @@ ID=5904
 <font color='#FFFFFF' size='30'>TIP: </font>The Break Skill, <font color='#00D8FF'>「Erosion」</font>, cannot be used in <font color='#00D8FF'>District 6</font>.
 
 ID=5905
-<font color='#FFFFFF'><font size="30">TIP：</font>第6区域では<font color='#00D8FF'>[DRAW]型</font>A.Rカードを使用できません。
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[DRAW]</font> type <font color='#00D8FF'>A.R cards</font> cannot be used in <font color='#00D8FF'>District 6</font>.
 
 ID=6011
 Change Representative
@@ -3782,7 +3782,7 @@ ID=6060
 The Nebula grade or above is registered.\nWould you like to synthesize?
 
 ID=6061
-製作材料として使用できません。
+It cannot be used as a crafting material.
 
 ID=6062
 These materials cannot be used for crafting.
@@ -5477,7 +5477,7 @@ ID=18031
 Seal Count
 
 ID=18032
-装備の必要Ｌｖよりファミリアの必要Ｌｖが高いので登録できません。
+As the Familiar Lv. is higher than the Item Lv., it cannot be selected.
 
 ID=18033
 Sealed
@@ -5621,7 +5621,7 @@ ID=18082
 All daily counted Casual Raid entries have been reduced by one.
 
 ID=18083
-家具インベントリに新しい家具が{0}個保管されます。 
+{0} new furnitures will be stored in the Furniture Inventory. 
 
 ID=18172
 Maximum {0} Familiars attached
@@ -5669,10 +5669,10 @@ ID=18186
 {0} brooches permitted (extensible up to {1})
 
 ID=18187
-ジェスチャー「{0}」使用可能
+Gesture「{0}」 enabled
 
 ID=18188
-検索されたアイテムはありません。
+No items found.
 
 ID=19000
 <font color='#47C83E'>Attack +1%/Evaded Attack Damage +1%</font>
@@ -5825,13 +5825,13 @@ ID=19049
 テキスト_タイプ2_靴テラブローチセット_オプション
 
 ID=19500
-アイドル
+Idol
 
 ID=19501
-러블리 메이드
+Lovely Maid
 
 ID=19502
-스마트 버틀러
+Smart Butler
 
 ID=20010
 Greet
@@ -5906,22 +5906,22 @@ ID=20082
 {0} boasts.
 
 ID=20090
-アイドル
+Idol
 
 ID=20091
-何だかアイドルになった気分だ。
+Feeling better for a little idol.
 
 ID=20092
-{0}が得意気にポーズを取ります。
+{0} proudly poses.
 
 ID=20100
-메이드
+Maid
 
 ID=20101
-서빙 연습을 합니다.
+Practice serving.
 
 ID=20102
-{0}님이 서빙 연습 중입니다.
+{0} practices serving.
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -6680,7 +6680,7 @@ ID=22513
 Use Break Skill
 
 ID=22514
-スキルデッキ連携
+Skill Deck Link
 
 ID=22515
 Quick Slot
@@ -9182,7 +9182,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 11/Jun/2016 9:25 AM JST.\nPlease check your guild’s information for updates.
+This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 13/Jun/2016 2:40 AM JST.\nPlease check your guild’s information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -9761,10 +9761,10 @@ ID=28263
 Do you want to change the Guild Mark?
 
 ID=28264
-ギルドマークの模様/基礎を選択してください。
+Please select a basic pattern for the guild mark.
 
 ID=28265
-以前のギルドマークと同じです。
+This guild mark is identical to the previous one.
 
 ID=29000
 Room
@@ -9944,7 +9944,7 @@ ID=29059
 Reset Camera
 
 ID=29060
-マイルーム退場
+Leave Room
 
 ID=29061
 Use
@@ -11105,10 +11105,10 @@ ID=34036
 Harvest
 
 ID=34037
-도움
+Help
 
 ID=34038
-재배를 시작하시겠습니까?
+Do you want to start planting?
 
 ID=35000
 All
@@ -12287,7 +12287,7 @@ ID=40482
 The ark ship’s defense systems have gone wild due to its broken power source.\nThe laser canon will face the ships hulls and hit randomly.
 
 ID=40483
-レーザーはプレイヤーの全ての能力値を下げますが、敵の防御度も減少させます。
+Although the lasers decrease all of player's stats, it also decreases the defense rate of enemies.
 
 ID=40484
 Laser only damages players. \n It will also melt the ship’s high-grade steel plates to generate a thermal heat zone. \n In the thermal heat zone, players will be burned.
@@ -12368,7 +12368,7 @@ ID=40509
 Destroy the Buff Bomb to receive a buff.
 
 ID=40510
-広域攻撃が停止しました。
+Area of Effect attack has been cancelled.
 
 ID=40511
 The elevator is falling.
@@ -12389,7 +12389,7 @@ ID=40516
 The elevator will stop soon.
 
 ID=40601
-4地域の敵を全て討伐すると、終末の館へと続くポータルが活性化します。
+Once all the enemies in District 4 is defeated, the portal to the Catastrophic House.
 
 ID=40602
 Unleashing the sealed crystal will start the battle.
@@ -12431,7 +12431,7 @@ ID=40614
 Destroy the Flame Crystal located at the Camp of Calamity to stop the lava from flowing.
 
 ID=40615
-エターニティが光の柱を通過すると防御度が大幅に減少します。
+If Eternity passes through the pillar of light, defense will be hugely decreased.
 
 ID=40616
 The lightning effect causes great damage to nearby allies. Control the Golden Obelisk to negate this effect.
@@ -13451,16 +13451,16 @@ ID=42336
 Murderous Flame Tempest
 
 ID=42337
-背徳のフレイムテンペスト
+Flames of Corruption Tempest
 
 ID=42338
-フレイムテンペストμ
+Flame Tempest μ
 
 ID=42339
-殺戮のフレイムテンペストμ
+Murderous Flame Tempest μ
 
 ID=42340
-背徳のフレイムテンペストμ
+Immoral Flame Tempest μ
 
 ID=42341
 Marauder
@@ -13469,88 +13469,88 @@ ID=42342
 Assassin Marauder
 
 ID=42343
-隠身の暗殺者マローダー
+Stealthy Assassin Marauder
 
 ID=42344
-マローダーμ
+Marauder μ
 
 ID=42345
-暗殺者マローダーμ
+Assassin Marauder μ
 
 ID=42346
-隠身の暗殺者マローダーμ
+Stealthy Assassin Marauder μ
 
 ID=42347
-リタ
+Rita
 
 ID=42348
-有閑独女リタ
+Leisured Single Woman Rita
 
 ID=42349
-屈指の有閑独女リタ
+Outstanding Leisured Single Woman Rita
 
 ID=42350
-リタμ
+Rita μ
 
 ID=42351
-有閑独女リタμ
+Leisured Single Woman Rita μ
 
 ID=42352
-屈指の有閑独女リタμ
+Outstanding Leisured Single Woman Rita μ
 
 ID=42353
-댄싱 섀도우
+Dancing Shadow
 
 ID=42354
-암살자 댄싱 섀도우
+Assassin Dancing Shadow
 
 ID=42355
-달리는 그림자 댄싱 섀도우
+Ghastly Dancing Shadow
 
 ID=42356
-댄싱 섀도우
+Dancing Shadow
 
 ID=42357
-암살자 댄싱 섀도우
+Assassin Dancing Shadow
 
 ID=42358
-달리는 그림자 댄싱 섀도우
+Ghastly Dancing Shadow
 
 ID=42359
-로드 버스터
+Lord Buster
 
 ID=42360
-전투머신 로드 버스터
+Battle Machine Lord Buster
 
 ID=42361
-섬멸사양 로드 버스터
+Annihilation-Type Lord Buster
 
 ID=42362
-로드 버스터
+Lord Buster
 
 ID=42363
-전투머신 로드 버스터
+Battle Machine Lord Buster
 
 ID=42364
-섬멸사양 로드 버스터
+Annihilation-Type Lord Buster
 
 ID=42365
-세듀린
+Sedurin
 
 ID=42366
-머신 홀린 세듀린
+Machine Holin Sedurin
 
 ID=42367
-블랙홀 머신 세듀린
+Blackhole Machine Sedurin
 
 ID=42368
-세듀린
+Sedurin
 
 ID=42369
-머신 홀린 세듀린
+Machine Holin Sedurin
 
 ID=42370
-블랙홀 머신 세듀린
+Blackhole Machine Sedurin
 
 ID=43139
 Dignity Snatcher
@@ -13988,40 +13988,40 @@ ID=43310
 [SH] Setsuka and Ryoko
 
 ID=43311
-[S]フレイムテンペスト
+[S] Flame Tempest
 
 ID=43312
-[SH]フレイムテンペスト
+[SH] Flame Tempest
 
 ID=43313
-[S]マローダー
+[S] Marauder
 
 ID=43314
-[SH]マローダー
+[SH] Marauder
 
 ID=43315
-[S]リタ
+[S] Rita
 
 ID=43316
-[SH]リタ
+[SH] Rita
 
 ID=43317
-[S]댄싱 섀도우
+{S]Dancing Shadow
 
 ID=43318
-[SH]댄싱 섀도우
+[SH]Dancing Shadow
 
 ID=43319
-[S]로드 버스터
+[S]Lord Buster
 
 ID=43320
-[SH]로드 버스터
+[SH]Lord Buster
 
 ID=43321
-[S]세듀린
+[S]Seduri
 
 ID=43322
-[SH]세듀린
+[SH]Sedurin
 
 ID=45000
 Item Mall
@@ -14600,10 +14600,10 @@ ID=49229
 End Tutorial
 
 ID=49230
-マイルーム退場確認
+Exit My Room
 
 ID=49231
-マイルームから退場しますか？
+Will you exit My Room?
 
 ID=49232
 You may not unstuck your character again.\n Please try again later.
@@ -15524,31 +15524,31 @@ ID=52050
 There are no free slots in the Room Inventory
 
 ID=52051
-一般インベントリに空きがないため、これ以上アイテムを受け取れません。
+You can no longer receive any items due to the inventory being full.
 
 ID=52052
-ファッションインベントリに空きがないため、これ以上アイテムを受け取れません。
+You can no longer receive any items due to the fashion inventory being full.
 
 ID=52053
-エクストラインベントリに空きがないため、これ以上アイテムを受け取れません。
+You can no longer receive any items due to the extra inventory being full.
 
 ID=52054
-家具インベントリに空きがないため、これ以上アイテムを受け取れません。
+You can no longer receive any items due to the furniture inventory being full.
 
 ID=52055
-すでにジェニーが最大所持数に達しているため、これ以上ジェニーを受け取れません。
+You can no longer receive any more Zenny due to the Zenny capacity being full.
 
 ID=52056
-제니 최대 소지량 초과. 더 이상 습득할 수 없습니다.
+Exceeded the maximum capacity of Zenny. No more can be obtained.
 
 ID=52057
-B.P 최대 소지량 초과. 더 이상 습득할 수 없습니다.
+Exceeded the maximum capacity of B.P. No more can be obtained.
 
 ID=52058
-에텔 최대 소지량 초과. 더 이상 습득할 수 없습니다.
+Exceeded the maximum capacity of Ether. No more can be obtained.
 
 ID=52059
-캐시 최대 소지량 초과. 더 이상 습득할 수 없습니다.
+Exceeded the maximum capacity of Cash. No more can be obtained.
 
 ID=52101
 The item’s slot could not be used.
@@ -16286,7 +16286,7 @@ ID=55106
 You have reached the maximum amount of blockees.\n 50 Blocked players.
 
 ID=55107
-{0}has rejected the friend request.
+{0} has rejected the friend request.
 
 ID=55108
 {0}has been removed from the friends list.
@@ -16646,7 +16646,7 @@ ID=58204
 Room entrance failure.
 
 ID=58205
-入場マイルームが配置モードになったため、入場できません。
+Since the My Room is at Placement Mode, you cannot enter.
 
 ID=58206
 The room is full of occupants. You cannot enter.
@@ -16670,64 +16670,64 @@ ID=58212
 Your furniture storage is full. \nPlease remove the items as necessary.
 
 ID=58213
-マイルームが配置モードに変更されたため、退場しました。
+Kicked out due to My Room being turned to Placement Mode.
 
 ID=58214
-도우미 인원이 가득찼습니다.
+Supporter member slots are already full.
 
 ID=58215
-이미 도움을 준 화분입니다.
+You have already attended to this plant.
 
 ID=58216
-해당 아이템이 없습니다.
+There is no selected item.
 
 ID=58217
-마이룸이 아닙니다.
+It is not My Room.
 
 ID=58218
-마이룸 주인이 아닙니다.
+You are not the owner of My Room.
 
 ID=58219
-화분 설치를 실패하였습니다.
+You have failed placing a plant.
 
 ID=58220
-씨앗 심기가 실패하였습니다.
+You have failed planting your seeds.
 
 ID=58221
-수확 할 수 없는 상태입니다.
+You cannot harvest in this state.
 
 ID=58222
-수확 실패 하였습니다.
+You have failed to harvest.
 
 ID=58223
-인벤토리 공간이 부족합니다.
+Exceeded the maximum capacity of items in the Inventory.
 
 ID=58224
-마이룸 주인은 할 수 없습니다.
+My Room owners cannot peform this act.
 
 ID=58225
-화분에 아이템 사용을 실패하였습니다.
+You have failed using items on the plant.
 
 ID=58226
-화분에 씨앗이 있습니다.
+There is already a seed in the plant.
 
 ID=58227
-화분이 사용중 입니다.
+Plant is being under use.
 
 ID=58229
-이미 추가된 화분입니다.
+This is a plant that's been added already.
 
 ID=58230
-화분 정보가 부족합니다.
+There is not enough information on the plant.
 
 ID=58231
-화분 정보 확인 실패하였습니다.
+Failed to confirm the plant information.
 
 ID=58232
-이미 사용됩 아이텝입니다.
+Already used item.
 
 ID=58233
-배치모드로 전환되어 추방되었습니다.
+You have been kicked out due to My Room being switched to Placement Mode.
 
 ID=58300
 Only {1} items can be up for sale on the market out of {0} items listed so far.
@@ -16958,4 +16958,4 @@ ID=60143
 STAGE
 
 ID=60144
-反復回数({0}/{1})
+Repeat Count ({0}/{1})

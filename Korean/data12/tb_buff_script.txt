@@ -1115,31 +1115,31 @@ Icon/Buff/Icon_Common_Buff_Immun
 무적
 
 ID=5576
-하이드 앤 식 I
+하이드 앤 시크 I
 슈퍼아머 상태가 되고 모든 공격이 MISS로 들어옵니다.
 Icon/Buff/Icon_Common_Buff_Sarmor
 완전회피
 
 ID=5577
-하이드 앤 식 II
+하이드 앤 시크 II
 슈퍼아머 상태가 되고 모든 공격이 MISS로 들어옵니다.
 Icon/Buff/Icon_Common_Buff_Sarmor
 완전회피
 
 ID=5578
-하이드 앤 식 III
+하이드 앤 시크 III
 슈퍼아머 상태가 되고 모든 공격이 MISS로 들어옵니다.
 Icon/Buff/Icon_Common_Buff_Sarmor
 완전회피
 
 ID=5579
-하이드 앤 식 IV
+하이드 앤 시크 IV
 슈퍼아머 상태가 되고 모든 공격이 MISS로 들어옵니다.
 Icon/Buff/Icon_Common_Buff_Sarmor
 완전회피
 
 ID=5580
-하이드 앤 식 V
+하이드 앤 시크 V
 슈퍼아머 상태가 되고 모든 공격이 MISS로 들어옵니다.
 Icon/Buff/Icon_Common_Buff_Sarmor
 완전회피
@@ -1562,25 +1562,25 @@ ID=6561
 트러블 패스
 받는 피해량이 10%만큼 감소합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+방어력 증가
 
 ID=6562
 트러블 패스 III
-방어도가 60만큼 증가합니다.
+방어력이 60만큼 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+방어력 증가
 
 ID=6563
 트러블 패스 III
-방어도가 120만큼 증가합니다.
+방어력이 120만큼 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+방어력 증가
 
 ID=6564
 트러블 패스 III
-방어도가 250만큼 증가합니다.
+방어력이 250만큼 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+방어력 증가
 
 ID=6566
 비즈 플레이
@@ -1632,7 +1632,7 @@ SG 회복
 
 ID=7000
 침식 I
-피해량의 50%를 HP로 흡수합니다.\n적의 방어도를 50% 만큼 무시합니다.\n이동 속도가 20% 만큼 증가합니다.\n슈퍼아머 상태가 됩니다.
+데미지의 50%를 HP로 흡수합니다.\n적의 방어력을 50% 만큼 무시합니다.\n이동 속도가 20% 만큼 증가합니다.\n슈퍼아머 상태가 됩니다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1644,61 +1644,61 @@ ID=7001
 
 ID=7010
 도발
-일정 시간 동안 도발 대상을 공격합니다.
+일정 시간 동안 대상을 도발 공격합니다.
 Icon/Buff/Icon_Common_Debuff_Provoke
 도발
 
 ID=7021
 도발
-일정 시간 동안 도발 대상을 공격하고 도발 중 회피가 감소합니다.
+일정 시간 동안 대상을 도발 공격하고, 회피를 감소시킵니다.
 Icon/Buff/Icon_Common_Debuff_Provoke
 도발 + 회피 감소
 
 ID=7026
 스피릿 서지 I
-일정 시간 동안 방어도가 증가합니다.
+일정 시간 동안 방어력이 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+방어력 증가
 
 ID=7027
 스피릿 서지 II
-일정 시간 동안 방어도가 증가합니다.
+일정 시간 동안 방어력이 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+방어력 증가
 
 ID=7028
 스피릿 서지 III
-일정 시간 동안 방어도가 증가합니다.
+일정 시간 동안 방어력이 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+방어력 증가
 
 ID=7029
 스피릿 서지 IV
-일정 시간 동안 방어도가 증가합니다.
+일정 시간 동안 방어력이 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+방어력 증가
 
 ID=7030
 스피릿 서지 V
-일정 시간 동안 방어도가 증가합니다.
+일정 시간 동안 방어력이 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+방어력 증가
 
 ID=7031
 스피릿 서지 특성A I
-흥분 상태가 되어 회피도가 감소합니다.
+흥분 상태가 되어 회피가 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=7032
 스피릿 서지 특성A II
-흥분 상태가 되어 회피도가 감소합니다.
+흥분 상태가 되어 회피가 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=7033
 스피릿 서지 특성A III
-흥분 상태가 되어 회피도가 감소합니다.
+흥분 상태가 되어 회피가 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
@@ -1734,51 +1734,51 @@ Icon/Buff/Icon_Common_Buff_SArmor
 
 ID=7046
 퓨전 아머 I
-일정 시간 동안 방어도가 증가합니다.
+일정 시간 동안 방어력이 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+방어력 증가
 
 ID=7047
 퓨전 아머 II
-일정 시간 동안 방어도가 증가합니다.
+일정 시간 동안 방어력이 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+방어력 증가
 
 ID=7048
 퓨전 아머 III
-일정 시간 동안 방어도가 증가합니다.
+일정 시간 동안 방어력이 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+방어력 증가
 
 ID=7049
 퓨전 아머 IV
-일정 시간 동안 방어도가 증가합니다.
+일정 시간 동안 방어력이 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+방어력 증가
 
 ID=7050
 퓨전 아머 V
-일정 시간 동안 방어도가 증가합니다.
+일정 시간 동안 방어력이 증가합니다.
 Icon/Buff/Icon_Common_Buff_Def
-방어도 증가
+방어력 증가
 
 ID=7060
 헤비 드랍
-방어도가 20%만큼 감소합니다.
+방어력이 20%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+방어력 감소
 
 ID=7061
 헤비 드랍
-방어도가 30%만큼 감소합니다.
+방어력이 30%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+방어력 감소
 
 ID=7062
 헤비 드랍
-방어도가 30%만큼 감소합니다.
+방어력이 30%만큼 감소합니다.
 Icon/Buff/Icon_Common_Debuff_Def
-방어도 감소
+방어력 감소
 
 ID=7501
 오버히트
