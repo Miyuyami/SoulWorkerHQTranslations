@@ -98,7 +98,7 @@ ID=52
 เก็บของ
 
 ID=53
-Equipment
+สวมใส่
 
 ID=54
 ร้านค้า
@@ -188,7 +188,7 @@ ID=111
 แฟชั่น [Hancoin]
 
 ID=112
-ของใช้
+อุปโภค
 
 ID=113
 วัสดุ
@@ -602,7 +602,7 @@ ID=402
 ขาย
 
 ID=403
-Equipment
+สวมใส่
 
 ID=404
 ใช้
@@ -767,10 +767,10 @@ ID=471
 ความคืบหน้า
 
 ID=472
-{0}ชั่วโมง {1}นาที {2}วินาที
+{0} ชั่วโมง {1} นาที {2} วินาที
 
 ID=473
-{0}นาที {1}วินาที
+{0} นาที {1} วินาที
 
 ID=474
 รางวัลเสริมจากการซื้อ：{0} X {1}
@@ -842,7 +842,7 @@ ID=496
 เมื่อมี Bonus Card Key  จะสามารถใช้เพื่อรับค่าตอบแทนเพิ่มได้
 
 ID=497
-จะปิดโดยอัตโนมัติหลังจาก {0} วิ
+จะปิดโดยอัตโนมัติหลังจาก {0} วิ 
 
 ID=501
 ดูรายละเอียด
@@ -888,6 +888,9 @@ ID=517
 
 ID=518
 ※<font color='#FFBB00'>ไม่มี Top accident call </font>、ไม่สามารถคืนชีพได้
+
+ID=519
+該当エリアでは復活できません。
 
 ID=521
 ออก
@@ -983,7 +986,7 @@ ID=567
 เวลาที่เหลือ
 
 ID=568
-{0}ชั่วโมง {1}นาที
+{0} ชั่วโมง {1} นาที
 
 ID=569
 เรียก
@@ -995,7 +998,7 @@ ID=571
 คุณต้องการใช้ {0}หรือไม่? \n(A.R card ที่ได้มาไม่สามารถขายและแลกเปลี่ยนได้)
 
 ID=572
-ต้องการเลเวล
+必要Lv
 
 ID=573
 ต้องการ SP
@@ -1325,7 +1328,7 @@ ID=741
 ต้องมีบัตรผ่านประตู
 
 ID=742
-ระดับที่แนะนำ：{0}
+推奨Lv：{0}
 
 ID=743
 จำนวนสมาชิกใน Party ที่แนะนำ：{0}
@@ -1400,10 +1403,10 @@ ID=768
 ระยะเวลา：
 
 ID=769
-วิ
+ วิ
 
 ID=770
-นาที
+ นาที
 
 ID=771
 ชั่วโมง
@@ -1412,7 +1415,7 @@ ID=772
 วัน
 
 ID=773
-ต้องการ Lv
+必要Lv
 
 ID=774
 ทนทาน
@@ -2474,13 +2477,13 @@ ID=2218
 เวลาส่ง
 
 ID=2219
-{0}-{1}-{2} {3}ชั่วโมง {4}นาที
+{0}-{1}-{2} {3} ชั่วโมง {4} นาที
 
 ID=2220
 เวลาที่ได้รับ
 
 ID=2221
-{0}ชั่วโมง {1}นาที
+{0} ชั่วโมง {1} นาที
 
 ID=2222
 รับ Zenny
@@ -2501,7 +2504,7 @@ ID=2227
 เวลาที่เหลือ
 
 ID=2228
-{0}-{1}-{2} {3}ชั่วโมง {4}นาที
+{0}-{1}-{2} {3} ชั่วโมง {4} นาที
 
 ID=2229
 ทีมผู้บริหาร
@@ -3023,10 +3026,10 @@ ID=4021
 称号「{0}」を獲得しました。
 
 ID=4022
-재배 완료
+栽培完了
 
 ID=4023
-{0} 개 재배 수확 가능
+{0}個収穫可能
 
 ID=5001
 未習得
@@ -3035,7 +3038,7 @@ ID=5002
 คูลดาวน์:
 
 ID=5003
-วิ
+ วิ
 
 ID=5004
 COST：
@@ -3095,10 +3098,10 @@ ID=5200
 アカウントログイン
 
 ID=5201
-ＩＤ
+ID
 
 ID=5202
-ＩＤを入力してください。
+IDを入力してください。
 
 ID=5203
 パスワード
@@ -3500,7 +3503,7 @@ ID=5861
 <font color='#FFFFFF'><font size="30">TIP：</font>戦闘研究所<font color='#00D8FF'>スチールグレイブ</font>へは、1日1回5ステージまで入場できます。
 
 ID=5862
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ระดับยาก</font> มีศัตรูที่แข็งแกร่งและผลตอบแทนที่ดีกว่า
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ระดับยาก</font>มีศัตรูที่แข็งแกร่งและผลตอบแทนที่ดีกว่า
 
 ID=5863
 <font color='#FFFFFF'><font size="30">TIP：</font>อุปกรณ์พื้นฐานในแต่ละเมืองสามารถซื้อได้ที่ <font color='#00ff9c'>ジャイト</font> จากร้านค้าอุปกรณ์
@@ -4091,7 +4094,7 @@ ID=9205
 Casual Raid
 
 ID=9206
-Town Raid
+ディストリクトレイド
 
 ID=9207
 Apocolypse
@@ -5030,7 +5033,7 @@ ID=15041
 ヘンリーがネッドカンパニーの本社に侵入後、\nラピッドフレイムの奇襲部隊が建物を占領した。\n気は進まないが、彼を救出しなければ…。
 
 ID=15042
-ネッドカンパニー内はラピッドフレイムの占拠によって\n電力供給が行き届いていない状況だ。 
+ネッドカンパニー内はラピッドフレイムの占拠によって\n電力供給が行き届いていない状況だ。
 
 ID=15043
 ネッドカンパニーの電力を復旧させるには、\n建物内の電力を手動で作動させなければならない。\nラピッドフレイムがその「カギ」を持っているらしい。
@@ -5477,7 +5480,7 @@ ID=18031
 ซ่อมแซม
 
 ID=18032
-装備の必要Ｌｖよりファミリアの必要Ｌｖが高いので登録できません。
+装備の必要レベルよりファミリアの必要レベルが高いので登録できません。
 
 ID=18033
 封印
@@ -5621,7 +5624,7 @@ ID=18082
 全てのカジュアルレイド入場回数が1回ずつ減少しました。
 
 ID=18083
-家具インベントリに新しい家具が{0}個保管されます。 
+家具インベントリに新しい家具が{0}個保管されます。
 
 ID=18172
 ファミリアソケット最大{0}個付与
@@ -5630,7 +5633,7 @@ ID=18173
 ดูรายละเอียด
 
 ID=18174
-รายละเอียดไอเทม
+เพิ่มเติม
 
 ID=18175
 セットオプション情報
@@ -5828,10 +5831,10 @@ ID=19500
 アイドル
 
 ID=19501
-러블리 메이드
+メイド
 
 ID=19502
-스마트 버틀러
+執事
 
 ID=20010
 ทักทาย
@@ -5915,13 +5918,16 @@ ID=20092
 {0}が得意気にポーズを取ります。
 
 ID=20100
-메이드
+メイド
 
 ID=20101
-서빙 연습을 합니다.
+執事
 
 ID=20102
-{0}님이 서빙 연습 중입니다.
+執事作法の練習をしています。
+
+ID=20103
+{0}がメイド作法の練習をしています。
 
 ID=20300
 このCHは非常に混雑しているため、設置できません。他のCHをご利用ください。
@@ -6221,7 +6227,7 @@ ID=21531
 フレンド装備選択
 
 ID=21532
-Equipment
+สวมใส่
 
 ID=21533
 {0}({1})が解除され、消滅しました。新しい支援装備を着用できます。
@@ -7154,7 +7160,7 @@ ID=24006
 装備登録
 
 ID=24007
-ของใช้
+อุปโภค
 
 ID=24008
 ฟังก์ชัน
@@ -7193,7 +7199,7 @@ ID=24019
 Famiria
 
 ID=24020
-栽培
+เพาะปลูก
 
 ID=24250
 Zenny
@@ -7247,7 +7253,7 @@ ID=24266
 Brooch
 
 ID=24267
-ไอเทมใช้ทั่วไป
+ทั่วไป
 
 ID=24268
 ใช้ FP
@@ -7415,13 +7421,13 @@ ID=24322
 ไอเทมเควส
 
 ID=24323
-แปลนอุปกรณ์
+แบบแปลนอุปกรณ์
 
 ID=24324
-แปลนแฟชั่น
+แบบแปลนแฟชั่น
 
 ID=24325
-แปลนเฟอร์นิเจอร์
+แบบแปลนเฟอร์นิเจอร์
 
 ID=24326
 วัสดุเฟอร์นิเจอร์
@@ -7487,7 +7493,7 @@ ID=24516
 Brooch
 
 ID=24517
-ไอเทมใช้ทั่วไป
+ทั่วไป
 
 ID=24518
 ใช้ FP
@@ -8033,7 +8039,7 @@ ID=24789
 Function brooch
 
 ID=24790
-ของใช้
+อุปโภค
 
 ID=24791
 ชุบชีวิต
@@ -8141,7 +8147,7 @@ ID=24825
 อวาตาร์ Blueprint
 
 ID=24826
-แปลนเฟอร์นิเจอร์
+แบบแปลนเฟอร์นิเจอร์
 
 ID=24827
 Bath blueprint
@@ -8794,6 +8800,12 @@ ID=26124
 ID=26125
 戦闘移動速度上昇[%]
 
+ID=26126
+プライマル勢力追加ダメージ[%]
+
+ID=26127
+プライマル勢力ダメージ減少[%]
+
 ID=26201
 最終攻撃力
 
@@ -9047,7 +9059,7 @@ ID=28025
 ギルド解散
 
 ID=28026
-ギルド解散は、よく検討して慎重に進めてください。
+ギルド解散時、ギルド倉庫に保管されているアイテムは全て削除されます。\nギルド解散は慎重に進めてください。
 
 ID=28027
 ギルド解散不可
@@ -9857,7 +9869,7 @@ ID=29030
 マイルーム作成レベル不足
 
 ID=29031
-マイルーム作成に必要なレベルに達していません。\n必要条件：Lv10
+マイルーム作成に必要なレベルに達していません。\n必要条件：Lv8
 
 ID=29032
 マイルーム作成ジェニー不足
@@ -9944,7 +9956,7 @@ ID=29059
 รีเซ็ตมุมกล้อง
 
 ID=29060
-マイルーム退場
+ออกจากห้อง
 
 ID=29061
 ใช้
@@ -10721,7 +10733,7 @@ ID=32066
 อัพเกรด
 
 ID=32067
-Equipment
+สวมใส่
 
 ID=32068
 เครื่องแต่งกาย
@@ -10838,7 +10850,7 @@ ID=33004
 -ある雲った日。\nあの子の暴走は予想していた。むしろ、それを「災い」呼ぶ者たちを理解できなかった。我々は罪を犯し、それを償う時がやって来た…ただそれだけだ。他の子らの代わりに、裁きを下しに来たのだ。それがもし復讐という名を持っていたとしても、私は甘んじて受け入れる。\n\n-ある雪の日。\nあの子は愚かな人間たちによって再び眠りについた。彼らは、あの子が眠れば全て終わるという甘い考えに染まっていた。ネッドカンパニーが我々を助けてくれるなどという愚かな考えに腹が立った。彼らはきっと、真実を知る者全てを葬り去るだろう。何事もなかったかのように。\n\n-ある晴れた日。\nこの施設の閉鎖が決まり、首脳部を除く全ての人間はこの地獄へ取り残されることになった。おそらく、そう長くは保たないだろう。罪深き我々の最後にはお似合いだ。…不思議な気分だ。あれほど怖がっていた死が、今はまったく怖くない。
 
 ID=33005
-Model Name：NS_EX_008\nName：Cleany\n\n1. その名の通り掃除専用ロボット。私物に込められたソウルエナジーを判別し、分別収集及び紛失物捜索に適する。\n\n2. 現在は動力喪失状態のため、強制スリープモードに入っている。エナジーを3回に分けて順番に注入すれば、自らスリープモードを解除し動き出す。\n(動作までに約24時間所要)\n\n3. コアが破壊されたり消失した場合、コアを取り換えた後に使用可能な増幅装置をコアのあった位置へ設置すると、コアが復活する。\n(注意：動力源が1%でも残っている必要あり)\n\n数少ないヒントでここまで至った方に、まずは感謝の意を表します。\nこのルインフォートレスで「人間」以外の者に罪はありません。\nこのロボットもまた何の罪もない存在です。\n「HELP ME」という文字に反応し、ここまで来たあなたなら、きっとこの子を受け入れてくれるはずです。よろしくお願いします。 \nそして、クリーニー。どうか、幸せに…。
+Model Name：NS_EX_008\nName：Cleany\n\n1. その名の通り掃除専用ロボット。私物に込められたソウルエナジーを判別し、分別収集及び紛失物捜索に適する。\n\n2. 現在は動力喪失状態のため、強制スリープモードに入っている。エナジーを3回に分けて順番に注入すれば、自らスリープモードを解除し動き出す。\n(動作までに約24時間所要)\n\n3. コアが破壊されたり消失した場合、コアを取り替えた後に使用可能な増幅装置をコアのあった位置へ設置すると、コアが復活する。\n(注意：動力源が1%でも残っている必要あり)\n\n数少ないヒントでここまで至った方に、まずは感謝の意を表します。\nこのルインフォートレスで「人間」以外の者に罪はありません。\nこのロボットもまた何の罪もない存在です。\n「HELP ME」という文字に反応し、ここまで来たあなたなら、きっとこの子を受け入れてくれるはずです。よろしくお願いします。 \nそして、クリーニー。どうか、幸せに…。
 
 ID=33500
 Dead Desparate Soldier’s Belongings
@@ -11021,7 +11033,7 @@ ID=34008
 เนื่องจากคุณไม่มี {1}, {0} ไม่สามารถเป็นเจ้าของ
 
 ID=34009
-栽培
+เพาะปลูก
 
 ID=34010
 ช่วยเหลือ
@@ -11030,7 +11042,7 @@ ID=34011
 {0} วัน
 
 ID=34012
-{0}ชั่วโมง {1}นาที
+{0} ชั่วโมง {1} นาที
 
 ID=34013
 {0}分
@@ -11042,7 +11054,7 @@ ID=34015
 เตรียมการ
 
 ID=34016
-เจริญเติบโต
+กำลังเจริญเติบโต
 
 ID=34017
 เสร็จสิ้น
@@ -11102,13 +11114,13 @@ ID=34035
 การเก็บเกี่ยวล้มเหลว: ช่องว่าง inventory ไม่เพียงพอ
 
 ID=34036
-การเก็บเกี่ยว
+เก็บเกี่ยว
 
 ID=34037
-도움
+ช่วยเหลือ
 
 ID=34038
-재배를 시작하시겠습니까?
+栽培を開始しますか？
 
 ID=35000
 ทั่วไป
@@ -11471,340 +11483,340 @@ ID=40102
 คุณสามารถย้ายไปยังเมืองได้
 
 ID=40105
-ไปสนทนากับ Miriam
+สนทนากับ Miriam
 
 ID=40106
 ดำเนินการกับ Miriam
 
 ID=40107
-ベンジャミンと会話してください。
+สนทนากับ Benjamin.
 
 ID=40108
-回避を使用してレーザートラップを通過してください。
+กรุณาวิ่งเลี่ยงผ่านกับดักเลเซอร์
 
 ID=40109
-スキルデッキに登録されたスキルを最後まで連続で使用してください。
+โปรดใช้สกิลต่อเนื่องใน skill deck ทั้ง 3 สกิล
 
 ID=40110
-スキルを使用して、特殊磁気フィールドを破壊してください。
+ใช้สกิลทำลายพื้นที่สนามแม่เหล็กพิเศษ
 
 ID=40111
-スイッチを作動させてください。
+สับคันโยก
 
 ID=40112
-管制室中央レバーを引いて爆破装置を起動してください。
+กรุณาสับคันโยกที่ใจกลางห้องควบคุมเพื่อจุดระเบิด
 
 ID=40113
-C4を爆発させて高架道路の残骸を除去してください。
+โปรดทำลายสะพานด้วยระเบิด C4
 
 ID=40114
-レバーを引いて有毒ガスを換気してください。
+กรุณาสับคันโยกเพื่อระบายแก๊สพิษ
 
 ID=40115
-4個のシールド制御装置を解体した後、サブAIコアを破壊してください。
+หลังจากทำลายเกราะทั้ง 4 ชั้นของหน่วยควบคุมแล้ว กรุณาทำลาย AI core
 
 ID=40116
-スレイブコア活性化装置を起動してください。
+กรุณาเปิดการใช้งาน slave core
 
 ID=40117
-エレベーター制御装置を起動してください。
+กรุณาเปิดการใช้งานลิฟต์
 
 ID=40118
-特殊シールドを解除しないと、次のエリアに移動できません。
+ต้องทำลายผนึกพิเศษเพื่อไปยังพื้นที่ต่อไป
 
 ID=40119
-爆発する前に、ソウルジャンクの攻撃を切り抜けてください。
+โปรดเอาชนะ Soul Junk ทั้งหมด ก่อนที่ระเบิดจะทำงาน
 
 ID=40120
-安全地帯に進入しました。
+เข้าสู่เขตปลอดภัย
 
 ID=40121
-無法地帯に進入しました
+เข้าสู่พื้นที่นอกเขตควบคุม
 
 ID=40122
-マッドビホールダーが毒ガスを噴出しようとしています。
+Mad Beholder กำลังวางแผนที่จะปล่อยแก๊สพิษ
 
 ID=40123
-浄化装置を作動させ、毒ガスを浄化してください。
+กรุณาฟอกอากาศด้วยเครื่องฟอกอากาศ
 
 ID=40124
-急いで浄化装置を作動させてください。
+กรุณารีบเปิดเครื่องฟอกอากาศ
 
 ID=40125
-浄化装置を作動させ、マッドビホールダーの毒ガスを無力化してください。
+กรุณาใช้เครื่องฟอกอากาศทำให้แก๊สพิษของ Mad Beholder ไร้ผล
 
 ID=40126
-浄化装置作動確認。毒ガスが浄化されます。
+ยืนยันการเปิดใช้งาน แก๊สพิษถูกกำจัดออกไปเรียบร้อยแล้ว
 
 ID=40127
-毒ガス浄化に失敗し、中毒状態になりました。
+การฟอกอากาศล้มเหลว แก๊สพิษยังคงปะปนอยู่ในอากาศ
 
 ID=40128
-カプセル内の制御装置を全て起動し、ソウルジャンクの乱入を防がなければなりません。
+เปิดการใช้งานส่วนควบคุมภายในของแคปซูลทั้งหมดและป้องกันการบุกรุกของ Soul Junk
 
 ID=40129
-左の制御装置起動完了
+ยืนยันการเปิดหน่วยควบคุมฝั่งซ้าย
 
 ID=40130
-右の制御装置起動完了
+ยืนยันการเปิดหน่วยควบคุมฝั่งขวา
 
 ID=40135
-両側の廊下にある肖像画を調査し、秘密通路を探してください。
+ตรวจสอบภาพทั้งสองด้านของทางเดินและมองหาทางลับ
 
 ID=40136
-左の肖像画調査完了
+เสร็จสิ้นการสำรวจภาพเหมือนด้านซ้าย 
 
 ID=40137
-右の肖像画調査完了
+เสร็จสิ้นการสำรวจภาพเหมือนด้านขวา
 
 ID=40138
-廊下中央の肖像画を調査してください。
+โปรดตรวจสอบภาพวาด ณ ทางเดินตรงกลาง
 
 ID=40139
-敵が床を踏むと吸血効果が20秒間、解除されます。
+ผลดูดเลือดจะถูกยกเลิก เมื่อศัตรูออกจากอาณาเขตเป็นเวลา 20 วินาที
 
 ID=40140
-床を踏むと10秒間、攻撃力が増加します。
+เมื่ออยู่ในอาณาเขต พลังโจมตีจะเพิ่มขึ้น 10 วินาที
 
 ID=40141
-床を踏むと5秒間、移動できません。
+เมื่ออยู่ในอาณาเขต จะไม่สามารถเคลื่อนที่ได้ 5 วินาที
 
 ID=40142
-床を踏むと10秒間、移動速度が減少します。
+เมื่ออยู่ในอาณาเขต ความเร็วในการเคลื่อนที่ลดลง 10 วินาที
 
 ID=40143
-後方に敵が出現しています。
+ศัตรูได้ปรากฏตัวออกมาด้านหลัง
 
 ID=40144
-スイッチを全て作動させ、エレベーターを起動してください。
+กรุณาเปิดสวิทช์ทั้งหมดเพื่อเปิดการใช้งานลิฟต์
 
 ID=40145
-ビッグパペットの進撃を止められません。\n中央広場に移動してください。
+ไม่สามารถหยุดการเคลื่อนที่ของ Big Puppet ได้ \nกรุณาไปยัง central plaza
 
 ID=40146
-共に戦う仲間を選択してください。
+โปรดเลือก battle partners
 
 ID=40147
-キューブを作動させるとランダムで敵が現れます。
+เมื่อเปิด cube จะสุ่มศัตรูปรากฏออกมา
 
 ID=40148
-遮断壁が生成されました。
+บาเรียถูกสร้างขึ้น
 
 ID=40149
-遮断壁が解除されました。
+บาเรียถูกทำลาย
 
 ID=40150
-謎の風船のガスは敵の防御度を減少させます。
+แก๊สจากบอลลูนลึกลับจะช่วยลดการป้องกันของศัตรูได้เล็กน้อย
 
 ID=40151
-時限爆弾が爆発する前に全ての敵を倒してください。
+กรุณาเอาชนะศัตรูทั้งหมดก่อนจะถึงเวลาระเบิด
 
 ID=40152
-制限時間が過ぎると全ての秘密の箱が消えます。
+กล่องลับทั้งหมดจะถูกลบเมื่อถึงเวลาที่กำหนด
 
 ID=40153
-攻撃を避けて、祭壇に上がってください。
+หลบการโจมตีและไปยังแท่นบูชา
 
 ID=40154
-ジャンクナイトが強力な攻撃の準備をしています。\n攻撃をすることで、次の攻撃を阻止できます。
+Junk Knight เตรียมจะโจมตีเต็มกำลัง\nโจมตีมันเพื่อหยุดเอาไว้
 
 ID=40155
-ジャンクナイトが防御体制の準備をしています。\n攻撃をすることで、防御体制を阻止できます。
+Junk Knight is entering a defensive stance.\nAttack it to prevent it from doing so.
 
 ID=40156
-ジャンクナイトが強力な攻撃を放ちます。
+Junk Knight is going to use the powerful attack.
 
 ID=40157
-ジャンクナイトが30秒間無敵状態になります。
+Junk Knight has become invinvible for 30 seconds.
 
 ID=40158
-四つの区間を制限なしで移動できます。
+You may freely move between the four districts.
 
 ID=40159
-ジャック・ザ・キングの幻影出現時、ジャック・ザ・キングの防御度が上昇します。
+The King Junk's defense will increase when its phantoms appear.
 
 ID=40160
-箱を壊すと、隠れていたエドガーが現れます。
+When the box is broken, Edgar will appear.
 
 ID=40161
-敵を倒すと、隠れていたエドガーが現れます。
+When the enemies are defeated, Edgar will appear.
 
 ID=40162
-箱の自爆を阻止すると、隠れていたエドガーが現れます。
+When the box is not destroyed, Edgar will appear.
 
 ID=40163
-ファントムの幻影が自爆し、30秒間ファントムの防御度を上昇させます。
+Phantom's ghost explodes, increasing Phantomโ€s defense for 30 seconds.
 
 ID=40164
-AIルーシーが対人防御システムを作動させました。
+The AI Lucy has activated the personal defense system.
 
 ID=40165
-対人防御システムにより、強力な磁気フィールドが発生しています。
+A powerful magnetic field has been activated due to the personal defense system.
 
 ID=40166
-防御システムにリンクされたヘビーセントリーを破壊してください。
+Please destroy the sentry linked to the defense system.
 
 ID=40167
-4個のサブAIコアを破壊すると、サブAIコア動力源を停止できます。\nサブAIコアが破壊されると、磁気フィールドが発生します。
+Stop the Sub-AI Core power source by destroying the 4 Sub-AI cores.\nDestroying a Sub-AI Core will activate a magnetic field.
 
 ID=40168
-サブAIコアの動力源が停止しました。
+The power source of the sub AI core has been stopped.
 
 ID=40169
-セキュリティ装置を操作すると、扉を開けることができます。
+You can open the door by using the security device.
 
 ID=40170
-セキュリティ装置を操作し、閉ざされた扉を開けてください。
+Use the security device to open the closed door.
 
 ID=40171
-敵を討伐し、閉ざされた扉を開けてください。
+Open the door and defeat all enemies inside.
 
 ID=40172
-セキュリティ装置を利用してロックを解除すると、隠されたスイッチが出現します。
+When unlocked using the security device, hidden switch will appear.
 
 ID=40173
-電力制御装置を利用して、閉ざされた扉を開けてください。
+Open the closed door using the electrical switch device.
 
 ID=40174
-侵入者警報装置が作動しました。\nアラームセンサーを全て破壊して、隠されたスイッチを探し出してください。
+Intruder alert has gone off.\nFind the hidden switch by destroying all the alarm sensors.
 
 ID=40175
-侵入者警報装置が作動しました。\nアラームセンサーを全て破壊してください。
+Intruder alert has gone off.\nDestroy all the alarm sensors.
 
 ID=40176
-電力制御装置を利用して、閉ざされた3個の扉を開いてください。
+Using the electricity control device, open the three-fold door.
 
 ID=40177
-冷却材保管容器を利用して、磁気フィールド発生装置を無力化できます。
+By using the cooling device container, you can nullify the electric field device.
 
 ID=40178
-敵を討伐すると、隠されていたスイッチが出現します。
+Upon defeating the enemies, a hidden switch will appear.
 
 ID=40179
-キューブスイッチを利用すると、隠されたスイッチが出現します。
+When a cube switch is used, a hidden switch will appear.
 
 ID=40180
-電力制御装置を利用すると、フローティングスクエアを回転させられます。
+Rotate the floating platform by using the control device.
 
 ID=40181
-電力制御装置を利用すると、フローティングブリッジを起動できます。
+Activate the Floating Bridge by using the control device.
 
 ID=40182
-スレイブコア制御装置の対人防御機能が作動しました。
+The servant kernal's defense function was activated.
 
 ID=40183
-スレイブコア制御装置を操作して、スレイブコアの機能を停止させてください。
+Please turn off the servant kernals by using the servant kernals' control devices.
 
 ID=40184
-全ての敵を討伐すると、対人防御装置を停止できます。
+When you defeat all enemies, the defense systems can be stopped.
 
 ID=40185
-二つのセキュリティ装置を操作すると、バスターコア防御装置を停止できます。
+When the two security devices are used, you can deactivate the Buster Core's defenses.
 
 ID=40186
-キューブスイッチを操作すると、セキュリティ装置の電力供給を遮断できます。
+When you operate the cube switch, the security deviceโ€s power will be cut off.
 
 ID=40187
-1次電力供給が遮断されました。15秒後に最初の扉が開きます。
+Primary power supply has been cut off. The first door opens after 15 seconds.
 
 ID=40188
-2次電力供給が遮断されました。3次電力供給遮断のために2個の補助スイッチを作動させてください。
+Secondary power supply has been cut off. Please toggle the two secondary switches to cut the third power supply cut off.
 
 ID=40189
-3次電力供給が遮断されました。15秒後に最後の扉が開きます。
+Primary power supply has been cut off. The last door opens after 15 seconds.
 
 ID=40190
-バスターコアの対人防御機能によって強力な磁気フィールドが発生します。
+A strong helpful magnetic field will be created by the Buster Core's personal defense system.
 
 ID=40191
-バスターコアの対人防御装置の強力な磁気フィールドが5秒後に発生します。安全地帯に避難してください。
+The Buster Core's personal defense system will create a powerful electric field in 5 seconds. Please take refuge inside it.
 
 ID=40192
-30秒以内にリーダークラスの敵を討伐できなかった場合、新たな敵が出現します。
+Defeat the leader class enemy within 30 seconds or a new enemy will appear.
 
 ID=40193
-地面に落下しないように注意してください。
+Please be careful not to fall.
 
 ID=40194
-発電機スイッチを利用して、地面の磁気フィールドを解除できます。
+Use the power generator switch to disable the electric field.
 
 ID=40195
-レバーを操作すると、漏れる油を止めることができます。
+Use the operating lever to stop the leaking oil.
 
 ID=40196
-有毒ガスが噴出しています。気を付けてください。
+Toxic gas has spread. Please be careful.
 
 ID=40197
-巨大なファンから強い風が吹き出ています。\nファン制御装置を起動して、風を止めてください。
+The large fan is blowing a strong wind.\nActivate the fan control device and stop the wind.
 
 ID=40198
-巨大なファンから毒風が吹き出ています。\nファン制御装置を起動して、風を止めてください。
+The large fan is blowing poisonous wind.\nActivate the fan control device and stop the wind.
 
 ID=40199
-制限時間内に全ての敵を討伐してください。
+Defeat all enemies within the time limit.
 
 ID=40200
-侵入者警報装置停止成功
+Intruder Alarm Disabled
 
 ID=40201
-侵入者警報装置停止失敗
+Intruder Alarm Activated
 
 ID=40202
-エレベーター内の侵入者警報装置が作動しました。\n安全な場所へ移動し、敵を討伐してください。
+Intruder alarm in the elevator has been activated.\nMove to a safe place and defeat all enemies.
 
 ID=40203
-エレベーター内の侵入者警報装置が作動しました。\n内部に設置された2個のスイッチを、全て作動させることで警報装置を停止させられます。
+The intruder alarm system within the elevator has been activated.\n Use 2 switches from within to stop the alarm system.
 
 ID=40204
-シャトルが周期的に出現します。安全な場所を探して戦ってください。
+The shuttle will return periodically. Please find a safe place to fight.
 
 ID=40205
-シャトルが周期的に出現します。シャトルを回避しながら戦ってください。
+The shuttle will return periodically. Please avoid the shuttle while fighting.
 
 ID=40206
-シャトル制御装置を活性化させ、シャトルを停止させてください。
+Please stop the shuttle by activating its control unit.
 
 ID=40207
-スイッチを作動させ、ゲート電力を遮断してください。
+Please disable the gateโ€s electricity by operating the switch.
 
 ID=40208
-4個のゲートに隠されたオブジェクトを2個探し、トラップを停止させてください。
+Please find 2 of the 4 objects hidden behind the gates to disable the trap.
 
 ID=40209
-磁気フィールドを解除するためには、一番奥にある解除スイッチを作動させる必要があります。
+In order to disable the magnetic field, you must operate the switch furthest away.
 
 ID=40210
-2個のスイッチを作動させ、トラップ装置の作動を停止させてください。
+Please 2 activate of the switches to disable the trap equipment.
 
 ID=40211
-隠されたスイッチを見つけ出して作動させると、トラップ解除装置を使用できます。
+You can deactivate the trap by finding the hidden switch.
 
 ID=40212
-特殊装置を使用すると、戦闘支援を受けられます。
+You can receive combat support by using the special equipment.
 
 ID=40213
-衝撃波の色に応じて装置を使用してください。
+Please use the equipment that corresponds to the shockwaveโ€s color.
 
 ID=40214
-前方のスイッチを作動させてください。
+Please activate the switch.
 
 ID=40215
-ドローンの爆破スイッチを利用して、周辺の敵にダメージを与えられます。
+You can deal damage to enemies by making the drone explode via the nearby control console.
 
 ID=40216
-電力制御装置を利用して、電気磁気フィールドを解除できます。
+Deactivate the electro-magnetic field by using the power controller.
 
 ID=40217
-制御装置を使用すると、大型シャッターを開けられます。
+Open the large shutter by using the control unit.
 
 ID=40218
-大型シャッターが開きます。
+The large shutter has opened.
 
 ID=40219
-全ての敵を討伐し、大型シャッターを開けてください。
+Defeat all the enemies and open the large shutter.
 
 ID=40220
-爆弾シャトルを回避してください。
+Please dodge the bomb shuttle.
 
 ID=40221
 間もなく敵が召喚されます。\nスイッチを作動させて、敵の召喚を止めてください。
@@ -12389,10 +12401,10 @@ ID=40516
 間もなくエレベーターが止まります。
 
 ID=40601
-4地域の敵を全て討伐すると、終末の館へと続くポータルが活性化します。
+4地域の敵を全て討伐すると、終末の館へと続くポータルが開きます。
 
 ID=40602
-封印のクリスタルを使用すると、戦闘が始まります。
+封印のクリスタルを解除すると、戦闘が始まります。
 
 ID=40603
 間もなく敵が現れます。全て討伐するとエターニティが登場します。
@@ -12422,10 +12434,10 @@ ID=40611
 終末の館をクリアしました。予兆の館から町に移動できます。
 
 ID=40612
-保温装置を使用すると、凍傷効果を防ぐことができます。
+保温装置を起動すると、凍傷効果を防ぐことができます。
 
 ID=40613
-5秒以内に保温装置を4つ全て使用すると、周辺に氷結効果を防ぐ地域が生成されます。
+5秒以内に保温装置を4つ全て起動すると、周辺に氷結効果を防ぐ地域が生成されます。
 
 ID=40614
 災禍の陣上に生成されたフレイムクリスタルを破壊すると、溶岩の噴出を止めることができます。
@@ -12440,1468 +12452,1468 @@ ID=40617
 パンデミックデンドロビウム討伐時、中毒状態を解除できます。
 
 ID=42000
-ジャック・ザ・キング
+Jack the King
 
 ID=42001
-塔の守護者ジャック・ザ・キング
+Tower Guardian Jack the King
 
 ID=42002
-暴拳鉄槌ジャック・ザ・キング
+Iron Hammer Fist Jack the King
 
 ID=42003
-ダンシングドールズ
+Dancing Dolls
 
 ID=42004
-一夜の宴ダンシングドールズ
+Nightly Dancing Dolls
 
 ID=42005
-月夜のロンドダンシングドールズ
+Moonlight London Dancing Dolls
 
 ID=42006
-ワイルドストーン
+Wild Stone
 
 ID=42007
-堅固なワイルドストーン
+Adamant Wild Stone
 
 ID=42008
-ブロック
+Brock
 
 ID=42009
-作戦兵ブロック
+Tactician Brock
 
 ID=42010
-ウォーライク
+Warlike
 
 ID=42011
-堅固なウォーライク
+Strong Warlike
 
 ID=42012
-アスファルトゴーレム
+Asphalt Golem
 
 ID=42013
-シウォラット
+Sewerat
 
 ID=42014
-下水溝の主シウォラット
+Sewer Sewerat
 
 ID=42015
-ヴェノムミューカス
+Venomous Mucus
 
 ID=42016
-黒き巨人ヴェノムミューカス
+Black Giant’s Venomous Mucus
 
 ID=42017
-ダークアリゲーター
+Dark Alligator
 
 ID=42018
-略奪者ダークアリゲーター
+Dark Alligator Pillager
 
 ID=42019
-ジャンクナイト
+Junk Knight
 
 ID=42020
-漆黒の鎧ジャンクナイト
+Jet Black Armor Junk Knight
 
 ID=42021
-黒く染まりし魂ジャンクナイト
+Black Soul Junk Knight
 
 ID=42022
-バキュームベイン
+Vacuum Vein
 
 ID=42023
-岩虫バキュームベイン
+Vacuum Vein Parasite
 
 ID=42024
-彷徨う岩虫バキュームベイン
+Loitering Vacuum Vein Parasite
 
 ID=42025
-マングローブセル
+Mangrove Cell
 
 ID=42026
-捕食者マングローブセル
+Predatory Mangrove Cell
 
 ID=42027
-赤影の捕食者マングローブセル
+Red Shadowed Predatory Mangrove Cell
 
 ID=42028
-シンシア
+Cynthia
 
 ID=42029
-リポーターシンシア
+Reporter Cynthia
 
 ID=42030
-真実の伝播者シンシア
+The True Rumor about Cynthia
 
 ID=42031
-アラクニス
+Arachnis
 
 ID=42032
-捕食者アラクニス
+Predator Arachnis
 
 ID=42033
-赤眼蜘蛛アラクニス
+Red-Eyed Spider Arachnis
 
 ID=42034
-セル
+Cell
 
 ID=42035
-改良型セル
+Improved Cell
 
 ID=42036
 S-01
 
 ID=42037
-改良型S-01
+Improved S-01
 
 ID=42038
-ビクター
+Victor
 
 ID=42039
-研究員ビクター
+Researcher Victor
 
 ID=42040
-ビホールダー
+Beholder
 
 ID=42041
-ホクマ
+Hokuma
 
 ID=42042
-ガルス
+Gallus
 
 ID=42043
-蒼空のガルス
+Blue Sky Gallus
 
 ID=42044
-ボーンクラッシャー
+Bonecrusher
 
 ID=42045
-破砕のボーンクラッシャー
+Crushing Bonecrusher
 
 ID=42046
-アーロン
+Aaron
 
 ID=42047
-ブラックガントレット
+Black Gauntlet
 
 ID=42048
-黒拳ブラックガントレット
+Black Fist Black Gauntlet
 
 ID=42049
-アーマースチール
+Armor Steel
 
 ID=42050
-ヘルインフォーサー
+Hell Infuser
 
 ID=42051
-刻印者ヘルインフォーサー
+Engraved Hell Infuser
 
 ID=42052
-トール
+Thor
 
 ID=42053
-チェイサー
+Chaser
 
 ID=42054
-奇襲部隊チェイサー
+Raid Force Chaser
 
 ID=42055
-カーチャ
+Katja
 
 ID=42056
-ベニン
+Venin
 
 ID=42057
-スネーク
+Snake
 
 ID=42058
-奇襲の刃スネーク
+Ambushing Snake Blade
 
 ID=42059
-肉斬骨断の刃スネーク
+Flesh Shearing Razor Snake
 
 ID=42060
-インテンションカルラ
+Intentful Carla
 
 ID=42061
-強襲のインテンションカルラ
+Violent Intentful Carla
 
 ID=42062
-レッドメイン
+Red Mane
 
 ID=42063
-クイーンカルラ
+Queen Carla
 
 ID=42064
-怪鳥クイーンカルラ
+Monster Bird Queen Carla
 
 ID=42065
-セデュリン
+Sedurin
 
 ID=42066
-主席博士セデュリン
+Head Dr. Sedurin
 
 ID=42067
-シングルレッグ
+Single Leg
 
 ID=42068
-ソラ
+Sora
 
 ID=42069
-フレイムテンペスト
+Flame Tempest
 
 ID=42070
-殺戮のフレイムテンペスト
+Murderous Flame Tempest
 
 ID=42071
-スカー
+Scar
 
 ID=42072
-真紅巨人スカー
+Crimson Giant Scar
 
 ID=42073
-咆哮する真紅巨人スカー
+Submersive Crimson Giant Scar
 
 ID=42074
-マローダー
+Marauder
 
 ID=42075
-暗殺者マローダー
+Assassin Marauder
 
 ID=42076
-ホワイトファング
+White Fang
 
 ID=42077
-白影ホワイトファング
+White Shadow Fang
 
 ID=42078
-純白の影ホワイトファング
+Pure White Shadow Fang
 
 ID=42079
-ヘルコレクター
+Hell Collector
 
 ID=42080
-ダンシングシャドー
+Dancing Shadow
 
 ID=42081
-暗殺者ダンシングシャドー
+Assassin Dancing Shadow
 
 ID=42082
-ロードバスター
+Road Buster
 
 ID=42083
-戦闘マシンロードバスター
+War Road Buster
 
 ID=42084
-メギドメーカーMKⅡ
+Megidomeka MKⅡ
 
 ID=42085
-強化型メギドメーカーMKⅡ
+Kyoka-gata megidomeka MKⅡ
 
 ID=42086
-テッド&ジュリー
+テッド＆ジュリー
 
 ID=42087
-セニア
+Senia
 
 ID=42088
-作戦将校セニア
+Tactics Officer Senia
 
 ID=42089
-セントリーコマンダー
+Sentry Commander
 
 ID=42090
-三倍速セントリーコマンダー
+3x Sentry Commander
 
 ID=42091
-ヘビーアースクエイカー
+Heavy Ground Shaker
 
 ID=42092
-重量級ヘビーアースクエイカー
+Heavyweight Ground Shaker
 
 ID=42093
-アマンダ
+Amanda
 
 ID=42094
-通信兵アマンダ
+Reconnaisance Officer Amandea
 
 ID=42095
-ジークプロト
+Prototype Sieg
 
 ID=42096
-戦闘兵器ジークプロト
+Combatant Prototype Sieg
 
 ID=42097
-ブレードウルフ
+Blade Wolf
 
 ID=42098
-鉄の狼ブレードウルフ
+Iron Blade Wolf
 
 ID=42099
-スコール
+Squall
 
 ID=42100
-燃える狼スコール
+Blazing Wolf Squall
 
 ID=42101
-灼熱の狼スコール
+Burning Wolf Squall
 
 ID=42102
-ドミニアゼロ
+Domineer Zero
 
 ID=42103
-サラ
+Sarah
 
 ID=42104
-カットスロート
+Cutthroat
 
 ID=42105
-アサルトスパイダー
+Assault Spider
 
 ID=42106
-ヘビーアイアンワーム
+Heavy Iron Worm
 
 ID=42107
-鋭尾ヘビーアイアンワーム
+Sharp Heavy Iron Worm
 
 ID=42108
-センスン
+Sensun
 
 ID=42109
-ラッキーガイセンスン
+Lucky Sensun
 
 ID=42110
-トレッカー
+Trekker
 
 ID=42111
-召喚兵器トレッカー
+Sanctioned Weapons Trekker
 
 ID=42112
-非常召喚兵器トレッカー
+Authoritative Weapons Trekker
 
 ID=42113
-クリーニー
+Clinic
 
 ID=42114
-鋼鉄のロボット兄弟
+Steel Robot Brother
 
 ID=42115
-デウス・エクス・マキナ
+Deus Ex Machina
 
 ID=42116
-巨神デウス・エクス・マキナ
+Colossus Deux Ex Machina
 
 ID=42117
-機械神デウス・エクス・マキナ
+Mechanical Deux Ex Machina God
 
 ID=42118
-アサルトゴースト
+Assault Ghost
 
 ID=42119
-ベティ
+Betty
 
 ID=42120
-グラスパー
+Grasper
 
 ID=42121
-クイーンオブフラワー
+Queen of Flower
 
 ID=42122
-花の女王クイーンオブフラワー
+Royal Queen of Flowers
 
 ID=42123
-ハンマーヘッド
+Hammerhead
 
 ID=42124
-ジェノサイダーエックス
+Genocider X
 
 ID=42125
-ディグモンスター
+Dig Monster
 
 ID=42126
-掘削兵器ディグモンスター
+Excavation Weapon Dig Monster
 
 ID=42127
-ナンバーレス・リム
+Numberless Rim
 
 ID=42128
-煉獄の円ナンバーレス・リム
+Circle of Purgatory, Numberless Rim
 
 ID=42129
-ジェシー
+Jessi
 
 ID=42130
-補助AIジェシー
+Support AI Jessie
 
 ID=42131
-イアン
+Ian
 
 ID=42132
-攻撃部隊兵イアン
+Attack Force Soldier Ian
 
 ID=42133
-フルアーマージークプロト
+Armored Prototype Sieg
 
 ID=42134
-大戦車フルアーマージークプロト
+Full-Armored Prototype Sieg Tanks
 
 ID=42135
-マーティン
+Martin
 
 ID=42136
-臨時指揮官マーティン
+Extraordinary Commander Martin
 
 ID=42137
-訓練用ダミー
+Training Dummy
 
 ID=42138
-強化型訓練用ダミー
+Reinforced Training Dummy
 
 ID=42139
-ディグニティースナッチャー
+Dignity Snatcher
 
 ID=42140
-強奪者ディグニティースナッチャー
+Plundering Dignity Snatcher
 
 ID=42141
-尊厳強奪者ディグニティースナッチャー
+Mind Breaking Dignity Snatcher
 
 ID=42142
-ドレインクロー
+Drain Claw
 
 ID=42143
 F-ARIA
 
 ID=42144
-音波ミサイルF-ARIA
+Sonic Missle F-ARIA
 
 ID=42145
-驚天動地のミサイルF-ARIA
+Earth Shattering Missle F-ARIA
 
 ID=42146
-誘惑の欠片
+Fragment of Temptation
 
 ID=42147
-強大な誘惑の石
+Gem of Powerful Temptation
 
 ID=42148
-絶対誘惑の石
+Gem of Certain Temptation
 
 ID=42149
-ブッカーTV
+Booker TV
 
 ID=42150
-無法者ブッカーTV
+Outlaw Booker TV
 
 ID=42151
-アジン
+Azin
 
 ID=42152
-乗務員アジン
+Crewman Azin
 
 ID=42153
-エリック
+Erik
 
 ID=42154
-整備工エリック
+Mechanic Erik
 
 ID=42155
-サニー
+Sonny
 
 ID=42156
-医療部隊員サニー
+Medical Officer Sonny
 
 ID=42157
-医療部隊フォーチュン
+Lucky Medical Corps
 
 ID=42158
-白衣の天使フォーチュン
+Lucky Nurse
 
 ID=42159
-奇跡の白衣フォーチュン
+Lucky Miraculous White Coat
 
 ID=42160
-医療部隊フォーチュンμ
+Lucky Medical Corps μ
 
 ID=42161
-白衣の天使フォーチュンμ
+Lucky Nurse μ
 
 ID=42162
-奇跡の白衣フォーチュンμ
+Lucky Miraculous White Coat μ
 
 ID=42163
-フォースストライク
+Force Strike
 
 ID=42164
-攻撃部隊フォースストライク
+Offensive Strike Force
 
 ID=42165
-一騎当千フォースストライク
+The One True Strike Force
 
 ID=42166
-フォースストライクμ
+Force Strike μ
 
 ID=42167
-攻撃部隊フォースストライクμ
+Offensive Strike Force μ
 
 ID=42168
-一騎当千フォースストライクμ
+The One True Strike Force μ
 
 ID=42169
-研究部署STラボ
+ST Lab Research Department
 
 ID=42170
-知識の探究者STラボ
+ST Lab Knowledge Researcher
 
 ID=42171
-燦爛たる知識の館STラボ
+ST Lab’s Brilliant Hall of Knowledge
 
 ID=42172
-研究部署STラボμ
+ST Lab Research Department μ
 
 ID=42173
-知識の探究者STラボμ
+ST Lab Knowledge Researcher μ
 
 ID=42174
-燦爛たる知識の館STラボμ
+ST Lab’s Brilliant Hall of Knowledge μ
 
 ID=42175
-ヘビーギアズ
+Heavy Gears
 
 ID=42176
-不撓不屈ヘビーギアズ
+Inflexible Heavy Gear
 
 ID=42177
-最強火力ヘビーギアズ
+Almighty Steam Powered Heavy Gear
 
 ID=42178
-ヘビーギアズμ
+Heavy Gears μ
 
 ID=42179
-不撓不屈ヘビーギアズμ
+Inflexible Heavy Gear μ
 
 ID=42180
-最強火力ヘビーギアズμ
+Almighty Steam Powered Heavy Gear μ
 
 ID=42181
-ショーン
+Sean
 
 ID=42182
-守銭奴ショーン
+Miser Sean
 
 ID=42183
-必死の守銭奴ショーン
+Desperate Miser Sean
 
 ID=42184
-ショーンμ
+Shon μ
 
 ID=42185
-守銭奴ショーンμ
+Miser Shon μ
 
 ID=42186
-必死の守銭奴ショーンμ
+Desperate Miser Shon μ
 
 ID=42187
-ワイルドストーン
+Wild Stone
 
 ID=42188
-堅固なワイルドストーン
+Adamant Wild Stone
 
 ID=42189
-岩石の小悪魔ワイルドストーン
+Little Rock Spirit, Wild Stone
 
 ID=42190
-ワイルドストーンμ
+Wild Stone μ
 
 ID=42191
-堅固なワイルドストーンμ
+Solid Wild Stone μ
 
 ID=42192
-岩石の小悪魔ワイルドストーンμ
+Little Rock Spirit, Wild Stone μ
 
 ID=42193
-ブロック
+Brock
 
 ID=42194
-作戦兵ブロック
+Tactician Brock
 
 ID=42195
-戦闘指揮の作戦兵ブロック
+Commanding Tactician Brock
 
 ID=42196
-ブロックμ
+Brock μ
 
 ID=42197
-作戦兵ブロックμ
+Tactician Brock μ
 
 ID=42198
-戦闘指揮の作戦兵ブロックμ
+Commanding Tactician Brock μ
 
 ID=42199
-ウォーライク
+Warlike
 
 ID=42200
-堅固なウォーライク
+Strong Warlike
 
 ID=42201
-好戦的な岩石ウォーライク
+Militant Warlike Rock
 
 ID=42202
-ウォーライクμ
+Warlike μ
 
 ID=42203
-堅固なウォーライクμ
+Strong Warlike μ
 
 ID=42204
-好戦的な岩石ウォーライクμ
+Warlike Martial μ
 
 ID=42205
-シウォラット
+Sewerat
 
 ID=42206
-下水溝の主シウォラット
+Sewer Sewerat
 
 ID=42207
-闇の下水王シウォラット
+Dark Sewer King Sewerat
 
 ID=42208
-シウォラットμ
+Sewerat μ
 
 ID=42209
-下水溝の主シウォラットμ
+Sewer Sewerat μ
 
 ID=42210
-闇の下水王シウォラットμ
+Dark Sewer King Sewerat μ
 
 ID=42211
-ヴェノムミューカス
+Venomous Mucus
 
 ID=42212
-黒き巨人ヴェノムミューカス
+Black Giant’s Venomous Mucus
 
 ID=42213
-猛毒の巨人ヴェノムミューカス
+Deadly Giant Venomous Mucus
 
 ID=42214
-ヴェノムミューカスμ
+Venomous Mucus μ
 
 ID=42215
-黒き巨人ヴェノムミューカスμ
+Black Giant Venomous Mucus μ
 
 ID=42216
-猛毒の巨人ヴェノムミューカスμ
+Deadly Giant Venomous Mucus μ
 
 ID=42217
-ダークアリゲーター
+Dark Alligator
 
 ID=42218
-略奪者ダークアリゲーター
+Dark Alligator Pillager
 
 ID=42219
-紫の巨獣ダークアリゲーター
+Violet Dark Alligator Beast
 
 ID=42220
-ダークアリゲーターμ
+Dark Alligator μ
 
 ID=42221
-略奪者ダークアリゲーターμ
+Marauding Dark Alligator μ
 
 ID=42222
-紫の巨獣ダークアリゲーターμ
+Violet Dark Alligator Beast μ
 
 ID=42223
-セル
+Cell
 
 ID=42224
-改良型セル
+Improved Cell
 
 ID=42225
-地を這う闇セル
+Crawling Earth Dark Cell
 
 ID=42226
-セルμ
+Cell μ
 
 ID=42227
-改良型セルμ
+Improved Cell μ
 
 ID=42228
-地を這う闇セルμ
+Creeping Dark Cell μ
 
 ID=42229
 S-01
 
 ID=42230
-改良型S-01
+Improved S-01
 
 ID=42231
-迫り来る脅威S-01
+Menacing Threatful S-01
 
 ID=42232
 S-01μ
 
 ID=42233
-改良型S-01μ
+Improved S-01 μ
 
 ID=42234
-迫り来る脅威S-01μ
+Menacing Threatful S-01
 
 ID=42235
-ビクター
+Victor
 
 ID=42236
-研究員ビクター
+Researcher Victor
 
 ID=42237
-不眠の研究員ビクター
+Restless Researcher Bikuta
 
 ID=42238
-ビクターμ
+Bikuta μ
 
 ID=42239
-研究員ビクターμ
+Researcher Bikuta μ
 
 ID=42240
-不眠の研究員ビクターμ
+Restless Researcher Bikuta μ
 
 ID=42241
-ガルス
+Gallus
 
 ID=42242
-蒼空のガルス
+Blue Sky Gallus
 
 ID=42243
-蒼空の脅威ガルス
+Menace of the Blue Skies Gallus
 
 ID=42244
-ガルスμ
+Gallus μ
 
 ID=42245
-蒼空のガルスμ
+Blue Skies Gallus μ
 
 ID=42246
-蒼空の脅威ガルスμ
+Menace of the Blue Skies Gallus μ
 
 ID=42247
-ボーンクラッシャー
+Bonecrusher
 
 ID=42248
-破砕のボーンクラッシャー
+Crushing Bonecrusher
 
 ID=42249
-破砕の悪魔ボーンクラッシャー
+Evil Crushing Bonecrusher
 
 ID=42250
-ボーンクラッシャーμ
+Bonecrusher μ
 
 ID=42251
-破砕のボーンクラッシャーμ
+Crushing Bonecrusher μ
 
 ID=42252
-破砕の悪魔ボーンクラッシャーμ
+Evil Crushing Bonecrusher μ
 
 ID=42253
-ブラックガントレット
+Black Gauntlet
 
 ID=42254
-黒拳ブラックガントレット
+Black Fist Black Gauntlet
 
 ID=42255
-爆砕の拳ブラックガントレット
+Blasting Fist Black Gauntlet
 
 ID=42256
-ブラックガントレットμ
+Black Gauntlet μ
 
 ID=42257
-黒拳ブラックガントレットμ
+Black Fist Black Gauntlet μ
 
 ID=42258
-爆砕の拳ブラックガントレットμ
+Blasting Fist Black Gauntlet μ
 
 ID=42259
-ヘルインフォーサー
+Hell Infuser
 
 ID=42260
-刻印者ヘルインフォーサー
+Engraved Hell Infuser
 
 ID=42261
-紅き豪腕ヘルインフォーサー
+Red Arm Hell Infuser
 
 ID=42262
-ヘルインフォーサーμ
+Hell Infuser μ
 
 ID=42263
-刻印者ヘルインフォーサーμ
+Engraved Hell Infuser μ
 
 ID=42264
-紅き豪腕ヘルインフォーサーμ
+Red Arm Hell Infuser μ
 
 ID=42265
-カイン
+Kain
 
 ID=42266
-牙狼カイン
+Fanged Wolf Kain
 
 ID=42267
-疾風迅雷の牙狼カイン
+Lightning Speed Fanged Wolf Kain
 
 ID=42268
-カインμ
+Kain μ
 
 ID=42269
-牙狼カインμ
+Fanged Wolf Kain μ
 
 ID=42270
-疾風迅雷の牙狼カインμ
+Lightning Speed Fanged Wolf Kain μ
 
 ID=42271
-ビッグパペット
+Big Puppet
 
 ID=42272
-災厄の巨人ビッグパペット
+The Disastrous Giant, Big Puppet
 
 ID=42273
-破滅の自爆兵器ビッグパペット
+Self Destructing Big Puppet of Destruction
 
 ID=42274
-ビッグパペットμ
+Big Puppet μ
 
 ID=42275
-災厄の巨人ビッグパペットμ
+The Disastrous Giant, Big Puppet μ
 
 ID=42276
-破滅の自爆兵器ビッグパペットμ
+Disastrous Suicidal Big Puppet μ
 
 ID=42277
-巨神アスファルトゴーレム
+Giant Asphalt Golem
 
 ID=42278
-灰色の岩アスファルトゴーレム
+Gray Rock Asphalt Golem
 
 ID=42279
-咆哮の巨岩アスファルトゴーレム
+Howling Giant Rock Asphalt Golem
 
 ID=42280
-巨神アスファルトゴーレムμ
+Giant Asphalt Golem μ
 
 ID=42281
-灰色の岩アスファルトゴーレムμ
+Gray Rock Asphalt Golem μ
 
 ID=42282
-咆哮の巨岩アスファルトゴーレムμ
+Howling Giant Rock Asphalt Golem μ
 
 ID=42283
-魔眼マッドビホールダー
+Demon Eyed Mad Beholder
 
 ID=42284
-三色眼マッドビホールダー
+Triple Colored Eyed Mad Beholder
 
 ID=42285
-三色魔眼マッドビホールダー
+Triple Colored Demon Eyed Mad Beholder
 
 ID=42286
-魔眼マッドビホールダーμ
+Demon Eyed Mad Beholder μ
 
 ID=42287
-三色眼マッドビホールダーμ
+Triple Colored Eyed Mad Beholder μ
 
 ID=42288
-三色魔眼マッドビホールダーμ
+Triple Colored Demon Eyed Mad Beholder μ
 
 ID=42289
 Rapid Flame
 
 ID=42290
-神速のラピッドフレイム
+Godly Fast Rapid Flame
 
 ID=42291
-神速の炎ラピッドフレイム
+Flame of Swiftness Rapid Flame
 
 ID=42292
-ラピッドフレイムμ
+Rapid Flame μ
 
 ID=42293
-神速のラピッドフレイムμ
+Godly Fast Rapid Flame μ
 
 ID=42294
-神速の炎ラピッドフレイムμ
+Flame of Swiftness Rapid Flame μ
 
 ID=42295
-グルトン
+Glutton
 
 ID=42296
-グルトンμ
+Glutton μ
 
 ID=42297
-輝くグルトン
+Shining Glutton
 
 ID=42298
-夕陽の花ミリアム
+Sunset Flower Miriam
 
 ID=42299
-グルトン軍団
+Glutton Army
 
 ID=42300
-暴食グルトン軍団
+Gluttonous Glutton Army
 
 ID=42301
-暴食の災厄グルトン軍団
+Overly Disastrous Glutton Army
 
 ID=42302
-グルトン軍団μ
+Glutton Army μ
 
 ID=42303
-暴食グルトン軍団μ
+Gluttony Glutton Army μ
 
 ID=42304
-暴食の災厄グルトン軍団μ
+Overly Disastrous Glutton Army μ
 
 ID=42305
-チェイサー
+Chaser
 
 ID=42306
-奇襲部隊チェイサー
+Raid Force Chaser
 
 ID=42307
-血吸の刃チェイサー
+Blood Absorption’s Edge Chaser
 
 ID=42308
-チェイサーμ
+Chaser μ
 
 ID=42309
-奇襲部隊チェイサーμ
+Stealth Unit Chaser μ
 
 ID=42310
-血吸の刃チェイサーμ
+Blood Absorption’s Edge Chaser μ
 
 ID=42311
-インテンションカルラ
+Intentful Carla
 
 ID=42312
-強襲のインテンションカルラ
+Violent Intentful Carla
 
 ID=42313
-強襲怪鳥インテンションカルラ
+Violent Monster Bird Intention Carla
 
 ID=42314
-インテンションカルラμ
+Intentful Carla
 
 ID=42315
-強襲のインテンションカルラμ
+Violent Intentful Carla μ
 
 ID=42316
-強襲怪鳥インテンションカルラμ
+Violent Monster Bird Intention Carla μ
 
 ID=42317
-クイーンカルラ
+Queen Carla
 
 ID=42318
-怪鳥クイーンカルラ
+Monster Bird Queen Carla
 
 ID=42319
-蒼空の覇者クイーンカルラ
+Ruler of the Blue Sky Queen Carla
 
 ID=42320
-クイーンカルラμ
+Queen Carla μ
 
 ID=42321
-怪鳥クイーンカルラμ
+Monster Bird Queen Carla μ
 
 ID=42322
-蒼空の覇者クイーンカルラμ
+Ruler of the Blue Sky Queen Carla μ
 
 ID=42323
-セデュリン
+Sedurin
 
 ID=42324
-主席博士セデュリン
+Head Dr. Sedurin
 
 ID=42325
-怠惰なる兵器開発者セデュリン
+Lazy Weapons Inventor Sedurin
 
 ID=42326
-セデュリンμ
+Sedurin μ
 
 ID=42327
-主席博士セデュリンμ
+Head Dr. Sedurin μ
 
 ID=42328
-怠惰なる兵器開発者セデュリンμ
+Lazy Weapons Inventor Sedurin μ
 
 ID=42329
-セツカとリョーコ
+Setsuka and Ryoko
 
 ID=42330
-ちゃっかり姉妹セツカとリョーコ
+Calculating Sisters Setsuka and Ryoko
 
 ID=42331
-無敵姉妹セツカとリョーコ
+Unrivaled Sisters Setsuka and Ryoko
 
 ID=42332
-セツカとリョーコμ
+Setsuka and Ryoko μ
 
 ID=42333
-ちゃっかり姉妹セツカとリョーコμ
+Calculating Sisters Setsuka and Ryoko μ
 
 ID=42334
-無敵姉妹セツカとリョーコμ
+Unrivaled Sisters Setsuka and Ryoko μ
 
 ID=42335
-フレイムテンペスト
+Flame Tempest
 
 ID=42336
-殺戮のフレイムテンペスト
+Murderous Flame Tempest
 
 ID=42337
-背徳のフレイムテンペスト
+Flames of Corruption Tempest
 
 ID=42338
-フレイムテンペストμ
+Flame Tempest μ
 
 ID=42339
-殺戮のフレイムテンペストμ
+Murderous Flame Tempest μ
 
 ID=42340
-背徳のフレイムテンペストμ
+Immoral Flame Tempest μ
 
 ID=42341
-マローダー
+Marauder
 
 ID=42342
-暗殺者マローダー
+Assassin Marauder
 
 ID=42343
-隠身の暗殺者マローダー
+Stealthy Assassin Marauder
 
 ID=42344
-マローダーμ
+Marauder μ
 
 ID=42345
-暗殺者マローダーμ
+Assassin Marauder μ
 
 ID=42346
-隠身の暗殺者マローダーμ
+Stealthy Assassin Marauder μ
 
 ID=42347
-リタ
+Rita
 
 ID=42348
-有閑独女リタ
+Leisured Single Woman Rita
 
 ID=42349
-屈指の有閑独女リタ
+Outstanding Leisured Single Woman Rita
 
 ID=42350
-リタμ
+Rita μ
 
 ID=42351
-有閑独女リタμ
+Leisured Single Woman Rita μ
 
 ID=42352
-屈指の有閑独女リタμ
+Outstanding Leisured Single Woman Rita μ
 
 ID=42353
-댄싱 섀도우
+Dancing Shadow
 
 ID=42354
-암살자 댄싱 섀도우
+Assassin Dancing Shadow
 
 ID=42355
-달리는 그림자 댄싱 섀도우
+駆け抜ける影ダンシングシャドー
 
 ID=42356
-댄싱 섀도우
+ダンシングシャドーμ
 
 ID=42357
-암살자 댄싱 섀도우
+暗殺者ダンシングシャドーμ
 
 ID=42358
-달리는 그림자 댄싱 섀도우
+駆け抜ける影ダンシングシャドーμ
 
 ID=42359
-로드 버스터
+Road Buster
 
 ID=42360
-전투머신 로드 버스터
+War Road Buster
 
 ID=42361
-섬멸사양 로드 버스터
+殲滅仕様ロードバスター
 
 ID=42362
-로드 버스터
+ロードバスターμ
 
 ID=42363
-전투머신 로드 버스터
+戦闘マシンロードバスターμ
 
 ID=42364
-섬멸사양 로드 버스터
+殲滅仕様ロードバスターμ
 
 ID=42365
-세듀린
+Sedurin
 
 ID=42366
-머신 홀린 세듀린
+マシン中毒セデュリン
 
 ID=42367
-블랙홀 머신 세듀린
+可憐なる黒渦セデュリン
 
 ID=42368
-세듀린
+Sedurin μ
 
 ID=42369
-머신 홀린 세듀린
+マシン中毒セデュリンμ
 
 ID=42370
-블랙홀 머신 세듀린
+可憐なる黒渦セデュリンμ
 
 ID=43139
-ディグニティースナッチャー
+Dignity Snatcher
 
 ID=43143
 F-ARIA
 
 ID=43146
-誘惑の欠片
+Fragment of Temptation
 
 ID=43000
-ジャック・ザ・キング
+Jack the King
 
 ID=43003
-ダンシングドールズ
+Dancing Dolls
 
 ID=43019
-ジャンクナイト
+Junk Knight
 
 ID=43028
-シンシア
+Cynthia
 
 ID=43031
-アラクニス
+Arachnis
 
 ID=43057
-スネーク
+Snake
 
 ID=43071
-スカー
+Scar
 
 ID=43076
-ホワイトファング
+White Fang
 
 ID=43099
-スコール
+Squall
 
 ID=43110
-トレッカー
+Trekker
 
 ID=43115
-デウス・エクス・マキナ
+Deus Ex Machina
 
 ID=43006
-ワイルドストーン
+Wild Stone
 
 ID=43008
-ブロック
+Brock
 
 ID=43010
-ウォーライク
+Warlike
 
 ID=43012
-アスファルトゴーレム
+Asphalt Golem
 
 ID=43013
-シウォラット
+Sewerat
 
 ID=43015
-ヴェノムミューカス
+Venomous Mucus
 
 ID=43017
-ダークアリゲーター
+Dark Alligator
 
 ID=43022
-バキュームベイン
+Vacuum Vein
 
 ID=43025
-マングローブセル
+Mangrove Cell
 
 ID=43034
-セル
+Cell
 
 ID=43036
 S-01
 
 ID=43038
-ビクター
+Victor
 
 ID=43040
-ビホールダー
+Beholder
 
 ID=43041
-ホクマ
+Hokuma
 
 ID=43042
-ガルス
+Gallus
 
 ID=43044
-ボーンクラッシャー
+Bonecrusher
 
 ID=43046
-アーロン
+Aaron
 
 ID=43047
-ブラックガントレット
+Black Gauntlet
 
 ID=43049
-アーマースチール
+Armor Steel
 
 ID=43050
-ヘルインフォーサー
+Hell Infuser
 
 ID=43052
-トール
+Thor
 
 ID=43053
-チェイサー
+Chaser
 
 ID=43055
-カーチャ
+Katja
 
 ID=43056
-ベニン
+Venin
 
 ID=43060
-インテンションカルラ
+Intentful Carla
 
 ID=43062
-レッドメイン
+Red Mane
 
 ID=43063
-クイーンカルラ
+Queen Carla
 
 ID=43065
-セデュリン
+Sedurin
 
 ID=43067
-シングルレッグ
+Single Leg
 
 ID=43068
-ソラ
+Sora
 
 ID=43069
-フレイムテンペスト
+Flame Tempest
 
 ID=43074
-マローダー
+Marauder
 
 ID=43079
-ヘルコレクター
+Hell Collector
 
 ID=43080
-ダンシングシャドー
+Dancing Shadow
 
 ID=43082
-ロードバスター
+Road Buster
 
 ID=43084
-メギドメーカーMKⅡ
+Megidomeka MKⅡ
 
 ID=43086
-テッド&ジュリー
+テッド＆ジュリー
 
 ID=43087
-セニア
+Senia
 
 ID=43089
-セントリーコマンダー
+Sentry Commander
 
 ID=43091
-ヘビーアースクエイカー
+Heavy Ground Shaker
 
 ID=43093
-アマンダ
+Amanda
 
 ID=43095
-ジークプロト
+Prototype Sieg
 
 ID=43097
-ブレードウルフ
+Blade Wolf
 
 ID=43102
-ドミニアゼロ
+Domineer Zero
 
 ID=43103
-サラ
+Sarah
 
 ID=43104
-カットスロート
+Cutthroat
 
 ID=43105
-アサルトスパイダー
+Assault Spider
 
 ID=43106
-ヘビーアイアンワーム
+Heavy Iron Worm
 
 ID=43108
-センスン
+Sensun
 
 ID=43113
-クリーニー
+Clinic
 
 ID=43114
-鋼鉄のロボット兄弟
+Steel Robot Brother
 
 ID=43118
-アサルトゴースト
+Assault Ghost
 
 ID=43119
-ベティ
+Betty
 
 ID=43120
-グラスパー
+Grasper
 
 ID=43121
-クイーンオブフラワー
+Queen of Flower
 
 ID=43123
-ハンマーヘッド
+Hammerhead
 
 ID=43124
-ジェノサイダーエックス
+Genocider X
 
 ID=43125
-ディグモンスター
+Dig Monster
 
 ID=43127
-ナンバーレス・リム
+Numberless Rim
 
 ID=43129
-ジェシー
+Jessi
 
 ID=43131
-イアン
+Ian
 
 ID=43133
-フルアーマージークプロト
+Armored Prototype Sieg
 
 ID=43135
-マーティン
+Martin
 
 ID=43137
-訓練用ダミー
+Training Dummy
 
 ID=43142
-ドレインクロー
+Drain Claw
 
 ID=43149
-ブッカーTV
+Booker TV
 
 ID=43151
-アジン
+Azin
 
 ID=43153
-エリック
+Erik
 
 ID=43155
-サニー
+Sonny
 
 ID=43265
-[S]カイン
+[S]Kain
 
 ID=43268
-[SH]カイン
+[SH]Kain
 
 ID=43271
-[S]ビッグパペット
+[S]Big Puppet
 
 ID=43274
-[SH]ビッグパペット
+[SH]Big Puppet
 
 ID=43277
-[S]巨神アスファルトゴーレム
+[S] Giant Asphalt Golem
 
 ID=43280
-[SH]巨神アスファルトゴーレム
+[SH] Giant Asphalt Golem
 
 ID=43283
-[S]魔眼マッドビホールダー
+[S]Mad Evil Eye Beholder
 
 ID=43286
-[SH]魔眼マッドビホールダー
+[SH]Mad Evil Eye Beholder
 
 ID=43289
-[S]ラピッドフレイム
+[S]Rapid Flame
 
 ID=43292
-[SH]ラピッドフレイム
+[SH]Rapid Flame
 
 ID=43157
-[S]医療部隊フォーチュン
+[S]Lucky Medical Corps
 
 ID=43160
-[SH]医療部隊フォーチュン
+[SH]Lucky Medical Corps
 
 ID=43163
-[S]フォースストライク
+[S]Strike Force
 
 ID=43166
-[SH]フォースストライク
+[SH]Strike Force
 
 ID=43169
-[S]研究部署STラボ
+[S]ST Research Division Lab
 
 ID=43172
-[SH]研究部署STラボ
+[SH]ST Research Division Lab
 
 ID=43175
-[S]ヘビーギアズ
+[S]Heavy Gear
 
 ID=43178
-[SH]ヘビーギアズ
+[SH]Heavy Gear
 
 ID=43181
-[S]ショーン
+[S]Sean
 
 ID=43184
-[SH]ショーン
+[SH]Sean
 
 ID=43187
-[S]ワイルドストーン
+[S]Wild Stone
 
 ID=43190
-[SH]ワイルドストーン
+[SH]Wild Stone
 
 ID=43193
-[S]ブロック
+[S]Brock
 
 ID=43196
-[SH]ブロック
+[SH]Brock
 
 ID=43199
-[S]ウォーライク
+[S]Warlike
 
 ID=43202
-[SH]ウォーライク
+[SH]Warlike
 
 ID=43205
-[S]シウォラット
+[S]Sewerat
 
 ID=43208
-[SH]シウォラット
+[SH]Sewerat
 
 ID=43211
-[S]ヴェノムミューカス
+[S]Venomous Mucus
 
 ID=43214
-[SH]ヴェノムミューカス
+[SH]Venomous Mucus
 
 ID=43217
-[S]ダークアリゲーター
+[S]Dark Alligator
 
 ID=43220
-[SH]ダークアリゲーター
+[SH]Dark Alligator
 
 ID=43223
-[S]セル
+[S] Cell
 
 ID=43226
-[SH]セル
+[SH]Cell
 
 ID=43229
 [S]S-01
@@ -13910,118 +13922,118 @@ ID=43232
 [SH]S-01
 
 ID=43235
-[S]ビクター
+[S]Bikuta
 
 ID=43238
-[SH]ビクター
+[SH]Bikuta
 
 ID=43241
-[S]ガルス
+[S]Gallus
 
 ID=43244
-[SH]ガルス
+[SH]Gallus
 
 ID=43247
-[S]ボーンクラッシャー
+[S]Bonecrusher
 
 ID=43250
-[SH]ボーンクラッシャー
+[SH]Bonecrusher
 
 ID=43253
-[S]ブラックガントレット
+[S]Black Gauntlet
 
 ID=43256
-[SH]ブラックガントレット
+[SH]Black Gauntlet
 
 ID=43259
-[S]ヘルインフォーサー
+[S]Hell Infuser
 
 ID=43262
-[SH]ヘルインフォーサー
+[SH]Hell Infuser
 
 ID=43295
-[S]グルトン
+[S]Glutton
 
 ID=43296
-[SH]グルトン
+[SH]Glutton
 
 ID=43297
-[S]輝くグルトン
+[S]Shiny Glutton
 
 ID=43298
-[S]夕陽の花ミリアム
+[S]Dusk Cherry Blossom Miriam
 
 ID=43299
-[S]グルトン軍団
+[S]Glutton Army
 
 ID=43300
-[SH]グルトン軍団
+[SH]Glutton Army
 
 ID=43301
-[S]チェイサー
+[S]Chaser
 
 ID=43302
-[SH]チェイサー
+[SH]Chaser
 
 ID=43303
-[S]インテンションカルラ
+[S]Intentful Carla
 
 ID=43304
-[SH]インテンションカルラ
+[SH]Intentful Carla
 
 ID=43305
-[S]クイーンカルラ
+[S]Queen Carla
 
 ID=43306
-[SH]クイーンカルラ
+[SH]Queen Carla
 
 ID=43307
-[S]セデュリン
+[S]Sedurin
 
 ID=43308
-[SH]セデュリン
+[SH]Sedurin
 
 ID=43309
-[S]セツカとリョーコ
+[S]Setsuka and Ryoko
 
 ID=43310
-[SH]セツカとリョーコ
+[SH]Setsuka and Ryoko
 
 ID=43311
-[S]フレイムテンペスト
+[S]Flame Tempest
 
 ID=43312
-[SH]フレイムテンペスト
+[SH]Flame Tempest
 
 ID=43313
-[S]マローダー
+[S]Marauder
 
 ID=43314
-[SH]マローダー
+[SH]Marauder
 
 ID=43315
-[S]リタ
+[S]Rita
 
 ID=43316
-[SH]リタ
+[SH]Rita
 
 ID=43317
-[S]댄싱 섀도우
+[S]ダンシングシャドー
 
 ID=43318
-[SH]댄싱 섀도우
+[SH]ダンシングシャドー
 
 ID=43319
-[S]로드 버스터
+[S]ロードバスター
 
 ID=43320
-[SH]로드 버스터
+[SH]ロードバスター
 
 ID=43321
-[S]세듀린
+[S]Sedurin
 
 ID=43322
-[SH]세듀린
+[SH]Sedurin
 
 ID=45000
 ร้านค้า
@@ -14036,7 +14048,7 @@ ID=45003
 ซ่อน
 
 ID=45004
-外見管理
+จัดการลักษณะที่ปรากฏ
 
 ID=45005
 เปิด
@@ -14066,7 +14078,7 @@ ID=45013
 ซื้อ
 
 ID=45014
-保管中止
+เอาออก
 
 ID=45015
 PICK UP
@@ -14186,7 +14198,7 @@ ID=45053
 ชั่วโมง
 
 ID=45054
-นาที
+ นาที
 
 ID=45055
 保管箱にプレゼントできないアイテムがあります。ご確認ください。
@@ -14612,7 +14624,7 @@ ID=49233
 ログインアカウントが重複しているため、ゲームを終了します。
 
 ID=49234
-現在のメイズを放棄して退場しますか？\n退場時、疲労度が減少し、再入場はできません。
+現在のメイズを放棄しますか？\n放棄時、下記ペナルティが発生します。\n-乱入不可\n-疲労度減少(疲労度0エリア除外)
 
 ID=49235
 スチールグレイブを放棄して退場しますか？\n退場時、再挑戦できません。
@@ -14756,7 +14768,7 @@ ID=49401
 ช่องเก็บของ
 
 ID=49402
-Equipment
+สวมใส่
 
 ID=49403
 สกิล
@@ -14858,7 +14870,7 @@ ID=49610
 ゲームパッド
 
 ID=49611
-ゲームパッドが接続されています。\nゲームパッドモードに切り替えることで使用できます。\n[環境設定-操作設定：ゲームパッド使用項目]
+ゲームパッドが接続されています。\nゲームパッドモードに切替えることで使用できます。\n[環境設定-操作設定：ゲームパッド使用項目]
 
 ID=49612
 ゲームパッドを認識できません。ゲームパッドモードを解除します。
@@ -15012,6 +15024,9 @@ ID=49783
 
 ID=49790
 http://soulworker.hangame.co.jp/community/noticebbs.nhn?m=read&view=&bbsid=2510&bbstype=notice&page=1&docid=9594364 
+
+ID=49791
+モバイル認証
 
 ID=49912
 -ミッション失敗-\nメイズの外に移動します。\n-残り時間：{0}秒-
@@ -15521,7 +15536,7 @@ ID=52049
 エクストラインベントリに保管できるスロットがありません。
 
 ID=52050
-ルームインベントリに保管できるスロットがありません。
+家具インベントリに空きがないため、これ以上アイテムを受け取れません。
 
 ID=52051
 一般インベントリに空きがないため、これ以上アイテムを受け取れません。
@@ -15539,16 +15554,16 @@ ID=52055
 すでにジェニーが最大所持数に達しているため、これ以上ジェニーを受け取れません。
 
 ID=52056
-제니 최대 소지량 초과. 더 이상 습득할 수 없습니다.
+ジェニーの最大所持量を超過したため、これ以上獲得できません。
 
 ID=52057
-B.P 최대 소지량 초과. 더 이상 습득할 수 없습니다.
+B.Pの最大所持量を超過したため、これ以上獲得できません。
 
 ID=52058
-에텔 최대 소지량 초과. 더 이상 습득할 수 없습니다.
+エーテルの最大所持量を超過したため、これ以上獲得できません。
 
 ID=52059
-캐시 최대 소지량 초과. 더 이상 습득할 수 없습니다.
+ハンコインの最大所持量を超過したため、これ以上獲得できません。
 
 ID=52101
 使用できないスロットです。
@@ -16037,7 +16052,7 @@ ID=53021
 申請者が存在しません。
 
 ID=53024
-制限時間経過後に登録できます。 
+制限時間経過後に登録できます。
 
 ID=53025
 パーティーが定員オーバー状態のため登録できません。
@@ -16316,10 +16331,10 @@ ID=55116
 {0}は遮断リストに登録されているため、ささやきを送れません。
 
 ID=55201
-同じ名前のＩＤが存在します。
+同じ名前のIDが存在します。
 
 ID=55202
-使用可能なＩＤです。
+使用可能なIDです。
 
 ID=55301
 受信者が存在しません。
@@ -16565,22 +16580,22 @@ ID=57045
 ギルドマーク変更に失敗しました。
 
 ID=57046
-ギルドスキルがありません。
+ไม่มีสกิลของกิลด์ที่ใช้งานได้
 
 ID=57047
 ギルドレベル条件に合っていないため、習得できません。
 
 ID=57048
-ギルドSPが足りません。
+SP กิลด์ไม่เพียงพอ
 
 ID=57049
-ギルド基金が足りません。
+เงินของกิลด์ไม่เพียงพอ
 
 ID=57050
-これ以上ギルドスキルを強化できません。
+คุณไม่สามารถเพิ่มสกิลของกิลด์เพิ่มเติม
 
 ID=57051
-ギルド倉庫情報を見つけられません。
+ไม่พบข้อมูลคลังสินค้ากิลด์
 
 ID=57052
 ย้ายไอเทมล้มเหลว
@@ -16670,64 +16685,64 @@ ID=58212
 家具インベントリがいっぱいです。\nインベントリ空間を確保してください。
 
 ID=58213
-マイルームが配置モードに変更されたため、退場しました。
+植木鉢がありません。
 
 ID=58214
-도우미 인원이 가득찼습니다.
+ヘルプメンバーがいっぱいです。
 
 ID=58215
-이미 도움을 준 화분입니다.
+すでに手を加えた植木鉢です。
 
 ID=58216
-해당 아이템이 없습니다.
+該当アイテムがありません。
 
 ID=58217
-마이룸이 아닙니다.
+マイルームではありません。
 
 ID=58218
-마이룸 주인이 아닙니다.
+マイルームの主人ではありません。
 
 ID=58219
-화분 설치를 실패하였습니다.
+植木鉢の設置に失敗しました。
 
 ID=58220
-씨앗 심기가 실패하였습니다.
+種まきに失敗しました。
 
 ID=58221
-수확 할 수 없는 상태입니다.
+収穫できない状態です。
 
 ID=58222
-수확 실패 하였습니다.
+収穫に失敗しました。
 
 ID=58223
-인벤토리 공간이 부족합니다.
+インベントリに空きがありません。
 
 ID=58224
-마이룸 주인은 할 수 없습니다.
+マイルームの主人はできません。
 
 ID=58225
-화분에 아이템 사용을 실패하였습니다.
+植木鉢へのアイテム使用に失敗しました。
 
 ID=58226
-화분에 씨앗이 있습니다.
+植木鉢に種があります。
 
 ID=58227
-화분이 사용중 입니다.
+植木鉢を使用中です。
 
 ID=58229
-이미 추가된 화분입니다.
+すでに追加された植木鉢です。
 
 ID=58230
-화분 정보가 부족합니다.
+植木鉢情報が不足しています。
 
 ID=58231
-화분 정보 확인 실패하였습니다.
+植木鉢情報の確認に失敗しました。
 
 ID=58232
-이미 사용됩 아이텝입니다.
+すでに使用されたアイテムです。
 
 ID=58233
-배치모드로 전환되어 추방되었습니다.
+配置モードに変更されたため追放されました。
 
 ID=58300
 出品可能回数を超過しました。現在の等級は[{0}]で、出品可能回数は{1}回です。
@@ -16958,4 +16973,4 @@ ID=60143
 STAGE
 
 ID=60144
-反復回数({0}/{1})
+ทำซ้ำ ({0}/{1})
