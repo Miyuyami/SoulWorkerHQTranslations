@@ -1379,13 +1379,13 @@ ID=760
 <font color='#FF0000'>帰属アイテム</font>
 
 ID=761
-<font color='#FF0000'>ไม่สามารถแลกเปลี่ยนได้</font>
+<font color='#FF0000'>Trade ไม่ได้</font>
 
 ID=762
 <font color='#FF0000'>取引不可(帰属状態)</font>
 
 ID=763
-<font color='#FF0000'>ขายไม่ได้</font>
+<font color='#FF0000'>ขายในร้านค้าไม่ได้</font>
 
 ID=764
 <font color='#FF0000'>ย่อยสลายไม่ได้</font>
@@ -1403,10 +1403,10 @@ ID=768
 ระยะเวลา：
 
 ID=769
- วิ
+วิ
 
 ID=770
- นาที
+นาที
 
 ID=771
 ชั่วโมง
@@ -1829,10 +1829,10 @@ ID=943
 ไอเทมผูกมัด
 
 ID=946
-<font color='#FF0000'>ขายไม่ได้</font>
+<font color='#FF0000'>ขายในร้านค้าไม่ได้</font>
 
 ID=947
-<font color='#FF0000'>ไม่สามารถแลกเปลี่ยนได้</font>
+<font color='#FF0000'>Deletable</font>
 
 ID=951
 อัพเกรด
@@ -2114,7 +2114,7 @@ ID=1113
 เครื่องแต่งกายพื้นฐาน
 
 ID=1114
-Kiku
+ฟัง
 
 ID=1115
 วิ่ง
@@ -2129,7 +2129,7 @@ ID=1118
 สุ่ม
 
 ID=1119
-สร้างเสร็จสิ้น
+เสร็จสิ้น
 
 ID=1120
 คุณสามารถกำหนดลักษณะของตัวละครตัวนี้
@@ -2309,10 +2309,10 @@ ID=1451
 {0} ล้มเหลวในการอัพเกรด {1}+{2} ถูกทำลาย
 
 ID=1452
-{0} สร้างประสบความสำเร็จ {1}
+{0} สร้าง {1} ประสบความสำเร็จ
 
 ID=1453
-{0} สร้างประสบความสำเร็จ {1}
+{0} สร้าง {1} ประสบความสำเร็จ
 
 ID=2001
 กรุณาเลือกคำที่คุณต้องการที่จะใช้ในชื่อ Company
@@ -2612,7 +2612,7 @@ ID=2282
 選択したメールを全て削除しますか？\n(未読メールまたは添付されたアイテム、ジェニーがあるメールは削除されません)
 
 ID=2283
-อีเมล์ {0} ได้ถูกลบออก
+{0} อีเมล์ได้ถูกลบออก
 
 ID=2500
 Community
@@ -3038,7 +3038,7 @@ ID=5002
 คูลดาวน์:
 
 ID=5003
- วิ
+วิ
 
 ID=5004
 COST：
@@ -3269,7 +3269,7 @@ ID=5503
 音声試聴
 
 ID=5504
-Kiku
+ฟัง
 
 ID=5505
 動作プレビュー
@@ -3296,7 +3296,7 @@ ID=5512
 ชุดชั้นใน
 
 ID=5513
-สร้างเสร็จสิ้น
+เสร็จสิ้น
 
 ID=5514
 ย้อนกล้บ
@@ -3317,19 +3317,19 @@ ID=5519
 キャラクタースタイル設定
 
 ID=5800
-<font color='#FFFFFF'><font size="30">TIP：</font>อุปกรณ์พื้นฐานในแต่ละเมืองสามารถซื้อได้ที่ <font color='#00ff9c'>ジャイト</font> จากร้านค้าอุปกรณ์
+<font color='#FFFFFF'><font size="30">TIP：</font>อุปกรณ์พื้นฐานในแต่ละเมืองสามารถซื้อได้ที่ <font color='#00ff9c'>Jaito</font> จากร้านค้าอุปกรณ์
 
 ID=5801
-<font color='#FFFFFF'><font size="30">TIP：</font>ของใช้งานพื้นฐานในแต่ละเมืองสามารถซื้อได้ที่ <font color='#00ff9c'>ヨミ</font> ในร้านขายของชำ
+<font color='#FFFFFF'><font size="30">TIP：</font>ของใช้งานพื้นฐานในแต่ละเมืองสามารถซื้อได้ที่ <font color='#00ff9c'>Yomi</font> ในร้านขายของชำ
 
 ID=5802
-<font color='#FFFFFF'><font size="30">TIP：</font>町の商店で、武器の耐久度を回復する<font color='#00D8FF'>[修理]</font>や、各種素材を入手できるアイテムの<font color='#00D8FF'>[分解]</font>ができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ร้านค้าในเมืองสามารถ<font color='#00D8FF'> [ซ่อมแซม] </font>อุปกรณ์ให้ได้หรือจะ<font color='#00D8FF'> [ย่อยสลาย] </font>ก็ได้เช่นกัน
 
 ID=5803
-<font color='#FFFFFF'><font size="30">TIP：</font>商店などの機能性NPCを利用すると、<font color='#00D8FF'>[顧客等級]</font>が上昇します。\n顧客等級のレベルによって、様々な特典が付与されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อแวะไปหา NPC นั้นบ่อยๆ<font color='#00D8FF'> [ค่าความสนิท] </font>จะเพิ่มขึ้น\nยิ่ง Lv เพิ่มขึ้นมาเท่าไรท่านจะได้ประโยชน์ต่างๆในด้านราคาหรืออื่นๆที่ลดลง
 
 ID=5804
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>[トリシャ]</font>の所で、武器・ギアの<font color='#00D8FF'>[強化][交換]</font>ができます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>[Trisha]</font> สามารถ<font color='#00D8FF'>[อัพเกรด][แลกเปลี่ยนวัตถุดิบอัพเกรด]</font> ให้ท่านได้
 
 ID=5805
 <font color='#FFFFFF'><font size="30">TIP：</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して\n別の装備品の強化・製作アイテムを入手することもできます。
@@ -3470,55 +3470,55 @@ ID=5850
 <font color='#FFFFFF'><font size="30">TIP：</font>ゲームを進行しながら様々な<font color='#00D8FF'>アイテム</font>を集めて、能力を強化しましょう。
 
 ID=5851
-<font color='#FFFFFF'><font size="30">TIP：</font>ソケットがある武器には<font color='#00D8FF'>ファミリア</font>を装着できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>อาวุธที่มีซ็อกเก็ตสามารถติดตั้ง<font color='#00D8FF'> Familia </font>ได้
 
 ID=5852
-<font color='#FFFFFF'><font size="30">TIP：</font>ソケットがあるアバターには<font color='#00D8FF'>ブローチ</font>を装着して、能力を付与することができます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>Brooch</font> สามารถติดตั้งให้กับไอเทมแฟชั่นที่มีซ็อกเก็ตได้
 
 ID=5853
-<font color='#FFFFFF'><font size="30">TIP：</font>敵を倒すと<font color='#00D8FF'>エーテル</font>を落とします。エーテルはアイテムの<font color='#00ff9c'>強化</font>に使用します。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อกำจัดศัตรูจะได้รับ<font color='#00D8FF'> Ether </font>ซึ่งจะถูกนำมาใช้เพื่อ<font color='#00ff9c'> อัพเกรด </font>ไอเทม
 
 ID=5854
-<font color='#FFFFFF'><font size="30">TIP：</font>ゼニスの所でアイテム製作をするためには<font color='#00D8FF'>設計図</font>が必要です。
+<font color='#FFFFFF'><font size="30">TIP：</font>ในการสร้างไอเทม<font color='#00D8FF'> Blueprint </font>เป็นสิ่งที่จำเป็น
 
 ID=5855
-<font color='#FFFFFF'><font size="30">TIP：</font>武器の<font color='#00D8FF'>耐久度</font>が減るほど、アイテムの性能も低下します。商店で定期的に修理しましょう。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อ<font color='#00D8FF'> ความทนทาน </font>ของอาวุธลดลงประสิทธิภาพของมันก็จะลดลงด้วยเช่นกัน ท่านสามารถไปยังร้านค้าเพื่อซ่อมแซม
 
 ID=5856
-<font color='#FFFFFF'><font size="30">TIP：</font>他の町に移動するには、<font color='#00D8FF'>第6区域</font>という無法地帯を通らなければなりません。
+<font color='#FFFFFF'><font size="30">TIP：</font>เพื่อที่จะไปเมืองอื่นท่านต้องผ่านพื้นที่ Lawless ที่เรียกว่า<font color='#00D8FF'> District 6 </font>
 
 ID=5857
-<font color='#FFFFFF'><font size="30">TIP：</font>第6区域にある<font color='#00D8FF'>スタリーフォレスト連合輸送ヘリ</font>を利用すると、他エリアへ安全に移動できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ที่ District 6 สามารถใช้ <font color='#00D8FF'>เฮลิคอปเตอร์ขนส่ง</font> ย้ายไปยังอีกพื้นที่ได้
 
 ID=5858
-<font color='#FFFFFF'><font size="30">TIP：</font>第6区域にある<font color='#00D8FF'>バキュームキューブ</font>からは、まれに強化や製作材料を獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>วัตถุดิบในการอัพเกรด<font color='#00D8FF'> Vacuum Cubes </font>บางครั้งอาจจะหาได้จาก <font color='#00D8FF'>District 6</font>
 
 ID=5859
-<font color='#FFFFFF'><font size="30">TIP：</font>最高レベルになると、最低2人以上で挑戦できる<font color='#00D8FF'>カジュアルレイド</font>、別名「異常空白」に入場できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อท่านมาถึง Lv สูงสุดสามารถท้าทาย<font color='#00D8FF'> Casual Raid </font>ขั้นต่ำจำเป็นต้องมี 2 คนหรือมากกว่า
 
 ID=5860
-<font color='#FFFFFF'><font size="30">TIP：</font>カンダスシティから戦闘研究所<font color='#00D8FF'>スチールグレイブ</font>に入場できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ท่านสามารถเข้าไป<font color='#00D8FF'> Steel Grave </font>จากเมือง <font color='#00D8FF'>Candus City</font>
 
 ID=5861
-<font color='#FFFFFF'><font size="30">TIP：</font>戦闘研究所<font color='#00D8FF'>スチールグレイブ</font>へは、1日1回5ステージまで入場できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>การต่อสู้ใน<font color='#00D8FF'> Steel Grave </font>สามารถเข้าได้วันละครั้งและมีให้ผ่านถึง 5 Stage
 
 ID=5862
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ระดับยาก</font>มีศัตรูที่แข็งแกร่งและผลตอบแทนที่ดีกว่า
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ระดับยาก</font> มีศัตรูที่โหดขึ้นและได้ผลตอบแทนที่ดีกว่า
 
 ID=5863
-<font color='#FFFFFF'><font size="30">TIP：</font>อุปกรณ์พื้นฐานในแต่ละเมืองสามารถซื้อได้ที่ <font color='#00ff9c'>ジャイト</font> จากร้านค้าอุปกรณ์
+<font color='#FFFFFF'><font size="30">TIP：</font>อุปกรณ์พื้นฐานในแต่ละเมืองสามารถซื้อได้ที่ <font color='#00ff9c'>Jaito</font> จากร้านค้าอุปกรณ์
 
 ID=5864
-<font color='#FFFFFF'><font size="30">TIP：</font>ของใช้งานพื้นฐานในแต่ละเมืองสามารถซื้อได้ที่ <font color='#00ff9c'>ヨミ</font> ในร้านขายของชำ
+<font color='#FFFFFF'><font size="30">TIP：</font>ของใช้งานพื้นฐานในแต่ละเมืองสามารถซื้อได้ที่ <font color='#00ff9c'>Yomi</font> ในร้านขายของชำ
 
 ID=5865
-<font color='#FFFFFF'><font size="30">TIP：</font>町の商店で、武器の耐久度を回復する<font color='#00D8FF'>[修理]</font>や、各種素材を入手できるアイテムの<font color='#00D8FF'>[分解]</font>ができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ร้านค้าในเมืองสามารถ<font color='#00D8FF'> [ซ่อมแซม] </font>อุปกรณ์ให้ได้หรือจะ<font color='#00D8FF'> [ย่อยสลาย] </font>ก็ได้เช่นกัน
 
 ID=5866
-<font color='#FFFFFF'><font size="30">TIP：</font>商店などの機能性NPCを利用すると、<font color='#00D8FF'>[顧客等級]</font>が上昇します。\n顧客等級のレベルによって、様々な特典が付与されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อแวะไปหา NPC นั้นบ่อยๆ<font color='#00D8FF'> [ค่าความสนิท] </font>จะเพิ่มขึ้น\nยิ่ง Lv เพิ่มขึ้นมาเท่าไรท่านจะได้ประโยชน์ต่างๆในด้านราคาหรืออื่นๆที่ลดลง
 
 ID=5867
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>[トリシャ]</font>の所で、武器・ギアの<font color='#00D8FF'>[強化][交換]</font>ができます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>[Trisha]</font> สามารถ<font color='#00D8FF'>[อัพเกรด][แลกเปลี่ยนวัตถุดิบอัพเกรด]</font> ให้ท่านได้
 
 ID=5868
 <font color='#FFFFFF'><font size="30">TIP：</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して\n別の装備品の強化・製作アイテムを入手することもできます。
@@ -3539,7 +3539,7 @@ ID=5873
 <font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行情報は、ショートカットキー<font color='#00ff9c'>【L】</font>の<font color='#00D8FF'>[レコード][占有率]</font>ウィンドウから確認できます。
 
 ID=5874
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行状況に応じて、<font color='#00D8FF'>進行情報</font>ウィンドウ【L】から報酬を獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>สามารถตรวจสอบข้อมูลความคืบหน้าได้ในหน้าต่าง<font color='#00D8FF'> ความคืบหน้า </font>โดยการเรียกใช้ปุ่ม <font color='#00ff9c'>[L]</font>
 
 ID=5875
 <font color='#FFFFFF'><font size="30">TIP：</font>必要な材料を集めて町にいる<font color='#00ff9c'>イオ</font>に渡すと、<font color='#00D8FF'>A.Rカード</font>を製作できます。
@@ -3554,25 +3554,25 @@ ID=5878
 <font color='#FFFFFF'><font size="30">TIP：</font>受注したクエストは、画面右の<font color='#00D8FF'>クエスト案内</font>または、クエスト情報ウィンドウ<font color='#00ff9c'>【J】</font>を開いて確認できます。
 
 ID=5879
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの全般的な詳細設定は、<font color='#00ff9c'>[ESC]</font>キーの<font color='#00D8FF'>[環境設定]</font>タブから変更できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เรียกใช้ปุ่ม<font color='#00ff9c'> [ESC] </font>จากนั้นไปที่<font color='#00D8FF'> [การตั้งค่า] </font>เพื่อปรับเปลี่ยนการตั้งค่าเกม
 
 ID=5880
 <font color='#FFFFFF'><font size="30">TIP：</font>コミュニティーウィンドウ【O】では、<font color='#00D8FF'>[フレンド]</font>に関連した機能を使用できます。
 
 ID=5881
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[スキル][A.Rカード]</font>は、スキルウィンドウ<font color='#00ff9c'>【K】</font>でスキル活性化後、\nスキル登録スロットに登録して使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[การ์ด A.R]</font> และ <font color='#00D8FF'>[สกิล]</font> เรียกดูได้โดยการกดปุ่ม <font color='#00ff9c'>[K]</font>\nและสามารถจัดวางได้โดยการลากเข้าไปที่ Quick Slot
 
 ID=5882
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>スキルデッキ</font>を活用すると、戦闘にで有利な効果を獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>การใช้ <font color='#00D8FF'>Skill Deck</font> ได้ดีจะเป็นประโยชน์มากในการต่อสู้
 
 ID=5883
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>パッシブスキル</font>のレベルを上げると、基本アクションを強化できます。
 
 ID=5884
-<font color='#FFFFFF'><font size="30">TIP：</font>画面左下にある<font color='#00D8FF'>統合お知らせ</font>ウィンドウで、進行状況に関連した様々な内容を確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ไอคอนที่แจ้งบริเวณด้านล่างซ้ายของหน้าจอจะบอก<font color='#00D8FF'> เหตุการณ์ต่างๆ </font>ที่เกี่ยวข้องกับความคืบหน้า ฯลฯ
 
 ID=5885
-<font color='#FFFFFF'><font size="30">TIP：</font>ステータスウィンドウ【P】の「称号」タブで、名前の横に表示する各種<font color='#00D8FF'>称号</font>を自由に設定できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ชื่อนำหน้าคุณสามารถเปลี่ยนมันได้อย่างอิสระโดยเข้าไปที่หน้าต่าง [P] ในหัวข้อ<font color='#00D8FF'> Title</font>
 
 ID=5886
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>メイズ占有率</font>や<font color='#00D8FF'>町占有率</font>の進行状況に応じて、様々な報酬を獲得できます。
@@ -3584,7 +3584,7 @@ ID=5888
 <font color='#FFFFFF'><font size="30">TIP：</font>メイズ入場時に<font color='#00D8FF'>[オートマッチング]</font>を使用すると、自動的にパーティーを組むことができます。
 
 ID=5889
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ステータス</font>ウィンドウ【P】でプロフィールを修正できます。
+<font color='#FFFFFF'><font size="30">TIP: </font>ท่านสามารถปรับเปลี่ยน <font color='#00D8FF'>สถานะ</font> ได้ในหน้าต่าง <font color='#00ff9c'>[P]</font>
 
 ID=5890
 <font color='#FFFFFF'><font size="30">TIP：</font>左<font color='#00ff9c'>【Alt】</font>キーで、マウスモードに変更することができます。
@@ -3593,7 +3593,7 @@ ID=5891
 <font color='#FFFFFF'><font size="30">TIP：</font>最高レベル到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
 
 ID=5892
-<font color='#FFFFFF'><font size="30">TIP：</font>現在のチャンネルが混雑している時は、ミニマップの上にある<font color='#00D8FF'>チャンネル移動機能</font>で\n別チャンネルに移動してください。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อ Channel ปัจจุบันแออัดกรุณา<font color='#00D8FF'>เปลี่ยน Channel</font> โดย\nไปที่บริเวณด้านขวาบนของมินิแมพ
 
 ID=5893
 <font color='#FFFFFF'><font size="30">TIP：</font>ブッカーズポイント<font color='#00ff9c'>[BP]</font>は<font color='#00D8FF'>第6区域</font>または<font color='#00D8FF'>スチールグレイブ</font>で獲得できます。
@@ -3617,22 +3617,22 @@ ID=5899
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>イオ</font>の所で</font><font color='#00D8FF'>オーブ</font>を登録してください。\n登録したオーブは、フレンドのサポーターが使用できるようになります。
 
 ID=5900
-<font color='#FFFFFF'><font size="30">TIP：</font>下着を身につけた状態で、バスタブ/シャワーブースを使用すると…！！
+<font color='#FFFFFF'><font size="30">TIP：</font>ถ้าหากใช้ Booth อ่างอาบน้ำจะเห็น ชุดชั้นใน…!!
 
 ID=5901
-<font color='#FFFFFF'><font size="30">TIP：</font>アイテムモールで<font color='#00D8FF'>[外見アイテム]</font>を購入することで、外見を変更できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ในร้านค้าท่านสามารถซื้อ <font color='#00D8FF'>[แฟชั่น]</font> นำมาให้ตัวละครได้
 
 ID=5902
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[HP]</font>はキャラクターの体力を表し、0になると戦闘不能状態になります。HPの管理には気をつけましょう。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[HP]</font> คือค่าพลังชีวิตหากท่านทำมันเหลือ 0 ก็จะตายในทันที โปรดใช้ค่า HP ให้ระวังในการต่อสู่
 
 ID=5903
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[SG]</font>はソウルゲージと呼ばれる異能の根源です。\nスキル使用時に消費し、各キャラクターごとに回復する方法が異なります。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[SG]</font> จะถูกใช้งานในช่วงการใช้สกิล \nและแตกต่างกันสำหรับตัวละครแต่ละตัว
 
 ID=5904
-<font color='#FFFFFF'><font size="30">TIP：</font>第6区域ではブレイクスキルの<font color='#00D8FF'>「イロージョン」</font>を使用できません。
+<font color='#FFFFFF' size='30'>TIP: </font>Break Skill<font color='#00D8FF'> [Erosion] </font>ไม่สามารถใช้ได้ใน<font color='#00D8FF'> District 6 </font>
 
 ID=5905
-<font color='#FFFFFF'><font size="30">TIP：</font>第6区域では<font color='#00D8FF'>[DRAW]型</font>A.Rカードを使用できません。
+<font color='#FFFFFF'><font size="30">TIP：</font>ใน District 6 ท่านไม่สามารถใช้การ์ด A.R ประเภท<font color='#00D8FF'> [DRAW] </font>ได้
 
 ID=6011
 代表変更
@@ -7238,7 +7238,7 @@ ID=24261
 ขา
 
 ID=24262
-จี้
+สร้อยคอ
 
 ID=24263
 ต่างหู
@@ -7283,7 +7283,7 @@ ID=24276
 A.Rカードボックス
 
 ID=24277
-บัตร
+การ์ด
 
 ID=24278
 家具
@@ -7421,13 +7421,13 @@ ID=24322
 ไอเทมเควส
 
 ID=24323
-แบบแปลนอุปกรณ์
+อุปกรณ์
 
 ID=24324
-แบบแปลนแฟชั่น
+แฟชั่น
 
 ID=24325
-แบบแปลนเฟอร์นิเจอร์
+เฟอร์นิเจอร์
 
 ID=24326
 วัสดุเฟอร์นิเจอร์
@@ -7478,7 +7478,7 @@ ID=24511
 ขา
 
 ID=24512
-จี้
+สร้อยคอ
 
 ID=24513
 ต่างหู
@@ -7601,7 +7601,7 @@ ID=24552
 A.Rカードボックス
 
 ID=24553
-บัตร
+การ์ด
 
 ID=24554
 โต๊ะ
@@ -7790,7 +7790,7 @@ ID=24615
 ขา
 
 ID=24616
-จี้
+สร้อยคอ
 
 ID=24617
 ต่างหู
@@ -8018,7 +8018,7 @@ ID=24782
 L gear
 
 ID=24783
-จี้
+สร้อยคอ
 
 ID=24784
 ต่างหู
@@ -8147,7 +8147,7 @@ ID=24825
 อวาตาร์ Blueprint
 
 ID=24826
-แบบแปลนเฟอร์นิเจอร์
+เฟอร์นิเจอร์
 
 ID=24827
 Bath blueprint
@@ -9413,7 +9413,7 @@ ID=28143
 สร้างประกาศ
 
 ID=28144
-สร้างเสร็จสิ้น
+เสร็จสิ้น
 
 ID=28145
 作成中止
@@ -9881,7 +9881,7 @@ ID=29034
 ห้อง
 
 ID=29035
-คุณแน่ใจว่าต้องการที่จะเข้าไปที่ห้อง?
+ท่านต้องการเข้าไปที่ห้อง?
 
 ID=29036
 相手のマイルーム入場案内
@@ -11024,13 +11024,13 @@ ID=34005
 กระถางดอกไม้ 6
 
 ID=34006
-เพื่อที่จะใช้ {0}, {1} เป็นสิ่งจำเป็น \nคุณต้องการที่จะได้รับกระถางดอกไม้?
+เพื่อที่จะใช้ {0} ท่านต้องมี {1}\nต้องการที่จะปลดล็อคกระถางดอกไม้?
 
 ID=34007
 {0} สามารถใช้งานได้
 
 ID=34008
-เนื่องจากคุณไม่มี {1}, {0} ไม่สามารถเป็นเจ้าของ
+เนื่องจากคุณไม่มี {0} \n{1} ไม่สามารถใช้งานได้
 
 ID=34009
 เพาะปลูก
@@ -11054,7 +11054,7 @@ ID=34015
 เตรียมการ
 
 ID=34016
-กำลังเจริญเติบโต
+กำลังเติบโต
 
 ID=34017
 เสร็จสิ้น
@@ -14198,7 +14198,7 @@ ID=45053
 ชั่วโมง
 
 ID=45054
- นาที
+นาที
 
 ID=45055
 保管箱にプレゼントできないアイテムがあります。ご確認ください。
@@ -14564,7 +14564,7 @@ ID=49213
 ยืนยันการออกจากเกม
 
 ID=49214
-แน่ใจหรือไม่ ว่าต้องการที่จะออกจากเกม?
+ท่านต้องการที่จะออกจากเกม?
 
 ID=49215
 ปิด
