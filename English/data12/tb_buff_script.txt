@@ -1632,7 +1632,7 @@ Mode Switch
 
 ID=7000
 Erosion Ⅰ
-ダメージ量の50%をHPとして吸収する。\n敵の防御度を50%無視する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Gain 50% lifesteal.\nIgnore 50% of enemy's defense.\nMovement Speed +20%.\nGain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1643,44 +1643,44 @@ ID=7001
 Counter
 
 ID=7010
-挑発
-一定時間の間、挑発対象を攻撃する。
+Provoke
+For a while, the target is provoked to attack.
 Icon/Buff/Icon_Common_Debuff_Provoke
-挑発
+Provoke
 
 ID=7021
-挑発
-一定時間の間、挑発対象を攻撃し、挑発中は回避が減少する。
+Provoke
+For a while, the target is provoked to attack. During provoke, Evasion ↓
 Icon/Buff/Icon_Common_Debuff_Provoke
-挑発+回避減少
+Provoke+Evasion↓
 
 ID=7026
-スピリットサージⅠ
-一定時間の間、防御度が増加する。
+Spirit Surge Ⅰ
+For a while, Defense↑
 Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
 ID=7027
-スピリットサージⅡ
-一定時間の間、防御度が増加する。
+Spirit Surge Ⅱ
+For a while, Defense↑
 Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
 ID=7028
-スピリットサージⅢ
-一定時間の間、防御度が増加する。
+Spirit Surge Ⅲ
+For a while, Defense↑
 Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
 ID=7029
-スピリットサージⅣ
-一定時間の間、防御度が増加する。
+Spirit Surge Ⅳ
+For a while, Defense↑
 Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
 ID=7030
-スピリットサージⅤ
-一定時間の間、防御度が増加する。
+Spirit Surge Ⅴ
+For a while, Defense↑
 Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
@@ -1703,79 +1703,79 @@ Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=7041
-フュージョンアーマーⅠ
+Fusion Armor Ⅰ
 一定時間の間、無敵状態になる。
 Icon/Buff/Icon_Common_Buff_SArmor
 Invincible
 
 ID=7042
-フュージョンアーマーⅡ
+Fusion Armor Ⅱ
 一定時間の間、無敵状態になる。
 Icon/Buff/Icon_Common_Buff_SArmor
 Invincible
 
 ID=7043
-フュージョンアーマーⅢ
+Fusion Armor Ⅲ
 一定時間の間、無敵状態になる。
 Icon/Buff/Icon_Common_Buff_SArmor
 Invincible
 
 ID=7044
-フュージョンアーマーⅣ
+Fusion Armor Ⅳ
 一定時間の間、無敵状態になる。
 Icon/Buff/Icon_Common_Buff_SArmor
 Invincible
 
 ID=7045
-フュージョンアーマーⅤ
+Fusion Armor Ⅴ
 一定時間の間、無敵状態になる。
 Icon/Buff/Icon_Common_Buff_SArmor
 Invincible
 
 ID=7046
-フュージョンアーマーⅠ
-一定時間の間、防御度が増加する。
+Fusion Armor Ⅰ
+For a while, Defense↑
 Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
 ID=7047
-フュージョンアーマーⅡ
-一定時間の間、防御度が増加する。
+Fusion Armor Ⅱ
+For a while, Defense↑
 Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
 ID=7048
-フュージョンアーマーⅢ
-一定時間の間、防御度が増加する。
+Fusion Armor Ⅲ
+For a while, Defense↑
 Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
 ID=7049
-フュージョンアーマーⅣ
-一定時間の間、防御度が増加する。
+Fusion Armor Ⅳ
+For a while, Defense↑
 Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
 ID=7050
-フュージョンアーマーⅤ
-一定時間の間、防御度が増加する。
+Fusion Armor Ⅴ
+For a while, Defense↑
 Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
 ID=7060
-ヘビードロップ
+Heavy Drop
 Defense -20%.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
 
 ID=7061
-ヘビードロップ
+Heavy Drop
 Defense -30%.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
 
 ID=7062
-ヘビードロップ
+Heavy Drop
 Defense -30%.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
@@ -1796,31 +1796,31 @@ ID=7071
 0
 0
 0
-ソウル回復
+Soul Recovery
 
 ID=7072
 0
 0
 0
-ソウル回復
+Soul Recovery
 
 ID=7073
 0
 0
 0
-ソウル回復
+Soul Recovery
 
 ID=7074
 0
 0
 0
-ソウル回復
+Soul Recovery
 
 ID=7075
 0
 0
 0
-ソウル回復
+Soul Recovery
 
 ID=20001
 +HP
@@ -2003,10 +2003,10 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 +Stamina
 
 ID=20251
-HP＆SG回復
+Recover HP&SG
 Immediately recover 10% HP & SG
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP＆SG回復
+Recover HP&SG
 
 ID=20301
 +HP
@@ -2789,14 +2789,14 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=30130
-凍傷
-5秒後、氷結状態になる。
+Frostbite
+Frozen for 5 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-凍傷
+Frostbite
 
 ID=30131
 Slow
-5秒間、動けなくなる。
+Stuck for 5 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
 Slow
 
@@ -2807,10 +2807,10 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 Frost Shield
 
 ID=30133
-凍傷治療
-凍傷効果が解除される。
+Cure Frostbite
+Removes frostbite effect.
 Icon/Buff/Icon_Common_Debuff_Bleed
-凍傷治療
+Cure Frostbite
 
 ID=30140
 Bleed
@@ -3198,7 +3198,7 @@ Move Speed ↑
 
 ID=50081
 Sunbathing Lv1
-装着時、一定時間毎に3%の確率で3秒間、HPが毎秒10%回復する。
+When equipped, 3% chance of +10% HP per second for 3s.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -3234,7 +3234,7 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=50151
 Rapid Calcium Supply Lv1
-攻撃を受けた時、5%の確率で2秒間、SGが毎秒15%回復する。
+When hit, 5% chance of +15% SG per second for 2s.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
@@ -3282,7 +3282,7 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=50541
 Quiet Smile Lv1
-装着時、 3秒間、HPが毎秒200回復する。
+When equipped, +200 HP per second for 3s.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -3624,24 +3624,24 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53281
 Dancing Shadow Ⅰ
-攻撃を受けた時、スタミナが80%回復する。(クールタイム30秒)
+When hit, +80% Stamina. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53282
 Dancing Shadow Ⅱ
-攻撃を受けた時、スタミナが90%回復する。(クールタイム30秒)
+When hit, +90% Stamina. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53283
-Max Shield Output Ⅰ
+Maximized Shield Ⅰ
 When hit, +100% Defense, -70% Attack for 2s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
 ID=53291
-Max Shield Output Ⅱ
+Maximized Shield Ⅱ
 When hit, +100% Defense, -50% Attack for 4s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
@@ -3816,13 +3816,13 @@ Move Speed ↑
 
 ID=53413
 Messenger’s Flower Ⅰ
-スーパーアーマーブレイクが発生すると、5秒間、攻撃力が10%上昇する。(クールタイム1分)
+When SA breaks, +10% Attack for 5s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53421
 Messenger’s Flower Ⅱ
-スーパーアーマーブレイクが発生すると、10秒間、攻撃力が15%上昇する。(クールタイム1分)
+When SA breaks, +15% Attack for 10s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
@@ -3900,13 +3900,13 @@ Attack Power ↑
 
 ID=53462
 Otaku’s Potential Ⅰ
-攻撃を受けた時、5%の確率で2秒間、HPとSGが毎秒3%回復する。(クールタイム45秒)
+When hit, 5% chance of +3% HP&SG per second for 2s. (45s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53463
 Otaku’s Potential Ⅱ
-攻撃を受けた時、5%の確率で3秒間、HPとSGが毎秒4%回復する。(クールタイム45秒)
+When hit, 5% chance of +4% HP&SG per second for 3s. (45s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
@@ -3924,7 +3924,7 @@ Attack Power ↑
 
 ID=53483
 Plunderer Ⅰ
-モンスター死亡時、SGが10%回復する。(クールタイム30秒)
+When a monster dies, +10% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
@@ -4722,37 +4722,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53664
 Bird Monster’s Wing Ⅰ
-攻撃命中時、10%の確率で次の一撃のダメージ量が5%増加する。(クールタイム8秒)
+When hitting, 10% chance for next attack to deal +5% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53665
 Bird Monster’s Wing Ⅱ
-攻撃命中時、10%の確率で次の一撃のダメージ量が7%増加する。(クールタイム8秒)
+When hitting, 10% chance for next attack to deal +7% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53666
 Bird Monster’s Wing Ⅲ
-攻撃命中時、10%の確率で次の一撃のダメージ量が10%増加する。(クールタイム8秒)
+When hitting, 10% chance for next attack to deal +10% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53667
 Bird Monster’s Wing Ⅰ
-攻撃命中時、10%の確率で次の一撃のダメージ量が6%増加する。(クールタイム8秒)
+When hitting, 10% chance for next attack to deal +6% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53668
 Bird Monster’s Wing Ⅱ
-攻撃命中時、10%の確率で次の一撃のダメージ量が10%増加する。(クールタイム8秒)
+When hitting, 10% chance for next attack to deal +10% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53669
 Bird Monster’s Wing Ⅲ
-攻撃命中時、10%の確率で次の一撃のダメージ量が15%増加する。(クールタイム8秒)
+When hitting, 10% chance for next attack to deal +15% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
@@ -4866,73 +4866,73 @@ Attack Power ↑
 
 ID=53688
 Dancing Shadow Ⅰ
-装着時、攻撃力が5%増加する。
+When equipped, +5% Attack.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53689
 Dancing Shadow Ⅱ
-装着時、攻撃力が7%増加する。
+When equipped, +7% Attack.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53690
-踊る影Ⅲ
-装着時、攻撃力が10%増加する。
+Dancing Shadow Ⅲ
+When equipped, +10% Attack.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53691
 Dancing Shadow Ⅰ
-装着時、攻撃力が6%増加する。
+When equipped, +6% Attack.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53692
 Dancing Shadow Ⅱ
-装着時、攻撃力が9%増加する。
+When equipped, +9% Attack.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53693
-踊る影Ⅲ
-装着時、攻撃力が13%増加する。
+Dancing Shadow Ⅲ
+When equipped, +13% Attack.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53694
-Max Shield Output Ⅰ
-装着時、最大HPが8%増加する。
+Maximized Shield Ⅰ
+When equipped, +8% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53695
-Max Shield Output Ⅱ
-装着時、最大HPが13%増加する。
+Maximized Shield Ⅱ
+When equipped, +13% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53696
-シールド出力全開Ⅲ
-装着時、最大HPが18%増加する。
+Maximized Shield Ⅲ
+When equipped, +18% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53697
-Max Shield Output Ⅰ
-装着時、最大HPが12%増加する。
+Maximized Shield Ⅰ
+When equipped, +12% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53698
-Max Shield Output Ⅱ
-装着時、最大HPが17%増加する。
+Maximized Shield Ⅱ
+When equipped, +17% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53699
-シールド出力全開Ⅲ
-装着時、最大HPが22%増加する。
+Maximized Shield Ⅲ
+When equipped, +22% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 

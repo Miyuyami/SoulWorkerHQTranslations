@@ -998,7 +998,7 @@ ID=571
 Do you want to use {0}?\n(A.R cards that are used cannot be sold nor traded)
 
 ID=572
-必要Lv
+Required Lv
 
 ID=573
 SP Cost:
@@ -1328,7 +1328,7 @@ ID=741
 Requires an admission ticket.
 
 ID=742
-推奨Lv：{0}
+Recommended Lv: {0}
 
 ID=743
 Recommended Number of Party Members: {0}
@@ -1415,7 +1415,7 @@ ID=772
 d
 
 ID=773
-必要Lv
+Required Lv
 
 ID=774
 DUR
@@ -3026,10 +3026,10 @@ ID=4021
 You have acquired the title {0}.
 
 ID=4022
-栽培完了
+Cultivation Completed
 
 ID=4023
-{0}個収穫可能
+{0} can be harvested
 
 ID=5001
 New
@@ -3101,7 +3101,7 @@ ID=5201
 ID
 
 ID=5202
-IDを入力してください。
+Please enter your ID.
 
 ID=5203
 Password
@@ -4094,7 +4094,7 @@ ID=9205
 Casual Raid
 
 ID=9206
-ディストリクトレイド
+District Raid
 
 ID=9207
 Apocolypse
@@ -5480,7 +5480,7 @@ ID=18031
 Seal Count
 
 ID=18032
-装備の必要レベルよりファミリアの必要レベルが高いので登録できません。
+You cannot register a familiar who's level is higher than the equipment.
 
 ID=18033
 Sealed
@@ -5831,10 +5831,10 @@ ID=19500
 Idol
 
 ID=19501
-メイド
+Maid
 
 ID=19502
-執事
+Butler
 
 ID=20010
 Greet
@@ -5918,16 +5918,16 @@ ID=20092
 {0} proudly poses.
 
 ID=20100
-メイド
+Maid
 
 ID=20101
-執事
+Butler
 
 ID=20102
-執事作法の練習をしています。
+We have to practice the butler's etiquette.
 
 ID=20103
-{0}がメイド作法の練習をしています。
+{0} is practicing the maid's etiquette.
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -8801,10 +8801,10 @@ ID=26125
 Combat Movement Speed
 
 ID=26126
-プライマル勢力追加ダメージ[%]
+Primal Forces Additional Damage
 
 ID=26127
-プライマル勢力ダメージ減少[%]
+Primal Forces Damage Reduction
 
 ID=26201
 Last-Hit Attack
@@ -9059,7 +9059,7 @@ ID=28025
 Disband Guild
 
 ID=28026
-ギルド解散時、ギルド倉庫に保管されているアイテムは全て削除されます。\nギルド解散は慎重に進めてください。
+All the items from the guild storage will be deleted upon disbanding the guild.\nGive it a second thought.
 
 ID=28027
 The guild has not been disbanded.
@@ -9194,7 +9194,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 18/Jun/2016 7:00 PM JST.\nPlease check your guild’s information for updates.
+This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 19/Jun/2016 7:30 AM JST.\nPlease check your guild’s information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -9869,7 +9869,7 @@ ID=29030
 Level too low to create room.
 
 ID=29031
-マイルーム作成に必要なレベルに達していません。\n必要条件：Lv8
+You have yet to reach the level required to create a room.\nLevel requirement: Lv8
 
 ID=29032
 Cannot create room due to lack of zenny.
@@ -9890,7 +9890,7 @@ ID=29037
 Do you want to admit {0} to your room?
 
 ID=29038
-Enter Random MyRoom
+Entering Room Guide
 
 ID=29039
 Enter a random room?
@@ -11120,7 +11120,7 @@ ID=34037
 Help
 
 ID=34038
-栽培を開始しますか？
+Do you want to start cultivating?
 
 ID=35000
 All
@@ -12401,10 +12401,10 @@ ID=40516
 The elevator will stop soon.
 
 ID=40601
-4地域の敵を全て討伐すると、終末の館へと続くポータルが開きます。
+After defeating all enemies in the 4th area, unseal the door to continue.
 
 ID=40602
-封印のクリスタルを解除すると、戦闘が始まります。
+After releasing the crystal's seal, a battle will commence.
 
 ID=40603
 [Eternity] will appear soon after all enemies have been killed. Defeat it.
@@ -12434,10 +12434,10 @@ ID=40611
 The house of endings has been cleared. You may now move to town from the house of premonition.
 
 ID=40612
-保温装置を起動すると、凍傷効果を防ぐことができます。
+By starting the warmth device you can get protected from frostbite.
 
 ID=40613
-5秒以内に保温装置を4つ全て起動すると、周辺に氷結効果を防ぐ地域が生成されます。
+Starting all 4 warmth devices in 5 seconds will generate freezing protection around the devices.
 
 ID=40614
 Destroy the Flame Crystal located at the Camp of Calamity to stop the lava from flowing.
@@ -14612,10 +14612,10 @@ ID=49229
 End Tutorial
 
 ID=49230
-Exit My Room
+Confirm leaving room
 
 ID=49231
-Will you exit My Room?
+Are you sure you want to leave the room?
 
 ID=49232
 You may not unstuck your character again.\n Please try again later.
@@ -16661,7 +16661,7 @@ ID=58204
 Room entrance failure.
 
 ID=58205
-Since the My Room is at Placement Mode, you cannot enter.
+You cannot enter the room because it is in Placement Mode.
 
 ID=58206
 The room is full of occupants. You cannot enter.
@@ -16673,7 +16673,7 @@ ID=58208
 The user does not have a room.
 
 ID=58209
-The My Room servers are down.
+Cannot connect to the room server.
 
 ID=58210
 This room is private.
