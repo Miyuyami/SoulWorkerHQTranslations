@@ -842,7 +842,7 @@ ID=496
 เมื่อมี Bonus Card Key  จะสามารถใช้เพื่อรับค่าตอบแทนเพิ่มได้
 
 ID=497
-จะปิดโดยอัตโนมัติหลังจาก {0} วิ 
+ปิดโดยอัตโนมัติหลังจาก {0} วิ
 
 ID=501
 ดูรายละเอียด
@@ -998,13 +998,13 @@ ID=571
 คุณต้องการใช้ {0}หรือไม่? \n(A.R card ที่ได้มาไม่สามารถขายและแลกเปลี่ยนได้)
 
 ID=572
-必要Lv
+ต้องการ Lv
 
 ID=573
 ต้องการ SP
 
 ID=574
-ครั้งต่อไปที่จะได้รับ point :
+เลเวลต่อไปจะได้รับเพิ่มอีก:
 
 ID=581
 รับไอเทม
@@ -1280,7 +1280,7 @@ ID=723
 การ Socket
 
 ID=724
-คำสั่ง[Space]
+รับคำสั่ง[Space]
 
 ID=725
 ปฏิเสธ[Back]
@@ -1415,7 +1415,7 @@ ID=772
 วัน
 
 ID=773
-必要Lv
+ต้องการ Lv
 
 ID=774
 ทนทาน
@@ -3323,7 +3323,7 @@ ID=5801
 <font color='#FFFFFF'><font size="30">TIP：</font>ของใช้งานพื้นฐานในแต่ละเมืองสามารถซื้อได้ที่ <font color='#00ff9c'>Yomi</font> ในร้านขายของชำ
 
 ID=5802
-<font color='#FFFFFF'><font size="30">TIP：</font>ร้านค้าในเมืองสามารถ<font color='#00D8FF'> [ซ่อมแซม] </font>อุปกรณ์ให้ได้หรือจะ<font color='#00D8FF'> [ย่อยสลาย] </font>ก็ได้เช่นกัน
+<font color='#FFFFFF'><font size="30">TIP：</font>ร้านค้าในเมืองสามารถ<font color='#00D8FF'> [ซ่อมแซม] </font>อุปกรณ์ให้ได้หรือเลือกที่จะ<font color='#00D8FF'> [ย่อยสลาย] </font>ก็ได้เช่นกัน
 
 ID=5803
 <font color='#FFFFFF'><font size="30">TIP：</font>เมื่อแวะไปหา NPC นั้นบ่อยๆ<font color='#00D8FF'> [ค่าความสนิท] </font>จะเพิ่มขึ้น\nยิ่ง Lv เพิ่มขึ้นมาเท่าไรท่านจะได้ประโยชน์ต่างๆในด้านราคาหรืออื่นๆที่ลดลง
@@ -3332,142 +3332,142 @@ ID=5804
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>[Trisha]</font> สามารถ<font color='#00D8FF'>[อัพเกรด][แลกเปลี่ยนวัตถุดิบอัพเกรด]</font> ให้ท่านได้
 
 ID=5805
-<font color='#FFFFFF'><font size="30">TIP：</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して\n別の装備品の強化・製作アイテムを入手することもできます。
+<font color='#FFFFFF'><font size="30">TIP：</font>อุปกรณ์สามารถ<font color='#00D8FF'> อัพเกรด </font>เพื่อเพิ่มประสิทธิภาพและสามารถ<font color='#00D8FF'> ย่อยสลาย </font>\nเพื่อนำมาเป็นวัตถุดิบสำคัญต่ออุปกรณ์ชิ้นอื่นๆ
 
 ID=5806
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#B2EBF4'>[ゼニス]</font>の所で、武器・ギア・アバターを<font color='#00D8FF'>[製作]</font>できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#B2EBF4'>[Zenith]</font> สามารถ <font color='#00D8FF'>[สร้าง]</font> ไอเทม อาวุธ เกราะ และ Avatar
 
 ID=5807
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>HEMS</font>を利用してメールを送れます。メール送信には手数料がかかります。\n必要に応じてアイテムやジェニーの添付も可能です。
+<font color='#FFFFFF'><font size="30">TIP：</font>การส่งจดหมายสามารถใช้ <font color='#00ff9c'>HEMS</font> เพื่อการต่างๆ\nและสามารถแนบไอเทม หรือ Zenny ไปด้วยได้
 
 ID=5808
-<font color='#FFFFFF'><font size="30">TIP：</font>町にいる<font color='#00ff9c'>オードン</font>の銀行に、持ちきれない<font color='#00D8FF'>アイテム</font>を預けることができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ท่านสามารถเก็บ<font color='#00D8FF'> ไอเทม </font>ไว้กับ<font color='#00ff9c'> Odon </font>ในเมืองได้หากมันมีเยอะจนเกินไป
 
 ID=5809
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>ミニマップ</font>で自分の現在地や各<font color='#00D8FF'>NPC</font>の場所、<font color='#00D8FF'>メイズ</font>の入口を確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>มินิแมพ </font>สามารถหาที่อยู่ของ<font color='#00D8FF'> NPC </font>และเส้นทางใน<font color='#00D8FF'> ดันเจี้ยน </font>ได้
 
 ID=5810
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行情報は、ショートカットキー<font color='#00ff9c'>【L】</font>の<font color='#00D8FF'>[レコード][占有率]</font>ウィンドウから確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ความคืบหน้าในเกมเรียกใช้คีย์ลัด<font color='#00ff9c'> [L] </font>เพื่อดู <font color='#00D8FF'>[ความคืบหน้า][ความสำเร็จ]</font> คุณสามารถดูได้จากหน้าต่างนี้
 
 ID=5811
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行状況に応じて、<font color='#00D8FF'>進行情報</font>ウィンドウ<font color='#00ff9c'>【L】</font>から報酬を確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ความคืบหน้า </font>ในเกมของคุณสามารถดูรางวัลได้ที่หน้าต่าง<font color='#00ff9c'> [L] </font>
 
 ID=5812
-<font color='#FFFFFF'><font size="30">TIP：</font>必要な材料を集めて町にいる<font color='#00ff9c'>イオ</font>に渡すと、<font color='#00D8FF'>A.Rカード</font>を製作できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เก็บรวบรวมวัสดุที่จำเป็นแล้วไปคุยกับ<font color='#00ff9c'> Io </font>เพื่อสร้าง<font color='#00D8FF'> การ์ด A.R </font>
 
 ID=5813
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>A.Rカード</font>には、スロットに登録した状態で自動的に効果が発生するものもあります。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>การ์ด A.R</font> ประเภท HOLD จำเป็นต้องกดใช้งานเพื่อเรียกใช้
 
 ID=5814
-<font color='#FFFFFF'><font size="30">TIP：</font>新しいクエストが発生すると<font color='#fff94a'>[<font size="30">！</font>]</font>マークが、完了可能なクエストがあると<font color='#fff94a'>[<font size="30">？</font>]</font>マークが\nNPCの頭上やミニマップ上に表示されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เควสที่พร้อมใช้งานจะมีเครื่องหมาย <font color='#fff94a'>[<font size="30">！</font>]</font> และเควสที่ทำเสร็จเรียบร้อยแล้วจะแสดง <font color='#fff94a'>[<font size="30">？</font>]</font> \nเครื่องหมายจะปรากฏที่ NPC และในมินิแมพ
 
 ID=5815
-<font color='#FFFFFF'><font size="30">TIP：</font>受注したクエストは、画面右の<font color='#00D8FF'>クエスト案内</font>または、クエスト情報ウィンドウ<font color='#00ff9c'>【J】</font>を開いて確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>รายการ<font color='#00D8FF'> เควส </font>ที่ได้รับมาแล้วสามารถติดตามความคืบหน้าได้โดยเปิดหน้าต่าง<font color='#00ff9c'> [J] </font>
 
 ID=5816
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの全般的な設定は、<font color='#00ff9c'>【ESC】</font>キーの<font color='#00D8FF'>[環境設定]</font>タブから変更できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>การตั้งค่าเกมทั่วไปคุณสามารถทำได้จากแท็บ <font color='#00ff9c'> [ESC] </font> ในส่วนของ <font color='#00D8FF'>[Preferences]</font>
 
 ID=5817
-<font color='#FFFFFF'><font size="30">TIP：</font>コミュニティーウィンドウ【O】では、<font color='#00D8FF'>[フレンド]</font>に関連した機能を使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ในหน้าต่าง Community คีย์ลัด [O] คุณสามารถใช้ฟังก์ชั่นที่เกี่ยวข้องกับ<font color='#00D8FF'> [เพื่อน] </font>ได้ในหน้าต่างนี้
 
 ID=5818
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[スキル][A.Rカード]</font>の使用は、ショートカットキー<font color='#00ff9c'>【K】</font>やメニューでスキルウィンドウ活性化後、\nスキルスロットに登録すると使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[สกิล]</font> และ <font color='#00D8FF'>[การ์ด A.R]</font> สามารถจัดเรียงใน Quick Slot เพื่อใช้งานด้วยการกดปุ่ม <font color='#00ff9c'>[K]</font>
 
 ID=5819
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>スキルデッキ</font>を活用すると、戦闘で有利な効果を獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>การใช้<font color='#00D8FF'> Deck Skill </font>จะเป็นประโยชน์ในการต่อสู้
 
 ID=5820
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>パッシブスキル</font>のレベルを上げると、基本アクションを強化できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>สกิลติดตัว </font>จะเพิ่มประสิทธิภาพขั้นพื้นฐานให้กับคุณ
 
 ID=5821
-<font color='#FFFFFF'><font size="30">TIP：</font>画面左下にある<font color='#00D8FF'>統合お知らせ</font>ウィンドウから、進行状況に関連した様々な内容を確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>หน้าจอที่มุมล่างซ้ายจะมี<font color='#00D8FF'> การเเจ้งเตือน </font> ที่เกี่ยวข้องกับความเคลื่อนไหวล่าสุดของคุณ
 
 ID=5822
-<font color='#FFFFFF'><font size="30">TIP：</font>ステータスウィンドウ【P】の「称号」タブから、名前の横に表示する各種<font color='#00D8FF'>称号</font>を自由に設定できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>จากหน้าต่าง [P] ในส่วนของแท็บ<font color='#00D8FF'> ชื่อ </font>คุณสามารถตั้งชื่อต่างๆได้อย่างอิสระ
 
 ID=5823
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>メイズ占有率</font>や<font color='#00D8FF'>町占有率</font>の進行状況に応じて、様々な報酬を獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ทั้งนี้ขึ้นอยู่กับ<font color='#00D8FF'> Lv </font>มันมีผลการทบต่อการเข้า<font color='#00D8FF'> ดันเจี้ยน </font> จะได้รับผลตอบแทนที่แตกต่างกัน
 
 ID=5824
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>町占有率</font>は、所属しているメイズの占有率に影響を受けます。
+<font color='#FFFFFF'><font size="30">TIP：</font>Lv ของท่านจะมีผลกระทบต่อการเข้า<font color='#00D8FF'> ดันเจี้ยน</font>
 
 ID=5825
-<font color='#FFFFFF'><font size="30">TIP：</font>メイズ入場時に<font color='#00D8FF'>[オートマッチング]</font>を使用すると、自動的にパーティーを組むことができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อใช้การ<font color='#00D8FF'> [ค้นหาแมตช์] </font>ระบบจะสร้างปาร์ตี้ให้กับคุณ
 
 ID=5826
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ステータス</font>ウィンドウ【P】からプロフィールを修正できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>สถานะ</font> สามารถปรับเปลี่ยนได้จากหน้าต่าง [P]
 
 ID=5827
-<font color='#FFFFFF'><font size="30">TIP：</font>左<font color='#00ff9c'>【Alt】</font>キーで、マウスモードに変更することができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เรียกใช้ปุ่ม<font color='#00ff9c'> [Alt] </font>เพื่อเปลี่ยนโหมดเมาส์
 
 ID=5828
-<font color='#FFFFFF'><font size="30">TIP：</font>最高レベル到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อถึงระดับสูงสุด</font><font color='#00ff9c'> [Rank] </font>จะถูกนำมาใช้
 
 ID=5829
-<font color='#FFFFFF'><font size="30">TIP：</font>現在のチャンネルが混雑している時は、ミニマップの上にある\n<font color='#00D8FF'>チャンネル移動機能</font>で別チャンネルに移動してください。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อ Channel ปัจจุบันไม่ว่างกรุณา\n<font color='#00D8FF'> ย้าย </font>ไปอีกช่องทางหนึ่งที่ช่องด้านบนของแผนที่
 
 ID=5830
-<font color='#FFFFFF'><font size="30">TIP：</font>ブッカーズポイント<font color='#00ff9c'>[BP]</font>は<font color='#00D8FF'>第6区域</font>または<font color='#00D8FF'>スチールグレイブ</font>で獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>พ้อย <font color='#00ff9c'>[BP] </font>ที่ได้มาจาก<font color='#00D8FF'> Steel Grave </font>หรือที่อื่นๆสามารถซื้อของใน<font color='#00D8FF'> District 6 </font>ได้
 
 ID=5831
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>第6区域</font>の<font color='#00ff9c'>BP商店</font>では、特別なアイテムを購入できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>District 6</font> ที่ <font color='#00ff9c'>ร้านค้า BP</font> สามารถซื้อไอเทมพิเศษอื่นๆได้
 
 ID=5832
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>クエスト情報</font>ウィンドウ【J】の右上にある<font color='#00ff9c'>[ミッション]</font>タブから、デイリーミッションを確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ข้อมูลเควส </font>หน้าต่าง [J] มุมขวาบนของหน้าต่างจะมี<font color='#00ff9c'> [มิชชั่น] </font>ท่านสามารถเข้ารับภารกิจประจำวันได้ที่นั่น
 
 ID=5833
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>デイリーミッション</font>を通して獲得した<font color='#00ff9c'>[Sコイン]</font>は、専用商店で使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ภารกิจประจำวัน </font>จะได้รับ <font color='#00ff9c'>[เหรียญ S]</font> สามารถใช้มันได้ในร้านค้าเฉพาะ
 
 ID=5834
-<font color='#FFFFFF'><font size="30">TIP：</font>メイズ内では、ランダムで</font><font color='#00D8FF'>[シークレットミッション]</font>が発生します。
+<font color='#FFFFFF'><font size="30">TIP：</font>ภายในดันเจี้ยนมีการสุ่ม</font><font color='#00D8FF'> [ภารกิจลับ] </font> สามารถเกิดขึ้นได้ทุกเมื่อ
 
 ID=5835
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲーム進行中に獲得した</font><font color='#00D8FF'>[サポーター]</font>をメイズに呼び出してみましょう。\n心強い仲間があなたをサポートしてくれます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ในระหว่างเกมสามารถเรียกใช้</font><font color='#00D8FF'> [Supporter] </font>\nเพื่อที่จะสนับสนุนและช่วยให้ผ่านเกมได้ง่ายขึ้น
 
 ID=5836
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>イオ</font>の所で</font><font color='#00D8FF'>オーブ</font>を登録してください。\n登録したオーブは、フレンドのサポーターが使用できるようになります。
+<font color='#FFFFFF'><font size="30">TIP：</font>ลองไปหา <font color='#00D8FF'>Io</font> หรือ <font color='#00ff9c'>the Soul Manipulator</font> NPC\nเพื่อรับการสนับสนุน
 
 ID=5837
-<font color='#FFFFFF'><font size="30">TIP：</font>ソロだと戦闘が難しい！もっとワイワイやりたい！\nそんな時は、</font><font color='#00D8FF'>パーティー検索</font>【N】や</font><font color='#00D8FF'>コミュニティー</font>機能【O】を利用して、フレンドを作ってみましょう。
+<font color='#FFFFFF'><font size="30">TIP：</font>ถ้าหากมันเป็นเรื่องยากที่จะต่อสู้ด้วยตัวคนเดียวสามารถ\n</font><font color='#00D8FF'>เชิญเพื่อนเข้าปาร์ตี้ </font><font color='#FFFFFF'>จากหน้าต่าง [O] หรือ</font></font><font color='#00D8FF'> ค้นหาปาร์ตี้จาก</font><font color='#FFFFFF'>หน้าต่าง [N]</font>
 
 ID=5838
-<font color='#FFFFFF'><font size="30">TIP：</font></font><font color='#00D8FF'>ギルド</font>を設立したり、他の</font><font color='#00D8FF'>ギルド</font>に加入してコミュニティを広げましょう。
+<font color='#FFFFFF'><font size="30">TIP：</font>เพื่อที่จะรู้จักกับคนอื่นๆได้มากขึ้นสามารถสร้าง <font color='#00D8FF'>กิลด์</font> หรือเข้าร่วม <font color='#00D8FF'>กิลด์</font>
 
 ID=5839
-<font color='#FFFFFF'><font size="30">TIP：</font>Lv10になったら、自分だけのスペース<font color='#00D8FF'>[マイルーム]</font>を持つことができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>หากถึง Lv10 แล้วท่านสามารถมี<font color='#00D8FF'> [ห้อง] </font>เป็นของตัวเองได้แล้ว
 
 ID=5840
-<font color='#FFFFFF'><font size="30">TIP：</font>メイズ進行中、まれに記憶の欠片「<font color='#00D8FF'>メモリアル</font>」アイテムが出現することがあります。\nアイテムを集めてメモリアルウィンドウ【B】で報酬を獲得しましょう。
+<font color='#FFFFFF'><font size="30">TIP：</font>ในส่วน [<font color='#00D8FF'>ของที่ระลึก</font>] หากสะสมครบสามารถรับรางวัลได้โดยเรียกใช้ปุ่ม [B]
 
 ID=5841
-<font color='#FFFFFF'><font size="30">TIP：</font>画面右上の「！」アイコンをクリックすると<font color='#00D8FF'>[ヘルプ]</font>が開き、各種情報を確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>หากคุณคลิกที่ไอคอนที่มุมขวาบนของหน้าจอ<font color='#00D8FF'> [Help] </font>คือ คุณสามารถดูข้อมูลประเภทต่างๆ
 
 ID=5842
-<font color='#FFFFFF'><font size="30">TIP：</font>メイズに入場すると<font color='#00D8FF'>[FP]</font>を消費します。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อเข้าสู่ดันเจี้ยน<font color='#00D8FF'> [FP] </font>จะถูกใช้งาน
 
 ID=5843
-<font color='#FFFFFF'><font size="30">TIP：</font>自分のスタイルに合わせて、<font color='#00D8FF'>スキル</font>や<font color='#00D8FF'>特性</font>をレベルアップさせてください。\n新たな効果が発生したり、機能が追加されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อ Lv อัพสามารถเลือก<font color='#00D8FF'> สกิล </font>และ<font color='#00D8FF'> Ability </font>ให้เหมาะสมตามรูปแบบการเล่นของท่าน
 
 ID=5844
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[状態異常]</font>は自分がかかると厄介ですが、敵に付与できれば戦闘を有利に進めることができます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[สภาวะผิดปกติ] </font>จะลำบากเมื่อโดนกับตัวเอง แต่ก็สามารถเป็นประโยชน์ในการต่อสู้ถ้าคุณสามารถใช้มันกับศัตรู
 
 ID=5845
-<font color='#FFFFFF'><font size="30">TIP：</font>まれに、攻撃にひるまなくなる<font color='#00D8FF'>[スーパーアーマー]</font>を持つ敵が出現します。\n攻撃してスーパーアーマーを破壊すると、敵はグロッキー状態に陥ります。
+<font color='#FFFFFF'><font size="30">TIP：</font>ทำลายเกราะ<font color='#00D8FF'> [Super Armor] </font>จะทำให้ศัตรูมึนงงชั่วคราว
 
 ID=5846
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[ダッシュ]</font>や<font color='#00D8FF'>[ジャンプ]</font>中にクリックすると、攻撃を繰り出せます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อคลิกในขณะที่<font color='#00D8FF'> [Dash]</font> หรือ <font color='#00D8FF'>[Jump]</font> จะช่วยให้โจมตีได้เพิ่มเติม
 
 ID=5847
-<font color='#FFFFFF'><font size="30">TIP：</font>空中に浮いた敵を攻撃すると、追加ダメージを与えることができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อโจมตีศัตรูขณะที่กำลังลอยอยู่ในอากาศ มันจะได้รับความเสียหายเพิ่มเติมจากการโจมตีของคุณ
 
 ID=5848
-<font color='#FFFFFF'><font size="30">TIP：</font>特定イベントを完了すると、メイズ内で<font color='#00D8FF'>ソウルベイパー</font>を獲得でき、<font color='#00ff9c'>[ブレイクスキル]</font>を使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อถึงเวลา, เก็บ<font color='#00D8FF'> Soul Vapor </font>ขณะที่ยู่ในดันเจี้ยน<font color='#00ff9c'> [BREAK สกิล] </font>จะใช้ได้เมื่อเก็บรวบรวมพอ
 
 ID=5849
-<font color='#FFFFFF'><font size="30">TIP：</font>メイズ進行中、ランダムで<font color='#00D8FF'>グルトン</font>が出現することがあります。\nグルトンを倒すと、珍しいアイテムを獲得できるかもしれません。
+<font color='#FFFFFF'><font size="30">TIP：</font>ภายในดันเจี้ยนอาจจะพบเจอ<font color='#00D8FF'> ทะนุกิ </font>ฆ่ามันคุณอาจจะได้ไอเทมที่หายาก
 
 ID=5850
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲームを進行しながら様々な<font color='#00D8FF'>アイテム</font>を集めて、能力を強化しましょう。
+<font color='#FFFFFF'><font size="30">TIP：</font>เก็บรวบรวมความหลากหลายของ<font color='#00D8FF'> ไอเทม </font>เพื่อสร้างขีดความสามารถของคุณเอง
 
 ID=5851
 <font color='#FFFFFF'><font size="30">TIP：</font>อาวุธที่มีซ็อกเก็ตสามารถติดตั้ง<font color='#00D8FF'> Familia </font>ได้
@@ -3482,7 +3482,7 @@ ID=5854
 <font color='#FFFFFF'><font size="30">TIP：</font>ในการสร้างไอเทม<font color='#00D8FF'> Blueprint </font>เป็นสิ่งที่จำเป็น
 
 ID=5855
-<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อ<font color='#00D8FF'> ความทนทาน </font>ของอาวุธลดลงประสิทธิภาพของมันก็จะลดลงด้วยเช่นกัน ท่านสามารถไปยังร้านค้าเพื่อซ่อมแซม
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อ<font color='#00D8FF'> ความทนทาน </font>ของอาวุธลดลงประสิทธิภาพของมันก็จะลดลงด้วย ท่านสามารถไปยังร้านค้าเพื่อซ่อมแซม
 
 ID=5856
 <font color='#FFFFFF'><font size="30">TIP：</font>เพื่อที่จะไปเมืองอื่นท่านต้องผ่านพื้นที่ Lawless ที่เรียกว่า<font color='#00D8FF'> District 6 </font>
@@ -3512,7 +3512,7 @@ ID=5864
 <font color='#FFFFFF'><font size="30">TIP：</font>ของใช้งานพื้นฐานในแต่ละเมืองสามารถซื้อได้ที่ <font color='#00ff9c'>Yomi</font> ในร้านขายของชำ
 
 ID=5865
-<font color='#FFFFFF'><font size="30">TIP：</font>ร้านค้าในเมืองสามารถ<font color='#00D8FF'> [ซ่อมแซม] </font>อุปกรณ์ให้ได้หรือจะ<font color='#00D8FF'> [ย่อยสลาย] </font>ก็ได้เช่นกัน
+<font color='#FFFFFF'><font size="30">TIP：</font>ร้านค้าในเมืองสามารถ<font color='#00D8FF'> [ซ่อมแซม] </font>อุปกรณ์ให้ได้หรือเลือกที่จะ<font color='#00D8FF'> [ย่อยสลาย] </font>ก็ได้เช่นกัน
 
 ID=5866
 <font color='#FFFFFF'><font size="30">TIP：</font>เมื่อแวะไปหา NPC นั้นบ่อยๆ<font color='#00D8FF'> [ค่าความสนิท] </font>จะเพิ่มขึ้น\nยิ่ง Lv เพิ่มขึ้นมาเท่าไรท่านจะได้ประโยชน์ต่างๆในด้านราคาหรืออื่นๆที่ลดลง
@@ -3521,43 +3521,43 @@ ID=5867
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>[Trisha]</font> สามารถ<font color='#00D8FF'>[อัพเกรด][แลกเปลี่ยนวัตถุดิบอัพเกรด]</font> ให้ท่านได้
 
 ID=5868
-<font color='#FFFFFF'><font size="30">TIP：</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して\n別の装備品の強化・製作アイテムを入手することもできます。
+<font color='#FFFFFF'><font size="30">TIP：</font>อุปกรณ์สามารถ<font color='#00D8FF'> อัพเกรด </font>เพื่อเพิ่มประสิทธิภาพและสามารถ<font color='#00D8FF'> ย่อยสลาย </font>\nเพื่อนำมาเป็นวัตถุดิบสำคัญต่ออุปกรณ์ชิ้นอื่นๆ
 
 ID=5869
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#B2EBF4'>[ゼニス]</font>の所で、武器・ギア・アバターを<font color='#00D8FF'>[製作]</font>できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#B2EBF4'>[Zenith]</font> สามารถ <font color='#00D8FF'>[สร้าง]</font> ไอเทม อาวุธ เกราะ และ Avatar
 
 ID=5870
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>HEMS</font>を利用してメールを送れます。メール送信には手数料がかかります。\n必要に応じてアイテムやジェニーの添付も可能です。
+<font color='#FFFFFF'><font size="30">TIP：</font>การส่งจดหมายสามารถใช้ <font color='#00ff9c'>HEMS</font> เพื่อการต่างๆ\nและสามารถแนบไอเทม หรือ Zenny ไปด้วยได้
 
 ID=5871
-<font color='#FFFFFF'><font size="30">TIP：</font>町にいる<font color='#00ff9c'>オードン</font>の銀行に、持ちきれない<font color='#00D8FF'>アイテム</font>を預けることができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ท่านสามารถเก็บ<font color='#00D8FF'> ไอเทม </font>ไว้กับ<font color='#00ff9c'> Odon </font>ในเมืองได้หากมันมีเยอะจนเกินไป
 
 ID=5872
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>ミニマップ</font>で自分の現在地や各<font color='#00D8FF'>NPC</font>の場所、<font color='#00D8FF'>メイズ</font>の入口を確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>มินิแมพ </font>สามารถหาที่อยู่ของ<font color='#00D8FF'> NPC </font>และเส้นทางใน<font color='#00D8FF'> ดันเจี้ยน </font>ได้
 
 ID=5873
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲームの進行情報は、ショートカットキー<font color='#00ff9c'>【L】</font>の<font color='#00D8FF'>[レコード][占有率]</font>ウィンドウから確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ความคืบหน้าในเกมเรียกใช้คีย์ลัด<font color='#00ff9c'> [L] </font>เพื่อดู <font color='#00D8FF'>[ความคืบหน้า][ความสำเร็จ]</font> คุณสามารถดูได้จากหน้าต่างนี้
 
 ID=5874
 <font color='#FFFFFF'><font size="30">TIP：</font>สามารถตรวจสอบข้อมูลความคืบหน้าได้ในหน้าต่าง<font color='#00D8FF'> ความคืบหน้า </font>โดยการเรียกใช้ปุ่ม <font color='#00ff9c'>[L]</font>
 
 ID=5875
-<font color='#FFFFFF'><font size="30">TIP：</font>必要な材料を集めて町にいる<font color='#00ff9c'>イオ</font>に渡すと、<font color='#00D8FF'>A.Rカード</font>を製作できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เก็บรวบรวมวัสดุที่จำเป็นแล้วไปคุยกับ<font color='#00ff9c'> Io </font>เพื่อสร้าง<font color='#00D8FF'> การ์ด A.R </font>
 
 ID=5876
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>A.Rカード</font>には、スロットに登録した状態で自動的に効果が発生するものもあります。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>การ์ด A.R</font> ประเภท HOLD จำเป็นต้องกดใช้งานเพื่อเรียกใช้
 
 ID=5877
-<font color='#FFFFFF'><font size="30">TIP：</font>新しいクエストが発生すると<font color='#fff94a'>[<font size="30">！</font>]</font>マークが、完了可能なクエストがあると<font color='#fff94a'>[<font size="30">？</font>]</font>マークが\nNPCの頭上やミニマップ上に表示されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เควสที่พร้อมใช้งานจะมีเครื่องหมาย <font color='#fff94a'>[<font size="30">！</font>]</font> และเควสที่ทำเสร็จเรียบร้อยแล้วจะแสดง <font color='#fff94a'>[<font size="30">？</font>]</font> \nเครื่องหมายจะปรากฏที่ NPC และในมินิแมพ
 
 ID=5878
-<font color='#FFFFFF'><font size="30">TIP：</font>受注したクエストは、画面右の<font color='#00D8FF'>クエスト案内</font>または、クエスト情報ウィンドウ<font color='#00ff9c'>【J】</font>を開いて確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>รายการ<font color='#00D8FF'> เควส </font>ที่ได้รับมาแล้วสามารถติดตามความคืบหน้าได้โดยเปิดหน้าต่าง<font color='#00ff9c'> [J] </font>
 
 ID=5879
 <font color='#FFFFFF'><font size="30">TIP：</font>เรียกใช้ปุ่ม<font color='#00ff9c'> [ESC] </font>จากนั้นไปที่<font color='#00D8FF'> [การตั้งค่า] </font>เพื่อปรับเปลี่ยนการตั้งค่าเกม
 
 ID=5880
-<font color='#FFFFFF'><font size="30">TIP：</font>コミュニティーウィンドウ【O】では、<font color='#00D8FF'>[フレンド]</font>に関連した機能を使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ในหน้าต่าง Community คีย์ลัด [O] คุณสามารถใช้ฟังก์ชั่นที่เกี่ยวข้องกับ<font color='#00D8FF'> [เพื่อน] </font>ได้ในหน้าต่างนี้
 
 ID=5881
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[การ์ด A.R]</font> และ <font color='#00D8FF'>[สกิล]</font> เรียกดูได้โดยการกดปุ่ม <font color='#00ff9c'>[K]</font>\nและสามารถจัดวางได้โดยการลากเข้าไปที่ Quick Slot
@@ -3566,7 +3566,7 @@ ID=5882
 <font color='#FFFFFF'><font size="30">TIP：</font>การใช้ <font color='#00D8FF'>Skill Deck</font> ได้ดีจะเป็นประโยชน์มากในการต่อสู้
 
 ID=5883
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>パッシブスキル</font>のレベルを上げると、基本アクションを強化できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>สกิลติดตัว </font>จะเพิ่มประสิทธิภาพขั้นพื้นฐานให้กับคุณ
 
 ID=5884
 <font color='#FFFFFF'><font size="30">TIP：</font>ไอคอนที่แจ้งบริเวณด้านล่างซ้ายของหน้าจอจะบอก<font color='#00D8FF'> เหตุการณ์ต่างๆ </font>ที่เกี่ยวข้องกับความคืบหน้า ฯลฯ
@@ -3575,46 +3575,46 @@ ID=5885
 <font color='#FFFFFF'><font size="30">TIP：</font>ชื่อนำหน้าคุณสามารถเปลี่ยนมันได้อย่างอิสระโดยเข้าไปที่หน้าต่าง [P] ในหัวข้อ<font color='#00D8FF'> Title</font>
 
 ID=5886
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>メイズ占有率</font>や<font color='#00D8FF'>町占有率</font>の進行状況に応じて、様々な報酬を獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ทั้งนี้ขึ้นอยู่กับ<font color='#00D8FF'> Lv </font>มันมีผลการทบต่อการเข้า<font color='#00D8FF'> ดันเจี้ยน </font> จะได้รับผลตอบแทนที่แตกต่างกัน
 
 ID=5887
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>町占有率</font>は、所属しているメイズの占有率に影響を受けます。
+<font color='#FFFFFF'><font size="30">TIP：</font>Lv ของท่านจะมีผลกระทบต่อการเข้า<font color='#00D8FF'> ดันเจี้ยน</font>
 
 ID=5888
-<font color='#FFFFFF'><font size="30">TIP：</font>メイズ入場時に<font color='#00D8FF'>[オートマッチング]</font>を使用すると、自動的にパーティーを組むことができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อใช้การ<font color='#00D8FF'> [ค้นหาแมตช์] </font>ระบบจะสร้างปาร์ตี้ให้กับคุณ
 
 ID=5889
 <font color='#FFFFFF'><font size="30">TIP: </font>ท่านสามารถปรับเปลี่ยน <font color='#00D8FF'>สถานะ</font> ได้ในหน้าต่าง <font color='#00ff9c'>[P]</font>
 
 ID=5890
-<font color='#FFFFFF'><font size="30">TIP：</font>左<font color='#00ff9c'>【Alt】</font>キーで、マウスモードに変更することができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เรียกใช้ปุ่ม<font color='#00ff9c'> [Alt] </font>เพื่อเปลี่ยนโหมดเมาส์
 
 ID=5891
-<font color='#FFFFFF'><font size="30">TIP：</font>最高レベル到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>เมื่อถึงระดับสูงสุด</font><font color='#00ff9c'> [Rank] </font>จะถูกนำมาใช้
 
 ID=5892
 <font color='#FFFFFF'><font size="30">TIP：</font>เมื่อ Channel ปัจจุบันแออัดกรุณา<font color='#00D8FF'>เปลี่ยน Channel</font> โดย\nไปที่บริเวณด้านขวาบนของมินิแมพ
 
 ID=5893
-<font color='#FFFFFF'><font size="30">TIP：</font>ブッカーズポイント<font color='#00ff9c'>[BP]</font>は<font color='#00D8FF'>第6区域</font>または<font color='#00D8FF'>スチールグレイブ</font>で獲得できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>พ้อย <font color='#00ff9c'>[BP] </font>ที่ได้มาจาก<font color='#00D8FF'> Steel Grave </font>หรือที่อื่นๆสามารถซื้อของใน<font color='#00D8FF'> District 6 </font>ได้
 
 ID=5894
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>第6区域</font>の<font color='#00ff9c'>BP商店</font>では、特別なアイテムを購入できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>District 6</font> ที่ <font color='#00ff9c'>ร้านค้า BP</font> สามารถซื้อไอเทมพิเศษอื่นๆได้
 
 ID=5895
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>クエスト情報</font>ウィンドウ【J】の右上にある<font color='#00ff9c'>[ミッション]</font>タブから、デイリーミッションを確認できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ข้อมูลเควส </font>หน้าต่าง [J] มุมขวาบนของหน้าต่างจะมี<font color='#00ff9c'> [มิชชั่น] </font>ท่านสามารถเข้ารับภารกิจประจำวันได้ที่นั่น
 
 ID=5896
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>デイリーミッション</font>を通して獲得した<font color='#00ff9c'>[Sコイン]</font>は、専用商店で使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ภารกิจประจำวัน </font>จะได้รับ <font color='#00ff9c'>[เหรียญ S]</font> สามารถใช้มันได้ในร้านค้าเฉพาะ
 
 ID=5897
-<font color='#FFFFFF'><font size="30">TIP：</font>メイズ内では、ランダムで</font><font color='#00D8FF'>[シークレットミッション]</font>が発生します。
+<font color='#FFFFFF'><font size="30">TIP：</font>ภายในดันเจี้ยนมีการสุ่ม</font><font color='#00D8FF'> [ภารกิจลับ] </font> สามารถเกิดขึ้นได้ทุกเมื่อ
 
 ID=5898
-<font color='#FFFFFF'><font size="30">TIP：</font>ゲーム進行中に獲得した</font><font color='#00D8FF'>[サポーター]</font>をメイズに呼び出してみましょう。\n心強い仲間があなたをサポートしてくれます。
+<font color='#FFFFFF'><font size="30">TIP：</font>ในระหว่างเกมสามารถเรียกใช้</font><font color='#00D8FF'> [Supporter] </font>\nเพื่อที่จะสนับสนุนและช่วยให้ผ่านเกมได้ง่ายขึ้น
 
 ID=5899
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>イオ</font>の所で</font><font color='#00D8FF'>オーブ</font>を登録してください。\n登録したオーブは、フレンドのサポーターが使用できるようになります。
+<font color='#FFFFFF'><font size="30">TIP：</font>ลองไปหา <font color='#00D8FF'>Io</font> หรือ <font color='#00ff9c'>the Soul Manipulator</font> NPC\nเพื่อรับการสนับสนุน
 
 ID=5900
 <font color='#FFFFFF'><font size="30">TIP：</font>ถ้าหากใช้ Booth อ่างอาบน้ำจะเห็น ชุดชั้นใน…!!
@@ -3710,19 +3710,19 @@ ID=6035
 A.Rカードの製作に失敗しました。
 
 ID=6036
-A.Rカード製作
+สร้างการ์ด A.R
 
 ID=6037
 สร้าง
 
 ID=6038
-解放
+เรียกคืน
 
 ID=6039
-カードリスト
+รายชื่อการ์ด
 
 ID=6040
-製作可能リストのみ表示
+แสดงเฉพาะรายการที่สร้างได้
 
 ID=6041
 解放可能リストのみ表示
@@ -3731,7 +3731,7 @@ ID=6042
 カード解放
 
 ID=6043
-製作/解放
+สร้าง/เปิด
 
 ID=6044
 材料を使用してA.Rカードを製作します。\n製作したA.Rカードは取引できません。
@@ -3749,22 +3749,22 @@ ID=6048
 合成が完了しました。
 
 ID=6049
-整列
+จัดเรียง
 
 ID=6050
-一般整列
+ตามทั่วไป
 
 ID=6051
-成長レベルの高い順
+ระดับสูง
 
 ID=6052
-成長レベルの低い順
+ระดับต่ำ
 
 ID=6053
-タイプ別整列
+ตามประเภท
 
 ID=6054
-装備順
+Sobi jun
 
 ID=6055
 合成EXPMax状態でのみ\n製作材料として使用できます。
@@ -3800,7 +3800,7 @@ ID=7001
 スキルデッキ\n初期化
 
 ID=7002
-ボーナス
+โบนัส
 
 ID=7003
 ระดับ
@@ -3809,7 +3809,7 @@ ID=7004
 スキルデッキを選択してください。
 
 ID=7005
-Skill พิเศษ
+Break Skill
 
 ID=7006
 ピーク
@@ -3827,13 +3827,13 @@ ID=7010
 特性選択
 
 ID=7011
-習得可能
+พร้อมใช้ 
 
 ID=7012
 装着中
 
 ID=7013
-SP不足
+SP ไม่พอ
 
 ID=7014
 累積使用SP不足
@@ -3845,16 +3845,16 @@ ID=7016
 所持カード数
 
 ID=7017
-枚
+ใบ
 
 ID=7100
-ダメージ{0}%増加
+ความเสียหายเพิ่ม {0}%
 
 ID=7101
-クールタイム{0}%減少
+คูลดาวน์ลดลง {0}%
 
 ID=7102
-SG消費量{0}%減少
+ใช้ SG ลดลง {0}%
 
 ID=8000
 進行率{0}/{1}({2}%)
@@ -4244,10 +4244,10 @@ ID=9987
 [スチールグレイブ]ルインフォートレス
 
 ID=9988
-ゴールデンシタデル入口
+ทางเข้า Golden Citadel
 
 ID=9989
-ゴールデンシタデル
+Golden Citadel
 
 ID=9990
 予兆の館
@@ -5303,7 +5303,7 @@ ID=16837
 เรียกคืน
 
 ID=16838
-{0}時間
+{0} ชั่วโมง
 
 ID=16839
 {0} วัน
@@ -5519,10 +5519,10 @@ ID=18044
 {0} วัน
 
 ID=18045
-{0}時間
+{0} ชั่วโมง
 
 ID=18046
-{0}分
+{0} นาที
 
 ID=18047
 1分以内
@@ -6179,7 +6179,7 @@ ID=21515
 รับ
 
 ID=21516
-支援登録
+สนับสนุน
 
 ID=21517
 攻撃のオーブ\n支援登録
@@ -6683,10 +6683,10 @@ ID=22512
 อาวุธรองโจมตี
 
 ID=22513
-Skill พิเศษ
+Break Skill
 
 ID=22514
-スキルデッキ連携
+Skill deck
 
 ID=22515
 ช่อง
@@ -7121,7 +7121,7 @@ ID=22680
 {0}キーと組み合わせた設定をしてください。
 
 ID=22681
-テクスチャー
+พื้นผิว
 
 ID=23000
 基本FPが全回復しました。
@@ -8621,7 +8621,7 @@ ID=26065
 ลดเกราะเวทย์[%]
 
 ID=26066
-ลด cool time[%]
+ลดคูลดาวน์[%]
 
 ID=26067
 ความเสียหายเพิ่มขึ้น：PvP[%]
@@ -9029,7 +9029,7 @@ ID=28015
 ชื่อกิลด์
 
 ID=28016
-ギルドマスター
+หัวหน้ากิลด์
 
 ID=28017
 この内容でいいか確認してください。
@@ -9374,7 +9374,7 @@ ID=28130
 ตัวละคร
 
 ID=28131
-職位
+ตำแหน่ง
 
 ID=28132
 選択完了
@@ -9389,7 +9389,7 @@ ID=28135
 Lv
 
 ID=28136
-ギルドマスター
+หัวหน้ากิลด์
 
 ID=28137
 จำนวน
@@ -9449,10 +9449,10 @@ ID=28155
 รองหัวหน้ากิลด์
 
 ID=28156
-総括
+ผู้ตรวจทาน
 
 ID=28157
-長老
+Choro
 
 ID=28158
 職位付与
@@ -9512,7 +9512,7 @@ ID=28176
 ค้นหา
 
 ID=28177
-ギルド加入申請者リスト
+คำขอเข้าร่วม
 
 ID=28178
 申請
@@ -9563,10 +9563,10 @@ ID=28193
 {0} วัน
 
 ID=28194
-{0}時間
+{0} ชั่วโมง
 
 ID=28195
-{0}分
+{0} นาที
 
 ID=28196
 ギルド詳細情報
@@ -9608,7 +9608,7 @@ ID=28208
 ギルド解散ペナルティにより、{0}時間ギルドを設立できません。
 
 ID=28209
-<ตัวละครที่ไม่ได้รับอนุญาตไม่สามารถแก้ไขได้>
+<คุณไม่ได้รับอนุญาตให้แก้ไข>
 
 ID=28210
 แจ้งให้ทราบ
@@ -10241,7 +10241,7 @@ ID=31078
 募集登録時間
 
 ID=31079
-{0}分
+{0} นาที
 
 ID=31080
 申請
@@ -10256,10 +10256,10 @@ ID=31083
 โพสต์แนะนำ
 
 ID=31084
-招待
+เชิญ
 
 ID=31085
-情報
+ข้อมูล
 
 ID=31086
 โพสต์
@@ -10313,7 +10313,7 @@ ID=31102
 ฝึกซ้อม
 
 ID=31103
-材料収集
+เก็บของ
 
 ID=31104
 เควส
@@ -10826,7 +10826,7 @@ ID=32097
 สร้าง
 
 ID=32098
-解放
+เรียกคืน
 
 ID=32099
 การผสม
@@ -11045,7 +11045,7 @@ ID=34012
 {0} ชั่วโมง {1} นาที
 
 ID=34013
-{0}分
+{0} นาที
 
 ID=34014
 {0}%
@@ -11102,7 +11102,7 @@ ID=34031
 เก็บเกี่ยวสำเร็จ
 
 ID=34032
-การเก็บเกี่ยวประสบความสำเร็จมาก
+เก็บเกี่ยวสำเร็จ
 
 ID=34033
 ได้รับx{0}
@@ -14474,7 +14474,7 @@ ID=49002
 ยกเลิก
 
 ID=49003
-รางวัลพื้นฐาน
+รางวัล
 
 ID=49004
 เลือกรางวัล
@@ -14501,7 +14501,7 @@ ID=49104
 เสร็จสิ้น
 
 ID=49105
-収集中
+ยังไม่พบ
 
 ID=49106
 รางวัล
@@ -14750,7 +14750,7 @@ ID=49338
 แสดง
 
 ID=49339
-{0}報酬リスト
+ค่าตอบแทนจาก {0}
 
 ID=49340
 {0}段階報酬アイテム
@@ -15050,13 +15050,13 @@ ID=49918
 成功
 
 ID=49919
-失敗
+ล้มเหลว
 
 ID=49920
 กิจกรรม
 
 ID=49921
-受注
+รับคำสั่ง
 
 ID=49922
 ดำเนินการ
@@ -15065,10 +15065,10 @@ ID=49923
 เสร็จสิ้น
 
 ID=49924
-失敗
+ล้มเหลว
 
 ID=49925
-Mission
+มิชชั่น
 
 ID=49926
 {0}/{1}
