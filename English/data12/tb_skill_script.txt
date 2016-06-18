@@ -3710,7 +3710,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 
 ID=15911
 Erosion Ⅰ
-[スキル情報]\n60秒間、覚醒状態になる。\n-SGを毎秒15%回復する。\n-移動速度が50%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nマウス：数字キー「7」入力
+[Skill Info]\nAwaken for 60s.\n- Gain 15% SG per second\n- Movement Speed +50%\n- Gain Super Armor\n\nAwaken the body, temporarily increasing one’s ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press the [7] key
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_BreakErode
 Description_Image/Skill/Howling/Image_Howling_Break_Erode
@@ -3724,28 +3724,28 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade_A
 
 ID=21022
 Range Increase Ⅱ -
-[特性情報：基本攻撃]\nダメージ量増加値：[54%]\nSA破壊量増加値：[29%]\n\n[特性情報：追加攻撃]\nダメージ量増加値：[33%]\nSA破壊量増加値：[19%]\n追加攻撃の範囲が増加する。\n\n刃に異能力を付与し、攻撃範囲を増加させる。
+[Basic Attack]\nDamage Increase: [54%]\nSA Break Increase: 29%\n\n[Additional Attack]\nDamage Increase: [33%]\nSA Increase: [19%]\nRange of the additional attack is increased.\n\nRange is also increased by imbuing your sword with energy.
 [Basic Attack]\nDamage Increase: [54%]+108%\nSA Break Increase: [29%]+59%\n\n[Additional Attack]\nDamage Increase: [33%]+68%\nSA Break Increase: [19%]+36%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade_A
 0
 
 ID=21023
 Range Increase Ⅲ -
-[特性情報：基本攻撃]\nダメージ量増加値：[162%]\nSA破壊量増加値：[62%]\n\n[特性情報：追加攻撃]\nダメージ量増加値：[101%]\nSA破壊量増加値：[87%]\n追加攻撃の範囲が増加する。\n\n刃に異能力を付与し、攻撃範囲を増加させる。
+[Basic Attack]\nDamage Increase: [162%]\nSA Break Increase: 62%\n\n[Additional Attack]\nDamage Increase: [101%]\nSA Increase: [87%]\nRange of the additional attack is increased.\n\nRange is also increased by imbuing your sword with energy.
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade_A
 0
 
 ID=21041
 Spinning Blade Ⅰ
-[特性情報：基本攻撃]\nダメージ量追加値：[92%]\nSA破壊量減少値：[381%]\n\n[特性情報：追加攻撃]\nダメージ量：[65%]\nSA破壊量：[34%]\n\nピアスステップ後、回転斬りで敵を押し出す。\n\n[操作方法：追加]\nマウス：最後の攻撃後(右クリック)
+[Basic Attack]\nDamage Increase: [92%]\nSA Break Decrease: [381%]\n\n[Additional Attack]\nDamage: [65%]\nSA Break: [34%]\n\nPushes the enemy away with two Spinning Blades after Pierce Step.\n\n[Activation: Additional Attack]\nMouse: After last attack (RMB)
 {Additional Attack]\nAttacks twice with 2 rotating slashes.\nDamage: [65%]+151%\nSA Break: [34%]+80%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep_A
 0
 
 ID=21042
 Spinning Blade Ⅱ
-[特性情報：基本攻撃]\nダメージ量追加値：[92%]\nSA破壊量減少値：[381%]\n\n[特性情報：追加攻撃]\nダメージ量：[216%]\nSA破壊量：[114%]\n\nピアスステップ後、2回転斬りで敵を押し出す。\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)
+[Basic Attack]\nDamage Increase: [92%]\nSA Break Decrease: [381%]\n\n[Additional Attack]\nDamage: [216%]\nSA Break: [114%]\n\nPushes the enemy away with two Spinning Blades after Pierce Step.\n\n[Activation: Additional Attack]\nMouse: After last attack (right-click)
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep_A
 0
@@ -3863,43 +3863,43 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_ArenaRush_B
 0
 
 ID=21111
-火炎Ⅰ
-[特性情報]\nダメージ量減少値：攻撃1回あたり[28%]\nSA破壊量減少値：攻撃1回あたり[21%]\n3秒間、火炎地帯を作り出す。\n火炎地帯ダメージ量：毎秒[45%]\n火炎地帯SA破壊量：毎秒[34%]\n\n剣気が地面に衝突すると、火炎地帯を生成する。
-[特性情報]\nダメージ量減少値：攻撃1回あたり[28%]-15%\nSA破壊量減少値：攻撃1回あたり[21%]-11%\n火炎地帯ダメージ量：毎秒[45%]+5%\n火炎地帯SA破壊量：毎秒[34%]+4%
+Blaze Ⅰ
+[Special Info]\nDamage Reduction: [28%] per hit\nSA Break Reduction: [21%] per hit\nCreate a burning zone for 3s.\nBurn Damage: [45%] per second\nBurn SA Break: [34%] per second\n\nA burning zone will appear where the sword energy explodes on the ground.
+[Special Info]\nDamage Reduction: [28%]-15% per hit\nSA Break Reduction: [21%]-11% per hit\nBurn Damage: [45%]+5% per second\nBurn SA Break: [34%]+4% per second
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike_A
 0
 
 ID=21112
-火炎Ⅱ
-[特性情報]\nダメージ量減少値：攻撃1回あたり[13%]\nSA破壊量減少値：攻撃1回あたり[10%]\n3秒間、火炎地帯を作り出す。\n火炎地帯ダメージ量：毎秒[50%]\n火炎地帯SA破壊量：毎秒[38%]\n\n剣気が地面に衝突すると、火炎地帯を生成する。
-[特性情報]\nダメージ量減少値：攻撃1回あたり[13%]-36%\nSA破壊量減少値：攻撃1回あたり[10%]-27%\n火炎地帯ダメージ量：毎秒[50%]+12%\n火炎地帯SA破壊量：毎秒[38%]+9%
+Blaze Ⅱ
+[Special Info]\nDamage Reduction: [13%] per hit\nSA Break Reduction: [10%] per hit\nCreate a burning zone for 3s.\nBurn Damage: [50%] per second\nBurn SA Break: [38%] per second\n\nA burning zone will appear where the sword energy explodes on the ground.
+[Special Info]\nDamage Reduction: [13%]-36% per hit\nSA Break Reduction: [10%]-27% per hit\nBurn Damage: [50%]+12% per second\nBurn SA Break: [38%]+9% per second
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike_A
 0
 
 ID=21113
-火炎Ⅲ
-[特性情報]\nダメージ量増加値：攻撃1回あたり[23%]\nSA破壊量増加値：攻撃1回あたり[17%]\n3秒間、火炎地帯を作り出す。\n火炎地帯ダメージ量：毎秒[62%]\n火炎地帯SA破壊量：毎秒[47%]\n\n剣気が地面に衝突すると、火炎地帯を生成する。
+Blaze Ⅲ
+[Special Info]\nDamage Increase: [23%] per hit\nSA Break Increase: [17%] per hit\nCreate a burning zone for 3s.\nBurn Damage: [62%] per second\nBurn SA Break: [47%] per second\n\nA burning zone will appear where the sword energy explodes on the ground.
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike_A
 0
 
 ID=21061
 Charge Ⅰ
-[特性情報]\n力を溜めて剣気を追加で放つ。\nチャージ時、本来の剣気の0.7倍の威力を持つ剣気を2発放つ。\n\n[Usage]\nPlace in skill slot and hold corresponding key
+[Special Info]\nFires multiple charged energy waves.\nFires 2 waves with 0.7x the power of an original slash.\n\n[Usage]\nPlace in skill slot and hold corresponding key
 Maximum Charge: [2]+1
 Icon/Skill/SoulumSword/Icon_SSword_Skill_WindBreak_A
 0
 
 ID=21062
 Charge Ⅱ
-[特性情報]\n力を溜めて剣気を追加で放つ。\nチャージ時、本来の剣気の0.7倍の威力を持つ剣気を2発放つ。\n最大チャージ時、剣気を3発放つ。\n\n[Usage]\nPlace in skill slot and hold corresponding key
+[Special Info]\nFires multiple charged energy waves.\nFires 2 waves with 0.7x the power of an original slash.\nFires 3 waves at maximum charge.\n\n[Usage]\nPlace in skill slot and hold corresponding key
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_WindBreak_A
 0
 
 ID=22011
 Impact Bullets Ⅰ
-[特性情報：追加攻撃]\nダメージ量：[140%]\nSA破壊量：[186%]\n\n強力なエナジー弾を撃ち出し、前方の敵を攻撃する。
+[Type: Additional Attack]\nDamage: [140%]\nSA Break: [186%]\n\nShoot a powerful energy bullet that attacks the enemies in front.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh_A
 0
@@ -4053,49 +4053,49 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_GuidedShot_A
 
 ID=22091
 SG Recovery Ⅰ
-[特性情報]\nバフ効果：毎秒SG[2%]回復\nバフ持続時間：[20秒]\n\n味方のSGを回復させるバフが追加で発動する。
+[Special Info]\nBuff Effect: [2%] SG Recovery per second\nBuff Duration: [20s]\n\nGives a buff that recovers allies SG.
 SG Recovery Rate: [2%}+1%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter_A
 0
 
 ID=22092
 SG Recovery Ⅱ
-[特性情報]\nバフ効果：毎秒SG[3%]回復\nバフ持続時間：[20秒]\n\n味方のSGを回復させるバフが追加で発動する。
-SG回復量：[3%]+2%
+[Special Info]\nBuff Effect: [3%] SG Recovery per second\nBuff Duration: [20s]\n\nGives a buff that recovers allies SG.
+SG Recovery Rate: [3%]+2%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter_A
 0
 
 ID=22093
 SG Recovery Ⅲ
-[特性情報]\nバフ効果：毎秒SG[5%]回復\nバフ持続時間：[20秒]\n\n味方のSGを回復させるバフが追加で発動する。
+[Special Info]\nBuff Effect: [5%] SG Recovery per second\nBuff Duration: [20s]\n\nGives a buff that recovers allies SG.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter_A
 0
 
 ID=23031
 Charge Ⅰ
-[特性情報：チャージ]\nチャージの性能が1.8倍に増加する。\n敵と一緒に空中へ飛び上がる。\n\nチャージ時、敵をさらに高く浮かせる。
+[Type: Charge]\nEffectivity of charge increases by 1.8 times.\nJump into the air along with the enemy.\n\nCharging more makes the enemy float higher.
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ScytheCutter_A
 0
 
 ID=23041
 HP Absorption Ⅰ
-[特性情報]\nダメージ量減少値：[267%]\nSA破壊量減少値：[151%]\nHP吸収：[35%]\n\n攻撃を受けた敵からHPを奪い、自分のHPを回復する。\n該当効果は1体にのみ適用。
-HP吸収：[35%]+10%
+[Special Info]\nDamage Reduction: [267%]\nSA Break Reduction: [151%]\nHP Absorbtion: [35%]\n\nSteals HP from the attacked enemy and recovers HP. Effect is applicable only on one enemy.
+HP Absorption: [35%]+10%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown_A
 0
 
 ID=23042
 HP Absorption Ⅱ
-[特性情報]\nダメージ量減少値：[267%]\nSA破壊量減少値：[151%]\nHP吸収：[45%]\n\n攻撃を受けた敵からHPを奪い、自分のHPを回復する。\n該当効果は1体にのみ適用。
-HP吸収：[45%]+20%
+[Special Info]\nDamage Reduction: [267%]\nSA Break Reduction: [151%]\nHP Absorbtion: [45%]\n\nSteals HP from the attacked enemy and recovers HP. Effect is applicable only on one enemy.
+HP Absorption: [45%]+20%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown_A
 0
 
 ID=23043
 HP Absorption Ⅲ
-[特性情報]\nダメージ量減少値：[267%]\nSA破壊量減少値：[151%]\nHP吸収：[65%]\n\n攻撃を受けた敵からHPを奪い、自分のHPを回復する。\n該当効果は1体にのみ適用。
+[Special Info]\nDamage Reduction: [267%]\nSA Break Reduction: [151%]\nHP Absorbtion: [65%]\n\nSteals HP from the attacked enemy and recovers HP. Effect is applicable only on one enemy.
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown_A
 0
@@ -4207,42 +4207,42 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash_B
 
 ID=23101
 Induction Ⅰ
-[特性情報]\nダメージ量増加値：攻撃1回あたり[8%]\nSA破壊量増加値：攻撃1回あたり[14%]\n\n発生した竜巻が敵に向かって移動する。
-ダメージ量増加値：攻撃1回あたり[8%]+9%\nSA破壊量増加値：攻撃1回あたり[14%]+13%
+[Special Info]\nDamage Increase: [8%] per hit\nSA Break Increase: [14%] per hit\n\nSummons a tornado that moves towards the enemy.
+Damage Increase: [8%]+9%\nSA Break Increase: [14%]+13%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_A
 0
 
 ID=23102
 Induction Ⅱ
-[特性情報]\nダメージ量増加値：攻撃1回あたり[17%]\nSA破壊量増加値：攻撃1回あたり[27%]\n\n発生した竜巻が敵に向かって移動する。
-ダメージ量増加値：攻撃1回あたり[17%]+19%\nSA破壊量増加値：攻撃1回あたり[27%]+32%
+[Special Info]\nDamage Increase: [17%] per hit\nSA Break Increase: [27%] per hit\n\nSummons a tornado that moves towards the enemy.
+Damage Increase: [17%]+19%\nSA Break Increase: [27%]+32%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_A
 0
 
 ID=23103
 Induction Ⅲ
-[特性情報]\nダメージ量増加値：攻撃1回あたり[36%]\nSA破壊量増加値：攻撃1回あたり[59%]\n\n発生した竜巻が敵に向かって移動する。
+[Special Info]\nDamage Increase: [36%] per hit\nSA Break Increase: [59%] per hit\n\nSummons a tornado that moves towards the enemy.
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_A
 0
 
 ID=23104
 Area Widener Ⅰ
-[特性情報]\nダメージ量増加値：攻撃1回あたり[159%]\nSA破壊量減少値：攻撃1回あたり[64%]\n\n竜巻が前方に向かって移動する。
-ダメージ量増加値：攻撃1回あたり[159%]+28%\nSA破壊量減少値：攻撃1回あたり[64%]-4%
+[Special Info]\nDamage Increase: [159%] per hit\nSA Break Decrease: [64%] per hit\n\nTornado moves towards the front.
+Damage Increase: [159%]+28% per hit\nSA Break Decrease: [64%]-4% per hit
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_B
 0
 
 ID=23105
 Area Widener Ⅱ
-[特性情報]\nダメージ量増加値：攻撃1回あたり[187%]\nSA破壊量減少値：攻撃1回あたり[60%]\n\n竜巻が前方に向かって移動する。
-ダメージ量増加値：攻撃1回あたり[187%]+66%\nSA破壊量減少値：攻撃1回あたり[60%]-8%
+[Special Info]\nDamage Increase: [187%] per hit\nSA Break Decrease: [60%] per hit\n\nTornado moves towards the front.
+Damage Increase: [187%]+66% per hit\nSA Break Decrease: [60%]-8% per hit
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_B
 0
 
 ID=23106
 Area Widener Ⅲ
-[特性情報]\nダメージ量増加値：攻撃1回あたり[253%]\nSA破壊量減少値：攻撃1回あたり[52%]\n\n竜巻が前方に向かって移動する。
+[Special Info]\nDamage Increase: [253%] per hit\nSA Break Decrease: [52%] per hit\n\nTornado moves towards the front.
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_B
 0
@@ -4487,21 +4487,21 @@ Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_A
 
 ID=25034
 Strenghten Ⅰ
-[特性情報：支援モード]\nバフ効果：防御度[60]増加\nバフ持続時間：[10秒]\n\nゴーストに防御度を増加させるバフが追加される。
-[支援モード]\n防御度増加値：[60]+60
+[Support Mode]\nBuff Effect: Defense +[60]\nBuff Duration: [10s]\n\nGhosts will grant a defense boosting buff.
+[Support Mode]\nDefense Increase: [60]+60
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_B
 0
 
 ID=25035
 Strenghten Ⅱ
-[特性情報：支援モード]\nバフ効果：防御度[120]増加\nバフ持続時間：[10秒]\n\nゴーストに防御度を増加させるバフが追加される。
-[支援モード]\n防御度増加値：[120]+130
+[Support Mode]\nBuff Effect: Defense +[120]\nBuff Duration: [10s]\n\nGhosts will grant a defense boosting buff.
+[Support Mode]\nDefense Increase: [120]+130
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_B
 0
 
 ID=25036
 Strenghten Ⅲ
-[特性情報：支援モード]\nバフ効果：防御度[250]増加\nバフ持続時間：[10秒]\n\nゴーストに防御度を増加させるバフが追加される。
+[Support Mode]\nBuff Effect: Defense +[250]\nBuff Duration: [10s]\n\nGhosts will grant a defense boosting buff.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_TroublePass_B
 0
@@ -4543,21 +4543,21 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_A
 
 ID=25064
 Strenghten Ⅰ
-[特性情報：支援モード]\n攻撃力増加値：[100]\n\n球の効果が強化される。
-[支援モード]\n攻撃力増加値：[100]+100
+[Support Mode]\nAttack Increase: [100]\n\nThe beads effect is strengthened.
+[Support Mode]\nAttack Increase: [100]+100
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_B
 0
 
 ID=25065
 Strenghten Ⅱ
-[特性情報：支援モード]\n攻撃力増加値：[200]\n\n球の効果が強化される。
-[支援モード]\n攻撃力増加値：[200]+250
+[Support Mode]\nAttack Increase: [200]\n\nThe beads effect is strengthened.
+[Support Mode]\nAttack Increase: [200]+250
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_B
 0
 
 ID=25066
 Strenghten Ⅲ
-[特性情報：支援モード]\n攻撃力増加値：[450]\n\n球の効果が強化される。
+[Support Mode]\nAttack Increase: [450]\n\nThe beads effect is strengthened.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_B
 0
@@ -5586,14 +5586,14 @@ When an ally is almost dead, there is a 60% chance of increasing ATK by 40% for 
 
 ID=30462
 Otaku’s Potential Ⅰ
-攻撃を受けた時、20%の確率で5秒間、毎秒HPとSGが3%回復する。(クールタイム10秒)
+When attacked, there is a 20% chance of recovering HP and SG for 3% per sec for 5 sec. (Cooldown: 10 sec)
 .
 0
 0
 
 ID=30463
 Otaku’s Potential Ⅱ
-攻撃を受けた時、20%の確率で5秒間、毎秒HPとSGが5%回復する。(クールタイム10秒)
+When attacked, there is a 20% chance of recovering HP and SG for 5% per sec for 5 sec. (Cooldown: 10 sec)
 .
 0
 0
@@ -6712,15 +6712,15 @@ Synthesis experience can be gained while used for A.R Card synthesis. There is n
 0
 
 ID=31011
-お腹パンパン
-一般キャッシュカードの経験値2倍効果を適用する。
+Growling Stomach
+Gives twice the amount of experience of a normal cash card.
 .
 0
 0
 
 ID=31021
-お腹パンパン
-一般キャッシュカードの経験値3倍効果を適用する。
+Growling Stomach
+Gives thrice the amount of experience of a normal cash card.
 .
 0
 0
@@ -6978,85 +6978,85 @@ All enemies below Elite rank will be launched into the air for 4 seconds. (Coold
 0
 
 ID=31151
-How much?Ⅰ
-3ｍのコインエリアを生成し、周辺の敵にダメージを与え引き寄せる。範囲小。（クールタイム90秒）
+How much? Ⅰ
+Create a 3 meter wide coin area, damaging and pulling in enemies. Small AoE. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31152
 How much? Ⅱ
-3ｍのコインエリアを生成し、周辺の敵にダメージを与え引き寄せる。範囲中。（クールタイム90秒）
+Create a 3 meter wide coin area, damaging and pulling in enemies. Medium AoE. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31153
 How much? Ⅲ
-5ｍのコインエリアを生成し、周辺の敵にダメージを与え引き寄せる。範囲中。（クールタイム90秒）
+Create a 5 meter wide coin area, damaging and pulling in enemies. Medium AoE. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31161
-How much?Ⅰ
-3ｍのコインエリアを生成し、周辺の敵にダメージを与え引き寄せる。範囲小。（クールタイム90秒）
+How much? Ⅰ
+Create a 3 meter wide coin area, damaging and pulling in enemies. Small AoE. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31162
 How much? Ⅱ
-5ｍのコインエリアを生成し、周辺の敵にダメージを与え引き寄せる。範囲中。（クールタイム90秒）
+Create a 5 meter wide coin area, damaging and pulling in enemies. Medium AoE. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31163
 How much? Ⅲ
-7ｍのコインエリアを生成し、周辺の敵にダメージを与え引き寄せる。範囲大。（クールタイム90秒）
+Create a 7 meter wide coin area, damaging and pulling in enemies. Large AoE. (Cooldown 90 sec)
 .
 0
 0
 
 ID=31171
-巨大ブラックホール爆弾Ⅰ
-14m範囲の敵にダメージを与え、5秒間引き寄せる。(クールタイム90秒)
+Gigantic Black Hole Bomb Ⅰ
+Damages and pulls the enemies within 14m for 5s. (90s cooldown)
 .
 0
 0
 
 ID=31172
-巨大ブラックホール爆弾Ⅱ
-14m範囲の敵にダメージを与え、7秒間引き寄せる。(クールタイム90秒)
+Gigantic Black Hole Bomb Ⅱ
+Damages and pulls the enemies within 14m for 7s. (90s cooldown)
 .
 0
 0
 
 ID=31173
-巨大ブラックホール爆弾Ⅲ
-14m範囲の敵にダメージを与え、7秒間引き寄せた後に3秒間麻痺状態にする。(クールタイム90秒)
+Gigantic Black Hole Bomb Ⅲ
+Damages and pulls the enemies within 14m for 7s and paralyzes them for 3s. (90s cooldown)
 .
 0
 0
 
 ID=31181
-巨大ブラックホール爆弾Ⅰ
-17m範囲の敵にダメージを与え、5秒間引き寄せる。(クールタイム90秒)
+Gigantic Black Hole Bomb Ⅰ
+Damages and pulls the enemies within 17m for 5s. (90s cooldown)
 .
 0
 0
 
 ID=31182
-巨大ブラックホール爆弾Ⅱ
-17m範囲の敵にダメージを与え、7秒間引き寄せる。(クールタイム90秒)
+Gigantic Black Hole Bomb Ⅱ
+Damages and pulls the enemies within 17m for 7s. (90s cooldown)
 .
 0
 0
 
 ID=31183
-巨大ブラックホール爆弾Ⅲ
-17m範囲の敵にダメージを与え、7秒間引き寄せた後に5秒間麻痺状態にする。(クールタイム90秒)
+Gigantic Black Hole Bomb Ⅲ
+Damages and pulls the enemies within 17m for 7s and paralyzes them for 5s. (90s cooldown)
 .
 0
 0

@@ -5,7 +5,7 @@ Icon/Item/Goods/Goods_Gold
 0
 0
 0
-ジェニー
+Zenny
 0
 
 ID=800000002
@@ -35,7 +35,7 @@ Icon/Item/Goods/Goods_Ether
 0
 0
 0
-エーテル
+Ether
 0
 
 ID=800000005
@@ -55,7 +55,7 @@ Icon/Item/Etc/ETC_0_GlutonCoin
 0
 0
 0
-Sコイン
+เหรียญ S
 特殊任務を完遂したソウルワーカーに贈られる貨幣。\n連合特製の各種アイテムを購入できる。\nスペシャルミッションクリア時、獲得可能。\n\n[特殊貨幣]
 
 ID=800001001
@@ -65,7 +65,7 @@ Icon/Item/Cash/QBD
 0
 0
 0
-Q.B.D[強化保護]
+Q.B.D [กันไอเทมอัพเกรดหัก]
 一定数値以上の装備強化時、装備の破壊を防いでくれる特殊デバイス。装備の出力に異常があった場合に発生する自爆信号を、強制的に遮断して装備の破壊を防ぐ。アイテム使用チェック中は、破壊を防いだかどうかに関係なく、強化1回につき1個を消費する。\n\n[強化破壊防止アイテム]
 
 ID=800001501
@@ -75,7 +75,7 @@ Icon/Item/Cash/Antilimiter
 0
 0
 0
-アンチリミッター+10
+Antilimiter +10
 アイテムを強化した回数を\n5回分リセットするアイテム。\n\n[強化実行回数減少アイテム]
 
 ID=800002001
@@ -85,7 +85,7 @@ Icon/Item/Function/Tool_Disassemble_MagicHammer
 0
 0
 0
-マジックハンマー
+Magic Hammer
 正式名称はアンチソウル粒子加速機。\n前方の芯を高速で回転させて、加速させた\nアンチソウルを対象にぶつけるために作られた。\n加速したアンチソウルに触れた物体は、\n互いの粒子が持つソウルエナジーが消え、\n物体を構成している本来の物質へと変化する。\n\n[分解アイテム]
 
 ID=800002002
@@ -95,7 +95,7 @@ Icon/Item/Function/Tool_Disassemble_MagicHammer
 0
 0
 0
-ジャイトのマジックハンマー
+Zaito’s Magic Hammer
 ジャイトからもらったマジックハンマー。\n既存のマジックハンマーと機能も外見も全てが同じ。\nなぜこれがジャイトのマジックハンマーなのだろう。\nジャイトからもらったから？\n\n[分解アイテム]
 
 ID=800003101
@@ -105,7 +105,7 @@ Icon/Item/Function/Socket_Slot_Add_ImplantSlot
 0
 0
 0
-インプラントスロット
+Implant Slot
 ソウルウェポンに[戦闘補助装置：ファミリア]を\n装着できるよう拡張スロットを挿入する機械。\n[一ヵ所に一定量以上のソウルは固定できない]という\nソウル総量の法則を辛うじて維持してくれる。\n\n[ファミリアソケット追加アイテム]
 
 ID=800004001
@@ -115,7 +115,7 @@ Icon/Item/Function/Tool_Repair_NanoKit
 0
 0
 0
-ナノキット
+Nano Kit
 多くのコピーナノマシンが内蔵されているボックス。\nコピーナノマシンは隣接している物質の成分を\nそのままコピーする特性を持っており、\n各種装備の修理に抜群の能力を発揮する。\n何より持ち運べる点が高い評価を受けている。\n\n[装備修理アイテム]
 
 ID=800005001
@@ -125,7 +125,7 @@ Icon/Ticket/Ticket_WarLoad_1_Crystal_Doll
 0
 0
 0
-人形の結晶体
+Doll Crystal
 [ウォーロード入場券-ロコタウンW]を\n一定数使用することで、該当メイズに入場できる。
 
 ID=800005002
@@ -135,7 +135,7 @@ Icon/Ticket/Ticket_WarLoad_2_Crystal_Pollution
 0
 0
 0
-汚染の結晶体
+Contaminated Crystal
 [ウォーロード入場券-カンダスシティW]を\n一定数使用することで、該当メイズに入場できる。
 
 ID=800005003
@@ -145,7 +145,7 @@ Icon/Ticket/Ticket_WarLoad_3_Crystal_Flame
 0
 0
 0
-火花の結晶体
+Firey Crystal
 [ウォーロード入場券-グレイスシティW]を\n一定数使用することで、該当メイズに入場できる。
 
 ID=800005004
@@ -155,7 +155,7 @@ Icon/Ticket/Ticket_WarLoad_4_Crystal_Dimension
 0
 0
 0
-次元の結晶体
+Dimensional Crystal
 [ウォーロード入場券-ルインフォートレスW]を\n一定数使用することで、該当メイズに入場できる。
 
 ID=800005005
@@ -165,7 +165,7 @@ Icon/Ticket/Ticket_WarLoad_5_Crystal_Nightmare
 0
 0
 0
-悪夢の結晶体
+Wicked Crystal
 [ウォーロード入場券-ロコタウンWR]を\n一定数使用することで、該当メイズに入場できる。
 
 ID=800005006
@@ -175,7 +175,7 @@ Icon/Ticket/Ticket_WarLoad_6_Crystal_Infection
 0
 0
 0
-伝染の結晶体
+Contagious Crystal
 [ウォーロード入場券-カンダスシティWR]を\n一定数使用することで、該当メイズに入場できる。
 
 ID=800005007
@@ -185,7 +185,7 @@ Icon/Ticket/Ticket_WarLoad_7_Crystal_Chaos
 0
 0
 0
-混沌の結晶体
+Chaotic Crystal
 [ウォーロード入場券-グレイスシティWR]を\n一定数使用することで、該当メイズに入場できる。
 
 ID=800005008
@@ -195,7 +195,7 @@ Icon/Ticket/Ticket_WarLoad_8_Crystal_Mad
 0
 0
 0
-狂気の結晶体
+Crystal of Madness
 [ウォーロード入場券-ルインフォートレスWR]を\n一定数使用することで、該当メイズに入場できる。
 
 ID=211999999
@@ -205,7 +205,7 @@ Icon/Costume/Icon_PC_A_EQ_Nurse_Costume_07
 0
 0
 0
-ハル下着衣装
+Haru Underwear Costumes
 0
 
 ID=800006001
@@ -215,7 +215,7 @@ Icon/Item/Etc/ETC_0_PersonalStoreOpenTicket
 0
 0
 0
-個人商店開設券
+Personal Store Ticket
 簡易商店を開設するための許可証。\n商人組合以外は駐屯地で店を開くことができないが、\nこの許可証があればどこでも開くことができる。\n\n[個人商店開設アイテム]
 
 ID=800006002
@@ -225,7 +225,7 @@ Icon/Item/Cash/ETC_0_FormatDevice
 0
 0
 0
-フォーマットデバイス
+Format Device
 スチールグレイブでの戦闘データを\n削除するプログラムが内蔵されている機械。\nこの施設の入場は一日一回と制限されているが、\n戦闘データを強制的に削除することで、\n何度でも入場できるようになる。\nしかし、一度使用すると壊れてしまう。\n\n[スチールグレイブ初期化アイテム]
 
 ID=800006003
@@ -235,7 +235,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_01
 0
 0
 0
-[特別許可証]ラストカーニバル
+[ใบอนุญาตพิเศษ] Last Carnival
 特定異常空白発生地域の立ち入りに必要。\nソウルワーカーも例外ではない。\n1度しか使用できないため、準備はしっかりしよう。\n\n[カジュアルレイド入場回数初期化券]\nラストカーニバル
 
 ID=800006004
@@ -245,7 +245,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_02
 0
 0
 0
-[特別許可証]ジャンクハイブ
+[ใบอนุญาตพิเศษ] Junk Hive
 特定異常空白発生地域の立ち入りに必要。\nソウルワーカーも例外ではない。\n1度しか使用できないため、準備はしっかりしよう。\n\n[カジュアルレイド入場回数初期化券]\nジャンクハイブ
 
 ID=800006005
@@ -255,7 +255,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_03
 0
 0
 0
-[特別許可証]バンディットハイウェイ
+[ใบอนุญาตพิเศษ] Bandit’s Highway
 特定異常空白発生地域の立ち入りに必要。\nソウルワーカーも例外ではない。\n1度しか使用できないため、準備はしっかりしよう。\n\n[カジュアルレイド入場回数初期化券]\nバンディットハイウェイ
 
 ID=800006006
@@ -265,7 +265,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_04
 0
 0
 0
-[特別許可証]アイアンキャッスル
+[ใบอนุญาตพิเศษ] Iron Castle
 特定異常空白発生地域の立ち入りに必要。\nソウルワーカーも例外ではない。\n1度しか使用できないため、準備はしっかりしよう。\n\n[カジュアルレイド入場回数初期化券]\nアイアンキャッスル
 
 ID=800006007
@@ -275,7 +275,7 @@ Icon/Item/Consumption/CON_0_DistrictRaidTicket_01
 0
 0
 0
-[特別許可証]ゴールデンシタデル
+[ใบอนุญาตพิเศษ] Golden Citadel
 黄金空白：ゴールデンシタデルへ入場できる一種の権限。特別危険地域ゆえ、ソウルワーカーといえど特別な許可なしには入場できない。\n一度使用すると、すぐに破棄される。\n\n[ディストリクトレイド入場回数初期化]ゴールデンシタデル
 
 ID=800006008
@@ -285,7 +285,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_05
 0
 0
 0
-[特別許可書]異常空白
+[ใบอนุญาตพิเศษ] Abnormal Void
 異常空白発生地域の立ち入りが許されたことを証明するカード。\nたとえソウルワーカーといえど、異常空白に入るためには、このカードが必要。\n一度しか使用できないため、入る前に準備はしっかり整えておくべし。\n\n[カジュアルレイド入場回数1回減少]カジュアルレイド全体
 
 ID=810001001
@@ -295,7 +295,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-スポーティーアバターセット
+Sporty Avatar Set
 「スポーティーアバターセット」が全て入っている。\nハル専用。\n\n[アバターパッケージ]\n-構成品-\nスポーティー[カバン]X1\nスポーティー[上衣]X1\nスポーティー[下衣]X1\nスポーティー[ウォッチ]X1\nスポーティー[運動靴]X1\nスポーティー[キャップ]X1\nスポーティー[蛍光眼鏡]X1
 
 ID=810001002
@@ -305,7 +305,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-スポーティーアバターセット
+Sporty Avatar Set
 「スポーティーアバターセット」が全て入っている。\nアーウィン専用。\n\n[アバターパッケージ]\n-構成品-\nスポーティー[フード]X1\nスポーティー[マスク]X1\nスポーティー[上衣]X1\nスポーティー[下衣]X1\nスポーティー[グローブ]X1\nスポーティー[ポーチ]X1\nスポーティー[靴]X1
 
 ID=810001003
@@ -315,7 +315,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-スポーティーアバターセット
+Sporty Avatar Set
 「スポーティーアバターセット」が全て入っている。\nリリー専用。\n\n[アバターパッケージ]\n-構成品-\nスポーティー[キャップ]X1\nスポーティー[上衣]X1\nスポーティー[下衣]X1\nスポーティー[ポーチ]X1\nスポーティー[蛍光眼鏡]X1\nスポーティー[ウォッチ]X1\nスポーティー[運動靴]X1
 
 ID=810001004
@@ -325,7 +325,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-スポーティーアバターセット
+Sporty Avatar Set
 「スポーティーアバターセット」が全て入っている。\nステラ専用。\n\n[アバターパッケージ]\n-構成品-\nスポーティー[キャップ]X1\nスポーティー[上衣]X1\nスポーティー[下衣]X1\nスポーティー[カバン]X1\nスポーティー[蛍光眼鏡]X1\nスポーティー[グローブ]X1\nスポーティー[運動靴]X1
 
 ID=810001005
@@ -335,7 +335,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-ナースアバターセット
+Nurse Avatar Set
 「ナースセット」が全て入っている。\nハル専用。\n\n[アバターパッケージ]\n-構成品-\nナース[帽子]X1\nナース[衣装]X1\nナース[タイツ]X1\nナース[靴]X1
 
 ID=810001006
@@ -345,7 +345,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-ドクターアバターセット
+Doctor Avatar Set
 「ドクターセット」が全て入っている。\nアーウィン専用。\n\n[アバターパッケージ]\n-構成品-\nドクター[縁眼鏡]X1\nドクター[衣装]X1\nドクター[手袋]X1\nドクター[靴]X1
 
 ID=810001007
@@ -355,7 +355,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-ナースアバターセット
+Nurse Avatar Set
 「ナースセット」が全て入っている。\nリリー専用。\n\n[アバターパッケージ]\n-構成品-\nナース[帽子]X1\nナース[衣装]X1\nナース[タイツ]X1\nナース[靴]X1
 
 ID=810001008
@@ -365,7 +365,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-ドクターアバターセット
+Doctor Avatar Set
 「ドクターセット」が全て入っている。\nステラ専用。\n\n[アバターパッケージ]\n-構成品-\nドクター[縁眼鏡]X1\nドクター[衣装]X1\nドクター[タイツ]X1\nドクター[スリッパ]X1
 
 ID=810001009
@@ -375,7 +375,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-モダンカジュアルセット
+Modern Casual Set
 「モダンカジュアルセット」が全て入っている。\nハル専用。\n\n[アバターパッケージ]\n-構成品-\nモダンカジュアル[上衣]X1\nモダンカジュアル[スカート]X1\nモダンカジュアル[縁眼鏡]X1\nモダンカジュアル[腕時計]X1\nモダンカジュアル[シューズ]X1
 
 ID=810001010
@@ -385,7 +385,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-モダンカジュアルセット
+Modern Casual Set
 「モダンカジュアルセット」が全て入っている。\nアーウィン専用。\n\n[アバターパッケージ]\n-構成品-\nモダンカジュアル[縁眼鏡]X1\nモダンカジュアル[上衣]X1\nモダンカジュアル[腕時計]X1\nモダンカジュアル[下衣]X1\nモダンカジュアル[シューズ]X1
 
 ID=810001011
@@ -395,7 +395,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-モダンカジュアルセット
+Modern Casual Set
 「モダンカジュアルセット」が全て入っている。\nリリー専用。\n\n[アバターパッケージ]\n-構成品-\nモダンカジュアル[上衣]X1\nモダンカジュアル[下衣]X1\nモダンカジュアル[タイツ]X1\nモダンカジュアル[腕輪]X1\nモダンカジュアル[シューズ]X1
 
 ID=810001012
@@ -405,7 +405,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-モダンカジュアルセット
+Modern Casual Set
 「モダンカジュアルセット」が全て入っている。\nステラ専用。\n\n[アバターパッケージ]\n-構成品-\nモダンカジュアル[上衣]X1\nモダンカジュアル[スカート]X1\nモダンカジュアル[縁眼鏡]X1\nモダンカジュアル[腕輪]X1\nモダンカジュアル[シューズ]X1
 
 ID=810001013
@@ -415,7 +415,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-スイートルックアバターセット
+Sweet Look Avatar Set
 「スイートルックセット」が全て入っている。\nハル専用。\n\n[アバターパッケージ]\n-構成品-\nスイートルック[衣装]X1\nスイートルック[帽子]X1\nスイートルック[タイツ]X1\nスイートルック[靴]X1
 
 ID=810001014
@@ -425,7 +425,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-スイートルックアバターセット
+Sweet Look Avatar Set
 「スイートルックセット」が全て入っている。\nアーウィン専用。\n\n[アバターパッケージ]\n-構成品-\nスイートルック[衣装]X1\nスイートルック[眼鏡]X1\nスイートルック[時計]X1\nスイートルック[靴]X1
 
 ID=810001015
@@ -435,7 +435,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-スイートルックアバターセット
+Sweet Look Avatar Set
 「スイートルックセット」が全て入っている。\nリリー専用。\n\n[アバターパッケージ]\n-構成品-\nスイートルック[衣装]X1\nスイートルック[帽子]X1\nスイートルック[タイツ]X1\nスイートルック[靴]X1
 
 ID=810001016
@@ -445,7 +445,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-スイートルックアバターセット
+Sweet Look Avatar Set
 「スイートルックセット」が全て入っている。\nステラ専用。\n\n[アバターパッケージ]\n-構成品-\nスイートルック[衣装]X1\nスイートルック[帽子]X1\nスイートルック[タイツ]X1\nスイートルック[靴]X1
 
 ID=810001017
@@ -455,7 +455,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-探偵学園制服セット
+Detective School Uniform Set
 「探偵学園制服セット」が全て入っている。\nハル専用。\n\n[アバターパッケージ]\n-構成品-\n探偵学園制服[衣装]X1\n探偵学園制服[キャロット]X1\n探偵学園制服[ソックス]X1\n探偵学園制服[靴]X1
 
 ID=810001018
@@ -465,7 +465,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-探偵学園制服セット
+Detective School Uniform Set
 「探偵学園制服セット」が全て入っている。\nアーウィン専用。\n\n[アバターパッケージ]\n-構成品-\n探偵学園制服[キャロット]X1\n探偵学園制服[衣装]X1\n探偵学園制服[紳士口ヒゲ]X1\n探偵学園制服[靴]X1
 
 ID=810001019
@@ -475,7 +475,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-探偵学園制服セット
+Detective School Uniform Set
 「探偵学園制服セット」が全て入っている。\nリリー専用。\n\n[アバターパッケージ]\n-構成品-\n探偵学園制服[衣装]X1\n探偵学園制服[キャロット]X1\n探偵学園制服[ソックス]X1\n探偵学園制服[靴]X1
 
 ID=810001020
@@ -485,7 +485,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-探偵学園制服セット
+Detective School Uniform Set
 「探偵学園制服セット」が全て入っている。\nステラ専用。\n\n[アバターパッケージ]\n-構成品-\n探偵学園制服[衣装]X1\n探偵学園制服[キャロット]X1\n探偵学園制服[ソックス]X1\n探偵学園制服[靴]X1
 
 ID=810001021
@@ -1155,7 +1155,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-モダンカジュアルセット
+Modern Casual Set
 「モダンカジュアルセット」が全て入っている。\nアーウィン専用。\n\n[アバターパッケージ]
 
 ID=820900203
@@ -1185,7 +1185,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-スポーティーアバターセット
+Sporty Avatar Set
 「スポーティーアバターセット」が全て入っている。\nリリー専用。\n\n[アバターパッケージ]
 
 ID=820900303
@@ -1195,7 +1195,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-モダンカジュアルセット
+Modern Casual Set
 「モダンカジュアルセット」が全て入っている。\nリリー専用。\n\n[アバターパッケージ]
 
 ID=820900501
@@ -1215,7 +1215,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-スイートルックアバターセット
+Sweet Look Avatar Set
 「スイートルックセット」が全て入っている。\n\n[アバターパッケージ]
 
 ID=820900503
@@ -1225,7 +1225,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-探偵学園制服セット
+Detective School Uniform Set
 「探偵学園制服セット」が全て入っている。\nステラ専用。\n\n[アバターパッケージ]
 
 ID=820000001
@@ -17905,7 +17905,7 @@ Icon/Item/Function/Socket_Slot_Add_ImplantSlot
 0
 0
 0
-インプラントスロット
+Implant Slot
 ソウルウェポンに[戦闘補助装置：ファミリア]を\n装着できるよう拡張スロットを挿入する機械。\n[一ヵ所に一定量以上のソウルは固定できない]という\nソウル総量の法則を辛うじて維持してくれる。\n\n[ファミリアソケット追加アイテム]
 
 ID=834000006
@@ -19735,7 +19735,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服セット
+Detective School Uniform Set
 「探偵学園制服セット」が全て入っている。\n\n[アバターパッケージ]\n-共通構成品-\n探偵学園制服[衣装]X1\n探偵学園制服[キャロット]X1\n探偵学園制服[靴]X1\n\n-ハル、リリー、ステラ用構成品-\n探偵学園制服[ソックス]X1\n\n-アーウィン用構成品-\n探偵学園制服[紳士口ヒゲ]X1
 
 ID=837100001

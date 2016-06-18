@@ -810,61 +810,61 @@ Attack Power ↑
 
 ID=5041
 Blow-up Ⅰ
-攻撃命中時、SGを1%獲得する。
+When hitting, +1% SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG獲得
+SG +
 
 ID=5042
 Blow-up Ⅱ
-攻撃命中時、SGを1.2%獲得する。
+When hitting, +1.2% SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG獲得
+SG +
 
 ID=5043
 Blow-up Ⅲ
-攻撃命中時、SGを1.6%獲得する。
+When hitting, +1.6% SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG獲得
+SG +
 
 ID=5044
 Blow-up Ⅳ
-攻撃命中時、SGを2%獲得する。
+When hitting, +2% SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG獲得
+SG +
 
 ID=5045
 Blow-up Ⅴ
-攻撃命中時、SGを3%獲得する。
+When hitting, +3% SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG獲得
+SG +
 
 ID=5046
 Blow-up Ⅰ
-スタミナの消費量が50%減少する。
+Stamina consumption -50%.
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 Stamina Cost ↓
 
 ID=5047
 Blow-up Ⅱ
-スタミナの消費量が50%減少する。
+Stamina consumption -50%.
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 Stamina Cost ↓
 
 ID=5048
 Blow-up Ⅲ
-スタミナの消費量が60%減少する。
+Stamina consumption -60%.
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 Stamina Cost ↓
 
 ID=5049
 Blow-up Ⅳ
-スタミナの消費量が70%減少する。
+Stamina consumption -70%.
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 Stamina Cost ↓
 
 ID=5050
 Blow-up Ⅴ
-スタミナの消費量が80%減少する。
+Stamina consumption -80%.
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 Stamina Cost ↓
 
@@ -942,31 +942,31 @@ Poisoned
 
 ID=5521
 Nawab’s Farm Ⅰ
-火傷状態になりHPが1%ずつ減少する。
+-1% HP while burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5522
 Nawab’s Farm Ⅱ
-火傷状態になりHPが1%ずつ減少する。
+-1% HP while burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5523
 Nawab’s Farm Ⅲ
-火傷状態になりHPが1%ずつ減少する。
+-1% HP while burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5524
 Nawab’s Farm Ⅳ
-火傷状態になりHPが1%ずつ減少する。
+-1% HP while burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5525
 Nawab’s Farm Ⅴ
-火傷状態になりHPが1%ずつ減少する。
+-1% HP while burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
@@ -1050,7 +1050,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=5553
 Sprinter Trait A Ⅲ
-SGを毎秒5%ずつ回復する。
++5% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
@@ -1116,33 +1116,33 @@ Invincible
 
 ID=5576
 Hide and Seek Ⅰ
-スーパーアーマー状態になり、全ての攻撃がMISSになる。
+Gain Super Armor, all attacks received are evaded.
 Icon/Buff/Icon_Common_Buff_Sarmor
-完全回避
+Perfect Evasion
 
 ID=5577
 Hide and Seek ⅠⅠ
-スーパーアーマー状態になり、全ての攻撃がMISSになる。
+Gain Super Armor, all attacks received are evaded.
 Icon/Buff/Icon_Common_Buff_Sarmor
-完全回避
+Perfect Evasion
 
 ID=5578
 Hide and Seek ⅠⅠⅠ
-スーパーアーマー状態になり、全ての攻撃がMISSになる。
+Gain Super Armor, all attacks received are evaded.
 Icon/Buff/Icon_Common_Buff_Sarmor
-完全回避
+Perfect Evasion
 
 ID=5579
 Hide and Seek ⅠV
-スーパーアーマー状態になり、全ての攻撃がMISSになる。
+Gain Super Armor, all attacks received are evaded.
 Icon/Buff/Icon_Common_Buff_Sarmor
-完全回避
+Perfect Evasion
 
 ID=5580
 Hide and Seek Ⅴ
-スーパーアーマー状態になり、全ての攻撃がMISSになる。
+Gain Super Armor, all attacks received are evaded.
 Icon/Buff/Icon_Common_Buff_Sarmor
-完全回避
+Perfect Evasion
 
 ID=5998
 Pleasureful Bullets
@@ -1152,7 +1152,7 @@ Icon/Buff/Icon_Common_Buff_ASR
 
 ID=6000
 Erosion Ⅰ
-クリティカル攻撃力が300%増加する。移動速度が20%増加する。スーパーアーマー状態になる。
++300% Critical Damage. +20% Movement Speed. Gain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1182,19 +1182,19 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=6011
 Grim Countdown Trait A Ⅰ
-攻撃命中時、ダメージ量の35%HPを回復する。
+When hitting, +(35% of damage) HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6012
 Grim Countdown Trait A Ⅱ
-攻撃命中時、ダメージ量の45%HPを回復する。
+When hitting, +(45% of damage) HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6013
 Grim Countdown Trait A Ⅲ
-攻撃命中時、ダメージ量の65%HPを回復する。
+When hitting, +(65% of damage) HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
@@ -1242,13 +1242,13 @@ Critical Rate ↑
 
 ID=6042
 Force Region Ⅱ
-クリティカル率が6%増加する。
+Critical Rate +6%.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate ↑
 
 ID=6043
 Force Region Ⅲ
-クリティカル率が8%増加する。
+Critical Rate +8%.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate ↑
 
@@ -1290,7 +1290,7 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 
 ID=6500
 Erosion Ⅰ
-SGを毎秒15%回復する。移動速度が20%増加する。スーパーアーマー状態になる。
++15% SG per second. Movement Speed +20%. Gain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1344,31 +1344,31 @@ Defense↓
 
 ID=6516
 Trouble Path Ⅰ
-HPを4%回復する。
+Recover 4% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=6517
 Trouble Path Ⅱ
-HPを4%回復する。
+Recover 4% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=6518
 Trouble Path Ⅲ
-HPを4%回復する。
+Recover 4% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=6519
 Trouble Path Ⅳ
-HPを4%回復する。
+Recover 4% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=6520
 Trouble Path Ⅴ
-HPを4%回復する。
+Recover 4% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -1494,43 +1494,43 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=6541
 Best Tempo Ⅰ
-SGを毎秒5%ずつ回復する。
++5% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6542
 Best Tempo Ⅱ
-SGを毎秒6%ずつ回復する。
+Recover 6% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6543
 Best Tempo Ⅲ
-SGを毎秒8%ずつ回復する。
+Recover 8% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6544
 Best Tempo Ⅳ
-SGを毎秒10%ずつ回復する。
+Recover 10% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6545
 Best Tempo Ⅴ
-SGを毎秒15%ずつ回復する。
+Recover 15% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6546
 Best Tempo Ⅰ
-HPを12%回復する。
+Recover 12% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=6547
 Best Tempo Ⅱ
-HPを15%回復する。
+Recover 15% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -1559,68 +1559,68 @@ Icon/Buff/Icon_Common_Buff_Sarmor
 Barrier
 
 ID=6561
-トラブルパス
-ダメージ量が10%減少する。
+Trouble Pass
+Damage -10%.
 Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
 ID=6562
 Trouble Path Ⅲ
-防御度が60増加する。
+Defense +60
 Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
 ID=6563
 Trouble Path Ⅲ
-防御度が120増加する。
+Defense +120
 Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
 ID=6564
 Trouble Path Ⅲ
-防御度が250増加する。
+Defense +250
 Icon/Buff/Icon_Common_Buff_Def
 Defense↑
 
 ID=6566
-ビーズプレイ
-攻撃力が50増加する。
+Beads Play
+Attack +50
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=6567
 Bees Play Ⅲ
-攻撃力が150増加する。
+Attack +150
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=6568
 Bees Play Ⅲ
-攻撃力が250増加する。
+Attack +250
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=6569
 Bees Play Ⅲ
-攻撃力が500増加する。
+Attack +500
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=6994
-悲しみの楽想Ⅰ
-2秒ごとにSGを1%ずつ回復する。
+Concert of Sorrow Ⅰ
+Recover 1% SG every 2 seconds.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6995
-悲しみの楽想Ⅱ
-2秒ごとにSGを2%ずつ回復する。
+Concert of Sorrow Ⅱ
+Recover 2% SG every 2 seconds.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6996
-悲しみの楽想Ⅲ
-2秒ごとにSGを3%ずつ回復する。
+Concert of Sorrow Ⅲ
+Recover 3% SG every 2 seconds.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
@@ -1628,7 +1628,7 @@ ID=6999
 Theme of Grief
 Recover SG at set intervals of time.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-モード転換
+Mode Switch
 
 ID=7000
 Erosion Ⅰ
