@@ -810,31 +810,31 @@ Attack Power ↑
 
 ID=5041
 Blow-up Ⅰ
-When hitting, +1% SG.
+On hit, +1% SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG +
 
 ID=5042
 Blow-up Ⅱ
-When hitting, +1.2% SG.
+On hit, +1.2% SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG +
 
 ID=5043
 Blow-up Ⅲ
-When hitting, +1.6% SG.
+On hit, +1.6% SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG +
 
 ID=5044
 Blow-up Ⅳ
-When hitting, +2% SG.
+On hit, +2% SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG +
 
 ID=5045
 Blow-up Ⅴ
-When hitting, +3% SG.
+On hit, +3% SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG +
 
@@ -941,31 +941,31 @@ Icon/Buff/Icon_Common_Debuff_Poison
 Poisoned
 
 ID=5521
-Nawab’s Farm Ⅰ
+Nawab's Farm Ⅰ
 -1% HP while burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5522
-Nawab’s Farm Ⅱ
+Nawab's Farm Ⅱ
 -1% HP while burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5523
-Nawab’s Farm Ⅲ
+Nawab's Farm Ⅲ
 -1% HP while burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5524
-Nawab’s Farm Ⅳ
+Nawab's Farm Ⅳ
 -1% HP while burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5525
-Nawab’s Farm Ⅴ
+Nawab's Farm Ⅴ
 -1% HP while burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
@@ -1182,19 +1182,19 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=6011
 Grim Countdown Trait A Ⅰ
-When hitting, +(35% of damage) HP.
+On hit, +(35% of damage) HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6012
 Grim Countdown Trait A Ⅱ
-When hitting, +(45% of damage) HP.
+On hit, +(45% of damage) HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6013
 Grim Countdown Trait A Ⅲ
-When hitting, +(65% of damage) HP.
+On hit, +(65% of damage) HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
@@ -1434,60 +1434,60 @@ Move Speed ↓
 
 ID=6531
 Decade Pulse Ⅰ
-When hitting, +(100% of damage) HP.
+On hit, +(100% of damage) HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6532
 Decade Pulse Ⅱ
-When hitting, +(100% of damage) HP.
+On hit, +(100% of damage) HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6533
 Decade Pulse Ⅲ
-When hitting, +(100% of damage) HP.
+On hit, +(100% of damage) HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6534
 Decade Pulse Ⅳ
-When hitting, +(100% of damage) HP.
+On hit, +(100% of damage) HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6535
 Decade Pulse Ⅴ
-When hitting, +(100% of damage) HP.
+On hit, +(100% of damage) HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6536
-Bees Play Ⅰ
+Beads Play Ⅰ
 Recover HP by 25%.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=6537
-Bees Play Ⅱ
+Beads Play Ⅱ
 Recover HP by 25%.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=6538
-Bees Play Ⅲ
+Beads Play Ⅲ
 Recover HP by 25%.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=6539
-Bees Play Ⅳ
+Beads Play Ⅳ
 Recover HP by 25%.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=6540
-Bees Play Ⅴ
+Beads Play Ⅴ
 Recover HP by 25%.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
@@ -1589,19 +1589,19 @@ Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=6567
-Bees Play Ⅲ
+Beads Play Ⅲ
 Attack +150
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=6568
-Bees Play Ⅲ
+Beads Play Ⅲ
 Attack +250
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=6569
-Bees Play Ⅲ
+Beads Play Ⅲ
 Attack +500
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
@@ -2417,7 +2417,7 @@ Icon/Buff/Icon_Common_Buff_Immun
 Invincible
 
 ID=30041
-Pandora’s Box
+Pandora's Box
 Increase nearby allies' attack by 30%.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
@@ -2436,19 +2436,19 @@ Enhance
 
 ID=60000
 Break Time
-Recover everyone’s HP for 10 seconds.
+Recover everyone's HP for 10 seconds.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=39005
 Overload
-All of the tempest’s abilities will be briefly disabled.
+All of the tempest's abilities will be briefly disabled.
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
 
 ID=39006
 Overload
-All of the tempest’s abilities will be briefly disabled.
+All of the tempest's abilities will be briefly disabled.
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
 
@@ -2460,7 +2460,7 @@ HP Absorption
 
 ID=39008
 Neutralization
-Laban’s lifesteal powers have been sealed for a little while.
+Laban's lifesteal powers have been sealed for a little while.
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Dispel HP Absorb
 
@@ -3095,26 +3095,26 @@ Icon/Buff/Icon_Common_Debuff_Charm
 Charmed
 
 ID=504
-The Queen’s Majesty
+The Queen's Majesty
 For 5 seconds, paralysis is inflicted.
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
 
 ID=50001
 Professional Surgical Operation
-Restores HP by 500 every 5 sec.
++500 HP every 5 seconds.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=50002
 Professional Surgical Operation
-Restores HP by 600 every 5 sec.
++600 HP every 5 seconds.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=50003
 Professional Surgical Operation
-Restores HP by 700 every 5 sec.
++700 HP every 5 seconds.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -3174,7 +3174,7 @@ Defense↑
 
 ID=50031
 Lethal Blow Lv1
-When hitting, 1% chance of +20% Critical Rate for 2s.
+On hit, 1% chance of +20% Critical Rate for 2s.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate ↑
 
@@ -3186,25 +3186,25 @@ Attack Power ↑
 
 ID=50051
 Determined Resolve Lv1
-When hitting normal/elite monsters, 1% chance of Stun for 1s.
+On hit, normal/elite monsters, 1% chance of Stun for 1s.
 Icon/Buff/Icon_Common_Debuff_Stun
 Stunned
 
 ID=50061
 Dashing Sprint Lv1
-When registered, periodically, there is a 10% chance to increase movement speed by 10% for 2 sec.
+10% chance of +10% Movement Speed at fixed time intervals for 2s.
 Icon/Buff/Icon_Common_Buff_MSR
 Move Speed ↑
 
 ID=50081
 Sunbathing Lv1
-When equipped, 3% chance of +10% HP per second for 3s.
+3% chance of +10% HP per second for 3s.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=50071
-Mind’s Eye Lv1
-When hitting, 1% chance of -10% Accuracy, +20% Attack.
+Mind's Eye Lv1
+On hit, 1% chance of -10% Accuracy, +20% Attack.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
@@ -3221,14 +3221,14 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=50121
-Former Idol’s Merit Lv1
+Former Idol's Merit Lv1
 Cynthia dances, and restores HP to nearby allies.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=50141
 Self-recover power Lv.1
-When hitting, 1% chance of +10% Stamina.
+On hit, 1% chance of +10% Stamina.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +Stamina
 
@@ -3239,8 +3239,8 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=50161
-Victor’s Law Lv1
-When hitting, 1% chance of +20% Accuracy for 2s.
+Victor's Law Lv1
+On hit, 1% chance of +20% Accuracy for 2s.
 Icon/Buff/Icon_Common_Buff_Accuracy
 Accuracy↑
 
@@ -3252,7 +3252,7 @@ Invincible
 
 ID=50181
 Sky High Lv.1
-1% chance of recovering 5% Stamina when jumping.
+On jump, 1% chance of +5% Stamina.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +Stamina
 
@@ -3276,13 +3276,13 @@ Critical Rate ↑
 
 ID=50521
 Embark Service Lv1
-When registered, periodically recover 500 HP.
++500 HP at fixed time intervals.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=50541
 Quiet Smile Lv1
-When equipped, +200 HP per second for 3s.
++200 HP per second for 3s.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -3300,13 +3300,13 @@ Defense↑
 
 ID=53023
 Lethal Blow Ⅰ
-When hitting, 5% chance of +20% Critical Rate for 2s. (15s cooldown)
+On hit, 5% chance of +20% Critical Rate for 2s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53031
 Lethal Blow Ⅱ
-When hitting, 10% chance of +20% Critical Rate for 3s. (15s cooldown)
+On hit, 10% chance of +20% Critical Rate for 3s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
@@ -3324,7 +3324,7 @@ Attack Power ↑
 
 ID=53041
 All Your Might Ⅰ
-When hitting, 3% chance of Super Armor for 3s. (15s cooldown)
+On hit, 3% chance of Super Armor for 3s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Super Armor
 
@@ -3341,26 +3341,26 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
 ID=53051
-Mind’s Eye Ⅰ
-When hitting, 4% chance of +5% HP. (60s cooldown)
+Mind's Eye Ⅰ
+On hit, 4% chance of +5% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53052
-Mind’s Eye Ⅱ
-When hitting, 5% chance of +5% HP. (60s cooldown)
+Mind's Eye Ⅱ
+On hit, 5% chance of +5% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53053
 Attack Ceremony Ⅰ
-3% chance of Attack +10% for 2 seconds when jumping. (15 sec. cooldown)
+On jump, 3% chance of Attack +10% for 2s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53061
 Attack Ceremony Ⅱ
-5% chance of Attack +10% for 2 seconds when jumping. (15 sec. cooldown)
+On jump, 5% chance of Attack +10% for 2s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
@@ -3384,31 +3384,31 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53082
 Soul Jump Ⅰ
-10% chance of recovering 5% SG when jumping. (10 sec. cooldown)
+On jump, 10% chance of +5% SG. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53083
 Soul Jump Ⅱ
-10% chance of recovering 10% SG when jumping. (10 sec. cooldown)
+On jump, 10% chance of +5% SG. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53091
 Soul Jump Ⅲ
-10% chance of recovering 20% SG when jumping. (10 sec. cooldown)
+On jump, 10% chance of +20% SG. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53112
 Self Resilience Ⅰ
-When hitting, 5% chance of +5% Stamina. (10s cooldown)
+On hit, 5% chance of +5% Stamina. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53113
 Self Resilience Ⅱ
-When hitting, 5% chance of +10% Stamina. (10s cooldown)
+On hit, 5% chance of +10% Stamina. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
@@ -3425,14 +3425,14 @@ Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53123
-Victor’s Law Ⅰ
-When hitting, 4% chance of +200 Accuracy for 2s. (15s cooldown)
+Victor's Law Ⅰ
+On hit, 4% chance of +200 Accuracy for 2s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
 ID=53131
-Victor’s Law Ⅱ
-When hitting, 5% chance of +250 Accuracy for 2s. (15s cooldown)
+Victor's Law Ⅱ
+On hit, 5% chance of +250 Accuracy for 2s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
@@ -3444,7 +3444,7 @@ Invincible
 
 ID=53133
 Sky High Ⅰ
-10% chance of recovering 5% Stamina when jumping. (10 sec. cooldown)
+On jump, 10% chance of +5% Stamina. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
@@ -3480,13 +3480,13 @@ Critical Rate ↑
 
 ID=53153
 Quadruple Fierce Attack Ⅰ
-When hitting, 10% chance of +10% Attack Speed for 3s. (10s cooldown)
+On hit, 10% chance of +10% Attack Speed for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53161
 Quadruple Fierce Attack ⅠⅠ
-When hitting, 10% chance of +10% Attack Speed for 5s. (10s cooldown)
+On hit, 10% chance of +10% Attack Speed for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
@@ -3509,20 +3509,20 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
 ID=53172
-Extraordinary Commander’s Dignity
-When evading, there is a 20% chance to recover 5% HP. (Cooldown: 15 sec)
+Extraordinary Commander's Dignity
+On evasion, 20% chance of +5% HP. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53173
 Surprise Attack Pro Ⅰ
-When landing a critical attack, there is a 5% chance to recover 10% SG (Cooldown: 20 sec)
+On critical hit, 5% chance of +10% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53181
 Surprise Attack Pro Ⅱ
-During a critical attack, there is a 10% chance of recovering 20% SG. (Cooldown: 15 sec)
+On critical hit, 10% chance of +20% SG. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
@@ -3540,13 +3540,13 @@ Attack Power ↑
 
 ID=53201
 Thunderous Roar Ⅰ
-When hitting mid-air, 50% chance of +3% HP. (40s cooldown)
+On mid-air hit, 50% chance of +3% HP. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53202
 Thunderous Roar Ⅱ
-When hitting mid-air, 50% chance of +6% HP. (30s cooldown)
+On mid-air hit, 50% chance of +6% HP. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
@@ -3557,14 +3557,14 @@ Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53211
-Bird Monster’s Wing Ⅰ
-When hitting, 15% chance of +50% Defense for 3s. (10s cooldown)
+Bird Monster's Wing Ⅰ
+On hit, 15% chance of +50% Defense for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
 ID=53212
-Bird Monster’s Wing Ⅱ
-When hitting, 20% chance of +50% Defense for 3s. (10s cooldown)
+Bird Monster's Wing Ⅱ
+On hit, 20% chance of +50% Defense for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
@@ -3594,13 +3594,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53231
 Soul Drain Ⅰ
-When hitting, 4% chance of +10% SG. (30s cooldown)
+On hit, 4% chance of +10% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53232
 Soul Drain Ⅱ
-When hitting, 5% chance of +10% SG. (30s cooldown)
+On hit, 5% chance of +10% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
@@ -3660,7 +3660,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53301
 Suicidal Attack Ⅰ
-When hitting, -50% Defense, +15% Attack for 5s. (30s cooldown)
+On hit, -50% Defense, +15% Attack for 5s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
@@ -3744,7 +3744,7 @@ Move Speed ↑
 
 ID=53353
 Business Energy Ⅰ
-When defeating an enemy, there is a 10% chance to recover 10% SG (Cooldown: 1 min)
+On enemy death, 10% chance of +10% SG. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
@@ -3762,13 +3762,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53363
 Silent Assassin Ⅰ
-After defeating an enemy, 10% chance of ATK SPD +5% for 3 sec. (15 sec. Cooldown)
+On enemy death, 10% chance of +% Attack Speed for 3s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53371
 Silent Assassin Ⅱ
-After defeating an enemy, 10% chance of ATK SPD +5% for 5 sec. (10 sec. Cooldown)
+On enemy death, 10% chance of +% Attack Speed for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
@@ -3791,14 +3791,14 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Invincible
 
 ID=53392
-Peach Ochard’s Vows Ⅰ
+Peach Ochard's Vows Ⅰ
 During a critical hit, there is a 5% chance of ATK+ 10% for 5 sec, but move speed -50%. (Cooldown: 10 sec)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53403
 Silent Healing Ⅰ
-When hitting mid-air, +5% Stamina. (60s cooldown)
+On mid-air hit, +5% Stamina. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
@@ -3810,67 +3810,67 @@ Attack Speed ↑
 
 ID=53412
 High Heels Mood Ⅰ
-Movement speed +10% for 5 seconds when jumping. (10 sec. cooldown)
+On jump, +10% Movement speed for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
 ID=53413
-Messenger’s Flower Ⅰ
+Messenger's Flower Ⅰ
 When SA breaks, +10% Attack for 5s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53421
-Messenger’s Flower Ⅱ
+Messenger's Flower Ⅱ
 When SA breaks, +15% Attack for 10s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53422
-Newton’s 3rd Law Ⅰ
+Newton's 3rd Law Ⅰ
 When critically hit, 20% chance of +10% Attack for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53423
 Hit & Away Ⅰ
-30% chance of evasion +100 for 5 sec. after an enemy fails to hit with an attack. (1 min. CD)
+On fail hit, 30% chance of +100 Evasion for 5s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Evasion↑
 
 ID=53431
 Impenetrable Armor Ⅰ
-40% chance of Defense +20% for 5 seconds after an ally uses a skill. (20 sec. cooldown)
+On ally skill use, 40% chance of +20% Defense for 5s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
 ID=53432
 Impenetrable Armor Ⅱ
-40% chance of Defense +30% for 5 seconds after an ally uses a skill. (20 sec. cooldown)
+On ally skill use, 40% chance of +30% Defense for 5s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
 ID=53433
 Blown Off Ⅰ
-When hitting, 10% chance of +5% Movement&Attack Speed for 3s. (10s cooldown)
+On hit, 10% chance of +5% Movement&Attack Speed for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53441
 Blown Off Ⅱ
-When hitting, 10% chance of +5% Movement&Attack Speed for 5s. (10s cooldown)
+On hit, 10% chance of +5% Movement&Attack Speed for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53442
 Combat Type Analysis Ⅰ
-10% chance of Accuracy +500 for 5 seconds after using a skill. (10 sec. cooldown)
+On skill use, 10% chance of +500 Accuracy for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
 ID=53443
 Combat Type Analysis Ⅱ
-10% chance of Accuracy +600 for 5 seconds after using a skill. (10 sec. cooldown)
+On skill use, 10% chance of +600 Accuracy for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
@@ -3888,24 +3888,24 @@ Attack Power ↑
 
 ID=53453
 Bloody Revenge Ⅰ
-When an ally is near-dead, there is a 50% chance of increasing ATK by 30% for 10 sec. (Cooldown: 10 sec)
+On ally low HP, 50% chance of +30% Attack for 10s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53461
 Bloody Revenge Ⅱ
-When an ally is near-dead, there is a 60% chance of increasing ATK by 40% for 10 sec. (Cooldown: 10 sec)
+On ally low HP, 60% chance of +40% Attack for 10s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53462
-Otaku’s Potential Ⅰ
+Otaku's Potential Ⅰ
 When hit, 5% chance of +3% HP&SG per second for 2s. (45s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53463
-Otaku’s Potential Ⅱ
+Otaku's Potential Ⅱ
 When hit, 5% chance of +4% HP&SG per second for 3s. (45s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
@@ -3924,7 +3924,7 @@ Attack Power ↑
 
 ID=53483
 Plunderer Ⅰ
-When a monster dies, +10% SG. (30s cooldown)
+On monster death, +10% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
@@ -3978,73 +3978,73 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53533
 Fighters' Bonds Ⅰ
-Increase Max HP by 15%.
++15% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53534
 Fighters' Bonds I
-Increase Max HP by 20%.
++20% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53535
 Fighters' Bonds I
-Increase Max HP by 25%.
++25% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53536
 Fighters' Bonds Ⅰ
-Increase Max HP by 20%.
++20% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53537
 Fighters' Bonds I
-Increase Max HP by 25%.
++25% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53538
 Fighters' Bonds I
-Increase Max HP by 30%.
++30% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53539
 Fatal Fist Fight Ⅰ
-Attack Power Increase +4% and Critical Rate Increase +1% 
++4% Attack, +1% Critical Rate.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack↑
 
 ID=53540
 Fatal Fist Fight Ⅱ
-Attack Power Increase +5% and Critical Rate Increase +1% 
++5% Attack, +1% Critical Rate.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack↑
 
 ID=53541
 Fatal Fist Fight Ⅲ
-Attack Power Increase +6% and Critical Rate Increase +2% 
++6% Attack, +2% Critical Rate.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack↑
 
 ID=53542
 Fatal Fist Fight Ⅰ
-Attack Power Increase +4% and Critical Rate Increase +2% 
++4% Attack, +2% Critical Rate.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack↑
 
 ID=53543
 Fatal Fist Fight Ⅱ
-Attack Power Increase +6% and Critical Rate Increase +2% 
++6% Attack, +2% Critical Rate.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack↑
 
 ID=53544
 Fatal Fist Fight Ⅲ
-Attack Power Increase +8% and Critical Rate Increase +3% 
++8% Attack, +3% Critical Rate.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack↑
 
@@ -4122,37 +4122,37 @@ Defense↑
 
 ID=53557
 Influential Mystery Ⅰ
-When an enemy is defeated, acquired Zenny is increased by +5%
+On monster death, +5% more Zenny.
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53558
 Influential Mystery Ⅱ
-When an enemy is defeated, acquired Zenny is increased by +10%
+On monster death, +10% more Zenny.
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53559
 Influential Mystery Ⅲ
-When an enemy is defeated, acquired Zenny is increased by +15%
+On monster death, +15% more Zenny.
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53560
 Influential Mystery Ⅰ
-When an enemy is defeated, acquired Zenny is increased by +10%
+On monster death, +10% more Zenny.
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53561
 Influential Mystery Ⅱ
-When an enemy is defeated, acquired Zenny is increased by +15%
+On monster death, +15% more Zenny.
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53562
 Influential Mystery Ⅲ
-When an enemy is defeated, acquired Zenny is increased by +20%
+On monster death, +20% more Zenny.
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
@@ -4194,37 +4194,37 @@ Defense↑
 
 ID=53569
 Lethal Blow Ⅰ
-When hitting, 5% chance of +20% Critical Rate for 2.5s. (10s cooldown)
+On hit, 5% chance of +20% Critical Rate for 2.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53570
 Lethal Blow Ⅱ
-When hitting, 10% chance of +20% Critical Rate for 3.5s. (10s cooldown)
+On hit, 10% chance of +20% Critical Rate for 3.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53571
 Lethal Blow Ⅲ
-When hitting, 15% chance of +20% Critical Rate for 4.5s. (10s cooldown)
+On hit, 15% chance of +20% Critical Rate for 4.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53572
 Lethal Blow Ⅰ
-When hitting, 10% chance of +20% Critical Rate for 2.5s. (10s cooldown)
+On hit, 10% chance of +20% Critical Rate for 2.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53573
 Lethal Blow Ⅱ
-When hitting, 15% chance of +20% Critical Rate for 3.5s. (10s cooldown)
+On hit, 15% chance of +20% Critical Rate for 3.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
 ID=53574
 Lethal Blow Ⅲ
-When hitting, 20% chance of +20% Critical Rate for 4.5s. (10s cooldown)
+On hit, 20% chance of +20% Critical Rate for 4.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
@@ -4301,110 +4301,110 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
 ID=53587
-Mind’s Eye Ⅰ
-When hitting, 7% chance of +10% HP. (60s cooldown)
+Mind's Eye Ⅰ
+On hit, 7% chance of +10% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53588
-Mind’s Eye Ⅱ
-When hitting, 12% chance of +10% HP. (60s cooldown)
+Mind's Eye Ⅱ
+On hit, 12% chance of +10% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53589
-Mind’s Eye Ⅲ
-When hitting, 17% chance of +10% HP. (60s cooldown)
+Mind's Eye Ⅲ
+On hit, 17% chance of +10% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53590
-Mind’s Eye Ⅰ
-When hitting, 9% chance of +10% HP. (60s cooldown)
+Mind's Eye Ⅰ
+On hit, 9% chance of +10% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53591
-Mind’s Eye Ⅱ
-When hitting, 14% chance of +10% HP. (60s cooldown)
+Mind's Eye Ⅱ
+On hit, 14% chance of +10% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53592
-Mind’s Eye Ⅲ
-When hitting, 19% chance of +10% HP. (60s cooldown)
+Mind's Eye Ⅲ
+On hit, 19% chance of +10% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53593
 Attack Ceremony Ⅰ
-15% chance of Attack +10% for 4 seconds when jumping. (15 sec. cooldown)
+On jump, 15% chance of +10% Attack for 4s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53594
 Attack Ceremony Ⅱ
-20% chance of Attack +10% for 4 seconds when jumping. (15 sec. cooldown)
+On jump, 20% chance of +10% Attack for 4s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53595
 Attack Ceremony Ⅲ
-25% chance of Attack +10% for 4 seconds when jumping. (15 sec. cooldown)
+On jump, 25% chance of +10% Attack for 4s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53596
 Attack Ceremony Ⅰ
-20% chance of Attack +10% for 4 seconds when jumping. (15 sec. cooldown)
+On jump, 20% chance of +10% Attack for 4s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53597
 Attack Ceremony Ⅱ
-25% chance of Attack +10% for 4 seconds when jumping. (15 sec. cooldown)
+On jump, 25% chance of +10% Attack for 4s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53598
 Attack Ceremony Ⅲ
-30% chance of Attack +10% for 4 seconds when jumping. (15 sec. cooldown)
+On jump, 30% chance of +10% Attack for 4s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53599
 Self Resilience Ⅰ
-When hitting, 5% chance of +7% Stamina.
+On hit, 5% chance of +7% Stamina.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53600
 Self Resilience Ⅱ
-When hitting, 5% chance of +12% Stamina.
+On hit, 5% chance of +12% Stamina.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53601
 Self Resilience Ⅲ
-When hitting, 5% chance of +17% Stamina.
+On hit, 5% chance of +17% Stamina.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53602
 Self Resilience Ⅰ
-When hitting, 5% chance of +9% Stamina.
+On hit, 5% chance of +9% Stamina.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53603
 Self Resilience Ⅱ
-When hitting, 5% chance of +14% Stamina.
+On hit, 5% chance of +14% Stamina.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53604
 Self Resilience Ⅲ
-When hitting, 5% chance of +19% Stamina.
+On hit, 5% chance of +19% Stamina.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
@@ -4445,38 +4445,38 @@ Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53611
-Victor’s Law Ⅰ
-When hitting, 7% chance of +200 Accuracy for 4s. (10s cooldown)
+Victor's Law Ⅰ
+On hit, 7% chance of +200 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
 ID=53612
-Victor’s Law Ⅱ
-When hitting, 7% chance of +250 Accuracy for 4s. (10s cooldown)
+Victor's Law Ⅱ
+On hit, 7% chance of +250 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
 ID=53613
-Victor’s Law Ⅲ
-When hitting, 7% chance of +300 Accuracy for 4s. (10s cooldown)
+Victor's Law Ⅲ
+On hit, 7% chance of +300 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
 ID=53614
-Victor’s Law Ⅰ
-When hitting, 9% chance of +250 Accuracy for 4s. (10s cooldown)
+Victor's Law Ⅰ
+On hit, 9% chance of +250 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
 ID=53615
-Victor’s Law Ⅱ
-When hitting, 9% chance of +300 Accuracy for 4s. (10s cooldown)
+Victor's Law Ⅱ
+On hit, 9% chance of +300 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
 ID=53616
-Victor’s Law Ⅲ
-When hitting, 9% chance of +350 Accuracy for 4s. (10s cooldown)
+Victor's Law Ⅲ
+On hit, 9% chance of +350 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
@@ -4554,37 +4554,37 @@ Attack Power ↑
 
 ID=53629
 Quadruple Fierce Attack Ⅰ
-When hitting, 15% chance of +3% Attack Speed for 2.5s. (max 3 stacks)
+On hit, 15% chance of +3% Attack Speed for 2.5s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53630
 Quadruple Fierce Attack ⅠⅠ
-When hitting, 15% chance of +3% Attack Speed for 3s. (max 3 stacks)
+On hit, 15% chance of +3% Attack Speed for 3s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53631
 Quadruple Fierce Attack ⅠⅠⅠ
-When hitting, 15% chance of +3% Attack Speed for 3.5s. (max 3 stacks)
+On hit, 15% chance of +3% Attack Speed for 3.5s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53632
 Quadruple Fierce Attack Ⅰ
-When hitting, 15% chance of +5% Attack Speed for 2.5s. (max 3 stacks)
+On hit, 15% chance of +5% Attack Speed for 2.5s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53633
 Quadruple Fierce Attack ⅠⅠ
-When hitting, 15% chance of +5% Attack Speed for 3.5s. (max 3 stacks)
+On hit, 15% chance of +5% Attack Speed for 3.5s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53634
 Quadruple Fierce Attack ⅠⅠⅠ
-When hitting, 15% chance of +5% Attack Speed for 4.5s. (max 3 stacks)
+On hit, 15% chance of +5% Attack Speed for 4.5s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
@@ -4626,25 +4626,25 @@ Accuracy↑
 
 ID=53641
 Radiant
-This card is used for boosting the A.R. card’s EXP for further card synthesis. There are no applicable status effects to this card.
+This card is used for boosting the A.R. card's EXP for further card synthesis. There are no applicable status effects to this card.
 0
 0
 
 ID=53642
 Stomach Panpan
-This card purchased from the item mall is used for doubling the A.R. card’s EXP earned during card synthesis. There are no applicable status effects to this card.
+This card purchased from the item mall is used for doubling the A.R. card's EXP earned during card synthesis. There are no applicable status effects to this card.
 0
 0
 
 ID=53643
 Stomach Panpan
-This card purchased from the item mall is used for tripling he A.R. card’s EXP earned during card synthesis. There are no applicable status effects to this card.
+This card purchased from the item mall is used for tripling he A.R. card's EXP earned during card synthesis. There are no applicable status effects to this card.
 0
 0
 
 ID=53651
 Fight
-Increase Max HP by 5%.
++5% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
@@ -4721,110 +4721,110 @@ Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53664
-Bird Monster’s Wing Ⅰ
-When hitting, 10% chance for next attack to deal +5% Damage. (8s cooldown)
+Bird Monster's Wing Ⅰ
+On hit, 10% chance for next attack to deal +5% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53665
-Bird Monster’s Wing Ⅱ
-When hitting, 10% chance for next attack to deal +7% Damage. (8s cooldown)
+Bird Monster's Wing Ⅱ
+On hit, 10% chance for next attack to deal +7% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53666
-Bird Monster’s Wing Ⅲ
-When hitting, 10% chance for next attack to deal +10% Damage. (8s cooldown)
+Bird Monster's Wing Ⅲ
+On hit, 10% chance for next attack to deal +10% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53667
-Bird Monster’s Wing Ⅰ
-When hitting, 10% chance for next attack to deal +6% Damage. (8s cooldown)
+Bird Monster's Wing Ⅰ
+On hit, 10% chance for next attack to deal +6% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53668
-Bird Monster’s Wing Ⅱ
-When hitting, 10% chance for next attack to deal +10% Damage. (8s cooldown)
+Bird Monster's Wing Ⅱ
+On hit, 10% chance for next attack to deal +10% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53669
-Bird Monster’s Wing Ⅲ
-When hitting, 10% chance for next attack to deal +15% Damage. (8s cooldown)
+Bird Monster's Wing Ⅲ
+On hit, 10% chance for next attack to deal +15% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53670
 Material Conversion Ⅰ
-4 seconds of Attack Power +20% upon picking up items. (Cooldown for 30 seconds)
+When obtaining an item, +20% Attack for 4s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53671
 Material Conversion Ⅱ
-7 seconds of Attack Power +20% upon picking up items. (Cooldown for 30 seconds)
+When obtaining an item, +20% Attack for 7s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53672
 Material Conversion Ⅲ
-11 seconds of Attack Power +20% upon picking up items. (Cooldown for 30 seconds)
+When obtaining an item, +20% Attack for 11s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53673
 Material Conversion Ⅰ
-4 seconds of Attack Power +25% upon picking up items. (Cooldown for 30 seconds)
+When obtaining an item, +25% Attack for 4s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53674
 Material Conversion Ⅱ
-7 seconds of Attack Power +25% upon picking up items. (Cooldown for 30 seconds)
+When obtaining an item, +25% Attack for 7s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53675
 Material Conversion Ⅲ
-11 seconds of Attack Power +25% upon picking up items. (Cooldown for 30 seconds)
+When obtaining an item, +25% Attack for 11s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53676
 Soul Drain Ⅰ
-When hitting, 10% chance of +10% SG. (20s cooldown)
+On hit, 10% chance of +10% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53677
 Soul Drain Ⅱ
-When hitting, 10% chance of +15% SG. (20s cooldown)
+On hit, 10% chance of +15% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53678
 Soul Drain Ⅲ
-When hitting, 15% chance of +20% SG. (15s cooldown)
+On hit, 15% chance of +20% SG. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53679
 Soul Drain Ⅰ
-When hitting, 15% chance of +15% SG. (20s cooldown)
+On hit, 15% chance of +15% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53680
 Soul Drain Ⅱ
-When hitting, 15% chance of +20% SG. (20s cooldown)
+On hit, 15% chance of +20% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53681
 Soul Drain Ⅲ
-When hitting, 20% chance of +25% SG. (15s cooldown)
+On hit, 20% chance of +25% SG. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
@@ -4866,73 +4866,73 @@ Attack Power ↑
 
 ID=53688
 Dancing Shadow Ⅰ
-When equipped, +5% Attack.
++5% Attack.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53689
 Dancing Shadow Ⅱ
-When equipped, +7% Attack.
++7% Attack.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53690
 Dancing Shadow Ⅲ
-When equipped, +10% Attack.
++10% Attack.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53691
 Dancing Shadow Ⅰ
-When equipped, +6% Attack.
++6% Attack.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53692
 Dancing Shadow Ⅱ
-When equipped, +9% Attack.
++9% Attack.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53693
 Dancing Shadow Ⅲ
-When equipped, +13% Attack.
++13% Attack.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53694
 Maximized Shield Ⅰ
-When equipped, +8% Maximum HP.
++8% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53695
 Maximized Shield Ⅱ
-When equipped, +13% Maximum HP.
++13% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53696
 Maximized Shield Ⅲ
-When equipped, +18% Maximum HP.
++18% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53697
 Maximized Shield Ⅰ
-When equipped, +12% Maximum HP.
++12% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53698
 Maximized Shield Ⅱ
-When equipped, +17% Maximum HP.
++17% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
 ID=53699
 Maximized Shield Ⅲ
-When equipped, +22% Maximum HP.
++22% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
 
@@ -5022,7 +5022,7 @@ Attack Speed ↑
 
 ID=55109
 Vampire
-When hitting, +(2% of damage) HP over 5s.
+On hit, +(2% of damage) HP over 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Vampire
 
@@ -5100,7 +5100,7 @@ Attack Speed ↑
 
 ID=55122
 Vampire
-When hitting, +(2% of damage) HP over 10s.
+On hit, +(2% of damage) HP over 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Vampire
 

@@ -431,7 +431,7 @@ ID=317
 Ether:
 
 ID=318
-Dismantle Mode
+Dismantle
 
 ID=325
 Are you sure you want to expand your inventory slots?
@@ -866,7 +866,7 @@ ID=510
 Revive
 
 ID=511
-※<font color='#F15F5F'>For leaving the battle</font>, in<font size='15' color='#F7AE54'>{0}</font> seconds, you’ll be <font color='#F15F5F'>moved to the town</font>.
+※<font color='#F15F5F'>For leaving the battle</font>, in<font size='15' color='#F7AE54'>{0}</font> seconds, you'll be <font color='#F15F5F'>moved to the town</font>.
 
 ID=512
 Forfeit
@@ -890,7 +890,7 @@ ID=518
 ※<font color='#FFBB00'>Since you have no [Greater Accident Call],</font>you are not able to revive.
 
 ID=519
-該当エリアでは復活できません。
+Cannot resurrect in current area.
 
 ID=521
 Leave
@@ -1880,7 +1880,7 @@ ID=965
 Enhancing this item can destroy the item upon failure.
 
 ID=966
-Protection items.\nUsable up to +4.
+Protection items.\nUsable above +4.
 
 ID=967
 Enhance
@@ -2399,7 +2399,7 @@ ID=2123
 CH{0}
 
 ID=2124
-Friend’s Request\nYou have a friend request from {0}\nDo you accept?
+Friend's Request\nYou have a friend request from {0}\nDo you accept?
 
 ID=2125
 {0} has been registered as a friend.
@@ -2612,7 +2612,7 @@ ID=2282
 Are you sure you want to delete all selected mails?\n(Unread mails or mails with attached items or zenny will not be deleted)
 
 ID=2283
-Email {0} was deleted.
+{0} mails were deleted.
 
 ID=2500
 Community
@@ -3158,7 +3158,7 @@ ID=5313
 A deleted character cannot be recovered.\nAs a guild master, the guild will be disbanded.\nAre you sure you want to delete this character?
 
 ID=5314
-A deleted character cannot be recovered.\nThe guild leader’s position will be revoked.\nAre you sure you want to delete this character?
+A deleted character cannot be recovered.\nThe guild leader's position will be revoked.\nAre you sure you want to delete this character?
 
 ID=5315
 Characters can only be deleted 24 hours after creation.\nRemaining: {0} hours {1} minutes
@@ -3317,10 +3317,10 @@ ID=5519
 Character Style Settings
 
 ID=5800
-<font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought in each town’s <font color='#00ff9c'>Equipment Shop</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought in each town's <font color='#00ff9c'>Equipment Shop</font>.
 
 ID=5801
-<font color='#FFFFFF' size='30'>TIP: </font>Basic consumable items can be bought in each town’s <font color='#00ff9c'>General Merchant Shop</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Basic consumable items can be bought in each town's <font color='#00ff9c'>General Merchant Shop</font>.
 
 ID=5802
 <font color='#FFFFFF' size='30'>TIP: </font>Various shops in towns can <font color='#00D8FF'>[Repair]</font> your equipment or <font color='#00D8FF'>[Dismantle]</font> them.
@@ -3359,13 +3359,13 @@ ID=5813
 <font color='#FFFFFF' size='30'>TIP: </font>Registering a HOLD type <font color='#00D8FF'>A.R card</font> into your slot will allow it to activate passively.
 
 ID=5814
-<font color='#FFFFFF' size='30'>TIP: </font>When a new quest is available, a <font color='#fff94a'>[<font size='30'>！</font>]</font> mark will appear above an NPC’s head. A <font color='#fff94a'>[<font size='30'>？</font>]</font> mark will appear for quests that are ready to be handed in.\nIt will also be displayed on your minimap.
+<font color='#FFFFFF' size='30'>TIP: </font>When a new quest is available, a <font color='#fff94a'>[<font size='30'>！</font>]</font> mark will appear above an NPC's head. A <font color='#fff94a'>[<font size='30'>？</font>]</font> mark will appear for quests that are ready to be handed in.\nIt will also be displayed on your minimap.
 
 ID=5815
 <font color='#FFFFFF' size='30'>TIP: </font>Accepted quests will appear on your <font color='#00D8FF'>Quest Tracker</font>. Quest information can be viewed by pressing <font color='#00ff9c'>[J]</font> to open the Quest window.
 
 ID=5816
-<font color='#FFFFFF' size='30'>TIP: </font>The game’s settings can be changed by pressing the <font color='#00ff9c'>[ESC]</font> key and going to the <font color='#00D8FF'>[System Settings]</font> button.
+<font color='#FFFFFF' size='30'>TIP: </font>The game's settings can be changed by pressing the <font color='#00ff9c'>[ESC]</font> key and going to the <font color='#00D8FF'>[System Settings]</font> button.
 
 ID=5817
 <font color='#FFFFFF' size='30'>TIP: </font>Open the community list by pressing <font color='#00ff9c'>[O]</font>. You can manage your <font color='#00D8FF'>[Friend List]</font> there.
@@ -3506,10 +3506,10 @@ ID=5862
 <font color='#FFFFFF' size='30'>TIP: </font> Entering <font color='#00D8FF'>Very Hard</font> mode dungeons features stronger enemies and better rewards.
 
 ID=5863
-<font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought in each town’s <font color='#00ff9c'>Equipment Shop</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought in each town's <font color='#00ff9c'>Equipment Shop</font>.
 
 ID=5864
-<font color='#FFFFFF' size='30'>TIP: </font>Basic consumable items can be bought in each town’s <font color='#00ff9c'>General Merchant Shop</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Basic consumable items can be bought in each town's <font color='#00ff9c'>General Merchant Shop</font>.
 
 ID=5865
 <font color='#FFFFFF' size='30'>TIP: </font>Various shops in towns can <font color='#00D8FF'>[Repair]</font> your equipment or <font color='#00D8FF'>[Dismantle]</font> them.
@@ -3548,7 +3548,7 @@ ID=5876
 <font color='#FFFFFF' size='30'>TIP: </font>Registering a HOLD type <font color='#00D8FF'>A.R card</font> into your slot will allow it to activate passively.
 
 ID=5877
-<font color='#FFFFFF' size='30'>TIP: </font>When a new quest is available, a <font color='#fff94a'>[<font size='30'>！</font>]</font> mark will appear above an NPC’s head. A <font color='#fff94a'>[<font size='30'>？</font>]</font> mark will appear for quests that are ready to be handed in.\nIt will also be displayed on your minimap.
+<font color='#FFFFFF' size='30'>TIP: </font>When a new quest is available, a <font color='#fff94a'>[<font size='30'>！</font>]</font> mark will appear above an NPC's head. A <font color='#fff94a'>[<font size='30'>？</font>]</font> mark will appear for quests that are ready to be handed in.\nIt will also be displayed on your minimap.
 
 ID=5878
 <font color='#FFFFFF' size='30'>TIP: </font>Accepted quests will appear on your <font color='#00D8FF'>Quest Tracker</font>. Quest information can be viewed by pressing <font color='#00ff9c'>[J]</font> to open the Quest window.
@@ -3668,7 +3668,7 @@ ID=6021
 Do you want to rent {0} {1} A.R card(s)?\n You can rent them for {2} hours for {4} Zenny. You currently have {3} Zenny.
 
 ID=6022
-Did not select Friend’s A.R card.
+Did not select Friend's A.R card.
 
 ID=6023
 An additional {0} Zenny was required due to the A.R card rental.
@@ -3926,7 +3926,7 @@ ID=8310
 Login Check Reward
 
 ID=8311
-You have received today’s login reward.
+You have received today's login reward.
 
 ID=8312
 Daily Login Reward Check
@@ -4292,10 +4292,10 @@ ID=10031
 Trial for Starry Forest League Membership\nComplete Basic Combat Training.\nProceed with the trial.
 
 ID=10032
-Rocco’s City Construction has been suspended.\nThe Soul NED Company occupies the underground.\nAnnexation of construction site attempted.
+Rocco's City Construction has been suspended.\nThe Soul NED Company occupies the underground.\nAnnexation of construction site attempted.
 
 ID=10033
-The abandoned 7th Avenue of Rocco Town.\nProtect the town against Edgar’s combat puppets,\nstop the giant exploding puppet,\nand prevent the destruction of Rocco Town.
+The abandoned 7th Avenue of Rocco Town.\nProtect the town against Edgar's combat puppets,\nstop the giant exploding puppet,\nand prevent the destruction of Rocco Town.
 
 ID=10034
 Edgar, the mad Veshi, has\nmade the hospital into his own personal circus\nand is a danger to everyone.
@@ -4310,7 +4310,7 @@ ID=10041
 NED Company has been conducting secret research in their secret research facility.\nIt has been shut down due to the recent incident.
 
 ID=10042
-The Veshi’s Rapid Flame Faction has\ntaken over the highways on the outskirts of Candus City.\nIn order to reclaim the occupied area, the Starry Forest League will execute a joint-operation with NED Company.
+The Veshi's Rapid Flame Faction has\ntaken over the highways on the outskirts of Candus City.\nIn order to reclaim the occupied area, the Starry Forest League will execute a joint-operation with NED Company.
 
 ID=10043
 The western branch of NED Company is being\noccupied by the Rapid Flame Faction led by the breezy witch named\n「Poison」.
@@ -4319,13 +4319,13 @@ ID=10044
 A giant transport plane located underneath Candus City has been prepared by the NED Company for evacuation purposes.\nThe plane is currently ready to take off.
 
 ID=10051
-What used to be small town located outside the walls of Grace City.\nDue to the Rapid Flame Faction’s new weapon, it is now in ruin.\nThe Starry Forest League hopes to get a glimpse of the new weapon while scouting.
+What used to be small town located outside the walls of Grace City.\nDue to the Rapid Flame Faction's new weapon, it is now in ruin.\nThe Starry Forest League hopes to get a glimpse of the new weapon while scouting.
 
 ID=10052
 On the front lines of the all out war between the Starry Forest League and the Rapid Flame Faction,\n the S.F.L. hopes to recapture the area with a counter offensive.
 
 ID=10053
-The Starry Forest League plans to unleash a surprise attack on the Rapid Flame’s location by using the underground sewers connecting from Grace City.
+The Starry Forest League plans to unleash a surprise attack on the Rapid Flame's location by using the underground sewers connecting from Grace City.
 
 ID=10054
 The Starry Forest League has discovered the evident secret agreement between the NED Company and the Rapid Flame Faction.\nThe S.F.L. is considering a plan to neutralize the NED military compound.
@@ -4373,7 +4373,7 @@ ID=10090
 Use the last escape route in N-102 after activating the time bomb. Defeat the mighty 「Beholder」blocking you to clear the way.
 
 ID=10091
-NED Company’s ambition was a forbidden experiment on living people.\nLet’s prevent their wretched plan of mass producing Soulworkers, and put all the victims to rest.
+NED Company's ambition was a forbidden experiment on living people.\nLet's prevent their wretched plan of mass producing Soulworkers, and put all the victims to rest.
 
 ID=10092
 This is another passageway to Acheron, where the strongest unmanned robot was waiting to be completed. The unmanned robot that has woken up must be defeated, and the mission must be completed.
@@ -4391,7 +4391,7 @@ ID=10096
 0
 
 ID=10097
-The remains of Soul Junk horde and Edgar’s Puppet army has invaded Rocco Town yet again. Amidst the deep fog and flames, we must protect Rocco Town at all costs.
+The remains of Soul Junk horde and Edgar's Puppet army has invaded Rocco Town yet again. Amidst the deep fog and flames, we must protect Rocco Town at all costs.
 
 ID=10098
 0
@@ -4508,7 +4508,7 @@ ID=10314
 Hidden Predator
 
 ID=10315
-A Beast’s Determination
+A Beast's Determination
 
 ID=10316
 Greedy Wolf
@@ -4553,7 +4553,7 @@ ID=10335
 Clown of Blue Flames
 
 ID=10336
-Lunatic’s Moonlight Dance
+Lunatic's Moonlight Dance
 
 ID=10341
 Bad Premonition
@@ -4700,7 +4700,7 @@ ID=10454
 Hundred Swords
 
 ID=10461
-A Girl’s World
+A Girl's World
 
 ID=10462
 Uninvited Guest
@@ -4709,7 +4709,7 @@ ID=10463
 The Lonely Child
 
 ID=10464
-Lucy’s Punishment!
+Lucy's Punishment!
 
 ID=10471
 Rusted Heart
@@ -4910,19 +4910,19 @@ ID=15000
 The place where a member of Starry Forest League tests their battle ability. \nThe robot remodeled for tests waits for a member of the Starry Forest League.
 
 ID=15001
-To help the children, Miriam runs to the bowling site where construction was stopped. But it’s isolated due to the attacks of the soul junk which showed suddenly...
+To help the children, Miriam runs to the bowling site where construction was stopped. But it's isolated due to the attacks of the soul junk which showed suddenly...
 
 ID=15002
-“Dread”, the Soul Junk which moves around the bowling site .\nThe main culprit destroyed a hospital in Warren, which in turn pushed Rocco Town \nover in fear of an infectious disease. I’ll take care of it before it spreads.
+“Dread”, the Soul Junk which moves around the bowling site .\nThe main culprit destroyed a hospital in Warren, which in turn pushed Rocco Town \nover in fear of an infectious disease. I'll take care of it before it spreads.
 
 ID=15003
-I have come to the bowling site by Miriam’s request.\nI have to find and rescue the survivors who were isolated by the \nSoul Junk.
+I have come to the bowling site by Miriam's request.\nI have to find and rescue the survivors who were isolated by the \nSoul Junk.
 
 ID=15004
-Ryu went to the site alone in order to verify the information which showed an awakening body. I don’t know what’s going to happen.\n I will join him quickly.
+Ryu went to the site alone in order to verify the information which showed an awakening body. I don't know what's going to happen.\n I will join him quickly.
 
 ID=15005
-The Clown’s invitation leads toward the Street Plaza. \nWhat kind of present waits for me there?
+The Clown's invitation leads toward the Street Plaza. \nWhat kind of present waits for me there?
 
 ID=15006
 The streets of the square are almost filled with dolls. \nWhat was once a vibrant town \nhad now become a town dominated by emotionless dolls.
@@ -4934,7 +4934,7 @@ ID=15008
 Operation [Shield]. The dangerous strategy which lures the Big Puppet out directly and makes it disintegrate itself in the safety shield. This strategy is a must in order to succeed.
 
 ID=15009
-New dolls appeared. \nThe search party that went on to investigate didn’t return... which gives \nme an unpleasant hunch.
+New dolls appeared. \nThe search party that went on to investigate didn't return... which gives \nme an unpleasant hunch.
 
 ID=15010
 People that became dolls, \n an eerie tower, and dolls that are moving restlessly... \n These dolls... why on earth is a doll building a tower?
@@ -4946,10 +4946,10 @@ ID=15012
 The doll speaks of the code name [Jack King]. \nThe only way to break through this situation is to beat the Jack King.
 
 ID=15013
-I finally found the weak point of the [Clown of Blue Flame]. \nHe set up camp in the Hospital Ruins near Rocco Town. I’ll look for the advance party and chase down the Clown of Blue Flame.
+I finally found the weak point of the [Clown of Blue Flame]. \nHe set up camp in the Hospital Ruins near Rocco Town. I'll look for the advance party and chase down the Clown of Blue Flame.
 
 ID=15014
-I need a badge to reach the Clown of the Blue Flame, but there’s no information of a particular badge. A doll in the hospital would probably have one. 
+I need a badge to reach the Clown of the Blue Flame, but there's no information of a particular badge. A doll in the hospital would probably have one. 
 
 ID=15015
 We arrived at the ward where the Clown of the Blue Flame is located. I made them neutralize a magnetic field using a badge, and we could finally advance.
@@ -4970,10 +4970,10 @@ ID=15020
 A group of Soul Junk appeared again. Commander Aaron directed the disposal of Soul Junk and the destruction of the coast tunnel, which is the only supply route, in order to defend Candus City.
 
 ID=15021
-I got permission from NED company and entered the underground waterway. It’s hard to \n breathe due to the intense stench.\n It certainly feels like something lives here...
+I got permission from NED company and entered the underground waterway. It's hard to \n breathe due to the intense stench.\n It certainly feels like something lives here...
 
 ID=15022
-The bad smell from an underground waterway stands at various places by the city and has begun to spread.\n It’s clear that the only cause of the bad smell is in the underground waterway...
+The bad smell from an underground waterway stands at various places by the city and has begun to spread.\n It's clear that the only cause of the bad smell is in the underground waterway...
 
 ID=15023
 Mercenaries and researchers from NED company were dispatched to an underground waterway, since it seems suspicious that Brock instructs their surveillance.
@@ -4988,16 +4988,16 @@ ID=15026
 The entire house has become a den of Soul Junk.\nThere is a Soul Junk with a high contamination rate nearby; we need to get rid of it before it gets out.
 
 ID=15027
-According to Ralph’s story, it seems highly likely that Catherine will be somewhere deep inside the house. Let’s move deeper into the mansion to look for Catherine.
+According to Ralph's story, it seems highly likely that Catherine will be somewhere deep inside the house. Let's move deeper into the mansion to look for Catherine.
 
 ID=15028
-The Soul Junk named Arachnis that took Catherine away\nseems like it’s hiding somewhere in the basement.\nLet’s quickly find and rescue Catherine.
+The Soul Junk named Arachnis that took Catherine away\nseems like it's hiding somewhere in the basement.\nLet's quickly find and rescue Catherine.
 
 ID=15029
-The only antidote for Catherine’s Vacuum Vein infection is at the research facility of NED Company.\nBut that research facility was already a den of Soul Junk...
+The only antidote for Catherine's Vacuum Vein infection is at the research facility of NED Company.\nBut that research facility was already a den of Soul Junk...
 
 ID=15030
-The second research facility was also crawling with Soul Junk... We don’t know what in the world happened here, but getting the antidote for Catherine is top priority.
+The second research facility was also crawling with Soul Junk... We don't know what in the world happened here, but getting the antidote for Catherine is top priority.
 
 ID=15031
 Out of guilt for Catherine, Victor has gone to the research facility to find the antidote by himself.\nFind him before the Soul Junk do.
@@ -5015,7 +5015,7 @@ ID=15035
 Everyone has taken shelter except for Catherine and us. However, at that time, we discovered that there were a large number of Soul Junk near the transport ship.
 
 ID=15036
-The escape from Grace City has commenced. However, the Soul Junk’s unrelenting attacks are making everyone anxious.
+The escape from Grace City has commenced. However, the Soul Junk's unrelenting attacks are making everyone anxious.
 
 ID=15037
 I wanted to chase after Henry, but was ordered to gain some experience fighting against the Veshi. I have no choice but to follow the orders for now.
@@ -5027,19 +5027,19 @@ ID=15039
 The supposed vehicle carrying Henry has been spotted. The information is a bit unreliable, but he must be arrested at all costs. At least, before the Veshi get to him...
 
 ID=15040
-「Scar」of the Rapid Flame Faction has appeared on the highway. In order to find out Henry’s whereabouts, Scar must be defeated and interrogated.
+「Scar」of the Rapid Flame Faction has appeared on the highway. In order to find out Henry's whereabouts, Scar must be defeated and interrogated.
 
 ID=15041
-The NED Company headquarters was raided by the Rapid Flame Faction after Henry sneaked inside.\nAlthough I’m reluctant to do so...\nHe must be rescued.
+The NED Company headquarters was raided by the Rapid Flame Faction after Henry sneaked inside.\nAlthough I'm reluctant to do so...\nHe must be rescued.
 
 ID=15042
-NED Company’s building was cut off from electricity\ndue to Rapid Flames taking over the building.
+NED Company's building was cut off from electricity\ndue to Rapid Flames taking over the building.
 
 ID=15043
 In order to repair electricity for NED Company,\nit looks like one has to manually activate the switch inside the building.\nRapid Flames seem to have the key to activating the switch.
 
 ID=15044
-In order to retrieve evidence for the incident at Candus City,\nwe need to copy all the data\nfrom NED Company’s security box.
+In order to retrieve evidence for the incident at Candus City,\nwe need to copy all the data\nfrom NED Company's security box.
 
 ID=15045
 In order to defeat the Rapid Flames coming in from the second highway, we need to take back the firing zone “Hill Breaker” for Operation Wolf Cry to commence.
@@ -5048,7 +5048,7 @@ ID=15046
 Operation Wolf Cry involves firing missiles called 「Final Aria」which spreads strong radio waves in its vicinity. With this, we can exterminate Queen Carla, the main force of the assault brigade.
 
 ID=15047
-Heel Breaker cannot progress towards the Area Missile firing zone. With Starry Forest League’s Soulworker 「Kainbarrel」, defeat the Rapid Flame’s assault squad.
+Heel Breaker cannot progress towards the Area Missile firing zone. With Starry Forest League's Soulworker 「Kainbarrel」, defeat the Rapid Flame's assault squad.
 
 ID=15048
 The Assault Captain of the Rapid Flames, Falcon, has finally showed his face after his precious bird Queen Karla has been damaged. To the target that has finally showed its head, we can almost feel grateful for it.
@@ -5072,22 +5072,22 @@ ID=15054
 The supposed stronghold for the Rapid Flames was a trap set up by the NED Company and the Rapid Flames.
 
 ID=15055
-Due to the NED Company’s trap, the majority of the forces at Grace City has been wiped out. This crisis has put the city’s existence on the line. We cannot let everyone die.
+Due to the NED Company's trap, the majority of the forces at Grace City has been wiped out. This crisis has put the city's existence on the line. We cannot let everyone die.
 
 ID=15056
-The Rapid Flame faction’s Assassination squad is hindering the rescuing process of backup. We need to defeat these enemies in order to rescue many people as possible.
+The Rapid Flame faction's Assassination squad is hindering the rescuing process of backup. We need to defeat these enemies in order to rescue many people as possible.
 
 ID=15057
 The remnants of hacking on military satellite Indra by NED Company has been confirmed. We need to trace back through their hacking in order to learn their true motive.
 
 ID=15058
-The NED Company’s traces have led up to the mountains near Grace City. It is time for their judgement.
+The NED Company's traces have led up to the mountains near Grace City. It is time for their judgement.
 
 ID=15059
 In order to find Henry and Laufer, we need to find the source of the radio wave that is disrupting the military satellite, Indra.
 
 ID=15060
-We’ve detected life signals indicating Henry and Laufer within Indra. This is the most ideal time for revenge.
+We've detected life signals indicating Henry and Laufer within Indra. This is the most ideal time for revenge.
 
 ID=15061
 A virtual training program designed for Soulworkers; it can simulate the monsters from the database, then an experience just like a real battle begins. However, since it spends a lot of energy, it cannot be used frequently.
@@ -5120,16 +5120,16 @@ ID=16200
 The world changed when I opened my eyes.\nMonsters crawling and people using special powers.\nThe world that I once sought to create...was now in front of me.\nThis...is too much to not get excited about.
 
 ID=16300
-The world where all the knowledge I had until now was void...\nBut...\nI have claimed everything that I wanted with my own hands.\nI’ll do the same in this world, too.
+The world where all the knowledge I had until now was void...\nBut...\nI have claimed everything that I wanted with my own hands.\nI'll do the same in this world, too.
 
 ID=16400
 The world has changed a lot during the 15 years I was asleep.\nA world where survival comes first.\nBut... I was still desperate \nto have passion... and to live like any human would.
 
 ID=16500
-Seems like 15 years flashed by.\nDo hibernating bears all feel this way...?\nStories too difficult to understand, and I’m really hungry.\nBut, since everyone is with me, I don’t feel lonely.
+Seems like 15 years flashed by.\nDo hibernating bears all feel this way...?\nStories too difficult to understand, and I'm really hungry.\nBut, since everyone is with me, I don't feel lonely.
 
 ID=16600
-The world that I once knew was no more.\nI didn’t want to stay for a minute, or even a second for that matter in this unfamiliar place.\nBut I have no choice but to hold it in.\nThis is my world now... The world that I must live in.\nThere is no choice but to hold it in as much as possible...
+The world that I once knew was no more.\nI didn't want to stay for a minute, or even a second for that matter in this unfamiliar place.\nBut I have no choice but to hold it in.\nThis is my world now... The world that I must live in.\nThere is no choice but to hold it in as much as possible...
 
 ID=16550
 Junk
@@ -5420,7 +5420,7 @@ ID=18009
 Restore Item
 
 ID=18010
-The item’s condition is restorable.
+The item's condition is restorable.
 
 ID=18011
 Restoration completed
@@ -6173,7 +6173,7 @@ ID=21513
 Details
 
 ID=21514
-Supporter’s Equipment
+Supporter's Equipment
 
 ID=21515
 Claim
@@ -6194,10 +6194,10 @@ ID=21520
 Supporters' DEF + 20%
 
 ID=21521
-Are you sure you want to apply the attack orb’s 20% attack buff?
+Are you sure you want to apply the attack orb's 20% attack buff?
 
 ID=21522
-Are you sure you want to apply the defense orb’s 20% defense buff?
+Are you sure you want to apply the defense orb's 20% defense buff?
 
 ID=21523
 Applied Buff
@@ -6422,7 +6422,7 @@ ID=22105
 FREE CAMERA MODE
 
 ID=22106
-The camera’s perspective is isomorphic to the character.
+The camera's perspective is isomorphic to the character.
 
 ID=22107
 Sync Camera to Attacks
@@ -7208,7 +7208,7 @@ ID=24251
 Soul Vapor
 
 ID=24252
-Booker’s Point
+Booker's Point
 
 ID=24253
 Ether
@@ -7439,7 +7439,7 @@ ID=24328
 Crop
 
 ID=24499
-Booker’s Point
+Booker's Point
 
 ID=24500
 Zenny
@@ -7448,7 +7448,7 @@ ID=24501
 Soul Vapor
 
 ID=24502
-Booker’s Point
+Booker's Point
 
 ID=24503
 Ether
@@ -8324,16 +8324,16 @@ ID=25240
 Special Ability
 
 ID=25241
-You can activate special abilities through Right-Click. \nHaru’s special ability is to launch enemies into the air. \nEnemies will slowly fall down.
+You can activate special abilities through Right-Click. \nHaru's special ability is to launch enemies into the air. \nEnemies will slowly fall down.
 
 ID=25242
-You can activate special abilities through Right-Click. \nErwin’s special ability is to install traps.\nEnemies that step on the traps are temporarily slowed.
+You can activate special abilities through Right-Click. \nErwin's special ability is to install traps.\nEnemies that step on the traps are temporarily slowed.
 
 ID=25243
-You can activate special abilities through Right-Click. \nLily’s special ability is to dash forward.\nEnemies that you touch will be slowed.\nHold the mouse button to charge the skill and increase the distance traveled.
+You can activate special abilities through Right-Click. \nLily's special ability is to dash forward.\nEnemies that you touch will be slowed.\nHold the mouse button to charge the skill and increase the distance traveled.
 
 ID=25245
-You can activate special abilities through Right-Click. \nStella’s special ability to to change the properties of her skills.\nUsing the special ability will return to the previous effect.
+You can activate special abilities through Right-Click. \nStella's special ability to to change the properties of her skills.\nUsing the special ability will return to the previous effect.
 
 ID=25270
 Dodge
@@ -8837,13 +8837,13 @@ ID=26304
 50% chance to gain additional bonus Zenny
 
 ID=26305
-5% chance to +{0} HP when attacking enemies
+On hit, 5% chance of +{0} HP
 
 ID=26306
 HP increased by {0}% of Maximum Attack
 
 ID=26307
-When being hit under 50% HP, +{0}% Attack for 5s
+When hit under 50% HP, +{0}% Attack for 5s
 
 ID=26308
 After defeating a puppet, +{0}% Attack for 10s
@@ -8861,10 +8861,10 @@ ID=26312
 {0}% chance of being revived when incapacitated.
 
 ID=26313
-When hit by a critical attack, +{0}% Critical Resistance for 10s
+When critically hit, +{0}% Critical Resistance for 10s
 
 ID=26314
-When attacked by a Boss Monster, +{0} maximum Stamina for 3s
+When hit by a Boss Monster, +{0} Maximum Stamina for 3s
 
 ID=26315
 When hitting, 3% chance of +{0}% Attack for 3s
@@ -8879,13 +8879,13 @@ ID=26318
 During a critical attack, 1% chance of +{0}% Defense Penetration for 5s
 
 ID=26319
-When attacked, 15% chance of +{0} Evasion Rate for 3s
+When hit, 15% chance of +{0} Evasion Rate for 3s
 
 ID=26320
 When an attack is evaded, 10% chance of +{0}% Missed Damage for 10s
 
 ID=26321
-When hit by a critical attack, 50% chance of +{0} HP
+When critically hit, 50% chance of +{0} HP
 
 ID=26322
 When hitting, 5% chance of +{0}% SA Destruction by for 5s
@@ -8894,7 +8894,7 @@ ID=26323
 +{0}% Movement speed while in town.
 
 ID=26324
-When attacked by a Boss Monster, 10% chance of +{0}% Damage Reduction for 5s
+When hit by a Boss Monster, 10% chance of +{0}% Damage Reduction for 5s
 
 ID=26325
 When an attack is evaded, following attack is increased by {0}%
@@ -8909,28 +8909,28 @@ ID=26328
 +{0}% Movement Speed in combat zone
 
 ID=26329
-When attacked, 15% chance of +{0}% Defense for 5s
+When hit, 15% chance of +{0}% Defense for 5s
 
 ID=26330
-When attacked, 8% chance of +{0}% Critical Resistance for 10s
+When hit, 8% chance of +{0}% Critical Resistance for 10s
 
 ID=26331
-When attacked, 20% chance of +{0}% Damage Reflection
+When hit, 20% chance of +{0}% Damage Reflection
 
 ID=26332
-When attacked, 20% chance of a 1 sec super armor effect
+When hit, 20% chance of Super Armor for 1s
 
 ID=26333
-When attacked, 20% chance of a 2 sec super armor effect
+When hit, 20% chance of Super Armor for 2s
 
 ID=26334
-When attacked, 20% chance of a 4 sec super armor effect
+When hit, 20% chance of Super Armor for 4s
 
 ID=26335
-When attacked, 20% chance of a 5 sec super armor effect
+When hit, 20% chance of Super Armor for 5s
 
 ID=26336
-When attacked, 20% chance of a 6 sec super armor effect
+When hit, 20% chance of Super Armor for 6s
 
 ID=26337
 When an attack is evaded, +{0}% Damage Reduction for 5s
@@ -8963,7 +8963,7 @@ ID=27000
 When hitting,  5% chance of +{0}% Attack for 3s
 
 ID=27001
-When attacked, 20% chance of +{0}% Defense for 5s
+When hit, 20% chance of +{0}% Defense for 5s
 
 ID=27002
 On critical hit, 7% chance of +{0}% Critical Attack for 3s
@@ -8996,10 +8996,10 @@ ID=28004
 Establish Guild
 
 ID=28005
-Insufficient level to create a guild.\n The minimum level requirement is 20.
+Insufficient level to create a guild.\nThe minimum level requirement is 20.
 
 ID=28006
-Insufficient funds to create a guild.\n 100,000 Zenny is required.
+Insufficient funds to create a guild.\n100,000 Zenny is required.
 
 ID=28007
 Finalize Decision
@@ -9194,7 +9194,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 19/Jun/2016 7:30 AM JST.\nPlease check your guild’s information for updates.
+This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 23/Jun/2016 4:40 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -9215,7 +9215,7 @@ ID=28077
 {0} is already in a Guild.
 
 ID=28078
-{0} is still reviewing another Guild’s invitation.
+{0} is still reviewing another Guild's invitation.
 
 ID=28079
 {0} has already received a Guild invitation.
@@ -10088,7 +10088,7 @@ ID=31027
 Cannot enter because a party member does not have a Soul Weapon equipped.
 
 ID=31028
-Can’t enter a different dungeon than your party leader.
+Can't enter a different dungeon than your party leader.
 
 ID=31029
 Cannot enter a different dungeon than your party members.
@@ -10331,7 +10331,7 @@ ID=31108
 The party is full (cannot apply).
 
 ID=31109
-Please vote on the party’s goals.
+Please vote on the party's goals.
 
 ID=31110
 Your party recruitment ad lasts for [{0}]m [{1}]s.
@@ -10496,7 +10496,7 @@ ID=31163
 Notice
 
 ID=31164
-This player’s level is not high enough for party request.
+This player's level is not high enough for party request.
 
 ID=31165
 Party matching stopped
@@ -10835,7 +10835,7 @@ ID=32100
 Exchange
 
 ID=33000
-Hello,\n I have wandered the world, \nseeking for a glorious show.\n  My name is “Clown Edgar”.\n I admit you must be surprised.\n I lust for your power.\n It is flamboyant, yet modest.\n Tranquil, yet destructive and refined.\n For you, I sent a present.\nAccept it, it is a token\n of respect. Come to “The Shopping District”\n, you’ll like it.\n - Clown Edgar.
+Hello,\n I have wandered the world, \nseeking for a glorious show.\n  My name is “Clown Edgar”.\n I admit you must be surprised.\n I lust for your power.\n It is flamboyant, yet modest.\n Tranquil, yet destructive and refined.\n For you, I sent a present.\nAccept it, it is a token\n of respect. Come to “The Shopping District”\n, you'll like it.\n - Clown Edgar.
 
 ID=33001
 Little by little,\n the distance between us is shrinking.\n We will cross paths sooner or later.\n The longer the wait, the greater the thrill.\n We made it dramatic with a little game.\n You cannot enter now,\n but if you had a badge.\n Cross the woods at dawn.\n Hurry up.\n Waiting to see you burn.
@@ -10850,10 +10850,10 @@ ID=33004
 That day was cloudy.\n The runaway child knew. Rather, I did not understand how the “calamity” came. We had committed crimes; we could of atoned for it. Yet, we did not. Unlike other children, I came to pass judgement...\n\n The cloudy day.\n The child was brought to death by humans. They had naive ideas that everything was over. Silly as I did, I thought NED company would help. They, will definitely bury the truth. As if nothing happened.\n\n  We were buried in hell. A fateful ending for us.
 
 ID=33005
-Model Name：NS_EX_008\nName：Cleany\n\n1. その名の通り掃除専用ロボット。私物に込められたソウルエナジーを判別し、分別収集及び紛失物捜索に適する。\n\n2. 現在は動力喪失状態のため、強制スリープモードに入っている。エナジーを3回に分けて順番に注入すれば、自らスリープモードを解除し動き出す。\n(動作までに約24時間所要)\n\n3. コアが破壊されたり消失した場合、コアを取り替えた後に使用可能な増幅装置をコアのあった位置へ設置すると、コアが復活する。\n(注意：動力源が1%でも残っている必要あり)\n\n数少ないヒントでここまで至った方に、まずは感謝の意を表します。\nこのルインフォートレスで「人間」以外の者に罪はありません。\nこのロボットもまた何の罪もない存在です。\n「HELP ME」という文字に反応し、ここまで来たあなたなら、きっとこの子を受け入れてくれるはずです。よろしくお願いします。 \nそして、クリーニー。どうか、幸せに…。
+Model Name：NS_EX_008\nName：Cleany\n\n1. Befitting to its name, it's a robot that detects Soul Energy within a object, recycle, and search for energy.\n\n2.It is currently in force shut down mode due to loss of energy. When energy is inserted in three times consecutively, it breaks out of shut down mode and starts up.\n(Requires 24 hours until it moves)\n\n3.If the Core is damaged or lost, an amplifying device can be replaced in to resurrect the Core.\n(Warning: Needs at least 1% power source left)
 
 ID=33500
-Dead Desparate Soldier’s Belongings
+Dead Desparate Soldier's Belongings
 
 ID=33501
 Clothes of the Masked Marionette
@@ -10889,7 +10889,7 @@ ID=33511
 Gift of Dangerous Idols
 
 ID=33512
-Cunning Soldier’s Protective Equipment
+Cunning Soldier's Protective Equipment
 
 ID=33513
 Traces of Abandoned Desire
@@ -10922,7 +10922,7 @@ ID=33522
 Light of an Awoken Ancestor
 
 ID=33523
-Noble’s Ornament
+Noble's Ornament
 
 ID=33524
 Record of Evil
@@ -10937,7 +10937,7 @@ ID=33527
 Tarnished Honor
 
 ID=33528
-Carla’s Remains
+Carla's Remains
 
 ID=33529
 Void Gems
@@ -10949,7 +10949,7 @@ ID=33531
 Means of Betrayal
 
 ID=33532
-Lucy’s Present
+Lucy's Present
 
 ID=33533
 Machine Tears
@@ -10958,7 +10958,7 @@ ID=33534
 Killer Machine Parts
 
 ID=33535
-A Hero’s Readiness
+A Hero's Readiness
 
 ID=33536
 Malicious Sphere
@@ -11003,7 +11003,7 @@ ID=33549
 Disturbance
 
 ID=33550
-A Dawn’s Glory
+A Dawn's Glory
 
 ID=34000
 Flowerpot 1
@@ -11543,7 +11543,7 @@ ID=40124
 Please hurry up and use the purifier.
 
 ID=40125
-Please use the purifier to render the Mad Beholder’s poisonous gas ineffective.
+Please use the purifier to render the Mad Beholder's poisonous gas ineffective.
 
 ID=40126
 Activation confirmed. The poisonous gas has been purified.
@@ -11591,7 +11591,7 @@ ID=40144
 Please operate all the switches to activate the elevator.
 
 ID=40145
-Failed to stop the Big Puppet’s advance.\nPlease move to the central plaza.
+Failed to stop the Big Puppet's advance.\nPlease move to the central plaza.
 
 ID=40146
 Please choose your battle partners.
@@ -11606,7 +11606,7 @@ ID=40149
 The barrier has been rescinded.
 
 ID=40150
-The gas from the mysterious balloon will slightly reduce the enemy’s defense.
+The gas from the mysterious balloon will slightly reduce the enemy's defense.
 
 ID=40151
 Please defeat all enemies before the time bomb explodes.
@@ -11633,7 +11633,7 @@ ID=40158
 You may freely move between the four districts.
 
 ID=40159
-The King Junk’s defense will increase when its phantoms appear.
+The King Junk's defense will increase when its phantoms appear.
 
 ID=40160
 When the box is broken, Edgar will appear.
@@ -11645,7 +11645,7 @@ ID=40162
 When the box is not destroyed, Edgar will appear.
 
 ID=40163
-Phantom’s ghost explodes, increasing Phantom’s defense for 30 seconds.
+Phantom's ghost explodes, increasing Phantom's defense for 30 seconds.
 
 ID=40164
 The AI Lucy has activated the personal defense system.
@@ -11702,7 +11702,7 @@ ID=40181
 Activate the Floating Bridge by using the control device.
 
 ID=40182
-The servant kernal’s defense function was activated.
+The servant kernal's defense function was activated.
 
 ID=40183
 Please turn off the servant kernals by using the servant kernals' control devices.
@@ -11711,10 +11711,10 @@ ID=40184
 When you defeat all enemies, the defense systems can be stopped.
 
 ID=40185
-When the two security devices are used, you can deactivate the Buster Core’s defenses.
+When the two security devices are used, you can deactivate the Buster Core's defenses.
 
 ID=40186
-When you operate the cube switch, the security device’s power will be cut off.
+When you operate the cube switch, the security device's power will be cut off.
 
 ID=40187
 Primary power supply has been cut off. The first door opens after 15 seconds.
@@ -11726,10 +11726,10 @@ ID=40189
 Primary power supply has been cut off. The last door opens after 15 seconds.
 
 ID=40190
-A strong helpful magnetic field will be created by the Buster Core’s personal defense system.
+A strong helpful magnetic field will be created by the Buster Core's personal defense system.
 
 ID=40191
-The Buster Core’s personal defense system will create a powerful electric field in 5 seconds. Please take refuge inside it.
+The Buster Core's personal defense system will create a powerful electric field in 5 seconds. Please take refuge inside it.
 
 ID=40192
 Defeat the leader class enemy within 30 seconds or a new enemy will appear.
@@ -11777,7 +11777,7 @@ ID=40206
 Please stop the shuttle by activating its control unit.
 
 ID=40207
-Please disable the gate’s electricity by operating the switch.
+Please disable the gate's electricity by operating the switch.
 
 ID=40208
 Please find 2 of the 4 objects hidden behind the gates to disable the trap.
@@ -11795,7 +11795,7 @@ ID=40212
 You can receive combat support by using the special equipment.
 
 ID=40213
-Please use the equipment that corresponds to the shockwave’s color.
+Please use the equipment that corresponds to the shockwave's color.
 
 ID=40214
 Please activate the switch.
@@ -11864,7 +11864,7 @@ ID=40235
 The enemy is restoring HP to the cocoon.\n Please neutralize them quickly.
 
 ID=40236
-Energy charging will stop if even 1 of the 2 under the Starry Forest League’s protection are destroyed.
+Energy charging will stop if even 1 of the 2 under the Starry Forest League's protection are destroyed.
 
 ID=40237
 After a certain amount of time, enemies will stop appearing.
@@ -11924,7 +11924,7 @@ ID=40255
 When the cube is destroyed, all players will be paralyzed and a magnetic field will be generated.
 
 ID=40256
-The two devices will raise the enemy’s strength in sequential order.
+The two devices will raise the enemy's strength in sequential order.
 
 ID=40257
 When the controller is activated, enemies will appear.
@@ -11969,7 +11969,7 @@ ID=40270
 After defeating the land crusher, the controller will be summoned.
 
 ID=40271
-Upon activating 2 controllers, a web will appear and drastically reduce Warlike’s defense.
+Upon activating 2 controllers, a web will appear and drastically reduce Warlike's defense.
 
 ID=40272
 When the controller is used, support fire from the Gatling gun is possible. It can only be used once.
@@ -11984,7 +11984,7 @@ ID=40275
 When the cube is destroyed, you will recover HP.
 
 ID=40276
-Crawler will self-destruct and recover the enemy’s HP.
+Crawler will self-destruct and recover the enemy's HP.
 
 ID=40277
 Every 1 Vacuum Vein will increase the attack and defense of the Dark Worm.
@@ -12023,7 +12023,7 @@ ID=40288
 When the Habitant is less than 60% HP, the enemy will self-destruct and damage all players.
 
 ID=40289
-When the S-00 falls below 60% HP, both the player & enemy’s HP will be fully restored.
+When the S-00 falls below 60% HP, both the player & enemy's HP will be fully restored.
 
 ID=40290
 When the controller is activated, enemies will appear.
@@ -12095,7 +12095,7 @@ ID=40312
 Disable the floor trap by using the controller on the floating area.
 
 ID=40313
-After Poison’s HP drops below a certain point, she will unleash large AoE attacks.
+After Poison's HP drops below a certain point, she will unleash large AoE attacks.
 
 ID=40314
 When all controllers are operated, the cube-shaped barricades will be cleared.
@@ -12155,7 +12155,7 @@ ID=40411
 Edgar will continuously summon enemies.\n As time passes, more powerful enemies will appear.
 
 ID=40412
-Edgar’s final assault stage begins.\n If a carnival bomb falls and explode, it will cause a large area of damage. Be careful.
+Edgar's final assault stage begins.\n If a carnival bomb falls and explode, it will cause a large area of damage. Be careful.
 
 ID=40421
 The center magnetic-field generating device must be operated.
@@ -12179,19 +12179,19 @@ ID=40427
 Using the front switch will make the Mutant Mad Beholder appear.\nThe Mad Beholder has a large amount of HP so normal attacks will not be very effective.
 
 ID=40428
-The purifier has been destroyed by the Mutant Mad Beholder’s attacks.
+The purifier has been destroyed by the Mutant Mad Beholder's attacks.
 
 ID=40429
-There is a switch on the left side of the map in the A-1 Laboratory. Using this switch will drastically increase the player’s attack and cause the door to be automatically shut.
+There is a switch on the left side of the map in the A-1 Laboratory. Using this switch will drastically increase the player's attack and cause the door to be automatically shut.
 
 ID=40430
 The switches can be activated after defeating all the enemies.
 
 ID=40431
-The second switch is located on the right side of the map in the B-1 Laboratory. The lab’s door has opened.
+The second switch is located on the right side of the map in the B-1 Laboratory. The lab's door has opened.
 
 ID=40432
-The third C-1 Laboratory’s door switch has been activated.
+The third C-1 Laboratory's door switch has been activated.
 
 ID=40433
 All the switches have been activated.
@@ -12266,10 +12266,10 @@ ID=40471
 When the device is utilized, the land bison will be activated.\n Barriers can only be destroyed by the land bison.
 
 ID=40472
-With the land bison’s strength remaining at least than 50%, its performance will be reduced.
+With the land bison's strength remaining at least than 50%, its performance will be reduced.
 
 ID=40473
-With the land bison’s strength remaining at least than 20%, \nwhen it is destroyed, the operation will fail.
+With the land bison's strength remaining at least than 20%, \nwhen it is destroyed, the operation will fail.
 
 ID=40474
 The land bison has been destroyed.\n The operation has failed.
@@ -12278,37 +12278,37 @@ ID=40475
 Upon activating the switch, the elevator can be used.
 
 ID=40476
-The elevator has stopped moving due to the enemy’s attack. If\n all enemies are neutralized, you can operate the elevator’s switch.
+The elevator has stopped moving due to the enemy's attack. If\n all enemies are neutralized, you can operate the elevator's switch.
 
 ID=40477
-The Main Core’s defense system is operating.\nDefeat it to stop the defense system.
+The Main Core's defense system is operating.\nDefeat it to stop the defense system.
 
 ID=40478
-In order to move the arc’s ship first-grade steel players, please activate the power control device.
+In order to move the arc's ship first-grade steel players, please activate the power control device.
 
 ID=40479
 The intruder elimination program has been unintentionally activated due to the operation of the power switch device. \n Before the power switch self-destructs, please destroy the power generator.
 
 ID=40480
-Upon the switch’s activation, you can use the elevator move to the arc’s ship first-grade steel plates.
+Upon the switch's activation, you can use the elevator move to the arc's ship first-grade steel plates.
 
 ID=40481
 Activate the defense capsule to generate a barrier that protects players.
 
 ID=40482
-The ark ship’s defense systems have gone wild due to its broken power source.\nThe laser canon will face the ships hulls and hit randomly.
+The ark ship's defense systems have gone wild due to its broken power source.\nThe laser canon will face the ships hulls and hit randomly.
 
 ID=40483
 Although the lasers decrease all of player's stats, it also decreases the defense rate of enemies.
 
 ID=40484
-Laser only damages players. \n It will also melt the ship’s high-grade steel plates to generate a thermal heat zone. \n In the thermal heat zone, players will be burned.
+Laser only damages players. \n It will also melt the ship's high-grade steel plates to generate a thermal heat zone. \n In the thermal heat zone, players will be burned.
 
 ID=40485
-The Prototype Sieg have taken over the Ark Ship’s main gun.\n Bombardment to the first-grade plate will begin promptly.
+The Prototype Sieg have taken over the Ark Ship's main gun.\n Bombardment to the first-grade plate will begin promptly.
 
 ID=40486
-The elevator’s operation has stopped due to an attack.\n You must defeat all enemies to open the elevator’s door.
+The elevator's operation has stopped due to an attack.\n You must defeat all enemies to open the elevator's door.
 
 ID=40487
 In order to open the gate, the switch must be activated.
@@ -12338,19 +12338,19 @@ ID=40495
 The condenser has been destroyed, you can now use the gate deactivator switches.
 
 ID=40496
-The Main Core detects danger!\nThe system’s defense level rises. Enemy reinforcements have arrived.
+The Main Core detects danger!\nThe system's defense level rises. Enemy reinforcements have arrived.
 
 ID=40497
 Destroy the condenser to prevent retaliatory fire from enemies.
 
 ID=40498
-The Main Core detects danger; it has raised the system’s defense level.
+The Main Core detects danger; it has raised the system's defense level.
 
 ID=40499
-Defensive forces will appear to prevent you from entering the arc ship’s command room.
+Defensive forces will appear to prevent you from entering the arc ship's command room.
 
 ID=40500
-Upon turning on the switch, the elevator can be used to move to the arc ship’s command room.
+Upon turning on the switch, the elevator can be used to move to the arc ship's command room.
 
 ID=40501
 The floating platform has been activated. Please wait.
@@ -12374,7 +12374,7 @@ ID=40507
 The shuttles will return periodically. \nDefeat the enemy to stop the shuttles.
 
 ID=40508
-The door’s mechanism has been unlocked.
+The door's mechanism has been unlocked.
 
 ID=40509
 Destroy the Buff Bomb to receive a buff.
@@ -12500,7 +12500,7 @@ ID=42015
 Venomous Mucus
 
 ID=42016
-Black Giant’s Venomous Mucus
+Black Giant's Venomous Mucus
 
 ID=42017
 Dark Alligator
@@ -12710,7 +12710,7 @@ ID=42085
 Augmented Megiddo Maker MK Ⅱ
 
 ID=42086
-テッド＆ジュリー
+Ted&Julie
 
 ID=42087
 Xenia
@@ -12965,7 +12965,7 @@ ID=42170
 ST Lab Knowledge Researcher
 
 ID=42171
-ST Lab’s Brilliant Hall of Knowledge
+ST Lab's Brilliant Hall of Knowledge
 
 ID=42172
 ST Lab Research Department μ
@@ -12974,7 +12974,7 @@ ID=42173
 ST Lab Knowledge Researcher μ
 
 ID=42174
-ST Lab’s Brilliant Hall of Knowledge μ
+ST Lab's Brilliant Hall of Knowledge μ
 
 ID=42175
 Heavy Gears
@@ -13088,7 +13088,7 @@ ID=42211
 Venomous Mucus
 
 ID=42212
-Black Giant’s Venomous Mucus
+Black Giant's Venomous Mucus
 
 ID=42213
 Deadly Giant Venomous Mucus
@@ -13373,7 +13373,7 @@ ID=42306
 Raid Force Chaser
 
 ID=42307
-Blood Absorption’s Edge Chaser
+Blood Absorption's Edge Chaser
 
 ID=42308
 Chaser μ
@@ -13382,7 +13382,7 @@ ID=42309
 Stealth Unit Chaser μ
 
 ID=42310
-Blood Absorption’s Edge Chaser μ
+Blood Absorption's Edge Chaser μ
 
 ID=42311
 Intentful Carla
@@ -13517,16 +13517,16 @@ ID=42354
 Assassin Dancing Shadow
 
 ID=42355
-駆け抜ける影ダンシングシャドー
+Opaque Dancing Shadow
 
 ID=42356
-ダンシングシャドーμ
+Dancing Shadow μ
 
 ID=42357
-暗殺者ダンシングシャドーμ
+Assassin Dancing Shadow μ
 
 ID=42358
-駆け抜ける影ダンシングシャドーμ
+Opaque Dancing Shadow μ
 
 ID=42359
 Road Buster
@@ -13535,34 +13535,34 @@ ID=42360
 War Road Buster
 
 ID=42361
-殲滅仕様ロードバスター
+Defeat Road Buster
 
 ID=42362
-ロードバスターμ
+Road Buster μ
 
 ID=42363
-戦闘マシンロードバスターμ
+War Road Buster μ
 
 ID=42364
-殲滅仕様ロードバスターμ
+Defeat Road Buster μ
 
 ID=42365
 Sedurin
 
 ID=42366
-マシン中毒セデュリン
+Machine-obsessed Sedurin
 
 ID=42367
-可憐なる黒渦セデュリン
+Pitifully Confused Sedurin
 
 ID=42368
 Sedurin μ
 
 ID=42369
-マシン中毒セデュリンμ
+Machine-obsessed Sedurin μ
 
 ID=42370
-可憐なる黒渦セデュリンμ
+Pitifully Confused Sedurin μ
 
 ID=43139
 Dignity Snatcher
@@ -13715,7 +13715,7 @@ ID=43084
 Megiddo Maker MK Ⅱ
 
 ID=43086
-テッド＆ジュリー
+Ted&Julie
 
 ID=43087
 Xenia
@@ -14018,16 +14018,16 @@ ID=43316
 [SH] Rita
 
 ID=43317
-[S]ダンシングシャドー
+[S] Dancing Shadow
 
 ID=43318
-[SH]ダンシングシャドー
+[SH] Dancing Shadow
 
 ID=43319
-[S]ロードバスター
+[S] Road Buster
 
 ID=43320
-[SH]ロードバスター
+[SH] Road Buster
 
 ID=43321
 [S] Sedurin
@@ -14624,7 +14624,7 @@ ID=49233
 Because the account is being logged in, the game will close.
 
 ID=49234
-現在のメイズを放棄しますか？\n放棄時、下記ペナルティが発生します。\n-乱入不可\n-疲労度減少(疲労度0エリア除外)
+Are you sure you want to abandon the current dungeon?\nWhen abandoning, the following penalties will occur:\n- Cannot be interrupted\n- Decrease of fatigue (excluding areas that take 0 fatigue)
 
 ID=49235
 Are you sure you want to abandon Steel Grave?\nLeaving at this moment won't let you re-enter.
@@ -14816,7 +14816,7 @@ ID=49457
 http://www.playforum.net/webzine/news/view/1752
 
 ID=49458
-A Beginner’s Guide
+A Beginner's Guide
 
 ID=49459
 http://cafe.naver.com/fakesoul/152
@@ -14858,7 +14858,7 @@ ID=49606
 Use
 
 ID=49607
-Don’t Use
+Don't Use
 
 ID=49608
 Party Chat
@@ -15026,7 +15026,7 @@ ID=49790
 http://soulworker.hangame.co.jp/community/noticebbs.nhn?m=read&view=&bbsid=2510&bbstype=notice&page=1&docid=9594364 
 
 ID=49791
-モバイル認証
+Mobile Authentication
 
 ID=49912
 -Mission Failed-\nLeaving dungeon\n-Time left: (0} seconds-
@@ -15347,7 +15347,7 @@ ID=50109
 This IP address is blocked from the game.
 
 ID=50110
-This computer’s MAC Address is blocked from the game.
+This computer's MAC Address is blocked from the game.
 
 ID=50111
 This item has been blocked from use.
@@ -15437,7 +15437,7 @@ ID=52016
 This item cannot be dismantled.
 
 ID=52017
-This item’s data is non-existent.
+This item's data is non-existent.
 
 ID=52018
 This item cannot be stored or moved.
@@ -15566,7 +15566,7 @@ ID=52059
 ハンコインの最大所持量を超過したため、これ以上獲得できません。
 
 ID=52101
-The item’s slot could not be used.
+The item's slot could not be used.
 
 ID=52102
 Could not register quick slot.
@@ -15623,7 +15623,7 @@ ID=52210
 Could not enhance the equip; insufficient funds.
 
 ID=52211
-Could not update the item’s enhancement level.
+Could not update the item's enhancement level.
 
 ID=52212
 This item cannot be enhanced.
@@ -15890,7 +15890,7 @@ ID=52432
 The item does not exist.
 
 ID=52433
-This isn’t the correct type of ticket for opening Personal Shop.
+This isn't the correct type of ticket for opening Personal Shop.
 
 ID=52434
 Personal Shop has ended.
@@ -16193,7 +16193,7 @@ ID=55018
 You cannot use your soul weapon here.
 
 ID=55019
-Can’t enter a different dungeon than your party leader.
+Can't enter a different dungeon than your party leader.
 
 ID=55020
 Someone is logged out. Dungeon entry is not possible.
@@ -16292,7 +16292,7 @@ ID=55103
 You cannot add anymore friends.\nUp to 50 friends can be added.
 
 ID=55104
-Somebody doesn’t exist here.
+Character not found on this server.
 
 ID=55105
 This character has already been registered on your block list.
@@ -16307,7 +16307,7 @@ ID=55108
 {0}has been removed from the friends list.
 
 ID=55109
-Somebody doesn’t exist here.
+Character not found on this server.
 
 ID=55110
 You cannot invite {0} because they reject party invitations.
@@ -16322,7 +16322,7 @@ ID=55113
 You cannot add friends while in a dungeon.         
 
 ID=55114
-User’s friend list is full.
+User's friend list is full.
 
 ID=55115
 Friends cannot be blocked.
@@ -16331,10 +16331,10 @@ ID=55116
 You cannot whisper to someone you have blocked. {0}
 
 ID=55201
-同じ名前のIDが存在します。
+ID already exists.
 
 ID=55202
-使用可能なIDです。
+ID can be used.
 
 ID=55301
 Recipient does not exist.
@@ -16355,7 +16355,7 @@ ID=55306
 Mail has been deleted.
 
 ID=55307
-You have too much Zenny. I think you’re a bot.
+You have too much Zenny. I think you're a bot.
 
 ID=55308
 Insufficient inventory space.
@@ -16478,10 +16478,10 @@ ID=57011
 Failed to create guild.
 
 ID=57012
-Insufficient level to create a guild.\n The minimum level requirement is 20.
+Insufficient level to create a guild.\nThe minimum level requirement is 20.
 
 ID=57013
-Insufficient funds to create a guild.\n 100,000 Zenny is required.
+Insufficient funds to create a guild.\n100,000 Zenny is required.
 
 ID=57014
 Failed to delete guild.
@@ -16685,64 +16685,64 @@ ID=58212
 Your furniture storage is full. \nPlease remove the items as necessary.
 
 ID=58213
-植木鉢がありません。
+There is no flower pot.
 
 ID=58214
-ヘルプメンバーがいっぱいです。
+Cannot have more Help Members.
 
 ID=58215
-すでに手を加えた植木鉢です。
+This flower pot was already been picked up.
 
 ID=58216
-該当アイテムがありません。
+There is no corresponding item.
 
 ID=58217
-マイルームではありません。
+You're not in the room.
 
 ID=58218
-マイルームの主人ではありません。
+You're not the room's owner.
 
 ID=58219
-植木鉢の設置に失敗しました。
+Failed to install the flower pot.
 
 ID=58220
-種まきに失敗しました。
+Failed to plant.
 
 ID=58221
-収穫できない状態です。
+Cannot be harvested yet.
 
 ID=58222
-収穫に失敗しました。
+Failed to harvest.
 
 ID=58223
-インベントリに空きがありません。
+There is no space in the inventory.
 
 ID=58224
-マイルームの主人はできません。
+You're not the room's owner.
 
 ID=58225
-植木鉢へのアイテム使用に失敗しました。
+Failed to use the item on the flower pot.
 
 ID=58226
-植木鉢に種があります。
+There is already something planted.
 
 ID=58227
-植木鉢を使用中です。
+The flower pot is already in use.
 
 ID=58229
-すでに追加された植木鉢です。
+There is already a flower pot added.
 
 ID=58230
-植木鉢情報が不足しています。
+Flower pot information is missing.
 
 ID=58231
-植木鉢情報の確認に失敗しました。
+Failed to check flower pot information.
 
 ID=58232
-すでに使用されたアイテムです。
+Item is already in use.
 
 ID=58233
-配置モードに変更されたため追放されました。
+You were kicked out because the room changed to placement mode.
 
 ID=58300
 Only {1} items can be up for sale on the market out of {0} items listed so far.
@@ -16757,7 +16757,7 @@ ID=58303
 The number of queued items in the marketplace has been exceeded; only up to 10 can be shown.
 
 ID=58304
-The item’s listing period has ended; failed to make the purchase.
+The item's listing period has ended; failed to make the purchase.
 
 ID=58305
 Unable to purchase the item; it has been withdrawn from the market.
