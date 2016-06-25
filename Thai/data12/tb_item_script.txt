@@ -276,7 +276,7 @@ Icon/Item/Consumption/CON_0_DistrictRaidTicket_01
 0
 0
 [ใบอนุญาตพิเศษ] Golden Citadel
-黄金空白：ゴールデンシタデルへ入場できる一種の権限。特別危険地域ゆえ、ソウルワーカーといえど特別な許可なしには入場できない。\n一度使用すると、すぐに破棄される。\n\n[ディストリクトレイド入場回数初期化]ゴールデンシタデル
+黄金空白：ゴールデンシタデルへ入場できる一種の権限。特別危険地域ゆえ、ソウルワーカーといえど特別な許可なしには入場できない。\n一度使用すると、すぐに破棄される。\n\n[ディストリクトレイド入場券]ゴールデンシタデル
 
 ID=800006008
 Icon/Item/Consumption/CON_0_CasualRaidTicket_05
@@ -285,7 +285,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_05
 0
 0
 0
-[ใบอนุญาตพิเศษ] Abnormal Void
+[特別許可証]異常空白
 異常空白発生地域の立ち入りが許されたことを証明するカード。\nたとえソウルワーカーといえど、異常空白に入るためには、このカードが必要。\n一度しか使用できないため、入る前に準備はしっかり整えておくべし。\n\n[カジュアルレイド入場回数1回減少]カジュアルレイド全体
 
 ID=810001001
@@ -495,7 +495,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-復讐の剣セット
+Sword of Revenge Set
 「復讐の剣セット」が全て入っている。\nハル専用。\n\n[アバターパッケージ]\n-構成品-\n復讐の剣[衣装]X1\n復讐の剣[ソックス]X1\n復讐の剣[ブーツ]X1
 
 ID=810001022
@@ -505,7 +505,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-快楽の弾丸セット
+Bullet of Pleasure Set
 「快楽の弾丸セット」が全て入っている。\nアーウィン専用。\n\n[アバターパッケージ]\n-構成品-\n快楽の弾丸[衣装]X1\n快楽の弾丸[腕輪]X1\n快楽の弾丸[ブーツ]X1
 
 ID=810001023
@@ -515,7 +515,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-狂気の鎌セット
+Sickle of Madness Set
 「狂気の鎌セット」が全て入っている。\nリリー専用。\n\n[アバターパッケージ]\n-構成品-\n狂気の鎌[衣装]X1\n狂気の鎌[ソックス]X1\n狂気の鎌[ブーツ]X1
 
 ID=810001024
@@ -525,7 +525,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-悲しみの楽想セット
+Melodic Set of Sorrow
 「悲しみの楽想セット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\n悲しみの楽想[衣装]X1\n悲しみの楽想[ソックス]X1\n悲しみの楽想[靴]X1
 
 ID=810001025
@@ -535,7 +535,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-ハルの制服Aセット
+Haru's Uniform A Set
 「ハルの制服Aセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nハルの制服A[ソックス]X1\nハルの制服A[上衣]X1\nハルの制服A[スカート]X1
 
 ID=810001026
@@ -545,7 +545,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-ハルの制服Bセット
+Haru's Uniform B Set
 「ハルの制服Bセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nハルの制服B[ソックス]X1\nハルの制服B[上衣]X1\nハルの制服B[スカート]X1
 
 ID=810001027
@@ -555,7 +555,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-ハルの制服Cセット
+Haru's Uniform C Set
 「ハルの制服Cセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nハルの制服C[ソックス]X1\nハルの制服C[上衣]X1\nハルの制服C[スカート]X1
 
 ID=810001028
@@ -565,7 +565,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-ハルの制服Dセット
+Haru's Uniform D Set
 「ハルの制服Dセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nハルの制服D[ソックス]X1\nハルの制服D[上衣]X1\nハルの制服D[スカート]X1
 
 ID=810001029
@@ -575,7 +575,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-アーウィンの制服Aセット
+Erwin's Uniform A Set
 「アーウィンの制服Aセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nアーウィンの制服A[上衣]X1\nアーウィンの制服A[下衣]X1
 
 ID=810001030
@@ -585,7 +585,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-アーウィンの制服Bセット
+Erwin's Uniform B Set
 「アーウィンの制服Bセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nアーウィンの制服B[上衣]X1\nアーウィンの制服B[下衣]X1
 
 ID=810001031
@@ -595,7 +595,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-アーウィンの制服Cセット
+Erwin's Uniform C Set
 「アーウィンの制服Cセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nアーウィンの制服C[上衣]X1\nアーウィンの制服C[下衣]X1
 
 ID=810001032
@@ -605,7 +605,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-アーウィンの制服Dセット
+Erwin's Uniform D Set
 「アーウィンの制服Dセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nアーウィンの制服D[上衣]X1\nアーウィンの制服D[下衣]X1
 
 ID=810001033
@@ -615,7 +615,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-リリーの制服Aセット
+Lily's Uniform A Set
 「リリーの制服Aセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nリリーの制服A[ソックス]X1\nリリーの制服A[上衣]X1\nリリーの制服A[スカート]X1
 
 ID=810001034
@@ -625,7 +625,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-リリーの制服Bセット
+Lily's Uniform B Set
 「リリーの制服Bセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nリリーの制服B[ソックス]X1\nリリーの制服B[上衣]X1\nリリーの制服B[スカート]X1
 
 ID=810001035
@@ -635,7 +635,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-リリーの制服Cセット
+Lily's Uniform C Set
 「リリーの制服Cセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nリリーの制服C[ソックス]X1\nリリーの制服C[上衣]X1\nリリーの制服C[スカート]X1
 
 ID=810001036
@@ -645,7 +645,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-リリーの制服Dセット
+Lily's Uniform D Set
 「リリーの制服Dセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nリリーの制服D[ソックス]X1\nリリーの制服D[上衣]X1\nリリーの制服D[スカート]X1
 
 ID=810001037
@@ -655,7 +655,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-ステラの制服Aセット
+Stella's Uniform A Set
 「ステラの制服Aセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nステラの制服A[ソックス]X1\nステラの制服A[上衣]X1\nステラの制服A[スカート]X1
 
 ID=810001038
@@ -665,7 +665,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-ステラの制服Bセット
+Stella's Uniform B Set
 「ステラの制服Bセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nステラの制服B[ソックス]X1\nステラの制服B[上衣]X1\nステラの制服B[スカート]X1
 
 ID=810001039
@@ -675,7 +675,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-ステラの制服Cセット
+Stella's Uniform C Set
 「ステラの制服Cセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nステラの制服C[ソックス]X1\nステラの制服C[上衣]X1\nステラの制服C[スカート]X1
 
 ID=810001040
@@ -685,7 +685,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-ステラの制服Dセット
+Stella's Uniform D Set
 「ステラの制服Dセット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\nステラの制服D[ソックス]X1\nステラの制服D[上衣]X1\nステラの制服D[スカート]X1
 
 ID=810001041
@@ -695,7 +695,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-商人制服セット
+Merchant Uniform Set
 「商人制服セット」が全て入っている。\nハル専用。\n\n[アバターパッケージ]\n-構成品-\n商人制服[キャップ]X1\n商人制服[上衣]X1\n商人制服[スカート]X1\n商人制服[ソックス]X1\n商人制服[運動靴]X1
 
 ID=810001042
@@ -705,7 +705,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-商人制服セット
+Merchant Uniform Set
 「商人制服セット」が全て入っている。\nアーウィン専用。\n\n[アバターパッケージ]\n-構成品-\n商人制服[キャップ]X1\n商人制服[上衣]X1\n商人制服[下衣]X1\n商人制服[運動靴]X1
 
 ID=810001043
@@ -715,7 +715,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-商人制服セット
+Merchant Uniform Set
 リリー専用アバター「商人制服セット」が全て入っている。\n\n[アバターパッケージ]\n-構成品-\n商人制服[キャップ]X1\n商人制服[上衣]X1\n商人制服[スカート]X1\n商人制服[ソックス]X1\n商人制服[運動靴]X1
 
 ID=810001044
@@ -725,7 +725,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-商人制服セット
+Merchant Uniform Set
 「商人制服セット」が全て入っている。\nステラ専用。\n\n[アバターパッケージ]\n-構成品-\n商人制服[キャップ]X1\n商人制服[上衣]X1\n商人制服[スカート]X1\n商人制服[ソックス]X1\n商人制服[運動靴]X1
 
 ID=810001045
@@ -775,7 +775,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-フォレストガードアバターセット
+Forest Guardian Avatar Set
 寒冷地仕様の特殊軍服が入っている。\nハル専用。\n\n-構成品-\nフォレストガード[帽子]X1\nフォレストガード[衣装]X1\nフォレストガード[手袋]X1\nフォレストガード[タイツ]X1\nフォレストガード[ブーツ]X1
 
 ID=810001054
@@ -785,7 +785,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-フォレストガードアバターセット
+Forest Guardian Avatar Set
 寒冷地仕様の特殊軍服が入っている。\nアーウィン専用。\n\n[アバターパッケージ]\n-構成品-\nフォレストガード[帽子]X1\nフォレストガード[衣装]X1\nフォレストガード[手袋]X1\nフォレストガード[サングラス]X1\nフォレストガード[ブーツ]X1
 
 ID=810001055
@@ -795,7 +795,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-フォレストガードアバターセット
+Forest Guardian Avatar Set
 寒冷地仕様の特殊軍服が入っている。\nリリー専用。\n\n[アバターパッケージ]\n-構成品-\nフォレストガード[帽子]X1\nフォレストガード[衣装]X1\nフォレストガード[手袋]X1\nフォレストガード[タイツ]X1\nフォレストガード[ブーツ]X1
 
 ID=810001056
@@ -805,7 +805,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-フォレストガードアバターセット
+Forest Guardian Avatar Set
 寒冷地仕様の特殊軍服が入っている。\nステラ専用。\n\n[アバターパッケージ]\n-構成品-\nフォレストガード[帽子]X1\nフォレストガード[衣装]X1\nフォレストガード[手袋]X1\nフォレストガード[タイツ]X1\nフォレストガード[ブーツ]X1
 
 ID=810001057
@@ -815,7 +815,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-パジャマアバターセット[A]
+Pajamas Avatar Set [A]
 お気に入りのルームウェア。\nこれがあれば、リラックスできそうだ。\nハル専用。\n\n[アバターパッケージ]\n-構成品-\nパジャマ[衣装][A]X1\nパジャマ[スリッパ][A]X1
 
 ID=810001058
@@ -825,7 +825,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-パジャマアバターセット[B]
+Pajamas Avatar Set [B]
 着るだけで、気分は完全にOFFモード。\nハル専用。\n\n[アバターパッケージ]\n-構成品-\nパジャマ[衣装][B]X1\nパジャマ[スリッパ][B]X1
 
 ID=810001059
@@ -835,7 +835,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-パジャマアバターセット[A]
+Pajamas Avatar Set [A]
 お気に入りのルームウェア。\nこれがあれば、リラックスできそうだ。\nアーウィン専用。\n\n[アバターパッケージ]\n-構成品-\nパジャマ[衣装][A]X1\nパジャマ[スリッパ][A]X1
 
 ID=810001060
@@ -845,7 +845,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-パジャマアバターセット[B]
+Pajamas Avatar Set [B]
 着るだけで、気分は完全にOFFモード。\nアーウィン専用。\n\n[アバターパッケージ]\n-構成品-\nパジャマ[衣装][B]X1\nパジャマ[スリッパ][B]X1
 
 ID=810001061
@@ -855,7 +855,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-パジャマアバターセット[A]
+Pajamas Avatar Set [A]
 お気に入りのルームウェア。\nこれがあれば、リラックスできそうだ。\nリリー専用。\n\n[アバターパッケージ]\n-構成品-\nパジャマ[衣装][A]X1\nパジャマ[スリッパ][A]X1
 
 ID=810001062
@@ -865,7 +865,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-パジャマアバターセット[B]
+Pajamas Avatar Set [B]
 着るだけで、気分は完全にOFFモード。\nリリー専用。\n\n[アバターパッケージ]\n-構成品-\nパジャマ[衣装][B]X1\nパジャマ[スリッパ][B]X1
 
 ID=810001063
@@ -875,7 +875,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-パジャマアバターセット[A]
+Pajamas Avatar Set [A]
 お気に入りのルームウェア。\nこれがあれば、リラックスできそうだ。\nステラ専用。\n\n[アバターパッケージ]\n-構成品-\nパジャマ[衣装][A]X1\nパジャマ[スリッパ][A]X1
 
 ID=810001064
@@ -885,7 +885,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-パジャマアバターセット[B]
+Pajamas Avatar Set [B]
 着るだけで、気分は完全にOFFモード。\nステラ専用。\n\n[アバターパッケージ]\n-構成品-\nパジャマ[衣装][B]X1\nパジャマ[スリッパ][B]X1
 
 ID=810001065
@@ -895,7 +895,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-ハルテーマセット[A]
+Haru's Theme Set [A]
 ハルのマイルームを飾る\n特別なアイテムが入っている。\n\n[パッケージアイテム]\n-構成品-\nパジャマ[衣装][A]X1\nパジャマ[スリッパ][A]X1\nハルの円形ベッドX1\nハルの朝食とイスX1\nハルのフィギュアX1\nハルのミニキャラ人形X1\nハルのエンブレムマットX1
 
 ID=810001066
@@ -905,7 +905,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-ハルテーマセット[B]
+Haru's Theme Set [B]
 ハルのマイルームを飾る\nアイテムが入っている。\n\n[パッケージアイテム]\n-構成品-\nパジャマ[衣装][B]X1\nパジャマ[スリッパ][B]X1\nハルの特大パネルX1\nソウルワーカーポスターX1\nグルトンマグカップX1\nグルトンクッションX1\nグルトン卓上時計X1
 
 ID=810001067
@@ -915,7 +915,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-アーウィンテーマセット[A]
+Erwin's Theme Set [A]
 アーウィンのマイルームを飾る\n特別なアイテムが入っている。\n\n[パッケージアイテム]\n-構成品-\nパジャマ[衣装][A]X1\nパジャマ[スリッパ][A]X1\nアーウィンの乱雑ベッドX1\nアーウィンの朝食とイスX1\nアーウィンのフィギュアX1\nアーウィンのミニキャラ人形X1\nアーウィンのエンブレムマットX1
 
 ID=810001068
@@ -925,7 +925,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-アーウィンテーマセット[B]
+Erwin's Theme Set [B]
 アーウィンのマイルームを飾る\nアイテムが入っている。\n\n[パッケージアイテム]\n-構成品-\nパジャマ[衣装][B]X1\nパジャマ[スリッパ][B]X1\nアーウィンの特大パネルX1\nソウルワーカーポスターX1\nグルトンマグカップX1\nグルトンクッションX1\nグルトン卓上時計X1
 
 ID=810001069
@@ -935,7 +935,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-リリーテーマセット[A]
+Lily's Theme Set [A]
 リリーのマイルームを飾る\n特別なアイテムが入っている。\n\n[パッケージアイテム]\n-構成品-\nパジャマ[衣装][A]X1\nパジャマ[スリッパ][A]X1\nリリーの高級ベッドX1\nリリーの朝食とイスX1\nリリーのフィギュアX1\nリリーのミニキャラ人形X1\nリリーのエンブレムマットX1
 
 ID=810001070
@@ -945,7 +945,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-リリーテーマセット[B]
+Lily's Theme Set [B]
 リリーのマイルームを飾る\nアイテムが入っている。\n\n[パッケージアイテム]\n-構成品-\nパジャマ[衣装][B]X1\nパジャマ[スリッパ][B]X1\nリリーの特大パネルX1\nソウルワーカーポスターX1\nグルトンマグカップX1\nグルトンクッションX1\nグルトン卓上時計X1
 
 ID=810001071
@@ -955,7 +955,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-ステラテーマセット[A]
+Stella's Theme Set [A]
 ステラのマイルームを飾る\n特別なアイテムが入っている。\n\n[パッケージアイテム]\n-構成品-\nパジャマ[衣装][A]X1\nパジャマ[スリッパ][A]X1\nステラの幽霊ベッドX1\nステラの朝食とイスX1\nステラのフィギュアX1\nステラのミニキャラ人形X1\nステラのエンブレムマットX1
 
 ID=810001072
@@ -965,7 +965,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-ステラテーマセット[B]
+Stella's Theme Set [B]
 ステラのマイルームを飾る\nアイテムが入っている。\n\n[パッケージアイテム]\n-構成品-\nパジャマ[衣装][B]X1\nパジャマ[スリッパ][B]X1\nステラの特大パネルX1\nソウルワーカーポスターX1\nグルトンマグカップX1\nグルトンクッションX1\nグルトン卓上時計X1
 
 ID=810000001
@@ -975,7 +975,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-生地ボックス
+Fabric Box
 様々な生地が入っている。\nコントロールゾーン43のDSポイントを\n一定量獲得すると入手できる。\n\n[生地ボックス]
 
 ID=810000002
@@ -985,7 +985,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-生地ボックス
+Fabric Box
 様々な生地が入っている。\nRスクエアのDSポイントを\n一定量獲得すると入手できる。\n\n[生地ボックス]
 
 ID=810000003
@@ -995,7 +995,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-生地ボックス
+Fabric Box
 様々な生地が入っている。\nタワーオブグリードのDSポイントを\n一定量獲得すると入手できる。\n\n[生地ボックス]
 
 ID=810000004
@@ -1005,7 +1005,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-生地ボックス
+Fabric Box
 様々な生地が入っている。\nベストショータイムのDSポイントを\n一定量獲得すると入手できる。\n\n[生地ボックス]
 
 ID=810000005
@@ -1015,7 +1015,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-生地ボックス
+Fabric Box
 様々な生地が入っている。\nコンクリートジャングルのDSポイントを\n一定量獲得すると入手できる。\n\n[生地ボックス]
 
 ID=810000006
@@ -1025,7 +1025,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-生地ボックス
+Fabric Box
 様々な生地が入っている。\nジャンクプールのDSポイントを\n一定量獲得すると入手できる。\n\n[生地ボックス]
 
 ID=810000007
@@ -1035,7 +1035,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-生地ボックス
+Fabric Box
 様々な生地が入っている。\nザ・ビッグマウスのDSポイントを\n一定量獲得すると入手できる。\n\n[生地ボックス]
 
 ID=810000008
@@ -1045,7 +1045,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-生地ボックス
+Fabric Box
 様々な生地が入っている。\nN-102のDSポイントを\n一定量獲得すると入手できる。\n\n[生地ボックス]
 
 ID=810000009
@@ -1055,7 +1055,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-生地ボックス
+Fabric Box
 様々な生地が入っている。\nブレイクアウトのDSポイントを\n一定量獲得すると入手できる。\n\n[生地ボックス]
 
 ID=810000010
@@ -1065,7 +1065,7 @@ Icon/Item/Function/Package/RocoBox
 0
 0
 0
-[D.Sボックス]ロコタウン
+[D.S Box] Rocco Town
 ロコタウンのD.Sポイントを一定量以上\n獲得すると入手できる。\n役に立つアイテムが入っている。\n\n[アイテムボックス]
 
 ID=810000011
@@ -1075,7 +1075,7 @@ Icon/Item/Function/Package/CandusBox
 0
 0
 0
-[D.Sボックス]カンダスシティ
+[D.S Box] Candus City
 カンダスシティのD.Sポイントを一定量以上\n獲得すると入手できる。\n役に立つアイテムが入っている。\n\n[アイテムボックス]
 
 ID=810000012
@@ -1085,7 +1085,7 @@ Icon/Item/Function/Package/GraceBox
 0
 0
 0
-[D.Sボックス]グレイスシティ
+[D.S Box] Grace City
 グレイスシティのD.Sポイントを一定量獲得すると\n入手できる。役に立つアイテムが入っている。\n\n[アイテムボックス]
 
 ID=810000013
@@ -1095,7 +1095,7 @@ Icon/Item/Function/Package/RuinBox
 0
 0
 0
-[D.Sボックス]ルインフォートレス
+[D.S Box] Ruin Fortress
 ルインフォートレスのD.Sポイントを一定量以上\n獲得すると入手できる。\n役に立つアイテムが入っている。\n\n[アイテムボックス]
 
 ID=819999999
@@ -1105,7 +1105,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-シークレットボックス
+Secret Box
 連合で追跡できない各種アイテムが\n詰め込まれたボックス。\n中身は、司令部の人間でもわからない。\nシークレットイベントクリア時に獲得できる。\n\n[アイテムボックス]
 
 ID=820900101
@@ -1115,7 +1115,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-連合正規軍服セット
+Comissioned League Military Set
 「連合正規軍服セット」が全て入っている。\nハル専用。\n\n[アバターパッケージ]
 
 ID=820900102
@@ -1125,7 +1125,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-ドクターセット
+Doctor Set
 「ドクターセット」が全て入っている。\nハル専用。\n\n[アバターパッケージ]
 
 ID=820900103
@@ -1135,7 +1135,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-商人制服セット
+Merchant Uniform Set
 「商人制服セット」が全て入っている。\nハル専用。\n\n[アバターパッケージ]
 
 ID=820900201
@@ -1165,7 +1165,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-商人制服セット
+Merchant Uniform Set
 「商人制服セット」が全て入っている。\nアーウィン専用。\n\n[アバターパッケージ]
 
 ID=820900301
@@ -1175,7 +1175,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-連合正規軍服セット
+Comissioned League Military Set
 「連合正規軍服セット」が全て入っている。\nリリー専用。\n\n[アバターパッケージ]
 
 ID=820900302
@@ -1205,7 +1205,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-連合正規軍服セット
+Comissioned League Military Set
 「連合正規軍服セット」が全て入っている。\nステラ専用。\n\n[アバターパッケージ]
 
 ID=820900502
@@ -1235,7 +1235,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-[シークレットボックス]ロコタウン
+[Secret Box] Rocco Town
 ロコタウンの[シークレットイベント]\nクリア時に獲得できる。\n役に立つアイテムが入っている。\n\n[アイテムボックス]
 
 ID=820000002
@@ -1245,7 +1245,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-[シークレットボックス]カンダスシティ
+[Secret Box] Candus City
 カンダスシティの[シークレットイベント]クリア時に\n獲得できる箱。役に立つアイテムが入っている。\n\n[アイテムボックス]
 
 ID=820000003
@@ -1255,7 +1255,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-[シークレットボックス]グレイスシティ
+[Secret Box] Grace City
 グレイスシティの[シークレットイベント]クリア時に\n獲得できる箱。役に立つアイテムが入っている。\n\n[アイテムボックス]
 
 ID=820000004
@@ -1265,7 +1265,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-[シークレットボックス]ルインフォートレス
+[Secret Box] Ruin Fortress
 ルインフォートレスの[シークレットイベント]\nクリア時に獲得できる。\n役に立つアイテムが入っている。\n\n[アイテムボックス]
 
 ID=820000005
@@ -1275,7 +1275,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-[シークレットボックス]スチールグレイブⅠ
+[Secret Box] Steel Grave Ⅰ
 スチールグレイブのチャプター1～5の間に発生した\n[シークレットイベント]クリア時に獲得できる。\n役に立つアイテムが入っている。\n\n[アイテムボックス]
 
 ID=820000006
@@ -1285,7 +1285,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-[シークレットボックス]スチールグレイブⅡ
+[Secret Box] Steel Grave Ⅱ
 スチールグレイブのチャプター6～10の間に発生した\n[シークレットイベント]クリア時に獲得できる。\n役に立つアイテムが入っている。\n\n[アイテムボックス]
 
 ID=820000007
@@ -1295,7 +1295,7 @@ Icon/Item/Function/Package/HiddenBox
 0
 0
 0
-[シークレットボックス]スチールグレイブⅢ
+[Secret Box] Steel Grave Ⅲ
 スチールグレイブチャプター11～15の間に発生した\n[シークレットイベント]クリア時に獲得できる。\n役に立つアイテムが入っている。\n\n[アイテムボックス]
 
 ID=820000008
@@ -1305,7 +1305,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_Weapon
 0
 0
 0
-研究資料ボックスⅠ：ソウルウェポン
+Research Materials Box Ⅰ: Soul Weapon
 スチールグレイブ[チャプター5]の報酬。\n強力なギアの製作に必要な設計図が入っている。\nタダではやらんという研究員の強い意志を感じる。\n\n[アイテムボックス]
 
 ID=820000009
@@ -1315,7 +1315,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_Gear
 0
 0
 0
-研究資料ボックスⅠ：ギア
+Research Materials Box Ⅰ: Gear
 スチールグレイブ[チャプター5]の報酬。\n強力なギアの製作に必要な設計図が入っている。\nタダではやらんという研究員の強い意志を感じる。\n\n[アイテムボックス]
 
 ID=820000010
@@ -1325,7 +1325,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_Weapon
 0
 0
 0
-研究資料ボックスⅡ：ソウルウェポン
+Research Materials Box Ⅱ: Soul Weapon
 スチールグレイブ[チャプター10]の報酬。\n強力なギアの製作に必要な設計図が入っている。\nタダではやらんという研究員の強い意志を感じる。\n\n[アイテムボックス]
 
 ID=820000011
@@ -1335,7 +1335,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_Gear
 0
 0
 0
-研究資料ボックスⅡ：ギア
+Research Materials Box Ⅱ: Gear
 スチールグレイブ[チャプター10]の報酬。\n強力なギアの製作に必要な設計図が入っている。\nタダではやらんという研究員の強い意志を感じる。\n\n[アイテムボックス]
 
 ID=820000012
@@ -1345,7 +1345,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_Weapon
 0
 0
 0
-研究資料ボックスⅢ：ソウルウェポン
+Research Materials Box Ⅲ: Soul Weapon
 スチールグレイブ[チャプター15]の報酬。\n強力なギアの製作に必要な設計図が入っている。\nタダではやらんという研究員の強い意志を感じる。\n\n[アイテムボックス]
 
 ID=820000013
@@ -1355,7 +1355,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_Gear
 0
 0
 0
-研究資料ボックスⅢ：ギア
+Research Materials Box Ⅲ: Gear
 スチールグレイブ[チャプター15]の報酬。\n強力なギアの製作に必要な設計図が入っている。\nタダではやらんという研究員の強い意志を感じる。\n\n[アイテムボックス]
 
 ID=820000014
@@ -1365,7 +1365,7 @@ Icon/Item/Function/Package/SGBox
 0
 0
 0
-カジュアルレイド(補償)
+Casual Raid (Reward)
 0
 
 ID=820000015
@@ -1375,7 +1375,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_04
 0
 0
 0
-研究用教材ボックスⅠ
+Research Teaching Materials Box Ⅰ
 スチールグレイブのチャプター1～5までの\nステージクリア報酬。\n研究員がとにかくいろいろ詰め込んだようで、\n何が出てくるかは開けてみないとわからない。\n\n[アイテムボックス]
 
 ID=820000016
@@ -1385,7 +1385,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_04
 0
 0
 0
-研究用教材ボックスⅡ
+Research Teaching Materials Box Ⅱ
 スチールグレイブのチャプター6～10までの\nステージクリア報酬。\n研究員がとにかくいろいろ詰め込んだようで、\n何が出てくるかは開けてみないとわからない。\n\n[アイテムボックス]
 
 ID=820000017
@@ -1395,7 +1395,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_04
 0
 0
 0
-研究用教材ボックスⅢ
+Research Teaching Materials Box Ⅲ
 スチールグレイブのチャプター11～15までの\nステージクリア報酬。\n研究員がとにかくいろいろ詰め込んだようで、\n何が出てくるかは開けてみないとわからない。\n\n[アイテムボックス]
 
 ID=820001000
@@ -1405,7 +1405,7 @@ Icon/item/etc/GaluxyCube1
 0
 0
 0
-イエローグルトンキューブ
+Yellow Glutten Cube
 グルトンが集めたアイテムを隠したキューブ。\n不慮の事故やド忘れにより放置される場合も多い。\nこのキューブは特に貴重なアイテムが入っている。\n\n[貴重品ボックス]
 
 ID=820001001
@@ -1415,7 +1415,7 @@ Icon/item/etc/GaluxyCube2
 0
 0
 0
-パープルグルトンキューブ
+Purple Glutton Cube
 グルトンが集めたアイテムを隠したキューブ。\n不慮の事故やド忘れにより放置される場合も多い。\nこのキューブは特に貴重なアイテムが入っている。\n\n[貴重品ボックス]
 
 ID=820001002
@@ -1425,7 +1425,7 @@ Icon/item/etc/GaluxyCube3
 0
 0
 0
-ブルーグルトンキューブ
+Blue Glutton Cube
 グルトンが集めたアイテムを隠したキューブ。\n不慮の事故やド忘れにより放置される場合も多い。\nこのキューブは特に貴重なアイテムが入っている。\n\n[貴重品ボックス]
 
 ID=820001003
@@ -1435,7 +1435,7 @@ Icon/item/etc/GaluxyCube4
 0
 0
 0
-ジェイドグルトンキューブ
+Jade Glutton Cube
 グルトンが集めたアイテムを隠したキューブ。\n不慮の事故やド忘れにより放置される場合も多い。\nこのキューブは特に貴重なアイテムが入っている。\n\n[貴重品ボックス]
 
 ID=820001004
@@ -1445,7 +1445,7 @@ Icon/item/etc/GaluxyCube5
 0
 0
 0
-レッドグルトンキューブ
+Red Glutton Cube
 グルトンが集めたアイテムを隠したキューブ。\n不慮の事故やド忘れにより放置される場合も多い。\nこのキューブは特に貴重なアイテムが入っている。\n\n[貴重品ボックス]
 
 ID=820001005
@@ -1455,7 +1455,7 @@ Icon/item/etc/GaluxyCube6
 0
 0
 0
-ゴールドグルトンキューブ
+Gold Glutton Cube
 グルトンが集めたアイテムを隠したキューブ。\n不慮の事故やド忘れにより放置される場合も多い。\nこのキューブは特に貴重なアイテムが入っている。\n\n[貴重品ボックス]
 
 ID=820900001
@@ -1465,7 +1465,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-ジャイトのプレゼントボックス
+Zaito's Gift Box
 ジャイトより装備商店の顧客に感謝を込めて…。\n便利なアイテムが入っている。\n\n[顧客等級1段階達成報酬パッケージ]
 
 ID=820900002
@@ -1475,7 +1475,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-ジャイトの貴重品プレゼントボックス
+Zaito's Gift Box of Valuables
 ジャイトより装備商店の顧客に感謝を込めて…。\n貴重なアイテムが入っている。\n\n[顧客等級2段階達成報酬パッケージ]
 
 ID=820900003
@@ -1485,7 +1485,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-ジャイトの友情プレゼントボックス
+Zaito's Gift Box of Friendship
 ジャイトより装備商店の顧客に感謝を込めて…。\n友情が込められたアイテムが入っている。\n\n[顧客等級3段階達成報酬パッケージ]
 
 ID=820900004
@@ -1495,7 +1495,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-ジャイトの信頼プレゼントボックス
+Zaito's Gift Box of Trust
 ジャイトより装備商店の顧客に感謝を込めて…。\n彼の気持ちがボックスから溢れ出しているようだ。\n…少し汗臭い？\n\n[顧客等級4段階達成報酬パッケージ]
 
 ID=820900005
@@ -1505,7 +1505,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-ジャイトの愛情プレゼントボックス
+Zaito's Gift Box of Affection
 ジャイトより装備商店の顧客に感謝を込めて…。\nこれにどれだけつぎ込んだのだろう！？\n\n[顧客等級5段階達成報酬パッケージ]
 
 ID=820900011
@@ -1515,7 +1515,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-ヨミのプレゼントボックス
+Yomi's Gift Box
 ヨミより雑貨商店の利用者に感謝を込めて…。\n便利なアイテムが入っている。\n\n[顧客等級1段階達成報酬パッケージ]
 
 ID=820900012
@@ -1525,7 +1525,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-ヨミの貴重品プレゼントボックス
+Yomi's Gift Box of Valuables
 ヨミより雑貨商店の利用者に感謝を込めて…。\n貴重なアイテムが入っている。\n\n[顧客等級2段階達成報酬パッケージ]
 
 ID=820900013
@@ -1535,7 +1535,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-ヨミの友情プレゼントボックス
+Yomi's Gift Box of Friendship
 ヨミより雑貨商店の利用者に感謝を込めて…。\n友情が込められたアイテムが入っている。\n\n[顧客等級3段階達成報酬パッケージ]
 
 ID=820900014
@@ -1545,7 +1545,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-ヨミの信頼プレゼントボックス
+Yomi's Gift Box of Trust
 ヨミより雑貨商店の利用者に感謝を込めて…。\nまさか商人と客が信頼で結ばれるとは…！\n\n[顧客等級4段階達成報酬パッケージ]
 
 ID=820900015
@@ -1555,7 +1555,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-ヨミの愛情プレゼントボックス
+Yomi's Gift Box of Affection
 ヨミより雑貨商店の利用者に感謝を込めて…。\nこれを集めるのにどれだけ苦労したのだろう？\n\n[顧客等級5段階達成報酬パッケージ]
 
 ID=820900021
@@ -1565,7 +1565,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-ゼニスのプレゼントボックス
+Zenith's Gift Box
 ゼニスより製作の利用者に感謝を込めて…。\n便利なアイテムが入っている。\n\n[顧客等級1段階達成報酬パッケージ]
 
 ID=820900022
@@ -1575,7 +1575,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-ゼニスの貴重品プレゼントボックス
+Zenith's Gift Box of Valuables
 ゼニスより製作の利用者に感謝を込めて…。\n貴重なアイテムが入っている。\n\n[顧客等級2段階達成報酬パッケージ]
 
 ID=820900023
@@ -1585,7 +1585,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-ゼニスの友情プレゼントボックス
+Zenith's Gift Box of Friendship
 ゼニスより製作の利用者に感謝を込めて…。\n友情が込められたアイテムが入っている。\n\n[顧客等級3段階達成報酬パッケージ]
 
 ID=820900024
@@ -1595,7 +1595,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-ゼニスの信頼プレゼントボックス
+Zenith's Gift Box of Trust
 ゼニスより製作の利用者に感謝を込めて…。\n信頼の証！…顔は見せてもらえないけど。\n\n[顧客等級4段階達成報酬パッケージ]
 
 ID=820900025
@@ -1605,7 +1605,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-ゼニスの愛情プレゼントボックス
+Zenith's Giftbox of Affection
 ゼニスより製作の利用者に感謝を込めて…。\nインベントリが製作アイテムで溢れそうだ！\n\n[顧客等級5段階達成報酬パッケージ]
 
 ID=820900031
@@ -1615,7 +1615,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-トリシャのプレゼントボックス
+Trisha's Gift Box
 トリシャより装備強化の利用者に感謝を込めて…。\n便利なアイテムが入っている。\n\n[顧客等級1段階達成報酬パッケージ]
 
 ID=820900032
@@ -1625,7 +1625,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-トリシャの貴重品プレゼントボックス
+Trisha's Gift Box of Valuables
 トリシャより装備強化の利用者に感謝を込めて…。\n貴重なアイテムが入っている。\n\n[顧客等級2段階達成報酬パッケージ]
 
 ID=820900033
@@ -1635,7 +1635,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-トリシャの友情プレゼントボックス
+Trisha's Gift Box of Friendship
 トリシャより装備強化の利用者に感謝を込めて…。\n彼女の友情が込められたアイテムが入っている。\n\n[顧客等級3段階達成報酬パッケージ]
 
 ID=820900034
@@ -1645,7 +1645,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-トリシャの信頼プレゼントボックス
+Trisha's Gift Box of Trust
 トリシャより装備強化の利用者に感謝を込めて…。\n装備を破壊するのだけは勘弁してほしい。\n\n[顧客等級4段階達成報酬パッケージ]
 
 ID=820900035
@@ -1655,7 +1655,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-トリシャの愛情プレゼントボックス
+Trisha's Gift Box of Affection
 トリシャより装備強化の利用者に感謝を込めて…。\n次の強化はうまくいきそうな気が…！\n\n[顧客等級5段階達成報酬パッケージ]
 
 ID=820900041
@@ -1665,7 +1665,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-アジンのプレゼントボックス
+Azin's Gift Box
 スカイクラフトの利用者に感謝を込めて…。\n便利なアイテムが入っている。\n\n[顧客等級1段階達成報酬パッケージ]
 
 ID=820900042
@@ -1675,7 +1675,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-アジンの貴重品プレゼントボックス
+Azin's Gift Box of Valuables
 スカイクラフトの利用者に感謝を込めて…。\n貴重なアイテムが入っている。\n\n[顧客等級2段階達成報酬パッケージ]
 
 ID=820900043
@@ -1685,7 +1685,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-アジンの友情プレゼントボックス
+Azin's Gift Box of Friendship
 スカイクラフトの利用者に感謝を込めて…。\nアジンからの友情の証。\n\n[顧客等級3段階達成報酬パッケージ]
 
 ID=820900044
@@ -1695,7 +1695,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-アジンの信頼プレゼントボックス
+Azin's Gift Box of Trust
 スカイクラフトの利用者に感謝を込めて…。\nアジンからの信頼の証。\nしかし、スカイクラフトは少し揺れすぎだと思う。\n\n[顧客等級4段階達成報酬パッケージ]
 
 ID=820900045
@@ -1705,7 +1705,7 @@ Icon/Item/Function/Package/ETC_0_PrimiumPackage
 0
 0
 0
-アジンの愛情プレゼントボックス
+Azin's Gift Box of Affection
 スカイクラフトの利用者に感謝を込めて…。\n乗りすぎて吐きそうだが、これも愛ってやつだよね☆\n\n[顧客等級5段階達成報酬パッケージ]
 
 ID=821010001
@@ -1715,7 +1715,7 @@ Icon/Item/Function/Package/PackageBox_PC_A
 0
 0
 0
-ビギナーボックス[ハル]
+Beginner's Starter Box [Haru]
 ハル作成時に支給されるサポートパッケージ。\n使用すると、役に立つアイテムを入手できる。
 
 ID=821050001
@@ -1725,7 +1725,7 @@ Icon/Item/Function/Package/PackageBox_PC_A
 0
 0
 0
-報酬パッケージ（Lv5）
+Level Up Package (Lv5)
 ハルがLv5達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=821100001
@@ -1735,7 +1735,7 @@ Icon/Item/Function/Package/PackageBox_PC_A
 0
 0
 0
-報酬パッケージ（Lv10）
+Level Up Package (Lv10)
 ハルがLv10達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=821160001
@@ -1745,7 +1745,7 @@ Icon/Item/Function/Package/PackageBox_PC_A
 0
 0
 0
-報酬パッケージ（Lv15）
+Level Up Package (Lv15)
 ハルがLv15達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=821220001
@@ -1755,7 +1755,7 @@ Icon/Item/Function/Package/PackageBox_PC_A
 0
 0
 0
-報酬パッケージ（Lv20）
+Level Up Package (Lv20)
 ハルがLv20達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=821290001
@@ -1765,7 +1765,7 @@ Icon/Item/Function/Package/PackageBox_PC_A
 0
 0
 0
-報酬パッケージ（Lv25）
+Level Up Package (Lv25)
 ハルがLv25達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=821300001
@@ -1775,7 +1775,7 @@ Icon/Item/Function/Package/PackageBox_PC_A
 0
 0
 0
-報酬パッケージ（Lv30）
+Level Up Package (Lv30)
 ハルがLv30達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=821360001
@@ -1785,7 +1785,7 @@ Icon/Item/Function/Package/PackageBox_PC_A
 0
 0
 0
-報酬パッケージ（Lv35）
+Level Up Package (Lv35)
 ハルがLv35達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=821400001
@@ -1795,7 +1795,7 @@ Icon/Item/Function/Package/PackageBox_PC_A
 0
 0
 0
-報酬パッケージ（Lv40）
+Level Up Package (Lv40)
 ハルがLv40達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=821450001
@@ -1805,7 +1805,7 @@ Icon/Item/Function/Package/PackageBox_PC_A
 0
 0
 0
-報酬パッケージ（Lv45）
+Level Up Package (Lv45)
 ハルがLv45達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=821500001
@@ -1815,7 +1815,7 @@ Icon/Item/Function/Package/PackageBox_PC_A
 0
 0
 0
-報酬パッケージ（Lv50）
+Level Up Package (Lv50)
 ハルがLv50達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=821550001
@@ -1825,7 +1825,7 @@ Icon/Item/Function/Package/PackageBox_PC_A
 0
 0
 0
-報酬パッケージ（Lv55）
+Level Up Package (Lv55)
 ハルがLv55達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=822010001
@@ -1835,7 +1835,7 @@ Icon/Item/Function/Package/PackageBox_PC_B
 0
 0
 0
-ビギナーボックス[アーウィン]
+Beginner's Box [Erwin]
 アーウィン作成時に支給されるサポートパッケージ。\n使用すると、役に立つアイテムを入手できる。
 
 ID=822050001
@@ -1845,7 +1845,7 @@ Icon/Item/Function/Package/PackageBox_PC_B
 0
 0
 0
-報酬パッケージ（Lv5）
+Level Up Package (Lv5)
 アーウィンがLv5達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=822100001
@@ -1855,7 +1855,7 @@ Icon/Item/Function/Package/PackageBox_PC_B
 0
 0
 0
-報酬パッケージ（Lv10）
+Level Up Package (Lv10)
 アーウィンがLv10達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=822160001
@@ -1865,7 +1865,7 @@ Icon/Item/Function/Package/PackageBox_PC_B
 0
 0
 0
-報酬パッケージ（Lv15）
+Level Up Package (Lv15)
 アーウィンがLv15達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=822220001
@@ -1875,7 +1875,7 @@ Icon/Item/Function/Package/PackageBox_PC_B
 0
 0
 0
-報酬パッケージ（Lv20）
+Level Up Package (Lv20)
 アーウィンがLv20達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=822290001
@@ -1885,7 +1885,7 @@ Icon/Item/Function/Package/PackageBox_PC_B
 0
 0
 0
-報酬パッケージ（Lv25）
+Level Up Package (Lv25)
 アーウィンがLv25達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=822300001
@@ -1895,7 +1895,7 @@ Icon/Item/Function/Package/PackageBox_PC_B
 0
 0
 0
-報酬パッケージ（Lv30）
+Level Up Package (Lv30)
 アーウィンがLv30達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=822360001
@@ -1905,7 +1905,7 @@ Icon/Item/Function/Package/PackageBox_PC_B
 0
 0
 0
-報酬パッケージ（Lv35）
+Level Up Package (Lv35)
 アーウィンがLv35達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=822400001
@@ -1915,7 +1915,7 @@ Icon/Item/Function/Package/PackageBox_PC_B
 0
 0
 0
-報酬パッケージ（Lv40）
+Level Up Package (Lv40)
 アーウィンがLv40達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=822450001
@@ -1925,7 +1925,7 @@ Icon/Item/Function/Package/PackageBox_PC_B
 0
 0
 0
-報酬パッケージ（Lv45）
+Level Up Package (Lv45)
 アーウィンがLv45達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=822500001
@@ -1935,7 +1935,7 @@ Icon/Item/Function/Package/PackageBox_PC_B
 0
 0
 0
-報酬パッケージ（Lv50）
+Level Up Package (Lv50)
 アーウィンがLv50達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=822550001
@@ -1945,7 +1945,7 @@ Icon/Item/Function/Package/PackageBox_PC_B
 0
 0
 0
-報酬パッケージ（Lv55）
+Level Up Package (Lv55)
 アーウィンがLv55達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=823010001
@@ -1955,7 +1955,7 @@ Icon/Item/Function/Package/PackageBox_PC_C
 0
 0
 0
-ビギナーボックス[リリー]
+Beginner's Box [Lily]
 リリー作成時に支給されるサポートパッケージ。\n\n使用すると、役に立つアイテムを入手できる。
 
 ID=823050001
@@ -1965,7 +1965,7 @@ Icon/Item/Function/Package/PackageBox_PC_C
 0
 0
 0
-報酬パッケージ（Lv5）
+Level Up Package (Lv5)
 リリーがLv5達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=823100001
@@ -1975,7 +1975,7 @@ Icon/Item/Function/Package/PackageBox_PC_C
 0
 0
 0
-報酬パッケージ（Lv10）
+Level Up Package (Lv10)
 リリーがLv10達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=823160001
@@ -1985,7 +1985,7 @@ Icon/Item/Function/Package/PackageBox_PC_C
 0
 0
 0
-報酬パッケージ（Lv15）
+Level Up Package (Lv15)
 リリーがLv15達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=823220001
@@ -1995,7 +1995,7 @@ Icon/Item/Function/Package/PackageBox_PC_C
 0
 0
 0
-報酬パッケージ（Lv20）
+Level Up Package (Lv20)
 リリーがLv20達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=823290001
@@ -2005,7 +2005,7 @@ Icon/Item/Function/Package/PackageBox_PC_C
 0
 0
 0
-報酬パッケージ（Lv25）
+Level Up Package (Lv25)
 リリーがLv25達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=823300001
@@ -2015,7 +2015,7 @@ Icon/Item/Function/Package/PackageBox_PC_C
 0
 0
 0
-報酬パッケージ（Lv30）
+Level Up Package (Lv30)
 リリーがLv30達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=823360001
@@ -2025,7 +2025,7 @@ Icon/Item/Function/Package/PackageBox_PC_C
 0
 0
 0
-報酬パッケージ（Lv35）
+Level Up Package (Lv35)
 リリーがLv35達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=823400001
@@ -2035,7 +2035,7 @@ Icon/Item/Function/Package/PackageBox_PC_C
 0
 0
 0
-報酬パッケージ（Lv40）
+Level Up Package (Lv40)
 リリーがLv40達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=823450001
@@ -2045,7 +2045,7 @@ Icon/Item/Function/Package/PackageBox_PC_C
 0
 0
 0
-報酬パッケージ（Lv45）
+Level Up Package (Lv45)
 リリーがLv45達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=823500001
@@ -2055,7 +2055,7 @@ Icon/Item/Function/Package/PackageBox_PC_C
 0
 0
 0
-報酬パッケージ（Lv50）
+Level Up Package (Lv50)
 リリーがLv50達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=823550001
@@ -2065,7 +2065,7 @@ Icon/Item/Function/Package/PackageBox_PC_C
 0
 0
 0
-報酬パッケージ（Lv55）
+Level Up Package (Lv55)
 リリーがLv55達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=825010001
@@ -2075,7 +2075,7 @@ Icon/Item/Function/Package/PackageBox_PC_E
 0
 0
 0
-ビギナーボックス[ステラ]
+Beginner's Box [Stella]
 ステラ作成時に支給されるサポートパッケージ。\n使用すると、役に立つアイテムを入手できる。
 
 ID=825050001
@@ -2085,7 +2085,7 @@ Icon/Item/Function/Package/PackageBox_PC_E
 0
 0
 0
-報酬パッケージ（Lv5）
+Level Up Package (Lv5)
 ステラがLv5達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=825100001
@@ -2095,7 +2095,7 @@ Icon/Item/Function/Package/PackageBox_PC_E
 0
 0
 0
-報酬パッケージ（Lv10）
+Level Up Package (Lv10)
 ステラがLv10達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=825160001
@@ -2105,7 +2105,7 @@ Icon/Item/Function/Package/PackageBox_PC_E
 0
 0
 0
-報酬パッケージ（Lv15）
+Level Up Package (Lv15)
 ステラがLv15達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=825220001
@@ -2115,7 +2115,7 @@ Icon/Item/Function/Package/PackageBox_PC_E
 0
 0
 0
-報酬パッケージ（Lv20）
+Level Up Package (Lv20)
 ステラがLv20達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=825290001
@@ -2125,7 +2125,7 @@ Icon/Item/Function/Package/PackageBox_PC_E
 0
 0
 0
-報酬パッケージ（Lv25）
+Level Up Package (Lv25)
 ステラがLv25達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=825300001
@@ -2135,7 +2135,7 @@ Icon/Item/Function/Package/PackageBox_PC_E
 0
 0
 0
-報酬パッケージ（Lv30）
+Level Up Package (Lv30)
 ステラがLv30達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=825360001
@@ -2145,7 +2145,7 @@ Icon/Item/Function/Package/PackageBox_PC_E
 0
 0
 0
-報酬パッケージ（Lv35）
+Level Up Package (Lv35)
 ステラがLv35達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=825400001
@@ -2155,7 +2155,7 @@ Icon/Item/Function/Package/PackageBox_PC_E
 0
 0
 0
-報酬パッケージ（Lv40）
+Level Up Package (Lv40)
 ステラがLv40達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=825450001
@@ -2165,7 +2165,7 @@ Icon/Item/Function/Package/PackageBox_PC_E
 0
 0
 0
-報酬パッケージ（Lv45）
+Level Up Package (Lv45)
 ステラがLv45達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=825500001
@@ -2175,7 +2175,7 @@ Icon/Item/Function/Package/PackageBox_PC_E
 0
 0
 0
-報酬パッケージ（Lv50）
+Level Up Package (Lv50)
 ステラがLv50達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=825550001
@@ -2185,7 +2185,7 @@ Icon/Item/Function/Package/PackageBox_PC_E
 0
 0
 0
-報酬パッケージ（Lv55）
+Level Up Package (Lv55)
 ステラがLv55達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=820999141
@@ -2195,7 +2195,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-コインボックス
+Coin Box
 デイリーログイン報酬。Sコインを入手できる。\n\n[接続時間報酬パッケージ]
 
 ID=820999142
@@ -2205,7 +2205,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-デイリーログイン報酬（中）
+Daily Login Reward (Ordinary)
 2時間ログイン状態を維持すると獲得できる。\n役に立つアイテムを入手できる。\n\n[接続時間報酬パッケージ]
 
 ID=820999143
@@ -2215,7 +2215,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-デイリーログイン報酬（大）
+Daily Login Reward (Large)
 3時間ログイン状態を維持すると獲得できる。\n役に立つアイテムを入手できる。\n\n[接続時間報酬パッケージ]
 
 ID=820999144
@@ -2225,7 +2225,7 @@ Icon/Item/Function/Package/ETC_0_SpeciallPackage
 0
 0
 0
-[家具セット]ランダムセット
+[Furniture Set] Random Set
 マイルームを飾る基本家具が入っている。\nシリーズはバラバラだが、色は合わせられる。\n\n[家具セット]
 
 ID=820999145
@@ -2235,7 +2235,7 @@ Icon/Item/Function/Package/ETC_0_SpeciallPackage
 0
 0
 0
-[家具製作ボックス]モノソファ[A]
+[Furniture Crafting Box] Monosofa [A]
 モノソファ[A]の製作材料が全て入っている。\n\n[家具製作セット]
 
 ID=820999146
@@ -2245,7 +2245,7 @@ Icon/Item/Function/Package/ETC_0_SpeciallPackage
 0
 0
 0
-[家具製作ボックス]モノテーブル[A]
+[Furniture Crafting Box] Monotable [A]
 モノテーブル[A]の製作材料が全て入っている。\n\n[家具製作セット]
 
 ID=820999147
@@ -2255,7 +2255,7 @@ Icon/Item/Function/Package/ETC_0_SpeciallPackage
 0
 0
 0
-[家具製作ボックス]モノバスタブ[A]
+[Furniture Crafting Box] Mono Bathtub [A]
 モノバスタブ[A]の製作材料が全て入っている。\n\n[家具製作セット]
 
 ID=820999148
@@ -2265,7 +2265,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_5Chapter
 0
 0
 0
-研究資料パッケージⅠ
+Research Materials Package Ⅰ
 スチールグレイブ[チャプター5]の報酬。\nソウルウェポンとギアの設計図ボックスが入っている。\n\n[アイテムボックス]
 
 ID=820999149
@@ -2275,7 +2275,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_5Chapter
 0
 0
 0
-研究資料パッケージⅡ
+Research Materials Package Ⅱ
 スチールグレイブ[チャプター10]の報酬。\nソウルウェポンとギアの設計図ボックスが入っている。\n\n[アイテムボックス]
 
 ID=820999150
@@ -2285,7 +2285,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_5Chapter
 0
 0
 0
-研究資料パッケージⅢ
+Research Materials Package Ⅲ
 スチールグレイブ[チャプター15]の報酬。\nソウルウェポンとギアの設計図ボックスが入っている。\n\n[アイテムボックス]
 
 ID=820999151
@@ -2295,7 +2295,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_Stage
 0
 0
 0
-研究アイテムパッケージⅠ
+Research Items Package Ⅰ
 スチールグレイブのチャプター1～4を\nクリアした者に贈られる。\n役に立つ物が入っていることは確か。\n\n\n[アイテムボックス]
 
 ID=820999152
@@ -2305,7 +2305,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_Stage
 0
 0
 0
-研究アイテムパッケージⅡ
+Research Items Package Ⅱ
 スチールグレイブのチャプター6～9を\nクリアした者に贈られる。\n役に立つ物が入っていることは確か。\n\n[アイテムボックス]
 
 ID=820999153
@@ -2315,7 +2315,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_Stage
 0
 0
 0
-研究アイテムパッケージⅢ
+Research Items Package Ⅲ
 スチールグレイブのチャプター11～14を\nクリアした者に贈られる。\n役に立つ物が入っていることは確か。\n\n[アイテムボックス]
 
 ID=820999101
@@ -2325,7 +2325,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：1Day
+Login Rewards Package: 1 Day
 1日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999102
@@ -2335,7 +2335,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：2Day
+Login Rewards Package: 2 Days
 2日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999103
@@ -2345,7 +2345,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：3Day
+Login Rewards Package: 3 Days
 3日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999104
@@ -2355,7 +2355,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：4Day
+Login Rewards Package: 4 Days
 4日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999105
@@ -2365,7 +2365,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：5Day
+Login Rewards Package: 5 Days
 5日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999106
@@ -2375,7 +2375,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：6Day
+Login Rewards Package: 6 Days
 6日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999107
@@ -2385,7 +2385,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：7Day
+Login Rewards Package: 7 Days
 7日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999108
@@ -2395,7 +2395,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：8Day
+Login Rewards Package: 8 Days
 8日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999109
@@ -2405,7 +2405,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：9Day
+Login Rewards Package: 9 Days
 9日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999110
@@ -2415,7 +2415,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：10Day
+Login Rewards Package: 10 Days
 10日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999111
@@ -2425,7 +2425,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：11Day
+Login Rewards Package: 11 Days
 11日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999112
@@ -2435,7 +2435,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：12Day
+Login Rewards Package: 12 Days
 12日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999113
@@ -2445,7 +2445,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：13Day
+Login Rewards Package: 13 Days
 13日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999114
@@ -2455,7 +2455,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：14Day
+Login Rewards Package: 14 Days
 14日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999115
@@ -2465,7 +2465,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：15Day
+Login Rewards Package: 15 Days
 15日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999116
@@ -2475,7 +2475,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：16Day
+Login Rewards Package: 16 Days
 16日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999117
@@ -2485,7 +2485,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：17Day
+Login Rewards Package: 17 Days
 17日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999118
@@ -2495,7 +2495,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：18Day
+Login Rewards Package: 18 Days
 18日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999119
@@ -2505,7 +2505,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：19Day
+Login Rewards Package: 19 Days
 19日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999120
@@ -2515,7 +2515,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：20Day
+Login Rewards Package: 20 Days
 20日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999121
@@ -2525,7 +2525,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：21Day
+Login Rewards Package: 21 Days
 21日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999122
@@ -2535,7 +2535,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：22Day
+Login Rewards Package: 22 Days
 22日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999123
@@ -2545,7 +2545,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：23Day
+Login Rewards Package: 23 Days
 23日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999124
@@ -2555,7 +2555,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：24Day
+Login Rewards Package: 24 Days
 24日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999125
@@ -2565,7 +2565,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：25Day
+Login Rewards Package: 25 Days
 25日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999126
@@ -2575,7 +2575,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：26Day
+Login Rewards Package: 26 Days
 26日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999127
@@ -2585,7 +2585,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：27Day
+Login Rewards Package: 27 Days
 27日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999128
@@ -2595,7 +2595,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：28Day
+Login Rewards Package: 28 Days
 28日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999129
@@ -2605,7 +2605,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：29Day
+Login Rewards Package: 29 Days
 29日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999130
@@ -2615,7 +2615,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：30Day
+Login Rewards Package: 30 Days
 30日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=820999131
@@ -2625,7 +2625,7 @@ Icon/Item/Function/Package/ETC_0_NormalPackage
 0
 0
 0
-ログイン報酬パッケージ：31Day
+Login Rewards Package: 31 Days
 31日目のログイン報酬。\n役に立つアイテムを入手できる。\n\n[ログイン報酬パッケージ]
 
 ID=811010601
@@ -2635,7 +2635,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-レースピンク-未開封
+Lacy Pink - Sealed
 下着「レースピンク」が入っている。
 
 ID=811020601
@@ -2645,7 +2645,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-レッドチェック-未開封
+Red Plaid - Sealed
 下着「レッドチェック」が入っている。
 
 ID=811030601
@@ -2655,7 +2655,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スターブルー-未開封
+Starry Blue - Sealed
 下着「スターブルー」が入っている。
 
 ID=811040601
@@ -2665,7 +2665,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-チェックホワイト-未開封
+White Plaid - Sealed
 下着「チェックホワイト」が入っている。
 
 ID=831010601
@@ -2675,7 +2675,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ブラックライン-未開封
+Black Stripe - Sealed
 下着「ブラックライン」が入っている。
 
 ID=831020601
@@ -2685,7 +2685,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-レッドポイント-未開封
+Red Point - Sealed
 下着「レッドポイント」が入っている。
 
 ID=831030601
@@ -2695,7 +2695,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-シャイニングバイオレット-未開封
+Glossy Violet - Sealed
 下着「シャイニングバイオレット」が入っている。
 
 ID=831040601
@@ -2705,7 +2705,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ブルーフラワー-未開封
+Flowery Blue - Sealed
 下着「ブルーフラワー」が入っている。
 
 ID=851010601
@@ -2715,7 +2715,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ダブルポイント-未開封
+Double Cuffed Dot - Sealed
 下着「ダブルポイント」が入っている。
 
 ID=851020601
@@ -2725,7 +2725,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ブルーライン-未開封
+Blue Stripe - Sealed
 下着「ブルーライン」が入っている。
 
 ID=851030601
@@ -2735,7 +2735,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-プリティオレンジ-未開封
+Lovely Orange - Sealed
 下着「プリティオレンジ」が入っている。
 
 ID=851040601
@@ -2745,7 +2745,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-リトルホワイト-未開封
+Tiny White - Sealed
 下着「リトルホワイト」が入っている。
 
 ID=813010901
@@ -2755,7 +2755,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[衣装]-未開封
+Detective School Uniform[Outfit] - Sealed
 探偵学園制服[衣装]が入っている。
 
 ID=813010101
@@ -2765,7 +2765,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[キャロット]-未開封
+Detective School Uniform[Hat] - Sealed
 探偵学園制服[キャロット]が入っている。
 
 ID=813011101
@@ -2775,7 +2775,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[ソックス]-未開封
+Detective School Uniform[Socks] - Sealed
 探偵学園制服[ソックス]が入っている。
 
 ID=813011201
@@ -2785,7 +2785,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[靴]-未開封
+Detective School Uniform[Shoes] - Sealed
 探偵学園制服[靴]が入っている。
 
 ID=813021901
@@ -2795,7 +2795,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[キャップ]-未開封
+Sporty [Cap] - Sealed
 スポーティー[キャップ]が入っている。
 
 ID=813020701
@@ -2805,7 +2805,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[上衣]-未開封
+Sporty [Coat] - Sealed
 スポーティー[上衣]が入っている。
 
 ID=813020801
@@ -2815,7 +2815,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[下衣]-未開封
+Sporty [Pants] - Sealed
 スポーティー[下衣]が入っている。
 
 ID=813021001
@@ -2825,7 +2825,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[カバン]-未開封
+Sporty [Bag] - Sealed
 スポーティー[カバン]が入っている。
 
 ID=813020301
@@ -2835,7 +2835,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[蛍光眼鏡]-未開封
+Sporty [Fluorescent Glasses] - Sealed
 スポーティー[蛍光眼鏡]が入っている。
 
 ID=813020501
@@ -2845,7 +2845,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[ウォッチ]-未開封
+Sporty [Watch] - Sealed
 スポーティー[ウォッチ]が入っている。
 
 ID=813021201
@@ -2855,7 +2855,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[運動靴]-未開封
+Sporty [Athletic Shoes] - Sealed
 スポーティー[運動靴]が入っている。
 
 ID=813030701
@@ -2865,7 +2865,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[上衣]-未開封
+Modern Casual [Coat] - Sealed
 モダンカジュアル[上衣]が入っている。
 
 ID=813030801
@@ -2875,7 +2875,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[スカート]-未開封
+Modern Casual [Skirt] - Sealed
 モダンカジュアル[スカート]が入っている。
 
 ID=813030301
@@ -2885,7 +2885,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[縁眼鏡]-未開封
+Modern Casual [Rim Glasses] - Sealed
 モダンカジュアル[縁眼鏡]が入っている。
 
 ID=813030501
@@ -2895,7 +2895,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[腕時計]-未開封
+Modern Casual [Wristwatch] - Sealed
 モダンカジュアル[腕時計]が入っている。
 
 ID=813031201
@@ -2905,7 +2905,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[シューズ]-未開封
+Modern Casual [Shoes] - Sealed
 モダンカジュアル[シューズ]が入っている。
 
 ID=813040101
@@ -2915,7 +2915,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ナース[帽子]-未開封
+Nurse [Hat] - Sealed
 ナース[帽子]が入っている。
 
 ID=813040901
@@ -2925,7 +2925,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ナース[衣装]-未開封
+Nurse [Costume] - Sealed
 ナース[衣装]が入っている。
 
 ID=813041101
@@ -2935,7 +2935,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ナース[タイツ]-未開封
+Nurse [Tights] - Sealed
 ナース[タイツ]が入っている。
 
 ID=813041201
@@ -2945,7 +2945,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ナース[靴]-未開封
+Nurse [Shoes] - Sealed
 ナース[靴]が入っている。
 
 ID=813050701
@@ -2955,7 +2955,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ハルの制服A[上衣]-未開封
+Haru's Uniform A [Coat] - Sealed
 ハルの制服A[上衣]が入っている。
 
 ID=813050801
@@ -2965,7 +2965,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ハルの制服A[スカート]-未開封
+Haru's Uniform A [Skirt] - Sealed
 ハルの制服A[スカート]が入っている。
 
 ID=813051101
@@ -2975,7 +2975,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ハルの制服A[ソックス]-未開封
+Haru's Uniform A [Socks] - Sealed
 ハルの制服A[ソックス]が入っている。
 
 ID=813060701
@@ -2985,7 +2985,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ハルの制服B[上衣]-未開封
+Haru's Uniform B [Coat] - Sealed
 ハルの制服B[上衣]が入っている。
 
 ID=813060801
@@ -2995,7 +2995,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ハルの制服B[スカート]-未開封
+Haru's Uniform A [Skirt] - Sealed
 ハルの制服B[スカート]が入っている。
 
 ID=813061101
@@ -3005,7 +3005,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ハルの制服B[ソックス]-未開封
+Haru's Uniform A [Socks] - Sealed
 ハルの制服B[ソックス]が入っている。
 
 ID=813070701
@@ -3015,7 +3015,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ハルの制服C[上衣]-未開封
+Haru's Uniform C [Coat] - Sealed
 ハルの制服C[上衣]が入っている。
 
 ID=813070801
@@ -3025,7 +3025,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ハルの制服C[スカート]-未開封
+Haru's Uniform C [Skirt] - Sealed
 ハルの制服C[スカート]が入っている。
 
 ID=813071101
@@ -3035,7 +3035,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ハルの制服C[ソックス]-未開封
+Haru's Uniform A [Socks] - Sealed
 ハルの制服C[ソックス]が入っている。
 
 ID=813080701
@@ -3045,7 +3045,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ハルの制服D[上衣]-未開封
+Haru's Uniform D [Coat] - Sealed
 ハルの制服D[上衣]が入っている。
 
 ID=813080801
@@ -3055,7 +3055,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ハルの制服D[スカート]-未開封
+Haru's Uniform D [Skirt] - Sealed
 ハルの制服D[スカート]が入っている。
 
 ID=813081101
@@ -3065,7 +3065,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ハルの制服D[ソックス]-未開封
+Haru's Uniform D [Socks] - Sealed
 ハルの制服D[ソックス]が入っている。
 
 ID=813090901
@@ -3075,7 +3075,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[衣装]-未開封
+Sweet Look [Outfit] - Sealed
 スイートルック[衣装]が入っている。
 
 ID=813090101
@@ -3085,7 +3085,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[帽子]-未開封
+Sweet Look [Hat] - Sealed
 スイートルック[帽子]が入っている。
 
 ID=813091101
@@ -3095,7 +3095,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[タイツ]-未開封
+Sweet Look [Stockings] - Sealed
 スイートルック[タイツ]が入っている。
 
 ID=813091201
@@ -3105,7 +3105,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[靴]-未開封
+Sweet Look [Shoes] - Sealed
 スイートルック[靴]が入っている。
 
 ID=813100901
@@ -3115,7 +3115,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-復讐の剣[衣装]-未開封
+Wrath Blade [Costume] - Sealed
 復讐の剣[衣装]が入っている。
 
 ID=813101101
@@ -3125,7 +3125,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-復讐の剣[ソックス]-未開封
+Wrath Blade [Socks] - Sealed
 復讐の剣[ソックス]が入っている。
 
 ID=813101201
@@ -3135,7 +3135,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-復讐の剣[ブーツ]-未開封
+Wrath Blade [Boots] - Sealed
 復讐の剣[ブーツ]が入っている。
 
 ID=813110101
@@ -3145,7 +3145,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[キャップ]-未開封
+Merchant Uniform [Cap] - Sealed
 商人制服[キャップ]が入っている。
 
 ID=813110701
@@ -3155,7 +3155,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[上衣]-未開封
+Merchant Uniform [Coat] - Sealed
 商人制服[上衣]が入っている。
 
 ID=813110801
@@ -3165,7 +3165,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[スカート]-未開封
+Merchant Uniform [Skirt] - Sealed
 商人制服[スカート]が入っている。
 
 ID=813111101
@@ -3175,7 +3175,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[ソックス]-未開封
+Merchant Uniform [Socks] - Sealed
 商人制服[ソックス]が入っている。
 
 ID=813111201
@@ -3185,7 +3185,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[運動靴]-未開封
+Merchant Uniform [Shoes] - Sealed
 商人制服[運動靴]が入っている。
 
 ID=813120701
@@ -3195,7 +3195,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-連合旧式軍服[上衣]-未開封
+Old Style Military Uniform [Coat] - Sealed
 連合旧式軍服[上衣]が入っている。
 
 ID=813120801
@@ -3205,7 +3205,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-連合旧式軍服[スカート]-未開封
+Old Style Military Uniform [Skirt] - Sealed
 連合旧式軍服[スカート]が入っている。
 
 ID=813121201
@@ -3215,7 +3215,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-連合旧式軍服[ブーツ]-未開封
+Old Style Military Uniform [Boots] - Sealed
 連合旧式軍服[ブーツ]が入っている。
 
 ID=823010101
@@ -3225,7 +3225,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[キャロット]-未開封
+Detective School Uniform[Hat] - Sealed
 探偵学園制服[キャロット]が入っている。
 
 ID=823010901
@@ -3235,7 +3235,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[衣装]-未開封
+Detective School Uniform[Outfit] - Sealed
 探偵学園制服[衣装]が入っている。
 
 ID=823010401
@@ -3245,7 +3245,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[紳士口ヒゲ]-未開封
+Detective School Uniform [Mustache] - Sealed
 探偵学園制服[紳士口ヒゲ]が入っている。
 
 ID=823011201
@@ -3255,7 +3255,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[靴]-未開封
+Detective School Uniform[Shoes] - Sealed
 探偵学園制服[靴]が入っている。
 
 ID=823021901
@@ -3265,7 +3265,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[フード]-未開封
+Sporty [Hood] - Sealed
 スポーティー[フード]が入っている。
 
 ID=823020401
@@ -3275,7 +3275,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[マスク]-未開封
+Sporty [Mask] - Sealed
 スポーティー[マスク]が入っている。
 
 ID=823020701
@@ -3285,7 +3285,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[上衣]-未開封
+Sporty [Coat] - Sealed
 スポーティー[上衣]が入っている。
 
 ID=823020801
@@ -3295,7 +3295,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[下衣]-未開封
+Sporty [Pants] - Sealed
 スポーティー[下衣]が入っている。
 
 ID=823020501
@@ -3305,7 +3305,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[グローブ]-未開封
+Sporty [Gloves] - Sealed
 スポーティー[グローブ]が入っている。
 
 ID=823021301
@@ -3315,7 +3315,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[ポーチ]-未開封
+Sporty [Bag] - Sealed
 スポーティー[ポーチ]が入っている。
 
 ID=823021201
@@ -3325,7 +3325,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[靴]-未開封
+Sporty [Shoes] - Sealed
 スポーティー[靴]が入っている。
 
 ID=823030301
@@ -3335,7 +3335,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[縁眼鏡]-未開封
+Modern Casual [Rim Glasses] - Sealed
 モダンカジュアル[縁眼鏡]が入っている。
 
 ID=823030701
@@ -3345,7 +3345,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[上衣]-未開封
+Modern Casual [Coat] - Sealed
 モダンカジュアル[上衣]が入っている。
 
 ID=823030501
@@ -3355,7 +3355,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[腕時計]-未開封
+Modern Casual [Wristwatch] - Sealed
 モダンカジュアル[腕時計]が入っている。
 
 ID=823030801
@@ -3365,7 +3365,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[下衣]-未開封
+Modern Casual [Pants] - Sealed
 モダンカジュアル[下衣]が入っている。
 
 ID=823031201
@@ -3375,7 +3375,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[シューズ]-未開封
+Modern Casual [Shoes] - Sealed
 モダンカジュアル[シューズ]が入っている。
 
 ID=823040301
@@ -3385,7 +3385,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ドクター[縁眼鏡]-未開封
+Doctor [Rim Glasses] - Sealed
 ドクター[縁眼鏡]が入っている。
 
 ID=823040901
@@ -3395,7 +3395,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ドクター[衣装]-未開封
+Doctor [Outfit] - Sealed
 ドクター[衣装]が入っている。
 
 ID=823040501
@@ -3405,7 +3405,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ドクター[手袋]-未開封
+Doctor [Gloves] - Sealed
 ドクター[手袋]が入っている。
 
 ID=823041201
@@ -3415,7 +3415,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ドクター[靴]-未開封
+Doctor [Shoes] - Sealed
 ドクター[靴]が入っている。
 
 ID=823050701
@@ -3425,7 +3425,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-アーウィンの制服A[上衣]-未開封
+Erwin's Uniform A [Coat] - Sealed
 アーウィンの制服A[上衣]が入っている。
 
 ID=823050801
@@ -3435,7 +3435,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-アーウィンの制服A[下衣]-未開封
+Erwin's Uniform A [Pants] - Sealed
 アーウィンの制服A[下衣]が入っている。
 
 ID=823060701
@@ -3445,7 +3445,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-アーウィンの制服B[上衣]-未開封
+Erwin's Uniform B [Coat] - Sealed
 アーウィンの制服B[上衣]が入っている。
 
 ID=823060801
@@ -3455,7 +3455,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-アーウィンの制服B[下衣]-未開封
+Erwin's Uniform B [Pants] - Sealed
 アーウィンの制服B[下衣]が入っている。
 
 ID=823070701
@@ -3465,7 +3465,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-アーウィンの制服C[上衣]-未開封
+Erwin's Uniform C [Coat] - Sealed
 アーウィンの制服C[上衣]が入っている。
 
 ID=823070801
@@ -3475,7 +3475,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-アーウィンの制服C[下衣]-未開封
+Erwin's Uniform C [Pants] - Sealed
 アーウィンの制服C[下衣]が入っている。
 
 ID=823080701
@@ -3485,7 +3485,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-アーウィンの制服D[上衣]-未開封
+Erwin's Uniform D [Coat] - Sealed
 アーウィンの制服D[上衣]が入っている。
 
 ID=823080801
@@ -3495,7 +3495,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-アーウィンの制服D[下衣]-未開封
+Erwin's Uniform D [Pants] - Sealed
 アーウィンの制服D[下衣]が入っている。
 
 ID=823100701
@@ -3505,7 +3505,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[衣装]-未開封
+Sweet Look [Outfit] - Sealed
 スイートルック[衣装]が入っている。
 
 ID=823090301
@@ -3515,7 +3515,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[眼鏡]-未開封
+Sweet Look [Glasses] - Sealed
 スイートルック[眼鏡]が入っている。
 
 ID=823120501
@@ -3525,7 +3525,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[時計]-未開封
+Sweet Look [Watch] - Sealed
 スイートルック[時計]が入っている。
 
 ID=823131201
@@ -3535,7 +3535,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[靴]-未開封
+Sweet Look [Shoes] - Sealed
 スイートルック[靴]が入っている。
 
 ID=823100901
@@ -3545,7 +3545,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-快楽の弾丸[衣装]-未開封
+Pleasureful Bullets [Costume] - Sealed
 快楽の弾丸[衣装]が入っている。
 
 ID=823100501
@@ -3555,7 +3555,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-快楽の弾丸[腕輪]-未開封
+Pleasureful Bullets [Bracelet] - Sealed
 快楽の弾丸[腕輪]が入っている。
 
 ID=823101201
@@ -3565,7 +3565,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-快楽の弾丸[ブーツ]-未開封
+Pleasureful Bullets [Boots] - Sealed
 快楽の弾丸[ブーツ]が入っている。
 
 ID=823110101
@@ -3575,7 +3575,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[キャップ]-未開封
+Merchant Uniform [Cap] - Sealed
 商人制服[キャップ]が入っている。
 
 ID=823110701
@@ -3585,7 +3585,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[上衣]-未開封
+Merchant Uniform [Coat] - Sealed
 商人制服[上衣]が入っている。
 
 ID=823110801
@@ -3595,7 +3595,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[下衣]-未開封
+Merchant Uniform [Pants] - Sealed
 商人制服[下衣]が入っている。
 
 ID=823111201
@@ -3605,7 +3605,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[運動靴]-未開封
+Merchant Uniform [Shoes] - Sealed
 商人制服[運動靴]が入っている。
 
 ID=823120701
@@ -3615,7 +3615,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-連合旧式軍服[上衣]-未開封
+Old Style Military Uniform [Coat] - Sealed
 連合旧式軍服[上衣]が入っている。
 
 ID=823120801
@@ -3625,7 +3625,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-連合旧式軍服[下衣]-未開封
+Old Style Military Uniform [Pants] - Sealed
 連合旧式軍服[下衣]が入っている。
 
 ID=823121201
@@ -3635,7 +3635,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-連合旧式軍服[ブーツ]-未開封
+Old Style Military Uniform [Boots] - Sealed
 連合旧式軍服[ブーツ]が入っている。
 
 ID=833010701
@@ -3645,7 +3645,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[衣装]-未開封
+Detective School Uniform[Outfit] - Sealed
 探偵学園制服[衣装]が入っている。
 
 ID=833010101
@@ -3655,7 +3655,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[キャロット]-未開封
+Detective School Uniform[Hat] - Sealed
 探偵学園制服[キャロット]が入っている。
 
 ID=833011101
@@ -3665,7 +3665,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[ソックス]-未開封
+Detective School Uniform[Socks] - Sealed
 探偵学園制服[ソックス]が入っている。
 
 ID=833011201
@@ -3675,7 +3675,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[靴]-未開封
+Detective School Uniform[Shoes] - Sealed
 探偵学園制服[靴]が入っている。
 
 ID=833021901
@@ -3685,7 +3685,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[キャップ]-未開封
+Sporty [Cap] - Sealed
 スポーティー[キャップ]が入っている。
 
 ID=833020701
@@ -3695,7 +3695,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[上衣]-未開封
+Sporty [Coat] - Sealed
 スポーティー[上衣]が入っている。
 
 ID=833020801
@@ -3705,7 +3705,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[下衣]-未開封
+Sporty [Pants] - Sealed
 スポーティー[下衣]が入っている。
 
 ID=833021001
@@ -3715,7 +3715,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[ポーチ]-未開封
+Sporty [Bag] - Sealed
 スポーティー[ポーチ]が入っている。
 
 ID=833020301
@@ -3725,7 +3725,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[蛍光眼鏡]-未開封
+Sporty [Fluorescent Glasses] - Sealed
 スポーティー[蛍光眼鏡]が入っている。
 
 ID=833021101
@@ -3735,7 +3735,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[ソックス]-未開封
+Sporty [Socks] - Sealed
 スポーティー[ソックス]が入っている。
 
 ID=833020501
@@ -3745,7 +3745,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[ウォッチ]-未開封
+Sporty [Watch] - Sealed
 スポーティー[ウォッチ]が入っている。
 
 ID=833021201
@@ -3755,7 +3755,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[運動靴]-未開封
+Sporty [Athletic Shoes] - Sealed
 スポーティー[運動靴]が入っている。
 
 ID=833030701
@@ -3765,7 +3765,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[上衣]-未開封
+Modern Casual [Coat] - Sealed
 モダンカジュアル[上衣]が入っている。
 
 ID=833030801
@@ -3775,7 +3775,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[下衣]-未開封
+Modern Casual [Pants] - Sealed
 モダンカジュアル[下衣]が入っている。
 
 ID=833031101
@@ -3785,7 +3785,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[タイツ]-未開封
+Modern Casual [Stockings] - Sealed
 モダンカジュアル[タイツ]が入っている。
 
 ID=833030501
@@ -3795,7 +3795,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[腕輪]-未開封
+Modern Casual [Bracelet] - Sealed
 モダンカジュアル[腕輪]が入っている。
 
 ID=833031201
@@ -3805,7 +3805,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[シューズ]-未開封
+Modern Casual [Shoes] - Sealed
 モダンカジュアル[シューズ]が入っている。
 
 ID=833040101
@@ -3815,7 +3815,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ナース[帽子]-未開封
+Nurse [Hat] - Sealed
 ナース[帽子]が入っている。
 
 ID=833040901
@@ -3825,7 +3825,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ナース[衣装]-未開封
+Nurse [Costume] - Sealed
 ナース[衣装]が入っている。
 
 ID=833041101
@@ -3835,7 +3835,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ナース[タイツ]-未開封
+Nurse [Tights] - Sealed
 ナース[タイツ]が入っている。
 
 ID=833041201
@@ -3845,7 +3845,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ナース[靴]-未開封
+Nurse [Shoes] - Sealed
 ナース[靴]が入っている。
 
 ID=833050701
@@ -3855,7 +3855,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-リリーの制服A[上衣]-未開封
+Lily's Uniform A [Coat] - Sealed
 リリーの制服A[上衣]が入っている。
 
 ID=833050801
@@ -3865,7 +3865,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-リリーの制服A[スカート]-未開封
+Lily's Uniform A [Skirt] - Sealed
 リリーの制服A[スカート]が入っている。
 
 ID=833051101
@@ -3875,7 +3875,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-リリーの制服A[ソックス]-未開封
+Lily's Uniform A [Socks] - Sealed
 リリーの制服A[ソックス]が入っている。
 
 ID=833060701
@@ -3885,7 +3885,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-リリーの制服B[上衣]-未開封
+Lily's Uniform B [Coat] - Sealed
 リリーの制服B[上衣]が入っている。
 
 ID=833060801
@@ -3895,7 +3895,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-リリーの制服B[スカート]-未開封
+Lily's Uniform B [Skirt] - Sealed
 リリーの制服B[スカート]が入っている。
 
 ID=833061101
@@ -3905,7 +3905,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-リリーの制服B[ソックス]-未開封
+Lily's Uniform B [Socks] - Sealed
 リリーの制服B[ソックス]が入っている。
 
 ID=833070701
@@ -3915,7 +3915,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-リリーの制服C[上衣]-未開封
+Lily's Uniform C [Coat] - Sealed
 リリーの制服C[上衣]が入っている。
 
 ID=833070801
@@ -3925,7 +3925,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-リリーの制服C[スカート]-未開封
+Lily's Uniform C [Skirt] - Sealed
 リリーの制服C[スカート]が入っている。
 
 ID=833071101
@@ -3935,7 +3935,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-リリーの制服C[ソックス]-未開封
+Lily's Uniform C [Socks] - Sealed
 リリーの制服C[ソックス]が入っている。
 
 ID=833080701
@@ -3945,7 +3945,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-リリーの制服D[上衣]-未開封
+Lily's Uniform D [Coat] - Sealed
 リリーの制服D[上衣]が入っている。
 
 ID=833080801
@@ -3955,7 +3955,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-リリーの制服D[スカート]-未開封
+Lily's Uniform D [Skirt] - Sealed
 リリーの制服D[スカート]が入っている。
 
 ID=833081101
@@ -3965,7 +3965,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-リリーの制服D[ソックス]-未開封
+Lily's Uniform D [Socks] - Sealed
 リリーの制服D[ソックス]が入っている。
 
 ID=833090901
@@ -3975,7 +3975,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[衣装]-未開封
+Sweet Look [Outfit] - Sealed
 スイートルック[衣装]が入っている。
 
 ID=830309001
@@ -3985,7 +3985,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[帽子]-未開封
+Sweet Look [Hat] - Sealed
 スイートルック[帽子]が入っている。
 
 ID=833091101
@@ -3995,7 +3995,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[タイツ]-未開封
+Sweet Look [Stockings] - Sealed
 スイートルック[タイツ]が入っている。
 
 ID=833091201
@@ -4005,7 +4005,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[靴]-未開封
+Sweet Look [Shoes] - Sealed
 スイートルック[靴]が入っている。
 
 ID=833100901
@@ -4015,7 +4015,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-狂気の鎌[衣装]-未開封
+Scythe of Madness [Costume] - Sealed
 狂気の鎌[衣装]が入っている。
 
 ID=833101101
@@ -4025,7 +4025,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-狂気の鎌[ソックス]-未開封
+Scythe of Madness [Socks] - Sealed
 狂気の鎌[ソックス]が入っている。
 
 ID=833101201
@@ -4035,7 +4035,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-狂気の鎌[ブーツ]-未開封
+Scythe of Madness [Boots] - Sealed
 狂気の鎌[ブーツ]が入っている。
 
 ID=833110101
@@ -4045,7 +4045,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[キャップ]-未開封
+Merchant Uniform [Cap] - Sealed
 商人制服[キャップ]が入っている。
 
 ID=833110701
@@ -4055,7 +4055,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[上衣]-未開封
+Merchant Uniform [Coat] - Sealed
 商人制服[上衣]が入っている。
 
 ID=833110801
@@ -4065,7 +4065,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[スカート]-未開封
+Merchant Uniform [Skirt] - Sealed
 商人制服[スカート]が入っている。
 
 ID=833111101
@@ -4075,7 +4075,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[ソックス]-未開封
+Merchant Uniform [Socks] - Sealed
 商人制服[ソックス]が入っている。
 
 ID=833111201
@@ -4085,7 +4085,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[運動靴]-未開封
+Merchant Uniform [Shoes] - Sealed
 商人制服[運動靴]が入っている。
 
 ID=833120701
@@ -4095,7 +4095,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-連合旧式軍服[上衣]-未開封
+Old Style Military Uniform [Coat] - Sealed
 連合旧式軍服[上衣]が入っている。
 
 ID=833120801
@@ -4105,7 +4105,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-連合旧式軍服[スカート]-未開封
+Old Style Military Uniform [Skirt] - Sealed
 連合旧式軍服[スカート]が入っている。
 
 ID=833121201
@@ -4115,7 +4115,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-連合旧式軍服[ブーツ]-未開封
+Old Style Military Uniform [Boots] - Sealed
 連合旧式軍服[ブーツ]が入っている。
 
 ID=853010901
@@ -4125,7 +4125,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[衣装]-未開封
+Detective School Uniform[Outfit] - Sealed
 探偵学園制服[衣装]が入っている。
 
 ID=853010101
@@ -4135,7 +4135,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[キャロット]-未開封
+Detective School Uniform[Hat] - Sealed
 探偵学園制服[キャロット]が入っている。
 
 ID=853011101
@@ -4145,7 +4145,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[ソックス]-未開封
+Detective School Uniform[Socks] - Sealed
 探偵学園制服[ソックス]が入っている。
 
 ID=853011201
@@ -4155,7 +4155,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[靴]-未開封
+Detective School Uniform[Shoes] - Sealed
 探偵学園制服[靴]が入っている。
 
 ID=853021901
@@ -4165,7 +4165,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[キャップ]-未開封
+Sporty [Cap] - Sealed
 スポーティー[キャップ]が入っている。
 
 ID=853020701
@@ -4175,7 +4175,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[上衣]-未開封
+Sporty [Coat] - Sealed
 スポーティー[上衣]が入っている。
 
 ID=853020801
@@ -4185,7 +4185,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[下衣]-未開封
+Sporty [Pants] - Sealed
 スポーティー[下衣]が入っている。
 
 ID=853021001
@@ -4195,7 +4195,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[カバン]-未開封
+Sporty [Bag] - Sealed
 スポーティー[カバン]が入っている。
 
 ID=853020301
@@ -4205,7 +4205,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[蛍光眼鏡]-未開封
+Sporty [Fluorescent Glasses] - Sealed
 スポーティー[蛍光眼鏡]が入っている。
 
 ID=853020501
@@ -4215,7 +4215,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[グローブ]-未開封
+Sporty [Gloves] - Sealed
 スポーティー[グローブ]が入っている。
 
 ID=853021201
@@ -4225,7 +4225,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[運動靴]-未開封
+Sporty [Athletic Shoes] - Sealed
 スポーティー[運動靴]が入っている。
 
 ID=853030701
@@ -4235,7 +4235,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[上衣]-未開封
+Modern Casual [Coat] - Sealed
 モダンカジュアル[上衣]が入っている。
 
 ID=853030801
@@ -4245,7 +4245,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[スカート]-未開封
+Modern Casual [Skirt] - Sealed
 モダンカジュアル[スカート]が入っている。
 
 ID=853030301
@@ -4255,7 +4255,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[縁眼鏡]-未開封
+Modern Casual [Rim Glasses] - Sealed
 モダンカジュアル[縁眼鏡]が入っている。
 
 ID=853030501
@@ -4265,7 +4265,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[腕輪]-未開封
+Modern Casual [Bracelet] - Sealed
 モダンカジュアル[腕輪]が入っている。
 
 ID=853031201
@@ -4275,7 +4275,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-モダンカジュアル[シューズ]-未開封
+Modern Casual [Shoes] - Sealed
 モダンカジュアル[シューズ]が入っている。
 
 ID=853040301
@@ -4285,7 +4285,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ドクター[縁眼鏡]-未開封
+Doctor [Rim Glasses] - Sealed
 ドクター[縁眼鏡]が入っている。
 
 ID=853040901
@@ -4295,7 +4295,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ドクター[衣装]-未開封
+Doctor [Outfit] - Sealed
 ドクター[衣装]が入っている。
 
 ID=853041101
@@ -4305,7 +4305,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ドクター[タイツ]-未開封
+Doctor [Stockings] - Sealed
 ドクター[タイツ]が入っている。
 
 ID=853041201
@@ -4315,7 +4315,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ドクター[スリッパ]-未開封
+Doctor [Slippers] - Sealed
 ドクター[スリッパ]が入っている。
 
 ID=853050701
@@ -4325,7 +4325,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ステラの制服A[上衣]-未開封
+Stella's Uniform A [Coat] - Sealed
 ステラの制服A[上衣]が入っている。
 
 ID=853050801
@@ -4335,7 +4335,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ステラの制服A[スカート]-未開封
+Stella's Uniform A [Skirt] - Sealed
 ステラの制服A[スカート]が入っている。
 
 ID=853051101
@@ -4345,7 +4345,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ステラの制服A[ソックス]-未開封
+Stella's Uniform A [Socks] - Sealed
 ステラの制服A[ソックス]が入っている。
 
 ID=853060701
@@ -4355,7 +4355,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ステラの制服B[上衣]-未開封
+Stella's Uniform B [Coat] - Sealed
 ステラの制服B[上衣]が入っている。
 
 ID=853060801
@@ -4365,7 +4365,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ステラの制服B[スカート]-未開封
+Stella's Uniform B [Skirt] - Sealed
 ステラの制服B[スカート]が入っている。
 
 ID=853061101
@@ -4375,7 +4375,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ステラの制服B[ソックス]-未開封
+Stella's Uniform B [Socks] - Sealed
 ステラの制服B[ソックス]が入っている。
 
 ID=853070701
@@ -4385,7 +4385,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ステラの制服C[上衣]-未開封
+Stella's Uniform C [Coat] - Sealed
 ステラの制服C[上衣]が入っている。
 
 ID=853070801
@@ -4395,7 +4395,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ステラの制服C[スカート]-未開封
+Stella's Uniform C [Skirt] - Sealed
 ステラの制服C[スカート]が入っている。
 
 ID=853071101
@@ -4405,7 +4405,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ステラの制服C[ソックス]-未開封
+Stella's Uniform C [Socks] - Sealed
 ステラの制服C[ソックス]が入っている。
 
 ID=853080701
@@ -4415,7 +4415,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ステラの制服D[上衣]-未開封
+Stella's Uniform D [Coat] - Sealed
 ステラの制服D[上衣]が入っている。
 
 ID=853080801
@@ -4425,7 +4425,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ステラの制服D[スカート]-未開封
+Stella's Uniform D [Skirt] - Sealed
 ステラの制服D[スカート]が入っている。
 
 ID=853081101
@@ -4435,7 +4435,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ステラの制服D[ソックス]-未開封
+Stella's Uniform D [Socks] - Sealed
 ステラの制服D[ソックス]が入っている。
 
 ID=853090901
@@ -4445,7 +4445,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[衣装]-未開封
+Sweet Look [Outfit] - Sealed
 スイートルック[衣装]が入っている。
 
 ID=853090101
@@ -4455,7 +4455,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[帽子]-未開封
+Sweet Look [Hat] - Sealed
 スイートルック[帽子]が入っている。
 
 ID=853091101
@@ -4465,7 +4465,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[タイツ]-未開封
+Sweet Look [Stockings] - Sealed
 スイートルック[タイツ]が入っている。
 
 ID=853091201
@@ -4475,7 +4475,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[靴]-未開封
+Sweet Look [Shoes] - Sealed
 スイートルック[靴]が入っている。
 
 ID=853100901
@@ -4485,7 +4485,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-悲しみの楽想[衣装]-未開封
+Melody of Sorrow [Costume] - Sealed
 悲しみの楽想[衣装]が入っている。
 
 ID=853101101
@@ -4495,7 +4495,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-悲しみの楽想[ソックス]-未開封
+Melody of Sorrow [Socks] - Sealed
 悲しみの楽想[ソックス]が入っている。
 
 ID=853101201
@@ -4505,7 +4505,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-悲しみの楽想[ブーツ]-未開封
+Melody of Sorrow [Boots] - Sealed
 悲しみの楽想[ブーツ]が入っている。
 
 ID=853110101
@@ -4515,7 +4515,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[キャップ]-未開封
+Merchant Uniform [Cap] - Sealed
 商人制服[キャップ]が入っている。
 
 ID=853110701
@@ -4525,7 +4525,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[上衣]-未開封
+Merchant Uniform [Coat] - Sealed
 商人制服[上衣]が入っている。
 
 ID=853110801
@@ -4535,7 +4535,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[スカート]-未開封
+Merchant Uniform [Skirt] - Sealed
 商人制服[スカート]が入っている。
 
 ID=853111101
@@ -4545,7 +4545,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[ソックス]-未開封
+Merchant Uniform [Socks] - Sealed
 商人制服[ソックス]が入っている。
 
 ID=853111201
@@ -4555,7 +4555,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[運動靴]-未開封
+Merchant Uniform [Shoes] - Sealed
 商人制服[運動靴]が入っている。
 
 ID=853120701
@@ -4565,7 +4565,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-連合旧式軍服[上衣]-未開封
+Old Style Military Uniform [Coat] - Sealed
 連合旧式軍服[上衣]が入っている。
 
 ID=853120801
@@ -4575,7 +4575,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-連合旧式軍服[スカート]-未開封
+Old Style Military Uniform [Skirt] - Sealed
 連合旧式軍服[スカート]が入っている。
 
 ID=853121201
@@ -4585,7 +4585,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-連合旧式軍服[ブーツ]-未開封
+Old Style Military Uniform [Boots] - Sealed
 連合旧式軍服[ブーツ]が入っている。
 
 ID=813011401
@@ -5045,7 +5045,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[キャロット]-未開封
+Detective School Uniform[Hat] - Sealed
 探偵学園制服[キャロット]が入っている。
 
 ID=843010901
@@ -5055,7 +5055,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[衣装]-未開封
+Detective School Uniform[Outfit] - Sealed
 探偵学園制服[衣装]が入っている。
 
 ID=843010801
@@ -5085,7 +5085,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[衣装]-未開封
+Detective School Uniform[Outfit] - Sealed
 探偵学園制服[衣装]が入っている。
 
 ID=843010401
@@ -5095,7 +5095,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[紳士口ヒゲ]-未開封
+Detective School Uniform [Mustache] - Sealed
 探偵学園制服[紳士口ヒゲ]が入っている。
 
 ID=843011201
@@ -5105,7 +5105,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-探偵学園制服[靴]-未開封
+Detective School Uniform[Shoes] - Sealed
 探偵学園制服[靴]が入っている。
 
 ID=843020201
@@ -5115,7 +5115,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[フード]-未開封
+Sporty [Hood] - Sealed
 スポーティー[フード]が入っている。
 
 ID=843020401
@@ -5125,7 +5125,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[マスク]-未開封
+Sporty [Mask] - Sealed
 スポーティー[マスク]が入っている。
 
 ID=843020701
@@ -5135,7 +5135,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[上衣]-未開封
+Sporty [Coat] - Sealed
 スポーティー[上衣]が入っている。
 
 ID=843020801
@@ -5145,7 +5145,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[下衣]-未開封
+Sporty [Pants] - Sealed
 スポーティー[下衣]が入っている。
 
 ID=843022701
@@ -5155,7 +5155,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[下衣]-未開封
+Sporty [Pants] - Sealed
 スポーティー[下衣]が入っている。
 
 ID=843020501
@@ -5165,7 +5165,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[ウォッチ]-未開封
+Sporty [Watch] - Sealed
 スポーティー[ウォッチ]が入っている。
 
 ID=843021301
@@ -5175,7 +5175,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[ポーチ]-未開封
+Sporty [Bag] - Sealed
 スポーティー[ポーチ]が入っている。
 
 ID=843021201
@@ -5185,7 +5185,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スポーティー[靴]-未開封
+Sporty [Shoes] - Sealed
 スポーティー[靴]が入っている。
 
 ID=843040301
@@ -5195,7 +5195,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ドクター[縁眼鏡]-未開封
+Doctor [Rim Glasses] - Sealed
 ドクター[緑眼鏡]が入っている。
 
 ID=843040901
@@ -5205,7 +5205,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ドクター[衣装]-未開封
+Doctor [Outfit] - Sealed
 ドクター[衣装]が入っている。
 
 ID=843042801
@@ -5215,7 +5215,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ドクター[衣装]-未開封
+Doctor [Outfit] - Sealed
 ドクター[衣装]が入っている。
 
 ID=843040501
@@ -5225,7 +5225,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ドクター[手袋]-未開封
+Doctor [Gloves] - Sealed
 ドクター[手袋]が入っている。
 
 ID=843041201
@@ -5235,7 +5235,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-ドクター[靴]-未開封
+Doctor [Shoes] - Sealed
 ドクター[靴]が入っている。
 
 ID=843050701
@@ -5365,7 +5365,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[衣装]-未開封
+Sweet Look [Outfit] - Sealed
 スイートルック[衣装]が入っている。
 
 ID=843092801
@@ -5375,7 +5375,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[衣装]-未開封
+Sweet Look [Outfit] - Sealed
 スイートルック[衣装]が入っている。
 
 ID=843090301
@@ -5385,7 +5385,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[眼鏡]-未開封
+Sweet Look [Glasses] - Sealed
 スイートルック[眼鏡]が入っている。
 
 ID=843090501
@@ -5395,7 +5395,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[時計]-未開封
+Sweet Look [Watch] - Sealed
 スイートルック[時計]が入っている。
 
 ID=843091201
@@ -5405,7 +5405,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-スイートルック[靴]-未開封
+Sweet Look [Shoes] - Sealed
 スイートルック[靴]が入っている。
 
 ID=843100901
@@ -5465,7 +5465,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[上衣]-未開封
+Merchant Uniform [Coat] - Sealed
 商人制服[上衣]が入っている。
 
 ID=843110801
@@ -5475,7 +5475,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[下衣]-未開封
+Merchant Uniform [Pants] - Sealed
 商人制服[下衣]が入っている。
 
 ID=843112701
@@ -5485,7 +5485,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[下衣]-未開封
+Merchant Uniform [Pants] - Sealed
 商人制服[下衣]が入っている。
 
 ID=843111201
@@ -5495,7 +5495,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-商人制服[運動靴]-未開封
+Merchant Uniform [Shoes] - Sealed
 商人制服[運動靴]が入っている。
 
 ID=843120701
@@ -5505,7 +5505,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-連合旧式軍服[上衣]-未開封
+Old Style Military Uniform [Coat] - Sealed
 連合旧式軍服[上衣]が入っている。
 
 ID=843120801
@@ -5515,7 +5515,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-連合旧式軍服[下衣]-未開封
+Old Style Military Uniform [Pants] - Sealed
 連合旧式軍服[下衣]が入っている。
 
 ID=843121201
@@ -5525,7 +5525,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-連合旧式軍服[ブーツ]-未開封
+Old Style Military Uniform [Boots] - Sealed
 連合旧式軍服[ブーツ]が入っている。
 
 ID=843140101
@@ -6776,7 +6776,7 @@ Icon/Item/Etc/ETC_0_SoulinStatue
 0
 0
 魂が込められた彫刻
-奇妙な光をたたえる彫刻。\n異常空白から持ち帰った彫刻で、暗闇で青い光を放つ。その光を見た者は、魂が抜けたように呆然とするという。商人組合は高値で買取をしている。\n\n[売却用]アイテム売却時、大量のジェニーを獲得
+奇妙な光をたたえる彫刻。\n異常空白から持ち帰った彫刻で、暗闇で青い光を放つ。\nその光を見た者は、魂が抜けたように呆然とするという。\n商人組合は高値で買取をしている。\n\n[売却用]アイテム売却時、大量のジェニーを獲得
 
 ID=710200032
 Icon/Item/Etc/ETC_0_DarknessQuartz
@@ -6826,7 +6826,7 @@ Icon/Item/Material/Make_M_VacuumEnergy
 0
 0
 空白エナジー
-空白が発する固有のエナジーが集まった光の塊。\n凄まじいマイナス波長を発しているため、\n並の人間は防護服を着ないと近寄ることもできない。膨大な潜在エナジーを持つと言われている。\n異常空白内部で入手できる。\n\n[製作材料]
+空白が発する固有のエナジーが集まった光の塊。\n凄まじいマイナス波長を発しているため、\n並の人間は防護服を着ないと近寄ることもできない。\n膨大な潜在エナジーを持つと言われている。\n異常空白内部で入手できる。\n\n[製作材料]
 
 ID=720102014
 Icon/Item/Material/Ore/Make_M_IrregularStone
@@ -23316,7 +23316,7 @@ Icon/Item/Material/VacuumMatter/Make_01_DRaid_02
 0
 0
 秩序の片鱗
-どこか不安を感じさせる力を宿す結晶。製作関連の従事者によると、とてつもない力を宿した結晶だが、触ると不幸になると感じるくらい不吉なものだという。\nゴールデンシタデルで入手できる。\n\n[製作材料：ソウルウェポン]
+どこか不安を感じさせる力を宿す結晶。\n製作関連の従事者によると、\nとてつもない力を宿した結晶だが、\n触ると不幸になると感じるくらい不吉なものだという。\nゴールデンシタデルで入手できる。\n\n[製作材料：ソウルウェポン]
 
 ID=710106056
 Icon/Item/Material/VacuumMatter/Make_01_DRaid_01
@@ -23326,7 +23326,7 @@ Icon/Item/Material/VacuumMatter/Make_01_DRaid_01
 0
 0
 好奇心の片鱗
-ロスカーの力を感じる結晶。感じる力は微かなものだが、製作関連の従事者によると、これほどの力を持つ結晶は見たことないそうだ…。\nゴールデンシタデルで入手できる。\n\n[製作材料：ギア]
+ロスカーの力を感じる結晶。\n感じる力は微かなものだが、\n製作関連の従事者によると、\nこれほどの力を持つ結晶は見たことないそうだ…。\nゴールデンシタデルで入手できる。\n\n[製作材料：ギア]
 
 ID=111052701
 Icon/Item/SoulWeapon/PC_A/SOU_0_HarbingerSword
@@ -38646,7 +38646,7 @@ Icon/Item/Farm/Farm_1206_PlantPreservative
 0
 0
 防腐剤
-植物を腐らないようにする防腐剤。質がいいのか、この防腐剤を使用しても副作用はないという。\n\n[栽培補助アイテム]作物腐敗進行防止
+植物を腐らないようにする防腐剤。質がいいのか、この防腐剤を使用しても副作用はないという。\n\n[栽培補助アイテム]作物のしおれ＆腐敗進行防止
 
 ID=890012070
 Icon/Item/Farm/Farm_1207_PlantTonic_Mini
@@ -60055,8 +60055,8 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Costume02_08
 0
 0
 0
-連合正規軍服[手袋]
-連合から支給される正規軍用の手袋。\n旧式よりもデザインが洗練されているようだ。
+連合正規軍服[下衣]
+連合から支給される正規軍用の下衣。\n旧式よりもデザインが洗練されているようだ。
 
 ID=242030501
 Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Glove_05
@@ -60065,8 +60065,8 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Glove_05
 0
 0
 0
-連合正規軍服[水筒]
-連合から支給される正規軍用の水筒。\n正規の物らしくフォーマルな場にふさわしい。
+連合正規軍服[手袋]
+連合から支給される正規軍用の手袋。\n旧式よりもデザインが洗練されているようだ。
 
 ID=242031301
 Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Tail_13
@@ -60075,8 +60075,8 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Tail_13
 0
 0
 0
-連合正規軍服[下衣]
-連合から支給される正規軍用の下衣。\n旧式よりもデザインが洗練されているようだ。
+連合正規軍服[水筒]
+連合から支給される正規軍用の水筒。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=242031201
 Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Shoes_12
@@ -62575,7 +62575,7 @@ Icon/Item/Function/Package/PackageBox_PC_D
 0
 0
 0
-報酬パッケージ（Lv5）
+Level Up Package (Lv5)
 ジンがLv5達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=824100001
@@ -62585,7 +62585,7 @@ Icon/Item/Function/Package/PackageBox_PC_D
 0
 0
 0
-報酬パッケージ（Lv10）
+Level Up Package (Lv10)
 ジンがLv10達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=824160001
@@ -62595,7 +62595,7 @@ Icon/Item/Function/Package/PackageBox_PC_D
 0
 0
 0
-報酬パッケージ（Lv15）
+Level Up Package (Lv15)
 ジンがLv15達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=824220001
@@ -62605,7 +62605,7 @@ Icon/Item/Function/Package/PackageBox_PC_D
 0
 0
 0
-報酬パッケージ（Lv20）
+Level Up Package (Lv20)
 ジンがLv20達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=824290001
@@ -62615,7 +62615,7 @@ Icon/Item/Function/Package/PackageBox_PC_D
 0
 0
 0
-報酬パッケージ（Lv25）
+Level Up Package (Lv25)
 ジンがLv25達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=824300001
@@ -62625,7 +62625,7 @@ Icon/Item/Function/Package/PackageBox_PC_D
 0
 0
 0
-報酬パッケージ（Lv30）
+Level Up Package (Lv30)
 ジンがLv30達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=824360001
@@ -62635,7 +62635,7 @@ Icon/Item/Function/Package/PackageBox_PC_D
 0
 0
 0
-報酬パッケージ（Lv35）
+Level Up Package (Lv35)
 ジンがLv35達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=824400001
@@ -62645,7 +62645,7 @@ Icon/Item/Function/Package/PackageBox_PC_D
 0
 0
 0
-報酬パッケージ（Lv40）
+Level Up Package (Lv40)
 ジンがLv40達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=824450001
@@ -62655,7 +62655,7 @@ Icon/Item/Function/Package/PackageBox_PC_D
 0
 0
 0
-報酬パッケージ（Lv45）
+Level Up Package (Lv45)
 ジンがLv45達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=824500001
@@ -62665,7 +62665,7 @@ Icon/Item/Function/Package/PackageBox_PC_D
 0
 0
 0
-報酬パッケージ（Lv50）
+Level Up Package (Lv50)
 ジンがLv50達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=824550001
@@ -62675,7 +62675,7 @@ Icon/Item/Function/Package/PackageBox_PC_D
 0
 0
 0
-報酬パッケージ（Lv55）
+Level Up Package (Lv55)
 ジンがLv55達成時に支給される。\n役に立つアイテムが入っている。\n\n[レベル達成報酬パッケージ]
 
 ID=837000116

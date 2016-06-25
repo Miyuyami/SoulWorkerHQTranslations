@@ -276,7 +276,7 @@ Icon/Item/Consumption/CON_0_DistrictRaidTicket_01
 0
 0
 [Special Permit] Golden Citadel
-Needed to enter Golden Citadel.\nSoul Workers aren't an exception.\nIt is discarded upon use.\n\n[District Raid Entry Limit Reset]Golden Citadel
+黄金空白：ゴールデンシタデルへ入場できる一種の権限。特別危険地域ゆえ、ソウルワーカーといえど特別な許可なしには入場できない。\n一度使用すると、すぐに破棄される。\n\n[ディストリクトレイド入場券]ゴールデンシタデル
 
 ID=800006008
 Icon/Item/Consumption/CON_0_CasualRaidTicket_05
@@ -285,7 +285,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_05
 0
 0
 0
-[Special Permit] Abnormal Void
+[Special Permit] Abnormal Space
 Card that approves the permission to enter Special Void Resurgence Area.\nEven if you are a Soulworker, this card is needed to enter the area.\nSince it can only be used once, ready yourself before using it.\n\n[Casual Raid Limit Decreased by 1]All Casual Raids
 
 ID=810001001
@@ -6776,7 +6776,7 @@ Icon/Item/Etc/ETC_0_SoulinStatue
 0
 0
 Sculpture's Soul
-奇妙な光をたたえる彫刻。\n異常空白から持ち帰った彫刻で、暗闇で青い光を放つ。その光を見た者は、魂が抜けたように呆然とするという。商人組合は高値で買取をしている。\n\n[売却用]アイテム売却時、大量のジェニーを獲得
+奇妙な光をたたえる彫刻。\n異常空白から持ち帰った彫刻で、暗闇で青い光を放つ。\nその光を見た者は、魂が抜けたように呆然とするという。\n商人組合は高値で買取をしている。\n\n[売却用]アイテム売却時、大量のジェニーを獲得
 
 ID=710200032
 Icon/Item/Etc/ETC_0_DarknessQuartz
@@ -6826,7 +6826,7 @@ Icon/Item/Material/Make_M_VacuumEnergy
 0
 0
 Void Energy
-空白が発する固有のエナジーが集まった光の塊。\n凄まじいマイナス波長を発しているため、\n並の人間は防護服を着ないと近寄ることもできない。膨大な潜在エナジーを持つと言われている。\n異常空白内部で入手できる。\n\n[製作材料]
+空白が発する固有のエナジーが集まった光の塊。\n凄まじいマイナス波長を発しているため、\n並の人間は防護服を着ないと近寄ることもできない。\n膨大な潜在エナジーを持つと言われている。\n異常空白内部で入手できる。\n\n[製作材料]
 
 ID=720102014
 Icon/Item/Material/Ore/Make_M_IrregularStone
@@ -23316,7 +23316,7 @@ Icon/Item/Material/VacuumMatter/Make_01_DRaid_02
 0
 0
 秩序の片鱗
-どこか不安を感じさせる力を宿す結晶。製作関連の従事者によると、とてつもない力を宿した結晶だが、触ると不幸になると感じるくらい不吉なものだという。\nゴールデンシタデルで入手できる。\n\n[製作材料：ソウルウェポン]
+どこか不安を感じさせる力を宿す結晶。\n製作関連の従事者によると、\nとてつもない力を宿した結晶だが、\n触ると不幸になると感じるくらい不吉なものだという。\nゴールデンシタデルで入手できる。\n\n[製作材料：ソウルウェポン]
 
 ID=710106056
 Icon/Item/Material/VacuumMatter/Make_01_DRaid_01
@@ -23326,7 +23326,7 @@ Icon/Item/Material/VacuumMatter/Make_01_DRaid_01
 0
 0
 好奇心の片鱗
-ロスカーの力を感じる結晶。感じる力は微かなものだが、製作関連の従事者によると、これほどの力を持つ結晶は見たことないそうだ…。\nゴールデンシタデルで入手できる。\n\n[製作材料：ギア]
+ロスカーの力を感じる結晶。\n感じる力は微かなものだが、\n製作関連の従事者によると、\nこれほどの力を持つ結晶は見たことないそうだ…。\nゴールデンシタデルで入手できる。\n\n[製作材料：ギア]
 
 ID=111052701
 Icon/Item/SoulWeapon/PC_A/SOU_0_HarbingerSword
@@ -38646,7 +38646,7 @@ Icon/Item/Farm/Farm_1206_PlantPreservative
 0
 0
 防腐剤
-植物を腐らないようにする防腐剤。質がいいのか、この防腐剤を使用しても副作用はないという。\n\n[栽培補助アイテム]作物腐敗進行防止
+植物を腐らないようにする防腐剤。質がいいのか、この防腐剤を使用しても副作用はないという。\n\n[栽培補助アイテム]作物のしおれ＆腐敗進行防止
 
 ID=890012070
 Icon/Item/Farm/Farm_1207_PlantTonic_Mini
@@ -60055,8 +60055,8 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Costume02_08
 0
 0
 0
-連合正規軍服[手袋]
-連合から支給される正規軍用の手袋。\n旧式よりもデザインが洗練されているようだ。
+連合正規軍服[下衣]
+連合から支給される正規軍用の下衣。\n旧式よりもデザインが洗練されているようだ。
 
 ID=242030501
 Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Glove_05
@@ -60065,8 +60065,8 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Glove_05
 0
 0
 0
-連合正規軍服[水筒]
-連合から支給される正規軍用の水筒。\n正規の物らしくフォーマルな場にふさわしい。
+連合正規軍服[手袋]
+連合から支給される正規軍用の手袋。\n旧式よりもデザインが洗練されているようだ。
 
 ID=242031301
 Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Tail_13
@@ -60075,8 +60075,8 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Tail_13
 0
 0
 0
-連合正規軍服[下衣]
-連合から支給される正規軍用の下衣。\n旧式よりもデザインが洗練されているようだ。
+連合正規軍服[水筒]
+連合から支給される正規軍用の水筒。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=242031201
 Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Shoes_12
