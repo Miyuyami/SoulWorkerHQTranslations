@@ -1632,7 +1632,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=7000
 일루전(각성) I.
-대미지량의 50%를 HP로써 흡수한다. \n적의 방어력을 50%무시한다. \n이동속도가 20% 증가한다. \n슈퍼아머상태가 된다.
+공격력이 100%증가한다. \n이동속도가20%증가한다. \n슈퍼아머상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -2790,27 +2790,33 @@ HP 회복
 
 ID=30130
 동상
-5초후, 빙결상태가 된다.
-Icon/Buff/Icon_Common_Debuff_MSR
+10초후, 빙결상태가 된다.
+Icon/Buff/Icon_Common_Debuff_Freezing
 동상
 
 ID=30131
 빙결
-5초동안, 움직일수 없게된다.
-Icon/Buff/Icon_Common_Debuff_MSR
+10초동안, 움직일수 없게된다.
+Icon/Buff/Icon_Common_Debuff_Freezing
 빙결
 
 ID=30132
 빙결저항
 데미지를 받지 않게 된다.
-Icon/Buff/Icon_Common_Debuff_Bleed
+Icon/Buff/Icon_Common_Buff_Warm
 빙결저항
 
 ID=30133
 동상치료
 동상효과가 해제된다.
-Icon/Buff/Icon_Common_Debuff_Bleed
+Icon/Buff/Icon_Common_Buff_Warm
 동상치료
+
+ID=30134
+냉기
+HP가 매초1%씩 감소하고 10초후에 빙결상태가 된다.
+Icon/Buff/Icon_Common_Debuff_Bleed
+냉기
 
 ID=30140
 출혈
@@ -3732,7 +3738,7 @@ SG 회복
 
 ID=53341
 달리기 충전Ⅱ
-대쉬시, 20%의 확률로 SG 10% 회복한다. (쿨타임 3 초)
+대쉬중, 20%의 확률로 SG가10%회복한다.(쿨타임5초)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG 회복
 
@@ -4935,6 +4941,150 @@ ID=53699
 장착시, 최대HP가 22%증가한다.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP 증가
+
+ID=53700
+연료 절약 시스템Ⅰ
+장착시, 5.5초마다 스태미너가 10%회복한다.
+Icon/Buff/Icon_Common_Buff_Akashic
+스테미나 회복
+
+ID=53701
+연료 절약 시스템Ⅱ
+장착시, 5.5초마다 스태미너가 15%회복한다.
+Icon/Buff/Icon_Common_Buff_Akashic
+스테미나 회복
+
+ID=53702
+연료절약시스템Ⅲ 
+장착시, 5.5초마다 스태미너가 20%회복한다.
+Icon/Buff/Icon_Common_Buff_Akashic
+스테미나 회복
+
+ID=53703
+연료 절약 시스템Ⅰ
+장착시, 5.5초마다 스태미너가 15%회복한다.
+Icon/Buff/Icon_Common_Buff_Akashic
+스테미나 회복
+
+ID=53704
+연료 절약 시스템Ⅱ
+장착시, 5.5초마다 스태미너가 20%회복한다.
+Icon/Buff/Icon_Common_Buff_Akashic
+스테미나 회복
+
+ID=53705
+연료절약시스템Ⅲ 
+장착시, 5.5초마다 스태미너가 25%회복한다.
+Icon/Buff/Icon_Common_Buff_Akashic
+스테미나 회복
+
+ID=53706
+조용하세요Ⅰ
+장착시, 60초마다 SG가 50%회복한다.
+Icon/Buff/Icon_Common_Buff_Akashic
+SG 회복
+
+ID=53707
+조용하세요Ⅱ
+장착시, 60초마다 SG가 55%회복한다.
+Icon/Buff/Icon_Common_Buff_Akashic
+SG 회복
+
+ID=53708
+입다무세요Ⅲ
+장착시, 60초마다 SG가 60%회복한다.
+Icon/Buff/Icon_Common_Buff_Akashic
+SG 회복
+
+ID=53709
+조용하세요Ⅰ
+장착시, 60초마다 SG가 55%회복한다.
+Icon/Buff/Icon_Common_Buff_Akashic
+SG 회복
+
+ID=53710
+조용하세요Ⅱ
+장착시, 60초마다 SG가 65%회복한다.
+Icon/Buff/Icon_Common_Buff_Akashic
+SG 회복
+
+ID=53711
+입다무세요Ⅲ
+장착시, 60초마다 SG가 75%회복한다.
+Icon/Buff/Icon_Common_Buff_Akashic
+SG 회복
+
+ID=53712
+우다다다! I
+치명타 성공 시 10% 확률로 6초간 공격 속도가\n12% 상승됩니다. (발동 대기시간 30초)
+Icon/Buff/Icon_Common_Buff_Akashic
+공격속도 증가
+
+ID=53713
+우다다다! II
+치명타 성공 시 10% 확률로 6초간 공격 속도가\n13% 상승됩니다. (발동 대기시간 30초)
+Icon/Buff/Icon_Common_Buff_Akashic
+공격속도 증가
+
+ID=53714
+우다다다! III
+치명타 성공 시 10% 확률로 6초간 공격 속도가\n14% 상승됩니다. (발동 대기시간 30초)
+Icon/Buff/Icon_Common_Buff_Akashic
+공격속도 증가
+
+ID=53715
+우다다다! I
+치명타 성공 시 15% 확률로 6초간 공격 속도가\n13% 상승됩니다. (발동 대기시간 30초)
+Icon/Buff/Icon_Common_Buff_Akashic
+공격속도 증가
+
+ID=53716
+우다다다! II
+치명타 성공 시 15% 확률로 6초간 공격 속도가\n14% 상승됩니다. (발동 대기시간 30초)
+Icon/Buff/Icon_Common_Buff_Akashic
+공격속도 증가
+
+ID=53717
+우다다다! III
+치명타 성공 시 15% 확률로 6초간 공격 속도가\n15% 상승됩니다. (발동 대기시간 30초)
+Icon/Buff/Icon_Common_Buff_Akashic
+공격속도 증가
+
+ID=53718
+가볍지만 정확하게 I
+피격 시 20% 확률로 6초간 공격력 20% 감소하고,\n적중도가 1000 상승합니다. (발동 대기시간 1분)
+Icon/Buff/Icon_Common_Buff_Akashic
+적중도 증가
+
+ID=53719
+가볍지만 정확하게 II
+피격 시 20% 확률로 6초간 공격력 10% 감소하고,\n적중도가 1000 상승합니다. (발동 대기시간 1분)
+Icon/Buff/Icon_Common_Buff_Akashic
+적중도 증가
+
+ID=53720
+가볍지만 정확하게 III
+피격 시 20% 확률로 6초간 공격력 5% 감소하고,\n적중도가 1000 상승합니다. (발동 대기시간 1분)
+Icon/Buff/Icon_Common_Buff_Akashic
+적중도 증가
+
+ID=53721
+가볍지만 정확하게 I
+피격 시 20% 확률로 6초간 공격력 20% 감소하고,\n적중도가 1100 상승합니다. (발동 대기시간 1분)
+Icon/Buff/Icon_Common_Buff_Akashic
+적중도 증가
+
+ID=53722
+가볍지만 정확하게 II
+피격 시 20% 확률로 6초간 공격력 10% 감소하고,\n적중도가 1100 상승합니다. (발동 대기시간 1분)
+Icon/Buff/Icon_Common_Buff_Akashic
+적중도 증가
+
+ID=53723
+가볍지만 정확하게 III
+피격 시 20% 확률로 6초간 공격력 5% 감소하고,\n적중도가 1100 상승합니다. (발동 대기시간 1분)
+Icon/Buff/Icon_Common_Buff_Akashic
+적중도 증가
 
 ID=55002
 깜짝 상자Ⅲ

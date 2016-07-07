@@ -140,7 +140,7 @@ ID=92
 Lily
 
 ID=93
-Azin
+Jin
 
 ID=94
 Stella
@@ -594,6 +594,9 @@ ID=395
 
 ID=396
 {0} Hancoin
+
+ID=397
+{0} 리사이클 포인트
 
 ID=401
 Store
@@ -1207,6 +1210,15 @@ Obtained: {0} EXP
 ID=677
 Obtained: {0} EXP [X{1} bonus]
 
+ID=678
+[{0}]의 공격으로 인해 힘이 다했습니다.
+
+ID=679
+[{0}]의 공격으로 {1} 가 힘이 다해, 쓰러집니다.
+
+ID=680
+지금은 전투 중입니다. {0}초 뒤에 다시 시도해 주십시오.
+
 ID=700
 Talk
 
@@ -1293,6 +1305,9 @@ ID=727
 
 ID=728
 Lv{0}
+
+ID=729
+리사이클 기능
 
 ID=731
 #{0}
@@ -2030,13 +2045,13 @@ ID=1025
 Hair 5
 
 ID=1031
-Hair 1
+スリックバック
 
 ID=1032
-Hair 2
+ナチュラルパート
 
 ID=1033
-Hair 3
+レジェンドスポーツ
 
 ID=1034
 Hair 4
@@ -2603,13 +2618,13 @@ ID=2279
 Receive All
 
 ID=2280
-Do you want to receive all attached items in the「Inbox」?\n(You cannot receive them if there is no space in the inventory)
+「受信メール」内の添付物を全て受け取りますか？\n(インベントリに空きがない場合は受け取れません)
 
 ID=2281
-Do you want to receive all attached items in the「Account Mail」?\n(You cannot receive them if there is no space in the inventory)
+「アカウントメール」内の添付物を全て受け取りますか？\n(インベントリに空きがない場合は受け取れません)
 
 ID=2282
-Are you sure you want to delete all selected mails?\n(Unread mails or mails with attached items or zenny will not be deleted)
+選択したメールを全て削除しますか？\n(未読メールまたは添付物があるメールは削除されません)
 
 ID=2283
 {0} mails were deleted.
@@ -5677,6 +5692,21 @@ Gesture「{0}」 enabled
 ID=18188
 No items found.
 
+ID=18189
+아이템 구매 실패 : 리사이클 포인트 부족
+
+ID=18190
+강화내용
+
+ID=18191
+파괴방지
+
+ID=18192
+강화옵션
+
+ID=18193
+강화 시, 옵션을 획득 할 수 없습니다.
+
 ID=19000
 <font color='#47C83E'>Attack +1%/Evaded Attack Damage +1%</font>
 
@@ -5827,6 +5857,12 @@ ID=19048
 ID=19049
 テキスト_タイプ2_靴テラブローチセット_オプション
 
+ID=19400
+Standard
+
+ID=19401
+Berserker
+
 ID=19500
 Idol
 
@@ -5835,6 +5871,12 @@ Maid
 
 ID=19502
 Butler
+
+ID=19503
+이터널 선샤인
+
+ID=19504
+스쿨 인 썸머
 
 ID=20010
 Greet
@@ -5928,6 +5970,33 @@ Currently practicing to serve.
 
 ID=20103
 {0} practices serving.
+
+ID=20111
+비치볼
+
+ID=20112
+비치볼로 장난을 칩니다.
+
+ID=20113
+{0}님이 비치볼로 장난을 칩니다.
+
+ID=20124
+썬베드
+
+ID=20125
+썬베드에 누워 휴식을 취합니다.
+
+ID=20126
+{0}님이 썬베드에 누워 휴식을 취합니다.
+
+ID=20127
+스쿨미즈
+
+ID=20128
+스쿨미즈를 입고 포즈를 취합니다.
+
+ID=20129
+{0}님이 스쿨미즈를 입고 포즈를 취합니다.
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -7123,6 +7192,9 @@ Please assign the key bind combined with {0}.
 ID=22681
 Texture
 
+ID=22682
+テクスチャーはゲームを再起動、またはローディング後に適用されます。
+
 ID=23000
 Base FP has been recovered.
 
@@ -8236,6 +8308,9 @@ Canon
 ID=24889
 Event
 
+ID=24892
+리사이클 포인트
+
 ID=24900
 Haru
 
@@ -8246,7 +8321,7 @@ ID=24902
 Lily
 
 ID=24903
-Azin
+Jin
 
 ID=24904
 Stella
@@ -8332,6 +8407,9 @@ You can activate special abilities through Right-Click. \nErwin's special abilit
 ID=25243
 You can activate special abilities through Right-Click. \nLily's special ability is to dash forward.\nEnemies that you touch will be slowed.\nHold the mouse button to charge the skill and increase the distance traveled.
 
+ID=25244
+右クリックで特殊能力を発動できます。\nジンの特殊能力は、地面に衝撃を与え周囲の敵を攻撃する能力です。\n近くにいる敵は衝撃により気絶状態になります。
+
 ID=25245
 You can activate special abilities through Right-Click. \nStella's special ability to to change the properties of her skills.\nUsing the special ability will return to the previous effect.
 
@@ -8365,6 +8443,9 @@ ID=25302
 ID=25303
 [Lily] will recover SG during attacks when she enters into berserk mode after a certain combo threshold.
 
+ID=25304
+[ジン]のSGは、非戦闘状態中に回復し、攻撃及びカウンター成功時には大幅に回復します。
+
 ID=25305
 [Stella] She will quickly recover her SG when her SG is low.
 
@@ -8385,6 +8466,12 @@ Attack Recovery
 
 ID=25316
 Going over 100% will activate enraged mode.
+
+ID=25317
+非戦闘状態で回復
+
+ID=25318
+カウンター成功時、大幅に回復
 
 ID=25319
 Automatic Recovery.
@@ -8888,7 +8975,7 @@ ID=26321
 When critically hit, 50% chance of +{0} HP
 
 ID=26322
-When hitting, 5% chance of applying +{0}% Super Armor Destruction for 5s
+命中時、5%の確率で5秒間スーパーアーマー破壊力{0}%増加
 
 ID=26323
 +{0}% Movement speed while in town.
@@ -8936,7 +9023,7 @@ ID=26337
 When an attack is evaded, +{0}% Damage Reduction for 5s
 
 ID=26338
-While in air, +{0}% Damage Reduction for 5s
+エアリアルを受けた時、5秒間ダメージ減少{0}%
 
 ID=26339
 While on ground, +{0}% Damage Reduction for 5s
@@ -9116,7 +9203,7 @@ ID=28044
 Conditions for changing the guild leader are not met.\nGuild Level: 2 or higher\nGuild Members: 2 or more members
 
 ID=28045
-Guild Mastership Succession Penalty
+Transfer Guild Mastership
 
 ID=28046
 You cannot transfer Guild Mastership again.\n The Guild Mastership was recently transferred.
@@ -9194,7 +9281,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 1/Jul/2016 7:40 PM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 7/Jul/2016 7:25 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -10834,6 +10921,33 @@ Synthesis
 ID=32100
 Exchange
 
+ID=32101
+가구 설치
+
+ID=32102
+재배
+
+ID=32103
+리그 스킬
+
+ID=32104
+코인상점
+
+ID=32105
+거래소
+
+ID=32106
+캐시상점
+
+ID=32107
+출석
+
+ID=32108
+보안
+
+ID=32109
+2차 비밀번호
+
 ID=33000
 Hello,\n I have wandered the world, \nseeking for a glorious show.\n  My name is “Clown Edgar”.\n I admit you must be surprised.\n I lust for your power.\n It is flamboyant, yet modest.\n Tranquil, yet destructive and refined.\n For you, I sent a present.\nAccept it, it is a token\n of respect. Come to “The Shopping District”\n, you'll like it.\n - Clown Edgar.
 
@@ -11004,6 +11118,15 @@ Disturbance
 
 ID=33550
 A Dawn's Glory
+
+ID=33551
+피로 물든 유언
+
+ID=33552
+피의 무덤
+
+ID=33553
+재앙의 개벽
 
 ID=34000
 Flowerpot 1
@@ -11212,6 +11335,12 @@ Chat interval Limit of 10 seconds reached.\n(Remaining: {9}s)
 ID=35115
 You cannot chat for 60 seconds because of violation of chat rules.\n(Time remaining: {0} seconds)
 
+ID=35116
+{0) 에게 피해를 {1} 주었습니다.
+
+ID=35117
+{0} 에게 피해를 {1} 받았습니다.
+
 ID=35200
 {0) has won, {1} BP has been gained.
 
@@ -11262,6 +11391,30 @@ Mobile Device
 
 ID=36012
 Move
+
+ID=37001
+긴급! 제 6구역에 공백 균열이 발생 하였습니다.
+
+ID=37002
+제 6구역에 공백 코어가 성공적으로 제거 되었습니다.
+
+ID=37003
+제 6구역에 공백 균열이 소멸 되었습니다.
+
+ID=37004
+긴급! 제 6구역에 미지의 생명체가 출현 하였습니다.
+
+ID=37005
+{0}님에 의해, 제 6구역에 미지의 생명체가 토벌 되었습니다.
+
+ID=37006
+제 6구역에 공백 균열이 소멸 되었습니다.
+
+ID=37007
+제 6구역에 공백균열이 발생하였습니다.\n균열이 사라지기 전에 공백코어와 더 씽을 토벌하세요.\n균열 소멸까지 남은 시간 : {0}분
+
+ID=37008
+바큠 큐브가 소멸되어, 아이템을 획득하지 못했습니다.
 
 ID=38000
 {0}s
@@ -12119,7 +12272,7 @@ ID=40320
 Use the controller to stop the wide-area attacks. The Flame Tempest Forces will be put into a 10-second paralysis state.
 
 ID=40321
-The player is able to walk on the invisible portion of the floating area.
+一部のフローティングエリアは見えませんが、乗ることができます。
 
 ID=40401
 More enemies will be summoned soon. Please be careful.
@@ -12434,22 +12587,22 @@ ID=40611
 The house of endings has been cleared. You may now move to town from the house of premonition.
 
 ID=40612
-By starting the warmth device you can get protected from frostbite.
+保温装置を起動すると、20秒間、氷結抵抗効果が付与されます。
 
 ID=40613
-Starting all 4 warmth devices in 5 seconds will generate freezing protection around the devices.
+保温装置を起動すると周辺に吹雪が発生し、30秒間使用できなくなります。
 
 ID=40614
 Destroy the Flame Crystal appearing in the golden pedestals to stop the lava from flowing.
 
 ID=40615
-If Eternity passes through the pillar of light, defense will be hugely decreased.
+しばらくすると、ヘキサスピアーが氷結状態を誘発する回避不可な吹雪を発生させます。\n出来る限りアポカリプスの攻撃範囲から離れてください。
 
 ID=40616
-The lightning effect causes great damage to nearby allies. Control the Golden Obelisk to negate this effect.
+巨大な稲妻の壁を生成するゴールデンオベリスクが周期的に召喚されます。\nゴールデンオベリスクは攻撃して破壊することができます。
 
 ID=40617
-Defeat 「Pandemic Dendrobium」 to remove the intoxication status effect.
+3つのベノムフラワーを全て破壊すると、パンデモニアはスタン状態になります。
 
 ID=42000
 Jack the King
@@ -14791,6 +14944,12 @@ Progress Info
 ID=49409
 Memorial
 
+ID=49410
+デイリーミッション
+
+ID=49411
+Login Check
+
 ID=49450
 Official Homepage
 
@@ -15524,7 +15683,7 @@ ID=52045
 The item could not be used; you can still enter Steel Grave.
 
 ID=52046
-The daily entry limit for Steel Grave has been reset.
+スチールグレイブの入場情報が初期化されました。\nスチールグレイブへ入場できます。
 
 ID=52047
 There are no free slots in the General Inventory
@@ -15551,19 +15710,19 @@ ID=52054
 You can no longer receive any items due to the furniture inventory being full.
 
 ID=52055
-You can no longer receive any more Zenny due to the Zenny capacity being full.
+You can no longer receive any more Zenny due to reaching the Zenny limit.
 
 ID=52056
-You can no longer receive any more Zenny due to the Zenny capacity being full.
+You can no longer receive any more Zenny due to any more Zenny due to reaching the Zenny limit.
 
 ID=52057
-You can no longer receive any more B.P due to the B.P capacity being full.
+You can no longer receive any more B.P due to reaching the B.P limit.
 
 ID=52058
-You can no longer receive any more Ether due to the Ether capacity being full.
+You can no longer receive any more Ether due to reaching the Ether limit.
 
 ID=52059
-You can no longer receive any more Hancoin due to the Hancoin capacity being full.
+You can no longer receive any more Hancoin due to reaching the Hancoin limit.
 
 ID=52101
 The item's slot could not be used.
@@ -16974,3 +17133,360 @@ STAGE
 
 ID=60144
 Repeat Count ({0}/{1})
+
+ID=27800
+命中時、2%の確率でSV{0}獲得
+
+ID=27801
+エアリアル命中時、2秒間、攻撃力{0}%増加
+
+ID=27802
+エアリアルを受けた時、2秒間、防御度{0}%増加
+
+ID=27803
+攻撃を受けた時にHPが50%以上の時、2秒間、防御度{0}%増加
+
+ID=27804
+一般モンスターに命中時、2秒間、攻撃力{0}%増加
+
+ID=27805
+一般モンスターから攻撃を受けた時、4秒間、防御度{0}%増加
+
+ID=27806
+ボス級のモンスターに命中時、2秒間、攻撃力{0}%増加
+
+ID=27807
+ボス級のモンスターから攻撃を受けた時、4秒間、防御度{0}%増加
+
+ID=27808
+命中時、対象のHPが50%以上の時、攻撃力{0}%増加(命中時解除)
+
+ID=27809
+命中時、対象のHPが20%未満の時、攻撃力{0}%増加(命中時解除)
+
+ID=27810
+攻撃を受けた時、HPが30%未満の時、50%の確率で防御度{0}%増加(攻撃を受けると解除)
+
+ID=27811
+第6区域で攻撃力{0}%増加
+
+ID=27812
+第6区域で防御度{0}%増加
+
+ID=27813
+討伐時、5%の確率で5秒間、攻撃力{0}%増加
+
+ID=27814
+討伐時、5%の確率で10秒間、防御度{0}%増加 
+
+ID=27815
+ジェニー獲得時、10秒間、獲得量の{0}%防御度増加
+
+ID=27816
+ジェニー獲得時、10秒間、獲得量の{0}%攻撃力増加
+
+ID=27817
+エーテル獲得時、10秒間、獲得量の{0}%防御度増加
+
+ID=27818
+エーテル獲得時、10秒間、獲得量の{0}%攻撃力増加
+
+ID=27819
+スキル使用時、5%の確率でSV{0}獲得
+
+ID=27820
+スキル使用時、5%の確率でSG{0}%回復
+
+ID=27821
+30%の確率で、受けたダメージ量の{0}%反射
+
+ID=27822
+一般モンスターに命中時、4秒間、命中度{0}増加
+
+ID=27823
+ボス級のモンスターに命中時、3秒間、命中度{0}増加
+
+ID=27824
+一般モンスターから攻撃を受けた時、8秒間、回避度{0}増加
+
+ID=27825
+ボス級のモンスターから攻撃を受けた時、6秒間、回避度{0}増加
+
+ID=27826
+攻撃を受けた時、10%の確率で命中度{0}増加(クリティカルを受けると解除)
+
+ID=27827
+攻撃を受けた時、10%の確率で回避度{0}増加(回避成功時解除)
+
+ID=27828
+第6区域で命中度{0}増加
+
+ID=27829
+第6区域で回避度{0}増加
+
+ID=27830
+討伐時、5%の確率で命中度{0}増加(クリティカル命中時解除)
+
+ID=27831
+討伐時、5%の確率で回避度{0}増加(クリティカル命中時解除)
+
+ID=27832
+エーテル獲得時、命中度が獲得量の{0}%増加
+
+ID=27833
+エーテル獲得時、回避度が獲得量の{0}%増加
+
+ID=27834
+ジェニー獲得時、命中度が獲得量の{0}%増加
+
+ID=27835
+ジェニー獲得時、回避度が獲得量の{0}%増加
+
+ID=27836
+攻撃を受けた時、5%の確率でSV{0}獲得
+
+ID=27837
+ジャンプ攻撃時、5%の確率でクリティカル率{0}%増加(クリティカル命中時解除)
+
+ID=27838
+回避使用時、5%の確率でSG{0}%回復
+
+ID=27839
+クリティカル命中時、10%の確率でSG{0}%回復
+
+ID=27840
+スーパーアーマーブレイク発生時、10%の確率で3秒間、クリティカルダメージ{0}増加
+
+ID=27841
+スキル使用時、5%の確率で4秒間、クリティカル率{0}%増加
+
+ID=27842
+攻撃を受けた時、次の攻撃力{0}%増加(命中時解除)
+
+ID=27843
+攻撃を受けた時、5%の確率でHP{0}%回復
+
+ID=27844
+第6区域でクリティカル率{0}%増加
+
+ID=27845
+第6区域で最大HP{0}%増加
+
+ID=27846
+第6区域でクリティカルダメージ{0}増加
+
+ID=27847
+HPが70%以上の敵にクリティカルダメージ{0}増加(クリティカル命中時解除)
+
+ID=27848
+攻撃を受けた時、HPが20%未満の場合、20%の確率でHP{0}回復
+
+ID=27849
+エーテル獲得時、10%の確率で獲得量の{0}%HP回復
+
+ID=27850
+ジェニー獲得時、10%の確率で獲得量の{0}%HP回復
+
+ID=27851
+命中時、対象のHPが50%以上の時、クリティカル率{0}%増加(命中時解除)
+
+ID=27852
+命中時、対象のHPが50%未満の時、クリティカルダメージ{0}増加(クリティカル命中時解除)
+
+ID=27853
+討伐時、5%の確率でSV{0}獲得
+
+ID=27854
+クリティカルを受けた時、20%の確率で2秒間、ダメージ減少{0}増加
+
+ID=27855
+HP回復時、10%の確率で3秒間、攻撃力{0}増加
+
+ID=27856
+SV回復時、10%の確率で3秒間、攻撃力{0}増加
+
+ID=27857
+HP回復時、10%の確率で3秒間、移動速度{0}%増加
+
+ID=27858
+SV回復時、10%の確率で3秒間、移動速度{0}%増加
+
+ID=27859
+スーパーアーマーブレイク発生時、50%の確率で5秒間、防御度貫通{0}%増加
+
+ID=27860
+命中時、スーパーアーマーゲージが50%以上の時、スーパーアーマー破壊力{0}%増加
+
+ID=27861
++{0}% Movement speed while in town.
+
+ID=27862
+HP回復時、10%の確率で4秒間、攻撃速度{0}%増加
+
+ID=27863
+SV回復時、10%の確率で4秒間、攻撃速度{0}%増加
+
+ID=27864
+エーテル獲得時、10秒間、攻撃速度{0}%増加
+
+ID=27865
+エーテル獲得時、10秒間、移動速度{0}%増加
+
+ID=27866
+ジェニー獲得時、10秒間、攻撃速度{0}%増加
+
+ID=27867
+ジェニー獲得時、10秒間、移動速度{0}%増加
+
+ID=27868
+HP回復時、10%の確率で3秒間、防御度{0}増加
+
+ID=27869
+SV回復時、10%の確率で3秒間、防御度{0}増加
+
+ID=42371
+Megiddo Maker MK Ⅱ
+
+ID=42372
+Augmented Megiddo Maker MK Ⅱ
+
+ID=42373
+煉獄のメギドメーカーMKⅡ
+
+ID=42374
+メギドメーカーMKⅡμ
+
+ID=42375
+強化型メギドメーカーMKⅡμ
+
+ID=42376
+煉獄のメギドメーカーMKⅡμ
+
+ID=42377
+Xenia
+
+ID=42378
+Tactics Officer Xenia
+
+ID=42379
+徹頭徹尾の魔女セニア
+
+ID=42380
+セニアμ
+
+ID=42381
+作戦将校セニアμ
+
+ID=42382
+徹頭徹尾の魔女セニアμ
+
+ID=42383
+シンシア＆ヒュー
+
+ID=42384
+幻想カップルシンシア＆ヒュー
+
+ID=42385
+特ダネキラーシンシア＆ヒュー
+
+ID=42386
+シンシア＆ヒューμ
+
+ID=42387
+幻想カップルシンシア＆ヒューμ
+
+ID=42388
+特ダネキラーシンシア＆ヒューμ
+
+ID=42389
+란
+
+ID=42390
+실수투성이 란
+
+ID=42391
+의도하지 않은 행운 란
+
+ID=42392
+란
+
+ID=42393
+실수투성이 란
+
+ID=42394
+의도하지 않은 행운 란
+
+ID=42395
+센트리 커멘더
+
+ID=42396
+3배 빠른 센트리 커맨더
+
+ID=42397
+붉은 유성 센트리 커맨더
+
+ID=42398
+센트리 커멘더
+
+ID=42399
+3배 빠른 센트리 커맨더
+
+ID=42400
+붉은 유성 센트리 커맨더
+
+ID=42401
+헤비 어스 퀘이커
+
+ID=42402
+철인 헤비 어스퀘이커
+
+ID=42403
+풀파워 헤비 어스퀘이커
+
+ID=42404
+헤비 어스 퀘이커
+
+ID=42405
+철인 헤비 어스퀘이커
+
+ID=42406
+풀파워 헤비 어스퀘이커
+
+ID=43323
+[S]メギドメイカーMKⅡ
+
+ID=43324
+[SH]メギドメイカーMKⅡ
+
+ID=43325
+[S]セニア
+
+ID=43326
+[SH]セニア
+
+ID=43327
+[S]シンシア＆ヒュー
+
+ID=43328
+[SH]シンシア＆ヒュー
+
+ID=43329
+[S]란
+
+ID=43330
+[SH]란
+
+ID=43331
+[S]센트리 커멘더
+
+ID=43332
+[SH]센트리 커멘더
+
+ID=43333
+[S]헤비 어스 퀘이커
+
+ID=43334
+[SH]헤비 어스 퀘이커
+
+ID=58309
+出品最大数超過。最大出品数100個を超過したため出品できません。

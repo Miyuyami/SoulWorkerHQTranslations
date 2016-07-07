@@ -1632,7 +1632,7 @@ Mode Switch
 
 ID=7000
 Erosion Ⅰ
-Gain 50% lifesteal.\nIgnore 50% of enemy's defense.\nMovement Speed +20%.\nGain Super Armor.
+攻撃力が100%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -2790,27 +2790,33 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=30130
 Frostbite
-Frozen for 5 seconds.
-Icon/Buff/Icon_Common_Debuff_MSR
+10秒後、氷結状態になる。
+Icon/Buff/Icon_Common_Debuff_Freezing
 Frostbite
 
 ID=30131
 Slow
-Stuck for 5 seconds.
-Icon/Buff/Icon_Common_Debuff_MSR
+10秒間、動けなくなる。
+Icon/Buff/Icon_Common_Debuff_Freezing
 Slow
 
 ID=30132
 Frost Shield
 Cannot receive damage.
-Icon/Buff/Icon_Common_Debuff_Bleed
+Icon/Buff/Icon_Common_Buff_Warm
 Frost Shield
 
 ID=30133
 Cure Frostbite
 Removes frostbite effect.
-Icon/Buff/Icon_Common_Debuff_Bleed
+Icon/Buff/Icon_Common_Buff_Warm
 Cure Frostbite
+
+ID=30134
+冷気
+HPが毎秒1%ずつ減少し10秒後に氷結状態になる。
+Icon/Buff/Icon_Common_Debuff_Bleed
+冷気
 
 ID=30140
 Bleed
@@ -3732,7 +3738,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53341
 Running Charge Ⅱ
-20% chance of recovering 10% SG when dashing. (3 sec. cooldown)
+ダッシュ中、20%の確率でSGが10%回復する。(クールタイム5秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
@@ -3762,13 +3768,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53363
 Silent Assassin Ⅰ
-On enemy death, 10% chance of +% Attack Speed for 3s. (15s cooldown)
+On enemy death, 10% chance of +5% Attack Speed for 3s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53371
 Silent Assassin Ⅱ
-On enemy death, 10% chance of +% Attack Speed for 5s. (10s cooldown)
+On enemy death, 10% chance of +5% Attack Speed for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
@@ -4935,6 +4941,150 @@ Maximized Shield Ⅲ
 +22% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP↑
+
+ID=53700
+Fuel Saving System Ⅰ
+装着時、5.5秒ごとにスタミナが10%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
++Stamina
+
+ID=53701
+Fuel Saving System Ⅱ
+装着時、5.5秒ごとにスタミナが15%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
++Stamina
+
+ID=53702
+燃料節約システムⅢ
+装着時、5.5秒ごとにスタミナが20%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
++Stamina
+
+ID=53703
+Fuel Saving System Ⅰ
+装着時、5.5秒ごとにスタミナが15%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
++Stamina
+
+ID=53704
+Fuel Saving System Ⅱ
+装着時、5.5秒ごとにスタミナが20%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
++Stamina
+
+ID=53705
+燃料節約システムⅢ
+装着時、5.5秒ごとにスタミナが25%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
++Stamina
+
+ID=53706
+Shut Up Ⅰ
+装着時、60秒ごとにSGが50%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
++SG
+
+ID=53707
+Shut Up Ⅱ
+装着時、60秒ごとにSGが55%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
++SG
+
+ID=53708
+黙りなさいⅢ
+装着時、60秒ごとにSGが60%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
++SG
+
+ID=53709
+Shut Up Ⅰ
+装着時、60秒ごとにSGが55%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
++SG
+
+ID=53710
+Shut Up Ⅱ
+装着時、60秒ごとにSGが65%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
++SG
+
+ID=53711
+黙りなさいⅢ
+装着時、60秒ごとにSGが75%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
++SG
+
+ID=53712
+우다다다! I
+치명타 성공 시 10% 확률로 6초간 공격 속도가\n12% 상승됩니다. (발동 대기시간 30초)
+Icon/Buff/Icon_Common_Buff_Akashic
+공격속도 증가
+
+ID=53713
+우다다다! II
+치명타 성공 시 10% 확률로 6초간 공격 속도가\n13% 상승됩니다. (발동 대기시간 30초)
+Icon/Buff/Icon_Common_Buff_Akashic
+공격속도 증가
+
+ID=53714
+우다다다! III
+치명타 성공 시 10% 확률로 6초간 공격 속도가\n14% 상승됩니다. (발동 대기시간 30초)
+Icon/Buff/Icon_Common_Buff_Akashic
+공격속도 증가
+
+ID=53715
+우다다다! I
+치명타 성공 시 15% 확률로 6초간 공격 속도가\n13% 상승됩니다. (발동 대기시간 30초)
+Icon/Buff/Icon_Common_Buff_Akashic
+공격속도 증가
+
+ID=53716
+우다다다! II
+치명타 성공 시 15% 확률로 6초간 공격 속도가\n14% 상승됩니다. (발동 대기시간 30초)
+Icon/Buff/Icon_Common_Buff_Akashic
+공격속도 증가
+
+ID=53717
+우다다다! III
+치명타 성공 시 15% 확률로 6초간 공격 속도가\n15% 상승됩니다. (발동 대기시간 30초)
+Icon/Buff/Icon_Common_Buff_Akashic
+공격속도 증가
+
+ID=53718
+가볍지만 정확하게 I
+피격 시 20% 확률로 6초간 공격력 20% 감소하고,\n적중도가 1000 상승합니다. (발동 대기시간 1분)
+Icon/Buff/Icon_Common_Buff_Akashic
+적중도 증가
+
+ID=53719
+가볍지만 정확하게 II
+피격 시 20% 확률로 6초간 공격력 10% 감소하고,\n적중도가 1000 상승합니다. (발동 대기시간 1분)
+Icon/Buff/Icon_Common_Buff_Akashic
+적중도 증가
+
+ID=53720
+가볍지만 정확하게 III
+피격 시 20% 확률로 6초간 공격력 5% 감소하고,\n적중도가 1000 상승합니다. (발동 대기시간 1분)
+Icon/Buff/Icon_Common_Buff_Akashic
+적중도 증가
+
+ID=53721
+가볍지만 정확하게 I
+피격 시 20% 확률로 6초간 공격력 20% 감소하고,\n적중도가 1100 상승합니다. (발동 대기시간 1분)
+Icon/Buff/Icon_Common_Buff_Akashic
+적중도 증가
+
+ID=53722
+가볍지만 정확하게 II
+피격 시 20% 확률로 6초간 공격력 10% 감소하고,\n적중도가 1100 상승합니다. (발동 대기시간 1분)
+Icon/Buff/Icon_Common_Buff_Akashic
+적중도 증가
+
+ID=53723
+가볍지만 정확하게 III
+피격 시 20% 확률로 6초간 공격력 5% 감소하고,\n적중도가 1100 상승합니다. (발동 대기시간 1분)
+Icon/Buff/Icon_Common_Buff_Akashic
+적중도 증가
 
 ID=55002
 Surprise Box Ⅲ
