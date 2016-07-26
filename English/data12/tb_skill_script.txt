@@ -2450,7 +2450,7 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 
 ID=4111
 Dash Attack Ⅰ
-[スキル情報]\nダメージ量：[183%]\nSA破壊量：[81%]\n\nダッシュ中に前方へ滑りながら拳を繰り出す。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(左クリック)
+[Skill Info]\nDamage: [183%]\nSA Break: [81%]\n\nCharges forward with the fist while dashing.\nGain SG on hit.\nSG gain varies by attack and enemy type.\n\n[Usage]\nMouse: While dashing (LMB)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
@@ -2478,7 +2478,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 
 ID=4121
 Special Dash Attack Ⅰ
-[スキル情報]\nダメージ量：[265%]\nSA破壊量：[118%]\nクールタイム：[5秒]\n\nダッシュ中に前方にジャンプし、ドロップキックする。\n攻撃時、SGを獲得。\nSG獲得量は連係段階とモンスター等級に応じて増加する。\n\n[操作方法]\nマウス：ダッシュ中(右クリック)
+[Skill Info]\nDamage: [265%]\nSA Break: [118%]\nCooldown: [5s]\n\nJumps forwads while dashing following with a drop kick.\nGain SG on hit.\nSG gain varies by attack and enemy type.\n\n[Usage]\nMouse: While dashing (RMB)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
@@ -2505,29 +2505,29 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=4131
-情熱の意志Ⅰ
-[スキル情報]\n通常攻撃成功時、SGを回復。\n非戦闘状態で自動でSGを回復。\n非戦闘状態が長いほど、大幅にSGを回復。\nカウンター成功時、追加SGを回復。
+Will of Passion Ⅰ
+[Skill Info]\nRecover SG on successful hit.\nRecover SG automatically while out of combat.\nRecover significantly more SG when out of combat for a longer time.\nOn successful counter, recover additional SG.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
 
 ID=4141
-強靭な体Ⅰ
-[スキル情報]\nパッシブ効果：受けるダメージ量[10%]減少\n\n受けるダメージ量が永久的に減少する。
-受けるダメージ量減少：[10%]+5%
+Strong Body
+[Skill Info]\nPassive Effect: Damage Reduction [10%]\n\nThe damage reduction effect is always active.
+Damage Reduction: [10%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive
 0
 
 ID=4142
-強靭な体Ⅱ
-[スキル情報]\nパッシブ効果：受けるダメージ量[15%]減少\n\n受けるダメージ量が永久的に減少する。
-受けるダメージ量減少：[15%]+5%
+Strong Body Ⅱ
+[Skill Info]\nPassive Effect: Damage Reduction [15%]\n\nThe damage reduction effect is always active.
+Damage Reduction: [15%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive
 0
 
 ID=4143
-強靭な体Ⅲ
-[スキル情報]\nパッシブ効果：受けるダメージ量[20%]減少\n\n受けるダメージ量が永久的に減少する。
+Strong Body Ⅲ
+[Skill Info]\nPassive Effect: Damage Reduction [20%]\n\nThe damage reduction effect is always active.
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive
 0
@@ -2575,36 +2575,36 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
 
 ID=14011
-カウンターアタックⅠ
-[スキル情報：通常攻撃]\nダメージ量：[118%]\nSA破壊量：[32%]\n\n[スキル情報：追加攻撃]\nダメージ量：[59%][118%]\nSA破壊量：[16%][32%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、5秒間一部のスキルが強化状態になり、SGが10%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)\n\n[操作方法：追加攻撃]\nマウス：カウンター後(右クリック)×2
-[通常攻撃]\nダメージ量：[118%]+6%\nSA破壊量：[32%]+1%\n\n[追加攻撃] \nダメージ量：[59%]+3% [118%]+6%\nSA破壊量：[16%]+1% [32%]+1%\n\n[カウンター成功]\nSG獲得：[10%]+1%
+Counter Attack Ⅰ
+[Skill Info: Basic]\nDamage: [118%]\nSA Break: [32%]\n\n[Skill Info: Additional]\nDamage: [59%] [118%]\nSA Break: [16%] [32%]\n\n[Skill Info: General]\nCooldown: [5s]\nCan only counter short-ranged attacks, if it's successful, a part of the skill will be empowered for 5 seconds. Recover 10% SG\n\nIgnores the enemy attack with the counter.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Forced]\n\nMouse: While countering (RMB)\n\n[Usage: Additional]\nMouse: After counter (RMB)×2
+[Normal Attack]\nDamage: [118%]+6%\nSA Break: [32%]+1%\n\n[Additional Attack]\nDamage: [59%]+3% [118%]+6%\nSA Break: [16%]+1% [32%]+1%\n\n[Successful Counter]\nSG gain: [10%]+1%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 
 ID=14012
-カウンターアタックⅡ
-[スキル情報：通常攻撃]\nダメージ量：[124%]\nSA破壊量：[33%]\n\n[スキル情報：追加攻撃]\nダメージ量：[62%][124%]\nSA破壊量：[17%][33%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、5秒間一部のスキルが強化状態になり、SGが11%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)\n\n[操作方法：追加攻撃]\nマウス：カウンター後(右クリック)×2
-[通常攻撃]\nダメージ量：[124%]+15%\nSA破壊量：[33%]+4%\n\n[追加攻撃] \nダメージ量：[62%]+7% [124%]+15%\nSA破壊量：[17%]+2% [33%]+4%\n\n[カウンター成功]\nSG獲得：[11%]+2%
+Counter Attack Ⅱ
+[Skill Info: Basic]\nDamage: [124%]\nSA Break: [33%]\n\n[Skill Info: Additional]\nDamage: [62%] [124%]\nSA Break: [17%] [33%]\n\n[Skill Info: General]\nCooldown: [5s]\nCan only counter short-ranged attacks, if it's successful, a part of the skill will be empowered for 5 seconds. Recover 11% SG\n\nIgnores the enemy attack with the counter.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Forced]\n\nMouse: While countering (RMB)\n\n[Usage: Additional]\nMouse: After counter (RMB)×2
+[Normal Attack]\nDamage: [124%]+15%\nSA Break: [33%]+4%\n\n[Additional Attack]\nDamage: [62%]+7% [124%]+15%\nSA Break: [17%]+2% [33%]+4%\n\n[Successful Counter]\nSG gain: [11%]+2%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 
 ID=14013
-カウンターアタックⅢ
-[スキル情報：通常攻撃]\nダメージ量：[139%]\nSA破壊量：[37%]\n\n[スキル情報：追加攻撃]\nダメージ量：[69%][139%]\nSA破壊量：[19%][37%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、5秒間一部のスキルが強化状態になり、SGが13%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)\n\n[操作方法：追加攻撃]\nマウス：カウンター後(右クリック)×2
-[通常攻撃]\nダメージ量：[139%]+15%\nSA破壊量：[37%]+4%\n\n[追加攻撃] \nダメージ量：[69%]+8% [139%]+15%\nSA破壊量：[19%]+2% [37%]+4%\n\n[カウンター成功]\nSG獲得：[13%]+2%
+Counter Attack Ⅲ
+[Skill Info: Basic]\nDamage: [139%]\nSA Break: [37%]\n\n[Skill Info: Additional]\nDamage: [69%] [139%]\nSA Break: [19%] [37%]\n\n[Skill Info: General]\nCooldown: [5s]\nCan only counter short-ranged attacks, if it's successful, a part of the skill will be empowered for 5 seconds. Recover 13% SG\n\nIgnores the enemy attack with the counter.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Forced]\n\nMouse: While countering (RMB)\n\n[Usage: Additional]\nMouse: After counter (RMB)×2
+[Normal Attack]\nDamage: [139%]+15%\nSA Break: [37%]+4%\n\n[Additional Attack]\nDamage: [69%]+8% [139%]+15%\nSA Break: [19%]+2% [37%]+4%\n\n[Successful Counter]\nSG gain: [13%]+2%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 
 ID=14014
-カウンターアタックⅣ
-[スキル情報：通常攻撃]\nダメージ量：[154%]\nSA破壊量：[41%]\n\n[スキル情報：追加攻撃]\nダメージ量：[77%][154%]\nSA破壊量：[21%][41%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、5秒間一部のスキルが強化状態になり、SGが15%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)\n\n[操作方法：追加攻撃]\nマウス：カウンター後(右クリック)×2
-[通常攻撃]\nダメージ量：[154%]+23%\nSA破壊量：[41%]+7%\n\n[追加攻撃] \nダメージ量：[77%]+12% [154%]+23%\nSA破壊量：[21%]+3% [41%]+7%\n\n[カウンター成功]\nSG獲得：[15%]+5%
+Counter Attack Ⅳ
+[Skill Info: Basic]\nDamage: [154%]\nSA Break: [41%]\n\n[Skill Info: Additional]\nDamage: [77%] [154%]\nSA Break: [21%] [41%]\n\n[Skill Info: General]\nCooldown: [5s]\nCan only counter short-ranged attacks, if it's successful, a part of the skill will be empowered for 5 seconds. Recover 15% SG\n\nIgnores the enemy attack with the counter.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Forced]\n\nMouse: While countering (RMB)\n\n[Usage: Additional]\nMouse: After counter (RMB)×2
+[Normal Attack]\nDamage: [154%]+23%\nSA Break: [41%]+7%\n\n[Additional Attack]\nDamage: [77%]+12% [154%]+23%\nSA Break: [21%]+3% [41%]+7%\n\n[Successful Counter]\nSG gain: [15%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 
 ID=14015
-カウンターアタックⅤ
-[スキル情報：通常攻撃]\nダメージ量：[177%]\nSA破壊量：[48%]\n\n[スキル情報：追加攻撃]\nダメージ量：[89%][177%]\nSA破壊量：[24%][48%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、5秒間一部のスキルが強化状態になり、SGが20%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)\n\n[操作方法：追加攻撃]\nマウス：カウンター後(右クリック)×2
+Counter Attack Ⅴ
+[Skill Info: Basic]\nDamage: [177%]\nSA Break: [48%]\n\n[Skill Info: Additional]\nDamage: [89%] [177%]\nSA Break: [24%] [48%]\n\n[Skill Info: General]\nCooldown: [5s]\nCan only counter short-ranged attacks, if it's successful, a part of the skill will be empowered for 5 seconds. Recover 20% SG\n\nIgnores the enemy attack with the counter.\n\n[Usage]\nPlace in skill slot and press corresponding key.\n\n[Usage: Forced]\n\nMouse: While countering (RMB)\n\n[Usage: Additional]\nMouse: After counter (RMB)×2
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
@@ -5305,14 +5305,14 @@ When hit, +100% Defense, -50% Attack for 4s. (30s cooldown)
 0
 
 ID=30292
-Fuel-Conservation System Ⅰ
+Fuel Saving System Ⅰ
 Every 20 seconds, recover 10% stamina.
 .
 0
 0
 
 ID=30293
-Fuel-Conservation System Ⅱ
+Fuel Saving System Ⅱ
 Every 15 seconds, recover 20% stamina.
 .
 0
@@ -5354,14 +5354,14 @@ On critical hit, 10% chance of +10% Attack Speed for 6s. (40s cooldown)
 0
 
 ID=30313
-Lighter, but accurate Ⅰ
+Weak but Precise Ⅰ
 When hit, 20% chance of -20% Attack, +1000 Accuracy for 5s. (60s cooldown)
 .
 0
 0
 
 ID=30321
-Lighter, but accurate I
+Weak but Precise I
 When hit, 20% chance of -15% Attack, +1000 Accuracy for 5s. (60s cooldown)
 .
 0
