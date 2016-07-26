@@ -596,7 +596,7 @@ ID=396
 {0} Hancoin
 
 ID=397
-{0}リサイクルポイント
+{0} Recycling Points
 
 ID=401
 Store
@@ -1211,13 +1211,13 @@ ID=677
 Obtained: {0} EXP [X{1} bonus]
 
 ID=678
-[{0}]の攻撃により死亡しました。
+Killed by [{0}]'s attack.
 
 ID=679
-[{0}]の攻撃で{1}が死亡しました。
+{1} was killed by [{0}]'s attack.
 
 ID=680
-現在戦闘中です。{0}秒後にもう一度お試しください。
+Currenly in combat. Please try again in {0} seconds.
 
 ID=700
 Talk
@@ -1307,7 +1307,7 @@ ID=728
 Lv{0}
 
 ID=729
-リサイクル機能
+Recycling Feature
 
 ID=731
 #{0}
@@ -1931,7 +1931,7 @@ ID=977
 This item has failed to enhance. 
 
 ID=978
-This item cannot be enhanced.\n It has been destroyed.
+This item cannot be enhanced.\nIt has been destroyed.
 
 ID=979
 The item has failed to enhance.\nBy using Q.B.D [Enhancement Protection], the item was not destroyed.
@@ -5504,7 +5504,7 @@ ID=18034
 Sealing completed
 
 ID=18035
-You can prevent an equipment piece from being destroyed by using 1 Q.B.D[Enhancement Protector] on the equipment being enhanced.\n Do you wish to continue enhancing?
+You can prevent an equipment piece from being destroyed by using 1 Q.B.D[Enhancement Protector] on the equipment being enhanced.\nDo you wish to continue enhancing?
 
 ID=18036
 You are in an operation mode, therefore \n you cannot organize your inventory. 
@@ -5573,7 +5573,7 @@ ID=18057
 <font color='#E0B94F'>MEGA</font>,<font color='#F15F5F'>GIGA</font>,<font color='#8041D9'>TERA</font> grade brooch synthesis is possible.
 
 ID=18058
-The remaining number of enhancements of {0} {1} will decrease.\n Upon confirmation, one {2} is used up. \n\n Do you wish to continue?
+The remaining number of enhancements of {0} {1} will decrease.\nUpon confirmation, one {2} is used up.\n\nDo you wish to continue?
 
 ID=18059
 The remaining number of sealings of {0} {1} will decrease.\n Upon confirmation, one {2} is used up. \n\n Do you wish to continue?
@@ -5693,19 +5693,19 @@ ID=18188
 No items found.
 
 ID=18189
-アイテム購入失敗：リサイクルポイント不足
+Failed to purchase item: insufficient recycling points
 
 ID=18190
-強化内容
+Enhancement Subject
 
 ID=18191
-破壊防止
+Destruction Prevention
 
 ID=18192
 Enhancing Options
 
 ID=18193
-強化時、オプションを獲得できません。
+When enhancing you cannot select the extra option.
 
 ID=19000
 <font color='#47C83E'>Attack +1%/Evaded Attack Damage +1%</font>
@@ -5783,79 +5783,79 @@ ID=19024
 <font color='#8041D9'>ACC +50/CRIT DMG +1000/CRIT CH +2%</font>
 
 ID=19025
-<font color='#47C83E'>攻撃力5%/防御度-3%</font>
+<font color='#47C83E'>Attack 5%/Defense -3%</font>
 
 ID=19026
-<font color='#4374D9'>攻撃力7%/防御度-5%</font>
+<font color='#4374D9'>Attack 7%/Defense -5%</font>
 
 ID=19027
-<font color='#E0B94F'>攻撃力9%/防御度-7%</font>
+<font color='#E0B94F'>Attack 9%/ Defense -7%</font>
 
 ID=19028
-<font color='#F15F5F'>攻撃力13%/防御度-9%/クリティカル率1%</font>
+<font color='#F15F5F'>Attack 13%/Defense -9%/Critical 1%</font>
 
 ID=19029
-<font color='#8041D9'>攻撃力18%/防御度-12%/クリティカル率2%</font>
+<font color='#8041D9'>Attack 18%/Defense -12%/Critical 2%</font>
 
 ID=19030
-<font color='#47C83E'>防御度貫通2%/回避度-5%</font>
+<font color='#47C83E'>Penetration 2%/Evasion -5%</font>
 
 ID=19031
-<font color='#4374D9'>防御度貫通4%/回避度-6%</font>
+<font color='#4374D9'>Penetration 4%/Evasion -6%</font>
 
 ID=19032
-<font color='#E0B94F'>防御度貫通5%/回避度-7%</font>
+<font color='#E0B94F'>Penetration 5%/Evasion -7%</font>
 
 ID=19033
-<font color='#F15F5F'>防御度貫通7%/回避度-8%/クールタイム減少3%</font>
+<font color='#F15F5F'>Penetration 7%/Evasion -8%/Cooldown Reduction 3%</font>
 
 ID=19034
-<font color='#8041D9'>防御度貫通10%/回避度-9%/クールタイム減少5%</font>
+<font color='#8041D9'>Penetration 10%/Evasion -9%/Cooldown Reduction 5%</font>
 
 ID=19035
-<font color='#47C83E'>クリティカルダメージ増加800/HP-8%</font>
+<font color='#47C83E'>Critical Damage 800/HP -8%</font>
 
 ID=19036
-<font color='#4374D9'>クリティカルダメージ増加900/HP-9%</font>
+<font color='#4374D9'>Critical Damage 900/HP -9%</font>
 
 ID=19037
-<font color='#E0B94F'>クリティカルダメージ増加1200/HP-10%</font>
+<font color='#E0B94F'>Critical Damage 1200/HP -10%</font>
 
 ID=19038
-<font color='#F15F5F'>クリティカルダメージ増加1500/HP-11%/クリティカル率1%</font>
+<font color='#F15F5F'>Critical Damage 1500/HP -11%/Critical 1%</font>
 
 ID=19039
-<font color='#8041D9'>クリティカルダメージ増加1800/HP-12%/クリティカル率2%</font>
+<font color='#8041D9'>Critical Damage 1800/HP -12%/Critical 2%</font>
 
 ID=19040
-<font color='#47C83E'>クリティカル率1%/攻撃速度-1%</font>
+<font color='#47C83E'>Critical 1%/Attack Speed -1%</font>
 
 ID=19041
-<font color='#4374D9'>クリティカル率2%/攻撃速度-2%</font>
+<font color='#4374D9'>Critical 2%/Attack Speed -2%</font>
 
 ID=19042
-<font color='#E0B94F'>クリティカル率3%/攻撃速度-3%</font>
+<font color='#E0B94F'>Critical 3%/Attack Speed -3%</font>
 
 ID=19043
-<font color='#F15F5F'>クリティカル率4%/攻撃速度-4%/攻撃力1%</font>
+<font color='#F15F5F'>Critical 4%/Attack Speed -4%/Attack 1%</font>
 
 ID=19044
-<font color='#8041D9'>クリティカル率5%/攻撃速度-5%/攻撃力2%</font>
+<font color='#8041D9'>Critical 5%/Attack Speed -5%/Attack 2%</font>
 
 ID=19045
-<font color='#47C83E'>スーパーアーマー破壊力増加2%/命中度-3%</font>
+<font color='#47C83E'>SA Break 2%/Accuracy -3%</font>
 
 ID=19046
-<font color='#4374D9'>スーパーアーマー破壊力増加3%/命中度-5%</font>
+<font color='#4374D9'>SA Break 3%/Accuracy -5%</font>
 
 ID=19047
-<font color='#E0B94F'>スーパーアーマー破壊力増加5%/命中度-7%</font>
+<font color='#E0B94F'>SA Break 5%/Accuracy -7%</font>
 
 ID=19048
-<font color='#F15F5F'>スーパーアーマー破壊力増加7%/命中度-9%/攻撃力1%</font>
+<font color='#F15F5F'>SA Break 7%/Accuracy -9%/Attack 1%</font>
 
 ID=19049
-<font color='#8041D9'>スーパーアーマー破壊力増加9%/命中度-12%/攻撃力2%</font>
+<font color='#8041D9'>SA Break 9%/Accuracy -12%/Attack 2%</font>
 
 ID=19400
 Standard
@@ -5873,10 +5873,10 @@ ID=19502
 Butler
 
 ID=19503
-常夏のビーチ
+Beach of Everlasting Summer
 
 ID=19504
-スクールサマー
+Summer School
 
 ID=20010
 Greet
@@ -5972,31 +5972,31 @@ ID=20103
 {0} practices serving.
 
 ID=20111
-ビーチボール
+Beach Ball
 
 ID=20112
-ビーチボールで遊びます。
+Playing with the beach ball.
 
 ID=20113
-{0}がビーチボールで遊びます。
+{0} is playing with the beach ball.
 
 ID=20124
-サンベッド
+Sunbed
 
 ID=20125
-サンベッドで横になります。
+Lying on the sunbed.
 
 ID=20126
-{0}がサンベッドで横になります。
+{0} is lying on the sunbed.
 
 ID=20127
-スクール水着
+School Swimsuit
 
 ID=20128
-スクール水着を着てポーズを決めます。
+Poses wearing a school swimsuit.
 
 ID=20129
-{0}がスクール水着を着てポーズを決めます。
+{0} is posing wearing a school swimsuit.
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -7193,7 +7193,7 @@ ID=22681
 Texture
 
 ID=22682
-テクスチャーはゲームを再起動、またはローディング後に適用されます。
+Textures are applied after restarting the game or after loading.
 
 ID=23000
 Base FP has been recovered.
@@ -7610,7 +7610,7 @@ ID=24531
 Guild Name Change Ticket
 
 ID=24532
-Restore Destroyed Item
+Restore Broken Item
 
 ID=24533
 Brooch Synthesis 
@@ -8309,7 +8309,7 @@ ID=24889
 Event
 
 ID=24892
-リサイクルポイント
+Recycling Point
 
 ID=24900
 Haru
@@ -8975,7 +8975,7 @@ ID=26321
 When critically hit, 50% chance of +{0} HP
 
 ID=26322
-命中時、5%の確率で5秒間、スーパーアーマー破壊力{0}%増加
+When hit, 5% chance of +{0]% SA Break for 5s.
 
 ID=26323
 +{0}% Movement speed while in town.
@@ -9023,7 +9023,7 @@ ID=26337
 When an attack is evaded, +{0}% Damage Reduction for 5s
 
 ID=26338
-エアリアルを受けた時、5秒間ダメージ減少{0}%
+When mid-air hit, +{0}% Damage Reduction for 5s.
 
 ID=26339
 While on ground, +{0}% Damage Reduction for 5s
@@ -9044,25 +9044,25 @@ ID=26344
 On skill use, 2% chance of -{0}% Cooldown
 
 ID=26345
-クリティカル命中時、5%の確率で5秒間、攻撃力{0}%増加
+On critical hit, 5% chance of +{0]% Attack for 5s
 
 ID=26346
-命中時、5%の確率で3秒間、クリティカルダメージ{0}増加
+When hit, 5% chance of +{0} Critical Damage for 3s
 
 ID=26347
-クリティカル攻撃を受けた時、50%の確率で1秒間、攻撃力{0}%増加
+When critically hit, 50% chance of +{0}% Attack for 1s
 
 ID=26348
-攻撃を受けた時、15%の確率で3秒間、攻撃力{0}%増加
+When hit, 15% chance of +{0}% Attack for 3s
 
 ID=26349
-回避時、10%の確率で3秒間、クリティカル率{0}%増加
+On evasion, 10% chance of +{0}% Critical Rate for 3s
 
 ID=26350
-回避時、10%の確率で5秒間、クリティカルダメージ{0}増加
+On evasion, 10% chance of +{0} Critical Damage for 5s
 
 ID=26351
-討伐時、1秒間、攻撃力{0}%増加
+On kill, +{0} Attack for 1s
 
 ID=26352
 体力が5%以下の時、10秒間、攻撃力{0}増加
@@ -9335,7 +9335,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 21/Jul/2016 8:50 PM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 26/Jul/2016 10:10 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.

@@ -1632,7 +1632,7 @@ Mode Switch
 
 ID=7000
 Erosion Ⅰ
-攻撃力が100%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
++100% Attack Power.\n+20% Movement Speed.\nGain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1686,19 +1686,19 @@ Defense↑
 
 ID=7031
 Spirit Surge Trait A Ⅰ
-興奮状態になり回避度が10%減少する。
+-10% Evasion while excited.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=7032
 Spirit Surge Trait A ⅠⅠ
-興奮状態になり回避度が20%減少する。
+-20% Evasion while excited.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=7033
 Spirit Surge Trait A ⅠⅠⅠ
-興奮状態になり回避度が40%減少する。
+-40% Evasion while excited.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
@@ -2790,13 +2790,13 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=30130
 Frostbite
-10秒後、氷結状態になる。
+Frozen in 10 seconds.
 Icon/Buff/Icon_Common_Debuff_Freezing
 Frostbite
 
 ID=30131
 Slow
-10秒間、動けなくなる。
+Immobilized for 10 seconds.
 Icon/Buff/Icon_Common_Debuff_Freezing
 Slow
 
@@ -2807,16 +2807,16 @@ Icon/Buff/Icon_Common_Buff_Warm
 Frost Shield
 
 ID=30133
-凍傷抵抗
-凍傷状態になりにくくなります。
+Frostbite Resistivity
+It will be less likely to get frostbitten.
 Icon/Buff/Icon_Common_Buff_Warm
-凍傷抵抗
+Frostbite Resistivity
 
 ID=30134
-冷気
-HPが毎秒1%ずつ減少し10秒後に氷結状態になる。
+Chill
+-1% HP each second for 10 seconds while chilled.
 Icon/Buff/Icon_Common_Debuff_Bleed
-冷気
+Chill
 
 ID=30140
 Bleed
@@ -3516,7 +3516,7 @@ Accuracy↑
 
 ID=53172
 Extraordinary Commander's Dignity
-回避スキル使用時、20%の確率でHPの5%が回復する。（クールタイム15秒）
+When Dodge skill is used, 20% chance of +5% HP. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
@@ -3624,7 +3624,7 @@ Attack Power ↑
 
 ID=53273
 Crimson Gaze Ⅰ 
-状態異常にかかると、HPが10%回復する。(クールタイム10秒)
+When under abnormal state, +10% HP. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
@@ -3671,13 +3671,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53302
-Shut Up Ⅰ
+Be Quiet Ⅰ
 Recover 20% SG for every 60 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53303
-Shut Up Ⅱ
+Be Quiet Ⅱ
 Recover 30% SG for every 60 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
@@ -3695,13 +3695,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53313
-Weak But Precise Ⅰ
+Weak but Precise Ⅰ
 When hit, 20% chance of +1000 Accuracy, -20% Attack for 5s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
 ID=53321
-Weak But Precise Ⅱ
+Weak but Precise Ⅱ
 When hit, 20% chance of +1000 Accuracy, -15% Attack for 5s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
@@ -3738,7 +3738,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53341
 Running Charge Ⅱ
-ダッシュ中、20%の確率でSGが10%回復する。(クールタイム5秒)
+On dash use, 20% chance of +10% SG. (5s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
@@ -3804,7 +3804,7 @@ Attack Power ↑
 
 ID=53403
 Silent Healing Ⅰ
-空中攻撃命中時、スタミナを5%回復する。(クールタイム10秒)
+On mid-air hit, +5% Stamina. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
@@ -4944,145 +4944,145 @@ HP↑
 
 ID=53700
 Fuel Saving System Ⅰ
-装着時、5.5秒ごとにスタミナが10%回復する。
++10% Stamina every 5.5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53701
 Fuel Saving System Ⅱ
-装着時、5.5秒ごとにスタミナが15%回復する。
++15% Stamina every 5.5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53702
-燃料節約システムⅢ
-装着時、5.5秒ごとにスタミナが20%回復する。
+Fuel Saving System Ⅲ
++20% Stamina every 5.5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53703
 Fuel Saving System Ⅰ
-装着時、5.5秒ごとにスタミナが15%回復する。
++15% Stamina every 5.5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53704
 Fuel Saving System Ⅱ
-装着時、5.5秒ごとにスタミナが20%回復する。
++20% Stamina every 5.5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53705
-燃料節約システムⅢ
-装着時、5.5秒ごとにスタミナが25%回復する。
+Fuel Saving System Ⅲ
++25% Stamina every 5.5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53706
-Shut Up Ⅰ
-装着時、60秒ごとにSGが50%回復する。
+Be Quiet Ⅰ
++50% SG every 60 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53707
-Shut Up Ⅱ
-装着時、60秒ごとにSGが55%回復する。
+Be Quiet Ⅱ
++55% SG every 60 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53708
-黙りなさいⅢ
-装着時、60秒ごとにSGが60%回復する。
+Be Quiet Ⅲ
++60% SG every 60 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53709
-Shut Up Ⅰ
-装着時、60秒ごとにSGが55%回復する。
+Be Quiet Ⅰ
++55% SG every 60 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53710
-Shut Up Ⅱ
-装着時、60秒ごとにSGが65%回復する。
+Be Quiet Ⅱ
++65% SG every 60 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53711
-黙りなさいⅢ
-装着時、60秒ごとにSGが75%回復する。
+Be Quiet Ⅲ
++75% SG every 60 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53712
 Rush Hour Ⅰ
-クリティカル成功時、10%の確率で6秒間、攻撃速度が12%上昇する。(クールタイム30秒)
+On critical hit, 10% chance of +12% Attack Speed for 6s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53713
 Rush Hour Ⅱ
-クリティカル成功時、10%の確率で6秒間、攻撃速度が13%上昇する。(クールタイム30秒)
+On critical hit, 10% chance of +13% Attack Speed for 6s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53714
-ラッシュの時間Ⅲ
-クリティカル成功時、10%の確率で6秒間、攻撃速度が14%上昇する。(クールタイム30秒)
+Rush Hour Ⅲ
+On critical hit, 10% chance of +14% Attack Speed for 6s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53715
 Rush Hour Ⅰ
-クリティカル成功時、15%の確率で6秒間、攻撃速度が13%上昇する。(クールタイム30秒)
+On critical hit, 15% chance of +13% Attack Speed for 6s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53716
 Rush Hour Ⅱ
-クリティカル成功時、15%の確率で6秒間、攻撃速度が14%上昇する。(クールタイム30秒)
+On critical hit, 15% chance of +14% Attack Speed for 6s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53717
-ラッシュの時間Ⅲ
-クリティカル成功時、15%の確率で6秒間、攻撃速度が15%上昇する。(クールタイム30秒)
+Rush Hour Ⅲ
+On critical hit, 15% chance of +15% Attack Speed for 6s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53718
-Weak But Precise Ⅰ
-攻撃を受けた時、20%の確率で6秒間、攻撃力が20%減少し、命中度が1000上昇する。(クールタイム1分)
+Weak but Precise Ⅰ
+When hit, 20% chance of -20% Attack, +1000 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
 ID=53719
-Weak But Precise Ⅱ
-攻撃を受けた時、20%の確率で6秒間、攻撃力が10%減少し、命中度が1000上昇する。(クールタイム1分)
+Weak but Precise Ⅱ
+When hit, 20% chance of -10% Attack, +1000 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
 ID=53720
-軽いけど正確にⅢ
-攻撃を受けた時、20%の確率で6秒間、攻撃力が5%減少し、命中度が1000上昇する。(クールタイム1分)
+Weak but Precise Ⅲ
+When hit, 20% chance of -5% Attack, +1000 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
 ID=53721
-Weak But Precise Ⅰ
-攻撃を受けた時、20%の確率で6秒間、攻撃力が20%減少し、命中度が1100上昇する。(クールタイム1分)
+Weak but Precise Ⅰ
+When hit, 20% chance of -20% Attack, +1100 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
 ID=53722
-Weak But Precise Ⅱ
-攻撃を受けた時、20%の確率で6秒間、攻撃力が10%減少し、命中度が1100上昇する。(クールタイム1分)
+Weak but Precise Ⅱ
+When hit, 20% chance of -10% Attack, +1100 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
 ID=53723
-軽いけど正確にⅢ
-攻撃を受けた時、20%の確率で6秒間、攻撃力が5%減少し、命中度が1100上昇する。(クールタイム1分)
+Weak but Precise Ⅲ
+When hit, 20% chance of -5% Attack, +1100 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
