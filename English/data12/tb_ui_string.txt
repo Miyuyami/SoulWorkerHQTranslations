@@ -5185,6 +5185,15 @@ Special
 ID=16573
 Premium
 
+ID=16574
+プレミアムS
+
+ID=16575
+プレミアムSR
+
+ID=16576
+プレミアムUR
+
 ID=16582
 Bit
 
@@ -8939,7 +8948,7 @@ ID=26309
 On skill use, -{0}% cooldown
 
 ID=26310
-On a successful dodge, recover {0}% HP.
+緊急回避使用時、HP{0}%回復
 
 ID=26311
 When using a skill, 5% chance of -{0}% cooldown
@@ -9032,10 +9041,10 @@ ID=26340
 When being hit under 50% HP, 10% chance of +{0}% Defense for 5s
 
 ID=26341
-When Dodge skill is used, 2% chance to recover {0}% HP
+緊急回避使用時、2%の確率でHP{0}%回復
 
 ID=26342
-When Dodge skill is used, 3% chance to recover {0}% HP
+緊急回避使用時、3%の確率でHP{0}%回復
 
 ID=26343
 When dashing, 10% chance of +{0}% Movement Speed for 5s
@@ -9335,7 +9344,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 26/Jul/2016 10:10 PM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 29/Jul/2016 2:00 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -14590,6 +14599,9 @@ Skip
 ID=45318
 There is not enough {0} to use the item.
 
+ID=45319
+アバターキューブ使用
+
 ID=46000
 Steel Grave
 
@@ -17201,13 +17213,13 @@ ID=27803
 攻撃を受けた時にHPが50%以上の時、2秒間、防御度{0}%増加
 
 ID=27804
-一般モンスターに命中時、2秒間、攻撃力{0}%増加
+一般モンスターに命中時、10%の確率で2秒間、攻撃力{0}%増加
 
 ID=27805
 一般モンスターから攻撃を受けた時、4秒間、防御度{0}%増加
 
 ID=27806
-ボス級のモンスターに命中時、2秒間、攻撃力{0}%増加
+ボス級のモンスターに命中時、10%の確率で2秒間、攻撃力{0}%増加
 
 ID=27807
 ボス級のモンスターから攻撃を受けた時、4秒間、防御度{0}%増加
@@ -17303,7 +17315,7 @@ ID=27837
 ジャンプ攻撃時、5%の確率でクリティカル率{0}%増加(クリティカル命中時解除)
 
 ID=27838
-回避使用時、5%の確率でSG{0}%回復
+緊急回避使用時、5%の確率でSG{0}%回復
 
 ID=27839
 クリティカル命中時、10%の確率でSG{0}%回復
