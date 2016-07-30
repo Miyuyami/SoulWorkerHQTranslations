@@ -5186,13 +5186,13 @@ ID=16573
 Premium
 
 ID=16574
-プレミアムS
+Premium S
 
 ID=16575
-プレミアムSR
+Premium SR
 
 ID=16576
-プレミアムUR
+Premium UR
 
 ID=16582
 Bit
@@ -8948,7 +8948,7 @@ ID=26309
 On skill use, -{0}% cooldown
 
 ID=26310
-緊急回避使用時、HP{0}%回復
+On emergency dodge, +{0]% HP
 
 ID=26311
 When using a skill, 5% chance of -{0}% cooldown
@@ -9041,10 +9041,10 @@ ID=26340
 When being hit under 50% HP, 10% chance of +{0}% Defense for 5s
 
 ID=26341
-緊急回避使用時、2%の確率でHP{0}%回復
+On emergency dodge, 2% chance of +{0}% HP
 
 ID=26342
-緊急回避使用時、3%の確率でHP{0}%回復
+On emergency dodge, 3% chance of +{0}% HP
 
 ID=26343
 When dashing, 10% chance of +{0}% Movement Speed for 5s
@@ -9074,37 +9074,37 @@ ID=26351
 On kill, +{0} Attack for 1s
 
 ID=26352
-体力が5%以下の時、10秒間、攻撃力{0}増加
+When under 5% HP, +{0}% Attack for 10s
 
 ID=26353
-体力が5%以下の時、10秒間、スーパーアーマー破壊力{0}%増加
+When under 5% HP, +{0}% SA Break for 10s
 
 ID=26354
-体力が5%以下の時に攻撃成功時、10%の確率で1秒無敵
+When attacking under 5% HP, 10% chance of invincibility for 1s
 
 ID=26355
-討伐時、5%の確率で1秒間、スーパーアーマー効果
+On kill, 5% chance of Super Armor for 1s.
 
 ID=26356
-討伐時、5%の確率で2秒間、スーパーアーマー効果
+On kill, 5% chance of Super Armor for 2s.
 
 ID=26357
-討伐時、5%の確率で3秒間、スーパーアーマー効果
+On kill, 5% chance of Super Armor for 3s.
 
 ID=26358
-討伐時、5%の確率で4秒間、スーパーアーマー効果
+On kill, 5% chance of Super Armor for 4s.
 
 ID=26359
-討伐時、5%の確率で5秒間、スーパーアーマー効果
+On kill, 5% chance of Super Armor for 5s.
 
 ID=26360
-スーパーアーマーブレイク発動時、5秒間、クリティカル率{0}%増加
+On SA Break, +{0}% Critical for 5s
 
 ID=26361
-攻撃失敗時、10%の確率で3秒間、クリティカルダメージ{0}増加
+On fail hit, 10% chance of +{0} Critical Damage for 3s
 
 ID=26362
-スタミナが10%以下の時に攻撃時、攻撃力{0}増加
+When attacking under 10% Stamina, +{0}% Attack
 
 ID=26500
 On enemy death, +{0}% Defense Penetration for 30s
@@ -9344,7 +9344,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 29/Jul/2016 2:00 PM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 30/Jul/2016 2:10 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -10985,7 +10985,7 @@ ID=32100
 Exchange
 
 ID=32101
-家具設置
+Furniture Installation
 
 ID=32102
 Cultivate
@@ -10994,22 +10994,22 @@ ID=32103
 Guild Skills
 
 ID=32104
-コイン商店
+Coin Shop
 
 ID=32105
-取引所
+Exchange
 
 ID=32106
-ハンコイン商店
+Hancoin Shop
 
 ID=32107
-ログイン
+Login
 
 ID=32108
-保安
+Security
 
 ID=32109
-2次パスワード
+Secondary Password
 
 ID=33000
 Hello,\n I have wandered the world, \nseeking for a glorious show.\n  My name is “Clown Edgar”.\n I admit you must be surprised.\n I lust for your power.\n It is flamboyant, yet modest.\n Tranquil, yet destructive and refined.\n For you, I sent a present.\nAccept it, it is a token\n of respect. Come to “The Shopping District”\n, you'll like it.\n - Clown Edgar.
@@ -11183,13 +11183,13 @@ ID=33550
 A Dawn's Glory
 
 ID=33551
-血染めの遺言
+Bloodstained Testament
 
 ID=33552
-血の墓
+Tomb of Blood
 
 ID=33553
-災厄の幕開け
+Calamity's Prelude
 
 ID=34000
 Flowerpot 1
@@ -11399,10 +11399,10 @@ ID=35115
 You cannot chat for 60 seconds because of violation of chat rules.\n(Time remaining: {0} seconds)
 
 ID=35116
-{0)に{1}ダメージ与えました。
+{1} damaged {0}.
 
 ID=35117
-{0}に{1}ダメージ受けました。
+{0} was damaged by {1}.
 
 ID=35200
 {0) has won, {1} BP has been gained.
@@ -11456,28 +11456,28 @@ ID=36012
 Move
 
 ID=37001
-緊急！第6区域に空白の亀裂が発生しました。
+Emergency! A fissure in the void has appeared in District 6.
 
 ID=37002
-第6区域から空白コアが除去されました。
+The void core from District 6 was removed.
 
 ID=37003
-第6区域から空白の亀裂が消滅しました。
+The fissure in the void has disappeared from District 6.
 
 ID=37004
-緊急！第6区域に未知の生命体が出現しました。
+Emergency! Unknown life forms have emerged in District 6.
 
 ID=37005
-{0}によって、第6区域の未知の生命体が討伐されました。
+By {0}, the unknown life forms were defeated in District 6.
 
 ID=37006
-第6区域から空白の亀裂が消滅しました。
+The fissure in the void has disappeared from District 6.
 
 ID=37007
-第6区域に空白の亀裂が発生しました。\n亀裂が消える前に、空白コアとザ・シングを討伐してください。\n亀裂消滅まで残り：{0}分
+A fissure in the void has appeared in District 6.\nBefore the fissure disappears, please defeat the void core and The Thing.\nRemaining until the fissure disappears: {0} minutes
 
 ID=37008
-バキュームキューブが消滅し、アイテムを獲得できませんでした。
+Void cube disappeared, unable to gain any items.
 
 ID=38000
 {0}s
@@ -11579,58 +11579,58 @@ ID=38520
 Master A
 
 ID=38521
-EXP獲得量2%増加
+2% Bonus EXP
 
 ID=38522
-EXP獲得量4%増加
+4% Bonus EXP
 
 ID=38523
-EXP獲得量6%増加
+6% Bonus EXP
 
 ID=38524
-EXP獲得量9%増加
+9% Bonus EXP
 
 ID=38525
-EXP獲得量12%増加
+12% Bonus EXP
 
 ID=38526
 15% Bonus EXP
 
 ID=38527
-EXP獲得量19%増加
+19% Bonus EXP
 
 ID=38528
-EXP獲得量23%増加
+23% Bonus EXP
 
 ID=38529
-EXP獲得量27%増加
+27% Bonus EXP
 
 ID=38530
-EXP獲得量32%増加
+32% Bonus EXP
 
 ID=38531
-EXP獲得量37%増加
+37% Bonus EXP
 
 ID=38532
-EXP獲得量42%増加
+42% Bonus EXP
 
 ID=38533
-EXP獲得量48%増加
+48% Bonus EXP
 
 ID=38534
-EXP獲得量54%増加
+54% Bonus EXP
 
 ID=38535
 60% Bonus EXP
 
 ID=38536
-EXP獲得量67%増加
+67% Bonus EXP
 
 ID=38537
-EXP獲得量74%増加
+74% Bonus EXP
 
 ID=38538
-EXP獲得量82%増加
+82% Bonus EXP
 
 ID=38539
 90% Bonus EXP
@@ -12335,7 +12335,7 @@ ID=40320
 Use the controller to stop the wide-area attacks. The Flame Tempest Forces will be put into a 10-second paralysis state.
 
 ID=40321
-一部のフローティングエリアは見えませんが、乗ることができます。
+Even if you cannot see the floating area, you can still stand on it.
 
 ID=40401
 More enemies will be summoned soon. Please be careful.
@@ -12650,22 +12650,22 @@ ID=40611
 The house of endings has been cleared. You may now move to town from the house of premonition.
 
 ID=40612
-保温装置を起動すると、20秒間、氷結抵抗効果が付与されます。
+Starting the heat insulation device will grant a freezing resistence effect for 20 seconds.
 
 ID=40613
-保温装置を起動すると30秒間、保温装置が氷結状態になり使用できなくなります。
+You cannot use the heat insulation device for 30 seconds.
 
 ID=40614
 Destroy the Flame Crystal appearing in the golden pedestals to stop the lava from flowing.
 
 ID=40615
-しばらくすると、ヘキサスピアーが氷結状態を誘発する回避不可な吹雪を発生させます。\n出来る限りアポカリプスの攻撃範囲から離れてください。
+Shortly, a Hexa Spear will appear and unleash an unavoidable blizzard that will cause freezing.\nPlease run away as fast as possible from Apocalypse's attack range.
 
 ID=40616
-巨大な稲妻の壁を生成するゴールデンオベリスクが周期的に召喚されます。\nゴールデンオベリスクは攻撃して破壊することができます。
+The Golden Obelisk periodically summons gigantic walls of lightning.\nThe Golden Obelisk can be destroyed by attacking it.
 
 ID=40617
-3つのベノムフラワーを全て破壊すると、パンデモニアはスタン状態になります。
+Upon destroying all 3 Venom Flowers, Pandemonia will be stunned.
 
 ID=42000
 Jack the King
@@ -14600,7 +14600,7 @@ ID=45318
 There is not enough {0} to use the item.
 
 ID=45319
-アバターキューブ使用
+Use Avatar Cube
 
 ID=46000
 Steel Grave
@@ -15011,7 +15011,7 @@ ID=49409
 Memorial
 
 ID=49410
-デイリーミッション
+Daily Mission
 
 ID=49411
 Login Check
@@ -15749,7 +15749,7 @@ ID=52045
 The item could not be used; you can still enter Steel Grave.
 
 ID=52046
-スチールグレイブの入場情報が初期化されました。\nスチールグレイブへ入場できます。
+Steel Grave's admission information has been initialized.\nYou are able to enter Steel Glave.
 
 ID=52047
 There are no free slots in the General Inventory
@@ -16016,7 +16016,7 @@ ID=52309
 You have exceeded the purchase limit for the day.
 
 ID=52310
-所持金[ジェニー/ハンコイン/BP/リサイクルポイント]が不足しているため、アイテム購入に失敗しました。
+Failed to purchase item because of insufficient [Zenny/Hancoin/BP/Recycling Point].
 
 ID=52311
 Failed to purchase this item. Your inventory is full.
