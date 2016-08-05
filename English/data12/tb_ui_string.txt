@@ -6116,7 +6116,7 @@ ID=21021
 Supporter Quest Complete [Supporter: Auto Punisher]
 
 ID=21022
-Supporter Quest Complete [Supporter: Kurini]
+Supporter Quest Complete [Supporter: Cleany]
 
 ID=21023
 Supporter Quest Complete [Supporter: Maxim]
@@ -6512,7 +6512,7 @@ ID=22109
 Character Perspective
 
 ID=22110
-Auxiliary Controls
+Gamepad Controls
 
 ID=22111
 Dash to Dodge
@@ -8774,7 +8774,7 @@ ID=26084
 Durability Usage
 
 ID=26085
-Gesture:Dance
+Gesture: Idol Dance
 
 ID=26086
 Change effect when receiving damage_Turn off Options menu[Tooltip]
@@ -8930,7 +8930,7 @@ ID=26303
 On skill use, 50% chance to increase Evasion Rate by {0}% for 10s
 
 ID=26304
-50% chance to gain additional bonus Zenny
+When gaining zenny, 50% chance of gaining additional zenny
 
 ID=26305
 On hit, 5% chance of +{0} HP
@@ -8960,7 +8960,7 @@ ID=26313
 When critically hit, +{0}% Critical Resistance for 10s
 
 ID=26314
-When hit by a Boss Monster, +{0} Maximum Stamina for 3s
+When hit by boss monsters, +{0} Maximum Stamina for 3s
 
 ID=26315
 When hitting, 3% chance of +{0}% Attack for 3s
@@ -8984,13 +8984,13 @@ ID=26321
 When critically hit, 50% chance of +{0} HP
 
 ID=26322
-When hit, 5% chance of +{0]% SA Break for 5s.
+When hit, 5% chance of +{0}% SA Break for 5s.
 
 ID=26323
 +{0}% Movement speed while in town.
 
 ID=26324
-When hit by a Boss Monster, 10% chance of +{0}% Damage Reduction for 5s
+When hit by boss monsters, 10% chance of +{0}% Damage Reduction for 5s
 
 ID=26325
 When an attack is evaded, following attack is increased by {0}%
@@ -9032,7 +9032,7 @@ ID=26337
 When an attack is evaded, +{0}% Damage Reduction for 5s
 
 ID=26338
-When mid-air hit, +{0}% Damage Reduction for 5s.
+When hit mid-air, +{0}% Damage Reduction for 5s.
 
 ID=26339
 While on ground, +{0}% Damage Reduction for 5s
@@ -9080,7 +9080,7 @@ ID=26353
 When under 5% HP, +{0}% SA Break for 10s
 
 ID=26354
-When attacking under 5% HP, 10% chance of invincibility for 1s
+On hit with 5% HP or less, 10% chance of invincibility for 1s
 
 ID=26355
 On kill, 5% chance of Super Armor for 1s.
@@ -9104,7 +9104,7 @@ ID=26361
 On fail hit, 10% chance of +{0} Critical Damage for 3s
 
 ID=26362
-When attacking under 10% Stamina, +{0}% Attack
+On hit with 10% Stamina or less, +{0}% Attack
 
 ID=26500
 On enemy death, +{0}% Defense Penetration for 30s
@@ -9119,7 +9119,7 @@ ID=27002
 On critical hit, 7% chance of +{0}% Critical Attack for 3s
 
 ID=27500
-Recover HP by {0}% of gained Zenny
+When gaining zenny, +{0}% HP of gained amount
 
 ID=27700
 On enemy death, +{0}% Soul Vapor
@@ -9344,7 +9344,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 30/Jul/2016 2:10 PM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 05/Aug/2016 2:40 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -9722,7 +9722,7 @@ ID=28196
 Guild Details
 
 ID=28197
-Recent Login Activity
+Recent Login
 
 ID=28198
 Ranks
@@ -11027,7 +11027,7 @@ ID=33004
 That day was cloudy.\n The runaway child knew. Rather, I did not understand how the “calamity” came. We had committed crimes; we could of atoned for it. Yet, we did not. Unlike other children, I came to pass judgement...\n\n The cloudy day.\n The child was brought to death by humans. They had naive ideas that everything was over. Silly as I did, I thought NED company would help. They, will definitely bury the truth. As if nothing happened.\n\n  We were buried in hell. A fateful ending for us.
 
 ID=33005
-Model Name：NS_EX_008\nName：Cleany\n\n1. Befitting to its name, it's a robot that detects Soul Energy within a object, recycle, and search for energy.\n\n2.It is currently in force shut down mode due to loss of energy. When energy is inserted in three times consecutively, it breaks out of shut down mode and starts up.\n(Requires 24 hours until it moves)\n\n3.If the Core is damaged or lost, an amplifying device can be replaced in to resurrect the Core.\n(Warning: Needs at least 1% power source left)
+Model Name: NS_EX_008\nName: Cleany\n\n1. Befitting to its name, it's a robot that detects Soul Energy within a object, recycle, and search for energy.\n\n2.It is currently in force shut down mode due to loss of energy. When energy is inserted in three times consecutively, it breaks out of shut down mode and starts up.\n(Requires 24 hours until it moves)\n\n3.If the Core is damaged or lost, an amplifying device can be replaced in to resurrect the Core.\n(Warning: Needs at least 1% power source left)
 
 ID=33500
 Dead Desparate Soldier's Belongings
@@ -12938,13 +12938,13 @@ ID=42089
 Sentry Commander  
 
 ID=42090
-3x Sentry Commander
+Triple Speed Sentry Commander
 
 ID=42091
-Heavy Ground Shaker
+Heavy Earthquaker
 
 ID=42092
-Heavyweight Ground Shaker
+Heavy Lifting Heavy Earthquaker
 
 ID=42093
 Amanda
@@ -13007,7 +13007,7 @@ ID=42112
 Authoritative Weapons Trekker
 
 ID=42113
-Clinic
+Cleany
 
 ID=42114
 Steel Robot Brother
@@ -13940,7 +13940,7 @@ ID=43089
 Sentry Commander  
 
 ID=43091
-Heavy Ground Shaker
+Heavy Earthquaker
 
 ID=43093
 Amanda
@@ -13970,7 +13970,7 @@ ID=43108
 Sensun
 
 ID=43113
-Clinic
+Cleany
 
 ID=43114
 Steel Robot Brother
@@ -15095,10 +15095,10 @@ ID=49610
 Gamepad
 
 ID=49611
-The auxiliary controller is connected.\n The controls can be used by\n activating auxiliary controller mode in system settings.
+Gamepad connected.\nTo switch to gamepad mode:\n[System Settings - Camera - Gamepad Controls]
 
 ID=49612
-Cannot detect the auxiliary controller. Please reinstall it.
+Cannot recognize gamepad. Gamepad mode disabled.
 
 ID=49613
 Connection to the server has been terminated.\n Try again.
@@ -17201,214 +17201,214 @@ ID=60144
 Repeat Count ({0}/{1})
 
 ID=27800
-命中時、2%の確率でSV{0}獲得
+On hit, 2% chance of +{0} SV
 
 ID=27801
-エアリアル命中時、2秒間、攻撃力{0}%増加
+On mid-air hit, +{0}% Attack for 2s.
 
 ID=27802
-エアリアルを受けた時、2秒間、防御度{0}%増加
+When hit mid-air, +{0}% Defense for 2s
 
 ID=27803
-攻撃を受けた時にHPが50%以上の時、2秒間、防御度{0}%増加
+When hit with 50% HP or more, +{0}% Defense ce 2s
 
 ID=27804
-一般モンスターに命中時、10%の確率で2秒間、攻撃力{0}%増加
+On hitting general monsters, 10% chance of +{0}% Attack for 2s
 
 ID=27805
-一般モンスターから攻撃を受けた時、4秒間、防御度{0}%増加
+When hit by general monsters, +{0}% Defense for 4s
 
 ID=27806
-ボス級のモンスターに命中時、10%の確率で2秒間、攻撃力{0}%増加
+On hitting boss monsters, 10% chance of +{0}% Attack for 2s
 
 ID=27807
-ボス級のモンスターから攻撃を受けた時、4秒間、防御度{0}%増加
+When hit by boss monsters, +{0}% Defense for 4s
 
 ID=27808
-命中時、対象のHPが50%以上の時、攻撃力{0}%増加(命中時解除)
+On hitting target with 50% HP or more, +{0}% Attack (cancelled on hit)
 
 ID=27809
-命中時、対象のHPが20%未満の時、攻撃力{0}%増加(命中時解除)
+On hitting target with 20% HP or less, +{0}% Attack (cancelled on hit)
 
 ID=27810
-攻撃を受けた時、HPが30%未満の時、50%の確率で防御度{0}%増加(攻撃を受けると解除)
+When hit with 30% HP or less, 50% chance of +{0}% Defense (cancelled on hit)
 
 ID=27811
-第6区域で攻撃力{0}%増加
+In District 6, +{0}% Attack
 
 ID=27812
-第6区域で防御度{0}%増加
+In District 6, +{0}% Defense
 
 ID=27813
-討伐時、5%の確率で5秒間、攻撃力{0}%増加
+On kill, 5% chance of +{0}% Attack for 5s
 
 ID=27814
-討伐時、5%の確率で10秒間、防御度{0}%増加 
+On kill, 5% chance of +{0}% Defense for 10s 
 
 ID=27815
-ジェニー獲得時、10秒間、獲得量の{0}%防御度増加
+When gaining zenny, +{0}% Defense of gained amount for 10s
 
 ID=27816
-ジェニー獲得時、10秒間、獲得量の{0}%攻撃力増加
+When gaining zenny, +{0}% Attack of gained amount for 10s
 
 ID=27817
-エーテル獲得時、10秒間、獲得量の{0}%防御度増加
+When gaining ether, +{0}% Defense of gained amount for 10s
 
 ID=27818
-エーテル獲得時、10秒間、獲得量の{0}%攻撃力増加
+When gaining ether, +{0}% Attack of gained amount for 10s
 
 ID=27819
-スキル使用時、5%の確率でSV{0}獲得
+On skill use, 5% chance of +{0} SV
 
 ID=27820
-スキル使用時、5%の確率でSG{0}%回復
+On skill use, 5% chance of +{0}% SG
 
 ID=27821
-30%の確率で、受けたダメージ量の{0}%反射
+30% chance of reflecting {0}% of the incoming damage
 
 ID=27822
-一般モンスターに命中時、4秒間、命中度{0}増加
+On hitting general monsters, +{0} Accuracy for 4s
 
 ID=27823
-ボス級のモンスターに命中時、3秒間、命中度{0}増加
+On hitting boss monsters, +{0} Accuracy for 3s
 
 ID=27824
-一般モンスターから攻撃を受けた時、8秒間、回避度{0}増加
+When hit by general monsters, +{0} Evasion for 8s
 
 ID=27825
-ボス級のモンスターから攻撃を受けた時、6秒間、回避度{0}増加
+When hit by boss monsters, +{0} Evasion for 6s
 
 ID=27826
-攻撃を受けた時、10%の確率で命中度{0}増加(クリティカルを受けると解除)
+When hit, 10% chance of +{0} Accuracy (cancelled when critically hit)
 
 ID=27827
-攻撃を受けた時、10%の確率で回避度{0}増加(回避成功時解除)
+When hit, 10% chance of +{0} Evasion (cancelled on evasion
 
 ID=27828
-第6区域で命中度{0}増加
+In District 6, +{0} Accuracy
 
 ID=27829
-第6区域で回避度{0}増加
+In District 6, +{0} Evasion
 
 ID=27830
-討伐時、5%の確率で命中度{0}増加(クリティカル命中時解除)
+On kill, 5% chance of +{0} Accuracy (cancelled on critical hit)
 
 ID=27831
-討伐時、5%の確率で回避度{0}増加(クリティカル命中時解除)
+On kill, 5% chance of +{0} Evasion (cancelled on critical hit)
 
 ID=27832
-エーテル獲得時、命中度が獲得量の{0}%増加
+When gaining ether, +{0}% Accuracy of gained amount
 
 ID=27833
-エーテル獲得時、回避度が獲得量の{0}%増加
+When gaining ether, +{0}% Evasion of gained amount
 
 ID=27834
-ジェニー獲得時、命中度が獲得量の{0}%増加
+When gaining zenny, +{0}% Accuracy of gained amount
 
 ID=27835
-ジェニー獲得時、回避度が獲得量の{0}%増加
+When gaining zenny, +{0}% Evasion of gained amount
 
 ID=27836
-攻撃を受けた時、5%の確率でSV{0}獲得
+When hit, 5% chance of +{0} SV
 
 ID=27837
-ジャンプ攻撃時、5%の確率でクリティカル率{0}%増加(クリティカル命中時解除)
+On jump hit, 5% chance of +{0}% Critical (cancelled on critical hit)
 
 ID=27838
-緊急回避使用時、5%の確率でSG{0}%回復
+On emergency dodge, 5% chance of +{0}% SG
 
 ID=27839
-クリティカル命中時、10%の確率でSG{0}%回復
+On critical hit, 10% chance of +{0}% SG
 
 ID=27840
-スーパーアーマーブレイク発生時、10%の確率で3秒間、クリティカルダメージ{0}増加
+On SA Break, 10% chance of +{0} Critical Damage for 3s
 
 ID=27841
-スキル使用時、5%の確率で4秒間、クリティカル率{0}%増加
+On skill use, 5% chance of +{0} Critical for 4s
 
 ID=27842
-攻撃を受けた時、次の攻撃力{0}%増加(命中時解除)
+When hit, +{0}% Attack (cancelled on hit)
 
 ID=27843
-攻撃を受けた時、5%の確率でHP{0}%回復
+When hit, 5% chance of +{0}% HP
 
 ID=27844
-第6区域でクリティカル率{0}%増加
+In District 6, +{0}% Critical
 
 ID=27845
-第6区域で最大HP{0}%増加
+In District 6, +{0}% Maximum HP
 
 ID=27846
-第6区域でクリティカルダメージ{0}増加
+In District 6, +{0} Critical Damage
 
 ID=27847
-HPが70%以上の敵にクリティカルダメージ{0}増加(クリティカル命中時解除)
+When enemy has 70% HP or more, +{0} Critical Damage (cancelled on critical hit)
 
 ID=27848
-攻撃を受けた時、HPが20%未満の場合、20%の確率でHP{0}回復
+When hit with 20% HP or less, 20% chance of +{0} HP
 
 ID=27849
-エーテル獲得時、10%の確率で獲得量の{0}%HP回復
+When gaining ether, 10% chance of +{0}% HP of gained amount
 
 ID=27850
-ジェニー獲得時、10%の確率で獲得量の{0}%HP回復
+When gaining zenny, 10% chance of +{0}% HP of gained amount
 
 ID=27851
-命中時、対象のHPが50%以上の時、クリティカル率{0}%増加(命中時解除)
+On hitting target with 50% HP or more, +{0}% Critical (cancelled on hit)
 
 ID=27852
-命中時、対象のHPが50%未満の時、クリティカルダメージ{0}増加(クリティカル命中時解除)
+On hitting target with 50% HP or less, +{0} Critical Damage (cancelled on critical hit)
 
 ID=27853
-討伐時、5%の確率でSV{0}獲得
+On kill, 5% chance of +{0} SV
 
 ID=27854
-クリティカルを受けた時、20%の確率で2秒間、ダメージ減少{0}増加
+When critically hit, 20% chance of +{0} Damage Reduction for 2s
 
 ID=27855
-HP回復時、10%の確率で3秒間、攻撃力{0}増加
+On HP recovery, 10% chance of +{0} Attack for 3s
 
 ID=27856
-SV回復時、10%の確率で3秒間、攻撃力{0}増加
+On SV recovery, 10% chance of +{0} Attack for 3s
 
 ID=27857
-HP回復時、10%の確率で3秒間、移動速度{0}%増加
+On HP recovery, 10% chance of +{0}% Movement Speed for 3s
 
 ID=27858
-SV回復時、10%の確率で3秒間、移動速度{0}%増加
+On SV recovery, 10% chance of +{0}% Movement Speed for 3s
 
 ID=27859
-スーパーアーマーブレイク発生時、50%の確率で5秒間、防御度貫通{0}%増加
+On SA Break, 50% chance of +{0}% Defense Penetration for 5s
 
 ID=27860
-命中時、スーパーアーマーゲージが50%以上の時、スーパーアーマー破壊力{0}%増加
+On hitting target with 50% SA Gauge or more, +{0}% SA Break
 
 ID=27861
 +{0}% Movement speed while in town.
 
 ID=27862
-HP回復時、10%の確率で4秒間、攻撃速度{0}%増加
+On HP recovery, 10% chance of +{0}% Attack Speed for 4s
 
 ID=27863
-SV回復時、10%の確率で4秒間、攻撃速度{0}%増加
+On SV recovery, 10% chance of +{0}% Attack Speed for 4s
 
 ID=27864
-エーテル獲得時、10秒間、攻撃速度{0}%増加
+When gaining ether, +{0}% Attack Speed for 10s
 
 ID=27865
-エーテル獲得時、10秒間、移動速度{0}%増加
+When gaining ether, +{0}% Movement Speed for 10s
 
 ID=27866
-ジェニー獲得時、10秒間、攻撃速度{0}%増加
+When gaining zenny, +{0}% Attack Speed for 10s
 
 ID=27867
-ジェニー獲得時、10秒間、移動速度{0}%増加
+When gaining zenny, +{0}% Movement Speed for 10s
 
 ID=27868
-HP回復時、10%の確率で3秒間、防御度{0}増加
+On HP recovery, 10% chance fo {0} Defense for 3s
 
 ID=27869
-SV回復時、10%の確率で3秒間、防御度{0}増加
+On SV recovery, 10% chance fo {0} Defense for 3s
 
 ID=42371
 Megiddo Maker MK Ⅱ
@@ -17417,16 +17417,16 @@ ID=42372
 Augmented Megiddo Maker MK Ⅱ
 
 ID=42373
-煉獄のメギドメーカーMKⅡ
+Purifying Megiddo Maker MK Ⅱ
 
 ID=42374
-メギドメーカーMKⅡμ
+Megiddo Maker MK Ⅱ μ
 
 ID=42375
-強化型メギドメーカーMKⅡμ
+Augmented Megiddo Maker MK Ⅱ μ
 
 ID=42376
-煉獄のメギドメーカーMKⅡμ
+Purifying Megiddo Maker MK Ⅱ μ
 
 ID=42377
 Xenia
@@ -17435,124 +17435,124 @@ ID=42378
 Tactics Officer Xenia
 
 ID=42379
-徹頭徹尾の魔女セニア
+Thorough Witch Xenia
 
 ID=42380
-セニアμ
+Xenia μ
 
 ID=42381
-作戦将校セニアμ
+Tactics Officer Xenia μ
 
 ID=42382
-徹頭徹尾の魔女セニアμ
+Thorough Witch Xenia μ
 
 ID=42383
-シンシア＆ヒュー
+Cynthia & Hugh
 
 ID=42384
-幻想カップルシンシア＆ヒュー
+Fantasy Couple Cynthia & Hugh
 
 ID=42385
-特ダネキラーシンシア＆ヒュー
+Scoop Killers Cynthia & Hugh
 
 ID=42386
-シンシア＆ヒューμ
+Cynthia & Hugh μ
 
 ID=42387
-幻想カップルシンシア＆ヒューμ
+Fantasy Couple Cynthia & Hugh μ
 
 ID=42388
-特ダネキラーシンシア＆ヒューμ
+Scoop Killers Cynthia & Hugh μ
 
 ID=42389
-ラン
+Ran
 
 ID=42390
-しくじりっ娘ラン
+Goofy Girl Ran
 
 ID=42391
-強運の持ち主ラン
+Fortune Master Ran
 
 ID=42392
-ランμ
+Ran μ
 
 ID=42393
-しくじりっ娘ランμ
+Goofy Girl Ran μ
 
 ID=42394
-強運の持ち主ランμ
+Fortune Master Ran μ
 
 ID=42395
 Sentry Commander  
 
 ID=42396
-3x Sentry Commander
+Triple Speed Sentry Commander
 
 ID=42397
-赤い流星のセントリーコマンダー
+Red Meteor Sentry Commander
 
 ID=42398
-セントリーコマンダーμ
+Sentry Commander μ
 
 ID=42399
-三倍速セントリーコマンダーμ
+Triple Speed Sentry Commander μ
 
 ID=42400
-赤い流星のセントリーコマンダーμ
+Red Meteor Sentry Commander μ
 
 ID=42401
-Heavy Ground Shaker
+Heavy Earthquaker
 
 ID=42402
-鉄人ヘビーアースクエイカー
+Iron Man Heavy Earthquaker
 
 ID=42403
-百万馬力のヘビーアースクエイカー
+Million Horsepower Heavy Earthquaker
 
 ID=42404
-ヘビーアースクエイカーμ
+Heavy Earthquaker μ
 
 ID=42405
-鉄人ヘビーアースクエイカーμ
+Iron Man Heavy Earthquaker μ
 
 ID=42406
-百万馬力のヘビーアースクエイカーμ
+Million Horsepower Heavy Earthquaker μ
 
 ID=43323
-[S]メギドメーカーMKⅡ
+[S] Megiddo Maker MK Ⅱ
 
 ID=43324
-[SH]メギドメーカーMKⅡ
+[SH] Megiddo Maker MK Ⅱ
 
 ID=43325
-[S]セニア
+[S] Xenia
 
 ID=43326
-[SH]セニア
+[SH] Xenia
 
 ID=43327
-[S]シンシア＆ヒュー
+[S] Cynthia & Hugh
 
 ID=43328
-[SH]シンシア＆ヒュー
+[SH] Cynthia & Hugh
 
 ID=43329
-[S]ラン
+[S] Ran
 
 ID=43330
-[SH]ラン
+[SH] Ran
 
 ID=43331
-[S]セントリーコマンダー
+[S] Sentry Commander
 
 ID=43332
-[SH]セントリーコマンダー
+[SH] Sentry Commander
 
 ID=43333
-[S]ヘビーアースクエイカー
+[S] Heavy Earthquaker
 
 ID=43334
-[SH]ヘビーアースクエイカー
+[SH] Heavy Earthquaker
 
 ID=58309
-出品最大数超過。最大出品数100個を超過したため出品できません。
+Exceeded the maximum number of listed items. Cannot list more than 100 items.
