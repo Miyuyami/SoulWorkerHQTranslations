@@ -6041,13 +6041,13 @@ ID=20310
 設置されたアイテムの解除権限がありません。
 
 ID=20400
-FP回復中…
+ในระหว่างการฟื้นฟู FP...
 
 ID=20401
-1分未満
+น้อยกว่า 1 นาที
 
 ID=20402
-休憩中…
+ในระหว่างการหยุดพัก...
 
 ID=21000
 {0}の好感度が{1}増加しました。
@@ -6059,13 +6059,13 @@ ID=21002
 ความสนิท [Lv{0}]
 
 ID=21003
-等級特典
+เกรดรางวัล
 
 ID=21004
-報酬アイテム
+รายการของรางวัล
 
 ID=21005
-好感度
+คะแนนที่เพิ่มขึ้น
 
 ID=21006
 {0}
@@ -10469,7 +10469,7 @@ ID=31104
 เควส
 
 ID=31105
-อิสระ
+อะไรก็ได้
 
 ID=31106
 30分間募集します。
@@ -11297,7 +11297,7 @@ ID=34034
 ยืนยัน
 
 ID=34035
-การเก็บเกี่ยวล้มเหลว: ช่องว่าง inventory ไม่เพียงพอ
+การเก็บเกี่ยวล้มเหลว: ไม่มีที่ว่างในช่องเก็บของ
 
 ID=34036
 เก็บเกี่ยว
@@ -15179,7 +15179,7 @@ ID=49704
 ยืนยันรหัสผ่านการแลกเปลี่ยน
 
 ID=49705
-ใส่รหัสผ่านการแลกเปลี่ยน
+ใส่รหัสการซื้อขาย
 
 ID=49720
 ตั้งค่ารหัสผ่านที่ 2
@@ -15878,7 +15878,7 @@ ID=52220
 BPが不足しています。
 
 ID=52221
-インベントリの空きが不足しています。
+ไม่มีที่ว่างในช่องเก็บของ
 
 ID=52222
 インベントリにエラーが発生しました。
@@ -15905,7 +15905,7 @@ ID=52255
 対象アイテムを使用中です。
 
 ID=52256
-インベントリの空きが不足しています。
+ไม่มีที่ว่างในช่องเก็บของ
 
 ID=52257
 製作に失敗しました。
@@ -15923,7 +15923,7 @@ ID=52263
 存在しないインベントリです。
 
 ID=52264
-インベントリの空きが不足しています。
+ไม่มีที่ว่างในช่องเก็บของ
 
 ID=52265
 交換に失敗しました。
@@ -16139,7 +16139,7 @@ ID=52440
 คุณไม่สามารถเปิดร้านค้าส่วนบุคคลเพิ่มได้ในชาแนลนี้
 
 ID=52441
-การชำระเงินล้มเหลว ขาดแคลนช่องเก็บของ
+การชำระเงินล้มเหลว: ไม่มีที่ว่างในช่องเก็บของ
 
 ID=52442
 すでに他のプレイヤーが個人商店を利用中です。
@@ -17417,16 +17417,16 @@ ID=42372
 Kyoka-gata megidomeka MKⅡ
 
 ID=42373
-煉獄のメギドメーカーMKⅡ
+Purifying Megiddo Maker MK Ⅱ
 
 ID=42374
-メギドメーカーMKⅡμ
+Megiddo Maker MK Ⅱ μ
 
 ID=42375
-強化型メギドメーカーMKⅡμ
+Augmented Megiddo Maker MK Ⅱ μ
 
 ID=42376
-煉獄のメギドメーカーMKⅡμ
+Purifying Megiddo Maker MK Ⅱ μ
 
 ID=42377
 Senia
@@ -17435,52 +17435,52 @@ ID=42378
 Tactics Officer Senia
 
 ID=42379
-徹頭徹尾の魔女セニア
+Thorough Witch Xenia
 
 ID=42380
-セニアμ
+Xenia μ
 
 ID=42381
-作戦将校セニアμ
+Tactics Officer Xenia μ
 
 ID=42382
-徹頭徹尾の魔女セニアμ
+Thorough Witch Xenia μ
 
 ID=42383
-シンシア＆ヒュー
+Cynthia & Hugh
 
 ID=42384
-幻想カップルシンシア＆ヒュー
+Fantasy Couple Cynthia & Hugh
 
 ID=42385
-特ダネキラーシンシア＆ヒュー
+Scoop Killers Cynthia & Hugh
 
 ID=42386
-シンシア＆ヒューμ
+Cynthia & Hugh μ
 
 ID=42387
-幻想カップルシンシア＆ヒューμ
+Fantasy Couple Cynthia & Hugh μ
 
 ID=42388
-特ダネキラーシンシア＆ヒューμ
+Scoop Killers Cynthia & Hugh μ
 
 ID=42389
-ラン
+Ran
 
 ID=42390
-しくじりっ娘ラン
+Goofy Girl Ran
 
 ID=42391
-強運の持ち主ラン
+Fortune Master Ran
 
 ID=42392
-ランμ
+Ran μ
 
 ID=42393
-しくじりっ娘ランμ
+Goofy Girl Ran μ
 
 ID=42394
-強運の持ち主ランμ
+Fortune Master Ran μ
 
 ID=42395
 Sentry Commander
@@ -17489,70 +17489,70 @@ ID=42396
 3x Sentry Commander
 
 ID=42397
-赤い流星のセントリーコマンダー
+Red Meteor Sentry Commander
 
 ID=42398
-セントリーコマンダーμ
+Sentry Commander μ
 
 ID=42399
-三倍速セントリーコマンダーμ
+Triple Speed Sentry Commander μ
 
 ID=42400
-赤い流星のセントリーコマンダーμ
+Red Meteor Sentry Commander μ
 
 ID=42401
 Heavy Ground Shaker
 
 ID=42402
-鉄人ヘビーアースクエイカー
+Iron Man Heavy Earthquaker
 
 ID=42403
-百万馬力のヘビーアースクエイカー
+Million Horsepower Heavy Earthquaker
 
 ID=42404
-ヘビーアースクエイカーμ
+Heavy Earthquaker μ
 
 ID=42405
-鉄人ヘビーアースクエイカーμ
+Iron Man Heavy Earthquaker μ
 
 ID=42406
-百万馬力のヘビーアースクエイカーμ
+Million Horsepower Heavy Earthquaker μ
 
 ID=43323
-[S]メギドメーカーMKⅡ
+[S]Megiddo Maker MK Ⅱ
 
 ID=43324
-[SH]メギドメーカーMKⅡ
+[SH]Megiddo Maker MK Ⅱ
 
 ID=43325
-[S]セニア
+[S]Xenia
 
 ID=43326
-[SH]セニア
+[SH]Xenia
 
 ID=43327
-[S]シンシア＆ヒュー
+[S]Cynthia & Hugh
 
 ID=43328
-[SH]シンシア＆ヒュー
+[SH]Cynthia & Hugh
 
 ID=43329
-[S]ラン
+[S]Ran
 
 ID=43330
-[SH]ラン
+[SH]Ran
 
 ID=43331
-[S]セントリーコマンダー
+[S]Sentry Commander
 
 ID=43332
-[SH]セントリーコマンダー
+[SH]Sentry Commander
 
 ID=43333
-[S]ヘビーアースクエイカー
+[S]Heavy Earthquaker
 
 ID=43334
-[SH]ヘビーアースクエイカー
+[SH]Heavy Earthquaker
 
 ID=58309
-出品最大数超過。最大出品数100個を超過したため出品できません。
+เกินจำนวนสูงสุดของรายการที่ระบุ ไม่สามารถแสดงรายการมากกว่า 100 รายการ
