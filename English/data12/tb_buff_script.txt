@@ -22,6 +22,12 @@ Attack & Defense +20%.
 Icon/Buff/Icon_Common_Buff_Reg
 Enhance
 
+ID=99
+断ち切られた流れ
+キャラクターステータスの防御度が100%減少する。
+Icon/Buff/Icon_Common_Debuff_Def
+Defense↓
+
 ID=100
 Breaker
 Ignore super armor for 3 seconds.
@@ -2573,10 +2579,10 @@ Icon/Buff/Icon_Common_Buff_ATK
 -
 
 ID=30040
-Bleed
-HP will continuously decrease by 1% for 10 seconds.
-Icon/Buff/Icon_Common_Debuff_Bleed
-Bleed
+HP↓
+0
+0
+HP↓
 
 ID=30042
 Sticky Mucus
@@ -2652,8 +2658,8 @@ Move Speed ↓
 
 ID=30054
 HP↓
-HP -10%
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=30055
@@ -2664,14 +2670,14 @@ Move Speed ↓
 
 ID=30056
 HP↓
-HP decreased by 5%: 3 second duration with 0.5 second interval
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=30057
 HP↓
-HP -70%
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=30058
@@ -2688,26 +2694,26 @@ Move Speed ↓
 
 ID=30060
 HP↓
-HP -40%
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=30061
 HP↓
-HP -2%
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=30066
 HP↓
-HP -15% (1 time)
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=30067
 HP↓
-HP -70%
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=30068
@@ -2717,51 +2723,15 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
 
 ID=30069
-Player HP Reduced.
-HP reduce per second.
-Icon/Buff/Icon_Common_Debuff_Bleed
 HP↓
-
-ID=30470
+0
+0
 HP↓
-HP -15%
-Icon/Buff/Icon_Common_Debuff_Bleed
-HP↓
-
-ID=30471
-Player Shocked
-Shocked effect for 3 seconds
-Icon/Buff/Icon_Common_Debuff_Shock
-Shock
-
-ID=30472
-HP↓
-HP -30%
-Icon/Buff/Icon_Common_Debuff_Bleed
-HP↓
-
-ID=30473
-Attack Power ↑
-Attack +10% for 60 seconds
-Icon/Buff/Icon_Common_Buff_ATK
-Attack Power ↑
-
-ID=30474
-Move Speed ↑
-Movement speed increased by 5% for 60 seconds.
-Icon/Buff/Icon_Common_Buff_MSR
-Move Speed ↑
 
 ID=30101
 -
 -
 Icon/Buff/Icon_Common_Debuff_Paralysis
--
-
-ID=31001
--
--
-Icon/Buff/Icon_Common_Buff_Immun
 -
 
 ID=30114
@@ -2848,6 +2818,90 @@ All stats are drastically reduced.
 Icon/Buff/Icon_Common_Debuff_Weakness
 Weakness
 
+ID=30202
+汚染
+身体の中から異質な力を感じる。
+Icon/Buff/Icon_Common_Debuff_Poison
+汚染
+
+ID=30204
+Vitality
+身体が活性化し、持続的にHPが回復する。
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+浄化
+
+ID=30205
+腐食
+HPが持続的に減少する。
+Icon/Buff/Icon_Common_Debuff_Bleed
+腐敗
+
+ID=30206
+汚染された血
+HPが持続的に減少する。
+0
+-
+
+ID=30207
+腐敗
+HPが持続的に減少する。
+0
+-
+
+ID=30208
+抵抗
+持続中は汚染地帯の毒を防いでくれる。
+Icon/Buff/Icon_Common_Buff_SArmor
+-
+
+ID=30212
+Steel Wall
+持続中はダメージをほぼ受けない。
+Icon/Buff/Icon_Common_Debuff_Def
+-
+
+ID=30217
+HP↓
+0
+0
+HP↓
+
+ID=30470
+HP↓
+0
+0
+HP↓
+
+ID=30471
+Player Shocked
+Shocked effect for 3 seconds
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=30472
+HP↓
+0
+0
+HP↓
+
+ID=30473
+Attack Power ↑
+Attack +10% for 60 seconds
+Icon/Buff/Icon_Common_Buff_ATK
+Attack Power ↑
+
+ID=30474
+Move Speed ↑
+Movement speed increased by 5% for 60 seconds.
+Icon/Buff/Icon_Common_Buff_MSR
+Move Speed ↑
+
+ID=31001
+-
+-
+Icon/Buff/Icon_Common_Buff_Immun
+-
+
 ID=32001
 Cure
 Continuously recover HP.
@@ -2862,20 +2916,20 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=35000
 HP↓
-HP -3% per 2 seconds
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=35001
 HP↓
-HP -3% per 2 seconds
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=35002
 HP↓
-HP -100% (Instant Death)
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=35003
@@ -2916,14 +2970,14 @@ Paralyzed
 
 ID=35009
 HP↓
-HP -5% per second for 3 seconds.
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=35010
 HP↓
-HP -5% per second for 3 seconds.
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=35011
@@ -2946,8 +3000,8 @@ Invincible
 
 ID=35300
 HP↓
-HP reduce by -40%
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=35302
@@ -2964,8 +3018,8 @@ Armor Dissipated
 
 ID=35304
 HP↓
-HP reduced by 15%.
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=35305
@@ -2988,9 +3042,9 @@ Move Speed ↓
 
 ID=35313
 HP↓
-Become shocked, taking some damage over 3 seconds.
-Icon/Buff/Icon_Common_Debuff_Shock
-Shock
+0
+0
+HP↓
 
 ID=35400
 Move Speed ↓
@@ -3000,14 +3054,14 @@ Move Speed ↓
 
 ID=37300
 HP↓
-HP -5% for every 2 seconds.
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=37421
 HP↓
-HP -3% per 2 seconds
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=39001
@@ -3576,13 +3630,13 @@ Defense↑
 
 ID=53213
 Material Conversion Ⅰ
-When obtaining an item, there is a 20% chance of increasing ATK by 10% for 5 sec. (Cooldown: 30 sec)
+アイテム獲得時、20%の確率で5秒間、攻撃力が10%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53221
 Material Conversion Ⅱ
-When obtaining an item, there is a 30% chance of increasing ATK by 10% for 5 sec. (Cooldown: 30 sec)
+アイテム獲得時、30%の確率で5秒間、攻撃力が10%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
@@ -3792,7 +3846,7 @@ Attack Power ↑
 
 ID=53391
 Lost & Found Ⅰ
-When obtaining an item, there is a 10% chance of being invincible for 2 sec. (Cooldown: 1 min)
+アイテム獲得時、10%の確率で2秒間、無敵状態になる。(クールタイム1分)
 Icon/Buff/Icon_Common_Buff_Akashic
 Invincible
 
@@ -5086,6 +5140,114 @@ When hit, 20% chance of -5% Attack, +1100 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
+ID=53724
+風の加護Ⅰ
+装着時、ダメージ減少が1%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少増加
+
+ID=53725
+風の加護Ⅱ
+装着時、ダメージ減少が4%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少増加
+
+ID=53726
+風の加護Ⅲ
+装着時、ダメージ減少が7%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少増加
+
+ID=53727
+風の加護Ⅰ
+装着時、ダメージ減少が3%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少増加
+
+ID=53728
+風の加護Ⅱ
+装着時、ダメージ減少が6%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少増加
+
+ID=53729
+風の加護Ⅲ
+装着時、ダメージ減少が9%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少増加
+
+ID=53730
+無限動力Ⅰ
+装着時、ソウルの消費量が1%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウル消費量減少
+
+ID=53731
+無限動力Ⅱ
+装着時、ソウルの消費量が3%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウル消費量減少
+
+ID=53732
+無限動力Ⅲ
+装着時、ソウルの消費量が5%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウル消費量減少
+
+ID=53733
+無限動力Ⅰ
+装着時、ソウルの消費量が2%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウル消費量減少
+
+ID=53734
+無限動力Ⅱ
+装着時、ソウルの消費量が4%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウル消費量減少
+
+ID=53735
+無限動力Ⅲ
+装着時、ソウルの消費量が6%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウル消費量減少
+
+ID=53736
+刃の天使Ⅰ
+装着時、クリティカルダメージ量が200上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加
+
+ID=53737
+刃の天使Ⅱ
+装着時、クリティカルダメージ量が700上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加
+
+ID=53738
+刃の天使Ⅲ
+装着時、クリティカルダメージ量が1200上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加
+
+ID=53739
+刃の天使Ⅰ
+装着時、クリティカルダメージ量が500上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加
+
+ID=53740
+刃の天使Ⅱ
+装着時、クリティカルダメージ量が1000上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加
+
+ID=53741
+刃の天使Ⅲ
+装着時、クリティカルダメージ量が1500上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加
+
 ID=55002
 Surprise Box Ⅲ
 Defense -50% for 30 seconds.
@@ -5124,37 +5286,37 @@ Attack Speed ↑
 
 ID=55088
 Oil Shock! Ⅰ
-Over the spout oil from the ground, -30% Movement Speed to enemies for 2s. (90s cooldown)
+地面からオイルが噴き上がり、2秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 Move Speed ↓
 
 ID=55089
 Oil Shock! Ⅱ
-Over the spout oil from the ground, -30% Movement Speed to enemies for 4s. (90s cooldown)
+地面からオイルが噴き上がり、4秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 Move Speed ↓
 
 ID=55090
 Oil Shock! Ⅲ
-Over the spout oil from the ground, -50% Movement Speed to enemies for 4s. (90s cooldown)
+地面からオイルが噴き上がり、4秒間\n敵の移動速度が50%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 Move Speed ↓
 
 ID=55091
 Oil Shock! Ⅰ
-Over the spout oil from the ground, -30% Movement Speed to enemies for 3s. (90s cooldown)
+地面からオイルが噴き上がり、3秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 Move Speed ↓
 
 ID=55092
 Oil Shock! Ⅱ
-Over the spout oil from the ground, -30% Movement Speed to enemies for 5s. (90s cooldown)
+地面からオイルが噴き上がり、5秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 Move Speed ↓
 
 ID=55093
 Oil Shock! Ⅲ
-Over the spout oil from the ground, -70% Movement Speed to enemies for 7s. (90s cooldown)
+地面からオイルが噴き上がり、7秒間\n敵の移動速度が70%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 Move Speed ↓
 
@@ -5292,14 +5454,14 @@ Vampire
 
 ID=63000
 HP↓
-HP -15%
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=63001
 HP↓
-HP -25%
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=63002
@@ -5310,14 +5472,14 @@ Paralyzed
 
 ID=63003
 HP↓
-HP -50%
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=63004
 HP↓
-HP -2%
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=63005
@@ -5400,8 +5562,8 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=63018
 HP↓
-HP -15%
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=63019
@@ -5424,8 +5586,8 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=63022
 HP↓
--99% HP
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=63023
@@ -5436,20 +5598,20 @@ Defense↓
 
 ID=63024
 HP↓
-HP -20% 
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=63025
 HP↓
-HP -90% 
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=63026
 HP↓
-HP -2%
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=63027
@@ -5472,8 +5634,8 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=63030
 HP↓
-HP -10%
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=63031
@@ -5502,7 +5664,7 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=63035
 HP↓
-HP -5% for every 3 seconds.
+0
 0
 HP↓
 
@@ -5526,20 +5688,20 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=63039
 HP↓
-HP -20% 
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=63040
 HP↓
-HP -20% 
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=63041
 HP↓
-HP -20% 
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP↓
 
 ID=63042
@@ -5550,7 +5712,7 @@ Shock
 
 ID=63043
 HP↓
-HP -15% per second for 3 seconds.
+0
 0
 HP↓
 
@@ -5568,12 +5730,150 @@ Move Speed ↑
 
 ID=63046
 HP↓
-Reduce 15% HP
+0
 0
 HP↓
 
 ID=63047
 HP↓
-HP -15% for every 2 seconds.
+0
+0
+HP↓
+
+ID=30036
+HP↓
+0
+0
+HP↓
+
+ID=30065
+HP↓
+0
+0
+HP↓
+
+ID=30145
+HP↓
+0
+0
+HP↓
+
+ID=35012
+HP↓
+0
+0
+HP↓
+
+ID=35013
+HP↓
+0
+0
+HP↓
+
+ID=35019
+HP↓
+0
+0
+HP↓
+
+ID=35030
+HP↓
+0
+0
+HP↓
+
+ID=35015
+HP↓
+0
+0
+HP↓
+
+ID=35016
+HP↓
+0
+0
+HP↓
+
+ID=35018
+HP↓
+0
+0
+HP↓
+
+ID=35023
+HP↓
+0
+0
+HP↓
+
+ID=35024
+HP↓
+0
+0
+HP↓
+
+ID=35200
+HP↓
+0
+0
+HP↓
+
+ID=35201
+HP↓
+0
+0
+HP↓
+
+ID=35203
+HP↓
+0
+0
+HP↓
+
+ID=35204
+HP↓
+0
+0
+HP↓
+
+ID=35206
+HP↓
+0
+0
+HP↓
+
+ID=35207
+HP↓
+0
+0
+HP↓
+
+ID=35310
+HP↓
+0
+0
+HP↓
+
+ID=35311
+HP↓
+0
+0
+HP↓
+
+ID=35314
+HP↓
+0
+0
+HP↓
+
+ID=35315
+HP↓
+0
+0
+HP↓
+
+ID=63048
+HP↓
+0
 0
 HP↓

@@ -488,7 +488,7 @@ ID=345
 Sell the selected item(s) for {0}?
 
 ID=346
-Your selection contains a <font color='#A566FF'>High Valued</font> item, selling it will give you {0}. Are you sure you want to sell?
+売却するアイテムに<font color='#A566FF'>価値の高い</font>アイテムがあります。\n売却すると{0}を獲得できます。\n売却しますか？
 
 ID=351
 Junk
@@ -827,7 +827,7 @@ ID=490
 Party Ranking
 
 ID=491
-Bonus Reward
+確定獲得
 
 ID=492
 <Aquired>
@@ -836,7 +836,7 @@ ID=493
 <Mail payment complete>
 
 ID=494
-Claim
+カードキー使用
 
 ID=495
 Current Dungeon Earnings
@@ -846,6 +846,9 @@ In order to receive bonus rewards, a bonus key card is required.
 
 ID=497
 Auto-closing in {0} seconds.
+
+ID=498
+ランダム獲得
 
 ID=501
 Display Info
@@ -884,7 +887,7 @@ ID=515
 ※<font color='#F15F5F'>You will be moved to the last town you visited</font> after <font size='15' color='#F7AE54'>{0}</font> seconds.
 
 ID=516
-※<font color='#47C83E'>「{0}」has revived you</font>.
+※<font color='#47C83E'>"{0}" has revived you</font>.
 
 ID=517
 ※<font color='#FFBB00'>1 [Greater Accident Call] will be used</font> for resurrection.
@@ -1219,6 +1222,9 @@ ID=679
 ID=680
 Currenly in combat. Please try again in {0} seconds.
 
+ID=683
+ランク経験値獲得：{0}EXP
+
 ID=700
 Talk
 
@@ -1307,16 +1313,16 @@ ID=728
 Lv{0}
 
 ID=729
-Recycling Feature
+リサイクル
 
 ID=731
 #{0}
 
 ID=732
-Casual Raid, also known as 「Aberrant Void」, is a high-difficulty party-only dungeon. Please prepare properly before participating in the raid.
+Casual Raid, also known as a "Space Abnormality", is a high-difficulty party-only dungeon. Please prepare properly before participating in the raid.
 
 ID=733
-「Golden Citadel」is a 4-man only top tier party raid. Break through the golden disaster in order to survive.
+"Golden Citadel" is a 4-man only top tier party raid. Break through the golden disaster in order to survive.
 
 ID=734
 The ultimate combat simulation “Steel Grave” can only be challenged 1 time per day. 
@@ -2051,7 +2057,7 @@ ID=1032
 Natural Part
 
 ID=1033
-Legend Sports
+スポーティショート
 
 ID=1034
 Hair 4
@@ -2204,10 +2210,10 @@ ID=1304
 All instances of<font color='#FF0000'>[Casual Raid][Co-Op Dungeon]</font>have been open.
 
 ID=1311
-[Equilibrum] has appeared.
+イクイルブリアムが出現しました。
 
 ID=1312
-[Equilibrium] will vanish.
+イクイルブリアムが消滅します。
 
 ID=1314
 BP
@@ -3008,7 +3014,7 @@ ID=4010
 Achievement Completed
 
 ID=4011
-Achievement 「{0}」 attained.
+Achievement "{0}" attained.
 
 ID=4012
 Clearance Level Up
@@ -3455,7 +3461,7 @@ ID=5840
 <font color='#FFFFFF' size='30'>TIP: </font>Sometimes a <font color='#00D8FF'>Memorial</font>, A.K.A. memory fragment, will appear.\nCollect these and claim a reward from the Memorial window <font color='#00ff9c'>[B]</font>.
 
 ID=5841
-<font color='#FFFFFF' size='30'>TIP: </font>Clicking the 「i」 icon at the top right corner will open <font color='#00D8FF'>[Help]</font>, where various information about the game can be found.
+<font color='#FFFFFF' size='30'>TIP: </font>Clicking the "i" icon at the top right corner will open <font color='#00D8FF'>[Help]</font>, where various information about the game can be found.
 
 ID=5842
 <font color='#FFFFFF' size='30'>TIP: </font>Entering a dungeon will consume <font color='#00D8FF'>[FP]</font>.
@@ -3509,7 +3515,7 @@ ID=5858
 <font color='#FFFFFF' size='30'>TIP: </font>Materials and ingredients for enhancing or crafting can sometimes be obtained from the <font color='#00D8FF'>Vacuum Cubes</font> which sometimes appear in <font color='#00D8FF'>District 6</font>.
 
 ID=5859
-<font color='#FFFFFF' size='30'>TIP: </font>Upon reaching the max level, you can try doing the <font color='#00D8FF'>Casual Raid</font> 「Strange Void」 with a minimum of 2 people.
+<font color='#FFFFFF' size='30'>TIP: </font>Upon reaching the max level, you can try doing the <font color='#00D8FF'>Casual Raid</font> "Space Abnormality" with a minimum of 2 people.
 
 ID=5860
 <font color='#FFFFFF' size='30'>TIP: </font>You can enter the combat research institution <font color='#00D8FF'>Steel Grave</font> from <font color='#00D8FF'>Candus City</font>.
@@ -3644,7 +3650,7 @@ ID=5903
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[SG]</font> (Soul Gauge) is the source of your power.\nUsing a skill will consume SG. Each character recovers SG differently.
 
 ID=5904
-<font color='#FFFFFF' size='30'>TIP: </font>The Break Skill, <font color='#00D8FF'>「Erosion」</font>, cannot be used in <font color='#00D8FF'>District 6</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>The Break Skill, <font color='#00D8FF'>"Erosion"</font>, cannot be used in <font color='#00D8FF'>District 6</font>.
 
 ID=5905
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[DRAW]</font> type <font color='#00D8FF'>A.R cards</font> cannot be used in <font color='#00D8FF'>District 6</font>.
@@ -3677,7 +3683,7 @@ ID=6019
 Standby
 
 ID=6020
-A.R card「{0}」\nAre you sure you want to discard this?
+A.R card "{0}"\nAre you sure you want to discard this?
 
 ID=6021
 Do you want to rent {0} {1} A.R card(s)?\n You can rent them for {2} hours for {4} Zenny. You currently have {3} Zenny.
@@ -3716,10 +3722,10 @@ ID=6032
 This A.R card is being used.
 
 ID=6033
-A.R card 「{0}」 crafted.
+A.R card "{0}" crafted.
 
 ID=6034
-A.R card 「{0}」 released.
+A.R card "{0}" released.
 
 ID=6035
 Crafting A.R card was unsuccessful.
@@ -3807,6 +3813,102 @@ These materials cannot be used for crafting.
 
 ID=6063
 Unreleasable
+
+ID=6901
+パーティー加入状態のため、入場できません。
+
+ID=6902
+入場レベルに達していません。(必要Ｌｖ：{0})
+
+ID=6903
+フリーマッチ
+
+ID=6904
+後で適用
+
+ID=6905
+フリーマッチ
+
+ID=6906
+プレイヤー検索中
+
+ID=6907
+マッチング完了入場待機中…{0}秒
+
+ID=6908
+不明
+
+ID=6909
+頻繁にマッチングを中止すると、利用を制限されることがあります。
+
+ID=6910
+進行中のマッチングを中止しますか？\n(頻繁にマッチング中止時、利用を制限されることがあります)
+
+ID=6911
+頻繁なマッチング中止により入場が制限されます。\n(残り：{0}分{1}秒)
+
+ID=6912
+マッチングが完了したため、マッチングを中止できません。
+
+ID=6913
+ゲーム進行中の離脱が確認されました。\n該当試合は敗北処理され、\n一定時間、フリーマッチの入場が制限されます。
+
+ID=6914
+試合中にゲーム終了時、試合は敗北となり\n一定時間ゲームの利用が制限されます。\n本当にゲームを終了しますか？
+
+ID=6915
+{0}がゲームを離脱しました。
+
+ID=6916
+試合開始準備中です。\n{0}秒後に試合が始まります。
+
+ID=6917
+{0}ラウンドの準備中\n試合開始{1}秒前
+
+ID=6918
+Round{0}
+
+ID=6919
+{0}チームの勝利\n({1}秒後、次のラウンドが始まります)
+
+ID=6920
+{0}チームの勝利\n({1}秒後、試合結果を集計します)
+
+ID=6921
+チームメンバー情報
+
+ID=6922
+ゲーム結果
+
+ID=6923
+ラウンド記録：{0}勝{1}敗
+
+ID=6924
+進行時間：{0}分{1}秒
+
+ID=6925
+再試合申請
+
+ID=6926
+同じ条件でもう一度試合を進行します。\n(全員が申請すると試合が進行されます)
+
+ID=6927
+これ以上、再試合申請はできません。
+
+ID=6928
+現在{0}連勝中
+
+ID=6929
+{0}秒後、自動で町に復帰します。
+
+ID=6930
+Leave
+
+ID=6931
+{0}が再試合を申請しました。\n同意の場合、再試合申請を押してください。
+
+ID=6932
+全員が再試合を申請しました。\n{0}秒後、再試合を始めます。
 
 ID=7000
 Presets
@@ -4112,7 +4214,13 @@ ID=9206
 District Raid
 
 ID=9207
-Apocolypse
+ザ・プライマル
+
+ID=9208
+チームマッチ(PvP) Beta
+
+ID=9209
+バトルコート
 
 ID=9211
 Rocco Town
@@ -4282,6 +4390,9 @@ House of Calamity
 ID=9995
 House of Endings
 
+ID=9996
+最高難易度のレイド[ザ・プライマル]は最大8人で臨むフォース専用メイズです。\n世界の崩壊を止めるために、仲間と共にザ・プライマルを討伐してください。
+
 ID=10011
 -
 
@@ -4328,7 +4439,7 @@ ID=10042
 The Veshi's Rapid Flame Faction has\ntaken over the highways on the outskirts of Candus City.\nIn order to reclaim the occupied area, the Starry Forest League will execute a joint-operation with NED Company.
 
 ID=10043
-The western branch of NED Company is being\noccupied by the Rapid Flame Faction led by the breezy witch named\n「Poison」.
+The western branch of NED Company is being\noccupied by the Rapid Flame Faction led by the breezy witch named\n"Poison".
 
 ID=10044
 A giant transport plane located underneath Candus City has been prepared by the NED Company for evacuation purposes.\nThe plane is currently ready to take off.
@@ -4385,7 +4496,7 @@ ID=10089
 Edgar is preparing his final assault on Rocco Town. His cruel parade will end here.
 
 ID=10090
-Use the last escape route in N-102 after activating the time bomb. Defeat the mighty 「Beholder」blocking you to clear the way.
+Use the last escape route in N-102 after activating the time bomb. Defeat the mighty "Beholder" blocking you to clear the way.
 
 ID=10091
 NED Company's ambition was a forbidden experiment on living people.\nLet's prevent their wretched plan of mass producing Soulworkers, and put all the victims to rest.
@@ -4715,7 +4826,7 @@ ID=10454
 Hundred Swords
 
 ID=10461
-A Girl's World
+Girl's World
 
 ID=10462
 Uninvited Guest
@@ -4772,7 +4883,7 @@ ID=10503
 Shaky Ground
 
 ID=10504
-Subterranean Sun
+Sunken Sun
 
 ID=10511
 The Silent Path
@@ -4796,7 +4907,7 @@ ID=10523
 Confession Time
 
 ID=10524
-Battle of Destiny
+Clash of Fate
 
 ID=14000
 Steel Grave
@@ -5042,7 +5153,7 @@ ID=15039
 The supposed vehicle carrying Henry has been spotted. The information is a bit unreliable, but he must be arrested at all costs. At least, before the Veshi get to him...
 
 ID=15040
-「Scar」of the Rapid Flame Faction has appeared on the highway. In order to find out Henry's whereabouts, Scar must be defeated and interrogated.
+"Scar" of the Rapid Flame Faction has appeared on the highway. In order to find out Henry's whereabouts, Scar must be defeated and interrogated.
 
 ID=15041
 The NED Company headquarters was raided by the Rapid Flame Faction after Henry sneaked inside.\nAlthough I'm reluctant to do so...\nHe must be rescued.
@@ -5060,10 +5171,10 @@ ID=15045
 In order to defeat the Rapid Flames coming in from the second highway, we need to take back the firing zone “Hill Breaker” for Operation Wolf Cry to commence.
 
 ID=15046
-Operation Wolf Cry involves firing missiles called 「Final Aria」which spreads strong radio waves in its vicinity. With this, we can exterminate Queen Carla, the main force of the assault brigade.
+Operation Wolf Cry involves firing missiles called "Final Aria" which spreads strong radio waves in its vicinity. With this, we can exterminate Queen Carla, the main force of the assault brigade.
 
 ID=15047
-Heel Breaker cannot progress towards the Area Missile firing zone. With Starry Forest League's Soulworker 「Kainbarrel」, defeat the Rapid Flame's assault squad.
+Heel Breaker cannot progress towards the Area Missile firing zone. With Starry Forest League's Soulworker "Kainbarrel", defeat the Rapid Flame's assault squad.
 
 ID=15048
 The Assault Captain of the Rapid Flames, Falcon, has finally showed his face after his precious bird Queen Karla has been damaged. To the target that has finally showed its head, we can almost feel grateful for it.
@@ -5072,10 +5183,10 @@ ID=15049
 While the entire village was vacant and an eerie silence was all that was left, the rain falling down on Dave Town had a gloomy feeling.
 
 ID=15050
-「Dave Town」, a town located near Grace City, is inhabited with many people due to the fact that it is away from the front lines and can therefore can sustain itself.
+"Dave Town", a town located near Grace City, is inhabited with many people due to the fact that it is away from the front lines and can therefore can sustain itself.
 
 ID=15051
-Situation where I hope for the best. To find the path for Souls within Dave Town, we need to install the 「Spirit Pathfinder」as fast as possible.
+Situation where I hope for the best. To find the path for Souls within Dave Town, we need to install the "Spirit Pathfinder" as fast as possible.
 
 ID=15052
 The situation has turned for the worst. What is it that they are trying to accomplish with these acts? But for now, finding survivors is top priority.
@@ -5558,10 +5669,10 @@ ID=18049
 Redeem Ticket(s)
 
 ID=18050
-There is still time remaining on「{0}」. If {0} is destroyed, it will be returned to the Item Mall and there will be no rewards.\nWould you still like to destroy the item?
+There is still time remaining on "{0}". If {0} is destroyed, it will be returned to the Item Mall and there will be no rewards.\nWould you still like to destroy the item?
 
 ID=18051
-Temporary item「{0}」has been refunded. Please check your mail for more details.
+Temporary item "{0}" has been refunded. Please check your mail for more details.
 
 ID=18052
 {0}-{1}-{2} {3}:{4}
@@ -5633,7 +5744,7 @@ ID=18077
 <font color='#FFFFFF'>(Unsealer</font><font color='#F15F5F'> Unusable</font><font color='#FFFFFF'>)</font>
 
 ID=18078
-You can only sell 10 items at a time.
+一度に売却できる個数は10個までです。
 
 ID=18079
 Socketing an item is only possible if a socket-type item exists within the inventory.
@@ -5696,7 +5807,7 @@ ID=18186
 {0} brooches permitted (extensible up to {1})
 
 ID=18187
-Gesture「{0}」 enabled
+Gesture "{0}" enabled
 
 ID=18188
 No items found.
@@ -5891,7 +6002,7 @@ ID=20010
 Greet
 
 ID=20011
-Used「Greet」
+Used "Greet"
 
 ID=20012
 {0} greets.
@@ -5900,7 +6011,7 @@ ID=20020
 Laugh
 
 ID=20021
-Used「Laugh」
+Used "Laugh"
 
 ID=20022
 {0} laughs.
@@ -5909,7 +6020,7 @@ ID=20030
 Cry
 
 ID=20031
-Used「Cry」
+Used "Cry"
 
 ID=20032
 {0} cries.
@@ -5918,7 +6029,7 @@ ID=20040
 Cheer
 
 ID=20041
-Used「Cheer」
+Used "Cheer"
 
 ID=20042
 {0} cheers.
@@ -5927,7 +6038,7 @@ ID=20050
 Sit
 
 ID=20051
-Used「Sit」
+Used "Sit"
 
 ID=20052
 {0} sits.
@@ -5936,7 +6047,7 @@ ID=20060
 Dance
 
 ID=20061
-Used「Dance」
+Used "Dance"
 
 ID=20062
 {0} dances.
@@ -5945,7 +6056,7 @@ ID=20070
 Taunt
 
 ID=20071
-Used「Taunt」
+Used "Taunt"
 
 ID=20072
 {0} taunts.
@@ -5954,7 +6065,7 @@ ID=20080
 Boast
 
 ID=20081
-Used「Boast」
+Used "Boast"
 
 ID=20082
 {0} boasts.
@@ -5963,7 +6074,7 @@ ID=20090
 Idol
 
 ID=20091
-Feeling better for a little idol.
+何だかアイドルになった気分。
 
 ID=20092
 {0} proudly poses.
@@ -5993,19 +6104,19 @@ ID=20124
 Sunbed
 
 ID=20125
-Lying on the sunbed.
+サンベッドでくつろぎます。
 
 ID=20126
-{0} is lying on the sunbed.
+{0}がサンベッドでくつろぎます。
 
 ID=20127
 School Swimsuit
 
 ID=20128
-Poses wearing a school swimsuit.
+いかがですか？
 
 ID=20129
-{0} is posing wearing a school swimsuit.
+{0}を見てください。
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -6146,10 +6257,10 @@ ID=21031
 For acquiring the maximum amount of favorability with {0} in a day, no more can be accumulated.\n [Resets at 8PM ET, 5PM PT]
 
 ID=21032
-Due to a lack of FP, you cannot enter the dungeon.
+Cannot enter the dungeon due to insufficient FP.
 
 ID=21033
-{0} does not have enough FP to enter the dungeon.
+Cannot enter the dungeon because {0} does not have sufficient FP.
 
 ID=21034
 Insufficient FP. You cannot use the Find Party feature.
@@ -6633,6 +6744,9 @@ Show Battle Info
 
 ID=22237
 Party Battle Info
+
+ID=22238
+階級表示
 
 ID=22300
 Graphics 
@@ -8897,9 +9011,15 @@ ID=26125
 Combat Movement Speed
 
 ID=26126
-Primal Forces Additional Damage
+バキュームイレギュラー勢力追加ダメージ[%]
 
 ID=26127
+バキュームイレギュラー勢力ダメージ減少[%]
+
+ID=26128
+Primal Forces Additional Damage
+
+ID=26129
 Primal Forces Damage Reduction
 
 ID=26201
@@ -9164,13 +9284,13 @@ ID=28010
 Available Guild Name
 
 ID=28011
-Guild name 「{0}」 is available.
+Guild name "{0}" is available.
 
 ID=28012
 Guild name cannot be used.
 
 ID=28013
-Guild name 「{0}」 is already used. Choose another guild name.
+Guild name "{0}" is already used. Choose another guild name.
 
 ID=28014
 Guild Creation Confirmation
@@ -9194,10 +9314,10 @@ ID=28020
 Guild successfully created.
 
 ID=28021
-Guild created.\nGuild name: 「{0}」\nGuild Master: 「{1}」
+Guild created.\nGuild name: "{0}"\nGuild Master: "{1}"
 
 ID=28022
-Guild 「{0}」 established.
+Guild "{0}" established.
 
 ID=28023
 Establish Guild
@@ -9254,10 +9374,10 @@ ID=28040
 Confirm Guild Disbandment
 
 ID=28041
-Guild successfully disbanded.\nDisbanded Guild: 「{0}」\nGuild Master: 「{1}」
+Guild successfully disbanded.\nDisbanded Guild: "{0}"\nGuild Master: "{1}"
 
 ID=28042
-Guild 「{0}」 was disbanded.
+Guild "{0}" was disbanded.
 
 ID=28043
 Guild mastership cannot be transferred.
@@ -9296,10 +9416,10 @@ ID=28054
 Guild Mastership Successfully transferred.
 
 ID=28055
-Successfully transferred guild ownership.\nFrom: 「{1}」\nTo: 「{0}」
+Successfully transferred guild ownership.\nFrom: "{1}"\nTo: "{0}"
 
 ID=28056
-「{0}」 has delegated 「{1}」 as the new Guild Master.
+"{0}" has delegated "{1}" as the new Guild Master.
 
 ID=28057
 Freeze Rank
@@ -9311,7 +9431,7 @@ ID=28059
 Do you want to reset {0}'s rank?
 
 ID=28060
-「{0}」 has been established.
+"{0}" has been established.
 
 ID=28061
 {0}'s rank was changed to {1}.
@@ -9344,7 +9464,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 14/Aug/2016 9:30 PM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 21/Aug/2016 12:50 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -9383,7 +9503,7 @@ ID=28083
 {0} cannot join due to Guild withdrawal penalty.
 
 ID=28084
-{0} sent a request to 「{1}」. Do you accept it?\nResponse Time: {2} seconds
+{0} sent a request to "{1}". Do you accept it?\nResponse Time: {2} seconds
 
 ID=28085
 Invite Guild Member
@@ -9455,7 +9575,7 @@ ID=28107
 {0} has joined.
 
 ID=28108
-{0} has joined the 「{1}」 guild.
+{0} has joined the "{1}" guild.
 
 ID=28109
 If you leave the guild, you may not join a new one for 1 day.\n Do you still wish to leave?
@@ -10061,7 +10181,7 @@ ID=29044
 The maximum number of guests have been reached.
 
 ID=29045
-You cannot enter the room because the guest capacity limit was reached.
+Cannot enter the room because the guest capacity limit was reached.
 
 ID=29046
 Confirm Kick Guest
@@ -10122,6 +10242,105 @@ Too many people using the furniture.
 
 ID=29065
 Interior Decor
+
+ID=29066
+マイルーム掲示板
+
+ID=29067
+Bulletin Board
+
+ID=29068
+Ranking
+
+ID=29069
+前ランキング
+
+ID=29070
+お気に入り
+
+ID=29071
+Enter
+
+ID=29072
+代表配置家具
+
+ID=29073
+栽培中の植木鉢
+
+ID=29074
+マイルーム名
+
+ID=29075
+Content
+
+ID=29076
+推薦数
+
+ID=29077
+お気に入り状態
+
+ID=29078
+Comment
+
+ID=29079
+コメント確認
+
+ID=29080
+マイルーム掲示板作成
+
+ID=29081
+代表配置家具の選択(最大12個)
+
+ID=29082
+Create
+
+ID=29083
+TOP 10
+
+ID=29084
+Rank
+
+ID=29085
+Rank Information
+
+ID=29086
+Preview
+
+ID=29087
+Claim
+
+ID=29088
+毎月1日の朝9時にランキング及び推薦情報が初期化されます。(毎朝9時にランキング情報更新)
+
+ID=29089
+毎朝9時に情報が更新されます。
+
+ID=29090
+Ranking Reward List
+
+ID=29091
+基本参加
+
+ID=29092
+推薦数が1以上の場合、基本報酬がメールで支給されます。
+
+ID=29093
+掲示板作成の待機時間残り{0}分。
+
+ID=29094
+マイルームがないと作成できません。
+
+ID=29095
+報酬を受け取れません。
+
+ID=29096
+1文字以上入力してください。
+
+ID=29097
+お気に入りを削除しますか？
+
+ID=29098
+ランキング報酬を支給しました。\nアカウントメールを確認してください。
 
 ID=30000
 Profile
@@ -10223,7 +10442,7 @@ ID=31022
 [{0}] has been removed from the party due to time restraints.
 
 ID=31023
-Cannot enter because a party member does not meet the level requirements.
+Cannot enter because a party party member does not meet the level requirements.
 
 ID=31024
 Cannot enter the area with the current party.
@@ -10235,7 +10454,7 @@ ID=31026
 Only party members in the same town may enter a dungeon together.
 
 ID=31027
-Cannot enter because a party member does not have a Soul Weapon equipped.
+Cannot enter because a party party member does not have a Soul Weapon equipped.
 
 ID=31028
 Can't enter a different dungeon than your party leader.
@@ -10262,7 +10481,7 @@ ID=31035
 Cannot remove {0} right now.
 
 ID=31036
-{0} {1} {2} logged out in a different town / area and cannot enter the Dungeon.
+Cannot enter the dungeon because {0} {1} {2} logged out in a different town or area.
 
 ID=31037
 {0} Party Members have refused to join the dungeon.
@@ -11012,22 +11231,22 @@ ID=32109
 Secondary Password
 
 ID=33000
-Hello,\n I have wandered the world, \nseeking for a glorious show.\n  My name is “Clown Edgar”.\n I admit you must be surprised.\n I lust for your power.\n It is flamboyant, yet modest.\n Tranquil, yet destructive and refined.\n For you, I sent a present.\nAccept it, it is a token\n of respect. Come to “The Shopping District”\n, you'll like it.\n - Clown Edgar.
+こんにちは。\n私、この入り混じりし世にて至極のショーを求め彷徨う「道化師エドガー」と申します。\n突然のお手紙に、さぞ驚かれたことでしょう。\nですが、あなたの力に感嘆を禁じえなかったこの思いをお伝えしたかったのです。\nあなたのその力は、短い我が人生の中でもっとも美しく印象的でした。\n華やかでありながら地味で、美しくも汚らわしい、\nそして…平穏でありながら破壊的な…。\nこの破裂しそうな私の気持ちをどう表現すべきか、悩んだ末に結論を出しました。\nあなたに…ささやかなプレゼントを贈ります。\nその力に対し敬意を表す
 
 ID=33001
-Little by little,\n the distance between us is shrinking.\n We will cross paths sooner or later.\n The longer the wait, the greater the thrill.\n We made it dramatic with a little game.\n You cannot enter now,\n but if you had a badge.\n Cross the woods at dawn.\n Hurry up.\n Waiting to see you burn.
+少しずつ、あなたとの距離が縮まるのを感じます。\n遅かれ早かれ出会うことになりますが、\n待つ時間が長いほど、出会いの瞬間というのはすばらしく輝くものです。\nドラマチックな状況を演出するために、ちょっとしたゲームを準備いたしました。\n私がいる部屋の前へは、今のあなたの力では辿り着くことはできません。\nしかし、私の部下が持っているバッジを身につけたなら、 \n明け方の森の中を歩くかのごとく通過できるよう演出しました。\nお急ぎください。\nあなたを待ち焦がれるこの気持ちが、憎悪に変わるその前に…。\n-道化師エドガーよ
 
 ID=33002
-Report on Amaryllis\n\n Soul Energy Resistance added to SJ-DS-01. Unstable.\n\n 2. SJ-DS-01 is parasitic to soul energy hosts. Contact to humans, fatal. The skin hardens and becomes food.\n\n 3. SJ-DS-01 is known as Dignity Snatcher. It sucks up soul energy. \nOrdinary humans possess very little.
+-レポート：アマリリス-\n\n1．SJ-DS-01にソウルエナジー耐性機能を追加。状態はとても不安定。\n\n2．SJ-DS-01は、ソウルエナジーの宿主である人間に寄生できることが判明。\n寄生対象となった人間は、ソウルエナジーを持続的に奪われ、皮膚が石膏のように固まってSJ-DS-01の食料となる。\n\n3．SJ-DS-01をディグニティースナッチャーと名付ける。ディグニティースナッチャーの内部に蓄えられているソウルエナジーの総量が存在することが明らかになる。しかし、平凡な人間は該当総量を全て満たす程のソウルエ
 
 ID=33003
 Report on Tempest.\n 1. Precise machinery. Reproduction unfeasible. 2. High-density firing gun.\n\n 3. Special wire and nail with heavyduty grip as a weapon.\n Weaker than main one.\n\n4. Soul Energy storage and transfer possible by a special wire.
 
 ID=33004
-That day was cloudy.\n The runaway child knew. Rather, I did not understand how the “calamity” came. We had committed crimes; we could of atoned for it. Yet, we did not. Unlike other children, I came to pass judgement...\n\n The cloudy day.\n The child was brought to death by humans. They had naive ideas that everything was over. Silly as I did, I thought NED company would help. They, will definitely bury the truth. As if nothing happened.\n\n  We were buried in hell. A fateful ending for us.
+-ある雲った日。\nあの子の暴走は予想していた。むしろ、それを「災い」呼ぶ者たちを理解できなかった。我々は罪を犯し、それを償う時がやって来た…ただそれだけだ。他の子らの代わりに、裁きを下しに来たのだ。それがもし復讐という名を持っていたとしても、私は甘んじて受け入れる。\n\n-ある雪の日。\nあの子は愚かな人間たちによって再び眠りについた。彼らは、あの子が眠れば全て終わるという甘い考えに染まっていた。ネッドカンパニーが我々を助けてくれるなどという愚かな考えに腹が立った。彼らはきっと、真実を知る者全てを葬り去るだろ
 
 ID=33005
-Model Name: NS_EX_008\nName: Cleany\n\n1. Befitting to its name, it's a robot that detects Soul Energy within a object, recycle, and search for energy.\n\n2.It is currently in force shut down mode due to loss of energy. When energy is inserted in three times consecutively, it breaks out of shut down mode and starts up.\n(Requires 24 hours until it moves)\n\n3.If the Core is damaged or lost, an amplifying device can be replaced in to resurrect the Core.\n(Warning: Needs at least 1% power source left)
+Model Name：NS_EX_008\nName：Cleany\n\n1. その名の通り掃除専用ロボット。私物に込められたソウルエナジーを判別し、分別収集及び紛失物捜索に適する。\n\n2. 現在は動力喪失状態のため、強制スリープモードに入っている。エナジーを3回に分けて順番に注入すれば、自らスリープモードを解除し動き出す。\n(動作までに約24時間所要)\n\n3. コアが破壊されたり消失した場合、コアを取り替えた後に使用可能な増幅装置をコアのあった位置へ設置すると、コアが復活する。\n(注意：動力源が1%でも残って
 
 ID=33500
 Dead Desparate Soldier's Belongings
@@ -11191,6 +11410,12 @@ Tomb of Blood
 ID=33553
 Calamity's Prelude
 
+ID=33554
+捕食者の叫び
+
+ID=33555
+捕食者の痕跡
+
 ID=34000
 Flowerpot 1
 
@@ -11216,7 +11441,7 @@ ID=34007
 {0} is usable.
 
 ID=34008
-Since you do not have {1}, {0} cannot be owned.
+Cannot access {1} because you do not have {0}.
 
 ID=34009
 Cultivate
@@ -11307,6 +11532,9 @@ Help
 
 ID=34038
 Do you want to start cultivating?
+
+ID=34039
+{0}人のヘルプ\n栽培時間{1}%減少
 
 ID=35000
 All
@@ -11399,16 +11627,16 @@ ID=35115
 You cannot chat for 60 seconds because of violation of chat rules.\n(Time remaining: {0} seconds)
 
 ID=35116
-{1} damaged {0}.
+{0}に{1}ダメージ与えました。
 
 ID=35117
 {0} was damaged by {1}.
 
 ID=35200
-{0) has won, {1} BP has been gained.
+{0}に勝利して、BPを{1}獲得しました。
 
 ID=35201
-{0) has been defeated, BP is reduced by {1}.
+{0}に敗北して、BPが{1}減少しました。
 
 ID=35202
 BP {0} acquired.
@@ -11478,6 +11706,42 @@ A fissure in the void has appeared in District 6.\nBefore the fissure disappears
 
 ID=37008
 Void cube disappeared, unable to gain any items.
+
+ID=37009
+ザ・プライマルを取り巻く力が弱まったので、接近できます。\n残り：{0}分
+
+ID=37010
+月曜日
+
+ID=37011
+火曜日
+
+ID=37012
+水曜日
+
+ID=37013
+木曜日
+
+ID=37014
+金曜日
+
+ID=37015
+土曜日
+
+ID=37016
+日曜日
+
+ID=37017
+{0}
+
+ID=37018
+{0}
+
+ID=37019
+入場できません。
+
+ID=37020
+入場時間
 
 ID=38000
 {0}s
@@ -12500,7 +12764,7 @@ ID=40477
 The Main Core's defense system is operating.\nDefeat it to stop the defense system.
 
 ID=40478
-In order to move the arc's ship first-grade steel players, please activate the power control device.
+In order to move the Ark's Ship first-grade steel players, please activate the power control device.
 
 ID=40479
 The intruder elimination program has been unintentionally activated. Before the power switch self-destructs, please destroy the power generator.
@@ -12521,7 +12785,7 @@ ID=40484
 The red laser only damage players. \nIt generate a thermal heat zone that can burn the players.
 
 ID=40485
-The Prototype Sieg have taken over the Ark Ship's main gun.\n Bombardment to the first-grade plate will begin promptly.
+The Sieg Prototype have taken over the Ark Ship's main gun.\nBombardment to the first-grade plate will begin promptly.
 
 ID=40486
 The elevator's operation has stopped due to an attack.\n You must defeat all enemies to open the elevator's door.
@@ -12563,10 +12827,10 @@ ID=40498
 The Main Core detects danger; it has raised the system's defense level.
 
 ID=40499
-Defensive forces will appear to prevent you from entering the arc ship's command room.
+Defensive forces will appear to prevent you from entering the Ark Ship's command room.
 
 ID=40500
-Upon turning on the switch, the elevator can be used to move to the arc ship's command room.
+Upon turning on the switch, the elevator can be used to move to the Ark Ship's command room.
 
 ID=40501
 The floating platform has been activated. Please wait.
@@ -12666,6 +12930,36 @@ The Golden Obelisk periodically summons gigantic walls of lightning.\nThe Golden
 
 ID=40617
 Upon destroying all 3 Venom Flowers, Pandemonia will be stunned.
+
+ID=40618
+安全地域を出るとすぐに戦闘が始まります。
+
+ID=40619
+プライマルに捕まると汚染状態になります。\n汚染状態でもう一度捕まると即死します。
+
+ID=40620
+プライマルが深く息を吸います。
+
+ID=40621
+特異型空白を利用すると、プライマルの内部に最大4人まで進入できます。\n特異型空白は30秒後に消えます。
+
+ID=40622
+プライマルの核は不安定なガスを発生させ、周期的にダメージを与えます。
+
+ID=40623
+召喚された核の守護者を全て討伐すると、\n一定時間、不安定なガスに対する免疫効果が\nプライマル内部に発生します。
+
+ID=40624
+間もなく強力な核の守護者が召喚されます。\n核を討伐するまで守護者は消えません。
+
+ID=40625
+連合の浄化装置を使用すると、汚染状態が活力状態に変更され、HPを持続的に回復してくれます。\nただし、汚染状態でない場合は変更されません。
+
+ID=40626
+深手を負ったプライマルが咆哮し、最後の足掻きを始めます。\n持続的にダメージを与える汚染された血が足元に広がっています。
+
+ID=40627
+プライマルが正面にいる対象を捕まえようとしています。
 
 ID=42000
 Jack the King
@@ -12953,10 +13247,10 @@ ID=42094
 Reconnaisance Officer Amandea
 
 ID=42095
-Prototype Sieg
+Sieg Prototype
 
 ID=42096
-Combatant Prototype Sieg
+Combatant Sieg Prototype
 
 ID=42097
 Blade Wolf
@@ -13055,7 +13349,7 @@ ID=42128
 Circle of Purgatory, Numberless Rim
 
 ID=42129
-Jessi
+Jessie
 
 ID=42130
 Support AI Jessie
@@ -13067,10 +13361,10 @@ ID=42132
 Attack Force Soldier Ian
 
 ID=42133
-Armored Prototype Sieg
+Full Armor Sieg Prototype
 
 ID=42134
-Full-Armored Prototype Sieg Tanks
+Large Tank Full Armor Sieg Prototype
 
 ID=42135
 Martin
@@ -13946,7 +14240,7 @@ ID=43093
 Amanda
 
 ID=43095
-Prototype Sieg
+Sieg Prototype
 
 ID=43097
 Blade Wolf
@@ -14000,13 +14294,13 @@ ID=43127
 Numberless Rim
 
 ID=43129
-Jessi
+Jessie
 
 ID=43131
 Ian
 
 ID=43133
-Armored Prototype Sieg
+Full Armor Sieg Prototype
 
 ID=43135
 Martin
@@ -15602,7 +15896,7 @@ ID=51007
 The selected character is already logged in.
 
 ID=51008
-You cannot enter this channel.
+選択したチャンネルは制限人数超過状態のため、入場できません。
 
 ID=51009
 The character could not be created.
@@ -16250,7 +16544,7 @@ ID=53010
 The party is full.
 
 ID=53011
-Party members cannot be found.
+メンバーが見つかりません。
 
 ID=53012
 An error has occurred in the party.
@@ -16298,7 +16592,178 @@ ID=53031
 You cannot make a request because the target is in the wasteland.
 
 ID=53032
-You cannot kick out members in the dungeon.
+メイズにいるメンバーは追放できません。
+
+ID=53101
+FPが不足しているため、該当エピソードではフォース探索機能を使用できません。
+
+ID=53102
+メイズ内部にいるプレイヤーはフォースに招待できません。
+
+ID=53103
+フォースリーダーではありません。
+
+ID=53104
+他のフォースに加入状態のプレイヤーはフォースに招待できません。
+
+ID=53105
+フォース設立に失敗しました。
+
+ID=53106
+You are currently not in a party.
+
+ID=53107
+フォースリーダーの交代に失敗しました。
+
+ID=53108
+フォース追放に失敗しました。
+
+ID=53109
+フォース離脱に失敗しました。
+
+ID=53110
+すでにフォースメンバーがいっぱいです。
+
+ID=53111
+フォースメンバーを探せません。
+
+ID=53112
+フォース中、予期せぬエラーが発生しました。
+
+ID=53113
+現在、相手とフォースを結べません。
+
+ID=53114
+すでにフォースの招待を要請した相手です。
+
+ID=53115
+該当フォースに加入できません。
+
+ID=53116
+メイズ内部にメンバーがいる場合、フォースへ招待できません。
+
+ID=53117
+他のフォースの招待を受けています。
+
+ID=53118
+フォースメンバー数を超過しているため、登録できません。
+
+ID=53119
+相手が無法地帯にいるため、フォース要請できません。
+
+ID=53120
+メイズにいるフォースメンバーは追放できません。
+
+ID=53121
+フォース中のメイズ入場は、フォースリーダーのみ申請できます。
+
+ID=53122
+フォースメンバーが入場を拒否しました。
+
+ID=53123
+メイズ入場レベルに達していないフォースメンバーがいるため、入場できません。
+
+ID=53124
+フォースメンバーのメイズ入場時に、同じ町に位置した場合のみ乱入できます。
+
+ID=53125
+フォースメンバーの減少により、敵が弱体化します。
+
+ID=53126
+フォースは4人以上でなければ入場できません。
+
+ID=53127
+フォースメンバーが入場クエストを満たしていないため、入場できません。
+
+ID=53128
+入場要求アイテムを所持していないフォースメンバーがいます。
+
+ID=53129
+フォースメンバーが、一日の入場制限回数を全て消費しているため入場できません。
+
+ID=53130
+相手の遮断によりフォースの招待ができません。
+
+ID=53131
+相手が現在違う要請を進行中です。
+
+ID=53132
+ボスエリアではフォース離脱できません。
+
+ID=53133
+無法地帯ではフォースの申請はできません。
+
+ID=53134
+You have selected yourself.
+
+ID=53135
+Cannot enter because a party member does not meet the level requirement for this dungeon.
+
+ID=53136
+Cannot enter because a party member does not have a soul weapon equipped.
+
+ID=53137
+フォースメンバーが同じ町に位置していないため、メイズに入場できませ。
+
+ID=53138
+Cannot enter the dungeon because a party member does not meet the dungeon requirements.
+
+ID=53139
+メンバーが入場クエストを満たしていないため、入場できません。
+
+ID=53140
+メンバーが入場要求アイテムを所持していないため、入場できません。
+
+ID=53141
+メンバーがログアウト状態のため、メイズに入場できません。
+
+ID=53142
+メンバーが一日の入場制限回数を全て消費しているため、入場できません。
+
+ID=53143
+メイズ入場はパーティーリーダーのみ申請できます。
+
+ID=53144
+メイズに乱入できません。存在しないメイズです。
+
+ID=53145
+パーティー状態のため、フォースへ招待できません。
+
+ID=53146
+すでにパーティー加入状態のため、フォースへ招待できません。
+
+ID=53147
+フォースの招待要請は町でのみ可能です。
+
+ID=53148
+フォース状態では、パーティー申請できません。
+
+ID=53149
+全メンバーが、同じチャンネルまたは同じエリアにいる必要があります。
+
+ID=53150
+オートフォースマッチング中は、チャンネル移動できません。
+
+ID=53151
+オートフォースマッチング中は、パーティーの離脱はできません。
+
+ID=53152
+オートフォースマッチング中は、フォースを離脱できません。
+
+ID=53153
+メンバーがオートフォースマッチングを中止しました。
+
+ID=53154
+マッチングできず、オートフォースマッチングが終了しました。
+
+ID=53155
+メンバーがログアウト状態のため、オートフォースマッチングが終了しました。
+
+ID=53156
+フォースでのみ入場ができる場所です。
+
+ID=53157
+パーティー状態でのみ入場可能です。
 
 ID=54001
 The mission is already active.
@@ -16340,7 +16805,7 @@ ID=54013
 There was an error while adding an item with interaction.
 
 ID=54014
-As CallCount is already「0」in the server, it cannot be used.
+As CallCount is already "0" in the server, it cannot be used.
 
 ID=54015
 Could not interact with the individual.
@@ -16394,13 +16859,13 @@ ID=55010
 The area is abnormal.
 
 ID=55011
-Party members have declined entry.
+メンバーが入場を拒否しました。
 
 ID=55012
-Since you do not fit the level requirements for this dungeon, you cannot enter.
+Cannot enter because you do not meet the level requirement for this dungeon.
 
 ID=55013
-Somebody does not meet the level requirements for the dungeon. Dungeon entry is not possible.
+Cannot enter because a party member does not meet the level requirement for this dungeon.
 
 ID=55014
 The portal is inactive.
@@ -16409,10 +16874,10 @@ ID=55015
 Not enough members required to move to the next area.
 
 ID=55016
-You forgot your weapon, therefore you cannot enter the dungeon.
+Cannot enter because you do not have a soul weapon equipped.
 
 ID=55017
-Someone forgot their weapon, dungeon entry is not possible.
+Cannot enter because a party member does not have a soul weapon equipped.
 
 ID=55018
 You cannot use your soul weapon here.
@@ -16427,7 +16892,7 @@ ID=55021
 The party is in another town; you may not join the dungeon.
 
 ID=55022
-Dungeon entry is not possible; the dungeon does not exist.
+Cannot enter dungeon. The dungeon does not exist.
 
 ID=55023
 Cannot enter a different dungeon than your party members.
@@ -16445,13 +16910,13 @@ ID=55033
 This area can only be entered while in a party.
 
 ID=55034
-The maximum number of people has been reached. This action is no longer possible.
+Cannot enter the dungeon with more than the maximum allowed number of members.
 
 ID=55035
 Dungeon entry denied; {0} item is required.
 
 ID=55036
-Dungeon entry denied.
+Cannot enter this dungeon.
 
 ID=55037
 Please accept the quest in order to enter the dungeon.
@@ -16466,10 +16931,10 @@ ID=55040
 Cannot enter the dungeon because someone is logged out.
 
 ID=55041
-Cannot enter the dungeon because someone is not present.
+Cannot enter the dungeon because a party member is not in the same location.
 
 ID=55042
-The dungeon cannot be entered after leaving it for 3 minutes or more.
+Cannot enter because the 3 minute withdrawal time has expired.
 
 ID=55043
 Cannot make purchases; you are in a boss battle.
@@ -16478,10 +16943,10 @@ ID=55044
 You cannot join the queue because you have no FP left.
 
 ID=55047
-Since the party is not in the same channel, you cannot enter the dungeon.
+Cannot enter the dungeon because a party member is not in the same channel.
 
 ID=55048
-Since there are party members who do not meet the dungeon requirement, you cannot enter the dungeon.
+Cannot enter the dungeon because a party member does not meet the dungeon requirements.
 
 ID=55049
 Due to having fewer members, the monsters will be weakened.
@@ -16490,22 +16955,31 @@ ID=55050
 You cannot exit the dungeon if you are at the boss area.
 
 ID=55051
-Party requires 4 people to enter.
+入場にはメンバーが4人必要です。
 
 ID=55052
 Only guild members will be able to enter the party.
 
 ID=55053
-Cannot enter the dungeon; you have exceeded the entry limit.
+Cannot enter because you have exceeded the entry limit.
 
 ID=55055
-The party members cannot enter the dungeon, since they have not completed the entry quests.
+メンバーが入場クエストを満たしていないため入場できません。
 
 ID=55056
-Cannot enter because a party member possesses {0}.
+メンバーが{0}を所持していないため入場できません。
 
 ID=55057
-Cannot enter because a party member exceeded the entry limit for today.
+メンバーが一日の入場制限回数を全て消費しているため入場できません。
+
+ID=55058
+戦闘状態のため、脱出できません。
+
+ID=55059
+戦闘状態のため、終了できません。
+
+ID=55060
+入場時間ではないため、入場できません。
 
 ID=55101
 You have already befriended this person.
@@ -16856,7 +17330,7 @@ ID=58101
 Steel Grave is reset daily.\n It resets at 8PM Eastern, 5PM pacific, 2AM Europe time.
 
 ID=58102
-Steel Grave is a place for solo players only; party members cannot enter.
+Steel Grave is a place to challenge the limits of oneself.\nCannot enter while in party.
 
 ID=58103
 Invalid. \nData failure.
@@ -16886,7 +17360,7 @@ ID=58204
 Room entrance failure.
 
 ID=58205
-You cannot enter the room because it is in Placement Mode.
+Cannot enter because the room is in placement mode.
 
 ID=58206
 The room is full of occupants. You cannot enter.
@@ -16968,6 +17442,42 @@ Item is already in use.
 
 ID=58233
 You were kicked out because the room changed to placement mode.
+
+ID=58234
+自分のマイルームは推薦できません。
+
+ID=58235
+同じマイルームを推薦できるのは、一日一回のみです。
+
+ID=58236
+推薦できません。
+
+ID=58237
+自分のマイルームはお気に入りにできません。
+
+ID=58238
+お気に入りリストにありません。
+
+ID=58239
+すでにお気に入りのマイルームです。
+
+ID=58240
+お気に入りリストがいっぱいです。
+
+ID=58241
+お気に入りできません。
+
+ID=58242
+マイルームランキング報酬リストがありません。
+
+ID=58243
+すでにランキング報酬を受け取っています。
+
+ID=58245
+マイルームを所持していないため、掲示板作成はできません。
+
+ID=58247
+選択したマイルームへは入場できません。
 
 ID=58300
 Only {1} items can be up for sale on the market out of {0} items listed so far.
@@ -17199,6 +17709,285 @@ STAGE
 
 ID=60144
 Repeat Count ({0}/{1})
+
+ID=60201
+FORCE Ranking
+
+ID=60202
+フォース
+
+ID=60203
+{0}がフォースに招待されました。フォースに合流しますか？\n-残り{1}秒-
+
+ID=60204
+フォースを離脱すると、町に移動します。\n離脱しますか？
+
+ID=60205
+フォースを離脱し、町に移動します。\n-残り{0}秒-
+
+ID=60206
+{0}にフォースリーダーを委任しますか？
+
+ID=60207
+{0}をフォースから追放しますか？
+
+ID=60208
+フォース招待
+
+ID=60209
+フォース専用
+
+ID=60210
+フォース推薦
+
+ID=60211
+フォースメンバー
+
+ID=60212
+フォースメンバー
+
+ID=60213
+フォース
+
+ID=60214
+フォース招待
+
+ID=60215
+フォース離脱
+
+ID=60216
+フォースリーダーのみ、フォースに招待できます。
+
+ID=60217
+メンバー数を超過しました。
+
+ID=60218
+[{0}]が他のフォースに加入しています。
+
+ID=60219
+すでにフォースの招待を要請中です。
+
+ID=60220
+他のフォースの招待受注可否を決定しています。
+
+ID=60221
+フォースが解体されました。
+
+ID=60222
+該当フォースがメイズにいるため合流できません。
+
+ID=60223
+該当フォースに加入できません。
+
+ID=60224
+フォースメンバー数を超過しました。
+
+ID=60225
+[{0}]がフォースの招待を拒否しました。
+
+ID=60226
+[{0}]がフォースに合流しました。
+
+ID=60227
+フォースに合流しました。
+
+ID=60228
+[{0}]がフォースから追放されました。
+
+ID=60229
+フォースから追放されました。
+
+ID=60230
+[{0}]がフォースから離脱しました。
+
+ID=60231
+フォースを離脱しました。
+
+ID=60232
+フォースリーダーが[{0}]に変更されました。
+
+ID=60233
+[{0}]がフォースリーダーを委任しました。
+
+ID=60234
+[{0}]が時間制限によりフォースから追放されました。
+
+ID=60235
+メイズ入場レベルに達していないフォースメンバーがいるため、入場できません。
+
+ID=60236
+フォース状態では入場できないエリアです。
+
+ID=60237
+次のエリアに移動するのに必要なフォースメンバーが足りません。
+
+ID=60238
+フォースメンバーのメイズ入場時に、同じ町に位置した場合のみ乱入できます。
+
+ID=60239
+ソウルウェポンを装備していないフォースメンバーがいるため、入場できません。
+
+ID=60240
+フォースリーダーが入場したメイズと同じメイズにのみ入場できます。
+
+ID=60241
+現在フォースメンバーが入場中のメイズにのみ乱入できます。
+
+ID=60242
+現在の位置では、要請が来たフォースには合流できません。
+
+ID=60243
+現在の位置では、フォース離脱できません。
+
+ID=60244
+フォースメンバー{0}が、メイズ入場を拒否しました。
+
+ID=60245
+フォース招待
+
+ID=60246
+フォース離脱同意
+
+ID=60247
+フォース離脱
+
+ID=60248
+フォース離脱
+
+ID=60249
+フォースリーダー委任
+
+ID=60250
+フォース追放
+
+ID=60251
+オートフォースマッチング
+
+ID=60252
+オートフォースマッチング利用不可
+
+ID=60256
+オートフォースマッチング終了
+
+ID=60257
+すでにフォースに加入状態のため、\nオートフォースマッチングできません。
+
+ID=60258
+オートフォースマッチング検索時間が超過しました。
+
+ID=60259
+フォースメンバーが不足していますが、\nこのまま進行しますか？\n時間内に選択しなかった場合、自動で入場処理されます。\n(残り：{0}秒)
+
+ID=60260
+フォース進行可否を選択しなかったため、強制退場しました。
+
+ID=60261
+オートフォースマッチングを終了しますか？
+
+ID=60262
+不正行為によりペナルティが適用され、\n[{0}]分[{1}]秒間、オートフォースマッチングを利用できません。
+
+ID=60263
+フォース進行可否選択中
+
+ID=60264
+フォースリーダーを選別中です。
+
+ID=60265
+フォースが結成しました。
+
+ID=60266
+メイズ再開をフォースメンバーに要請しますか？\n-残り：{0}秒-
+
+ID=60267
+フォースリーダー{0}が、メイズ再開を要請しました。\n要請に応えますか？\n-残り：{1}秒-
+
+ID=60268
+フォースメンバーの再開受注可否を待っています。\n-再開しない場合[中止]をクリック-
+
+ID=60269
+メイズを離脱したフォースメンバーがいるため、再開できません。
+
+ID=60270
+現在フォースに志願できるレベルではありません。
+
+ID=60271
+フォースマッチング中止
+
+ID=60272
+フォースが戦闘進行中です。\n今、乱入しますか？\n-残り：{0}秒-
+
+ID=60273
+フォースメンバーの離脱で、敵が弱体化します。
+
+ID=60274
+相手が無法地帯にいるため、フォースの要請ができません。
+
+ID=60275
+無法地帯ではフォースの要請ができません。
+
+ID=60276
+エラーにより、フォースを見つけられません。
+
+ID=60277
+現在加入中のフォースから離脱しますか？
+
+ID=60278
+オートフォースマッチング
+
+ID=60279
+簡易
+
+ID=60280
+詳細
+
+ID=60281
+現在人数
+
+ID=60282
+{0}人/{1}人
+
+ID=60283
+{0} currently cannot accept requests due to already pending requests.
+
+ID=60284
+マッチング中のメンバーが中止したため、マッチングが中止されました。
+
+ID=60285
+フォースメンバーが全員同意時、メイズに入場します。\n-入場時に他の町に位置したり、ログアウト状態のフォースメンバーは乱入できません。-
+
+ID=60286
+フォースリーダーがメイズ入場を要請しました。入場しますか？\n入場位置：[{0}]\nエピソード：[{1}]\n難易度：[{2}]\n-残り：{3}秒-
+
+ID=60287
+フォースメンバー{0}が、メイズ入場を拒否しました。
+
+ID=60288
+フォースリーダー{0}が、メイズ入場を中止しました。
+
+ID=60289
+オートフォースマッチング検索不可
+
+ID=60290
+オートフォースマッチング進行可否選択
+
+ID=60291
+オートフォースマッチング強制退場処置
+
+ID=60292
+フォースまたはオートフォースマッチング中は、該当機能の使用はできません。
+
+ID=60293
+マッチングやり直し中{0}/{1}
+
+ID=60500
+4～8人フォース
+
+ID=60501
+1～4人
+
+ID=60502
+4人パーティー
 
 ID=27800
 On hit, 2% chance of +{0} SV
@@ -17518,6 +18307,60 @@ Iron Man Heavy Earthquaker μ
 ID=42406
 Million Horsepower Heavy Earthquaker μ
 
+ID=42407
+ノア
+
+ID=42408
+風の使いノア
+
+ID=42409
+暴風の守護者ノア
+
+ID=42410
+ノアμ
+
+ID=42411
+風の使いノアμ
+
+ID=42412
+暴風の守護者ノアμ
+
+ID=42413
+エノック
+
+ID=42414
+円盤の妖精エノック
+
+ID=42415
+円盤の女王エノック
+
+ID=42416
+エノックμ
+
+ID=42417
+円盤の妖精エノックμ
+
+ID=42418
+円盤の女王エノックμ
+
+ID=42419
+シオン
+
+ID=42420
+ビットの主人シオン
+
+ID=42421
+刃の女王シオン
+
+ID=42422
+シオンμ
+
+ID=42423
+ビットの主人シオンμ
+
+ID=42424
+刃の女王シオンμ
+
 ID=43323
 [S] Megiddo Maker MK Ⅱ
 
@@ -17554,5 +18397,53 @@ ID=43333
 ID=43334
 [SH] Heavy Earthquaker
 
+ID=43335
+[S]ノア
+
+ID=43336
+[SH]ノア
+
+ID=43337
+[S]エノック
+
+ID=43338
+[SH]エノック
+
+ID=43339
+[S]シオン
+
+ID=43340
+[SH]シオン
+
 ID=58309
 Exceeded the maximum number of listed items. Cannot list more than 100 items.
+
+ID=18194
+オプション改造
+
+ID=18195
+オプション固定回数
+
+ID=18196
+改造
+
+ID=18197
+確認をクリック時、{0}のオプションが変更されます。\nオプションを変更しますか？
+
+ID=18198
+オプションなし
+
+ID=730
+オプション改造機能
+
+ID=52225
+改造NPCではありません。
+
+ID=52226
+改造アイテムではありません。
+
+ID=52227
+改造要求アイテムが足りません。
+
+ID=52228
+改造に失敗しました。
