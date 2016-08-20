@@ -22,6 +22,12 @@ ID=15
 Icon/Buff/Icon_Common_Buff_Reg
 強化
 
+ID=99
+断ち切られた流れ
+キャラクターステータスの防御度が100%減少する。
+Icon/Buff/Icon_Common_Debuff_Def
+防御度減少
+
 ID=100
 ブレイカー
 3秒間、敵のスーパーアーマーを無視する。
@@ -2573,10 +2579,10 @@ Icon/Buff/Icon_Common_Buff_ATK
 -
 
 ID=30040
-出血
-HPが1%ずつ減少する。効果は10秒間持続する。
-Icon/Buff/Icon_Common_Debuff_Bleed
-出血
+HP減少
+0
+0
+HP減少
 
 ID=30042
 ベタベタ粘液
@@ -2652,8 +2658,8 @@ Icon/Buff/Icon_Common_Debuff_MSR
 
 ID=30054
 HP減少
-HP10%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=30055
@@ -2664,14 +2670,14 @@ Icon/Buff/Icon_Common_Debuff_MSR
 
 ID=30056
 HP減少
-HP5%減少：3秒持続、0.5秒、時間更新
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=30057
 HP減少
-HP70%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=30058
@@ -2688,26 +2694,26 @@ Icon/Buff/Icon_Common_Debuff_MSR
 
 ID=30060
 HP減少
-HP40%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=30061
 HP減少
-HP2%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=30066
 HP減少
-HP15%減少(1回)
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=30067
 HP減少
-HP70%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=30068
@@ -2717,51 +2723,15 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 麻痺
 
 ID=30069
-プレイヤーHP減少
-毎秒HPが減少する。
-Icon/Buff/Icon_Common_Debuff_Bleed
 HP減少
-
-ID=30470
+0
+0
 HP減少
-HP15%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
-HP減少
-
-ID=30471
-プレイヤー感電
-3秒間、感電状態にする。
-Icon/Buff/Icon_Common_Debuff_Shock
-感電
-
-ID=30472
-HP減少
-HP30%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
-HP減少
-
-ID=30473
-攻撃力増加
-60秒間、攻撃力が10%増加する。
-Icon/Buff/Icon_Common_Buff_ATK
-攻撃力増加
-
-ID=30474
-移動速度増加
-60秒間、移動速度が5%増加する。
-Icon/Buff/Icon_Common_Buff_MSR
-移動速度増加
 
 ID=30101
 -
 -
 Icon/Buff/Icon_Common_Debuff_Paralysis
--
-
-ID=31001
--
--
-Icon/Buff/Icon_Common_Buff_Immun
 -
 
 ID=30114
@@ -2848,6 +2818,90 @@ ID=30147
 Icon/Buff/Icon_Common_Debuff_Weakness
 衰弱
 
+ID=30202
+汚染
+身体の中から異質な力を感じる。
+Icon/Buff/Icon_Common_Debuff_Poison
+汚染
+
+ID=30204
+活力
+身体が活性化し、持続的にHPが回復する。
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+浄化
+
+ID=30205
+腐食
+HPが持続的に減少する。
+Icon/Buff/Icon_Common_Debuff_Bleed
+腐敗
+
+ID=30206
+汚染された血
+HPが持続的に減少する。
+0
+-
+
+ID=30207
+腐敗
+HPが持続的に減少する。
+0
+-
+
+ID=30208
+抵抗
+持続中は汚染地帯の毒を防いでくれる。
+Icon/Buff/Icon_Common_Buff_SArmor
+-
+
+ID=30212
+鉄壁
+持続中はダメージをほぼ受けない。
+Icon/Buff/Icon_Common_Debuff_Def
+-
+
+ID=30217
+HP減少
+0
+0
+HP減少
+
+ID=30470
+HP減少
+0
+0
+HP減少
+
+ID=30471
+プレイヤー感電
+3秒間、感電状態にする。
+Icon/Buff/Icon_Common_Debuff_Shock
+感電
+
+ID=30472
+HP減少
+0
+0
+HP減少
+
+ID=30473
+攻撃力増加
+60秒間、攻撃力が10%増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+攻撃力増加
+
+ID=30474
+移動速度増加
+60秒間、移動速度が5%増加する。
+Icon/Buff/Icon_Common_Buff_MSR
+移動速度増加
+
+ID=31001
+-
+-
+Icon/Buff/Icon_Common_Buff_Immun
+-
+
 ID=32001
 治癒
 持続的にHPが回復する。
@@ -2862,20 +2916,20 @@ SG回復
 
 ID=35000
 HP減少
-2秒ごとにHP3%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=35001
 HP減少
-2秒ごとにHP3%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=35002
 HP減少
-HP100%減少(即死)
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=35003
@@ -2916,14 +2970,14 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 
 ID=35009
 HP減少
-1秒ごとにHP5%減少3秒間維持
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=35010
 HP減少
-1秒ごとにHP5%減少3秒間維持
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=35011
@@ -2946,8 +3000,8 @@ Icon/Buff/Icon_Common_Buff_Immun
 
 ID=35300
 HP減少
-HPが40%減少。
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=35302
@@ -2964,8 +3018,8 @@ Icon/Buff/Icon_Common_Debuff_Def
 
 ID=35304
 HP減少
-HPが15%減少。
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=35305
@@ -2988,9 +3042,9 @@ Icon/Buff/Icon_Common_Debuff_MSR
 
 ID=35313
 HP減少
-3秒間、感電状態となりHPが減少する。
-Icon/Buff/Icon_Common_Debuff_Shock
-感電
+0
+0
+HP減少
 
 ID=35400
 移動速度減少
@@ -3000,14 +3054,14 @@ Icon/Buff/Icon_Common_Debuff_MSR
 
 ID=37300
 HP減少
-2秒ごとにHP5%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=37421
 HP減少
-2秒ごとにHP3%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=39001
@@ -3576,13 +3630,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53213
 物質変換Ⅰ
-アイテム入手時、20%の確率で5秒間、攻撃力が10%上昇する。(クールタイム30秒)
+アイテム獲得時、20%の確率で5秒間、攻撃力が10%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53221
 物質変換Ⅱ
-アイテム入手時、30%の確率で5秒間、攻撃力が10%上昇する。(クールタイム30秒)
+アイテム獲得時、30%の確率で5秒間、攻撃力が10%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
@@ -3792,7 +3846,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53391
 忘れ物センターⅠ
-アイテム入手時、10%の確率で2秒間、無敵状態になる。(クールタイム1分)
+アイテム獲得時、10%の確率で2秒間、無敵状態になる。(クールタイム1分)
 Icon/Buff/Icon_Common_Buff_Akashic
 無敵
 
@@ -5086,6 +5140,114 @@ ID=53723
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
+ID=53724
+風の加護Ⅰ
+装着時、ダメージ減少が1%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少増加
+
+ID=53725
+風の加護Ⅱ
+装着時、ダメージ減少が4%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少増加
+
+ID=53726
+風の加護Ⅲ
+装着時、ダメージ減少が7%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少増加
+
+ID=53727
+風の加護Ⅰ
+装着時、ダメージ減少が3%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少増加
+
+ID=53728
+風の加護Ⅱ
+装着時、ダメージ減少が6%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少増加
+
+ID=53729
+風の加護Ⅲ
+装着時、ダメージ減少が9%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少増加
+
+ID=53730
+無限動力Ⅰ
+装着時、ソウルの消費量が1%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウル消費量減少
+
+ID=53731
+無限動力Ⅱ
+装着時、ソウルの消費量が3%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウル消費量減少
+
+ID=53732
+無限動力Ⅲ
+装着時、ソウルの消費量が5%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウル消費量減少
+
+ID=53733
+無限動力Ⅰ
+装着時、ソウルの消費量が2%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウル消費量減少
+
+ID=53734
+無限動力Ⅱ
+装着時、ソウルの消費量が4%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウル消費量減少
+
+ID=53735
+無限動力Ⅲ
+装着時、ソウルの消費量が6%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウル消費量減少
+
+ID=53736
+刃の天使Ⅰ
+装着時、クリティカルダメージ量が200上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加
+
+ID=53737
+刃の天使Ⅱ
+装着時、クリティカルダメージ量が700上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加
+
+ID=53738
+刃の天使Ⅲ
+装着時、クリティカルダメージ量が1200上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加
+
+ID=53739
+刃の天使Ⅰ
+装着時、クリティカルダメージ量が500上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加
+
+ID=53740
+刃の天使Ⅱ
+装着時、クリティカルダメージ量が1000上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加
+
+ID=53741
+刃の天使Ⅲ
+装着時、クリティカルダメージ量が1500上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加
+
 ID=55002
 ビックリボックスⅢ
 30秒間、防御度が50%減少する。
@@ -5124,37 +5286,37 @@ Icon/Buff/Icon_Common_Buff_ASR
 
 ID=55088
 オイルショック！Ⅰ
-地面からオイルが噴き上がり、2秒間、敵の移動速度が30%減少する。(クールタイム90秒)
+地面からオイルが噴き上がり、2秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=55089
 オイルショック！Ⅱ
-地面からオイルが噴き上がり、4秒間、敵の移動速度が30%減少する。(クールタイム90秒)
+地面からオイルが噴き上がり、4秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=55090
 オイルショック！Ⅲ
-地面からオイルが噴き上がり、4秒間、敵の移動速度が50%減少する。(クールタイム90秒)
+地面からオイルが噴き上がり、4秒間\n敵の移動速度が50%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=55091
 オイルショック！Ⅰ
-地面からオイルが噴き上がり、3秒間、敵の移動速度が30%減少する。(クールタイム90秒)
+地面からオイルが噴き上がり、3秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=55092
 オイルショック！Ⅱ
-地面からオイルが噴き上がり、5秒間、敵の移動速度が30%減少する。(クールタイム90秒)
+地面からオイルが噴き上がり、5秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=55093
 オイルショック！Ⅲ
-地面からオイルが噴き上がり、7秒間、敵の移動速度が70%減少する。(クールタイム90秒)
+地面からオイルが噴き上がり、7秒間\n敵の移動速度が70%減少する。(クールタイム90秒)
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
@@ -5292,14 +5454,14 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=63000
 HP減少
-HP15%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=63001
 HP減少
-HP25%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=63002
@@ -5310,14 +5472,14 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 
 ID=63003
 HP減少
-HP50%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=63004
 HP減少
-HP2%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=63005
@@ -5400,8 +5562,8 @@ HP回復
 
 ID=63018
 HP減少
-HP15%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=63019
@@ -5424,8 +5586,8 @@ HP回復
 
 ID=63022
 HP減少
-HP99%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=63023
@@ -5436,20 +5598,20 @@ Icon/Buff/Icon_Common_Debuff_Def
 
 ID=63024
 HP減少
-HP20%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=63025
 HP減少
-HP90%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=63026
 HP減少
-HP2%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=63027
@@ -5472,8 +5634,8 @@ HP回復
 
 ID=63030
 HP減少
-HP10%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=63031
@@ -5502,7 +5664,7 @@ HP回復
 
 ID=63035
 HP減少
-3秒ごとにHP5%減少
+0
 0
 HP減少
 
@@ -5526,20 +5688,20 @@ HP回復
 
 ID=63039
 HP減少
-HP20%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=63040
 HP減少
-HP20%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=63041
 HP減少
-HP20%減少
-Icon/Buff/Icon_Common_Debuff_Bleed
+0
+0
 HP減少
 
 ID=63042
@@ -5550,7 +5712,7 @@ Icon/Buff/Icon_Common_Debuff_Shock
 
 ID=63043
 HP減少
-1秒ごとにHP15%ずつ3秒間減少
+0
 0
 HP減少
 
@@ -5568,12 +5730,150 @@ Icon/Buff/Icon_Common_Buff_MSR
 
 ID=63046
 HP減少
-HP15%が減少
+0
 0
 HP減少
 
 ID=63047
 HP減少
-2秒ごとにHP15%減少
+0
+0
+HP減少
+
+ID=30036
+HP減少
+0
+0
+HP減少
+
+ID=30065
+HP減少
+0
+0
+HP減少
+
+ID=30145
+HP減少
+0
+0
+HP減少
+
+ID=35012
+HP減少
+0
+0
+HP減少
+
+ID=35013
+HP減少
+0
+0
+HP減少
+
+ID=35019
+HP減少
+0
+0
+HP減少
+
+ID=35030
+HP減少
+0
+0
+HP減少
+
+ID=35015
+HP減少
+0
+0
+HP減少
+
+ID=35016
+HP減少
+0
+0
+HP減少
+
+ID=35018
+HP減少
+0
+0
+HP減少
+
+ID=35023
+HP減少
+0
+0
+HP減少
+
+ID=35024
+HP減少
+0
+0
+HP減少
+
+ID=35200
+HP減少
+0
+0
+HP減少
+
+ID=35201
+HP減少
+0
+0
+HP減少
+
+ID=35203
+HP減少
+0
+0
+HP減少
+
+ID=35204
+HP減少
+0
+0
+HP減少
+
+ID=35206
+HP減少
+0
+0
+HP減少
+
+ID=35207
+HP減少
+0
+0
+HP減少
+
+ID=35310
+HP減少
+0
+0
+HP減少
+
+ID=35311
+HP減少
+0
+0
+HP減少
+
+ID=35314
+HP減少
+0
+0
+HP減少
+
+ID=35315
+HP減少
+0
+0
+HP減少
+
+ID=63048
+HP減少
+0
 0
 HP減少
