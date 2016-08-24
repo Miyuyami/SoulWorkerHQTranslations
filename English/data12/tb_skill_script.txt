@@ -756,7 +756,7 @@ Skill/Icon_SSword_Skill_BreakZenith
 
 ID=11911
 Erosion Ⅰ
-[Info]\nAwaken for 60s.\n- Attack +20%.\n- Received Damage -50%.\n- Movement Speed +20%.\n- Gain Super Armor\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press Number Key [7]
+[Info]\nAwaken for 60s.\n- Attack +20%.\n- Received Damage -50%.\n- Movement Speed +20%.\n- Gain Super Armor\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press the [7] key
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BreakErode
 Description_Image/Skill/SoulumSword/Image_SSword_Break_Erode
@@ -798,7 +798,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 
 ID=112
 Special Ability Mastery Ⅰ
-[スキル情報：地上]\nダメージ量：[172%]\nデバフ効果：移動速度[60%]減少\nデバフ持続時間：[5秒]\nSA破壊量：[76%]\n同時に最大2個まで設置可能。\n\n[スキル情報：空中]\nダメージ量：[274%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[122]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n攻撃時、SGを獲得。\nSG獲得量はモンスター等級に応じて増加する。\n\n前方にスロー効果を付与するトラップを投げて設置する。空中で使用時、地面に向かって電気波を放ち敵を麻痺させる。\n
+[Ground]\nDamage: [172%]\nSA Break: [76%]\nDebuff Effect: Move Speed -[60%]\nDuration: [5s]\nTwo mines can be placed.\n\n[Air]\nDamage: [274%]\nSA Break: [122%]\nDebuff Effect: [Paralysis]\nDuration: [3s]\n\n[Common]\nCooldown: [5s]\nGain +[20%] SG on hit.\nSG gain varies by monster type.\n\nThrow a slowing trap forward. When used mid-air, you will shoot an electric wave at the ground to inflict paralysis.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Air]\nMouse: After jumping (RMB)
 [Ground]\nDamage: [172%]+9%\nSA Break: [76%]+4%\nSG Gain [20%].\n\n[Air]\nDamage:[274%]+13%\nSA Break: [122%]+6%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_OwnAbility
 0
@@ -812,7 +812,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 
 ID=122
 Special Ability Mastery Ⅱ
-[スキル情報：地上]\nダメージ量：[181%]\nデバフ効果：移動速度[60%]減少\nSA破壊量：[80%]\n同時に最大2個まで設置可能。\n\n[スキル情報：空中]\nダメージ量：[287%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[128]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n攻撃時、SG獲得量が[20%]増加する。\nSG獲得量はモンスター等級に応じて増加する。\n\n前方にスロー効果を付与するトラップを投げて設置する。空中で使用時、地面に向かって電気波を放ち、敵を麻痺させる。\n\n[
+[Ground]\nDamage: [181%]\nSA Break: [80%]\nDebuff Effect: Move Speed -[60%]\nDuration: [5s]\nTwo mines can be placed.\n\n[Air]\nDamage: [287%]\nSA Break: [128%]\nDebuff Effect: [Paralysis]\nDuration: [3s]\n\n[Common]\nCooldown: [5s]\nGain +[20%] SG on hit.\nSG gain varies by monster type.\n\nThrow a slowing trap forward. When used mid-air, you will shoot an electric wave at the ground to inflict paralysis.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Air]\nMouse: After jumping (RMB)
 [Ground]\nDamage: [181%]+21%\nSA Break: [80%]+10%\nSG Gain: [20%]+[50%]\n\n[Air]\nDamage:[287%]+34%\nSA Break: [128%]+15%\nSG Gain: [20%]+[50%]
 Icon/Skill/GunJazz/Icon_GJazz_Skill_OwnAbility
 0
@@ -826,7 +826,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 
 ID=132
 Special Ability Mastery Ⅲ
-[スキル情報：地上]\nダメージ量：[202%]\nデバフ効果：移動速度[60%]減少\nデバフ持続時間：[5秒]\nSA破壊量：[90%]\n同時に最大2個まで設置可能。\n\n[スキル情報：空中]\nダメージ量：[321%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[143]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n攻撃時、SG獲得量が[70%]増加する。\nSG獲得量はモンスター等級に応じて増加する。\n\n前方にスロー効果を付与するトラップを投げて設置する。空中で使用時、地面に向かって電気波を放
+[Ground]\nDamage: [202%]\nSA Break: [90%]\nDebuff Effect: Move Speed -[60%]\nDuration: [5s]\nTwo mines can be placed.\n\n[Air]\nDamage: [321%]\nSA Break: [143%]\nDebuff Effect: [Paralysis]\nDuration: [3s]\n\n[Common]\nCooldown: [5s]\nGain +[70%] SG on hit.\nSG gain varies by monster type.\n\nThrow a slowing trap forward. When used mid-air, you will shoot an electric wave at the ground to inflict paralysis.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Air]\nMouse: After jumping (RMB)
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_OwnAbility
 0
@@ -1512,7 +1512,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakZenith
 
 ID=12911
 Erosion Ⅰ
-[Info]\nAwaken for 60s.\n- Deal maximum damage will all attacks.\n- Attack Speed +30%.\n- Movement Speed +20%.\n- Gain Super Armor.\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press Number Key [7]
+[Info]\nAwaken for 60s.\n- Deal maximum damage will all attacks.\n- Attack Speed +30%.\n- Movement Speed +20%.\n- Gain Super Armor.\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press the [7] key
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakErode
 Description_Image/Skill/GunJazz/Image_GJazz_Break_Erode
@@ -1554,7 +1554,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 
 ID=113
 Special Ability Mastery Ⅰ
-[スキル情報：地上]\nダメージ量：[164%]\nデバフ効果：移動速度[50%]減少\nデバフ持続時間：[3秒]\nSA破壊量：[119%]\n\n[スキル情報：空中基本]\nダメージ量：[239%]\nSA破壊量：[119%]\n追加入力時、落下して1回反復\n\n[スキル情報：一般]\nクールタイム：[10秒]\n攻撃時、SGを獲得。\nSG獲得量はモンスター等級に応じて増加する。\n\n素早く前方に移動し、移動ルート上にいる敵の動きを遅くする。\n空中で使用時、回転斬りを繰り出す。追加入力時、下に向かって回転攻撃を繰り出す。\n\n[
+[Ground]\nDamage: [164%]\nSA Break: [119%]\nDebuff Effect: Movement Speed -[50%]\nDebuff Duration: [3s]\n\n[Air]\nDamage: [239%]\nSA Break: [119%]\nOne addtional hit per input.\n\n[Common]\nCooldown: [10s]\nGain SG on hit.\nSG gained varies based on enemy type.\n\nQuickly dash forward, enemies in the way are slowed.\nWhen used in air, perform a slashing rotation. On additional inputs, continue slashing.\n\n[Usage: Ground]\nMouse: (hold RMB)\n\n[Usage: Air]\nMouse: (RMB)×2
 [Ground]\nDamage: [164%]+9%\nSA Break: [119%]+6%\n\n[Air]\nDamage: [239%]+12%\nSA Break: [119%]+6%\n\n[Common]\nSG gain +20%.
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_OwnAbility
 0
@@ -1568,7 +1568,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 
 ID=123
 Special Ability Mastery Ⅱ
-[スキル情報：地上]\nダメージ量：[173%]\nデバフ効果：移動速度[50%]減少\nデバフ持続時間：[3秒]\nSA破壊量：[125%]\n\n[スキル情報：空中基本]\nダメージ量：[251%]\nSA破壊量：[125%]\n追加入力時、落下して1回反復\n\n[スキル情報：一般]\nクールタイム：[10秒]\n攻撃時、SG獲得量が[20%]増加する。\nSG獲得量はモンスター等級に応じて増加する。\n\n素早く前方に移動し、移動ルート上にいる敵の動きを遅くする。\n空中で使用時、回転斬りを繰り出す。追加入力時、下に向かって回転攻
+[Ground]\nDamage: [173%]\nSA Break: [125%]\nDebuff Effect: Movement Speed -[50%]\nDebuff Duration: [3s]\n\n[Air]\nDamage: [251%]\nSA Break: [125%]\nOne addtional hit per input.\n\n[Common]\nCooldown: [10s]\nSG gain +[20%].\nSG gained varies based on enemy type.\n\nQuickly dash forward, enemies in the way are slowed.\nWhen used in air, perform a slashing rotation. On additional inputs, continue slashing.\n\n[Usage: Ground]\nMouse: (hold RMB)\n\n[Usage: Air]\nMouse: (RMB)×2
 [Ground]\nDamage: [173%]+20%\nSA Break: [125%]+15%\n\n[Air]\nDamage: [251%]+30%\nSA Break: [125%]+15%\n\n[Common]\nSG Gain: [20%]+50%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_OwnAbility
 0
@@ -1582,7 +1582,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 
 ID=133
 Special Ability Mastery Ⅲ
-[スキル情報：地上]\nダメージ量：[193%]\nデバフ効果：移動速度[50%]減少\nデバフ持続時間：[3秒]\nSA破壊量：[140%]\n\n[スキル情報：空中]\nダメージ量：[281%]\nSA破壊量：[140%]\n追加入力時、落下して1回反復\n\n[スキル情報：空中追加]\nダメージ量：[198%]\nSA破壊量：[131%]\n\n[スキル情報：一般]\nクールタイム：[10秒]\n攻撃時、SG獲得量が[70%]増加する。\nSG獲得量はモンスター等級に応じて増加する。\n\n素早く前方に移動し、移動ルート上にいる敵の動きを
+[Ground]\nDamage: [193%]\nSA Break: [140%]\nDebuff Effect: Movement Speed [50%]\nDebuff Duration: [3s]\n\n[Air]\nDamage: [281%]\nSA Break: [140%]\nOne addtional hit per input.\n\n[Air Additional]\nDamage: [198%]\nSA Break: [131%]\n\n[Common]\nCooldown: [10s]\nSG gain +[70%].\nSG gained varies based on enemy type.\n\nQuickly dash forward, enemies in the way are slowed.\nWhen used in air, perform a slashing rotation. On additional inputs, continue slashing.\n\n[Usage: Ground]\nMouse: (hold RMB)\n\n[Usage: Air]\nMouse: (RMB)×2
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_OwnAbility
 0
@@ -2016,35 +2016,35 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder
 
 ID=13061
 Death Scythe Ⅰ
-[スキル情報：基本攻撃]\nダメージ量：[207%]\nSA破壊量：[448%]\n4m以内の敵を引き寄せる。\n\n[スキル情報：追加攻撃]\nダメージ量：[169%]\nSA破壊量：[237%]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[25秒]\n\n死神が現れ、周辺にいる敵を引き寄せて攻撃する。死神の攻撃後、任意操作により最後の攻撃方法が変化する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：遠くへ吹き飛ばす。\n[2]右クリック：
+[Basic]\nDamage: [207%]\nSA Break: [448%]\nPull in enemies within 4m.\n\n[Additional]\nDamage: [169%]\nSA Break: [237%]\n\n[General]\nSG Cost: [40]\nCooldown: [25s]\n\nGrim Reaper appears, it attracts the enemies around. After the Grim Reaper attacks, the last attack is changed by the next command.\n\n[Usage: Additional]\nMouse:\n[1] [LMB]: Push the enemies away.\n[2] [RMB]: Launch the enemies in the air.
 [Basic]\nDamage: [207%]+11%\nSA Break: [448]+22%\nPulling Range: [4m]+0.5m\n\n[Additional]\nDamage: [169%]+8%\nSA Break: [237%]+12%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 0
 
 ID=13062
 Death Scythe Ⅱ
-[スキル情報：基本攻撃]\nダメージ量：[218%]\nSA破壊量：[470%]\n4.5m以内の敵を引き寄せる。\n\n[スキル情報：追加攻撃]\nダメージ量：[177%]\nSA破壊量：[249%]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[25秒]\n\n死神が現れ、周辺にいる敵を引き寄せて攻撃する。死神の攻撃後、任意操作により最後の攻撃方法が変化する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：遠くへ吹き飛ばす。\n[2]右クリッ
+[Basic]\nDamage: [218%]\nSA Break: [470%]\nPull in enemies within 4.5m.\n\n[Additional]\nDamage: [177%]\nSA Break: [249%]\n\n[General]\nSG Cost: [40]\nCooldown: [25s]\n\nGrim Reaper appears, it attracts the enemies around. After the Grim Reaper attacks, the last attack is changed by the next command.\n\n[Usage: Additional]\nMouse:\n[1] [LMB]: Push the enemies away.\n[2] [RMB]: Launch the enemies in the air.
 [Basic]\nDamage: [218%]+25%\nSA Break: [470]+56%\nPulling Range: [4.5m]+0.5m\n\n[Additional]\nDamage: [177%]+21%\nSA Break: [249%0]+30%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 0
 
 ID=13063
 Death Scythe Ⅲ
-[スキル情報：基本攻撃]\nダメージ量：[243%]\nSA破壊量：[526%]\n5m以内の敵を引き寄せる。\n\n[スキル情報：追加攻撃]\nダメージ量：[198%]\nSA破壊量：[279%]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[25秒]\n\n死神が現れ、周辺にいる敵を引き寄せて攻撃する。死神の攻撃後、任意操作により最後の攻撃方法が変化する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：遠くへ吹き飛ばす。\n[2]右クリック：
+[Basic]\nDamage: [243%]\nSA Break: [526%]\nPull in enemies within 5m.\n\n[Additional]\nDamage: [198%]\nSA Break: [279%]\n\n[General]\nSG Cost: [40]\nCooldown: [25s]\n\nGrim Reaper appears, it attracts the enemies around. After the Grim Reaper attacks, the last attack is changed by the next command.\n\n[Usage: Additional]\nMouse:\n[1] [LMB]: Push the enemies away.\n[2] [RMB]: Launch the enemies in the air.
 [Basic]\nDamage: [243%]+26%\nSA Break: [526]+56%\nPulling Range: [5m]+0.5m\n\n[Additional]\nDamage: [198%]+24%\nSA Break: [279%]+29%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 0
 
 ID=13064
 Death Scythe Ⅳ
-[スキル情報：基本攻撃]\nダメージ量：[269%]\nSA破壊量：[582%]\n5.5m以内の敵を引き寄せる。\n\n[スキル情報：追加攻撃]\nダメージ量：[219%]\nSA破壊量：[308%]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[25秒]\n\n死神が現れ、周辺にいる敵を引き寄せて攻撃する。死神の攻撃後、任意操作により最後の攻撃方法が変化する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：遠くへ吹き飛ばす。\n[2]右クリッ
+[Basic]\nDamage: [269%]\nSA Break: [582%]\nPull in enemies within 5.5m.\n\n[Additional]\nDamage: [219%]\nSA Break: [308%]\n\n[General]\nSG Cost: [40]\nCooldown: [25s]\n\nGrim Reaper appears, it attracts the enemies around. After the Grim Reaper attacks, the last attack is changed by the next command.\n\n[Usage: Additional]\nMouse:\n[1] [LMB]: Push the enemies away.\n[2] [RMB]: Launch the enemies in the air.
 [Basic]\nDamage: [269%]+42%\nSA Break: [582]+89%\nPulling Range: [5.5m]+1m\n\n[Additional]\nDamage: [219%]+34%\nSA Break: [308%]+48%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 0
 
 ID=13065
 Death Scythe Ⅴ
-[スキル情報：通常攻撃]\nダメージ量：[311%]\nSA破壊量：[671%]\n6.5m以内の敵を引き寄せる。\n\n[スキル情報：追加攻撃]\nダメージ量：[253%]\nSA破壊量：[356%]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[25秒]\n\n死神が現れ、周辺にいる敵を引き寄せて攻撃する。死神の攻撃後、任意操作により最後の攻撃方法が変化する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：遠くへ吹き飛ばす。\n[2]
+[Basic]\nDamage: [311%]\nSA Break: [671%]\nPull in enemies within 6.5m.\n\n[Additional]\nDamage: [253%]\nSA Break: [356%]\n\n[General]\nSG Cost: [40]\nCooldown: [25s]\n\nGrim Reaper appears, it attracts the enemies around. After the Grim Reaper attacks, the last attack is changed by the next command.\n\n[Usage: Additional]\nMouse:\n[1] [LMB]: Push the enemies away.\n[2] [RMB]: Launch the enemies in the air.
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 0
@@ -2324,7 +2324,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 
 ID=114
 Special Ability Mastery Ⅰ
-[スキル情報：地上]\nダメージ量：[168%]\nSA破壊量：[75%]\n近くの敵を2秒間、気絶状態にする。\n\n[スキル情報：空中] \nダメージ量：[269%]\nSA破壊量：[119%]\n\n[スキル情報：共通]\nクールタイム：[10秒]\n攻撃時、SGを獲得。\nSG獲得量はモンスター等級に応じて増加する。\n\n足で地面に衝撃を与える。\nダメージを受けた敵は気絶状態になる。\n空中で使用時、地面に向かって拳を振り下ろす。\n\n[操作方法：地上]\nマウス：(右クリック)\n\n[操作方法：空中]\nマウス：ジャンプ後(右クリ
+[Ground]\nDamage: [168%]\nSA Break: [75%]\nStun close enemies for 2 seconds.\n\n[Air]\nDamage: [269%]\nSA Break: [119%]\n\n[Common]\nCooldown: [10s]\nGain SG on hit.\nSG gain varies based on enemy type.\n\nSmash the ground with your foot.\nStuns enemies.\nWhen used in air, swings the fist towards the ground.\n\n[Usage: Ground]\nMouse: (RMB)\n[Usage: Air]\nMouse: after jumping (RMB)
 [Ground]\nDamage: [168%]+9%\nSA Break: [75%]+3%\n\n[Air]\nDamage: [269%]+13%\nSA Break: [119%]+6%\n\n[Common]\nSG gain +20%.
 Icon/Skill/SpritArms/Icon_Sprit_Skill_OwnAbility
 0
@@ -2338,7 +2338,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 
 ID=124
 Special Ability Mastery Ⅱ
-[スキル情報：地上]\nダメージ量：[177%]\nSA破壊量：[78%]\n近くの敵を2.5秒間、気絶状態にする。\n\n[スキル情報：空中] \nダメージ量：[282%]\nSA破壊量：[125%]\n\n[スキル情報：共通]\nクールタイム：[10秒]\n攻撃時、SG獲得量が[20%]増加する。\nSG獲得量はモンスター等級に応じて増加する。\n\n足で地面に衝撃を与える。\nダメージを受けた敵は気絶状態になる。\n空中で使用時、地面に向かって拳を振り下ろす。\n\n[操作方法：地上]\nマウス：(右クリック)\n\n[操作方法：空中]\nマ
+[Ground]\nDamage: [177%]\nSA Break: [78%]\nStun close enemies for 2.5 seconds.\n\n[Air]\nDamage: [282%]\nSA Break: [125%]\n\n[Common]\nCooldown: [10s]\nGain SG on hit +[20%].\nSG gain varies based on enemy type.\n\nSmash the ground with your foot.\nStuns enemies.\nWhen used in air, swings the fist towards the ground.\n\n[Usage: Ground]\nMouse: (RMB)\n[Usage: Air]\nMouse: after jumping (RMB)
 [Ground]\nDamage: [177%]+21%\nSA Break: [78%]+10%\n\n[Air]\nDamage: [282%]+34%\nSA Break: [125%]+15%\n\n[Common]\nSG gain [20%]+50%.
 Icon/Skill/SpritArms/Icon_Sprit_Skill_OwnAbility
 0
@@ -2352,7 +2352,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 
 ID=134
 Special Ability Mastery Ⅲ
-[スキル情報：地上]\nダメージ量：[198%]\nSA破壊量：[88%]\n近くの敵を3秒間、気絶状態にする。\n\n[スキル情報：空中] \nダメージ量：[316%]\nSA破壊量：[140%]\n\n[スキル情報：共通]\nクールタイム：[10秒]\n攻撃時、SG獲得量が[70%]増加する。\nSG獲得量はモンスター等級に応じて増加する。\n\n足で地面に衝撃を与える。\nダメージを受けた敵は気絶状態になる。\n空中で使用時、地面に向かって拳を振り下ろす。\n\n[操作方法：地上]\nマウス：(右クリック)\n\n[操作方法：空中]\nマウス
+[Ground]\nDamage: [198%]\nSA Break: [88%]\nStun close enemies for 3 seconds.\n\n[Air]\nDamage: [316%]\nSA Break: [140%]\n\n[Common]\nCooldown: [10s]\nGain SG on hit +[70%].\nSG gain varies based on enemy type.\n\nSmash the ground with your foot.\nStuns enemies.\nWhen used in air, swings the fist towards the ground.\n\n[Usage: Ground]\nMouse: (RMB)\n[Usage: Air]\nMouse: after jumping (RMB)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_OwnAbility
 0
@@ -2576,70 +2576,70 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 
 ID=14011
 Counter Attack Ⅰ
-[スキル情報：通常攻撃]\nダメージ量：[118%]\nSA破壊量：[32%]\n\n[スキル情報：追加攻撃]\nダメージ量：[59%][118%]\nSA破壊量：[16%][32%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、5秒間一部のスキルが強化状態になり、SGが10%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)\n\n[操作方法：
+[Basic]\nDamage: [118%]\nSA Break: [32%]\n\n[Additional]\nDamage: [59%] [118%]\nSA Break: [16%] [32%]\n\n[Common]\nCooldown: [5s]\nCan only counter short-ranged attacks, if it's successful, a part of the skill will be strengthened for 5 seconds. Recover 10% SG\n\nIgnores the enemy attack with the counter.\n\n[Usage: Forced]\n\nMouse: While countering (RMB)\n\n[Usage: Additional]\nMouse: After counter (RMB)×2
 [Basic]\nDamage: [118%]+6%\nSA Break: [32%]+1%\n\n[Additional]\nDamage: [59%]+3% [118%]+6%\nSA Break: [16%]+1% [32%]+1%\n\n[Successful Counter]\nSG gain: [10%]+1%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 
 ID=14012
 Counter Attack Ⅱ
-[スキル情報：通常攻撃]\nダメージ量：[124%]\nSA破壊量：[33%]\n\n[スキル情報：追加攻撃]\nダメージ量：[62%][124%]\nSA破壊量：[17%][33%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、5秒間一部のスキルが強化状態になり、SGが11%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)\n\n[操作方法
+[Basic]\nDamage: [124%]\nSA Break: [33%]\n\n[Additional]\nDamage: [62%] [124%]\nSA Break: [17%] [33%]\n\n[Common]\nCooldown: [5s]\nCan only counter short-ranged attacks, if it's successful, a part of the skill will be strengthened for 5 seconds. Recover 11% SG\n\nIgnores the enemy attack with the counter.\n\n[Usage: Forced]\n\nMouse: While countering (RMB)\n\n[Usage: Additional]\nMouse: After counter (RMB)×2
 [Basic]\nDamage: [124%]+15%\nSA Break: [33%]+4%\n\n[Additional]\nDamage: [62%]+7% [124%]+15%\nSA Break: [17%]+2% [33%]+4%\n\n[Successful Counter]\nSG gain: [11%]+2%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 
 ID=14013
 Counter Attack Ⅲ
-[スキル情報：通常攻撃]\nダメージ量：[139%]\nSA破壊量：[37%]\n\n[スキル情報：追加攻撃]\nダメージ量：[69%][139%]\nSA破壊量：[19%][37%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、5秒間一部のスキルが強化状態になり、SGが13%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)\n\n[操作方法
+[Basic]\nDamage: [139%]\nSA Break: [37%]\n\n[Additional]\nDamage: [69%] [139%]\nSA Break: [19%] [37%]\n\n[Common]\nCooldown: [5s]\nCan only counter short-ranged attacks, if it's successful, a part of the skill will be strengthened for 5 seconds. Recover 13% SG\n\nIgnores the enemy attack with the counter.\n\n[Usage: Forced]\n\nMouse: While countering (RMB)\n\n[Usage: Additional]\nMouse: After counter (RMB)×2
 [Basic]\nDamage: [139%]+15%\nSA Break: [37%]+4%\n\n[Additional]\nDamage: [69%]+8% [139%]+15%\nSA Break: [19%]+2% [37%]+4%\n\n[Successful Counter]\nSG gain: [13%]+2%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 
 ID=14014
 Counter Attack Ⅳ
-[スキル情報：通常攻撃]\nダメージ量：[154%]\nSA破壊量：[41%]\n\n[スキル情報：追加攻撃]\nダメージ量：[77%][154%]\nSA破壊量：[21%][41%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、5秒間一部のスキルが強化状態になり、SGが15%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)\n\n[操作方法：
+[Basic]\nDamage: [154%]\nSA Break: [41%]\n\n[Additional]\nDamage: [77%] [154%]\nSA Break: [21%] [41%]\n\n[Common]\nCooldown: [5s]\nCan only counter short-ranged attacks, if it's successful, a part of the skill will be strengthened for 5 seconds. Recover 15% SG\n\nIgnores the enemy attack with the counter.\n\n[Usage: Forced]\n\nMouse: While countering (RMB)\n\n[Usage: Additional]\nMouse: After counter (RMB)×2
 [Basic]\nDamage: [154%]+23%\nSA Break: [41%]+7%\n\n[Additional]\nDamage: [77%]+12% [154%]+23%\nSA Break: [21%]+3% [41%]+7%\n\n[Successful Counter]\nSG gain: [15%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 
 ID=14015
 Counter Attack Ⅴ
-[スキル情報：通常攻撃]\nダメージ量：[177%]\nSA破壊量：[48%]\n\n[スキル情報：追加攻撃]\nダメージ量：[89%][177%]\nSA破壊量：[24%][48%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、5秒間一部のスキルが強化状態になり、SGが20%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)\n\n[操作方法：
+[Basic]\nDamage: [177%]\nSA Break: [48%]\n\n[Additional]\nDamage: [89%] [177%]\nSA Break: [24%] [48%]\n\n[Common]\nCooldown: [5s]\nCan only counter short-ranged attacks, if it's successful, a part of the skill will be strengthened for 5 seconds. Recover 20% SG\n\nIgnores the enemy attack with the counter.\n\n[Usage: Forced]\n\nMouse: While countering (RMB)\n\n[Usage: Additional]\nMouse: After counter (RMB)×2
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 
 ID=14021
 Glory Upper Ⅰ
-[スキル情報：通常攻撃]\nダメージ量：[164%]\nSA破壊量：[210%]\n\n[スキル情報：追加攻撃]\nダメージ量：[82%][41%][123%]\nSA破壊量：[105%][53%][158%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[10秒]\nスキル強化状態の時、性能が1.5倍に増加する。\n\n接近して、アッパー攻撃で敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の
+[Basic]\nDamage: [164%]\nSA Break: [210%]\n\n[Additional]\nDamage: [82%] [41%] [123%]\nSA Break: [105%] [53%] [158%]\n\n[Common]\nSG Cost: [35]\nCooldown: [10s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nApproach and knock-up enemies with an upper attack.\nAfterwards launches addtional consecutive attacks.\n\n[Usage: Additional]\nMouse: After the last attack (right-click)×3
 [Basic]\nDamage: [164%]+8%\nSA Break: [210%]+10%\n\n[Additional]\nDamage: [82%]+4% [41%]+2% [123%]+6%\nSA Break: [105%]+5% [53%]+2% [158%]+8%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper
 0
 
 ID=14022
 Glory Upper Ⅱ
-[スキル情報：通常攻撃]\nダメージ量：[172%]\nSA破壊量：[220%]\n\n[スキル情報：追加攻撃]\nダメージ量：[86%][43%][129%]\nSA破壊量：[110%][55%][165%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[10秒]\nスキル強化状態の時、性能が1.5倍に増加する。\n\n接近して、アッパー攻撃で敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の
+[Basic]\nDamage: [172%]\nSA Break: [220%]\n\n[Additional]\nDamage: [86%] [43%] [129%]\nSA Break: [110%] [55%] [165%]\n\n[Common]\nSG Cost: [35]\nCooldown: [10s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nApproach and knock-up enemies with an upper attack.\nAfterwards launches addtional consecutive attacks.\n\n[Usage: Additional]\nMouse: After the last attack (right-click)×3
 [Basic]\nDamage: [172%]+20%\nSA Break: [220%]+27%\n\n[Additional]\nDamage: [86%]+10% [43%]+5% [129%]+15%\nSA Break: [110%]+13% [55%]+7% [165%]+20%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper
 0
 
 ID=14023
 Glory Upper Ⅲ
-[スキル情報：通常攻撃]\nダメージ量：[192%]\nSA破壊量：[247%]\n\n[スキル情報：追加攻撃]\nダメージ量：[96%][48%][144%]\nSA破壊量：[123%][62%][185%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[10秒]\nスキル強化状態の時、性能が1.5倍に増加する。\n\n接近して、アッパー攻撃で敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の
+[Basic]\nDamage: [192%]\nSA Break: [247%]\n\n[Additional]\nDamage: [96%] [48%] [144%]\nSA Break: [123%] [62%] [185%]\n\n[Common]\nSG Cost: [35]\nCooldown: [10s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nApproach and knock-up enemies with an upper attack.\nAfterwards launches addtional consecutive attacks.\n\n[Usage: Additional]\nMouse: After the last attack (right-click)×3
 [Basic]\nDamage: [192%]+20%\nSA Break: [247%]+26%\n\n[Additional]\nDamage: [96%]+10% [48%]+5% [144%]+15%\nSA Break: [123%]+14% [62%]+6% [185%]+20%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper
 0
 
 ID=14024
 Glory Upper Ⅳ
-[スキル情報：通常攻撃]\nダメージ量：[212%]\nSA破壊量：[273%]\n\n[スキル情報：追加攻撃]\nダメージ量：[106%][53%][159%]\nSA破壊量：[137%][68%][205%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[10秒]\nスキル強化状態の時、性能が1.5倍に増加する。\n\n接近して、アッパー攻撃で敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後
+[Basic]\nDamage: [212%]\nSA Break: [273%]\n\n[Additional]\nDamage: [106%] [53%] [159%]\nSA Break: [137%] [68%] [205%]\n\n[Common]\nSG Cost: [35]\nCooldown: [10s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nApproach and knock-up enemies with an upper attack.\nAfterwards launches addtional consecutive attacks.\n\n[Usage: Additional]\nMouse: After the last attack (right-click)×3
 [Basic]\nDamage: [212%]+33%\nSA Break: [273%]+42%\n\n[Additional]\nDamage: [106%]+17% [53%]+8% [159%]+25%\nSA Break: [137%]+21% [68%]+11% [205%]+31%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper
 0
 
 ID=14025
 Glory Upper Ⅴ
-[スキル情報：通常攻撃]\nダメージ量：[245%]\nSA破壊量：[315%]\n\n[スキル情報：追加攻撃]\nダメージ量：[123%][61%][184%]\nSA破壊量：[158%][79%][236%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[10秒]\nスキル強化状態の時、性能が1.5倍に増加する。\n\n接近して、アッパー攻撃で敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後
+[Basic]\nDamage: [245%]\nSA Break: [315%]\n\n[Additional]\nDamage: [123%] [61%] [184%]\nSA Break: [158%] [79%] [236%]\n\n[Common]\nSG Cost: [35]\nCooldown: [10s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nApproach and knock-up enemies with an upper attack.\nAfterwards launches addtional consecutive attacks.\n\n[Usage: Additional]\nMouse: After the last attack (right-click)×3
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper
 0
@@ -3031,7 +3031,7 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_FinalFist
 
 ID=14911
 Erosion Ⅰ
-[Info]\nAwaken for 60s.\n- Attack +100%\n- Movement Speed +20%\n- Gain Super Armor\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press Number Key [7]
+[Info]\nAwaken for 60s.\n- Attack +100%\n- Movement Speed +20%\n- Gain Super Armor\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press the [7] key
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_BreakErode
 Description_Image/Skill/SpiritArms/Image_Spirit_Break_Erode
@@ -3500,70 +3500,70 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeastParade
 
 ID=15061
 Beads Play Ⅰ
-[スキル情報：攻撃モード]\nダメージ量：球1個あたり[124%]\nSA破壊量：球1個あたり[25%]\n\n[スキル情報：支援モード]\n[1]バフ効果：球1個あたりHP[20%]回復\n[2]バフ効果：攻撃力[50]増加\n[2]バフ持続時間：[15秒]\n\n[スキル情報：一般]\nチャージ段階に応じて球の数が増加する。\nチャージ完了時、敵を押し出す。\n最大チャージ段階：[3]\nSG消費量：[35]\nクールタイム：[20秒]\n\n敵に当たると爆発する球を作り出す。\nモード変換時、HPを回復させて攻撃力を増加させる球を生
+[Attack Mode]\nDamage: [124%] per bead\nSA Break: [25%] per bead\n\n[Support Mode]\n[1] Buff Effect: [20%] HP per bead\n[2] Buff Effect: +[50] Attack\n[2] Buff Duration: [15s]\n\n[Common]\nCharging will increase number of beads.\nPush away enemies when charging completes.\nMax Charge: 3\nSG Cost: [35]\nCooldown: [20s]\n\nCreates beads which will explode when hitting enemies.\nIn support mode, the beads will restore HP and increase attack.\n\n[Usage]\nPlace in skill slot and hold corresponding key
 [Attack Mode]\nDamage: [124%]+6% per bead\nSA Break: [25%]+2% per bead
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 0
 
 ID=15062
 Beads Play Ⅱ
-[スキル情報：攻撃モード]\nダメージ量：球1個あたり[130%]\nSA破壊量：球1個あたり[27%]\n\n[スキル情報：支援モード]\n[1]バフ効果：球1個あたりHP[20%]回復\n[2]バフ効果：攻撃力[50]増加\n[2]バフ持続時間：[15秒]\n\n[スキル情報：一般]\nチャージ段階に応じて球の数が増加する。\nチャージ完了時、敵を押し出す。\n最大チャージ段階：[3]\nSG消費量：[35]\nクールタイム：[20秒]\n\n敵に当たると爆発する球を作り出す。\nモード変換時、HPを回復させて攻撃力を増加させる球を生
+[Attack Mode]\nDamage: [130%] per bead\nSA Break: [27%] per bead\n\n[Support Mode]\n[1] Buff Effect: [20%] HP per bead\n[2] Buff Effect: +[50] Attack\n[2] Buff Duration: [15s]\n\n[Common]\nCharging will increase number of beads.\nPush away enemies when charging completes.\nMax Charge: 3\nSG Cost: [35]\nCooldown: [20s]\n\nCreates beads which will explode when hitting enemies.\nIn support mode, the beads will restore HP and increase attack.\n\n[Usage]\nPlace in skill slot and hold corresponding key
 [Attack Mode]\nDamage: [130%]+15% per bead\nSA Break: [27%]+3% per bead
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 0
 
 ID=15063
 Beads Play Ⅲ
-[スキル情報：攻撃モード]\nダメージ量：球1個あたり[145%]\nSA破壊量：球1個あたり[30%]\n\n[スキル情報：支援モード]\n[1]バフ効果：球1個あたりHP[20%]回復\n[2]バフ効果：攻撃力[50]増加\n[2]バフ持続時間：[15秒]\n\n[スキル情報：一般]\nチャージ段階に応じて球の数が増加する。\nチャージ完了時、敵を押し出す。\n最大チャージ段階：[3]\nSG消費量：[35]\nクールタイム：[20秒]\n\n敵に当たると爆発する球を作り出す。\nモード変換時、HPを回復させて攻撃力を増加させる球を生
+[Attack Mode]\nDamage: [145%] per bead\nSA Break: [30%] per bead\n\n[Support Mode]\n[1] Buff Effect: [20%] HP per bead\n[2] Buff Effect: +[50] Attack\n[2] Buff Duration: [15s]\n\n[Common]\nCharging will increase number of beads.\nPush away enemies when charging completes.\nMax Charge: 3\nSG Cost: [35]\nCooldown: [20s]\n\nCreates beads which will explode when hitting enemies.\nIn support mode, the beads will restore HP and increase attack.\n\n[Usage]\nPlace in skill slot and hold corresponding key
 [Attack Mode]\nDamage: [145%]+15% per bead\nSA Break: [30%]+3% per bead
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 0
 
 ID=15064
 Beads Play Ⅳ
-[スキル情報：攻撃モード]\nダメージ量：球1個あたり[160%]\nSA破壊量：球1個あたり[33%]\n\n[スキル情報：支援モード]\n[1]バフ効果：球1個あたりHP[20%]回復\n[2]バフ効果：攻撃力[50]増加\n[2]バフ持続時間：[15秒]\n\n[スキル情報：一般]\nチャージ段階に応じて球の数が増加する。\nチャージ完了時、敵を押し出す。\n最大チャージ段階：[3]\nSG消費量：[35]\nクールタイム：[20秒]\n\n敵に当たると爆発する球を作り出す。\nモード変換時、HPを回復させて攻撃力を増加させる球を生
+[Attack Mode]\nDamage: [160%] per bead\nSA Break: [33%] per bead\n\n[Support Mode]\n[1] Buff Effect: [20%] HP per bead\n[2] Buff Effect: +[50] Attack\n[2] Buff Duration: [15s]\n\n[Common]\nCharging will increase number of beads.\nPush away enemies when charging completes.\nMax Charge: 3\nSG Cost: [35]\nCooldown: [20s]\n\nCreates beads which will explode when hitting enemies.\nIn support mode, the beads will restore HP and increase attack.\n\n[Usage]\nPlace in skill slot and hold corresponding key
 [Attack Mode]\nDamage: [160%]+25% per bead\nSA Break: [33%]+5% per bead
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 0
 
 ID=15065
 Beads Play Ⅴ
-[スキル情報：攻撃モード]\nダメージ量：球1個あたり[185%]\nSA破壊量：球1個あたり[38%]\n\n[スキル情報：支援モード]\n[1]バフ効果：球1個あたりHP[20%]回復\n[2]バフ効果：攻撃力[50]増加\n[2]バフ持続時間：[15秒]\n\n[スキル情報：一般]\nチャージ段階に応じて球の数が増加する。\nチャージ完了時、敵を押し出す。\n最大チャージ段階：[3]\nSG消費量：[35]\nクールタイム：[20秒]\n\n敵に当たると爆発する球を作り出す。\nモード変換時、HPを回復させて攻撃力を増加させる球を生
+[Attack Mode]\nDamage: [185%] per bead\nSA Break: [38%] per bead\n\n[Support Mode]\n[1] Buff Effect: [20%] HP per bead\n[2] Buff Effect: +[50] Attack\n[2] Buff Duration: [15s]\n\n[Common]\nCharging will increase number of beads.\nPush away enemies when charging completes.\nMax Charge: 3\nSG Cost: [35]\nCooldown: [20s]\n\nCreates beads which will explode when hitting enemies.\nIn support mode, the beads will restore HP and increase attack.\n\n[Usage]\nPlace in skill slot and hold corresponding key
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 0
 
 ID=15071
 Decade Pulse Ⅰ
-[スキル情報：攻撃モード]\nダメージ量：攻撃1回あたり[52%]\nデバフ効果：移動速度[10%]減少\nSA破壊量：攻撃1回あたり[30%]\n\n[スキル情報：支援モード]\nダメージ量：[10%](HP吸収100%)\nデバフ効果：麻痺\nデバフ持続時間：[1秒]\nSA破壊量：[45%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[15秒]\n\nギターを利用して、敵を攻撃するパルスを放出する。\nモード変換時、敵を麻痺させてHPを吸収する。\nＨＰ吸収効果は最大3体まで適用。\n\n[操作方法]\nスキルス
+[Attack Mode]\nDamage: [52%] per hit\nDebuff Effect: Move Speed -[10%]\nSA Break: [30%] per hit\n\n[Support Mode]\nDamage: [10%] (100% Lifesteal)\nDebuff Effect: [Paralysis]\nDebuff Duration: [1s]\nSA Break: [45%]\n\n[Common]\nSG Cost: [35]\nCooldown: [15s]\n\nUsing the guitar you release a pulse that attacks enemies.\nWhen switching modes, it paralyzes enemies and steals HP.\nThe lifesteal effect is applied to a maximum of 3 targets.\n\n[Usage: Additional]\nMouse: (Hold LMB)
 [Attack Mode]\nDamage: [52%]+3%\nSA Break: [30%]+1%\n\n[Support Mode]\nDamage: [10%]+1%\nSA Break: [45%]+2%
 Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse
 0
 
 ID=15072
 Decade Pulse Ⅱ
-[スキル情報：攻撃モード]\nダメージ量：攻撃1回あたり[55%]\nデバフ効果：移動速度[10%]減少\nSA破壊量：攻撃1回あたり[31%]\n\n[スキル情報：支援モード]\nダメージ量：[11%](HP吸収100%)\nデバフ効果：麻痺\nデバフ持続時間：[1秒]\nSA破壊量：[47%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[15秒]\n\nギターを利用して、敵を攻撃するパルスを放出する。\nモード変換時、敵を麻痺させてHPを吸収する。\nＨＰ吸収効果は最大3体まで適用。\n\n[操作方法]\nスキルス
+[Attack Mode]\nDamage: [55%] per hit\nDebuff Effect: Move Speed -[10%]\nSA Break: [31%] per hit\n\n[Support Mode]\nDamage: [11%] (100% Lifesteal)\nDebuff Effect: [Paralysis]\nDebuff Duration: [1s]\nSA Break: [47%]\n\n[Common]\nSG Cost: [35]\nCooldown: [15s]\n\nUsing the guitar you release a pulse that attacks enemies.\nWhen switching modes, it paralyzes enemies and steals HP.\nThe lifesteal effect is applied to a maximum of 3 targets.\n\n[Usage: Additional]\nMouse: (Hold LMB)
 [Attack Mode]\nDamage: [55%]+6%\nSA Break: [31%]+4%\n\n[Support Mode]\nDamage: [11%]+1%\nSA Break: [47%]+6%
 Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse
 0
 
 ID=15073
 Decade Pulse Ⅲ
-[スキル情報：攻撃モード]\nダメージ量：攻撃1回あたり[61%]\nデバフ効果：移動速度[10%]減少\nSA破壊量：攻撃1回あたり[35%]\n\n[スキル情報：支援モード]\nダメージ量：[12%](HP吸収100%)\nデバフ効果：麻痺\nデバフ持続時間：[1秒]\nSA破壊量：[53%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[15秒]\n\nギターを利用して、敵を攻撃するパルスを放出する。\nモード変換時、敵を麻痺させてHPを吸収する。\nＨＰ吸収効果は最大3体まで適用。\n\n[操作方法]\nスキルス
+[Attack Mode]\nDamage: [61%] per hit\nDebuff Effect: Move Speed -[10%]\nSA Break: [35%] per hit\n\n[Support Mode]\nDamage: [12%] (100% Lifesteal)\nDebuff Effect: [Paralysis]\nDebuff Duration: [1s]\nSA Break: [53%]\n\n[Common]\nSG Cost: [35]\nCooldown: [15s]\n\nUsing the guitar you release a pulse that attacks enemies.\nWhen switching modes, it paralyzes enemies and steals HP.\nThe lifesteal effect is applied to a maximum of 3 targets.\n\n[Usage: Additional]\nMouse: (Hold LMB)
 [Attack Mode]\nDamage: [61%]+7%\nSA Break: [35%]+4%\n\n[Support Mode]\nDamage: [12%]+2%\nSA Break: [53%]+6%
 Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse
 0
 
 ID=15074
 Decade Pulse Ⅳ
-[スキル情報：攻撃モード]\nダメージ量：攻撃1回あたり[68%]\nデバフ効果：移動速度[10%]減少\nSA破壊量：攻撃1回あたり[39%]\n\n[スキル情報：支援モード]\nダメージ量：[14%](HP吸収100%)\nデバフ効果：麻痺\nデバフ持続時間：[1秒]\nSA破壊量：[59%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[15秒]\n\nギターを利用して、敵を攻撃するパルスを放出する。\nモード変換時、敵を麻痺させてHPを吸収する。\nＨＰ吸収効果は最大3体まで適用。\n\n[操作方法]\nスキルス
+[Attack Mode]\nDamage: [68%] per hit\nDebuff Effect: Move Speed -[10%]\nSA Break: [39%] per hit\n\n[Support Mode]\nDamage: [14%] (100% Lifesteal)\nDebuff Effect: [Paralysis]\nDebuff Duration: [1s]\nSA Break: [59%]\n\n[Common]\nSG Cost: [35]\nCooldown: [15s]\n\nUsing the guitar you release a pulse that attacks enemies.\nWhen switching modes, it paralyzes enemies and steals HP.\nThe lifesteal effect is applied to a maximum of 3 targets.\n\n[Usage: Additional]\nMouse: (Hold LMB)
 [Attack Mode]\nDamage: [68%]+10%\nSA Break: [39%]+6%\n\n[Support Mode]\nDamage: [14%]+2%\nSA Break: [59%]+9%
 Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse
 0
 
 ID=15075
 Decade Pulse Ⅴ
-[スキル情報：攻撃モード]\nダメージ量：攻撃1回あたり[78%]\nデバフ効果：移動速度[10%]減少\nSA破壊量：攻撃1回あたり[45%]\n\n[スキル情報：支援モード]\nダメージ量：[16%](HP吸収100%)\nデバフ効果：麻痺\nデバフ持続時間：[1秒]\nSA破壊量：[68%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[15秒]\n\nギターを利用して、敵を攻撃するパルスを放出する。\nモード変換時、敵を麻痺させてHPを吸収する。\nＨＰ吸収効果は最大3体まで適用。\n\n[操作方法]\nスキルス
+[Attack Mode]\nDamage: [78%] per hit\nDebuff Effect: Move Speed -[10%]\nSA Break: [45%] per hit\n\n[Support Mode]\nDamage: [16%] (100% Lifesteal)\nDebuff Effect: [Paralysis]\nDebuff Duration: [1s]\nSA Break: [68%]\n\n[Common]\nSG Cost: [35]\nCooldown: [15s]\n\nUsing the guitar you release a pulse that attacks enemies.\nWhen switching modes, it paralyzes enemies and steals HP.\nThe lifesteal effect is applied to a maximum of 3 targets.\n\n[Usage: Additional]\nMouse: (Hold LMB)
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse
 0
@@ -3710,35 +3710,35 @@ Icon/Skill/Howling/Icon_Howling_Skill_BestTempo
 
 ID=15101
 Black Morass Ⅰ
-[1][スキル情報：引き寄せ]\nダメージ量：[236%]\nSA破壊量：[418%]\n\n[2][スキル情報：浮かし]\nダメージ量：[264%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[803%]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[35秒]\n\nギターを演奏し、前方の地面に沼を作り出して多数のゴーストを召喚する。その後、任意操作により攻撃方法が変化する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：敵
+[1] [Pull]\nDamage: [236%]\nSA Break: [418%]\n\n[2] [Launch]\nDamage: [264%]\nSA Break: [803%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\n\n[Common]\nSG Cost: [40]\nCooldown: [35s]\n\nCreate a marsh of ghosts by playing the guitar. The final attack differs depending on which input is made at the end.\n\n[Usage: Additional]\nMouse:\n[1] [LMB]: Pull enemies in the center.\n[2] [RMB]: Launch the enemies in the air.
 [Pull]\nDamage: [236%]+12%\nSA Break: [418%]+20%\n\n[Launch]\nDamage: [264%]+14%\nSA Break: [803%]+40%
 Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 0
 
 ID=15102
 Black Morass Ⅱ
-[1][スキル情報：引き寄せ]\nダメージ量：[248%]\nSA破壊量：[438%]\n\n[2][スキル情報：浮かし]\nダメージ量：[278%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[843%]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[35秒]\n\nギターを演奏し、前方の地面に沼を作り出して多数のゴーストを召喚する。その後、任意操作により攻撃方法が変化する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：敵
+[1] [Pull]\nDamage: [248%]\nSA Break: [438%]\n\n[2] [Launch]\nDamage: [278%]\nSA Break: [843%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\n\n[Common]\nSG Cost: [40]\nCooldown: [35s]\n\nCreate a marsh of ghosts by playing the guitar. The final attack differs depending on which input is made at the end.\n\n[Usage: Additional]\nMouse:\n[1] [LMB]: Pull enemies in the center.\n[2] [RMB]: Launch the enemies in the air.
 [Pull]\nDamage: [248%]+30%\nSA Break: [438%]+53%\n\n[Launch]\nDamage: [278%]+33%\nSA Break: [843%]+100%
 Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 0
 
 ID=15103
 Black Morass Ⅲ
-[1][スキル情報：引き寄せ]\nダメージ量：[278%]\nSA破壊量：[491%]\n\n[2][スキル情報：浮かし]\nダメージ量：[311%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[943%]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[35秒]\n\nギターを演奏し、前方の地面に沼を作り出して多数のゴーストを召喚する。その後、任意操作により攻撃方法が変化する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：敵
+[1] [Pull]\nDamage: [278%]\nSA Break: [491%]\n\n[2] [Launch]\nDamage: [311%]\nSA Break: [943%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\n\n[Common]\nSG Cost: [40]\nCooldown: [35s]\n\nCreate a marsh of ghosts by playing the guitar. The final attack differs depending on which input is made at the end.\n\n[Usage: Additional]\nMouse:\n[1] [LMB]: Pull enemies in the center.\n[2] [RMB]: Launch the enemies in the air.
 [Pull]\nDamage: [278%]+29%\nSA Break: [491%]+52%\n\n[Launch]\nDamage: [311%]+33%\nSA Break: [943%]+101%
 Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 0
 
 ID=15104
 Black Morass Ⅳ
-[1][スキル情報：引き寄せ]\nダメージ量：[307%]\nSA破壊量：[543%]\n\n[2][スキル情報：浮かし]\nダメージ量：[344%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[1044%]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[35秒]\n\nギターを演奏し、前方の地面に沼を作り出して多数のゴーストを召喚する。その後、任意操作により攻撃方法が変化する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：
+[1] [Pull]\nDamage: [307%]\nSA Break: [543%]\n\n[2] [Launch]\nDamage: [344%]\nSA Break: [1044%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\n\n[Common]\nSG Cost: [40]\nCooldown: [35s]\n\nCreate a marsh of ghosts by playing the guitar. The final attack differs depending on which input is made at the end.\n\n[Usage: Additional]\nMouse:\n[1] [LMB]: Pull enemies in the center.\n[2] [RMB]: Launch the enemies in the air.
 [Pull]\nDamage: [307%]+48%\nSA Break: [543%]+84%\n\n[Launch]\nDamage: [344%]+52%\nSA Break: [1044%]+160%
 Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 0
 
 ID=15105
 Black Morass Ⅴ
-[1][スキル情報：引き寄せ]\nダメージ量：[355%]\nSA破壊量：[627%]\n\n[2][スキル情報：浮かし]\nダメージ量：[396%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[1204%]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[35秒]\n\nギターを演奏し、前方の地面に沼を作り出して多数のゴーストを召喚する。その後、任意操作により攻撃方法が変化する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：
+[1] [Pull]\nDamage: [355%]\nSA Break: [627%]\n\n[2] [Launch]\nDamage: [396%]\nSA Break: [1204%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\n\n[Common]\nSG Cost: [40]\nCooldown: [35s]\n\nCreate a marsh of ghosts by playing the guitar. The final attack differs depending on which input is made at the end.\n\n[Usage: Additional]\nMouse:\n[1] [LMB]: Pull enemies in the center.\n[2] [RMB]: Launch the enemies in the air.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 0
@@ -6930,42 +6930,42 @@ On mid-air hit, 90% chance of +10% HP. (30s cooldown)
 
 ID=31091
 Bird Monster Wings Ⅰ
-When hit, 10% chance for next attack to deal +5% Attack for 2s. (8s cooldown)
+On hit, 10% chance for next attack to deal +5% Attack for 2s. (8s cooldown)
 .
 0
 0
 
 ID=31092
 Bird Monster Wings Ⅱ
-When hit, 10% chance for next attack to deal +7% Attack for 2s. (8s cooldown)
+On hit, 10% chance for next attack to deal +7% Attack for 2s. (8s cooldown)
 .
 0
 0
 
 ID=31093
 Bird Monster Wings Ⅲ
-When hit, 10% chance for next attack to deal +10% Attack for 2s. (8s cooldown)
+On hit, 10% chance for next attack to deal +10% Attack for 2s. (8s cooldown)
 .
 0
 0
 
 ID=31101
 Bird Monster Wings Ⅰ
-When hit, 10% chance for next attack to deal +6% Attack for 2s. (8s cooldown)
+On hit, 10% chance for next attack to deal +6% Attack for 2s. (8s cooldown)
 .
 0
 0
 
 ID=31102
 Bird Monster Wings Ⅱ
-When hit, 10% chance for next attack to deal +10% Attack for 2s. (8s cooldown)
+On hit, 10% chance for next attack to deal +10% Attack for 2s. (8s cooldown)
 .
 0
 0
 
 ID=31103
 Bird Monster Wings Ⅲ
-When hit, 10% chance for next attack to deal +15% Attack for 2s. (8s cooldown)
+On hit, 10% chance for next attack to deal +15% Attack for 2s. (8s cooldown)
 .
 0
 0

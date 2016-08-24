@@ -23,8 +23,8 @@ Icon/Buff/Icon_Common_Buff_Reg
 Enhance
 
 ID=99
-断ち切られた流れ
-キャラクターステータスの防御度が100%減少する。
+Severed Flow
+Defense -100%.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
 
@@ -2819,44 +2819,44 @@ Icon/Buff/Icon_Common_Debuff_Weakness
 Weakness
 
 ID=30202
-汚染
-身体の中から異質な力を感じる。
+Contamination
+I sense a different power is coming out from my body.
 Icon/Buff/Icon_Common_Debuff_Poison
-汚染
+Contamination
 
 ID=30204
 Vitality
-身体が活性化し、持続的にHPが回復する。
+Body stimulated, continuously recover HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-浄化
+Purification
 
 ID=30205
-腐食
-HPが持続的に減少する。
+Erosion
+Continuously lose HP.
 Icon/Buff/Icon_Common_Debuff_Bleed
-腐敗
+Corruption
 
 ID=30206
-汚染された血
-HPが持続的に減少する。
+Contaminated Blood
+Continuously lose HP.
 0
 -
 
 ID=30207
-腐敗
-HPが持続的に減少する。
+Corruption
+Continuously lose HP.
 0
 -
 
 ID=30208
-抵抗
-持続中は汚染地帯の毒を防いでくれる。
+Resistance
+Protection against the poisonous area
 Icon/Buff/Icon_Common_Buff_SArmor
 -
 
 ID=30212
 Steel Wall
-持続中はダメージをほぼ受けない。
+Nullifies almost all damage received.
 Icon/Buff/Icon_Common_Debuff_Def
 -
 
@@ -3630,13 +3630,13 @@ Defense↑
 
 ID=53213
 Material Conversion Ⅰ
-アイテム獲得時、20%の確率で5秒間、攻撃力が10%上昇する。(クールタイム30秒)
+When obtaining an item, 20% chance of +10% Attack for 5s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53221
 Material Conversion Ⅱ
-アイテム獲得時、30%の確率で5秒間、攻撃力が10%上昇する。(クールタイム30秒)
+When obtaining an item, 30% chance of +10% Attack for 5s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
@@ -3846,7 +3846,7 @@ Attack Power ↑
 
 ID=53391
 Lost & Found Ⅰ
-アイテム獲得時、10%の確率で2秒間、無敵状態になる。(クールタイム1分)
+When obtaining an item, 10% chance of being invincible for 2s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Invincible
 
@@ -5141,112 +5141,112 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy↑
 
 ID=53724
-風の加護Ⅰ
-装着時、ダメージ減少が1%増加する。
+Blessing of Wind Ⅰ
++1% Damage Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+Damage Reduction Increased
 
 ID=53725
-風の加護Ⅱ
-装着時、ダメージ減少が4%増加する。
+Blessing of Wind Ⅱ
++4% Damage Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+Damage Reduction Increased
 
 ID=53726
-風の加護Ⅲ
-装着時、ダメージ減少が7%増加する。
+Blessing of Wind Ⅲ
++7% Damage Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+Damage Reduction Increased
 
 ID=53727
-風の加護Ⅰ
-装着時、ダメージ減少が3%増加する。
+Blessing of Wind Ⅰ
++3% Damage Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+Damage Reduction Increased
 
 ID=53728
-風の加護Ⅱ
-装着時、ダメージ減少が6%増加する。
+Blessing of Wind Ⅱ
++6% Damage Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+Damage Reduction Increased
 
 ID=53729
-風の加護Ⅲ
-装着時、ダメージ減少が9%増加する。
+Blessing of Wind Ⅲ
++9% Damage Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+Damage Reduction Increased
 
 ID=53730
-無限動力Ⅰ
-装着時、ソウルの消費量が1%減少する。
+Infinite Power Ⅰ
+-1% SG Cost
 Icon/Buff/Icon_Common_Buff_Akashic
-ソウル消費量減少
+SG Cost Reduced
 
 ID=53731
-無限動力Ⅱ
-装着時、ソウルの消費量が3%減少する。
+Infinite Power Ⅱ
+-3% SG Cost
 Icon/Buff/Icon_Common_Buff_Akashic
-ソウル消費量減少
+SG Cost Reduced
 
 ID=53732
-無限動力Ⅲ
-装着時、ソウルの消費量が5%減少する。
+Infinite Power Ⅲ
+-5% SG Cost
 Icon/Buff/Icon_Common_Buff_Akashic
-ソウル消費量減少
+SG Cost Reduced
 
 ID=53733
-無限動力Ⅰ
-装着時、ソウルの消費量が2%減少する。
+Infinite Power Ⅰ
+-2% SG Cost
 Icon/Buff/Icon_Common_Buff_Akashic
-ソウル消費量減少
+SG Cost Reduced
 
 ID=53734
-無限動力Ⅱ
-装着時、ソウルの消費量が4%減少する。
+Infinite Power Ⅱ
+-4% SG Cost
 Icon/Buff/Icon_Common_Buff_Akashic
-ソウル消費量減少
+SG Cost Reduced
 
 ID=53735
-無限動力Ⅲ
-装着時、ソウルの消費量が6%減少する。
+Infinite Power Ⅲ
+-6% SG Cost
 Icon/Buff/Icon_Common_Buff_Akashic
-ソウル消費量減少
+SG Cost Reduced
 
 ID=53736
-刃の天使Ⅰ
-装着時、クリティカルダメージ量が200上昇する。
+Blade's Angel Ⅰ
++200 Critical Damage
 Icon/Buff/Icon_Common_Buff_Akashic
-クリティカルダメージ量増加
+Critical Damage Increased
 
 ID=53737
-刃の天使Ⅱ
-装着時、クリティカルダメージ量が700上昇する。
+Blade's Angel Ⅱ
++700 Critical Damage
 Icon/Buff/Icon_Common_Buff_Akashic
-クリティカルダメージ量増加
+Critical Damage Increased
 
 ID=53738
-刃の天使Ⅲ
-装着時、クリティカルダメージ量が1200上昇する。
+Blade's Angel Ⅲ
++1200 Critical Damage
 Icon/Buff/Icon_Common_Buff_Akashic
-クリティカルダメージ量増加
+Critical Damage Increased
 
 ID=53739
-刃の天使Ⅰ
-装着時、クリティカルダメージ量が500上昇する。
+Blade's Angel Ⅰ
++500 Critical Damage
 Icon/Buff/Icon_Common_Buff_Akashic
-クリティカルダメージ量増加
+Critical Damage Increased
 
 ID=53740
-刃の天使Ⅱ
-装着時、クリティカルダメージ量が1000上昇する。
+Blade's Angel Ⅱ
++1000 Critical Damage
 Icon/Buff/Icon_Common_Buff_Akashic
-クリティカルダメージ量増加
+Critical Damage Increased
 
 ID=53741
-刃の天使Ⅲ
-装着時、クリティカルダメージ量が1500上昇する。
+Blade's Angel Ⅲ
++1500 Critical Damage
 Icon/Buff/Icon_Common_Buff_Akashic
-クリティカルダメージ量増加
+Critical Damage Increased
 
 ID=55002
 Surprise Box Ⅲ
@@ -5286,37 +5286,37 @@ Attack Speed ↑
 
 ID=55088
 Oil Shock! Ⅰ
-地面からオイルが噴き上がり、2秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
+Over the spout oil from the ground, -30% Movement Speed to enemies for 2s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
 Move Speed ↓
 
 ID=55089
 Oil Shock! Ⅱ
-地面からオイルが噴き上がり、4秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
+Over the spout oil from the ground, -30% Movement Speed to enemies for 4s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
 Move Speed ↓
 
 ID=55090
 Oil Shock! Ⅲ
-地面からオイルが噴き上がり、4秒間\n敵の移動速度が50%減少する。(クールタイム90秒)
+Over the spout oil from the ground, -50% Movement Speed to enemies for 4s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
 Move Speed ↓
 
 ID=55091
 Oil Shock! Ⅰ
-地面からオイルが噴き上がり、3秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
+Over the spout oil from the ground, -30% Movement Speed to enemies for 3s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
 Move Speed ↓
 
 ID=55092
 Oil Shock! Ⅱ
-地面からオイルが噴き上がり、5秒間\n敵の移動速度が30%減少する。(クールタイム90秒)
+Over the spout oil from the ground, -30% Movement Speed to enemies for 5s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
 Move Speed ↓
 
 ID=55093
 Oil Shock! Ⅲ
-地面からオイルが噴き上がり、7秒間\n敵の移動速度が70%減少する。(クールタイム90秒)
+Over the spout oil from the ground, -70% Movement Speed to enemies for 7s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
 Move Speed ↓
 
