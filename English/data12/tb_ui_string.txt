@@ -488,7 +488,7 @@ ID=345
 Sell the selected item(s) for {0}?
 
 ID=346
-売却するアイテムに<font color='#A566FF'>価値の高い</font>アイテムがあります。\n売却すると{0}を獲得できます。\n売却しますか？
+Your selection contains a <font color='#A566FF'>High Valued</font> item, selling it will give you {0}. Are you sure you want to sell?
 
 ID=351
 Junk
@@ -827,7 +827,7 @@ ID=490
 Party Ranking
 
 ID=491
-確定獲得
+Confirm Earnings
 
 ID=492
 <Aquired>
@@ -836,7 +836,7 @@ ID=493
 <Mail payment complete>
 
 ID=494
-カードキー使用
+Use Key Card
 
 ID=495
 Current Dungeon Earnings
@@ -848,7 +848,7 @@ ID=497
 Auto-closing in {0} seconds.
 
 ID=498
-ランダム獲得
+Random Earnings
 
 ID=501
 Display Info
@@ -1223,7 +1223,7 @@ ID=680
 Currenly in combat. Please try again in {0} seconds.
 
 ID=683
-ランク経験値獲得：{0}EXP
+Acquired Rank Experience: {0} EXP
 
 ID=700
 Talk
@@ -1313,7 +1313,7 @@ ID=728
 Lv{0}
 
 ID=729
-リサイクル
+Recycle
 
 ID=731
 #{0}
@@ -2057,7 +2057,7 @@ ID=1032
 Natural Part
 
 ID=1033
-スポーティショート
+Sporty Short
 
 ID=1034
 Hair 4
@@ -2210,10 +2210,10 @@ ID=1304
 All instances of<font color='#FF0000'>[Casual Raid][Co-Op Dungeon]</font>have been open.
 
 ID=1311
-イクイルブリアムが出現しました。
+Equilibrium has appeared.
 
 ID=1312
-イクイルブリアムが消滅します。
+Equilibrium has disappeared
 
 ID=1314
 BP
@@ -3815,100 +3815,100 @@ ID=6063
 Unreleasable
 
 ID=6901
-パーティー加入状態のため、入場できません。
+You cannot join a party in this state.
 
 ID=6902
-入場レベルに達していません。(必要Ｌｖ：{0})
+Insufficient level to enter. (Required Lv: {0})
 
 ID=6903
-フリーマッチ
+Free Match
 
 ID=6904
-後で適用
+Apply Later
 
 ID=6905
-フリーマッチ
+Free Match
 
 ID=6906
-プレイヤー検索中
+Player Search
 
 ID=6907
-マッチング完了入場待機中…{0}秒
+Entering match in... {0} seconds
 
 ID=6908
-不明
+Unknown
 
 ID=6909
-頻繁にマッチングを中止すると、利用を制限されることがあります。
+Frequently cancelling will apply a restriction.
 
 ID=6910
-進行中のマッチングを中止しますか？\n(頻繁にマッチング中止時、利用を制限されることがあります)
+Do you want to cancel the match?\n(Frequently cancelling will apply a restriction)
 
 ID=6911
-頻繁なマッチング中止により入場が制限されます。\n(残り：{0}分{1}秒)
+Limited entrance because of frequent cancellation.\n(Remaining: {0} minutes {1} seconds)
 
 ID=6912
-マッチングが完了したため、マッチングを中止できません。
+Cannot cancel the match because a match was found.
 
 ID=6913
-ゲーム進行中の離脱が確認されました。\n該当試合は敗北処理され、\n一定時間、フリーマッチの入場が制限されます。
+Ongoing match withdrawal confirmed.\nThe match will count as a loss and entrance restrictions will be applied.
 
 ID=6914
-試合中にゲーム終了時、試合は敗北となり\n一定時間ゲームの利用が制限されます。\n本当にゲームを終了しますか？
+Quitting the game will count as a loss and you'll not be able to re-enter for a period of time.\nAre you sure you want to quit the game?
 
 ID=6915
-{0}がゲームを離脱しました。
+{0} has left the game.
 
 ID=6916
-試合開始準備中です。\n{0}秒後に試合が始まります。
+Preparing game start.\nThe game will start in {0} seconds.
 
 ID=6917
-{0}ラウンドの準備中\n試合開始{1}秒前
+Preparing round {0}\nThe game begins after {1} seconds.
 
 ID=6918
-Round{0}
+Round {0}
 
 ID=6919
-{0}チームの勝利\n({1}秒後、次のラウンドが始まります)
+Team {0} wins!\n(Next round starts in {1} seconds)
 
 ID=6920
-{0}チームの勝利\n({1}秒後、試合結果を集計します)
+Team {0} wins!\n(Results will show in {1} seconds)
 
 ID=6921
-チームメンバー情報
+Team Member Information
 
 ID=6922
-ゲーム結果
+Game Result
 
 ID=6923
-ラウンド記録：{0}勝{1}敗
+Round Record: {0} wins {1} loses
 
 ID=6924
-進行時間：{0}分{1}秒
+Travel Time: {0} minutes {1} seconds
 
 ID=6925
-再試合申請
+Rematch
 
 ID=6926
-同じ条件でもう一度試合を進行します。\n(全員が申請すると試合が進行されます)
+Match will start once everyone accepts.\n(To proceed in the match, all members need to accept)
 
 ID=6927
-これ以上、再試合申請はできません。
+You cannot apply for a rematch anymore.
 
 ID=6928
-現在{0}連勝中
+Currently at {0} win streak
 
 ID=6929
-{0}秒後、自動で町に復帰します。
+Returning to town in {0} seconds.
 
 ID=6930
 Leave
 
 ID=6931
-{0}が再試合を申請しました。\n同意の場合、再試合申請を押してください。
+{0} applied for a rematch.\nTo approve, please apply for a rematch.
 
 ID=6932
-全員が再試合を申請しました。\n{0}秒後、再試合を始めます。
+Everyone accepted the rematch.\nRematch starts in {0} seconds.
 
 ID=7000
 Presets
@@ -4214,13 +4214,13 @@ ID=9206
 District Raid
 
 ID=9207
-ザ・プライマル
+The Primal
 
 ID=9208
-チームマッチ(PvP) Beta
+Team Match (PvP) Beta
 
 ID=9209
-バトルコート
+Battle Court
 
 ID=9211
 Rocco Town
@@ -4391,7 +4391,7 @@ ID=9995
 House of Endings
 
 ID=9996
-最高難易度のレイド[ザ・プライマル]は最大8人で臨むフォース専用メイズです。\n世界の崩壊を止めるために、仲間と共にザ・プライマルを討伐してください。
+The most difficult raid, The Primal, is a dedicated dungeon for maximum 8 players.\nTo stop the world from collapsing, please defeat The Primal along with your comrades.
 
 ID=10011
 -
@@ -5033,7 +5033,7 @@ ID=14224
 Stage 25
 
 ID=15000
-The place where a member of Starry Forest League tests their battle ability. \nThe robot remodeled for tests waits for a member of the Starry Forest League.
+The place where a member of Starry Forest League tests their battle ability.\nThe robot remodeled for tests waits for a member of the Starry Forest League.
 
 ID=15001
 To help the children, Miriam runs to the bowling site where construction was stopped. But it's isolated due to the attacks of the soul junk which showed suddenly...
@@ -5744,7 +5744,7 @@ ID=18077
 <font color='#FFFFFF'>(Unsealer</font><font color='#F15F5F'> Unusable</font><font color='#FFFFFF'>)</font>
 
 ID=18078
-一度に売却できる個数は10個までです。
+You can only sell up to 10 pieces at a time.
 
 ID=18079
 Socketing an item is only possible if a socket-type item exists within the inventory.
@@ -6074,7 +6074,7 @@ ID=20090
 Idol
 
 ID=20091
-何だかアイドルになった気分。
+I felt like becoming some kind of idol.
 
 ID=20092
 {0} proudly poses.
@@ -6104,19 +6104,19 @@ ID=20124
 Sunbed
 
 ID=20125
-サンベッドでくつろぎます。
+Relaxing on a sunbed.
 
 ID=20126
-{0}がサンベッドでくつろぎます。
+{0} is relaxing on a sunbed.
 
 ID=20127
 School Swimsuit
 
 ID=20128
-いかがですか？
+How is it?
 
 ID=20129
-{0}を見てください。
+Please look at {0}.
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -6746,7 +6746,7 @@ ID=22237
 Party Battle Info
 
 ID=22238
-階級表示
+Display Rank
 
 ID=22300
 Graphics 
@@ -9011,10 +9011,10 @@ ID=26125
 Combat Movement Speed
 
 ID=26126
-バキュームイレギュラー勢力追加ダメージ[%]
+Void Irregular Forces Additional Damage
 
 ID=26127
-バキュームイレギュラー勢力ダメージ減少[%]
+Void Irregular Forces Damage Reduction
 
 ID=26128
 Primal Forces Additional Damage
@@ -9083,10 +9083,10 @@ ID=26314
 When hit by boss monsters, +{0} Maximum Stamina for 3s
 
 ID=26315
-When hitting, 3% chance of +{0}% Attack for 3s
+On hit, 3% chance of +{0}% Attack for 3s
 
 ID=26316
-When hitting, 1% chance of +{0}% Attack for 5s
+On hit, 1% chance of +{0}% Attack for 5s
 
 ID=26317
 During a critical attack, 3% chance of +{0}% Defense Penetration for 3s
@@ -9104,7 +9104,7 @@ ID=26321
 When critically hit, 50% chance of +{0} HP
 
 ID=26322
-When hit, 5% chance of +{0}% SA Break for 5s.
+On hit, 5% chance of +{0}% SA Break for 5s
 
 ID=26323
 +{0}% Movement speed while in town.
@@ -9119,7 +9119,7 @@ ID=26326
 When an attack is evaded, 5% to recover {0} HP
 
 ID=26327
-When hitting, 2% chance of +{0} Stamina
+On hit, 2% chance of +{0} Stamina
 
 ID=26328
 +{0}% Movement Speed in combat zone
@@ -9176,7 +9176,7 @@ ID=26345
 On critical hit, 5% chance of +{0]% Attack for 5s
 
 ID=26346
-When hit, 5% chance of +{0} Critical Damage for 3s
+On hit, 5% chance of +{0} Critical Damage for 3s
 
 ID=26347
 When critically hit, 50% chance of +{0}% Attack for 1s
@@ -9230,7 +9230,7 @@ ID=26500
 On enemy death, +{0}% Defense Penetration for 30s
 
 ID=27000
-When hitting,  5% chance of +{0}% Attack for 3s
+On hit,  5% chance of +{0}% Attack for 3s
 
 ID=27001
 When hit, 20% chance of +{0}% Defense for 5s
@@ -9248,7 +9248,7 @@ ID=27701
 On enemy death, additional +{0}% Soul Vapor
 
 ID=27702
-When hitting, +{0}% Skill Damage
+On hit, +{0}% Skill Damage
 
 ID=28000
 Create Guild
@@ -9464,7 +9464,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 21/Aug/2016 12:50 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 25/Aug/2016 8:30 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -10244,7 +10244,7 @@ ID=29065
 Interior Decor
 
 ID=29066
-マイルーム掲示板
+Room Board
 
 ID=29067
 Bulletin Board
@@ -10253,43 +10253,43 @@ ID=29068
 Ranking
 
 ID=29069
-前ランキング
+Previous Rank
 
 ID=29070
-お気に入り
+Favorite
 
 ID=29071
 Enter
 
 ID=29072
-代表配置家具
+Representative Furniture
 
 ID=29073
-栽培中の植木鉢
+Cultivation's Flowerpot
 
 ID=29074
-マイルーム名
+Room Name
 
 ID=29075
 Content
 
 ID=29076
-推薦数
+Recommendation Number
 
 ID=29077
-お気に入り状態
+Favorite Condition
 
 ID=29078
 Comment
 
 ID=29079
-コメント確認
+Comment Confirmation
 
 ID=29080
-マイルーム掲示板作成
+Room Notice Created
 
 ID=29081
-代表配置家具の選択(最大12個)
+Select representative furniture (up to 12)
 
 ID=29082
 Create
@@ -10310,37 +10310,37 @@ ID=29087
 Claim
 
 ID=29088
-毎月1日の朝9時にランキング及び推薦情報が初期化されます。(毎朝9時にランキング情報更新)
+Ranking and recommendation information is reset in at 9 AM JST on the first day of every month. (Ranking information is updated every day at 9 AM JST)
 
 ID=29089
-毎朝9時に情報が更新されます。
+Information is updated every day at 9 AM JST.
 
 ID=29090
 Ranking Reward List
 
 ID=29091
-基本参加
+Basic Participation
 
 ID=29092
-推薦数が1以上の場合、基本報酬がメールで支給されます。
+You'll receive a basic reward in your mail if you have more than 1 recommendations.
 
 ID=29093
-掲示板作成の待機時間残り{0}分。
+The board alert will be up for more {0} minutes.
 
 ID=29094
-マイルームがないと作成できません。
+You cannot create while not being in your room.
 
 ID=29095
-報酬を受け取れません。
+You cannot receive the reward.
 
 ID=29096
-1文字以上入力してください。
+Please enter at least one character.
 
 ID=29097
-お気に入りを削除しますか？
+Are you sure that you want to delete your favorite?
 
 ID=29098
-ランキング報酬を支給しました。\nアカウントメールを確認してください。
+Received rank rewards.\nPlease check your account mail.
 
 ID=30000
 Profile
@@ -11231,22 +11231,22 @@ ID=32109
 Secondary Password
 
 ID=33000
-こんにちは。\n私、この入り混じりし世にて至極のショーを求め彷徨う「道化師エドガー」と申します。\n突然のお手紙に、さぞ驚かれたことでしょう。\nですが、あなたの力に感嘆を禁じえなかったこの思いをお伝えしたかったのです。\nあなたのその力は、短い我が人生の中でもっとも美しく印象的でした。\n華やかでありながら地味で、美しくも汚らわしい、\nそして…平穏でありながら破壊的な…。\nこの破裂しそうな私の気持ちをどう表現すべきか、悩んだ末に結論を出しました。\nあなたに…ささやかなプレゼントを贈ります。\nその力に対し敬意を表す
+Hello,\n\nI have wandered the world,\nseeking for a glorious show.\nMy name is “Clown Edgar”.\nI admit you must be surprised.\nI lust for your power.\nIt is flamboyant, yet modest.\nTranquil, yet destructive and refined.\nFor you, I sent a present.\nAccept it, it is a token of respect.\nCome to the "Shopping District”\n, you'll like it.\n\n- Clown Edgar.
 
 ID=33001
-少しずつ、あなたとの距離が縮まるのを感じます。\n遅かれ早かれ出会うことになりますが、\n待つ時間が長いほど、出会いの瞬間というのはすばらしく輝くものです。\nドラマチックな状況を演出するために、ちょっとしたゲームを準備いたしました。\n私がいる部屋の前へは、今のあなたの力では辿り着くことはできません。\nしかし、私の部下が持っているバッジを身につけたなら、 \n明け方の森の中を歩くかのごとく通過できるよう演出しました。\nお急ぎください。\nあなたを待ち焦がれるこの気持ちが、憎悪に変わるその前に…。\n-道化師エドガーよ
+Little by little,\nthe distance between us is shrinking.\nWe will cross paths sooner or later.\n The longer the wait, the greater the thrill.\nWe made it dramatic with a little game.\nYou cannot enter now,\nbut if you had a badge.\nCross the woods at dawn.\nHurry up.\nWaiting to see you burn.
 
 ID=33002
--レポート：アマリリス-\n\n1．SJ-DS-01にソウルエナジー耐性機能を追加。状態はとても不安定。\n\n2．SJ-DS-01は、ソウルエナジーの宿主である人間に寄生できることが判明。\n寄生対象となった人間は、ソウルエナジーを持続的に奪われ、皮膚が石膏のように固まってSJ-DS-01の食料となる。\n\n3．SJ-DS-01をディグニティースナッチャーと名付ける。ディグニティースナッチャーの内部に蓄えられているソウルエナジーの総量が存在することが明らかになる。しかし、平凡な人間は該当総量を全て満たす程のソウルエ
+Amaryllis Report\n\nSoul Energy Resistance added to SJ-DS-01. Unstable.\n\n2. SJ-DS-01 is parasitic to soul energy hosts. Contact to humans, fatal. The skin hardens and becomes food.\n\n3. SJ-DS-01 is known as Dignity Snatcher. It sucks up soul energy.\nOrdinary humans possess very little.
 
 ID=33003
 Report on Tempest.\n 1. Precise machinery. Reproduction unfeasible. 2. High-density firing gun.\n\n 3. Special wire and nail with heavyduty grip as a weapon.\n Weaker than main one.\n\n4. Soul Energy storage and transfer possible by a special wire.
 
 ID=33004
--ある雲った日。\nあの子の暴走は予想していた。むしろ、それを「災い」呼ぶ者たちを理解できなかった。我々は罪を犯し、それを償う時がやって来た…ただそれだけだ。他の子らの代わりに、裁きを下しに来たのだ。それがもし復讐という名を持っていたとしても、私は甘んじて受け入れる。\n\n-ある雪の日。\nあの子は愚かな人間たちによって再び眠りについた。彼らは、あの子が眠れば全て終わるという甘い考えに染まっていた。ネッドカンパニーが我々を助けてくれるなどという愚かな考えに腹が立った。彼らはきっと、真実を知る者全てを葬り去るだろ
+That day was cloudy.\nThe runaway child knew. Rather, I did not understand how the “calamity” came. We had committed crimes; we could of atoned for it. Yet, we did not. Unlike other children, I came to pass judgement...\n\nThe cloudy day.\nThe child was brought to death by humans. They had naive ideas that everything was over. Silly as I did, I thought NED company would help. They, will definitely bury the truth. As if nothing happened.\n\nWe were buried in hell. A fateful ending for us.
 
 ID=33005
-Model Name：NS_EX_008\nName：Cleany\n\n1. その名の通り掃除専用ロボット。私物に込められたソウルエナジーを判別し、分別収集及び紛失物捜索に適する。\n\n2. 現在は動力喪失状態のため、強制スリープモードに入っている。エナジーを3回に分けて順番に注入すれば、自らスリープモードを解除し動き出す。\n(動作までに約24時間所要)\n\n3. コアが破壊されたり消失した場合、コアを取り替えた後に使用可能な増幅装置をコアのあった位置へ設置すると、コアが復活する。\n(注意：動力源が1%でも残って
+Model Name: NS_EX_008\nName: Cleany\n\n1. Befitting to its name, it's a robot that detects Soul Energy within a object, recycle, and search for energy.\n\n2.It is currently in force shut down mode due to loss of energy. When energy is inserted in three times consecutively, it breaks out of shut down mode and starts up.\n(Requires 24 hours until it moves)\n\n3.If the Core is damaged or lost, an amplifying device can be replaced in to resurrect the Core.\n(Warning: Needs at least 1% power source left)
 
 ID=33500
 Dead Desparate Soldier's Belongings
@@ -11411,10 +11411,10 @@ ID=33553
 Calamity's Prelude
 
 ID=33554
-捕食者の叫び
+Predator's Cry
 
 ID=33555
-捕食者の痕跡
+Predator's Traces
 
 ID=34000
 Flowerpot 1
@@ -11534,7 +11534,7 @@ ID=34038
 Do you want to start cultivating?
 
 ID=34039
-{0}人のヘルプ\n栽培時間{1}%減少
+{0} helped people\nCultivation time -{1}%
 
 ID=35000
 All
@@ -11627,16 +11627,16 @@ ID=35115
 You cannot chat for 60 seconds because of violation of chat rules.\n(Time remaining: {0} seconds)
 
 ID=35116
-{0}に{1}ダメージ与えました。
+{1} damaged {0}.
 
 ID=35117
 {0} was damaged by {1}.
 
 ID=35200
-{0}に勝利して、BPを{1}獲得しました。
+{0} has won, earned {1} BP.
 
 ID=35201
-{0}に敗北して、BPが{1}減少しました。
+{0} has lost, earned {1} BP.
 
 ID=35202
 BP {0} acquired.
@@ -11708,28 +11708,28 @@ ID=37008
 Void cube disappeared, unable to gain any items.
 
 ID=37009
-ザ・プライマルを取り巻く力が弱まったので、接近できます。\n残り：{0}分
+The power surrounding the The Primal is weakened, you can get closer now.\nRemaining: {0} minutes
 
 ID=37010
-月曜日
+Monday
 
 ID=37011
-火曜日
+Tuesday
 
 ID=37012
-水曜日
+Wednesday
 
 ID=37013
-木曜日
+Thursday
 
 ID=37014
-金曜日
+Friday
 
 ID=37015
-土曜日
+Saturday
 
 ID=37016
-日曜日
+Sunday
 
 ID=37017
 {0}
@@ -11738,10 +11738,10 @@ ID=37018
 {0}
 
 ID=37019
-入場できません。
+Cannot enter.
 
 ID=37020
-入場時間
+Entrance Time
 
 ID=38000
 {0}s
@@ -12932,25 +12932,25 @@ ID=40617
 Upon destroying all 3 Venom Flowers, Pandemonia will be stunned.
 
 ID=40618
-安全地域を出るとすぐに戦闘が始まります。
+The battle will begin after you leave the safety area.
 
 ID=40619
-プライマルに捕まると汚染状態になります。\n汚染状態でもう一度捕まると即死します。
+The Primal is in contamination state.\nGetting in the contaminated area will instantly kill you.
 
 ID=40620
-プライマルが深く息を吸います。
+The Primal is inhaling a deep breath.
 
 ID=40621
-特異型空白を利用すると、プライマルの内部に最大4人まで進入できます。\n特異型空白は30秒後に消えます。
+If you use a special type of void, you are able to enter with a maximum of 4 people inside The Primal.\nSpecial type of voids disappear in 30 seconds.
 
 ID=40622
-プライマルの核は不安定なガスを発生させ、周期的にダメージを与えます。
+The core of The Primal will produce an unstable gas that deals damages periodically.
 
 ID=40623
-召喚された核の守護者を全て討伐すると、\n一定時間、不安定なガスに対する免疫効果が\nプライマル内部に発生します。
+Defeating all summoned core's guardians will grant temporary immunity to The Primal's interior unstable gas.
 
 ID=40624
-間もなく強力な核の守護者が召喚されます。\n核を討伐するまで守護者は消えません。
+The powerful core's guardian will be summoned soon.\nThe guardian won't disappear until the core is defeated.
 
 ID=40625
 連合の浄化装置を使用すると、汚染状態が活力状態に変更され、HPを持続的に回復してくれます。\nただし、汚染状態でない場合は変更されません。
@@ -12959,7 +12959,7 @@ ID=40626
 深手を負ったプライマルが咆哮し、最後の足掻きを始めます。\n持続的にダメージを与える汚染された血が足元に広がっています。
 
 ID=40627
-プライマルが正面にいる対象を捕まえようとしています。
+The Primal is going to grab the targets that are in from of it.
 
 ID=42000
 Jack the King
@@ -15896,7 +15896,7 @@ ID=51007
 The selected character is already logged in.
 
 ID=51008
-選択したチャンネルは制限人数超過状態のため、入場できません。
+Cannot enter because the selected channel is full.
 
 ID=51009
 The character could not be created.
@@ -16544,7 +16544,7 @@ ID=53010
 The party is full.
 
 ID=53011
-メンバーが見つかりません。
+Cannot find member.
 
 ID=53012
 An error has occurred in the party.
@@ -16592,7 +16592,7 @@ ID=53031
 You cannot make a request because the target is in the wasteland.
 
 ID=53032
-メイズにいるメンバーは追放できません。
+Cannot expel members in dungeon.
 
 ID=53101
 FPが不足しているため、該当エピソードではフォース探索機能を使用できません。
@@ -17945,7 +17945,7 @@ ID=60281
 現在人数
 
 ID=60282
-{0}人/{1}人
+{0}/{1} people
 
 ID=60283
 {0} currently cannot accept requests due to already pending requests.
@@ -17981,13 +17981,13 @@ ID=60293
 マッチングやり直し中{0}/{1}
 
 ID=60500
-4～8人フォース
+Force 4~8 People
 
 ID=60501
-1～4人
+1~4 People
 
 ID=60502
-4人パーティー
+4-man Party
 
 ID=27800
 On hit, 2% chance of +{0} SV
@@ -18308,58 +18308,58 @@ ID=42406
 Million Horsepower Heavy Earthquaker μ
 
 ID=42407
-ノア
+Noah
 
 ID=42408
-風の使いノア
+Winds' Messenger Noah
 
 ID=42409
-暴風の守護者ノア
+Storms' Guardian Noah
 
 ID=42410
-ノアμ
+Noah μ
 
 ID=42411
-風の使いノアμ
+Winds' Messenger Noah μ
 
 ID=42412
-暴風の守護者ノアμ
+Storms' Guardian Noah μ
 
 ID=42413
-エノック
+Enoch
 
 ID=42414
-円盤の妖精エノック
+Disks' Fary Enoch
 
 ID=42415
-円盤の女王エノック
+Disks' Queen Enoch
 
 ID=42416
-エノックμ
+Enoch μ
 
 ID=42417
-円盤の妖精エノックμ
+Disks' Fary Enoch μ
 
 ID=42418
-円盤の女王エノックμ
+Disks' Queen Enoch μ
 
 ID=42419
-シオン
+Shion
 
 ID=42420
-ビットの主人シオン
+Bits' Master Shion
 
 ID=42421
-刃の女王シオン
+Blades' Queen Shion
 
 ID=42422
-シオンμ
+Shion μ
 
 ID=42423
-ビットの主人シオンμ
+Bits' Master Shion μ
 
 ID=42424
-刃の女王シオンμ
+Blades' Queen Shion μ
 
 ID=43323
 [S] Megiddo Maker MK Ⅱ
@@ -18398,22 +18398,22 @@ ID=43334
 [SH] Heavy Earthquaker
 
 ID=43335
-[S]ノア
+[S] Noah
 
 ID=43336
-[SH]ノア
+[SH] Noah
 
 ID=43337
-[S]エノック
+[S] Enoch
 
 ID=43338
-[SH]エノック
+[SH] Enoch
 
 ID=43339
-[S]シオン
+[S] Shion
 
 ID=43340
-[SH]シオン
+[SH] Shion
 
 ID=58309
 Exceeded the maximum number of listed items. Cannot list more than 100 items.
@@ -18422,7 +18422,7 @@ ID=18194
 オプション改造
 
 ID=18195
-オプション固定回数
+Option Fixed Count
 
 ID=18196
 改造
@@ -18431,7 +18431,7 @@ ID=18197
 確認をクリック時、{0}のオプションが変更されます。\nオプションを変更しますか？
 
 ID=18198
-オプションなし
+No Options
 
 ID=730
 オプション改造機能
