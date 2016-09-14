@@ -1222,6 +1222,12 @@ ID=679
 ID=680
 Currenly in combat. Please try again in {0} seconds.
 
+ID=681
+(ネカフェ{0}EXP)
+
+ID=682
+(ネカフェ{0}ジェニー)
+
 ID=683
 Acquired Rank Experience: {0} EXP
 
@@ -1315,6 +1321,9 @@ Lv{0}
 ID=729
 Recycle
 
+ID=730
+Option Tuning Function
+
 ID=731
 #{0}
 
@@ -1325,7 +1334,7 @@ ID=733
 "Golden Citadel" is a 4-man only top tier party raid. Break through the golden disaster in order to survive.
 
 ID=734
-極限の戦闘トレーニングシミュレーション「スチールグレイブ」で自らの限界に挑戦してください。1日に3回挑戦できます。
+The ultimate combat simulation “Steel Grave” can only be challenged 3 times per day. 
 
 ID=735
 Normal
@@ -1509,6 +1518,12 @@ Random Attribute: {0}
 
 ID=797
 Activate Sniper Mode
+
+ID=798
+(ネカフェ入場回?：?り{0})
+
+ID=799
+(Net Cafe Entrance Benefits: {0})
 
 ID=800
 Equipment Comparison
@@ -3182,7 +3197,7 @@ ID=5314
 A deleted character cannot be recovered.\nThe guild leader's position will be revoked.\nAre you sure you want to delete this character?
 
 ID=5315
-Characters can only be deleted 24 hours after creation.\nRemaining: {0} hours {1} minutes
+キャラクターは、作成後24時間経過すると削除できます。\n残り：{0}時{1}分
 
 ID=5320
 Maintenance in progress
@@ -3851,7 +3866,7 @@ ID=6912
 Cannot cancel the match because a match was found.
 
 ID=6913
-Ongoing match withdrawal confirmed.\nThe match will count as a loss and entrance restrictions will be applied.
+ゲーム進行中の離脱が確認されました。\n該当試合は敗北処理され、\n一定時間、フリーマッチの入場が制限されます。\n(残り：{0}分{1}秒)
 
 ID=6914
 Quitting the game will count as a loss and you'll not be able to re-enter for a period of time.\nAre you sure you want to quit the game?
@@ -4217,7 +4232,7 @@ ID=9207
 The Primal
 
 ID=9208
-Team Match (PvP) Beta
+Free Match
 
 ID=9209
 Battle Court
@@ -4292,7 +4307,7 @@ ID=9603
 Tower of Greed
 
 ID=9604
-Iron Castle
+[未定]アイアンアーミー
 
 ID=9611
 Concrete Jungle
@@ -4301,10 +4316,10 @@ ID=9612
 The Big Mouth
 
 ID=9613
-Dark Stalkers
+[未定]ダークストーカーズ
 
 ID=9614
-Predators
+[未定]プレデターズ
 
 ID=9621
 Deep Core
@@ -4316,22 +4331,22 @@ ID=9623
 Forgotten Armory
 
 ID=9624
-Dragonslayer
+[未定]ドラゴンスレイヤー
 
 ID=9631
-Skyline
+[未定]スカイラン
 
 ID=9632
 Flame Breaker
 
 ID=9633
-Queen Nest
+[未定]クイーンネスト
 
 ID=9634
-Firefight
+[未定]ファイアファイト
 
 ID=9635
-Crimson Sea
+[未定]クリムゾンシー
 
 ID=9771
 Last Carnival
@@ -5579,7 +5594,7 @@ ID=18016
 You can synthesize the brooch.
 
 ID=18017
-You need 5 brooch for synthesis.
+合成には同じテーマのブローチが5個必要です。
 
 ID=18018
 You cannot register anymore items.
@@ -5830,6 +5845,30 @@ Enhancing Options
 ID=18193
 When enhancing you cannot select the extra option.
 
+ID=18194
+Option Tuning
+
+ID=18195
+Option Fixed Count
+
+ID=18196
+Tuning
+
+ID=18197
+確認をクリック時、{0}のオプションが変更されます。\nオプションを変更しますか？
+
+ID=18198
+No Options
+
+ID=18199
+現在の累積プレイ時間は{0}時間です。
+
+ID=18200
+現在、疲労プレイ状態です。\nゲーム収益は正常値の50％に減少します。\nご自身の健康のために、ゲームを終了し\n適度な休憩をお取りください。
+
+ID=18201
+現在、不健康プレイ状態です。\nご自身の健康のために、ゲームを終了し\n適度な休憩をお取りください。\nゲームを終了されない場合、体に悪影響を及ぼします。\nゲーム収益は0に減少されており、\n累積オフライン状態で5時間経過後、\n再入場時、正常にゲームをプレイできます。
+
 ID=19000
 <font color='#47C83E'>Attack +1%/Evaded Attack Damage +1%</font>
 
@@ -5906,79 +5945,79 @@ ID=19024
 <font color='#8041D9'>ACC +50/CRIT DMG +1000/CRIT CH +2%</font>
 
 ID=19025
-<font color='#47C83E'>Attack 5%/Defense -3%</font>
+<font color='#47C83E'>攻撃力1%</font>
 
 ID=19026
-<font color='#4374D9'>Attack 7%/Defense -5%</font>
+<font color='#4374D9'>攻撃力3%</font>
 
 ID=19027
-<font color='#E0B94F'>Attack 9%/ Defense -7%</font>
+<font color='#E0B94F'>攻撃力5%</font>
 
 ID=19028
-<font color='#F15F5F'>Attack 13%/Defense -9%/Critical 1%</font>
+<font color='#F15F5F'>攻撃力8%</font>
 
 ID=19029
-<font color='#8041D9'>Attack 18%/Defense -12%/Critical 2%</font>
+<font color='#8041D9'>攻撃力11%</font>
 
 ID=19030
-<font color='#47C83E'>Penetration 2%/Evasion -5%</font>
+<font color='#47C83E'>クリティカル率1%</font>
 
 ID=19031
-<font color='#4374D9'>Penetration 4%/Evasion -6%</font>
+<font color='#4374D9'>クリティカル率2%</font>
 
 ID=19032
-<font color='#E0B94F'>Penetration 5%/Evasion -7%</font>
+<font color='#E0B94F'>クリティカル率3%</font>
 
 ID=19033
-<font color='#F15F5F'>Penetration 7%/Evasion -8%/Cooldown Reduction 3%</font>
+<font color='#F15F5F'>クリティカル率4%</font>
 
 ID=19034
-<font color='#8041D9'>Penetration 10%/Evasion -9%/Cooldown Reduction 5%</font>
+<font color='#8041D9'>クリティカル率5%</font>
 
 ID=19035
-<font color='#47C83E'>Critical Damage 800/HP -8%</font>
+<font color='#47C83E'>スーパーアーマー破壊力2%</font>
 
 ID=19036
-<font color='#4374D9'>Critical Damage 900/HP -9%</font>
+<font color='#4374D9'>スーパーアーマー破壊力5%</font>
 
 ID=19037
-<font color='#E0B94F'>Critical Damage 1200/HP -10%</font>
+<font color='#E0B94F'>スーパーアーマー破壊力8%</font>
 
 ID=19038
-<font color='#F15F5F'>Critical Damage 1500/HP -11%/Critical 1%</font>
+<font color='#F15F5F'>スーパーアーマー破壊力12%</font>
 
 ID=19039
-<font color='#8041D9'>Critical Damage 1800/HP -12%/Critical 2%</font>
+<font color='#8041D9'>スーパーアーマー破壊力16%</font>
 
 ID=19040
-<font color='#47C83E'>Critical 1%/Attack Speed -1%</font>
+<font color='#47C83E'>攻撃速度1%/移動速度1%</font>
 
 ID=19041
-<font color='#4374D9'>Critical 2%/Attack Speed -2%</font>
+<font color='#4374D9'>攻撃速度2%/移動速度2%</font>
 
 ID=19042
-<font color='#E0B94F'>Critical 3%/Attack Speed -3%</font>
+<font color='#E0B94F'>攻撃速度3%/移動速度3%</font>
 
 ID=19043
-<font color='#F15F5F'>Critical 4%/Attack Speed -4%/Attack 1%</font>
+<font color='#F15F5F'>攻撃速度5%/移動速度4%</font>
 
 ID=19044
-<font color='#8041D9'>Critical 5%/Attack Speed -5%/Attack 2%</font>
+<font color='#8041D9'>攻撃速度6%/移動速度6%</font>
 
 ID=19045
-<font color='#47C83E'>SA Break 2%/Accuracy -3%</font>
+<font color='#47C83E'>クリティカルダメージ増加700</font>
 
 ID=19046
-<font color='#4374D9'>SA Break 3%/Accuracy -5%</font>
+<font color='#4374D9'>クリティカルダメージ増加850</font>
 
 ID=19047
-<font color='#E0B94F'>SA Break 5%/Accuracy -7%</font>
+<font color='#E0B94F'>クリティカルダメージ増加1000</font>
 
 ID=19048
-<font color='#F15F5F'>SA Break 7%/Accuracy -9%/Attack 1%</font>
+<font color='#F15F5F'>クリティカルダメージ増加1350</font>
 
 ID=19049
-<font color='#8041D9'>SA Break 9%/Accuracy -12%/Attack 2%</font>
+<font color='#8041D9'>クリティカルダメージ増加1700</font>
 
 ID=19400
 Standard
@@ -6000,6 +6039,18 @@ Beach of Everlasting Summer
 
 ID=19504
 Summer School
+
+ID=19505
+バニー・インザ・フォレスト
+
+ID=19506
+[すごいジェスチャー]使用可能
+
+ID=19507
+[すごいジェスチャー]使用可能
+
+ID=19508
+[すごいジェスチャー]使用可能
 
 ID=20010
 Greet
@@ -6120,6 +6171,15 @@ How is it?
 
 ID=20129
 Please look at {0}.
+
+ID=20130
+バニー
+
+ID=20131
+可愛らしいポーズを取ります。
+
+ID=20132
+{0}が可愛らしいポーズを取ります。
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -7321,6 +7381,12 @@ Texture
 ID=22682
 Textures are applied after restarting the game or after loading.
 
+ID=22683
+乗り物召喚
+
+ID=22684
+乗り物ウィンドウ開く/閉じる
+
 ID=23000
 Base FP has been recovered.
 
@@ -7335,6 +7401,9 @@ Fatigue {0}
 
 ID=23004
 FP Information
+
+ID=23005
+ネカフェ疲労度{0}
 
 ID=24000
 Zenny
@@ -7398,6 +7467,9 @@ Familiar
 
 ID=24020
 Cultivate
+
+ID=24021
+乗り物
 
 ID=24250
 Zenny
@@ -8116,6 +8188,9 @@ Forage Plant
 ID=24658
 Guild Mark Change Ticket
 
+ID=24659
+バイク
+
 ID=24750
 All
 
@@ -8431,8 +8506,20 @@ Gauntlet
 ID=24886
 Canon
 
+ID=24887
+Species
+
+ID=24888
+Crop
+
 ID=24889
 Event
+
+ID=24890
+バイク
+
+ID=24891
+パーツ
 
 ID=24892
 Recycling Point
@@ -9071,7 +9158,7 @@ ID=26309
 On skill use, -{0}% cooldown
 
 ID=26310
-On emergency dodge, +{0]% HP
+回避使用時、HP{0}%回復
 
 ID=26311
 When using a skill, 5% chance of -{0}% cooldown
@@ -9107,7 +9194,7 @@ ID=26321
 When critically hit, 50% chance of +{0} HP
 
 ID=26322
-On hit, 5% chance of +{0}% SA Break for 5s
+命中時、5%の確率で5秒間、スーパーアーマー破壊力{0}%適用
 
 ID=26323
 +{0}% Movement speed while in town.
@@ -9164,10 +9251,10 @@ ID=26340
 When being hit under 50% HP, 10% chance of +{0}% Defense for 5s
 
 ID=26341
-On emergency dodge, 2% chance of +{0}% HP
+回避使用時、2%の確率でHP{0}%回復
 
 ID=26342
-On emergency dodge, 3% chance of +{0}% HP
+回避使用時、3%の確率でHP{0}%回復
 
 ID=26343
 When dashing, 10% chance of +{0}% Movement Speed for 5s
@@ -9185,7 +9272,7 @@ ID=26347
 When critically hit, 50% chance of +{0}% Attack for 1s
 
 ID=26348
-When hit, 15% chance of +{0}% Attack for 3s
+攻撃を受けた時、15%の確率で3秒間、攻撃力{0}増加
 
 ID=26349
 On evasion, 10% chance of +{0}% Critical Rate for 3s
@@ -9194,13 +9281,13 @@ ID=26350
 On evasion, 10% chance of +{0} Critical Damage for 5s
 
 ID=26351
-On kill, +{0} Attack for 1s
+討伐時、1秒間、攻撃力{0}増加
 
 ID=26352
-When under 5% HP, +{0}% Attack for 10s
+体力が10%以下の時、10秒間、攻撃力{0}増加
 
 ID=26353
-When under 5% HP, +{0}% SA Break for 10s
+体力が10%以下の時、10秒間、スーパーアーマー破壊力{0}%増加
 
 ID=26354
 On hit with 5% HP or less, 10% chance of invincibility for 1s
@@ -9229,6 +9316,63 @@ On fail hit, 10% chance of +{0} Critical Damage for 3s
 ID=26362
 On hit with 10% Stamina or less, +{0}% Attack
 
+ID=26363
+攻撃を受けた時、30%の確率で5秒間、攻撃力{0}増加
+
+ID=26364
+攻撃を受けた時、30%の確率で5秒間、命中度{0}増加
+
+ID=26365
+攻撃を受けた時、30%の確率で5秒間、クリティカルダメージ{0}増加
+
+ID=26366
+攻撃を受けた時、30%の確率で5秒間、攻撃失敗時のダメージ{0}%増加
+
+ID=26367
+攻撃を受けた時、30%の確率で5秒間、スーパーアーマー破壊力{0}%増加
+
+ID=26368
+回避時、30%の確率で5秒間、攻撃力{0}%増加
+
+ID=26369
+回避時、30%の確率で5秒間、命中度{0}増加
+
+ID=26370
+回避時、30%の確率で5秒間、クリティカルダメージ{0}増加
+
+ID=26371
+回避時、30%の確率で5秒間、攻撃失敗時のダメージ{0}%増加
+
+ID=26372
+回避時、30%の確率で5秒間、スーパーアーマー破壊力{0}%増加
+
+ID=26373
+スキル使用時、3%の確率で5秒間、攻撃力{0}増加
+
+ID=26374
+スキル使用時、3%の確率で5秒間、命中度{0}増加
+
+ID=26375
+スキル使用時、3%の確率でクリティカルダメージ{0}増加
+
+ID=26376
+ダッシュ使用時、10%の確率で5秒間、攻撃力{0}増加
+
+ID=26377
+ダッシュ使用時、10%の確率で5秒間、スーパーアーマー破壊力{0}%増加
+
+ID=26378
+ダッシュ使用時、10%の確率で5秒間、敵防御度減少{0}%増加
+
+ID=26379
+討伐効果：5秒間、攻撃力{0}増加
+
+ID=26380
+討伐効果：5秒間、スーパーアーマー破壊力{0}%増加
+
+ID=26381
+討伐効果：5秒間、敵防御度減少{0}%増加
+
 ID=26500
 On enemy death, +{0}% Defense Penetration for 30s
 
@@ -9252,6 +9396,228 @@ On enemy death, additional +{0}% Soul Vapor
 
 ID=27702
 On hit, +{0}% Skill Damage
+
+ID=27800
+On hit, 2% chance of +{0} SV
+
+ID=27801
+On mid-air hit, +{0}% Attack for 2s.
+
+ID=27802
+When hit mid-air, +{0}% Defense for 2s
+
+ID=27803
+When hit with 50% HP or more, +{0}% Defense ce 2s
+
+ID=27804
+On hitting general monsters, 10% chance of +{0}% Attack for 2s
+
+ID=27805
+When hit by general monsters, +{0}% Defense for 4s
+
+ID=27806
+On hitting boss monsters, 10% chance of +{0}% Attack for 2s
+
+ID=27807
+When hit by boss monsters, +{0}% Defense for 4s
+
+ID=27808
+On hitting target with 50% HP or more, +{0}% Attack (cancelled on hit)
+
+ID=27809
+On hitting target with 20% HP or less, +{0}% Attack (cancelled on hit)
+
+ID=27810
+When hit with 30% HP or less, 50% chance of +{0}% Defense (cancelled on hit)
+
+ID=27811
+In District 6, +{0}% Attack
+
+ID=27812
+In District 6, +{0}% Defense
+
+ID=27813
+On kill, 5% chance of +{0}% Attack for 5s
+
+ID=27814
+On kill, 5% chance of +{0}% Defense for 10s 
+
+ID=27815
+When gaining zenny, +{0}% Defense of gained amount for 10s
+
+ID=27816
+When gaining zenny, +{0}% Attack of gained amount for 10s
+
+ID=27817
+When gaining ether, +{0}% Defense of gained amount for 10s
+
+ID=27818
+When gaining ether, +{0}% Attack of gained amount for 10s
+
+ID=27819
+On skill use, 5% chance of +{0} SV
+
+ID=27820
+On skill use, 5% chance of +{0}% SG
+
+ID=27821
+30% chance of reflecting {0}% of the incoming damage
+
+ID=27822
+On hitting general monsters, +{0} Accuracy for 4s
+
+ID=27823
+On hitting boss monsters, +{0} Accuracy for 3s
+
+ID=27824
+When hit by general monsters, +{0} Evasion for 8s
+
+ID=27825
+When hit by boss monsters, +{0} Evasion for 6s
+
+ID=27826
+When hit, 10% chance of +{0} Accuracy (cancelled when critically hit)
+
+ID=27827
+When hit, 10% chance of +{0} Evasion (cancelled on evasion
+
+ID=27828
+In District 6, +{0} Accuracy
+
+ID=27829
+In District 6, +{0} Evasion
+
+ID=27830
+On kill, 5% chance of +{0} Accuracy (cancelled on critical hit)
+
+ID=27831
+On kill, 5% chance of +{0} Evasion (cancelled on critical hit)
+
+ID=27832
+When gaining ether, +{0}% Accuracy of gained amount
+
+ID=27833
+When gaining ether, +{0}% Evasion of gained amount
+
+ID=27834
+When gaining zenny, +{0}% Accuracy of gained amount
+
+ID=27835
+When gaining zenny, +{0}% Evasion of gained amount
+
+ID=27836
+When hit, 5% chance of +{0} SV
+
+ID=27837
+On jump hit, 5% chance of +{0}% Critical (cancelled on critical hit)
+
+ID=27838
+回避使用時、5%の確率でSG{0}%回復
+
+ID=27839
+On critical hit, 10% chance of +{0}% SG
+
+ID=27840
+On SA Break, 10% chance of +{0} Critical Damage for 3s
+
+ID=27841
+On skill use, 5% chance of +{0} Critical for 4s
+
+ID=27842
+When hit, +{0}% Attack (cancelled on hit)
+
+ID=27843
+When hit, 5% chance of +{0}% HP
+
+ID=27844
+In District 6, +{0}% Critical
+
+ID=27845
+In District 6, +{0}% Maximum HP
+
+ID=27846
+In District 6, +{0} Critical Damage
+
+ID=27847
+When enemy has 70% HP or more, +{0} Critical Damage (cancelled on critical hit)
+
+ID=27848
+When hit with 20% HP or less, 20% chance of +{0} HP
+
+ID=27849
+When gaining ether, 10% chance of +{0}% HP of gained amount
+
+ID=27850
+When gaining zenny, 10% chance of +{0}% HP of gained amount
+
+ID=27851
+On hitting target with 50% HP or more, +{0}% Critical (cancelled on hit)
+
+ID=27852
+On hitting target with 50% HP or less, +{0} Critical Damage (cancelled on critical hit)
+
+ID=27853
+On kill, 5% chance of +{0} SV
+
+ID=27854
+When critically hit, 20% chance of +{0} Damage Reduction for 2s
+
+ID=27855
+On HP recovery, 10% chance of +{0} Attack for 3s
+
+ID=27856
+On SV recovery, 10% chance of +{0} Attack for 3s
+
+ID=27857
+On HP recovery, 10% chance of +{0}% Movement Speed for 3s
+
+ID=27858
+On SV recovery, 10% chance of +{0}% Movement Speed for 3s
+
+ID=27859
+On SA Break, 50% chance of +{0}% Defense Penetration for 5s
+
+ID=27860
+On hitting target with 50% SA Gauge or more, +{0}% SA Break
+
+ID=27861
++{0}% Movement speed while in town.
+
+ID=27862
+On HP recovery, 10% chance of +{0}% Attack Speed for 4s
+
+ID=27863
+On SV recovery, 10% chance of +{0}% Attack Speed for 4s
+
+ID=27864
+When gaining ether, +{0}% Attack Speed for 10s
+
+ID=27865
+When gaining ether, +{0}% Movement Speed for 10s
+
+ID=27866
+When gaining zenny, +{0}% Attack Speed for 10s
+
+ID=27867
+When gaining zenny, +{0}% Movement Speed for 10s
+
+ID=27868
+On HP recovery, 10% chance fo {0} Defense for 3s
+
+ID=27869
+On SV recovery, 10% chance fo {0} Defense for 3s
+
+ID=27870
+乗り物搭乗時、移動速度{0}
+
+ID=27871
+乗り物ブースター{0}秒
+
+ID=27872
+乗り物搭乗時、移動速度{0}増加
+
+ID=27873
+乗り物ブースター{0}秒増加
 
 ID=28000
 Create Guild
@@ -9467,7 +9833,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 09/Sep/2016 3:25 PM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 14/Sep/2016 1:15 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -11471,10 +11837,10 @@ ID=34016
 Growing
 
 ID=34017
-Complete
+しおれ中
 
 ID=34018
-Wilted
+腐敗中
 
 ID=34019
 Decomposed
@@ -11489,7 +11855,7 @@ ID=34022
 Do you want to use {0}?
 
 ID=34023
-Cancel
+栽培中止
 
 ID=34024
 The crop cannot be planted.
@@ -11746,6 +12112,156 @@ Cannot enter.
 ID=37020
 Entrance Time
 
+ID=37500
+ソウルハンター進行
+
+ID=37501
+ソウルハンター結果
+
+ID=37502
+List
+
+ID=37503
+Content
+
+ID=37506
+Progress Info
+
+ID=37507
+Reward
+
+ID=37508
+個人累積及び獲得ソウルポイント
+
+ID=37509
+個人順位及びソウルポイント
+
+ID=37510
+ギルド累積及び獲得ソウルポイント
+
+ID=37511
+ギルド順位及びソウルポイント
+
+ID=37512
+{0}S
+
+ID=37513
++{0}S
+
+ID=37514
+▲
+
+ID=37515
+▼
+
+ID=37516
+#メイズ \n-それぞれの通常難易度メイズ入場及びクリア時、点数付与(差等付与)\n-それぞれのVery Hard難易度メイズクリア時、点数付与(差等付与)\n-1人でメイズクリア時、ボーナス点数付与\n-復活アイテム不使用時、ボーナス点数付与\n-獲得アイテム不使用時、ボーナス点数付与\n\n#スチールグレイブ \n-スチールグレイブ入場時、点数付与\n-それぞれのスチールグレイブのチャプタークリア時、点数付与(差等付与)\n\n#レイド\n-レイド入場時、点数付与\n-それぞれのカジュアルレイドクリア時、点数付与(差等付与)
+
+ID=37517
+期間：月曜日09:00～日曜日21:00(7日間、毎週進行)\n\n結果発表：毎週日曜日22時00分\n\nボーナス点数項目(通常メイズ)\n -パーティー禁止\n -回復ポーション使用禁止\n -バフポーション使用禁止\n\n#スチールグレイブ及びカジュアルレイドには\nボーナス点数はなく、通常メイズにクリア点数が高い。
+
+ID=37518
+個人報酬情報
+
+ID=37519
+ギルド報酬情報
+
+ID=37520
+Rank
+
+ID=37521
+報酬内容
+
+ID=37522
+順位確認
+
+ID=37523
+Rank
+
+ID=37524
+Name
+
+ID=37525
+累積ソウルポイント
+
+ID=37526
+#{0}
+
+ID=37527
+現ソウルポイント
+
+ID=37529
+Guild Name
+
+ID=37530
+結果
+
+ID=37531
+報酬内容
+
+ID=37532
+Claim
+
+ID=37537
+獲得ソウル
+
+ID=37538
+Personal
+
+ID=37539
+Guild
+
+ID=37540
+Rewards
+
+ID=37541
+追加報酬
+
+ID=37542
+メイズ入場及びクリア{0}+1人プレイ{1}+復活禁止{2}+回復ポーション禁止{3}
+
+ID=37543
+進行方法
+
+ID=37544
+報酬内容
+
+ID=37545
+上位段階のソウルポイント
+
+ID=37546
+ソウルハンター
+
+ID=37547
+Rank Information
+
+ID=37548
+順位情報は翌日の08:00に更新されます。
+
+ID=37600
+SSランク
+
+ID=37601
+Sランク
+
+ID=37602
+Aランク
+
+ID=37603
+Bランク
+
+ID=37604
+Cランク
+
+ID=37605
+Dランク
+
+ID=37606
+Eランク
+
+ID=37607
+Fランク
+
 ID=38000
 {0}s
 
@@ -11781,6 +12297,21 @@ Increase Attack by {0}%
 
 ID=38011
 Increase Defense by {0}%
+
+ID=38012
+スタミナ{0}増加
+
+ID=38013
+ネットカフェ専用疲労度100増加
+
+ID=38014
+特殊メイズ入場回数2倍
+
+ID=38015
+結果報酬EXP{0}%増加
+
+ID=38016
+結果報酬ジェニー{0}%増加
 
 ID=38500
 Rank
@@ -11972,7 +12503,7 @@ ID=40105
 Please move.
 
 ID=40106
-Talk to Miriam.
+Accompany and talk to Miriam.
 
 ID=40107
 Please talk to Benjamin.
@@ -12542,7 +13073,7 @@ ID=40299
 The magnetic fields have been deactivated.
 
 ID=40300
-Steel Grave is composed of 5 stages and may be attempted 3 times per 1 day.
+Each Steel Grave challenge is made up of 5 stages. You can challenge it up to 3 times per day
 
 ID=40301
 Operate the controller to spawn the enemies.
@@ -12668,7 +13199,7 @@ ID=40428
 The purifier has been destroyed by the Mutant Mad Beholder's attacks.
 
 ID=40429
-There is a switch on the left side of the map in the A-1 Laboratory. Using this switch will drastically increase the player's attack and cause the door to be automatically shut.
+左のA-1研究室のスイッチを作動させると、プレイヤーの攻撃力が大幅に増加します。
 
 ID=40430
 The switches can be activated after defeating all the enemies.
@@ -12959,7 +13490,7 @@ ID=40624
 The powerful core's guardian will be summoned soon.\nThe guardian won't disappear until the core is defeated.
 
 ID=40625
-連合の浄化装置を使用すると、汚染状態が活力状態に変更され、HPを持続的に回復してくれます。\nただし、汚染状態でない場合は変更されません。
+連合の浄化装置を使用すると、汚染状態が活力状態に変更され、強力な力を得ることができます。\nただし、汚染状態でない場合は変更されません。
 
 ID=40626
 深手を負ったプライマルが咆哮し、最後の足掻きを始めます。\n持続的にダメージを与える汚染された血が足元に広がっています。
@@ -12968,7 +13499,10 @@ ID=40627
 The Primal is going to grab the targets that are in from of it.
 
 ID=40628
-警告！注意してください。
+警告！注意してください。\n万が一、活力状態でない場合、攻略が難しくなります。
+
+ID=40629
+メンバーがローディング中です。
 
 ID=42000
 Jack the King
@@ -14083,6 +14617,168 @@ Machine-obsessed Sedurin μ
 ID=42370
 Pitifully Confused Sedurin μ
 
+ID=42371
+Megiddo Maker MK Ⅱ
+
+ID=42372
+Augmented Megiddo Maker MK Ⅱ
+
+ID=42373
+Purifying Megiddo Maker MK Ⅱ
+
+ID=42374
+Megiddo Maker MK Ⅱ μ
+
+ID=42375
+Augmented Megiddo Maker MK Ⅱ μ
+
+ID=42376
+Purifying Megiddo Maker MK Ⅱ μ
+
+ID=42377
+Xenia
+
+ID=42378
+Tactics Officer Xenia
+
+ID=42379
+Thorough Witch Xenia
+
+ID=42380
+Xenia μ
+
+ID=42381
+Tactics Officer Xenia μ
+
+ID=42382
+Thorough Witch Xenia μ
+
+ID=42383
+Cynthia & Hugh
+
+ID=42384
+Fantasy Couple Cynthia & Hugh
+
+ID=42385
+Scoop Killers Cynthia & Hugh
+
+ID=42386
+Cynthia & Hugh μ
+
+ID=42387
+Fantasy Couple Cynthia & Hugh μ
+
+ID=42388
+Scoop Killers Cynthia & Hugh μ
+
+ID=42389
+Ran
+
+ID=42390
+Goofy Girl Ran
+
+ID=42391
+Fortune Master Ran
+
+ID=42392
+Ran μ
+
+ID=42393
+Goofy Girl Ran μ
+
+ID=42394
+Fortune Master Ran μ
+
+ID=42395
+Sentry Commander  
+
+ID=42396
+Triple Speed Sentry Commander
+
+ID=42397
+Red Meteor Sentry Commander
+
+ID=42398
+Sentry Commander μ
+
+ID=42399
+Triple Speed Sentry Commander μ
+
+ID=42400
+Red Meteor Sentry Commander μ
+
+ID=42401
+Heavy Earthquaker
+
+ID=42402
+Iron Man Heavy Earthquaker
+
+ID=42403
+Million Horsepower Heavy Earthquaker
+
+ID=42404
+Heavy Earthquaker μ
+
+ID=42405
+Iron Man Heavy Earthquaker μ
+
+ID=42406
+Million Horsepower Heavy Earthquaker μ
+
+ID=42407
+Noah
+
+ID=42408
+Winds' Messenger Noah
+
+ID=42409
+Storms' Guardian Noah
+
+ID=42410
+Noah μ
+
+ID=42411
+Winds' Messenger Noah μ
+
+ID=42412
+Storms' Guardian Noah μ
+
+ID=42413
+Enoch
+
+ID=42414
+Disks' Fary Enoch
+
+ID=42415
+Disks' Queen Enoch
+
+ID=42416
+Enoch μ
+
+ID=42417
+Disks' Fary Enoch μ
+
+ID=42418
+Disks' Queen Enoch μ
+
+ID=42419
+Shion
+
+ID=42420
+Bits' Master Shion
+
+ID=42421
+Blades' Queen Shion
+
+ID=42422
+Shion μ
+
+ID=42423
+Bits' Master Shion μ
+
+ID=42424
+Blades' Queen Shion μ
+
 ID=43139
 Dignity Snatcher
 
@@ -14554,6 +15250,60 @@ ID=43321
 ID=43322
 [SH] Sedurin
 
+ID=43323
+[S] Megiddo Maker MK Ⅱ
+
+ID=43324
+[SH] Megiddo Maker MK Ⅱ
+
+ID=43325
+[S] Xenia
+
+ID=43326
+[SH] Xenia
+
+ID=43327
+[S] Cynthia & Hugh
+
+ID=43328
+[SH] Cynthia & Hugh
+
+ID=43329
+[S] Ran
+
+ID=43330
+[SH] Ran
+
+ID=43331
+[S] Sentry Commander
+
+ID=43332
+[SH] Sentry Commander
+
+ID=43333
+[S] Heavy Earthquaker
+
+ID=43334
+[SH] Heavy Earthquaker
+
+ID=43335
+[S] Noah
+
+ID=43336
+[SH] Noah
+
+ID=43337
+[S] Enoch
+
+ID=43338
+[SH] Enoch
+
+ID=43339
+[S] Shion
+
+ID=43340
+[SH] Shion
+
 ID=45000
 Item Mall
 
@@ -14975,16 +15725,82 @@ ID=46300
 Steel Grave has been successfully cleared.
 
 ID=46301
-Congratulations!\n Steel {0} Grave has been successfully cleared.\n Try again tomorrow.
+Congratulations!\nSteel {0} Grave has been successfully cleared.
 
 ID=46302
 Steel Grave challenge failed.
 
 ID=46303
-Could not enter Steel {0} Grave.\n Try again tomorrow.
+Could not enter Steel {0} Grave.\nTry again tomorrow.
 
 ID=46304
 Clear Time
+
+ID=47000
+乗り物
+
+ID=47001
+Info
+
+ID=47002
+速度
+
+ID=47003
+ブースター
+
+ID=47004
+パーツ
+
+ID=47005
+乗り物リスト
+
+ID=47006
+装着
+
+ID=47007
+Board Helicopter
+
+ID=47008
+対象のソケットにパーツを装着しますか？\n(該当ソケットにパーツを装着している場合、既存のパーツは消えます)
+
+ID=47009
+乗り物アイテムを装着しますか？
+
+ID=47010
+搭乗解除
+
+ID=47011
+装備充電
+
+ID=47012
+全体充電
+
+ID=47013
+保有中の全ての乗り物を充電しますか？\n-充電費用：{0}ジェニー-
+
+ID=47014
+装備中の{0}を充電しますか？\n-充電費用：{1}ジェニー-
+
+ID=47015
+装備中の乗り物を充電しますか？\n-充電費用：{0}ジェニー-
+
+ID=47016
+装備パーツなし
+
+ID=47017
+充電
+
+ID=47018
+乗り物のブースターゲージが最高値です。
+
+ID=47019
+保有中の乗り物はありません。
+
+ID=47020
+Insufficient Zenny.
+
+ID=47021
+ブースターゲージを全て消耗しているため使用できません。
 
 ID=49000
 Ongoing
@@ -16189,6 +17005,18 @@ There is a problem with the inventory.
 ID=52223
 Insufficient enhancement materials. Item cannot be enhanced.
 
+ID=52225
+It's not a Tuning NPC.
+
+ID=52226
+It's not a Tuning Item.
+
+ID=52227
+Not enough required Tuning items.
+
+ID=52228
+Tuning failed.
+
 ID=52250
 Insufficient BP. Item cannot be crafted.
 
@@ -16363,6 +17191,9 @@ You cannot purchase this item anymore.
 ID=52324
 Cannot open Item Mall in the area.
 
+ID=52325
+再購入できないアイテムです。
+
 ID=52401
 Player is already trading.
 
@@ -16407,6 +17238,9 @@ ID=52413
 
 ID=52416
 You cannot trade with a blocked player.
+
+ID=52417
+相手がジェニー最大所持量を超過しているため送れません。
 
 ID=52430
 Personal Shop is already open.
@@ -16607,40 +17441,40 @@ ID=53101
 FPが不足しているため、該当エピソードではフォース探索機能を使用できません。
 
 ID=53102
-メイズ内部にいるプレイヤーはフォースに招待できません。
+Cannot invite players that are already in a dungeon to the force.
 
 ID=53103
-フォースリーダーではありません。
+You're not the force leader.
 
 ID=53104
-他のフォースに加入状態のプレイヤーはフォースに招待できません。
+The player is already being invited in another force.
 
 ID=53105
-フォース設立に失敗しました。
+Failed to establish the force.
 
 ID=53106
 You are currently not in a party.
 
 ID=53107
-フォースリーダーの交代に失敗しました。
+Failed to change the force leader.
 
 ID=53108
-フォース追放に失敗しました。
+Failed to expel from the force.
 
 ID=53109
-フォース離脱に失敗しました。
+Failed to withdraw from the force.
 
 ID=53110
-すでにフォースメンバーがいっぱいです。
+The force is already full.
 
 ID=53111
-フォースメンバーを探せません。
+Couldn't find the force member.
 
 ID=53112
-フォース中、予期せぬエラーが発生しました。
+An unexpected error has occurred during the force.
 
 ID=53113
-現在、相手とフォースを結べません。
+Currently there is no force available.
 
 ID=53114
 すでにフォースの招待を要請した相手です。
@@ -16773,6 +17607,12 @@ ID=53156
 
 ID=53157
 パーティー状態でのみ入場可能です。
+
+ID=53158
+フォース状態では該当機能を使用できません。
+
+ID=53159
+別のエリアにいるユーザーは、フォースへ招待できません。
 
 ID=54001
 The mission is already active.
@@ -17336,7 +18176,7 @@ ID=58008
 You cannot summon Supporters anymore. [{0} / {1}]
 
 ID=58101
-スチールグレイブは1日3回入場できます。\n午前9時に入場回数がリセットされます。
+You can enter Steel Grave up to 3 times a day.\nThe limit resets at 9 AM Japan time.
 
 ID=58102
 Steel Grave is a place to challenge the limits of oneself.\nCannot enter while in party.
@@ -17515,6 +18355,12 @@ Cannot list the item because of insufficient funds for the registration fee.
 ID=58308
 Cannot list the item because the entered price exceeds the price limit.
 
+ID=58309
+Exceeded the maximum number of listed items. Cannot list more than 100 items.
+
+ID=58400
+ゲーム進行中、離脱が確認されたためフリーマッチ入場が制限されます。\n現在、離脱した試合が進行中のため入場制限時間は減少しません。
+
 ID=59000
 Your inventory is full, therefore you cannot receive the login rewards.
 
@@ -17553,6 +18399,33 @@ You have no dismantling permission for the selected item.
 
 ID=59308
 Item data could not be found.
+
+ID=59400
+乗り物を保有していません。
+
+ID=59401
+充電に失敗しました。
+
+ID=59402
+パーツの装着に失敗しました。
+
+ID=59403
+乗り物を召喚状態ではパーツの装着はできません。
+
+ID=59404
+搭乗状態では該当動作はできません。
+
+ID=59405
+乗り物を獲得できません。
+
+ID=59406
+乗り物を装備できません。
+
+ID=59407
+召喚状態では装備変更できません。
+
+ID=59408
+乗り物の召喚待機を指定しませんでした。
 
 ID=60001
 Do you wish to attach this brooch [{0}] to the slot?\n Note that it cannot be removed thereafter.
@@ -17723,7 +18596,7 @@ ID=60201
 FORCE Ranking
 
 ID=60202
-フォース
+Force
 
 ID=60203
 {0}がフォースに招待されました。フォースに合流しますか？\n-残り{1}秒-
@@ -17741,28 +18614,28 @@ ID=60207
 {0}をフォースから追放しますか？
 
 ID=60208
-フォース招待
+Force Invitation
 
 ID=60209
-フォース専用
+Private Force
 
 ID=60210
-フォース推薦
+Recommended Force
 
 ID=60211
-フォースメンバー
+Force Members
 
 ID=60212
-フォースメンバー
+Force Members
 
 ID=60213
-フォース
+Force
 
 ID=60214
-フォース招待
+Force Invitation
 
 ID=60215
-フォース離脱
+Leave Force
 
 ID=60216
 フォースリーダーのみ、フォースに招待できます。
@@ -17852,31 +18725,31 @@ ID=60244
 フォースメンバー{0}が、メイズ入場を拒否しました。
 
 ID=60245
-フォース招待
+Force Invitation
 
 ID=60246
-フォース離脱同意
+Leave Force Consent
 
 ID=60247
-フォース離脱
+Leave Force
 
 ID=60248
-フォース離脱
+Leave Force
 
 ID=60249
-フォースリーダー委任
+Pass Force Leader
 
 ID=60250
-フォース追放
+Expel Force
 
 ID=60251
-オートフォースマッチング
+Force Auto-Matching
 
 ID=60252
-オートフォースマッチング利用不可
+Force Auto-Matching Unavailable
 
 ID=60256
-オートフォースマッチング終了
+Stop Force Auto-Matching
 
 ID=60257
 すでにフォースに加入状態のため、\nオートフォースマッチングできません。
@@ -17942,7 +18815,7 @@ ID=60277
 現在加入中のフォースから離脱しますか？
 
 ID=60278
-オートフォースマッチング
+Force Auto-Matching
 
 ID=60279
 Simple
@@ -17989,6 +18862,9 @@ ID=60292
 ID=60293
 Match Retrying {0}/{1}
 
+ID=60294
+オートフォースマッチングを中止すると、申請したメンバー全て中止されます。\n中止しますか？
+
 ID=60500
 Force 4~8 People
 
@@ -17997,471 +18873,3 @@ ID=60501
 
 ID=60502
 4-man Party
-
-ID=27800
-On hit, 2% chance of +{0} SV
-
-ID=27801
-On mid-air hit, +{0}% Attack for 2s.
-
-ID=27802
-When hit mid-air, +{0}% Defense for 2s
-
-ID=27803
-When hit with 50% HP or more, +{0}% Defense ce 2s
-
-ID=27804
-On hitting general monsters, 10% chance of +{0}% Attack for 2s
-
-ID=27805
-When hit by general monsters, +{0}% Defense for 4s
-
-ID=27806
-On hitting boss monsters, 10% chance of +{0}% Attack for 2s
-
-ID=27807
-When hit by boss monsters, +{0}% Defense for 4s
-
-ID=27808
-On hitting target with 50% HP or more, +{0}% Attack (cancelled on hit)
-
-ID=27809
-On hitting target with 20% HP or less, +{0}% Attack (cancelled on hit)
-
-ID=27810
-When hit with 30% HP or less, 50% chance of +{0}% Defense (cancelled on hit)
-
-ID=27811
-In District 6, +{0}% Attack
-
-ID=27812
-In District 6, +{0}% Defense
-
-ID=27813
-On kill, 5% chance of +{0}% Attack for 5s
-
-ID=27814
-On kill, 5% chance of +{0}% Defense for 10s 
-
-ID=27815
-When gaining zenny, +{0}% Defense of gained amount for 10s
-
-ID=27816
-When gaining zenny, +{0}% Attack of gained amount for 10s
-
-ID=27817
-When gaining ether, +{0}% Defense of gained amount for 10s
-
-ID=27818
-When gaining ether, +{0}% Attack of gained amount for 10s
-
-ID=27819
-On skill use, 5% chance of +{0} SV
-
-ID=27820
-On skill use, 5% chance of +{0}% SG
-
-ID=27821
-30% chance of reflecting {0}% of the incoming damage
-
-ID=27822
-On hitting general monsters, +{0} Accuracy for 4s
-
-ID=27823
-On hitting boss monsters, +{0} Accuracy for 3s
-
-ID=27824
-When hit by general monsters, +{0} Evasion for 8s
-
-ID=27825
-When hit by boss monsters, +{0} Evasion for 6s
-
-ID=27826
-When hit, 10% chance of +{0} Accuracy (cancelled when critically hit)
-
-ID=27827
-When hit, 10% chance of +{0} Evasion (cancelled on evasion
-
-ID=27828
-In District 6, +{0} Accuracy
-
-ID=27829
-In District 6, +{0} Evasion
-
-ID=27830
-On kill, 5% chance of +{0} Accuracy (cancelled on critical hit)
-
-ID=27831
-On kill, 5% chance of +{0} Evasion (cancelled on critical hit)
-
-ID=27832
-When gaining ether, +{0}% Accuracy of gained amount
-
-ID=27833
-When gaining ether, +{0}% Evasion of gained amount
-
-ID=27834
-When gaining zenny, +{0}% Accuracy of gained amount
-
-ID=27835
-When gaining zenny, +{0}% Evasion of gained amount
-
-ID=27836
-When hit, 5% chance of +{0} SV
-
-ID=27837
-On jump hit, 5% chance of +{0}% Critical (cancelled on critical hit)
-
-ID=27838
-On emergency dodge, 5% chance of +{0}% SG
-
-ID=27839
-On critical hit, 10% chance of +{0}% SG
-
-ID=27840
-On SA Break, 10% chance of +{0} Critical Damage for 3s
-
-ID=27841
-On skill use, 5% chance of +{0} Critical for 4s
-
-ID=27842
-When hit, +{0}% Attack (cancelled on hit)
-
-ID=27843
-When hit, 5% chance of +{0}% HP
-
-ID=27844
-In District 6, +{0}% Critical
-
-ID=27845
-In District 6, +{0}% Maximum HP
-
-ID=27846
-In District 6, +{0} Critical Damage
-
-ID=27847
-When enemy has 70% HP or more, +{0} Critical Damage (cancelled on critical hit)
-
-ID=27848
-When hit with 20% HP or less, 20% chance of +{0} HP
-
-ID=27849
-When gaining ether, 10% chance of +{0}% HP of gained amount
-
-ID=27850
-When gaining zenny, 10% chance of +{0}% HP of gained amount
-
-ID=27851
-On hitting target with 50% HP or more, +{0}% Critical (cancelled on hit)
-
-ID=27852
-On hitting target with 50% HP or less, +{0} Critical Damage (cancelled on critical hit)
-
-ID=27853
-On kill, 5% chance of +{0} SV
-
-ID=27854
-When critically hit, 20% chance of +{0} Damage Reduction for 2s
-
-ID=27855
-On HP recovery, 10% chance of +{0} Attack for 3s
-
-ID=27856
-On SV recovery, 10% chance of +{0} Attack for 3s
-
-ID=27857
-On HP recovery, 10% chance of +{0}% Movement Speed for 3s
-
-ID=27858
-On SV recovery, 10% chance of +{0}% Movement Speed for 3s
-
-ID=27859
-On SA Break, 50% chance of +{0}% Defense Penetration for 5s
-
-ID=27860
-On hitting target with 50% SA Gauge or more, +{0}% SA Break
-
-ID=27861
-+{0}% Movement speed while in town.
-
-ID=27862
-On HP recovery, 10% chance of +{0}% Attack Speed for 4s
-
-ID=27863
-On SV recovery, 10% chance of +{0}% Attack Speed for 4s
-
-ID=27864
-When gaining ether, +{0}% Attack Speed for 10s
-
-ID=27865
-When gaining ether, +{0}% Movement Speed for 10s
-
-ID=27866
-When gaining zenny, +{0}% Attack Speed for 10s
-
-ID=27867
-When gaining zenny, +{0}% Movement Speed for 10s
-
-ID=27868
-On HP recovery, 10% chance fo {0} Defense for 3s
-
-ID=27869
-On SV recovery, 10% chance fo {0} Defense for 3s
-
-ID=42371
-Megiddo Maker MK Ⅱ
-
-ID=42372
-Augmented Megiddo Maker MK Ⅱ
-
-ID=42373
-Purifying Megiddo Maker MK Ⅱ
-
-ID=42374
-Megiddo Maker MK Ⅱ μ
-
-ID=42375
-Augmented Megiddo Maker MK Ⅱ μ
-
-ID=42376
-Purifying Megiddo Maker MK Ⅱ μ
-
-ID=42377
-Xenia
-
-ID=42378
-Tactics Officer Xenia
-
-ID=42379
-Thorough Witch Xenia
-
-ID=42380
-Xenia μ
-
-ID=42381
-Tactics Officer Xenia μ
-
-ID=42382
-Thorough Witch Xenia μ
-
-ID=42383
-Cynthia & Hugh
-
-ID=42384
-Fantasy Couple Cynthia & Hugh
-
-ID=42385
-Scoop Killers Cynthia & Hugh
-
-ID=42386
-Cynthia & Hugh μ
-
-ID=42387
-Fantasy Couple Cynthia & Hugh μ
-
-ID=42388
-Scoop Killers Cynthia & Hugh μ
-
-ID=42389
-Ran
-
-ID=42390
-Goofy Girl Ran
-
-ID=42391
-Fortune Master Ran
-
-ID=42392
-Ran μ
-
-ID=42393
-Goofy Girl Ran μ
-
-ID=42394
-Fortune Master Ran μ
-
-ID=42395
-Sentry Commander  
-
-ID=42396
-Triple Speed Sentry Commander
-
-ID=42397
-Red Meteor Sentry Commander
-
-ID=42398
-Sentry Commander μ
-
-ID=42399
-Triple Speed Sentry Commander μ
-
-ID=42400
-Red Meteor Sentry Commander μ
-
-ID=42401
-Heavy Earthquaker
-
-ID=42402
-Iron Man Heavy Earthquaker
-
-ID=42403
-Million Horsepower Heavy Earthquaker
-
-ID=42404
-Heavy Earthquaker μ
-
-ID=42405
-Iron Man Heavy Earthquaker μ
-
-ID=42406
-Million Horsepower Heavy Earthquaker μ
-
-ID=42407
-Noah
-
-ID=42408
-Winds' Messenger Noah
-
-ID=42409
-Storms' Guardian Noah
-
-ID=42410
-Noah μ
-
-ID=42411
-Winds' Messenger Noah μ
-
-ID=42412
-Storms' Guardian Noah μ
-
-ID=42413
-Enoch
-
-ID=42414
-Disks' Fary Enoch
-
-ID=42415
-Disks' Queen Enoch
-
-ID=42416
-Enoch μ
-
-ID=42417
-Disks' Fary Enoch μ
-
-ID=42418
-Disks' Queen Enoch μ
-
-ID=42419
-Shion
-
-ID=42420
-Bits' Master Shion
-
-ID=42421
-Blades' Queen Shion
-
-ID=42422
-Shion μ
-
-ID=42423
-Bits' Master Shion μ
-
-ID=42424
-Blades' Queen Shion μ
-
-ID=43323
-[S] Megiddo Maker MK Ⅱ
-
-ID=43324
-[SH] Megiddo Maker MK Ⅱ
-
-ID=43325
-[S] Xenia
-
-ID=43326
-[SH] Xenia
-
-ID=43327
-[S] Cynthia & Hugh
-
-ID=43328
-[SH] Cynthia & Hugh
-
-ID=43329
-[S] Ran
-
-ID=43330
-[SH] Ran
-
-ID=43331
-[S] Sentry Commander
-
-ID=43332
-[SH] Sentry Commander
-
-ID=43333
-[S] Heavy Earthquaker
-
-ID=43334
-[SH] Heavy Earthquaker
-
-ID=43335
-[S] Noah
-
-ID=43336
-[SH] Noah
-
-ID=43337
-[S] Enoch
-
-ID=43338
-[SH] Enoch
-
-ID=43339
-[S] Shion
-
-ID=43340
-[SH] Shion
-
-ID=58309
-Exceeded the maximum number of listed items. Cannot list more than 100 items.
-
-ID=18194
-Option Tuning
-
-ID=18195
-Option Fixed Count
-
-ID=18196
-Tuning
-
-ID=18197
-確認をクリック時、{0}のオプションが変更されます。\nオプションを変更しますか？
-
-ID=18198
-No Options
-
-ID=730
-Option Tuning Function
-
-ID=52225
-It's not a Tuning NPC.
-
-ID=52226
-It's not a Tuning Item.
-
-ID=52227
-Not enough required Tuning items.
-
-ID=52228
-Tuning failed.
-
-ID=23005
-ネカフェ疲?度 {0}
-
-ID=798
-(ネカフェ入場回?：?り{0})
-
-ID=799
-(ネカフェ入場特典：{0})
