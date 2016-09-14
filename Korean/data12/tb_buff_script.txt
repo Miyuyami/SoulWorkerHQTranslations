@@ -136,6 +136,24 @@ ID=304
 Icon/Buff/Icon_Common_Buff_ASR
 공격속도 증가
 
+ID=500
+사랑의 포로
+4 초간, 유혹상태가 되어 대상을 따라간다.
+Icon/Buff/Icon_Common_Debuff_Charm
+유혹
+
+ID=504
+여왕의 위엄
+5 초간, 마비상태가 되어 움직일 수 없게 된다.
+Icon/Buff/Icon_Common_Debuff_Paralysis
+마비
+
+ID=600
+자가회복
+받은 대미지를 즉시 회복한다.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP 회복
+
 ID=1001
 화염의 저주 Lv1
 HP가 1% 씩 감소한다.
@@ -1162,12 +1180,6 @@ ID=6000
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
-ID=6005
-광기의 사신
-공격력과 크리티컬 확률이 상승 한다.
-Icon/Buff/Icon_Common_Buff_Reg
-0
-
 ID=6001
 Passive
 SG 회복
@@ -1184,6 +1196,12 @@ ID=6003
 Passive
 SG 회복
 Icon/Buff/Icon_Common_Buff_SG_Recovery
+0
+
+ID=6005
+광기의 사신
+공격력과 크리티컬 확률이 상승 한다.
+Icon/Buff/Icon_Common_Buff_Reg
 0
 
 ID=6011
@@ -1409,7 +1427,7 @@ Icon/Buff/Icon_Common_Debuff_Def
 방어력 감소
 
 ID=6526
-디케이드 펄스Ⅰ
+디케이드 펄스
 이동속도를 10% 감소시킨다.
 Icon/Buff/Icon_Common_Debuff_MSR
 이동속도 감소
@@ -1786,18 +1804,6 @@ ID=7062
 Icon/Buff/Icon_Common_Debuff_Def
 방어력 감소
 
-ID=7501
-오버히트
-SG 즉시 전부 회복한다.
-Icon/Buff/Icon_Common_Buff_SG_Recovery
-0
-
-ID=7502
-오버히트
-스킬을 사용할 수 없습니다.
-Icon/Buff/Icon_Common_Debuff_Silence
-0
-
 ID=7071
 0
 0
@@ -1827,6 +1833,24 @@ ID=7075
 0
 0
 소울회복
+
+ID=7501
+오버히트
+SG 즉시 전부 회복한다.
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+0
+
+ID=7502
+오버히트
+스킬을 사용할 수 없습니다.
+Icon/Buff/Icon_Common_Debuff_Silence
+0
+
+ID=10000
+재생
+지속적으로 HP와 SG가 회복한다.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+회복
 
 ID=20001
 HP 회복
@@ -2422,119 +2446,17 @@ Doomsday
 Icon/Buff/Icon_Common_Buff_Immun
 무적
 
-ID=30041
-판도라의 상자
-주변 아군의 공격력을 30% 증가시킨다.
-Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+ID=30018
+단단한 피부
+피해량을 30% 감소시킨다.
+Icon/Buff/Icon_Common_Buff_Def
+피해량 감소
 
 ID=30020
 빛과 어둠
 주변 아군의 HP를 초당 1% 회복한다. 효과는 중복가능.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP 회복
-
-ID=30063
-노도/강인
-공격력과 방어력이 10% 증가한다.
-Icon/Buff/Icon_Common_Buff_Reg
-강화
-
-ID=60000
-휴식 시간
-10 초 동안 모두의 HP를 회복한다.
-Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
-
-ID=39005
-과부하
-잠시동안, 템페스트의 전체기능을 마비시킨다.
-Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
-
-ID=39006
-과부하
-잠시동안, 템페스트의 전체기능을 마비시킨다.
-Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
-
-ID=39007
-뱀파이어
-적에게 준 데미지의 일정량의 HP가 회복된다.
-Icon/Buff/Icon_Common_Buff_VampHP2
-HP 흡수
-
-ID=39008
-중화
-잠시동안, 라반의 흡혈능력을 봉인한다.
-Icon/Buff/Icon_Common_Debuff_Paralysis
-HP 흡수 제거
-
-ID=39009
-가속
-10 초간, 이동속도가 10% 증가한다.
-Icon/Buff/Icon_Common_Buff_MSR
-이동속도 증가
-
-ID=39010
-강습
-10 초간, 공격력이 상승한다.
-Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
-
-ID=39011
-마비
-2 초간, 마비상태가 된다.
-Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
-
-ID=39012
-둔화
-10 초간, 이동속도가 감소한다.
-Icon/Buff/Icon_Common_Debuff_MSR
-이동속도 감소
-
-ID=39013
-마나마 클럽
-10 초간, 공격력이 감소한다.
-Icon/Buff/Icon_Common_DeBuff_ATK
-공격력 감소
-
-ID=39014
-중독
-10 초간, 중독상태가 된다.
-Icon/Buff/Icon_Common_Debuff_Poison
-중독
-
-ID=39015
-마비
-30 초간, 캐릭터가 움직일 수 없게 된다.
-Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
-
-ID=39016
-중독
-30 초간, 중독상태가 된다.
-Icon/Buff/Icon_Common_Debuff_Poison
-중독
-
-ID=600
-자가회복
-받은 대미지를 즉시 회복한다.
-Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
-
-ID=10000
-재생
-지속적으로 HP와 SG가 회복한다.
-Icon/Buff/Icon_Common_Buff_HP_Recovery
-회복
-
-ID=30018
-단단한 피부
-피해량을 30% 감소시킨다.
-Icon/Buff/Icon_Common_Buff_Def
-피해량 감소
 
 ID=30024
 -
@@ -2578,11 +2500,23 @@ ID=30034
 Icon/Buff/Icon_Common_Buff_ATK
 -
 
+ID=30036
+HP 감소
+0
+0
+HP 감소
+
 ID=30040
 HP 감소
 0
 0
 HP 감소
+
+ID=30041
+판도라의 상자
+주변 아군의 공격력을 30% 증가시킨다.
+Icon/Buff/Icon_Common_Buff_ATK
+공격력 증가
 
 ID=30042
 끈끈한 점액
@@ -2704,6 +2638,18 @@ HP 감소
 0
 HP 감소
 
+ID=30063
+노도/강인
+공격력과 방어력이 10% 증가한다.
+Icon/Buff/Icon_Common_Buff_Reg
+강화
+
+ID=30065
+HP 감소
+0
+0
+HP 감소
+
 ID=30066
 HP 감소
 0
@@ -2806,6 +2752,12 @@ ID=30142
 Icon/Buff/Icon_Common_Debuff_MSR
 둔화
 
+ID=30145
+HP 감소
+0
+0
+HP 감소
+
 ID=30146
 쇠약
 방어율이 50% 감소한다.
@@ -2826,8 +2778,8 @@ Icon/Buff/Icon_Common_Debuff_Poison
 
 ID=30204
 생명력
-身体が活性化し、持続的にHPが回復する。
-Icon/Buff/Icon_Common_Buff_HP_Recovery
+身体が活性化し、強力な力を感じる。
+Icon/Buff/Icon_Common_Buff_ATK
 浄化
 
 ID=30205
@@ -2986,17 +2938,107 @@ HP 회복
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP 회복
 
+ID=35012
+HP 감소
+0
+0
+HP 감소
+
+ID=35013
+HP 감소
+0
+0
+HP 감소
+
+ID=35015
+HP 감소
+0
+0
+HP 감소
+
+ID=35016
+HP 감소
+0
+0
+HP 감소
+
+ID=35018
+HP 감소
+0
+0
+HP 감소
+
+ID=35019
+HP 감소
+0
+0
+HP 감소
+
+ID=35023
+HP 감소
+0
+0
+HP 감소
+
+ID=35024
+HP 감소
+0
+0
+HP 감소
+
+ID=35030
+HP 감소
+0
+0
+HP 감소
+
+ID=35200
+HP 감소
+0
+0
+HP 감소
+
+ID=35201
+HP 감소
+0
+0
+HP 감소
+
 ID=35202
 기절
 10 초 동안 기절상태가 된다.
 Icon/Buff/Icon_Common_Debuff_Stun
 기절
 
+ID=35203
+HP 감소
+0
+0
+HP 감소
+
+ID=35204
+HP 감소
+0
+0
+HP 감소
+
 ID=35205
 무적
 데미지를 받지 않게 된다.
 Icon/Buff/Icon_Common_Buff_Immun
 무적
+
+ID=35206
+HP 감소
+0
+0
+HP 감소
+
+ID=35207
+HP 감소
+0
+0
+HP 감소
 
 ID=35300
 HP 감소
@@ -3034,6 +3076,18 @@ ID=35306
 Icon/Buff/Icon_Common_Debuff_Burn
 화상
 
+ID=35310
+HP 감소
+0
+0
+HP 감소
+
+ID=35311
+HP 감소
+0
+0
+HP 감소
+
 ID=35312
 이동속도 감소
 5 초간, 이동속도가 40% 감소한다.
@@ -3041,6 +3095,18 @@ Icon/Buff/Icon_Common_Debuff_MSR
 이동속도 감소
 
 ID=35313
+HP 감소
+0
+0
+HP 감소
+
+ID=35314
+HP 감소
+0
+0
+HP 감소
+
+ID=35315
 HP 감소
 0
 0
@@ -3085,6 +3151,78 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 ID=39004
 중독
 중독 상태가 되며 HP가 감소 한다.
+Icon/Buff/Icon_Common_Debuff_Poison
+중독
+
+ID=39005
+과부하
+잠시동안, 템페스트의 전체기능을 마비시킨다.
+Icon/Buff/Icon_Common_Debuff_Paralysis
+마비
+
+ID=39006
+과부하
+잠시동안, 템페스트의 전체기능을 마비시킨다.
+Icon/Buff/Icon_Common_Debuff_Paralysis
+마비
+
+ID=39007
+뱀파이어
+적에게 준 데미지의 일정량의 HP가 회복된다.
+Icon/Buff/Icon_Common_Buff_VampHP2
+HP 흡수
+
+ID=39008
+중화
+잠시동안, 라반의 흡혈능력을 봉인한다.
+Icon/Buff/Icon_Common_Debuff_Paralysis
+HP 흡수 제거
+
+ID=39009
+가속
+10 초간, 이동속도가 10% 증가한다.
+Icon/Buff/Icon_Common_Buff_MSR
+이동속도 증가
+
+ID=39010
+강습
+10 초간, 공격력이 상승한다.
+Icon/Buff/Icon_Common_Buff_ATK
+공격력 증가
+
+ID=39011
+마비
+2 초간, 마비상태가 된다.
+Icon/Buff/Icon_Common_Debuff_Paralysis
+마비
+
+ID=39012
+둔화
+10 초간, 이동속도가 감소한다.
+Icon/Buff/Icon_Common_Debuff_MSR
+이동속도 감소
+
+ID=39013
+마나마 클럽
+10 초간, 공격력이 감소한다.
+Icon/Buff/Icon_Common_DeBuff_ATK
+공격력 감소
+
+ID=39014
+중독
+10 초간, 중독상태가 된다.
+Icon/Buff/Icon_Common_Debuff_Poison
+중독
+
+ID=39015
+마비
+30 초간, 캐릭터가 움직일 수 없게 된다.
+Icon/Buff/Icon_Common_Debuff_Paralysis
+마비
+
+ID=39016
+중독
+30 초간, 중독상태가 된다.
 Icon/Buff/Icon_Common_Debuff_Poison
 중독
 
@@ -3148,18 +3286,6 @@ ID=40003
 Icon/Buff/Icon_Common_Buff_Revive
 가호
 
-ID=500
-사랑의 포로
-4 초간, 유혹상태가 되어 대상을 따라간다.
-Icon/Buff/Icon_Common_Debuff_Charm
-유혹
-
-ID=504
-여왕의 위엄
-5 초간, 마비상태가 되어 움직일 수 없게 된다.
-Icon/Buff/Icon_Common_Debuff_Paralysis
-마비
-
 ID=50001
 프로의 정비술
 장착 시, 5 초 마다 HP가 500 씩 회복한다.
@@ -3177,54 +3303,6 @@ ID=50003
 장착 시, 5 초 마다 HP가 700 씩 회복한다.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP 회복
-
-ID=51003
-회복
-HP를 초당 5% 씩 회복한다.
-Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
-
-ID=60001
-0
-0
-0
-0
-
-ID=60002
-0
-0
-0
-0
-
-ID=61000
-인터넷 카페 보너스
-인터넷 카페 연결 보너스
-Icon/Buff/Icon_PC_Buff_ExpBoost
-0
-
-ID=61001
-프리미엄 사용자
-고급 사용자를 위한 보너스.
-Icon/Buff/Icon_PC_Buff_ExpBoost
-0
-
-ID=61100
-파티 보너스
-2 명의 파티 결성 보너스.
-Icon/Buff/Icon_PC_Buff_ExpBoost
-0
-
-ID=61101
-파티 보너스
-3 명의 파티 결성 보너스.
-Icon/Buff/Icon_PC_Buff_ExpBoost
-0
-
-ID=61102
-파티 보너스
-4 명의 파티 결성 보너스.
-Icon/Buff/Icon_PC_Buff_ExpBoost
-0
 
 ID=50021
 경피화 Lv1
@@ -3256,17 +3334,17 @@ ID=50061
 Icon/Buff/Icon_Common_Buff_MSR
 이동속도 증가
 
-ID=50081
-일광욕 Lv1
-장착시, 일정시간마다 3%의 확률로 3초동안, HP가 매초 10%회복한다.
-Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
-
 ID=50071
 심안 Lv1
 공격 적중시 1% 확률로 명중률이 10% 감소, 공격력이 20% 상승한다.
 Icon/Buff/Icon_Common_Buff_ATK
 공격력 증가
+
+ID=50081
+일광욕 Lv1
+장착시, 일정시간마다 3%의 확률로 3초동안, HP가 매초 10%회복한다.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP 회복
 
 ID=50101
 진공 Lv1
@@ -3316,17 +3394,17 @@ ID=50181
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 스테미나 회복
 
-ID=50201
-민첩한 마초 Lv1
-피격시 5% 확률로 2 초간 회피율이 20% 상승한다.
-Icon/Buff/Icon_Common_Buff_Accuracy
-회피율 증가
-
 ID=50191
 갈루스의 역린 Lv1
 피격시 5% 확률로 2 초간 공격력이 10% 상승한다.
 Icon/Buff/Icon_Common_Buff_ATK
 공격력 증가
+
+ID=50201
+민첩한 마초 Lv1
+피격시 5% 확률로 2 초간 회피율이 20% 상승한다.
+Icon/Buff/Icon_Common_Buff_Accuracy
+회피율 증가
 
 ID=50211
 복수의 악마 Lv1
@@ -3343,6 +3421,12 @@ HP 회복
 ID=50541
 조용한 미소 Lv1
 장착시, 3초동안, HP가 매초 200회복한다.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP 회복
+
+ID=51003
+회복
+HP를 초당 5% 씩 회복한다.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP 회복
 
@@ -5214,37 +5298,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53736
 刃の天使Ⅰ
-装着時、クリティカルダメージ量が200上昇する。
+装着時、クリティカルダメージが200上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53737
 刃の天使Ⅱ
-装着時、クリティカルダメージ量が700上昇する。
+装着時、クリティカルダメージが700上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53738
 刃の天使Ⅲ
-装着時、クリティカルダメージ量が1200上昇する。
+装着時、クリティカルダメージが1200上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53739
 刃の天使Ⅰ
-装着時、クリティカルダメージ量が500上昇する。
+装着時、クリティカルダメージが500上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53740
 刃の天使Ⅱ
-装着時、クリティカルダメージ量が1000上昇する。
+装着時、クリティカルダメージが1000上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53741
 刃の天使Ⅲ
-装着時、クリティカルダメージ量が1500上昇する。
+装着時、クリティカルダメージが1500上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
@@ -5451,6 +5535,54 @@ ID=55122
 10 초간, 공격 적중시에 HP를 2% 회복한다.
 Icon/Buff/Icon_Common_Buff_Akashic
 흡혈
+
+ID=60000
+휴식 시간
+10 초 동안 모두의 HP를 회복한다.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP 회복
+
+ID=60001
+0
+0
+0
+0
+
+ID=60002
+0
+0
+0
+0
+
+ID=61000
+인터넷 카페 보너스
+인터넷 카페 연결 보너스
+Icon/Buff/Icon_PC_Buff_ExpBoost
+0
+
+ID=61001
+프리미엄 사용자
+고급 사용자를 위한 보너스.
+Icon/Buff/Icon_PC_Buff_ExpBoost
+0
+
+ID=61100
+파티 보너스
+2 명의 파티 결성 보너스.
+Icon/Buff/Icon_PC_Buff_ExpBoost
+0
+
+ID=61101
+파티 보너스
+3 명의 파티 결성 보너스.
+Icon/Buff/Icon_PC_Buff_ExpBoost
+0
+
+ID=61102
+파티 보너스
+4 명의 파티 결성 보너스.
+Icon/Buff/Icon_PC_Buff_ExpBoost
+0
 
 ID=63000
 HP 감소
@@ -5735,138 +5867,6 @@ HP 감소
 HP 감소
 
 ID=63047
-HP 감소
-0
-0
-HP 감소
-
-ID=30036
-HP 감소
-0
-0
-HP 감소
-
-ID=30065
-HP 감소
-0
-0
-HP 감소
-
-ID=30145
-HP 감소
-0
-0
-HP 감소
-
-ID=35012
-HP 감소
-0
-0
-HP 감소
-
-ID=35013
-HP 감소
-0
-0
-HP 감소
-
-ID=35019
-HP 감소
-0
-0
-HP 감소
-
-ID=35030
-HP 감소
-0
-0
-HP 감소
-
-ID=35015
-HP 감소
-0
-0
-HP 감소
-
-ID=35016
-HP 감소
-0
-0
-HP 감소
-
-ID=35018
-HP 감소
-0
-0
-HP 감소
-
-ID=35023
-HP 감소
-0
-0
-HP 감소
-
-ID=35024
-HP 감소
-0
-0
-HP 감소
-
-ID=35200
-HP 감소
-0
-0
-HP 감소
-
-ID=35201
-HP 감소
-0
-0
-HP 감소
-
-ID=35203
-HP 감소
-0
-0
-HP 감소
-
-ID=35204
-HP 감소
-0
-0
-HP 감소
-
-ID=35206
-HP 감소
-0
-0
-HP 감소
-
-ID=35207
-HP 감소
-0
-0
-HP 감소
-
-ID=35310
-HP 감소
-0
-0
-HP 감소
-
-ID=35311
-HP 감소
-0
-0
-HP 감소
-
-ID=35314
-HP 감소
-0
-0
-HP 감소
-
-ID=35315
 HP 감소
 0
 0

@@ -136,6 +136,24 @@ Attack Speed +10% for 10 seconds.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
+ID=500
+Loving Captive
+Enemies are charmed to target for 4 seconds.
+Icon/Buff/Icon_Common_Debuff_Charm
+Charmed
+
+ID=504
+The Queen's Majesty
+For 5 seconds, paralysis is inflicted.
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralyzed
+
+ID=600
+Self-recover
+Immediately recover damage received.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
++HP
+
 ID=1001
 Cursed Flame Lv1
 HP is reduced by 1%.
@@ -1162,12 +1180,6 @@ Erosion Ⅰ
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
-ID=6005
-Mad Reaper of Death
-Attack and Critical Rate are increased.
-Icon/Buff/Icon_Common_Buff_Reg
-0
-
 ID=6001
 Passive
 +SG
@@ -1184,6 +1196,12 @@ ID=6003
 Passive
 +SG
 Icon/Buff/Icon_Common_Buff_SG_Recovery
+0
+
+ID=6005
+Mad Reaper of Death
+Attack and Critical Rate are increased.
+Icon/Buff/Icon_Common_Buff_Reg
 0
 
 ID=6011
@@ -1409,7 +1427,7 @@ Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
 
 ID=6526
-Decade Pulse Ⅰ
+Decade Pulse
 Move speed reduced by 10%.
 Icon/Buff/Icon_Common_Debuff_MSR
 Move Speed ↓
@@ -1786,18 +1804,6 @@ Defense -30%.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
 
-ID=7501
-Overheat
-SG is fully restored.
-Icon/Buff/Icon_Common_Buff_SG_Recovery
-0
-
-ID=7502
-Overheat
-Skill cannot be used.
-Icon/Buff/Icon_Common_Debuff_Silence
-0
-
 ID=7071
 0
 0
@@ -1827,6 +1833,24 @@ ID=7075
 0
 0
 Soul Recovery
+
+ID=7501
+Overheat
+SG is fully restored.
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+0
+
+ID=7502
+Overheat
+Skill cannot be used.
+Icon/Buff/Icon_Common_Debuff_Silence
+0
+
+ID=10000
+Regeneration
+Continuous HP & SG recovery.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+Recover
 
 ID=20001
 +HP
@@ -2422,119 +2446,17 @@ Gain resistance to all status effects for 15 seconds.
 Icon/Buff/Icon_Common_Buff_Immun
 Invincible
 
-ID=30041
-Pandora's Box
-Increase nearby allies' attack by 30%.
-Icon/Buff/Icon_Common_Buff_ATK
-Attack Power ↑
+ID=30018
+Hardness
+Damage reduction increase 30%
+Icon/Buff/Icon_Common_Buff_Def
+Damage↓
 
 ID=30020
 Light and Darkness
 Recover nearby allies' HP by 1% per second. Effect will stack.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
-
-ID=30063
-Turbulent Waves/Tenacious
-Increase both attack and defense by 10%.
-Icon/Buff/Icon_Common_Buff_Reg
-Enhance
-
-ID=60000
-Break Time
-Recover everyone's HP for 10 seconds.
-Icon/Buff/Icon_Common_Buff_HP_Recovery
-+HP
-
-ID=39005
-Overload
-All of the tempest's abilities will be briefly disabled.
-Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
-
-ID=39006
-Overload
-All of the tempest's abilities will be briefly disabled.
-Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
-
-ID=39007
-Vampire
-Recover HP by a portion of the damage dealt.
-Icon/Buff/Icon_Common_Buff_VampHP2
-HP Absorption
-
-ID=39008
-Neutralization
-Laban's lifesteal powers have been sealed for a little while.
-Icon/Buff/Icon_Common_Debuff_Paralysis
-Dispel HP Absorb
-
-ID=39009
-Acceleration
-Move speed +10% for 10 seconds.
-Icon/Buff/Icon_Common_Buff_MSR
-Move Speed ↑
-
-ID=39010
-Sudden Attack
-Increased attack for 10 seconds.
-Icon/Buff/Icon_Common_Buff_ATK
-Attack Power ↑
-
-ID=39011
-Paralyzed
-Paralyzed for 2 seconds.
-Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
-
-ID=39012
-Slowed
-Reduced move speed for 10 seconds.
-Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
-
-ID=39013
-Dull
-Reduced attack for 10 seconds.
-Icon/Buff/Icon_Common_DeBuff_ATK
-Attack↓
-
-ID=39014
-Poisoned
-Poisoned effect for 10 seconds
-Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
-
-ID=39015
-Paralyzed
-Cannot move for 30 seconds
-Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
-
-ID=39016
-Poisoned
-Poisoned effect for 30 seconds
-Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
-
-ID=600
-Self-recover
-Immediately recover damage received.
-Icon/Buff/Icon_Common_Buff_HP_Recovery
-+HP
-
-ID=10000
-Regeneration
-Continuous HP & SG recovery.
-Icon/Buff/Icon_Common_Buff_HP_Recovery
-Recover
-
-ID=30018
-Hardness
-Damage reduction increase 30%
-Icon/Buff/Icon_Common_Buff_Def
-Damage↓
 
 ID=30024
 -
@@ -2578,11 +2500,23 @@ ID=30034
 Icon/Buff/Icon_Common_Buff_ATK
 -
 
+ID=30036
+HP↓
+0
+0
+HP↓
+
 ID=30040
 HP↓
 0
 0
 HP↓
+
+ID=30041
+Pandora's Box
+Increase nearby allies' attack by 30%.
+Icon/Buff/Icon_Common_Buff_ATK
+Attack Power ↑
 
 ID=30042
 Sticky Mucus
@@ -2704,6 +2638,18 @@ HP↓
 0
 HP↓
 
+ID=30063
+Turbulent Waves/Tenacious
+Increase both attack and defense by 10%.
+Icon/Buff/Icon_Common_Buff_Reg
+Enhance
+
+ID=30065
+HP↓
+0
+0
+HP↓
+
 ID=30066
 HP↓
 0
@@ -2806,6 +2752,12 @@ Slowed
 Icon/Buff/Icon_Common_Debuff_MSR
 Slowed
 
+ID=30145
+HP↓
+0
+0
+HP↓
+
 ID=30146
 Weakness
 Defense -50%.
@@ -2826,8 +2778,8 @@ Contamination
 
 ID=30204
 Vitality
-Body stimulated, continuously recover HP.
-Icon/Buff/Icon_Common_Buff_HP_Recovery
+身体が活性化し、強力な力を感じる。
+Icon/Buff/Icon_Common_Buff_ATK
 Purification
 
 ID=30205
@@ -2986,17 +2938,107 @@ HP -10% per second for 2 seconds.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
+ID=35012
+HP↓
+0
+0
+HP↓
+
+ID=35013
+HP↓
+0
+0
+HP↓
+
+ID=35015
+HP↓
+0
+0
+HP↓
+
+ID=35016
+HP↓
+0
+0
+HP↓
+
+ID=35018
+HP↓
+0
+0
+HP↓
+
+ID=35019
+HP↓
+0
+0
+HP↓
+
+ID=35023
+HP↓
+0
+0
+HP↓
+
+ID=35024
+HP↓
+0
+0
+HP↓
+
+ID=35030
+HP↓
+0
+0
+HP↓
+
+ID=35200
+HP↓
+0
+0
+HP↓
+
+ID=35201
+HP↓
+0
+0
+HP↓
+
 ID=35202
 Stunned
 Become mesmerized in 10 seconds.
 Icon/Buff/Icon_Common_Debuff_Stun
 Stunned
 
+ID=35203
+HP↓
+0
+0
+HP↓
+
+ID=35204
+HP↓
+0
+0
+HP↓
+
 ID=35205
 Invincible
 Cannot receive damage.
 Icon/Buff/Icon_Common_Buff_Immun
 Invincible
+
+ID=35206
+HP↓
+0
+0
+HP↓
+
+ID=35207
+HP↓
+0
+0
+HP↓
 
 ID=35300
 HP↓
@@ -3034,6 +3076,18 @@ HP reduce per second.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
+ID=35310
+HP↓
+0
+0
+HP↓
+
+ID=35311
+HP↓
+0
+0
+HP↓
+
 ID=35312
 Move Speed ↓
 Movement Speed -40% for 5 seconds.
@@ -3041,6 +3095,18 @@ Icon/Buff/Icon_Common_Debuff_MSR
 Move Speed ↓
 
 ID=35313
+HP↓
+0
+0
+HP↓
+
+ID=35314
+HP↓
+0
+0
+HP↓
+
+ID=35315
 HP↓
 0
 0
@@ -3085,6 +3151,78 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 ID=39004
 Poisoned
 Take damage due to poison.
+Icon/Buff/Icon_Common_Debuff_Poison
+Poisoned
+
+ID=39005
+Overload
+All of the tempest's abilities will be briefly disabled.
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralyzed
+
+ID=39006
+Overload
+All of the tempest's abilities will be briefly disabled.
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralyzed
+
+ID=39007
+Vampire
+Recover HP by a portion of the damage dealt.
+Icon/Buff/Icon_Common_Buff_VampHP2
+HP Absorption
+
+ID=39008
+Neutralization
+Laban's lifesteal powers have been sealed for a little while.
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Dispel HP Absorb
+
+ID=39009
+Acceleration
+Move speed +10% for 10 seconds.
+Icon/Buff/Icon_Common_Buff_MSR
+Move Speed ↑
+
+ID=39010
+Sudden Attack
+Increased attack for 10 seconds.
+Icon/Buff/Icon_Common_Buff_ATK
+Attack Power ↑
+
+ID=39011
+Paralyzed
+Paralyzed for 2 seconds.
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralyzed
+
+ID=39012
+Slowed
+Reduced move speed for 10 seconds.
+Icon/Buff/Icon_Common_Debuff_MSR
+Move Speed ↓
+
+ID=39013
+Dull
+Reduced attack for 10 seconds.
+Icon/Buff/Icon_Common_DeBuff_ATK
+Attack↓
+
+ID=39014
+Poisoned
+Poisoned effect for 10 seconds
+Icon/Buff/Icon_Common_Debuff_Poison
+Poisoned
+
+ID=39015
+Paralyzed
+Cannot move for 30 seconds
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralyzed
+
+ID=39016
+Poisoned
+Poisoned effect for 30 seconds
 Icon/Buff/Icon_Common_Debuff_Poison
 Poisoned
 
@@ -3148,18 +3286,6 @@ When dead for less than 60 minutes, you can be revived.
 Icon/Buff/Icon_Common_Buff_Revive
 Divine Protection
 
-ID=500
-Loving Captive
-Enemies are charmed to target for 4 seconds.
-Icon/Buff/Icon_Common_Debuff_Charm
-Charmed
-
-ID=504
-The Queen's Majesty
-For 5 seconds, paralysis is inflicted.
-Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
-
 ID=50001
 Professional Surgical Operation
 +500 HP every 5 seconds.
@@ -3177,54 +3303,6 @@ Professional Surgical Operation
 +700 HP every 5 seconds.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
-
-ID=51003
-Recover
-Recover 5% HP per second.
-Icon/Buff/Icon_Common_Buff_HP_Recovery
-+HP
-
-ID=60001
-0
-0
-0
-0
-
-ID=60002
-0
-0
-0
-0
-
-ID=61000
-Netcafe Bonus
-Netcafe Connection Bonus
-Icon/Buff/Icon_PC_Buff_ExpBoost
-0
-
-ID=61001
-Premium User
-Bonus for premium users.
-Icon/Buff/Icon_PC_Buff_ExpBoost
-0
-
-ID=61100
-Party Bonus
-2 Party Bonus.
-Icon/Buff/Icon_PC_Buff_ExpBoost
-0
-
-ID=61101
-Party Bonus
-3 Party Bonus.
-Icon/Buff/Icon_PC_Buff_ExpBoost
-0
-
-ID=61102
-Party Bonus
-4 Party Bonus.
-Icon/Buff/Icon_PC_Buff_ExpBoost
-0
 
 ID=50021
 Hard Skin Lv1
@@ -3256,17 +3334,17 @@ Dashing Sprint Lv1
 Icon/Buff/Icon_Common_Buff_MSR
 Move Speed ↑
 
-ID=50081
-Sunbathing Lv1
-3% chance of +10% HP per second for 3s.
-Icon/Buff/Icon_Common_Buff_HP_Recovery
-+HP
-
 ID=50071
 Mind's Eye Lv1
 On hit, 1% chance of -10% Accuracy, +20% Attack.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
+
+ID=50081
+Sunbathing Lv1
+3% chance of +10% HP per second for 3s.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
++HP
 
 ID=50101
 Vacuum Lv1
@@ -3316,17 +3394,17 @@ On jump, 1% chance of +5% Stamina.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +Stamina
 
-ID=50201
-Keen Macho Lv1
-When hit, 5% chance of +20% Evasion for 2s.
-Icon/Buff/Icon_Common_Buff_Accuracy
-Evasion↑
-
 ID=50191
 Gallus' Wrath Lv1
 When hit, 5% chance of +10% Attack for 2s.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
+
+ID=50201
+Keen Macho Lv1
+When hit, 5% chance of +20% Evasion for 2s.
+Icon/Buff/Icon_Common_Buff_Accuracy
+Evasion↑
 
 ID=50211
 Vengeful Ghost Lv1
@@ -3343,6 +3421,12 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 ID=50541
 Quiet Smile Lv1
 +200 HP per second for 3s.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
++HP
+
+ID=51003
+Recover
+Recover 5% HP per second.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -5214,37 +5298,37 @@ SG Cost Reduced
 
 ID=53736
 Blade's Angel Ⅰ
-+200 Critical Damage
+装着時、クリティカルダメージが200上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage Increased
 
 ID=53737
 Blade's Angel Ⅱ
-+700 Critical Damage
+装着時、クリティカルダメージが700上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage Increased
 
 ID=53738
 Blade's Angel Ⅲ
-+1200 Critical Damage
+装着時、クリティカルダメージが1200上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage Increased
 
 ID=53739
 Blade's Angel Ⅰ
-+500 Critical Damage
+装着時、クリティカルダメージが500上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage Increased
 
 ID=53740
 Blade's Angel Ⅱ
-+1000 Critical Damage
+装着時、クリティカルダメージが1000上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage Increased
 
 ID=53741
 Blade's Angel Ⅲ
-+1500 Critical Damage
+装着時、クリティカルダメージが1500上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage Increased
 
@@ -5451,6 +5535,54 @@ Vampire
 On hit, +(2% of damage) HP over 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Vampire
+
+ID=60000
+Break Time
+Recover everyone's HP for 10 seconds.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
++HP
+
+ID=60001
+0
+0
+0
+0
+
+ID=60002
+0
+0
+0
+0
+
+ID=61000
+Netcafe Bonus
+Netcafe Connection Bonus
+Icon/Buff/Icon_PC_Buff_ExpBoost
+0
+
+ID=61001
+Premium User
+Bonus for premium users.
+Icon/Buff/Icon_PC_Buff_ExpBoost
+0
+
+ID=61100
+Party Bonus
+2 Party Bonus.
+Icon/Buff/Icon_PC_Buff_ExpBoost
+0
+
+ID=61101
+Party Bonus
+3 Party Bonus.
+Icon/Buff/Icon_PC_Buff_ExpBoost
+0
+
+ID=61102
+Party Bonus
+4 Party Bonus.
+Icon/Buff/Icon_PC_Buff_ExpBoost
+0
 
 ID=63000
 HP↓
@@ -5735,138 +5867,6 @@ HP↓
 HP↓
 
 ID=63047
-HP↓
-0
-0
-HP↓
-
-ID=30036
-HP↓
-0
-0
-HP↓
-
-ID=30065
-HP↓
-0
-0
-HP↓
-
-ID=30145
-HP↓
-0
-0
-HP↓
-
-ID=35012
-HP↓
-0
-0
-HP↓
-
-ID=35013
-HP↓
-0
-0
-HP↓
-
-ID=35019
-HP↓
-0
-0
-HP↓
-
-ID=35030
-HP↓
-0
-0
-HP↓
-
-ID=35015
-HP↓
-0
-0
-HP↓
-
-ID=35016
-HP↓
-0
-0
-HP↓
-
-ID=35018
-HP↓
-0
-0
-HP↓
-
-ID=35023
-HP↓
-0
-0
-HP↓
-
-ID=35024
-HP↓
-0
-0
-HP↓
-
-ID=35200
-HP↓
-0
-0
-HP↓
-
-ID=35201
-HP↓
-0
-0
-HP↓
-
-ID=35203
-HP↓
-0
-0
-HP↓
-
-ID=35204
-HP↓
-0
-0
-HP↓
-
-ID=35206
-HP↓
-0
-0
-HP↓
-
-ID=35207
-HP↓
-0
-0
-HP↓
-
-ID=35310
-HP↓
-0
-0
-HP↓
-
-ID=35311
-HP↓
-0
-0
-HP↓
-
-ID=35314
-HP↓
-0
-0
-HP↓
-
-ID=35315
 HP↓
 0
 0
