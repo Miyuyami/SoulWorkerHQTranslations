@@ -868,6 +868,12 @@ Whisper
 ID=506
 Befriend
 
+ID=508
+アイテム使用回数：{0}/{1}
+
+ID=509
+※アイテム使用回数を超過したため復活できません。
+
 ID=510
 Revive
 
@@ -1175,7 +1181,7 @@ ID=651
 The dungeon can be entered when everyone accepts.\n(Members in a different town.\nMembers that are logged out.)
 
 ID=652
-The party leader has requested to enter the dungeon. Do you wish to join?\nLocation: [{0}]\nEpisode: [{1}]\nDifficulty: [{2}]\n({3} second(s) remaining)
+パーティーリーダーがメイズ入場を要請しています。入場しますか？\n入場エリア：[{0}]\nエピソード：[{1}]\n難易度：[{2}]\n(残り時間：{3}秒)
 
 ID=653
 {0} Party Members have refused to join the dungeon.
@@ -1352,7 +1358,7 @@ ID=739
 Party Only [4 People]
 
 ID=740
-FP Consumption
+疲労度消費
 
 ID=741
 Requires an admission ticket.
@@ -3479,7 +3485,7 @@ ID=5841
 <font color='#FFFFFF' size='30'>TIP: </font>Clicking the "i" icon at the top right corner will open <font color='#00D8FF'>[Help]</font>, where various information about the game can be found.
 
 ID=5842
-<font color='#FFFFFF' size='30'>TIP: </font>Entering a dungeon will consume <font color='#00D8FF'>[FP]</font>.
+<font color='#FFFFFF'><font size="30">TIP：</font>メイズに入場すると<font color='#00D8FF'>[疲労度]</font>を消費します。
 
 ID=5843
 <font color='#FFFFFF' size='30'>TIP: </font>Level up your <font color='#00D8FF'>Skills</font> and <font color='#00D8FF'>Abilities</font> according to your own play style.
@@ -3812,7 +3818,7 @@ ID=6057
 Please use an A.R card with the same rarity as the crafting target.
 
 ID=6058
-You cannot use Draw-type A.R cards in this area.
+このエリアではDRAWタイプのA.Rカードを使用できません。
 
 ID=6059
 The Nebula grade or above is registered.\nWould you like to craft?
@@ -4454,7 +4460,7 @@ ID=10041
 NED Company has been conducting secret research in their secret research facility.\nIt has been shut down due to the recent incident.
 
 ID=10042
-The Veshi's Rapid Flame Faction has\ntaken over the highways on the outskirts of Candus City.\nIn order to reclaim the occupied area, the Starry Forest League will execute a joint-operation with NED Company.
+ヴェシのラピッドフレイム勢力に占拠された\nカンダスシティ近郊の高速道路。\n現在スタリーフォレスト連合がこのエリアを奪還するため、ネッドカンパニーと共同作戦を繰り広げている。
 
 ID=10043
 The western branch of NED Company is being\noccupied by the Rapid Flame Faction led by the breezy witch named\n"Poison".
@@ -5237,7 +5243,7 @@ ID=15061
 A virtual training program designed for Soulworkers; it can simulate the monsters from the database, then an experience just like a real battle begins. However, since it spends a lot of energy, it cannot be used frequently.
 
 ID=15062
-An area completely ravaged by the Void. Soul Junk constantly appear in the area, and the Starry Forest League has forbidden any civilians from entering.
+空白によって完全に廃墟と化したエリア。持続的にソウルジャンクが発生しており、スタリーフォレスト連合は立入禁止区域に指定。民間人の立ち入りを禁止している。
 
 ID=15063
 A mysterious distortion that appeared out of nowhere released many puppets out into the world. No one knows why they appeared. However, they did know the power and the hostility that the puppets showed towards them.
@@ -6176,10 +6182,10 @@ ID=20130
 バニー
 
 ID=20131
-可愛らしいポーズを取ります。
+レッツバニー。
 
 ID=20132
-{0}が可愛らしいポーズを取ります。
+{0}がレッツバニーをします。
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -6215,7 +6221,7 @@ ID=20310
 You have no dismantling permission for the selected item.
 
 ID=20400
-During FP Recovery, 
+疲労度回復中…
 
 ID=20401
 Less than 1 minute
@@ -6320,22 +6326,22 @@ ID=21031
 For acquiring the maximum amount of favorability with {0} in a day, no more can be accumulated.\n [Resets at 8PM ET, 5PM PT]
 
 ID=21032
-Cannot enter the dungeon due to insufficient FP.
+疲労度が不足しているため、メイズに入場できません。
 
 ID=21033
-Cannot enter the dungeon because {0} does not have sufficient FP.
+{0}の疲労度が不足しているため、メイズに入場できません。
 
 ID=21034
-Insufficient FP. You cannot use the Find Party feature.
+疲労度が足りないため、このエピソードではパーティ検索機能を使用できません。
 
 ID=21035
-You can only use it on base FP state.
+基本疲労度状態でのみ使用できます。
 
 ID=21036
 The usage limit has been reached. You can use it again in {0} hours.
 
 ID=21037
-The FP recovery potion will exceed the total amount of FP. Are you sure you want to use?
+アイテム使用で回復する疲労度が基本疲労度の総量を超過します。使用しますか？
 
 ID=21038
 Character cannot use the item.
@@ -6347,7 +6353,7 @@ ID=21040
 Daily Usage Restriction: [{0}/{1}]
 
 ID=21041
-This item cannot be used because your basic FP (200) is maxed.
+基本疲労度(200)がMAXの状態ではアイテムを使用できません。
 
 ID=21051
 This item cannot be used because your HP is maxed.
@@ -7388,7 +7394,7 @@ ID=22684
 乗り物ウィンドウ開く/閉じる
 
 ID=23000
-Base FP has been recovered.
+基本疲労度が全回復しました。
 
 ID=23001
 Bonus Fatigue Points {0}
@@ -7400,7 +7406,7 @@ ID=23003
 Fatigue {0}
 
 ID=23004
-FP Information
+疲労度情報
 
 ID=23005
 ネカフェ疲労度{0}
@@ -7526,7 +7532,7 @@ ID=24267
 Consumables
 
 ID=24268
-FP Consumption
+疲労度消費
 
 ID=24269
 Function
@@ -7766,7 +7772,7 @@ ID=24517
 Consumables
 
 ID=24518
-FP Consumption
+疲労度消費
 
 ID=24519
 Package
@@ -9212,7 +9218,7 @@ ID=26327
 On hit, 2% chance of +{0} Stamina
 
 ID=26328
-+{0}% Movement Speed in combat zone
+戦闘エリアでの移動速度{0}%増加
 
 ID=26329
 When hit, 15% chance of +{0}% Defense for 5s
@@ -9833,7 +9839,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 14/Sep/2016 1:15 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 30/Sep/2016 7:00 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -10286,7 +10292,7 @@ ID=28221
 {0}/{1}
 
 ID=28222
-Acquired by Guild Members when consuming FP\nUp to a maximum of 200 FP consumed per day\nGuild's maximum EXP gain per day is {0}
+ギルドメンバーの疲労度消費で獲得\n1人当たり一日最大200獲得\nギルド経験値一日最大{0}獲得
 
 ID=28223
 Lv
@@ -11180,10 +11186,10 @@ ID=31145
 You may not enter the dungeon again as a party member has left.
 
 ID=31146
-Insufficient FP to enter the dungeon. Re-entry has been denied.
+疲労度が不足しているため、メイズに再挑戦できません。
 
 ID=31147
-Insufficient FP for entering the dungeon. Requires {0} FP.
+{0}の疲労度が不足しているため、メイズに再挑戦できません。
 
 ID=31148
 The dungeon has a re-entry cooldown of {0} seconds.
@@ -12112,6 +12118,12 @@ Cannot enter.
 ID=37020
 Entrance Time
 
+ID=37025
+第6区域の未知の生命体が討伐されました。\nイベント終了まで：残り{0}分
+
+ID=37026
+第6区域に未知の生命体が出現しました。\nイベント終了まで：残り{0}分
+
 ID=37500
 ソウルハンター進行
 
@@ -12155,10 +12167,10 @@ ID=37515
 ▼
 
 ID=37516
-#メイズ \n-それぞれの通常難易度メイズ入場及びクリア時、点数付与(差等付与)\n-それぞれのVery Hard難易度メイズクリア時、点数付与(差等付与)\n-1人でメイズクリア時、ボーナス点数付与\n-復活アイテム不使用時、ボーナス点数付与\n-獲得アイテム不使用時、ボーナス点数付与\n\n#スチールグレイブ \n-スチールグレイブ入場時、点数付与\n-それぞれのスチールグレイブのチャプタークリア時、点数付与(差等付与)\n\n#レイド\n-レイド入場時、点数付与\n-それぞれのカジュアルレイドクリア時、点数付与(差等付与)
+#メイズ \n-各メイズのノーマル入場及びクリア時、点数付与(差等付与)\n-各メイズのベリーハードクリア時、点数付与(差等付与)\n-1人でメイズクリア時、ボーナス点数付与\n-復活アイテム不使用時、ボーナス点数付与\n-獲得アイテム不使用時、ボーナス点数付与\n\n#スチールグレイブ \n-スチールグレイブ入場時、点数付与\n-それぞれのスチールグレイブのチャプタークリア時、点数付与(差等付与)\n\n#レイド\n-レイド入場時、点数付与\n-それぞれのカジュアルレイドクリア時、点数付与(差等付与)
 
 ID=37517
-期間：月曜日09:00～日曜日21:00(7日間、毎週進行)\n\n結果発表：毎週日曜日22時00分\n\nボーナス点数項目(通常メイズ)\n -パーティー禁止\n -回復ポーション使用禁止\n -バフポーション使用禁止\n\n#スチールグレイブ及びカジュアルレイドには\nボーナス点数はなく、通常メイズにクリア点数が高い。
+期間：月曜日09:00～日曜日21:00(7日間、毎週進行)\n\n結果発表：毎週日曜日22時00分\n\nボーナス点数項目(ノーマルメイズ)\n -パーティー禁止\n -回復ポーション使用禁止\n -バフポーション使用禁止\n\n#スチールグレイブ及びカジュアルレイドには\nボーナス点数はなく、ノーマルメイズのクリア点数が高い。
 
 ID=37518
 個人報酬情報
@@ -12275,7 +12287,7 @@ ID=38003
 Trading fee reduced by {0}%
 
 ID=38004
-Obtained {0} FP.
+追加疲労度{0}
 
 ID=38005
 Enhance Success Rate +{0}%
@@ -12302,10 +12314,10 @@ ID=38012
 スタミナ{0}増加
 
 ID=38013
-ネットカフェ専用疲労度100増加
+ネットカフェ専用疲労度200増加
 
 ID=38014
-特殊メイズ入場回数2倍
+特殊メイズ入場回数1増加
 
 ID=38015
 結果報酬EXP{0}%増加
@@ -12926,7 +12938,7 @@ ID=40250
 When the controller is operating, 1 to 15 enemies will appear.
 
 ID=40251
-When the Heavy Cell appears, some movement slowing spots on the ground will appear.
+ヘビーセルは、出現時に移動速度を減少させるエリアを発生させます。
 
 ID=40252
 The main EMP will attack everything; it will be activated when you approach it.
@@ -12941,7 +12953,7 @@ ID=40255
 When the cube is destroyed, all players will be paralyzed and a magnetic field will be generated.
 
 ID=40256
-The two devices will raise the enemy's strength in sequential order.
+2個のデバイスは、敵を強化するエリアを順番に発生させます。
 
 ID=40257
 When the controller is activated, enemies will appear.
@@ -13049,7 +13061,7 @@ ID=40291
 Periodically, every 30 seconds, the player will be inflicted by a heavy-damaging debuff.\n Destroy the cubes to prevent further debuffs from being applied.
 
 ID=40292
-Every 15 seconds, magnetic waves may appear at various areas and damage the player.
+15秒ごとに、各エリアでプレイヤーにダメージを与える磁気フィールドウェーブが発生します。
 
 ID=40293
 Glutton has appeared. After defeating glutton,\n you can earn a variety of rewards.
@@ -13178,13 +13190,13 @@ ID=40421
 Please operate the center magnetic-field generating device.
 
 ID=40422
-Until the magnetic-field generating device has fully charged, please defend it from oncoming enemies.
+磁気フィールド発生装置のチャージが完了するまで、チャージ装置を敵から守ってください。
 
 ID=40423
-Because a charging device was destroyed, the maximum charge capacity has decreased thus the charging time has increased.
+チャージ装置が破壊されたためチャージ量が減少し、完了までの時間が増加しました。
 
 ID=40424
-All charging devices have been destroyed. You may no longer progress.
+チャージ装置が全て破壊されたため作戦が失敗しました。これ以上進行できません。
 
 ID=40425
 The magnetic field charging device has fully charged.\n Retreat back to the safety zone before the field is generated.
@@ -13235,7 +13247,7 @@ ID=40446
 A container has blocked the road. Please use the switch to move the container away with a crane.
 
 ID=40447
-Bombardment by the Tempest Forces from the outer vicinity will begin.
+外郭エリアからのテンペストによる砲撃が始まります。
 
 ID=40448
 The bombardment of the Rapid Flames Faction will begin, please evacuate immediately.
@@ -13418,7 +13430,7 @@ ID=40516
 The elevator will stop soon.
 
 ID=40601
-After defeating all enemies in the 4th area, unseal the door to continue.
+4つのエリアにいる敵を全て討伐すると、終末の館へと続くポータルが開きます。
 
 ID=40602
 After releasing the crystal's seal, a battle will commence.
@@ -13469,7 +13481,7 @@ ID=40617
 Upon destroying all 3 Venom Flowers, Pandemonia will be stunned.
 
 ID=40618
-The battle will begin after you leave the safety area.
+安全エリアを出るとすぐに戦闘が始まります。
 
 ID=40619
 The Primal is in contamination state.\nGetting in the contaminated area will instantly kill you.
@@ -13478,10 +13490,10 @@ ID=40620
 The Primal is inhaling a deep breath.
 
 ID=40621
-If you use a special type of void, you are able to enter with a maximum of 4 people inside The Primal.\nSpecial type of voids disappear in 30 seconds.
+特異型空白に入ると、プライマルの内部に最大4人まで進入できます。\n特異型空白は30秒後に消えます。
 
 ID=40622
-The core of The Primal will produce an unstable gas that deals damages periodically.
+プライマルの核は不安定なガスを周期的に発生させ、ダメージを与えます。
 
 ID=40623
 Defeating all summoned core's guardians will grant temporary immunity to The Primal's interior unstable gas.
@@ -13490,19 +13502,22 @@ ID=40624
 The powerful core's guardian will be summoned soon.\nThe guardian won't disappear until the core is defeated.
 
 ID=40625
-連合の浄化装置を使用すると、汚染状態が活力状態に変更され、強力な力を得ることができます。\nただし、汚染状態でない場合は変更されません。
+浄化装置を使用すると、汚染状態が活力状態に変わり、強力な力を得ることができます。\nただし、汚染状態の場合のみです。
 
 ID=40626
-深手を負ったプライマルが咆哮し、最後の足掻きを始めます。\n持続的にダメージを与える汚染された血が足元に広がっています。
+深手を負ったプライマルが最後の足掻きを始めます。\n持続的にダメージを与える汚染された血が足元に広がっています。
 
 ID=40627
 The Primal is going to grab the targets that are in from of it.
 
 ID=40628
-警告！注意してください。\n万が一、活力状態でない場合、攻略が難しくなります。
+警告！\n活力状態でない場合、全滅してしまいます。
 
 ID=40629
 メンバーがローディング中です。
+
+ID=40630
+プライマルの巨大な腕が召喚されました。\n巨大な腕は距離によってスキルを使用します。
 
 ID=42000
 Jack the King
@@ -15761,7 +15776,7 @@ ID=47007
 Board Helicopter
 
 ID=47008
-対象のソケットにパーツを装着しますか？\n(該当ソケットにパーツを装着している場合、既存のパーツは消えます)
+対象ソケットにパーツを装着しますか？\n(該当ソケットにパーツを装着している場合、既存パーツはなくなります)
 
 ID=47009
 乗り物アイテムを装着しますか？
@@ -15770,25 +15785,25 @@ ID=47010
 搭乗解除
 
 ID=47011
-装備充電
+装備チャージ
 
 ID=47012
-全体充電
+全体チャージ
 
 ID=47013
-保有中の全ての乗り物を充電しますか？\n-充電費用：{0}ジェニー-
+保有中の全ての乗り物をチャージしますか？\n-チャージ費用：{0}ジェニー-
 
 ID=47014
-装備中の{0}を充電しますか？\n-充電費用：{1}ジェニー-
+装備中の{0}をチャージしますか？\n-チャージ費用：{1}ジェニー-
 
 ID=47015
-装備中の乗り物を充電しますか？\n-充電費用：{0}ジェニー-
+装備中の乗り物をチャージしますか？\n-チャージ費用：{0}ジェニー-
 
 ID=47016
 装備パーツなし
 
 ID=47017
-充電
+チャージ
 
 ID=47018
 乗り物のブースターゲージが最高値です。
@@ -17438,7 +17453,7 @@ ID=53032
 Cannot expel members in dungeon.
 
 ID=53101
-FPが不足しているため、該当エピソードではフォース探索機能を使用できません。
+疲労度が不足しているため、該当エピソードではフォース探索機能を使用できません。
 
 ID=53102
 Cannot invite players that are already in a dungeon to the force.
@@ -17597,22 +17612,22 @@ ID=53153
 メンバーがオートフォースマッチングを中止しました。
 
 ID=53154
-マッチングできず、オートフォースマッチングが終了しました。
+オートフォースマッチングできず終了しました。
 
 ID=53155
 メンバーがログアウト状態のため、オートフォースマッチングが終了しました。
 
 ID=53156
-フォースでのみ入場ができる場所です。
+フォース状態でのみ入場できるエリアです。
 
 ID=53157
-パーティー状態でのみ入場可能です。
+This area can only be entered while in a party.
 
 ID=53158
 フォース状態では該当機能を使用できません。
 
 ID=53159
-別のエリアにいるユーザーは、フォースへ招待できません。
+他のエリアにいるユーザーはフォースに招待できません。
 
 ID=54001
 The mission is already active.
@@ -17789,7 +17804,7 @@ ID=55043
 Cannot make purchases; you are in a boss battle.
 
 ID=55044
-You cannot join the queue because you have no FP left.
+疲労度が不足しているため、オートマッチングができません。
 
 ID=55047
 Cannot enter the dungeon because a party member is not in the same channel.
@@ -18404,7 +18419,7 @@ ID=59400
 乗り物を保有していません。
 
 ID=59401
-充電に失敗しました。
+チャージに失敗しました。
 
 ID=59402
 パーツの装着に失敗しました。
@@ -18794,7 +18809,7 @@ ID=60270
 現在フォースに志願できるレベルではありません。
 
 ID=60271
-Stop force matching
+Cancel
 
 ID=60272
 フォースが戦闘進行中です。\n今、乱入しますか？\n-残り：{0}秒-
@@ -18863,7 +18878,7 @@ ID=60293
 Match Retrying {0}/{1}
 
 ID=60294
-オートフォースマッチングを中止すると、申請したメンバー全て中止されます。\n中止しますか？
+オートフォースマッチングを中止すると、申請したメンバー全員が中止されます。\n中止しますか？
 
 ID=60500
 Force 4~8 People
