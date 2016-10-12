@@ -235,8 +235,8 @@ Icon/Item/Cash/ETC_0_FormatDevice
 0
 0
 0
-[許可証]スチールグレイブ
-スチールグレイブでの戦闘データを\n削除するプログラムが内蔵されている機械。\nこの施設の入場は一日三回と制限されているが、\n戦闘データを強制的に削除することで、\n何度でも入場できるようになる。\nしかし、一度使用すると壊れてしまう。\n\n[スチールグレイブ初期化アイテム]
+[Permit] Steel Grave
+Machine which has a program that deletes battle data from Steel Grave. Although the entry for this place is limited to 3 per day, it can be reset with this item. However, it disappears once you use it.\n\n[Steel Grave Reset Item]
 
 ID=800006003
 Icon/Item/Consumption/CON_0_CasualRaidTicket_01
@@ -245,7 +245,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_01
 0
 0
 0
-[許可証]ラストカーニバル
+[Permit] Last Carnival
 Required to enter a specific area where a space abnormality occured.\nSoulworkers aren't an exception.\nSince it can only be used once, ready yourself before using it.\n\n[Casual Raid Entry Limit Reset]\nLast Carnival
 
 ID=800006004
@@ -255,7 +255,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_02
 0
 0
 0
-[許可証]ジャンクハイブ
+[Permit] Junk Hive
 Required to enter a specific area where a space abnormality occured.\nSoulworkers aren't an exception.\nSince it can only be used once, ready yourself before using it.\n\n[Casual Raid Entry Limit Reset]\nJunk Hive
 
 ID=800006005
@@ -265,7 +265,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_03
 0
 0
 0
-[許可証]バンディットハイウェイ
+[Permit] Bandit's Highway
 Required to enter a specific area where a space abnormality occured.\nSoulworkers aren't an exception.\nSince it can only be used once, ready yourself before using it.\n\n[Casual Raid Entry Limit Reset]\nBandit's Highway
 
 ID=800006006
@@ -275,7 +275,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_04
 0
 0
 0
-[許可証]アイアンキャッスル
+[Permit] Iron Castle
 Required to enter a specific area where a space abnormality occured.\nSoulworkers aren't an exception.\nSince it can only be used once, ready yourself before using it.\n\n[Casual Raid Entry Limit Reset]\nIron Castle
 
 ID=800006007
@@ -285,7 +285,7 @@ Icon/Item/Consumption/CON_0_DistrictRaidTicket_01
 0
 0
 0
-[遂行証]金色の前兆
+[Permit] Golden Citadel
 黄金空白：ゴールデンシタデルの立ち入りに必要。\n理由は不明だが、異常空白の敵を討伐すると獲得できる。\nまさか、それ相応の力を持つ者にしか\n渡さないようにしている…？\n\n[ディストリクトレイド入場券]ゴールデンシタデル
 
 ID=800006008
@@ -296,7 +296,7 @@ Icon/Item/Consumption/CON_0_CasualRaidTicket_05
 0
 0
 [Special Permit] Space Abnormality
-異常空白発生地域の立ち入りが\n許されたことを証明するカード。\nたとえソウルワーカーといえど、異常空白に入るためには、このカードが必要。\n1度しか使用できないため、\n準備はしっかりしよう。\n\n[カジュアルレイド入場回数1回減少]\nカジュアルレイド全体
+Certification card that approves the permission to enter areas where space abnormality occur.\nEven if you are a Soulworker, this certification card is needed to enter the area.\nSince it can only be used once, ready yourself before using it.\n\n[Casual Raid Limit Decreased by 1]\nAll Casual Raids
 
 ID=800006009
 Icon/Item/Consumption/CON_0_DistrictRaidTicket_02
@@ -16316,7 +16316,7 @@ Icon/Item/Quest/Quest_0406_IndividualDevice
 0
 0
 Electric Generator
-The power source of the Heavy Sprinter X. \nBy remodeling this, the power should be able to be used. \nAlthough, this never been attempted... [Quest Item]
+The power source of the Heavy Splinter X. \nBy remodeling this, the power should be able to be used. \nAlthough, this never been attempted... [Quest Item]
 
 ID=906011051
 Icon/Item/Quest/Quest_0407_ReceiveDevice
@@ -16685,7 +16685,7 @@ Icon/Item/Quest/Quest_0467_SplinterComponent
 0
 0
 0
-Sprinter Component
+Splinter Component
 スプリンターシリーズの核心部品。\n数々のアップグレードを経たスプリンター関連の\n技術が集約されている。\n\n[製作材料]
 
 ID=903000354
@@ -16815,7 +16815,7 @@ Icon/Item/Quest/Quest_0467_SplinterComponent
 0
 0
 0
-Sprinter Component
+Splinter Component
 スプリンターシリーズの核心部品。\n数々のアップグレードを経たスプリンター関連の\n技術が集約されている。\n\n[製作材料]
 
 ID=943000354
