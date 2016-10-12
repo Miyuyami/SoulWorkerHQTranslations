@@ -1181,7 +1181,7 @@ ID=651
 The dungeon can be entered when everyone accepts.\n(Members in a different town.\nMembers that are logged out.)
 
 ID=652
-パーティーリーダーがメイズ入場を要請しています。入場しますか？\n入場エリア：[{0}]\nエピソード：[{1}]\n難易度：[{2}]\n(残り時間：{3}秒)
+The party leader has requested to enter a dungeon. Do you wish to join?\nLocation: [{0}]\nEpisode: [{1}]\nDifficulty: [{2}]\n({3} seconds remaining)
 
 ID=653
 {0} Party Members have refused to join the dungeon.
@@ -1358,7 +1358,7 @@ ID=739
 Party Only [4 People]
 
 ID=740
-疲労度消費
+Fatigue Consumption
 
 ID=741
 Requires an admission ticket.
@@ -3485,7 +3485,7 @@ ID=5841
 <font color='#FFFFFF' size='30'>TIP: </font>Clicking the "i" icon at the top right corner will open <font color='#00D8FF'>[Help]</font>, where various information about the game can be found.
 
 ID=5842
-<font color='#FFFFFF'><font size="30">TIP：</font>メイズに入場すると<font color='#00D8FF'>[疲労度]</font>を消費します。
+<font color='#FFFFFF' size='30'>TIP: </font>Entering a dungeon will consume <font color='#00D8FF'>[Fatigue]</font>.
 
 ID=5843
 <font color='#FFFFFF' size='30'>TIP: </font>Level up your <font color='#00D8FF'>Skills</font> and <font color='#00D8FF'>Abilities</font> according to your own play style.
@@ -3818,7 +3818,7 @@ ID=6057
 Please use an A.R card with the same rarity as the crafting target.
 
 ID=6058
-このエリアではDRAWタイプのA.Rカードを使用できません。
+You cannot use Draw-type A.R cards in this area.
 
 ID=6059
 The Nebula grade or above is registered.\nWould you like to craft?
@@ -4460,7 +4460,7 @@ ID=10041
 NED Company has been conducting secret research in their secret research facility.\nIt has been shut down due to the recent incident.
 
 ID=10042
-ヴェシのラピッドフレイム勢力に占拠された\nカンダスシティ近郊の高速道路。\n現在スタリーフォレスト連合がこのエリアを奪還するため、ネッドカンパニーと共同作戦を繰り広げている。
+The Veshi's Rapid Flame Faction has\ntaken over the highways on the outskirts of Candus City.\nIn order to reclaim the occupied area, the Starry Forest League will execute a joint-operation with NED Company.
 
 ID=10043
 The western branch of NED Company is being\noccupied by the Rapid Flame Faction led by the breezy witch named\n"Poison".
@@ -5243,7 +5243,7 @@ ID=15061
 A virtual training program designed for Soulworkers; it can simulate the monsters from the database, then an experience just like a real battle begins. However, since it spends a lot of energy, it cannot be used frequently.
 
 ID=15062
-空白によって完全に廃墟と化したエリア。持続的にソウルジャンクが発生しており、スタリーフォレスト連合は立入禁止区域に指定。民間人の立ち入りを禁止している。
+An area completely ravaged by the Void. Soul Junk constantly appear in the area, and the Starry Forest League has forbidden any civilians from entering.
 
 ID=15063
 A mysterious distortion that appeared out of nowhere released many puppets out into the world. No one knows why they appeared. However, they did know the power and the hostility that the puppets showed towards them.
@@ -5618,7 +5618,7 @@ ID=18022
 Your item is a <font color='#A566FF'>High Valued Item</font>.  You will acquire {0} upon selling it. Do you wish to sell it?
 
 ID=18023
-Your selection contains a <font color='#A566FF'>High Valued</font> item, Are you sure you want to decompose it? Restoration is impossible.
+Your selection contains a <font color='#A566FF'>High Valued</font> item. Are you sure you want to decompose it? Restoration is impossible.
 
 ID=18026
 Sealed
@@ -5951,79 +5951,79 @@ ID=19024
 <font color='#8041D9'>ACC +50/CRIT DMG +1000/CRIT CH +2%</font>
 
 ID=19025
-<font color='#47C83E'>攻撃力1%</font>
+<font color='#47C83E'>Attack +1%</font>
 
 ID=19026
-<font color='#4374D9'>攻撃力3%</font>
+<font color='#4374D9'>Attack +3%</font>
 
 ID=19027
-<font color='#E0B94F'>攻撃力5%</font>
+<font color='#E0B94F'>Attack +5%</font>
 
 ID=19028
-<font color='#F15F5F'>攻撃力8%</font>
+<font color='#F15F5F'>Attack +8%</font>
 
 ID=19029
-<font color='#8041D9'>攻撃力11%</font>
+<font color='#8041D9'>Attack +11%</font>
 
 ID=19030
-<font color='#47C83E'>クリティカル率1%</font>
+<font color='#47C83E'>Critical +1%</font>
 
 ID=19031
-<font color='#4374D9'>クリティカル率2%</font>
+<font color='#4374D9'>Critical +2%</font>
 
 ID=19032
-<font color='#E0B94F'>クリティカル率3%</font>
+<font color='#E0B94F'>Critical +3%</font>
 
 ID=19033
-<font color='#F15F5F'>クリティカル率4%</font>
+<font color='#F15F5F'>Critical +4%</font>
 
 ID=19034
-<font color='#8041D9'>クリティカル率5%</font>
+<font color='#8041D9'>Critical +5%</font>
 
 ID=19035
-<font color='#47C83E'>スーパーアーマー破壊力2%</font>
+<font color='#47C83E'>SA Break +2%</font>
 
 ID=19036
-<font color='#4374D9'>スーパーアーマー破壊力5%</font>
+<font color='#4374D9'>SA Break +5%</font>
 
 ID=19037
-<font color='#E0B94F'>スーパーアーマー破壊力8%</font>
+<font color='#E0B94F'>SA Break +8%</font>
 
 ID=19038
-<font color='#F15F5F'>スーパーアーマー破壊力12%</font>
+<font color='#F15F5F'>SA Break +12%</font>
 
 ID=19039
-<font color='#8041D9'>スーパーアーマー破壊力16%</font>
+<font color='#8041D9'>SA Break +16%</font>
 
 ID=19040
-<font color='#47C83E'>攻撃速度1%/移動速度1%</font>
+<font color='#47C83E'>Attack Speed +1%/Movement Speed +1%</font>
 
 ID=19041
-<font color='#4374D9'>攻撃速度2%/移動速度2%</font>
+<font color='#4374D9'>Attack Speed +2%/Movement Speed +2%</font>
 
 ID=19042
-<font color='#E0B94F'>攻撃速度3%/移動速度3%</font>
+<font color='#E0B94F'>Attack Speed +3%/Movement Speed +3%</font>
 
 ID=19043
-<font color='#F15F5F'>攻撃速度5%/移動速度4%</font>
+<font color='#F15F5F'>Attack Speed +5%/Movement Speed +4%</font>
 
 ID=19044
-<font color='#8041D9'>攻撃速度6%/移動速度6%</font>
+<font color='#8041D9'>Attack Speed +6%/Movement Speed +6%</font>
 
 ID=19045
-<font color='#47C83E'>クリティカルダメージ増加700</font>
+<font color='#47C83E'>Critical Damage +700</font>
 
 ID=19046
-<font color='#4374D9'>クリティカルダメージ増加850</font>
+<font color='#4374D9'>Critical Damage +850</font>
 
 ID=19047
-<font color='#E0B94F'>クリティカルダメージ増加1000</font>
+<font color='#E0B94F'>Critical Damage +1000</font>
 
 ID=19048
-<font color='#F15F5F'>クリティカルダメージ増加1350</font>
+<font color='#F15F5F'>Critical Damage +1350</font>
 
 ID=19049
-<font color='#8041D9'>クリティカルダメージ増加1700</font>
+<font color='#8041D9'>Critical Damage +1700</font>
 
 ID=19400
 Standard
@@ -6047,7 +6047,7 @@ ID=19504
 Summer School
 
 ID=19505
-バニー・インザ・フォレスト
+Bunny in the Forest
 
 ID=19506
 [すごいジェスチャー]使用可能
@@ -6179,13 +6179,13 @@ ID=20129
 Please look at {0}.
 
 ID=20130
-バニー
+Bunny
 
 ID=20131
-レッツバニー。
+Posing as a play bunny.
 
 ID=20132
-{0}がレッツバニーをします。
+{0} is a play bunny.
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -6221,7 +6221,7 @@ ID=20310
 You have no dismantling permission for the selected item.
 
 ID=20400
-疲労度回復中…
+Recovering Fatigue
 
 ID=20401
 Less than 1 minute
@@ -6326,22 +6326,22 @@ ID=21031
 For acquiring the maximum amount of favorability with {0} in a day, no more can be accumulated.\n [Resets at 8PM ET, 5PM PT]
 
 ID=21032
-疲労度が不足しているため、メイズに入場できません。
+Cannot enter the dungeon because of insufficient fatigue.
 
 ID=21033
-{0}の疲労度が不足しているため、メイズに入場できません。
+Cannot enter the dungeon because {0} has insufficient fatigue.
 
 ID=21034
-疲労度が足りないため、このエピソードではパーティ検索機能を使用できません。
+Cannot use the party search function because of insufficient fatigue.
 
 ID=21035
-基本疲労度状態でのみ使用できます。
+You can only use the basic fatigue in the current state.
 
 ID=21036
 The usage limit has been reached. You can use it again in {0} hours.
 
 ID=21037
-アイテム使用で回復する疲労度が基本疲労度の総量を超過します。使用しますか？
+Using this fatigue recovery item will exceed the total amount of your basic fatigue level. Are you sure you want to use it?
 
 ID=21038
 Character cannot use the item.
@@ -6353,7 +6353,7 @@ ID=21040
 Daily Usage Restriction: [{0}/{1}]
 
 ID=21041
-基本疲労度(200)がMAXの状態ではアイテムを使用できません。
+You cannot use the item when your basic fatigue (200) is at MAX.
 
 ID=21051
 This item cannot be used because your HP is maxed.
@@ -7394,7 +7394,7 @@ ID=22684
 乗り物ウィンドウ開く/閉じる
 
 ID=23000
-基本疲労度が全回復しました。
+Basic fatigue level was completely restored.
 
 ID=23001
 Bonus Fatigue Points {0}
@@ -7406,7 +7406,7 @@ ID=23003
 Fatigue {0}
 
 ID=23004
-疲労度情報
+Fatigue Information
 
 ID=23005
 ネカフェ疲労度{0}
@@ -7532,7 +7532,7 @@ ID=24267
 Consumables
 
 ID=24268
-疲労度消費
+Fatigue Consumption
 
 ID=24269
 Function
@@ -7772,7 +7772,7 @@ ID=24517
 Consumables
 
 ID=24518
-疲労度消費
+Fatigue Consumption
 
 ID=24519
 Package
@@ -8993,7 +8993,7 @@ ID=26087
 Subdue Effect: HP Recovery
 
 ID=26088
-Subdue Effect:: SG Recovery
+Subdue Effect: SG Recovery
 
 ID=26089
 Poison Rate
@@ -9164,7 +9164,7 @@ ID=26309
 On skill use, -{0}% cooldown
 
 ID=26310
-回避使用時、HP{0}%回復
+On dodge, +{0}% HP
 
 ID=26311
 When using a skill, 5% chance of -{0}% cooldown
@@ -9200,10 +9200,10 @@ ID=26321
 When critically hit, 50% chance of +{0} HP
 
 ID=26322
-命中時、5%の確率で5秒間、スーパーアーマー破壊力{0}%適用
+On hit, 5% chance of SA Break +{0}% for 5s
 
 ID=26323
-+{0}% Movement speed while in town.
++{0}% Movement speed while in town
 
 ID=26324
 When hit by boss monsters, 10% chance of +{0}% Damage Reduction for 5s
@@ -9218,7 +9218,7 @@ ID=26327
 On hit, 2% chance of +{0} Stamina
 
 ID=26328
-戦闘エリアでの移動速度{0}%増加
++{0}% Movement Speed while in battle
 
 ID=26329
 When hit, 15% chance of +{0}% Defense for 5s
@@ -9257,10 +9257,10 @@ ID=26340
 When being hit under 50% HP, 10% chance of +{0}% Defense for 5s
 
 ID=26341
-回避使用時、2%の確率でHP{0}%回復
+On dodge, 2% chance of +{0}% HP
 
 ID=26342
-回避使用時、3%の確率でHP{0}%回復
+On dodge, 3% chance of +{0}% HP
 
 ID=26343
 When dashing, 10% chance of +{0}% Movement Speed for 5s
@@ -9278,7 +9278,7 @@ ID=26347
 When critically hit, 50% chance of +{0}% Attack for 1s
 
 ID=26348
-攻撃を受けた時、15%の確率で3秒間、攻撃力{0}増加
+When hit, 15% chance of +{0} Attack for 3s
 
 ID=26349
 On evasion, 10% chance of +{0}% Critical Rate for 3s
@@ -9287,13 +9287,13 @@ ID=26350
 On evasion, 10% chance of +{0} Critical Damage for 5s
 
 ID=26351
-討伐時、1秒間、攻撃力{0}増加
+On kill, +{0} Attack for 1s
 
 ID=26352
-体力が10%以下の時、10秒間、攻撃力{0}増加
+When under 10% HP, +{0} Attack for 10s
 
 ID=26353
-体力が10%以下の時、10秒間、スーパーアーマー破壊力{0}%増加
+When under 10% HP, +{0}% SA Break for 10s
 
 ID=26354
 On hit with 5% HP or less, 10% chance of invincibility for 1s
@@ -9323,61 +9323,61 @@ ID=26362
 On hit with 10% Stamina or less, +{0}% Attack
 
 ID=26363
-攻撃を受けた時、30%の確率で5秒間、攻撃力{0}増加
+When hit, 30% chance of +{0} Attack for 5s
 
 ID=26364
-攻撃を受けた時、30%の確率で5秒間、命中度{0}増加
+When hit, 30% chance of +{0} Accuracy for 5s
 
 ID=26365
-攻撃を受けた時、30%の確率で5秒間、クリティカルダメージ{0}増加
+When hit, 30% chance of +{0} Critical Damage for 5s
 
 ID=26366
-攻撃を受けた時、30%の確率で5秒間、攻撃失敗時のダメージ{0}%増加
+When hit, 30% chance of +{0}% Evaded Attack Damage for 5s
 
 ID=26367
-攻撃を受けた時、30%の確率で5秒間、スーパーアーマー破壊力{0}%増加
+When hit, 30% chance of +{0}% SA Break for 5s
 
 ID=26368
-回避時、30%の確率で5秒間、攻撃力{0}%増加
+On evasion, 30% chance of +{0}% Attack for 5s
 
 ID=26369
-回避時、30%の確率で5秒間、命中度{0}増加
+On evasion, 30% chance of {0} Accuracy for 5s
 
 ID=26370
-回避時、30%の確率で5秒間、クリティカルダメージ{0}増加
+On evasion, 30% chance of {0} Critical Damage for 5s
 
 ID=26371
-回避時、30%の確率で5秒間、攻撃失敗時のダメージ{0}%増加
+On evasion, 30% chance of +{0}% Evaded Attack Damage for 5s
 
 ID=26372
-回避時、30%の確率で5秒間、スーパーアーマー破壊力{0}%増加
+On evasion, 30% chance of +{0}% SA Break for 5s
 
 ID=26373
-スキル使用時、3%の確率で5秒間、攻撃力{0}増加
+On skill use, 3% chance of +{0} Attack for 5s
 
 ID=26374
-スキル使用時、3%の確率で5秒間、命中度{0}増加
+On skill use, 3% chance of +{0} Accuracy for 5s
 
 ID=26375
-スキル使用時、3%の確率でクリティカルダメージ{0}増加
+On skill use, 3% chance of +{0} Critical Damage for 5s
 
 ID=26376
-ダッシュ使用時、10%の確率で5秒間、攻撃力{0}増加
+On dash use, 10% chance of +{0} Attack for 5s
 
 ID=26377
-ダッシュ使用時、10%の確率で5秒間、スーパーアーマー破壊力{0}%増加
+On dash use, 10% chance of +{0}% SA Break for 5s
 
 ID=26378
-ダッシュ使用時、10%の確率で5秒間、敵防御度減少{0}%増加
+On dash use, 10% chance of -{0}% Enemy Defense for 5s
 
 ID=26379
-討伐効果：5秒間、攻撃力{0}増加
+Subdue Effect: +{0} Attack for 5s
 
 ID=26380
-討伐効果：5秒間、スーパーアーマー破壊力{0}%増加
+Subdue Effect: +{0} SA Break for 5s
 
 ID=26381
-討伐効果：5秒間、敵防御度減少{0}%増加
+Subdue Effect: -{0} Enemy Defense for 5s
 
 ID=26500
 On enemy death, +{0}% Defense Penetration for 30s
@@ -9518,7 +9518,7 @@ ID=27837
 On jump hit, 5% chance of +{0}% Critical (cancelled on critical hit)
 
 ID=27838
-回避使用時、5%の確率でSG{0}%回復
+On dodge, 5% chance of +{0}% SG
 
 ID=27839
 On critical hit, 10% chance of +{0}% SG
@@ -9587,7 +9587,7 @@ ID=27860
 On hitting target with 50% SA Gauge or more, +{0}% SA Break
 
 ID=27861
-+{0}% Movement speed while in town.
++{0}% Movement speed while in town
 
 ID=27862
 On HP recovery, 10% chance of +{0}% Attack Speed for 4s
@@ -9614,16 +9614,16 @@ ID=27869
 On SV recovery, 10% chance fo {0} Defense for 3s
 
 ID=27870
-乗り物搭乗時、移動速度{0}
+While mounted, {0} Movement Speed
 
 ID=27871
-乗り物ブースター{0}秒
+Mount Boost {0}s
 
 ID=27872
-乗り物搭乗時、移動速度{0}増加
+While mounted, +{0} Movement Speed
 
 ID=27873
-乗り物ブースター{0}秒増加
+Mount Boost +{0}s
 
 ID=28000
 Create Guild
@@ -9839,7 +9839,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 08/Oct/2016 4:20 PM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 12/Oct/2016 5:35 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -10292,7 +10292,7 @@ ID=28221
 {0}/{1}
 
 ID=28222
-ギルドメンバーの疲労度消費で獲得\n1人当たり一日最大200獲得\nギルド経験値一日最大{0}獲得
+Acquired when guild members consume fatigue.\nUp to 200 consumed fatigue per day.\nUp to {0} guild experience per day.
 
 ID=28223
 Lv
@@ -11186,10 +11186,10 @@ ID=31145
 You may not enter the dungeon again as a party member has left.
 
 ID=31146
-疲労度が不足しているため、メイズに再挑戦できません。
+Cannot re-enter the dungeon because of insufficient fatigue.
 
 ID=31147
-{0}の疲労度が不足しているため、メイズに再挑戦できません。
+Cannot re-enter the dungeon because {0} has insufficient fatigue.
 
 ID=31148
 The dungeon has a re-entry cooldown of {0} seconds.
@@ -11843,10 +11843,10 @@ ID=34016
 Growing
 
 ID=34017
-しおれ中
+Wilting
 
 ID=34018
-腐敗中
+Docomposing
 
 ID=34019
 Decomposed
@@ -11861,7 +11861,7 @@ ID=34022
 Do you want to use {0}?
 
 ID=34023
-栽培中止
+Stop Cultivation
 
 ID=34024
 The crop cannot be planted.
@@ -12287,7 +12287,7 @@ ID=38003
 Trading fee reduced by {0}%
 
 ID=38004
-追加疲労度{0}
+Obtained {0} fatigue
 
 ID=38005
 Enhance Success Rate +{0}%
@@ -12314,10 +12314,10 @@ ID=38012
 スタミナ{0}増加
 
 ID=38013
-ネットカフェ専用疲労度200増加
+Netcafe exclusive +200 fatigue
 
 ID=38014
-特殊メイズ入場回数1増加
++1 special dungeon entry count
 
 ID=38015
 結果報酬EXP{0}%増加
@@ -12938,7 +12938,7 @@ ID=40250
 When the controller is operating, 1 to 15 enemies will appear.
 
 ID=40251
-ヘビーセルは、出現時に移動速度を減少させるエリアを発生させます。
+When the Heavy Cell appears, movement slowing areas will appear on the ground.
 
 ID=40252
 The main EMP will attack everything; it will be activated when you approach it.
@@ -12953,7 +12953,7 @@ ID=40255
 When the cube is destroyed, all players will be paralyzed and a magnetic field will be generated.
 
 ID=40256
-2個のデバイスは、敵を強化するエリアを順番に発生させます。
+The 2 devices will raise the nearby enemy's strength in sequential order.
 
 ID=40257
 When the controller is activated, enemies will appear.
@@ -13061,7 +13061,7 @@ ID=40291
 Periodically, every 30 seconds, the player will be inflicted by a heavy-damaging debuff.\n Destroy the cubes to prevent further debuffs from being applied.
 
 ID=40292
-15秒ごとに、各エリアでプレイヤーにダメージを与える磁気フィールドウェーブが発生します。
+Every 15 seconds, magnetic waves may appear at various areas and damage the player.
 
 ID=40293
 Glutton has appeared. After defeating glutton,\n you can earn a variety of rewards.
@@ -13190,13 +13190,13 @@ ID=40421
 Please operate the center magnetic-field generating device.
 
 ID=40422
-磁気フィールド発生装置のチャージが完了するまで、チャージ装置を敵から守ってください。
+Until the magnetic-field generating device has fully charged, please defend it from oncoming enemies.
 
 ID=40423
-チャージ装置が破壊されたためチャージ量が減少し、完了までの時間が増加しました。
+Because a charging device was destroyed, the maximum charge capacity has decreased and the completion time has increased.
 
 ID=40424
-チャージ装置が全て破壊されたため作戦が失敗しました。これ以上進行できません。
+All charging devices have been destroyed. You cannot progress anymore.
 
 ID=40425
 The magnetic field charging device has fully charged.\n Retreat back to the safety zone before the field is generated.
@@ -13247,7 +13247,7 @@ ID=40446
 A container has blocked the road. Please use the switch to move the container away with a crane.
 
 ID=40447
-外郭エリアからのテンペストによる砲撃が始まります。
+Bombardment by the Tempest Forces from the outer vicinity will begin.
 
 ID=40448
 The bombardment of the Rapid Flames Faction will begin, please evacuate immediately.
@@ -13430,7 +13430,7 @@ ID=40516
 The elevator will stop soon.
 
 ID=40601
-4つのエリアにいる敵を全て討伐すると、終末の館へと続くポータルが開きます。
+After defeating all enemies in the 4th area, unseal the door to continue.
 
 ID=40602
 After releasing the crystal's seal, a battle will commence.
@@ -13481,7 +13481,7 @@ ID=40617
 Upon destroying all 3 Venom Flowers, Pandemonia will be stunned.
 
 ID=40618
-安全エリアを出るとすぐに戦闘が始まります。
+The battle will begin after you leave the safety area.
 
 ID=40619
 The Primal is in contamination state.\nGetting in the contaminated area will instantly kill you.
@@ -13490,10 +13490,10 @@ ID=40620
 The Primal is inhaling a deep breath.
 
 ID=40621
-特異型空白に入ると、プライマルの内部に最大4人まで進入できます。\n特異型空白は30秒後に消えます。
+Upon entering the special type of void, you are able to enter with a maximum of 4 people inside The Primal.\nSpecial type of voids disappear in 30 seconds.
 
 ID=40622
-プライマルの核は不安定なガスを周期的に発生させ、ダメージを与えます。
+The core of The Primal will periodically produce an unstable gas that deals damage.
 
 ID=40623
 Defeating all summoned core's guardians will grant temporary immunity to The Primal's interior unstable gas.
@@ -17453,7 +17453,7 @@ ID=53032
 Cannot expel members in dungeon.
 
 ID=53101
-疲労度が不足しているため、該当エピソードではフォース探索機能を使用できません。
+Cannot use the force search function because of insufficient fatigue.
 
 ID=53102
 Cannot invite players that are already in a dungeon to the force.
@@ -17492,7 +17492,7 @@ ID=53113
 Currently there is no force available.
 
 ID=53114
-すでにフォースの招待を要請した相手です。
+Cannot use the matchmaking because of insufficient fatigue.
 
 ID=53115
 該当フォースに加入できません。
