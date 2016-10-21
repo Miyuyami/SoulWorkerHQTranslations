@@ -128,7 +128,7 @@ ID=62
 Enhance
 
 ID=63
-Socket Brooch
+ブローチ管理
 
 ID=90
 Haru
@@ -458,7 +458,7 @@ ID=335
 Are you sure that you want to buy the selected item(s)?\nThe selected item(s) cannot be equipped by you.
 
 ID=336
-{0} was sold for {1} zenny.
+{0} was sold for {1}.
 
 ID=337
 {2} has been sold to {1}.
@@ -653,7 +653,7 @@ ID=418
 Evolve
 
 ID=419
-Socket Brooch
+ブローチ管理
 
 ID=421
 Show only usable equipment
@@ -818,7 +818,7 @@ ID=487
 Event
 
 ID=488
-Netcafé
+Net cafe
 
 ID=489
 Final Reward
@@ -869,37 +869,37 @@ ID=506
 Befriend
 
 ID=508
-アイテム使用回数：{0}/{1}
+Item use count: {0}/{1}
 
 ID=509
-※アイテム使用回数を超過したため復活できません。
+※Cannot revive because you because you exceeded the item's use count.
 
 ID=510
 Revive
 
 ID=511
-※<font color='#F15F5F'>For leaving the battle</font>, in<font size='15' color='#F7AE54'>{0}</font> seconds, you'll be <font color='#F15F5F'>moved to the town</font>.
+※ <font color='#F15F5F'>For leaving the battle</font>, in<font size='15' color='#F7AE54'>{0}</font> seconds, you'll be <font color='#F15F5F'>moved to the town</font>.
 
 ID=512
 Forfeit
 
 ID=513
-※Upon resurrection the buff <font color='#5CD1E5'>[Divine Protection]</font> will be applied.
+※ Upon resurrection the buff <font color='#5CD1E5'>[Divine Protection]</font> will be applied.
 
 ID=514
-※<font color='#F2CB61'>1 [Accident Call] will be used</font> for resurrection.
+※ <font color='#F2CB61'>1 [Accident Call] will be used</font> for resurrection.
 
 ID=515
-※<font color='#F15F5F'>You will be moved to the last town you visited</font> after <font size='15' color='#F7AE54'>{0}</font> seconds.
+※ <font color='#F15F5F'>You will be moved to the last town you visited</font> after <font size='15' color='#F7AE54'>{0}</font> seconds.
 
 ID=516
-※<font color='#47C83E'>"{0}" has revived you</font>.
+※ <font color='#47C83E'>"{0}" has revived you</font>.
 
 ID=517
-※<font color='#FFBB00'>1 [Greater Accident Call] will be used</font> for resurrection.
+※ <font color='#FFBB00'>1 [Greater Accident Call] will be used</font> for resurrection.
 
 ID=518
-※<font color='#FFBB00'>Since you have no [Greater Accident Call],</font>you are not able to revive.
+※ <font color='#FFBB00'>Since you have no [Greater Accident Call],</font>you are not able to revive.
 
 ID=519
 Cannot resurrect in current area.
@@ -956,13 +956,13 @@ ID=549
  
 
 ID=551
-You have received a party invitation from {0}.\nDo you want to join the party?\n({1} second(s) remaining)
+You have received a party invitation from {0}.\nDo you want to join the party?\n({1} seconds remaining)
 
 ID=552
-If you leave the party, you will be returned to town.\nAre you sure you want to leave the party?
+If you leave the party, you will be returned to town.\nAre you sure you want to leave?
 
 ID=553
-You have left the party, moving to town.\n({0} second(s) remaining)
+You have left the party, moving to town.\n({0} seconds remaining)
 
 ID=554
 Are you sure you want to make {0} the party leader?
@@ -1010,7 +1010,7 @@ ID=571
 Do you want to use {0}?\n(A.R cards that are used cannot be sold nor traded)
 
 ID=572
-Required Lv
+Requires Lv
 
 ID=573
 SP Cost:
@@ -1187,7 +1187,7 @@ ID=653
 {0} Party Members have refused to join the dungeon.
 
 ID=661
-You will soon be moved to another area.\n({0}s remaining)
+You will soon be moved to another area.\n({0} seconds remaining)
 
 ID=665
 You have been incapacitated. Do you want to revive?
@@ -1229,10 +1229,10 @@ ID=680
 Currenly in combat. Please try again in {0} seconds.
 
 ID=681
-(ネカフェ{0}EXP)
+(Net cafe {0} EXP)
 
 ID=682
-(ネカフェ{0}ジェニー)
+(Net cafe {0} Zenny)
 
 ID=683
 Acquired Rank Experience: {0} EXP
@@ -1451,7 +1451,7 @@ ID=772
 d
 
 ID=773
-Required Lv
+Requires Lv
 
 ID=774
 DUR
@@ -1526,10 +1526,10 @@ ID=797
 Activate Sniper Mode
 
 ID=798
-(ネカフェ入場回?：?り{0})
+(Net cafe entries remaining: {0})
 
 ID=799
-(Net Cafe Entrance Benefits: {0})
+(Net cafe entry benefits: {0})
 
 ID=800
 Equipment Comparison
@@ -2666,7 +2666,7 @@ ID=2502
 Offline
 
 ID=2503
-Remaining {0}day
+Remaining {0} days
 
 ID=2504
 Remaining {0}h
@@ -2780,10 +2780,10 @@ ID=3010
 Waiting for a response from the other trader.\n(If you do not want to trade, please click on the button “Cancel Trade”.)
 
 ID=3011
-Trade request sent to {0}. Waiting for the consent of the other party.\n[{1}s remaining]
+Trade request sent to {0}. Waiting for the consent of the other party.\n({1} seconds remaining)
 
 ID=3012
-Trade request received from {0}. Do you accept?\n[{1}s remaining]
+Trade request received from {0}. Do you accept?\n({1} seconds remaining)
 
 ID=3013
 The player is too far away; the trade request has been cancelled.
@@ -3203,7 +3203,7 @@ ID=5314
 A deleted character cannot be recovered.\nThe guild leader's position will be revoked.\nAre you sure you want to delete this character?
 
 ID=5315
-キャラクターは、作成後24時間経過すると削除できます。\n残り：{0}時{1}分
+Characters can only be deleted 24 hours after creation.\n({0} hours {1} minutes remaining)
 
 ID=5320
 Maintenance in progress
@@ -3527,7 +3527,7 @@ ID=5855
 <font color='#FFFFFF' size='30'>TIP: </font>As your weapon's <font color='#00D8FF'>Durability</font> decreases, so will the effectiveness of your weapon. Repair your item often at the shop.
 
 ID=5856
-<font color='#FFFFFF' size="30">TIP: </font>Going to another city or town will require moving through the lawless area: <font color='#00D8FF'>District 6</font>.
+<font color='#FFFFFF' size="30">TIP: </font>Going to another city or town will require moving through the lawless zone: <font color='#00D8FF'>District 6</font>.
 
 ID=5857
 <font color='#FFFFFF' size='30'>TIP: </font>A <font color='#00D8FF'>Starry Forest League Transport Helicopter</font> can be used to safely traverse across <font color='#00D8FF'>District 6</font>.
@@ -3716,7 +3716,7 @@ ID=6023
 An additional {0} Zenny was required due to the A.R card rental.
 
 ID=6024
-The rental period is almost finished.\n({0} second(s) remaining)
+The rental period is almost finished.\n({0} seconds remaining)
 
 ID=6025
 Use the A.R card Box.\nAcquired A.R cards cannot be traded.
@@ -3866,13 +3866,13 @@ ID=6910
 Do you want to cancel the match?\n(Frequently cancelling will apply a restriction)
 
 ID=6911
-Limited entrance because of frequent cancellation.\n(Remaining: {0} minutes {1} seconds)
+Limited entrance because of frequent cancellation.\n({0} minutes {1} seconds remaining)
 
 ID=6912
 Cannot cancel the match because a match was found.
 
 ID=6913
-ゲーム進行中の離脱が確認されました。\n該当試合は敗北処理され、\n一定時間、フリーマッチの入場が制限されます。\n(残り：{0}分{1}秒)
+Ongoing match withdrawal confirmed.\nThe match will count as a loss and entrance restrictions will be applied.\n({0} minutes {1} seconds remaining)
 
 ID=6914
 Quitting the game will count as a loss and you'll not be able to re-enter for a period of time.\nAre you sure you want to quit the game?
@@ -4313,7 +4313,7 @@ ID=9603
 Tower of Greed
 
 ID=9604
-[未定]アイアンアーミー
+[Pending] Iron Castle
 
 ID=9611
 Concrete Jungle
@@ -4322,10 +4322,10 @@ ID=9612
 The Big Mouth
 
 ID=9613
-[未定]ダークストーカーズ
+[Pending] Dark Stalkers
 
 ID=9614
-[未定]プレデターズ
+[Pending] Predators
 
 ID=9621
 Deep Core
@@ -4337,22 +4337,22 @@ ID=9623
 Forgotten Armory
 
 ID=9624
-[未定]ドラゴンスレイヤー
+[Pending] Dragonslayer
 
 ID=9631
-[未定]スカイラン
+[Pending] Skyline
 
 ID=9632
 Flame Breaker
 
 ID=9633
-[未定]クイーンネスト
+[Pending] Queen Nest
 
 ID=9634
-[未定]ファイアファイト
+[Pending] Firefight
 
 ID=9635
-[未定]クリムゾンシー
+[Pending] Crimson Sea
 
 ID=9771
 Last Carnival
@@ -4415,7 +4415,7 @@ ID=9995
 House of Endings
 
 ID=9996
-The most difficult raid, The Primal, is a dedicated dungeon for maximum 8 players.\nTo stop the world from collapsing, please defeat The Primal along with your comrades.
+The most difficult raid, The Primal, is a force dedicated dungeon for maximum 8 players.\nTo stop the world from collapsing, please defeat The Primal along with your comrades.
 
 ID=10011
 -
@@ -5600,7 +5600,7 @@ ID=18016
 You can synthesize the brooch.
 
 ID=18017
-合成には同じテーマのブローチが5個必要です。
+You need 5 brooches of same theme for synthesis.
 
 ID=18018
 You cannot register anymore items.
@@ -5837,7 +5837,7 @@ ID=18188
 No items found.
 
 ID=18189
-Failed to purchase item: insufficient recycling points
+Failed to purchase item: Insufficient recycling points
 
 ID=18190
 Enhancement Subject
@@ -5861,19 +5861,40 @@ ID=18196
 Tuning
 
 ID=18197
-確認をクリック時、{0}のオプションが変更されます。\nオプションを変更しますか？
+The {0} option will be changed.\nDo you confirm those changes?
 
 ID=18198
 No Options
 
 ID=18199
-現在の累積プレイ時間は{0}時間です。
+Total playtime is {0} hours.
 
 ID=18200
-現在、疲労プレイ状態です。\nゲーム収益は正常値の50％に減少します。\nご自身の健康のために、ゲームを終了し\n適度な休憩をお取りください。
+Currently, you are in a fatigued play state.\nGame earnings will be reduced to 50% of the normal value.\nFor the sake of your own health, please take an appropriate amount of rest from the game.
 
 ID=18201
-現在、不健康プレイ状態です。\nご自身の健康のために、ゲームを終了し\n適度な休憩をお取りください。\nゲームを終了されない場合、体に悪影響を及ぼします。\nゲーム収益は0に減少されており、\n累積オフライン状態で5時間経過後、\n再入場時、正常にゲームをプレイできます。
+Currently, you are in an unhealthy play state.\nGame earnings will be reduced to 0% of the normal value.\nFor the sake of your own health, please take an appropriate amount of rest from the game.\nIf you don't close the game it will have a negative effect on your body.\nAfter 5 hours of continuous offline state you will be able to re-enter and play the game successfully.
+
+ID=18202
+ブローチ抽出
+
+ID=18203
+{0}個のブローチをアバターから抽出します。\n{1}\n抽出費用：<font color='#6799FF'>{2}</font>ジェニー\n抽出しますか？
+
+ID=18204
+ブローチの抽出に成功しました。\nインベントリを確認してください。
+
+ID=18205
+<font color='#FF3636'>{0}</font>ジェニー不足しているため抽出に失敗しました。  
+
+ID=18206
+エクストラインベントリに空きがないため抽出できません。
+
+ID=18207
+一般インベントリに空きがないため抽出できません。
+
+ID=18208
+Attach
 
 ID=19000
 <font color='#47C83E'>Attack +1%/Evaded Attack Damage +1%</font>
@@ -6050,13 +6071,13 @@ ID=19505
 Bunny in the Forest
 
 ID=19506
-[すごいジェスチャー]使用可能
+[Amazing Gesture] Available
 
 ID=19507
-[すごいジェスチャー]使用可能
+[Amazing Gesture] Available
 
 ID=19508
-[すごいジェスチャー]使用可能
+[Amazing Gesture] Available
 
 ID=20010
 Greet
@@ -6278,7 +6299,7 @@ ID=21015
 Number of special items you can buy from {0} per day increase two-fold
 
 ID=21016
-While being mobilized, increase attack/defense of {0} by {1} for 30 min
+While mounted, +{0} Attack, +{1} Defense for 30m
 
 ID=21017
 Supporter Quest Complete [Supporter: Hugh]
@@ -7349,7 +7370,7 @@ ID=22669
 Not applied
 
 ID=22670
-※Game performance will increase at the cost of visual details.
+※ Game performance will increase at the cost of visual details.
 
 ID=22671
 Anti-aliasing will apply upon restarting the game.
@@ -7388,10 +7409,10 @@ ID=22682
 Textures are applied after restarting the game or after loading.
 
 ID=22683
-乗り物召喚
+Summon Vehicle
 
 ID=22684
-乗り物ウィンドウ開く/閉じる
+Open/Close Vehicle's Window
 
 ID=23000
 Basic fatigue level was completely restored.
@@ -7409,7 +7430,7 @@ ID=23004
 Fatigue Information
 
 ID=23005
-ネカフェ疲労度{0}
+Net cafe fatigue {0}
 
 ID=24000
 Zenny
@@ -7475,7 +7496,7 @@ ID=24020
 Cultivate
 
 ID=24021
-乗り物
+Vehicle
 
 ID=24250
 Zenny
@@ -8195,7 +8216,7 @@ ID=24658
 Guild Mark Change Ticket
 
 ID=24659
-バイク
+Bike
 
 ID=24750
 All
@@ -8522,10 +8543,10 @@ ID=24889
 Event
 
 ID=24890
-バイク
+Bike
 
 ID=24891
-パーツ
+Parts
 
 ID=24892
 Recycling Point
@@ -8555,7 +8576,7 @@ ID=25001
 End Tutorial
 
 ID=25002
-Exit the tutorial and enter the field.\n(Warning! You will not get the turotial completion EXP)
+Exit the tutorial and enter the field.\n(Warning! You will not get the tutorial completion EXP)
 
 ID=25003
 CLICK
@@ -9617,13 +9638,13 @@ ID=27870
 While mounted, {0} Movement Speed
 
 ID=27871
-Mount Boost {0}s
+Vehicle Boost {0}s
 
 ID=27872
 While mounted, +{0} Movement Speed
 
 ID=27873
-Mount Boost +{0}s
+Vehicle Boost +{0}s
 
 ID=28000
 Create Guild
@@ -9719,7 +9740,7 @@ ID=28030
 Guild Disband Password Reconfirmation
 
 ID=28031
-※Please enter the guild name to disband.
+※ Please enter the guild name to disband.
 
 ID=28032
 The guild has not been disbanded.
@@ -9839,7 +9860,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by SoulworkerHQ Translation Team.\nLast updated at 12/Oct/2016 5:35 PM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the SoulworkerHQ Translation Team.\nLast updated at 21/Oct/2016 10:00 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -10184,7 +10205,7 @@ ID=28185
 Guild Creation Fee
 
 ID=28186
-100000 Zenny
+100,000 Zenny
 
 ID=28187
 Guild Warehouse
@@ -10526,7 +10547,7 @@ ID=29034
 Enter Room
 
 ID=29035
-Do you want to enter your room?
+Do you want to enter the room?
 
 ID=29036
 Confirm Buddy Room Entry
@@ -10751,7 +10772,7 @@ ID=31000
 Invitation is only the leader.
 
 ID=31001
-No more party members can be added; the party is full.
+You cannot invite any more members.
 
 ID=31002
 [{0}] is in another party.
@@ -10766,10 +10787,10 @@ ID=31005
 [{0}] is not logged in or cannot be found.
 
 ID=31006
-Already invited to party.
+Already being invited to a party.
 
 ID=31007
-Checking if the target is already in a party...
+The target is already being invited to a party.
 
 ID=31008
 The target cannot be invited; they blocked all party requests.
@@ -10778,13 +10799,13 @@ ID=31009
 The party was disbanded.
 
 ID=31010
-The dungeon cannot be entered, there is an insufficient amount of party members.
+Cannot join because the party is in a dungeon.
 
 ID=31011
 You cannot join the party.
 
 ID=31012
-No more party members can be added; the party is full.
+You cannot invite any more members.
 
 ID=31013
 [{0}] has refused the party invitation.
@@ -10919,7 +10940,7 @@ ID=31056
 Unable to find a party within the time limit.
 
 ID=31057
-Would you like to proceed with this party?\nWill automatically continue if no input is given.\n(Remaining Time: {0} seconds)
+Would you like to proceed with this party?\nWill automatically continue if no input is given.\n({0} seconds remaining)
 
 ID=31058
 Since you have not confirmed the dungeon entry, you have been kicked out of the party.
@@ -11168,7 +11189,7 @@ ID=31139
 Would you like to request for retry for the dungeon?\n(Remaining time: {0} seconds)
 
 ID=31140
-The leader {0} has requested a dungeon retry.\nWill you accept the request?\n(Remaining time: {1} seconds)
+The leader {0} has requested a dungeon retry.\nWill you accept the request?\n({1} seconds remaining)
 
 ID=31141
 Request
@@ -11249,7 +11270,7 @@ ID=31166
 Members have cancelled the matching.
 
 ID=31167
-The party is in combat; do you wish to join? \n (Time remaining: {0} seconds)
+The party is in combat. Do you wish to join?\n({0} seconds remaining)
 
 ID=31168
 Party Join Request Ad
@@ -11264,13 +11285,13 @@ ID=31171
 Party Join Request Ad
 
 ID=31172
-There are no party requests because the target is in the wasteland.
+Cannot apply to join the party because the other party is in a lawless zone.
 
 ID=31173
-There are no party requests in the wasteland.
+Cannot apply to join a party from a lawless zone.
 
 ID=31174
-An unexpected error occurred.\nWould you like to rejoin? -Remaining time: {0} seconds-
+An unexpected error occurred.\nWould you like to rejoin?\n({0} seconds remaining)
 
 ID=31175
 You cannot rejoin if you quit the game on purpose.\nYou can only rejoin if the game has ended due to an unexpected error.
@@ -11996,10 +12017,10 @@ ID=35113
 {0} SP acquired. 
 
 ID=35114
-Chat interval Limit of 10 seconds reached.\n(Remaining: {9}s)
+You cannot chat for 10 seconds because of chat restriction.\n({0} seconds remaining)
 
 ID=35115
-You cannot chat for 60 seconds because of violation of chat rules.\n(Time remaining: {0} seconds)
+You cannot chat for 60 seconds because of violation of chat rules.\n({0} seconds remaining)
 
 ID=35116
 {1} damaged {0}.
@@ -12077,13 +12098,13 @@ ID=37006
 The fissure in the void has disappeared from District 6.
 
 ID=37007
-A fissure in the void has appeared in District 6.\nBefore the fissure disappears, please defeat the void core and The Thing.\nRemaining until the fissure disappears: {0} minutes
+A fissure in the void has appeared in District 6.\nBefore the fissure disappears, please defeat the void core and The Thing.\n(Remaining until the fissure disappears: {0} minutes)
 
 ID=37008
 Void cube disappeared, unable to gain any items.
 
 ID=37009
-The power surrounding the The Primal is weakened, you can get closer now.\nRemaining: {0} minutes
+The power surrounding the The Primal is weakened, you can get closer now.\n({0} minutes remaining)
 
 ID=37010
 Monday
@@ -12119,16 +12140,16 @@ ID=37020
 Entrance Time
 
 ID=37025
-第6区域の未知の生命体が討伐されました。\nイベント終了まで：残り{0}分
+The unknown life forms from District 6 have been defeated.\n(Remaining until the event ends: {0} minutes)
 
 ID=37026
-第6区域に未知の生命体が出現しました。\nイベント終了まで：残り{0}分
+Unknown life forms have emerged in District 6.\n(Remaining until the event ends: {0} minutes)
 
 ID=37500
-ソウルハンター進行
+Soul Hunter Progress
 
 ID=37501
-ソウルハンター結果
+Soul Hunter Result
 
 ID=37502
 List
@@ -12143,16 +12164,16 @@ ID=37507
 Reward
 
 ID=37508
-個人累積及び獲得ソウルポイント
+Individual Accumulated/Acquired Soul Points
 
 ID=37509
-個人順位及びソウルポイント
+Individual Rank and Soul Points
 
 ID=37510
-ギルド累積及び獲得ソウルポイント
+Guild Accumulated/Acquired Soul Points
 
 ID=37511
-ギルド順位及びソウルポイント
+Guild Rank and Soul Points
 
 ID=37512
 {0}S
@@ -12167,25 +12188,25 @@ ID=37515
 ▼
 
 ID=37516
-#メイズ \n-各メイズのノーマル入場及びクリア時、点数付与(差等付与)\n-各メイズのベリーハードクリア時、点数付与(差等付与)\n-1人でメイズクリア時、ボーナス点数付与\n-復活アイテム不使用時、ボーナス点数付与\n-獲得アイテム不使用時、ボーナス点数付与\n\n#スチールグレイブ \n-スチールグレイブ入場時、点数付与\n-それぞれのスチールグレイブのチャプタークリア時、点数付与(差等付与)\n\n#レイド\n-レイド入場時、点数付与\n-それぞれのカジュアルレイドクリア時、点数付与(差等付与)
+※ Dungeons\n- gain points for each normal entry and clear\n- gain points for each Very Hard clear\n- gain points for solo clear\n- gain points for not using revivals\n- gain points for not using items\n\n※ Steel Grave\n- gain points for entry\n- gain points for each cleared chapter\n\n※ Raid\n- gain points for entry\n- gain points for clear
 
 ID=37517
-期間：月曜日09:00～日曜日21:00(7日間、毎週進行)\n\n結果発表：毎週日曜日22時00分\n\nボーナス点数項目(ノーマルメイズ)\n -パーティー禁止\n -回復ポーション使用禁止\n -バフポーション使用禁止\n\n#スチールグレイブ及びカジュアルレイドには\nボーナス点数はなく、ノーマルメイズのクリア点数が高い。
+Period: Monday 9 AM ~ Sunday 9 PM (7 days, every week)\n\nResults announcement: every Sunday 10 PM\n\nBonus Points (normal dungeons)\n- no party\n- no recovering potions\n- no buff potions\n\n※ For Steel Grave and Casual Raid, the bonus points are higher than the clearing points of normal dungeons.
 
 ID=37518
-個人報酬情報
+Individual Rewards Information
 
 ID=37519
-ギルド報酬情報
+Guild Rewards Information
 
 ID=37520
 Rank
 
 ID=37521
-報酬内容
+Reward Contents
 
 ID=37522
-順位確認
+Rank Check
 
 ID=37523
 Rank
@@ -12194,28 +12215,28 @@ ID=37524
 Name
 
 ID=37525
-累積ソウルポイント
+Accumulated Soul Points
 
 ID=37526
 #{0}
 
 ID=37527
-現ソウルポイント
+Current Soul Points
 
 ID=37529
 Guild Name
 
 ID=37530
-結果
+Result
 
 ID=37531
-報酬内容
+Reward Contents
 
 ID=37532
 Claim
 
 ID=37537
-獲得ソウル
+Acquired Soul
 
 ID=37538
 Personal
@@ -12227,52 +12248,52 @@ ID=37540
 Rewards
 
 ID=37541
-追加報酬
+Bonus Reward
 
 ID=37542
-メイズ入場及びクリア{0}+1人プレイ{1}+復活禁止{2}+回復ポーション禁止{3}
+Dungeon entry and clear {0} + solo play {1} + no revivals + {2} + no recovering potions {3}
 
 ID=37543
-進行方法
+Progress Method
 
 ID=37544
-報酬内容
+Reward Contents
 
 ID=37545
-上位段階のソウルポイント
+High Level Soul Points
 
 ID=37546
-ソウルハンター
+Soul Hunter
 
 ID=37547
 Rank Information
 
 ID=37548
-順位情報は翌日の08:00に更新されます。
+Rank information will be updated tomorrow at 8 AM.
 
 ID=37600
-SSランク
+SS Rank
 
 ID=37601
-Sランク
+S Rank
 
 ID=37602
-Aランク
+A Rank
 
 ID=37603
-Bランク
+B Rank
 
 ID=37604
-Cランク
+C Rank
 
 ID=37605
-Dランク
+D Rank
 
 ID=37606
-Eランク
+E Rank
 
 ID=37607
-Fランク
+F Rank
 
 ID=38000
 {0}s
@@ -12311,7 +12332,7 @@ ID=38011
 Increase Defense by {0}%
 
 ID=38012
-スタミナ{0}増加
+Stamina +{0}
 
 ID=38013
 Netcafe exclusive +200 fatigue
@@ -12320,10 +12341,10 @@ ID=38014
 +1 special dungeon entry count
 
 ID=38015
-結果報酬EXP{0}%増加
++{0}% Result EXP Reward
 
 ID=38016
-結果報酬ジェニー{0}%増加
++{0}% Result Zenny
 
 ID=38500
 Rank
@@ -13211,7 +13232,7 @@ ID=40428
 The purifier has been destroyed by the Mutant Mad Beholder's attacks.
 
 ID=40429
-左のA-1研究室のスイッチを作動させると、プレイヤーの攻撃力が大幅に増加します。
+Upon activating the switch in the left hand side of the A-1 Laboratory, the player's attack power will rise significantly.
 
 ID=40430
 The switches can be activated after defeating all the enemies.
@@ -13502,22 +13523,31 @@ ID=40624
 The powerful core's guardian will be summoned soon.\nThe guardian won't disappear until the core is defeated.
 
 ID=40625
-浄化装置を使用すると、汚染状態が活力状態に変わり、強力な力を得ることができます。\nただし、汚染状態の場合のみです。
+Using the purifier will change from contaminated state to energized state, you will receive a power boost.\nBut, it can only be used while in the contaminated state.
 
 ID=40626
-深手を負ったプライマルが最後の足掻きを始めます。\n持続的にダメージを与える汚染された血が足元に広がっています。
+The Primal begins a final desperate attempt upon being severely injured.\nContaminated blood is spreading towards your feet, it will inflict continuous damange.
 
 ID=40627
 The Primal is going to grab the targets that are in from of it.
 
 ID=40628
-警告！\n活力状態でない場合、全滅してしまいます。
+WARNING!\nYou will be wiped out unless you enter the energized state.
 
 ID=40629
-メンバーがローディング中です。
+Members are loading.
 
 ID=40630
-プライマルの巨大な腕が召喚されました。\n巨大な腕は距離によってスキルを使用します。
+Primal's gigantic arm has been summoned.\nThe gigantic arm will use skills from a distance.
+
+ID=40701
+間もなくタンク部隊による支援攻撃が始まります。\n支援攻撃まで敵の空襲に耐えてください。
+
+ID=40702
+タンク部隊の支援攻撃が始まりました。\n残りの敵を殲滅します。
+
+ID=40703
+指定された位置までキャサリンを護衛し移動してください。
 
 ID=42000
 Jack the King
@@ -15740,82 +15770,82 @@ ID=46300
 Steel Grave has been successfully cleared.
 
 ID=46301
-Congratulations!\nSteel {0} Grave has been successfully cleared.
+Congratulations!\nYou have successfully cleared Steel Grave {0}.\nPlease return tomorrow.
 
 ID=46302
 Steel Grave challenge failed.
 
 ID=46303
-Could not enter Steel {0} Grave.\nTry again tomorrow.
+Could not enter Steel Grave {0}.\nTry again tomorrow.
 
 ID=46304
 Clear Time
 
 ID=47000
-乗り物
+Vehicle
 
 ID=47001
 Info
 
 ID=47002
-速度
+Speed
 
 ID=47003
-ブースター
+Booster
 
 ID=47004
-パーツ
+Parts
 
 ID=47005
-乗り物リスト
+Vehicle List
 
 ID=47006
-装着
+Attach
 
 ID=47007
 Board Helicopter
 
 ID=47008
-対象ソケットにパーツを装着しますか？\n(該当ソケットにパーツを装着している場合、既存パーツはなくなります)
+Are you sure you want to attach the parts to the selected socket?\n(Attaching the part to the selected socket will consume the parts)
 
 ID=47009
-乗り物アイテムを装着しますか？
+Are you sure you want to attach the vehicle item?
 
 ID=47010
-搭乗解除
+Unmount
 
 ID=47011
-装備チャージ
+Charge Equipment
 
 ID=47012
-全体チャージ
+Charge All
 
 ID=47013
-保有中の全ての乗り物をチャージしますか？\n-チャージ費用：{0}ジェニー-
+Are you sure you want to charge all of the possessed vehicles?\nCharge Cost: {0} Zenny
 
 ID=47014
-装備中の{0}をチャージしますか？\n-チャージ費用：{1}ジェニー-
+Are you sure you want to charge {0}'s equipment?\nCharge Cost: {1} Zenny
 
 ID=47015
-装備中の乗り物をチャージしますか？\n-チャージ費用：{0}ジェニー-
+Are you sure you want to charge vehicle's equipment?\nCharge Cost: {0} Zenny
 
 ID=47016
-装備パーツなし
+No equipment parts
 
 ID=47017
-チャージ
+Charge
 
 ID=47018
-乗り物のブースターゲージが最高値です。
+Vehicle's boost gauge is at maximum.
 
 ID=47019
-保有中の乗り物はありません。
+You do not possess any vehicle.
 
 ID=47020
 Insufficient Zenny.
 
 ID=47021
-ブースターゲージを全て消耗しているため使用できません。
+Cannot use because the booster gauge is full.
 
 ID=49000
 Ongoing
@@ -16388,7 +16418,7 @@ ID=49791
 Mobile Authentication
 
 ID=49912
--Mission Failed-\nLeaving dungeon\n-Time left: (0} seconds-
+- Mission Failed -\nLeaving dungeon.\n({0} second remaining)
 
 ID=49913
 The party failed the mission. \nCan not join the party.
@@ -16523,10 +16553,10 @@ ID=49956
 Down Attack
 
 ID=49957
-Time Limit {0}:{1}:{2}
+{0}h{1}m{2}s remaining
 
 ID=49958
-Time Limit {0}:{1}:{2}
+{0}h{1}m{2}s remaining
 
 ID=49959
 Mission completion reward sent to mail.
@@ -17054,7 +17084,7 @@ ID=52256
 Insufficient inventory space.
 
 ID=52257
-Could not make the item.
+Could not craft the item.
 
 ID=52260
 This NPC cannot do the desired operation.
@@ -17165,7 +17195,7 @@ ID=52310
 Failed to purchase item because of insufficient [Zenny/Hancoin/BP/Recycling Point].
 
 ID=52311
-Failed to purchase this item. Your inventory is full.
+Failed to purchase item: Inventory full
 
 ID=52312
 You cannot sell this item.
@@ -17180,7 +17210,7 @@ ID=52315
 GMs cannot use the store.
 
 ID=52316
-Insufficient S coins to make a purchase.
+Failed to purchase item: Insufficient S coin
 
 ID=52317
 Failed to purchase this item. Please try again.
@@ -17207,7 +17237,7 @@ ID=52324
 Cannot open Item Mall in the area.
 
 ID=52325
-再購入できないアイテムです。
+Cannot be re-purchased.
 
 ID=52401
 Player is already trading.
@@ -17255,7 +17285,7 @@ ID=52416
 You cannot trade with a blocked player.
 
 ID=52417
-相手がジェニー最大所持量を超過しているため送れません。
+Cannot send because the other party has exceeded the maximum possession amount of Zenny.
 
 ID=52430
 Personal Shop is already open.
@@ -17291,7 +17321,7 @@ ID=52440
 You cannot open any more personal shops within the channel.
 
 ID=52441
-Insufficient inventory space. You cannot purchase the item.
+Failed to purchase item: Insufficient inventory space
 
 ID=52442
 Other players are currently using the Personal Shop.
@@ -17371,6 +17401,9 @@ The opponent has 0 BP. You cannot win any BP.
 ID=52704
 PvP and PvE-earned BP limits have been reset.
 
+ID=52800
+ブローチを抽出できません。
+
 ID=53001
 Players who are in a dungeon cannot be invited to party.
 
@@ -17444,10 +17477,10 @@ ID=53029
 Cannot leave the party while in a boss battle.
 
 ID=53030
-You cannot request for party members in the wasteland.
+You cannot join a party from a lawless zone.
 
 ID=53031
-You cannot make a request because the target is in the wasteland.
+You cannot make a request because the target is in the lawless zone.
 
 ID=53032
 Cannot expel members in dungeon.
@@ -17456,13 +17489,13 @@ ID=53101
 Cannot use the force search function because of insufficient fatigue.
 
 ID=53102
-Cannot invite players that are already in a dungeon to the force.
+Players that are already in a dungeon cannot be invited in the force.
 
 ID=53103
-You're not the force leader.
+You are not the force leader.
 
 ID=53104
-The player is already being invited in another force.
+The target is already being invited in another force.
 
 ID=53105
 Failed to establish the force.
@@ -17489,67 +17522,67 @@ ID=53112
 An unexpected error has occurred during the force.
 
 ID=53113
-Currently there is no force available.
+Currently you cannot invite the target to the force.
 
 ID=53114
-Cannot use the matchmaking because of insufficient fatigue.
+The target is already being invited to a force.
 
 ID=53115
-該当フォースに加入できません。
+Cannot join respective force.
 
 ID=53116
-メイズ内部にメンバーがいる場合、フォースへ招待できません。
+Cannot invite to the force while there are members inside the dungeon.
 
 ID=53117
-他のフォースの招待を受けています。
+You are receiving an invitation from another force.
 
 ID=53118
-フォースメンバー数を超過しているため、登録できません。
+Cannot join because the force exceeded the maximum number of force members.
 
 ID=53119
-相手が無法地帯にいるため、フォース要請できません。
+You cannot make a force request because the target is in a lawless zone. 
 
 ID=53120
-メイズにいるフォースメンバーは追放できません。
+Cannot expel a force member while in a dungeon.
 
 ID=53121
-フォース中のメイズ入場は、フォースリーダーのみ申請できます。
+Only the force leader can apply to enter a dungeon.
 
 ID=53122
-フォースメンバーが入場を拒否しました。
+A force member refused the entry to the dungeon.
 
 ID=53123
-メイズ入場レベルに達していないフォースメンバーがいるため、入場できません。
+Cannot enter because there are force members that don't meet the dungeon required level.
 
 ID=53124
-フォースメンバーのメイズ入場時に、同じ町に位置した場合のみ乱入できます。
+All force members must be in the same town to be able to enter the dungeon.
 
 ID=53125
-フォースメンバーの減少により、敵が弱体化します。
+The enemies will be weakened because of a reduced number of force members.
 
 ID=53126
-フォースは4人以上でなければ入場できません。
+Cannot enter without 4 or more force members.
 
 ID=53127
-フォースメンバーが入場クエストを満たしていないため、入場できません。
+Cannot enter because there are force members that don't meet entrance quest requirements.
 
 ID=53128
-入場要求アイテムを所持していないフォースメンバーがいます。
+There are force members that do not possess the required entry item.
 
 ID=53129
-フォースメンバーが、一日の入場制限回数を全て消費しているため入場できません。
+Cannot enter because there are force members that reached the entry limit for today.
 
 ID=53130
-相手の遮断によりフォースの招待ができません。
+Couldn't invite to the force because the other party has blocked invitations.
 
 ID=53131
-相手が現在違う要請を進行中です。
+The target is currently reviewing another request.
 
 ID=53132
-ボスエリアではフォース離脱できません。
+You cannot withdraw from the force in the boss area.
 
 ID=53133
-無法地帯ではフォースの申請はできません。
+You cannot request to join a force from a lawless zone.
 
 ID=53134
 You have selected yourself.
@@ -17561,73 +17594,73 @@ ID=53136
 Cannot enter because a party member does not have a soul weapon equipped.
 
 ID=53137
-フォースメンバーが同じ町に位置していないため、メイズに入場できませ。
+Cannot enter the dungeon because not all force members are in the same town.
 
 ID=53138
 Cannot enter the dungeon because a party member does not meet the dungeon requirements.
 
 ID=53139
-メンバーが入場クエストを満たしていないため、入場できません。
+Cannot enter because there are members that don't meet the entrance quest requirements.
 
 ID=53140
-メンバーが入場要求アイテムを所持していないため、入場できません。
+Cannot enter because there are members that do no possess the required entry item.
 
 ID=53141
-メンバーがログアウト状態のため、メイズに入場できません。
+Cannot enter the dungeon because there are members that are currently logged off.
 
 ID=53142
-メンバーが一日の入場制限回数を全て消費しているため、入場できません。
+Cannot enter because there are members that reached the entry limit for today.
 
 ID=53143
-メイズ入場はパーティーリーダーのみ申請できます。
+Only the party leader can apply to enter a dungeon.
 
 ID=53144
-メイズに乱入できません。存在しないメイズです。
+Cannot enter the dungeon. The dungeon does not exist.
 
 ID=53145
-パーティー状態のため、フォースへ招待できません。
+Cannot invite to the force in this state.
 
 ID=53146
-すでにパーティー加入状態のため、フォースへ招待できません。
+Cannot invite to the force because the target is already joining a party.
 
 ID=53147
-フォースの招待要請は町でのみ可能です。
+You can only invite to the force while in a town.
 
 ID=53148
-フォース状態では、パーティー申請できません。
+Cannot apply to join a party while in a force.
 
 ID=53149
-全メンバーが、同じチャンネルまたは同じエリアにいる必要があります。
+All members must be in the same channel or in the same area.
 
 ID=53150
-オートフォースマッチング中は、チャンネル移動できません。
+You cannot change the channel while in force auto-matching.
 
 ID=53151
-オートフォースマッチング中は、パーティーの離脱はできません。
+Cannot withdraw from the party while in force auto-matching.
 
 ID=53152
-オートフォースマッチング中は、フォースを離脱できません。
+Cannot leave the force while in force auto-matching.
 
 ID=53153
-メンバーがオートフォースマッチングを中止しました。
+A member has canceled the force auto-matching.
 
 ID=53154
-オートフォースマッチングできず終了しました。
+Force auto-matching was canceled.
 
 ID=53155
-メンバーがログアウト状態のため、オートフォースマッチングが終了しました。
+Force auto-matching was canceled because a member is currently logged off.
 
 ID=53156
-フォース状態でのみ入場できるエリアです。
+This area can only be entered while in a force.
 
 ID=53157
 This area can only be entered while in a party.
 
 ID=53158
-フォース状態では該当機能を使用できません。
+Cannot use this feature while in a force.
 
 ID=53159
-他のエリアにいるユーザーはフォースに招待できません。
+Cannot invite users from a different area.
 
 ID=54001
 The mission is already active.
@@ -17723,7 +17756,7 @@ ID=55010
 The area is abnormal.
 
 ID=55011
-メンバーが入場を拒否しました。
+A member refused the entry.
 
 ID=55012
 Cannot enter because you do not meet the level requirement for this dungeon.
@@ -17804,7 +17837,7 @@ ID=55043
 Cannot make purchases; you are in a boss battle.
 
 ID=55044
-疲労度が不足しているため、オートマッチングができません。
+Cannot start auto-matching because of insufficient fatigue.
 
 ID=55047
 Cannot enter the dungeon because a party member is not in the same channel.
@@ -17819,7 +17852,7 @@ ID=55050
 You cannot exit the dungeon if you are at the boss area.
 
 ID=55051
-入場にはメンバーが4人必要です。
+You need at least 4 members to enter.
 
 ID=55052
 Only guild members will be able to enter the party.
@@ -17828,22 +17861,25 @@ ID=55053
 Cannot enter because you have exceeded the entry limit.
 
 ID=55055
-メンバーが入場クエストを満たしていないため入場できません。
+A member cannot enter because it doesn't meet the entrance quest requirements.
 
 ID=55056
-メンバーが{0}を所持していないため入場できません。
+A member cannot enter because it doesn't possess {0}.
 
 ID=55057
-メンバーが一日の入場制限回数を全て消費しているため入場できません。
+A member cannot enter because it has exceeded the entry limit.
 
 ID=55058
-戦闘状態のため、脱出できません。
+Cannot unstuck because you're in battle.
 
 ID=55059
-戦闘状態のため、終了できません。
+Cannot leave because you're in battle.
 
 ID=55060
-入場時間ではないため、入場できません。
+Cannot enter because it's not open at this time.
+
+ID=55061
+パーティー募集コメントを登録した状態ではリーダー委任はできません。
 
 ID=55101
 You have already befriended this person.
@@ -17918,7 +17954,7 @@ ID=55306
 Mail has been deleted.
 
 ID=55307
-You have too much Zenny. I think you're a bot.
+You have exceeded the maximum amount of Zenny that you can possess.
 
 ID=55308
 Insufficient inventory space.
@@ -18308,40 +18344,40 @@ ID=58233
 You were kicked out because the room changed to placement mode.
 
 ID=58234
-自分のマイルームは推薦できません。
+Cannot recommend your own room.
 
 ID=58235
-同じマイルームを推薦できるのは、一日一回のみです。
+You can only recommend the same room once a day.
 
 ID=58236
-推薦できません。
+Not recommended.
 
 ID=58237
-自分のマイルームはお気に入りにできません。
+Cannot favorite your own room.
 
 ID=58238
-お気に入りリストにありません。
+Not favorited.
 
 ID=58239
-すでにお気に入りのマイルームです。
+This room is already favorited.
 
 ID=58240
-お気に入りリストがいっぱいです。
+Favorites list is full.
 
 ID=58241
-お気に入りできません。
+Cannot favorite.
 
 ID=58242
-マイルームランキング報酬リストがありません。
+There are no rewards for the room ranking.
 
 ID=58243
-すでにランキング報酬を受け取っています。
+You have already received the ranking reward.
 
 ID=58245
-マイルームを所持していないため、掲示板作成はできません。
+Cannot create a room notice because you don't have a room.
 
 ID=58247
-選択したマイルームへは入場できません。
+Cannot enter the selected room.
 
 ID=58300
 Only {1} items can be up for sale on the market out of {0} items listed so far.
@@ -18416,31 +18452,31 @@ ID=59308
 Item data could not be found.
 
 ID=59400
-乗り物を保有していません。
+You do not own that vehicle.
 
 ID=59401
-チャージに失敗しました。
+Failed to charge.
 
 ID=59402
-パーツの装着に失敗しました。
+Failed to attach parts.
 
 ID=59403
-乗り物を召喚状態ではパーツの装着はできません。
+You cannot attach parts while the vehicle is summoned.
 
 ID=59404
-搭乗状態では該当動作はできません。
+You cannot use that action while mounted.
 
 ID=59405
-乗り物を獲得できません。
+Cannot earn the vehicle.
 
 ID=59406
-乗り物を装備できません。
+Cannot equip the vehicle.
 
 ID=59407
-召喚状態では装備変更できません。
+Cannot change equipment while the vehicle is summoned.
 
 ID=59408
-乗り物の召喚待機を指定しませんでした。
+Vehicle summoning is on cooldown.
 
 ID=60001
 Do you wish to attach this brooch [{0}] to the slot?\n Note that it cannot be removed thereafter.
@@ -18614,19 +18650,19 @@ ID=60202
 Force
 
 ID=60203
-{0}がフォースに招待されました。フォースに合流しますか？\n-残り{1}秒-
+{0} has invited you to a force. Are you sure you want to join the force?\n({1} seconds remaining)
 
 ID=60204
-フォースを離脱すると、町に移動します。\n離脱しますか？
+If you leave the force, you will be returned to town.\nAre you sure you want to leave?
 
 ID=60205
-フォースを離脱し、町に移動します。\n-残り{0}秒-
+You have left the force, moving to town.\n({0} seconds remaining)
 
 ID=60206
-{0}にフォースリーダーを委任しますか？
+Are you sure you want to make {0} the force leader?
 
 ID=60207
-{0}をフォースから追放しますか？
+Are you sure you want to expel {0} from the force?
 
 ID=60208
 Force Invitation
@@ -18653,16 +18689,16 @@ ID=60215
 Leave Force
 
 ID=60216
-フォースリーダーのみ、フォースに招待できます。
+Only the force leader can invite to the force.
 
 ID=60217
-メンバー数を超過しました。
+Maximum number of members reached.
 
 ID=60218
-[{0}]が他のフォースに加入しています。
+[{0}] is in another force.
 
 ID=60219
-すでにフォースの招待を要請中です。
+The target is already being invited to a force.
 
 ID=60220
 他のフォースの招待受注可否を決定しています。
@@ -18674,7 +18710,7 @@ ID=60222
 該当フォースがメイズにいるため合流できません。
 
 ID=60223
-該当フォースに加入できません。
+Cannot join respective force.
 
 ID=60224
 フォースメンバー数を超過しました。
@@ -18710,7 +18746,7 @@ ID=60234
 [{0}]が時間制限によりフォースから追放されました。
 
 ID=60235
-メイズ入場レベルに達していないフォースメンバーがいるため、入場できません。
+Cannot enter because there are force members that don't meet the dungeon required level.
 
 ID=60236
 フォース状態では入場できないエリアです。
@@ -18719,7 +18755,7 @@ ID=60237
 次のエリアに移動するのに必要なフォースメンバーが足りません。
 
 ID=60238
-フォースメンバーのメイズ入場時に、同じ町に位置した場合のみ乱入できます。
+All force members must be in the same town to be able to enter the dungeon.
 
 ID=60239
 ソウルウェポンを装備していないフォースメンバーがいるため、入場できません。
@@ -18758,13 +18794,13 @@ ID=60250
 Expel Force
 
 ID=60251
-Force Auto-Matching
+Force auto-matching
 
 ID=60252
-Force Auto-Matching Unavailable
+Force auto-matching unavailable
 
 ID=60256
-Stop Force Auto-Matching
+Stop force auto-matching
 
 ID=60257
 すでにフォースに加入状態のため、\nオートフォースマッチングできません。
@@ -18830,7 +18866,7 @@ ID=60277
 現在加入中のフォースから離脱しますか？
 
 ID=60278
-Force Auto-Matching
+Force auto-matching
 
 ID=60279
 Simple
@@ -18863,7 +18899,7 @@ ID=60288
 フォースリーダー{0}が、メイズ入場を中止しました。
 
 ID=60289
-Disable auto forced matching
+Disable force auto-matching
 
 ID=60290
 オートフォースマッチング進行可否選択
@@ -18881,7 +18917,7 @@ ID=60294
 オートフォースマッチングを中止すると、申請したメンバー全員が中止されます。\n中止しますか？
 
 ID=60500
-Force 4~8 People
+4~8 Force People
 
 ID=60501
 1~4 People
