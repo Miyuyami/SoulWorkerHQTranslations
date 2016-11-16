@@ -5879,10 +5879,10 @@ ID=18201
 Currently, you are in an unhealthy play state.\nGame earnings will be reduced to 0% of the normal value.\nFor the sake of your own health, please take an appropriate amount of rest from the game.\nIf you don't close the game it will have a negative effect on your body.\nAfter 5 hours of continuous offline state you will be able to re-enter and play the game successfully.
 
 ID=18202
-ブローチ抽出
+ブローチ全抽出
 
 ID=18203
-{0}個のブローチをアバターから抽出します。\n{1}\n抽出費用：<font color='#6799FF'>{2}</font>ジェニー\n抽出しますか？
+<font color='#FFFFFF'>{0}</font>を使用しない場合、抽出費用から<font color='#FF0000'>{1}</font>ジェニーが差し引かれます。\n<font color='#FFFFFF'>{2}</font>を使用する場合は、差し引かれません。\n抽出しますか？
 
 ID=18204
 ブローチの抽出に成功しました。\nインベントリを確認してください。
@@ -5900,16 +5900,16 @@ ID=18208
 Attach
 
 ID=18209
-아이템 사용
+Redeem Ticket(s)
 
 ID=18210
-제니 사용
+ジェニー使用
 
 ID=18211
-{0}부위에서 {1}개의 브로치을 추출합니다
+{0}から{1}個のブローチを抽出します。
 
 ID=18212
-브로치 추출에 필요한 아이템 {0}이 부족합니다.
+ブローチ抽出に必要な{0}が不足しています。
 
 ID=19000
 <font color='#47C83E'>Attack +1%/Evaded Attack Damage +1%</font>
@@ -9260,7 +9260,7 @@ ID=26329
 When hit, 15% chance of +{0}% Defense for 5s
 
 ID=26330
-When hit, 8% chance of +{0}% Critical Resistance for 10s
+攻撃を受けた時、8%の確率で10秒間クリティカル抵抗{0}% 増加
 
 ID=26331
 When hit, 20% chance of +{0}% Damage Reflection
@@ -9281,13 +9281,13 @@ ID=26336
 When hit, 20% chance of Super Armor for 6s
 
 ID=26337
-回避減少：回避{0}%
+ダメージ減少：回避{0}%
 
 ID=26338
-回避減少：エアリアル{0}%
+ダメージ減少：エアリアル{0}%
 
 ID=26339
-回避減少：ダウン{0}%
+ダメージ減少：ダウン{0}%
 
 ID=26340
 When being hit under 50% HP, 10% chance of +{0}% Defense for 5s
@@ -9374,7 +9374,7 @@ ID=26367
 When hit, 30% chance of +{0}% SA Break for 5s
 
 ID=26368
-On evasion, 30% chance of +{0}% Attack for 5s
+回避時、30%の確率で5秒間、攻撃力{0}増加
 
 ID=26369
 On evasion, 30% chance of {0} Accuracy for 5s
@@ -9413,7 +9413,7 @@ ID=26380
 Subdue Effect: +{0} SA Break for 5s
 
 ID=26381
-Subdue Effect: -{0} Enemy Defense for 5s
+討伐効果：5秒間敵防御度貫通{0}%増加
 
 ID=26500
 On enemy death, +{0}% Defense Penetration for 30s
@@ -9875,7 +9875,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the SoulworkerHQ Translation Team.\nLast updated at 10/Nov/2016 10:00 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the SoulworkerHQ Translation Team.\nLast updated at 17/Nov/2016 01:30 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
