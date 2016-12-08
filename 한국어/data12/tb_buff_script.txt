@@ -761,28 +761,34 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=5001
-Passive
-SG 회복
-Icon/Buff/Icon_Common_Buff_SG_Recovery
-0
+果てなき闘争Ⅰ
+ソウルを消費するスキル使用時、一定確率で自分が与えるダメージ量が増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+대미지량 증가
 
 ID=5002
-Passive
-SG 회복
-Icon/Buff/Icon_Common_Buff_SG_Recovery
-0
+果てなき闘争Ⅱ
+ソウルを消費するスキル使用時、一定確率で自分が与えるダメージ量が増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+대미지량 증가
 
 ID=5003
-Passive
-SG 회복
-Icon/Buff/Icon_Common_Buff_SG_Recovery
-0
+果てなき闘争Ⅲ
+ソウルを消費するスキル使用時、一定確率で自分が与えるダメージ量が増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+대미지량 증가
 
 ID=5005
 특수공격
 공중에 뜬 상태.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
+
+ID=5009
+復讐の剣
+ダメージを受けた時、一時的に自分が与えるダメージ量が増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+대미지량 증가
 
 ID=5011
 퍼스트 블레이드 특성AⅠ
@@ -1834,6 +1840,12 @@ ID=7075
 0
 소울회복
 
+ID=7500
+일루전(각성) I.
+攻撃力が20%増加する。\nスーパーアーマー破壊力が30%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=7501
 오버히트
 SG 즉시 전부 회복한다.
@@ -1844,6 +1856,114 @@ ID=7502
 오버히트
 스킬을 사용할 수 없습니다.
 Icon/Buff/Icon_Common_Debuff_Silence
+0
+
+ID=7505
+発火Ⅰ
+一定時間、近距離攻撃が命中した敵に追加ダメージを発生させる。
+Icon/Buff/Icon_Common_Buff_Warm
+0
+
+ID=7506
+発火Ⅱ
+一定時間、近距離攻撃が命中した敵に追加ダメージを発生させる。
+Icon/Buff/Icon_Common_Buff_Warm
+0
+
+ID=7507
+発火Ⅲ
+一定時間、近距離攻撃が命中した敵に追加ダメージを発生させる。
+Icon/Buff/Icon_Common_Buff_Warm
+0
+
+ID=7508
+火炎Ⅰ
+매초 HP가 감소한다.
+Icon/Buff/Icon_Common_Debuff_Bleed
+0
+
+ID=7509
+火炎Ⅱ
+매초 HP가 감소한다.
+Icon/Buff/Icon_Common_Debuff_Bleed
+0
+
+ID=7510
+火炎Ⅲ
+매초 HP가 감소한다.
+Icon/Buff/Icon_Common_Debuff_Bleed
+0
+
+ID=7511
+SG回復Ⅰ
+SGが即時回復する。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG 회복
+
+ID=7512
+SG回復Ⅱ
+SGが即時回復する。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG 회복
+
+ID=7513
+SG回復Ⅲ
+SGが即時回復する。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG 회복
+
+ID=7516
+기절
+一定時間、気絶効果を受ける。
+Icon/Buff/Icon_Common_Debuff_Stun
+기절
+
+ID=7521
+攻撃強化Ⅰ
+一回だけ次の攻撃の攻撃力が増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+攻撃強化
+
+ID=7522
+攻撃強化Ⅱ
+一回だけ次の攻撃の攻撃力が増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+攻撃強化
+
+ID=7523
+攻撃強化Ⅲ
+一回だけ次の攻撃の攻撃力が増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+攻撃強化
+
+ID=7524
+攻撃強化Ⅳ
+一回だけ次の攻撃の攻撃力が増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+攻撃強化
+
+ID=7525
+攻撃強化Ⅴ
+一回だけ次の攻撃の攻撃力が増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+攻撃強化
+
+ID=8001
+快速攻撃Ⅰ
+ソウルの消費量が5%減少する。
+Icon/Buff/Icon_Common_Buff_ASR
+0
+
+ID=8002
+快速攻撃Ⅱ
+ソウルの消費量が8%減少する。
+Icon/Buff/Icon_Common_Buff_ASR
+0
+
+ID=8003
+快速攻撃Ⅲ
+ソウルの消費量が10%減少する。
+Icon/Buff/Icon_Common_Buff_ASR
 0
 
 ID=10000
@@ -2771,32 +2891,32 @@ Icon/Buff/Icon_Common_Debuff_Weakness
 쇠약
 
 ID=30202
-汚染
-身体の中から異質な力を感じる。
+오염
+몸안에서 이질적인 힘을 느낀다.
 Icon/Buff/Icon_Common_Debuff_Poison
-汚染
+오염
 
 ID=30204
 생명력
-身体が活性化し、強力な力を感じる。
+신체가 활성화하여, 강력한 힘을 느낀다.
 Icon/Buff/Icon_Common_Buff_ATK
-浄化
+정화
 
 ID=30205
-腐食
-HPが持続的に減少する。
+부식
+HP가 지속적으로 감소한다.
 Icon/Buff/Icon_Common_Debuff_Bleed
-腐敗
+부패
 
 ID=30206
 汚染された血
-HPが持続的に減少する。
+HP가 지속적으로 감소한다.
 0
 -
 
 ID=30207
-腐敗
-HPが持続的に減少する。
+부패
+HP가 지속적으로 감소한다.
 0
 -
 
