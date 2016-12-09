@@ -6143,7 +6143,7 @@ ID=18572
 アサルトダイブ
 
 ID=18573
-ダブルサマーソルト
+ファイアサマーソルト
 
 ID=18574
 スパイラルピアス
@@ -6158,18 +6158,21 @@ ID=18577
 リミットブレイク
 
 ID=18578
-マントルバスター
+バレットストーム
 
 ID=18579
-ファイナルイグニッション
+フルバースト
 
 ID=18580
-パウンティングハンマー
+アースクエイク
 
 ID=18581
-ショットガンハンマー
+エレクトリックキャノン
 
 ID=18582
+イクシードドライバー
+
+ID=18583
 ブレイクイロージョン
 
 ID=18600
@@ -9311,10 +9314,10 @@ ID=26086
 Change effect when receiving damage_Turn off Options menu[Tooltip]
 
 ID=26087
-Subdue Effect: HP Recovery
+On kill Effect: HP Recovery
 
 ID=26088
-Subdue Effect: SG Recovery
+On kill Effect: SG Recovery
 
 ID=26089
 Poison Rate
@@ -9692,10 +9695,10 @@ ID=26378
 ダッシュ使用時、10%の確率で5秒間、敵防御度貫通{0}%増加
 
 ID=26379
-Subdue Effect: +{0} Attack for 5s
+On kill Effect: +{0} Attack for 5s
 
 ID=26380
-Subdue Effect: +{0} SA Break for 5s
+On kill Effect: +{0} SA Break for 5s
 
 ID=26381
 討伐効果：5秒間、敵防御度減少{0}%増加
@@ -10160,7 +10163,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 08/Dec/2016 8:45 PM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 09/Dec/2016 8:20 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\n Check it out.
@@ -16775,13 +16778,13 @@ ID=49930
 Received secret mission rewards.
 
 ID=49931
-[{0}] Subdue {2} times in {1}
+[{1}] killed {2} [{0}]
 
 ID=49932
-[{0}] Subdue [{1}] {2} times
+Opponent [{1}] killed {2} [{0}]
 
 ID=49933
-[{0}] Subdue [{1}] {2} times
+Opponent [{1}] killed {2} [{0}]
 
 ID=49934
 [{0}] Clear {1] times with SS rank
@@ -16823,7 +16826,7 @@ ID=49946
 [{0}] Obtain [{1}] {2} pieces
 
 ID=49947
-[{0}] Subdue {1} times
+Killed {1} [{0}]
 
 ID=49948
 [{0}] Broke {1} Times
