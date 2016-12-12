@@ -1,0 +1,27 @@
+﻿[FontConfig "English"] 
+fontlib "fonts_en.swf"
+map "$normal" = "Malgun Gothic" Normal
+map "$bold" = "Malgun Gothic Bold" Bold
+map "$header" = "Malgun Gothic Bold" Bold
+map "$IMECandidateListFont" = "Malgun Gothic" Normal
+
+[FontConfig "Korean"] 
+fontlib "fonts_kr.swf"
+map "$normal" = "Malgun Gothic" Normal
+map "$bold" = "Malgun Gothic Bold" Bold
+map "$header" = "Malgun Gothic Bold" Bold
+map "$IMECandidateListFont" = "Malgun Gothic" Normal
+
+[FontConfig "Chinese"] 
+fontlib "fonts_ch.swf"
+map "$normal" = "Microsoft JhengHei" Normal
+map "$bold" = "Microsoft JhengHei" Normal
+map "$header" = "Microsoft JhengHei" Normal
+map "$IMECandidateListFont" = "Microsoft JhengHei" Normal
+
+[FontConfig "Japanese"] 
+fontlib "../datas/data00.v"
+map "$normal" = "LMYH" Bold
+map "$bold" = "LMYH" Bold
+map "$header" = "LMYH" Bold
+map "$IMECandidateListFont" = "LMYH" Bold
