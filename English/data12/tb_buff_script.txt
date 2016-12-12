@@ -761,20 +761,20 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=5001
-果てなき闘争Ⅰ
-ソウルを消費するスキル使用時、一定確率で自分が与えるダメージ量が増加する。
+Endless Struggle Ⅰ
+When using skills that consume SG, damage increases at a certain probability.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage↑
 
 ID=5002
-果てなき闘争Ⅱ
-ソウルを消費するスキル使用時、一定確率で自分が与えるダメージ量が増加する。
+Endless Struggle Ⅱ
+When using skills that consume SG, damage increases at a certain probability.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage↑
 
 ID=5003
-果てなき闘争Ⅲ
-ソウルを消費するスキル使用時、一定確率で自分が与えるダメージ量が増加する。
+Endless Struggle Ⅲ
+When using skills that consume SG, damage increases at a certain probability.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage↑
 
@@ -785,8 +785,8 @@ Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=5009
-復讐の剣
-ダメージを受けた時、一時的に自分が与えるダメージ量が増加する。
+Vengeful Sword
+When damaged, damage temporarily increases.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage↑
 
@@ -1842,7 +1842,7 @@ Soul Recovery
 
 ID=7500
 Erosion Ⅰ
-攻撃力が20%増加する。\nスーパーアーマー破壊力が30%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Attack Power +20%.\nSA Break +30%.\nMovement Speed +20%.\nGain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1859,110 +1859,110 @@ Icon/Buff/Icon_Common_Debuff_Silence
 0
 
 ID=7505
-発火Ⅰ
-一定時間、近距離攻撃が命中した敵に追加ダメージを発生させる。
+Ignite Ⅰ
+Deal additional damage to enemies hit by short range attacks for a fixed period of time.
 Icon/Buff/Icon_Common_Buff_Warm
 0
 
 ID=7506
-発火Ⅱ
-一定時間、近距離攻撃が命中した敵に追加ダメージを発生させる。
+Ignite Ⅱ
+Deal additional damage to enemies hit by short range attacks for a fixed period of time.
 Icon/Buff/Icon_Common_Buff_Warm
 0
 
 ID=7507
-発火Ⅲ
-一定時間、近距離攻撃が命中した敵に追加ダメージを発生させる。
+Ignite Ⅲ
+Deal additional damage to enemies hit by short range attacks for a fixed period of time.
 Icon/Buff/Icon_Common_Buff_Warm
 0
 
 ID=7508
-火炎Ⅰ
+Blaze Ⅰ
 HP reduce per second.
 Icon/Buff/Icon_Common_Debuff_Bleed
 0
 
 ID=7509
-火炎Ⅱ
+Blaze Ⅱ
 HP reduce per second.
 Icon/Buff/Icon_Common_Debuff_Bleed
 0
 
 ID=7510
-火炎Ⅲ
+Blaze Ⅲ
 HP reduce per second.
 Icon/Buff/Icon_Common_Debuff_Bleed
 0
 
 ID=7511
-SG回復Ⅰ
-SGが即時回復する。
+SG Recovery Ⅰ
+Recover SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=7512
-SG回復Ⅱ
-SGが即時回復する。
+SG Recovery Ⅱ
+Recover SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=7513
-SG回復Ⅲ
-SGが即時回復する。
+SG Recovery ⅠⅠⅠ
+Recover SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=7516
 Stunned
-一定時間、気絶効果を受ける。
+Stunned for a fixed period of time.
 Icon/Buff/Icon_Common_Debuff_Stun
 Stunned
 
 ID=7521
-攻撃強化Ⅰ
-一回だけ次の攻撃の攻撃力が増加する。
+Enhanced Attack Ⅰ
+The next attack has increased attack power.
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃強化
+Enhanced Attack
 
 ID=7522
-攻撃強化Ⅱ
-一回だけ次の攻撃の攻撃力が増加する。
+Enhanced Attack Ⅱ
+The next attack has increased attack power.
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃強化
+Enhanced Attack
 
 ID=7523
-攻撃強化Ⅲ
-一回だけ次の攻撃の攻撃力が増加する。
+Enhanced Attack Ⅲ
+The next attack has increased attack power.
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃強化
+Enhanced Attack
 
 ID=7524
-攻撃強化Ⅳ
-一回だけ次の攻撃の攻撃力が増加する。
+Enhanced Attack Ⅳ
+The next attack has increased attack power.
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃強化
+Enhanced Attack
 
 ID=7525
-攻撃強化Ⅴ
-一回だけ次の攻撃の攻撃力が増加する。
+Enhanced Attack Ⅴ
+The next attack has increased attack power.
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃強化
+Enhanced Attack
 
 ID=8001
-快速攻撃Ⅰ
-ソウルの消費量が5%減少する。
+Rapid Attack Ⅰ
+SG cost -5%.
 Icon/Buff/Icon_Common_Buff_ASR
 0
 
 ID=8002
-快速攻撃Ⅱ
-ソウルの消費量が8%減少する。
+Rapid Attack Ⅱ
+SG cost -8%.
 Icon/Buff/Icon_Common_Buff_ASR
 0
 
 ID=8003
-快速攻撃Ⅲ
-ソウルの消費量が10%減少する。
+Rapid Attack Ⅲ
+SG cost -10%.
 Icon/Buff/Icon_Common_Buff_ASR
 0
 
@@ -5700,7 +5700,7 @@ Icon/Buff/Icon_PC_Buff_ExpBoost
 
 ID=61102
 Party Bonus
-4人以上のパーティー結成ボーナス。
+Party of 4 or more people.
 Icon/Buff/Icon_PC_Buff_ExpBoost
 0
 
