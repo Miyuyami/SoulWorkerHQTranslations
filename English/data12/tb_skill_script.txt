@@ -3829,7 +3829,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 
 ID=116
 Special Ability Mastery Ⅰ
-[Ground]\nInstantly recover [15%] SG and acquire a firing buff for 5s\nCooldown time: [15s]\n\n[Air]\nDamage: [382%]\nSA Break: [197%]\nCooldown time: [15s]\n\nHit the hammer on the ground.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Air]\nMouse: (RMB)
+[Ground]\nInstantly recover [15%] SG and acquire a firing buff for 5s\nCooldown time: [10s]\n\n[Air]\nDamage: [382%]\nSA Break: [197%]\nCooldown time: [15s]\n\nHit the hammer on the ground.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Air]\nMouse: (RMB)
 [Ground]\nSG Recovery/Fire Buff effect increases.\n\n[Air]\nDamage: [382%]+2%\nSA Break: [197%]+5%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_OwnAbility
 0
@@ -4151,69 +4151,69 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_CamelSpin
 
 ID=16031
 Assault Dive Ⅰ
-[Basic]\nDamage: [423%]\nSA Break: [327%]\n\n[Additional]\nDamage: [42%] [42%] [84%]\nSA Break: [32%] [32%] [65%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\n\n\n[Usage: Additional]\nMouse: After last attack (RMB)×2
-[Basic]\nDamage: [423%]+21%\nSA Break: [327%]+16%\n\n[Additional]\nDamage: [42%]+2% [42%]+2% [84%]+4%\nSA Break: [32%]+2% [32%]+2% [65%]+3%
+[Basic]\nDamage: [255%]\nSA Break: [198%]\n\n[Additional]\nDamage: [84%] [84%]\nSA Break: [64%] [65%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\nQuickly leap forward and push with your weapon, 2 additional rapid-fire explosive attacks.\n\n[Usage: Additional]\nMouse: After last attack (RMB)×2
+[Basic]\nDamage: [255%]+13%\nSA Break: [198%]+9%\n\n[Additional]\nDamage: [84%]+4% [84%]+4%\nSA Break: [64%]+4% [65%]+3%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_AssaultDive
 0
 
 ID=16032
 Assault Dive ⅠⅠ
-[Basic]\nDamage: [444%]\nSA Break: [343%]\n\n[Additional]\nDamage: [44%] [44%] [88%]\nSA Break: [34%] [34%] [68%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\n\n\n[Usage: Additional]\nMouse: After last attack (RMB)×2
-[Basic]\nDamage: [444%]+53%\nSA Break: [343%]+41%\n\n[Additional]\nDamage: [44%]+5% [44%]+5% [88%]+11%\nSA Break: [34%]+4% [34%]+4% [68%]+8%
+[Basic]\nDamage: [268%]\nSA Break: [207%]\n\n[Additional]\nDamage: [88%] [88%]\nSA Break: [68%] [68%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\nQuickly leap forward and push with your weapon, 2 additional rapid-fire explosive attacks.\n\n[Usage: Additional]\nMouse: After last attack (RMB)×2
+[Basic]\nDamage: [268%]+32%\nSA Break: [207%]+25%\n\n[Additional]\nDamage: [88%]+10% [84%]+11%\nSA Break: [68%]+8% [68%]+8%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_AssaultDive
 0
 
 ID=16033
 Assault Dive ⅠⅠⅠ
-[Basic]\nDamage: [497%]\nSA Break: [384%]\n\n[Additional]\nDamage: [49%] [49%] [99%]\nSA Break: [38%] [38%] [76%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\n\n\n[Usage: Additional]\nMouse: After last attack (RMB)×2
-[Basic]\nDamage: [497%]+53%\nSA Break: [384%]+41%\n\n[Additional]\nDamage: [49%]+6% [49%]+6% [99%]+11%\nSA Break: [38%]+7% [38%]+7% [76%]+13%
+[Basic]\nDamage: [300%]\nSA Break: [232%]\n\n[Additional]\nDamage: [98%] [99%]\nSA Break: [76%] [76%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\nQuickly leap forward and push with your weapon, 2 additional rapid-fire explosive attacks.\n\n[Usage: Additional]\nMouse: After last attack (RMB)×2
+[Basic]\nDamage: [300%]+30%\nSA Break: [232%]+24%\n\n[Additional]\nDamage: [98%]+12% [99%]+11%\nSA Break: [76%]+14% [76%]+13%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_AssaultDive
 0
 
 ID=16034
 Assault Dive Ⅳ
-[Basic]\nDamage: [550%]\nSA Break: [425%]\n\n[Additional]\nDamage: [55%] [55%] [110%]\nSA Break: [42%] [42%] [85%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\n\n\n[Usage: Additional]\nMouse: After last attack (RMB)×2
-[Basic]\nDamage: [550%]+84%\nSA Break: [425%]+65%\n\n[Additional]\nDamage: [55%]+8% [55%]+8% [110%]+16%\nSA Break: [42%]+7% [42%]+7% [85%]+13%
+[Basic]\nDamage: [330%]\nSA Break: [256%]\n\n[Additional]\nDamage: [110%] [110%]\nSA Break: [84%] [85%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\nQuickly leap forward and push with your weapon, 2 additional rapid-fire explosive attacks.\n\n[Usage: Additional]\nMouse: After last attack (RMB)×2
+[Basic]\nDamage: [330%]+52%\nSA Break: [256%]+38%\n\n[Additional]\nDamage: [110%]+16% [110%]+16%\nSA Break: [84%]+14% [85%]+13%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_AssaultDive
 0
 
 ID=16035
 Assault Dive Ⅴ
-[Basic]\nDamage: [634%]\nSA Break: [490%]\n\n[Additional]\nDamage: [63%] [63%] [126%]\nSA Break: [49%] [49%] [98%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\n\n\n[Usage: Additional]\nMouse: After last attack (RMB)×2
+[Basic]\nDamage: [382%]\nSA Break: [294%]\n\n[Additional]\nDamage: [126%] [126%]\nSA Break: [98%] [98%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\nQuickly leap forward and push with your weapon, 2 additional rapid-fire explosive attacks.\n\n[Usage: Additional]\nMouse: After last attack (RMB)×2
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_AssaultDive
 0
 
 ID=16041
-Fire Assault Ⅰ
+Fire Somersault Ⅰ
 [Info]\nDamage: [323%]\nSA Break: [199%]\nRanged Attack Duration: [3s]\nSG Cost: [35]\nCooldown: [5s]\n\nFires towards the ground and does a backwards somersault, quickly retreating using the recoil from the rotation.\n\n[Usage]\nPlace in skill slot and press corresponding key
 Damage: [323%]+16%\nSA Break: [199%]+10%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FireSomersault
 0
 
 ID=16042
-Fire Assault ⅠⅠ
+Fire Somersault Ⅱ
 [Info]\nDamage: [339%]\nSA Break: [209%]\nRanged Attack Duration: [3s]\nSG Cost: [35]\nCooldown: [5s]\n\nFires towards the ground and does a backwards somersault, quickly retreating using the recoil from the rotation.\n\n[Usage]\nPlace in skill slot and press corresponding key
 Damage: [339%]+40%\nSA Break: [209%]+25%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FireSomersault
 0
 
 ID=16043
-Fire Assault ⅠⅠⅠ
+Fire Somersault Ⅲ
 [Info]\nDamage: [379%]\nSA Break: [234%]\nRanged Attack Duration: [3s]\nSG Cost: [35]\nCooldown: [5s]\n\nFires towards the ground and does a backwards somersault, quickly retreating using the recoil from the rotation.\n\n[Usage]\nPlace in skill slot and press corresponding key
 Damage: [379%]+40%\nSA Break: [234%]+25%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FireSomersault
 0
 
 ID=16044
-Fire Assault Ⅳ
+Fire Somersault Ⅳ
 [Info]\nDamage: [419%]\nSA Break: [259%]\nRanged Attack Duration: [3s]\nSG Cost: [35]\nCooldown: [5s]\n\nFires towards the ground and does a backwards somersault, quickly retreating using the recoil from the rotation.\n\n[Usage]\nPlace in skill slot and press corresponding key
 Damage: [419%]+65%\nSA Break: [259%]+39%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FireSomersault
 0
 
 ID=16045
-Fire Assault Ⅴ
+Fire Somersault Ⅴ
 [Info]\nDamage: [484%]\nSA Break: [298%]\nRanged Attack Duration: [3s]\nSG Cost: [35]\nCooldown: [5s]\n\nFires towards the ground and does a backwards somersault, quickly retreating using the recoil from the rotation.\n\n[Usage]\nPlace in skill slot and press corresponding key
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FireSomersault
@@ -4417,7 +4417,7 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FullBurst
 
 ID=16134
 Full Burst Ⅳ
-[Info]\nDamage: [714%]\nSA Break: [406%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key
+[Info]\nDamage: [714%]\nSA Break: [403%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key
 Damage: [714%]+110%\nSA Break: [403%]+61%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FullBurst
 0
@@ -5579,42 +5579,42 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_SpiralPierce_A
 
 ID=26041
 Rapid Shot Ⅰ
-[Info]\nIncreases the number of shots.
-[Info]\nDamage: +269%\nSA Break: +111%
+[Info]\nDamage: [1344%]\nSA Break: [557%]\nNumber of shots per shot: [9]\n\nIncreases the number of shots.
+[Info]\nDamage: [1344%]+269%\nSA Break: [557%]+111%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire_A
 0
 
 ID=26042
 Rapid Shot ⅠⅠ
-[Info]\nShots: [9]\n\nIncreases the number of shots.
-[Info]\nDamage: +269%\nSA Break: +112%
+[Info]\nDamage: [1613%]\nSA Break: [668%]\nNumber of shots per shot: [9]\n\nIncreases the number of shots.
+[Info]\nDamage: [1613%]+269%\nSA Break: [668%]+111%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire_A
 0
 
 ID=26043
 Rapid Shot ⅠⅠⅠ
-[Info]\nShots: [9]\n\nIncreases the number of shots.
+[Info]\nDamage: [1882%]\nSA Break: [779%]\nNumber of shots per shot: [9]\n\nIncreases the number of shots.
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire_A
 0
 
 ID=26046
 Power Shot Ⅰ
-[Info]\nDamage: [1344%]\nSA Break: [557%]\n\nFire long-range bullets.
-[Info]\nDamage: +269%\nSA Break: +111%
+[Info]\nNumber of shots: [3]\n\nFire long-range bullets.
+[Info]\nNumber of shots: [3]+1
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire_B
 0
 
 ID=26047
 Power Shot ⅠⅠ
-[Info]\nDamage: [1613%]\nSA Break: [668%]\n\nFire long-range bullets.
-[Info]\nDamage: [1613%]+269%\nSA Break: [668%]+111%
+[Info]\nNumber of shots: [4]\n\nFire long-range bullets.
+[Info]\nNumber of shots: [4]+1
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire_B
 0
 
 ID=26048
 Power Shot ⅠⅠⅠ
-[Info]\nDamage: [1882%]\nSA Break: [779%]\n\nFire long-range bullets.
+[Info]\nNumber of shots: [5]\n\nFire long-range bullets.
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire_B
 0
