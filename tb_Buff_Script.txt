@@ -636,61 +636,61 @@ Icon/Buff/Icon_Common_Debuff_Charm
 
 ID=1801
 混乱Lv1
-0.5秒間、混乱状態になり何もできなくなります。
+0.5秒間、混乱状態になり正常に走れなくなる。
 Icon/Buff/Icon_Common_Debuff_Fear
 混乱
 
 ID=1802
 混乱Lv2
-1秒間、混乱状態になり何もできなくなります。
+1秒間、混乱状態になり正常に走れなくなる。
 Icon/Buff/Icon_Common_Debuff_Fear
 混乱
 
 ID=1803
 混乱Lv3
-1.5秒間、混乱状態になり何もできなくなります。
+1.5秒間、混乱状態になり正常に走れなくなる。
 Icon/Buff/Icon_Common_Debuff_Fear
 混乱
 
 ID=1804
 混乱Lv4
-2秒間、混乱状態になり何もできなくなります。
+2秒間、混乱状態になり正常に走れなくなる。
 Icon/Buff/Icon_Common_Debuff_Fear
 混乱
 
 ID=1805
 混乱Lv5
-2.5秒間、混乱状態になり何もできなくなります。
+2.5秒間、混乱状態になり正常に走れなくなる。
 Icon/Buff/Icon_Common_Debuff_Fear
 混乱
 
 ID=1806
 混乱Lv6
-3秒間、混乱状態になり何もできなくなります。
+3秒間、混乱状態になり正常に走れなくなる。
 Icon/Buff/Icon_Common_Debuff_Fear
 混乱
 
 ID=1807
 混乱Lv7
-3.5秒間、混乱状態になり何もできなくなります。
+3.5秒間、混乱状態になり正常に走れなくなる。
 Icon/Buff/Icon_Common_Debuff_Fear
 混乱
 
 ID=1808
 混乱Lv8
-4秒間、混乱状態になり何もできなくなります。
+4秒間、混乱状態になり正常に走れなくなる。
 Icon/Buff/Icon_Common_Debuff_Fear
 混乱
 
 ID=1809
 混乱Lv9
-4.5秒間、混乱状態になり何もできなくなります。
+4.5秒間、混乱状態になり正常に走れなくなる。
 Icon/Buff/Icon_Common_Debuff_Fear
 混乱
 
 ID=1810
 混乱Lv10
-5秒間、混乱状態になり何もできなくなります。
+5秒間、混乱状態になり正常に走れなくなる。
 Icon/Buff/Icon_Common_Debuff_Fear
 混乱
 
@@ -2520,13 +2520,13 @@ Icon/Buff/Icon_Common_Debuff_Stun
 
 ID=30008
 ヘロヘロ
-5秒間、気絶状態になる。
+10秒間、気絶状態になる。
 Icon/Buff/Icon_Common_Debuff_Stun
 気絶
 
 ID=30009
 血の怒り
-1分間、攻撃力が40%、攻撃速度が30%上昇する。
+1分間、攻撃力が100%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
@@ -2757,12 +2757,6 @@ HP減少
 0
 0
 HP減少
-
-ID=30062
-移動速度減少
-3秒間、移動速度が80%減少する。
-Icon/Buff/Icon_Common_Debuff_MSR
-移動速度減少
 
 ID=30063
 怒涛/強靭
@@ -3306,7 +3300,7 @@ HP吸収解除
 
 ID=39009
 加速
-10秒間、移動速度が20%増加する。
+10秒間、移動速度が10%増加する。
 Icon/Buff/Icon_Common_Buff_MSR
 移動速度増加
 
@@ -5458,114 +5452,6 @@ ID=53741
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
-ID=53742
-友情Ⅰ
-装着時、ダメージ減少が1%増加し、クリティカルダメージが100上昇する。
-Icon/Buff/Icon_Common_Buff_Akashic
-クリティカルダメージ量増加
-
-ID=53743
-友情Ⅱ
-装着時、ダメージ減少が2%増加し、クリティカルダメージが350上昇する。
-Icon/Buff/Icon_Common_Buff_Akashic
-クリティカルダメージ量増加
-
-ID=53744
-友情Ⅲ
-装着時、ダメージ減少が4%増加し、クリティカルダメージが600上昇する。
-Icon/Buff/Icon_Common_Buff_Akashic
-クリティカルダメージ量増加
-
-ID=53745
-友情Ⅰ
-装着時、ダメージ減少が2%増加し、クリティカルダメージが100上昇する。
-Icon/Buff/Icon_Common_Buff_Akashic
-クリティカルダメージ量増加
-
-ID=53746
-友情Ⅱ
-装着時、ダメージ減少が3%増加し、クリティカルダメージが350上昇する。
-Icon/Buff/Icon_Common_Buff_Akashic
-クリティカルダメージ量増加
-
-ID=53747
-友情Ⅲ
-装着時、ダメージ減少が5%増加し、クリティカルダメージが600上昇する。
-Icon/Buff/Icon_Common_Buff_Akashic
-クリティカルダメージ量増加
-
-ID=53748
-集中Ⅰ
-装着時、ボス/ネームドのダメージ量が5%増加する。
-Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ量増加
-
-ID=53749
-集中Ⅱ
-装着時、ボス/ネームドのダメージ量が10%増加する。
-Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ量増加
-
-ID=53750
-集中Ⅲ
-装着時、ボス/ネームドのダメージ量が15%増加する。
-Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ量増加
-
-ID=53751
-集中Ⅰ
-装着時、ボス/ネームドのダメージ量が7%増加する。
-Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ量増加
-
-ID=53752
-集中Ⅱ
-装着時、ボス/ネームドのダメージ量が12%増加する。
-Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ量増加
-
-ID=53753
-集中Ⅲ
-装着時、ボス/ネームドのダメージ量が17%増加する。
-Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ量増加
-
-ID=53754
-冷徹Ⅰ
-装着時、ボス/ネームドのダメージが5%減少する。
-Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
-
-ID=53755
-冷徹Ⅱ
-装着時、ボス/ネームドのダメージが7%減少する。
-Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
-
-ID=53756
-冷徹Ⅲ
-装着時、ボス/ネームドのダメージが10%減少する。
-Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
-
-ID=53757
-冷徹Ⅰ
-装着時、ボス/ネームドのダメージが7%減少する。
-Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
-
-ID=53758
-冷徹Ⅱ
-装着時、ボス/ネームドのダメージが9%減少する。
-Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
-
-ID=53759
-冷徹Ⅲ
-装着時、ボス/ネームドのダメージが12%減少する。
-Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
-
 ID=55002
 ビックリボックスⅢ
 30秒間、防御度が50%減少する。
@@ -5958,7 +5844,7 @@ HP減少
 
 ID=63023
 防御減少
-10分間、防御度が200%減少
+10分間、防御度が100%減少
 Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
@@ -5988,7 +5874,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=63028
 HP減少
-20秒間、0.5秒ごとにHP20%減少
+20秒間、2秒ごとにHP20%減少
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP減少
 
