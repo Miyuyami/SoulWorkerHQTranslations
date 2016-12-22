@@ -105,63 +105,63 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=1041
 Emergency Dodge Ⅰ
-[Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\n[Usage]\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
+[Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=1081
 Rising Roll Ⅰ
-[Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=1082
 Rising Roll Ⅱ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=1083
 Rising Roll Ⅲ
-[Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=1101
 Dash Ⅰ
-Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
+Swiftly dash forward.\n\n[Usage]\nKeyboard: (Forward Move Key) twice
 Increase the speed of your Dash.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=1102
 Dash Ⅱ
-Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
+Swiftly dash forward.\n\n[Usage]\nKeyboard: (Forward Move Key) twice
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=1071
 Rising Attack Ⅰ
-[Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 Stamina Cost: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=1072
 Rising Attack Ⅱ
-[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 Invincibility Duration +2s.
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=1073
 Rising Attack Ⅲ
-[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 3s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 3s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
@@ -175,21 +175,21 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 
 ID=1051
 Special Dodge Ⅰ
-[Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: While taking damage (Move Key) + (Shift Key)
 Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=1052
 Special Dodge Ⅱ
-[Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: While taking damage (Move Key) + (Shift Key)
 Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=1053
 Special Dodge Ⅲ
-[Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: When taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: When taking damage (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
@@ -644,35 +644,35 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_FlashStep
 
 ID=11111
 Cross Strike Ⅰ
-[Info]\nDamage: [98%] per hit\nSA Break: [74%] per hit\nSG Cost: [45]\nCooldown [30s]\n\nSlash in an X pattern mid-air and fire strong sword energy. The sword energy will explode on the ground and deal additional damage.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [98%] per hit\nSA Break: [74%] per hit\nSG Cost: [45]\nCooldown [30s]\n\nSlash in an X pattern mid-air and fire strong sword energy. The sword energy will explode on the ground and deal additional damage.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [98%]+4% per hit\nSA Break: [74%]+3% per hit
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
 
 ID=11112
 Cross Strike Ⅱ
-[Info]\nDamage: [102%] per hit\nSA Break: [77%] per hit\nSG Cost: [45]\nCooldown [30s]\n\nSlash in an X pattern mid-air and fire strong sword energy. The sword energy will explode on the ground and deal additional damage.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [102%] per hit\nSA Break: [77%] per hit\nSG Cost: [45]\nCooldown [30s]\n\nSlash in an X pattern mid-air and fire strong sword energy. The sword energy will explode on the ground and deal additional damage.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [102%]+12% per hit\nSA Break: [77%]+9% per hit
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
 
 ID=11113
 Cross Strike Ⅲ
-[Info]\nDamage: [114%] per hit\nSA Break: [86%] per hit\nSG Cost: [45]\nCooldown [30s]\n\nSlash in an X pattern mid-air and fire strong sword energy. The sword energy will explode on the ground and deal additional damage.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [114%] per hit\nSA Break: [86%] per hit\nSG Cost: [45]\nCooldown [30s]\n\nSlash in an X pattern mid-air and fire strong sword energy. The sword energy will explode on the ground and deal additional damage.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [114%]+12% per hit\nSA Break: [86%]+10% per hit
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
 
 ID=11114
 Cross Strike Ⅳ
-[Info]\nDamage: [126%] per hit\nSA Break: [96%] per hit\nSG Cost: [45]\nCooldown [30s]\n\nSlash in an X pattern mid-air and fire strong sword energy. The sword energy will explode on the ground and deal additional damage.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [126%] per hit\nSA Break: [96%] per hit\nSG Cost: [45]\nCooldown [30s]\n\nSlash in an X pattern mid-air and fire strong sword energy. The sword energy will explode on the ground and deal additional damage.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [126%]+20% per hit\nSA Break: [96%]+14% per hit
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
 
 ID=11115
 Cross Strike Ⅴ
-[Info]\nDamage: [146%] per hit\nSA Break: [110%] per hit\nSG Cost: [45]\nCooldown [30s]\n\nSlash in an X pattern mid-air and fire strong sword energy. The sword energy will explode on the ground and deal additional damage.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [146%] per hit\nSA Break: [110%] per hit\nSG Cost: [45]\nCooldown [30s]\n\nSlash in an X pattern mid-air and fire strong sword energy. The sword energy will explode on the ground and deal additional damage.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
@@ -861,63 +861,63 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=2041
 Emergency Dodge Ⅰ
-[Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\n[Usage]\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
+[Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=2081
 Rising Roll Ⅰ
-[Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=2082
 Rising Roll Ⅱ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=2083
 Rising Roll Ⅲ
-[Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=2101
 Dash Ⅰ
-Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
+Swiftly dash forward.\n\n[Usage]\nKeyboard: (Forward Move Key) twice
 Increase the speed of your Dash.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=2102
 Dash Ⅱ
-Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
+Swiftly dash forward.\n\n[Usage]\nKeyboard: (Forward Move Key) twice
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=2071
 Rising Attack Ⅰ
-[Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 Stamina Cost: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=2072
 Rising Attack Ⅱ
-[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 Invincibility Duration +2s.
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=2073
 Rising Attack Ⅲ
-[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 3s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 3s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
@@ -931,21 +931,21 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 
 ID=2051
 Special Dodge Ⅰ
-[Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: While taking damage (Move Key) + (Shift Key)
 Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=2052
 Special Dodge Ⅱ
-[Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: While taking damage (Move Key) + (Shift Key)
 Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=2053
 Special Dodge Ⅲ
-[Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: When taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: When taking damage (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
@@ -1365,35 +1365,35 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_ElectricShot
 
 ID=12121
 Napalm Bomb Ⅰ
-[Info]\nDamage: [154%]\nDebuff Effect: [Burn] (-1% HP per second)\nDebuff Duration: [3s]\nSA Break: [1882%]\nSG Cost: [4]\nCooldown: [20s]\n\nFire many grenades by converting the guns into a grenade launcher in the air, dealing damage over a large area.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [154%]\nDebuff Effect: [Burn] (-1% HP per second)\nDebuff Duration: [3s]\nSA Break: [1882%]\nSG Cost: [4]\nCooldown: [20s]\n\nFire many grenades by converting the guns into a grenade launcher in the air, dealing damage over a large area.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [154%]+8%\nSA Break: [1882%]+94%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_NapalmBomb
 0
 
 ID=12122
 Napalm Bomb Ⅱ
-[Info]\nDamage: [162%]\nDebuff Effect: [Burn] (-1% HP per second)\nDebuff Duration: [3s]\nSA Break: [1976%]\nSG Cost: [4]\nCooldown: [20s]\n\nFire many grenades by converting the guns into a grenade launcher in the air, dealing damage over a large area.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [162%]\nDebuff Effect: [Burn] (-1% HP per second)\nDebuff Duration: [3s]\nSA Break: [1976%]\nSG Cost: [4]\nCooldown: [20s]\n\nFire many grenades by converting the guns into a grenade launcher in the air, dealing damage over a large area.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [162%]+19%\nSA Break: [1976%]+235%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_NapalmBomb
 0
 
 ID=12123
 Napalm Bomb Ⅲ
-[Info]\nDamage: [181%]\nDebuff Effect: [Burn] (-1% HP per second)\nDebuff Duration: [3s]\nSA Break: [2211%]\nSG Cost: [4]\nCooldown: [20s]\n\nFire many grenades by converting the guns into a grenade launcher in the air, dealing damage over a large area.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [181%]\nDebuff Effect: [Burn] (-1% HP per second)\nDebuff Duration: [3s]\nSA Break: [2211%]\nSG Cost: [4]\nCooldown: [20s]\n\nFire many grenades by converting the guns into a grenade launcher in the air, dealing damage over a large area.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [181%]+19%\nSA Break: [2211%]+235%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_NapalmBomb
 0
 
 ID=12124
 Napalm Bomb Ⅳ
-[Info]\nDamage: [200%]\nDebuff Effect: [Burn] (-1% HP per second)\nDebuff Duration: [3s]\nSA Break: [2447%]\nSG Cost: [4]\nCooldown: [20s]\n\nFire many grenades by converting the guns into a grenade launcher in the air, dealing damage over a large area.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [200%]\nDebuff Effect: [Burn] (-1% HP per second)\nDebuff Duration: [3s]\nSA Break: [2447%]\nSG Cost: [4]\nCooldown: [20s]\n\nFire many grenades by converting the guns into a grenade launcher in the air, dealing damage over a large area.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [200%]+31%\nSA Break: [2447%]+376%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_NapalmBomb
 0
 
 ID=12125
 Napalm Bomb Ⅴ
-[Info]\nDamage: [231%]\nDebuff Effect: [Burn] (-1% HP per second)\nDebuff Duration: [3s]\nSA Break: [2823%]\nSG Cost: [4]\nCooldown: [20s]\n\nFire many grenades by converting the guns into a grenade launcher in the air, dealing damage over a large area.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [231%]\nDebuff Effect: [Burn] (-1% HP per second)\nDebuff Duration: [3s]\nSA Break: [2823%]\nSG Cost: [4]\nCooldown: [20s]\n\nFire many grenades by converting the guns into a grenade launcher in the air, dealing damage over a large area.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_NapalmBomb
 0
@@ -1617,63 +1617,63 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=3041
 Emergency Dodge Ⅰ
-[Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\n[Usage]\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
+[Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=3081
 Rising Roll Ⅰ
-[Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=3082
 Rising Roll Ⅱ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=3083
 Rising Roll Ⅲ
-[Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=3101
 Dash Ⅰ
-Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
+Swiftly dash forward.\n\n[Usage]\nKeyboard: (Forward Move Key) twice
 Increase the speed of your Dash.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=3102
 Dash Ⅱ
-Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
+Swiftly dash forward.\n\n[Usage]\nKeyboard: (Forward Move Key) twice
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=3071
 Rising Attack Ⅰ
-[Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 Stamina Cost: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=3072
 Rising Attack Ⅱ
-[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 Invincibility Duration +2s.
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=3073
 Rising Attack Ⅲ
-[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 3s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 3s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
@@ -1687,21 +1687,21 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 
 ID=3051
 Special Dodge Ⅰ
-[Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: While taking damage (Move Key) + (Shift Key)
 Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=3052
 Special Dodge Ⅱ
-[Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: While taking damage (Move Key) + (Shift Key)
 Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=3053
 Special Dodge Ⅲ
-[Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: When taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: When taking damage (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
@@ -2086,35 +2086,35 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 
 ID=13081
 Grim Reaper Ⅰ
-[Info]\nDamage: [365%]\nSA Break: [602%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [365%]\nSA Break: [602%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [365%]+19%\nSA Break: [602%]+30%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13082
 Grim Reaper Ⅱ
-[Info]\nDamage: [384%]\nSA Break: [632%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [384%]\nSA Break: [632%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [384%]+45%\nSA Break: [632%]+76%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13083
 Grim Reaper Ⅲ
-[Info]\nDamage: [429%]\nSA Break: [708%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [429%]\nSA Break: [708%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [429%]+46%\nSA Break: [708%]+75%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13084
 Grim Reaper Ⅳ
-[Info]\nDamage: [475%]\nSA Break: [783%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [475%]\nSA Break: [783%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [475%]+73%\nSA Break: [783%]+120%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13085
 Grim Reaper Ⅴ
-[Info]\nDamage: [548%]\nSA Break: [903%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [548%]\nSA Break: [903%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
@@ -2387,63 +2387,63 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=4041
 Emergency Dodge Ⅰ
-[Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\n[Usage]\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
+[Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=4081
 Rising Roll Ⅰ
-[Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=4082
 Rising Roll Ⅱ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=4083
 Rising Roll Ⅲ
-[Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=4101
 Dash Ⅰ
-Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
+Swiftly dash forward.\n\n[Usage]\nKeyboard: (Forward Move Key) twice
 Increase the speed of your Dash.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=4102
 Dash Ⅱ
-Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
+Swiftly dash forward.\n\n[Usage]\nKeyboard: (Forward Move Key) twice
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=4071
 Rising Attack Ⅰ
-[Info]\nDeal 100% damage to an enemy.\n30 stamina will be consumed.\nBecome invincible for 1s after using this skill.\nCooldown: 15s\n\nWhile downed, get up while damaging surrounding enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDeal 100% damage to an enemy.\n30 stamina will be consumed.\nBecome invincible for 1s after using this skill.\nCooldown: 15s\n\nWhile downed, get up while damaging surrounding enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 Stamina cost -10.
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=4072
 Rising Attack Ⅱ
-[Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 Stamina Cost: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=4073
 Rising Attack Ⅲ
-[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 Invincibility Duration +2s.
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
@@ -2457,14 +2457,14 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 
 ID=4051
 Special Dodge Ⅰ
-[Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: While taking damage (Move Key) + (Shift Key)
 Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=4052
 Special Dodge Ⅱ
-[Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: While taking damage (Move Key) + (Shift Key)
 Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
@@ -2891,35 +2891,35 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 
 ID=14101
 Heavy Drop Ⅰ
-[Info]\nDamage: [625%]\nSA Break: [335%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [45]\nCooldown: [30s]\n\nGather up tremendous power in the air to create a gigantic sphere.\nThe sphere generates a big explosion when touching the ground damaging all nearby enemies.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [625%]\nSA Break: [335%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [45]\nCooldown: [30s]\n\nGather up tremendous power in the air to create a gigantic sphere.\nThe sphere generates a big explosion when touching the ground damaging all nearby enemies.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [625%]+31%\nSA Break: [335%]+16%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 0
 
 ID=14102
 Heavy Drop Ⅱ
-[Info]\nDamage: [656%]\nSA Break: [351%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [45]\nCooldown: [30s]\n\nGather up tremendous power in the air to create a gigantic sphere.\nThe sphere generates a big explosion when touching the ground damaging all nearby enemies.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [656%]\nSA Break: [351%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [45]\nCooldown: [30s]\n\nGather up tremendous power in the air to create a gigantic sphere.\nThe sphere generates a big explosion when touching the ground damaging all nearby enemies.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [656%]+78%\nSA Break:[351%]+42%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 0
 
 ID=14103
 Heavy Drop Ⅲ
-[Info]\nDamage: [734%]\nSA Break: [393%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [45]\nCooldown: [30s]\n\nGather up tremendous power in the air to create a gigantic sphere.\nThe sphere generates a big explosion when touching the ground damaging all nearby enemies.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [734%]\nSA Break: [393%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [45]\nCooldown: [30s]\n\nGather up tremendous power in the air to create a gigantic sphere.\nThe sphere generates a big explosion when touching the ground damaging all nearby enemies.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [734%]+78%\nSA Break: [393%]+42%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 0
 
 ID=14104
 Heavy Drop Ⅳ
-[Info]\nDamage: [812%]\nSA Break: [435%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [45]\nCooldown: [30s]\n\nGather up tremendous power in the air to create a gigantic sphere.\nThe sphere generates a big explosion when touching the ground damaging all nearby enemies.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [812%]\nSA Break: [435%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [45]\nCooldown: [30s]\n\nGather up tremendous power in the air to create a gigantic sphere.\nThe sphere generates a big explosion when touching the ground damaging all nearby enemies.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [812%]+125%\nSA Break: [435%]+67%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 0
 
 ID=14105
 Heavy Drop Ⅴ
-[Info]\nDamage: [937%]\nSA Break: [502%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [45]\nCooldown: [30s]\n\nGather up tremendous power in the air to create a gigantic sphere.\nThe sphere generates a big explosion when touching the ground damaging all nearby enemies.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [937%]\nSA Break: [502%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [45]\nCooldown: [30s]\n\nGather up tremendous power in the air to create a gigantic sphere.\nThe sphere generates a big explosion when touching the ground damaging all nearby enemies.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 0
@@ -3052,7 +3052,7 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 
 ID=35
 Basic Attack Mastery Ⅲ
-[Info]\nCall forth a ghost to attack an enemy.\nAs this skill's level increases, you will be able to perform new combo attacks.\n\nDamage +12%.\n\n[Usage: Ground]\nMouse:\n[1] (LMB)×4\n[2] (LMB)×2 - (RMB)\n[3] (LMB)×3 - (RMB)\n\n[Usage: Air]\nMouse: (LMB)×3
+[Info]\nCall forth a ghost to attack an enemy.\nAs this skill's level increases, you will be able to perform new combo attacks.\n\nDamage +12%.\n\n[Usage: Ground]\nKeyboard:\n[1] (LMB)×4\n[2] (LMB)×2 - (RMB)\n[3] (LMB)×3 - (RMB)\n\n[Usage: Air]\nKeyboard: (LMB)×2
 SG Gain: [17%]+18%\nUnlock an addiitonal basic attack.\nUnlock an additional aerial attack.
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
@@ -3136,28 +3136,28 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=5041
 Emergency Dodge Ⅰ
-[Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\n[Usage]\nMouse:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
+[Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=5051
 Special Dodge Ⅰ
-[Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: While taking damage (Move Key) + (Shift Key)
 Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=5052
 Special Dodge Ⅱ
-[Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: While taking damage (Move Key) + (Shift Key)
 Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=5053
 Special Dodge Ⅲ
-[Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: When taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: When taking damage (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
@@ -3185,56 +3185,56 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 
 ID=5071
 Rising Attack Ⅰ
-[Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 Stamina Cost: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=5072
 Rising Attack Ⅱ
-[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 Invincibility Duration +2s.
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=5073
 Rising Attack Ⅲ
-[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 3s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 3s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=5081
 Rising Roll Ⅰ
-[Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=5082
 Rising Roll Ⅱ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=5083
 Rising Roll Ⅲ
-[Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=5101
 Dash Ⅰ
-Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
+Swiftly dash forward.\n\n[Usage]\nKeyboard: (Forward Move Key) twice
 Increase the speed of your Dash.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=5102
 Dash Ⅱ
-Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
+Swiftly dash forward.\n\n[Usage]\nKeyboard: (Forward Move Key) twice
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
@@ -3640,35 +3640,35 @@ Icon/Skill/Howling/Icon_Howling_Skill_TwistPull
 
 ID=15131
 Beast Party Ⅰ
-[Info]\nDamage: [447%]\nSA Break: [1687%]\nSG Cost: [40]\nCooldown: [35s]\n\nSummons a pack of ghosts that charge forward. Enemies that are hit by the ghosts will be pushed back.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [447%]\nSA Break: [1687%]\nSG Cost: [40]\nCooldown: [35s]\n\nSummons a pack of ghosts that charge forward. Enemies that are hit by the ghosts will be pushed back.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [447%]+22%\nSA Break: [1687%]+85%
 Icon/Skill/Howling/Icon_Howling_Skill_BeastParty
 0
 
 ID=15132
 Beast Party Ⅱ
-[Info]\nDamage: [469%]\nSA Break: [1772%]\nSG Cost: [40]\nCooldown: [35s]\n\nSummons a pack of ghosts that charge forward. Enemies that are hit by the ghosts will be pushed back.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [469%]\nSA Break: [1772%]\nSG Cost: [40]\nCooldown: [35s]\n\nSummons a pack of ghosts that charge forward. Enemies that are hit by the ghosts will be pushed back.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [469%]+56%\nSA Break: [1772%]+211%
 Icon/Skill/Howling/Icon_Howling_Skill_BeastParty
 0
 
 ID=15133
 Beast Party Ⅲ
-[Info]\nDamage: [525%]\nSA Break: [1983%]\nSG Cost: [40]\nCooldown: [35s]\n\nSummons a pack of ghosts that charge forward. Enemies that are hit by the ghosts will be pushed back.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [525%]\nSA Break: [1983%]\nSG Cost: [40]\nCooldown: [35s]\n\nSummons a pack of ghosts that charge forward. Enemies that are hit by the ghosts will be pushed back.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [525%]+56%\nSA Break: [1983%]+211%
 Icon/Skill/Howling/Icon_Howling_Skill_BeastParty
 0
 
 ID=15134
 Beast Party Ⅳ
-[Info]\nDamage: [581%]\nSA Break: [2194%]\nSG Cost: [40]\nCooldown: [35s]\n\nSummons a pack of ghosts that charge forward. Enemies that are hit by the ghosts will be pushed back.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [581%]\nSA Break: [2194%]\nSG Cost: [40]\nCooldown: [35s]\n\nSummons a pack of ghosts that charge forward. Enemies that are hit by the ghosts will be pushed back.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [581%]+89%\nSA Break: [2194%]+337%
 Icon/Skill/Howling/Icon_Howling_Skill_BeastParty
 0
 
 ID=15135
 Beast Party Ⅴ
-[Info]\nDamage: [670%]\nSA Break: [2531%]\nSG Cost: [40]\nCooldown: [35s]\n\nSummons a pack of ghosts that charge forward. Enemies that are hit by the ghosts will be pushed back.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [670%]\nSA Break: [2531%]\nSG Cost: [40]\nCooldown: [35s]\n\nSummons a pack of ghosts that charge forward. Enemies that are hit by the ghosts will be pushed back.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_BeastParty
 0
@@ -3892,28 +3892,28 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=6041
 Emergency Dodge Ⅰ
-[Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\n[Usage]\nMouse:\n[1] (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [20]\n\nSwiftly dodge in a direction.\nNegate damage during an emergency dodge.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
 ID=6051
 Special Dodge Ⅰ
-[Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: While taking damage (Move Key) + (Shift Key)
 Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=6052
 Special Dodge Ⅱ
-[Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: While taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [50s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: While taking damage (Move Key) + (Shift Key)
 Cooldown: [50s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 ID=6053
 Special Dodge Ⅲ
-[Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nMouse: When taking damage (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [40]\nCooldown: [40s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: When taking damage (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
@@ -3941,56 +3941,56 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 
 ID=6071
 Rising Attack Ⅰ
-[Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 Stamina Cost: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=6072
 Rising Attack Ⅱ
-[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 Invincibility Duration +2s.
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=6073
 Rising Attack Ⅲ
-[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 3s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nMouse: While downed (LMB or RMB)
+[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 3s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 ID=6081
 Rising Roll Ⅰ
-[Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [25]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=6082
 Rising Roll Ⅱ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by rolling in a direction.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Increase the speed of Rising Roll
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=6083
 Rising Roll Ⅲ
-[Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nMouse: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\nYou can perform a quick roll.\n\nWhen downed, swiftly roll in a direction to get up.\nDuring the roll, damage is negated.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
 ID=6101
 Dash Ⅰ
-Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
+Swiftly dash forward.\n\n[Usage]\nKeyboard: (Forward Move Key) twice
 Increase the speed of your Dash.
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 ID=6102
 Dash Ⅱ
-Swiftly dash forward.\n\n[Usage]\nMouse: (Forward Move Key) twice
+Swiftly dash forward.\n\n[Usage]\nKeyboard: (Forward Move Key) twice
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
@@ -4122,14 +4122,14 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_CamelSpin
 0
 
 ID=16022
-Camel Spin ⅠⅠ
+Camel Spin Ⅱ
 [Info]\nDamage: [336%]\nSA Break: [219%]\nSG Cost: [35]\nCooldown: [10s]\n\nTake a short leap forward then strike with a 360° rotation.\n\n[Usage]\nPlace in skill slot and press corresponding key
 Damage: [336%]+40%\nSA Break: [219%]+26%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_CamelSpin
 0
 
 ID=16023
-Camel Spin ⅠⅠⅠ
+Camel Spin Ⅲ
 [Info]\nDamage: [376%]\nSA Break: [245%]\nSG Cost: [35]\nCooldown: [10s]\n\nTake a short leap forward then strike with a 360° rotation.\n\n[Usage]\nPlace in skill slot and press corresponding key
 Damage: [376%]+40%\nSA Break: [245%]+26%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_CamelSpin
@@ -4151,35 +4151,35 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_CamelSpin
 
 ID=16031
 Assault Dive Ⅰ
-[Basic]\nDamage: [255%]\nSA Break: [198%]\n\n[Additional]\nDamage: [84%] [84%]\nSA Break: [64%] [65%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\nQuickly leap forward and push with your weapon, 2 additional rapid-fire explosive attacks.\n\n[Usage: Additional]\nMouse: After last attack (RMB)×2
-[Basic]\nDamage: [255%]+13%\nSA Break: [198%]+9%\n\n[Additional]\nDamage: [84%]+4% [84%]+4%\nSA Break: [64%]+4% [65%]+3%
+[Basic]\nDamage: [423%]\nSA Break: [327%]\n\n[Additional]\nDamage: [84%] [84%]\nSA Break: [64%] [65%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\nQuickly leap forward and push with your weapon, 2 additional rapid-fire explosive attacks.\n\n[Usage: Additional]\nKeyboard: After last attack (RMB)×2
+[Basic]\nDamage: [423%]+21%\nSA Break: [327%]+16%\n\n[Additional]\nDamage: [84%]+4% [84%]+4%\nSA Break: [64%]+4% [65%]+3%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_AssaultDive
 0
 
 ID=16032
-Assault Dive ⅠⅠ
-[Basic]\nDamage: [268%]\nSA Break: [207%]\n\n[Additional]\nDamage: [88%] [88%]\nSA Break: [68%] [68%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\nQuickly leap forward and push with your weapon, 2 additional rapid-fire explosive attacks.\n\n[Usage: Additional]\nMouse: After last attack (RMB)×2
-[Basic]\nDamage: [268%]+32%\nSA Break: [207%]+25%\n\n[Additional]\nDamage: [88%]+10% [84%]+11%\nSA Break: [68%]+8% [68%]+8%
+Assault Dive Ⅱ
+[Basic]\nDamage: [444%]\nSA Break: [343%]\n\n[Additional]\nDamage: [88%] [88%]\nSA Break: [68%] [68%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\nQuickly leap forward and push with your weapon, 2 additional rapid-fire explosive attacks.\n\n[Usage: Additional]\nKeyboard: After last attack (RMB)×2
+[Basic]\nDamage: [444%]+53%\nSA Break: [343%]+41%\n\n[Additional]\nDamage: [88%]+10% [84%]+11%\nSA Break: [68%]+8% [68%]+8%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_AssaultDive
 0
 
 ID=16033
-Assault Dive ⅠⅠⅠ
-[Basic]\nDamage: [300%]\nSA Break: [232%]\n\n[Additional]\nDamage: [98%] [99%]\nSA Break: [76%] [76%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\nQuickly leap forward and push with your weapon, 2 additional rapid-fire explosive attacks.\n\n[Usage: Additional]\nMouse: After last attack (RMB)×2
-[Basic]\nDamage: [300%]+30%\nSA Break: [232%]+24%\n\n[Additional]\nDamage: [98%]+12% [99%]+11%\nSA Break: [76%]+14% [76%]+13%
+Assault Dive Ⅲ
+[Basic]\nDamage: [497%]\nSA Break: [384%]\n\n[Additional]\nDamage: [98%] [99%]\nSA Break: [76%] [76%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\nQuickly leap forward and push with your weapon, 2 additional rapid-fire explosive attacks.\n\n[Usage: Additional]\nKeyboard: After last attack (RMB)×2
+[Basic]\nDamage: [497%]+53%\nSA Break: [384%]+41%\n\n[Additional]\nDamage: [98%]+12% [99%]+11%\nSA Break: [76%]+14% [76%]+13%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_AssaultDive
 0
 
 ID=16034
 Assault Dive Ⅳ
-[Basic]\nDamage: [330%]\nSA Break: [256%]\n\n[Additional]\nDamage: [110%] [110%]\nSA Break: [84%] [85%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\nQuickly leap forward and push with your weapon, 2 additional rapid-fire explosive attacks.\n\n[Usage: Additional]\nMouse: After last attack (RMB)×2
-[Basic]\nDamage: [330%]+52%\nSA Break: [256%]+38%\n\n[Additional]\nDamage: [110%]+16% [110%]+16%\nSA Break: [84%]+14% [85%]+13%
+[Basic]\nDamage: [550%]\nSA Break: [425%]\n\n[Additional]\nDamage: [110%] [110%]\nSA Break: [84%] [85%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\nQuickly leap forward and push with your weapon, 2 additional rapid-fire explosive attacks.\n\n[Usage: Additional]\nKeyboard: After last attack (RMB)×2
+[Basic]\nDamage: [550%]+84%\nSA Break: [425%]+65%\n\n[Additional]\nDamage: [110%]+16% [110%]+16%\nSA Break: [84%]+14% [85%]+13%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_AssaultDive
 0
 
 ID=16035
 Assault Dive Ⅴ
-[Basic]\nDamage: [382%]\nSA Break: [294%]\n\n[Additional]\nDamage: [126%] [126%]\nSA Break: [98%] [98%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\nQuickly leap forward and push with your weapon, 2 additional rapid-fire explosive attacks.\n\n[Usage: Additional]\nMouse: After last attack (RMB)×2
+[Basic]\nDamage: [634%]\nSA Break: [490%]\n\n[Additional]\nDamage: [126%] [126%]\nSA Break: [98%] [98%]\n\n[General]\nSG Cost: [30]\nCooldown: [8s]\n\nQuickly leap forward and push with your weapon, 2 additional rapid-fire explosive attacks.\n\n[Usage: Additional]\nKeyboard: After last attack (RMB)×2
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_AssaultDive
 0
@@ -4227,14 +4227,14 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_SpiralPierce
 0
 
 ID=16052
-Spiral Pierce ⅠⅠ
+Spiral Pierce Ⅱ
 [Info]\nDamage: [315%] per hit\nSA Break: [640%] per hit\nSG Cost: [45]\nCooldown: [16s]\n\nProjects a drill which continuously attacks at gun point.\nShock waves are released at the end.\n\n[Usage: Additional]\nMouse: hold (LMB)
 Damage: [353%]+38%\nSA Break: [716%]+76%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_SpiralPierce
 0
 
 ID=16053
-Spiral Pierce ⅠⅠⅠ
+Spiral Pierce Ⅲ
 [Info]\nDamage: [353%] per hit\nSA Break: [716%] per hit\nSG Cost: [45]\nCooldown: [16s]\n\nProjects a drill which continuously attacks at gun point.\nShock waves are released at the end.\n\n[Usage: Additional]\nMouse: hold (LMB)
 Damage: [353%]+38%\nSA Break: [716%]+76%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_SpiralPierce
@@ -4256,35 +4256,35 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_SpiralPierce
 
 ID=16061
 Eternal Abyss Ⅰ
-[Info]\nDamage: [345%]\nSA Break: [701%]\nRange Duration: [1s]\nSG Cost: [35]\nCooldown: [20s]\n\nWhile in mid-air, throw a weapon toward the ground to create a black hole that pulls enemies.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [345%]\nSA Break: [701%]\nRange Duration: [1s]\nSG Cost: [35]\nCooldown: [20s]\n\nWhile in mid-air, throw a weapon toward the ground to create a black hole that pulls enemies.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [345%]+17%\nSA Break: [701%]+35%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_EternalAbyss
 0
 
 ID=16062
-Eternal Abyss ⅠⅠ
-[Info]\nDamage: [362%]\nSA Break: [736%]\nRange Duration: [1s]\nSG Cost: [35]\nCooldown: [20s]\n\nWhile in mid-air, throw a weapon toward the ground to create a black hole that pulls enemies.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+Eternal Abyss Ⅱ
+[Info]\nDamage: [362%]\nSA Break: [736%]\nRange Duration: [1s]\nSG Cost: [35]\nCooldown: [20s]\n\nWhile in mid-air, throw a weapon toward the ground to create a black hole that pulls enemies.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [362%]+43%\nSA Break: [736%]+88%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_EternalAbyss
 0
 
 ID=16063
-Eternal Abyss ⅠⅠⅠ
-[Info]\nDamage: [405%]\nSA Break: [824%]\nRange Duration: [1s]\nSG Cost: [35]\nCooldown: [20s]\n\nWhile in mid-air, throw a weapon toward the ground to create a black hole that pulls enemies.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+Eternal Abyss Ⅲ
+[Info]\nDamage: [405%]\nSA Break: [824%]\nRange Duration: [1s]\nSG Cost: [35]\nCooldown: [20s]\n\nWhile in mid-air, throw a weapon toward the ground to create a black hole that pulls enemies.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [405%]+44%\nSA Break: [824%]+87%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_EternalAbyss
 0
 
 ID=16064
 Eternal Abyss Ⅳ
-[Info]\nDamage: [449%]\nSA Break: [911%]\nRange Duration: [1s]\nSG Cost: [35]\nCooldown: [20s]\n\nWhile in mid-air, throw a weapon toward the ground to create a black hole that pulls enemies.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [449%]\nSA Break: [911%]\nRange Duration: [1s]\nSG Cost: [35]\nCooldown: [20s]\n\nWhile in mid-air, throw a weapon toward the ground to create a black hole that pulls enemies.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 Damage: [449%]+69%\nSA Break: [911%]+140%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_EternalAbyss
 0
 
 ID=16065
 Eternal Abyss Ⅴ
-[Info]\nDamage: [518%]\nSA Break: [1051%]\nRange Duration: [1s]\nSG Cost: [35]\nCooldown: [20s]\n\nWhile in mid-air, throw a weapon toward the ground to create a black hole that pulls enemies.\n\n[Usage]\nMouse: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[Info]\nDamage: [518%]\nSA Break: [1051%]\nRange Duration: [1s]\nSG Cost: [35]\nCooldown: [20s]\n\nWhile in mid-air, throw a weapon toward the ground to create a black hole that pulls enemies.\n\n[Usage]\nKeyboard: Press corresponding key while mid-air.\n(aerial skills are automatically placed onto your quickslots)
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_EternalAbyss
 0
@@ -4297,14 +4297,14 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire
 0
 
 ID=16072
-Pulse Fire ⅠⅠ
+Pulse Fire Ⅱ
 [Info]\nDamage: [627%]\nSA Break: [260%]\nNumber of Shots: [3]\nSG Cost: [60]\nCooldown: [15s]\n\nEnter in a firing mode and launch very powerful energy spheres for a fixed amount of time or attacks.\n\n[Usage: Air]\nMouse: (LMB)
 Damage: [627%]+75%\nSA Break: [260%]+30%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire
 0
 
 ID=16073
-Pulse Fire ⅠⅠⅠ
+Pulse Fire Ⅲ
 [Info]\nDamage: [702%]\nSA Break: [290%]\nNumber of Shots: [3]\nSG Cost: [60]\nCooldown: [15s]\n\nEnter in a firing mode and launch very powerful energy spheres for a fixed amount of time or attacks.\n\n[Usage: Air]\nMouse: (LMB)
 Damage: [702%]+74%\nSA Break: [290%]+31%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire
@@ -4326,35 +4326,35 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire
 
 ID=16081
 Limit Break Ⅰ
-[Info]\nBuff Effect: Enhances the next attack\nBuff Duration: [10s]\nSG Cost: [60]\nCooldown: [45s]\n\nReleases soul energy within the body to amplify the damage of the next attack.\n\n[Usage]\nPlace in skill slot and press corresponding key
+[Info]\nBuff Effect: Enhances the next attack\nBuff Duration: [10s]\nSG Cost: [60]\nCooldown: [45s]\n\nReleases soul energy within the body to amplify the damage of the next attack.\n\n[Usage]\nKeyboard: Place in skill slot and press corresponding key
 Buff Effect: Enhanced attack +10%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_LimitBrake
 0
 
 ID=16082
 Limit Break Ⅱ
-[Info]\nBuff Effect: Enhances the next attack\nBuff Duration: [10s]\nSG Cost: [60]\nCooldown: [45s]\n\nReleases soul energy within the body to amplify the damage of the next attack.\n\n[Usage]\nPlace in skill slot and press corresponding key
+[Info]\nBuff Effect: Enhances the next attack\nBuff Duration: [10s]\nSG Cost: [60]\nCooldown: [45s]\n\nReleases soul energy within the body to amplify the damage of the next attack.\n\n[Usage]\nKeyboard: Place in skill slot and press corresponding key
 Buff Effect: Enhanced attack +10%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_LimitBrake
 0
 
 ID=16083
 Limit Break Ⅲ
-[Info]\nBuff Effect: Enhances the next attack\nBuff Duration: [10s]\nSG Cost: [60]\nCooldown: [45s]\n\nReleases soul energy within the body to amplify the damage of the next attack.\n\n[Usage]\nPlace in skill slot and press corresponding key
+[Info]\nBuff Effect: Enhances the next attack\nBuff Duration: [10s]\nSG Cost: [60]\nCooldown: [45s]\n\nReleases soul energy within the body to amplify the damage of the next attack.\n\n[Usage]\nKeyboard: Place in skill slot and press corresponding key
 Buff Effect: Enhanced attack +10%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_LimitBrake
 0
 
 ID=16084
 Limit Break Ⅳ
-[Info]\nBuff Effect: Enhances the next attack\nBuff Duration: [10s]\nSG Cost: [60]\nCooldown: [45s]\n\nReleases soul energy within the body to amplify the damage of the next attack.\n\n[Usage]\nPlace in skill slot and press corresponding key
+[Info]\nBuff Effect: Enhances the next attack\nBuff Duration: [10s]\nSG Cost: [60]\nCooldown: [45s]\n\nReleases soul energy within the body to amplify the damage of the next attack.\n\n[Usage]\nKeyboard: Place in skill slot and press corresponding key
 Buff Effect: Enhanced attack +20%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_LimitBrake
 0
 
 ID=16085
 Limit Break Ⅴ
-[Info]\nBuff Effect: Enhances the next attack\nBuff Duration: [10s]\nSG Cost: [60]\nCooldown: [45s]\n\nReleases soul energy within the body to amplify the damage of the next attack.\n\n[Usage]\nPlace in skill slot and press corresponding key
+[Info]\nBuff Effect: Enhances the next attack\nBuff Duration: [10s]\nSG Cost: [60]\nCooldown: [45s]\n\nReleases soul energy within the body to amplify the damage of the next attack.\n\n[Usage]\nKeyboard: Place in skill slot and press corresponding key
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_LimitBrake
 0
@@ -4396,35 +4396,35 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_BulletStorm
 
 ID=16131
 Full Burst Ⅰ
-[Info]\nDamage: [549%]\nSA Break: [310%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key
-Damage: [549%]+28%\nSA Break: [310%]+15%
+[Info]\nDamage: [681%]\nSA Break: [87%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key
+Damage: [681%]+34%\nSA Break: [87%]+4%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FullBurst
 0
 
 ID=16132
-Full Burst ⅠⅠ
-[Info]\nDamage: [577%]\nSA Break: [325%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key
-Damage: [577%]+68%\nSA Break: [325%]+39%
+Full Burst Ⅱ
+[Info]\nDamage: [715%]\nSA Break: [91%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key
+Damage: [715%]+85%\nSA Break: [91%]+11%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FullBurst
 0
 
 ID=16133
-Full Burst ⅠⅠⅠ
-[Info]\nDamage: [645%]\nSA Break: [364%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key
-Damage: [645%]+69%\nSA Break: [364%]+39%
+Full Burst Ⅲ
+[Info]\nDamage: [800%]\nSA Break: [102%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key
+Damage: [800%]+85%\nSA Break: [102%]+11%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FullBurst
 0
 
 ID=16134
 Full Burst Ⅳ
-[Info]\nDamage: [714%]\nSA Break: [403%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key
-Damage: [714%]+110%\nSA Break: [403%]+61%
+[Info]\nDamage: [885%]\nSA Break: [113%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key
+Damage: [885%]+137%\nSA Break: [113%]+17%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FullBurst
 0
 
 ID=16135
 Full Burst Ⅴ
-[Info]\nDamage: [824%]\nSA Break: [464%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key
+[Info]\nDamage: [1022%]\nSA Break: [130%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press corresponding key
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FullBurst
 0
@@ -4437,14 +4437,14 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_Earthquake
 0
 
 ID=16122
-Earthquake ⅠⅠ
+Earthquake Ⅱ
 [Info]\nDamage: [1325%]\nSA Break: [679%]\nSG Cost: [45]\nCooldown: [30s]\n\nInsert the weapon into the ground then shoot towards the ground to create several shock waves.\n\n[Usage: Additional]\nMouse: (spam LMB)
 Damage: [1325%]+157%\nSA Break: [679%]+81%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_Earthquake
 0
 
 ID=16123
-Earthquake ⅠⅠⅠ
+Earthquake Ⅲ
 [Info]\nDamage: [1482%]\nSA Break: [760%]\nSG Cost: [45]\nCooldown: [30s]\n\nInsert the weapon into the ground then shoot towards the ground to create several shock waves.\n\n[Usage: Additional]\nMouse: (spam LMB)
 Damage: [1482%]+158%\nSA Break: [760%]+81%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_Earthquake
@@ -4472,14 +4472,14 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ElectricCannon
 0
 
 ID=16102
-Electric Cannon ⅠⅠ
+Electric Cannon Ⅱ
 [Info]\nDamage: [1175%]\nSA Break: [2194%]\nSG Cost: [50]\nCooldown: [35s]\n\nMake the weapon float and ride on it facing forwards.\nAfterwards, fire a laser beam forwards.\nCan move while the skill is in use.\n\n[Usage]\nMouse: Place in skill slot and press corresponding key\nKeyboard: Move Key
 Damage: [1175%]+140%\nSA Break: [2194%]+261%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ElectricCannon
 0
 
 ID=16103
-Electric Cannon ⅠⅠⅠ
+Electric Cannon Ⅲ
 [Info]\nDamage: [1315%]\nSA Break: [2455%]\nSG Cost: [50]\nCooldown: [35s]\n\nMake the weapon float and ride on it facing forwards.\nAfterwards, fire a laser beam forwards.\nCan move while the skill is in use.\n\n[Usage]\nMouse: Place in skill slot and press corresponding key\nKeyboard: Move Key
 Damage: [1315%]+140%\nSA Break: [2455%]+261%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ElectricCannon
@@ -4501,35 +4501,35 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ElectricCannon
 
 ID=16111
 Exceed Driver Ⅰ
-[Info]\nDamage: [2151%]\nSA Break: [1473%]\nSG Cost: [75]\nCooldown: [45s]\n\nDisassemble the soul weapon and absorb it in your hand.\nAfterwards, countless energy portals appear firing powerful energy simultaneously.\n\n[Usage]\nPlace in skill slot and press corresponding key
+[Info]\nDamage: [2151%]\nSA Break: [1473%]\nSG Cost: [75]\nCooldown: [45s]\n\nDisassemble the soul weapon and absorb it in your hand.\nAfterwards, countless energy portals appear firing powerful energy simultaneously.\n\n[Usage]\nKeyboard: Place in skill slot and press corresponding key
 Damage: [2151%]+108%\nSA Break: [1473%]+74%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ExceedDriver
 0
 
 ID=16112
-Exceed Driver ⅠⅠ
-[Info]\nDamage: [2259%]\nSA Break: [1547%]\nSG Cost: [75]\nCooldown: [45s]\n\nDisassemble the soul weapon and absorb it in your hand.\nAfterwards, countless energy portals appear firing powerful energy simultaneously.\n\n[Usage]\nPlace in skill slot and press corresponding key
+Exceed Driver Ⅱ
+[Info]\nDamage: [2259%]\nSA Break: [1547%]\nSG Cost: [75]\nCooldown: [45s]\n\nDisassemble the soul weapon and absorb it in your hand.\nAfterwards, countless energy portals appear firing powerful energy simultaneously.\n\n[Usage]\nKeyboard: Place in skill slot and press corresponding key
 Damage: [2259%]+269%\nSA Break: [1547%]+184%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ExceedDriver
 0
 
 ID=16113
-Exceed Driver ⅠⅠⅠ
-[Info]\nDamage: [2528%]\nSA Break: [1731%]\nSG Cost: [75]\nCooldown: [45s]\n\nDisassemble the soul weapon and absorb it in your hand.\nAfterwards, countless energy portals appear firing powerful energy simultaneously.\n\n[Usage]\nPlace in skill slot and press corresponding key
+Exceed Driver Ⅲ
+[Info]\nDamage: [2528%]\nSA Break: [1731%]\nSG Cost: [75]\nCooldown: [45s]\n\nDisassemble the soul weapon and absorb it in your hand.\nAfterwards, countless energy portals appear firing powerful energy simultaneously.\n\n[Usage]\nKeyboard: Place in skill slot and press corresponding key
 Damage: [2528%]+268%\nSA Break: [1731%]+184%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ExceedDriver
 0
 
 ID=16114
 Exceed Driver Ⅳ 
-[Info]\nDamage: [2796%]\nSA Break: [1915%]\nSG Cost: [75]\nCooldown: [45s]\n\nDisassemble the soul weapon and absorb it in your hand.\nAfterwards, countless energy portals appear firing powerful energy simultaneously.\n\n[Usage]\nPlace in skill slot and press corresponding key
+[Info]\nDamage: [2796%]\nSA Break: [1915%]\nSG Cost: [75]\nCooldown: [45s]\n\nDisassemble the soul weapon and absorb it in your hand.\nAfterwards, countless energy portals appear firing powerful energy simultaneously.\n\n[Usage]\nKeyboard: Place in skill slot and press corresponding key
 Damage: [2796%]+431%\nSA Break: [1915%]+295%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ExceedDriver
 0
 
 ID=16115
 Exceed Driver Ⅴ
-[Info]\nDamage: [3227%]\nSA Break: [2210%]\nSG Cost: [75]\nCooldown: [45s]\n\nDisassemble the soul weapon and absorb it in your hand.\nAfterwards, countless energy portals appear firing powerful energy simultaneously.\n\n[Usage]\nPlace in skill slot and press corresponding key
+[Info]\nDamage: [3227%]\nSA Break: [2210%]\nSG Cost: [75]\nCooldown: [45s]\n\nDisassemble the soul weapon and absorb it in your hand.\nAfterwards, countless energy portals appear firing powerful energy simultaneously.\n\n[Usage]\nKeyboard: Place in skill slot and press corresponding key
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ExceedDriver
 0
@@ -4545,8 +4545,8 @@ ID=16911
 Erosion Ⅰ
 [Info]\nAwaken for 60s.\n- Attack Power +20%.\n- Movement Speed +20%.\n- Gain Super Armor.\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press the [7] key
 LvMax
-Icon/Skill/Hamerstoll/Icon_Hamerstoll_Skill_BreakErode
-Description_Image/Skill/Howling/Image_Howling_Break_Erode
+Icon/Skill/Hammerstol/Icon_Hamerstoll_Skill_BreakErode
+Description_Image/Skill/Hammerstol/Image_Hamerstol_Skill_BreakErode
 
 ID=21021
 Range Increase Ⅰ
@@ -4907,7 +4907,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter_A
 
 ID=23031
 Charge Ⅰ
-[Charge]\nEffectivity of charge increases by 1.8 times.\nJump into the air along with the enemy.\n\nCharging more makes the enemy float higher.
+[Charge]\nEffectivity of charge increases by 1.8 times.\nJump into the air along with the enemy.
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ScytheCutter_A
 0
@@ -5109,14 +5109,14 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack_B
 0
 
 ID=24015
-SA Destruction ⅠⅠ
+SA Destruction Ⅱ
 [Basic]\nDamage: -[150%]\nSA Break: +[141%]\n\n[Additional]\nDamage: -[75%] [150%]\nSA Break: +[71%] [141%]\n\nIncreases SA Break.
 [Basic]\nDamage: [150%]-7%\nSA Break: [141%]+51%\n\n[Additional]\nDamage: [75%]-4% [150%]-7%\nSA Break: [71%]+25% [141%]+51%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack_B
 0
 
 ID=24016
-SA Destruction ⅠⅠⅠ
+SA Destruction Ⅲ
 [Basic]\nDamage: -[143%]\nSA Break: -[192%]\n\n[Additional]\nDamage: -[71%] [143%]\nSA Break: +[96%] [192%]\n\nIncreases SA Break.
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack_B
@@ -5501,14 +5501,14 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_HammerCrash_B
 0
 
 ID=26017
-Full Swing ⅠⅠ
+Full Swing Ⅱ
 [Additional]\nDamage: [961%]\nSA Break: [346%]\n\nLaunch an additional attack after the last attack.\n\n[Usage: Additional]\nMouse: RMB
 [Additional]\nDamage: [961%]+214%\nSA Break: [346%]+76%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_HammerCrash_B
 0
 
 ID=26018
-Full Swing ⅠⅠⅠ
+Full Swing Ⅲ
 [Additional]\nDamage: [1175%]\nSA Break: [422%]\n\nLaunch an additional attack after the last attack.\n\n[Usage: Additional]\nMouse: RMB
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_HammerCrash_B
@@ -5516,21 +5516,21 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_HammerCrash_B
 
 ID=26021
 Shatter Ⅰ
-[Additional]\nDamage: [507%]\nSA Break: [392%]\n\nReplaces the additional attack with an additional consecutive attack.\n\n[Usage: Additional]\nMouse: hold RMB, continuous attack
-[Additional]\nDamage: [507%]+64%\nSA Break: [392%]+49%
+[Additional]\nDamage: [824%]\nSA Break: [637%]\n\nReplaces the additional attack with an additional consecutive attack.\n\n[Usage: Additional]\nKeyboard: hold RMB, continuous attack
+[Info]\nIncreases the speed of the consecutive attacks.
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_AssaultDive_A
 0
 
 ID=26022
 Shatter Ⅱ
-[Additional]\nDamage: [571%]\nSA Break: [441%]\n\nReplaces the additional attack with an additional consecutive attack.\n\n[Usage: Additional]\nMouse: hold RMB, continuous attack
-[Additional]\nDamage: [571%]+63%\nSA Break: [441%]+49%
+[Additional]\nDamage: [824%]\nSA Break: [637%]\n\nReplaces the additional attack with an additional consecutive attack.\n\n[Usage: Additional]\nKeyboard: hold RMB, continuous attack
+[Info]\nIncreases the speed of the consecutive attacks.
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_AssaultDive_A
 0
 
 ID=26023
 Shatter Ⅲ
-[Additional]\nDamage: [634%]\nSA Break: [490%]\n\nReplaces the additional attack with an additional consecutive attack.\n\n[Usage: Additional]\nMouse: hold RMB, continuous attack
+[Additional]\nDamage: [824%]\nSA Break: [637%]\n\nReplaces the additional attack with an additional consecutive attack.\n\n[Usage: Additional]\nKeyboard: hold RMB, continuous attack
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_AssaultDive_A
 0
@@ -5585,14 +5585,14 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire_A
 0
 
 ID=26042
-Rapid Shot ⅠⅠ
+Rapid Shot Ⅱ
 [Info]\nDamage: [1613%]\nSA Break: [668%]\nNumber of shots per shot: [9]\n\nIncreases the number of shots.
 [Info]\nDamage: [1613%]+269%\nSA Break: [668%]+111%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire_A
 0
 
 ID=26043
-Rapid Shot ⅠⅠⅠ
+Rapid Shot Ⅲ
 [Info]\nDamage: [1882%]\nSA Break: [779%]\nNumber of shots per shot: [9]\n\nIncreases the number of shots.
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire_A
@@ -5606,14 +5606,14 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire_B
 0
 
 ID=26047
-Power Shot ⅠⅠ
+Power Shot Ⅱ
 [Info]\nNumber of shots: [4]\n\nFire long-range bullets.
 [Info]\nNumber of shots: [4]+1
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire_B
 0
 
 ID=26048
-Power Shot ⅠⅠⅠ
+Power Shot Ⅲ
 [Info]\nNumber of shots: [5]\n\nFire long-range bullets.
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_PulseFire_B
@@ -5642,21 +5642,21 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_BulletStorm_A
 
 ID=26056
 Meteor Fall Ⅰ
-[Info]\nDamage: [327%]\nSA Break: [400%]\nContinuous Attack: [8s]\n\nAttack with series of exploding meteorites.\nDeals continuous damage in the area.
-[Info]\nDamage: [327%]+326%\nSA Break: [400%]+399%\nContinuous Attack: [8s]+2s
+[Info]\nDamage: [980%]\nSA Break: [1199%]\nContinuous Attack: [8s]\n\nAttack with series of exploding meteorites.\nDeals continuous damage in the area.
+[Info]\nDamage: [980%]+130%\nSA Break: [1199%]+159%\nContinuous Attack: [8s]+2s
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_BulletStorm_B
 0
 
 ID=26057
-Meteor Fall ⅠⅠ
-[Info]\nDamage: [653%]\nSA Break: [799%]\nContinuous Attack: [10s]\n\nAttack with series of exploding meteorites.\nDeals continuous damage in the area.
-[Info]\nDamage: [653%]+327%\nSA Break: [799%]+400%\nContinuous Attack: [10s]+3s
+Meteor Fall Ⅱ
+[Info]\nDamage: [1110%]\nSA Break: [1358%]\nContinuous Attack: [10s]\n\nAttack with series of exploding meteorites.\nDeals continuous damage in the area.
+[Info]\nDamage: [1110%]+196%\nSA Break: [1358%]+240%\nContinuous Attack: [10s]+3s
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_BulletStorm_B
 0
 
 ID=26058
-Meteor Fall ⅠⅠ
-[Info]\nDamage: [980%]\nSA Break: [1199%]\nContinuous Attack: [13s]\n\nAttack with series of exploding meteorites.\nDeals continuous damage in the area.
+Meteor Fall Ⅲ
+[Info]\nDamage: [1306%]\nSA Break: [1598%]\nContinuous Attack: [13s]\n\nAttack with series of exploding meteorites.\nDeals continuous damage in the area.
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_BulletStorm_B
 0
@@ -5706,14 +5706,14 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_Earthquake_B
 ID=26071
 Hell Fire Ⅰ
 [Info]\nAdds an attack zone in front of you.\n\n[Usage]\nPlace in skill slot and press corresponding key
-[Info]\nAdds [1]+3 attack zones
+[Info]\nDamage: [484%]+145%\nSA Break: [298%]+89%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FireSomersault_A
 0
 
 ID=26072
 Hell Fire Ⅱ
 [Info]\nAdds an attack zone in front of you.\n\n[Usage]\nPlace in skill slot and press corresponding key
-[Info]\nDamage: [871%]+97%\nSA Break: [536%]+60%
+[Info]\nDamage: [629%]+145%\nSA Break: [387%]+90%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FireSomersault_A
 0
 
@@ -6258,27 +6258,27 @@ When hit, 20% chance of +5% Attack for 5s. (10s cooldown)
 
 ID=30252
 White Star Ⅰ
-3-White Fanged Body will strike enemies from the front (120s cooldown)
+3-White Fanged Body will strike enemies from the front.\nEffect: Bleed (120s cooldown)
 .
 0
 0
 
 ID=30271
 White Star Ⅱ
-3-White Fanged Body will explode at enemies (120s cooldown)
+3-White Fanged Body will explode at enemies. (120s cooldown)
 .
 0
 0
 
 ID=30272
 White Star Ⅲ
-3-White Fanged Body will explode at enemies in a wide range area (120s cooldown)
+3-White Fanged Body will explode at enemies in a wide range area.\nEffect: Bleed (120s cooldown)
 .
 0
 0
 
 ID=30273
-Crimson Gaze Ⅰ 
+Crimson Gaze Ⅰ
 When under abnormal state, 100% chance of +10% HP. (30s cooldown)
 .
 0
@@ -6531,21 +6531,21 @@ On critical hit, 5% chance of +10% Attack, -50% Movement Speed for 5s (10s coold
 
 ID=30393
 God Hand Ⅰ
-Right hand appears and slams downward on enemies. (60s cooldown)
+Right hand appears and slams downward on enemies.\nEffect: Paralysis (60s cooldown)
 .
 0
 0
 
 ID=30401
 God Hand Ⅱ
-Both hand appear and slams downward on enemies. (60s cooldown)
+Both hand appear and slams downward on enemies.\nEffect: Paralysis (60s cooldown)
 .
 0
 0
 
 ID=30402
 God Hand Ⅲ
-Both hand appear and slams downward on enemies in a large radius. (60s cooldown)
+Both hand appear and slams downward on enemies in a large radius.\nEffect: Paralysis (60s cooldown)
 .
 0
 0

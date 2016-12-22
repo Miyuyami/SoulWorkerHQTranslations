@@ -636,61 +636,61 @@ Charmed
 
 ID=1801
 Confusion Lv1
-Confused for 0.5 seconds.
+Confused for 0.5 seconds, you cannot do anything while confused.
 Icon/Buff/Icon_Common_Debuff_Fear
 Confusion
 
 ID=1802
 Confusion Lv2
-Confused for 1 second.
+Confused for 1 second, you cannot do anything while confused.
 Icon/Buff/Icon_Common_Debuff_Fear
 Confusion
 
 ID=1803
 Confusion Lv3
-Confused for 1.5 seconds.
+Confused for 1.5 seconds, you cannot do anything while confused.
 Icon/Buff/Icon_Common_Debuff_Fear
 Confusion
 
 ID=1804
 Confusion Lv4
-Confused for 2 seconds.
+Confused for 2 seconds, you cannot do anything while confused.
 Icon/Buff/Icon_Common_Debuff_Fear
 Confusion
 
 ID=1805
 Confusion Lv5
-Confused for 2.5 seconds.
+Confused for 2.5 seconds, you cannot do anything while confused.
 Icon/Buff/Icon_Common_Debuff_Fear
 Confusion
 
 ID=1806
 Confusion Lv6
-Confused for 3 seconds.
+Confused for 3 seconds, you cannot do anything while confused.
 Icon/Buff/Icon_Common_Debuff_Fear
 Confusion
 
 ID=1807
 Confusion Lv7
-Confused for 3.5 seconds.
+Confused for 3.5 seconds, you cannot do anything while confused.
 Icon/Buff/Icon_Common_Debuff_Fear
 Confusion
 
 ID=1808
 Confusion Lv8
-Confused for 4 seconds.
+Confused for 4 seconds, you cannot do anything while confused.
 Icon/Buff/Icon_Common_Debuff_Fear
 Confusion
 
 ID=1809
 Confusion Lv9
-Confused for 4.5 seconds.
+Confused for 4.5 seconds, you cannot do anything while confused.
 Icon/Buff/Icon_Common_Debuff_Fear
 Confusion
 
 ID=1810
 Confusion Lv10
-Confused for 5 seconds.
+Confused for 5 seconds, you cannot do anything while confused.
 Icon/Buff/Icon_Common_Debuff_Fear
 Confusion
 
@@ -1121,13 +1121,13 @@ Icon/Buff/Icon_Common_Buff_Immun
 Invincible
 
 ID=5572
-Hide and Seek ⅠⅠ
+Hide and Seek Ⅱ
 Damage is nullified.
 Icon/Buff/Icon_Common_Buff_Immun
 Invincible
 
 ID=5573
-Hide and Seek ⅠⅠⅠ
+Hide and Seek Ⅲ
 Damage is nullified.
 Icon/Buff/Icon_Common_Buff_Immun
 Invincible
@@ -1151,13 +1151,13 @@ Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5577
-Hide and Seek ⅠⅠ
+Hide and Seek Ⅱ
 Gain Super Armor, all attacks received are evaded.
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5578
-Hide and Seek ⅠⅠⅠ
+Hide and Seek Ⅲ
 Gain Super Armor, all attacks received are evaded.
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
@@ -1721,13 +1721,13 @@ Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=7032
-Spirit Surge Trait A ⅠⅠ
+Spirit Surge Trait A Ⅱ
 -20% Evasion while excited.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=7033
-Spirit Surge Trait A ⅠⅠⅠ
+Spirit Surge Trait A Ⅲ
 -40% Evasion while excited.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
@@ -1907,7 +1907,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=7513
-SG Recovery ⅠⅠⅠ
+SG Recovery Ⅲ
 Recover SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
@@ -2514,19 +2514,19 @@ Move Speed ↓
 
 ID=30007
 Confused
-Become mesmerized in 6 seconds.
+Stunned for 6 seconds.
 Icon/Buff/Icon_Common_Debuff_Stun
 Stunned
 
 ID=30008
 Confused
-Become mesmerized in 10 seconds.
+Stunned for 5 seconds.
 Icon/Buff/Icon_Common_Debuff_Stun
 Stunned
 
 ID=30009
 Bloody Rage
-Attack +100% for 1 minute.
+Attack Sped +40% and Attack +30% for 1 minute.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
@@ -2757,6 +2757,12 @@ HP↓
 0
 0
 HP↓
+
+ID=30062
+Move Speed ↓
+Movement Speed -80% for 3 seconds.
+Icon/Buff/Icon_Common_Debuff_MSR
+Move Speed ↓
 
 ID=30063
 Turbulent Waves/Tenacious
@@ -3126,7 +3132,7 @@ HP↓
 
 ID=35202
 Stunned
-Become mesmerized in 10 seconds.
+Stunned for 10 seconds.
 Icon/Buff/Icon_Common_Debuff_Stun
 Stunned
 
@@ -3300,7 +3306,7 @@ Dispel HP Absorb
 
 ID=39009
 Acceleration
-Move speed +10% for 10 seconds.
+Movement Speed +20% for 10 seconds.
 Icon/Buff/Icon_Common_Buff_MSR
 Move Speed ↑
 
@@ -3749,7 +3755,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53161
-Quadruple Fierce Attack ⅠⅠ
+Quadruple Fierce Attack Ⅱ
 On hit, 10% chance of +10% Attack Speed for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
@@ -4823,13 +4829,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53630
-Quadruple Fierce Attack ⅠⅠ
+Quadruple Fierce Attack Ⅱ
 On hit, 15% chance of +3% Attack Speed for 3s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53631
-Quadruple Fierce Attack ⅠⅠⅠ
+Quadruple Fierce Attack Ⅲ
 On hit, 15% chance of +3% Attack Speed for 3.5s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
@@ -4841,13 +4847,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53633
-Quadruple Fierce Attack ⅠⅠ
+Quadruple Fierce Attack Ⅱ
 On hit, 15% chance of +5% Attack Speed for 3.5s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53634
-Quadruple Fierce Attack ⅠⅠⅠ
+Quadruple Fierce Attack Ⅲ
 On hit, 15% chance of +5% Attack Speed for 4.5s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
@@ -5452,6 +5458,114 @@ Blade's Angel Ⅲ
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage Increased
 
+ID=53742
+Friendship Ⅰ
++1% Damage Reduction and +100 Critical Damage.
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Damage Increased
+
+ID=53743
+Friendship Ⅱ
++2% Damage Reduction and +350 Critical Damage.
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Damage Increased
+
+ID=53744
+Friendship Ⅲ
++4% Damage Reduction and +600 Critical Damage.
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Damage Increased
+
+ID=53745
+Friendship Ⅰ
++2% Damage Reduction and +100 Critical Damage.
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Damage Increased
+
+ID=53746
+Friendship Ⅱ
++3% Damage Reduction and +350 Critical Damage.
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Damage Increased
+
+ID=53747
+Friendship Ⅲ
++5% Damage Reduction and +600 Critical Damage.
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Damage Increased
+
+ID=53748
+Concentration Ⅰ
++5% Damage against bosses.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage↑
+
+ID=53749
+Concentration Ⅱ
++10% Damage against bosses.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage↑
+
+ID=53750
+Concentration Ⅲ
++15% Damage against bosses.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage↑
+
+ID=53751
+Concentration Ⅰ
++7% Damage against bosses.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage↑
+
+ID=53752
+Concentration Ⅱ
++12% Damage against bosses.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage↑
+
+ID=53753
+Concentration Ⅲ
++17% Damage against bosses.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage↑
+
+ID=53754
+Cool-headed Ⅰ
++5% Damage Reduction from bosses.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage Reduction Increased
+
+ID=53755
+Cool-headed Ⅱ
++7% Damage Reduction from bosses.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage Reduction Increased
+
+ID=53756
+Cool-headed Ⅲ
++10% Damage Reduction from bosses.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage Reduction Increased
+
+ID=53757
+Cool-headed Ⅰ
++7% Damage Reduction from bosses.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage Reduction Increased
+
+ID=53758
+Cool-headed Ⅱ
++9% Damage Reduction from bosses.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage Reduction Increased
+
+ID=53759
+Cool-headed Ⅲ
++12% Damage Reduction from bosses.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage Reduction Increased
+
 ID=55002
 Surprise Box Ⅲ
 Defense -50% for 30 seconds.
@@ -5760,7 +5874,7 @@ Move Speed ↓
 
 ID=63009
 HP↓
-HP -10% per 2 seconds for 10 seconds.
+HP -10% every 2 seconds for 10 seconds.
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP↓
 
@@ -5844,7 +5958,7 @@ HP↓
 
 ID=63023
 Defense↓
-Defense -100% for 10 minutes.
+Defense -200% for 10 minutes.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
 
@@ -5874,7 +5988,7 @@ Attack Power ↑
 
 ID=63028
 HP↓
-HP -20% per 2 seconds for 20 seconds.
+HP -20% every 2 seconds for 20 seconds.
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP↓
 
