@@ -446,10 +446,10 @@ ID=328
 You do not meet the level requirements for a slot expansion.
 
 ID=329
-An expansion ticket is required to expand slots.
+An "Inventory Expansion Ticket" is required to expand slots.
 
 ID=330
-Reserve
+An "Bank Expansion Ticket" is required to expand slots.
 
 ID=333
 {0} was used.
@@ -779,10 +779,10 @@ ID=473
 {0}m {1}s
 
 ID=474
-Bonus rewards acquired: {0} X {1}
+Bonus rewards acquired: {0} x{1}
 
 ID=475
-Since there is no inventory space, it has been shipped by [{0} x {1}] mail
+Since there is no inventory space, it has been shipped by [{0} x{1}] mail
 
 ID=476
 Result
@@ -833,7 +833,7 @@ ID=491
 Confirm Earnings
 
 ID=492
-<Aquired>
+<Acquired>
 
 ID=493
 <Mail payment complete>
@@ -1220,7 +1220,7 @@ ID=676
 Obtained: {0} EXP
 
 ID=677
-Obtained: {0} EXP [X{1} bonus]
+Obtained: {0} EXP [x{1} bonus]
 
 ID=678
 Killed by [{0}]'s attack.
@@ -1718,7 +1718,7 @@ ID=877
 Underwear
 
 ID=881
-Dismantled {0}.\nAcquired: {1}x{2}\nAcquired {3} Ether
+Dismantled {0}.\nAcquired: {1} x{2}\nAcquired {3} Ether
 
 ID=882
 Dismantling failed.
@@ -2999,7 +2999,7 @@ ID=3201
 Randomly Open Package
 
 ID=3202
-Do you want to use [{0}]?\n(You can obtain the following items)
+Do you want to use [{0}]?\n(The following items can be obtained)
 
 ID=3203
 Do you want to use [{0}]?\n({1} of the following items can be won)
@@ -3035,7 +3035,7 @@ ID=4008
 Dungeon entry permitted.
 
 ID=4009
-{0} - {1} {2} can be entered
+{0} - {1} {2} has been unlocked
 
 ID=4010
 Achievement Completed
@@ -3458,7 +3458,7 @@ ID=5829
 <font color='#FFFFFF' size='30'>TIP: </font>When the current channel is full, please\n<font color='#00D8FF'>Change Channel</font> by clicking the top right area of your minimap.
 
 ID=5830
-<font color='#FFFFFF' size='30'>TIP: </font>Bookers Points <font color='#00ff9c'>[BP]</font> may be acquired from <font color='#00D8FF'>District 6</font> or <font color='#00D8FF'>Steel Grave</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Booker's Point <font color='#00ff9c'>[BP]</font> may be acquired from <font color='#00D8FF'>District 6</font> or <font color='#00D8FF'>Steel Grave</font>.
 
 ID=5831
 <font color='#FFFFFF' size='30'>TIP: </font>You can buy special items at the <font color='#00ff9c'>BP Shop</font> in <font color='#00D8FF'>District 6</font>.
@@ -3647,7 +3647,7 @@ ID=5892
 <font color='#FFFFFF' size='30'>TIP: </font>When the current channel is full, please\n<font color='#00D8FF'>Change Channel</font> by clicking the top right area of your minimap.
 
 ID=5893
-<font color='#FFFFFF' size='30'>TIP: </font>Bookers Points <font color='#00ff9c'>[BP]</font> may be acquired from <font color='#00D8FF'>District 6</font> or <font color='#00D8FF'>Steel Grave</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Booker's Point <font color='#00ff9c'>[BP]</font> may be acquired from <font color='#00D8FF'>District 6</font> or <font color='#00D8FF'>Steel Grave</font>.
 
 ID=5894
 <font color='#FFFFFF' size='30'>TIP: </font>You can buy special items at the <font color='#00ff9c'>BP Shop</font> in <font color='#00D8FF'>District 6</font>.
@@ -6365,7 +6365,7 @@ ID=19505
 Bunny in the Forest
 
 ID=19506
-[Amazing Gesture] Available
+Christmas
 
 ID=19507
 [Amazing Gesture] Available
@@ -6578,16 +6578,16 @@ ID=21007
 - {0} x{1}
 
 ID=21008
-Repair Fee decreased by {0}{1}.
+Repair Fee is decreased by {0}{1}
 
 ID=21009
-Crafting fee decreased by {0}{1}.
+Crafting Fee is decreased by {0}{1}
 
 ID=21010
 Crafting materials cost reduced by {0}%
 
 ID=21011
-Enhancing fee decreased by {0}{1}.
+Enhancing Fee is decreased by {0}{1}
 
 ID=21012
 Enhance success chance increased by {0}{1}.
@@ -6596,10 +6596,10 @@ ID=21013
 Reduced transportation fees by {0} {1}
 
 ID=21014
-The special item [{0}] can be bought.
+The special item [{0}] can be bought
 
 ID=21015
-Number of special items you can buy from {0} per day increase two-fold
+Doubles the number of special items you can purchase per day from {0}
 
 ID=21016
 While mounted, +{0} Attack, +{1} Defense for 30m
@@ -6647,7 +6647,7 @@ ID=21030
 Maximum purchases attained for the day.
 
 ID=21031
-For acquiring the maximum amount of favorability with {0} in a day, no more can be accumulated.\n[Resets at 9AM JST, 4PM PST]
+You cannot gain any more favorability from {0} for today.\n[Resets at 9AM JST, 4PM PST]
 
 ID=21032
 Cannot enter the dungeon because of insufficient fatigue.
@@ -6689,19 +6689,19 @@ ID=21053
 This item cannot be used because your ST is maxed.
 
 ID=21054
-HP Recovery Potion stage 2 is available for purchase.
+HP Recovery Potion stage 2 is available for purchase
 
 ID=21055
-HP Recovery Potion stages 2 to 3 are available for purchase.
+HP Recovery Potion stages 2 to 3 are available for purchase
 
 ID=21056
-HP Recovery Potion stages 2 to 4 are available for purchase.
+HP Recovery Potion stages 2 to 4 are available for purchase
 
 ID=21057
-SG 50% Recovery Potion is available for purchase.
+SG 50% Recovery Potion is available for purchase
 
 ID=21058
-SG 100% Recovery Potion is available for purchase.
+SG 100% Recovery Potion is available for purchase
 
 ID=21400
 Board Helicopter
@@ -10172,7 +10172,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 14/Dec/2016 8:10 PM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 23/Dec/2016 12:10 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -13046,7 +13046,7 @@ ID=40175
 Intruder alert has gone off.\nDestroy all the alarm sensors.
 
 ID=40176
-Using the electricity control device, open the three-fold door.
+Please use the electricity control device to open the 3 closed doors.
 
 ID=40177
 By using the cooling device container, you can nullify the electric field device.
@@ -14564,7 +14564,7 @@ ID=42233
 Improved S-01 μ
 
 ID=42234
-Menacing Threatful S-01
+Menacing Threatful S-01 μ
 
 ID=42235
 Victor
@@ -14666,10 +14666,10 @@ ID=42267
 Lightning Speed Fanged Wolf Kain
 
 ID=42268
-Kainμ
+Kain μ
 
 ID=42269
-Fanged Wolf Kainμ
+Fanged Wolf Kain μ
 
 ID=42270
 Lightning Speed Fanged Wolf Kainμ
@@ -14804,10 +14804,10 @@ ID=42313
 Violent Monster Bird Intention Carla
 
 ID=42314
-Intentful Carla
+Intentful Carla μ
 
 ID=42315
-Violent Intentful Carlaμ
+Violent Intentful Carla μ
 
 ID=42316
 Violent Monster Bird Intention Carla μ
@@ -15135,6 +15135,60 @@ Bits' Master Shion μ
 
 ID=42424
 Blades' Queen Shion μ
+
+ID=42425
+Yomi
+
+ID=42426
+Merchant League Yomi
+
+ID=42427
+Ultra-Reliable Yomi
+
+ID=42428
+Yomi μ
+
+ID=42429
+Merchant League Yomi μ
+
+ID=42430
+Ultra-Reliable Yomi μ
+
+ID=42431
+Katherine
+
+ID=42432
+Innocent Katherine
+
+ID=42433
+Messy Girl Katherine
+
+ID=42434
+Katherine μ
+
+ID=42435
+Innocent Katherine μ
+
+ID=42436
+Messy Girl Katherine μ
+
+ID=42437
+Warrant Officer Amanda
+
+ID=42438
+Communications Officer Amanda
+
+ID=42439
+Emergency Communications Amanda
+
+ID=42440
+Warrant Officer Amanda μ
+
+ID=42441
+Communications Officer Amanda μ
+
+ID=42442
+Emergency Communications Amanda μ
 
 ID=43139
 Dignity Snatcher
@@ -15660,6 +15714,24 @@ ID=43339
 
 ID=43340
 [SH] Shion
+
+ID=43341
+[S] Yomi
+
+ID=43342
+[SH] Yomi
+
+ID=43343
+[S] Katherine
+
+ID=43344
+[SH] Katherine
+
+ID=43345
+[S] Warrant Officer Amanda
+
+ID=43346
+[SH] Warrant Officer Amanda
 
 ID=45000
 Item Mall
@@ -17222,10 +17294,10 @@ ID=52042
 Mismatched attachment slot.
 
 ID=52043
-Bound items are not storable.
+Cannot use the item because it has expired.
 
 ID=52044
-Untradable items are not storable.
+Bound items are not storable.
 
 ID=52045
 The item could not be used; you can still enter Steel Grave.
@@ -18042,6 +18114,9 @@ You have not cleared the prerequisite quest.
 
 ID=54021
 Insufficient inventory space. Failed to proceed with quest.
+
+ID=54022
+You do not possess the required items to progress the quest.
 
 ID=55001
 Failed to generate dungeon.
@@ -19025,7 +19100,7 @@ ID=60221
 Force was destroyed.
 
 ID=60222
-Cannot join the Force because it is already in the Maze.
+Cannot join the Force because it is already in the dungeon.
 
 ID=60223
 Cannot join respective force.
@@ -19079,7 +19154,7 @@ ID=60239
 Cannot enter because a member of your Force does not have a Soul Weapon equipped.
 
 ID=60240
-You can only enter the same Maze as the Force leader chooses.
+You can only enter the same dungeon as the Force leader chooses.
 
 ID=60241
 現在フォースメンバーが入場中のメイズにのみ乱入できます。
@@ -19157,31 +19232,31 @@ ID=60268
 フォースメンバーの再開受注可否を待っています。\n-再開しない場合[中止]をクリック-
 
 ID=60269
-メイズを離脱したフォースメンバーがいるため、再開できません。
+A Force member has left the dungeon It cannot be played.
 
 ID=60270
-現在フォースに志願できるレベルではありません。
+Cannot apply to the Force, you do not meet the level requirement.
 
 ID=60271
 Cancel
 
 ID=60272
-フォースが戦闘進行中です。\n今、乱入しますか？\n-残り：{0}秒-
+A Force is currently in battle. \nWill you enter? \nRemaining: {0} Seconds
 
 ID=60273
-フォースメンバーの離脱で、敵が弱体化します。
+The Force members have decreased, enemies have weakened in response.
 
 ID=60274
-相手が無法地帯にいるため、フォースの要請ができません。
+You cannot request a Force because the target is in the lawless zone.
 
 ID=60275
-無法地帯ではフォースの要請ができません。
+Cannot join a Force in the Lawless Zone.
 
 ID=60276
-エラーにより、フォースを見つけられません。
+An error occurred, could not find a Force.
 
 ID=60277
-現在加入中のフォースから離脱しますか？
+Will you leave the Force that is currently in match-making?
 
 ID=60278
 Force auto-matching
@@ -19202,10 +19277,10 @@ ID=60283
 {0} currently cannot accept requests due to already pending requests.
 
 ID=60284
-マッチング中のメンバーが中止したため、マッチングが中止されました。
+Matching cancelled due to matching members quitting
 
 ID=60285
-フォースメンバーが全員同意時、メイズに入場します。\n-入場時に他の町に位置したり、ログアウト状態のフォースメンバーは乱入できません。-
+All Force members will enter the dungeon when all members agree. \nYou can not enter if a force member in another town or a member is not logged in.
 
 ID=60286
 フォースリーダーがメイズ入場を要請しました。入場しますか？\n入場位置：[{0}]\nエピソード：[{1}]\n難易度：[{2}]\n-残り：{3}秒-
