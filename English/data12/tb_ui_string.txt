@@ -3476,7 +3476,7 @@ ID=5835
 <font color='#FFFFFF' size='30'>TIP: </font>As you progress through the game, you will be able to call forth a reassuring </font><font color='#00D8FF'>[Supporter]</font> to support you.
 
 ID=5836
-<font color='#FFFFFF' size='30'>TIP: </font>Please try activating <font color='#00D8FF'>Orbs</font> at <font color='#00ff9c'>the Soul Manipulator</font> NPC.\nAn activated Orb can be used by your Supporter.
+<font color='#FFFFFF' size='30'>TIP: </font>Please try activating <font color='#00D8FF'>Orbs</font> at the <font color='#00ff9c'>Soul Manipulator</font> NPC.\nAn activated Orb can be used by your Supporter.
 
 ID=5837
 <font color='#FFFFFF' size='30'>TIP: </font>Soloing is hard! You might feel lonely!\nIn times like these, you can use </font><font color='#00D8FF'>Find Party</font> <font color='#00ff9c'>[N]</font> and </font><font color='#00D8FF'>Community</font> <font color='#00ff9c'>[O]</font> to make some friends!
@@ -3665,7 +3665,7 @@ ID=5898
 <font color='#FFFFFF' size='30'>TIP: </font>As you progress through the game, you will be able to call forth a reassuring </font><font color='#00D8FF'>[Supporter]</font> to support you.
 
 ID=5899
-<font color='#FFFFFF' size='30'>TIP: </font>Please try activating <font color='#00D8FF'>Orbs</font> at <font color='#00ff9c'>the Soul Manipulator</font> NPC.\nAn activated Orb can be used by your Supporter.
+<font color='#FFFFFF' size='30'>TIP: </font>Please try activating <font color='#00D8FF'>Orbs</font> at the <font color='#00ff9c'>Soul Manipulator</font> NPC.\nAn activated Orb can be used by your Supporter.
 
 ID=5900
 <font color='#FFFFFF' size='30'>TIP: </font>When using a bathtub/shower booth, currently worn underwear will be shown...!!
@@ -3794,7 +3794,7 @@ ID=6046
 Synthetic Materials
 
 ID=6047
-A.R. Creation Time\nAll the materials will be consumed and are unrecoverable.\nDo you want to proceed with the synthesis?
+A.R Creation Time\nAll the materials will be consumed and are unrecoverable.\nDo you want to proceed with the synthesis?
 
 ID=6048
 Synthesis is complete.
@@ -6368,7 +6368,7 @@ ID=19506
 Christmas
 
 ID=19507
-[Amazing Gesture] Available
+Knowledge of Japanese culture
 
 ID=19508
 [Amazing Gesture] Available
@@ -6510,6 +6510,15 @@ Merry Christmas!
 
 ID=20135
 {0} is enjoying Christmas.
+
+ID=20136
+Knowledge of Japanese culture
+
+ID=20137
+Show off your knowledge about Japanese culture.
+
+ID=20138
+{0} shows off their knowledge about Japanese culture.
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -10172,7 +10181,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 23/Dec/2016 12:10 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 29/Dec/2016 10:50 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -16046,7 +16055,7 @@ ID=45306
 Open Brooch Cube
 
 ID=45307
-Open A.R. Cube
+Open A.R Cube
 
 ID=45308
 Do you want to use {0}?
@@ -19157,7 +19166,7 @@ ID=60240
 You can only enter the same dungeon as the Force leader chooses.
 
 ID=60241
-現在フォースメンバーが入場中のメイズにのみ乱入できます。
+Only the current Force members can enter the dungeon.
 
 ID=60242
 Cannot accept the request to join the force from the current location.
@@ -19202,19 +19211,19 @@ ID=60258
 Auto force matching search time has ended.
 
 ID=60259
-フォースメンバーが不足していますが、\nこのまま進行しますか？\n時間内に選択しなかった場合、自動で入場処理されます。\n(残り：{0}秒)
+Force members are missing, \nWill you still proceed? \nIf you do not select a choice within the time frame, you will proceed regardless. \n(Remaining: {0} Seconds)
 
 ID=60260
-フォース進行可否を選択しなかったため、強制退場しました。
+The Force has not decided whether to proceed, it has exited the stage.
 
 ID=60261
 Do you want to cancel auto force matching?
 
 ID=60262
-不正行為によりペナルティが適用され、\n[{0}]分[{1}]秒間、オートフォースマッチングを利用できません。
+Due to cheating, you have been given a penalty. You cannot use [{0}] Auto-Matching feature for {1} minutes.
 
 ID=60263
-フォース進行可否選択中
+Force progression has been decided
 
 ID=60264
 A force leader is being selected.
@@ -19223,13 +19232,13 @@ ID=60265
 The force was formed.
 
 ID=60266
-メイズ再開をフォースメンバーに要請しますか？\n-残り：{0}秒-
+Would you like to ask the Force members to restart to dungeon? \nRemaining: {0} Seconds
 
 ID=60267
-フォースリーダー{0}が、メイズ再開を要請しました。\n要請に応えますか？\n-残り：{1}秒-
+The Force leader {0} has requested to resume the dungeon. \n Will you accept? \nRemaining: {1} Second
 
 ID=60268
-フォースメンバーの再開受注可否を待っています。\n-再開しない場合[中止]をクリック-
+Waiting for acceptance to enter the dungeon from other Force Members. \nClick [Cancel] to go back.
 
 ID=60269
 A Force member has left the dungeon It cannot be played.
@@ -19283,7 +19292,7 @@ ID=60285
 All Force members will enter the dungeon when all members agree. \nYou can not enter if a force member in another town or a member is not logged in.
 
 ID=60286
-フォースリーダーがメイズ入場を要請しました。入場しますか？\n入場位置：[{0}]\nエピソード：[{1}]\n難易度：[{2}]\n-残り：{3}秒-
+The Force Leader is requesting dungeon entry. Would you like to enter? \n Entry position: [{0}] \n Episode: [{1}] \n Difficulty: [{2}] \n Remaining: {3} Seconds
 
 ID=60287
 Force member {0} refused to enter the dungeon.

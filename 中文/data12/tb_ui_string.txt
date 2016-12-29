@@ -236,7 +236,7 @@ ID=127
 背饰
 
 ID=128
-头
+手
 
 ID=129
 腿
@@ -245,7 +245,7 @@ ID=130
 脚
 
 ID=131
-还原物品
+回复
 
 ID=132
 Buff
@@ -284,13 +284,13 @@ ID=143
 肩
 
 ID=144
-头
+身体
 
 ID=145
 腿
 
 ID=146
-输出性插件
+攻击性插件
 
 ID=147
 防御性插件
@@ -332,34 +332,34 @@ ID=181
 Galaxy Cube
 
 ID=182
-Avatar [Top]
+时装 [帽子]
 
 ID=183
-Avatar [Head]
+时装 [頭]
 
 ID=184
-Avatar [Eye]
+时装 [眼]
 
 ID=185
-Avatar [口]
+时装[口]
 
 ID=186
-Avatar [口]
+時裝 [手]
 
 ID=187
-Avatar [内衣]
+时装  [内衣]
 
 ID=188
-Avatar [时装]
+时装  [衣服]
 
 ID=189
-Avatar [Back]
+时装 [背饰]
 
 ID=190
-Avatar [Leg]
+时装 [腿]
 
 ID=191
-Avatar [Foot]
+时装 [足]
 
 ID=200
 一般物品
@@ -416,22 +416,22 @@ ID=312
 购买
 
 ID=313
-输入你要卖出的数量.
+输入你要出售的数量.
 
 ID=314
 输入要分离的数量.
 
 ID=315
-要舍弃 {0}？
+要舍弃 {0}吗？
 
 ID=316
-批量卖出
+批量出售
 
 ID=317
 以太:
 
 ID=318
-拆除
+分解模式
 
 ID=325
 你确定要扩充你的背包槽位？
@@ -446,10 +446,10 @@ ID=328
 你不符合扩充槽位的等级要求.
 
 ID=329
-需要扩充券才能扩展槽位.
+因為沒有「背包拡張券」、所以無法擴展你的背包槽位。
 
 ID=330
-没有扩充券，无法扩展
+因為沒有「銀行倉庫扩张券」\n無法擴展倉庫槽位。
 
 ID=333
 {0} 已使用.
@@ -458,40 +458,40 @@ ID=334
 买 {0} 花费了 {1}.
 
 ID=335
-你是否要购买 所选物品(s)？\n所选物品(s) 无法为你装备.
+你是否要购买所选物品？\n所选物品无法为你装备.
 
 ID=336
-卖{0} 获得了 {1}.
+通过出售 {0} 获得了 {1}.
 
 ID=337
-{2} 已经卖给 {1}.
+{2} 已经出售给 {1}.
 
 ID=338
-扩展券
+槽位扩张
 
 ID=339
 所需等级: {0}
 
 ID=340
-扩建费用: {0} 金币
+扩张费用: {0} 金币
 
 ID=341
-扩建费用: {0} SC
+扩张费用: {0} SC
 
 ID=342
-你是否购买 {1}个 [{0}] ？将会花费你 {2}
+是否购买{1}个[{0}]？将会花费你{2}。
 
 ID=343
-是否卖出 {1}个[{0}]？你将会获得{2}
+是否卖出{1}个[{0}]？你将会获得{2}。
 
 ID=344
 确定是否想用 {0} 扩充你的槽位？
 
 ID=345
-卖出所选物品 给 (s) 到 {0}？
+卖出所选物品获得{0} ？
 
 ID=346
-你选择的物品是 <font color='#A566FF'>高价值</font> 物品， 卖出后会给予你 {0}. 你愿意卖出吗？
+你选择的物品是 <font color='#A566FF'>高价值</font> 物品， 出售后你会得到 {0}. 你愿意出售吗？
 
 ID=351
 常见
@@ -569,10 +569,10 @@ ID=379
 ◀
 
 ID=380
-通过
+重置
 
 ID=381
-扩充卡
+槽位扩张
 
 ID=382
 好友点数:
@@ -602,10 +602,10 @@ ID=397
 {0} 回收点
 
 ID=401
-商店
+入库
 
 ID=402
-卖
+出售
 
 ID=403
 装备
@@ -626,7 +626,7 @@ ID=408
 回收
 
 ID=409
-删除
+解除
 
 ID=410
 删除
@@ -638,7 +638,7 @@ ID=412
 强化
 
 ID=413
-拆除
+分解
 
 ID=414
 武器接口
@@ -647,10 +647,10 @@ ID=415
 修理
 
 ID=416
-登记物品
+交易登记
 
 ID=417
-显示资讯
+显示情报
 
 ID=418
 进化
@@ -674,10 +674,10 @@ ID=431
 种类
 
 ID=432
-类型
+角色
 
 ID=433
-级别
+等级
 
 ID=434
 显示在自己4级以内的武器
@@ -686,13 +686,13 @@ ID=435
 仅显示可装备物品
 
 ID=436
-基础素材
+基本素材
 
 ID=437
-附加素材
+追加素材
 
 ID=438
-要求
+所持
 
 ID=439
 必要
@@ -707,10 +707,10 @@ ID=442
 随机制作
 
 ID=443
-所需BP
+必要BP
 
 ID=444
-金币花费
+必要金币
 
 ID=445
 你成功制作了 {0}.
@@ -719,10 +719,10 @@ ID=446
 制作列表
 
 ID=447
-所需材料
+必要材料
 
 ID=448
-图纸将会自动登记.
+设计图将会自动登记.
 
 ID=449
 附加材料将会自动登记.
@@ -758,7 +758,7 @@ ID=464
 物品无法修复.\n(只有耐久度低的物品才能修复)
 
 ID=465
-无法装备 0 耐久武器.
+无法装备0耐久武器，性能无法正常发挥.
 
 ID=466
 请修复你的装备.
@@ -767,31 +767,31 @@ ID=467
 耐久度 {0}
 
 ID=470
-\n奖励
+全副本\n奖励
 
 ID=471
-副本达成率
+达成状况
 
 ID=472
-{0}小时 {1}分 {2}秒
+{0}小时{1}分{2}秒
 
 ID=473
-{0}分 {1}秒
+{0}分{1}秒
 
 ID=474
 获得追加奖励: {0} X {1}
 
 ID=475
-由于背包已满，  [{0} x {1}] 将会转移到邮箱
+由于背包已满，[{0} x {1}] 将会转移到邮箱
 
 ID=476
 战绩
 
 ID=477
-最高分数
+达成分数
 
 ID=478
-战斗分数
+通关点数
 
 ID=479
 战斗时间
@@ -803,7 +803,7 @@ ID=481
 最高连击
 
 ID=482
-通关\n奖励
+通关奖励
 
 ID=483
 表现奖励
@@ -824,16 +824,16 @@ ID=488
 网吧
 
 ID=489
-最终奖励
+最终报酬
 
 ID=490
 团队地位
 
 ID=491
-确认收入
+确定获得
 
 ID=492
-<已接收>
+<获得>
 
 ID=493
 <邮箱转移完成>
@@ -842,22 +842,22 @@ ID=494
 使用钥匙
 
 ID=495
-当前副本收入
+本次副本收入
 
 ID=496
-为了获取额外奖励，钥匙是必要的.
+为了获取追加奖励，钥匙是必要的.
 
 ID=497
-将在 {0} 秒后关闭.
+将在 {0} 秒后自动关闭.
 
 ID=498
 随机获取
 
 ID=501
-显示资讯
+显示情报
 
 ID=502
-委任队长
+队长委任
 
 ID=503
 踢出队伍
@@ -887,7 +887,7 @@ ID=512
 放弃
 
 ID=513
-※ 复活后的buff <font color='#5CD1E5'>[神圣保护]</font> 将会生效.
+※ 复活后将会赋予 <font color='#5CD1E5'>[神圣保护]</font> BUFF.
 
 ID=514
 ※ <font color='#F2CB61'>将会消耗1个 [复活币] </font> 并重返战斗.
@@ -911,13 +911,13 @@ ID=521
 离开
 
 ID=522
-任命
+委任
 
 ID=523
 踢出
 
 ID=524
-同意
+接受
 
 ID=525
 拒绝
@@ -926,7 +926,7 @@ ID=531
 离线
 
 ID=536
-Ah!
+啊
 
 ID=537
 A
@@ -938,7 +938,7 @@ ID=539
 交易
 
 ID=540
-团队
+队伍
 
 ID=541
 公会
@@ -947,16 +947,16 @@ ID=542
 私聊
 
 ID=546
-[{0}] 说:
+[{0}] 对你说:
 
 ID=547
-至 [{0}]:
+跟 [{0}] 说:
 
 ID=548
 [{0}] 叫:
 
 ID=549
-给予
+的留言
 
 ID=551
 你收到了一个组队邀请， 来自 {0}.\n 你想加入他的队伍吗？\n(剩余{1} 秒)
@@ -968,10 +968,10 @@ ID=553
 你已经离开队伍， 正在传送回城镇.\n(还剩 {0} 秒)
 
 ID=554
-你确定想让对方当 {0} 团队的队长？
+你确定想让对方当 {0} 的队长？
 
 ID=555
-你确定你要逐 {0} 出队伍吗？
+你确定你要把 {0} 踢出队伍吗？
 
 ID=556
 你确定要退出该队伍吗？
@@ -980,7 +980,7 @@ ID=560
 想提升 {0} 的技能等级吗？\n(花费: {1} SP)
 
 ID=561
-剩余 SP
+所剩 SP
 
 ID=562
 {0} 点
@@ -989,40 +989,40 @@ ID=563
 你先学习 {0} 技能吗？\n(消耗: {1} SP)
 
 ID=564
-你确定延伸该技能的分支吗？
+你确定扩张该技能的分支吗？
 
 ID=565
-你确定要激活这技能吗？
+要初始化技能吗？
 
 ID=566
 卡片数量:
 
 ID=567
-剩余时间
+所剩时间
 
 ID=568
-{0}时 {1}分
+{0}小时 {1}分
 
 ID=569
 召唤
 
 ID=570
-存放的 卡片 将会被放置专用槽位
+存放的卡片将会被放置到专用槽位
 
 ID=571
-你是否使用 {0}？\n(A.R 卡无法交易和拍卖)
+你是否使用 {0}？\n(使用物品获得到的A.R 卡无法交易和拍卖)
 
 ID=572
 所需等级
 
 ID=573
-消耗 SP:
+必要SP:
 
 ID=574
-剩余 SP 增加:
+下回获得SP:
 
 ID=581
-接收
+获得物品
 
 ID=582
 使用
@@ -1037,7 +1037,7 @@ ID=592
 当前 SG
 
 ID=593
-当前 体力
+当前体力
 
 ID=594
 强度
@@ -1049,7 +1049,7 @@ ID=596
 智力
 
 ID=597
-平衡
+均衡
 
 ID=598
 HP
@@ -1061,13 +1061,13 @@ ID=600
 HP
 
 ID=601
-HP 回复
+HP回复
 
 ID=602
 SG
 
 ID=603
-SG 回复
+SG回复
 
 ID=604
 体力
@@ -1082,10 +1082,10 @@ ID=607
 灵魂能量
 
 ID=608
-移动速度
+移动速度(%)
 
 ID=609
-攻击速度
+攻击速度(%)
 
 ID=610
 最小攻击力
@@ -1103,34 +1103,34 @@ ID=614
 防御力
 
 ID=615
-魔法抵抗
+魔法防御力
 
 ID=616
 命中度
 
 ID=617
-魔法命中度
+魔法攻击命中度(%)
 
 ID=618
-回避攻击
+攻击失败时伤害(%)
 
 ID=619
-暴击率
+暴击率(%)
 
 ID=620
-魔法爆率
+魔法爆率(%)
 
 ID=621
-暴击抵抗
+暴击抵抗(%)
 
 ID=622
-魔法爆击减伤
+魔法爆击减伤(%)
 
 ID=623
-暴击率
+暴击率(%)
 
 ID=624
-魔法爆率
+魔法爆率(%)
 
 ID=625
 暴击伤害
@@ -1139,25 +1139,25 @@ ID=626
 魔法暴击
 
 ID=627
-减伤率
+减伤率(%)
 
 ID=628
-减伤
+减少伤害(%)
 
 ID=629
-魔法减少伤害
+魔法减少伤害(%)
 
 ID=630
-异常情况长时抗性
+持续异常状态抗性(%)
 
 ID=631
-活性异常情况抗性
+操作状态异常抗性(%)
 
 ID=632
-特殊情况抗性
+特殊状态异常抗性(%)
 
 ID=640
-显示资讯
+显示情报
 
 ID=641
 成为好友
@@ -1184,16 +1184,16 @@ ID=651
 等待所有队友同意方可进入.\n(成员在不同的城镇，成员已登出会自动取消.)
 
 ID=652
-该队伍的队长请求加入副本. 你愿意入场吗？\n 位置: [{0}]\n章节: [{1}]\n难易度: [{2}]\n({3}秒后自动取消)
+队长请求加入副本. 你愿意入场吗？\n 入场区域: [{0}]\n章节: [{1}]\n难易度: [{2}]\n(所剩时间：{3}秒)
 
 ID=653
-{0} 取消进入副本请求.
+队伍中的 {0} 拒绝了副本入场请求.
 
 ID=661
 你将会移动到另一个区域.\n({0} 秒后自动进入)
 
 ID=665
-你已经战斗无力化. 你想复活吗？
+你已无力战斗，想复活吗？
 
 ID=669
 你被 [{0}] 所杀.
@@ -1202,10 +1202,10 @@ ID=670
 你通过消耗了灵魂能源而成功复活
 
 ID=671
-你成功通过吸收附近的灵魂能量而复活
+你成功通过吸收附近的灵魂能量而成功复活。
 
 ID=672
-你已经无法行动. 将传送到 [{0}].
+你已经无法行动.。将传送到 [{0}]。
 
 ID=673
 [{0}] 被消耗.
@@ -1220,16 +1220,16 @@ ID=676
 获得: {0} EXP
 
 ID=677
-获得: {0} EXP [X{1} 追加]
+获得: {0} EXP [X{1} 倍]
 
 ID=678
-被 [{0}] 所打倒.
+被 [{0}] 的攻击所打倒.
 
 ID=679
-{1} 被 [{0}] 的攻击打倒.
+{1} 被 [{0}] 的攻击所打倒。
 
 ID=680
-当前在战斗. 在 {0} 秒后重试.
+当前正在战斗中. 在 {0} 秒后重试.
 
 ID=681
 (网吧 {0} EXP)
@@ -1265,7 +1265,7 @@ ID=707
 时装 (待定)
 
 ID=708
-地区
+地区移动
 
 ID=709
 公会管理者 (待定)
@@ -1274,7 +1274,7 @@ ID=710
 公会管理者 (待定)
 
 ID=711
-交流
+通信(未定)
 
 ID=712
 NPC 功能
@@ -1286,7 +1286,7 @@ ID=714
 交谈
 
 ID=715
-任务细节
+任务对话
 
 ID=716
 主页
@@ -1313,7 +1313,7 @@ ID=723
 管理接口
 
 ID=724
-接受任务 [空格]
+接受 [空格]
 
 ID=725
 拒绝 [Back]
@@ -1331,7 +1331,7 @@ ID=729
 P点回收
 
 ID=730
-武器洗属性
+武器改造
 
 ID=731
 第{0}名
@@ -1340,10 +1340,10 @@ ID=732
 混乱突袭， 又被誉为 "异常空白"， 是一个高难度而且组队限定的副本. 请在开战之前准备好装备.
 
 ID=733
-"金色城堡" 是一个仅限4人队伍的副本，突破重围，生存下去
+最上级的 "金色城堡" 是一个仅限4人队伍的副本，突破重围，生存下去
 
 ID=734
-模拟战斗系统 “Steel Grave” 一天只能挑战3次哦. 
+极限战斗模拟系统 [Steel Grave] ，突破自己的界限来挑战吧。1天只能挑战3次哦.
 
 ID=735
 一般
@@ -1358,28 +1358,28 @@ ID=738
 仅限组队
 
 ID=739
-队伍限定 [4 人]
+队伍限定 [4人]
 
 ID=740
 消耗疲劳
 
 ID=741
-需要入场卷.
+需要专用的入场卷。
 
 ID=742
 推荐等级: {0}
 
 ID=743
-推荐队伍成员数: {0}
+推荐人数: {0}
 
 ID=744
 入场次数
 
 ID=745
-仅能自己战斗
+单独一人
 
 ID=746
-仅能自己战斗
+1 人
 
 ID=747
 2 人
@@ -1394,16 +1394,16 @@ ID=750
 等级要求
 
 ID=751
-装备物品
+装备中的物品
 
 ID=752
 {0}[+{1}]
 
 ID=753
-复活回数制限(个人)
+复活次数限制(个人)
 
 ID=755
-<font color='#0099FF'>可拆卸</font>
+<font color='#0099FF'>分解可能</font>
 
 ID=756
 <font color='#0099FF'>可强化</font>
@@ -1412,37 +1412,37 @@ ID=757
 <font color='#0099FF'>可进化</font>
 
 ID=758
-<font color='#FF0000'>绑定装备</font>
+<font color='#FF0000'>装备时归属</font>
 
 ID=759
-<font color='#FF0000'>获得即绑定</font>
+<font color='#FF0000'>获得时归属</font>
 
 ID=760
-<font color='#FF0000'>已绑定</font>
+<font color='#FF0000'>归属物品</font>
 
 ID=761
 <font color='#FF0000'>不可交易</font>
 
 ID=762
-<font color='#FF0000'>不可交易(情况)</font>
+<font color='#FF0000'>不可交易(归属状态)</font>
 
 ID=763
-<font color='#FF0000'>不可卖出</font>
+<font color='#FF0000'>不可出售</font>
 
 ID=764
 <font color='#FF0000'>不可破坏</font>
 
 ID=765
-<font color='#FF0000'>无法转移</font>
+<font color='#FF0000'>无法移动</font>
 
 ID=766
-卖出金额
+贩卖金额
 
 ID=767
 冷却:
 
 ID=768
- 持续时间:
+持续时间:
 
 ID=769
 秒
@@ -1451,34 +1451,34 @@ ID=770
 分
 
 ID=771
-小时
+时
 
 ID=772
-天
+日
 
 ID=773
 所需等级
 
 ID=774
-耐久
+耐久度
 
 ID=775
-展示物品\n行为受限
+表示\n不可
 
 ID=776
-装备\n行为受限
+装备\n不可
 
 ID=777
-工匠
+制作者
 
 ID=778
-接口信息
+接口情报
 
 ID=779
 当附加接口物品已被使用，该接口将会生效
 
 ID=780
-有效于:
+适用对象:
 
 ID=781
 自己
@@ -1487,7 +1487,7 @@ ID=782
 队伍成员
 
 ID=783
-军团
+敌人
 
 ID=784
 最大化
@@ -1496,7 +1496,7 @@ ID=785
 使用技能后充能
 
 ID=786
-使用 ON/OFF
+使用时 ON/OFF
 
 ID=787
 鼠标锁定目标中
@@ -1505,16 +1505,16 @@ ID=788
 使用技能后充能
 
 ID=789
-对准敌军
+瞄准敌军
 
 ID=790
 左键连续攻击
 
 ID=791
-按住左键
+长按左键
 
 ID=792
-左右键多方面攻击
+左右键连击
 
 ID=793
 推荐技能连招
@@ -1523,25 +1523,25 @@ ID=794
 使用技能时会发动效果
 
 ID=795
-效果被动.
+习得时，自动效果可用.
 
 ID=796
-随机生成属性: {0}
+随机生成属性: {0} OP
 
 ID=797
-激活狙击模式
+转换狙击模式
 
 ID=798
-(网吧入场还剩: {0})
+(网吧入场次数还剩: {0})
 
 ID=799
-(网吧福利: {0})
+(网吧入场福利: {0})
 
 ID=800
 装备比较
 
 ID=801
-资讯比较
+最终数值比较
 
 ID=802
 属性比较
@@ -1559,7 +1559,7 @@ ID=806
 Exp
 
 ID=807
-胸针详情
+胸针情报
 
 ID=808
 戴在
@@ -1571,19 +1571,19 @@ ID=811
 附加接口物品
 
 ID=812
-附加
+可附加接口
 
 ID=813
 你没有相应的费用或物品\n 满足接入物品.
 
 ID=814
-花费
+手续费
 
 ID=815
 插件已附加
 
 ID=816
-释放接口过后， 新的接口道具将会获得.
+释放接口过后，新的接口道具将会获得.
 
 ID=817
 您可以在取消附加应用的接口后再附加新的接口项.
@@ -1598,16 +1598,16 @@ ID=820
 接口管理
 
 ID=821
-你能添加新的插件 in 接口.\n首先释放插件.
+解除被封锁的插件后可以安装新的物品.
 
 ID=822
-你没有相应的物品 \n或 费用来拆解该物品.
+解除物品需要的物品或手续不足以拆解该物品.
 
 ID=823
-缺少添加新的接口
+追加新的接口需要的物品不足
 
 ID=824
-插件 成功发布.
+插件解除.
 
 ID=825
 额外接口
@@ -1646,7 +1646,7 @@ ID=836
 身体
 
 ID=837
-腿部
+腿
 
 ID=838
 脖子
@@ -1691,7 +1691,7 @@ ID=868
 眼睛
 
 ID=869
-口
+嘴巴
 
 ID=870
 上衣
@@ -1700,7 +1700,7 @@ ID=871
 手
 
 ID=872
-底部
+下衣
 
 ID=873
 底部
@@ -1712,13 +1712,13 @@ ID=875
 裤子/袜子
 
 ID=876
-后背
+背饰
 
 ID=877
 内衣
 
 ID=881
-拆解 {0}.\n 获得: {1} x{2}\n 获得以太 x{3}
+拆解 {0} 成功.\n 获得: {1} x{2}；获得以太 x{3}
 
 ID=882
 拆解失败.
@@ -1730,7 +1730,7 @@ ID=884
 你是否要拆解这些物品？
 
 ID=885
-选择这物品是 <font color='#A566FF'>稀有度高</font>.\n如果你点击确定，被选的物品将会被拆解而且无法还原. \n你确定要拆解他们？
+选择的物品含有 <font color='#A566FF'>稀有度高</font> 的等级.\n如果你点击确定，被选的物品将会被拆解并且无法还原. \n你确定要拆解他们？
 
 ID=886
 你没有足够的{0}，因此你无法拆解.
@@ -1742,13 +1742,13 @@ ID=888
 MAX
 
 ID=891
-该物品已装备.\n确定依然要装备吗？
+装备之后，物品将会被变成绑定状态.\n确定依然要装备吗？
 
 ID=900
 资讯
 
 ID=901
-类型
+角色
 
 ID=902
 Lv
@@ -1757,10 +1757,10 @@ ID=903
 称号
 
 ID=904
-房间设置
+设定
 
 ID=905
-基础信息
+基本信息
 
 ID=906
 输出性能
@@ -1769,10 +1769,10 @@ ID=907
 防御性能
 
 ID=908
-称号
+现在的称号
 
 ID=909
-熟练度
+适用能力值
 
 ID=910
 开头
@@ -1781,7 +1781,7 @@ ID=911
 结尾
 
 ID=912
-展示
+表示
 
 ID=913
 物理攻击受限于防御力
@@ -1799,37 +1799,37 @@ ID=917
 HP 影响物理防御力
 
 ID=918
-受影响的机会
+受影响的几率
 
 ID=919
 每秒恢复1体力
 
 ID=920
-行动速度加快
+玩家移动速度倍率
 
 ID=921
-攻击速度加快
+玩家的攻击速度倍率
 
 ID=922
-对敌方产生伤害
+对敌方的物理攻击力
 
 ID=923
-减少弱攻击率
+降低物理攻击失败的机率
 
 ID=924
-收到物理攻击时， 致命打击伤害增加
+物理攻击时， 暴击效果发生的机率
 
 ID=925
-攻击时，致命伤害增加
+物理攻击时，暴击发生时所追加的伤害
 
 ID=926
-魔法伤害敌人
+对敌人的魔法攻击力
 
 ID=927
-Reduce Chance of Weak 魔法Attacks
+降低魔法攻击失败的机率
 
 ID=928
-On 魔法attack， 机率爆率增加
+魔法攻击时， 发生暴击的机率
 
 ID=929
 受到魔法攻击时， 魔法暴击伤害增加
@@ -1844,7 +1844,7 @@ ID=932
 物理致命打击减伤
 
 ID=933
-魔法暴击 Resistance
+魔法暴击反射
 
 ID=934
 持续异常状态的影响：烧伤，中毒，电击，出血; 减少受影响机率受到影响
@@ -1865,22 +1865,22 @@ ID=939
 可进化
 
 ID=940
-可拆卸
+可分解
 
 ID=941
-装备即锁定
+装备时归属
 
 ID=942
-获得即锁定
+获得时归属
 
 ID=943
-锁定物品
+归属物品
 
 ID=946
-<font color='#FF0000'>无法贩卖</font>
+<font color='#FF0000'>不可出售</font>
 
 ID=947
-<font color='#FF0000'>无法破坏</font>
+<font color='#FF0000'>无法删除</font>
 
 ID=951
 强化
@@ -1889,52 +1889,52 @@ ID=952
 交换
 
 ID=953
-选择一个装备或 卡片 进行强化.
+选择一件装备或卡片进行强化.
 
 ID=954
 最大强化上限: +{0}
 
 ID=955
-强化
+强化阶段
 
 ID=956
-强化物品
+强化素材
 
 ID=957
 {1}/{2}
 
 ID=958
-强化目标
+强化对象
 
 ID=959
-这个物品无法强化
+这物品无法强化。
 
 ID=960
-这个无法强化任何东西
+这物品无法继续强化。
 
 ID=961
-因资金或材料不足无法强化.
+因手续费或材料不足无法强化.
 
 ID=962
-防止物品破坏
+防止物品破坏时使用
 
 ID=963
-金币小号
+必要金币
 
 ID=964
-所需BP
+必要BP
 
 ID=965
 强化这个物品可能会导致破坏
 
 ID=966
-保护物品.\n可用于 +4 物品.
+防止物品被破坏.\n可用于 +4 以上物品.
 
 ID=967
 强化
 
 ID=968
-选择要替换的物品.
+选择要交换的物品.
 
 ID=969
 数量:
@@ -1946,25 +1946,25 @@ ID=971
 ▼
 
 ID=972
-最大
+Max
 
 ID=973
 交换
 
 ID=974
-获得熟练:
+获得数：
 
 ID=975
-使用
+消费量
 
 ID=976
-该装备成功强化.
+物品强化成功.
 
 ID=977
-这个装备强化失败. 
+物品强化失败.
 
 ID=978
-这装备无法强化.\n它已经拨快了.
+这装备无法强化.它已经被破坏了.\n由于强化失败了，该物品变成了破坏状态。
 
 ID=979
 这装备强化失败.\n使用 Q.B.D [强化保护]， 可以让装备免受破坏.
@@ -1976,37 +1976,37 @@ ID=981
 进化
 
 ID=982
-该装备被保护了.
+该物品被保护了.
 
 ID=983
 物品交换
 
 ID=984
-输入你要交换的熟练.
+输入你要交换的数量.
 
 ID=985
 交换物品
 
 ID=986
-所需物品
+获得物品
 
 ID=987
 选择一个物品
 
 ID=988
-交换
+交换比例
 
 ID=989
-无法进化
+物品进化
 
 ID=990
-成功进化物品时，可提高增强的阶段
+成功进化物品时，强化阶段会被重置。
 
 ID=991
 进化
 
 ID=992
-这装备无法强化.
+装备中的物品无法强化.
 
 ID=993
 无法强化: [{0}] 失败
@@ -2015,22 +2015,22 @@ ID=994
 你可以强化该道具.\n也许会导致武器破坏.
 
 ID=995
-你可以强化该物品。\n也许会导致武器破坏.\n抗破坏道具无法使用.
+你可以强化该物品。\n也许会导致武器破坏.\n防止破坏物品无法使用.
 
 ID=996
-无法强化: [{0}] 失败
+无法进化: [{0}] 不足
 
 ID=997
-强化
+强化次数
 
 ID=998
-最小 {0}
+最大 {0}
 
 ID=999
-花费:
+强化费用
 
 ID=1000
-{0}{1} 到 {2}{3}; 确定要转换吗？
+{0}{1}个 到 {2}{3}个; 确定要更改吗？
 
 ID=1001
 自然短
@@ -2102,10 +2102,10 @@ ID=1043
 Center Bind
 
 ID=1044
-Hair 4
+发型 4
 
 ID=1045
-Hair 5
+发型 5
 
 ID=1051
 Hair 1
@@ -2117,19 +2117,19 @@ ID=1053
 Hair 3
 
 ID=1054
-Hair 4
+发型 4
 
 ID=1055
-Hair 5
+发型 5
 
 ID=1101
 选择外观
 
 ID=1102
-名字
+角色名
 
 ID=1103
-确认
+重复确认
 
 ID=1104
 确认角色
@@ -2144,13 +2144,13 @@ ID=1107
 声音
 
 ID=1108
-行动
+动作
 
 ID=1109
 外观
 
 ID=1110
-发色
+发型・颜色
 
 ID=1111
 肤色
@@ -2159,13 +2159,13 @@ ID=1112
 瞳孔颜色
 
 ID=1113
-通用时装
+基本时装
 
 ID=1114
 试听
 
 ID=1115
-奔跑
+执行
 
 ID=1116
 角色选择
@@ -2246,22 +2246,22 @@ ID=1314
 BP
 
 ID=1315
-D.S Point
+D.S 分
 
 ID=1316
 退出关卡
 
 ID=1317
-通过
+重置
 
 ID=1318
 {0} 关
 
 ID=1319
-回城
+回到城镇
 
 ID=1320
-按下按钮可回城.
+按下按钮后，可以回到城镇.
 
 ID=1331
 战争序幕
@@ -2282,7 +2282,7 @@ ID=1336
 Rapid Flames入侵
 
 ID=1337
-抵抗Rapid Flames
+Rapid Flames的逆袭
 
 ID=1338
 NED Company 空中袭击
@@ -2354,22 +2354,22 @@ ID=1450
 {0} 成功强化 {1}+{2}.
 
 ID=1451
-{0} 强化失败 {1}+{2} 而且武器被破坏了.
+{0} 强化失败 {1}+{2} ，武器也被破坏了.
 
 ID=1452
-{0} 已成功制作 {1}.
+{0} 制作了 {1}.
 
 ID=1453
-{0} 已成功制作 {1}.
+{0} 制作了 {1}.
 
 ID=2001
-选择一个设定名字.
+选择一个称号.
 
 ID=2002
 无
 
 ID=2003
-成员:
+编号:
 
 ID=2004
 No.
@@ -2399,25 +2399,25 @@ ID=2107
 离线玩家({0})
 
 ID=2108
-名字
+角色名
 
 ID=2109
 搜索
 
 ID=2110
-好友广告
+推荐好友
 
 ID=2111
 成为好友
 
 ID=2112
-这个列表每10分钟更新.
+好友推荐列表每10分钟更新.
 
 ID=2113
 解除屏蔽
 
 ID=2114
-搜索
+好友搜索
 
 ID=2115
 队伍邀请
@@ -2438,7 +2438,7 @@ ID=2120
 屏蔽
 
 ID=2121
-拒绝
+取消
 
 ID=2122
 Lv{0}
@@ -2450,7 +2450,7 @@ ID=2124
 好友的请求\n你有一份来自{0}的好友请求\n你肯接受这请求吗？
 
 ID=2125
-{0} 已经成为跟你好友.
+{0} 已经跟你成为好友啦。
 
 ID=2126
 你想从你的好友列表中删除{0}？\n要不考虑一下？
@@ -2519,10 +2519,10 @@ ID=2216
 发件者
 
 ID=2217
-日期
+收件日期
 
 ID=2218
-送达
+送达时间
 
 ID=2219
 {0}-{1}-{2} {3}时 {4}分
@@ -2531,13 +2531,13 @@ ID=2220
 接收时间
 
 ID=2221
-{0}时 {1}分
+{0}小时 {1}分
 
 ID=2222
-消耗金币
+请求金币
 
 ID=2223
-邮件剩余时间
+邮件保管时间
 
 ID=2224
 {0}天
@@ -2549,13 +2549,13 @@ ID=2226
 未读
 
 ID=2227
-剩余时间
+剩余保管时间
 
 ID=2228
 {0}-{1}-{2} {3}时 {4}分
 
 ID=2229
-管理团队
+运营团队
 
 ID=2230
 [回复]
@@ -2603,7 +2603,7 @@ ID=2261
 确定要删除所选邮件？
 
 ID=2262
-这些邮件将不会收到.
+所选的邮件没有收到邮件的附件。
 
 ID=2263
 接收该附件能获得{0}金币.\n你是否接受该附件？
@@ -2657,7 +2657,7 @@ ID=2281
 是否接受所有的附件在个人邮箱？\n(如果你的背包不够空间将无法收取)
 
 ID=2282
-你是否要删除所选邮件？\n(未读邮件将无法删除)
+你是否要删除所选邮件？\n(未读邮件无法删除)
 
 ID=2283
 {0}封邮件已删除.
@@ -2666,16 +2666,16 @@ ID=2500
 社交
 
 ID=2501
-在线
+在线中
 
 ID=2502
 离线
 
 ID=2503
-还剩 {0} 天
+还剩{0}天
 
 ID=2504
-还剩 {0}小时
+还剩{0}小时
 
 ID=2505
 CH{0}
@@ -2684,13 +2684,13 @@ ID=2506
 Lv{0}
 
 ID=2520
-寻找好友
+好友募集中
 
 ID=2521
-上榜
+募集登记
 
 ID=2522
-类别
+角色
 
 ID=2523
 Lv
@@ -2699,34 +2699,34 @@ ID=2524
 搜索
 
 ID=2525
-推荐好友
+今天的好友推荐
 
 ID=2526
-取消上榜
+解除募集
 
 ID=2540
 好友
 
 ID=2541
-搜索
+好友搜索
 
 ID=2542
-等待({0})
+好友邀请待机({0})
 
 ID=2543
-在线({0})
+在线玩家({0})
 
 ID=2544
-离线({0})
+离线玩家({0})
 
 ID=2545
-搜索
+好友搜索
 
 ID=2546
-名字
+角色名
 
 ID=2547
-搜索
+好友搜索
 
 ID=2548
 成为好友
@@ -2759,10 +2759,10 @@ ID=3001
 [{0}]的物品
 
 ID=3002
-登记
+登记中
 
 ID=3003
-完成登记
+登记完成
 
 ID=3004
 确认登记
@@ -2771,7 +2771,7 @@ ID=3005
 修改登记
 
 ID=3006
-成功交易
+完成交易
 
 ID=3007
 取消交易
@@ -2780,10 +2780,10 @@ ID=3008
 登记你的物品和金币后， 请点击 “登记成功”.
 
 ID=3009
-检查好相应内容再点 交易成功
+检查好相应内容后，点击「交易成功」方可完成交易。
 
 ID=3010
-等待其他交易者的回复.\n(如果您不想交易，请点击“取消交易”按钮。)
+等待对方交易成功的回复.\n(如果您不想交易，请点击「取消交易」按钮。)
 
 ID=3011
 交易请求送至 {0}. 正在等待对方的同意.\n(还剩{1}秒)
@@ -2804,7 +2804,7 @@ ID=3016
 与{0}交易请求的被拒.
 
 ID=3017
-来自 {0}交易请求被拒绝.
+来自{0}交易请求被拒绝.
 
 ID=3018
 {0} 取消了交易请求.
@@ -2813,10 +2813,10 @@ ID=3019
 {0} 拒绝了交易请求.
 
 ID=3020
-因为对方毫无反应，交易请求无效.
+因为等待时间已结束，交易请求无效.
 
 ID=3021
-NPC交易不可用。
+NPC在交易的时候不可用。
 
 ID=3022
 在交易的时候无法更换武器.
@@ -2858,10 +2858,10 @@ ID=3034
 你不能无法跟这玩家交易.
 
 ID=3035
-更高
+更改
 
 ID=3051
-[{0}]的 个人商店
+[{0}]的个人商店
 
 ID=3052
 请输入个人商店名.
@@ -2879,7 +2879,7 @@ ID=3056
 中止
 
 ID=3057
-改変价格
+改变价格
 
 ID=3058
 终止登记
@@ -2930,7 +2930,7 @@ ID=3073
 商店名
 
 ID=3074
-出售种
+出售中
 
 ID=3075
 贩卖准备中
@@ -2972,7 +2972,7 @@ ID=3110
 {0} 的 {1}位达成， 将会获得以下奖励.
 
 ID=3111
-你将接受到 {0} 的物品.
+使用 {0}，将获得以下的物品.
 
 ID=3112
 EXP
@@ -3044,13 +3044,13 @@ ID=4011
 成就 "{0}" 达成.
 
 ID=4012
-通过率上升
+占有率达成
 
 ID=4013
-通关等级 {1} 成功: {0} 
+{0} {1}阶段占有率
 
 ID=4014
-纪念成功
+回忆获得
 
 ID=4015
 {0} 获得
@@ -3059,16 +3059,16 @@ ID=4016
 收到好友请求
 
 ID=4017
-你收到了 {0} 个好友请求 
+你收到了 {0} 个好友请求
 
 ID=4018
-通关等级上升
+占有率达成
 
 ID=4019
-{0} 达成率: {1}%
+达成 {0} 占有率: {1}%
 
 ID=4020
-称号达成
+获得称号
 
 ID=4021
 你获得了称号 {0}.
@@ -3080,10 +3080,10 @@ ID=4023
 有{0}个作物可以收获
 
 ID=5001
-New
+未習得
 
 ID=5002
-冷却时间:
+冷却:
 
 ID=5003
 秒
@@ -3122,7 +3122,7 @@ ID=5050
 [觉醒]\n绝顶模式已解锁
 
 ID=5051
-[觉醒]\n觉醒模式已解锁
+[觉醒]\n 侵蚀 已解锁
 
 ID=5052
 SV {0}% 消耗
@@ -3131,19 +3131,19 @@ ID=5100
 简介视频
 
 ID=5101
-制作名单
+制作人员
 
 ID=5102
-退出游戏
+关闭游戏
 
 ID=5103
 更改服务器
 
 ID=5104
-系统设定
+系统设置
 
 ID=5200
-登录
+账户登录
 
 ID=5201
 ID
@@ -3200,7 +3200,7 @@ ID=5310
 新建角色
 
 ID=5311
-删除角色
+删除游戏
 
 ID=5312
 删除后，角色名字在7天内无法使用。\n您确定要删除此角色吗？
@@ -3236,10 +3236,10 @@ ID=5331
 卡特
 
 ID=5400
-人物选择
+角色选择
 
 ID=5401
-下一个
+前进
 
 ID=5402
 返回
@@ -3305,7 +3305,7 @@ ID=5474
 以悲伤为媒介发挥异能力的少女。有点天真浪漫与我行我素的性格，但她演奏出来的旋律却令人哀愁
 
 ID=5475
-以愤怒为媒介发挥异能力的少女。在这混乱的世界中发泄愤怒，但回来的只是她的声音与空虚感
+以愤怒为媒介发挥异能力的少女。在这混乱的世界中发泄愤怒，但回声却是她的声音与空虚感
 
 ID=5500
 预览
@@ -3332,7 +3332,7 @@ ID=5507
 选择外观
 
 ID=5508
-发色
+发型・颜色
 
 ID=5509
 瞳孔颜色
@@ -3353,7 +3353,7 @@ ID=5514
 返回
 
 ID=5515
-名字
+角色名
 
 ID=5516
 2-12个字符.
@@ -3362,7 +3362,7 @@ ID=5517
 重置
 
 ID=5518
-随机外观
+随机样式
 
 ID=5519
 角色风格设定
@@ -3392,7 +3392,7 @@ ID=5807
 <font color='#FFFFFF' size='30'>提示: </font>你可以使用邮件发送 <font color='#00ff9c'>HEMS</font>.将会收你一点点费用.\n道具和金币同样能发送接收.
 
 ID=5808
-<font color='#FFFFFF' size='30'>提示: </font>你可以在额外物品放置在 <font color='#00D8FF'>仓库</font> by 对话与<font color='#00ff9c'>Ordon</font>.
+<font color='#FFFFFF' size='30'>提示: </font>你可以在额外物品放置在 <font color='#00D8FF'>仓库</font> 与<font color='#00ff9c'>欧顿</font>对话.
 
 ID=5809
 <font color='#FFFFFF' size='30'>提示: </font>你可以检查 <font color='#00ff9c'>小地图</font> 去寻找 <font color='#00D8FF'>NPC</font>的位置或者 <font color='#00D8FF'>副本 入口</font>.
@@ -3419,7 +3419,7 @@ ID=5816
 <font color='#FFFFFF' size='30'>提示: </font>该游戏的设定可以按 <font color='#00ff9c'>[ESC]</font>键并且按<font color='#00D8FF'>[系统设定]</font> 按钮.
 
 ID=5817
-<font color='#FFFFFF' size='30'>提示: </font>打开社交列表按 <font color='#00ff9c'>[O]</font>. 你可以管理你的 <font color='#00D8FF'>[好友列表]</font> there.
+<font color='#FFFFFF' size='30'>提示: </font>打开社交列表按 <font color='#00ff9c'>[O]</font>. 你可以管理你的 <font color='#00D8FF'>[好友列表]</font>.
 
 ID=5818
 <font color='#FFFFFF' size='30'>提示: </font><font color='#00D8FF'>[技能]</font> 和 <font color='#00D8FF'>[A.R 卡片]</font> 在技能窗口中放置到快捷槽，按 <font color='#00ff9c'>[K]</font>.
@@ -3443,7 +3443,7 @@ ID=5824
 <font color='#FFFFFF' size='30'>提示: </font>你可以自由地更改 <font color='#00D8FF'>称号</font> 在你名字面前，利用 <font color='#00D8FF'>资讯窗口</font> <font color='#00ff9c'>[P]</font>.
 
 ID=5825
-<font color='#FFFFFF' size='30'>提示: </font>进入副本时， 使用 <font color='#00D8FF'>[自动匹配]</font> 可以自动寻找队伍
+<font color='#FFFFFF' size='30'>提示: </font>进入副本时，使用 <font color='#00D8FF'>[自动匹配]</font> 可以自动寻找队伍
 
 ID=5826
 <font color='#FFFFFF' size='30'>提示: </font>你可以查看你的资讯 <font color='#00D8FF'>资讯</font> 窗口<font color='#00ff9c'>[P]</font>.
@@ -3518,7 +3518,7 @@ ID=5849
 <font color='#FFFFFF' size='30'>提示: </font>当在副本， 你可能有机会会遇到 <font color='#00D8FF'>小浣熊</font>.\n打倒他可能会获得稀有道具.
 
 ID=5850
-<font color='#FFFFFF' size='30'>提示: </font>当你游戏通过次数越多， 你可以收集不同的 <font color='#00D8FF'>道具</font> 让你変得更强.
+<font color='#FFFFFF' size='30'>提示: </font>当你游戏通过次数越多， 你可以收集不同的 <font color='#00D8FF'>道具</font> 让你变得更强.
 
 ID=5851
 <font color='#FFFFFF' size='30'>提示: </font>你可以插入 <font color='#00D8FF'>插件</font> 到你的武器插口.
@@ -3557,67 +3557,67 @@ ID=5862
 <font color='#FFFFFF' size='30'>提示: </font> 进入 <font color='#00D8FF'>高难</font> 模式副本 具有更强的敌人和更好的奖励。
 
 ID=5863
-<font color='#FFFFFF' size='30'>提示: </font>基本装备可以在每个城市中购买 <font color='#00ff9c'>武器商店</font>.
+<font color='#FFFFFF' size='30'>提示: </font>基础装备可以从城镇的<font color='#00ff9c'>武器店购买</font>.
 
 ID=5864
-<font color='#FFFFFF' size='30'>提示: </font>基本消耗品可以在每个城市中购买  <font color='#00ff9c'>杂货铺</font>.
+<font color='#FFFFFF' size='30'>提示: </font>基础的消耗品可以在每个城市的<font color='#00ff9c'>药店购买</font>.
 
 ID=5865
-<font color='#FFFFFF' size='30'>提示: </font>在城镇各类的武器商店 <font color='#00D8FF'>[修理]</font>你的装备，或 <font color='#00D8FF'>[拆解]</font> 他们.
+<font color='#FFFFFF' size='30'>提示: </font>城镇中的不同商店 <font color='#00D8FF'>[修理]</font> 你的武器或 <font color='#00D8FF'>[分解]</font> 它们.
 
 ID=5866
-<font color='#FFFFFF' size='30'>提示: </font>使用NPC商店的时候， <font color='#00D8FF'>[好感度等级]</font> 将会增加.\n特殊的优惠跟奖励取决于你的好感度等级.
+<font color='#FFFFFF' size='30'>提示: </font>当使用NPC的商店时， <font color='#00D8FF'>[好感度等级]</font> 将会增加.\n依据好感度等级会给你特殊的礼品.
 
 ID=5867
-<font color='#FFFFFF' size='30'>提示: </font>对话与<font color='#00ff9c'>[Trisha]</font>， 你可以 <font color='#00D8FF'>[交换]</font> 或 <font color='#00D8FF'>[强化]</font> 材料/武器.
+<font color='#FFFFFF' size='30'>提示: </font>与 <font color='#00ff9c'>[Trisha]</font>交谈， 你可以 <font color='#00D8FF'>[交换]</font> 或 <font color='#00D8FF'>[强化]</font> 素材/装备.
 
 ID=5868
-<font color='#FFFFFF' size='30'>提示: </font>武器 can be <font color='#00D8FF'>强化</font>可以升级， <font color='#00D8FF'>拆解</font>可以获得升级和制作的素材.
+<font color='#FFFFFF' size='30'>提示: </font>武器可以 <font color='#00D8FF'>强化</font> 到升级， <font color='#00D8FF'>分解</font> 可以获得强化其他武器所需要的素材.
 
 ID=5869
-<font color='#FFFFFF' size='30'>提示: </font>对话与<font color='#B2EBF4'>[Zenith]</font>， 你可以 <font color='#00D8FF'>[制作]</font> 武器，防具和时装.
+<font color='#FFFFFF' size='30'>提示: </font>对话与<font color='#B2EBF4'>[Zenith]</font>， 你可以 <font color='#00D8FF'>[制作]</font> 武器，防具还有时装.
 
 ID=5870
-<font color='#FFFFFF' size='30'>提示: </font>你可以用 <font color='#00ff9c'>HEMS</font>发送邮件. 需要支付小小费用.\n物品和金币可以附加上去.
+<font color='#FFFFFF' size='30'>提示: </font>你可以使用邮件发送 <font color='#00ff9c'>HEMS</font>.将会收你一点点费用.\n道具和金币同样能发送接收.
 
 ID=5871
-<font color='#FFFFFF' size='30'>提示: </font>您可以在商店购买额外的商品保存到 <font color='#00D8FF'>仓库</font> 与<font color='#00ff9c'>Ordon</font>对话.
+<font color='#FFFFFF' size='30'>提示: </font>你可以在额外物品放置在 <font color='#00D8FF'>仓库</font> 与<font color='#00ff9c'>欧顿</font>对话.
 
 ID=5872
-<font color='#FFFFFF' size='30'>提示: </font>你可以检查 <font color='#00ff9c'>小地图</font>去寻找<font color='#00D8FF'>NPC</font> 或 <font color='#00D8FF'>副本入口</font>的位置.
+<font color='#FFFFFF' size='30'>提示: </font>你可以检查 <font color='#00ff9c'>小地图</font> 去寻找 <font color='#00D8FF'>NPC</font>的位置或者 <font color='#00D8FF'>副本 入口</font>.
 
 ID=5873
-<font color='#FFFFFF' size='30'>提示: </font>按下热键 <font color='#00ff9c'>[L]</font> 可以看到你的 <font color='#00D8FF'>[成就]</font> 和 <font color='#00D8FF'>[区域通关率]</font>.
+<font color='#FFFFFF' size='30'>提示: </font>点击热键 <font color='#00ff9c'>[L]</font> 可以查看 <font color='#00D8FF'>[成就]</font> 和 <font color='#00D8FF'>[区域通关率]</font>.
 
 ID=5874
 <font color='#FFFFFF' size='30'>提示: </font>基于你的游戏进度， 你可以在 <font color='#00D8FF'>进程信息</font>查看你的进度窗口，按<font color='#00ff9c'>[L]</font> 可以获得奖励.
 
 ID=5875
-<font color='#FFFFFF' size='30'>提示: </font>通过收集素材，并把它们交给 <font color='#00ff9c'>IO</font>， 你可以制作出 <font color='#00D8FF'>A.R 卡片</font>.
+<font color='#FFFFFF' size='30'>提示: </font>通过搜集素材，给 <font color='#00ff9c'>IO</font>， 你可以生成出<font color='#00D8FF'>A.R 卡片</font>.
 
 ID=5876
-<font color='#FFFFFF' size='30'>提示: </font>登记HOLD类型的 <font color='#00D8FF'>A.R 卡片</font> 进入你的插槽将激活你的被动效果.
+<font color='#FFFFFF' size='30'>提示: </font>保持登记类型 <font color='#00D8FF'>A.R 卡片</font> 将收入你的插槽，将允许激活它.
 
 ID=5877
-<font color='#FFFFFF' size='30'>提示: </font>接受务将会出现在你的 <font color='#00D8FF'>任务跟踪</font>. 任务资讯可以按 <font color='#00ff9c'>[J]</font> 查看你的任务详情.
+<font color='#FFFFFF' size='30'>提示: </font>当新的任务生效时 <font color='#fff94a'>[<font size='30'>！</font>]</font> 的标志将显示在NPC头上. 一个 <font color='#fff94a'>[<font size='30'>？</font>]</font>标记将会显示该任务可完成.\n它也能显示在小地图.
 
 ID=5878
-<font color='#FFFFFF' size='30'>提示: </font>接受务将会出现在你的 <font color='#00D8FF'>任务跟踪</font>. 任务资讯可以按 <font color='#00ff9c'>[J]</font> 查看你的任务详情.
+<font color='#FFFFFF' size='30'>提示: </font>接受任务将会显示在 <font color='#00D8FF'>任务 跟踪</font>. 任务信息可以按 <font color='#00ff9c'>[J]</font> 打开任务窗口.
 
 ID=5879
 <font color='#FFFFFF' size='30'>提示: </font>按 <font color='#00ff9c'>[ESC]</font>键然后按 <font color='#00D8FF'>[系统设定]</font>标签可以更改游戏设置.
 
 ID=5880
-<font color='#FFFFFF' size='30'>提示: </font>打开社交窗口按 <font color='#00ff9c'>[O]</font>. 你可以管理你的 <font color='#00D8FF'>[好友列表]</font> .
+<font color='#FFFFFF' size='30'>提示: </font>打开社交列表按 <font color='#00ff9c'>[O]</font>. 你可以管理你的 <font color='#00D8FF'>[好友列表]</font>.
 
 ID=5881
-<font color='#FFFFFF' size='30'>提示: </font><font color='#00D8FF'>[A.R 卡片]</font> 和 <font color='#00D8FF'>[技能s]</font> 可通过按 <font color='#00ff9c'>[K]</font>.\n你可以放置到不同的快捷槽s.
+<font color='#FFFFFF' size='30'>提示: </font><font color='#00D8FF'>[A.R 卡片]</font> 和 <font color='#00D8FF'>[技能s]</font> 可通过按 <font color='#00ff9c'>[K]</font>.\n你可以放置到不同的快捷槽.
 
 ID=5882
-<font color='#FFFFFF' size='30'>提示: </font>利用你的<font color='#00D8FF'>技能表</font> 能在战斗中変得更有效率
+<font color='#FFFFFF' size='30'>提示: </font>利用你的<font color='#00D8FF'>技能表</font> 能在战斗中变得更有效率
 
 ID=5883
-<font color='#FFFFFF' size='30'>提示: </font>提高你的 <font color='#00D8FF'>被动 技能s</font> 可以提升你的面板属性.
+<font color='#FFFFFF' size='30'>提示: </font>提高你的 <font color='#00D8FF'>被动技能s</font> 能扩展你的基础属性
 
 ID=5884
 <font color='#FFFFFF' size='30'>提示: </font>The <font color='#00D8FF'>提醒图标 </font> 在屏幕的左下角区域将通知您需要您注意的各种事件.
@@ -3626,52 +3626,52 @@ ID=5885
 <font color='#FFFFFF' size='30'>提示: </font>你可以自由更换 <font color='#00D8FF'>称号</font> 在你的名字前，使用 <font color='#00D8FF'>资讯</font> 窗口<font color='#00ff9c'>[P]</font>.
 
 ID=5886
-<font color='#FFFFFF' size='30'>提示: </font>你可以从 <font color='#00D8FF'>回忆</font> 窗口<font color='#00ff9c'>按[B]</font> 基于 <font color='#00D8FF'>副本通关率</font>.
+<font color='#FFFFFF' size='30'>提示: </font> <font color='#00D8FF'>通知图标</font> 在你的屏幕左下角通知各种事件，提醒你的注意.
 
 ID=5887
-<font color='#FFFFFF' size='30'>提示: </font>你的<font color='#00D8FF'>城镇通关率</font>基于你的副本通关率计算.
+<font color='#FFFFFF' size='30'>提示: </font>你可以自由地更改 <font color='#00D8FF'>称号</font> 在你名字面前，利用 <font color='#00D8FF'>资讯窗口</font> <font color='#00ff9c'>[P]</font>.
 
 ID=5888
-<font color='#FFFFFF' size='30'>提示: </font>进入副本时， 使用 <font color='#00D8FF'>[自动匹配]</font> 可以自动寻找队伍.
+<font color='#FFFFFF' size='30'>提示: </font>进入副本时，使用 <font color='#00D8FF'>[自动匹配]</font> 可以自动寻找队伍
 
 ID=5889
 <font color='#FFFFFF' size='30'>提示: </font>你可以查看你的个人资讯在 <font color='#00D8FF'>资讯</font>窗口，按 <font color='#00ff9c'>[P]</font>键.
 
 ID=5890
-<font color='#FFFFFF' size='30'>提示: </font>按左侧 <font color='#00ff9c'>[Alt]</font> 键可激活鼠标模式.
+<font color='#FFFFFF' size='30'>提示: </font>点击左边的 <font color='#00ff9c'>[Alt]</font> 可以激活鼠标模式.
 
 ID=5891
-<font color='#FFFFFF' size='30'>提示: </font>满级后， <font color='#00ff9c'>[阶级]</font> 将生效.
+<font color='#FFFFFF' size='30'>提示: </font>满级后， <font color='#00ff9c'>[阶级]</font> 将启用.
 
 ID=5892
-<font color='#FFFFFF' size='30'>提示: </font>当当前频道已满， 请\n<font color='#00D8FF'>更改频道</font> 从你的小地图右上角改変.
+<font color='#FFFFFF' size='30'>提示: </font>当当前频道已满， 请\n<font color='#00D8FF'>更改频道</font> 从你的小地图右上角改变.
 
 ID=5893
-<font color='#FFFFFF' size='30'>提示: </font>BP<font color='#00ff9c'>[BP]</font> 可以从 <font color='#00D8FF'>第六区域</font> 或 <font color='#00D8FF'>Steel Grave</font>获得.
+<font color='#FFFFFF' size='30'>提示: </font>BP <font color='#00ff9c'>[BP]</font> 可以在 <font color='#00D8FF'>第六区域</font> 或 <font color='#00D8FF'>Steel Grave</font>获得.
 
 ID=5894
-<font color='#FFFFFF' size='30'>提示: </font>你可以购买特殊物品在 <font color='#00ff9c'>BP商店</font> in <font color='#00D8FF'>第六区域</font>.
+<font color='#FFFFFF' size='30'>提示: </font>你可以购买特殊物品在 <font color='#00ff9c'>BP商店</font> 在 <font color='#00D8FF'>第六区域</font>.
 
 ID=5895
-<font color='#FFFFFF' size='30'>提示: </font>打开 <font color='#00D8FF'>任务资讯</font> 窗口<font color='#00ff9c'>[J]</font> 点击 <font color='#00ff9c'>[任务]</font> 标签可以查看日常任务.
+<font color='#FFFFFF' size='30'>提示: </font>打开 <font color='#00D8FF'>任务信息</font> 窗口<font color='#00ff9c'>[J]</font> 并点击 <font color='#00ff9c'>[任务]</font> 标签可以查看日常任务.
 
 ID=5896
-<font color='#FFFFFF' size='30'>提示: </font><font color='#00ff9c'>[浣熊币]</font> 获得可以从 <font color='#00D8FF'>日常任务</font>， 能在 <font color='#00D8FF'>空白贩卖机</font>使用.
+<font color='#FFFFFF' size='30'>提示: </font><font color='#00ff9c'>[浣熊币]</font> 获得从 <font color='#00D8FF'>日常任务</font> 可以使用在 <font color='#00D8FF'>空白贩卖机</font>.
 
 ID=5897
-<font color='#FFFFFF' size='30'>提示: </font><font color='#00D8FF'>[秘密任务]</font> 将会在副本中随机出现.
+<font color='#FFFFFF' size='30'>提示: </font><font color='#00D8FF'>[秘密任务]</font> 在副本内随机出现.
 
 ID=5898
-<font color='#FFFFFF' size='30'>提示: </font>随著你在游戏的进程，你将能请来能让你安心的 </font><font color='#00D8FF'>[支援者]</font> 来支援你
+<font color='#FFFFFF' size='30'>提示: </font>通过建立一个来扩展你的社交<font color='#00D8FF'>公会</font> 或加入 <font color='#00D8FF'>公会</font>.
 
 ID=5899
-<font color='#FFFFFF' size='30'>提示: </font>请尝试激活 <font color='#00D8FF'>Orbs</font> 在 <font color='#00ff9c'>灵魂机器人</font> NPC.\n激活石头可以用在你的支援者.
+<font color='#FFFFFF' size='30'>提示: </font>通过建立一个来扩展你的社交<font color='#00D8FF'>公会</font> 或加入 <font color='#00D8FF'>公会</font>.
 
 ID=5900
 <font color='#FFFFFF' size='30'>提示: </font>当使用浴缸或淋浴间，你在穿的内衣能显示出
 
 ID=5901
-<font color='#FFFFFF' size='30'>提示: </font>在商城， 你可以购买 <font color='#00D8FF'>时装]</font> 来改変你角色的外观.
+<font color='#FFFFFF' size='30'>提示: </font>在商城， 你可以购买 <font color='#00D8FF'>时装]</font> 来改变你角色的外观.
 
 ID=5902
 <font color='#FFFFFF' size='30'>提示: </font>如果你的角色到 0 <color='#00D8FF'>[HP]</font>， 这将会让你无法战斗. 请注意!
@@ -3695,7 +3695,7 @@ ID=6013
 Lv
 
 ID=6014
-阶段
+等级
 
 ID=6015
 [好友]
@@ -3722,7 +3722,7 @@ ID=6022
 不能选择好友的 A.R 卡片.
 
 ID=6023
-A.R 卡片 要出租需要额外的 {0} 金币.
+A.R 卡片要出租需要额外的 {0} 金币.
 
 ID=6024
 租期已满.\n(还剩 {0} 秒)
@@ -3857,7 +3857,7 @@ ID=6904
 待会决定
 
 ID=6905
-匹配
+自由匹配
 
 ID=6906
 搜索玩家
@@ -3974,7 +3974,7 @@ ID=7010
 特性选择
 
 ID=7011
-可用
+习得可能
 
 ID=7012
 装着中
@@ -3992,7 +3992,7 @@ ID=7016
 所持卡片数
 
 ID=7017
-张 
+张
 
 ID=7100
 追加伤害 +{0}%
@@ -4028,7 +4028,7 @@ ID=8100
 {0}-{1}
 
 ID=8101
-入场可能.
+可入场
 
 ID=8200
 Lv{0} {1}
@@ -4055,7 +4055,7 @@ ID=8304
 上线時間報酬
 
 ID=8305
-剩余时间
+所剩时间
 
 ID=8306
 {0}:{1}:{2}
@@ -4181,7 +4181,7 @@ ID=8346
 31
 
 ID=8347
-每日登陆报酬
+日常上线签到奖励
 
 ID=8348
 每天登录都可以获得报酬
@@ -4238,7 +4238,7 @@ ID=9202
 Battle 1 通关
 
 ID=9203
-Battle 2 C通关
+Battle 2 通关
 
 ID=9204
 第六区域
@@ -4253,7 +4253,7 @@ ID=9207
 原始势力
 
 ID=9208
-自由比赛
+自由匹配
 
 ID=9209
 战斗裁判
@@ -4379,10 +4379,10 @@ ID=9780
 土匪公路
 
 ID=9781
-钢铁城堡
+ 钢铁城堡
 
 ID=9782
-原始
+原始势力
 
 ID=9981
 诺克小镇捷径
@@ -4475,7 +4475,7 @@ ID=10041
 NED公司一直在其秘密研究设施进行秘密研究.\n它因最近的事件已被关闭.
 
 ID=10042
-Veshi Rapid Flame 阵营\n已经占领了康都之城郊区的高速公路.\n为了回收占领区域， the 
+Veshi Rapid Flame 阵营已经占领了康都之城郊区的高速公路.\n为了回收占领区域，请击败敌人
 
 ID=10043
 NED公司的西部分支\n占领由 Rapid Flame Faction 领导的绿风魔女，被称为\n"毒药".
@@ -4505,10 +4505,10 @@ ID=10063
 在废弃堡垒内有一个秘密研究设施. 一个名为“Dig Monster”的巨型保龄球机正试图删除隐藏在地下的东西 S.F.L 已经启动任务停止这东西。
 
 ID=10064
-党正在追捕Abel和Sion，他们试图逃跑在巨大的方舟船，这是在废墟堡垒秘密修建的地方.
+正在追捕Abel和Sion，他们试图逃跑在巨大的方舟船，这是在废墟堡垒秘密修建的地方.
 
 ID=10081
-爱德华已经把诺科小镇的天空変暗了.\n保护R广场免受人偶军攻击！
+爱德华已经把诺科小镇的天空变暗了.\n保护R广场免受人偶军攻击！
 
 ID=10082
 0
@@ -4556,7 +4556,7 @@ ID=10096
 0
 
 ID=10097
-The remains of Soul Junkhorde and Edgar的 Puppet army has invaded Rocco Town yet again. Amidst the deep fog and flames， we must protect Rocco Town at all costs.
+生き残っていたソウルジャンクの群れとエドガーの人形部隊が再びロコタウンに襲い掛かる。濃い霧と火炎に包まれたロコタウンを最後まで守らなければならない。
 
 ID=10098
 0
@@ -4595,7 +4595,7 @@ ID=10231
 East Cloudream
 
 ID=10232
-West Cloudream 
+West Cloudream
 
 ID=10233
 South Cloudream
@@ -4664,43 +4664,43 @@ ID=10311
 覚醒
 
 ID=10312
-胎動する英雄
+萌芽的英雄
 
 ID=10313
-救出作戦
+救援作战
 
 ID=10314
-暗躍の捕食者
+黑暗的捕食者捕食者
 
 ID=10315
-獣の決意
+獣的決意
 
 ID=10316
-強欲の狼
+強欲的狼
 
 ID=10321
-人形軍団
+人型军团
 
 ID=10322
 阻止作戦
 
 ID=10323
-交差路の封鎖
+交叉路的封鎖
 
 ID=10324
-巨人の出現
+巨人出現
 
 ID=10325
-心亡き者たち
+内心死亡的冷门
 
 ID=10326
-難攻不落
+難攻不下
 
 ID=10327
 決戦
 
 ID=10328
-災厄の巨人
+災厄的巨人
 
 ID=10331
 静かな殺意
@@ -5072,196 +5072,196 @@ ID=14224
 关卡 25
 
 ID=15000
-The place where a member of S.F.L tests their battle ability.\nThe robot remodeled for tests waits for a member of the S.F.L.
+スタリーフォレスト連合の隊員が戦闘能力を試す場所。\n試験用に改造されたロボットがスタリーフォレスト連合の隊員を待ち構える。
 
 ID=15001
-To help the children， Miriam runs to the bowling site where construction was stopped. But it的 isolated 因为 the attacks of the soul junk which showed suddenly...
+一人の子どもを助けるため、工事が中断されたボーリング現場に駆けつけるミリアム。だが、突如現れたソウルジャンクの襲撃で孤立してしまい…。
 
 ID=15002
-“Dread”， the Soul Junkwhich 移动s around the bowling site .\nThe main culprit destroyed a hospital in Warren， which in turn pushed Rocco Town \nover in fear of an infectious disease. I'll take care of it before it spreads.
+ボーリング現場で動き回るソウルジャンク「ドレッド」。\nウォーレンの病院を破壊し、ロコタウンを伝染病の恐怖に\n突き落とした元凶。伝染病が流行る前に始末しよう。
 
 ID=15003
-I have come to the bowling site by Miriam的 请求.\nI have to find and rescue the survivors who were isolated by the \nSoulJunk.
+ミリアムの頼みで来たボーリング現場。\nソウルジャンクによって孤立した生存者を探し出し、\n救出しなければならない。
 
 ID=15004
-Ryu went to the site alone in order to verify the information which showed an awakening body. I don't know what的 going to happen.\n I will加入him quickly.
+覚醒体が現れたという情報の真偽を確かめようと、\nリューが一人現場へ向かった。何が起こるかわからない。\n急いで彼と合流しよう。
 
 ID=15005
-The Clown的 invitation leads toward the Street Plaza. \nWhat kind of present waits for me there？
+道化師の招待状が指す場所は捨てられた広場通り。\nそこにはどんなプレゼントが待っているのだろうか？
 
 ID=15006
-The streets of the square are almost filled with dolls. \nWhat was once a vibrant town \nhad now become a town dominated by emotionless dolls.
+広場の通りを埋め尽くすほどの人形。\n一時は人々の活気溢れる町だったが、\n今は感情のない人形が支配する町と化してしまった。
 
 ID=15007
-The NED company support helicopter is needed to停止the advancement of the Big Puppet. I have to停止the dolls before they destroy the helicopter.
+ビッグパペットの進撃を止めるためには、ネッドカンパニーが支援するヘリが必要。人形がヘリを破壊する前に奴らを止めなければならない。
 
 ID=15008
-Operation [Shield]. The dangerous strategy which lures the Big Puppet out directly and makes it disintegrate itself in the safety shield. This strategy is a must in order to succeed.
+オペレーション[ザ・シールド]。ビッグパペットを直接おびき寄せ、防護壁内で自爆させるという危険な作戦。この作戦だけは必ず成功させなければならない。
 
 ID=15009
-New dolls appeared. \nThe 寻找 party that went on to 探讨 didn't return... which gives \nme an unpleasant hunch.
+新たに現れた人形たち。\nそれらを調査しに行った捜索隊が戻ってこない。\n嫌な予感がする…。
 
 ID=15010
-People that became dolls， \n an eerie tower， and dolls that are moving restlessly... \n These dolls... why on earth is a doll building a tower？
+人形になってしまった人々、\nそして不気味な塔とせわしなく動く人形…。\n人形は、一体何のために塔を建てているのだろうか？
 
 ID=15011
-It was none other than the tower that changed humans into dolls. \nBenjamin directed the destruction of the tower to prevent harm from spreading.
+人間を人形へと変化させるのは、他ならぬあの塔だった。\nベンジャミンは被害の拡大を防ぐために塔の破壊を指示する。
 
 ID=15012
-The doll speaks of the code 名字 [Jack King]. \nThe only way to break through this situation is to beat the Jack King.
+喋る人形、コードネーム[ジャック・ザ・キング]。\n今この状況を打開する唯一の方法は、ジャック・ザ・キングを倒すことだけだ。
 
 ID=15013
-I finally found the weak point of the [Clown of Blue Flame]. \nHe set up camp in the Hospital Ruins near Rocco Town. I'll look for the advance party and chase down the Clown of Blue Flame.
+とうとう[青炎の道化師]の尻尾を掴んだ。\n彼が陣取った場所はロコタウンに近い、廃墟の病院だった。先発隊を探し、青炎の道化師を追跡しよう。
 
 ID=15014
-I need a badge to reach the Clown of the Blue Flame， but there的 no information of a particular badge. A doll in the hospital would probably have one. 
+青炎の道化師に辿り着くには特殊なバッジがなければ\nならないという情報を入手した。\nバッジは病院内の人形が持っている。
 
 ID=15015
-We arrived at the ward where the Clown of the Blue Flame is located. I made them neutralize a magnetic field using a badge， and we could finally advance.
+青炎の道化師がいる病棟に到着した。バッジにより磁気フィールドを中和させ、ようやく進めるようになった。
 
 ID=15016
-“Edgar”， the Clown of Blue Flame who ran away， designated the circus tent on the roof of the hospital as the location of the last decisive battle.\n I have to beat him at all costs.
+逃げた青炎の道化師「エドガー」は、最後の決戦の場所として病院の屋上にあるサーカステントを指定した。\nなんとしても奴を倒さなければ。
 
 ID=15017
-I barely had time to catch my breath when I arrived at the new city where I was tasked with another 任务. I have to dispose of the SoulJunks on the coastal road to secure 康都之城的 supply route.
+新しい都市に着くや否や息つく間もなく始まった作戦。カンダスシティの補給路を確保するため、海岸道路のソウルジャンクを始末しよう。
 
 ID=15018
-Information by NED company mercenaries 确认ed that there is still a strong Soul Junkon the coastal road.\n They always seem angry， but...
+ネッドカンパニーの傭兵の情報によって、まだ海岸道路に強力なソウルジャンクがいることが確認された。\nいつも怒っているらしいが…。
 
 ID=15019
-There has been an increasing amount of mysterious earthquakes on the coastal road recently. Due to the risk of elevated roads and collapsed buildings， I have to find out the cause.
+最近、海岸道路に不可解な地震が増えている。高架道路や建物が崩壊する危険があるので、原因を突き止めなければならない。
 
 ID=15020
-A group of Soul Junkappeared again. Commander Aaron directed the disposal of Soul Junkand the destruction of the coast tunnel， which is the only supply route， in order to defend 康都之城.
+再び現れたソウルジャンクの群れ。アーロン中佐はカンダスシティ防衛のためにソウルジャンクの始末と、唯一の補給路である海岸トンネルの破壊を指示する。
 
 ID=15021
-I got per任务 from NED company and entered the underground waterway. It的 hard to \n breathe 因为 the intense stench.\n It certainly feels like something lives here...
+ネッドカンパニーの許可をもらい入った地下水路。\n激しい悪臭により呼吸するのも辛い。\n確かにここには何かが存在するような感じがする…。
 
 ID=15022
-The bad smell from an underground waterway stands at various places by the city and has begun to spread.\n It的 clear that the only cause of the bad smell is in the underground waterway...
+都市の各所に、地下水路から出た悪臭が立ち込み始めた。\n悪臭の原因が地下水路にあることだけは明らかだが…。
 
 ID=15023
-Mercenaries and researchers from NED company were dispatched to an underground waterway， since it seems suspicious that Brock instructs their surveillance.
+ネッドカンパニーから大勢の傭兵と研究員が地下水路に派遣された。不審に思ったブロックは彼らの監視を指示する。
 
 ID=15024
-The emergence of JunkKnight has shocked all of S.F.L. In order to 任务ion NED Company into holding responsibility， Brock has ordered to attain a sample of JunkKnight.
+ジャンクナイトの出現はスタリーフォレスト連合全体に衝撃を与えた。ブロックは、ネッドカンパニーに責任を問うためにジャンクナイトのサンプル確保を指示した。
 
 ID=15025
-It seems like a carrier ship of NED Company has crashed into a house nearby.\nWe need to 探讨 exactly what they were trying to carry.
+ネッドカンパニーが何かを運ぼうとした輸送船が、近くの屋敷に墜落したらしい。\n何を輸送しようとしていたのかを調査する必要がある。
 
 ID=15026
-The entire house has become a den of SoulJunk.\nThere is a Soul Junkwith a high contamination rate nearby; we need to get rid of it before it gets out.
+屋敷全体がソウルジャンクの巣窟になってしまった。\n強力な感染力を持つソウルジャンクがいるため、外に出る前に始末せねばならない。
 
 ID=15027
-According to Ralph的 story， it seems highly likely that Katherine will be somewhere deep inside the house. Let的 移动 deeper into the mansion to look for Katherine.
+ラルフの話から考えると、キャサリンは屋敷内部にいる可能性が高い。キャサリンを探しに屋敷の奥へ進んでみよう。
 
 ID=15028
-The Soul Junk名字d Arachnis that took Katherine away\nseems like it的 hiding somewhere in the basement.\nLet的 quickly find and rescue Katherine.
+キャサリンをさらったアラクニスというソウルジャンクが、\n屋敷の地下の奥に隠れているという。\n急いでキャサリンを探しだそう。
 
 ID=15029
-The only antidote for Katherine的 Vacuum Vein infection is at the research facility of NED Company.\nBut that research facility was already a den of SoulJunk...
+バキュームベインに感染したキャサリンを救うことができる唯一の解毒剤が、ネッドカンパニーの研究所内にある。\nしかし、研究所は既にソウルジャンクの巣窟となり…。
 
 ID=15030
-The 秒 research facility was also crawling with SoulJunk... We don't know what in the world happened here， but getting the antidote for Katherine is top priority.
+第二研究所内部もやはりソウルジャンクの巣窟に…。一体何がこの場所であったのかはわからないが、今はキャサリンの解毒剤を確保することが優先だ。
 
 ID=15031
-Out of guilt for Katherine， Victor has gone to the research facility to find the antidote by himself.\nFind him before the Soul Junkdo.
+ビクターはキャサリンのことへの罪悪感から解毒剤を探しに一人で研究所へと入っていった。\n彼がソウルジャンクに襲われる前に見つけ出そう。
 
 ID=15032
-Henry says that in order to use the antidote， the slime from the Beholder is needed. He also ordered us to activate the explosion trigger to destroy the research facility.
+ヘンリーは解毒剤を使用するためにはビホールダーの粘液が必要だと言い、さらに研究所の爆破も指示する。
 
 ID=15033
-When we returned from Rocco Town， 康都之城 was under attack by SoulJunk. We need to trigger the 打开ing switch for the refuge center for people to evacuate.
+ロコタウンから戻ると、カンダスシティはすさまじい数のソウルジャンクに襲撃されていた。人々を退避させるために防空壕の開閉装置を作動させなければならない。
 
 ID=15034
-A large number of Soul Junkhas been discovered on the path to the transport ship located in the bomb shelter. For the safety of everyone， they must be dealt with.
+防空壕内部、輸送船に向かう道で多数のソウルジャンクが発見された。人々が攻撃されないよう先に処理しよう。
 
 ID=15035
-Everyone has taken shelter except for Katherine and us. However， at that time， we discovered that there were a large number of Soul Junknear the transport ship.
+住民の大部分を避難させ、残りはキャサリンと自分たちだけだった。しかしその時、乗る予定の輸送船に多くのソウルジャンクが向かうのを目撃した。
 
 ID=15036
-The escape from 格雷斯城has commenced. However， the SoulJunk的 unrelenting attacks are making everyone anxious.
+カンダスシティからの脱出を開始した。\nしかし、ソウルジャンクの襲撃はしつこく、皆の不安は募るばかりだった。
 
 ID=15037
-I wanted to chase after Henry， but was ordered to gain some experience fighting against the Veshi. I have no choice but to follow the orders for now.
+ヘンリー追跡を優先したいところだが、ヴェシとの戦闘経験を積むための命令が下った。今は黙って動くしかない。
 
 ID=15038
-Rapid Flames， a brigade that reveres the greed for power， is looking for every opportunity to invade 格雷斯城through the highway.
+力のデザイアを崇拝するヴェシ「ラピッドフレイム」。その突撃部隊が高速道路からグレイスシティへ侵攻する隙を虎視眈々と狙っている。
 
 ID=15039
-The supposed vehicle carrying Henry has been spotted. The information is a bit unreliable， but he must be arrested at all costs. At least， before the Veshi get to him...
+ヘンリーが乗っていたと思われる車輌が発見された。不明な点が山ほどあるが、今は彼の身柄を確保しなければならない。ヴェシにやられる前に…。
 
 ID=15040
-"Scar" of the Rapid Flame Faction has appeared on the highway. In order to find out Henry的 whereabouts， Scar must be defeated and interrogated.
+捜していたヘンリーは見当たらず、ラピッドフレイム勢力の幹部「スカー」が高速道路に姿を現した。 ヘンリーの行方を知るためには、スカーから討伐しなければならない。
 
 ID=15041
-The NED Company headquarters was raided by the Rapid Flame Faction after Henry sneaked inside.\nAlthough I'm reluctant to do so...\nHe must be rescued.
+ヘンリーがネッドカンパニーの本社に侵入後、\nラピッドフレイムの奇襲部隊が建物を占領した。\n気は進まないが、彼を救出しなければ…。
 
 ID=15042
-NED Company的 building was cut off from electricity\n因为 Rapid Flames taking over the building.
+ネッドカンパニー内はラピッドフレイムの占拠によって\n電力供給が行き届いていない状況だ。
 
 ID=15043
-In order to 修理 electricity for NED Company，\nit looks like one has to manually activate the switch inside the building.\nRapid Flames seem to have the key to activating the switch.
+ネッドカンパニーの電力を復旧させるには、\n建物内の電力を手動で作動させなければならない。\nラピッドフレイムがその「カギ」を持っているらしい。
 
 ID=15044
-In order to retrieve evidence for the incident at 康都之城，\nwe need to copy all the data\nfrom NED Company的 security box.
+カンダスシティの事件の証拠を入手するためには、\nネッドカンパニー内部にあるセキュリティボックスの\n全データをコピーしなければならない。
 
 ID=15045
-In order to defeat the Rapid Flames coming in from the 秒 highway， we need to take back the firing zone “Hill Breaker” for Operation Wolf Cry to commence.
+第2高速道路を侵攻するラピッドフレイムの強襲部隊を討伐するための作戦「ウルフクライ」が発動されたら、ヒルブレイカーの射撃場所を確保しなければならない。
 
 ID=15046
-Operation Wolf Cry involves firing missiles called "Final Aria" which spreads strong radio waves in its vicinity. With this， we can exterminate Queen Carla， the main force of the assault brigade.
+作戦名「ウルフクライ」は、高周波を発生させるミサイル「ファイナルアリア」を上空に打ち上げ、強襲部隊の主力であるクイーンカルラを殲滅するという作戦だ。
 
 ID=15047
-Heel Breaker 不能 progress towards the Area Missile firing zone. With S.F.L的 Soulworker "Kainbarrel"， defeat the Rapid Flame的 assault squad.
+アリアミサイル発射ポイントまでヒルブレイカーが移動できない。スタリーフォレスト連合のソウルワーカー「ケインバレル」とラピッドフレイムの強襲部隊討伐に向かう。
 
 ID=15048
-The Assault Captain of the Rapid Flames， Falcon， has finally showed his face after his precious bird Queen Karla has been damaged. To the target that has finally showed its head， we can almost feel grateful for it.
+愛鳥のクイーンカルラに傷を負わせたので、ラピッドフレイムの強襲部隊長ファルコンが姿を現した。ついに出てきた相手に、感謝の気持ちすら湧き上がる。
 
 ID=15049
-While the entire village was vacant and an eerie silence was all that was left， the rain falling down on Dave Town had a gloomy feeling.
+人はおらず静寂だけが町を覆う中、デーブタウンに降る冷たい雨が嫌な予感を感じさせていた。
 
 ID=15050
-"Dave Town"， a town located near Grace City， is inhabited with many people 因为 the fact that it is away from the front lines and can 因此can sustain itself.
+グレイスシティ付近の小さな町「デーブタウン」は、戦場から離れていて自給自足できるという理由で、多くの市民が居住していた。
 
 ID=15051
-Situation where I hope for the best. To find the path for Souls within Dave Town， we need to install the "Spirit Pathfinder" as fast as possible.
+嫌な予感が当たらないように願う状況。デーブタウン内部でソウル経路を確認するため、「スピリットパスファインダー」の設置を急がなければならない。
 
 ID=15052
-The situation has turned for the worst. What is it that they are trying to accomplish with these acts？ But for now， finding survivors is top priority.
+嫌な予感は現実のものとなってしまった。これほどのことをしてまで彼らが求める物はなんなのだろうか？しかし、今は生存者を探すのが優先だ。
 
 ID=15053
-The alliance between Henry and the Rapid Flames has become reality. Henry must pay for the crimes he has committed.
+ヘンリーとラピッドフレイム勢力との同盟が現実となった。非道の限りを尽くすヘンリーを捕まえ罪を償わせないといけない。
 
 ID=15054
-The supposed stronghold for the Rapid Flames was a trap set up by the NED Company and the Rapid Flames.
+ラピッドフレイム勢力の本拠地だと思われていた場所は、ネッドカンパニーとラピッドフレイムがでっちあげた罠だった。
 
 ID=15055
-Due to the NED Company的 trap， the majority of the forces at 格雷斯城has been wiped out. This crisis has put the city的 existence on the line. We 不能 let everyone die.
+ネッドカンパニーの罠によって、グレイスシティの多くの戦力が失われ、存立を脅かすほどの危機が訪れた。このままみんなを死なせるわけにはいかない。
 
 ID=15056
-The Rapid Flame faction的 Assassination squad is hindering the rescuing process of backup. We need to defeat these enemies in order to rescue many people as possible.
+ラピッドフレイム勢力の暗殺部隊が支援部隊救出を妨害している。一人でも多く救出するためにも妨害する敵を倒す必要がある。
 
 ID=15057
-The remnants of hacking on military satellite Indra by NED Company has been 确认ed. We need to trace back through their hacking in order to learn their true motive.
+ネッドカンパニーが軍事衛星インドラをハッキングした痕跡が見つかった。ハッキングの痕跡を辿って彼らの本当の本拠地を突き止めなければならない。
 
 ID=15058
-The NED Company的 traces have led up to the mountains near Grace City. It is time for their judgement.
+グレイスシティ外郭山脈付近にネッドカンパニーの痕跡が残っていた。彼らに審判を下す時がきた。
 
 ID=15059
-In order to find Henry and Laufer， we need to find the source of the radio wave that is disrupting the military satellite， Indra.
+ヘンリーとラウファーの行方を捜すためには軍事衛星インドラを妨害する電波を除去しなければならない。
 
 ID=15060
-We've detected life signals indicating Henry and Laufer within Indra. This is the most ideal time for revenge.
+インドラの施設内部をスキャンした結果、ヘンリーとラウファーと推定される生命反応を感知した。今こそ理想的な復讐をする時だ。
 
 ID=15061
-A virtual training program designed for Soulworkers; it can simulate the monsters from the database， then an experience just like a real battle begins. However， since it spends a lot of energy， it 不能使用 frequently.
+ソウルワーカーのために開発された仮想訓練装置。データベースに登録された敵を具現化し、実践同様の戦闘が可能。しかし、エナジー消費が激しいため頻繁には利用できない。
 
 ID=15062
-An area completely ravaged by the Void. Soul Junkconstantly appear in the area， and the S.F.L has forbidden any civilians from entering.
+空白によって完全に廃墟と化したエリア。持続的にソウルジャンクが発生しており、スタリーフォレスト連合は立入禁止区域に指定。民間人の立ち入りを禁止している。
 
 ID=15063
-A mysterious distortion that appeared out of nowhere released many puppets out into the world. No one knows why they appeared. However， they did know the power and the hostility that the puppets showed towards them.
+突如発生した謎の歪みは、多くの人形をこの世へと解き放った。彼らが現れた理由を知る者は誰もいない。ただ、人形が持つ力と強烈なまでの敵意だけは明らかだった。
 
 ID=16000
 扭曲世界的逻辑
@@ -5279,25 +5279,25 @@ ID=16004
 LION GAMES PRESENT
 
 ID=16100
-Unfamiliar place.\nUnfamiliar people.\nUnfamiliar conversations.\nThe world that I once knew no longer exists.\nWhat do I do from now on...？
+見覚えのない場所。\n見知らぬ人々。\n聞きなれない会話。\n私の知っている世界はなくなっていた…。\nこれからどうなっちゃうんだろう……？
 
 ID=16200
-The world changed when I 打开ed my eyes.\nMonsters crawling and people using special powers.\nThe world that I once sought to create...was now in front of me.\nThis...is too much to not get excited about.
+目覚めたら、世界は一变していた。\n怪物が徘徊し、人々が超能力を使う世界。\n俺が創ろうとしていた世界が…目の前に広がっていた。\nこれは…興奮するなっていう方がムリな話だよな。
 
 ID=16300
-The world where all the knowledge I had until now was void...\nBut...\nI have claimed everything that I wanted with my own hands.\nI'll do the same in this world， too.
+今までの常識が通用しない世界…。\nでも…。\nわたくしは今まで、望むものは全て手に入れてきた。\nこの世界でも…今まで通りにするだけ。
 
 ID=16400
-The world has changed a lot during the 15 years I was asleep.\nA world where survival comes first.\nBut... I was still desperate \nto have passion... and to live like any human would.
+15年も眠っていた間に、世界は随分と变わってしまったようだ。\n生き残ることが優先される世界…。\nだが…オレは今までだって必死だった。\n人間らしく…情熱をもって生き続けることに…。
 
 ID=16500
-Seems like 15 years flashed by.\nDo hibernating bears all feel this way...？\nStories too difficult to understand， and I'm really hungry.\nBut， since everyone is with me， I don't feel lonely.
+いつの間にか15年経ってたみたい。\n冬眠したクマって、こんな感じなのかな…？\nみんな難しい話ばっかり…お腹ペコペコなのに…。\n…でも、みんながいるから寂しくない。
 
 ID=16600
-The world that I once knew was no more.\nI didn't want to stay for a minute， or even a 秒 for that matter in this unfamiliar place.\nBut I have no choice but to hold it in.\nThis is my world now... The world that I must live in.\nThere is no choice but to hold it in as much as possible...
+もう、私が知ってる世界はない。\n全てが不慣れで窮屈で、一分一秒もここにいたくない。\nけど、我慢するしかない。\nもう、ここが私の世界であり…私が生きていくべき世界だから。\n我慢して我慢して、耐えるしか…。
 
 ID=16550
-垃圾
+常见
 
 ID=16551
 一般
@@ -5363,13 +5363,13 @@ ID=16587
 PB
 
 ID=16800
-请输入文本寻找.
+请输入文本查询.
 
 ID=16801
 过期
 
 ID=16802
-排队中
+待机中
 
 ID=16803
 贩卖中
@@ -5399,19 +5399,19 @@ ID=16811
 关闭
 
 ID=16812
-查询
+关键字查询
 
 ID=16813
 类型查询
 
 ID=16814
-人物
+角色
 
 ID=16815
 等级
 
 ID=16816
-稀有度
+等级
 
 ID=16817
 价格
@@ -5420,7 +5420,7 @@ ID=16818
 强化阶段
 
 ID=16819
-起步
+以上
 
 ID=16820
 以内
@@ -5432,22 +5432,22 @@ ID=16822
 数量
 
 ID=16823
-总共
+总额
 
 ID=16824
-一份
+价格/1个
 
 ID=16825
 收入清单
 
 ID=16826
-买
+购买
 
 ID=16827
 个
 
 ID=16828
-确认
+确定
 
 ID=16829
 取消
@@ -5456,7 +5456,7 @@ ID=16830
 物品列表
 
 ID=16831
- 持续时间
+持续时间
 
 ID=16832
 登记
@@ -5465,7 +5465,7 @@ ID=16833
 登记商品
 
 ID=16834
-购买史
+最近的交易情况
 
 ID=16835
 情况
@@ -5474,7 +5474,7 @@ ID=16836
 时
 
 ID=16837
-下架
+回收
 
 ID=16838
 {0}时
@@ -5528,7 +5528,7 @@ ID=16854
 确定要退回 {1} {0} 吗？\n(退回的东西将会发到邮箱)
 
 ID=16855
-搜索条件已经更改. 你想在这页刷新当前的寻找结果吗？\n(如果按取消的话，页面将会移动并且寻找指定条件.)
+搜索条件已经更改. 你想在这页刷新当前的寻找结果吗？\n(如果按取消的话，页面将会移动到你所寻找指定条件.)
 
 ID=16856
 必须要一个或以上.
@@ -5552,7 +5552,7 @@ ID=16862
 交易税
 
 ID=16863
-登记税 
+登记税
 
 ID=16864
 最近查阅
@@ -5564,10 +5564,10 @@ ID=16866
 VIP 系统信息
 
 ID=18000
-强化次数已满， 你不能继续强化.
+强化次数已满，你不能继续强化.
 
 ID=18001
-强化失败， 该物品已被破坏.
+强化失败，该物品已被破坏.
 
 ID=18002
 你不能装备损坏的武器.
@@ -5579,19 +5579,19 @@ ID=18004
 破坏的装备已经还原
 
 ID=18005
-是否还原 {0} ？\n还原上限: {1}.
+是否还原 {0} ？\n还原上限: {1}次.
 
 ID=18006
 还原物品
 
 ID=18007
-还原
+还原次数
 
 ID=18008
 还原次数
 
 ID=18009
-还原
+还原物品
 
 ID=18010
 该物品可以进行还原
@@ -5600,7 +5600,7 @@ ID=18011
 还原成功
 
 ID=18012
-胸针合成 
+胸针合成
 
 ID=18013
 合成
@@ -5627,10 +5627,10 @@ ID=18020
 在这时候交易过的 10 个物品.
 
 ID=18021
-成功卖出之后会收取你该物品总价格的 {0}% 的税.
+成功出售之后会收取你该物品总价格的 {0}% 的税.
 
 ID=18022
-你的物品是 <font color='#A566FF'>稀有度高的物品</font>.  当你卖出后，你将会获得 {0} . 你确定要卖出吗？
+你的物品是 <font color='#A566FF'>稀有度高</font>的物品。当你卖出后，你将会获得 {0} . 你确定要出售吗？
 
 ID=18023
 你选择的东西包括 <font color='#A566FF'>稀有度高</font> 物品. 你是否要分解它？ 该操作是不可逆的，将无法还原.
@@ -5648,7 +5648,7 @@ ID=18029
 封印邮票
 
 ID=18030
-是否进行封印{0}？\n封印次数: {1}.
+是否进行封印{0}？\n封印次数: {1}次.
 
 ID=18031
 封印次数
@@ -5657,7 +5657,7 @@ ID=18032
 你无法装备比你武器等级高的附件.
 
 ID=18033
-封印过
+封印
 
 ID=18034
 封印成功
@@ -5666,22 +5666,22 @@ ID=18035
 你可以通过在强化设备上使用一张 Q.B.D [增强保护器]来防止武器破坏.\n你确定要继续强化吗？
 
 ID=18036
-你现在处于操作模式，因此你是无法操作你的背包. 
+你现在处于操作模式，因此你是无法操作你的背包.
 
 ID=18037
-剩余时间
+所剩时间
 
 ID=18038
 -
 
 ID=18039
-拆解结束
+分解结束
 
 ID=18040
-拆解成功
+分解成功
 
 ID=18041
-卖出的物品将不会有任何税收.
+卖出的物品将不会收取任何手续费和交易税.
 
 ID=18042
 出品数
@@ -5699,7 +5699,7 @@ ID=18046
 {0}分
 
 ID=18047
-还有1分钟
+还剩1分钟
 
 ID=18048
 贩卖时间
@@ -5732,34 +5732,34 @@ ID=18057
 <font color='#E0B94F'>MEGA</font>，<font color='#F15F5F'>GIGA</font>，<font color='#8041D9'>TERA</font> 级胸针才可合成.
 
 ID=18058
-剩余可强化的 {0} {1} 数量将会减少.\n确认前， 一个 {2} 将会消耗.\n\n确定继续？
+{0}的剩余可强化的 {1} 数量将会减少.\n确认前， 一个 {2} 将会消耗.\n\n确定继续？
 
 ID=18059
-剩余可封印的 {0} {1} 数量将会减少.\n 确认前， 一个 {2} 将会消耗. \n\n 确定继续？
+{0}的剩余可封印的 {1} 数量将会减少.\n 确认前， 一个 {2} 将会消耗. \n\n 确定继续？
 
 ID=18060
-剩余可还原的 {0} {1} 数量将会减少.\n 确认前， 一个 {2} 将会消耗. \n\n 确定继续？
+{0}的剩余可还原的 {1} 数量将会减少.\n 确认前， 一个 {2} 将会消耗. \n\n 确定继续？
 
 ID=18061
-所剩强化 {0} 用于 {1}.
+{0}的所剩强化次数减少{1}次.
 
 ID=18062
-所剩还原 {0} 用于 {1}
+{0}的所剩还原次数减少{1}次
 
 ID=18063
-所剩的封印 {0} 用于 {1}.
+{0}的所剩的封印次数减少{1}次.
 
 ID=18064
-{0}: {1} 不可用， 因为他们一直离开入场.
+{0}: {1} 入场次数不可用， 因为他们一直离开入场.
 
 ID=18068
 副本进场次数已重置. {0}: 你可以进入 {1}
 
 ID=18069
-你想更换角色名字 {0}？ 将会消耗 1 {0}.
+你想更换角色名字 {0}？ 将会消耗1张 {0}.
 
 ID=18070
-成功更改你的名字， 重新登录可以看到改変.
+成功更改你的名字， 重新登录后就可以看到改变了.
 
 ID=18071
 无法购买物品: 金币不足
@@ -5771,7 +5771,7 @@ ID=18073
 使用后，所有技能将被重置.\n确定要使用？
 
 ID=18074
-物品只能封印在背包。 
+物品只能封印在背包。
 
 ID=18075
 物品在非原始状态下不能封印。
@@ -5858,7 +5858,7 @@ ID=18190
 强化阶段
 
 ID=18191
-防破坏保护
+防止破坏
 
 ID=18192
 强化特性
@@ -5870,19 +5870,19 @@ ID=18194
 装备改造
 
 ID=18195
-属性锁定上限
+属性锁定固定次数
 
 ID=18196
 改造
 
 ID=18197
- {0} 属性将被更改.\n确认是否要开始？
+{0} 的属性将会被更改.\n确认是否要开始？
 
 ID=18198
 没有属性
 
 ID=18199
-总共玩了 {0} 小时.
+现在的累计在线时间达到 {0} 小时.
 
 ID=18200
 目前，你处于疲劳的状态.\n游戏收益将降至正常的50％.\n为了你自己的健康，请离开游戏，适当休息。
@@ -5905,287 +5905,275 @@ ID=18205
 ID=18206
 エクストラインベントリに空きがないため抽出できません。
 
-ID=18208
-装着
-
 ID=18207
 一般インベントリに空きがないため抽出できません。
 
 ID=18208
-插入
-
-ID=18202
-胸针全抽出
-
-ID=18203
-<font color='#FFFFFF'>{0}</font>在使用的时候、抽出费用需要<font color='#FF0000'>{1}</font>金币来抽取出来。\n<font color='#FFFFFF'>{2}</font>を使用する场合は、差し引かれません。\n确定要抽出？
-
-ID=18204
-胸针抽出成功。\n请确认物品。
+装备
 
 ID=18209
-抽出器使用
+优惠票
 
 ID=18210
-金币使用
+使用金币
 
 ID=18211
-{0} から {1} 个のブローチを抽出します。
+{0}中的{1}个的胸针已抽出。
 
 ID=18212
-胸针抽出必要的 {0} 不足。
+胸针抽出必要的{0}不足。
 
 ID=18500
-ファストブレード
+迅極劍技
 
 ID=18501
-ピアスステップ
+神速
 
 ID=18502
-スピンカッター
+盤旋劍
 
 ID=18503
-ブローアップ
+能量增益
 
 ID=18504
-ブレードクエイク
+顫慄破片
 
 ID=18505
-ブレードウォール
+劍之圍籬
 
 ID=18506
-パワースラッシュ
+淬火猛擊
 
 ID=18507
-リープアタック
+地崩山摧
 
 ID=18508
-アリーナラッシュ
+戰爭劍陣
 
 ID=18509
-フラッシュステップ
+閃光律動
 
 ID=18510
-クロスストライク
+灼熱焚斬
 
 ID=18511
-ウィンドブレイク
+破空拔刀斬
 
 ID=18512
-ブレードシャワー
+劍雨
 
 ID=18513
-ブレイクイロージョン
+突破侵蚀
 
 ID=18514
-スカイハイ
+飛升
 
 ID=18515
-ラピッドファイア
+漫遊射撃
 
 ID=18516
-スライドステップ
+後撤
 
 ID=18517
-テイクエイム
+弱點鎖定
 
 ID=18518
-フォーカスショット
+集中射擊
 
 ID=18519
-ガンコンビネーション
+回轉連射
 
 ID=18520
-コンバットマスター
+死亡綻放
 
 ID=18521
-ガイデッドショット
+電磁步槍
 
 ID=18522
-エレクトリックショット
+脈衝炸彈
 
 ID=18523
-ナパームボム
+燃燒彈
 
 ID=18524
-スプリンター
+士氣鼓舞
 
 ID=18525
-ハイドアンドシーク
+光子護盾
 
 ID=18526
-ソウルランチャー
+靈魂壁壘
 
 ID=18527
-ブレイクイロージョン
+突破侵蚀
 
 ID=18528
-イビルスラッシュ
+施虐
 
 ID=18529
-スピニングデビル
+猛攻
 
 ID=18530
-サイスカッター
+挑刺
 
 ID=18531
-グリムカウントダウン
+鮮血收割
 
 ID=18532
-フィアチェーン
+死亡枷鎖
 
 ID=18533
-デスグラインダー
+鎖魂飛鐮
 
 ID=18534
-デスサイス
+絞殺
 
 ID=18535
-クルエルスラッシュ
+鬼神亂舞
 
 ID=18536
-グリムリーパー
+躍空索魂
 
 ID=18537
-フォースリージョン
+極戰怒吼
 
 ID=18538
-デストルネード
+湮滅龍捲
 
 ID=18539
-イビルトリニティ
+三重烈碎
 
 ID=18540
-デスギロチン
+終焉斷頭台
 
 ID=18541
-ブレイクイロージョン
+突破侵蚀
 
 ID=18542
-カウンターアタック
+反撃
 
 ID=18543
-グローリーアッパー
+至高榮耀
 
 ID=18544
-ハンマーキック
+重錘踢擊
 
 ID=18545
-パーフェクトコンビネーション
+完美合撃
 
 ID=18546
-スピリットサージ
+靈魂浪湧
 
 ID=18547
-グラビティツイスター
+重力翻轉
 
 ID=18548
-スピリットエクスプロージョン
+精神爆發
 
 ID=18549
-スピリットシューター
+精神射撃
 
 ID=18550
-クアドラブロー
+火球彈
 
 ID=18551
-ヘビードロップ
+重型爆震
 
 ID=18552
-フュージョンアーマー
+融合裝甲
 
 ID=18553
-ラピッドパンチャー
+快衝拳
 
 ID=18554
-ファイナルフィスト
+終末之拳
 
 ID=18555
-ブレイクイロージョン
+突破侵蚀
 
 ID=18556
-ワールダンス
+旋轉舞步
 
 ID=18557
-ファントムリリース
+幽魂解放
 
 ID=18558
-トラブルパス
+困擾傳遞
 
 ID=18559
-ヒステリックショック
+狂烈衝擊
 
 ID=18560
-ビーストフォーレイド
+野獸遊行
 
 ID=18561
-ビーズプレイ
+紫珠遊戲
 
 ID=18562
-ディケードパルス
+閃電鏈
 
 ID=18563
-ソウルスクリーム
+靈魂尖嘯
 
 ID=18564
-ツイストプル
+黑洞拉力
 
 ID=18565
-ビーストパーティー
+野獸狂歡
 
 ID=18566
-ベストテンポ
+完美節拍
 
 ID=18567
-ブラックモーラス
+混沌沼澤
 
 ID=18568
-ベースアタック
+貝斯音波
 
 ID=18569
-ブレイクイロージョン
+突破侵蚀
 
 ID=18570
-ハンマークラッシュ
+破壞之錘
 
 ID=18571
-キャメルスピン
+螺旋飛舞
 
 ID=18572
-アサルトダイブ
+俯衝突擊
 
 ID=18573
-ファイアサマーソルト
+火焰翻滾
 
 ID=18574
-スパイラルピアス
+漩渦突刺
 
 ID=18575
-エターナルアビス
+永恆深淵
 
 ID=18576
-パルスファイア
+脈衝之焰
 
 ID=18577
-リミットブレイク
+限界解除
 
 ID=18578
-バレットストーム
+子彈風暴
 
 ID=18579
-フルバースト
+全力爆發
 
 ID=18580
-アースクエイク
+地震
 
 ID=18581
-エレクトリックキャノン
+電脈加農
 
 ID=18582
-イクシードドライバー
+極致驅動
 
 ID=18583
-ブレイクイロージョン
+腐蚀
 
 ID=18600
 伤害量：{0}%
@@ -6212,10 +6200,10 @@ ID=19002
 <font color='#E0B94F'>攻击力 +3%/攻击失败追伤 +3%</font>
 
 ID=19003
-<font color='#F15F5F'>攻击力 +4%/攻击失败追伤 +4%/敌防御力贯穿 +1%</font>
+<font color='#F15F5F'>攻击力 +4%/攻击失败追伤 +4%/敌防御度贯穿 +1%</font>
 
 ID=19004
-<font color='#8041D9'>攻击力 +5%/攻击失败追伤 +5%/敌防御力贯穿 +2%</font>
+<font color='#8041D9'>攻击力 +5%/攻击失败追伤 +5%/敌防御度贯穿 +2%</font>
 
 ID=19005
 <font color='#47C83E'>防御力 +5%/HP +4% </font>
@@ -6365,7 +6353,7 @@ ID=19501
 女仆
 
 ID=19502
-爵士
+执事
 
 ID=19503
 永恒夏日沙滩
@@ -6377,22 +6365,22 @@ ID=19505
 兔女郎
 
 ID=19506
-[Amazing Gesture] Available
+圣诞节
 
 ID=19507
-[Amazing Gesture] Available
+和の心得
 
 ID=19508
 [Amazing Gesture] Available
 
 ID=20010
-问候
+打招呼
 
 ID=20011
-使用 "问候"
+使用 "打招呼"
 
 ID=20012
-{0} 问候你.
+{0} 正在打招呼.
 
 ID=20020
 大笑
@@ -6404,22 +6392,22 @@ ID=20022
 {0} 在大笑.
 
 ID=20030
-哭
+哭泣
 
 ID=20031
-使用 "哭"
+使用 "哭泣"
 
 ID=20032
-{0} 在哭泣.
+{0} 正在哭泣.
 
 ID=20040
-鼓掌
+应援
 
 ID=20041
-使用 "鼓掌"
+使用 "应援"
 
 ID=20042
-{0} 在鼓掌.
+{0} 在应援中.
 
 ID=20050
 坐下
@@ -6434,7 +6422,7 @@ ID=20060
 跳舞
 
 ID=20061
-在 跳舞
+在跳舞
 
 ID=20062
 {0} 在跳舞.
@@ -6452,10 +6440,10 @@ ID=20080
 炫耀
 
 ID=20081
-在 炫耀
+在炫耀
 
 ID=20082
-{0} 炫耀.
+{0} 在炫耀自己的武器.
 
 ID=20090
 偶像
@@ -6470,13 +6458,13 @@ ID=20100
 女仆
 
 ID=20101
-绅士
+执事
 
 ID=20102
 正在练习怎么服务.
 
 ID=20103
-{0} 在练习服务.
+{0} 在练习怎么服务.
 
 ID=20111
 沙滩球
@@ -6513,6 +6501,24 @@ ID=20131
 
 ID=20132
 {0} 在扮一个小兔子.
+
+ID=20133
+圣诞节
+
+ID=20134
+圣诞节快乐！
+
+ID=20135
+{0} 在享受圣诞节的快乐。
+
+ID=20136
+和の心得
+
+ID=20137
+快乐地表现出关于和风的知识
+
+ID=20138
+{0}在愉快地表现出和风的知识
 
 ID=20300
 因为频道过于拥挤无法进入. 请选另一个.
@@ -6551,28 +6557,28 @@ ID=20400
 疲劳回复中
 
 ID=20401
-至少一分钟
+未满1分钟
 
 ID=20402
 休息中.
 
 ID=21000
-{0}的 好感度增加了 {1}.
+{0}的好感度增加了 {1}点.
 
 ID=21001
-达成好感度 Lv {1} 于 {0}. NPC奖励解锁.
+{0}的顾客等级达到 Lv {1} . NPC阶段奖励将被送至邮箱.
 
 ID=21002
 好感度 Lv{0}
 
 ID=21003
-等级奖励
+等级特典
 
 ID=21004
 物品奖励
 
 ID=21005
-好感
+好感度
 
 ID=21006
 {0}
@@ -6581,22 +6587,22 @@ ID=21007
 - {0} x{1}
 
 ID=21008
-修理费用减少 {0}{1}.
+修理费用{0}{1}减少.
 
 ID=21009
-制作费用减少 {0}{1}.
+制作费用{0}{1}减少.
 
 ID=21010
-制作素材消耗减少 {0}%
+制作必要材料数量减少 {0}%
 
 ID=21011
-强化费用减少 {0}{1}.
+强化费用{0}{1}减少.
 
 ID=21012
-强化成功率增加 {0}{1}.
+强化成功率{0}{1}增加.
 
 ID=21013
-减少运输费用 {0} {1}
+减少运输费用 {0}{1}减少
 
 ID=21014
 特殊物品 [{0}] 可购买.
@@ -6605,7 +6611,7 @@ ID=21015
 你可以从 {0} 每天购买的特殊物品数量增加两倍
 
 ID=21016
-装备后， +{0} 攻击力， +{1} 防御力持续30分钟
+装备后，在30分钟内 +{0} 攻击力，+{1} 防御力
 
 ID=21017
 支援者任务 成功 [支援者: Hugh]
@@ -6656,7 +6662,7 @@ ID=21032
 因为疲劳不足，无法进入副本
 
 ID=21033
-因为 {0} 疲劳不足，无法进入副本 
+因为 {0} 疲劳不足，无法进入副本
 
 ID=21034
 因为疲劳不足，不能使用队伍寻找功能
@@ -6677,7 +6683,7 @@ ID=21039
 等级不足. 该物品无法使用.
 
 ID=21040
-日常使用次数: [{0}/{1}]
+每日使用次数: [{0}/{1}]
 
 ID=21041
 当你的基础体力(200)是满时，你不能用该物品.
@@ -6707,64 +6713,64 @@ ID=21058
 SG 100% 回复可以购买了.
 
 ID=21400
-直升机服务
+搭乘
 
 ID=21401
-想传送到 {0} 吗？\n费用: {1} 金币
+想传送到安全地带 {0} 吗？\n必要费用: {1} 金币
 
 ID=21402
-花费金币:
+消耗金币:
 
 ID=21500
-攻击/回复类型
+攻撃和回復型
 
 ID=21501
-长距离攻击
+遠距離攻撃型
 
 ID=21502
-局域性攻击
+突進和状態異常
 
 ID=21503
-长距离支援攻击
+遠距離支援射撃
 
 ID=21504
-短距离攻击
+近距離攻撃型
 
 ID=21505
-短程
+近距離範囲型
 
 ID=21506
-短程
+近距離範囲型
 
 ID=21507
-辅助 Buff类
+辅助及Buff类型
 
 ID=21508
-短距离攻击
+近距離攻撃型
 
 ID=21509
-Debuff攻击
+异常状态及攻击型
 
 ID=21510
-近距离攻击
+近距離攻撃型
 
 ID=21511
 召唤
 
 ID=21512
-不召唤
+召唤解除
 
 ID=21513
-详情
+详情情报
 
 ID=21514
-支援者的武器
+支援者专用武器
 
 ID=21515
-确认
+获取报酬
 
 ID=21516
-支援者Buff
+支援登录
 
 ID=21517
 激活\n攻击球
@@ -6779,52 +6785,52 @@ ID=21520
 支援者的防御力 + 20%
 
 ID=21521
-确定应用攻击球提升20%的攻击力？
+确定应用攻击球[提升20%的攻击力]吗？
 
 ID=21522
-确定应用防御球提升20%的防御力？
+确定应用防御球[提升20%的防御力]吗？
 
 ID=21523
-BUFF应用
+登录内容
 
 ID=21524
-+ 攻击力: {0}
+攻击力: {0}
 
 ID=21525
-+ 防御力: {0}
+防御力: {0}
 
 ID=21526
-Buff 结束时间:
+支援结束时间:
 
 ID=21527
-buff结束过后， 你可以重新应用buff.
+支援结束：报酬获取后，可以再进行登录
 
 ID=21528
-支援者buff 结束.
+支援者buff已结束，可以重新进行支援登录。
 
 ID=21529
-热键
+热键设定
 
 ID=21530
 {0}/{1}
 
 ID=21531
-支援者武器
+支援者装备选择
 
 ID=21532
-武装
+装备
 
 ID=21533
-{0}({1}) 释放. 你可以装备新的支援者武器.
+{0}({1}) 被解除、消失了。你可以给新的支援者装备支援武器.
 
 ID=21534
-因为你退出了副本，支援者已被召回.
+因为你退出了副本，支援者的召唤已解除.
 
 ID=21535
-{0} 已召回.
+{0} 的召唤已解除.
 
 ID=21536
-种类
+特性
 
 ID=21537
 支援者列表
@@ -6836,43 +6842,43 @@ ID=21539
 对于超过5级或更高级别的等级的，将会削弱该支援者的性能。
 
 ID=21540
-对于超过5级或更高级别的等级的，将会削弱该用户的性能。
+对于超过5级或更高级别的等级的，将会削弱该使用者的性能。
 
 ID=21541
-应用于: {0}
+适用: {0}
 
 ID=21542
-支援者顺序
+召唤顺序更改
 
 ID=21543
-激活支援者
+召唤支援者
 
 ID=21544
 攻击球
 
 ID=21545
-防御力球
+防御球
 
 ID=21546
-解放支援者可能会让他的准备消失. 你是否继续？
+解放正在召唤中的支援者可能会让他的消失. 你是否继续？
 
 ID=21547
-支援者生效.
+新的支援者可使用.
 
 ID=21548
-支援已过期; claim the reward.
+支援已结束; 请接受你的报酬.
 
 ID=21549
-支援者 Buff
+支援结束时间待机中
 
 ID=21550
-你想接受支援者buff？
+你想获取支援者buff吗？
 
 ID=21551
-支援者buff 获得.
+支援者buff报酬已获得.
 
 ID=21552
-背包空间不足，无法使用资金.
+背包空间不足，无法获得支援报酬.
 
 ID=21553
 切换设定
@@ -6881,7 +6887,7 @@ ID=21554
 召回
 
 ID=21555
-单挑的时候才能召唤.
+在单独作战的时候自动召唤
 
 ID=22000
 ON
@@ -6911,7 +6917,7 @@ ID=22008
 隐藏
 
 ID=22009
-显示
+表示
 
 ID=22010
 隐藏
@@ -6929,10 +6935,10 @@ ID=22014
 按住
 
 ID=22015
-能给对方显示的
+使用可用时显示
 
 ID=22016
-都允许
+全都允许
 
 ID=22017
 只允许好友
@@ -6989,19 +6995,19 @@ ID=22034
 旋转模式
 
 ID=22100
-镜头
+操作设定
 
 ID=22101
 偏好
 
 ID=22102
-同歩视角
+同步视角
 
 ID=22103
-镜头与任务方向一致，鼠标移动人物镜头也会移动
+镜头与人物方向一致，鼠标移动人物镜头也会跟着移动
 
 ID=22104
-双按冲刺
+双击冲刺
 
 ID=22105
 自由镜头
@@ -7034,7 +7040,7 @@ ID=22201
 显示信息
 
 ID=22202
-名字
+角色名
 
 ID=22203
 公会名称
@@ -7061,7 +7067,7 @@ ID=22210
 显示队友伤害
 
 ID=22211
-显示物品伤害
+显示伤害信息
 
 ID=22212
 镜头设定
@@ -7079,13 +7085,13 @@ ID=22216
 界面
 
 ID=22217
-UI 规模
+UI 尺寸
 
 ID=22218
 物品掉落名字
 
 ID=22219
-AR 卡片 转换模式
+AR 卡片转换模式
 
 ID=22220
 显示技能连招组合
@@ -7118,7 +7124,7 @@ ID=22229
 成为好友
 
 ID=22230
-显示资讯
+显示情报
 
 ID=22231
 杂项
@@ -7166,16 +7172,16 @@ ID=22306
 模型光影
 
 ID=22307
-光影材质
+光影品质
 
 ID=22308
-观看距离
+视野距离
 
 ID=22309
-对象模型视野
+事物视野距离
 
 ID=22310
-环境视角视野
+地形视野距离
 
 ID=22311
 亮度
@@ -7202,25 +7208,25 @@ ID=22318
 物品物理效果
 
 ID=22319
-反交错
+抗锯齿
 
 ID=22320
-垂直同化
+垂直同步
 
 ID=22321
 自动优化
 
 ID=22400
-声音
+声音设定
 
 ID=22401
 音量控制
 
 ID=22402
-全局
+所有
 
 ID=22403
-音效
+音效声
 
 ID=22404
 环境声
@@ -7229,10 +7235,10 @@ ID=22405
 背景音
 
 ID=22406
-语音
+声音
 
 ID=22500
-热键
+热键设定
 
 ID=22501
 游戏操作
@@ -7253,10 +7259,10 @@ ID=22506
 跳跃
 
 ID=22507
-闪避
+回避
 
 ID=22508
-自动行走
+自动前进
 
 ID=22509
 环绕
@@ -7331,7 +7337,7 @@ ID=22532
 确认物品名字
 
 ID=22533
-切换AR 卡片 
+AR 卡片转换模式
 
 ID=22534
 链接武器
@@ -7349,7 +7355,7 @@ ID=22538
 向上旋转镜头
 
 ID=22539
-向下旋转镜头 
+向下旋转镜头
 
 ID=22540
 向左旋转镜头
@@ -7361,7 +7367,7 @@ ID=22542
 UI
 
 ID=22543
-转换 UI 模式
+UI 模式转换
 
 ID=22544
 隐藏界面
@@ -7373,22 +7379,22 @@ ID=22546
 装备信息
 
 ID=22547
-背包
+显示背包
 
 ID=22548
-技能
+显示技能
 
 ID=22549
-任务旅程
+显示任务进程
 
 ID=22550
-社交
+显示社交
 
 ID=22551
-成就信息
+显示成就信息
 
 ID=22552
-公会
+显示公会
 
 ID=22553
 世界地图
@@ -7451,7 +7457,7 @@ ID=22572
 杂项
 
 ID=22573
-恢复初始按键
+按键初始化
 
 ID=22574
 瞄准
@@ -7490,22 +7496,22 @@ ID=22607
 副本通关
 
 ID=22608
-等级上升
+本人的等级上升
 
 ID=22609
-队伍成员升级
+队员的等级上升
 
 ID=22610
-收到了来自队伍的buff.
+受到来自队伍的Buff.
 
 ID=22611
-死亡. 
+无法战斗的状态
 
 ID=22612
-被队友队伍.
+被队友复活.
 
 ID=22613
-微聊
+宏聊天
 
 ID=22614
 小文本 {0}
@@ -7568,7 +7574,7 @@ ID=22633
 活动
 
 ID=22634
-提醒
+公告事项
 
 ID=22635
 NPC Lines
@@ -7580,7 +7586,7 @@ ID=22637
 系统信息颜色
 
 ID=22638
-攻势
+攻击相关
 
 ID=22639
 伤害-相关
@@ -7631,10 +7637,10 @@ ID=22654
 字体大小
 
 ID=22655
-透明度 (Active)
+透明度 (被激活时)
 
 ID=22656
-不透明度. (Inactive)
+不透明度. (未激活时)
 
 ID=22657
 杂项
@@ -7643,16 +7649,16 @@ ID=22658
 恢复默认聊天设定
 
 ID=22659
-[{0}]键被用作其他地方.\n你是否改変并重写热键？
+[{0}]键被用作其他地方.\n你是否改变并重写热键？
 
 ID=22660
 [{0}]键无法作为快捷键.\n请使用其他键.
 
 ID=22661
-回忆
+显示回忆
 
 ID=22662
-目录
+显示拍卖行
 
 ID=22663
 截图质量
@@ -7676,7 +7682,7 @@ ID=22669
 未应用
 
 ID=22670
-※ 游戏性能将以视觉细节受限.
+※ 游戏性能根据你的选择而变化.
 
 ID=22671
 自动调节将会重启游戏.
@@ -7712,7 +7718,7 @@ ID=22681
 材质
 
 ID=22682
-重启游戏或重新加载才能应用
+重启游戏或重登才能应用
 
 ID=22683
 召唤载具
@@ -7748,13 +7754,13 @@ ID=24002
 防具
 
 ID=24003
-饰品
+附件
 
 ID=24004
-饰品
+附件
 
 ID=24005
-饰品
+附件
 
 ID=24006
 选择装备
@@ -7787,7 +7793,7 @@ ID=24015
 支援者
 
 ID=24016
-制作成品
+外观
 
 ID=24017
 任务
@@ -7802,13 +7808,13 @@ ID=24020
 栽培
 
 ID=24021
-Vehicle
+载具
 
 ID=24250
 金币
 
 ID=24251
-SV
+灵魂能量
 
 ID=24252
 预定的点数
@@ -7820,7 +7826,7 @@ ID=24254
 Soulcoin
 
 ID=24255
-浣熊币
+S硬币
 
 ID=24256
 灵魂武器
@@ -7832,13 +7838,13 @@ ID=24258
 头部
 
 ID=24259
-肩膀
+肩
 
 ID=24260
 身体
 
 ID=24261
-腿部
+腿
 
 ID=24262
 吊坠
@@ -7889,7 +7895,7 @@ ID=24277
 卡片
 
 ID=24278
-家具
+附件
 
 ID=24279
 武器
@@ -7904,16 +7910,16 @@ ID=24282
 眼 1
 
 ID=24283
-口
+嘴巴
 
 ID=24284
 上衣
 
 ID=24285
-双手
+手
 
 ID=24286
-下身
+下衣
 
 ID=24287
 尾
@@ -7925,7 +7931,7 @@ ID=24289
 裤子/袜子
 
 ID=24290
-后背
+背饰
 
 ID=24291
 内衣
@@ -7958,7 +7964,7 @@ ID=24300
 开头
 
 ID=24301
-后缀
+结尾
 
 ID=24302
 矿石
@@ -8021,7 +8027,7 @@ ID=24321
 钥匙
 
 ID=24322
-任务物品
+任务武器
 
 ID=24323
 武器图纸
@@ -8042,16 +8048,16 @@ ID=24328
 作物
 
 ID=24499
-BP
+预定的点数
 
 ID=24500
 金币
 
 ID=24501
-SV
+灵魂能量
 
 ID=24502
-BP
+预定的点数
 
 ID=24503
 以太
@@ -8060,7 +8066,7 @@ ID=24504
 Soulcoin
 
 ID=24505
-浣熊币
+S硬币
 
 ID=24506
 灵魂武器
@@ -8072,13 +8078,13 @@ ID=24508
 头部
 
 ID=24509
-肩膀
+肩
 
 ID=24510
 身体
 
 ID=24511
-腿部
+腿
 
 ID=24512
 吊坠
@@ -8144,7 +8150,7 @@ ID=24532
 还原破碎物品
 
 ID=24533
-胸针合成 
+胸针合成
 
 ID=24534
 附加插件接口
@@ -8198,10 +8204,10 @@ ID=24550
 A.R 卡片
 
 ID=24551
-A.R 卡片 素材
+A.R 卡片素材
 
 ID=24552
-A.R 卡片 盒子
+A.R 卡片箱
 
 ID=24553
 卡片
@@ -8225,7 +8231,7 @@ ID=24559
 武器
 
 ID=24560
-帽子
+头部
 
 ID=24561
 上衣
@@ -8234,19 +8240,19 @@ ID=24562
 眼睛
 
 ID=24563
-口
+嘴巴
 
 ID=24564
 上衣
 
 ID=24565
-双手
+手
 
 ID=24566
-底部
+下衣
 
 ID=24567
-尾巴
+尾
 
 ID=24568
 鞋子
@@ -8255,7 +8261,7 @@ ID=24569
 裤子/袜子
 
 ID=24570
-后背
+背饰
 
 ID=24571
 内衣
@@ -8264,13 +8270,13 @@ ID=24572
 全身
 
 ID=24573
-眼 & 口 套
+眼睛＆口 套
 
 ID=24574
-发型 & 帽子 & 眼睛 套装
+头发＆帽子＆眼睛 组合
 
 ID=24575
-上衣 & 背饰 套
+上衣与后背 套
 
 ID=24576
 下衣 + 鞋子 套
@@ -8279,25 +8285,25 @@ ID=24577
 下衣 & 尾巴 套
 
 ID=24578
-背饰 & 尾巴 套
+后背 & 尾巴 Set
 
 ID=24579
-鞋子 & 袜子 套
+鞋子 & 袜子 Set
 
 ID=24580
-前缀
+开头
 
 ID=24581
-后缀
+结尾
 
 ID=24582
 矿石
 
 ID=24583
-武器石头
+武器矿石
 
 ID=24584
-装甲石头
+装甲矿石
 
 ID=24585
 Vacuum Meter
@@ -8327,10 +8333,10 @@ ID=24593
 强化
 
 ID=24594
-支援者武器 1
+支援者-only 武器 1
 
 ID=24595
-支援者武器 2
+支援者-only 武器 2
 
 ID=24596
 支援者武器 1
@@ -8345,19 +8351,19 @@ ID=24599
 钢笔
 
 ID=24600
-人形
+木偶
 
 ID=24601
 镜头设定
 
 ID=24602
-Cassette
+磁带
 
 ID=24603
 头戴耳机
 
 ID=24604
-Badge
+徽章
 
 ID=24605
 银币
@@ -8369,10 +8375,10 @@ ID=24607
 控制台
 
 ID=24608
-Key
+钥匙
 
 ID=24609
-任务物品
+任务武器
 
 ID=24610
 灵魂武器
@@ -8384,13 +8390,13 @@ ID=24612
 头部
 
 ID=24613
-肩甲
+肩
 
 ID=24614
 身体
 
 ID=24615
-腿部
+腿
 
 ID=24616
 吊坠
@@ -8399,10 +8405,10 @@ ID=24617
 耳环
 
 ID=24618
-耳环
+戒指
 
 ID=24619
-帽子
+上衣
 
 ID=24620
 头部
@@ -8411,25 +8417,25 @@ ID=24621
 眼睛
 
 ID=24622
-口
+嘴巴
 
 ID=24623
-双手
+手
 
 ID=24624
 内衣
 
 ID=24625
-Top
+上衣
 
 ID=24626
-下身
+下衣
 
 ID=24627
 全身
 
 ID=24628
-后背
+背饰
 
 ID=24629
 裤子/袜子
@@ -8438,7 +8444,7 @@ ID=24630
 鞋子
 
 ID=24631
-袜子
+尾
 
 ID=24632
 武器
@@ -8480,7 +8486,7 @@ ID=24644
 纤维
 
 ID=24645
-亚克力
+丙烯酸
 
 ID=24646
 胶
@@ -8552,28 +8558,28 @@ ID=24758
 所有
 
 ID=24759
-pen
+钢笔
 
 ID=24760
-人偶
+木偶
 
 ID=24761
-镜头 设定
+镜头设定
 
 ID=24762
-Cassette
+磁带
 
 ID=24763
 头戴耳机
 
 ID=24764
-Badge
+徽章
 
 ID=24765
 银币
 
 ID=24766
-日常
+一般
 
 ID=24767
 所有
@@ -8594,7 +8600,7 @@ ID=24772
 金币
 
 ID=24773
-SV
+灵魂能量
 
 ID=24774
 以太
@@ -8603,7 +8609,7 @@ ID=24775
 Soulcoin
 
 ID=24776
-浣熊币
+S硬币
 
 ID=24777
 灵魂武器
@@ -8654,7 +8660,7 @@ ID=24792
 包裹
 
 ID=24793
-时装包裹
+时装礼包
 
 ID=24794
 功能
@@ -8666,28 +8672,28 @@ ID=24796
 A.R 卡片
 
 ID=24797
-A.R 卡片 素材
+A.R 卡片素材
 
 ID=24798
 天空卡片
 
 ID=24799
-家具
+附件
 
 ID=24800
 附件
 
 ID=24801
-头
+头部
 
 ID=24802
-帽子
+上衣
 
 ID=24803
-下身
+下衣
 
 ID=24804
-口
+手
 
 ID=24805
 鞋子
@@ -8699,28 +8705,28 @@ ID=24807
 时装
 
 ID=24808
-制作材料
+制作素材
 
 ID=24809
 进化材料
 
 ID=24810
-强化物品
+强化素材
 
 ID=24811
-家具材料
+家具素材
 
 ID=24812
 支援者武器
 
 ID=24813
-支援者外观
+支援者时装
 
 ID=24814
-制品
+外观
 
 ID=24815
-任务物品
+任务武器
 
 ID=24816
 灵魂武器 图纸
@@ -8753,7 +8759,7 @@ ID=24825
 时装图纸
 
 ID=24826
-家具 图纸
+家具图纸
 
 ID=24827
 浴室图纸
@@ -8894,7 +8900,7 @@ ID=25100
 移动
 
 ID=25101
-跳
+跳跃
 
 ID=25102
 基础攻击
@@ -8921,7 +8927,7 @@ ID=25210
 跟 NPC 说话
 
 ID=25211
-请按 [F] 接近 NPC.\n你可以使用商店或者领取任务.
+接近NPC的时候请按[F].\n你可以使用商店或者领取任务报酬.
 
 ID=25212
 主线任务
@@ -8960,13 +8966,13 @@ ID=25244
 你可以通过单击右键激活的特殊能力.\n金的特殊能力击中地面和周围的敌人.\n敌人被冲击震惊.
 
 ID=25245
-你可以通过单击右键激活的特殊能力. \n史黛拉的特殊能力改変她的技能模式.\n使用特殊的能力将返回到先前的模式。
+你可以通过单击右键激活的特殊能力. \n史黛拉的特殊能力改变她的技能模式.\n使用特殊的能力将返回到先前的模式。
 
 ID=25246
 右键可以发动特殊能力。\n伊利斯的特殊能力，是SG回复和持续伤害的能力。
 
 ID=25270
-Dodge
+回避
 
 ID=25271
 在移动或按下移动键两次的\n同时按SHIFT将可以让你避开敌军攻击。
@@ -9017,7 +9023,7 @@ ID=25314
 组合攻击和技能
 
 ID=25315
-攻击恢复
+攻击回复
 
 ID=25316
 超过100％会激活觉醒模式。
@@ -9071,259 +9077,259 @@ ID=26001
 强度
 
 ID=26002
-能量
+能量[%]
 
 ID=26003
 敏捷
 
 ID=26004
-敏捷
+敏捷[%]
 
 ID=26005
 智力
 
 ID=26006
-智力
+智力[%]
 
 ID=26007
-平衡
+均衡
 
 ID=26008
-平衡
+平衡[%]
 
 ID=26009
 HP
 
 ID=26010
-HP
+HP[%]
 
 ID=26011
-幸运
+运气
 
 ID=26012
-幸运
+幸运[%]
 
 ID=26013
 最大生命量
 
 ID=26014
-HP
+HP[%]
 
 ID=26015
 最大生命量
 
 ID=26016
-最大生命量
+最大生命量[%]
 
 ID=26017
 SG
 
 ID=26018
-SG
+SG[%]
 
 ID=26019
 最大 SG
 
 ID=26020
-最大 SG
+最大 SG[%]
 
 ID=26021
 体力
 
 ID=26022
-体力
+体力[%]
 
 ID=26023
 最大体力
 
 ID=26024
-最大体力
+最大体力[%]
 
 ID=26025
 体力回复
 
 ID=26026
-体力回复
+体力回复[%]
 
 ID=26027
 灵魂能量
 
 ID=26028
-灵魂能量
+灵魂能量[%]
 
 ID=26029
 最大灵魂能量
 
 ID=26030
-最大灵魂能量
+最大灵魂能量[%]
 
 ID=26031
-移动速度
+移动速度[%]
 
 ID=26032
-攻击速度
+攻击速度[%]
 
 ID=26033
 攻击力
 
 ID=26034
-攻击力
+攻击力[%]
 
 ID=26035
 魔法攻击力
 
 ID=26036
-魔法攻击力
+魔法攻击力[%]
 
 ID=26037
 防御力
 
 ID=26038
-防御力
+防御力[%]
 
 ID=26039
-魔法抗性
+魔法防御力
 
 ID=26040
-魔法抗性
+魔法防御度[%]
 
 ID=26041
 命中度
 
 ID=26042
-魔法命中度
+魔法命中度[%]
 
 ID=26043
-回避攻击伤害
+回避攻击伤害[%]
 
 ID=26044
-暴击率
+暴击率[%]
 
 ID=26045
-魔法爆率
+魔法爆率[%]
 
 ID=26046
-致命减伤
+暴击减伤[%]
 
 ID=26047
-魔法爆击减伤
+魔法爆击减伤[%]
 
 ID=26048
-暴击率
+暴击率[%]
 
 ID=26049
-魔法爆率
+魔法爆率[%]
 
 ID=26050
 暴击伤害
 
 ID=26051
-暴击伤害
+暴击伤害[%]
 
 ID=26052
-魔法暴击
+魔法暴击攻击力
 
 ID=26053
-魔法暴击
+魔法暴击[%]
 
 ID=26054
-减伤率
+减伤率[%]
 
 ID=26055
-减少伤害
+减少伤害[%]
 
 ID=26056
-魔法减少伤害
+魔法伤害减少[%]
 
 ID=26057
-火抗
+抵抗：火傷[%]
 
 ID=26058
-毒抗
+抵抗：中毒[%]
 
 ID=26059
-电抗
+抵抗：触电[%]
 
 ID=26060
 回避度
 
 ID=26061
-魔法攻击回避度
+魔法攻击回避度[%]
 
 ID=26062
-攻击成功率[Unused]
+攻击成功率-方案[不使用]
 
 ID=26063
-魔法命中成功率[Not Used]
+魔法命中成功率-方案[不使用]
 
 ID=26064
-敌防御贯穿率
+敌防御贯穿率[%]
 
 ID=26065
-魔法敌防御贯穿
+魔法敌防御贯穿[%]
 
 ID=26066
-冷却时间减少
+冷却时间减少[%]
 
 ID=26067
-追伤: PvP
+敌追加伤害: PvP[%]
 
 ID=26068
-伤害较少: PvP
+伤害减少: PvP[%]
 
 ID=26069
-对一般怪物的伤害
+敌追加伤害: 一般怪物[%]
 
 ID=26070
-BOSS 追加伤害
+敌追加伤害: BOSS[%]
 
 ID=26071
-短程攻击造成的伤害
+敌追加伤害: 近距离[%]
 
 ID=26072
-长距离攻击伤害
+敌追加伤害: 远距离[%]
 
 ID=26073
-滞空攻击伤害
+敌追加伤害: 空中[%]
 
 ID=26074
-减少敌方的追加伤害
+敌追加伤害：倒地[%]
 
 ID=26075
-一般怪物伤害减少
+伤害減少：一般怪物[%]
 
 ID=26076
-Boss的伤害减少
+伤害減少：BOSS[%]
 
 ID=26077
-短距离伤害减少
+伤害減少：近距離[%]
 
 ID=26078
-长距离伤害减少
+伤害減少：遠距離[%]
 
 ID=26079
-超级装甲破坏
+超级装甲破坏力[%]
 
 ID=26080
-SG 消耗减少
+SG消耗量减少[%]
 
 ID=26081
-增加EXP收益
+EXP收益[%]
 
 ID=26082
-增加金币获得量
+获得敌人金币量[%]
 
 ID=26083
-增加SV获得量
+SV获得量[%]
 
 ID=26084
-耐久性
+不消耗耐久度
 
 ID=26085
 表情: 偶像之舞
 
 ID=26086
-Change effect when receiving damage_Turn off Options menu[Tooltip]
+受到伤害时的改变效果_选项不显示[Tooltip]
 
 ID=26087
 讨伐成功:HP回复
@@ -9332,112 +9338,112 @@ ID=26088
 讨伐成功:SG回复
 
 ID=26089
-中毒率
+伤害效果：毒性
 
 ID=26090
-燃烧率
+伤害效果：火炎
 
 ID=26091
-反射伤害率
+伤害效果：反射
 
 ID=26092
-出血减伤
+抵抗：出血[%]
 
 ID=26093
-抗性
+抵抗：気絶[%]
 
 ID=26094
-麻痺抗性
+抵抗：麻痺[%]
 
 ID=26095
-沉睡抗性
+抵抗：睡眠[%]
 
 ID=26096
-冰抗
+抵抗：冻结[%]
 
 ID=26097
-抗默
+抵抗：沉默[%]
 
 ID=26098
-装甲贯穿
+抵抗：衰弱[%]
 
 ID=26099
-魅力抗性
+抵抗：诱惑[%]
 
 ID=26100
-混乱抗性
+抵抗：混乱[%]
 
 ID=26101
-SoulJunk势力追伤
+敌追加伤害: SoulJunk势力[%]
 
 ID=26102
-人偶势力追伤
+敌追加伤害: 人形军团[%]
 
 ID=26103
-NED公司势力追伤
+敌追加伤害: NED公司[%]
 
 ID=26104
-Rapid Flames势力追伤
+敌追加伤害: Rapid Flame势力[%]
 
 ID=26105
-Nihilum Kingdom势力追伤
+敌追加伤害: 虚无王国[%]
 
 ID=26106
-Iron Force势力追伤
+敌追加伤害: Iron Force势力[%]
 
 ID=26107
-人工灵魂武器势力追伤
+敌追加伤害: 亚Soulworker[%]
 
 ID=26108
-第六区域势力追伤
+敌追加伤害: 第六区域[%]
 
 ID=26109
-减少伤害：SoulJunk势力
+减少伤害：SoulJunk势力[%]
 
 ID=26110
-减少伤害：人偶势力
+减少伤害：人偶势力[%]
 
 ID=26111
-减少伤害：NED公司下属势力
+减少伤害：NED公司下属势力[%]
 
 ID=26112
-减少伤害: Rapid Flames
+减少伤害: Rapid Flames[%]
 
 ID=26113
-减少伤害：Nihilum Kingdom Gang 势力
+减少伤害：Nihilum Kingdom Gang 势力[%]
 
 ID=26114
-减少伤害：Iron Force势力
+减少伤害：Iron Force势力[%]
 
 ID=26115
-减少伤害：人工Soulworker势力
+减少伤害：人工Soulworker势力[%]
 
 ID=26116
-减少伤害：第六区域 势力
+减少伤害：第六区域 势力[%]
 
 ID=26117
-回避攻击：伤害减少
+伤害減少：攻击失败[%]
 
 ID=26118
-滞空袭击减少伤害
+伤害減少：空中[%]
 
 ID=26119
-减少掉下来的伤害
+伤害減少：落地[%]
 
 ID=26120
-在攻击的时候回复体力
+命中効果：体力回復[%]
 
 ID=26121
-攻击buff
+命中効果：Buff
 
 ID=26122
-伤害特效buff
+伤害効果：Buff
 
 ID=26123
-Buff: 回避上升
+回避効果：Buff
 
 ID=26124
-城镇移动速度加快
+城镇移動速度上升[%]
 
 ID=26125
 战斗移动速度加快
@@ -9521,10 +9527,10 @@ ID=26316
 命中时，5秒内1%机率+{0}%攻击力
 
 ID=26317
-暴击时，3秒内3%机率+{0}%敌防御力贯穿
+暴击时，3秒内3%机率+{0}%敌防御度贯穿
 
 ID=26318
-暴击时，5秒内1%机率+{0}%敌防御力贯穿
+暴击时，5秒内1%机率+{0}%敌防御度贯穿
 
 ID=26319
 受到攻击时，3秒内15%机率+{0}回避度
@@ -9542,7 +9548,7 @@ ID=26323
 在城镇中，+{0}%移动速度
 
 ID=26324
-被boss命中时，5秒内10%机率+{0}%减伤 
+被boss命中时，5秒内10%机率+{0}%减伤
 
 ID=26325
 回避时，下一击+{0}%攻击力
@@ -9704,19 +9710,19 @@ ID=26377
 冲刺时，5秒内10%机率+{0}%SA破坏力
 
 ID=26378
-冲刺时，5秒内10%机率+{0}%敌防御力贯穿
+冲刺时，5秒内10%机率+{0}%敌防御度贯穿
 
 ID=26379
 讨伐成功:5秒内+{0}攻击力
 
 ID=26380
-讨伐成功:5秒内+{0}%SA破坏力 
+讨伐成功:5秒内+{0}%SA破坏力
 
 ID=26381
 讨伐成功:5秒内-{0}%敌方防御
 
 ID=26500
-讨伐敌人后，30秒内+{0}%敌防御力贯穿
+讨伐敌人后，30秒内+{0}%敌防御度贯穿
 
 ID=27000
 受到攻击时，3秒内5%机率+{0}%攻击力
@@ -9782,7 +9788,7 @@ ID=27813
 讨伐时，5秒内5%机率+{0}%攻击力
 
 ID=27814
-讨伐时，10秒内5%机率+{0}%防御力
+讨伐时，10秒内5%机率+{0}%防御力 
 
 ID=27815
 当获得金币，10秒内以获得数量所对应+{0}%防御力
@@ -9917,13 +9923,13 @@ ID=27858
 SV回复时，3秒内10%机率+{0}%移动速度
 
 ID=27859
-当SA被破坏时，5秒内50%机率+{0}%敌防御力贯穿
+当SA被破坏时，5秒内50%机率+{0}%敌防御度贯穿
 
 ID=27860
 在命中目标并且破坏了50%的SA时，+{0}%SA破坏力
 
 ID=27861
-+{0}%城镇移动速度
+在城镇中，+{0}%移动速度
 
 ID=27862
 HP回复时，4秒内10%机率+{0}%攻击速度
@@ -9932,16 +9938,16 @@ ID=27863
 SV回复时，4秒内10%机率+{0}%攻击速度
 
 ID=27864
-当获得以太，10秒内+{0}%攻击速度 
+当获得以太，10秒内+{0}%攻击速度
 
 ID=27865
-当获得以太，10秒内+{0}%移动速度 
+当获得以太，10秒内+{0}%移动速度
 
 ID=27866
-当获得金币，10秒内+{0}%攻击速度 
+当获得金币，10秒内+{0}%攻击速度
 
 ID=27867
-当获得金币，10秒内+{0}%移动速度 
+当获得金币，10秒内+{0}%移动速度
 
 ID=27868
 HP回复时，3秒内10%机率+{0}防御力
@@ -10007,7 +10013,7 @@ ID=28014
 公会创立信息
 
 ID=28015
-公会名
+公会名称
 
 ID=28016
 公会会长
@@ -10031,7 +10037,7 @@ ID=28022
 公会 "{0}" 建立.
 
 ID=28023
-建立公会
+创立公会
 
 ID=28024
 公会不能创建.\n你在前{0}天解散了公会.
@@ -10058,7 +10064,7 @@ ID=28031
 ※ 请输入公会名称进行解散.
 
 ID=28032
-该公会无法解散
+该公会未被解散.
 
 ID=28033
 名字输入有误
@@ -10166,7 +10172,7 @@ ID=28067
 无法创建公会宣言.\n请等 {0} 分后重试.
 
 ID=28068
-取消公会公告
+无法编辑公会公告
 
 ID=28069
 想发布公会通知吗
@@ -10187,7 +10193,7 @@ ID=28074
 取消公会公告
 
 ID=28075
-在 {0} 分钟后再去重新发帖揭示板.
+在 {0} 分钟后再去重新在揭示板发布.
 
 ID=28076
 该公会未创建公告栏.
@@ -10268,7 +10274,7 @@ ID=28101
 拒绝成员
 
 ID=28102
-公会候选人达到上限; 无法接受更多人.
+公会候补达到上限; 无法容纳更多人.
 
 ID=28103
 该公会已满;无法接收更多成员.
@@ -10286,7 +10292,7 @@ ID=28107
 {0} 已加入.
 
 ID=28108
-{0} 已经加入了 "{1}" 公会.
+{0} 加入了 "{1}" 公会.
 
 ID=28109
 如果你离开公会，在一天内你无法加入任何公会.\n 你是否要离开？
@@ -10307,7 +10313,7 @@ ID=28114
 {0} 离开了公会.
 
 ID=28115
-你是否要逐 {0} 出这个公会公会？
+你是否要踢 {0} 出这公会？
 
 ID=28116
 确认踢出成员
@@ -10319,7 +10325,7 @@ ID=28118
 踢出成员
 
 ID=28119
-{0} 已经被踢出公会.                                                            
+{0} 已经被踢出公会.
 
 ID=28120
 你被 {0} 踢出.
@@ -10331,7 +10337,7 @@ ID=28122
 无法踢出公会
 
 ID=28123
-公会已达到 {0}.
+公会升级成 {0} 级.
 
 ID=28124
 公会技能信息
@@ -10352,7 +10358,7 @@ ID=28129
 Lv
 
 ID=28130
-职业
+角色
 
 ID=28131
 阶级
@@ -10391,13 +10397,13 @@ ID=28142
 提醒
 
 ID=28143
-公告
+编辑公告
 
 ID=28144
-创立
+创建
 
 ID=28145
-取消创立
+取消建立
 
 ID=28146
 公会技能
@@ -10439,7 +10445,7 @@ ID=28158
 修改等级
 
 ID=28159
-重置等级
+重制称号
 
 ID=28160
 请求中心
@@ -10451,7 +10457,7 @@ ID=28162
 公会邀请
 
 ID=28163
-踢出
+踢出公会
 
 ID=28164
 公会 商店/自动售卖机
@@ -10484,16 +10490,16 @@ ID=28173
 公会招募
 
 ID=28174
-公会名
+公会名称
 
 ID=28175
 公会会长
 
 ID=28176
-寻找
+搜索
 
 ID=28177
-公会待定名单
+公会待机名单
 
 ID=28178
 应用
@@ -10604,7 +10610,7 @@ ID=28213
 在{0}分钟后公告将会生效.
 
 ID=28214
-公会公告已取消.
+公会招募告知编辑补课.
 
 ID=28215
 你要发布该公会通知或募集广告吗？
@@ -10622,13 +10628,13 @@ ID=28219
 Off
 
 ID=28220
-公会 EXP
+公会经验值
 
 ID=28221
 {0}/{1}
 
 ID=28222
-公会成员消费疲劳时获取.\n每天最多消耗200次疲劳.\n每天最多能获得{0} 公会经验.
+公会成员消费疲劳时获取.\n每天最多消耗200次疲劳.\n公会经验每天最多只能获得{0}.
 
 ID=28223
 Lv
@@ -10646,22 +10652,22 @@ ID=28227
 最近动态
 
 ID=28228
-小时
+时
 
 ID=28229
 {0} 公会点数已获得
 
 ID=28230
-公会技能 {0} Lv{1} 已学
+公会技能 {0} Lv{1} 已习得。
 
 ID=28231
-公会标志
+公会图标
 
 ID=28232
-选择设计
+选择模样
 
 ID=28233
-基础设置
+基础选择
 
 ID=28234
 装饰
@@ -10676,7 +10682,7 @@ ID=28237
 该公会标记已应用.
 
 ID=28238
-该公会标记已改変.
+该公会标记已改变.
 
 ID=28239
 {0} 升级 Lv{1}. 
@@ -10718,7 +10724,7 @@ ID=28251
 入库
 
 ID=28252
-收回
+回收
 
 ID=28253
 公会仓库级别不足以执行该操作.
@@ -10781,7 +10787,7 @@ ID=29006
 管理房间
 
 ID=29007
-房间设定
+设定
 
 ID=29009
 布局模式解除
@@ -10805,7 +10811,7 @@ ID=29015
 搜索
 
 ID=29016
-一般
+所有
 
 ID=29017
 星座排序
@@ -10907,13 +10913,13 @@ ID=29049
 {0} 被你踢出房间.
 
 ID=29050
-改変房间布局
+改变房间布局
 
 ID=29051
 准备管理你的房间，所有客人将会被踢出.\n 你愿意要这样做吗？\n (确认)
 
 ID=29052
-关闭放置模式
+布局模式解除
 
 ID=29053
 你确认要退出放置模式？
@@ -10931,7 +10937,7 @@ ID=29057
 旋转镜头
 
 ID=29058
-変焦镜头
+变焦镜头
 
 ID=29059
 重置镜头
@@ -10958,10 +10964,10 @@ ID=29066
 房间揭示板
 
 ID=29067
-揭示板
+留言板
 
 ID=29068
-本月排名
+排名
 
 ID=29069
 上月排名
@@ -10970,7 +10976,7 @@ ID=29070
 收藏
 
 ID=29071
-进入
+入场
 
 ID=29072
 代表家具
@@ -11009,7 +11015,7 @@ ID=29083
 前10名
 
 ID=29084
-阶级
+排名
 
 ID=29085
 排名信息
@@ -11018,7 +11024,7 @@ ID=29086
 预览
 
 ID=29087
-要求
+获取报酬
 
 ID=29088
 每个月的第一天日本时间上午九点更新数据并且重置排名. (日本时间上午九点更新数据)
@@ -11042,7 +11048,7 @@ ID=29094
 你不在房间的时候，无法创建.
 
 ID=29095
-你无法获得奖励.
+无法获得奖励.
 
 ID=29096
 请输入至少一个字符.
@@ -11066,13 +11072,13 @@ ID=30003
 备忘
 
 ID=30100
-正在寻找队伍
+队伍募集中
 
 ID=30101
-正在寻找公会
+公会募集中
 
 ID=30102
-寻找好友
+好友募集中
 
 ID=30103
 单刷玩家[别烦我]
@@ -11120,7 +11126,7 @@ ID=31011
 你无法加入队伍.
 
 ID=31012
-你无法邀请更多成员.
+你无法邀请更多人.
 
 ID=31013
 [{0}] 已拒绝了队伍邀请.
@@ -11129,16 +11135,16 @@ ID=31014
 [{0}] 已经加入队伍
 
 ID=31015
-你已经加入队伍
+队伍合流了。
 
 ID=31016
 [{0}] 被踢出队伍
 
 ID=31017
-你被突出队伍
+你被队长踢出了队伍
 
 ID=31018
-[{0}] 离开队伍
+[{0}] 离开了队伍
 
 ID=31019
 你离开了队伍
@@ -11147,13 +11153,13 @@ ID=31020
 [{0}] 是队伍队长
 
 ID=31021
-[{0}] 让你成为队长
+[{0}] 委任你来当队长。
 
 ID=31022
-时间超时，[{0}] 取消了加入队伍.
+超过时间限制，[{0}] 取消了加入队伍.
 
 ID=31023
-由于有成员不符合级别要求无法加入.
+有成员没满足等级要求，无法加入.
 
 ID=31024
 当前队伍无法进入该区域
@@ -11162,7 +11168,7 @@ ID=31025
 没有足够的成员移动到下一个区域
 
 ID=31026
-只有公会都在同一个城市才能加入副本.
+只有队伍都在同一个城市才能加入副本.
 
 ID=31027
 无法加入队伍因为有成员还没装备武器.
@@ -11195,19 +11201,19 @@ ID=31036
 无法进入副本 {0} {1} {2} 在其他地区或已登出游戏 .
 
 ID=31037
-{0} 队友成员拒绝进入该副本.
+队伍中的 {0} 拒绝了副本入场请求.
 
 ID=31038
 队伍邀请
 
 ID=31039
-离开队伍 
+离开队伍
 
 ID=31040
-离开队伍 
+离开队伍
 
 ID=31041
-离开队伍 
+离开队伍
 
 ID=31042
 请求加入
@@ -11216,7 +11222,7 @@ ID=31043
 入场请求准备
 
 ID=31044
-改変队伍队长
+改变队伍队长
 
 ID=31045
 踢出队伍
@@ -11240,7 +11246,7 @@ ID=31051
 自动匹配搜索被拒
 
 ID=31052
-正在自动匹配 
+正在自动匹配
 
 ID=31053
 自动匹配已经退出
@@ -11306,7 +11312,7 @@ ID=31073
 队伍申请
 
 ID=31074
-募集登录
+募集登记
 
 ID=31075
 队伍申请者
@@ -11324,16 +11330,16 @@ ID=31079
 {0}分
 
 ID=31080
-申请
+应用
 
 ID=31081
 搜索
 
 ID=31082
-募集解除
+解除募集
 
 ID=31083
-募集登录
+募集登记
 
 ID=31084
 招待
@@ -11351,7 +11357,7 @@ ID=31088
 拒绝
 
 ID=31089
-内容
+资讯
 
 ID=31090
 目的
@@ -11363,7 +11369,7 @@ ID=31092
 人数
 
 ID=31093
-剩余时间
+所剩时间
 
 ID=31094
 名字
@@ -11372,13 +11378,13 @@ ID=31095
 Lv
 
 ID=31096
-类型
+角色
 
 ID=31097
 位置
 
 ID=31098
-时间
+时
 
 ID=31099
 名字
@@ -11405,7 +11411,7 @@ ID=31106
 募集待机30分钟.
 
 ID=31107
-当你解除招募之后，\n 直到时间结束前你无法重新登记. 你确定解除自己的招募广告吗？ 
+当你解除招募之后，\n 直到时间结束前你无法重新登记. 你确定解除自己的招募广告吗？
 
 ID=31108
 队伍已满 (无法加入).
@@ -11414,7 +11420,7 @@ ID=31109
 请给队伍的目标目标.
 
 ID=31110
-你的队伍招募还有 [{0}]分[{1}]秒.
+你的队伍招募时间还有 [{0}]分[{1}]秒.
 
 ID=31111
 请求队伍成功.\n队伍请求将在30分钟后自动解除.\n(所剩的请求数量: {0}次)
@@ -11432,7 +11438,7 @@ ID=31115
 已请求.
 
 ID=31116
-太多请求. 请稍后重试.
+请求過多. 请稍后重试.
 
 ID=31117
 将会募集10分钟，是否募集？
@@ -11477,13 +11483,13 @@ ID=31130
 队伍已满，待加入的人员将会被回绝.
 
 ID=31131
-待加入的人拒绝了申请.
+待机者拒绝了申请.
 
 ID=31132
 重复申请.
 
 ID=31133
-请求过于繁忙.
+申请请求过于繁忙.
 
 ID=31134
 待机登录
@@ -11513,7 +11519,7 @@ ID=31142
 等待成员响应.\n(如果你不想进去请点击“取消”)
 
 ID=31143
-拒绝 {0} 入场请求.
+ {0} 拒绝了再次入场的请求.
 
 ID=31144
 是否重新挑战该副本？
@@ -11522,19 +11528,19 @@ ID=31145
 当队伍退队之后，你可能无法再次进入副本.
 
 ID=31146
-无法重进副本，因为你体力不足.
+因为你的疲劳不足，无法重新挑战副本。
 
 ID=31147
-无法进入副本因为 {0} 疲劳不足.
+无法再次挑战副本，因为 {0} 的疲劳不足。
 
 ID=31148
-副本重进的时间要 {0} 秒.
+副本再挑战的等待时间： {0} 秒.
 
 ID=31149
 队长取消了加入 {0} 副本的请求.
 
 ID=31150
-拒绝进入副本
+取消副本ru'cha
 
 ID=31151
 目的
@@ -11549,7 +11555,7 @@ ID=31154
 离开队列
 
 ID=31155
-你进入副本后可能已通关了.
+现在进行中的副本要结束后才能再次入场。
 
 ID=31156
 副本无法进入因为你已经离线超过了3分钟.
@@ -11651,7 +11657,7 @@ ID=32012
 物品
 
 ID=32013
-阶级
+排名
 
 ID=32014
 队伍
@@ -11678,7 +11684,7 @@ ID=32021
 地图
 
 ID=32022
-库存
+背包
 
 ID=32023
 系统设置
@@ -11687,7 +11693,7 @@ ID=32024
 操作键
 
 ID=32025
-攻击
+输出性能
 
 ID=32026
 伤害
@@ -11717,7 +11723,7 @@ ID=32034
 角色技能
 
 ID=32035
-A.R 卡
+A.R 卡片
 
 ID=32036
 破坏技能
@@ -11732,13 +11738,13 @@ ID=32039
 技能使用方法
 
 ID=32040
-显示连招技能
+显示技能连招组合
 
 ID=32041
 Combo
 
 ID=32042
-异常情况
+异常状态
 
 ID=32043
 灵魂能量
@@ -11765,13 +11771,13 @@ ID=32050
 公会
 
 ID=32051
-公会 技能
+公会技能
 
 ID=32052
 公会投票
 
 ID=32053
-公会商店/自动贩卖机
+公会 商店/自动售卖机
 
 ID=32054
 公会战
@@ -11783,7 +11789,7 @@ ID=32056
 公会仓库
 
 ID=32057
-Pet
+宠物
 
 ID=32058
 副本据点
@@ -11792,13 +11798,13 @@ ID=32059
 发生事件
 
 ID=32060
-地区
+地区移动
 
 ID=32061
 城镇
 
 ID=32062
-类型
+种类
 
 ID=32063
 接口
@@ -11807,7 +11813,7 @@ ID=32064
 提示框
 
 ID=32065
-耐久
+耐久度
 
 ID=32066
 强化
@@ -11831,7 +11837,7 @@ ID=32072
 自动匹配
 
 ID=32073
-寻找队伍
+队伍搜索
 
 ID=32074
 好友
@@ -11849,7 +11855,7 @@ ID=32078
 命令
 
 ID=32079
-名称
+称号
 
 ID=32080
 任务
@@ -11876,22 +11882,22 @@ ID=32087
 家具
 
 ID=32088
-镜头
+操作设定
 
 ID=32089
-表现
+偏好
 
 ID=32090
-图像 
+图像
 
 ID=32091
-声音
+声音设定
 
 ID=32092
-按键设置
+热键设定
 
 ID=32093
-聊天设定
+自动聊天设定
 
 ID=32094
 寻找好友
@@ -11906,7 +11912,7 @@ ID=32097
 制作
 
 ID=32098
-发布
+释放
 
 ID=32099
 合成
@@ -11945,7 +11951,7 @@ ID=33000
 こんにちは。\n私、この入り混じりし世にて至极のショーを求め彷徨う「道化师エドガー」と申します。\n突然のお手纸に、さぞ惊かれたことでしょう。\nですが、あなたの力に感叹を禁じえなかったこの思いをお伝えしたかったのです。\nあなたのその力は、短い我が人生の中でもっとも美しく印象的でした。\n华やかでありながら地味で、美しくも汚らわしい、\nそして…平穏でありながら破壊的な…。\nこの破裂しそうな私の気持ちをどう表现すべきか、悩んだ末に结论を出しました。\nあなたに…ささやかなプレゼントを赠ります。\nその力に対し敬意を表するという意味ゆえ、どうか拒否されませんよう。\nプレゼントは、あなた方が「ショッピングストリート」と呼ぶ场所で确认できます。\n愿わくば…気に入ってくださらんことを祈りつつ。\n-道化师エドガーより-
 
 ID=33001
-少しずつ、あなたとの距离が缩まるのを感じます。\n遅かれ早かれ出会うことになりますが、\n待つ时间が长いほど、出会いの瞬间というのはすばらしく辉くものです。\nドラマチックな状况を演出するために、ちょっとしたゲームを准备いたしました。\n私がいる部屋の前へは、今のあなたの力では辿り着くことはできません。\nしかし、私の部下が持っているバッジを身につけたなら、 \n明け方の森の中を歩くかのごとく通过できるよう演出しました。\nお急ぎください。\nあなたを待ち焦がれるこの気持ちが、憎悪に変わるその前に…。\n-道化师エドガーより-
+少しずつ、あなたとの距离が缩まるのを感じます。\n遅かれ早かれ出会うことになりますが、\n待つ时间が长いほど、出会いの瞬间というのはすばらしく辉くものです。\nドラマチックな状况を演出するために、ちょっとしたゲームを准备いたしました。\n私がいる部屋の前へは、今のあなたの力では辿り着くことはできません。\nしかし、私の部下が持っているバッジを身につけたなら、 \n明け方の森の中を歩くかのごとく通过できるよう演出しました。\nお急ぎください。\nあなたを待ち焦がれるこの気持ちが、憎悪に变わるその前に…。\n-道化师エドガーより-
 
 ID=33002
 -レポート：アマリリス-\n\n1．SJ-DS-01にソウルエナジー耐性机能を追加。状态はとても不安定。\n\n2．SJ-DS-01は、ソウルエナジーの宿主である人间に寄生できることが判明。\n寄生対象となった人间は、ソウルエナジーを持続的に夺われ、皮肤が石膏のように固まってSJ-DS-01の食料となる。\n\n3．SJ-DS-01をディグニティースナッチャーと名付ける。ディグニティースナッチャーの内部に蓄えられているソウルエナジーの総量が存在することが明らかになる。しかし、平凡な人间は该当総量を全て满たす程のソウルエナジーを持ち合わせていない。现在の総量は测定不可。
@@ -12158,13 +12164,13 @@ ID=34009
 栽培
 
 ID=34010
-帮忙
+指引
 
 ID=34011
 {0}天
 
 ID=34012
-{0}时 {1}分
+{0}小时 {1}分
 
 ID=34013
 {0}分
@@ -12212,7 +12218,7 @@ ID=34027
 作物已经获得了生长时间的增长.
 
 ID=34028
-作物不能进行促进生长的效果因为里面没东西.
+作物不能进行促进生长，因为作物已成熟或没有东西.
 
 ID=34029
 确定要停止收获 {0}？\n (所有投入的材料将不予退还)
@@ -12239,7 +12245,7 @@ ID=34036
 收获
 
 ID=34037
-帮助
+指引
 
 ID=34038
 你是否开始栽培？
@@ -12278,7 +12284,7 @@ ID=35009
 回复
 
 ID=35010
-情况
+资讯
 
 ID=35011
 EXP
@@ -12296,13 +12302,13 @@ ID=35101
 黑名单
 
 ID=35102
-聊天设置
+自动聊天设定
 
 ID=35103
-Ah!
+啊
 
 ID=35104
-Ah!
+啊
 
 ID=35105
 打出 {0} 伤害.
@@ -12317,7 +12323,7 @@ ID=35108
 {0}的状况已更改为 {1}.
 
 ID=35109
-{0} 被耗尽. 
+{0} 被耗尽.
 
 ID=35110
 {0} 已使用.
@@ -12329,7 +12335,7 @@ ID=35112
 {0} 现在是 Lv{1}.
 
 ID=35113
-{0} SP 获得. 
+{0} SP 获得.
 
 ID=35114
 因为聊天限制，你不能在10秒谈话.\n(还剩 {0} 秒)
@@ -12356,10 +12362,10 @@ ID=35203
 消耗 {1} BP 就能购买 {0}
 
 ID=36000
-任何东西
+选择
 
 ID=36001
-确认
+确定
 
 ID=36002
 关闭
@@ -12410,7 +12416,7 @@ ID=37005
 {0} 斩杀了boss，未知生命体在第六区域被消灭了.
 
 ID=37006
-空白中的裂缝已在第六区域中消失.
+未知的问题在第六区域消失.
 
 ID=37007
 空白中的裂缝已在第六区域中出现.\n裂缝消失前， 请打倒核心和本体.\n(距离裂缝消失还有: {0} 分钟)
@@ -12470,10 +12476,10 @@ ID=37502
 列表
 
 ID=37503
-内容
+资讯
 
 ID=37506
-进展信息
+进度信息
 
 ID=37507
 奖励
@@ -12524,10 +12530,10 @@ ID=37522
 排名检查
 
 ID=37523
-等级
+排名
 
 ID=37524
-名字
+角色名
 
 ID=37525
 积累的灵魂点
@@ -12539,7 +12545,7 @@ ID=37527
 当前能量点数
 
 ID=37529
-公会名
+公会名称
 
 ID=37530
 结果
@@ -12548,13 +12554,13 @@ ID=37531
 奖励内容
 
 ID=37532
-要求
+获取报酬
 
 ID=37537
 达成灵魂
 
 ID=37538
-个人的
+个人
 
 ID=37539
 公会
@@ -12725,64 +12731,64 @@ ID=38520
 宗师 A
 
 ID=38521
-2% 追加 EXP
+2% EXP 加成
 
 ID=38522
-4% 追加 EXP
+4% EXP 加成
 
 ID=38523
-6% 追加 EXP
+6% EXP 加成
 
 ID=38524
-9% 追加 EXP
+9% EXP 加成
 
 ID=38525
-12% 追加 EXP
+12% EXP 加成
 
 ID=38526
-15% 追加 EXP
+15% EXP 加成
 
 ID=38527
-19% 追加 EXP
+19% EXP 加成
 
 ID=38528
-23% 追加 EXP
+23% EXP 加成
 
 ID=38529
-27% 追加 EXP
+27% EXP 加成
 
 ID=38530
-32% 追加 EXP
+32% EXP 加成
 
 ID=38531
-37% 追加 EXP
+37% EXP 加成
 
 ID=38532
-42% 追加 EXP
+42% EXP 加成
 
 ID=38533
-48% 追加 EXP
+48% EXP 加成
 
 ID=38534
-54% 追加 EXP
+54% EXP 加成
 
 ID=38535
-60% 追加 EXP
+60% EXP 加成
 
 ID=38536
-67% 追加 EXP
+67% EXP 加成
 
 ID=38537
-74% 追加 EXP
+74% EXP 加成
 
 ID=38538
-82% 追加 EXP
+82% EXP 加成
 
 ID=38539
-90% 追加 EXP
+90% EXP 加成
 
 ID=38540
-100% 追加 EXP
+100% EXP 加成
 
 ID=39950
 <font color='#C6C5B6'>{0}</font>
@@ -12827,7 +12833,7 @@ ID=40014
 使用技能
 
 ID=40015
-Dodge
+回避
 
 ID=40016
 Or
@@ -12851,7 +12857,7 @@ ID=40105
 请移动.
 
 ID=40106
-陪伴并跟 Miriam谈话.
+陪伴并跟Miriam谈话.
 
 ID=40107
 请跟 Benjamin 说话.
@@ -12866,31 +12872,31 @@ ID=40110
 请通过使用技能破坏特殊磁场.
 
 ID=40111
-请上前拉下杆子
+请上去操作杠杆
 
 ID=40112
 请通过使用控制房间中间的杠杆激活炸弹.
 
 ID=40113
-请销毁高速公路中的 C4.
+请销毁高速公路中的 C4 炸弹.
 
 ID=40114
-请拉动杠杆以使有毒气体通风出去。
+请拉动杠杆，停止有毒气体喷出。
 
 ID=40115
 破坏4个屏蔽控制器后，再摧毁AI内核。
 
 ID=40116
-请激活核心控制单元
+请激活核心控制装置
 
 ID=40117
-请激活电梯控制单元
+请激活电梯控制装置
 
 ID=40118
-在移动到下一个区域之前，必须解除特殊屏障。
+在移动到下一个区域之前，必须解除特殊屏障才能移动。
 
 ID=40119
-请在炸弹引爆之前请清空所有SoulJunk.
+请在炸弹引爆之前请打败所有 SoulJunk.
 
 ID=40120
 进入安全区域
@@ -12941,13 +12947,13 @@ ID=40139
 如果敌人在地板上步进，吸血效果将在20秒内失效.
 
 ID=40140
-进入发光区域10秒内、将会增加你的攻击.
+踩上发光区域10秒内、将会增加你的攻击力.
 
 ID=40141
-进入发光的地方5秒内、会麻痺你自己.
+踩上发光区域5秒内、你将会被麻痹.
 
 ID=40142
-踩上发光的地方10秒内、会减慢你的速度.
+踩上发光区域10秒内、会减慢你的速度.
 
 ID=40143
 敌人在后面出现了.
@@ -12980,7 +12986,7 @@ ID=40152
 所有秘密盒子在时间限制过后消失.
 
 ID=40153
-请赶紧跳上祭坛躲避攻击
+请赶紧跳上祭坛来躲避攻击
 
 ID=40154
 JunkKnight 正在准备蓄力攻击.\n攻击他来阻止他.
@@ -13001,16 +13007,16 @@ ID=40159
 当幻影出现后，KingJunk 的防御力将会增加.
 
 ID=40160
-箱子被破坏后，Edgar将会出现.
+箱子被破坏后，Edgar 将会出现.
 
 ID=40161
-敌军被打倒时，Edgar将会出现.
+敌军被打倒时，Edgar 将会出现.
 
 ID=40162
-箱子没被破坏后，Edgar将会出现.
+箱子没被破坏时，Edgar 将会出现.
 
 ID=40163
-Phantom的分身爆炸，将会在30秒内增强Phantom的防御力.
+Phantom的分身爆炸时，将会在30秒内增强他自身的防御力.
 
 ID=40164
 AI 露西激活了自己的防御系统.
@@ -13058,7 +13064,7 @@ ID=40178
 打倒敌军后，隐藏开关将会出现.
 
 ID=40179
-方块使用后，隐藏开关将会出现.
+使用方块后，隐藏开关将会出现.
 
 ID=40180
 使用控制装置来旋转浮动平台.
@@ -13070,7 +13076,7 @@ ID=40182
 仆子核心的防御功能已激活.
 
 ID=40183
-请使用仆子控制装置来关闭仆子核心.
+请使用仆子控制装置来关闭仆子核心继续工作.
 
 ID=40184
 打败所有敌人后，防御系统将会停止.
@@ -13079,22 +13085,22 @@ ID=40185
 两个安全系统激活后，你可以解除爆发核心的防御.
 
 ID=40186
-当你操作了两个装置时，安全装置的能源将会切断.
+当你操作了两个装置时，安全装置的能源将会被切断.
 
 ID=40187
 主电源已被切断，15秒后才能打开门口.
 
 ID=40188
-第二能源已被切断. 请切换两个开关使第三电源切断.
+副能源已被切断. 请切换两个开关使第三电源切断.
 
 ID=40189
-主电源已被切断. 最后的门口在15秒后开启.
+主电源已被切断. 最后的门口将在15秒后开启.
 
 ID=40190
-强有力的电磁磁场在爆发核心中激活自主防御系统
+强有力的电磁场在爆发核心中激活自主防御系统中。
 
 ID=40191
-爆发核心的自主防御系统将会在5秒后生成电磁磁场. 请在两边避难
+爆发核心的自主防御系统将会在5秒后生成电磁场. 请往两边避难
 
 ID=40192
 在30秒内打倒敌军主力，随后会出现更多的敌人
@@ -13133,13 +13139,13 @@ ID=40203
 电梯中的入侵警报已激活.\n启动两个开关以停止警报.
 
 ID=40204
-班车定时来回. 请寻找安全的位置战斗.
+班车定时来回. 请寻找安全的位置进行战斗.
 
 ID=40205
-班车定时来回. 请在战斗的时候回避.
+班车定时来回. 请在战斗的时候及时回避.
 
 ID=40206
-请激活中央单位停止班车有㣽.
+请激活中央控制装置来停止班车继续运行.
 
 ID=40207
 请启动开关禁用门口的电力.
@@ -13172,7 +13178,7 @@ ID=40216
 使用电源控制器关闭电磁场.
 
 ID=40217
-使用中央单位打开大门.
+使用中央装置来打开大门.
 
 ID=40218
 大门已打开.
@@ -13193,13 +13199,13 @@ ID=40223
 广域攻击将会来临.\n激活开关来停止袭击。
 
 ID=40224
-敌军将会出现.\n摧毁中心控制装置并停止敌人
+敌军增援将会出现.\n摧毁中心控制装置来阻止敌人入侵
 
 ID=40225
-第二波将会出现.\n停止增援的话， 需要破坏增援机关.
+第二波增援将会出现.\n停止增援的话，需要破坏增援机关.
 
 ID=40226
-自主防御系统只有4级安全系统都被禁用时，设备运行时才能激活.
+自主防御系统只有在4级安全系统都被禁用后，设备才能激活.
 
 ID=40227
 在两个安全设备中，其中有个是假陷阱.\n 另一个将打开门到下一个区域.
@@ -13208,10 +13214,10 @@ ID=40228
 新的敌人将会出现.\n请注意.
 
 ID=40229
-飞机抵达.\n请回避.
+飞机抵达现场.请赶紧回避.
 
 ID=40230
-电梯入侵警报已激活.\n打败所有敌军， 关闭开关停止警报系统.
+电梯入侵警报已激活.\n打败所有敌军才能停止警报系统.
 
 ID=40231
 未定
@@ -13223,16 +13229,16 @@ ID=40233
 未定
 
 ID=40234
-无法决定
+未定
 
 ID=40235
-敌军的HP正在回复.\n 请迅速中和他们
+敌军的HP正在回复.\n 请迅速中和他们以防继续回复
 
 ID=40236
-如果超过1-2个S.F.L的保护装置被破坏后，能量充电将会停止
+如果超过 1-2 个 S.F.L 保护装置被破坏，充能装置将会停止工作
 
 ID=40237
-经过一定时间， 敌方不会再出来.
+经过一定时间，敌方不会再出来.
 
 ID=40238
 东面出现敌人.
@@ -13256,10 +13262,10 @@ ID=40244
 请占领最后的Mad Beholder实验室.\n如果不去的话将会让入侵防御系统一直处于激活状态.
 
 ID=40245
-在60秒破坏激光机关.
+在60秒内破坏所有激光机关.
 
 ID=40246
-陷阱可以根据其类型决定他的战斗目的.
+陷阱可以根据其类型决定他的战斗方式.
 
 ID=40247
 请注意磁场.
@@ -13310,7 +13316,7 @@ ID=40262
 控制器已被激活.\n最终将会出现.
 
 ID=40263
-当控制器被激活时，增益效果激活. 
+当控制器被激活时，增益效果激活.
 
 ID=40264
 当控制器被激活时，攻击力增加.
@@ -13319,7 +13325,7 @@ ID=40265
 当控制器被激活时，防御力增加.
 
 ID=40266
-每二十秒控制器召唤新敌人.
+每20秒，控制器会召唤新的敌人.
 
 ID=40267
 当控制器被激活时，将触发激光束.\n请注意激光会无差别攻击所有的敌人和玩家.
@@ -13328,13 +13334,13 @@ ID=40268
 每20 秒，将出现2个控制器.\n激活两边的控制器来发射激光.
 
 ID=40269
-确认激光炮发射请求.\n大砲很快发动射击.
+确认激光炮发射请求.\n大炮即将开始射击.
 
 ID=40270
 破坏土地破碎机后，控制器将会出现.
 
 ID=40271
-激活两个控制器时，网状区域会出现，并大大减少Warlike的防御力.
+激活两个控制器时，网状区域将会出现，并大大减少Warlike的防御力.
 
 ID=40272
 当控制器使用后，将会得到从加特林枪的火的支援。不过只能使用一次.
@@ -13343,13 +13349,13 @@ ID=40273
 30 秒后，激活控制器将激发强大的激光能量.\n激光炮会攻击一切，造成最大HP的90％的伤害.
 
 ID=40274
-激光炮将很快被射击。
+激光炮即将进行射击。
 
 ID=40275
-当方块破坏之后，你将能恢复 HP.
+当方块破坏之后，你将能回复自己的HP.
 
 ID=40276
-Crawler将通过自毁恢复敌人的HP。
+Crawler将通过自毁来恢复敌人的HP。
 
 ID=40277
 在Dark Worm，每一个真空脉冲将会增加攻击力与防御力，
@@ -13358,10 +13364,10 @@ ID=40278
 打败敌人 控制器将会唤醒.
 
 ID=40279
-当控制器被激活时，右侧的障碍物将会.
+当控制器被激活时，右侧的障碍物将会消失.
 
 ID=40280
-当控制器被激活时，左边的障碍会释放.
+当控制器被激活时，左边的障碍物会消失.
 
 ID=40281
 在设定的时间中，将会出现对敌人有害的电场。
@@ -13391,13 +13397,13 @@ ID=40289
 当S-00低于60％HP时，玩家和敌人的HP都将完全恢复。
 
 ID=40290
-当控制器被激活时， 敌人将会出现.
+控制器被激活后，敌军将会出现.
 
 ID=40291
-每30秒， 玩家将受到一个重击的debuff.\n 摧毁方体，以防止持续发生的减益效果.
+每30秒，玩家将受到一个致命的负面buff.\n 摧毁方体，以防止持续发生的减益效果.
 
 ID=40292
-每15秒， 磁波可能出现在各个区域并损坏玩家。
+每15秒，磁波可能出现在各个区域并损坏玩家。
 
 ID=40293
 野生的浣熊出现了！\n 打倒小浣熊后，你可以获得大量奖励.
@@ -13406,31 +13412,31 @@ ID=40294
 人工智能露西正在操作防御装置.\n停止设备并打败所有敌军继续前进.
 
 ID=40295
-门附近的障碍已经消失.
+门口附近的障碍已经消失.
 
 ID=40296
 人工智能露西正在操作防御装置. 停止设备并杀死所有敌人.\n 随著时间的推移，将增加额外的防御力.
 
 ID=40297
-人工智能露西正在操作防御装置. \n 摧毁开关， 你可以停止电磁场.
+人工智能露西正在操作防御装置. \n 摧毁开关就可以停止电磁场继续工作.
 
 ID=40298
 武器用来禁用门口所在的陷阱\n请激活门前的开关.
 
 ID=40299
-磁场已禁用.
+磁场已消失.
 
 ID=40300
-Steel Grave 总共有5关. 你可以每天挑战3次
+Steel Grave 总共有 5 关. 你可以每天挑战 3 次
 
 ID=40301
-操作控制器以产生敌人.
+启动控制器就能召唤敌军.
 
 ID=40302
 当在使用支援者的召唤武器，支援者的附件将会显示.
 
 ID=40303
-击倒敌军的控制器.
+讨伐完所有敌人后，控制器将会生成
 
 ID=40304
 通过激活开关和使用浮动板，通过方体路障。
@@ -13448,25 +13454,25 @@ ID=40308
 使用浮动区域上的控制器召唤敌人。
 
 ID=40309
-方块已被召唤，攻击他将会加快他的崩坏效果
+方块已出现. 破坏它，攻击将会增加.
 
 ID=40310
-方块已出现. 防御将会增加.
+方块已出现. 破坏它，防御将会增加。
 
 ID=40311
-方块已出现. 破坏他会回复所有HP.
+方块已出现. 破坏它，将会恢复所有HP.
 
 ID=40312
 通过使用浮动区域上的控制器禁用底部陷阱。
 
 ID=40313
-当Poison的HP下降到一定程度之后，他将释放大量的AoE攻击。
+当Poison的HP下降到一定程度之后，他将释放大范围的的AoE攻击。
 
 ID=40314
 当所有控制器操作时，立方体形路障将被清除。
 
 ID=40315
-Flame Tempest将每30秒执行一次广域攻击。
+火焰暴雨将每30秒执行一次广域攻击。
 
 ID=40316
 每10秒， 两个红罩将会出现.\n在设定的时间内，红色罩将在地图上方创造更大的伤害面积.
@@ -13481,7 +13487,7 @@ ID=40319
 召唤你的盟友。你的盟友将提供火力支援.\n火力支援会伤害玩家和敌人，所以请小心使用。
 
 ID=40320
-使用控制器停止广域攻击，Flame Tempest将被置于10秒的瘫痪状态。
+使用控制器可以停止空袭，而且火焰暴雨将被置于10秒的瘫痪状态。
 
 ID=40321
 即使你不能看到浮动区，你还是可以等待他出现。
@@ -13490,37 +13496,37 @@ ID=40401
 更多敌军将会出现. 请小心.
 
 ID=40402
-打倒敌军同时避免陷阱。
+打倒敌军同时避开陷阱。
 
 ID=40403
 请去回避陷阱，将在一定时间内成功地给予奖励。
 
 ID=40404
-要破坏红色中央诱惑石，请解决所有敌军的召唤蓝色/绿色诱惑石。
+要破坏红色中央诱惑石的话，请解决召唤蓝色/绿色诱惑石所召唤的敌军。
 
 ID=40405
-请击败一个一个来的Edgar， 更多敌人将会出现.
+请击败埃德加，否则敌人将不断出现.
 
 ID=40406
 未能在时间限制内击败敌人将导致定时炸弹爆炸并造成重伤。
 
 ID=40407
-所有当前敌人都被击败后，下一个敌人将出现。
+所有敌人都被击败后，下一批敌人将会来临。
 
 ID=40408
-陷阱将很快激活。
+陷阱即将激活。
 
 ID=40409
-摧毁中央的红色诱惑石，将允许你移动到下一个地区\n蓝色/绿色的诱惑石已经被成功摧毁。 你可以在15秒内攻击红色的诱惑石。
+摧毁中央的红色诱惑石，将允许你移动到下一个地区\n蓝色和绿色的诱惑石已经被成功摧毁。 你可以在15秒内攻击红色的诱惑石。
 
 ID=40410
-由蓝/绿诱惑石召唤的所有敌人被消灭。\n红色的诱惑石可以被攻击。
+当蓝/绿诱惑石所召唤的敌人被消灭后，\n才能对红诱惑石攻击。
 
 ID=40411
-时间过后， 更强的敌人将会出现.
+一段时间过后，更强的敌人将会出现.
 
 ID=40412
-Edgar的最后攻击阶段开始.\n 如果一个疯狂炸弹下落并爆炸，它将造成大面积的损害. 小心.
+埃德加的最后攻击阶段即将开始.\n 疯狂炸弹将会不断下落并爆炸，它对我们造成大面积的损害. 小心！
 
 ID=40421
 请启动中央的电磁生成装置.
@@ -13541,13 +13547,13 @@ ID=40426
 磁场准备释放.
 
 ID=40427
-使用前面的开关能使Mad Beholder出现.\nMad Beholder有大量的HP，所以正常攻击不会有很好的效果.
+使用前面的开关能使眼魔出现.\n眼魔有大量的HP，所以正常攻击不会有很好的效果.
 
 ID=40428
-净化器被Mad Beholder的攻击所破坏.
+净化器被眼魔的攻击所破坏.
 
 ID=40429
-激活A-1实验室左侧的开关， 玩家的输出性能将会大大增益.
+激活A-1实验室左侧的开关， 玩家的输出性能将会大大提升.
 
 ID=40430
 打倒所有敌人后开关才可以激活
@@ -13571,10 +13577,10 @@ ID=40442
 炸弹即将要爆炸!
 
 ID=40443
-Rapid Flame 的增援已到达.
+迅猛烈焰 的增援已到达.
 
 ID=40444
-破坏Rapid大门，阻止增援继续出现.
+破坏快速大门，阻止增援继续出现.
 
 ID=40445
 坏掉的坦克阻挡著道路，使用其他坦克来破坏它.
@@ -13583,10 +13589,10 @@ ID=40446
 集装箱阻塞了通道. 请使用开关将起重机把箱子移开.
 
 ID=40447
-从外部附近的Tempest 集中轰炸即将开始.
+从外部附近的暴雨 集中轰炸即将开始.
 
 ID=40448
-Rapid Flames阵营的轰炸即将开始， 请立即疏散.
+迅猛烈焰阵营的轰炸即将开始， 请立即疏散.
 
 ID=40449
 轰炸使所有集装箱掉下并堵塞了道路，请摧毁他们以至通过
@@ -13598,7 +13604,7 @@ ID=40451
 入口已经被墙壁堵住，放置C4炸弹进行摧毁.
 
 ID=40452
-Tempest 的轰炸将会不断开始 . 给 EMP 炸弹充能将能破坏 Tempest.
+暴雨的轰炸将会不断开始 . 给 EMP 炸弹充能后可以破坏掉暴雨.
 
 ID=40453
 充能达到 25% .
@@ -13616,16 +13622,16 @@ ID=40457
 开启第二个EMP炸弹需要充能 30 秒.
 
 ID=40458
-轰炸 Flame Tempest Forces 已开始.
+在外边的Flame Tempest的多轮轰炸准备开始。
 
 ID=40459
-护盾生成器可以抵挡Flame Tempests的轰炸攻击.
+护盾生成器可以抵挡Flame Tempest的轰炸攻击.
 
 ID=40460
-EMP 充电完毕.
+EMP启动装置充能完毕.
 
 ID=40461
-护盾生成器已出现，激活他们，你可以免受敌人的攻击
+护盾生成器已出现，激活它们可以免受敌人的攻击
 
 ID=40471
 使用该设备时，挖掘机将被激活.\n 障碍墙只能通过挖掘机摧毁.
@@ -13634,13 +13640,13 @@ ID=40472
 挖掘机的耐久低于50%， 他的性能会被削弱.
 
 ID=40473
-挖掘机的耐久低于20%， \n当他被破坏后，作战无法继续.
+挖掘机的耐久低于20%， \n当它被破坏后，作战将无法继续.
 
 ID=40474
 挖掘机已被摧毁.\n作战失败.
 
 ID=40475
-激活开关时， 电梯可以使用.
+激活开关后，电梯可以使用.
 
 ID=40476
 电梯因为受到敌军攻击被强制停止. 如果\n所有敌人都被打倒， 你可以开启开关启动电梯.
@@ -13649,7 +13655,7 @@ ID=40477
 主核心的防御系统正在执行.\n打倒他停止防御系统.
 
 ID=40478
-为了移动宇宙船第一钢铁玩家， 请激活能源控制装置.
+为了移动宇宙船的钢铁甲板，请激活能源控制装置.
 
 ID=40479
 入侵者清除系统被激活. 在电源开关自毁前摧毁发电机
@@ -13667,10 +13673,10 @@ ID=40483
 蓝色激光会减少所有玩家的属性. \n也能降低敌军的防御属性.
 
 ID=40484
-红光只会伤害玩家. \n他产生的加热区会燃烧玩家.
+红光只会伤害玩家. \n它所产生的烧灼区会燃烧玩家.
 
 ID=40485
-Sieg Prototype占领了宇宙船的主炮.\n第一发轰炸即将开始.
+SIEG原型占领了宇宙船的主炮.\n第一发轰炸即将开始.
 
 ID=40486
 电梯受到攻击已停止运行.\n 要打败所有敌军才能打开电梯门口.
@@ -13691,52 +13697,52 @@ ID=40491
 中和冷凝器启动， 你可以阻止他的防御功能.
 
 ID=40492
-如果从电球触摸电缆，则会产生震动状态
+如果碰到电球所放射的激光，会对你造成一定伤害
 
 ID=40493
-隐藏的开关可以被激活以释放激光线圈和陷阱。\n 可以通过利用两个开关来停用电球。
+隐藏的开关可以让激光线圈和陷阱失效。\n 可以利用两个开关来停用电球。
 
 ID=40494
-关门开关已激活; 因此不可能进入下一个区域. \消灭左侧的冷凝器以禁用它们。
+关门装置已激活; 因此不可能进入下一个区域. \摧毁左侧的冷凝器来解锁装置。
 
 ID=40495
-冷凝器已经被破坏，你可以打开开关打开大门.
+冷凝器已经被破坏，你可以启动开关打开大门.
 
 ID=40496
-主核心侦查到威胁!\n系统的防御力将会增强. 敌军增援将会到达.
+主核心侦查到威胁!\n系统的防御力将会增强. 同时敌军增援也即将到达.
 
 ID=40497
 破坏冷凝器，防止敌人的高输出火力.
 
 ID=40498
-主核心侦查到威胁; 他将会提升防御性能.
+主核心侦查到威胁; 准备提升核心自身防御性能.
 
 ID=40499
-防御装置似乎会阻止你进入 Ark ship的指挥室.
+防御装置似乎在阻止你前往宇宙船的指挥室.
 
 ID=40500
-打开开关后，电梯会帮你传送到Ark ship的指挥室.
+启动开关后，电梯会帮你传送到宇宙船的指挥室.
 
 ID=40501
-浮游平台已经被激活. 请稍后.
+浮游平台已被激活，请等待与平台接入.
 
 ID=40502
-熔炉核心已经停止.
+熔炉核心已停止
 
 ID=40503
 浮动桥梁已被激活，请稍后.
 
 ID=40504
-强大的毒雾从通风口排除.\n 请小心不要碰到 \n 你的血量将会快速下降.
+浓烈的毒雾正从通风口排出.\n 请小心不要碰到毒雾 \n 碰到将会降低你的生命值.
 
 ID=40505
-毒气排出已停止.
+毒雾喷出已停止.
 
 ID=40506
-当进入受磁场影响的区域， 你的血量将会减少.\n 当你断开开关，磁场将会消除
+当进入受磁场影响的区域，你的血量将会减少.\n 当你断开开关，磁场将会消除
 
 ID=40507
-班车将会不断来回. \n只有打败敌人才能停止班车.
+班车将会不断来回. \n只有打败敌人才能停止班车继续运转.
 
 ID=40508
 门口机关已解锁.
@@ -13745,79 +13751,79 @@ ID=40509
 破坏BUFF罐子可以获得增益BUFF
 
 ID=40510
-区域攻击已停止.
+大范围空袭已停止
 
 ID=40511
-电梯正在下降.
+电梯正在下降中
 
 ID=40512
-新的 Domineer Zeros 将被召唤，除非召唤核心被破坏.
+新的 Domineer Zeros 将被召唤，破坏召唤核心将会停止召唤.
 
 ID=40513
-Domineer Zero 将会被召唤. \n请预先破坏仆人核心.
+Domineer Zero 将会被召唤. 请提前破坏掉仆人核心.
 
 ID=40514
-请破坏中心生成控制装置，防止连续生成声波
+请破坏中心生成装置，防止连续发送声波
 
 ID=40515
-产卵控制装置被销毁.\n要防止Grasper 修理他.
+产卵控制装置被销毁，要阻止抓手修理那装置.
 
 ID=40516
-电梯将很快停止.
+电梯即将停止.
 
 ID=40601
-在击败第四区域的所有敌人后，最终之门将会开门。
+在击败第四区域的所有敌人后，最终之门将会开启。
 
 ID=40602
-释放水晶的印章后，战斗将开始。
+释放水晶印章后，战斗将开始。
 
 ID=40603
-[Eternity] 将会在杀死所有敌人后出现，请打倒他
+[不滅] 将会在杀死所有敌人后出现，请打倒他
 
 ID=40604
-[Juggernaut] 将会在杀死所有敌人后出现，请打倒他
+[主宰] 将会在杀死所有敌人后出现，请打倒他
 
 ID=40605
-[Apocalypse] 将会在杀死所有敌人后出现，请打倒他
+[天啓] 将会在杀死所有敌人后出现，请打倒他
 
 ID=40606
-[Pandemonia] 将会在杀死所有敌人后出现，请打倒他
+[混沌] 将会在杀死所有敌人后出现，请打倒他
 
 ID=40607
-请确保永恒之房，然后进入预感之房.
+确保好永恒之房后，再进入预感大厅.
 
 ID=40608
-请确保冲突之房 然后进入预感之房.
+确保好冲突之房后，再进入预感大厅.
 
 ID=40609
-请确保灾难之房 然后进入预感之房.
+确保好灾难之房后，再进入预感大厅.
 
 ID=40610
-请确保零乱之房 然后进入预感之房.
+确保好零乱之房后，再进入预感大厅.
 
 ID=40611
 终奏之房已经通关，你可以从预感之房移动到城镇
 
 ID=40612
-启动燃烧装置将赋予防冻效果 持续 20 秒.
+启动发热装置将在20秒内赋予防冻效果.
 
 ID=40613
-在 30 秒 内无法开启燃烧装置.
+在 30 秒 内无法开启发热装置.
 
 ID=40614
-破坏 Flame Crystal 出现在金色基座，阻止岩浆流动.
+破坏 烈焰水晶 出现在金色基座，阻止岩浆流动.
 
 ID=40615
 很快，会出现一个六角长矛，并会释放一个不可避免的暴风雪，这将会导致被冻住无法行动的情况.请尽可能逃离他的范围
 
 ID=40616
-Golden Obelisk 会定时召唤能发出闪电的巨大墙壁.\nGolden Obelisk能够通过攻击来摧毁.
+金方尖碑 会定时召唤能发出闪电的巨大墙壁.\n 金方尖碑能够通过攻击来摧毁.
 
 ID=40617
-破坏3个Venom Flowers后， Pandemonia将会受惊.
+破坏三个毒液花卉后，混沌将会受惊.
 
 ID=40618
-离开安全地带后。战斗将会开始.
+离开安全地带后、战斗将会开始.
 
 ID=40619
 原始正在处于污染状态.\n在污染区域中的人将会被秒杀.
@@ -13826,37 +13832,37 @@ ID=40620
 原始正在深呼吸.
 
 ID=40621
-进入了原始的门口时， 有4个人可以进入原始体内.\n30秒后入口将会消失.
+原始门口已出现， 只有先进去的四个人才可以进入体内.\n30秒后入口将会消失.
 
 ID=40622
-原始的核心会定时产生一种不稳定的气体，会造成一定的伤害.
+原始的核心会定时产生一种不稳定的气体，这会对我们造成一定的伤害.
 
 ID=40623
-击败所有核心守护者后可以暂时免疫原始体内的不稳定气体.
+击败所有核心守护者后，可以暂时免疫原始体内的不稳定气体.
 
 ID=40624
-强大的核心守护者很快就被召唤 \n守护者不会消失，直到核心被摧毁.
+强大的核心守护者很快出现 \n直到核心被摧毁前，守护者不会消失.
 
 ID=40625
-使用净化器可以从污染状态変成充能状态，你的属性将会被提升.\n但要处于污染状态才能使用.
+使用净化器可以从污染状态变成充能状态，你的属性将会获得提升.\n但要处于污染状态才能使用.
 
 ID=40626
-Primal受到严重伤害时开始了最后的绝望尝试.\n污染的血液向你的脚延伸并会对你造成连续的伤害。
+原始受到严重伤害时就会开始了最后的尝试.\n污染的血液向你的脚蔓延而且会对你造成连续的伤害。
 
 ID=40627
 原始将要抓住它的目标。
 
 ID=40628
-警告!\n如果没有进入了充能状态，否则你将会被消灭.
+警告!\n如果没有进入了充能状态，你将会被消灭.
 
 ID=40629
 成员正在加载.
 
 ID=40630
-巨大的手臂将会行动.\n巨大的手臂会打出一定的距离.
+巨大的手臂开始摇摆。\n巨大的手臂会把你击退到一定的距离.
 
 ID=40701
-Tankuru部队的支援攻击开始了。\n在支援攻击的时候请顶住敌人的袭击。
+Tankuru部队的支援攻击开始了。\n在支援攻击来临前请顶住敌人的袭击。
 
 ID=40702
 Tankuru部队支援攻击即将开始。\n把残余的敌人给歼灭。
@@ -14732,7 +14738,7 @@ ID=42288
 三色魔眼マッドビホールダーμ
 
 ID=42289
-ラピッドフレイム
+Rapid Flame
 
 ID=42290
 神速のラピッドフレイム
@@ -15138,6 +15144,60 @@ ID=42423
 
 ID=42424
 刃の女王シオンμ
+
+ID=42425
+ヨミ
+
+ID=42426
+商人連合ヨミ
+
+ID=42427
+超しっかり商人ヨミ
+
+ID=42428
+ヨミμ
+
+ID=42429
+商人連合ヨミμ
+
+ID=42430
+超しっかり商人ヨミμ
+
+ID=42431
+キャサリン
+
+ID=42432
+純真無垢キャサリン
+
+ID=42433
+はちゃめちゃ娘キャサリン
+
+ID=42434
+キャサリンμ
+
+ID=42435
+純真無垢キャサリンμ
+
+ID=42436
+はちゃめちゃ娘キャサリンμ
+
+ID=42437
+准尉アマンダ
+
+ID=42438
+通信将校アマンダ
+
+ID=42439
+緊急通信アマンダ
+
+ID=42440
+准尉アマンダμ
+
+ID=42441
+通信将校アマンダμ
+
+ID=42442
+緊急通信アマンダμ
 
 ID=43139
 ディグニティースナッチャー
@@ -15664,6 +15724,24 @@ ID=43339
 ID=43340
 [SH]シオン
 
+ID=43341
+[S]ヨミ
+
+ID=43342
+[SH]ヨミ
+
+ID=43343
+[S]キャサリン
+
+ID=43344
+[SH]キャサリン
+
+ID=43345
+[S]准尉アマンダ
+
+ID=43346
+[SH]准尉アマンダ
+
 ID=45000
 商城
 
@@ -15671,7 +15749,7 @@ ID=45001
 时装
 
 ID=45002
-展开
+表示
 
 ID=45003
 隐藏
@@ -15692,7 +15770,7 @@ ID=45008
 购买所有礼品
 
 ID=45009
-全买
+购买全部
 
 ID=45010
 购买Soulcoin
@@ -15707,7 +15785,7 @@ ID=45013
 购买
 
 ID=45014
-删除
+保管中止
 
 ID=45015
 精选
@@ -15725,19 +15803,19 @@ ID=45019
 畅销
 
 ID=45020
-NEW
+最新
 
 ID=45021
-道具已购买
+道具购买
 
 ID=45022
-当前平衡:
+当前所剩:
 
 ID=45023
-总花费:
+必要费用:
 
 ID=45024
-平衡所剩:
+购买后
 
 ID=45025
 购买
@@ -15749,7 +15827,7 @@ ID=45027
 使用时间
 
 ID=45028
-d
+日
 
 ID=45029
 购买数量
@@ -15806,7 +15884,7 @@ ID=45046
 请输入名字.
 
 ID=45047
-送礼的时候确定要人物姓名并留言.
+送礼的时候请确定好要送至的玩家名并留言.
 
 ID=45048
 好友
@@ -15815,13 +15893,13 @@ ID=45049
 -空-
 
 ID=45050
-还剩:
+所剩次数:
 
 ID=45051
 贩卖时间: {0}
 
 ID=45052
-天
+日
 
 ID=45053
 时
@@ -15854,10 +15932,10 @@ ID=45104
 背包空间不足.
 
 ID=45105
-你没有足够的SC购买
+你没有足够的 SC 购买商品
 
 ID=45106
-没有选择物品无法购买.
+没有选择物品，无法购买.
 
 ID=45107
 购物车没有物品.
@@ -15866,7 +15944,7 @@ ID=45108
 请输入名字.
 
 ID=45109
-你只能保存the wardrobe set for this character.
+你只能保存跟你同角色的衣服.
 
 ID=45110
 背包已满.
@@ -15890,25 +15968,25 @@ ID=45116
 {0}
 
 ID=45117
-{0} 交易已完成; 一些东西不能发送.
+{0} 的交易已完成; 但有些物品购买失败.
 
 ID=45118
-背包栏已满. \n 新物品将会送至本邮箱. 确定要购买？
+背包栏已满。 \n 新物品将会送至本邮箱，确定要购买吗？
 
 ID=45119
 家具背包已满. \n 新物品将会送至邮箱. 确定要购买？
 
 ID=45120
-购买已成功;他们将会送至房间.
+购买已成功; 他们将会送至房间仓库.
 
 ID=45121
 预览
 
 ID=45122
-结单
+清空购物车
 
 ID=45123
-改変外观
+改变外观
 
 ID=45201
 {0}Lv{1}
@@ -15917,13 +15995,13 @@ ID=45202
 {0} 可以返回前一级.
 
 ID=45203
-无法改回.
+不可返回.
 
 ID=45204
 Lv{0}
 
 ID=45205
-New
+未習得
 
 ID=45206
 更改人物名字
@@ -15932,10 +16010,10 @@ ID=45207
 更改公会名
 
 ID=45208
-世界喇叭
+超时空喇叭
 
 ID=45209
-离开
+转送
 
 ID=45210
 选择指定技能
@@ -15947,22 +16025,22 @@ ID=45212
 请确认新的角色名字.
 
 ID=45213
-请输入你想改的角色名字.
+请输入你想更改的角色名字.
 
 ID=45214
 SP+{0}
 
 ID=45215
-增强效果已应用.\n通过使用当前物品，效果将会被覆盖。您仍然希望继续吗？
+增强效果已应用.\n如果继续使用当前物品的话，效果将会被覆盖。您仍然希望继续吗？
 
 ID=45216
-增强效果已应用.\n通过使用当前项目，效果将会被取消。你还要继续吗？
+增强效果已应用.\n如果继续使用当前项目的话，效果将会被取消。你还要继续吗？
 
 ID=45301
 背包空间不足.
 
 ID=45302
-物品已过气， 因此他们将无法使用.
+物品已过期，因此他们将无法使用.
 
 ID=45303
 打开方块
@@ -15980,7 +16058,7 @@ ID=45307
 打开 A.R. 箱子
 
 ID=45308
-是否使用 {0}？
+你是否使用 {0}？
 
 ID=45309
 获得物品: {0}\n这些物品会自动收入到你的背包.
@@ -15992,28 +16070,28 @@ ID=45311
 A.R 卡片获得: {0}\n这些物品会自动收入到你的背包.
 
 ID=45312
-获得结果
+使用物品结果画面
 
 ID=45313
-开{0}个
+使用{0}个
 
 ID=45314
-单抽
+使用1个
 
 ID=45315
 关闭
 
 ID=45316
-当前方块
+所剩方块
 
 ID=45317
 跳过
 
 ID=45318
-这里不足够去使用{0} .
+{0}不足，无法使用
 
 ID=45319
-使用衣服方块
+使用时装方块
 
 ID=46000
 Steel Grave
@@ -16022,7 +16100,7 @@ ID=46001
 章节选择
 
 ID=46002
-敌方汇总
+敌方情报
 
 ID=46003
 奖励
@@ -16043,19 +16121,19 @@ ID=46102
 通关奖励
 
 ID=46103
-任务追加
+特殊任务报酬
 
 ID=46104
-按下确认键移动到下一个地区.
+按下确认键，移动到下一个地区.
 
 ID=46105
-确认
+确定
 
 ID=46106
 该篇章已经通过，可以回到城镇
 
 ID=46107
-退出
+出去
 
 ID=46108
 入场\n[空格]
@@ -16073,10 +16151,10 @@ ID=46201
 失败
 
 ID=46202
-在 {0} 秒后传送回城镇 .
+在 {0} 秒后传送回城镇
 
 ID=46203
-请确定传送回城镇.
+请确定传送回城镇
 
 ID=46204
 确定
@@ -16085,40 +16163,40 @@ ID=46300
 Steel Grave 成功通关.
 
 ID=46301
-祝贺你!\n你已成功通过了 Steel Grave {0}.\n明天继续.
+祝贺你!\n你已成功通过了 Steel Grave {0}.\n请明天继续挑战.
 
 ID=46302
-Steel Grave 挑战失败.
+挑战 Steel Grave 失败.
 
 ID=46303
-无法进入 Steel Grave {0}.\n明天再试一次.
+无法进入 Steel Grave {0}.\n明天再来吧.
 
 ID=46304
-通关时间
+战斗时间
 
 ID=47000
 载具
 
 ID=47001
-信息
+情报
 
 ID=47002
 速度
 
 ID=47003
-Booster
+爆发
 
 ID=47004
-Parts
+零件
 
 ID=47005
 引擎列表
 
 ID=47006
-Attach
+装备
 
 ID=47007
-直升机传送
+搭乘
 
 ID=47008
 您确定要将零件附加到所选接口吗？\n(将零件连接到所选接口，这将消耗零件）
@@ -16127,7 +16205,7 @@ ID=47009
 您确定要附加车辆物品？
 
 ID=47010
-Unmount
+解除载具
 
 ID=47011
 更改武器
@@ -16166,7 +16244,7 @@ ID=49000
 正在进行
 
 ID=49001
-完成
+成功
 
 ID=49002
 放弃
@@ -16184,7 +16262,7 @@ ID=49006
 ({0}/{1})
 
 ID=49100
-获取
+获取报酬
 
 ID=49101
 回忆
@@ -16196,7 +16274,7 @@ ID=49103
 收集列表
 
 ID=49104
-完成
+成功
 
 ID=49105
 未获得
@@ -16208,16 +16286,16 @@ ID=49107
 正在进行
 
 ID=49108
-达成
+获取报酬
 
 ID=49109
 成功
 
 ID=49110
-获得纪念物品.
+获得纪念物品
 
 ID=49111
-纪念系列已经解锁.
+纪念系列已解锁
 
 ID=49200
 系统
@@ -16235,7 +16313,7 @@ ID=49204
 登出
 
 ID=49205
-退出游戏
+关闭游戏
 
 ID=49206
 回到游戏
@@ -16250,7 +16328,7 @@ ID=49209
 回到登录界面
 
 ID=49210
-{0}秒后，会传送到角色选择界面.
+{0}秒后，将会传送到角色选择界面.
 
 ID=49211
 关闭
@@ -16283,31 +16361,31 @@ ID=49220
 离开副本
 
 ID=49221
-你确定要放弃当前副本吗副本？\n离开之后你的疲劳将会扣除.
+你确定要放弃当前副本吗？\n离开之后，你的疲劳将会扣除.
 
 ID=49222
 离开
 
 ID=49223
-移动到城市
+回到城镇
 
 ID=49224
 将在 {0} 秒后注销.
 
 ID=49225
-移动到
+移动
 
 ID=49226
-无法定位到指定城镇.
+无法移动到城镇.
 
 ID=49227
-在挂机.
+现在无法移动。
 
 ID=49228
-跳出异常坐标
+脱离异常坐标
 
 ID=49229
-结束旅程
+结束指引
 
 ID=49230
 确定离开房间
@@ -16316,10 +16394,10 @@ ID=49231
 你确定要离开房间吗
 
 ID=49232
-你无法重复脱出异常坐标.\n 请稍后重试.
+你无法重复使用脱出异常坐标功能.\n 请稍后重试.
 
 ID=49233
-因为账号被登陆，游戏会自动关闭
+因为有人顶替你登录游戏，游戏将会自动关闭
 
 ID=49234
 确定要放弃当前的副本？\n放弃时，将会发生以下惩罚:\n- 不能中断\n- 减少疲劳 (除了无需FP的地区)
@@ -16331,7 +16409,7 @@ ID=49236
 离开 Steel Grave
 
 ID=49300
-进程信息
+进度信息
 
 ID=49301
 成就
@@ -16364,19 +16442,19 @@ ID=49310
 成就
 
 ID=49311
-奖励
+报酬
 
 ID=49312
-记录
+进行状态
 
 ID=49313
 正在进行
 
 ID=49314
-完成
+成功
 
 ID=49315
-通关率
+通关情况
 
 ID=49316
 列表
@@ -16385,28 +16463,28 @@ ID=49317
 预览
 
 ID=49318
-进程
+段
 
 ID=49319
-通关率
+通关情况
 
 ID=49320
-奖励资讯
+获取报酬
 
 ID=49321
-记录
+进行状态
 
 ID=49322
 第 {0} 季
 
 ID=49323
-获取
+获取报酬
 
 ID=49324
 正在进行
 
 ID=49325
-完成
+成功
 
 ID=49326
 物品成就
@@ -16445,7 +16523,7 @@ ID=49337
 有可接受的日常任务.
 
 ID=49338
-显示
+表示
 
 ID=49339
 {0} 奖励列表
@@ -16484,7 +16562,7 @@ ID=49407
 系统
 
 ID=49408
-成就信息
+进度信息
 
 ID=49409
 回忆
@@ -16493,7 +16571,7 @@ ID=49410
 日常任务
 
 ID=49411
-签到奖励
+每日登录
 
 ID=49450
 官网
@@ -16505,7 +16583,7 @@ ID=49452
 Seize Site
 
 ID=49453
-http://www.inven.co.kr/webzine/news/？news=107139&sw=%EC%86%8C%EC%9A%B8%EC%9B%8C%EC%BB%A4
+http://www.inven.co.kr/webzine/news/?news=107139&sw=%EC%86%8C%EC%9A%B8%EC%9B%8C%EC%BB%A4
 
 ID=49454
 社交 (This is Game)
@@ -16520,7 +16598,7 @@ ID=49457
 http://www.playforum.net/webzine/news/view/1752
 
 ID=49458
-A Beginner的 Guide
+新手指引
 
 ID=49459
 http://cafe.naver.com/fakesoul/152
@@ -16544,25 +16622,25 @@ ID=49600
 警告
 
 ID=49601
-你愿意结束这片段吗？
+你愿意结束该过场片段吗？
 
 ID=49602
-冷却时间: 至少要 {0} 小时过后
+冷却时间: 还剩 {0} 小时
 
 ID=49603
-冷却时间: {0} 小时过后
+冷却时间: 还剩{0} 小时
 
 ID=49604
 该分辨率不适合全屏.
 
 ID=49605
-该游戏分辨率不支持.
+不支持超过范围的分辨率.
 
 ID=49606
 使用
 
 ID=49607
-不用
+不使用
 
 ID=49608
 队伍聊天
@@ -16580,7 +16658,7 @@ ID=49612
 无法识别手柄，手柄模式被禁用.
 
 ID=49613
-与服务器失去连接，请重试.
+与服务器失去连接\n请重试.
 
 ID=49614
 因为系统出错，无法连接服务器.
@@ -16601,7 +16679,7 @@ ID=49619
 请选择你想要去的区域
 
 ID=49620
-无法使用名字，存在敏感词.
+无法使用名字， 有不合法的敏感词.
 
 ID=49621
 人物名字不能包含空格与特殊字符.
@@ -16616,7 +16694,7 @@ ID=49624
 如何回避
 
 ID=49625
-布局设定
+基本键位配置
 
 ID=49626
 键盘
@@ -16625,13 +16703,13 @@ ID=49627
 手柄
 
 ID=49628
-过场动画正在播放，请稍后。
+队伍中的成员的过场动画正在播放，请稍等片刻...。
 
 ID=49629
 提醒
 
 ID=49630
-附加信息
+追加信息
 
 ID=49631
 攻击力
@@ -16640,28 +16718,28 @@ ID=49632
 防御力
 
 ID=49633
-机能型
+辅助型
 
 ID=49700
 二次密码登记
 
 ID=49701
-输入PIN码
+输入 PIN 码
 
 ID=49702
 PIN 提示
 
 ID=49703
-输入交易密码
+登记你的交易密码
 
 ID=49704
-认证你的密码.
+确认你的交易密码.
 
 ID=49705
-输入你的密码
+输入你的交易密码
 
 ID=49720
-PIN 设定
+2次 PIN 设定
 
 ID=49721
 还没设置二次密码
@@ -16670,13 +16748,13 @@ ID=49722
 PIN 错误.
 
 ID=49723
-PIN码需要6个不同的数字.
+PIN 码需要6个不同的数字.
 
 ID=49724
-PIN 提示
+2次 PIN 不一致
 
 ID=49725
-密码输入不正确.\n请重试.
+2次密码不一致.\n请重新输入再确定.
 
 ID=49726
 账号锁定
@@ -16685,7 +16763,7 @@ ID=49727
 因为你的PIN码连续输错3次，账号已被锁定.\n重置密码，请在官网了解
 
 ID=49728
-错误 PIN.
+PIN 错误.
 
 ID=49729
 交易密码一定要4个数字.
@@ -16760,7 +16838,7 @@ ID=49920
 活动
 
 ID=49921
-开始
+接受
 
 ID=49922
 正在进行
@@ -16790,7 +16868,7 @@ ID=49930
 获得特殊任务奖励.
 
 ID=49931
-[{0}] 征服 {2} 次 在 {1}
+[{0}]在 {1} 征服 {2} 次 
 
 ID=49932
 [{0}] 征服 [{1}] {2} 次
@@ -16814,7 +16892,7 @@ ID=49938
 与 [{0}] {1} 通过 [{2}] {3} 次 .
 
 ID=49939
-与等级 {0} - {1}之类的玩家成为好友 
+与等级 {0} - {1}之类的玩家成为好友
 
 ID=49940
 [{0}] 跟 {1} 成为好友
@@ -16847,7 +16925,7 @@ ID=49949
 基础攻击
 
 ID=49950
-反击
+起床攻击
 
 ID=49951
 技能攻击
@@ -16859,19 +16937,19 @@ ID=49953
 致命攻击
 
 ID=49954
-敲击
+撞倒
 
 ID=49955
 反击
 
 ID=49956
-向下攻击
+倒地攻击
 
 ID=49957
-剩余 {0}时{1}分{2}秒 
+剩余 {0}时{1}分{2}秒
 
 ID=49958
-剩余 {0}时{1}分{2}秒 
+剩余 {0}时{1}分{2}秒
 
 ID=49959
 任务奖励会发送到邮箱.
@@ -16883,7 +16961,7 @@ ID=49961
 [{0}] 限时任务开始
 
 ID=49962
-[{0}] 日常 任务已接受.
+日常任务 [{0}] 已接受.
 
 ID=49963
 日常任务已准备. 一个新的任务已添加.
@@ -16910,13 +16988,13 @@ ID=49970
 {0}/{1}
 
 ID=49971
-去 {0} 谈话
+去跟 {0} 谈话
 
 ID=49972
 破坏 {0}: {1} / {2}
 
 ID=49973
-探讨 {0} 
+探讨 {0}
 
 ID=49974
 护送 {0}
@@ -16937,7 +17015,7 @@ ID=49979
 任务: {0} [失败]
 
 ID=49980
-任务: {0} [取消]
+任务: {0} [放弃]
 
 ID=49981
 任务: {0} [成功]
@@ -16955,7 +17033,7 @@ ID=49985
 无法放弃任务.
 
 ID=49986
-[成功]
+[已达成]
 
 ID=49987
 主线
@@ -16988,7 +17066,7 @@ ID=49996
 奖励
 
 ID=49997
-奖励选择:
+选择奖励:
 
 ID=49998
 任务达成
@@ -17000,7 +17078,7 @@ ID=50000
 任务达成
 
 ID=50001
-发生错误. \n (ERROR NOT 移动)
+发生错误. \n (ERROR NOT MOVER)
 
 ID=50002
 未知用户
@@ -17042,22 +17120,22 @@ ID=50104
 无法登录.
 
 ID=50105
-账号密码错误，无法加入游戏.
+账号密码错误，无法进入游戏.
 
 ID=50106
-该ID已经连接了服务器.
+该 ID 已经连接了服务器.
 
 ID=50107
 无法定位频道.
 
 ID=50108
-账号已经被HG封锁了.
+账号已经被Hangame封锁了.
 
 ID=50109
-这IP地址被封锁了.
+这 IP 地址被封锁了.
 
 ID=50110
-这电脑的MAC网卡地址被封锁了.
+这电脑的 MAC 网卡地址被封锁了.
 
 ID=50111
 项目被禁用.
@@ -17111,19 +17189,19 @@ ID=52004
 所选物品没有信息.
 
 ID=52005
-不正确的类型， 不能附加到物品.
+不正确的类型，不能附加到物品.
 
 ID=52006
-位置不匹配， 不能附加到物品.
+位置不匹配，不能附加到物品.
 
 ID=52007
-等级不足， 不能附加到物品.
+等级不足，不能附加到物品.
 
 ID=52008
-身体不匹配， 不能附加到物品.
+身体不匹配，不能附加到物品.
 
 ID=52009
-角色不匹配， 不能附加到物品.
+角色不匹配，不能附加到物品.
 
 ID=52010
 背包空间不足.
@@ -17135,7 +17213,7 @@ ID=52012
 不正确的槽位.
 
 ID=52013
-不正确的 数量.
+数量不符.
 
 ID=52014
 数量不足.
@@ -17168,7 +17246,7 @@ ID=52023
 无法扩充插槽.
 
 ID=52024
-该物品已被绑定.
+该物品在归属状态.
 
 ID=52025
 无法把分离出来的物品放进仓库.
@@ -17225,10 +17303,10 @@ ID=52042
 附件槽不匹配.
 
 ID=52043
-绑定道具无法保存
+該物品超過了使用期限無法繼續使用。
 
 ID=52044
-不可交易物品无法保存
+绑定道具无法保存
 
 ID=52045
 该物品不能使用; 你可以仍然进入 Steel Grave.
@@ -17246,10 +17324,10 @@ ID=52049
 额外背包已满
 
 ID=52050
-你无法接受到任何物品 因为 家具背包 已满.
+你无法接受到任何物品 因为家具背包已满.
 
 ID=52051
-你无法接受到任何物品 因为 背包已满.
+你无法接受到任何物品， 因为背包已满.
 
 ID=52052
 你无法接受到任何物品 因为 时装背包已满.
@@ -17258,22 +17336,22 @@ ID=52053
 你无法接受到任何物品 因为 额外背包已满.
 
 ID=52054
-你无法接受到任何物品 因为 家具背包 已满.
+你无法接受到任何物品 因为家具背包已满.
 
 ID=52055
-你无法获得更多 金币 因为 达到金币上限.
+你无法获得更多金币， 因为金币达到最高上限.
 
 ID=52056
-你无法获得更多 金币 因为 更多金币已经超过了上限.
+你无法获得更多金币，因为更多金币已经超过了上限.
 
 ID=52057
-你无法获得更多 B.P 因为 达到 B.P上限.
+你无法获得更多 B.P，因为达到B.P最高上限.
 
 ID=52058
-你无法获得更多 以太 因为 达到 以太上限.
+你无法获得更多以太，因为达到了以太最高上限.
 
 ID=52059
-你无法获得更多Soulcoin，因为达到了Soulcoin上限.
+你无法获得更多Soulcoin，因为达到了Soulcoin最高上限.
 
 ID=52101
 该物品槽位不能使用.
@@ -17309,10 +17387,10 @@ ID=52202
 该物品无法增强.
 
 ID=52203
-不能强化道具， 目标道具已登记.
+不能强化道具，目标道具已绑定.
 
 ID=52204
-该强化材料已被登记
+该强化材料已被绑定
 
 ID=52205
 他们的稀有度不同，强化装备不一样
@@ -17339,10 +17417,10 @@ ID=52212
 该物品无法强化.
 
 ID=52213
-合成材料数量不同. 
+合成材料数量不同.
 
 ID=52214
-不能 合成这物品.
+不能合成这物品.
 
 ID=52215
 合成材料不足.
@@ -17378,7 +17456,7 @@ ID=52226
 它不是改造物品.
 
 ID=52227
-没有足够的物品调谐.
+没有足够的物品进行改造.
 
 ID=52228
 改造失败.
@@ -17423,10 +17501,10 @@ ID=52264
 背包空间不足.
 
 ID=52265
-交换 失败.
+交换失败.
 
 ID=52270
-分解失败.
+拆解失败.
 
 ID=52271
 物品在背包无法分解.
@@ -17435,7 +17513,7 @@ ID=52272
 物品损坏.
 
 ID=52273
-该物品不复存在， 你不能分解它.
+该物品不存在，你不能分解它.
 
 ID=52280
 不能执行接口.
@@ -17489,7 +17567,7 @@ ID=52301
 金币不足. 你无法购买该物品.
 
 ID=52302
-该物品无法卖.
+该物品无法出售.
 
 ID=52303
 该物品不能修理.
@@ -17504,10 +17582,10 @@ ID=52306
 购买失败.
 
 ID=52307
-你无法重新购买该物品了. 
+你无法重新购买该物品了.
 
 ID=52308
-这NPC没有商店.
+这NPC没有商店功能.
 
 ID=52309
 你已超过今日的购买次数
@@ -17519,7 +17597,7 @@ ID=52311
 无法购买物品: 背包已满
 
 ID=52312
-你无法卖这东西.
+你无法出售这东西.
 
 ID=52313
 收件人不存在.
@@ -17615,7 +17693,7 @@ ID=52431
 你无法打开你自己的个人商店.
 
 ID=52432
-物品不存在.
+该物品不存在.
 
 ID=52433
 这不是打开个人商店的券与类型.
@@ -17666,7 +17744,7 @@ ID=52501
 该物品找不到.
 
 ID=52601
-该物品不能使用 因为等级需求未达到.
+该物品不能使用，因为未达到等级需求.
 
 ID=52602
 该物品仍在冷却时间.
@@ -17684,31 +17762,31 @@ ID=52606
 该道具无法进行该操作.
 
 ID=52607
-该物品只能在副本中使用.
+该道具只能在副本中使用.
 
 ID=52608
 你不能在当前状态下复活.
 
 ID=52609
-保护buff已生效.
+护体Buff 已生效.
 
 ID=52612
-你不能使用消耗品在 Steel Grave.
+在 Steel Grave，你不能使用消耗品
 
 ID=52613
-There are still Steel Grave entries left.
+剩余的 Steel Grave 的入场次数.
 
 ID=52615
 无法接受物品. 请重试.
 
 ID=52616
-不能在这副本消费.
+当前副本无法使用此消耗品.
 
 ID=52617
 不能在这副本使用复活道具.
 
 ID=52700
-如果PvP级别差异太大，则不会赢得BP，也不会在输掉时丢失BP。
+如果PvP等级差距太大，你将不会赢得BP，同时也不会战败的时候丧失你的BP。
 
 ID=52701
 与两个对手， 你只能每天战斗赢得或失去BP.
@@ -17732,10 +17810,10 @@ ID=53002
 你不是队长.
 
 ID=53003
-你已选择你自己.
+你选择了你自己.
 
 ID=53004
-玩家已在队伍，你无法邀请.
+玩家已在别的队伍，你无法邀请.
 
 ID=53005
 无法创建队伍.
@@ -17753,7 +17831,7 @@ ID=53009
 无法离开.
 
 ID=53010
-队伍已满人
+队伍已满
 
 ID=53011
 找不到成员.
@@ -17768,10 +17846,10 @@ ID=53014
 你无法跟选中玩家进行组队.
 
 ID=53015
-队伍 请求仍在待定.
+队伍请求仍在待定中.
 
 ID=53016
-你无法加入队伍
+你无法加入队伍.
 
 ID=53017
 你无法发送请求除非你的成员不在副本中.
@@ -17780,10 +17858,10 @@ ID=53018
 另一只队伍请求已接受.
 
 ID=53021
-候补不存在.
+待机者不存在.
 
 ID=53024
-过了时间限定后你能重新登记
+过了一段时间后你能重新登记
 
 ID=53025
 队伍无法进入因为太多成员了.
@@ -17792,28 +17870,28 @@ ID=53027
 请求发送的一方不存在.
 
 ID=53028
-{0} 正在受理其他请求.
+{0} 有其他的请求.
 
 ID=53029
-当你在跟BOSS战斗的时候你无法离开队伍.
+在跟BOSS战斗的时候，你无法离开队伍.
 
 ID=53030
-你无法在无法地区加入队伍.
+你不能在无法地区加入其他队伍.
 
 ID=53031
-你无法发送请求因为对方在无法地区.
+你不能发送请求，因为对方在无法地区.
 
 ID=53032
 无法在副本踢出队伍.
 
 ID=53101
-无法使用8人本匹配功能因为你体力不足.
+无法使用集中匹配功能因为你FP不足.
 
 ID=53102
-玩家在副本中， 不能邀请到队伍.
+玩家在副本内，不能邀请到队伍.
 
 ID=53103
-你现在是8人本的队长.
+你现在是集中队伍的队长.
 
 ID=53104
 该目标已经被邀请到另一个队伍.
@@ -17822,13 +17900,13 @@ ID=53105
 无法离开队伍.
 
 ID=53106
-你不在队伍中.
+当前你不是在队伍里
 
 ID=53107
 无法更改队伍队长
 
 ID=53108
-无法驱踢出队伍
+无法踢出队伍
 
 ID=53109
 无法退出队伍.
@@ -17858,16 +17936,16 @@ ID=53117
 你收到了来自其他人的邀请.
 
 ID=53118
-因为队伍成员已满，不能加入.
+因为队伍成员已满，不能加入队伍.
 
 ID=53119
-你不能提出组队请求因为目标在不法地区 
+你不能提出组队请求因为对象在非法地区
 
 ID=53120
 不能在副本内踢出队员.
 
 ID=53121
-只有队长才能亲自进入本副本.
+只有队长才能提出进入副本请求.
 
 ID=53122
 有成员拒绝进入副本.
@@ -17906,7 +17984,7 @@ ID=53133
 你不能请求加入在无法地区的队伍.
 
 ID=53134
-你选中了自己.
+你选择了你自己.
 
 ID=53135
 无法进入因为有队伍成员没有达到副本的所需等级.
@@ -17921,7 +17999,7 @@ ID=53138
 无法进入副本因为有成员没达到副本需求.
 
 ID=53139
-无法进入没有入门任务需求.
+无法进入没有满足入场条件.
 
 ID=53140
 无法进入因为有成员没有所需物品.
@@ -17963,7 +18041,7 @@ ID=53152
 不能在自动匹配离开队伍.
 
 ID=53153
-一位成员取消了自动匹配.
+一名成员取消了自动匹配.
 
 ID=53154
 集中匹配被取消了.
@@ -18023,7 +18101,7 @@ ID=54013
 添加物品，互动时出错了。
 
 ID=54014
-As CallCount is already "0" 在服务器， 不能使用.
+CallCount 在 "0" 服务器，不能使用.
 
 ID=54015
 不能与个人互动
@@ -18046,6 +18124,9 @@ ID=54020
 ID=54021
 背包空间不足. 无法跟任务一起处理.
 
+ID=54022
+沒有進行任務所需的物品。
+
 ID=55001
 无法生成副本.
 
@@ -18053,7 +18134,7 @@ ID=55002
 无法进入副本.
 
 ID=55003
-无法移动到该频道
+无法传送到世界.
 
 ID=55004
 只有队长才能选择副本.
@@ -18068,10 +18149,10 @@ ID=55007
 你无法寻找所选的频道.
 
 ID=55008
-游戏文件已损坏; 副本 不存在.
+游戏文件已损坏; 副本不存在.
 
 ID=55009
-游戏文件已损坏; 副本 不存在.
+游戏文件已损坏; 副本不存在.
 
 ID=55010
 地区出现异常.
@@ -18083,19 +18164,19 @@ ID=55012
 无法进入因为没达到副本的等级要求.
 
 ID=55013
-无法进入因为队伍成员没有达到这副本的等级要求.
+无法进入因为有队伍成员没有达到副本的所需等级.
 
 ID=55014
 此据点无效
 
 ID=55015
-没有足够的成员移动到下一个地区.
+没有足够的成员移动到下一个区域
 
 ID=55016
 无法进入因为你没有装备灵魂武器
 
 ID=55017
-无法进入因为有队伍成员没有装备武器.
+无法进入因为有成员没有装备武器
 
 ID=55018
 你在这无法使用你的武器
@@ -18110,34 +18191,34 @@ ID=55021
 队伍在另外的地区; 你可能无法加入副本.
 
 ID=55022
-无法进入副本. 副本 不存在.
+无法进入副本. 副本不存在.
 
 ID=55023
-你的队伍成员无法进入不同副本.
+无法加入不同的副本， 因为成员原因
 
 ID=55024
 你只能当所有成员都在同一个城镇才能加入副本.
 
 ID=55031
-如果你的等级达到 {0} 或更高， 你能加入.
+如果你的等级达到 {0} 或更高，才能加入.
 
 ID=55032
-当前队伍无法进入该地区.
+当前队伍无法进入该区域
 
 ID=55033
-在这地区只有组队才能进入.
+此区域只能组队进入
 
 ID=55034
 因为超过了队伍的最大队伍数量，所以无法进入副本.
 
 ID=55035
-无法进入副本; {0} 是必须的.
+无法进入副本; {0} 是必要的.
 
 ID=55036
 无法进入这副本.
 
 ID=55037
-请接受任务才可副本.
+请接受任务才可进入副本.
 
 ID=55038
 请等待所有队伍成员完成他们的任务才能移动.
@@ -18152,10 +18233,10 @@ ID=55041
 无法进入副本因为队伍都不在同一个区域.
 
 ID=55042
-无法进入因为退出时间超过3分钟了.
+无法进入因为你已脱出战斗超过3分钟了.
 
 ID=55043
-无法购买; 你在跟boss战斗.
+无法购买; 你现在跟 boss 战斗.
 
 ID=55044
 无法自动匹配，疲劳不足.
@@ -18164,7 +18245,7 @@ ID=55047
 无法进入副本因为队伍成员不在同一条频道.
 
 ID=55048
-无法进入副本因为队伍成员没有达到副本要求.
+无法进入副本因为有成员没达到副本需求.
 
 ID=55049
 因为成员较少，怪物将会被削弱.
@@ -18182,13 +18263,13 @@ ID=55053
 无法进入你用尽所有入场次数.
 
 ID=55055
-有个无法进入因为没有满足入场任务需求.
+有成员无法进入因为没有满足入场任务需求.
 
 ID=55056
-有个无法进入因为他没有 {0}.
+有成员无法进入因为他没有 {0}.
 
 ID=55057
-有个无法进入用尽所有入场次数.
+有成员无法进入用尽所有入场次数.
 
 ID=55058
 因为你在战斗所以不能解开.
@@ -18200,7 +18281,7 @@ ID=55060
 无法进入因为在此刻无法打开.
 
 ID=55061
-パーティー募集コメントを登录した状态ではリーダー委任はできません。
+由于队伍正处于已登录的招募的状态中，不能委任队长。
 
 ID=55101
 你已经跟这人成为好友.
@@ -18239,7 +18320,7 @@ ID=55112
 好友 请求无法上榜.
 
 ID=55113
-你不能在副本中添加好友.         
+你不能在副本中添加好友.
 
 ID=55114
 对方的好友数量已满.
@@ -18305,7 +18386,7 @@ ID=55620
 该锁定的物品不能附加.
 
 ID=55700
-你在私聊时该玩家已登出. 
+你在私聊时该玩家已登出.
 
 ID=55701
 你不能跟自己私聊.
@@ -18359,7 +18440,7 @@ ID=56502
 金币不足.
 
 ID=56531
-联合副本需要全员同意. 
+联合副本需要全员同意.
 
 ID=57000
 {0} 不在线.
@@ -18398,7 +18479,7 @@ ID=57011
 无法建立公会.
 
 ID=57012
-等级不足以创造公会.\n最低等级需要 20级.
+等级不足无法创造公会.\n最低等级要20级以上.
 
 ID=57013
 资金不足以创造公会.\n100，000 金币所需.
@@ -18428,16 +18509,16 @@ ID=57021
 这玩家不在同一个城镇无法邀请.
 
 ID=57022
-请 {0} 分钟后重试在揭示板发表.
+在 {0} 分钟后再去重新在揭示板发布.
 
 ID=57023
-候选名单已满. 
+待机名单已满.
 
 ID=57024
 你刚解散了公会， 创建另一个公会需要 {0} 天.
 
 ID=57025
-因为你最近退出了公会，在接下来{0}小时内，不能加入另一个公会 
+因为你最近退出了公会，在接下来{0}小时内，不能加入另一个公会
 
 ID=57026
 成功应用到公会.
@@ -18461,13 +18542,13 @@ ID=57032
 寻找公会要求至少要2个字符以上才能寻找.
 
 ID=57033
-公会名字用2-8个字符.
+公会名字要2-8个字符.
 
 ID=57034
-你不能踢出自己. 
+你不能踢出自己.
 
 ID=57035
-不能使用这名字，有敏感词.
+无法使用名字， 有不合法的敏感词.
 
 ID=57036
 称号/排名 不能修改.
@@ -18476,13 +18557,13 @@ ID=57037
 {0} 无法加入该公会因为他最近才退出队伍.
 
 ID=57038
-{0} 当前有另外的请求.
+{0} 有其他的请求.
 
 ID=57039
 公会招募字数太多. 无法发布.
 
 ID=57040
-在短时间内重试次数过多.\n 请重试 in {0} 分钟.
+在短时间内重试次数过多.\n 在 {0} 分钟后重试.
 
 ID=57041
 NPC选择不匹配，不能进行公会操作
@@ -18497,7 +18578,7 @@ ID=57044
 尚未满足删除新的公会会长的条件.
 
 ID=57045
-无法更改该公会LOGO.
+无法更改该公会标识.
 
 ID=57046
 没有可用的公会技能.
@@ -18521,7 +18602,7 @@ ID=57052
 物品转移失败.
 
 ID=58000
-这NPC 在下一个区域不存在.
+这 NPC 在下一个区域不存在.
 
 ID=58001
 金币不足.不能移动到这区域.
@@ -18587,7 +18668,7 @@ ID=58206
 房间已满员，你无法进入.
 
 ID=58207
-这房间是私人不公开的.
+这房间是不公开的.
 
 ID=58208
 这个用户没有房间.
@@ -18599,7 +18680,7 @@ ID=58210
 这个房间不公开.
 
 ID=58211
-你现在有个新房间. 
+你现在有个新房间.
 
 ID=58212
 你的功能仓库已满. \n请删除不必要的东西.
@@ -18626,7 +18707,7 @@ ID=58219
 无法放置花盘.
 
 ID=58220
-无法种菜.
+无法种植.
 
 ID=58221
 无法收获.
@@ -18644,7 +18725,7 @@ ID=58225
 无法在花盘使用这物品.
 
 ID=58226
-这有东西已种了.
+这花盘已经在种植状态.
 
 ID=58227
 花盘在用.
@@ -18731,7 +18812,7 @@ ID=58309
 超过列出的物品的最大数量. 不能列出超过100个道具.
 
 ID=58400
-ゲーム进行中、离脱が确认されたためフリーマッチ入场が制限されます。\n现在、离脱した试合が进行中のため入场制限时间は减少しません。
+由于战斗进行中，脱队已被确认的原因限制战斗入场。\n由于现在已经脱队的战斗正在进行中的原因，入场限制时间不减少。
 
 ID=59000
 你的背包已满， 因此你不能获得签到奖励.
@@ -18749,31 +18830,31 @@ ID=59202
 {0} 拒绝所有好友请求.
 
 ID=59300
-因为线路拥堵无法进入. 请选择另外的线路.
+因为频道过于拥挤无法进入. 请选另一个.
 
 ID=59301
-由于空间不足或无效区域，无法进行操作
+因为背包空间不足或放置在非法区域，操作不能继续.
 
 ID=59302
-由于空间不足或无效区域，无法进行操作.
+因为背包空间不足或放置在非法区域，操作不能继续.
 
 ID=59304
-无有效空间.
+无可用地区.
 
 ID=59305
 该动作只有在城镇才有效.
 
 ID=59306
-该物品无法使用.
+物品无法使用.
 
 ID=59307
-你没有对所选物品进行拆除请求.
+所选物品没有所需的分解请求.
 
 ID=59308
 物品数据找不到
 
 ID=59400
-你不拥有那辆车。
+你没有该载具。
 
 ID=59401
 无法充电.
@@ -18800,7 +18881,7 @@ ID=59408
 车辆召唤还在冷却时间.
 
 ID=60001
-是否要将此胸针[{0}]附加到插槽？\n 
+是否要将此胸针[{0}]附加到插槽？\n
 
 ID=60002
 [{0}] 已附加到 [{1}].
@@ -18818,7 +18899,7 @@ ID=60006
 胸针不能插入至此.
 
 ID=60007
-你想更改在[{1}] 更改 [{0}]附件 ？ \n该胸针将会破坏.
+你想更改在[{1}] 更改 [{0}]附件？ \n该胸针将会破坏.
 
 ID=60008
 [{0}] 转换成 [{1}].
@@ -18860,16 +18941,16 @@ ID=60109
 预览
 
 ID=60110
-排行
+排名
 
 ID=60111
-类型
+角色
 
 ID=60112
 Lv
 
 ID=60113
-名字
+角色名
 
 ID=60114
 通关时间
@@ -18881,7 +18962,7 @@ ID=60116
 武器信息
 
 ID=60117
-排行信息
+排名信息
 
 ID=60118
 当前阶级
@@ -18890,7 +18971,7 @@ ID=60119
 点
 
 ID=60120
-排名奖励列表
+等级奖励列表
 
 ID=60121
 混乱袭击 奖励
@@ -18938,7 +19019,7 @@ ID=60135
 段
 
 ID=60136
-排名
+最近动态
 
 ID=60137
 好友阶级
@@ -18959,7 +19040,7 @@ ID=60142
 通关
 
 ID=60143
-STAGE
+关卡
 
 ID=60144
 重复次数 ({0}/{1})
@@ -18980,7 +19061,7 @@ ID=60205
 你离开了队伍，将移动到城市.\n(还剩{0} 秒)
 
 ID=60206
-确定钦定 {0} 来当队伍队长？
+确定委任 {0} 来当队伍队长？
 
 ID=60207
 确定从队伍中踢出 {0} ？
@@ -19004,7 +19085,7 @@ ID=60213
 队伍
 
 ID=60214
-队伍邀请
+集中邀请
 
 ID=60215
 离开队伍
@@ -19031,7 +19112,7 @@ ID=60222
 该当フォースがメイズにいるため合流できません。
 
 ID=60223
-不能加入不同的队伍.
+不能加入其他队伍.
 
 ID=60224
 成员超过了指定数量。
@@ -19067,7 +19148,7 @@ ID=60234
 [{0}]超过了时间限制，被踢出队伍了。
 
 ID=60235
-无法进入因为队伍中的成员未达到副本等级要求.
+无法进入因为有成员没达到副本等级要求.
 
 ID=60236
 不在队伍状态的话不能进入。
@@ -19076,7 +19157,7 @@ ID=60237
 次のエリアに移动するのに必要な成员 が足りません。
 
 ID=60238
-所有成员都要在同一个城镇才能进入副本.
+所有成员必须都在同一个城镇方能副本.
 
 ID=60239
 有人没有装备武器，无法进场
@@ -19097,7 +19178,7 @@ ID=60244
 成员 {0}、拒绝入场副本。
 
 ID=60245
-原始队伍邀请
+集中邀请
 
 ID=60246
 拒绝队伍邀请
@@ -19109,7 +19190,7 @@ ID=60248
 离开队伍
 
 ID=60249
-给予队伍队长
+委任队长
 
 ID=60250
 踢出队伍
@@ -19124,46 +19205,46 @@ ID=60256
 停止集中自动匹配
 
 ID=60257
-すでにフォースに加入状态のため、\n队伍进场请求できません。
+你已经在一个团队之内、\n队伍不能进场。
 
 ID=60258
-队伍进场请求検索时间が超过しました。
+已经超过了队伍进场的请求时间。
 
 ID=60259
-成员 が不足していますが、\nこのまま进行しますか？\n时间内に选択しなかった场合、自动で入场処理されます。\n(残り：{0}秒)
+成员并不充足、\n是否要这样继续吗？\n在一定时间内如果没有选择的情况下，将会自动进场。\n(还剩：{0}秒)
 
 ID=60260
-フォース进行可否を选択しなかったため、强制退场しました。
+队伍是否继续进行并没有被选择，已经强制退场。
 
 ID=60261
 队伍进场请求是否终止？
 
 ID=60262
-不正行为によりペナルティが适用され、\n[{0}]分[{1}]秒间、队伍进场请求を利用できません。
+因为存在不正当行为的惩罚、\n[{0}]分[{1}]秒内、队伍无法进场。
 
 ID=60263
-フォース进行可否选択中
+队伍是否入场选择中
 
 ID=60264
-フォースリーダーを选别中です。
+队伍队长选择中
 
 ID=60265
-フォースが结成しました。
+队伍已结成。
 
 ID=60266
-メイズ再开を成员 に要请しますか？\n-残り：{0}秒-
+战斗再入场请求，要向成员邀请吗？\n-还剩：{0}秒-
 
 ID=60267
-フォースリーダー{0}が、メイズ再开を要请しました。\n要请に応えますか？\n-残り：{1}秒-
+团队队长{0}请求战斗再开\n同意其邀请吗？\n-还剩：{1}秒-
 
 ID=60268
-成员 の再开受注可否を待っています。\n-再开しない场合[中止]をクリック-
+成员的战斗再开请求选择等待中。\n-若不继续的话请点击[中止]-
 
 ID=60269
-メイズを离脱した成员 がいるため、再开できません。
+由于有成员脱离战斗，战斗无法再开。
 
 ID=60270
-现在フォースに志愿できるレベルではありません。
+有成员没有满足队伍等级要求。
 
 ID=60271
 取消
@@ -19187,7 +19268,7 @@ ID=60277
 现在正在加入的队伍，是否退出本队？
 
 ID=60278
-集中自动匹配
+集中匹配
 
 ID=60279
 简易
@@ -19202,7 +19283,7 @@ ID=60282
 {0}/{1} 人数
 
 ID=60283
-当前 {0} 无法接受请求 因为请求还在待机.
+因为{0}有待定的请求，所以他无法接受你的请求
 
 ID=60284
 因为队伍中的成员中止进入副本，因此无法加入副本。
@@ -19214,10 +19295,10 @@ ID=60286
 队伍的队长发出进入副本的请求，是否同意入场？\n入场位置：[{0}]\n地区：[{1}]\n难易度：[{2}]\n-还剩：{3}秒-
 
 ID=60287
-成员 {0}、拒绝加入副本。
+成员 {0}、拒绝入场副本。
 
 ID=60288
-队长 {0}、中止加入副本。
+队长 {0}中止加入副本。
 
 ID=60289
 禁用集中自动匹配
