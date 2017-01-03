@@ -89,25 +89,25 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 0
 
 ID=201
-Fever
+狂暴
 3秒内、无视所有伤害
 Icon/Buff/Icon_Common_Buff_Immun
 無敵
 
 ID=202
-Fever
+狂暴
 10秒内、移动速度和攻击速度提高5%。
 Icon/Buff/Icon_Common_Buff_Reg
 強化
 
 ID=203
-Fever
+狂暴
 SG全部回复
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
 ID=204
-Fever
+狂暴
 10秒内、冷却时间降低50%、技能不消耗SG
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 冷却时间降低
@@ -761,19 +761,19 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=5001
-奋斗不息 Ⅰ
+無盡鬥爭Ⅰ
 技能使用时消耗SG，在一定机率内会提高自身伤害量
 Icon/Buff/Icon_Common_Buff_ATK
 傷害量增加
 
 ID=5002
-奋斗不息Ⅱ
+無盡鬥爭Ⅱ
 技能使用时消耗SG，在一定机率内会提高自身伤害量
 Icon/Buff/Icon_Common_Buff_ATK
 傷害量增加
 
 ID=5003
-奋斗不息Ⅲ
+無盡鬥爭Ⅲ
 技能使用时消耗SG，在一定机率内会提高自身伤害量
 Icon/Buff/Icon_Common_Buff_ATK
 傷害量增加
@@ -791,109 +791,109 @@ Icon/Buff/Icon_Common_Buff_ATK
 傷害量增加
 
 ID=5011
-飞速刀片特性AⅠ
+迅極劍技特性AⅠ
 移动速度30%降低
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=5012
-飞速刀片特性AⅡ
+迅極劍技特性AⅡ
 移动速度40%降低
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=5013
-飞速刀片特性AⅢ
+迅極劍技特性AⅢ
 移动速度50%降低
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=5031
-竞技场冲击Ⅰ
+戰爭劍陣Ⅰ
 攻击力7%提高
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=5032
-竞技场冲击Ⅱ
+戰爭劍陣Ⅱ
 攻击力9%提高
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=5033
-竞技场冲击Ⅲ
+戰爭劍陣Ⅲ
 攻击力12%提高
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=5034
-竞技场冲击Ⅳ
+戰爭劍陣Ⅳ
 攻击力15%提高
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=5035
-竞技场冲击Ⅴ
+戰爭劍陣Ⅴ
 攻击力20%提高
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=5041
-ブローアップⅠ
+能量增益Ⅰ
 攻撃命中时、SG1%获得
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 獲得SG
 
 ID=5042
-ブローアップⅡ
+能量增益Ⅱ
 攻撃命中时、SG1.2%获得
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 獲得SG
 
 ID=5043
-ブローアップⅢ
+能量增益Ⅲ
 攻撃命中时、SG1.6%获得
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 獲得SG
 
 ID=5044
-ブローアップⅣ
+能量增益Ⅳ
 攻撃命中时、SG2%获得
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 獲得SG
 
 ID=5045
-ブローアップⅤ
+能量增益Ⅴ
 攻撃命中时、SG3%获得
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 獲得SG
 
 ID=5046
-ブローアップⅠ
+能量增益Ⅰ
 耐力消费量50%降低
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 體力消耗量減少
 
 ID=5047
-ブローアップⅡ
+能量增益Ⅱ
 耐力消费量50%降低
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 體力消耗量減少
 
 ID=5048
-ブローアップⅢ
+能量增益Ⅲ
 耐力消费量60%降低
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 體力消耗量減少
 
 ID=5049
-ブローアップⅣ
+能量增益Ⅳ
 耐力消费量70%降低
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 體力消耗量減少
 
 ID=5050
-ブローアップⅤ
+能量增益Ⅴ
 耐力消费量80%降低
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 體力消耗量減少
@@ -971,31 +971,31 @@ Icon/Buff/Icon_Common_Debuff_Poison
 中毒
 
 ID=5521
-ネイボムファームⅠ
+燃燒彈Ⅰ
 受到火伤降低HP1%
 Icon/Buff/Icon_Common_Debuff_Burn
 火傷
 
 ID=5522
-ネイボムファームⅡ
+燃燒彈Ⅱ
 受到火伤降低HP1%
 Icon/Buff/Icon_Common_Debuff_Burn
 火傷
 
 ID=5523
-ネイボムファームⅢ
+燃燒彈Ⅲ
 受到火伤降低HP1%
 Icon/Buff/Icon_Common_Debuff_Burn
 火傷
 
 ID=5524
-ネイボムファームⅣ
+燃燒彈Ⅳ
 受到火伤降低HP1%
 Icon/Buff/Icon_Common_Debuff_Burn
 火傷
 
 ID=5525
-ネイボムファームⅤ
+燃燒彈Ⅴ
 受到火伤降低HP1%
 Icon/Buff/Icon_Common_Debuff_Burn
 火傷
@@ -1085,91 +1085,91 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
 ID=5561
-テイクエイムⅠ
+瞄准目标Ⅰ
 敌人的防御力7%無效化
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=5562
-テイクエイムⅡ
+瞄准目标Ⅱ
 敌人的防御力9%無效化
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=5563
-テイクエイムⅢ
+瞄准目标Ⅲ
 敌人的防御力12%無效化
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=5564
-テイクエイムⅣ
+瞄准目标Ⅳ
 敌人的防御力15%無效化
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=5565
-テイクエイムⅤ
+瞄准目标Ⅴ
 敌人的防御力20%無效化
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=5571
-ハイドアンドシークⅠ
+隐蔽探测Ⅰ
 无敌化
 Icon/Buff/Icon_Common_Buff_Immun
 無敵
 
 ID=5572
-ハイドアンドシークⅡ
+隐蔽探测Ⅱ
 无敌化
 Icon/Buff/Icon_Common_Buff_Immun
 無敵
 
 ID=5573
-ハイドアンドシークⅢ
+隐蔽探测Ⅲ
 无敌化
 Icon/Buff/Icon_Common_Buff_Immun
 無敵
 
 ID=5574
-ハイドアンドシークⅣ
+隐蔽探测Ⅳ
 无敌化
 Icon/Buff/Icon_Common_Buff_Immun
 無敵
 
 ID=5575
-ハイドアンドシークⅤ
+隐蔽探测Ⅴ
 无敌化
 Icon/Buff/Icon_Common_Buff_Immun
 無敵
 
 ID=5576
-ハイドアンドシークⅠ
+隐蔽探测Ⅰ
 SuperArmor状态触发，所有受到的攻击全MISS
 Icon/Buff/Icon_Common_Buff_Sarmor
 完全回避
 
 ID=5577
-ハイドアンドシークⅡ
+隐蔽探测Ⅱ
 SuperArmor状态触发，所有受到的攻击全MISS
 Icon/Buff/Icon_Common_Buff_Sarmor
 完全回避
 
 ID=5578
-ハイドアンドシークⅢ
+隐蔽探测Ⅲ
 SuperArmor状态触发，所有受到的攻击全MISS
 Icon/Buff/Icon_Common_Buff_Sarmor
 完全回避
 
 ID=5579
-ハイドアンドシークⅣ
+隐蔽探测Ⅳ
 SuperArmor状态触发，所有受到的攻击全MISS
 Icon/Buff/Icon_Common_Buff_Sarmor
 完全回避
 
 ID=5580
-ハイドアンドシークⅤ
+隐蔽探测Ⅴ
 SuperArmor状态触发，所有受到的攻击全MISS
 Icon/Buff/Icon_Common_Buff_Sarmor
 完全回避
@@ -1211,85 +1211,85 @@ Icon/Buff/Icon_Common_Buff_Reg
 0
 
 ID=6011
-グリムカウントダウン特性AⅠ
+鮮血收割特性AⅠ
 攻撃命中时、伤害量中的35%HP吸收
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP吸收
 
 ID=6012
-残酷冲击特性AⅡ
+鮮血收割特性AⅡ
 攻撃命中时、伤害量中的45%HP吸收
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP吸收
 
 ID=6013
-グリムカウントダウン特性AⅢ
+鮮血收割特性AⅢ
 攻撃命中时、伤害量中的65%HP吸收
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP吸收
 
 ID=6021
-残酷冲击特性AⅠ
+鬼神亂舞特性AⅠ
 敌人的防御力20%無效化
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=6022
-残酷冲击特性AⅡ
+鬼神亂舞特性AⅡ
 无视敌人的防御力40%
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=6023
-残酷冲击特性AⅢ
+鬼神亂舞特性AⅢ
 无视敌人的防御力70%
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=6031
-残酷冲击特性BⅠ
+鬼神亂舞特性BⅠ
 暴擊率增加5%
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
 ID=6032
-残酷冲击特性BⅡ
+鬼神亂舞特性BⅡ
 暴擊率增加7%
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
 ID=6033
-クルエルスラッシュ特性BⅢ
+鬼神亂舞特性BⅢ
 暴擊率增加10%
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
 ID=6041
-军队区域Ⅰ
+極戰怒吼Ⅰ
 暴擊率增加5%
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
 ID=6042
-军队区域Ⅱ
+極戰怒吼Ⅱ
 暴擊率增加6%
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
 ID=6043
-军队区域Ⅲ
+極戰怒吼Ⅲ
 暴擊率增加8%
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
 ID=6044
-军队区域Ⅳ
+極戰怒吼Ⅳ
 暴擊率增加10%
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
 ID=6045
-军队区域Ⅴ
+極戰怒吼Ⅴ
 暴擊率增加15%
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
@@ -1343,241 +1343,241 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
 ID=6511
-トラブルパスⅠ
+困擾傳遞Ⅰ
 防御力10%降低
 Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
 ID=6512
-トラブルパスⅡ
+困擾傳遞Ⅱ
 防御力15%降低
 Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
 ID=6513
-トラブルパスⅢ
+困擾傳遞Ⅲ
 防御力20%降低
 Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
 ID=6514
-トラブルパスⅣ
+困擾傳遞Ⅳ
 防御力25%降低
 Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
 ID=6515
-トラブルパスⅤ
+困擾傳遞Ⅴ
 防御力30%降低
 Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
 ID=6516
-トラブルパスⅠ
+困擾傳遞Ⅰ
 HP回復4%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=6517
-トラブルパスⅡ
+困擾傳遞Ⅱ
 HP回復4%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=6518
-トラブルパスⅢ
+困擾傳遞Ⅲ
 HP回復4%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=6519
-トラブルパスⅣ
+困擾傳遞Ⅳ
 HP回復4%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=6520
-トラブルパスⅤ
+困擾傳遞Ⅴ
 HP回復4%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=6521
-ディケードパルス
+閃電鏈
 1秒内、玩家无法动弹
 Icon/Buff/Icon_Common_Debuff_Paralysis
 麻痺
 
 ID=6522
-ディケードパルスⅡ
+閃電鏈Ⅱ
 防御力30%降低
 Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
 ID=6523
-ディケードパルスⅢ
+閃電鏈Ⅲ
 防御力減少45%
 Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
 ID=6524
-ディケードパルスⅣ
+閃電鏈Ⅳ
 防御力減少60%
 Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
 ID=6525
-ディケードパルスⅤ
+閃電鏈Ⅴ
 防御力減少80%
 Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
 ID=6526
-ディケードパルス
+閃電鏈
 移動速度降低10%
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=6527
-ディケードパルスⅡ
+閃電鏈Ⅱ
 移動速度降低10%
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=6528
-ディケードパルスⅢ
+閃電鏈Ⅲ
 移動速度降低10%
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=6529
-ディケードパルスⅣ
+閃電鏈Ⅳ
 移動速度降低10%
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=6530
-ディケードパルスⅤ
+閃電鏈Ⅴ
 移動速度降低10%
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=6531
-ディケードパルスⅠ
+閃電鏈Ⅰ
 攻撃命中时、伤害量中的100%HP回复
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP吸收
 
 ID=6532
-ディケードパルスⅡ
+閃電鏈Ⅱ
 攻撃命中时、伤害量中的100%HP回复
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP吸收
 
 ID=6533
-ディケードパルスⅢ
+閃電鏈Ⅲ
 攻撃命中时、伤害量中的100%HP回复
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP吸收
 
 ID=6534
-ディケードパルスⅣ
+閃電鏈Ⅳ
 攻撃命中时、伤害量中的100%HP回复
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP吸收
 
 ID=6535
-ディケードパルスⅤ
+閃電鏈Ⅴ
 攻撃命中时、伤害量中的100%HP回复
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP吸收
 
 ID=6536
-弹珠
+弹珠Ⅰ
 HP回復25%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=6537
-弹珠
+弹珠Ⅱ
 HP回復25%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=6538
-弹珠
+弹珠Ⅲ
 HP回復25%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=6539
-弹珠
+弹珠Ⅳ
 HP回復25%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=6540
-弹珠
+弹珠Ⅴ
 HP回復25%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=6541
-快速回复
+快速回复Ⅰ
 SG毎秒5%回复
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
 ID=6542
-快速回复
+快速回复Ⅱ
 SG每秒回復6%
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
 ID=6543
-快速回复
+快速回复Ⅲ
 SG每秒回復8%
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
 ID=6544
-快速回复
+快速回复Ⅳ
 SG每秒回復10%
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
 ID=6545
-快速回复
+快速回复Ⅴ
 SG每秒回復15%
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
 ID=6546
-快速回复
+快速回复Ⅰ
 HP回復12%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=6547
-快速回复
+快速回复Ⅱ
 HP回復15%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=6548
-快速回复
+快速回复Ⅲ
 HP回復20%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=6549
-快速回复
+快速回复Ⅳ
 HP回復25%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=6550
-快速回复
+快速回复Ⅴ
 HP回復35%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
@@ -1595,43 +1595,43 @@ Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=6562
-トラブルパスⅠ
+困擾傳遞Ⅰ
 防御力60提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=6563
-トラブルパスⅡ
+困擾傳遞Ⅱ
 防御力120提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=6564
-トラブルパスⅢ
+困擾傳遞Ⅲ
 防御力250提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=6566
-弹珠
+弹珠Ⅰ
 攻擊力增加50
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=6567
-弹珠
+弹珠Ⅱ
 攻擊力增加150
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=6568
-弹珠
+弹珠Ⅲ
 攻擊力增加250
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=6569
-弹珠
+弹珠Ⅳ
 攻擊力增加500
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
@@ -1643,13 +1643,13 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
 ID=6995
-悲伤的旋律
+悲伤的旋律Ⅱ
 2秒每秒SG2%回复
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
 ID=6996
-悲伤的旋律
+悲伤的旋律Ⅲ
 2秒每秒SG3%回复
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
@@ -1658,7 +1658,7 @@ ID=6999
 悲伤的旋律
 一定时内每秒SG回复
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-模式轉換
+模式切換
 
 ID=7000
 浸食Ⅰ
@@ -1670,7 +1670,7 @@ ID=7001
 0
 0
 0
-カウンター
+反擊
 
 ID=7010
 挑衅
@@ -1685,109 +1685,109 @@ Icon/Buff/Icon_Common_Debuff_Provoke
 挑衅和降低回避
 
 ID=7026
-神经电流
+神经电流Ⅰ
 一定时内、防御力25%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=7027
-神经电流
+神经电流Ⅱ
 一定时内、防御力30%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=7028
-神经电流
+神经电流Ⅲ
 一定时内、防御力40%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=7029
-神经电流
+神经电流Ⅳ
 一定时间内、防御力50%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=7030
-神经电流
+神经电流Ⅴ
 一定时间内、防御力70%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=7031
-神经电流特性A
+神经电流特性AⅠ
 处于兴奋状态时回避度10%降低
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=7032
-神经电流特性A
+神经电流特性AⅡ
 处于兴奋状态时回避度20%降低
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=7033
-神经电流特性A
+神经电流特性AⅢ
 处于兴奋状态时回避度40%降低
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=7041
-聚变装甲
+聚变装甲Ⅰ
 一定时间内、处于无敌状态
 Icon/Buff/Icon_Common_Buff_SArmor
 無敵
 
 ID=7042
-聚变装甲
+聚变装甲Ⅱ
 一定时间内、处于无敌状态
 Icon/Buff/Icon_Common_Buff_SArmor
 無敵
 
 ID=7043
-聚变装甲
+聚变装甲Ⅲ
 一定时间内、处于无敌状态
 Icon/Buff/Icon_Common_Buff_SArmor
 無敵
 
 ID=7044
-聚变装甲
+聚变装甲Ⅳ
 一定时间内、处于无敌状态
 Icon/Buff/Icon_Common_Buff_SArmor
 無敵
 
 ID=7045
-聚变装甲
+聚变装甲Ⅴ
 一定时间内、处于无敌状态
 Icon/Buff/Icon_Common_Buff_SArmor
 無敵
 
 ID=7046
-聚变装甲
+聚变装甲Ⅰ
 一定时间内、防御力10%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=7047
-聚变装甲
+聚变装甲Ⅱ
 一定时间内、防御力14%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=7048
-聚变装甲
+聚变装甲Ⅲ
 一定时间内、防御力16%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=7049
-聚变装甲
+聚变装甲Ⅳ
 一定时间内、防御力20%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=7050
-聚变装甲
+聚变装甲Ⅴ
 一定时内、防御力30%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
@@ -1847,13 +1847,13 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=7501
-オーバーヒート
+过热
 SG全回复
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
 ID=7502
-オーバーヒート
+过热
 不能使用技能
 Icon/Buff/Icon_Common_Debuff_Silence
 0
@@ -2327,19 +2327,19 @@ Icon/Buff/Icon_Common_Buff_MSR
 移動速度増加
 
 ID=21041
-狂気
+狂氣
 5分内、暴击率提高4%
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
 ID=21042
-狂気
+狂氣
 5分内、暴击率提高6%
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
 ID=21043
-狂気
+狂氣
 5分内、暴击率提高8%
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
@@ -2381,7 +2381,7 @@ Icon/Buff/Icon_Common_Buff_ASR
 攻撃速度増加
 
 ID=22004
-狂気
+狂氣
 5分内、暴击率10%提高
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
@@ -2480,7 +2480,7 @@ ID=30001
 殺傷命令
 20秒間、攻撃力10%増加。
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃増加
+攻撃增強
 
 ID=30002
 中毒
@@ -2831,10 +2831,10 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=30130
-凍傷
+冻伤
 10秒后、受到凍結效果。
 Icon/Buff/Icon_Common_Debuff_Freezing
-凍傷
+冻伤
 
 ID=30131
 凍結
@@ -2850,7 +2850,7 @@ Icon/Buff/Icon_Common_Buff_Warm
 
 ID=30133
 凍傷抵抗
-凍傷状態になりにくくなります。
+不容易被冻伤
 Icon/Buff/Icon_Common_Buff_Warm
 凍傷抵抗
 
@@ -2867,10 +2867,10 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 出血
 
 ID=30141
-弱化
+虛弱
 攻撃速度和防御度降低30%減少。
 Icon/Buff/Icon_Common_Debuff_MSR
-弱化
+虛弱
 
 ID=30142
 鈍化
@@ -3182,7 +3182,7 @@ ID=35303
 防御度減少
 防御力15秒内减少
 Icon/Buff/Icon_Common_Debuff_Def
-装甲溶解
+溶解装甲
 
 ID=35304
 HP減少
@@ -3306,7 +3306,7 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 
 ID=39009
 加速
-10秒間、移動速度が20%増加する。
+10秒內、移動速度增加20%。
 Icon/Buff/Icon_Common_Buff_MSR
 移動速度増加
 
@@ -3449,13 +3449,13 @@ Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=50051
-一挙入魂Lv1
+一拳入魂Lv1
 攻撃命中時、一般・精英怪在1%的幾率中1秒內、賦予眩暈效果。
 Icon/Buff/Icon_Common_Debuff_Stun
 窒息
 
 ID=50061
-疾走チュウLv1
+疾走咻Lv1
 裝備時、在一定時間每10%的幾率2秒內，移動速度增加10%。
 Icon/Buff/Icon_Common_Buff_MSR
 移動速度増加
@@ -3473,37 +3473,37 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=50101
-バキュームLv1
+真空Lv1
 暴擊命中時、10%的機率中HP回復2%。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=50111
-魂のジャンプLv1
+灵魂一跃Lv1
 跳躍時，1%的幾率回復5%SG
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
 ID=50121
-元アイドルの実力Lv1
+原偶像的实力Lv1
 Alisa跳舞時、周圍的隊友HP回復
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=50141
-自己回復力Lv1
+自我回復力Lv1
 攻擊命中時、1%的幾率回復10%體力
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 体力回复
 
 ID=50151
-急速カルシウム補給Lv1
+急速補鈣Lv1
 受到攻擊時、5%的幾率中2秒間、SG每秒回復15%。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
 ID=50161
-ビクターの法則Lv1
+勝者的法則Lv1
 攻擊命中時、1%的幾率3秒內、命中度提高20%。
 Icon/Buff/Icon_Common_Buff_Accuracy
 命中度増加
@@ -3515,25 +3515,25 @@ Icon/Buff/Icon_Common_Buff_Immun
 無敵
 
 ID=50181
-スカイハイLv1
+高空Lv1
 跳躍時、1%的幾率回復5%體力
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 体力回复
 
 ID=50191
-ガルスの逆鱗Lv1
+格鲁斯的逆鳞Lv1
 受到攻擊時、5%的幾率中2秒間、攻擊力10%上升。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=50201
-俊敏なマッチョLv1
+灵活的肌肉男Lv1
 受到攻擊時、5%的幾率中2秒間、迴避力10%上升。
 Icon/Buff/Icon_Common_Buff_Accuracy
 回避度増加
 
 ID=50211
-復讐鬼Lv1
+復仇鬼Lv1
 暴擊命中時、5%的機率中2秒內，所有攻擊化為暴擊狀態。
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
@@ -3581,7 +3581,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 暴擊率增加
 
 ID=53032
-好戦の証明Ⅰ
+好戦的証明Ⅰ
 受到攻擊時、5%的幾率中2秒間、攻擊力8%上升。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -3593,19 +3593,19 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53041
-一挙入魂Ⅰ
+一拳入魂Ⅰ
 攻撃命中時、3%的機率3秒內、SA狀態発生。(冷卻時間15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SA
 
 ID=53042
-疾跑咻
+疾跑咻Ⅰ
 每秒10%的機率2秒內、移動速度増加10%。（冷卻時間15秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53043
-疾跑咻
+疾跑咻Ⅱ
 每秒20%的機率2秒內、移動速度増加10%。（冷卻時間13秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
@@ -3629,25 +3629,25 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53061
-攻撃的儀式
+攻撃的儀式Ⅱ
 跳跃時、5%的机率中2秒内、攻撃力增加10%。(冷却时间15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53072
-真空
+真空Ⅰ
 暴擊命中時、3%的機率HP回復2%。（冷卻時間15秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53073
-真空
+真空Ⅱ
 暴擊命中時、6%的機率HP回復3%。（冷卻時間15秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53081
-真空
+真空Ⅲ
 暴擊命中時、9%的機率HP回復4%。（冷卻時間15秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
@@ -3713,37 +3713,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 無敵
 
 ID=53133
-天高
+高空Ⅰ
 跳躍時，10%的幾率回復5%體力。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 体力回复
 
 ID=53141
-格鲁斯的逆鳞
+格鲁斯的逆鳞Ⅰ
 受到攻擊時、5%的幾率中2秒間、迴避度200上升。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53142
-格鲁斯的逆鳞
+格鲁斯的逆鳞Ⅱ
 受到攻擊時、5%的幾率中3秒間、迴避度200上升。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53143
-灵活的肌肉男
+灵活的肌肉男Ⅰ
 受到攻擊時、5%的幾率中3秒間、攻擊力6%上升。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53151
-灵活的肌肉男
+灵活的肌肉男Ⅱ
 受到攻擊時、5%的幾率中3秒間、攻擊力12%上升。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53152
-復仇鬼
+復仇鬼Ⅰ
 暴撃命中時、5%的機率2秒內、所有攻擊固定成全暴擊狀態。(冷卻時間30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 暴擊率增加
@@ -3761,13 +3761,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53162
-像山一样
+像山一样Ⅰ
 毎秒30%的机率的10秒間、攻撃力20%減少、防御度100%上升。（冷却时间60秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53163
-紅き烙印Ⅰ
+赤之烙印Ⅰ
 受到暴擊命中時、3秒內、命中度提升500。(冷卻時間30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
@@ -3785,31 +3785,31 @@ Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53173
-奇袭的专家
+奇袭的专家Ⅰ
 暴擊攻擊時、5%的幾率中SG回復10%。(冷卻時間20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53181
-奇袭的专家
+奇袭的专家Ⅱ
 暴擊攻擊時、10%的幾率中SG回復20%。(冷卻時間15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53182
-风之子
+风之子Ⅰ
 冲刺时、5%的几率在5秒内、攻撃力增加10%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53183
-以毒攻毒
+以毒攻毒Ⅰ
 发生异常状态时，50%的機率中10秒內，攻擊力提升10%。（冷卻時間15秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53201
-轟音Ⅰ
+巨聲Ⅰ
 空中攻撃命中時、50%的幾率中回復3%HP。（冷卻時間40秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
@@ -3821,19 +3821,19 @@ Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53203
-秘密的呼吸法
+秘密的呼吸法Ⅰ
 受到攻擊時、回復5%體力。（冷卻時間20秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 体力回复
 
 ID=53211
-怪鸟的翅膀
+怪鸟的翅膀Ⅰ
 攻撃命中時、15%机率中3秒内、防御度50%上升。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53212
-怪鸟的翅膀
+怪鸟的翅膀Ⅱ
 攻撃命中時、20%机率中5秒内、防御度50%上升。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
@@ -3917,19 +3917,19 @@ Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53292
-燃料节约系统
+燃料节约系统Ⅰ
 20秒中回復10%體力。
 Icon/Buff/Icon_Common_Buff_Akashic
 体力回复
 
 ID=53293
-燃料节约系统
+燃料节约系统Ⅱ
 15秒中回復20%體力。
 Icon/Buff/Icon_Common_Buff_Akashic
 体力回复
 
 ID=53301
-決死之擊
+決死之擊Ⅰ
 攻撃命中時、5秒間、防御度50%減少、攻撃力15%上昇。（冷却时间30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -4019,19 +4019,19 @@ Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53361
-照準…発射！！Ⅰ
+瞄準...發射！！Ⅰ
 每1分鐘內的10秒內，命中度提升200
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53362
-痛くても我慢Ⅰ
+忍受痛苦Ⅰ
 受到攻撃時、10%的幾率中回復3%HP。(冷卻時間30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53363
-静寂の暗殺者Ⅰ
+静寂的暗殺者Ⅰ
 敵死亡時、10%的機率3秒內、攻擊速度提升5%。(冷卻時間15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
@@ -4043,7 +4043,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53372
-ラッキーデイⅠ
+幸運日Ⅰ
 受到暴擊命中時、2秒內、攻撃力10%提升。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -4055,37 +4055,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53391
-忘れ物センターⅠ
+遺失物中心Ⅰ
 獲得物品時、10%的機率2秒內、處於無敵狀態。(冷卻時間1分)
 Icon/Buff/Icon_Common_Buff_Akashic
 無敵
 
 ID=53392
-桃園の誓いⅠ
+桃園結義Ⅰ
 暴擊命中時、5%的幾率中在5秒內、攻撃力10%提升，移動速度降低50%。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53403
-サイレントヒーリングⅠ
+寂静的愈合Ⅰ
 空中攻撃命中時、體力回復5%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 体力回复
 
 ID=53411
-どこにでもすぐにⅠ
+哪裡都可以Ⅰ
 每1分鐘中10秒內，攻擊速度提升5%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53412
-ハイヒールな気分Ⅰ
+高跟鞋的心情Ⅰ
 跳躍時、5秒內、移動速度提升10%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53413
-使者之花
+使者之花Ⅰ
 SA發生時、5秒內、攻擊力增加10%。（冷卻時間1分鐘）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -4097,19 +4097,19 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53422
-作用反作用の法則Ⅰ
+作用反作用的法則Ⅰ
 受到暴擊命中時、20%的機率中3秒內、攻撃力10%提升。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53423
-ヒットアンドアウェイⅠ
+熱門Anda大道Ⅰ
 攻撃失敗時、30%的機率5秒內、迴避度增加100。(冷卻時間1分)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53431
-鉄壁の鎧Ⅰ
+鉄壁之鎧Ⅰ
 我方使用技能时、40%的机率中5秒間、防御度提升20%。(冷却时间20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
@@ -4121,19 +4121,19 @@ Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53433
-吹き飛べⅠ
+击飞Ⅰ
 攻撃命中時、10%的機率3秒內、攻撃速度和移動速度5%上升。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53441
-吹き飛べⅡ
+击飞Ⅱ
 攻撃命中時、10%的機率3秒內、攻撃速度和移動速度5%上升。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53442
-戦闘タイプ分析Ⅰ
+战斗类型分析Ⅰ
 使用技能時、10%的機率5秒內、命中度提升500。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
@@ -4145,19 +4145,19 @@ Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53451
-筋力は衰えないⅠ
+筋力不衰Ⅰ
 暴擊命中時、3秒內、攻撃力10%提升。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53452
-筋力は衰えないⅡ
+筋力不衰Ⅱ
 暴擊命中時、3秒內、攻撃力15%提升。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53453
-復讐血戦Ⅰ
+復仇血戦Ⅰ
 附近的隊友死亡時、50%的機率中在10秒內、攻撃力30%提升。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -4169,37 +4169,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53462
-オタクの底力Ⅰ
+宅男的潛力Ⅰ
 受到攻撃時、5%的幾率中2秒內，HP和SG每秒回復3%。(冷卻時間45秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53463
-オタクの底力Ⅱ
+宅男的潛力Ⅱ
 受到攻撃時、5%的幾率中3秒內，HP和SG每秒回復4%。(冷卻時間45秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53471
-殴られ屋Ⅰ
+愈战愈强Ⅰ
 受到攻擊時、50%的機率中在60秒內、攻撃力1%提升。(冷卻時間1秒，最大3段重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53472
-殴られ屋Ⅱ
+愈战愈强Ⅱ
 受到攻擊時、100%的機率中在60秒內、攻撃力1%提升。(冷卻時間1秒，最大5段重複)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53483
-略奪者Ⅰ
+掠夺者Ⅰ
 怪物死亡時、回復10%SG。（冷卻時間30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53511
-ラジオスターⅠ
+廣播之星Ⅰ
 適用於第6區域。10秒中3秒內，攻擊力提升3%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -4286,37 +4286,37 @@ ID=53539
 初戦撲殺Ⅰ
 装备時、攻撃力提升4%、暴击率1%増加。
 Icon/Buff/Icon_Common_Buff_Akashic
-攻撃増加
+攻撃增強
 
 ID=53540
 初戦撲殺Ⅱ
 装备時、攻撃力提升5%、暴击率1%増加。
 Icon/Buff/Icon_Common_Buff_Akashic
-攻撃増加
+攻撃增強
 
 ID=53541
 初戦撲殺Ⅲ
 装备時、攻撃力提升6%、暴击率2%増加。
 Icon/Buff/Icon_Common_Buff_Akashic
-攻撃増加
+攻撃增強
 
 ID=53542
 初戦撲殺Ⅰ
 装备時、攻撃力提升4%、暴击率2%増加。
 Icon/Buff/Icon_Common_Buff_Akashic
-攻撃増加
+攻撃增強
 
 ID=53543
 初戦撲殺Ⅱ
 装备時、攻撃力提升6%、暴击率2%増加。
 Icon/Buff/Icon_Common_Buff_Akashic
-攻撃増加
+攻撃增強
 
 ID=53544
 初戦撲殺Ⅲ
 装备時、攻撃力提升8%、暴击率3%増加。
 Icon/Buff/Icon_Common_Buff_Akashic
-攻撃増加
+攻撃增強
 
 ID=53545
 狂热连击Ⅰ
@@ -4499,7 +4499,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 暴擊率增加
 
 ID=53575
-好戦の証明Ⅰ
+好戦的証明Ⅰ
 受到攻擊時、5%的幾率中的2.5秒內，攻擊力增加10%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -4517,7 +4517,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53578
-好戦の証明Ⅰ
+好戦的証明Ⅰ
 受到攻擊時、10%的幾率中的2.5秒內，攻擊力增加10%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -4535,37 +4535,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53581
-疾跑咻
+疾跑咻Ⅰ
 毎秒10%的机率中2.5秒内、移动速度10%提高（冷却时间15秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53582
-疾跑咻
+疾跑咻Ⅱ
 毎秒20%的机率中3秒内、移动速度10%提高（冷却时间13秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53583
-疾走チュウⅢ
+疾走咻Ⅲ
 毎秒30%的机率中3.5秒内、移动速度10%提高（冷却时间11秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53584
-疾跑咻
+疾跑咻Ⅰ
 毎秒15%的机率中3秒内、移动速度10%提高（冷却时间15秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53585
-疾跑咻
+疾跑咻Ⅱ
 毎秒25%的机率中3.5秒内、移动速度10%提高（冷却时间13秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53586
-疾走チュウⅢ
+疾走咻Ⅲ
 毎秒35%的机率中4秒内、移动速度10%提高（冷却时间11秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
@@ -4613,13 +4613,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53594
-攻撃的儀式
+攻撃的儀式Ⅱ
 跳躍時、20%的機率在4秒內、攻擊力提升10%。(冷卻時間15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53595
-攻撃の儀式Ⅲ
+攻撃的儀式Ⅲ
 跳躍時、25%的機率在4秒內、攻擊力提升10%。(冷卻時間15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -4631,13 +4631,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53597
-攻撃的儀式
+攻撃的儀式Ⅱ
 跳躍時、25%的機率在4秒內、攻擊力提升10%。(冷卻時間15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53598
-攻撃の儀式Ⅲ
+攻撃的儀式Ⅲ
 跳躍時、30%的機率在4秒內、攻擊力提升10%。(冷卻時間15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -4655,7 +4655,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 体力回复
 
 ID=53601
-自己回復力Ⅲ
+自我回復力Ⅲ
 攻撃命中時、5%的幾率中回復17%體力。
 Icon/Buff/Icon_Common_Buff_Akashic
 体力回复
@@ -4673,7 +4673,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 体力回复
 
 ID=53604
-自己回復力Ⅲ
+自我回復力Ⅲ
 攻撃命中時、5%的幾率中回復19%體力。
 Icon/Buff/Icon_Common_Buff_Akashic
 体力回复
@@ -4691,7 +4691,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53607
-急速カルシウム補給Ⅲ
+急速補鈣Ⅲ
 受到攻撃時、17%的幾率回復15%SG。(冷卻時間20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
@@ -4709,7 +4709,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53610
-急速カルシウム補給Ⅲ
+急速補鈣Ⅲ
 受到攻撃時、19%的幾率回復15%SG。(冷卻時間20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
@@ -4727,7 +4727,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53613
-ビクターの法則Ⅲ
+勝者的法則Ⅲ
 攻撃命中時、7%的機率的4秒內、命中度提升300。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
@@ -4745,79 +4745,79 @@ Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53616
-ビクターの法則Ⅲ
+勝者的法則Ⅲ
 攻撃命中時、9%的機率的4秒內、命中度提升350。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53617
-格鲁斯的逆鳞
+格鲁斯的逆鳞Ⅰ
 受到攻撃時、5%的機率2秒內、迴避度增加500。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53618
-格鲁斯的逆鳞
+格鲁斯的逆鳞Ⅱ
 受到攻撃時、5%的機率3秒內、迴避度增加500。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53619
-ガルスの逆鱗Ⅲ
+捷拉斯的逆鱗Ⅲ
 受到攻撃時、5%的機率4秒內、迴避度增加500。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53620
-格鲁斯的逆鳞
+格鲁斯的逆鳞Ⅰ
 受到攻撃時、9%的機率3秒內、迴避度增加500。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53621
-格鲁斯的逆鳞
+格鲁斯的逆鳞Ⅱ
 受到攻撃時、9%的機率4秒內、迴避度增加500。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53622
-ガルスの逆鱗Ⅲ
+捷拉斯的逆鱗Ⅲ
 受到攻撃時、5%的機率5秒內、迴避度增加500。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53623
-灵活的肌肉男
+灵活的肌肉男Ⅰ
 受到攻擊時、7%的機率中的2秒內，攻擊力增加10%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53624
-灵活的肌肉男
+灵活的肌肉男Ⅱ
 受到攻擊時、7%的機率中的2.5秒內，攻擊力增加15%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53625
-俊敏なマッチョⅢ
+敏捷的肌肉Ⅲ
 受到攻擊時、7%的機率中的3秒內，攻擊力增加20%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53626
-灵活的肌肉男
+灵活的肌肉男Ⅰ
 受到攻擊時、9%的機率中的3.5秒內，攻擊力增加10%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53627
-灵活的肌肉男
+灵活的肌肉男Ⅱ
 受到攻擊時、9%的機率中的4秒內，攻擊力增加15%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53628
-俊敏なマッチョⅢ
+敏捷的肌肉Ⅲ
 受到攻擊時、9%的機率中的4.5秒內，攻擊力增加20%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -4859,7 +4859,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53635
-紅き烙印Ⅰ
+赤之烙印Ⅰ
 受到暴擊攻撃時、7秒內、命中度增加500。(冷卻時間20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
@@ -4871,13 +4871,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53637
-紅き烙印Ⅲ
+赤紅烙印Ⅲ
 受到暴擊攻撃時、17秒內、命中度增加500。(冷卻時間20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53638
-紅き烙印Ⅰ
+赤之烙印Ⅰ
 受到暴擊攻撃時、9秒內、命中度增加500。(冷卻時間20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
@@ -4889,67 +4889,67 @@ Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53640
-紅き烙印Ⅲ
+赤紅烙印Ⅲ
 受到暴擊攻撃時、19秒內、命中度增加500。(冷卻時間20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53641
-眩しい
+眩目
 A.R卡合成的时候可以使用它增長合成经验。但不提高属性数值
 0
 0
 
 ID=53642
-お腹パンパン
+肚子快撑破了
 適用於在物品商城购买的A.R卡，合成將會获得2倍合成经验、并不提高属性数值
 0
 0
 
 ID=53643
-お腹パンパン
+肚子快撑破了
 適用於在物品商城购买的A.R卡，合成將會获得3倍合成经验、并不提高属性数值
 0
 0
 
 ID=53651
-ファイト
+加油
 裝備時、最大HP增加5%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53652
-奇袭的专家
+奇袭的专家Ⅰ
 暴擊命中時、20%的機率SG10%回复。(冷卻時間30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53653
-奇袭的专家
+奇袭的专家Ⅱ
 暴擊命中時、20%的機率SG13%回复。(冷卻時間30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53654
-奇襲のプロⅢ
+奇襲的專家Ⅲ
 暴擊命中時、20%的機率SG16%回复。(冷卻時間30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53655
-奇袭的专家
+奇袭的专家Ⅰ
 暴擊命中時、20%的機率SG12%回复。(冷卻時間30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53656
-奇袭的专家
+奇袭的专家Ⅱ
 暴擊命中時、20%的機率SG1%回复。(冷卻時間30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53657
-奇襲のプロⅢ
+奇襲的專家Ⅲ
 暴擊命中時、20%的機率SG18%回复。(冷卻時間30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
@@ -4991,37 +4991,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 HP回復
 
 ID=53664
-怪鸟的翅膀
+怪鸟的翅膀Ⅰ
 攻撃命中時、10%的機率的下一擊傷害量提升5%。(冷卻時間8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=53665
-怪鸟的翅膀
+怪鸟的翅膀Ⅱ
 攻撃命中時、10%的機率的下一擊傷害量提升7%。(冷卻時間8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=53666
-怪鳥の翼Ⅲ
+怪鳥之翼Ⅲ
 攻撃命中時、10%的機率的下一擊傷害量提升10%。(冷卻時間8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=53667
-怪鸟的翅膀
+怪鸟的翅膀Ⅰ
 攻撃命中時、10%的機率的下一擊傷害量提升6%。(冷卻時間8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=53668
-怪鸟的翅膀
+怪鸟的翅膀Ⅱ
 攻撃命中時、10%的機率的下一擊傷害量提升10%。(冷卻時間8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=53669
-怪鳥の翼Ⅲ
+怪鳥之翼Ⅲ
 攻撃命中時、10%的機率的下一擊傷害量提升15%。(冷卻時間8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
@@ -5039,7 +5039,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53672
-物質変換Ⅲ
+物質轉換Ⅲ
 獲得物品時、11秒內，攻擊力增加20%。（冷卻時間30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -5057,7 +5057,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53675
-物質変換Ⅲ
+物質轉換Ⅲ
 獲得物品時、11秒內，攻擊力增加25%。（冷卻時間30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -5075,7 +5075,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53678
-ソウルドレインⅢ
+灵魂引流Ⅲ
 攻撃命中時、10%的機率SG20%回复。(冷卻時間15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
@@ -5093,7 +5093,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=53681
-ソウルドレインⅢ
+灵魂引流Ⅲ
 攻撃命中時、20%的機率SG25%回复。(冷卻時間15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
@@ -5111,7 +5111,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53684
-肉を切らせて骨を断つⅢ
+切肉斷骨Ⅲ
 受到攻擊時、7%的幾率中6秒間、攻擊力20%上升。（冷卻時間20秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -5129,7 +5129,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53687
-肉を切らせて骨を断つⅢ
+切肉斷骨Ⅲ
 受到攻擊時、10%的幾率中7秒間、攻擊力25%上升。（冷卻時間20秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -5147,7 +5147,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53690
-踊る影Ⅲ
+舞动之影Ⅲ
 裝備時、攻擊力增加10%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -5165,7 +5165,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53693
-踊る影Ⅲ
+舞动之影Ⅲ
 裝備時、攻擊力增加13%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
@@ -5183,7 +5183,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53696
-シールド出力全開Ⅲ
+屏障輸出全開Ⅲ
 裝備時、最大HP增加18%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
@@ -5201,43 +5201,43 @@ Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53699
-シールド出力全開Ⅲ
+屏障輸出全開Ⅲ
 裝備時、最大HP增加22%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53700
-燃料节约系统
+燃料节约系统Ⅰ
 裝備時、每5.5秒回復10%體力。
 Icon/Buff/Icon_Common_Buff_Akashic
 体力回复
 
 ID=53701
-燃料节约系统
+燃料节约系统Ⅱ
 裝備時、每5.5秒回復15%體力。
 Icon/Buff/Icon_Common_Buff_Akashic
 体力回复
 
 ID=53702
-燃料節約システムⅢ
+能源節約系統Ⅲ
 裝備時、每5.5秒回復20%體力。
 Icon/Buff/Icon_Common_Buff_Akashic
 体力回复
 
 ID=53703
-燃料节约系统
+燃料节约系统Ⅰ
 裝備時、每5.5秒回復15%體力。
 Icon/Buff/Icon_Common_Buff_Akashic
 体力回复
 
 ID=53704
-燃料节约系统
+燃料节约系统Ⅱ
 裝備時、每5.5秒回復20%體力。
 Icon/Buff/Icon_Common_Buff_Akashic
 体力回复
 
 ID=53705
-燃料節約システムⅢ
+能源節約系統Ⅲ
 裝備時、每5.5秒回復25%體力。
 Icon/Buff/Icon_Common_Buff_Akashic
 体力回复
@@ -5327,7 +5327,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53720
-軽いけど正確にⅢ
+虽然小但正确Ⅲ
 受到攻擊時、20%的確率中6秒內、攻撃力5%減少、命中度增加1000。(冷卻時間1分)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
@@ -5345,46 +5345,46 @@ Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53723
-軽いけど正確にⅢ
+虽然小但正确Ⅲ
 受到攻擊時、20%的確率中6秒內、攻撃力5%減少、命中度增加1100。(冷卻時間1分)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53724
-風の加護Ⅰ
+風之加護Ⅰ
 裝備時、減傷增加1%
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+減傷增加
 
 ID=53725
 風之加護Ⅱ
 裝備時、減傷增加4%
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+減傷增加
 
 ID=53726
-風の加護Ⅲ
+風之加護Ⅲ
 裝備時、減傷增加7%
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+減傷增加
 
 ID=53727
-風の加護Ⅰ
+風之加護Ⅰ
 裝備時、減傷增加3%
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+減傷增加
 
 ID=53728
 風之加護Ⅱ
 裝備時、減傷增加6%
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+減傷增加
 
 ID=53729
-風の加護Ⅲ
+風之加護Ⅲ
 裝備時、減傷增加9%
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+減傷增加
 
 ID=53730
 無限動力Ⅰ
@@ -5423,13 +5423,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 SG消耗量減少
 
 ID=53736
-刀刃天使
+刀刃天使Ⅰ
 裝備時、暴擊傷害量增加200。
 Icon/Buff/Icon_Common_Buff_Akashic
 暴擊傷害量增加
 
 ID=53737
-刀刃天使
+刀刃天使Ⅱ
 裝備時、暴擊傷害量增加700
 Icon/Buff/Icon_Common_Buff_Akashic
 暴擊傷害量增加
@@ -5441,13 +5441,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 暴擊傷害量增加
 
 ID=53739
-刀刃天使
+刀刃天使Ⅰ
 裝備時、暴擊傷害量增加500
 Icon/Buff/Icon_Common_Buff_Akashic
 暴擊傷害量增加
 
 ID=53740
-刀刃天使
+刀刃天使Ⅱ
 裝備時、暴擊傷害量增加1000
 Icon/Buff/Icon_Common_Buff_Akashic
 暴擊傷害量增加
@@ -5534,37 +5534,37 @@ ID=53754
 冷徹Ⅰ
 裝備時、增加對Boss/ネームド的5%減傷。
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+減傷增加
 
 ID=53755
 冷徹Ⅱ
 裝備時、增加對Boss/ネームド的7%減傷。
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+減傷增加
 
 ID=53756
 冷徹Ⅲ
 裝備時、增加對Boss/ネームド的10%減傷。
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+減傷增加
 
 ID=53757
 冷徹Ⅰ
 裝備時、增加對Boss/ネームド的7%減傷。
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+減傷增加
 
 ID=53758
 冷徹Ⅱ
 裝備時、增加對Boss/ネームド的9%減傷。
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+減傷增加
 
 ID=53759
 冷徹Ⅲ
 裝備時、增加對Boss/ネームド的12%減傷。
 Icon/Buff/Icon_Common_Buff_Akashic
-ダメージ減少増加
+減傷增加
 
 ID=55002
 搞事箱Ⅲ
@@ -5651,7 +5651,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=55103
-技能无CD
+技能无冷卻時間
 5秒內、技能隨意使用。（SG需要）
 Icon/Buff/Icon_Common_Buff_Akashic
 技能解放
@@ -5891,7 +5891,7 @@ Icon/Buff/Icon_Common_Buff_Reg
 強化
 
 ID=63012
-攻撃増加
+攻撃增強
 10分鐘內。攻擊力增加30%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
@@ -5909,7 +5909,7 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=63015
-攻撃増加
+攻撃增強
 10分鐘內。攻擊力增加30%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
@@ -5933,7 +5933,7 @@ HP減少
 HP減少
 
 ID=63019
-攻撃増加
+攻撃增強
 10分鐘內。攻擊力增加30%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
@@ -5958,7 +5958,7 @@ HP減少
 
 ID=63023
 防御減少
-10分間、防御度が200%減少
+10分內、防御度減少200%
 Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
@@ -5981,7 +5981,7 @@ HP減少
 HP減少
 
 ID=63027
-攻撃増加
+攻撃增強
 15秒內，攻擊力增加500%
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
@@ -6011,7 +6011,7 @@ Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ID=63032
-攻撃増加
+攻撃增強
 10分鐘內。攻擊力增加30%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
@@ -6035,7 +6035,7 @@ HP減少
 HP減少
 
 ID=63036
-攻撃増加
+攻撃增強
 5分內，攻擊力增加30%
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
