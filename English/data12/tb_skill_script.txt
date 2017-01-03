@@ -979,7 +979,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=2131
-Bullet of Pleasure Ⅰ
+Pleasure Bullets Ⅰ
 [Info]\nGain SG when hitting an enemy.\nPassively gain SG in set intervals.\nUsing a different skill within 5 seconds will grant 1 stack. Gain 3 SG upon reaching 3 stacks.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_SoulMastery
@@ -1512,7 +1512,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakZenith
 
 ID=12911
 Erosion Ⅰ
-[Info]\nAwaken for 60s.\n- Deal maximum damage will all attacks.\n- Attack Speed +30%.\n- Movement Speed +20%.\n- Gain Super Armor.\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press the [7] key
+[Info]\nAwaken for 60s.\n- All attacks deal maximum damage.\n- Attack Speed +30%.\n- Movement Speed +20%.\n- Gain Super Armor.\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press the [7] key
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakErode
 Description_Image/Skill/GunJazz/Image_GJazz_Break_Erode
@@ -1735,7 +1735,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 
 ID=3131
-Mad Scythe Ⅰ
+Crazy Scythe Ⅰ
 [Info]\nGain SG when hitting an enemy.\nPassively gain SG in set intervals.\nCollecting a certain amount of SG will activated Madness Mode.\nAttack Power +5%.\nCritical Rate +5%.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_SoulMastery
@@ -3073,8 +3073,8 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 
 ID=115
 Special Ability Mastery Ⅰ
-[Ground]\nChange modes and the effects of your skills.\nActivate Melody of Sorrow.\n\nCooldown: [3s]\n\n[Air]\nDamage: [204%]\nSA Break: [124%]\nCooldown: [3s]\n\nDo a musical performance on your special guitar to change your mode.\nUsing this skill in the air will make your ghost attack with a fist.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Air]\nMouse: (RMB)
-[Ground]\nImprove your Melody of Sorrow.\n\n[Air]\nDamage: [204%]+10%\nSA Break: [124%]+7%
+[Ground]\nChange modes and the effects of your skills.\nActivate Sorrowful Note.\n\nCooldown: [3s]\n\n[Air]\nDamage: [204%]\nSA Break: [124%]\nCooldown: [3s]\n\nDo a musical performance on your special guitar to change your mode.\nUsing this skill in the air will make your ghost attack with a fist.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Air]\nMouse: (RMB)
+[Ground]\nImprove your Sorrowful Note.\n\n[Air]\nDamage: [204%]+10%\nSA Break: [124%]+7%
 Icon/Skill/Howling/Icon_Howling_Skill_OwnAbility
 0
 
@@ -3087,8 +3087,8 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 
 ID=125
 Special Ability Mastery Ⅱ
-[Ground]\nChange modes and the effects of your skills.\nActivate Melody of Sorrow.\n\nCooldown: [3s]\n\n[Air]\nDamage: [214%]\nSA Break: [131%]\nCooldown: [3s]\n\nDo a musical performance on your special guitar to change your mode.\nUsing this skill in the air will make your ghost attack with a fist.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Air]\nMouse: (RMB)
-[Ground]\nImprove your Melody of Sorrow.\n\n[Air]\nDamage: [214%]+25%\nSA Break: [131%]+15%
+[Ground]\nChange modes and the effects of your skills.\nActivate Sorrowful Note.\n\nCooldown: [3s]\n\n[Air]\nDamage: [214%]\nSA Break: [131%]\nCooldown: [3s]\n\nDo a musical performance on your special guitar to change your mode.\nUsing this skill in the air will make your ghost attack with a fist.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Air]\nMouse: (RMB)
+[Ground]\nImprove your Sorrowful Note.\n\n[Air]\nDamage: [214%]+25%\nSA Break: [131%]+15%
 Icon/Skill/Howling/Icon_Howling_Skill_OwnAbility
 0
 
@@ -3101,7 +3101,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 
 ID=135
 Special Ability Mastery Ⅲ
-[Ground]\nChange modes and the effects of your skills.\nActivate Melody of Sorrow.\n\nCooldown: [3s]\n\n[Air]\nDamage: [239%]\nSA Break: [146%]\nCooldown: [3s]\n\nDo a musical performance on your special guitar to change your mode.\nUsing this skill in the air will make your ghost attack with a fist.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Air]\nMouse: (RMB)
+[Ground]\nChange modes and the effects of your skills.\nActivate Sorrowful Note.\n\nCooldown: [3s]\n\n[Air]\nDamage: [239%]\nSA Break: [146%]\nCooldown: [3s]\n\nDo a musical performance on your special guitar to change your mode.\nUsing this skill in the air will make your ghost attack with a fist.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Air]\nMouse: (RMB)
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_OwnAbility
 0
@@ -3254,7 +3254,7 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
 
 ID=5131
-Melody of Sorrow Ⅰ
+Sorrowful Note Ⅰ
 [Info]\nPassively gain SG in set intervals.\nGet a bonus effect when you change modes based on your Special Mastery level.\n\n[Special Ability Mastery Ⅰ]\nSelf: +10% SG\n\n[Special Ability Mastery Ⅱ]\nSelf: +15% SG\n\n[Special Ability Mastery Ⅲ]\nSelf: +20% SG
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_SoulMastery
@@ -6069,7 +6069,7 @@ On hit, 10% chance of +10% Attack Speed for 5s. (10s cooldown)
 
 ID=30162
 Mountain Defense Ⅰ
-Every 60 seconds, there is a 30% chance of reducing ATK by 20% and increasing DEF by 100%
+Every 60 seconds, 30% chance of -20% Attack and +100% Defense.
 .
 0
 0
@@ -6594,7 +6594,7 @@ When critically hit, 20% chance of +10% Attack for 3s. (10s cooldown)
 
 ID=30423
 Hit and Away Ⅰ
-On fail hit, 30% chance of +100 Evasion for 5 sec. (60s cooldown)
+On evaded hit, 30% chance of +100 Evasion for 5s. (60s cooldown)
 .
 0
 0
@@ -7938,42 +7938,42 @@ On mid-air hit, 90% chance of +10% HP. (30s cooldown)
 
 ID=31091
 Bird Monster Wings Ⅰ
-On hit, 10% chance for next attack to deal +5% Attack for 2s. (8s cooldown)
+On hit, 10% chance for the next attack to deal +5% Attack for 2s. (8s cooldown)
 .
 0
 0
 
 ID=31092
 Bird Monster Wings Ⅱ
-On hit, 10% chance for next attack to deal +7% Attack for 2s. (8s cooldown)
+On hit, 10% chance for the next attack to deal +7% Attack for 2s. (8s cooldown)
 .
 0
 0
 
 ID=31093
 Bird Monster Wings Ⅲ
-On hit, 10% chance for next attack to deal +10% Attack for 2s. (8s cooldown)
+On hit, 10% chance for the next attack to deal +10% Attack for 2s. (8s cooldown)
 .
 0
 0
 
 ID=31101
 Bird Monster Wings Ⅰ
-On hit, 10% chance for next attack to deal +6% Attack for 2s. (8s cooldown)
+On hit, 10% chance for the next attack to deal +6% Attack for 2s. (8s cooldown)
 .
 0
 0
 
 ID=31102
 Bird Monster Wings Ⅱ
-On hit, 10% chance for next attack to deal +10% Attack for 2s. (8s cooldown)
+On hit, 10% chance for the next attack to deal +10% Attack for 2s. (8s cooldown)
 .
 0
 0
 
 ID=31103
 Bird Monster Wings Ⅲ
-On hit, 10% chance for next attack to deal +15% Attack for 2s. (8s cooldown)
+On hit, 10% chance for the next attack to deal +15% Attack for 2s. (8s cooldown)
 .
 0
 0
