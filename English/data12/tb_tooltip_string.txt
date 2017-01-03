@@ -1,6 +1,6 @@
 ID=15
 Stamina Recovery
-This is the stamina-per-second recovery rate.
+The amount of stamina recovered per second.
 
 ID=18
 Movement Speed
@@ -20,7 +20,7 @@ Reduce damage by a ratio dependent on the enemy's attack.\nDamage reduction agai
 
 ID=26
 Accuracy
-Reduces the chances of your attack failing.
+Reduces the chances of your attack being evaded.
 
 ID=28
 Evaded Attack Damage
@@ -28,7 +28,7 @@ The damage applied to an evaded attack.
 
 ID=29
 Critical
-Chance of doing a critical hit.
+The chance of doing a critical hit.
 
 ID=31
 Critical Resistance
@@ -44,10 +44,10 @@ Reduce damage from enemy attacks.
 
 ID=43
 Evasion Rate
-Increase the chance of the enemy's attack being ineffective.
+Increases the chance of the enemy's attack being less effective.
 
 ID=47
-Penetration Rate
+Penetration
 Ignores a portion of the enemy's defense when calculating damage.
 
 ID=49
@@ -203,7 +203,7 @@ Vehicle
 Opens and closes the vehicle window.
 
 ID=20100
-My Room
+Room
 Enter your own room.
 
 ID=21000
@@ -263,7 +263,7 @@ Break Skill Related
 Upon reaching a certain Soul Vapor threshold, you can use the Break Skill.
 
 ID=30009
-Create Party / Party Play
+Create Party/Party Play
 When entering a dungeon with a party, additional boosts will be applied and combat will be easier.
 
 ID=30010
@@ -335,7 +335,7 @@ Supporter Related
 Add various supporters to participate in combat when playing alone in dungeons.
 
 ID=30027
-My Room
+Room
 A personal room for Soulworkers only, it is fully customizable. It is a hospitable place for guests and friends to enjoy.
 
 ID=30028

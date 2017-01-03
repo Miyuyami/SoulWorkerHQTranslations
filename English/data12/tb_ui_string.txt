@@ -1115,10 +1115,10 @@ ID=618
 Evaded Attack Damage
 
 ID=619
-Critical Rate
+Critical
 
 ID=620
-Magic Critical Rate
+Magic Critical
 
 ID=621
 Critical Resistance
@@ -1127,10 +1127,10 @@ ID=622
 Magic Critical Resistance
 
 ID=623
-Critical Rate
+Critical
 
 ID=624
-Magic Critical Rate
+Magic Critical
 
 ID=625
 Critical Damage
@@ -1418,7 +1418,7 @@ ID=759
 <font color='#FF0000'>Bound on Acquisition</font>
 
 ID=760
-<font color='#FF0000'>Bound Item</font>
+<font color='#FF0000'>Item Bounded</font>
 
 ID=761
 <font color='#FF0000'>Untradable</font>
@@ -1793,7 +1793,7 @@ ID=915
 Magic Attack is influenced by Magic Resistance
 
 ID=916
-Evaded Physical Attack Rate is influenced by Critical Rate
+Evaded Physical Attack is influenced by Critical
 
 ID=917
 HP is influenced by Physical Defense
@@ -1874,7 +1874,7 @@ ID=942
 Bound on Acquisition
 
 ID=943
-Bound Item
+Item Bounded
 
 ID=946
 <font color='#FF0000'>Unsellable</font>
@@ -1916,7 +1916,7 @@ ID=961
 Insufficient funds or materials needed to enhance the item.
 
 ID=962
-Prevents item destruction
+Item Break Prevention
 
 ID=963
 Zenny Cost
@@ -1925,10 +1925,10 @@ ID=964
 Required BP
 
 ID=965
-Enhancing this item can destroy the item upon failure.
+Enhancing this item can break the item upon failure.
 
 ID=966
-Protection items.\nUsable above +4.
+Item break prevention items can be used on +4 and above.
 
 ID=967
 Enhance
@@ -1961,16 +1961,16 @@ ID=976
 This item has been successfully enhanced.
 
 ID=977
-This item has failed to enhance. 
+Failed to enhance the item.
 
 ID=978
-This item cannot be enhanced.\nIt has been destroyed.
+Failed to enhance the item.\nThe item has been broken.
 
 ID=979
-The item has failed to enhance.\nBy using Q.B.D [Enhancement Protection], the item was not destroyed.
+Failed to enhance the item.\nQ.B.D[Enhancement Protector] was used and the item was not broken.
 
 ID=980
-When enhancement fails, there is a chance\nof the item being destroyed.\nDo you wish to proceed?\n(Q.B.D [Enhancement Protection] can be used\nto prevent item destruction)
+There is a chance that the item could break if the enhancement fails.\nAre you sure you want to enhance the item?\n(Q.B.D[Enhancement Protector] can be used to prevent the item from breaking)
 
 ID=981
 Evolve
@@ -2012,10 +2012,10 @@ ID=993
 Cannot enhance: [{0}] missing
 
 ID=994
-You can enhance this item.\nIt may result in destroying the item.
+You can enhance this item.\nIt may result in breaking the item.
 
 ID=995
-You can enhance this item.\nIt may result in destroying the item.\nDestruction mitigation items cannot be used.
+You can enhance this item.\nIt may result in breaking the item.\nItem break prevention cannot be used.
 
 ID=996
 Cannot evolve: [{0}] missing
@@ -2348,13 +2348,13 @@ ID=1409
 Restorations
 
 ID=1410
-Destroyed
+Broken
 
 ID=1450
 {0} successfully enhanced {1}+{2}.
 
 ID=1451
-{0} failed to enhance {1}+{2} and the item was destroyed.
+{0} failed to enhance {1}+{2} and the item was broken.
 
 ID=1452
 {0} has successfully crafted {1}.
@@ -5567,7 +5567,7 @@ ID=18000
 Since the enhancing limit was reached, you cannot enhance this equipment any further.
 
 ID=18001
-Due to enhancing failure, the item has been destroyed.
+Failed to enhance the item, the item has been broken.
 
 ID=18002
 You cannot equip broken items.
@@ -5576,7 +5576,7 @@ ID=18003
 You cannot trade broken equipment.
 
 ID=18004
-Broken equipment has been recovered.
+The broken equipment has been restored.
 
 ID=18005
 Do you wish to restore {0}'s condition?\nRestoration Limit: {1}.
@@ -5858,7 +5858,7 @@ ID=18190
 Enhancement Subject
 
 ID=18191
-Destruction Prevention
+Break Prevention
 
 ID=18192
 Enhancing Options
@@ -6182,7 +6182,7 @@ ID=18601
 Cooldown: {0}%
 
 ID=18602
-SA Destruction: {0}%
+SA Break: {0}%
 
 ID=18603
 SG Absorbtion: {0}%
@@ -6200,10 +6200,10 @@ ID=19002
 <font color='#E0B94F'>Attack +3%/Evaded Attack Damage +3%</font>
 
 ID=19003
-<font color='#F15F5F'>Attack +4%/Evaded Attack Damage +4%/Defense Penetration +1%</font>
+<font color='#F15F5F'>Attack +4%/Evaded Attack Damage +4%/Penetration +1%</font>
 
 ID=19004
-<font color='#8041D9'>Attack +5%/Evaded Attack Damage +5%/Defense Penetration +2%</font>
+<font color='#8041D9'>Attack +5%/Evaded Attack Damage +5%/Penetration +2%</font>
 
 ID=19005
 <font color='#47C83E'>Defense +5%/HP +4% </font>
@@ -8123,7 +8123,7 @@ ID=24523
 Dismantle Tool
 
 ID=24524
-Prevent Enhancement Destruction
+Enhancement Break Prevention
 
 ID=24525
 Enhances
@@ -9203,10 +9203,10 @@ ID=26043
 Evaded Attack Damage
 
 ID=26044
-Critical Rate
+Critical
 
 ID=26045
-Magic Critical Rate
+Magic Critical
 
 ID=26046
 Critical Resistance
@@ -9215,10 +9215,10 @@ ID=26047
 Magic Critical Resistance
 
 ID=26048
-Critical Rate
+Critical
 
 ID=26049
-Magic Critical Rate
+Magic Critical
 
 ID=26050
 Critical Damage
@@ -9251,10 +9251,10 @@ ID=26059
 Shock Resistance
 
 ID=26060
-Evasion Rate
+Evasion
 
 ID=26061
-Magic Attack Evasion Rate
+Magic Attack Evasion
 
 ID=26062
 Attack Success Rate[Unused]
@@ -9263,7 +9263,7 @@ ID=26063
 Magic Attack Success Rate[Not Used]
 
 ID=26064
-Penetration Rate
+Penetration
 
 ID=26065
 Magic Resistance Penetration
@@ -9308,7 +9308,7 @@ ID=26078
 Damage Reduction on Long-Ranged Attacks
 
 ID=26079
-Super Armor Destruction
+Super Armor Break
 
 ID=26080
 SG Cost Reduction
@@ -9365,7 +9365,7 @@ ID=26097
 Silence Resistance
 
 ID=26098
-Armor Penetration Resistance
+Armor Resistance Penetration
 
 ID=26099
 Charm Resistance
@@ -9485,7 +9485,7 @@ ID=26302
 50% chance for Damage Reduction from Puppet faction
 
 ID=26303
-On skill use, 50% chance to increase Evasion Rate by {0}% for 10s
+On skill use, 50% chance of +{0} Evasion for 10s
 
 ID=26304
 When gaining zenny, 50% chance of gaining additional zenny
@@ -9527,13 +9527,13 @@ ID=26316
 On hit, 1% chance of +{0}% Attack for 5s
 
 ID=26317
-On critical hit, 3% chance of +{0}% Defense Penetration for 3s
+On critical hit, 3% chance of +{0}% Penetration for 3s
 
 ID=26318
-On critical hit, 1% chance of +{0}% Defense Penetration for 5s
+On critical hit, 1% chance of +{0}% Penetration for 5s
 
 ID=26319
-When hit, 15% chance of +{0} Evasion Rate for 3s
+When hit, 15% chance of +{0} Evasion for 3s
 
 ID=26320
 On evasion, 10% chance of +{0}% Evaded Attack Damage for 10s
@@ -9623,7 +9623,7 @@ ID=26348
 When hit, 15% chance of +{0} Attack for 3s
 
 ID=26349
-On evasion, 10% chance of +{0}% Critical Rate for 3s
+On evasion, 10% chance of +{0}% Critical for 3s
 
 ID=26350
 On evasion, 10% chance of +{0} Critical Damage for 5s
@@ -9710,7 +9710,7 @@ ID=26377
 On dash use, 10% chance of +{0}% SA Break for 5s
 
 ID=26378
-On dash use, 10% chance of +{0}% Penetration Rate for 5s
+On dash use, 10% chance of +{0}% Penetration for 5s
 
 ID=26379
 On kill Effect: +{0} Attack for 5s
@@ -9722,7 +9722,7 @@ ID=26381
 On kill Effect: -{0}% Enemy Defense for 5s
 
 ID=26500
-On enemy death, +{0}% Defense Penetration for 30s
+On enemy death, +{0}% Penetration for 30s
 
 ID=27000
 On hit,  5% chance of +{0}% Attack for 3s
@@ -9923,7 +9923,7 @@ ID=27858
 On SV recovery, 10% chance of +{0}% Movement Speed for 3s
 
 ID=27859
-On SA Break, 50% chance of +{0}% Defense Penetration for 5s
+On SA Break, 50% chance of +{0}% Penetration for 5s
 
 ID=27860
 On hitting target with 50% SA Gauge or more, +{0}% SA Break
@@ -10193,7 +10193,7 @@ ID=28074
 Cancel Guild Notice
 
 ID=28075
-Try posting again in the Bulletin Board in {0} minutes.
+You can create another bulletin notice in {0} minutes.
 
 ID=28076
 The guild bulletin post was not created.
@@ -10883,7 +10883,7 @@ ID=29039
 Enter a random room?
 
 ID=29040
-Room Entry Rejection Notice
+Room Entry Rejected
 
 ID=29041
 Cannot enter {0}'s room.
@@ -10997,13 +10997,13 @@ ID=29077
 Favorited
 
 ID=29078
-Comment
+Set Notice
 
 ID=29079
-Comment Confirmation
+Check Notice
 
 ID=29080
-Room Notice Created
+Create Room Notice
 
 ID=29081
 Select representative furniture (up to 12)
@@ -11027,7 +11027,7 @@ ID=29087
 Claim
 
 ID=29088
-Rank and praise is reset at 9 AM JST in the 1st day of every month. (Info is updated every day at 9 AM JST)
+Ranking and praise resets at 9 AM JST in the 1st day of every month. (Info is updated every day)
 
 ID=29089
 Information is updated every day at 9 AM JST.
@@ -11042,7 +11042,7 @@ ID=29092
 You'll receive a basic reward in your mail if you have more than 1 praises.
 
 ID=29093
-The board alert will be up for more {0} minutes.
+You can create another room notice in {0} minutes.
 
 ID=29094
 You cannot create while not being in your room.
@@ -11066,7 +11066,7 @@ ID=30001
 Status
 
 ID=30002
-Comment
+Set Notice
 
 ID=30003
 Memo
@@ -16991,7 +16991,7 @@ ID=49971
 Talk to {0}
 
 ID=49972
-Destroy {0}: {1} / {2}
+Break {0}: {1}/{2}
 
 ID=49973
 Investigate {0} 
@@ -17237,7 +17237,7 @@ ID=52020
 This item cannot be dismantled.
 
 ID=52021
-Failed to discard item.
+Failed to discard the item.
 
 ID=52022
 Failed to obtain item.
@@ -18509,7 +18509,7 @@ ID=57021
 This user is not in the same town and cannot be invited.
 
 ID=57022
-Try posting again in the Bulletin Board in {0} minutes.
+You can create another bulletin notice in {0} minutes.
 
 ID=57023
 The applicant list is full. 
