@@ -1115,10 +1115,10 @@ ID=618
 Evaded Attack Damage
 
 ID=619
-Critical
+Critical Rate
 
 ID=620
-Magic Critical
+Magic Critical Rate
 
 ID=621
 Critical Resistance
@@ -1127,10 +1127,10 @@ ID=622
 Magic Critical Resistance
 
 ID=623
-Critical
+Critical Rate
 
 ID=624
-Magic Critical
+Magic Critical Rate
 
 ID=625
 Critical Damage
@@ -1793,7 +1793,7 @@ ID=915
 Magic Attack is influenced by Magic Resistance
 
 ID=916
-Evaded Physical Attack is influenced by Critical
+Evaded Physical Attack is influenced by Critical Rate
 
 ID=917
 HP is influenced by Physical Defense
@@ -1817,7 +1817,7 @@ ID=923
 Reduce Chance of Weak Attacks
 
 ID=924
-On physical attack, the chance of critical hit is increased
+On physical attack, the chance of doing a critical hit is increased
 
 ID=925
 When attacking, critical hit damage is increased
@@ -6260,10 +6260,10 @@ ID=19022
 <font color='#E0B94F'>Accuracy +30/Critical Damage +800</font>
 
 ID=19023
-<font color='#F15F5F'>Accuracy +40/Critical Damage +900/Critical +1%</font>
+<font color='#F15F5F'>Accuracy +40/Critical Damage +900/Critical Rate +1%</font>
 
 ID=19024
-<font color='#8041D9'>Accuracy +50/Critical Damage +1000/Critical +2%</font>
+<font color='#8041D9'>Accuracy +50/Critical Damage +1000/Critical Rate +2%</font>
 
 ID=19025
 <font color='#47C83E'>Attack +1%</font>
@@ -6281,19 +6281,19 @@ ID=19029
 <font color='#8041D9'>Attack +11%</font>
 
 ID=19030
-<font color='#47C83E'>Critical +1%</font>
+<font color='#47C83E'>Critical Rate +1%</font>
 
 ID=19031
-<font color='#4374D9'>Critical +2%</font>
+<font color='#4374D9'>Critical Rate +2%</font>
 
 ID=19032
-<font color='#E0B94F'>Critical +3%</font>
+<font color='#E0B94F'>Critical Rate +3%</font>
 
 ID=19033
-<font color='#F15F5F'>Critical +4%</font>
+<font color='#F15F5F'>Critical Rate +4%</font>
 
 ID=19034
-<font color='#8041D9'>Critical +5%</font>
+<font color='#8041D9'>Critical Rate +5%</font>
 
 ID=19035
 <font color='#47C83E'>SA Break +2%</font>
@@ -9203,10 +9203,10 @@ ID=26043
 Evaded Attack Damage
 
 ID=26044
-Critical
+Critical Rate
 
 ID=26045
-Magic Critical
+Magic Critical Rate
 
 ID=26046
 Critical Resistance
@@ -9215,10 +9215,10 @@ ID=26047
 Magic Critical Resistance
 
 ID=26048
-Critical
+Critical Rate
 
 ID=26049
-Magic Critical
+Magic Critical Rate
 
 ID=26050
 Critical Damage
@@ -9623,7 +9623,7 @@ ID=26348
 When hit, 15% chance of +{0} Attack for 3s
 
 ID=26349
-On evasion, 10% chance of +{0}% Critical for 3s
+On evasion, 10% chance of +{0}% Critical Rate for 3s
 
 ID=26350
 On evasion, 10% chance of +{0} Critical Damage for 5s
@@ -9656,7 +9656,7 @@ ID=26359
 On kill, 5% chance of Super Armor for 5s.
 
 ID=26360
-On SA Break, +{0}% Critical for 5s
+On SA Break, +{0}% Critical Rate for 5s
 
 ID=26361
 On evaded hit, 10% chance of +{0} Critical Damage for 3s
@@ -9857,7 +9857,7 @@ ID=27836
 When hit, 5% chance of +{0} SV
 
 ID=27837
-On jump hit, 5% chance of +{0}% Critical (cancelled on critical hit)
+On jump hit, 5% chance of +{0}% Critical Rate (cancelled on critical hit)
 
 ID=27838
 On dodge, 5% chance of +{0}% SG
@@ -9869,7 +9869,7 @@ ID=27840
 On SA Break, 10% chance of +{0} Critical Damage for 3s
 
 ID=27841
-On skill use, 5% chance of +{0} Critical for 4s
+On skill use, 5% chance of +{0} Critical Rate for 4s
 
 ID=27842
 When hit, +{0}% Attack (cancelled on hit)
@@ -9878,7 +9878,7 @@ ID=27843
 When hit, 5% chance of +{0}% HP
 
 ID=27844
-In District 6, +{0}% Critical
+In District 6, +{0}% Critical Rate
 
 ID=27845
 In District 6, +{0}% Maximum HP
@@ -9899,7 +9899,7 @@ ID=27850
 When gaining zenny, 10% chance of +{0}% HP of gained amount
 
 ID=27851
-On hitting target with 50% HP or more, +{0}% Critical (cancelled on hit)
+On hitting target with 50% HP or more, +{0}% Critical Rate (cancelled on hit)
 
 ID=27852
 On hitting target with 50% HP or less, +{0} Critical Damage (cancelled on critical hit)
