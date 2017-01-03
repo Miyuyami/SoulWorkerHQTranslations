@@ -2525,7 +2525,7 @@ ID=2218
 Sent Time
 
 ID=2219
-{0}-{1}-{2} {3}h {4}m
+{1}-{2}-{0} {3}:{4} JST
 
 ID=2220
 Received Time
@@ -2552,7 +2552,7 @@ ID=2227
 Time Left
 
 ID=2228
-{0}-{1}-{2} {3}h {4}m
+{1}-{2}-{0} {3}:{4} JST
 
 ID=2229
 Management Team
@@ -6791,7 +6791,7 @@ ID=21522
 Are you sure you want to register the [+20% Supporter Defense] Aid orb?
 
 ID=21523
-Applied Buff
+Registered
 
 ID=21524
 Attack: {0}
@@ -6839,10 +6839,10 @@ ID=21538
 In Use
 
 ID=21539
-For level differences of 5 or higher, Supporter abilities will decrease according to the level of the Supporter.
+For level differences of 5 and up, Supporter abilities will decrease according to Supporter's level.
 
 ID=21540
-For level differences of 5 or higher, Supporter abilities will decrease according to the level of the user.
+For level differences of 5 and up, Supporter abilities will decrease according to the user's level.
 
 ID=21541
 Apply: {0}
@@ -10991,10 +10991,10 @@ ID=29075
 Content
 
 ID=29076
-Recommendation Number
+Praise
 
 ID=29077
-Favorite Condition
+Favorited
 
 ID=29078
 Comment
@@ -11027,7 +11027,7 @@ ID=29087
 Claim
 
 ID=29088
-Ranking and recommendation information is reset in at 9 AM JST on the first day of every month. (Ranking information is updated every day at 9 AM JST)
+Rank and praise is reset at 9 AM JST in the 1st day of every month. (Info is updated every day at 9 AM JST)
 
 ID=29089
 Information is updated every day at 9 AM JST.
@@ -11039,7 +11039,7 @@ ID=29091
 Basic Participation
 
 ID=29092
-You'll receive a basic reward in your mail if you have more than 1 recommendations.
+You'll receive a basic reward in your mail if you have more than 1 praises.
 
 ID=29093
 The board alert will be up for more {0} minutes.
@@ -18746,10 +18746,10 @@ ID=58233
 You were kicked out because the room changed to placement mode.
 
 ID=58234
-Cannot recommend your own room.
+You cannot praise your own room.
 
 ID=58235
-You can only recommend the same room once a day.
+You can praise the same room only once a day.
 
 ID=58236
 Not recommended.
