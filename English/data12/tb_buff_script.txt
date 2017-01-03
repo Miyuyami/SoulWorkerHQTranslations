@@ -900,7 +900,7 @@ Stamina Cost ↓
 
 ID=5500
 Erosion Ⅰ
-All attacks do maximum damage. ATK speed +30%. Move Speed +20%. Gain super armor.
+All attacks deal maximum damage. Attack Speed +30%. Movement Speed +20%. Gain super armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1175,7 +1175,7 @@ Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5998
-Pleasureful Bullets
+Pleasure Bullets
 Stack SG restoration up to 3 times.
 Icon/Buff/Icon_Common_Buff_ASR
 +SG
@@ -1314,7 +1314,7 @@ Move Speed ↓
 
 ID=6061
 Passive
-Show Related Buff Effects
+Display buff related effects
 Icon/Buff/Icon_Common_Debuff_Paralysis
 0
 
@@ -1637,25 +1637,25 @@ Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=6994
-Concert of Sorrow Ⅰ
+Sorrowful Note Ⅰ
 Recover 1% SG every 2 seconds.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6995
-Concert of Sorrow Ⅱ
+Sorrowful Note Ⅱ
 Recover 2% SG every 2 seconds.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6996
-Concert of Sorrow Ⅲ
+Sorrowful Note Ⅲ
 Recover 3% SG every 2 seconds.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6999
-Theme of Grief
+Sorrowful Note
 Recover SG at set intervals of time.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 Mode Switch
@@ -2327,19 +2327,19 @@ Icon/Buff/Icon_Common_Buff_MSR
 Move Speed ↑
 
 ID=21041
-Maddened
+Insane
 Critical Rate +4% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate ↑
 
 ID=21042
-Maddened
+Insane
 Critical Rate +6% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate ↑
 
 ID=21043
-Maddened
+Insane
 Critical Rate +8% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate ↑
@@ -2381,7 +2381,7 @@ Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=22004
-Maddened
+Insane
 Critical Rate +10% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate ↑
@@ -3600,13 +3600,13 @@ Super Armor
 
 ID=53042
 Scampering Kiss Ⅰ
-10% chance every second to increase move speed by 10% for 2 sec. (Cooldown: 15 sec)
+Each second, 10% chance of +10% Movement Speed for 2 sec. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
 ID=53043
 Scampering Kiss Ⅱ
-Every second, there is a 20% chance of increasing MV SPD by 10% for 2 sec. (Cooldown: 13 sec)
+Every second, 20% chance of +10% Movement Speed for 2s. (13s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
@@ -3636,19 +3636,19 @@ Attack Power ↑
 
 ID=53072
 Vacuum Ⅰ
-When a critical hit occurs, 2% HP will be recovered at a 3% chance. (Cooldown: 15 sec)
+On critical hit, 3% chance of +2% HP. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53073
 Vacuum Ⅱ
-When a critical hit occurs, 3% HP will be recovered at a 6% chance. (Cooldown: 15 sec)
+On critical hit, 6% chance of +3% HP. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53081
 Vacuum Ⅲ
-When a critical hit occurs, 4% HP will be recovered at a 9% chance. (Cooldown: 15 sec)
+On critical hit, 9% chance of +4% HP. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
@@ -3744,7 +3744,7 @@ Attack Power ↑
 
 ID=53152
 Vengeful Ghost Ⅰ
-When landing a critical hit, 5% chance of having all further attacks be critical hits for 2 sec. (Cooldown: 30 sec)
+On critical hit, 5% chance for all hits to be Critical Hits for 2s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Rate ↑
 
@@ -3762,7 +3762,7 @@ Attack Speed ↑
 
 ID=53162
 Mountain-like Ⅰ
-Every second, there is a 30% chance of increasing DEF by 100% and reducing ATK by 20% for 10 sec. (Cooldown: 60 sec)
+Every second, 30% chance of +100% Defense and -20% Attack for 10s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
@@ -3798,13 +3798,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53182
 Outdoor Children Ⅰ
-When dashing, there is a 5% chance of increasing ATK by 10% for 5 sec.
+On dash use, 5% chance of +10% Attack for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53183
 Embrace & Control Poison Ⅰ
-When inflicted with an abnormal status effect, 50% chance of increasing ATK by 10% for 10 sec. (Cooldown: 15 sec)
+When under abnormal state, 50% chance of +10% Attack for 10s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
@@ -4008,7 +4008,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53352
 Escape Notice Ⅰ
-When breaking super armor, 50% chance to increase movement speed by 50% for 3 sec. Cooldown: 1 min
+On SA Break, 50% chance of +50% Movement Speed for 3s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
@@ -4104,7 +4104,7 @@ Attack Power ↑
 
 ID=53423
 Hit & Away Ⅰ
-On fail hit, 30% chance of +100 Evasion for 5s. (60s cooldown)
+On evaded hit, 30% chance of +100 Evasion for 5s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Evasion↑
 
@@ -4200,25 +4200,25 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53511
 Radio Star Ⅰ
-While within the No. 6 District, every 10 sec, ATK increases by 3% for 3 sec.
+In District 6, every 10 seconds, +3% Attack for 3s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53512
 Radio Star Ⅱ
-While within the No. 6 District, every 10 sec, ATK increases by 5% for 5 sec.
+In District 6, every 10 seconds, +5% Attack for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53513
 Embark Service Ⅰ
-While in No. 6 District, increase movement speed by 3% for 3 sec. (Cooldown: 10 sec)
+In District 6, +3% Movement Speed for 3 sec. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
 ID=53521
 Embark Service Ⅱ
-While in No. 6 District, increase movement speed by 5% for 5 sec. (Cooldown: 10 sec)
+In District 6, +5% Movement Speed for 5 sec. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
@@ -4356,37 +4356,37 @@ Attack Power ↑
 
 ID=53551
 Emergency Shield Ⅰ
-When HP falls below 20%, increase DEF by 40% for 20 sec. (Cooldown: 20 sec)
+Under 20% HP, +40% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
 ID=53552
 Emergency Shield Ⅱ
-When HP falls below 20%, increase DEF by 60% for 20 sec. (Cooldown: 20 sec)
+Under 20% HP, +60% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
 ID=53553
 Emergency Shield Ⅲ
-When HP falls below 20%, increase DEF by 80% for 20 sec. (Cooldown: 20 sec)
+Under 20% HP, +80% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
 ID=53554
 Emergency Shield Ⅰ
-When HP falls below 20%, increase DEF by 60% for 20 sec. (Cooldown: 20 sec)
+Under 20% HP, +60% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
 ID=53555
 Emergency Shield Ⅱ
-When HP falls below 20%, increase DEF by 80% for 20 sec. (Cooldown: 20 sec)
+Under 20% HP, +80% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
 ID=53556
 Emergency Shield Ⅲ
-When HP falls below 20%, increase DEF by 40% for 100 sec. (Cooldown: 20 sec)
+Under 20% HP, +100% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense↑
 
@@ -4536,37 +4536,37 @@ Attack Power ↑
 
 ID=53581
 Scampering Kiss Ⅰ
-Every sec, there is a 10% chance of increasing move speed for 2.5 sec by 10%. (Cooldown: 15 sec)
+Every second, 10% change of +10% Movement Speed for 2.5s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
 ID=53582
 Scampering Kiss Ⅱ
-Every second, there is a 20% chance of increasing MV SPD by 10% for 3 sec. (Cooldown: 13 sec)
+Every second, 20% change of +10% Movement Speed for 3s. (13s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
 ID=53583
 Scampering Kiss Ⅲ
-Every second, there is a 30% chance of increasing MV SPD by 10% for 3.5 sec. (Cooldown: 11 sec)
+Every second, 30% change of +10% Movement Speed for 3.5s. (11s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
 ID=53584
 Scampering Kiss Ⅰ
-Every sec, there is a 15% chance of increasing move speed for 2.5 sec by 10%. (Cooldown: 15 sec)
+Every second, 15% change of +10% Movement Speed for 3s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
 ID=53585
 Scampering Kiss Ⅱ
-Every second, there is a 25% chance of increasing MV SPD by 10% for 3.5 sec. (Cooldown: 13 sec)
+Every second, 25% change of +10% Movement Speed for 3.5s. (13s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
 ID=53586
 Scampering Kiss Ⅲ
-Every second, there is a 35% chance of increasing MV SPD by 10% for 4 sec. (Cooldown: 11 sec)
+Every second, 35% change of +10% Movement Speed for 4s. (11s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Move Speed ↑
 
@@ -4992,37 +4992,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53664
 Bird Monster's Wing Ⅰ
-On hit, 10% chance for next attack to deal +5% Damage. (8s cooldown)
+On hit, 10% chance for the next attack to deal +5% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53665
 Bird Monster's Wing Ⅱ
-On hit, 10% chance for next attack to deal +7% Damage. (8s cooldown)
+On hit, 10% chance for the next attack to deal +7% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53666
 Bird Monster's Wing Ⅲ
-On hit, 10% chance for next attack to deal +10% Damage. (8s cooldown)
+On hit, 10% chance for the next attack to deal +10% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53667
 Bird Monster's Wing Ⅰ
-On hit, 10% chance for next attack to deal +6% Damage. (8s cooldown)
+On hit, 10% chance for the next attack to deal +6% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53668
 Bird Monster's Wing Ⅱ
-On hit, 10% chance for next attack to deal +10% Damage. (8s cooldown)
+On hit, 10% chance for the next attack to deal +10% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
 ID=53669
 Bird Monster's Wing Ⅲ
-On hit, 10% chance for next attack to deal +15% Damage. (8s cooldown)
+On hit, 10% chance for the next attack to deal +15% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage↑
 
