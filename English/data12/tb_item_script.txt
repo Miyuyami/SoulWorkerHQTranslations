@@ -76,7 +76,7 @@ Icon/Item/Cash/QBD
 0
 0
 Q.B.D[Enhancement Protector]
-一定数値以上の装備強化時、\n装備の破壊を防いでくれる特殊デバイス。\n装備の出力に異常があった場合に発生する自爆信号を\n強制的に遮断して装備の破壊を防ぐ。\nアイテム使用チェック中は、破壊を防いだかは関係なく\n強化1回につき1個を消費する。\n\n[強化破壊防止アイテム]
+When reinforcing an equipment piece above a certain grade,\n this special device will prevent the equipment from self-destruction\N by hindering the safety abnormality auto-destruction detection system from\n working.\N This item will be consumed when used during the reinforcement process regardless of success\n or failure.\N\n [Enhancement Protection Class Item]
 
 ID=800001501
 Icon/Item/Cash/Antilimiter
@@ -326,7 +326,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 Sporty Avatar Set
-Contains the entire [Sporty Avatar Set].\nErwin only.\n\n[Avatar package]\n- Components -\nSporty [Hood]X1\nSporty[Mask]X1\nSporty[Coat]X1\nSporty[Pants] X1\nSporty[Glove]X1\nSporty[Pouch]X1\nSporty[Shoes]X1
+Contains the entire [Sporty Avatar Set].\nErwin only.\n\n[Avatar package]\n- Components -\nSporty [Hood]X1\nSporty [Mask]X1\nSporty [Top]X1\nSporty [Bottom]X1\nSporty [Glove]X1\nSporty [Pouch]X1\nSporty [Shoes]X1
 
 ID=810001003
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
@@ -556,7 +556,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 Haru's Uniform A Set
-Contains the entire [Haru's Uniform A Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform A[Socks]X1\nHaru's Uniform A[Coat]X1\nHaru's Uniform A[Skirt]X1 
+Contains the entire [Haru's Uniform A Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform A [Socks]X1\nHaru's Uniform A [Top]X1\nHaru's Uniform A [Skirt]X1 
 
 ID=810001026
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
@@ -566,7 +566,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 Haru's Uniform B Set
-Contains the entire [Haru's Uniform B Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform B[Socks]X1\nHaru's Uniform B[Coat]X1\nHaru's Uniform B[Skirt]X1 
+Contains the entire [Haru's Uniform B Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform B [Socks]X1\nHaru's Uniform B [Top]X1\nHaru's Uniform B [Skirt]X1 
 
 ID=810001027
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
@@ -576,7 +576,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 Haru's Uniform C Set
-Contains the entire [Haru's Uniform C Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform C[Socks]X1\nHaru's Uniform C[Coat]X1\nHaru's Uniform C[Skirt]X1
+Contains the entire [Haru's Uniform C Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform C [Socks]X1\nHaru's Uniform C [Top]X1\nHaru's Uniform C [Skirt]X1
 
 ID=810001028
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
@@ -586,7 +586,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 Haru's Uniform D Set
-Contains the entire [Haru's Uniform D Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform D[Socks]X1\nHaru's Uniform D[Coat]X1\nHaru's Uniform D[Skirt]X1
+Contains the entire [Haru's Uniform D Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform D [Socks]X1\nHaru's Uniform D [Top]X1\nHaru's Uniform D [Skirt]X1
 
 ID=810001029
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
@@ -596,7 +596,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 Erwin's Uniform A Set
-Contains the entire [Erwin's Uniform A Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform A[Coat]X1\nErwin's Uniform A[Pants]X1
+Contains the entire [Erwin's Uniform A Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform A [Top]X1\nErwin's Uniform A [Bottom]X1
 
 ID=810001030
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
@@ -606,7 +606,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 Erwin's Uniform B Set
-Contains the entire [Erwin's Uniform B Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform B[Coat]X1\nErwin's Uniform B[Pants]X1
+Contains the entire [Erwin's Uniform B Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform B [Top]X1\nErwin's Uniform B [Bottom]X1
 
 ID=810001031
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
@@ -616,7 +616,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 Erwin's Uniform C Set
-Contains the entire [Erwin's Uniform C Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform C[Coat]X1\nErwin's Uniform C[Pants]X1
+Contains the entire [Erwin's Uniform C Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform C [Top]X1\nErwin's Uniform C [Bottom]X1
 
 ID=810001032
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
@@ -626,7 +626,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 Erwin's Uniform D Set
-Contains the entire [Erwin's Uniform D Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform D[Coat]X1\nErwin's Uniform D[Pants]X1
+Contains the entire [Erwin's Uniform D Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform D [Top]X1\nErwin's Uniform D [Bottom]X1
 
 ID=810001033
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
@@ -636,7 +636,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 Lily's Uniform A Set
-Contains the entire [Lily's Uniform A Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform A[Socks]X1\nLily's Uniform A[Coat]X1\nLily's Uniform A[Skirt]X1
+Contains the entire [Lily's Uniform A Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform A [Socks]X1\nLily's Uniform A [Top]X1\nLily's Uniform A [Skirt]X1
 
 ID=810001034
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
@@ -646,7 +646,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 Lily's Uniform B Set
-Contains the entire [Lily's Uniform B Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform B[Socks]X1\nLily's Uniform B[Coat]X1\nLily's Uniform B[Skirt]X1
+Contains the entire [Lily's Uniform B Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform B [Socks]X1\nLily's Uniform B [Top]X1\nLily's Uniform B [Skirt]X1
 
 ID=810001035
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
@@ -656,7 +656,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 Lily's Uniform C Set
-Contains the entire [Lily's Uniform C Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform C[Socks]X1\nLily's Uniform C[Coat]X1\nLily's Uniform C[Skirt]X1
+Contains the entire [Lily's Uniform C Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform C [Socks]X1\nLily's Uniform C [Top]X1\nLily's Uniform C [Skirt]X1
 
 ID=810001036
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
@@ -666,7 +666,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 Lily's Uniform D Set
-Contains the entire [Lily's Uniform D Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform D[Socks]X1\nLily's Uniform D[Coat]X1\nLily's Uniform D[Skirt]X1
+Contains the entire [Lily's Uniform D Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform D [Socks]X1\nLily's Uniform D [Top]X1\nLily's Uniform D [Skirt]X1
 
 ID=810001037
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
@@ -676,7 +676,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 Stella's Uniform A Set
-Contains the entire [Stella's Uniform A Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform A[Socks]X1\nStella's Uniform A[Coat]X1\nStella's Uniform A[Skirt]X1
+Contains the entire [Stella's Uniform A Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform A [Socks]X1\nStella's Uniform A [Top]X1\nStella's Uniform A [Skirt]X1
 
 ID=810001038
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
@@ -686,7 +686,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 Stella's Uniform B Set
-Contains the entire [Stella's Uniform B Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform B[Socks]X1\nStella's Uniform B[Coat]X1\nStella's Uniform B[Skirt]X1
+Contains the entire [Stella's Uniform B Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform B [Socks]X1\nStella's Uniform B [Top]X1\nStella's Uniform B [Skirt]X1
 
 ID=810001039
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
@@ -696,7 +696,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 Stella's Uniform C Set
-Contains the entire [Stella's Uniform C Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform C[Socks]X1\nStella's Uniform C[Coat]X1\nStella's Uniform C[Skirt]X1
+Contains the entire [Stella's Uniform C Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform C [Socks]X1\nStella's Uniform C [Top]X1\nStella's Uniform C [Skirt]X1
 
 ID=810001040
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
@@ -706,7 +706,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 Stella's Uniform D Set
-Contains the entire [Stella's Uniform D Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform D[Socks]X1\nStella's Uniform D[Coat]X1\nStella's Uniform D[Skirt]X1
+Contains the entire [Stella's Uniform D Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform D [Socks]X1\nStella's Uniform D [Top]X1\nStella's Uniform D[Skirt]X1
 
 ID=810001041
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
@@ -1136,7 +1136,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 Comissioned League Military Set
-Contains the entire [Commissioned League Military Set].\nHaru only.\n\n[Avatar Package]
+Contains the entire [Commissioned League Military Uniform Set].\nHaru only.\n\n[Avatar Package]
 
 ID=820900102
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
@@ -1196,7 +1196,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 Comissioned League Military Set
-Contains the entire [Old-Fashioned Union Military Uniform Set].\nLily only.\n\n[Avatar Package]
+Contains the entire [Commissioned League Military Uniform Set].\nLily only.\n\n[Avatar Package]
 
 ID=820900302
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
@@ -1226,7 +1226,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 Comissioned League Military Set
-Contains the entire [Old-Fashioned Union Military Uniform Set].\nStella only.\n\n[Avatar Package]
+Contains the entire [Commissioned League Military Uniform Set].\nStella only.\n\n[Avatar Package]
 
 ID=820900502
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
@@ -2216,7 +2216,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Coin Box
-Daily Login Reward. S Coins can be earned from it.\n\n[Online Time Reward Package]
+Daily Login Reward. Contains S Coins.\n\n[Play Time Reward Package]
 
 ID=820999142
 Icon/Item/Function/Package/PackageBox
@@ -2226,7 +2226,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Daily Login Reward (Ordinary)
-You can get this by staying on for 2 hours.\nThere are useful items in it.\n[Online Time Reward Package]
+You can get this by staying on for 2 hours.\nThere are useful items in it.\n[Play Time Reward Package]
 
 ID=820999143
 Icon/Item/Function/Package/PackageBox
@@ -2236,7 +2236,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Daily Login Reward (Large)
-You can get this by staying on for 3 hours.\nThere are useful items in it.\n[Online Time Reward Package]
+You can get this by staying on for 3 hours.\nThere are useful items in it.\n[Play Time Reward Package]
 
 ID=820999144
 Icon/Item/Function/Package/ETC_0_SpeciallPackage
@@ -2316,7 +2316,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_Stage
 0
 0
 Research Items Package Ⅰ
-Given to people who have cleared Steel Grave Chapter 1~4.\nThere are some useful items in here.\n\n\n[Item Box]
+Given as a reward to those who have cleared Steel Grave's Chapters 1 to 4.\nIt is certain that it will contain useful items.\n\n[Item Box]
 
 ID=820999152
 Icon/Item/Function/Package/ETC_0_SteelGraveBox_Stage
@@ -2326,7 +2326,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_Stage
 0
 0
 Research Items Package Ⅱ
-Given to people who have cleared Steel Grave Chapter 6~9.\nThere are some useful items in here.\n\n\n[Item Box]
+Given as a reward to those who have cleared Steel Grave's Chapters 6 to 9.\nIt is certain that it will contain useful items.\n\n[Item Box]
 
 ID=820999153
 Icon/Item/Function/Package/ETC_0_SteelGraveBox_Stage
@@ -2336,7 +2336,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_Stage
 0
 0
 Research Items Package Ⅲ
-Given to people who have cleared Steel Grave Chapter 11~14.\nThere are some useful items in here.\n\n\n[Item Box]
+Given as a reward to those who have cleared Steel Grave's Chapters 11 to 14.\nIt is certain that it will contain useful items.\n\n[Item Box]
 
 ID=820999101
 Icon/Item/Function/Package/ETC_0_NormalPackage
@@ -2705,8 +2705,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Coat] - Sealed
-Contains Sporty [Coat].
+Sporty [Top] - Sealed
+Contains Sporty [Top].
 
 ID=813020801
 Icon/Item/Function/Package/PackageBox
@@ -2715,8 +2715,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Pants] - Sealed
-Contains Sporty [Pants].
+Sporty [Bottom] - Sealed
+Contains Sporty [Bottom].
 
 ID=813021001
 Icon/Item/Function/Package/PackageBox
@@ -2765,8 +2765,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Modern Casual [Coat] - Sealed
-Contains Modern Casual [Coat].
+Modern Casual [Top] - Sealed
+Contains Modern Casual [Top].
 
 ID=813030801
 Icon/Item/Function/Package/PackageBox
@@ -2855,8 +2855,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Haru's Uniform A [Coat] - Sealed
-Contains Haru's Uniform A [Coat].
+Haru's Uniform A [Top] - Sealed
+Contains Haru's Uniform A [Top].
 
 ID=813050801
 Icon/Item/Function/Package/PackageBox
@@ -2885,8 +2885,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Haru's Uniform B [Coat] - Sealed
-Contains Haru's Uniform B [Coat].
+Haru's Uniform B [Top] - Sealed
+Contains Haru's Uniform B [Top].
 
 ID=813060801
 Icon/Item/Function/Package/PackageBox
@@ -2915,8 +2915,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Haru's Uniform C [Coat] - Sealed
-Contains Haru's Uniform C [Coat].
+Haru's Uniform C [Top] - Sealed
+Contains Haru's Uniform C [Top].
 
 ID=813070801
 Icon/Item/Function/Package/PackageBox
@@ -2945,8 +2945,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Haru's Uniform D [Coat] - Sealed
-Contains Haru's Uniform D [Coat].
+Haru's Uniform D [Top] - Sealed
+Contains Haru's Uniform D [Top].
 
 ID=813080801
 Icon/Item/Function/Package/PackageBox
@@ -3055,8 +3055,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Coat] - Sealed
-Contains Merchant Uniform [Coat].
+Merchant Uniform [Top] - Sealed
+Contains Merchant Uniform [Top].
 
 ID=813110801
 Icon/Item/Function/Package/PackageBox
@@ -3095,8 +3095,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Coat] - Sealed
-Contains Old-Fashioned Military Uniform [Coat].
+Old-Fashioned Military Uniform [Top] - Sealed
+Contains Old-Fashioned Military Uniform [Top].
 
 ID=813120801
 Icon/Item/Function/Package/PackageBox
@@ -3185,8 +3185,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Coat] - Sealed
-Contains Sporty [Coat].
+Sporty [Top] - Sealed
+Contains Sporty [Top].
 
 ID=823020801
 Icon/Item/Function/Package/PackageBox
@@ -3195,8 +3195,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Pants] - Sealed
-Contains Sporty [Pants].
+Sporty [Bottom] - Sealed
+Contains Sporty [Bottom].
 
 ID=823020501
 Icon/Item/Function/Package/PackageBox
@@ -3245,8 +3245,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Modern Casual [Coat] - Sealed
-Contains Modern Casual [Coat].
+Modern Casual [Top] - Sealed
+Contains Modern Casual [Top].
 
 ID=823030501
 Icon/Item/Function/Package/PackageBox
@@ -3265,8 +3265,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Modern Casual [Pants] - Sealed
-Contains Modern Casual [Pants].
+Modern Casual [Bottom] - Sealed
+Contains Modern Casual [Bottom].
 
 ID=823031201
 Icon/Item/Function/Package/PackageBox
@@ -3325,8 +3325,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform A [Coat] - Sealed
-Contains Erwin's Uniform A [Coat].
+Erwin's Uniform A [Top] - Sealed
+Contains Erwin's Uniform A [Top].
 
 ID=823050801
 Icon/Item/Function/Package/PackageBox
@@ -3335,8 +3335,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform A [Pants] - Sealed
-Contains Erwin's Uniform A [Pants].
+Erwin's Uniform A [Bottom] - Sealed
+Contains Erwin's Uniform A [Bottom].
 
 ID=823060701
 Icon/Item/Function/Package/PackageBox
@@ -3345,8 +3345,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform B [Coat] - Sealed
-Contains Erwin's Uniform B [Coat].
+Erwin's Uniform B [Top] - Sealed
+Contains Erwin's Uniform B [Top].
 
 ID=823060801
 Icon/Item/Function/Package/PackageBox
@@ -3355,8 +3355,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform B [Pants] - Sealed
-Contains Erwin's Uniform B [Pants].
+Erwin's Uniform B [Bottom] - Sealed
+Contains Erwin's Uniform B [Bottom].
 
 ID=823070701
 Icon/Item/Function/Package/PackageBox
@@ -3365,8 +3365,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform C [Coat] - Sealed
-Contains Erwin's Uniform C [Coat].
+Erwin's Uniform C [Top] - Sealed
+Contains Erwin's Uniform C [Top].
 
 ID=823070801
 Icon/Item/Function/Package/PackageBox
@@ -3375,8 +3375,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform C [Pants] - Sealed
-Contains Erwin's Uniform C [Pants].
+Erwin's Uniform C [Bottom] - Sealed
+Contains Erwin's Uniform C [Bottom].
 
 ID=823080701
 Icon/Item/Function/Package/PackageBox
@@ -3385,8 +3385,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform D [Coat] - Sealed
-Contains Erwin's Uniform D [Coat].
+Erwin's Uniform D [Top] - Sealed
+Contains Erwin's Uniform D [Top].
 
 ID=823080801
 Icon/Item/Function/Package/PackageBox
@@ -3395,8 +3395,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform D [Pants] - Sealed
-Contains Erwin's Uniform D [Pants].
+Erwin's Uniform D [Bottom] - Sealed
+Contains Erwin's Uniform D [Bottom].
 
 ID=823100701
 Icon/Item/Function/Package/PackageBox
@@ -3485,8 +3485,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Coat] - Sealed
-Contains Merchant Uniform [Coat].
+Merchant Uniform [Top] - Sealed
+Contains Merchant Uniform [Top].
 
 ID=823110801
 Icon/Item/Function/Package/PackageBox
@@ -3495,8 +3495,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Pants] - Sealed
-Contains Merchant Uniform [Pants].
+Merchant Uniform [Bottom] - Sealed
+Contains Merchant Uniform [Bottom].
 
 ID=823111201
 Icon/Item/Function/Package/PackageBox
@@ -3515,8 +3515,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Coat] - Sealed
-Contains Old-Fashioned Military Uniform [Coat].
+Old-Fashioned Military Uniform [Top] - Sealed
+Contains Old-Fashioned Military Uniform [Top].
 
 ID=823120801
 Icon/Item/Function/Package/PackageBox
@@ -3525,8 +3525,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Pants] - Sealed
-Contains Old-Fashioned Military Uniform [Pants].
+Old-Fashioned Military Uniform [Bottom] - Sealed
+Contains Old-Fashioned Military Uniform [Bottom].
 
 ID=823121201
 Icon/Item/Function/Package/PackageBox
@@ -3595,8 +3595,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Coat] - Sealed
-Contains Sporty [Coat].
+Sporty [Top] - Sealed
+Contains Sporty [Top].
 
 ID=833020801
 Icon/Item/Function/Package/PackageBox
@@ -3605,8 +3605,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Pants] - Sealed
-Contains Sporty [Pants].
+Sporty [Bottom] - Sealed
+Contains Sporty [Bottom].
 
 ID=833021001
 Icon/Item/Function/Package/PackageBox
@@ -3665,8 +3665,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Modern Casual [Coat] - Sealed
-Contains Modern Casual [Coat].
+Modern Casual [Top] - Sealed
+Contains Modern Casual [Top].
 
 ID=833030801
 Icon/Item/Function/Package/PackageBox
@@ -3675,8 +3675,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Modern Casual [Pants] - Sealed
-Contains Modern Casual [Pants].
+Modern Casual [Bottom] - Sealed
+Contains Modern Casual [Bottom].
 
 ID=833031101
 Icon/Item/Function/Package/PackageBox
@@ -3755,8 +3755,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Lily's Uniform A [Coat] - Sealed
-Contains Lily's Uniform A [Coat].
+Lily's Uniform A [Top] - Sealed
+Contains Lily's Uniform A [Top].
 
 ID=833050801
 Icon/Item/Function/Package/PackageBox
@@ -3785,8 +3785,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Lily's Uniform B [Coat] - Sealed
-Contains Lily's Uniform B [Coat].
+Lily's Uniform B [Top] - Sealed
+Contains Lily's Uniform B [Top].
 
 ID=833060801
 Icon/Item/Function/Package/PackageBox
@@ -3815,8 +3815,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Lily's Uniform C [Coat] - Sealed
-Contains Lily's Uniform C [Coat].
+Lily's Uniform C [Top] - Sealed
+Contains Lily's Uniform C [Top].
 
 ID=833070801
 Icon/Item/Function/Package/PackageBox
@@ -3845,8 +3845,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Lily's Uniform D [Coat] - Sealed
-Contains Lily's Uniform D [Coat].
+Lily's Uniform D [Top] - Sealed
+Contains Lily's Uniform D [Top].
 
 ID=833080801
 Icon/Item/Function/Package/PackageBox
@@ -3955,8 +3955,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Coat] - Sealed
-Contains Merchant Uniform [Coat].
+Merchant Uniform [Top] - Sealed
+Contains Merchant Uniform [Top].
 
 ID=833110801
 Icon/Item/Function/Package/PackageBox
@@ -3995,8 +3995,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Coat] - Sealed
-Contains Old-Fashioned Military Uniform [Coat].
+Old-Fashioned Military Uniform [Top] - Sealed
+Contains Old-Fashioned Military Uniform [Top].
 
 ID=833120801
 Icon/Item/Function/Package/PackageBox
@@ -4075,8 +4075,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Coat] - Sealed
-Contains Sporty [Coat].
+Sporty [Top] - Sealed
+Contains Sporty [Top].
 
 ID=853020801
 Icon/Item/Function/Package/PackageBox
@@ -4085,8 +4085,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Pants] - Sealed
-Contains Sporty [Pants].
+Sporty [Bottom] - Sealed
+Contains Sporty [Bottom].
 
 ID=853021001
 Icon/Item/Function/Package/PackageBox
@@ -4135,8 +4135,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Modern Casual [Coat] - Sealed
-Contains Modern Casual [Coat].
+Modern Casual [Top] - Sealed
+Contains Modern Casual [Top].
 
 ID=853030801
 Icon/Item/Function/Package/PackageBox
@@ -4225,8 +4225,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Stella's Uniform A [Coat] - Sealed
-Contains Stella's Uniform A [Coat].
+Stella's Uniform A [Top] - Sealed
+Contains Stella's Uniform A [Top].
 
 ID=853050801
 Icon/Item/Function/Package/PackageBox
@@ -4255,8 +4255,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Stella's Uniform B [Coat] - Sealed
-Contains Stella's Uniform B [Coat].
+Stella's Uniform B [Top] - Sealed
+Contains Stella's Uniform B [Top].
 
 ID=853060801
 Icon/Item/Function/Package/PackageBox
@@ -4285,8 +4285,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Stella's Uniform C [Coat] - Sealed
-Contains Stella's Uniform C [Coat].
+Stella's Uniform C [Top] - Sealed
+Contains Stella's Uniform C [Top].
 
 ID=853070801
 Icon/Item/Function/Package/PackageBox
@@ -4315,8 +4315,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Stella's Uniform D [Coat] - Sealed
-Contains Stella's Uniform D [Coat].
+Stella's Uniform D [Top] - Sealed
+Contains Stella's Uniform D [Top].
 
 ID=853080801
 Icon/Item/Function/Package/PackageBox
@@ -4425,8 +4425,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Coat] - Sealed
-Contains Merchant Uniform [Coat].
+Merchant Uniform [Top] - Sealed
+Contains Merchant Uniform [Top].
 
 ID=853110801
 Icon/Item/Function/Package/PackageBox
@@ -4465,8 +4465,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Coat] - Sealed
-Contains Old-Fashioned Military Uniform [Coat].
+Old-Fashioned Military Uniform [Top] - Sealed
+Contains Old-Fashioned Military Uniform [Top].
 
 ID=853120801
 Icon/Item/Function/Package/PackageBox
@@ -4736,7 +4736,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Pajamas A [Costume] - Sealed
-Contains Pajamas A [Costume ].
+Contains Pajamas A [Costume].
 
 ID=813151201
 Icon/Item/Function/Package/PackageBox
@@ -4756,7 +4756,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Pajamas A [Costume] - Sealed
-Contains Pajamas A [Costume ].
+Contains Pajamas A [Costume].
 
 ID=823151201
 Icon/Item/Function/Package/PackageBox
@@ -4776,7 +4776,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Pajamas A [Costume] - Sealed
-Contains Pajamas A [Costume ].
+Contains Pajamas A [Costume].
 
 ID=833151201
 Icon/Item/Function/Package/PackageBox
@@ -4796,7 +4796,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Pajamas A [Costume] - Sealed
-Contains Pajamas A [Costume ].
+Contains Pajamas A [Costume].
 
 ID=853151201
 Icon/Item/Function/Package/PackageBox
@@ -4915,8 +4915,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Detective's School Uniform [Pants] - Sealed
-Contains Detective's School Uniform [Pants].
+Detective's School Uniform [Bottom] - Sealed
+Contains Detective's School Uniform [Bottom].
 
 ID=843012701
 Icon/Item/Function/Package/PackageBox
@@ -4925,8 +4925,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Detective's School Uniform [Pants] - Sealed
-Contains Detective's School Uniform [Pants].
+Detective's School Uniform [Bottom] - Sealed
+Contains Detective's School Uniform [Bottom].
 
 ID=843012801
 Icon/Item/Function/Package/PackageBox
@@ -4985,8 +4985,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Coat] - Sealed
-Contains Sporty [Coat].
+Sporty [Top] - Sealed
+Contains Sporty [Top].
 
 ID=843020801
 Icon/Item/Function/Package/PackageBox
@@ -4995,8 +4995,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Pants] - Sealed
-Contains Sporty [Pants].
+Sporty [Bottom] - Sealed
+Contains Sporty [Bottom].
 
 ID=843022701
 Icon/Item/Function/Package/PackageBox
@@ -5005,8 +5005,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Pants] - Sealed
-Contains Sporty [Pants].
+Sporty [Bottom] - Sealed
+Contains Sporty [Bottom].
 
 ID=843020501
 Icon/Item/Function/Package/PackageBox
@@ -5095,8 +5095,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform A [Coat] - Sealed
-Contains Jin's Uniform A [Coat].
+Jin's Uniform A [Top] - Sealed
+Contains Jin's Uniform A [Top].
 
 ID=843050801
 Icon/Item/Function/Package/PackageBox
@@ -5105,8 +5105,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform A [Pants] - Sealed
-Contains Jin's Uniform A [Pants].
+Jin's Uniform A [Bottom] - Sealed
+Contains Jin's Uniform A [Bottom].
 
 ID=843052701
 Icon/Item/Function/Package/PackageBox
@@ -5115,8 +5115,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform A [Pants] - Sealed
-Contains Jin's Uniform A [Pants].
+Jin's Uniform A [Bottom] - Sealed
+Contains Jin's Uniform A [Bottom].
 
 ID=843060701
 Icon/Item/Function/Package/PackageBox
@@ -5125,8 +5125,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform B [Coat] - Sealed
-Contains Jin's Uniform B [Coat].
+Jin's Uniform B [Top] - Sealed
+Contains Jin's Uniform B [Top].
 
 ID=843060801
 Icon/Item/Function/Package/PackageBox
@@ -5135,8 +5135,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform B [Pants] - Sealed
-Contains Jin's Uniform B [Pants].
+Jin's Uniform B [Bottom] - Sealed
+Contains Jin's Uniform B [Bottom].
 
 ID=843062701
 Icon/Item/Function/Package/PackageBox
@@ -5145,8 +5145,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform B [Pants] - Sealed
-Contains Jin's Uniform B [Pants].
+Jin's Uniform B [Bottom] - Sealed
+Contains Jin's Uniform B [Bottom].
 
 ID=843070701
 Icon/Item/Function/Package/PackageBox
@@ -5155,8 +5155,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform C [Coat] - Sealed
-Contains Jin's Uniform C [Coat].
+Jin's Uniform C [Top] - Sealed
+Contains Jin's Uniform C [Top].
 
 ID=843070801
 Icon/Item/Function/Package/PackageBox
@@ -5165,8 +5165,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform C [Pants] - Sealed
-Contains Jin's Uniform C [Pants].
+Jin's Uniform C [Bottom] - Sealed
+Contains Jin's Uniform C [Bottom].
 
 ID=843072701
 Icon/Item/Function/Package/PackageBox
@@ -5175,8 +5175,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform C [Pants] - Sealed
-Contains Jin's Uniform C [Pants].
+Jin's Uniform C [Bottom] - Sealed
+Contains Jin's Uniform C [Bottom].
 
 ID=843080701
 Icon/Item/Function/Package/PackageBox
@@ -5185,8 +5185,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform D [Coat] - Sealed
-Contains Jin's Uniform D [Coat].
+Jin's Uniform D [Top] - Sealed
+Contains Jin's Uniform D [Top].
 
 ID=843080801
 Icon/Item/Function/Package/PackageBox
@@ -5195,8 +5195,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform D [Pants] - Sealed
-Contains Jin's Uniform D [Pants].
+Jin's Uniform D [Bottom] - Sealed
+Contains Jin's Uniform D [Bottom].
 
 ID=843082701
 Icon/Item/Function/Package/PackageBox
@@ -5205,8 +5205,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform D [Pants] - Sealed
-Contains Jin's Uniform D [Pants].
+Jin's Uniform D [Bottom] - Sealed
+Contains Jin's Uniform D [Bottom].
 
 ID=843090901
 Icon/Item/Function/Package/PackageBox
@@ -5275,8 +5275,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Fervent Fist [Pants] - Sealed
-Contains Passionate Fist [Underwear].
+Fervent Fist [Bottom] - Sealed
+Contains Passionate Fist [Bottom].
 
 ID=843100501
 Icon/Item/Function/Package/PackageBox
@@ -5315,8 +5315,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Coat] - Sealed
-Contains Merchant Uniform [Coat].
+Merchant Uniform [Top] - Sealed
+Contains Merchant Uniform [Top].
 
 ID=843110801
 Icon/Item/Function/Package/PackageBox
@@ -5325,8 +5325,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Pants] - Sealed
-Contains Merchant Uniform [Pants].
+Merchant Uniform [Bottom] - Sealed
+Contains Merchant Uniform [Bottom].
 
 ID=843112701
 Icon/Item/Function/Package/PackageBox
@@ -5335,8 +5335,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Pants] - Sealed
-Contains Merchant Uniform [Pants].
+Merchant Uniform [Bottom] - Sealed
+Contains Merchant Uniform [Bottom].
 
 ID=843111201
 Icon/Item/Function/Package/PackageBox
@@ -5355,8 +5355,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Coat] - Sealed
-Contains Old-Fashioned Military Uniform [Coat].
+Old-Fashioned Military Uniform [Top] - Sealed
+Contains Old-Fashioned Military Uniform [Top].
 
 ID=843120801
 Icon/Item/Function/Package/PackageBox
@@ -5365,8 +5365,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Pants] - Sealed
-Contains Old-Fashioned Military Uniform [Pants].
+Old-Fashioned Military Uniform [Bottom] - Sealed
+Contains Old-Fashioned Military Uniform [Bottom].
 
 ID=843121201
 Icon/Item/Function/Package/PackageBox
@@ -5436,7 +5436,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Pajamas A [Costume] - Sealed
-Contains Pajamas A [Costume ].
+Contains Pajamas A [Costume].
 
 ID=843151201
 Icon/Item/Function/Package/PackageBox
@@ -5465,8 +5465,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Coat] - Sealed
-Contains Sports Club [Coat]
+Sports Club [Top] - Sealed
+Contains Sports Club [Top]
 
 ID=843200801
 Icon/Item/Function/Package/PackageBox
@@ -5475,8 +5475,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Pants] - Sealed
-Contains Sports Club [Pants].
+Sports Club [Bottom] - Sealed
+Contains Sports Club [Bottom].
 
 ID=843201101
 Icon/Item/Function/Package/PackageBox
@@ -5515,8 +5515,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Pajamas [Coat] - Sealed
-Contains Pajamas [Coat].
+Pajamas [Top] - Sealed
+Contains Pajamas [Top].
 
 ID=843211201
 Icon/Item/Function/Package/PackageBox
@@ -5545,8 +5545,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Coat] - Sealed
-Contains Sports Club [Coat]
+Sports Club [Top] - Sealed
+Contains Sports Club [Top]
 
 ID=813200801
 Icon/Item/Function/Package/PackageBox
@@ -5605,8 +5605,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Coat] - Sealed
-Contains Sports Club [Coat]
+Sports Club [Top] - Sealed
+Contains Sports Club [Top]
 
 ID=823200801
 Icon/Item/Function/Package/PackageBox
@@ -5615,8 +5615,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Pants] - Sealed
-Contains Sports Club [Pants].
+Sports Club [Bottom] - Sealed
+Contains Sports Club [Bottom].
 
 ID=823201101
 Icon/Item/Function/Package/PackageBox
@@ -5665,8 +5665,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Coat] - Sealed
-Contains Sports Club [Coat]
+Sports Club [Top] - Sealed
+Contains Sports Club [Top]
 
 ID=833200801
 Icon/Item/Function/Package/PackageBox
@@ -5675,8 +5675,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Pants] - Sealed
-Contains Sports Club [Pants].
+Sports Club [Bottom] - Sealed
+Contains Sports Club [Bottom].
 
 ID=833201101
 Icon/Item/Function/Package/PackageBox
@@ -5725,8 +5725,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Coat] - Sealed
-Contains Sports Club [Coat]
+Sports Club [Top] - Sealed
+Contains Sports Club [Top]
 
 ID=853200801
 Icon/Item/Function/Package/PackageBox
@@ -6005,7 +6005,7 @@ Icon/Item/Consumption/Cure/Vitamin
 0
 0
 0
-High Concentrated Vitamin
+Highly Concentrated Vitamin
 A vitamin prepared by the Merchant Association to fight against fatigue.\nHas a rich and solid texture.\nPop one in the mouth when you're tired and your fatigue will go away!\n\n[Fatigue Recovery Class Items]\nInstantly restores 20 FP.
 
 ID=840001002
@@ -6015,7 +6015,7 @@ Icon/Item/Consumption/Cure/VitaminS
 0
 0
 0
-High Concentrated Vitamin S
+Highly Concentrated Vitamin S
 A vitamin prepared by the Merchant Association to fight against fatigue.\nHas a rich and solid texture.\nPop one in the mouth when you're tired and your fatigue will go away!\n\n[Fatigue Recovery Class Items]\nInstantly restores 30 FP.
 
 ID=840001999
@@ -6025,7 +6025,7 @@ Icon/Item/Consumption/Cure/VitaminZ
 0
 0
 0
-Very High Concentrated Vitamin Z
+Extremely Concentrated Vitamin Z
 A highly concentrated vitamin that completely blows away any fatigue you might have as if you were born anew.\nIt has no limitations on usage and is a revolutionary hallmark of achievement\nin the vitamin industry.\n\n[Fatigue Recovery Class Items]\nInstantly restores 100 FP.
 
 ID=840002001
@@ -6035,7 +6035,7 @@ Icon/Item/Consumption/Cure/VitaminG
 0
 0
 0
-Ultra High Concentrated Vitamin G
+Ultra Highly Concentrated Vitamin G
 It was especially prepared for fatigue countermeasures by the vitamin merchant.\nHas a strong flavour, and hard texture.\nPop one in the mouth, and all your troubles will go away.\nThe finest class of vitamins ever made. Soothe your partner's tiredness.\n\n[Fatigue Recovery Class Items]\nInstantly restores 50 FP.
 
 ID=710100097
@@ -24665,7 +24665,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Basic1_Costume01_07
 0
 0
 0
-Damaged Uniform A [Coat]
+Damaged Uniform A [Top]
 ハルが通っていたウディン高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=211010801
@@ -24705,7 +24705,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Basic2_Costume01_07
 0
 0
 0
-Damaged Uniform B [Coat]
+Damaged Uniform B [Top]
 ハルが通っていたウディン高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=211020801
@@ -24745,7 +24745,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Basic3_Costume01_07
 0
 0
 0
-Damaged Uniform C [Coat]
+Damaged Uniform C [Top]
 ハルが通っていたウディン高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=211030801
@@ -24785,7 +24785,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Basic4_Costume01_07
 0
 0
 0
-Damaged Uniform D [Coat]
+Damaged Uniform D [Top]
 ハルが通っていたウディン高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=211040801
@@ -24835,7 +24835,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Default_Costume02_08
 0
 0
 0
-Vengeful Sword [Pants]
+Vengeful Sword [Bottom]
 ハルのソウルエナジーが具現化した下衣。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=211051101
@@ -24875,7 +24875,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=211060801
@@ -24885,7 +24885,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=211061101
@@ -24915,7 +24915,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=211070801
@@ -24946,7 +24946,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Miner_HairCap_02
 0
 0
 Work Clothes [Safety Hat]
-作業員が身につける安全帽。
+A safety hat worn by workers.
 
 ID=212010401
 Icon/Item/Costume/PC_A/PC_A_EQ_Miner_MouthAcc_04
@@ -24956,7 +24956,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Miner_MouthAcc_04
 0
 0
 Work Clothes [Dust Proof Mask]
-作業員が身につける防塵マスク。
+A dust-proof mask worn by workers.
 
 ID=212010901
 Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Costume03_09
@@ -24966,7 +24966,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Costume03_09
 0
 0
 Work Clothes [Costume]
-作業員が身につける衣装。上下セット。
+A costume worn by workers. Top and bottom set.
 
 ID=212010501
 Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Glove_05
@@ -24976,7 +24976,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Glove_05
 0
 0
 Work Clothes [Gloves]
-作業員が身につける軍手。
+A pair of gloves worn by workers.
 
 ID=212011201
 Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Shoes_12
@@ -24986,7 +24986,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Shoes_12
 0
 0
 Work Clothes [Boots]
-作業員が身につける長靴。
+A pair of boots worn by workers.
 
 ID=212011301
 Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Tail_13
@@ -24996,7 +24996,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Tail_13
 0
 0
 Work Clothes [Body]
-作業員が身につけるポーチ。
+A pouch worn by workers.
 
 ID=212020301
 Icon/Item/Costume/PC_A/PC_A_EQ_NCmercenary_EyeAcc01_03
@@ -25065,7 +25065,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_HairAcc01_01
 0
 0
 0
-Union Standard Military Uniform [Standard Hat]
+Commissioned League Military Uniform [Standard Hat]
 連合から支給される正規軍用の帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=212030701
@@ -25075,7 +25075,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_Costume01_07
 0
 0
 0
-連合正規軍服[上衣]
+Commissioned League Military Uniform [Top]
 連合から支給される正規軍用の上衣。\n旧式よりもデザインが洗練されているようだ。
 
 ID=212030801
@@ -25085,7 +25085,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_Costume02_08
 0
 0
 0
-連合正規軍服[スカート]
+Commissioned League Military Uniform [Skirt]
 連合から支給される正規軍用のスカート。\n旧式よりもデザインが洗練されているようだ。
 
 ID=212030301
@@ -25095,7 +25095,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_EyeAcc01_03
 0
 0
 0
-連合正規軍服[将校眼鏡]
+Commissioned League Military Uniform [Glasses]
 連合から支給される正規軍用の将校眼鏡。\n身に付けると、良いパンチが当たりそうだ。
 
 ID=212030501
@@ -25105,7 +25105,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_Glove_05
 0
 0
 0
-連合正規軍服[手袋]
+Commissioned League Military Uniform [Gloves]
 連合から支給される正規軍用の手袋。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=212031101
@@ -25115,7 +25115,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_Socks_11
 0
 0
 0
-連合正規軍服[タイツ]
+Commissioned League Military Uniform [Tights]
 連合から支給される正規軍用のタイツ。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=212031201
@@ -25125,7 +25125,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_Shoes_12
 0
 0
 0
-連合正規軍服[靴]
+Commissioned League Military Uniform [Shoes]
 連合から支給される正規軍用の靴。\n旧式よりもデザインが洗練されているようだ。
 
 ID=212031601
@@ -25135,7 +25135,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_HairAcc02_16
 0
 0
 0
-連合正規軍服[将校帽子]
+Commissioned League Military Uniform [Hat]
 連合から支給される正規軍用の将校帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=212031001
@@ -25145,7 +25145,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_Back_10
 0
 0
 0
-連合正規軍服[通信カバン]
+Commissioned League Military Uniform [Bag]
 連合から支給される正規軍用の通信カバン。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=213010901
@@ -25525,7 +25525,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Default_Costume02_08
 0
 0
 0
-Vengeful Sword [Pants]
+Vengeful Sword [Bottom]
 ハルのソウルエナジーが具現化した下衣。
 
 ID=213101101
@@ -25565,7 +25565,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！
 
 ID=213110801
@@ -25575,7 +25575,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！
 
 ID=213111101
@@ -25605,7 +25605,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。
 
 ID=213120801
@@ -25635,7 +25635,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Basic1_Costume01_07
 0
 0
 0
-Damaged Uniform A [Coat]
+Damaged Uniform A [Top]
 アーウィンが通っていたプライド高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=221010801
@@ -25675,7 +25675,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Basic2_Costume01_07
 0
 0
 0
-Damaged Uniform B [Coat]
+Damaged Uniform B [Top]
 アーウィンが通っていたプライド高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=221020801
@@ -25715,7 +25715,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Basic3_Costume01_07
 0
 0
 0
-Damaged Uniform C [Coat]
+Damaged Uniform C [Top]
 アーウィンが通っていたプライド高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=221030801
@@ -25755,7 +25755,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Basic4_Costume01_07
 0
 0
 0
-Damaged Uniform D [Coat]
+Damaged Uniform D [Top]
 アーウィンが通っていたプライド高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=221040801
@@ -25845,7 +25845,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=221060801
@@ -25885,7 +25885,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Sfoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=221070801
@@ -25895,7 +25895,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Sfoldtype_Costume02_08
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Bottom]
 連合から支給される旧式軍服の下衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=221071201
@@ -25916,7 +25916,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Miner_HairCap_02
 0
 0
 Work Clothes [Safety Hat]
-作業員が身につける安全帽。
+A safety hat worn by workers.
 
 ID=222010401
 Icon/Item/Costume/PC_B/PC_B_EQ_Miner_MouthAcc_04
@@ -25926,7 +25926,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Miner_MouthAcc_04
 0
 0
 Work Clothes [Dust Proof Mask]
-作業員が身につける防塵マスク。
+A dust-proof mask worn by workers.
 
 ID=222010901
 Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Costume03_09
@@ -25936,7 +25936,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Costume03_09
 0
 0
 Work Clothes [Costume]
-作業員が身につける衣装。上下セット。
+A costume worn by workers. Top and bottom set.
 
 ID=222010501
 Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Glove_05
@@ -25946,7 +25946,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Glove_05
 0
 0
 Work Clothes [Gloves]
-作業員が身につける軍手。
+A pair of gloves worn by workers.
 
 ID=222011201
 Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Shoes_12
@@ -25956,7 +25956,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Shoes_12
 0
 0
 Work Clothes [Boots]
-作業員が身につける長靴。
+A pair of boots worn by workers.
 
 ID=222011301
 Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Tail_13
@@ -25966,7 +25966,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Tail_13
 0
 0
 Work Clothes [Body]
-作業員が身につけるポーチ。
+A pouch worn by workers.
 
 ID=222020301
 Icon/Item/Costume/PC_B/PC_B_EQ_NCmercenary_EyeAcc01_03
@@ -26035,7 +26035,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_HairAcc01_01
 0
 0
 0
-Union Standard Military Uniform [Standard Hat]
+Commissioned League Military Uniform [Standard Hat]
 連合から支給される正規軍用の帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=222030301
@@ -26045,7 +26045,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_EyeAcc01_03
 0
 0
 0
-連合正規軍服[将校眼鏡]
+Commissioned League Military Uniform [Glasses]
 連合から支給される正規軍用の将校眼鏡。\n身に付けると、クールな男になれそうな気がする。
 
 ID=222030701
@@ -26055,7 +26055,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_Costume01_07
 0
 0
 0
-連合正規軍服[上衣]
+Commissioned League Military Uniform [Top]
 連合から支給される正規軍用の上衣。\n旧式よりもデザインが洗練されているようだ。
 
 ID=222030501
@@ -26065,7 +26065,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_Glove_05
 0
 0
 0
-連合正規軍服[手袋]
+Commissioned League Military Uniform [Gloves]
 連合から支給される正規軍用の手袋。\n旧式よりもデザインが洗練されているようだ。
 
 ID=222031301
@@ -26075,7 +26075,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_Tail_13
 0
 0
 0
-連合正規軍服[水筒]
+Commissioned League Military Uniform [Water Bottle]
 連合から支給される正規軍用の水筒。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=222030801
@@ -26095,7 +26095,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_Shoes_12
 0
 0
 0
-連合正規軍服[靴]
+Commissioned League Military Uniform [Shoes]
 連合から支給される正規軍用の靴。\n旧式よりもデザインが洗練されているようだ。
 
 ID=222031601
@@ -26105,7 +26105,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_HairAcc02_16
 0
 0
 0
-連合正規軍服[将校帽子]
+Commissioned League Military Uniform [Hat]
 連合から支給される正規軍用の将校帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=222031001
@@ -26115,7 +26115,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_Back_10
 0
 0
 0
-連合正規軍服[通信カバン]
+Commissioned League Military Uniform [Bag]
 連合から支給される正規軍用の通信カバン。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=223010101
@@ -26565,7 +26565,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！
 
 ID=223110801
@@ -26605,7 +26605,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Sfoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。
 
 ID=223120801
@@ -26615,7 +26615,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Sfoldtype_Costume02_08
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Bottom]
 連合から支給される旧式軍服の下衣。\n一昔前のデザインだ。
 
 ID=223121201
@@ -26675,7 +26675,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Basic1_Costume01_07
 0
 0
 0
-Damaged Uniform A [Coat]
+Damaged Uniform A [Top]
 リリーが通っていた\nブルームメルヘン女子中春服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=231010801
@@ -26715,7 +26715,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Basic2_Costume01_07
 0
 0
 0
-Damaged Uniform B [Coat]
+Damaged Uniform B [Top]
 リリーが通っていた\nブルームメルヘン女子中春服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=231020801
@@ -26755,7 +26755,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Basic3_Costume01_07
 0
 0
 0
-Damaged Uniform C [Coat]
+Damaged Uniform C [Top]
 リリーが通っていた\nブルームメルヘン女子中春服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=231030801
@@ -26795,7 +26795,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Basic4_Costume01_07
 0
 0
 0
-Damaged Uniform D [Coat]
+Damaged Uniform D [Top]
 リリーが通っていた\nブルームメルヘン女子中春服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=231040801
@@ -26885,7 +26885,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=231060801
@@ -26895,7 +26895,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=231061101
@@ -26925,7 +26925,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=231070801
@@ -26976,7 +26976,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Miner_HairCap_02
 0
 0
 Work Clothes [Safety Hat]
-作業員が身につける安全帽。
+A safety hat worn by workers.
 
 ID=232010401
 Icon/Item/Costume/PC_C/PC_C_EQ_Miner_MouthAcc_04
@@ -26986,7 +26986,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Miner_MouthAcc_04
 0
 0
 Work Clothes [Dust Proof Mask]
-作業員が身につける防塵マスク。
+A dust-proof mask worn by workers.
 
 ID=232010701
 Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Costume03_09
@@ -26996,7 +26996,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Costume03_09
 0
 0
 Work Clothes [Costume]
-作業員が身につける衣装。上下セット。
+A costume worn by workers. Top and bottom set.
 
 ID=232010501
 Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Glove_05
@@ -27006,7 +27006,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Glove_05
 0
 0
 Work Clothes [Gloves]
-作業員が身につける軍手。
+A pair of gloves worn by workers.
 
 ID=232011201
 Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Shoes_12
@@ -27016,7 +27016,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Shoes_12
 0
 0
 Work Clothes [Boots]
-作業員が身につける長靴。
+A pair of boots worn by workers.
 
 ID=232011301
 Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Tail_13
@@ -27026,7 +27026,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Tail_13
 0
 0
 Work Clothes [Body]
-作業員が身につけるポーチ。
+A pouch worn by workers.
 
 ID=232020301
 Icon/Item/Costume/PC_C/PC_C_EQ_NCmercenary_EyeAcc01_03
@@ -27095,7 +27095,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_HairAcc01_01
 0
 0
 0
-Union Standard Military Uniform [Standard Hat]
+Commissioned League Military Uniform [Standard Hat]
 連合から支給される正規軍用の帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=232030701
@@ -27105,7 +27105,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_Costume01_07
 0
 0
 0
-連合正規軍服[上衣]
+Commissioned League Military Uniform [Top]
 連合から支給される正規軍用の上衣。\n旧式よりもデザインが洗練されているようだ。
 
 ID=232030801
@@ -27115,7 +27115,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_Costume02_08
 0
 0
 0
-連合正規軍服[スカート]
+Commissioned League Military Uniform [Skirt]
 連合から支給される正規軍用のスカート。\n旧式よりもデザインが洗練されているようだ。
 
 ID=232030301
@@ -27125,7 +27125,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_EyeAcc01_03
 0
 0
 0
-連合正規軍服[将校眼鏡]
+Commissioned League Military Uniform [Glasses]
 連合から支給される正規軍用の将校眼鏡。\n身に付けると、良いパンチが当たりそうだ。
 
 ID=232030501
@@ -27135,7 +27135,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_Glove_05
 0
 0
 0
-連合正規軍服[手袋]
+Commissioned League Military Uniform [Gloves]
 連合から支給される正規軍用の手袋。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=232031101
@@ -27145,7 +27145,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_Socks_11
 0
 0
 0
-連合正規軍服[タイツ]
+Commissioned League Military Uniform [Tights]
 連合から支給される正規軍用のタイツ。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=232031201
@@ -27155,7 +27155,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_Shoes_12
 0
 0
 0
-連合正規軍服[靴]
+Commissioned League Military Uniform [Shoes]
 連合から支給される正規軍用の靴。\n旧式よりもデザインが洗練されているようだ。
 
 ID=232031601
@@ -27165,7 +27165,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_HairAcc02_16
 0
 0
 0
-連合正規軍服[将校帽子]
+Commissioned League Military Uniform [Hat]
 連合から支給される正規軍用の将校帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=232031001
@@ -27175,7 +27175,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_Back_10
 0
 0
 0
-連合正規軍服[通信カバン]
+Commissioned League Military Uniform [Bag]
 連合から支給される正規軍用の通信カバン。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=233010701
@@ -27435,7 +27435,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Repair2_Costume01_07
 0
 0
 0
-Lily's Uniform B [Jacket]
+Lily's Uniform B [Top]
 破れていたブルームメルヘン女子中制服を\n直したもの。この際、贅沢は言ってられない。
 
 ID=233060801
@@ -27465,7 +27465,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Repair3_Costume01_07
 0
 0
 0
-Lily's Uniform C [Jacket]
+Lily's Uniform C [Top]
 破れていたブルームメルヘン女子中制服を\n直したもの。この際、贅沢は言ってられない。
 
 ID=233070801
@@ -27615,7 +27615,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！
 
 ID=233110801
@@ -27625,7 +27625,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！
 
 ID=233111101
@@ -27655,7 +27655,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。
 
 ID=233120801
@@ -27685,7 +27685,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Basic1_Costume01_07
 0
 0
 0
-Damaged Uniform A [Coat]
+Damaged Uniform A [Top]
 ステラが通っていたビンセント女子中の制服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=251010801
@@ -27725,7 +27725,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Basic2_Costume01_07
 0
 0
 0
-Damaged Uniform B [Coat]
+Damaged Uniform B [Top]
 ステラが通っていたビンセント女子中の制服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=251020801
@@ -27765,7 +27765,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Basic3_Costume01_07
 0
 0
 0
-Damaged Uniform C [Coat]
+Damaged Uniform C [Top]
 ステラが通っていたビンセント女子中の制服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=251030801
@@ -27805,7 +27805,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Basic4_Costume01_07
 0
 0
 0
-Damaged Uniform D [Coat]
+Damaged Uniform D [Top]
 ステラが通っていたビンセント女子中の制服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=251040801
@@ -27895,7 +27895,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=251060801
@@ -27905,7 +27905,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=251061101
@@ -27935,7 +27935,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=251070801
@@ -27986,7 +27986,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Miner_HairCap_02
 0
 0
 Work Clothes [Safety Hat]
-作業員が身につける安全帽。
+A safety hat worn by workers.
 
 ID=252010401
 Icon/Item/Costume/PC_E/PC_E_EQ_Miner_MouthAcc_04
@@ -27996,7 +27996,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Miner_MouthAcc_04
 0
 0
 Work Clothes [Dust Proof Mask]
-作業員が身につける防塵マスク。
+A dust-proof mask worn by workers.
 
 ID=252010701
 Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Costume03_09
@@ -28006,7 +28006,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Costume03_09
 0
 0
 Work Clothes [Costume]
-作業員が身につける衣装。上下セット。
+A costume worn by workers. Top and bottom set.
 
 ID=252010501
 Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Glove_05
@@ -28016,7 +28016,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Glove_05
 0
 0
 Work Clothes [Gloves]
-作業員が身につける軍手。
+A pair of gloves worn by workers.
 
 ID=252011201
 Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Shoes_12
@@ -28026,7 +28026,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Shoes_12
 0
 0
 Work Clothes [Boots]
-作業員が身につける長靴。
+A pair of boots worn by workers.
 
 ID=252011301
 Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Tail_13
@@ -28036,7 +28036,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Tail_13
 0
 0
 Work Clothes [Body]
-作業員が身につけるポーチ。
+A pouch worn by workers.
 
 ID=252020301
 Icon/Item/Costume/PC_E/PC_E_EQ_NCmercenary_EyeAcc01_03
@@ -28105,7 +28105,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFregular_HairAcc01_01
 0
 0
 0
-Union Standard Military Uniform [Standard Hat]
+Commissioned League Military Uniform [Standard Hat]
 連合から支給される正規軍用の帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=252030701
@@ -28115,7 +28115,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFregular_Costume01_07
 0
 0
 0
-連合正規軍服[上衣]
+Commissioned League Military Uniform [Top]
 連合から支給される正規軍用の上衣。\n旧式よりもデザインが洗練されているようだ。
 
 ID=252030801
@@ -28135,7 +28135,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFregular_EyeAcc01_03
 0
 0
 0
-連合正規軍服[将校眼鏡]
+Commissioned League Military Uniform [Glasses]
 連合から支給される正規軍用の将校眼鏡。\n身に付けると、良いパンチが当たりそうだ。
 
 ID=252030501
@@ -28145,7 +28145,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFregular_Glove_05
 0
 0
 0
-連合正規軍服[手袋]
+Commissioned League Military Uniform [Gloves]
 連合から支給される正規軍用の手袋。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=252031101
@@ -28165,7 +28165,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFregular_Shoes_12
 0
 0
 0
-連合正規軍服[靴]
+Commissioned League Military Uniform [Shoes]
 連合から支給される正規軍用の靴。\n旧式よりもデザインが洗練されているようだ。
 
 ID=252031601
@@ -28175,7 +28175,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFregular_HairAcc02_16
 0
 0
 0
-連合正規軍服[将校帽子]
+Commissioned League Military Uniform [Hat]
 連合から支給される正規軍用の将校帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=252031001
@@ -28185,7 +28185,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFregular_Back_10
 0
 0
 0
-連合正規軍服[通信カバン]
+Commissioned League Military Uniform [Bag]
 連合から支給される正規軍用の通信カバン。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=253010901
@@ -28405,7 +28405,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Repair1_Costume01_07
 0
 0
 0
-ステラの制服A[上衣]
+Stella's School Uniform A [Blazer]
 破れていたビンセント女子中の制服を\n直したもの。この際、贅沢は言ってられない。
 
 ID=253050801
@@ -28415,7 +28415,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Repair1_Costume02_08
 0
 0
 0
-ステラの制服A[スカート]
+Stella's School Uniform A [Skirt]
 破れていたビンセント女子中制服のスカートを\n直したもの。この際、贅沢は言ってられない。
 
 ID=253051101
@@ -28425,7 +28425,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Basic1_Socks_11
 0
 0
 0
-ステラの制服A[ソックス]
+Stella's School Uniform A [Socks]
 破れていたビンセント女子中制服の靴下を\n直したもの。この際、贅沢は言ってられない。
 
 ID=253060701
@@ -28435,7 +28435,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Repair2_Costume01_07
 0
 0
 0
-ステラの制服B[上衣]
+Stella's School Uniform B [Blazer]
 破れていたビンセント女子中の制服を\n直したもの。この際、贅沢は言ってられない。
 
 ID=253060801
@@ -28445,7 +28445,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Repair2_Costume02_08
 0
 0
 0
-ステラの制服B[スカート]
+Stella's School Uniform B [Skirt]
 破れていたビンセント女子中制服のスカートを\n直したもの。この際、贅沢は言ってられない。
 
 ID=253061101
@@ -28455,7 +28455,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Basic2_Socks_11
 0
 0
 0
-ステラの制服B[ソックス]
+Stella's School Uniform B [Socks]
 破れていたビンセント女子中制服の靴下を\n直したもの。この際、贅沢は言ってられない。
 
 ID=253070701
@@ -28465,7 +28465,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Repair3_Costume01_07
 0
 0
 0
-ステラの制服C[上衣]
+Stella's School Uniform C [Top]
 破れていたビンセント女子中の制服を\n直したもの。この際、贅沢は言ってられない。
 
 ID=253070801
@@ -28475,7 +28475,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Repair3_Costume02_08
 0
 0
 0
-ステラの制服C[スカート]
+Stella's School Uniform C [Skirt]
 破れていたビンセント女子中制服のスカートを\n直したもの。この際、贅沢は言ってられない。
 
 ID=253071101
@@ -28485,7 +28485,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Basic3_Socks_11
 0
 0
 0
-ステラの制服C[ソックス]
+Stella's School Uniform C [Socks]
 破れていたビンセント女子中制服の靴下を\n直したもの。この際、贅沢は言ってられない。
 
 ID=253080701
@@ -28495,7 +28495,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Repair4_Costume01_07
 0
 0
 0
-ステラの制服D[上衣]
+Stella's School Uniform D [Top]
 破れていたビンセント女子中の制服を\n直したもの。この際、贅沢は言ってられない。
 
 ID=253080801
@@ -28505,7 +28505,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Repair4_Costume02_08
 0
 0
 0
-ステラの制服D[スカート]
+Stella's School Uniform D [Skirt]
 破れていたビンセント女子中制服のスカートを\n直したもの。この際、贅沢は言ってられない。
 
 ID=253081101
@@ -28515,7 +28515,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Basic4_Socks_11
 0
 0
 0
-ステラの制服D[ソックス]
+Stella's School Uniform D [Socks]
 破れていたビンセント女子中制服の靴下を\n直したもの。この際、贅沢は言ってられない。
 
 ID=253090901
@@ -28615,7 +28615,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！
 
 ID=253110801
@@ -28625,7 +28625,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！
 
 ID=253111101
@@ -28655,7 +28655,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。
 
 ID=253120801
@@ -28825,7 +28825,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalTop2_Costume01_07
 0
 0
 0
-チェックシャツ
+Check Shirt
 どこにでもありそうで、組み合わせが難しい。\nセンスが問われる一着。
 
 ID=211110701
@@ -28835,7 +28835,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalTop3_Costume01_07
 0
 0
 0
-ストライプTシャツ
+Striped T-Shirt
 THE無難。周りが奇抜なコーディネートばかりなら、\n逆に斬新かも？
 
 ID=211120801
@@ -28845,7 +28845,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalBottom1_Costume02_08
 0
 0
 0
-アイボリースキニージーンズ
+Ivory Skinny Jeans
 アイボリーのスキニージーンズ。\nパッと見には服を着ていないようにも見えるかも…？
 
 ID=213210901
@@ -28855,7 +28855,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Pajama_Costume03_09
 0
 0
 0
-パジャマ[衣装][B]
+Pajamas [Outfit B]
 着ると睡魔に襲われるパジャマ。\nもうこのまま寝てしまいたい。
 
 ID=213211201
@@ -28865,7 +28865,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Pajama_Shoes_12
 0
 0
 0
-パジャマ[靴][B]
+Pajamas [Slippers B]
 室内用のスリッパ。トイレには履いて行かないこと。
 
 ID=223210901
@@ -28875,7 +28875,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Pajama_Costume03_09
 0
 0
 0
-パジャマ[衣装][B]
+Pajamas [Outfit B]
 着ると睡魔に襲われるパジャマ。\nもうこのまま寝てしまいたい。
 
 ID=223211201
@@ -28885,7 +28885,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Pajama_Shoes_12
 0
 0
 0
-パジャマ[靴][B]
+Pajamas [Slippers B]
 室内用のスリッパ。トイレには履いて行かないこと。
 
 ID=233210901
@@ -28895,7 +28895,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Pajama_Costume03_09
 0
 0
 0
-パジャマ[衣装][B]
+Pajamas [Outfit B]
 着ると睡魔に襲われるパジャマ。\nもうこのまま寝てしまいたい。
 
 ID=233211201
@@ -28905,7 +28905,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Pajama_Shoes_12
 0
 0
 0
-パジャマ[靴][B]
+Pajamas [Slippers B]
 室内用のスリッパ。トイレには履いて行かないこと。
 
 ID=253210901
@@ -28915,7 +28915,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Pajama_Costume03_09
 0
 0
 0
-パジャマ[衣装][B]
+Pajamas [Outfit B]
 着ると睡魔に襲われるパジャマ。\nもうこのまま寝てしまいたい。
 
 ID=253211201
@@ -28925,7 +28925,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Pajama_Shoes_12
 0
 0
 0
-パジャマ[靴][B]
+Pajamas [Slippers B]
 室内用のスリッパ。トイレには履いて行かないこと。
 
 ID=213150901
@@ -28935,7 +28935,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SpecialPajama_Costume03_09
 0
 0
 0
-パジャマ[衣装][A]
+Pajamas [Outfit A]
 ハルが家で着ているお気に入りのパジャマ。\nこれさえあれば夜もぐっすり。\n見た目も着心地も最高の逸品。
 
 ID=213151201
@@ -28945,7 +28945,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SpecialPajama_Shoes_12
 0
 0
 0
-パジャマ[靴][A]
+Pajamas [Slippers A]
 クマのスリッパ。\n夜の廊下もこれさえあれば大丈夫。\nクマが二匹もついているから。
 
 ID=223150901
@@ -28955,7 +28955,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SpecialPajama_Costume03_09
 0
 0
 0
-パジャマ[衣装][A]
+Pajamas [Outfit A]
 アーウィンが家で着ているお気に入りのパジャマ。\nどこでも寝っ転がれそうだ。
 
 ID=223151201
@@ -28965,7 +28965,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SpecialPajama_Shoes_12
 0
 0
 0
-パジャマ[靴][A]
+Pajamas [Slippers A]
 パンダのスリッパ。\n足元にパンダ。\nそれだけで快眠が約束されている気がする。
 
 ID=233150901
@@ -28975,7 +28975,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SpecialPajama_Costume03_09
 0
 0
 0
-パジャマ[衣装][A]
+Pajamas [Outfit A]
 リリーが家で着ているお気に入りのパジャマ。\nこれを着てお願いをすれば、\nきっと断れる人はいない気がする。
 
 ID=233151201
@@ -28985,7 +28985,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SpecialPajama_Shoes_12
 0
 0
 0
-パジャマ[靴][A]
+Pajamas [Slippers A]
 ネコのスリッパ。\nネコの毛並みを忠実に再現した高級品。\nリアルを追求しすぎて抜け毛まで再現される至高の逸品。
 
 ID=253150901
@@ -28995,7 +28995,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SpecialPajama_Costume03_09
 0
 0
 0
-パジャマ[衣装][A]
+Pajamas [Outfit A]
 ステラが家で着ているお気に入りのパジャマ。\nこれは危険だ。可愛さがとどまる所を知らない。
 
 ID=253151201
@@ -29005,7 +29005,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SpecialPajama_Shoes_12
 0
 0
 0
-パジャマ[靴][A]
+Pajamas [Slippers A]
 ウサギのスリッパ。\nこのスリッパを履けば、早く歩けるようになる。\n…夢の中で。
 
 ID=211130801
@@ -29025,7 +29025,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalBottom3_Costume02_08
 0
 0
 0
-ブラックスラックス
+Black Slacks
 上手く着こなせばファッションリーダー、\n失敗すると残念な人に…。洗練さをアピールしよう。
 
 ID=211150101
@@ -29035,7 +29035,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalHairAcc1_HairAcc01_01
 0
 0
 0
-緑の新芽
+Green Sprouts
 力強い緑の新芽。\n頭で栽培してると思われそう。
 
 ID=211160101
@@ -29045,7 +29045,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalHairAcc2_HairAcc01_01
 0
 0
 0
-星バンド
+Star Hairband
 クリスマスツリーの飾りのような星がついている。\n可愛さはUPするが、似合う人は限られそうだ。
 
 ID=211170101
@@ -29065,7 +29065,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalHairAcc4_HairAcc01_01
 0
 0
 0
-ミニ傘
+Miniature Umbrella
 カクテルにでも挿した方が良さそう。\n頭に挿しても、雨が降ったら濡れるに違いない。
 
 ID=211190101
@@ -29075,7 +29075,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalHairAcc5_HairAcc01_01
 0
 0
 0
-キングリボン
+King Ribbon
 大きなリボン。男性が着用した場合、\n何とも言えない雰囲気になりそう。
 
 ID=211200301
@@ -29085,7 +29085,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalEyes1_EyeAcc01_03
 0
 0
 0
-ハートグラス
+Heart-Styled Glasses
 ハート柄の眼鏡。\n人によっては変わり者にみられてしまうかも…？
 
 ID=211210301
@@ -29095,7 +29095,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalEyes2_EyeAcc01_03
 0
 0
 0
-Star Glass
+Star Glasses
 星柄の眼鏡。\nこれをかけて外出するとしたら…遊園地かな？
 
 ID=211220301
@@ -29105,7 +29105,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalEyes3_EyeAcc01_03
 0
 0
 0
-知性派眼鏡
+Intellectual Glasses
 巨大な陰謀を企てているような雰囲気を出す眼鏡。\nキラリと光るレンズが切れ者の証。
 
 ID=211230301
@@ -29115,7 +29115,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalEyes4_EyeAcc01_03
 0
 0
 0
-スクエアグラス
+Square-Styled Glasses
 鋭い直角が特徴的なデザインの眼鏡。\n堅物に見える？
 
 ID=211240301
@@ -29125,7 +29125,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalEyes5_EyeAcc01_03
 0
 0
 0
-デカ鼻眼鏡
+Elder Nose Glasses
 パーティーを盛り上げるにはコレ！\nどんな美男美女も笑いを取れること請け合い。
 
 ID=211251301
@@ -29135,7 +29135,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalHip1_Tail_13
 0
 0
 0
-ブラウンポーチ
+Brown Pouch
 高級皮を素材にしたポーチ。\nシンプルで機能的なフォルムが人気。
 
 ID=211261301
@@ -29145,7 +29145,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalHip2_Tail_13
 0
 0
 0
-円筒形ポーチ
+Cylindrical Pouch
 円筒形のポーチ。\n落としたら転がってしまいそうだ。
 
 ID=211271301
@@ -29155,7 +29155,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalHip3_Tail_13
 0
 0
 0
-ドリンクポーチ
+Drinking Pouch
 缶ジュースを入れるポーチ。\n飲み残しを入れると、おしりが大惨事になるかも？
 
 ID=211281301
@@ -29165,7 +29165,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalHip4_Tail_13
 0
 0
 0
-紙束
+Bundle of Paper
 重要な伝達事項や地図が記してありそうな紙の束。\nだが、実際は大したことは書かれていない。
 
 ID=211291301
@@ -29175,7 +29175,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalHip5_Tail_13
 0
 0
 0
-ニットポーチ
+Hand-knitted Pouch
 ニット素材のポーチ。\n重い物を入れると、簡単に伸びてしまいそうだ。
 
 ID=211300501
@@ -29195,7 +29195,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_AchieveItem2_Tail_13
 0
 0
 0
-メディボックスポーチ
+Medibox Pouch
 メディボックスを持ち運びできるポーチ。\nこれでいつでも治療できる。
 
 ID=211320101
@@ -29635,7 +29635,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalTop2_Costume01_07
 0
 0
 0
-チェックシャツ
+Check Shirt
 どこにでもありそうで、組み合わせが難しい。\nセンスが問われる一着。
 
 ID=221110701
@@ -29645,7 +29645,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalTop3_Costume01_07
 0
 0
 0
-ストライプTシャツ
+Striped T-Shirt
 THE無難。周りが奇抜なコーディネートばかりなら、\n逆に斬新かも？
 
 ID=221120801
@@ -29655,7 +29655,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalBottom1_Costume02_08
 0
 0
 0
-アイボリースキニージーンズ
+Ivory Skinny Jeans
 アイボリーのスキニージーンズ。\nパッと見には服を着ていないようにも見えるかも…？
 
 ID=221130801
@@ -29675,7 +29675,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalBottom3_Costume02_08
 0
 0
 0
-ブラックスラックス
+Black Slacks
 上手く着こなせばファッションリーダー、\n失敗すると残念な人に…。洗練さをアピールしよう。
 
 ID=221150101
@@ -29685,7 +29685,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalHairAcc1_HairAcc01_01
 0
 0
 0
-緑の新芽
+Green Sprouts
 力強い緑の新芽。\n頭で栽培してると思われそう。
 
 ID=221160101
@@ -29695,7 +29695,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalHairAcc2_HairAcc01_01
 0
 0
 0
-星バンド
+Star Hairband
 クリスマスツリーの飾りのような星がついている。\n可愛さはUPするが、似合う人は限られそうだ。
 
 ID=221170101
@@ -29715,7 +29715,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalHairAcc4_HairAcc01_01
 0
 0
 0
-ミニ傘
+Miniature Umbrella
 カクテルにでも挿した方が良さそう。\n頭に挿しても、雨が降ったら濡れるに違いない。
 
 ID=221190101
@@ -29725,7 +29725,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalHairAcc5_HairAcc01_01
 0
 0
 0
-キングリボン
+King Ribbon
 大きなリボン。男性が着用した場合、\n何とも言えない雰囲気になりそう。
 
 ID=221200301
@@ -29735,7 +29735,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalEyes1_EyeAcc01_03
 0
 0
 0
-ハートグラス
+Heart-Styled Glasses
 ハート柄の眼鏡。\n人によっては変わり者にみられてしまうかも…？
 
 ID=221210301
@@ -29745,7 +29745,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalEyes2_EyeAcc01_03
 0
 0
 0
-Star Glass
+Star Glasses
 星柄の眼鏡。\nこれをかけて外出するとしたら…遊園地かな？
 
 ID=221220301
@@ -29755,7 +29755,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalEyes3_EyeAcc01_03
 0
 0
 0
-知性派眼鏡
+Intellectual Glasses
 巨大な陰謀を企てているような雰囲気を出す眼鏡。\nキラリと光るレンズが切れ者の証。
 
 ID=221230301
@@ -29765,7 +29765,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalEyes4_EyeAcc01_03
 0
 0
 0
-スクエアグラス
+Square-Styled Glasses
 鋭い直角が特徴的なデザインの眼鏡。\n堅物に見える？
 
 ID=221240301
@@ -29775,7 +29775,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalEyes5_EyeAcc01_03
 0
 0
 0
-デカ鼻眼鏡
+Elder Nose Glasses
 パーティーを盛り上げるにはコレ！\nどんな美男美女も笑いを取れること請け合い。
 
 ID=221251301
@@ -29785,7 +29785,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalHip1_Tail_13
 0
 0
 0
-ブラウンポーチ
+Brown Pouch
 高級皮を素材にしたポーチ。\nシンプルで機能的なフォルムが人気。
 
 ID=221261301
@@ -29795,7 +29795,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalHip2_Tail_13
 0
 0
 0
-円筒形ポーチ
+Cylindrical Pouch
 円筒形のポーチ。\n落としたら転がってしまいそうだ。
 
 ID=221271301
@@ -29805,7 +29805,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalHip3_Tail_13
 0
 0
 0
-ドリンクポーチ
+Drinking Pouch
 缶ジュースを入れるポーチ。\n飲み残しを入れると、おしりが大惨事になるかも？
 
 ID=221281301
@@ -29815,7 +29815,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalHip4_Tail_13
 0
 0
 0
-紙束
+Bundle of Paper
 重要な伝達事項や地図が記してありそうな紙の束。\nだが、実際は大したことは書かれていない。
 
 ID=221291301
@@ -29825,7 +29825,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalHip5_Tail_13
 0
 0
 0
-ニットポーチ
+Hand-knitted Pouch
 ニット素材のポーチ。\n重い物を入れると、簡単に伸びてしまいそうだ。
 
 ID=221300501
@@ -29845,7 +29845,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_AchieveItem2_Tail_13
 0
 0
 0
-メディボックスポーチ
+Medibox Pouch
 メディボックスを持ち運びできるポーチ。\nこれでいつでも治療できる。
 
 ID=221320101
@@ -30285,7 +30285,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalTop2_Costume01_07
 0
 0
 0
-チェックシャツ
+Check Shirt
 どこにでもありそうで、組み合わせが難しい。\nセンスが問われる一着。
 
 ID=231110701
@@ -30295,7 +30295,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalTop3_Costume01_07
 0
 0
 0
-ストライプTシャツ
+Striped T-Shirt
 THE無難。周りが奇抜なコーディネートばかりなら、\n逆に斬新かも？
 
 ID=231120801
@@ -30305,7 +30305,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalBottom1_Costume02_08
 0
 0
 0
-アイボリースキニージーンズ
+Ivory Skinny Jeans
 アイボリーのスキニージーンズ。\nパッと見には服を着ていないようにも見えるかも…？
 
 ID=231130801
@@ -30325,7 +30325,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalBottom3_Costume02_08
 0
 0
 0
-ブラックスラックス
+Black Slacks
 上手く着こなせばファッションリーダー、\n失敗すると残念な人に…。洗練さをアピールしよう。
 
 ID=231150101
@@ -30335,7 +30335,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalHairAcc1_HairAcc01_01
 0
 0
 0
-緑の新芽
+Green Sprouts
 力強い緑の新芽。\n頭で栽培してると思われそう。
 
 ID=231160101
@@ -30345,7 +30345,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalHairAcc2_HairAcc01_01
 0
 0
 0
-星バンド
+Star Hairband
 クリスマスツリーの飾りのような星がついている。\n可愛さはUPするが、似合う人は限られそうだ。
 
 ID=231170101
@@ -30365,7 +30365,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalHairAcc4_HairAcc01_01
 0
 0
 0
-ミニ傘
+Miniature Umbrella
 カクテルにでも挿した方が良さそう。\n頭に挿しても、雨が降ったら濡れるに違いない。
 
 ID=231190101
@@ -30375,7 +30375,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalHairAcc5_HairAcc01_01
 0
 0
 0
-キングリボン
+King Ribbon
 大きなリボン。男性が着用した場合、\n何とも言えない雰囲気になりそう。
 
 ID=231200301
@@ -30385,7 +30385,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalEyes1_EyeAcc01_03
 0
 0
 0
-ハートグラス
+Heart-Styled Glasses
 ハート柄の眼鏡。\n人によっては変わり者にみられてしまうかも…？
 
 ID=231210301
@@ -30395,7 +30395,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalEyes2_EyeAcc01_03
 0
 0
 0
-Star Glass
+Star Glasses
 星柄の眼鏡。\nこれをかけて外出するとしたら…遊園地かな？
 
 ID=231220301
@@ -30405,7 +30405,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalEyes3_EyeAcc01_03
 0
 0
 0
-知性派眼鏡
+Intellectual Glasses
 巨大な陰謀を企てているような雰囲気を出す眼鏡。\nキラリと光るレンズが切れ者の証。
 
 ID=231230301
@@ -30415,7 +30415,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalEyes4_EyeAcc01_03
 0
 0
 0
-スクエアグラス
+Square-Styled Glasses
 鋭い直角が特徴的なデザインの眼鏡。\n堅物に見える？
 
 ID=231240301
@@ -30425,7 +30425,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalEyes5_EyeAcc01_03
 0
 0
 0
-デカ鼻眼鏡
+Elder Nose Glasses
 パーティーを盛り上げるにはコレ！\nどんな美男美女も笑いを取れること請け合い。
 
 ID=231251301
@@ -30435,7 +30435,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalHip1_Tail_13
 0
 0
 0
-ブラウンポーチ
+Brown Pouch
 高級皮を素材にしたポーチ。\nシンプルで機能的なフォルムが人気。
 
 ID=231261301
@@ -30445,7 +30445,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalHip2_Tail_13
 0
 0
 0
-円筒形ポーチ
+Cylindrical Pouch
 円筒形のポーチ。\n落としたら転がってしまいそうだ。
 
 ID=231271301
@@ -30455,7 +30455,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalHip3_Tail_13
 0
 0
 0
-ドリンクポーチ
+Drinking Pouch
 缶ジュースを入れるポーチ。\n飲み残しを入れると、おしりが大惨事になるかも？
 
 ID=231281301
@@ -30465,7 +30465,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalHip4_Tail_13
 0
 0
 0
-紙束
+Bundle of Paper
 重要な伝達事項や地図が記してありそうな紙の束。\nだが、実際は大したことは書かれていない。
 
 ID=231291301
@@ -30475,7 +30475,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalHip5_Tail_13
 0
 0
 0
-ニットポーチ
+Hand-knitted Pouch
 ニット素材のポーチ。\n重い物を入れると、簡単に伸びてしまいそうだ。
 
 ID=231300501
@@ -30495,7 +30495,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_AchieveItem2_Tail_13
 0
 0
 0
-メディボックスポーチ
+Medibox Pouch
 メディボックスを持ち運びできるポーチ。\nこれでいつでも治療できる。
 
 ID=231320101
@@ -30935,7 +30935,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalTop2_Costume01_07
 0
 0
 0
-チェックシャツ
+Check Shirt
 どこにでもありそうで、組み合わせが難しい。\nセンスが問われる一着。
 
 ID=251110701
@@ -30945,7 +30945,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalTop3_Costume01_07
 0
 0
 0
-ストライプTシャツ
+Striped T-Shirt
 THE無難。周りが奇抜なコーディネートばかりなら、\n逆に斬新かも？
 
 ID=251120801
@@ -30955,7 +30955,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalBottom1_Costume02_08
 0
 0
 0
-アイボリースキニージーンズ
+Ivory Skinny Jeans
 アイボリーのスキニージーンズ。\nパッと見には服を着ていないようにも見えるかも…？
 
 ID=251130801
@@ -30975,7 +30975,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalBottom3_Costume02_08
 0
 0
 0
-ブラックスラックス
+Black Slacks
 上手く着こなせばファッションリーダー、\n失敗すると残念な人に…。洗練さをアピールしよう。
 
 ID=251150101
@@ -30985,7 +30985,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalHairAcc1_HairAcc01_01
 0
 0
 0
-緑の新芽
+Green Sprouts
 力強い緑の新芽。\n頭で栽培してると思われそう。
 
 ID=251160101
@@ -30995,7 +30995,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalHairAcc2_HairAcc01_01
 0
 0
 0
-星バンド
+Star Hairband
 クリスマスツリーの飾りのような星がついている。\n可愛さはUPするが、似合う人は限られそうだ。
 
 ID=251170101
@@ -31015,7 +31015,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalHairAcc4_HairAcc01_01
 0
 0
 0
-ミニ傘
+Miniature Umbrella
 カクテルにでも挿した方が良さそう。\n頭に挿しても、雨が降ったら濡れるに違いない。
 
 ID=251190101
@@ -31025,7 +31025,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalHairAcc5_HairAcc01_01
 0
 0
 0
-キングリボン
+King Ribbon
 大きなリボン。男性が着用した場合、\n何とも言えない雰囲気になりそう。
 
 ID=251200301
@@ -31035,7 +31035,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalEyes1_EyeAcc01_03
 0
 0
 0
-ハートグラス
+Heart-Styled Glasses
 ハート柄の眼鏡。\n人によっては変わり者にみられてしまうかも…？
 
 ID=251210301
@@ -31045,7 +31045,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalEyes2_EyeAcc01_03
 0
 0
 0
-Star Glass
+Star Glasses
 星柄の眼鏡。\nこれをかけて外出するとしたら…遊園地かな？
 
 ID=251220301
@@ -31055,7 +31055,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalEyes3_EyeAcc01_03
 0
 0
 0
-知性派眼鏡
+Intellectual Glasses
 巨大な陰謀を企てているような雰囲気を出す眼鏡。\nキラリと光るレンズが切れ者の証。
 
 ID=251230301
@@ -31065,7 +31065,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalEyes4_EyeAcc01_03
 0
 0
 0
-スクエアグラス
+Square-Styled Glasses
 鋭い直角が特徴的なデザインの眼鏡。\n堅物に見える？
 
 ID=251240301
@@ -31075,7 +31075,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalEyes5_EyeAcc01_03
 0
 0
 0
-デカ鼻眼鏡
+Elder Nose Glasses
 パーティーを盛り上げるにはコレ！\nどんな美男美女も笑いを取れること請け合い。
 
 ID=251251301
@@ -31085,7 +31085,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalHip1_Tail_13
 0
 0
 0
-ブラウンポーチ
+Brown Pouch
 高級皮を素材にしたポーチ。\nシンプルで機能的なフォルムが人気。
 
 ID=251261301
@@ -31095,7 +31095,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalHip2_Tail_13
 0
 0
 0
-円筒形ポーチ
+Cylindrical Pouch
 円筒形のポーチ。\n落としたら転がってしまいそうだ。
 
 ID=251271301
@@ -31105,7 +31105,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalHip3_Tail_13
 0
 0
 0
-ドリンクポーチ
+Drinking Pouch
 缶ジュースを入れるポーチ。\n飲み残しを入れると、おしりが大惨事になるかも？
 
 ID=251281301
@@ -31115,7 +31115,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalHip4_Tail_13
 0
 0
 0
-紙束
+Bundle of Paper
 重要な伝達事項や地図が記してありそうな紙の束。\nだが、実際は大したことは書かれていない。
 
 ID=251291301
@@ -31125,7 +31125,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalHip5_Tail_13
 0
 0
 0
-ニットポーチ
+Hand-knitted Pouch
 ニット素材のポーチ。\n重い物を入れると、簡単に伸びてしまいそうだ。
 
 ID=251300501
@@ -31145,7 +31145,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_AchieveItem2_Tail_13
 0
 0
 0
-メディボックスポーチ
+Medibox Pouch
 メディボックスを持ち運びできるポーチ。\nこれでいつでも治療できる。
 
 ID=251320101
@@ -46855,7 +46855,7 @@ Icon/Item/Material/Furniture/Make_0_StarGlass
 0
 0
 0
-Star Glass
+Star Glasses
 [マイルーム：連合病院シリーズ]の家具製作材料。\n連合の特殊技術でかつてない光沢と透明感を出した。\n加工には異能力者が動員されたという。\nガラス片を加工すると入手できる。\n\n[家具製作材料]
 
 ID=710111003
@@ -50335,7 +50335,7 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_SharpnessFlive
 0
 0
 0
-シャープネスフライブ
+Living Sharp Staple Fibre
 ソウルワーカー専用武器。\n一般人が使用しても奇妙な音しか出ないが、\nソウルワーカーが使用すると特別な力を発揮する。\n\n[ソウルウェポン：ギター]
 
 ID=115472301
@@ -50345,7 +50345,7 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_SharpnessFlive
 0
 0
 0
-パニシャスフライブ
+Living Panic Staple Fibre
 ソウルワーカー専用武器。\n一般人が使用しても奇妙な音しか出ないが、\nソウルワーカーが使用すると特別な力を発揮する。\n\n[ソウルウェポン：ギター]
 
 ID=115483401
@@ -50365,8 +50365,8 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_GigantesCoreHowler
 0
 0
 0
-ギガンテスコアギター
-ソウルワーカー専用武器。\n武器庫に眠る巨大兵器「デウス・エクス・マキナ」の\n情報を基に作られた。\n手にすると、どんな敵にも勝てる気がしてくる。\n\n行くぞ！スーパーアベル！\nぼくらの力を見せてやるんだ！\n-アベル-\n\n[ソウルウェポン：ギター]
+Gigantic Guitar Score
+Weapons made exclusively for soul workers.\n It was designed based on\n preliminary information about the weapon "Deus Ex Makina" that is sealed within the Armoury.\n If you obtain this weapon, you will be able to defeat any enemy\N\nPlease go on Abel\N I'll show us our power!\N - Abel\n\n [Soul Weapon: Guitar]
 
 ID=115491301
 Icon/Item/SoulWeapon/PC_E/SOU_0_CarbonWeeper
@@ -50555,7 +50555,7 @@ Icon/Item/Gear/HeadGear/GEA_DollBlasterHeadType
 0
 0
 0
-ドールクラウンヘッド
+Doll Crown Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510083551
@@ -50565,7 +50565,7 @@ Icon/Item/Gear/HeadGear/GEA_DollBlasterHeadType
 0
 0
 0
-ドールブラスターヘッド
+Doll Blaster Head
 ソウルワーカー専用防具。\nRスクエアの巨大な人形「ビッグパペット」との\n戦闘情報を基に作られた。頭に着用する。\n\nこの人形、映画にでも出てきそうだよな。\nモンスターパニック系の異色モンスターとかでさぁ。\n-ゼニス-\n\n[ギア：ヘッド]
 
 ID=510091301
@@ -50585,7 +50585,7 @@ Icon/Item/Gear/HeadGear/GEA_FleesHead
 0
 0
 0
-ビシャスドールヘッド
+Vicious Doll Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510103451
@@ -50595,7 +50595,7 @@ Icon/Item/Gear/HeadGear/GEA_FleesHead
 0
 0
 0
-リビングドールヘッド
+Living Doll Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510113551
@@ -50605,7 +50605,7 @@ Icon/Item/Gear/HeadGear/GEA_FleesHead
 0
 0
 0
-ファナティックペースヘッド
+Fanatic Pace Head
 ソウルワーカー専用防具。\n怪電波発生地域の「ジャック・ザ・キング」との\n戦闘情報を基に作られた。頭に着用する。\n\nおぉ、見た目によらないもんだな…。\n雑魚だと思ってたぜ！\n-ゼニス-\n\n[ギア：ヘッド]
 
 ID=510111301
@@ -63935,7 +63935,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Basic1_Costume01_07
 0
 0
 0
-Damaged Uniform A [Coat]
+Damaged Uniform A [Top]
 ジンが通っていたリーブル高校の夏服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=241010801
@@ -63975,7 +63975,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Basic2_Costume01_07
 0
 0
 0
-Damaged Uniform B [Coat]
+Damaged Uniform B [Top]
 ジンが通っていたリーブル高校の夏服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=241020801
@@ -64015,7 +64015,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Basic3_Costume01_07
 0
 0
 0
-Damaged Uniform C [Coat]
+Damaged Uniform C [Top]
 ジンが通っていたリーブル高校の夏服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=241030801
@@ -64055,7 +64055,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Basic4_Costume01_07
 0
 0
 0
-Damaged Uniform D [Coat]
+Damaged Uniform D [Top]
 ジンが通っていたリーブル高校の夏服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=241040801
@@ -64145,7 +64145,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=241060801
@@ -64185,7 +64185,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Sfoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=241070801
@@ -64195,7 +64195,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Sfoldtype_Costume02_08
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Bottom]
 連合から支給される旧式軍服の下衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=241071201
@@ -64245,7 +64245,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalTop2_Costume01_07
 0
 0
 0
-チェックシャツ
+Check Shirt
 どこにでもありそうで、組み合わせが難しい。\nセンスが問われる一着。
 
 ID=241110701
@@ -64255,7 +64255,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalTop3_Costume01_07
 0
 0
 0
-ストライプTシャツ
+Striped T-Shirt
 THE無難。周りが奇抜なコーディネートばかりなら、\n逆に斬新かも？
 
 ID=241120801
@@ -64265,7 +64265,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalBottom1_Costume02_08
 0
 0
 0
-アイボリースキニージーンズ
+Ivory Skinny Jeans
 アイボリーのスキニージーンズ。\nパッと見には服を着ていないようにも見えるかも…？
 
 ID=241130801
@@ -64285,7 +64285,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalBottom3_Costume02_08
 0
 0
 0
-ブラックスラックス
+Black Slacks
 上手く着こなせばファッションリーダー、\n失敗すると残念な人に…。洗練さをアピールしよう。
 
 ID=241142701
@@ -64295,7 +64295,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalBottom3_Costume02_08
 0
 0
 0
-ブラックスラックス
+Black Slacks
 上手く着こなせばファッションリーダー、\n失敗すると残念な人に…。洗練さをアピールしよう。
 
 ID=241150101
@@ -64305,7 +64305,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalHairAcc1_HairAcc01_01
 0
 0
 0
-緑の新芽
+Green Sprouts
 力強い緑の新芽。\n頭で栽培してると思われそう。
 
 ID=241160101
@@ -64315,7 +64315,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalHairAcc2_HairAcc01_01
 0
 0
 0
-星バンド
+Star Hairband
 クリスマスツリーの飾りのような星がついている。\n可愛さはUPするが、似合う人は限られそうだ。
 
 ID=241170101
@@ -64335,7 +64335,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalHairAcc4_HairAcc01_01
 0
 0
 0
-ミニ傘
+Miniature Umbrella
 カクテルにでも挿した方が良さそう。\n頭に挿しても、雨が降ったら濡れるに違いない。
 
 ID=241190101
@@ -64345,7 +64345,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalHairAcc5_HairAcc01_01
 0
 0
 0
-キングリボン
+King Ribbon
 大きなリボン。男性が着用した場合、\n何とも言えない雰囲気になりそう。
 
 ID=241200301
@@ -64355,7 +64355,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalEyes1_EyeAcc01_03
 0
 0
 0
-ハートグラス
+Heart-Styled Glasses
 ハート柄の眼鏡。\n人によっては変わり者にみられてしまうかも…？
 
 ID=241210301
@@ -64365,7 +64365,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalEyes2_EyeAcc01_03
 0
 0
 0
-Star Glass
+Star Glasses
 星柄の眼鏡。\nこれをかけて外出するとしたら…遊園地かな？
 
 ID=241220301
@@ -64375,7 +64375,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalEyes3_EyeAcc01_03
 0
 0
 0
-知性派眼鏡
+Intellectual Glasses
 巨大な陰謀を企てているような雰囲気を出す眼鏡。\nキラリと光るレンズが切れ者の証。
 
 ID=241230301
@@ -64385,7 +64385,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalEyes4_EyeAcc01_03
 0
 0
 0
-スクエアグラス
+Square-Styled Glasses
 鋭い直角が特徴的なデザインの眼鏡。\n堅物に見える？
 
 ID=241240301
@@ -64395,7 +64395,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalEyes5_EyeAcc01_03
 0
 0
 0
-デカ鼻眼鏡
+Elder Nose Glasses
 パーティーを盛り上げるにはコレ！\nどんな美男美女も笑いを取れること請け合い。
 
 ID=241251301
@@ -64405,7 +64405,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalHip1_Tail_13
 0
 0
 0
-ブラウンポーチ
+Brown Pouch
 高級皮を素材にしたポーチ。\nシンプルで機能的なフォルムが人気。
 
 ID=241261301
@@ -64415,7 +64415,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalHip2_Tail_13
 0
 0
 0
-円筒形ポーチ
+Cylindrical Pouch
 円筒形のポーチ。\n落としたら転がってしまいそうだ。
 
 ID=241271301
@@ -64425,7 +64425,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalHip3_Tail_13
 0
 0
 0
-ドリンクポーチ
+Drinking Pouch
 缶ジュースを入れるポーチ。\n飲み残しを入れると、おしりが大惨事になるかも？
 
 ID=241281301
@@ -64435,7 +64435,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalHip4_Tail_13
 0
 0
 0
-紙束
+Bundle of Paper
 重要な伝達事項や地図が記してありそうな紙の束。\nだが、実際は大したことは書かれていない。
 
 ID=241291301
@@ -64445,7 +64445,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalHip5_Tail_13
 0
 0
 0
-ニットポーチ
+Hand-knitted Pouch
 ニット素材のポーチ。\n重い物を入れると、簡単に伸びてしまいそうだ。
 
 ID=241300501
@@ -64465,7 +64465,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_AchieveItem2_Tail_13
 0
 0
 0
-メディボックスポーチ
+Medibox Pouch
 メディボックスを持ち運びできるポーチ。\nこれでいつでも治療できる。
 
 ID=241320101
@@ -64896,7 +64896,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Miner_HairCap_02
 0
 0
 Work Clothes [Safety Hat]
-作業員が身につける安全帽。
+A safety hat worn by workers.
 
 ID=242010401
 Icon/Item/Costume/PC_D/PC_D_EQ_Miner_MouthAcc_04
@@ -64906,7 +64906,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Miner_MouthAcc_04
 0
 0
 Work Clothes [Dust Proof Mask]
-作業員が身につける防塵マスク。
+A dust-proof mask worn by workers.
 
 ID=242010901
 Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Costume03_09
@@ -64916,7 +64916,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Costume03_09
 0
 0
 Work Clothes [Costume]
-作業員が身につける衣装。上下セット。
+A costume worn by workers. Top and bottom set.
 
 ID=242010501
 Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Glove_05
@@ -64926,7 +64926,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Glove_05
 0
 0
 Work Clothes [Gloves]
-作業員が身につける軍手。
+A pair of gloves worn by workers.
 
 ID=242011201
 Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Shoes_12
@@ -64936,7 +64936,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Shoes_12
 0
 0
 Work Clothes [Boots]
-作業員が身につける長靴。
+A pair of boots worn by workers.
 
 ID=242011301
 Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Tail_13
@@ -64946,7 +64946,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Tail_13
 0
 0
 Work Clothes [Body]
-作業員が身につけるポーチ。
+A pouch worn by workers.
 
 ID=242020301
 Icon/Item/Costume/PC_D/PC_D_EQ_NCmercenary_EyeAcc01_03
@@ -65015,7 +65015,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_HairAcc01_01
 0
 0
 0
-Union Standard Military Uniform [Standard Hat]
+Commissioned League Military Uniform [Standard Hat]
 連合から支給される正規軍用の帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=242030301
@@ -65025,7 +65025,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_EyeAcc01_03
 0
 0
 0
-連合正規軍服[将校眼鏡]
+Commissioned League Military Uniform [Glasses]
 連合から支給される正規軍用の将校眼鏡。\n身に付けると、クールな男になれそうな気がする。
 
 ID=242030701
@@ -65035,7 +65035,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Costume01_07
 0
 0
 0
-連合正規軍服[上衣]
+Commissioned League Military Uniform [Top]
 連合から支給される正規軍用の上衣。\n旧式よりもデザインが洗練されているようだ。
 
 ID=242030801
@@ -65055,7 +65055,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Glove_05
 0
 0
 0
-連合正規軍服[手袋]
+Commissioned League Military Uniform [Gloves]
 連合から支給される正規軍用の手袋。\n旧式よりもデザインが洗練されているようだ。
 
 ID=242031301
@@ -65065,7 +65065,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Tail_13
 0
 0
 0
-連合正規軍服[水筒]
+Commissioned League Military Uniform [Water Bottle]
 連合から支給される正規軍用の水筒。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=242031201
@@ -65075,7 +65075,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Shoes_12
 0
 0
 0
-連合正規軍服[靴]
+Commissioned League Military Uniform [Shoes]
 連合から支給される正規軍用の靴。\n旧式よりもデザインが洗練されているようだ。
 
 ID=242030102
@@ -65085,7 +65085,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_HairAcc02_16
 0
 0
 0
-連合正規軍服[将校帽子]
+Commissioned League Military Uniform [Hat]
 連合から支給される正規軍用の将校帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=242031001
@@ -65095,7 +65095,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Back_10
 0
 0
 0
-連合正規軍服[通信カバン]
+Commissioned League Military Uniform [Bag]
 連合から支給される正規軍用の通信カバン。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=242040101
@@ -65665,7 +65665,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！
 
 ID=243110801
@@ -65705,7 +65705,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Sfoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Coat]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。
 
 ID=243120801
@@ -65715,7 +65715,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Sfoldtype_Costume02_08
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Bottom]
 連合から支給される旧式軍服の下衣。\n一昔前のデザインだ。
 
 ID=243121201
@@ -65785,7 +65785,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SpecialPajama_Costume03_09
 0
 0
 0
-パジャマ[衣装][B]
+Pajamas [Outfit B]
 ジンが家で着ているお気に入りのパジャマ。\nどこでも寝っ転がれそうだ。
 
 ID=243151201
@@ -65795,7 +65795,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SpecialPajama_Shoes_12
 0
 0
 0
-パジャマ[靴][A]
+Pajamas [Slippers A]
 0
 
 ID=243200201
@@ -65865,7 +65865,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Pajama_Costume03_09
 0
 0
 0
-パジャマ[衣装][B]
+Pajamas [Outfit B]
 着ると睡魔に襲われるパジャマ。\nもうこのまま寝てしまいたい。
 
 ID=243211201
@@ -65875,7 +65875,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Pajama_Shoes_12
 0
 0
 0
-パジャマ[靴][B]
+Pajamas [Slippers B]
 室内用のスリッパ。トイレには履いて行かないこと。
 
 ID=714406323
@@ -82975,7 +82975,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=261060801
@@ -82985,7 +82985,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=261061101
@@ -83015,7 +83015,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=261070801
@@ -83066,7 +83066,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_Miner_HairCap_02
 0
 0
 Work Clothes [Safety Hat]
-作業員が身につける安全帽。
+A safety hat worn by workers.
 
 ID=262010401
 Icon/Item/Costume/PC_F/PC_F_EQ_Miner_MouthAcc_04
@@ -83076,7 +83076,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_Miner_MouthAcc_04
 0
 0
 Work Clothes [Dust Proof Mask]
-作業員が身につける防塵マスク。
+A dust-proof mask worn by workers.
 
 ID=262010901
 Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Costume03_09
@@ -83086,7 +83086,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Costume03_09
 0
 0
 Work Clothes [Costume]
-作業員が身につける衣装。上下セット。
+A costume worn by workers. Top and bottom set.
 
 ID=262010501
 Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Glove_05
@@ -83096,7 +83096,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Glove_05
 0
 0
 Work Clothes [Gloves]
-作業員が身につける軍手。
+A pair of gloves worn by workers.
 
 ID=262011201
 Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Shoes_12
@@ -83116,7 +83116,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Tail_13
 0
 0
 Work Clothes [Body]
-作業員が身につけるポーチ。
+A pouch worn by workers.
 
 ID=262020301
 Icon/Item/Costume/PC_F/PC_F_EQ_NCmercenary_EyeAcc01_03
@@ -83185,7 +83185,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_HairAcc01_01
 0
 0
 0
-Union Standard Military Uniform [Standard Hat]
+Commissioned League Military Uniform [Standard Hat]
 連合から支給される正規軍用の帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=262030701
@@ -83195,7 +83195,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Costume01_07
 0
 0
 0
-連合正規軍服[上衣]
+Commissioned League Military Uniform [Top]
 連合から支給される正規軍用の上衣。\n旧式よりもデザインが洗練されているようだ。
 
 ID=262030801
@@ -83205,7 +83205,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Costume02_08
 0
 0
 0
-連合正規軍服[スカート]
+Commissioned League Military Uniform [Skirt]
 連合から支給される正規軍用のスカート。\n旧式よりもデザインが洗練されているようだ。
 
 ID=262030301
@@ -83215,7 +83215,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_EyeAcc01_03
 0
 0
 0
-連合正規軍服[将校眼鏡]
+Commissioned League Military Uniform [Glasses]
 連合から支給される正規軍用の将校眼鏡。\n身に付けると、良いパンチが当たりそうだ。
 
 ID=262030501
@@ -83225,7 +83225,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Glove_05
 0
 0
 0
-連合正規軍服[手袋]
+Commissioned League Military Uniform [Gloves]
 連合から支給される正規軍用の手袋。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=262031101
@@ -83235,7 +83235,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Socks_11
 0
 0
 0
-連合正規軍服[タイツ]
+Commissioned League Military Uniform [Tights]
 連合から支給される正規軍用のタイツ。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=262031201
@@ -83245,7 +83245,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Shoes_12
 0
 0
 0
-連合正規軍服[靴]
+Commissioned League Military Uniform [Shoes]
 連合から支給される正規軍用の靴。\n旧式よりもデザインが洗練されているようだ。
 
 ID=262031601
@@ -83255,7 +83255,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_HairAcc02_16
 0
 0
 0
-連合正規軍服[将校帽子]
+Commissioned League Military Uniform [Hat]
 連合から支給される正規軍用の将校帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=262031001
@@ -83265,7 +83265,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Back_10
 0
 0
 0
-連合正規軍服[通信カバン]
+Commissioned League Military Uniform [Bag]
 連合から支給される正規軍用の通信カバン。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=263030701
@@ -83535,7 +83535,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！
 
 ID=263110801
@@ -83545,7 +83545,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！
 
 ID=263111101
@@ -83575,7 +83575,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。
 
 ID=263120801
@@ -83615,7 +83615,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_Pajama_Costume03_09
 0
 0
 0
-パジャマ[衣装][B]
+Pajamas [Outfit B]
 着ると睡魔に襲われるパジャマ。\nもうこのまま寝てしまいたい。
 
 ID=263211201
@@ -83625,7 +83625,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_Pajama_Shoes_12
 0
 0
 0
-パジャマ[靴][B]
+Pajamas [Slippers B]
 室内用のスリッパ。トイレには履いて行かないこと。
 
 ID=261090701
@@ -83645,7 +83645,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalTop2_Costume01_07
 0
 0
 0
-チェックシャツ
+Check Shirt
 どこにでもありそうで、組み合わせが難しい。\nセンスが問われる一着。
 
 ID=261110701
@@ -83655,7 +83655,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalTop3_Costume01_07
 0
 0
 0
-ストライプTシャツ
+Striped T-Shirt
 THE無難。周りが奇抜なコーディネートばかりなら、\n逆に斬新かも？
 
 ID=261120801
@@ -83665,7 +83665,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalBottom1_Costume02_08
 0
 0
 0
-アイボリースキニージーンズ
+Ivory Skinny Jeans
 アイボリーのスキニージーンズ。\nパッと見には服を着ていないようにも見えるかも…？
 
 ID=261130801
@@ -83685,7 +83685,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalBottom3_Costume02_08
 0
 0
 0
-ブラックスラックス
+Black Slacks
 上手く着こなせばファッションリーダー、\n失敗すると残念な人に…。洗練さをアピールしよう。
 
 ID=261142701
@@ -83695,7 +83695,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalBottom3_Costume02_08
 0
 0
 0
-ブラックスラックス
+Black Slacks
 上手く着こなせばファッションリーダー、\n失敗すると残念な人に…。洗練さをアピールしよう。
 
 ID=261150101
@@ -83705,7 +83705,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalHairAcc1_HairAcc01_01
 0
 0
 0
-緑の新芽
+Green Sprouts
 力強い緑の新芽。\n頭で栽培してると思われそう。
 
 ID=261160101
@@ -83715,7 +83715,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalHairAcc2_HairAcc01_01
 0
 0
 0
-星バンド
+Star Hairband
 クリスマスツリーの飾りのような星がついている。\n可愛さはUPするが、似合う人は限られそうだ。
 
 ID=261170101
@@ -83735,7 +83735,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalHairAcc4_HairAcc01_01
 0
 0
 0
-ミニ傘
+Miniature Umbrella
 カクテルにでも挿した方が良さそう。\n頭に挿しても、雨が降ったら濡れるに違いない。
 
 ID=261190101
@@ -83745,7 +83745,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalHairAcc5_HairAcc01_01
 0
 0
 0
-キングリボン
+King Ribbon
 大きなリボン。男性が着用した場合、\n何とも言えない雰囲気になりそう。
 
 ID=261200301
@@ -83755,7 +83755,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalEyes1_EyeAcc01_03
 0
 0
 0
-ハートグラス
+Heart-Styled Glasses
 ハート柄の眼鏡。\n人によっては変わり者にみられてしまうかも…？
 
 ID=261210301
@@ -83765,7 +83765,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalEyes2_EyeAcc01_03
 0
 0
 0
-Star Glass
+Star Glasses
 星柄の眼鏡。\nこれをかけて外出するとしたら…遊園地かな？
 
 ID=261220301
@@ -83775,7 +83775,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalEyes3_EyeAcc01_03
 0
 0
 0
-知性派眼鏡
+Intellectual Glasses
 巨大な陰謀を企てているような雰囲気を出す眼鏡。\nキラリと光るレンズが切れ者の証。
 
 ID=261230301
@@ -83785,7 +83785,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalEyes4_EyeAcc01_03
 0
 0
 0
-スクエアグラス
+Square-Styled Glasses
 鋭い直角が特徴的なデザインの眼鏡。\n堅物に見える？
 
 ID=261240301
@@ -83805,7 +83805,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalHip1_Tail_13
 0
 0
 0
-ブラウンポーチ
+Brown Pouch
 高級皮を素材にしたポーチ。\nシンプルで機能的なフォルムが人気。
 
 ID=261261301
@@ -83815,7 +83815,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalHip2_Tail_13
 0
 0
 0
-円筒形ポーチ
+Cylindrical Pouch
 缶ジュースを入れるポーチ。\n飲み残しを入れると、おしりが大惨事になるかも？
 
 ID=261271301
@@ -83825,7 +83825,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalHip3_Tail_13
 0
 0
 0
-ドリンクポーチ
+Drinking Pouch
 缶ジュースを入れるポーチ。\n飲み残しを入れると、おしりが大惨事になるかも？
 
 ID=261281301
@@ -83835,7 +83835,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalHip4_Tail_13
 0
 0
 0
-紙束
+Bundle of Paper
 重要な伝達事項や地図が記してありそうな紙の束。\nだが、実際は大したことは書かれていない。
 
 ID=261291301
@@ -83845,7 +83845,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalHip5_Tail_13
 0
 0
 0
-ニットポーチ
+Hand-knitted Pouch
 ニット素材のポーチ。\n重い物を入れると、簡単に伸びてしまいそうだ。
 
 ID=261300501
@@ -83865,7 +83865,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_AchieveItem2_Tail_13
 0
 0
 0
-メディボックスポーチ
+Medibox Pouch
 メディボックスを持ち運びできるポーチ。\nこれでいつでも治療できる。
 
 ID=261320101
@@ -94595,8 +94595,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Modern Casual [Coat] - Sealed
-Contains Modern Casual [Coat].
+Modern Casual [Top] - Sealed
+Contains Modern Casual [Top].
 
 ID=863030801
 Icon/Item/Function/Package/PackageBox
@@ -94855,8 +94855,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Coat] - Sealed
-Contains Merchant Uniform [Coat].
+Merchant Uniform [Top] - Sealed
+Contains Merchant Uniform [Top].
 
 ID=863110801
 Icon/Item/Function/Package/PackageBox
@@ -94895,8 +94895,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Coat] - Sealed
-Contains Old-Fashioned Military Uniform [Coat].
+Old-Fashioned Military Uniform [Top] - Sealed
+Contains Old-Fashioned Military Uniform [Top].
 
 ID=863120801
 Icon/Item/Function/Package/PackageBox
@@ -96135,8 +96135,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[帽子]-未開封
-クリスマスルック[帽子]が入っている。
+Christmas Look [Hat] - Sealed
+Contains Christmas Look [Hat].
 
 ID=813490901
 Icon/Item/Function/Package/PackageBox
@@ -96145,8 +96145,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[衣装]-未開封
-クリスマスルック[衣装]が入っている。
+Christmas Look [Costume] - Sealed
+Contains Christmas Look [Costume].
 
 ID=813490501
 Icon/Item/Function/Package/PackageBox
@@ -96155,8 +96155,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[手袋]-未開封
-クリスマスルック[手袋]が入っている。
+Christmas Look [Gloves] - Sealed
+Contains Christmas Look [Gloves].
 
 ID=813491101
 Icon/Item/Function/Package/PackageBox
@@ -96165,8 +96165,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[タイツ]-未開封
-クリスマスルック[タイツ]が入っている。
+Christmas Look [Tights] - Sealed
+Contains Christmas Look [Tights].
 
 ID=813491201
 Icon/Item/Function/Package/PackageBox
@@ -96175,8 +96175,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[靴]-未開封
-クリスマスルック[靴]が入っている。
+Christmas Look [Shoes] - Sealed
+Conatins Christmas Look [Shoes].
 
 ID=823490101
 Icon/Item/Function/Package/PackageBox
@@ -96185,8 +96185,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[帽子]-未開封
-クリスマスルック[帽子]が入っている。
+Christmas Look [Hat] - Sealed
+Contains Christmas Look [Hat].
 
 ID=823490901
 Icon/Item/Function/Package/PackageBox
@@ -96195,8 +96195,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[衣装]-未開封
-クリスマスルック[衣装]が入っている。
+Christmas Look [Costume] - Sealed
+Contains Christmas Look [Costume].
 
 ID=823490501
 Icon/Item/Function/Package/PackageBox
@@ -96205,8 +96205,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[手袋]-未開封
-クリスマスルック[手袋]が入っている。
+Christmas Look [Gloves] - Sealed
+Contains Christmas Look [Gloves].
 
 ID=823491201
 Icon/Item/Function/Package/PackageBox
@@ -96215,8 +96215,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[靴]-未開封
-クリスマスルック[靴]が入っている。
+Christmas Look [Shoes] - Sealed
+Conatins Christmas Look [Shoes].
 
 ID=833560101
 Icon/Item/Function/Package/PackageBox
@@ -96225,8 +96225,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[帽子]-未開封
-クリスマスルック[帽子]が入っている。
+Christmas Look [Hat] - Sealed
+Contains Christmas Look [Hat].
 
 ID=833560901
 Icon/Item/Function/Package/PackageBox
@@ -96235,8 +96235,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[衣装]-未開封
-クリスマスルック[衣装]が入っている。
+Christmas Look [Costume] - Sealed
+Contains Christmas Look [Costume].
 
 ID=833560501
 Icon/Item/Function/Package/PackageBox
@@ -96245,8 +96245,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[手袋]-未開封
-クリスマスルック[手袋]が入っている。
+Christmas Look [Gloves] - Sealed
+Contains Christmas Look [Gloves].
 
 ID=833561201
 Icon/Item/Function/Package/PackageBox
@@ -96255,8 +96255,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[靴]-未開封
-クリスマスルック[靴]が入っている。
+Christmas Look [Shoes] - Sealed
+Conatins Christmas Look [Shoes].
 
 ID=843470901
 Icon/Item/Function/Package/PackageBox
@@ -96265,8 +96265,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[衣装]-未開封
-クリスマスルック[衣装]が入っている。
+Christmas Look [Costume] - Sealed
+Contains Christmas Look [Costume].
 
 ID=843470101
 Icon/Item/Function/Package/PackageBox
@@ -96275,8 +96275,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[帽子]-未開封
-クリスマスルック[帽子]が入っている。
+Christmas Look [Hat] - Sealed
+Contains Christmas Look [Hat].
 
 ID=843470501
 Icon/Item/Function/Package/PackageBox
@@ -96285,8 +96285,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[手袋]-未開封
-クリスマスルック[手袋]が入っている。
+Christmas Look [Gloves] - Sealed
+Contains Christmas Look [Gloves].
 
 ID=843471201
 Icon/Item/Function/Package/PackageBox
@@ -96295,8 +96295,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[靴]-未開封
-クリスマスルック[靴]が入っている。
+Christmas Look [Shoes] - Sealed
+Conatins Christmas Look [Shoes].
 
 ID=853470901
 Icon/Item/Function/Package/PackageBox
@@ -96305,8 +96305,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[衣装]-未開封
-クリスマスルック[衣装]が入っている。
+Christmas Look [Costume] - Sealed
+Contains Christmas Look [Costume].
 
 ID=853470101
 Icon/Item/Function/Package/PackageBox
@@ -96315,8 +96315,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[帽子]-未開封
-クリスマスルック[帽子]が入っている。
+Christmas Look [Hat] - Sealed
+Contains Christmas Look [Hat].
 
 ID=853470501
 Icon/Item/Function/Package/PackageBox
@@ -96325,8 +96325,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[手袋]-未開封
-クリスマスルック[手袋]が入っている。
+Christmas Look [Gloves] - Sealed
+Contains Christmas Look [Gloves].
 
 ID=853471201
 Icon/Item/Function/Package/PackageBox
@@ -96335,8 +96335,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[靴]-未開封
-クリスマスルック[靴]が入っている。
+Christmas Look [Shoes] - Sealed
+Conatins Christmas Look [Shoes].
 
 ID=863480901
 Icon/Item/Function/Package/PackageBox
@@ -96345,8 +96345,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[衣装]-未開封
-クリスマスルック[衣装]が入っている。
+Christmas Look [Costume] - Sealed
+Contains Christmas Look [Costume].
 
 ID=863480101
 Icon/Item/Function/Package/PackageBox
@@ -96355,8 +96355,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[帽子]-未開封
-クリスマスルック[帽子]が入っている。
+Christmas Look [Hat] - Sealed
+Contains Christmas Look [Hat].
 
 ID=863480501
 Icon/Item/Function/Package/PackageBox
@@ -96365,8 +96365,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[手袋]-未開封
-クリスマスルック[手袋]が入っている。
+Christmas Look [Gloves] - Sealed
+Contains Christmas Look [Gloves].
 
 ID=863481201
 Icon/Item/Function/Package/PackageBox
@@ -96375,8 +96375,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[靴]-未開封
-クリスマスルック[靴]が入っている。
+Christmas Look [Shoes] - Sealed
+Conatins Christmas Look [Shoes].
 
 ID=836000311
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
@@ -96385,7 +96385,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-クリスマスアバターセット
+Christmas Avatar Set
 [アバターパッケージ]\n\n2016年度のクリスマス衣装が入っている。\nまさかこれは…サンタさんからのプレゼント！？\nハル専用\n\n-構成品-\nクリスマスルック[帽子]X1\nクリスマスルック[衣装]X1\nクリスマスルック[靴]X1\nクリスマスルック[手袋]X1\nクリスマスルック[タイツ]X1
 
 ID=836000312
@@ -96395,7 +96395,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-クリスマスアバターセット
+Christmas Avatar Set
 [アバターパッケージ]\n\n2016年度のクリスマス衣装が入っている。\nまさかこれは…サンタさんからのプレゼント！？\nアーウィン専用\n\n-構成品-\nクリスマスルック[帽子]X1\nクリスマスルック[衣装]X1\nクリスマスルック[靴]X1\nクリスマスルック[手袋]X1
 
 ID=836000313
@@ -96405,7 +96405,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-クリスマスアバターセット
+Christmas Avatar Set
 [アバターパッケージ]\n\n2016年度のクリスマス衣装が入っている。\nまさかこれは…サンタさんからのプレゼント！？\nリリー専用\n\n-構成品-\nクリスマスルック[帽子]X1\nクリスマスルック[衣装]X1\nクリスマスルック[靴]X1\nクリスマスルック[手袋]X1
 
 ID=836000314
@@ -96415,7 +96415,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_D
 0
 0
 0
-クリスマスアバターセット
+Christmas Avatar Set
 [アバターパッケージ]\n\n2016年度のクリスマス衣装が入っている。 \nまさかこれは…サンタさんからのプレゼント！？\nジン専用\n\n-構成品-\nクリスマスルック[帽子]X1\nクリスマスルック[衣装]X1\nクリスマスルック[靴]X1\nクリスマスルック[手袋]X1
 
 ID=836000315
@@ -96425,7 +96425,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-クリスマスアバターセット
+Christmas Avatar Set
 [アバターパッケージ]\n\n2016年度のクリスマス衣装が入っている。\n まさかこれは…サンタさんからのプレゼント！？\nステラ専用\n\n-構成品-\nクリスマスルック[帽子]X1\nクリスマスルック[衣装]X1\nクリスマスルック[靴]X1\nクリスマスルック[手袋]X1
 
 ID=836000316
@@ -96435,7 +96435,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F
 0
 0
 0
-クリスマスアバターセット
+Christmas Avatar Set
 [アバターパッケージ]\n\n2016年度のクリスマス衣装が入っている。\n まさかこれは…サンタさんからのプレゼント！？\nイリス専用\n\n-構成品-\nクリスマスルック[帽子]X1\nクリスマスルック[衣装]X1\nクリスマスルック[靴]X1\nクリスマスルック[手袋]X1
 
 ID=836000340
