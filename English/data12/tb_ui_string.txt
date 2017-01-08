@@ -221,7 +221,7 @@ ID=122
 Haircut
 
 ID=123
-Eye
+Eyes
 
 ID=124
 Mouth
@@ -338,7 +338,7 @@ ID=183
 Avatar [Head]
 
 ID=184
-Avatar [Eye]
+Avatar [Eyes]
 
 ID=185
 Avatar [Mouth]
@@ -455,7 +455,7 @@ ID=333
 {0} was used.
 
 ID=334
-{0} was purchased for {1}.
+{0} was bought for {1}.
 
 ID=335
 Are you sure that you want to buy the selected items?\nThe selected items cannot be equipped by you.
@@ -641,7 +641,7 @@ ID=413
 Dismantle
 
 ID=414
-Equip Socket
+Socket
 
 ID=415
 Repair
@@ -1688,7 +1688,7 @@ ID=867
 Head
 
 ID=868
-Eye
+Eyes
 
 ID=869
 Mouth
@@ -2510,10 +2510,10 @@ ID=2213
 Zenny
 
 ID=2214
-Please enter a title.
+Please enter a title
 
 ID=2215
-Please enter some text.
+No content
 
 ID=2216
 Sender
@@ -2915,7 +2915,7 @@ ID=3068
 You can register up to 5 concurrent items only.
 
 ID=3069
-You purchased {1} in {0}'s personal shop.
+You bought {1} in {0}'s personal shop.
 
 ID=3070
 {0} has been sold for {1} Zenny.
@@ -3671,7 +3671,7 @@ ID=5900
 <font color='#FFFFFF' size='30'>TIP: </font>When using a bathtub/shower booth, currently worn underwear will be shown...!!
 
 ID=5901
-<font color='#FFFFFF' size='30'>TIP: </font>At the Item Mall, you can purchase <font color='#00D8FF'>[Fashion Items]</font> to change the outward look of your character.
+<font color='#FFFFFF' size='30'>TIP: </font>At the Item Mall, you can buy <font color='#00D8FF'>[Fashion Items]</font>, they change the outward look of your character.
 
 ID=5902
 <font color='#FFFFFF' size='30'>TIP: </font>If your character reaches 0 <color='#00D8FF'>[HP]</font>, it will become incapacitated and unable to fight. Be careful!
@@ -4043,7 +4043,7 @@ ID=8300
 Login Check
 
 ID=8301
-Cumulative Days
+Day Counter
 
 ID=8302
 Reward
@@ -4067,7 +4067,7 @@ ID=8308
 Locked
 
 ID=8309
-You can earn reward when a specific play time quota is achieved for the day.
+You can earn reward when you reach a specific play time quota.
 
 ID=8310
 Login Check Reward
@@ -4184,7 +4184,7 @@ ID=8347
 Daily Login Reward Check
 
 ID=8348
-You can earn rewards when you log in everyday.
+Each day you can earn a reward when you login.
 
 ID=8400
 Dead
@@ -5552,7 +5552,7 @@ ID=16862
 Trading Fee
 
 ID=16863
-Registration fee 
+Registration Fee 
 
 ID=16864
 Recent Item Entry
@@ -5624,10 +5624,10 @@ ID=18019
 You cannot dismantle more than 10 items in the same time.
 
 ID=18020
-You can trade up to 10 items at a time.
+Displays the last 10 sold items.
 
 ID=18021
-After the sale is over the charge fee will be {0}% of the selling price.
+A fee of {0}% will be applied after the item is sold.
 
 ID=18022
 Your item is a <font color='#A566FF'>High Valued Item</font>.  You will acquire {0} upon selling it. Do you wish to sell it?
@@ -5825,7 +5825,7 @@ ID=18179
 Restorations
 
 ID=18180
-{0} brooch sockets
+{0} Brooch sockets
 
 ID=18181
 Brooch Details
@@ -7907,7 +7907,7 @@ ID=24281
 Hat
 
 ID=24282
-Eye 1
+Eyes 1
 
 ID=24283
 Mouth
@@ -7943,7 +7943,7 @@ ID=24293
 Eyes & Mouth Set
 
 ID=24294
-Hair & Hat & Eye Set
+Hair & Hat & Eyes Set
 
 ID=24295
 Top & Back Set
@@ -8237,7 +8237,7 @@ ID=24561
 Hat
 
 ID=24562
-Eye
+Eyes
 
 ID=24563
 Mouth
@@ -8273,7 +8273,7 @@ ID=24573
 Eyes & Mouth Set
 
 ID=24574
-Hair & Hat & Eye Set
+Hair & Hat & Eyes Set
 
 ID=24575
 Top & Back Set
@@ -8414,7 +8414,7 @@ ID=24620
 Head
 
 ID=24621
-Eye
+Eyes
 
 ID=24622
 Mouth
@@ -8618,7 +8618,7 @@ ID=24778
 Sub-Weapon
 
 ID=24779
-Head
+H Gear
 
 ID=24780
 Shoulder
@@ -11990,7 +11990,7 @@ ID=33507
 Blessings of the Spider Queen
 
 ID=33508
-Eye of the Silent Attendant
+Eyes of the Silent Attendant
 
 ID=33509
 Strength of a Vacant Heart
@@ -12212,13 +12212,13 @@ ID=34025
 The crops have been fertilized.
 
 ID=34026
-The crops have been placed in a growth-inducing area.
+The crops are already fertilized.
 
 ID=34027
 The crops have already received all the possible growth-related bonuses.
 
 ID=34028
-The crops cannot have growth-promoting effects applied due to its state.
+The crops cannot be fertilized.
 
 ID=34029
 Do you wish to stop harvesting {0}?\n(All invested materials will not be returned)
@@ -13277,16 +13277,16 @@ ID=40249
 You will incur damage from leaving the arena by the magnetic field.
 
 ID=40250
-When the controller is operating, 1 to 15 enemies will appear.
+After activating the controller, 1 to 15 enemies will appear.
 
 ID=40251
-When the Heavy Cell appears, movement slowing areas will appear on the ground.
+When Heavy Cell appears, it will generate an area that reduces Movement Speed.
 
 ID=40252
 The main EMP will attack everything; it will be activated when you approach it.
 
 ID=40253
-Four devices will spew out an extremely poisonous gas at random intervals.
+The 4 devices will emit a very powerful poisonous gas at random intervals.
 
 ID=40254
 Use the controller device to summon enemies.
@@ -13406,7 +13406,7 @@ ID=40292
 Every 15 seconds, magnetic waves may appear at various areas and damage the player.
 
 ID=40293
-Glutton has appeared. After defeating glutton, you can earn a variety of rewards.
+Glutton has appeared.\nYou can earn various rewards by defeating glutton.
 
 ID=40294
 Al Lucy is operating a defensive device.\nStop the device and defeat all enemies to proceed.
@@ -13427,7 +13427,7 @@ ID=40299
 The magnetic fields have been deactivated.
 
 ID=40300
-Each Steel Grave challenge is made up of 5 stages. You can challenge it up to 3 times per day
+Each Steel Grave challenge is made up of 5 stages. You can challenge it up to 3 times a day.
 
 ID=40301
 Operate the controller to spawn the enemies.
@@ -15767,13 +15767,13 @@ ID=45007
 Reset
 
 ID=45008
-Buy All Gifts
+Gift All
 
 ID=45009
 Purchase All
 
 ID=45010
-Purchased Soulcoin
+Purchase Soulcoin
 
 ID=45011
 Buy All
@@ -15806,7 +15806,7 @@ ID=45020
 NEW
 
 ID=45021
-Items Purchased
+Purchase Items
 
 ID=45022
 Current Balance:
@@ -15830,7 +15830,7 @@ ID=45028
 d
 
 ID=45029
-Sold Units
+Quantity
 
 ID=45030
 Unit
@@ -15842,7 +15842,7 @@ ID=45032
 Save Set
 
 ID=45033
-You can save your current appearance.
+Save your current appearance in a set.
 
 ID=45034
 Select Set
@@ -15857,10 +15857,10 @@ ID=45037
 Cancel
 
 ID=45038
-Please enter a name for the set.
+Please enter a set name.
 
 ID=45039
-Save in Empty Slot.
+Save to an empty slot
 
 ID=45040
 Wardrobe Sets
@@ -15872,7 +15872,7 @@ ID=45042
 Delete
 
 ID=45043
-Purchased Soulcoin
+Purchase Soulcoin
 
 ID=45044
 Buy
@@ -15890,7 +15890,7 @@ ID=45048
 Friends
 
 ID=45049
--Empty-
+- Empty -
 
 ID=45050
 Remaining:
@@ -15938,25 +15938,25 @@ ID=45106
 No items were selected for purchasing.
 
 ID=45107
-No items in the shopping cart.
+There are no items in the shopping cart.
 
 ID=45108
 Please enter a name.
 
 ID=45109
-You can only save the wardrobe set for this character.
+You can save a set only for the current character.
 
 ID=45110
 No inventory slots.
 
 ID=45111
-No items have been selected.
+There are no selected items.
 
 ID=45112
-Do you want to set the item?
+Are you sure you want to apply the selected set?
 
 ID=45113
-Do you want to remove the selected item?
+Are you sure you want to remove the selected set?
 
 ID=45114
 At least 2 characters must be entered into the search query.
@@ -16751,7 +16751,7 @@ ID=49723
 The PIN is a unique 6-digit number.
 
 ID=49724
-PIN Prompt
+Incorrect PIN
 
 ID=49725
 The PIN you have entered is incorrect.\nTry again.
@@ -16769,7 +16769,7 @@ ID=49729
 The trading PIN must be a unique 4-digit number.
 
 ID=49730
-Invalid trading PIN
+Incorrect trading PIN
 
 ID=49731
 Trading PIN does not match.\nTry again.
@@ -16787,7 +16787,7 @@ ID=49735
 An account password was not set.
 
 ID=49736
-Incorrect password.
+Incorrect password
 
 ID=49737
 You entered the wrong password.\nTry again.
@@ -17516,13 +17516,13 @@ ID=52273
 The item no longer exists, you cannot dismantle it.
 
 ID=52280
-Could not implement the socket.
+Failed to socket the socket.
 
 ID=52281
-Mismatch socket type.
+Wrong socket type.
 
 ID=52282
-Mismatched socket, insertion is not possible.
+Not possible to socket a different grade.
 
 ID=52283
 Socket is unavailable.
@@ -17534,7 +17534,7 @@ ID=52285
 Lacking required item.
 
 ID=52286
-Socketing failed.
+Failed to activate the socket.
 
 ID=52287
 Cannot speak to this NPC.
@@ -17549,19 +17549,19 @@ ID=52290
 Lacking required item.
 
 ID=52291
-Socket release failed.
+Failed to remove the socket.
 
 ID=52292
 No socket available.
 
 ID=52293
-Insufficient funds to pay socketing fees.
+Insufficient funds to remove the socket.
 
 ID=52294
 Insufficient inventory space.
 
 ID=52295
-You do not have the necessary items to remove the socket item.
+You do not have the necessary items to remove the socket.
 
 ID=52301
 Insufficient Zenny. You cannot purchase the item.
@@ -17771,7 +17771,7 @@ ID=52609
 The protection buff has already been applied.
 
 ID=52612
-You cannot use consumable items in the dungeon Steel Grave.
+Consumables cannot be used in Steel Grave.
 
 ID=52613
 There are still Steel Grave entries left.
@@ -18689,7 +18689,7 @@ ID=58213
 There is no flower pot.
 
 ID=58214
-Cannot have more Help Members.
+This crop cannot receive any more Help.
 
 ID=58215
 This flower pot was already been picked up.
@@ -18803,7 +18803,7 @@ ID=58306
 You can register up to a maximum of 10 favorite items.
 
 ID=58307
-Cannot list the item because of insufficient funds for the registration fee.
+Cannot list the item because of insufficient funds to pay the registration fee.
 
 ID=58308
 Cannot list the item because the entered price exceeds the price limit.
