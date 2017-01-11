@@ -60,7 +60,7 @@ Icon/Buff/Icon_Common_Buff_Def
 
 ID=105
 Rush Hour
-Move Speed +5% for 10 seconds.
++5% Movement Speed for 10s.
 Icon/Buff/Icon_Common_Buff_MSR
 0
 
@@ -96,7 +96,7 @@ Invincible
 
 ID=202
 Fever
-+5% Movement&Attack Speed for 10s.
++5% Movement Speed and Attack Speed for 10s.
 Icon/Buff/Icon_Common_Buff_Reg
 Enhance
 
@@ -128,7 +128,7 @@ ID=303
 Defense Mode
 Defense +10% for 10 seconds.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=304
 Nimble Hands
@@ -764,19 +764,19 @@ ID=5001
 Endless Struggle Ⅰ
 When using skills that consume SG, damage increases at a certain probability.
 Icon/Buff/Icon_Common_Buff_ATK
-Damage↑
+Damage ↑
 
 ID=5002
 Endless Struggle Ⅱ
 When using skills that consume SG, damage increases at a certain probability.
 Icon/Buff/Icon_Common_Buff_ATK
-Damage↑
+Damage ↑
 
 ID=5003
 Endless Struggle Ⅲ
 When using skills that consume SG, damage increases at a certain probability.
 Icon/Buff/Icon_Common_Buff_ATK
-Damage↑
+Damage ↑
 
 ID=5005
 Special Attack
@@ -788,25 +788,25 @@ ID=5009
 Vengeful Sword
 When damaged, damage temporarily increases.
 Icon/Buff/Icon_Common_Buff_ATK
-Damage↑
+Damage ↑
 
 ID=5011
-Fast Blade Trait A Ⅰ
+Fast Blade Attribute A Ⅰ
 Movement Speed -30%.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=5012
-Fast Blade Trait A Ⅱ
+Fast Blade Attribute A Ⅱ
 Movement Speed -40%.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=5013
-Fast Blade Trait A Ⅲ
+Fast Blade Attribute A Ⅲ
 Movement Speed -50%.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=5031
 Arena Rush Ⅰ
@@ -926,46 +926,46 @@ ID=5505
 Special Attack
 Movement Speed -30%.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=5506
 Deceleration
 Movement Speed -50%.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=5511
-Slide Step Trait A Ⅰ
+Slide Step Attribute A Ⅰ
 Movement Speed -30%.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=5512
-Slide Step Trait A Ⅱ
+Slide Step Attribute A Ⅱ
 Movement Speed -45%.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=5513
-Slide Step Trait A Ⅲ
+Slide Step Attribute A Ⅲ
 Movement Speed -75%.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=5516
-Slide Step Trait B Ⅰ
+Slide Step Attribute B Ⅰ
 HP is reduced by 1% from poisoning.
 Icon/Buff/Icon_Common_Debuff_Poison
 Poisoned
 
 ID=5517
-Slide Step Trait B Ⅱ
+Slide Step Attribute B Ⅱ
 HP is reduced by 2% from poisoning.
 Icon/Buff/Icon_Common_Debuff_Poison
 Poisoned
 
 ID=5518
-Slide Step Trait B Ⅲ
+Slide Step Attribute B Ⅲ
 HP is reduced by 5% from poisoning.
 Icon/Buff/Icon_Common_Debuff_Poison
 Poisoned
@@ -1001,85 +1001,85 @@ Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5531
-Guided Shot Trait A Ⅰ
+Guided Shot Attribute A Ⅰ
 HP is reduced by 2% from bleeding.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=5532
-Guided Shot Trait A Ⅱ
+Guided Shot Attribute A Ⅱ
 HP is reduced by 3% from bleeding.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=5533
-Guided Shot Trait A Ⅲ
+Guided Shot Attribute A Ⅲ
 HP is reduced by 4% from bleeding.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=5536
-Guided Shot Trait B Ⅰ
+Guided Shot Attribute B Ⅰ
 Defense -10% for 4 seconds.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
 
 ID=5537
-Guided Shot Trait B Ⅱ
+Guided Shot Attribute B Ⅱ
 Defense -10% for 6 seconds.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
 
 ID=5538
-Guided Shot Trait B Ⅲ
+Guided Shot Attribute B Ⅲ
 Defense -0% for 8 seconds.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
 
 ID=5541
 Sprinter Ⅰ
-Move Speed +10%
+Movement Speed +10%
 Icon/Buff/Icon_Common_Buff_MSR
-Move Speed ↑
+Movement Speed ↑
 
 ID=5542
 Sprinter Ⅱ
-Move Speed +11%
+Movement Speed +11%
 Icon/Buff/Icon_Common_Buff_MSR
-Move Speed ↑
+Movement Speed ↑
 
 ID=5543
 Sprinter Ⅲ
-Move Speed +13%
+Movement Speed +13%
 Icon/Buff/Icon_Common_Buff_MSR
-Move Speed ↑
+Movement Speed ↑
 
 ID=5544
 Sprinter Ⅳ
-Move Speed +16%
+Movement Speed +16%
 Icon/Buff/Icon_Common_Buff_MSR
-Move Speed ↑
+Movement Speed ↑
 
 ID=5545
 Sprinter Ⅴ
-Move Speed +20%
+Movement Speed +20%
 Icon/Buff/Icon_Common_Buff_MSR
-Move Speed ↑
+Movement Speed ↑
 
 ID=5551
-Sprinter Trait A Ⅰ
+Sprinter Attribute A Ⅰ
 Recover 2% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=5552
-Sprinter Trait A Ⅱ
+Sprinter Attribute A Ⅱ
 Recover 3% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=5553
-Sprinter Trait A Ⅲ
+Sprinter Attribute A Ⅲ
 +5% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
@@ -1211,55 +1211,55 @@ Icon/Buff/Icon_Common_Buff_Reg
 0
 
 ID=6011
-Grim Countdown Trait A Ⅰ
+Grim Countdown Attribute A Ⅰ
 On hit, +(35% of damage) HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6012
-Grim Countdown Trait A Ⅱ
+Grim Countdown Attribute A Ⅱ
 On hit, +(45% of damage) HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6013
-Grim Countdown Trait A Ⅲ
+Grim Countdown Attribute A Ⅲ
 On hit, +(65% of damage) HP.
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6021
-Cruel Slash Trait A Ⅰ
+Cruel Slash Attribute A Ⅰ
 Enemy defense is penetrated by 20%.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=6022
-Cruel Slash Trait A Ⅱ
+Cruel Slash Attribute A Ⅱ
 Enemy armor is penetrated by 40%.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=6023
-Cruel Slash Trait A Ⅲ
+Cruel Slash Attribute A Ⅲ
 Enemy armor is penetrated by 70%.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=6031
-Cruel Slash Trait B Ⅰ
+Cruel Slash Attribute B Ⅰ
 Critical Rate +5%.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate ↑
 
 ID=6032
-Cruel Slash Trait B Ⅱ
+Cruel Slash Attribute B Ⅱ
 Critical Rate +7%.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate ↑
 
 ID=6033
-Cruel Slash Trait B Ⅲ
+Cruel Slash Attribute B Ⅲ
 Critical Rate +10%.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical Rate ↑
@@ -1298,19 +1298,19 @@ ID=6051
 Special Attack
 Movement Speed -30%.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=6052
 Special Attack
 Movement Speed -40%.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=6053
 Special Attack
 Movement Speed -50%.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=6061
 Passive
@@ -1434,33 +1434,33 @@ Defense↓
 
 ID=6526
 Decade Pulse
-Move speed reduced by 10%.
+-10% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=6527
 Decade Pulse Ⅱ
-Move speed reduced by 10%.
+-10% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=6528
 Decade Pulse Ⅲ
-Move speed reduced by 10%.
+-10% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=6529
 Decade Pulse Ⅳ
-Move speed reduced by 10%.
+-10% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=6530
 Decade Pulse Ⅴ
-Move speed reduced by 10%.
+-10% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=6531
 Decade Pulse Ⅰ
@@ -1592,25 +1592,25 @@ ID=6561
 Trouble Pass
 Damage -10%.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=6562
 Trouble Path Ⅰ
 Defense +60
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=6563
 Trouble Path Ⅱ
 Defense +120
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=6564
 Trouble Path Ⅲ
 Defense +250
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=6566
 Beads Play Ⅰ
@@ -1688,46 +1688,46 @@ ID=7026
 Spirit Surge Ⅰ
 For a certain amount of time, Defense +25%
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=7027
 Spirit Surge Ⅱ
 For a certain amount of time, Defense +30%
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=7028
 Spirit Surge Ⅲ
 For a certain amount of time, Defense +40%
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=7029
 Spirit Surge Ⅳ
 For a certain amount of time, Defense +50%
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=7030
 Spirit Surge Ⅴ
 For a certain amount of time, Defense +70%
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=7031
-Spirit Surge Trait A Ⅰ
+Spirit Surge Attribute A Ⅰ
 -10% Evasion while excited.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=7032
-Spirit Surge Trait A Ⅱ
+Spirit Surge Attribute A Ⅱ
 -20% Evasion while excited.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=7033
-Spirit Surge Trait A Ⅲ
+Spirit Surge Attribute A Ⅲ
 -40% Evasion while excited.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
@@ -1766,31 +1766,31 @@ ID=7046
 Fusion Armor Ⅰ
 For a certain amount of time, Def +10%
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=7047
 Fusion Armor Ⅱ
 For a certain amount of time, Def +14%
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=7048
 Fusion Armor Ⅲ
 For a certain amount of time, Def +16%
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=7049
 Fusion Armor Ⅳ
 For a certain amount of time, Def +20%
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=7050
 Fusion Armor Ⅴ
 For a certain amount of time, Defense +30%
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=7060
 Heavy Drop
@@ -2270,25 +2270,25 @@ ID=21011
 Toughen
 Defense +20% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=21012
 Toughen
 Defense +30% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=21013
 Toughen
 Defense +40% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=21014
 Toughen
 Defense +20% for 3 minutes.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=21021
 Swiften
@@ -2310,21 +2310,21 @@ Attack Speed ↑
 
 ID=21031
 Quicken
-Move Speed +2% for 5 minutes.
++2% Movement Speed for 5 minutes.
 Icon/Buff/Icon_Common_Buff_MSR
-Move Speed ↑
+Movement Speed ↑
 
 ID=21032
 Quicken
-Move Speed +4% for 5 minutes.
++4% Movement Speed for 5 minutes.
 Icon/Buff/Icon_Common_Buff_MSR
-Move Speed ↑
+Movement Speed ↑
 
 ID=21033
 Quicken
-Move Speed +6% for 5 minutes.
++6% Movement Speed for 5 minutes.
 Icon/Buff/Icon_Common_Buff_MSR
-Move Speed ↑
+Movement Speed ↑
 
 ID=21041
 Insane
@@ -2372,7 +2372,7 @@ ID=22002
 Toughen
 Defense +50% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=22003
 Swiften
@@ -2429,16 +2429,16 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP, SG Recovery
 
 ID=22012
-HP↑
+HP ↑
 Increase HP by 30% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP↑
+HP ↑
 
 ID=22013
-HP↑
+HP ↑
 +HP by 50% for 5 minutes.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP↑
+HP ↑
 
 ID=22014
 Crazy
@@ -2462,13 +2462,13 @@ ID=25002
 Toughen
 Defense +30% for 1 minute.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=25003
 Quicken
-Move Speed +7% for 1 minute.
++7% Movement Speed for 1 minute.
 Icon/Buff/Icon_Common_Buff_MSR
-Move Speed ↑
+Movement Speed ↑
 
 ID=25004
 +HP
@@ -2480,7 +2480,7 @@ ID=30001
 Kill Command
 Attack +10% for 20 seconds.
 Icon/Buff/Icon_Common_Buff_ATK
-Attack↑
+Attack ↑
 
 ID=30002
 Poisoned
@@ -2498,19 +2498,19 @@ ID=30004
 Slowed
 Movement Speed -20% for 5 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=30005
 Slowed
 Movement Speed -50% for 5 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=30006
 Slowed
 Movement Speed -80% for 5 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=30007
 Confused
@@ -2534,7 +2534,7 @@ ID=30010
 Shadow of Revenge
 Defense +100% for 30 seconds.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=30011
 Jack the King
@@ -2642,7 +2642,7 @@ ID=30042
 Sticky Mucus
 Movemend speed reduce by 60%
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=30043
 -
@@ -2690,25 +2690,25 @@ ID=30050
 Slowed
 Movement Speed -50% for 5 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=30051
 Slowed
 Movement speed -50% for 2 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=30052
 Slowed
 Movement speed -60% for 3 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=30053
 Slowed
 Movement speed -80% for 1 second.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=30054
 HP↓
@@ -2717,10 +2717,10 @@ HP↓
 HP↓
 
 ID=30055
-Move Speed ↓
+Movement Speed ↓
 Movement Speed decreased by 50%: 1 second interval duration
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=30056
 HP↓
@@ -2741,10 +2741,10 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 HP↓
 
 ID=30059
-Move Speed ↓
+Movement Speed ↓
 Movement Speed decreased by 50%: 1 second interval duration
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=30060
 HP↓
@@ -2759,10 +2759,10 @@ HP↓
 HP↓
 
 ID=30062
-Move Speed ↓
+Movement Speed ↓
 Movement Speed -80% for 3 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=30063
 Turbulent Waves/Tenacious
@@ -2969,10 +2969,10 @@ Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=30474
-Move Speed ↑
+Movement Speed ↑
 +5% Movement Speed for 60s.
 Icon/Buff/Icon_Common_Buff_MSR
-Move Speed ↑
+Movement Speed ↑
 
 ID=31001
 -
@@ -3215,10 +3215,10 @@ HP↓
 HP↓
 
 ID=35312
-Move Speed ↓
+Movement Speed ↓
 Movement Speed -40% for 5 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=35313
 HP↓
@@ -3239,10 +3239,10 @@ HP↓
 HP↓
 
 ID=35400
-Move Speed ↓
+Movement Speed ↓
 Movement Speed -50% for 5 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=37300
 HP↓
@@ -3308,7 +3308,7 @@ ID=39009
 Acceleration
 Movement Speed +20% for 10 seconds.
 Icon/Buff/Icon_Common_Buff_MSR
-Move Speed ↑
+Movement Speed ↑
 
 ID=39010
 Sudden Attack
@@ -3324,9 +3324,9 @@ Paralyzed
 
 ID=39012
 Slowed
-Reduced move speed for 10 seconds.
+Reduced Movement Speed for 10 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=39013
 Dull
@@ -3372,9 +3372,9 @@ Paralyzed
 
 ID=39024
 Slowed
-Movement Speed reduce for 1 hour.
+Reduced Movement Speed for 1 hour.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=39025
 Surprise Attack
@@ -3386,7 +3386,7 @@ ID=39026
 Steel Wall
 Increased Defense.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=39027
 Recover
@@ -3434,7 +3434,7 @@ ID=50021
 Hard Skin Lv1
 When hit, 5% chance of +50% Defense for 1s.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=50031
 Lethal Blow Lv1
@@ -3458,7 +3458,7 @@ ID=50061
 Dashing Sprint Lv1
 10% chance of +10% Movement Speed at fixed time intervals for 2s.
 Icon/Buff/Icon_Common_Buff_MSR
-Move Speed ↑
+Movement Speed ↑
 
 ID=50071
 Mind's Eye Lv1
@@ -3506,7 +3506,7 @@ ID=50161
 Victor's Law Lv1
 On hit, 1% chance of +20% Accuracy for 2s.
 Icon/Buff/Icon_Common_Buff_Accuracy
-Accuracy↑
+Accuracy ↑
 
 ID=50171
 Unleashed Evil Eye Lv1
@@ -3530,7 +3530,7 @@ ID=50201
 Keen Macho Lv1
 When hit, 5% chance of +20% Evasion for 2s.
 Icon/Buff/Icon_Common_Buff_Accuracy
-Evasion↑
+Evasion ↑
 
 ID=50211
 Vengeful Ghost Lv1
@@ -3560,13 +3560,13 @@ ID=53021
 Hard Skin Ⅰ
 When hit, 5% chance of +50% Defense for 1s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53022
 Hard Skin Ⅱ
 When hit, 10% chance of +50% Defense for 1s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53023
 Lethal Blow Ⅰ
@@ -3602,13 +3602,13 @@ ID=53042
 Scampering Kiss Ⅰ
 Each second, 10% chance of +10% Movement Speed for 2 sec. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Move Speed ↑
+Movement Speed ↑
 
 ID=53043
 Scampering Kiss Ⅱ
 Every second, 20% chance of +10% Movement Speed for 2s. (13s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Move Speed ↑
+Movement Speed ↑
 
 ID=53051
 Mind's Eye Ⅰ
@@ -3698,13 +3698,13 @@ ID=53123
 Victor's Law Ⅰ
 On hit, 4% chance of +200 Accuracy for 2s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53131
 Victor's Law Ⅱ
 On hit, 5% chance of +250 Accuracy for 2s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53132
 Unleashed Evil Eye Ⅰ
@@ -3722,13 +3722,13 @@ ID=53141
 Gallus' Wrath Ⅰ
 When hit, 5% chance of +200 Evasion for 2s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Evasion↑
+Evasion ↑
 
 ID=53142
 Gallus' Wrath Ⅱ
 When hit, 5% chance of +200 Evasion for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Evasion↑
+Evasion ↑
 
 ID=53143
 Keen Macho Ⅰ
@@ -3764,19 +3764,19 @@ ID=53162
 Mountain-like Ⅰ
 Every second, 30% chance of +100% Defense and -20% Attack for 10s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53163
 Crimson Stigma Ⅰ
 When critically hit, +500 Accuracy for 3s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53171
 Crimson Stigma Ⅱ
 When critically hit, +500 Accuracy for 3s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53172
 Extraordinary Commander's Dignity
@@ -3830,13 +3830,13 @@ ID=53211
 Bird Monster's Wing Ⅰ
 On hit, 15% chance of +50% Defense for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53212
 Bird Monster's Wing Ⅱ
 On hit, 20% chance of +50% Defense for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53213
 Material Conversion Ⅰ
@@ -3908,13 +3908,13 @@ ID=53283
 Maximized Shield Ⅰ
 When hit, +100% Defense, -70% Attack for 2s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53291
 Maximized Shield Ⅱ
 When hit, +100% Defense, -50% Attack for 4s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53292
 Fuel Saving System Ⅰ
@@ -3962,25 +3962,25 @@ ID=53313
 Weak but Precise Ⅰ
 When hit, 20% chance of +1000 Accuracy, -20% Attack for 5s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53321
 Weak but Precise Ⅱ
 When hit, 20% chance of +1000 Accuracy, -15% Attack for 5s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53322
 Breaking Message Ⅰ
 On critical hit, 5% chance of +100% Defense for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53323
 Breaking Message Ⅱ
 On critical hit, 10% chance of +100% Defense for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53331
 Critical Power Ⅰ
@@ -4010,7 +4010,7 @@ ID=53352
 Escape Notice Ⅰ
 On SA Break, 50% chance of +50% Movement Speed for 3s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Move Speed ↑
+Movement Speed ↑
 
 ID=53353
 Business Energy Ⅰ
@@ -4022,7 +4022,7 @@ ID=53361
 Ready... Fire!! Ⅰ
 Every 1 minute, Accuracy +200 for 10 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53362
 Pain Endurance Ⅰ
@@ -4082,7 +4082,7 @@ ID=53412
 High Heels Mood Ⅰ
 On jump, +10% Movement speed for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Move Speed ↑
+Movement Speed ↑
 
 ID=53413
 Messenger's Flower Ⅰ
@@ -4106,19 +4106,19 @@ ID=53423
 Hit & Away Ⅰ
 On evaded hit, 30% chance of +100 Evasion for 5s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Evasion↑
+Evasion ↑
 
 ID=53431
 Impenetrable Armor Ⅰ
 On ally skill use, 40% chance of +20% Defense for 5s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53432
 Impenetrable Armor Ⅱ
 On ally skill use, 40% chance of +30% Defense for 5s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53433
 Blown Off Ⅰ
@@ -4136,13 +4136,13 @@ ID=53442
 Combat Type Analysis Ⅰ
 On skill use, 10% chance of +500 Accuracy for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53443
 Combat Type Analysis Ⅱ
 On skill use, 10% chance of +600 Accuracy for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53451
 Stay Strong Ⅰ
@@ -4214,13 +4214,13 @@ ID=53513
 Embark Service Ⅰ
 In District 6, +3% Movement Speed for 3 sec. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Move Speed ↑
+Movement Speed ↑
 
 ID=53521
 Embark Service Ⅱ
 In District 6, +5% Movement Speed for 5 sec. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Move Speed ↑
+Movement Speed ↑
 
 ID=53522
 Maintenance Pro Ⅰ
@@ -4250,73 +4250,73 @@ ID=53533
 Fighters' Bonds Ⅰ
 +15% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP↑
+HP ↑
 
 ID=53534
 Fighters' Bonds I
 +20% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP↑
+HP ↑
 
 ID=53535
 Fighters' Bonds I
 +25% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP↑
+HP ↑
 
 ID=53536
 Fighters' Bonds Ⅰ
 +20% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP↑
+HP ↑
 
 ID=53537
 Fighters' Bonds I
 +25% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP↑
+HP ↑
 
 ID=53538
 Fighters' Bonds I
 +30% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP↑
+HP ↑
 
 ID=53539
 Fatal Fist Fight Ⅰ
 +4% Attack, +1% Critical Rate.
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack↑
+Attack ↑
 
 ID=53540
 Fatal Fist Fight Ⅱ
 +5% Attack, +1% Critical Rate.
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack↑
+Attack ↑
 
 ID=53541
 Fatal Fist Fight Ⅲ
 +6% Attack, +2% Critical Rate.
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack↑
+Attack ↑
 
 ID=53542
 Fatal Fist Fight Ⅰ
 +4% Attack, +2% Critical Rate.
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack↑
+Attack ↑
 
 ID=53543
 Fatal Fist Fight Ⅱ
 +6% Attack, +2% Critical Rate.
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack↑
+Attack ↑
 
 ID=53544
 Fatal Fist Fight Ⅲ
 +8% Attack, +3% Critical Rate.
 Icon/Buff/Icon_Common_Buff_Akashic
-Attack↑
+Attack ↑
 
 ID=53545
 Hit Fever Ⅰ
@@ -4358,37 +4358,37 @@ ID=53551
 Emergency Shield Ⅰ
 Under 20% HP, +40% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53552
 Emergency Shield Ⅱ
 Under 20% HP, +60% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53553
 Emergency Shield Ⅲ
 Under 20% HP, +80% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53554
 Emergency Shield Ⅰ
 Under 20% HP, +60% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53555
 Emergency Shield Ⅱ
 Under 20% HP, +80% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53556
 Emergency Shield Ⅲ
 Under 20% HP, +100% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53557
 Influential Mystery Ⅰ
@@ -4430,37 +4430,37 @@ ID=53563
 Hard Skin Ⅰ
 When hit, 5% chance of +50% Defense for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53564
 Hard Skin Ⅱ
 When hit, 10% chance of +50% Defense for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53565
 Hard Skin Ⅲ
 When hit, 15% chance of +50% Defense for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53566
 Hard Skin Ⅰ
 When hit, 10% chance of +50% Defense for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53567
 Hard Skin Ⅱ
 When hit, 15% chance of +50% Defense for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53568
 Hard Skin Ⅲ
 When hit, 20% chance of +50% Defense for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=53569
 Lethal Blow Ⅰ
@@ -4538,37 +4538,37 @@ ID=53581
 Scampering Kiss Ⅰ
 Every second, 10% change of +10% Movement Speed for 2.5s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Move Speed ↑
+Movement Speed ↑
 
 ID=53582
 Scampering Kiss Ⅱ
 Every second, 20% change of +10% Movement Speed for 3s. (13s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Move Speed ↑
+Movement Speed ↑
 
 ID=53583
 Scampering Kiss Ⅲ
 Every second, 30% change of +10% Movement Speed for 3.5s. (11s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Move Speed ↑
+Movement Speed ↑
 
 ID=53584
 Scampering Kiss Ⅰ
 Every second, 15% change of +10% Movement Speed for 3s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Move Speed ↑
+Movement Speed ↑
 
 ID=53585
 Scampering Kiss Ⅱ
 Every second, 25% change of +10% Movement Speed for 3.5s. (13s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Move Speed ↑
+Movement Speed ↑
 
 ID=53586
 Scampering Kiss Ⅲ
 Every second, 35% change of +10% Movement Speed for 4s. (11s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Move Speed ↑
+Movement Speed ↑
 
 ID=53587
 Mind's Eye Ⅰ
@@ -4718,73 +4718,73 @@ ID=53611
 Victor's Law Ⅰ
 On hit, 7% chance of +200 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53612
 Victor's Law Ⅱ
 On hit, 7% chance of +250 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53613
 Victor's Law Ⅲ
 On hit, 7% chance of +300 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53614
 Victor's Law Ⅰ
 On hit, 9% chance of +250 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53615
 Victor's Law Ⅱ
 On hit, 9% chance of +300 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53616
 Victor's Law Ⅲ
 On hit, 9% chance of +350 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53617
 Gallus' Wrath Ⅰ
 When hit, 5% chance of +500 Evasion for 2s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Evasion↑
+Evasion ↑
 
 ID=53618
 Gallus' Wrath Ⅱ
 When hit, 5% chance of +500 Evasion for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Evasion↑
+Evasion ↑
 
 ID=53619
 Gallus' Wrath Ⅲ
 When hit, 5% chance of +500 Evasion for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Evasion↑
+Evasion ↑
 
 ID=53620
 Gallus' Wrath Ⅰ
 When hit, 9% chance of +500 Evasion for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Evasion↑
+Evasion ↑
 
 ID=53621
 Gallus' Wrath Ⅱ
 When hit, 9% chance of +500 Evasion for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Evasion↑
+Evasion ↑
 
 ID=53622
 Gallus' Wrath Ⅲ
 When hit, 9% chance of +500 Evasion for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Evasion↑
+Evasion ↑
 
 ID=53623
 Keen Macho Ⅰ
@@ -4862,37 +4862,37 @@ ID=53635
 Crimson Stigma Ⅰ
 When critically hit, +500 Accuracy for 7s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53636
 Crimson Stigma Ⅱ
 When critically hit, +500 Accuracy for 12s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53637
 Crimson Stigma Ⅲ
 When critically hit, +500 Accuracy for 17s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53638
 Crimson Stigma Ⅰ
 When critically hit, +500 Accuracy for 9s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53639
 Crimson Stigma Ⅱ
 When critically hit, +500 Accuracy for 14s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53640
 Crimson Stigma Ⅲ
 When critically hit, +500 Accuracy for 19s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53641
 Radiant
@@ -4908,7 +4908,7 @@ This card gives 2x A.R card EXP during card synthesis. There are no applicable s
 
 ID=53643
 Stomach Panpan
-This card gives 3x A.R card EXP during card synthesis. There are no applicable status effects to this card. Can be purchased from item mall.
+This card gives 3 times more EXP than an A.R Card from Item Mall during Synthesis. This card does not increase any status effects.
 0
 0
 
@@ -4916,7 +4916,7 @@ ID=53651
 Fight
 +5% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP↑
+HP ↑
 
 ID=53652
 Surprise Attack Pro Ⅰ
@@ -4994,37 +4994,37 @@ ID=53664
 Bird Monster's Wing Ⅰ
 On hit, 10% chance for the next attack to deal +5% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage↑
+Damage ↑
 
 ID=53665
 Bird Monster's Wing Ⅱ
 On hit, 10% chance for the next attack to deal +7% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage↑
+Damage ↑
 
 ID=53666
 Bird Monster's Wing Ⅲ
 On hit, 10% chance for the next attack to deal +10% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage↑
+Damage ↑
 
 ID=53667
 Bird Monster's Wing Ⅰ
 On hit, 10% chance for the next attack to deal +6% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage↑
+Damage ↑
 
 ID=53668
 Bird Monster's Wing Ⅱ
 On hit, 10% chance for the next attack to deal +10% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage↑
+Damage ↑
 
 ID=53669
 Bird Monster's Wing Ⅲ
 On hit, 10% chance for the next attack to deal +15% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage↑
+Damage ↑
 
 ID=53670
 Material Conversion Ⅰ
@@ -5174,37 +5174,37 @@ ID=53694
 Maximized Shield Ⅰ
 +8% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP↑
+HP ↑
 
 ID=53695
 Maximized Shield Ⅱ
 +13% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP↑
+HP ↑
 
 ID=53696
 Maximized Shield Ⅲ
 +18% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP↑
+HP ↑
 
 ID=53697
 Maximized Shield Ⅰ
 +12% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP↑
+HP ↑
 
 ID=53698
 Maximized Shield Ⅱ
 +17% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP↑
+HP ↑
 
 ID=53699
 Maximized Shield Ⅲ
 +22% Maximum HP.
 Icon/Buff/Icon_Common_Buff_Akashic
-HP↑
+HP ↑
 
 ID=53700
 Fuel Saving System Ⅰ
@@ -5318,37 +5318,37 @@ ID=53718
 Weak but Precise Ⅰ
 When hit, 20% chance of -20% Attack, +1000 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53719
 Weak but Precise Ⅱ
 When hit, 20% chance of -10% Attack, +1000 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53720
 Weak but Precise Ⅲ
 When hit, 20% chance of -5% Attack, +1000 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53721
 Weak but Precise Ⅰ
 When hit, 20% chance of -20% Attack, +1100 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53722
 Weak but Precise Ⅱ
 When hit, 20% chance of -10% Attack, +1100 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53723
 Weak but Precise Ⅲ
 When hit, 20% chance of -5% Attack, +1100 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=53724
 Blessing of Wind Ⅰ
@@ -5498,37 +5498,37 @@ ID=53748
 Concentration Ⅰ
 +5% Damage against bosses.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage↑
+Damage ↑
 
 ID=53749
 Concentration Ⅱ
 +10% Damage against bosses.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage↑
+Damage ↑
 
 ID=53750
 Concentration Ⅲ
 +15% Damage against bosses.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage↑
+Damage ↑
 
 ID=53751
 Concentration Ⅰ
 +7% Damage against bosses.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage↑
+Damage ↑
 
 ID=53752
 Concentration Ⅱ
 +12% Damage against bosses.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage↑
+Damage ↑
 
 ID=53753
 Concentration Ⅲ
 +17% Damage against bosses.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage↑
+Damage ↑
 
 ID=53754
 Cool-headed Ⅰ
@@ -5576,13 +5576,13 @@ ID=55005
 Snake Shock
 Defense +10% for 30 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=55006
 Snake Shock
 Defense +30% for 30 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=55010
 Roar of Power
@@ -5594,7 +5594,7 @@ ID=55011
 Roar of Protection
 Defense +10% for 7 seconds.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=55012
 Twinkling Roar
@@ -5606,37 +5606,37 @@ ID=55088
 Oil Shock! Ⅰ
 Over the spout oil from the ground, -30% Movement Speed to enemies for 2s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=55089
 Oil Shock! Ⅱ
 Over the spout oil from the ground, -30% Movement Speed to enemies for 4s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=55090
 Oil Shock! Ⅲ
 Over the spout oil from the ground, -50% Movement Speed to enemies for 4s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=55091
 Oil Shock! Ⅰ
 Over the spout oil from the ground, -30% Movement Speed to enemies for 3s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=55092
 Oil Shock! Ⅱ
 Over the spout oil from the ground, -30% Movement Speed to enemies for 5s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=55093
 Oil Shock! Ⅲ
 Over the spout oil from the ground, -70% Movement Speed to enemies for 7s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=55101
 Attack Power ↑
@@ -5663,10 +5663,10 @@ Icon/Buff/Icon_Common_Buff_Akashic
 HP↓
 
 ID=55105
-Move Speed ↓
+Movement Speed ↓
 Movement speed -10% for 10 seconds. (Maximum 5 Stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-Move Speed ↓
+Movement Speed ↓
 
 ID=55106
 HP↓
@@ -5708,7 +5708,7 @@ ID=55112
 Creepy
 Movement Speed +5% for 5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
-Move Speed ↑
+Movement Speed ↑
 
 ID=55113
 Unstable
@@ -5720,13 +5720,13 @@ ID=55114
 Pinpoint Weapon
 Accuracy +50 for 5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
-Accuracy↑
+Accuracy ↑
 
 ID=55115
 Right Fit
 Defense +10% for 5 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
-Defense↑
+Defense ↑
 
 ID=55116
 This way
@@ -5855,22 +5855,22 @@ Icon/Buff/Icon_Common_Buff_Reg
 Enhance
 
 ID=63006
-Move Speed ↓
+Movement Speed ↓
 Movement Speed -50% for 1.5 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=63007
-Move Speed ↓
+Movement Speed ↓
 Movement Speed -30% for 5 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=63008
-Move Speed ↓
+Movement Speed ↓
 Movement Speed -30% for 5 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=63009
 HP↓
@@ -5891,16 +5891,16 @@ Icon/Buff/Icon_Common_Buff_Reg
 Enhance
 
 ID=63012
-Attack↑
+Attack ↑
 Attack +30% for 10 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=63013
-Defense↑
+Defense ↑
 Defense +30% for 10 minutes.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=63014
 +HP
@@ -5909,16 +5909,16 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=63015
-Attack↑
+Attack ↑
 Attack +30% for 10 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=63016
-Defense↑
+Defense ↑
 Defense +30% for 10 minutes.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=63017
 +HP
@@ -5933,16 +5933,16 @@ HP↓
 HP↓
 
 ID=63019
-Attack↑
+Attack ↑
 Attack +30% for 10 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=63020
-Defense↑
+Defense ↑
 Defense +30% for 10 minutes.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=63021
 +HP
@@ -5981,7 +5981,7 @@ HP↓
 HP↓
 
 ID=63027
-Attack↑
+Attack ↑
 Attack +500% for 15 seconds.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
@@ -6005,22 +6005,22 @@ HP↓
 HP↓
 
 ID=63031
-Move Speed ↓
+Movement Speed ↓
 Movement Speed -50% for 10 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=63032
-Attack↑
+Attack ↑
 Attack +30% for 10 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=63033
-Defense↑
+Defense ↑
 Defense +30% for 10 minutes.
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=63034
 +HP
@@ -6035,16 +6035,16 @@ HP↓
 HP↓
 
 ID=63036
-Attack↑
+Attack ↑
 Attack +30% for 5 minutes
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=63037
-Defense↑
+Defense ↑
 Defense +30% for 5 minutes
 Icon/Buff/Icon_Common_Buff_Def
-Defense↑
+Defense ↑
 
 ID=63038
 +HP
@@ -6083,16 +6083,16 @@ HP↓
 HP↓
 
 ID=63044
-Move Speed ↓
+Movement Speed ↓
 Movement Speed -30% for 5 seconds.
 Icon/Buff/Icon_Common_Debuff_MSR
-Move Speed ↓
+Movement Speed ↓
 
 ID=63045
-Move Speed ↑
-Move Speed +30% for 1 minute.
+Movement Speed ↑
++30% Movement Speed for 1 minute.
 Icon/Buff/Icon_Common_Buff_MSR
-Move Speed ↑
+Movement Speed ↑
 
 ID=63046
 HP↓

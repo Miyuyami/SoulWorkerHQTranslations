@@ -76,7 +76,7 @@ Icon/Item/Cash/QBD
 0
 0
 Q.B.D[Enhancement Protector]
-一定数値以上の装備強化時、\n装備の破壊を防いでくれる特殊デバイス。\n装備の出力に異常があった場合に発生する自爆信号を\n強制的に遮断して装備の破壊を防ぐ。\nアイテム使用チェック中は、破壊を防いだかは関係なく\n強化1回につき1個を消費する。\n\n[強化破壊防止アイテム]
+When reinforcing an equipment piece above a certain grade,\n this special device will prevent the equipment from self-destruction\n by hindering the safety abnormality auto-destruction detection system from\n working.\nThis item will be consumed when used during the reinforcement process regardless of success or failure.\n\n [Enhancement Protection Class Item]
 
 ID=800001501
 Icon/Item/Cash/Antilimiter
@@ -326,7 +326,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 Sporty Avatar Set
-Contains the entire [Sporty Avatar Set].\nErwin only.\n\n[Avatar package]\n- Components -\nSporty [Hood]X1\nSporty[Mask]X1\nSporty[Coat]X1\nSporty[Pants] X1\nSporty[Glove]X1\nSporty[Pouch]X1\nSporty[Shoes]X1
+Contains the entire [Sporty Avatar Set].\nErwin only.\n\n[Avatar package]\n- Components -\nSporty [Hood]X1\nSporty [Mask]X1\nSporty [Top]X1\nSporty [Bottom]X1\nSporty [Glove]X1\nSporty [Pouch]X1\nSporty [Shoes]X1
 
 ID=810001003
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
@@ -556,7 +556,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 Haru's Uniform A Set
-Contains the entire [Haru's Uniform A Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform A[Socks]X1\nHaru's Uniform A[Coat]X1\nHaru's Uniform A[Skirt]X1 
+Contains the entire [Haru's Uniform A Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform A [Socks]X1\nHaru's Uniform A [Top]X1\nHaru's Uniform A [Skirt]X1 
 
 ID=810001026
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
@@ -566,7 +566,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 Haru's Uniform B Set
-Contains the entire [Haru's Uniform B Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform B[Socks]X1\nHaru's Uniform B[Coat]X1\nHaru's Uniform B[Skirt]X1 
+Contains the entire [Haru's Uniform B Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform B [Socks]X1\nHaru's Uniform B [Top]X1\nHaru's Uniform B [Skirt]X1 
 
 ID=810001027
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
@@ -576,7 +576,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 Haru's Uniform C Set
-Contains the entire [Haru's Uniform C Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform C[Socks]X1\nHaru's Uniform C[Coat]X1\nHaru's Uniform C[Skirt]X1
+Contains the entire [Haru's Uniform C Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform C [Socks]X1\nHaru's Uniform C [Top]X1\nHaru's Uniform C [Skirt]X1
 
 ID=810001028
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
@@ -586,7 +586,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 Haru's Uniform D Set
-Contains the entire [Haru's Uniform D Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform D[Socks]X1\nHaru's Uniform D[Coat]X1\nHaru's Uniform D[Skirt]X1
+Contains the entire [Haru's Uniform D Set].\n\n[Avatar Package]\n- Components -\nHaru's Uniform D [Socks]X1\nHaru's Uniform D [Top]X1\nHaru's Uniform D [Skirt]X1
 
 ID=810001029
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
@@ -596,7 +596,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 Erwin's Uniform A Set
-Contains the entire [Erwin's Uniform A Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform A[Coat]X1\nErwin's Uniform A[Pants]X1
+Contains the entire [Erwin's Uniform A Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform A [Top]X1\nErwin's Uniform A [Bottom]X1
 
 ID=810001030
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
@@ -606,7 +606,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 Erwin's Uniform B Set
-Contains the entire [Erwin's Uniform B Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform B[Coat]X1\nErwin's Uniform B[Pants]X1
+Contains the entire [Erwin's Uniform B Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform B [Top]X1\nErwin's Uniform B [Bottom]X1
 
 ID=810001031
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
@@ -616,7 +616,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 Erwin's Uniform C Set
-Contains the entire [Erwin's Uniform C Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform C[Coat]X1\nErwin's Uniform C[Pants]X1
+Contains the entire [Erwin's Uniform C Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform C [Top]X1\nErwin's Uniform C [Bottom]X1
 
 ID=810001032
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
@@ -626,7 +626,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 Erwin's Uniform D Set
-Contains the entire [Erwin's Uniform D Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform D[Coat]X1\nErwin's Uniform D[Pants]X1
+Contains the entire [Erwin's Uniform D Set].\n\n[Avatar Package]\n- Components -\nErwin's Uniform D [Top]X1\nErwin's Uniform D [Bottom]X1
 
 ID=810001033
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
@@ -636,7 +636,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 Lily's Uniform A Set
-Contains the entire [Lily's Uniform A Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform A[Socks]X1\nLily's Uniform A[Coat]X1\nLily's Uniform A[Skirt]X1
+Contains the entire [Lily's Uniform A Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform A [Socks]X1\nLily's Uniform A [Top]X1\nLily's Uniform A [Skirt]X1
 
 ID=810001034
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
@@ -646,7 +646,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 Lily's Uniform B Set
-Contains the entire [Lily's Uniform B Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform B[Socks]X1\nLily's Uniform B[Coat]X1\nLily's Uniform B[Skirt]X1
+Contains the entire [Lily's Uniform B Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform B [Socks]X1\nLily's Uniform B [Top]X1\nLily's Uniform B [Skirt]X1
 
 ID=810001035
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
@@ -656,7 +656,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 Lily's Uniform C Set
-Contains the entire [Lily's Uniform C Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform C[Socks]X1\nLily's Uniform C[Coat]X1\nLily's Uniform C[Skirt]X1
+Contains the entire [Lily's Uniform C Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform C [Socks]X1\nLily's Uniform C [Top]X1\nLily's Uniform C [Skirt]X1
 
 ID=810001036
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
@@ -666,7 +666,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 Lily's Uniform D Set
-Contains the entire [Lily's Uniform D Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform D[Socks]X1\nLily's Uniform D[Coat]X1\nLily's Uniform D[Skirt]X1
+Contains the entire [Lily's Uniform D Set].\n\n[Avatar Package]\n- Components -\nLily's Uniform D [Socks]X1\nLily's Uniform D [Top]X1\nLily's Uniform D [Skirt]X1
 
 ID=810001037
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
@@ -676,7 +676,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 Stella's Uniform A Set
-Contains the entire [Stella's Uniform A Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform A[Socks]X1\nStella's Uniform A[Coat]X1\nStella's Uniform A[Skirt]X1
+Contains the entire [Stella's Uniform A Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform A [Socks]X1\nStella's Uniform A [Top]X1\nStella's Uniform A [Skirt]X1
 
 ID=810001038
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
@@ -686,7 +686,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 Stella's Uniform B Set
-Contains the entire [Stella's Uniform B Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform B[Socks]X1\nStella's Uniform B[Coat]X1\nStella's Uniform B[Skirt]X1
+Contains the entire [Stella's Uniform B Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform B [Socks]X1\nStella's Uniform B [Top]X1\nStella's Uniform B [Skirt]X1
 
 ID=810001039
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
@@ -696,7 +696,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 Stella's Uniform C Set
-Contains the entire [Stella's Uniform C Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform C[Socks]X1\nStella's Uniform C[Coat]X1\nStella's Uniform C[Skirt]X1
+Contains the entire [Stella's Uniform C Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform C [Socks]X1\nStella's Uniform C [Top]X1\nStella's Uniform C [Skirt]X1
 
 ID=810001040
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
@@ -706,7 +706,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 Stella's Uniform D Set
-Contains the entire [Stella's Uniform D Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform D[Socks]X1\nStella's Uniform D[Coat]X1\nStella's Uniform D[Skirt]X1
+Contains the entire [Stella's Uniform D Set].\n\n[Avatar Package]\n- Components -\nStella's Uniform D [Socks]X1\nStella's Uniform D [Top]X1\nStella's Uniform D[Skirt]X1
 
 ID=810001041
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
@@ -1136,7 +1136,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 Comissioned League Military Set
-Contains the entire [Commissioned League Military Set].\nHaru only.\n\n[Avatar Package]
+Contains the entire [Commissioned League Military Uniform Set].\nHaru only.\n\n[Avatar Package]
 
 ID=820900102
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
@@ -1196,7 +1196,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 Comissioned League Military Set
-Contains the entire [Old-Fashioned Union Military Uniform Set].\nLily only.\n\n[Avatar Package]
+Contains the entire [Commissioned League Military Uniform Set].\nLily only.\n\n[Avatar Package]
 
 ID=820900302
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
@@ -1226,7 +1226,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 Comissioned League Military Set
-Contains the entire [Old-Fashioned Union Military Uniform Set].\nStella only.\n\n[Avatar Package]
+Contains the entire [Commissioned League Military Uniform Set].\nStella only.\n\n[Avatar Package]
 
 ID=820900502
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
@@ -2216,7 +2216,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Coin Box
-Daily Login Reward. S Coins can be earned from it.\n\n[Online Time Reward Package]
+Daily Login Reward. Contains S Coins.\n\n[Play Time Reward Package]
 
 ID=820999142
 Icon/Item/Function/Package/PackageBox
@@ -2226,7 +2226,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Daily Login Reward (Ordinary)
-You can get this by staying on for 2 hours.\nThere are useful items in it.\n[Online Time Reward Package]
+You can get this by staying on for 2 hours.\nThere are useful items in it.\n[Play Time Reward Package]
 
 ID=820999143
 Icon/Item/Function/Package/PackageBox
@@ -2236,7 +2236,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Daily Login Reward (Large)
-You can get this by staying on for 3 hours.\nThere are useful items in it.\n[Online Time Reward Package]
+You can get this by staying on for 3 hours.\nThere are useful items in it.\n[Play Time Reward Package]
 
 ID=820999144
 Icon/Item/Function/Package/ETC_0_SpeciallPackage
@@ -2316,7 +2316,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_Stage
 0
 0
 Research Items Package Ⅰ
-Given to people who have cleared Steel Grave Chapter 1~4.\nThere are some useful items in here.\n\n\n[Item Box]
+Given as a reward to those who have cleared Steel Grave's Chapters 1 to 4.\nIt is certain that it will contain useful items.\n\n[Item Box]
 
 ID=820999152
 Icon/Item/Function/Package/ETC_0_SteelGraveBox_Stage
@@ -2326,7 +2326,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_Stage
 0
 0
 Research Items Package Ⅱ
-Given to people who have cleared Steel Grave Chapter 6~9.\nThere are some useful items in here.\n\n\n[Item Box]
+Given as a reward to those who have cleared Steel Grave's Chapters 6 to 9.\nIt is certain that it will contain useful items.\n\n[Item Box]
 
 ID=820999153
 Icon/Item/Function/Package/ETC_0_SteelGraveBox_Stage
@@ -2336,7 +2336,7 @@ Icon/Item/Function/Package/ETC_0_SteelGraveBox_Stage
 0
 0
 Research Items Package Ⅲ
-Given to people who have cleared Steel Grave Chapter 11~14.\nThere are some useful items in here.\n\n\n[Item Box]
+Given as a reward to those who have cleared Steel Grave's Chapters 11 to 14.\nIt is certain that it will contain useful items.\n\n[Item Box]
 
 ID=820999101
 Icon/Item/Function/Package/ETC_0_NormalPackage
@@ -2705,8 +2705,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Coat] - Sealed
-Contains Sporty [Coat].
+Sporty [Top] - Sealed
+Contains Sporty [Top].
 
 ID=813020801
 Icon/Item/Function/Package/PackageBox
@@ -2715,8 +2715,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Pants] - Sealed
-Contains Sporty [Pants].
+Sporty [Bottom] - Sealed
+Contains Sporty [Bottom].
 
 ID=813021001
 Icon/Item/Function/Package/PackageBox
@@ -2765,8 +2765,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Modern Casual [Coat] - Sealed
-Contains Modern Casual [Coat].
+Modern Casual [Top] - Sealed
+Contains Modern Casual [Top].
 
 ID=813030801
 Icon/Item/Function/Package/PackageBox
@@ -2855,8 +2855,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Haru's Uniform A [Coat] - Sealed
-Contains Haru's Uniform A [Coat].
+Haru's Uniform A [Top] - Sealed
+Contains Haru's Uniform A [Top].
 
 ID=813050801
 Icon/Item/Function/Package/PackageBox
@@ -2885,8 +2885,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Haru's Uniform B [Coat] - Sealed
-Contains Haru's Uniform B [Coat].
+Haru's Uniform B [Top] - Sealed
+Contains Haru's Uniform B [Top].
 
 ID=813060801
 Icon/Item/Function/Package/PackageBox
@@ -2915,8 +2915,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Haru's Uniform C [Coat] - Sealed
-Contains Haru's Uniform C [Coat].
+Haru's Uniform C [Top] - Sealed
+Contains Haru's Uniform C [Top].
 
 ID=813070801
 Icon/Item/Function/Package/PackageBox
@@ -2945,8 +2945,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Haru's Uniform D [Coat] - Sealed
-Contains Haru's Uniform D [Coat].
+Haru's Uniform D [Top] - Sealed
+Contains Haru's Uniform D [Top].
 
 ID=813080801
 Icon/Item/Function/Package/PackageBox
@@ -3055,8 +3055,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Coat] - Sealed
-Contains Merchant Uniform [Coat].
+Merchant Uniform [Top] - Sealed
+Contains Merchant Uniform [Top].
 
 ID=813110801
 Icon/Item/Function/Package/PackageBox
@@ -3095,8 +3095,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Coat] - Sealed
-Contains Old-Fashioned Military Uniform [Coat].
+Old-Fashioned Military Uniform [Top] - Sealed
+Contains Old-Fashioned Military Uniform [Top].
 
 ID=813120801
 Icon/Item/Function/Package/PackageBox
@@ -3185,8 +3185,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Coat] - Sealed
-Contains Sporty [Coat].
+Sporty [Top] - Sealed
+Contains Sporty [Top].
 
 ID=823020801
 Icon/Item/Function/Package/PackageBox
@@ -3195,8 +3195,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Pants] - Sealed
-Contains Sporty [Pants].
+Sporty [Bottom] - Sealed
+Contains Sporty [Bottom].
 
 ID=823020501
 Icon/Item/Function/Package/PackageBox
@@ -3245,8 +3245,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Modern Casual [Coat] - Sealed
-Contains Modern Casual [Coat].
+Modern Casual [Top] - Sealed
+Contains Modern Casual [Top].
 
 ID=823030501
 Icon/Item/Function/Package/PackageBox
@@ -3265,8 +3265,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Modern Casual [Pants] - Sealed
-Contains Modern Casual [Pants].
+Modern Casual [Bottom] - Sealed
+Contains Modern Casual [Bottom].
 
 ID=823031201
 Icon/Item/Function/Package/PackageBox
@@ -3325,8 +3325,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform A [Coat] - Sealed
-Contains Erwin's Uniform A [Coat].
+Erwin's Uniform A [Top] - Sealed
+Contains Erwin's Uniform A [Top].
 
 ID=823050801
 Icon/Item/Function/Package/PackageBox
@@ -3335,8 +3335,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform A [Pants] - Sealed
-Contains Erwin's Uniform A [Pants].
+Erwin's Uniform A [Bottom] - Sealed
+Contains Erwin's Uniform A [Bottom].
 
 ID=823060701
 Icon/Item/Function/Package/PackageBox
@@ -3345,8 +3345,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform B [Coat] - Sealed
-Contains Erwin's Uniform B [Coat].
+Erwin's Uniform B [Top] - Sealed
+Contains Erwin's Uniform B [Top].
 
 ID=823060801
 Icon/Item/Function/Package/PackageBox
@@ -3355,8 +3355,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform B [Pants] - Sealed
-Contains Erwin's Uniform B [Pants].
+Erwin's Uniform B [Bottom] - Sealed
+Contains Erwin's Uniform B [Bottom].
 
 ID=823070701
 Icon/Item/Function/Package/PackageBox
@@ -3365,8 +3365,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform C [Coat] - Sealed
-Contains Erwin's Uniform C [Coat].
+Erwin's Uniform C [Top] - Sealed
+Contains Erwin's Uniform C [Top].
 
 ID=823070801
 Icon/Item/Function/Package/PackageBox
@@ -3375,8 +3375,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform C [Pants] - Sealed
-Contains Erwin's Uniform C [Pants].
+Erwin's Uniform C [Bottom] - Sealed
+Contains Erwin's Uniform C [Bottom].
 
 ID=823080701
 Icon/Item/Function/Package/PackageBox
@@ -3385,8 +3385,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform D [Coat] - Sealed
-Contains Erwin's Uniform D [Coat].
+Erwin's Uniform D [Top] - Sealed
+Contains Erwin's Uniform D [Top].
 
 ID=823080801
 Icon/Item/Function/Package/PackageBox
@@ -3395,8 +3395,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Erwin's Uniform D [Pants] - Sealed
-Contains Erwin's Uniform D [Pants].
+Erwin's Uniform D [Bottom] - Sealed
+Contains Erwin's Uniform D [Bottom].
 
 ID=823100701
 Icon/Item/Function/Package/PackageBox
@@ -3485,8 +3485,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Coat] - Sealed
-Contains Merchant Uniform [Coat].
+Merchant Uniform [Top] - Sealed
+Contains Merchant Uniform [Top].
 
 ID=823110801
 Icon/Item/Function/Package/PackageBox
@@ -3495,8 +3495,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Pants] - Sealed
-Contains Merchant Uniform [Pants].
+Merchant Uniform [Bottom] - Sealed
+Contains Merchant Uniform [Bottom].
 
 ID=823111201
 Icon/Item/Function/Package/PackageBox
@@ -3515,8 +3515,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Coat] - Sealed
-Contains Old-Fashioned Military Uniform [Coat].
+Old-Fashioned Military Uniform [Top] - Sealed
+Contains Old-Fashioned Military Uniform [Top].
 
 ID=823120801
 Icon/Item/Function/Package/PackageBox
@@ -3525,8 +3525,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Pants] - Sealed
-Contains Old-Fashioned Military Uniform [Pants].
+Old-Fashioned Military Uniform [Bottom] - Sealed
+Contains Old-Fashioned Military Uniform [Bottom].
 
 ID=823121201
 Icon/Item/Function/Package/PackageBox
@@ -3595,8 +3595,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Coat] - Sealed
-Contains Sporty [Coat].
+Sporty [Top] - Sealed
+Contains Sporty [Top].
 
 ID=833020801
 Icon/Item/Function/Package/PackageBox
@@ -3605,8 +3605,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Pants] - Sealed
-Contains Sporty [Pants].
+Sporty [Bottom] - Sealed
+Contains Sporty [Bottom].
 
 ID=833021001
 Icon/Item/Function/Package/PackageBox
@@ -3665,8 +3665,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Modern Casual [Coat] - Sealed
-Contains Modern Casual [Coat].
+Modern Casual [Top] - Sealed
+Contains Modern Casual [Top].
 
 ID=833030801
 Icon/Item/Function/Package/PackageBox
@@ -3675,8 +3675,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Modern Casual [Pants] - Sealed
-Contains Modern Casual [Pants].
+Modern Casual [Bottom] - Sealed
+Contains Modern Casual [Bottom].
 
 ID=833031101
 Icon/Item/Function/Package/PackageBox
@@ -3755,8 +3755,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Lily's Uniform A [Coat] - Sealed
-Contains Lily's Uniform A [Coat].
+Lily's Uniform A [Top] - Sealed
+Contains Lily's Uniform A [Top].
 
 ID=833050801
 Icon/Item/Function/Package/PackageBox
@@ -3785,8 +3785,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Lily's Uniform B [Coat] - Sealed
-Contains Lily's Uniform B [Coat].
+Lily's Uniform B [Top] - Sealed
+Contains Lily's Uniform B [Top].
 
 ID=833060801
 Icon/Item/Function/Package/PackageBox
@@ -3815,8 +3815,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Lily's Uniform C [Coat] - Sealed
-Contains Lily's Uniform C [Coat].
+Lily's Uniform C [Top] - Sealed
+Contains Lily's Uniform C [Top].
 
 ID=833070801
 Icon/Item/Function/Package/PackageBox
@@ -3845,8 +3845,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Lily's Uniform D [Coat] - Sealed
-Contains Lily's Uniform D [Coat].
+Lily's Uniform D [Top] - Sealed
+Contains Lily's Uniform D [Top].
 
 ID=833080801
 Icon/Item/Function/Package/PackageBox
@@ -3955,8 +3955,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Coat] - Sealed
-Contains Merchant Uniform [Coat].
+Merchant Uniform [Top] - Sealed
+Contains Merchant Uniform [Top].
 
 ID=833110801
 Icon/Item/Function/Package/PackageBox
@@ -3995,8 +3995,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Coat] - Sealed
-Contains Old-Fashioned Military Uniform [Coat].
+Old-Fashioned Military Uniform [Top] - Sealed
+Contains Old-Fashioned Military Uniform [Top].
 
 ID=833120801
 Icon/Item/Function/Package/PackageBox
@@ -4075,8 +4075,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Coat] - Sealed
-Contains Sporty [Coat].
+Sporty [Top] - Sealed
+Contains Sporty [Top].
 
 ID=853020801
 Icon/Item/Function/Package/PackageBox
@@ -4085,8 +4085,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Pants] - Sealed
-Contains Sporty [Pants].
+Sporty [Bottom] - Sealed
+Contains Sporty [Bottom].
 
 ID=853021001
 Icon/Item/Function/Package/PackageBox
@@ -4135,8 +4135,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Modern Casual [Coat] - Sealed
-Contains Modern Casual [Coat].
+Modern Casual [Top] - Sealed
+Contains Modern Casual [Top].
 
 ID=853030801
 Icon/Item/Function/Package/PackageBox
@@ -4225,8 +4225,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Stella's Uniform A [Coat] - Sealed
-Contains Stella's Uniform A [Coat].
+Stella's Uniform A [Top] - Sealed
+Contains Stella's Uniform A [Top].
 
 ID=853050801
 Icon/Item/Function/Package/PackageBox
@@ -4255,8 +4255,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Stella's Uniform B [Coat] - Sealed
-Contains Stella's Uniform B [Coat].
+Stella's Uniform B [Top] - Sealed
+Contains Stella's Uniform B [Top].
 
 ID=853060801
 Icon/Item/Function/Package/PackageBox
@@ -4285,8 +4285,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Stella's Uniform C [Coat] - Sealed
-Contains Stella's Uniform C [Coat].
+Stella's Uniform C [Top] - Sealed
+Contains Stella's Uniform C [Top].
 
 ID=853070801
 Icon/Item/Function/Package/PackageBox
@@ -4315,8 +4315,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Stella's Uniform D [Coat] - Sealed
-Contains Stella's Uniform D [Coat].
+Stella's Uniform D [Top] - Sealed
+Contains Stella's Uniform D [Top].
 
 ID=853080801
 Icon/Item/Function/Package/PackageBox
@@ -4425,8 +4425,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Coat] - Sealed
-Contains Merchant Uniform [Coat].
+Merchant Uniform [Top] - Sealed
+Contains Merchant Uniform [Top].
 
 ID=853110801
 Icon/Item/Function/Package/PackageBox
@@ -4465,8 +4465,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Coat] - Sealed
-Contains Old-Fashioned Military Uniform [Coat].
+Old-Fashioned Military Uniform [Top] - Sealed
+Contains Old-Fashioned Military Uniform [Top].
 
 ID=853120801
 Icon/Item/Function/Package/PackageBox
@@ -4736,7 +4736,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Pajamas A [Costume] - Sealed
-Contains Pajamas A [Costume ].
+Contains Pajamas A [Costume].
 
 ID=813151201
 Icon/Item/Function/Package/PackageBox
@@ -4756,7 +4756,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Pajamas A [Costume] - Sealed
-Contains Pajamas A [Costume ].
+Contains Pajamas A [Costume].
 
 ID=823151201
 Icon/Item/Function/Package/PackageBox
@@ -4776,7 +4776,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Pajamas A [Costume] - Sealed
-Contains Pajamas A [Costume ].
+Contains Pajamas A [Costume].
 
 ID=833151201
 Icon/Item/Function/Package/PackageBox
@@ -4796,7 +4796,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Pajamas A [Costume] - Sealed
-Contains Pajamas A [Costume ].
+Contains Pajamas A [Costume].
 
 ID=853151201
 Icon/Item/Function/Package/PackageBox
@@ -4915,8 +4915,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Detective's School Uniform [Pants] - Sealed
-Contains Detective's School Uniform [Pants].
+Detective's School Uniform [Bottom] - Sealed
+Contains Detective's School Uniform [Bottom].
 
 ID=843012701
 Icon/Item/Function/Package/PackageBox
@@ -4925,8 +4925,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Detective's School Uniform [Pants] - Sealed
-Contains Detective's School Uniform [Pants].
+Detective's School Uniform [Bottom] - Sealed
+Contains Detective's School Uniform [Bottom].
 
 ID=843012801
 Icon/Item/Function/Package/PackageBox
@@ -4985,8 +4985,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Coat] - Sealed
-Contains Sporty [Coat].
+Sporty [Top] - Sealed
+Contains Sporty [Top].
 
 ID=843020801
 Icon/Item/Function/Package/PackageBox
@@ -4995,8 +4995,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Pants] - Sealed
-Contains Sporty [Pants].
+Sporty [Bottom] - Sealed
+Contains Sporty [Bottom].
 
 ID=843022701
 Icon/Item/Function/Package/PackageBox
@@ -5005,8 +5005,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sporty [Pants] - Sealed
-Contains Sporty [Pants].
+Sporty [Bottom] - Sealed
+Contains Sporty [Bottom].
 
 ID=843020501
 Icon/Item/Function/Package/PackageBox
@@ -5095,8 +5095,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform A [Coat] - Sealed
-Contains Jin's Uniform A [Coat].
+Jin's Uniform A [Top] - Sealed
+Contains Jin's Uniform A [Top].
 
 ID=843050801
 Icon/Item/Function/Package/PackageBox
@@ -5105,8 +5105,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform A [Pants] - Sealed
-Contains Jin's Uniform A [Pants].
+Jin's Uniform A [Bottom] - Sealed
+Contains Jin's Uniform A [Bottom].
 
 ID=843052701
 Icon/Item/Function/Package/PackageBox
@@ -5115,8 +5115,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform A [Pants] - Sealed
-Contains Jin's Uniform A [Pants].
+Jin's Uniform A [Bottom] - Sealed
+Contains Jin's Uniform A [Bottom].
 
 ID=843060701
 Icon/Item/Function/Package/PackageBox
@@ -5125,8 +5125,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform B [Coat] - Sealed
-Contains Jin's Uniform B [Coat].
+Jin's Uniform B [Top] - Sealed
+Contains Jin's Uniform B [Top].
 
 ID=843060801
 Icon/Item/Function/Package/PackageBox
@@ -5135,8 +5135,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform B [Pants] - Sealed
-Contains Jin's Uniform B [Pants].
+Jin's Uniform B [Bottom] - Sealed
+Contains Jin's Uniform B [Bottom].
 
 ID=843062701
 Icon/Item/Function/Package/PackageBox
@@ -5145,8 +5145,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform B [Pants] - Sealed
-Contains Jin's Uniform B [Pants].
+Jin's Uniform B [Bottom] - Sealed
+Contains Jin's Uniform B [Bottom].
 
 ID=843070701
 Icon/Item/Function/Package/PackageBox
@@ -5155,8 +5155,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform C [Coat] - Sealed
-Contains Jin's Uniform C [Coat].
+Jin's Uniform C [Top] - Sealed
+Contains Jin's Uniform C [Top].
 
 ID=843070801
 Icon/Item/Function/Package/PackageBox
@@ -5165,8 +5165,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform C [Pants] - Sealed
-Contains Jin's Uniform C [Pants].
+Jin's Uniform C [Bottom] - Sealed
+Contains Jin's Uniform C [Bottom].
 
 ID=843072701
 Icon/Item/Function/Package/PackageBox
@@ -5175,8 +5175,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform C [Pants] - Sealed
-Contains Jin's Uniform C [Pants].
+Jin's Uniform C [Bottom] - Sealed
+Contains Jin's Uniform C [Bottom].
 
 ID=843080701
 Icon/Item/Function/Package/PackageBox
@@ -5185,8 +5185,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform D [Coat] - Sealed
-Contains Jin's Uniform D [Coat].
+Jin's Uniform D [Top] - Sealed
+Contains Jin's Uniform D [Top].
 
 ID=843080801
 Icon/Item/Function/Package/PackageBox
@@ -5195,8 +5195,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform D [Pants] - Sealed
-Contains Jin's Uniform D [Pants].
+Jin's Uniform D [Bottom] - Sealed
+Contains Jin's Uniform D [Bottom].
 
 ID=843082701
 Icon/Item/Function/Package/PackageBox
@@ -5205,8 +5205,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Jin's Uniform D [Pants] - Sealed
-Contains Jin's Uniform D [Pants].
+Jin's Uniform D [Bottom] - Sealed
+Contains Jin's Uniform D [Bottom].
 
 ID=843090901
 Icon/Item/Function/Package/PackageBox
@@ -5275,8 +5275,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Fervent Fist [Pants] - Sealed
-Contains Passionate Fist [Underwear].
+Fervent Fist [Bottom] - Sealed
+Contains Passionate Fist [Bottom].
 
 ID=843100501
 Icon/Item/Function/Package/PackageBox
@@ -5315,8 +5315,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Coat] - Sealed
-Contains Merchant Uniform [Coat].
+Merchant Uniform [Top] - Sealed
+Contains Merchant Uniform [Top].
 
 ID=843110801
 Icon/Item/Function/Package/PackageBox
@@ -5325,8 +5325,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Pants] - Sealed
-Contains Merchant Uniform [Pants].
+Merchant Uniform [Bottom] - Sealed
+Contains Merchant Uniform [Bottom].
 
 ID=843112701
 Icon/Item/Function/Package/PackageBox
@@ -5335,8 +5335,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Pants] - Sealed
-Contains Merchant Uniform [Pants].
+Merchant Uniform [Bottom] - Sealed
+Contains Merchant Uniform [Bottom].
 
 ID=843111201
 Icon/Item/Function/Package/PackageBox
@@ -5355,8 +5355,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Coat] - Sealed
-Contains Old-Fashioned Military Uniform [Coat].
+Old-Fashioned Military Uniform [Top] - Sealed
+Contains Old-Fashioned Military Uniform [Top].
 
 ID=843120801
 Icon/Item/Function/Package/PackageBox
@@ -5365,8 +5365,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Pants] - Sealed
-Contains Old-Fashioned Military Uniform [Pants].
+Old-Fashioned Military Uniform [Bottom] - Sealed
+Contains Old-Fashioned Military Uniform [Bottom].
 
 ID=843121201
 Icon/Item/Function/Package/PackageBox
@@ -5436,7 +5436,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 Pajamas A [Costume] - Sealed
-Contains Pajamas A [Costume ].
+Contains Pajamas A [Costume].
 
 ID=843151201
 Icon/Item/Function/Package/PackageBox
@@ -5465,8 +5465,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Coat] - Sealed
-Contains Sports Club [Coat]
+Sports Club [Top] - Sealed
+Contains Sports Club [Top]
 
 ID=843200801
 Icon/Item/Function/Package/PackageBox
@@ -5475,8 +5475,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Pants] - Sealed
-Contains Sports Club [Pants].
+Sports Club [Bottom] - Sealed
+Contains Sports Club [Bottom].
 
 ID=843201101
 Icon/Item/Function/Package/PackageBox
@@ -5515,8 +5515,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Pajamas [Coat] - Sealed
-Contains Pajamas [Coat].
+Pajamas [Top] - Sealed
+Contains Pajamas [Top].
 
 ID=843211201
 Icon/Item/Function/Package/PackageBox
@@ -5545,8 +5545,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Coat] - Sealed
-Contains Sports Club [Coat]
+Sports Club [Top] - Sealed
+Contains Sports Club [Top]
 
 ID=813200801
 Icon/Item/Function/Package/PackageBox
@@ -5605,8 +5605,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Coat] - Sealed
-Contains Sports Club [Coat]
+Sports Club [Top] - Sealed
+Contains Sports Club [Top]
 
 ID=823200801
 Icon/Item/Function/Package/PackageBox
@@ -5615,8 +5615,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Pants] - Sealed
-Contains Sports Club [Pants].
+Sports Club [Bottom] - Sealed
+Contains Sports Club [Bottom].
 
 ID=823201101
 Icon/Item/Function/Package/PackageBox
@@ -5665,8 +5665,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Coat] - Sealed
-Contains Sports Club [Coat]
+Sports Club [Top] - Sealed
+Contains Sports Club [Top]
 
 ID=833200801
 Icon/Item/Function/Package/PackageBox
@@ -5675,8 +5675,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Pants] - Sealed
-Contains Sports Club [Pants].
+Sports Club [Bottom] - Sealed
+Contains Sports Club [Bottom].
 
 ID=833201101
 Icon/Item/Function/Package/PackageBox
@@ -5725,8 +5725,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Sports Club [Coat] - Sealed
-Contains Sports Club [Coat]
+Sports Club [Top] - Sealed
+Contains Sports Club [Top]
 
 ID=853200801
 Icon/Item/Function/Package/PackageBox
@@ -6005,7 +6005,7 @@ Icon/Item/Consumption/Cure/Vitamin
 0
 0
 0
-High Concentrated Vitamin
+高濃縮ビタミン
 A vitamin prepared by the Merchant Association to fight against fatigue.\nHas a rich and solid texture.\nPop one in the mouth when you're tired and your fatigue will go away!\n\n[Fatigue Recovery Class Items]\nInstantly restores 20 FP.
 
 ID=840001002
@@ -6015,7 +6015,7 @@ Icon/Item/Consumption/Cure/VitaminS
 0
 0
 0
-High Concentrated Vitamin S
+高濃縮ビタミンS
 A vitamin prepared by the Merchant Association to fight against fatigue.\nHas a rich and solid texture.\nPop one in the mouth when you're tired and your fatigue will go away!\n\n[Fatigue Recovery Class Items]\nInstantly restores 30 FP.
 
 ID=840001999
@@ -6025,7 +6025,7 @@ Icon/Item/Consumption/Cure/VitaminZ
 0
 0
 0
-Very High Concentrated Vitamin Z
+極高濃縮ビタミンZ
 A highly concentrated vitamin that completely blows away any fatigue you might have as if you were born anew.\nIt has no limitations on usage and is a revolutionary hallmark of achievement\nin the vitamin industry.\n\n[Fatigue Recovery Class Items]\nInstantly restores 100 FP.
 
 ID=840002001
@@ -6035,7 +6035,7 @@ Icon/Item/Consumption/Cure/VitaminG
 0
 0
 0
-Ultra High Concentrated Vitamin G
+超高濃縮ビタミンG
 It was especially prepared for fatigue countermeasures by the vitamin merchant.\nHas a strong flavour, and hard texture.\nPop one in the mouth, and all your troubles will go away.\nThe finest class of vitamins ever made. Soothe your partner's tiredness.\n\n[Fatigue Recovery Class Items]\nInstantly restores 50 FP.
 
 ID=710100097
@@ -14105,7 +14105,7 @@ Icon/Item/Consumption/Cure/GigaSoulInjection
 0
 0
 0
-Giga  Soul Injector
+Giga Soul Injector
 液体化させたソウルエナジーが入っており、\n使用するとソウルエナジーが即時に回復する。\n連続で使うと、エナジーがオーバーヒートするため、\n時間を置いてから再使用すること。\n\n[SG回復アイテム]\nSGを25%即時に回復。クールタイム40秒。
 
 ID=610103005
@@ -14245,7 +14245,7 @@ Icon/Item/Consumption/Cure/PetaStaminaAde
 0
 0
 0
-Peta  Stamina Aid Drink
+Peta Stamina Aid Drink
 A drink to recover stamina.\nThe ingredients are a mystery, as it was made by the NED Company.\nHowever, it does have an immediate effect.\nDue to concerns of death by over dosage,\nit is only available in limited quantities.\n\n[Stamina Recovery Item]\nRestore 30% of stamina. 20s cooldown.
 
 ID=620106201
@@ -14535,7 +14535,7 @@ Icon/Item/Consumption/Cure/HP_1
 0
 0
 0
-Move Speed Fever
+Movement Speed Fever
 7% MV SPD Increaser
 
 ID=650000004
@@ -17716,7 +17716,7 @@ Icon/Item/Furniture/MOBJ_0_MR_Bed_a
 0
 0
 Ordinary Bed [A]
-Basic Bed.  \nLet's put it somewhere!
+Basic Bed.\nLet's put it somewhere!
 
 ID=880000002
 Icon/Item/Furniture/MOBJ_0_MR_Board
@@ -24665,7 +24665,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Basic1_Costume01_07
 0
 0
 0
-Damaged Uniform A [Coat]
+Damaged Uniform A [Top]
 ハルが通っていたウディン高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=211010801
@@ -24705,7 +24705,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Basic2_Costume01_07
 0
 0
 0
-Damaged Uniform B [Coat]
+Damaged Uniform B [Top]
 ハルが通っていたウディン高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=211020801
@@ -24745,7 +24745,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Basic3_Costume01_07
 0
 0
 0
-Damaged Uniform C [Coat]
+Damaged Uniform C [Top]
 ハルが通っていたウディン高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=211030801
@@ -24785,7 +24785,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Basic4_Costume01_07
 0
 0
 0
-Damaged Uniform D [Coat]
+Damaged Uniform D [Top]
 ハルが通っていたウディン高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=211040801
@@ -24835,7 +24835,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Default_Costume02_08
 0
 0
 0
-Vengeful Sword [Pants]
+Vengeful Sword [Bottom]
 ハルのソウルエナジーが具現化した下衣。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=211051101
@@ -24875,7 +24875,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=211060801
@@ -24885,7 +24885,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=211061101
@@ -24915,7 +24915,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=211070801
@@ -24946,7 +24946,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Miner_HairCap_02
 0
 0
 Work Clothes [Safety Hat]
-作業員が身につける安全帽。
+A safety hat worn by workers.
 
 ID=212010401
 Icon/Item/Costume/PC_A/PC_A_EQ_Miner_MouthAcc_04
@@ -24956,7 +24956,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Miner_MouthAcc_04
 0
 0
 Work Clothes [Dust Proof Mask]
-作業員が身につける防塵マスク。
+A dust-proof mask worn by workers.
 
 ID=212010901
 Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Costume03_09
@@ -24966,7 +24966,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Costume03_09
 0
 0
 Work Clothes [Costume]
-作業員が身につける衣装。上下セット。
+A costume worn by workers. Top and bottom set.
 
 ID=212010501
 Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Glove_05
@@ -24976,7 +24976,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Glove_05
 0
 0
 Work Clothes [Gloves]
-作業員が身につける軍手。
+A pair of gloves worn by workers.
 
 ID=212011201
 Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Shoes_12
@@ -24986,7 +24986,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Shoes_12
 0
 0
 Work Clothes [Boots]
-作業員が身につける長靴。
+A pair of boots worn by workers.
 
 ID=212011301
 Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Tail_13
@@ -24996,7 +24996,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Miner_Tail_13
 0
 0
 Work Clothes [Body]
-作業員が身につけるポーチ。
+A pouch worn by workers.
 
 ID=212020301
 Icon/Item/Costume/PC_A/PC_A_EQ_NCmercenary_EyeAcc01_03
@@ -25065,7 +25065,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_HairAcc01_01
 0
 0
 0
-Union Standard Military Uniform [Standard Hat]
+Commissioned League Military Uniform [Standard Hat]
 連合から支給される正規軍用の帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=212030701
@@ -25075,7 +25075,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_Costume01_07
 0
 0
 0
-連合正規軍服[上衣]
+Commissioned League Military Uniform [Top]
 連合から支給される正規軍用の上衣。\n旧式よりもデザインが洗練されているようだ。
 
 ID=212030801
@@ -25085,7 +25085,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_Costume02_08
 0
 0
 0
-連合正規軍服[スカート]
+Commissioned League Military Uniform [Skirt]
 連合から支給される正規軍用のスカート。\n旧式よりもデザインが洗練されているようだ。
 
 ID=212030301
@@ -25095,7 +25095,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_EyeAcc01_03
 0
 0
 0
-連合正規軍服[将校眼鏡]
+Commissioned League Military Uniform [Glasses]
 連合から支給される正規軍用の将校眼鏡。\n身に付けると、良いパンチが当たりそうだ。
 
 ID=212030501
@@ -25105,7 +25105,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_Glove_05
 0
 0
 0
-連合正規軍服[手袋]
+Commissioned League Military Uniform [Gloves]
 連合から支給される正規軍用の手袋。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=212031101
@@ -25115,7 +25115,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_Socks_11
 0
 0
 0
-連合正規軍服[タイツ]
+Commissioned League Military Uniform [Tights]
 連合から支給される正規軍用のタイツ。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=212031201
@@ -25125,7 +25125,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_Shoes_12
 0
 0
 0
-連合正規軍服[靴]
+Commissioned League Military Uniform [Shoes]
 連合から支給される正規軍用の靴。\n旧式よりもデザインが洗練されているようだ。
 
 ID=212031601
@@ -25135,7 +25135,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_HairAcc02_16
 0
 0
 0
-連合正規軍服[将校帽子]
+Commissioned League Military Uniform [Hat]
 連合から支給される正規軍用の将校帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=212031001
@@ -25145,7 +25145,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFregular_Back_10
 0
 0
 0
-連合正規軍服[通信カバン]
+Commissioned League Military Uniform [Bag]
 連合から支給される正規軍用の通信カバン。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=213010901
@@ -25525,7 +25525,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Default_Costume02_08
 0
 0
 0
-Vengeful Sword [Pants]
+Vengeful Sword [Bottom]
 ハルのソウルエナジーが具現化した下衣。
 
 ID=213101101
@@ -25565,7 +25565,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！
 
 ID=213110801
@@ -25575,7 +25575,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！
 
 ID=213111101
@@ -25605,7 +25605,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。
 
 ID=213120801
@@ -25635,7 +25635,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Basic1_Costume01_07
 0
 0
 0
-Damaged Uniform A [Coat]
+Damaged Uniform A [Top]
 アーウィンが通っていたプライド高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=221010801
@@ -25675,7 +25675,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Basic2_Costume01_07
 0
 0
 0
-Damaged Uniform B [Coat]
+Damaged Uniform B [Top]
 アーウィンが通っていたプライド高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=221020801
@@ -25715,7 +25715,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Basic3_Costume01_07
 0
 0
 0
-Damaged Uniform C [Coat]
+Damaged Uniform C [Top]
 アーウィンが通っていたプライド高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=221030801
@@ -25755,7 +25755,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Basic4_Costume01_07
 0
 0
 0
-Damaged Uniform D [Coat]
+Damaged Uniform D [Top]
 アーウィンが通っていたプライド高校の冬服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=221040801
@@ -25845,7 +25845,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=221060801
@@ -25885,7 +25885,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Sfoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=221070801
@@ -25895,7 +25895,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Sfoldtype_Costume02_08
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Bottom]
 連合から支給される旧式軍服の下衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=221071201
@@ -25916,7 +25916,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Miner_HairCap_02
 0
 0
 Work Clothes [Safety Hat]
-作業員が身につける安全帽。
+A safety hat worn by workers.
 
 ID=222010401
 Icon/Item/Costume/PC_B/PC_B_EQ_Miner_MouthAcc_04
@@ -25926,7 +25926,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Miner_MouthAcc_04
 0
 0
 Work Clothes [Dust Proof Mask]
-作業員が身につける防塵マスク。
+A dust-proof mask worn by workers.
 
 ID=222010901
 Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Costume03_09
@@ -25936,7 +25936,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Costume03_09
 0
 0
 Work Clothes [Costume]
-作業員が身につける衣装。上下セット。
+A costume worn by workers. Top and bottom set.
 
 ID=222010501
 Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Glove_05
@@ -25946,7 +25946,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Glove_05
 0
 0
 Work Clothes [Gloves]
-作業員が身につける軍手。
+A pair of gloves worn by workers.
 
 ID=222011201
 Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Shoes_12
@@ -25956,7 +25956,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Shoes_12
 0
 0
 Work Clothes [Boots]
-作業員が身につける長靴。
+A pair of boots worn by workers.
 
 ID=222011301
 Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Tail_13
@@ -25966,7 +25966,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Miner_Tail_13
 0
 0
 Work Clothes [Body]
-作業員が身につけるポーチ。
+A pouch worn by workers.
 
 ID=222020301
 Icon/Item/Costume/PC_B/PC_B_EQ_NCmercenary_EyeAcc01_03
@@ -26035,7 +26035,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_HairAcc01_01
 0
 0
 0
-Union Standard Military Uniform [Standard Hat]
+Commissioned League Military Uniform [Standard Hat]
 連合から支給される正規軍用の帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=222030301
@@ -26045,7 +26045,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_EyeAcc01_03
 0
 0
 0
-連合正規軍服[将校眼鏡]
+Commissioned League Military Uniform [Glasses]
 連合から支給される正規軍用の将校眼鏡。\n身に付けると、クールな男になれそうな気がする。
 
 ID=222030701
@@ -26055,7 +26055,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_Costume01_07
 0
 0
 0
-連合正規軍服[上衣]
+Commissioned League Military Uniform [Top]
 連合から支給される正規軍用の上衣。\n旧式よりもデザインが洗練されているようだ。
 
 ID=222030501
@@ -26065,7 +26065,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_Glove_05
 0
 0
 0
-連合正規軍服[手袋]
+Commissioned League Military Uniform [Gloves]
 連合から支給される正規軍用の手袋。\n旧式よりもデザインが洗練されているようだ。
 
 ID=222031301
@@ -26075,7 +26075,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_Tail_13
 0
 0
 0
-連合正規軍服[水筒]
+Commissioned League Military Uniform [Water Bottle]
 連合から支給される正規軍用の水筒。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=222030801
@@ -26095,7 +26095,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_Shoes_12
 0
 0
 0
-連合正規軍服[靴]
+Commissioned League Military Uniform [Shoes]
 連合から支給される正規軍用の靴。\n旧式よりもデザインが洗練されているようだ。
 
 ID=222031601
@@ -26105,7 +26105,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_HairAcc02_16
 0
 0
 0
-連合正規軍服[将校帽子]
+Commissioned League Military Uniform [Hat]
 連合から支給される正規軍用の将校帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=222031001
@@ -26115,7 +26115,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SFregular_Back_10
 0
 0
 0
-連合正規軍服[通信カバン]
+Commissioned League Military Uniform [Bag]
 連合から支給される正規軍用の通信カバン。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=223010101
@@ -26565,7 +26565,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！
 
 ID=223110801
@@ -26605,7 +26605,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Sfoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。
 
 ID=223120801
@@ -26615,7 +26615,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Sfoldtype_Costume02_08
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Bottom]
 連合から支給される旧式軍服の下衣。\n一昔前のデザインだ。
 
 ID=223121201
@@ -26675,7 +26675,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Basic1_Costume01_07
 0
 0
 0
-Damaged Uniform A [Coat]
+Damaged Uniform A [Top]
 リリーが通っていた\nブルームメルヘン女子中春服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=231010801
@@ -26715,7 +26715,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Basic2_Costume01_07
 0
 0
 0
-Damaged Uniform B [Coat]
+Damaged Uniform B [Top]
 リリーが通っていた\nブルームメルヘン女子中春服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=231020801
@@ -26755,7 +26755,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Basic3_Costume01_07
 0
 0
 0
-Damaged Uniform C [Coat]
+Damaged Uniform C [Top]
 リリーが通っていた\nブルームメルヘン女子中春服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=231030801
@@ -26795,7 +26795,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Basic4_Costume01_07
 0
 0
 0
-Damaged Uniform D [Coat]
+Damaged Uniform D [Top]
 リリーが通っていた\nブルームメルヘン女子中春服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=231040801
@@ -26885,7 +26885,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=231060801
@@ -26895,7 +26895,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=231061101
@@ -26925,7 +26925,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=231070801
@@ -26976,7 +26976,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Miner_HairCap_02
 0
 0
 Work Clothes [Safety Hat]
-作業員が身につける安全帽。
+A safety hat worn by workers.
 
 ID=232010401
 Icon/Item/Costume/PC_C/PC_C_EQ_Miner_MouthAcc_04
@@ -26986,7 +26986,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Miner_MouthAcc_04
 0
 0
 Work Clothes [Dust Proof Mask]
-作業員が身につける防塵マスク。
+A dust-proof mask worn by workers.
 
 ID=232010701
 Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Costume03_09
@@ -26996,7 +26996,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Costume03_09
 0
 0
 Work Clothes [Costume]
-作業員が身につける衣装。上下セット。
+A costume worn by workers. Top and bottom set.
 
 ID=232010501
 Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Glove_05
@@ -27006,7 +27006,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Glove_05
 0
 0
 Work Clothes [Gloves]
-作業員が身につける軍手。
+A pair of gloves worn by workers.
 
 ID=232011201
 Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Shoes_12
@@ -27016,7 +27016,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Shoes_12
 0
 0
 Work Clothes [Boots]
-作業員が身につける長靴。
+A pair of boots worn by workers.
 
 ID=232011301
 Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Tail_13
@@ -27026,7 +27026,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Miner_Tail_13
 0
 0
 Work Clothes [Body]
-作業員が身につけるポーチ。
+A pouch worn by workers.
 
 ID=232020301
 Icon/Item/Costume/PC_C/PC_C_EQ_NCmercenary_EyeAcc01_03
@@ -27095,7 +27095,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_HairAcc01_01
 0
 0
 0
-Union Standard Military Uniform [Standard Hat]
+Commissioned League Military Uniform [Standard Hat]
 連合から支給される正規軍用の帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=232030701
@@ -27105,7 +27105,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_Costume01_07
 0
 0
 0
-連合正規軍服[上衣]
+Commissioned League Military Uniform [Top]
 連合から支給される正規軍用の上衣。\n旧式よりもデザインが洗練されているようだ。
 
 ID=232030801
@@ -27115,7 +27115,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_Costume02_08
 0
 0
 0
-連合正規軍服[スカート]
+Commissioned League Military Uniform [Skirt]
 連合から支給される正規軍用のスカート。\n旧式よりもデザインが洗練されているようだ。
 
 ID=232030301
@@ -27125,7 +27125,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_EyeAcc01_03
 0
 0
 0
-連合正規軍服[将校眼鏡]
+Commissioned League Military Uniform [Glasses]
 連合から支給される正規軍用の将校眼鏡。\n身に付けると、良いパンチが当たりそうだ。
 
 ID=232030501
@@ -27135,7 +27135,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_Glove_05
 0
 0
 0
-連合正規軍服[手袋]
+Commissioned League Military Uniform [Gloves]
 連合から支給される正規軍用の手袋。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=232031101
@@ -27145,7 +27145,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_Socks_11
 0
 0
 0
-連合正規軍服[タイツ]
+Commissioned League Military Uniform [Tights]
 連合から支給される正規軍用のタイツ。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=232031201
@@ -27155,7 +27155,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_Shoes_12
 0
 0
 0
-連合正規軍服[靴]
+Commissioned League Military Uniform [Shoes]
 連合から支給される正規軍用の靴。\n旧式よりもデザインが洗練されているようだ。
 
 ID=232031601
@@ -27165,7 +27165,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_HairAcc02_16
 0
 0
 0
-連合正規軍服[将校帽子]
+Commissioned League Military Uniform [Hat]
 連合から支給される正規軍用の将校帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=232031001
@@ -27175,7 +27175,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFregular_Back_10
 0
 0
 0
-連合正規軍服[通信カバン]
+Commissioned League Military Uniform [Bag]
 連合から支給される正規軍用の通信カバン。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=233010701
@@ -27435,7 +27435,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Repair2_Costume01_07
 0
 0
 0
-Lily's Uniform B [Jacket]
+Lily's Uniform B [Top]
 破れていたブルームメルヘン女子中制服を\n直したもの。この際、贅沢は言ってられない。
 
 ID=233060801
@@ -27465,7 +27465,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Repair3_Costume01_07
 0
 0
 0
-Lily's Uniform C [Jacket]
+Lily's Uniform C [Top]
 破れていたブルームメルヘン女子中制服を\n直したもの。この際、贅沢は言ってられない。
 
 ID=233070801
@@ -27615,7 +27615,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！
 
 ID=233110801
@@ -27625,7 +27625,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！
 
 ID=233111101
@@ -27655,7 +27655,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。
 
 ID=233120801
@@ -27685,7 +27685,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Basic1_Costume01_07
 0
 0
 0
-Damaged Uniform A [Coat]
+Damaged Uniform A [Top]
 ステラが通っていたビンセント女子中の制服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=251010801
@@ -27725,7 +27725,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Basic2_Costume01_07
 0
 0
 0
-Damaged Uniform B [Coat]
+Damaged Uniform B [Top]
 ステラが通っていたビンセント女子中の制服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=251020801
@@ -27765,7 +27765,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Basic3_Costume01_07
 0
 0
 0
-Damaged Uniform C [Coat]
+Damaged Uniform C [Top]
 ステラが通っていたビンセント女子中の制服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=251030801
@@ -27805,7 +27805,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Basic4_Costume01_07
 0
 0
 0
-Damaged Uniform D [Coat]
+Damaged Uniform D [Top]
 ステラが通っていたビンセント女子中の制服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=251040801
@@ -27895,7 +27895,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=251060801
@@ -27905,7 +27905,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=251061101
@@ -27935,7 +27935,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=251070801
@@ -27986,7 +27986,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Miner_HairCap_02
 0
 0
 Work Clothes [Safety Hat]
-作業員が身につける安全帽。
+A safety hat worn by workers.
 
 ID=252010401
 Icon/Item/Costume/PC_E/PC_E_EQ_Miner_MouthAcc_04
@@ -27996,7 +27996,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Miner_MouthAcc_04
 0
 0
 Work Clothes [Dust Proof Mask]
-作業員が身につける防塵マスク。
+A dust-proof mask worn by workers.
 
 ID=252010701
 Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Costume03_09
@@ -28006,7 +28006,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Costume03_09
 0
 0
 Work Clothes [Costume]
-作業員が身につける衣装。上下セット。
+A costume worn by workers. Top and bottom set.
 
 ID=252010501
 Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Glove_05
@@ -28016,7 +28016,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Glove_05
 0
 0
 Work Clothes [Gloves]
-作業員が身につける軍手。
+A pair of gloves worn by workers.
 
 ID=252011201
 Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Shoes_12
@@ -28026,7 +28026,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Shoes_12
 0
 0
 Work Clothes [Boots]
-作業員が身につける長靴。
+A pair of boots worn by workers.
 
 ID=252011301
 Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Tail_13
@@ -28036,7 +28036,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Miner_Tail_13
 0
 0
 Work Clothes [Body]
-作業員が身につけるポーチ。
+A pouch worn by workers.
 
 ID=252020301
 Icon/Item/Costume/PC_E/PC_E_EQ_NCmercenary_EyeAcc01_03
@@ -28105,7 +28105,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFregular_HairAcc01_01
 0
 0
 0
-Union Standard Military Uniform [Standard Hat]
+Commissioned League Military Uniform [Standard Hat]
 連合から支給される正規軍用の帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=252030701
@@ -28115,7 +28115,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFregular_Costume01_07
 0
 0
 0
-連合正規軍服[上衣]
+Commissioned League Military Uniform [Top]
 連合から支給される正規軍用の上衣。\n旧式よりもデザインが洗練されているようだ。
 
 ID=252030801
@@ -28135,7 +28135,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFregular_EyeAcc01_03
 0
 0
 0
-連合正規軍服[将校眼鏡]
+Commissioned League Military Uniform [Glasses]
 連合から支給される正規軍用の将校眼鏡。\n身に付けると、良いパンチが当たりそうだ。
 
 ID=252030501
@@ -28145,7 +28145,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFregular_Glove_05
 0
 0
 0
-連合正規軍服[手袋]
+Commissioned League Military Uniform [Gloves]
 連合から支給される正規軍用の手袋。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=252031101
@@ -28165,7 +28165,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFregular_Shoes_12
 0
 0
 0
-連合正規軍服[靴]
+Commissioned League Military Uniform [Shoes]
 連合から支給される正規軍用の靴。\n旧式よりもデザインが洗練されているようだ。
 
 ID=252031601
@@ -28175,7 +28175,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFregular_HairAcc02_16
 0
 0
 0
-連合正規軍服[将校帽子]
+Commissioned League Military Uniform [Hat]
 連合から支給される正規軍用の将校帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=252031001
@@ -28185,7 +28185,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFregular_Back_10
 0
 0
 0
-連合正規軍服[通信カバン]
+Commissioned League Military Uniform [Bag]
 連合から支給される正規軍用の通信カバン。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=253010901
@@ -28615,7 +28615,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！
 
 ID=253110801
@@ -28625,7 +28625,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！
 
 ID=253111101
@@ -28655,7 +28655,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。
 
 ID=253120801
@@ -29095,7 +29095,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_NormalEyes2_EyeAcc01_03
 0
 0
 0
-Star Glass
+スターグラス
 星柄の眼鏡。\nこれをかけて外出するとしたら…遊園地かな？
 
 ID=211220301
@@ -29255,7 +29255,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_AchieveDeath2_HairAcc01_01
 0
 0
 0
-エンジェルリング
+Angel Ring
 数々の死線を越えた者に与えられる。気分は天使？
 
 ID=211380101
@@ -29305,7 +29305,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_AchieveIF_HairAcc01_01
 0
 0
 0
-ドローンヘッド
+Drone Head
 色々な機能がありそうだが、\n実はただ頭の上に浮いていることしかできない。
 
 ID=211430301
@@ -29745,7 +29745,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_NormalEyes2_EyeAcc01_03
 0
 0
 0
-Star Glass
+スターグラス
 星柄の眼鏡。\nこれをかけて外出するとしたら…遊園地かな？
 
 ID=221220301
@@ -29905,7 +29905,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_AchieveDeath2_HairAcc01_01
 0
 0
 0
-エンジェルリング
+Angel Ring
 数々の死線を越えた者に与えられる。気分は天使？
 
 ID=221380101
@@ -29955,7 +29955,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_AchieveIF_HairAcc01_01
 0
 0
 0
-ドローンヘッド
+Drone Head
 色々な機能がありそうだが、\n実はただ頭の上に浮いていることしかできない。
 
 ID=221430301
@@ -30395,7 +30395,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_NormalEyes2_EyeAcc01_03
 0
 0
 0
-Star Glass
+スターグラス
 星柄の眼鏡。\nこれをかけて外出するとしたら…遊園地かな？
 
 ID=231220301
@@ -30555,7 +30555,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_AchieveDeath2_HairAcc01_01
 0
 0
 0
-エンジェルリング
+Angel Ring
 数々の死線を越えた者に与えられる。気分は天使？
 
 ID=231380101
@@ -30605,7 +30605,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_AchieveIF_HairAcc01_01
 0
 0
 0
-ドローンヘッド
+Drone Head
 色々な機能がありそうだが、\n実はただ頭の上に浮いていることしかできない。
 
 ID=231430301
@@ -31045,7 +31045,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_NormalEyes2_EyeAcc01_03
 0
 0
 0
-Star Glass
+スターグラス
 星柄の眼鏡。\nこれをかけて外出するとしたら…遊園地かな？
 
 ID=251220301
@@ -31205,7 +31205,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_AchieveDeath2_HairAcc01_01
 0
 0
 0
-エンジェルリング
+Angel Ring
 数々の死線を越えた者に与えられる。気分は天使？
 
 ID=251380101
@@ -31255,7 +31255,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_AchieveIF_HairAcc01_01
 0
 0
 0
-ドローンヘッド
+Drone Head
 色々な機能がありそうだが、\n実はただ頭の上に浮いていることしかできない。
 
 ID=251430301
@@ -43145,7 +43145,7 @@ Icon/Item/BluePrint/Costume/Head
 0
 0
 0
-[設計図]エンジェルリング
+[Blueprint] Angel Ring
 エンジェルリングの\n製作に必要な設計図。
 
 ID=711110138
@@ -43195,7 +43195,7 @@ Icon/Item/BluePrint/Costume/Head
 0
 0
 0
-[設計図]ドローンヘッド
+[Blueprint] Drone Head
 ドローンヘッドの\n製作に必要な設計図。
 
 ID=711110343
@@ -43745,7 +43745,7 @@ Icon/Item/BluePrint/Costume/Head
 0
 0
 0
-[設計図]エンジェルリング
+[Blueprint] Angel Ring
 エンジェルリングの\n製作に必要な設計図。
 
 ID=712110138
@@ -43795,7 +43795,7 @@ Icon/Item/BluePrint/Costume/Head
 0
 0
 0
-[設計図]ドローンヘッド
+[Blueprint] Drone Head
 ドローンヘッドの\n製作に必要な設計図。
 
 ID=712110343
@@ -44345,7 +44345,7 @@ Icon/Item/BluePrint/Costume/Head
 0
 0
 0
-[設計図]エンジェルリング
+[Blueprint] Angel Ring
 エンジェルリングの\n製作に必要な設計図。
 
 ID=713110138
@@ -44395,7 +44395,7 @@ Icon/Item/BluePrint/Costume/Head
 0
 0
 0
-[設計図]ドローンヘッド
+[Blueprint] Drone Head
 ドローンヘッドの\n製作に必要な設計図。
 
 ID=713110343
@@ -44945,7 +44945,7 @@ Icon/Item/BluePrint/Costume/Head
 0
 0
 0
-[設計図]エンジェルリング
+[Blueprint] Angel Ring
 エンジェルリングの\n製作に必要な設計図。
 
 ID=715110138
@@ -44995,7 +44995,7 @@ Icon/Item/BluePrint/Costume/Head
 0
 0
 0
-[設計図]ドローンヘッド
+[Blueprint] Drone Head
 ドローンヘッドの\n製作に必要な設計図。
 
 ID=715110343
@@ -46855,7 +46855,7 @@ Icon/Item/Material/Furniture/Make_0_StarGlass
 0
 0
 0
-Star Glass
+スターグラス
 [マイルーム：連合病院シリーズ]の家具製作材料。\n連合の特殊技術でかつてない光沢と透明感を出した。\n加工には異能力者が動員されたという。\nガラス片を加工すると入手できる。\n\n[家具製作材料]
 
 ID=710111003
@@ -48825,7 +48825,7 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_StandardScythe
 0
 0
 0
-ツインヘッドパペットサイス
+Twin Head Puppet Scythe
 ソウルワーカー専用武器。\n特別な力を宿しているため、使用者は限られる。\n用途によって形態が変わることも…。\n\n[ソウルウェポン：サイス]
 
 ID=113113551
@@ -50505,7 +50505,7 @@ Icon/Item/Gear/HeadGear/GEA_HarbingerHead
 0
 0
 0
-ウルフスレイヤーヘッド
+Wolf Slayer Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510033451
@@ -50515,7 +50515,7 @@ Icon/Item/Gear/HeadGear/GEA_HarbingerHead
 0
 0
 0
-ダイアボーンヘッド
+Diabon Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510043551
@@ -50525,7 +50525,7 @@ Icon/Item/Gear/HeadGear/GEA_HarbingerHead
 0
 0
 0
-ドレッドウルフヘッド
+Dread Wolf Head
 ソウルワーカー専用防具。\nボーリング現場で遭遇したソウルジャンクの覚醒体、\nカインとの戦闘情報を基に作られた。\n頭に着用する。\n\nこのソウルジャンク…\n昔のアニメに出てた悪者に似てないか？\n-ゼニス-\n\n[ギア：ヘッド]
 
 ID=510061301
@@ -50555,7 +50555,7 @@ Icon/Item/Gear/HeadGear/GEA_DollBlasterHeadType
 0
 0
 0
-ドールクラウンヘッド
+Doll Crown Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510083551
@@ -50565,7 +50565,7 @@ Icon/Item/Gear/HeadGear/GEA_DollBlasterHeadType
 0
 0
 0
-ドールブラスターヘッド
+Doll Blaster Head
 ソウルワーカー専用防具。\nRスクエアの巨大な人形「ビッグパペット」との\n戦闘情報を基に作られた。頭に着用する。\n\nこの人形、映画にでも出てきそうだよな。\nモンスターパニック系の異色モンスターとかでさぁ。\n-ゼニス-\n\n[ギア：ヘッド]
 
 ID=510091301
@@ -50585,7 +50585,7 @@ Icon/Item/Gear/HeadGear/GEA_FleesHead
 0
 0
 0
-ビシャスドールヘッド
+Vicious Doll Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510103451
@@ -50595,7 +50595,7 @@ Icon/Item/Gear/HeadGear/GEA_FleesHead
 0
 0
 0
-リビングドールヘッド
+Living Doll Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510113551
@@ -50605,7 +50605,7 @@ Icon/Item/Gear/HeadGear/GEA_FleesHead
 0
 0
 0
-ファナティックペースヘッド
+Fanatic Pace Head
 ソウルワーカー専用防具。\n怪電波発生地域の「ジャック・ザ・キング」との\n戦闘情報を基に作られた。頭に着用する。\n\nおぉ、見た目によらないもんだな…。\n雑魚だと思ってたぜ！\n-ゼニス-\n\n[ギア：ヘッド]
 
 ID=510111301
@@ -50625,7 +50625,7 @@ Icon/Item/Gear/HeadGear/GEA_BroadHead
 0
 0
 0
-アクロバットヘッド
+Acrobat Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510123451
@@ -50635,7 +50635,7 @@ Icon/Item/Gear/HeadGear/GEA_BroadHead
 0
 0
 0
-マッドクロウンヘッド
+Mad Clown Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510133551
@@ -50645,7 +50645,7 @@ Icon/Item/Gear/HeadGear/GEA_BroadHead
 0
 0
 0
-ハーレクインウィアドヘッド
+Harlequin Weird Head
 ソウルワーカー専用防具。\n廃墟の病院で遭遇した人形の主人「エドガー」との\n戦闘情報を基に作られた。頭に着用する。\n\nオレ、道化師ってキライなんだ。\nあんな変装して笑ってられるなんて、おかしいだろ？\n-ゼニス-\n\n[ギア：ヘッド]
 
 ID=510141301
@@ -50655,7 +50655,7 @@ Icon/Item/Gear/HeadGear/GEA_RockProtectionHead
 0
 0
 0
-インヘンストヘッド
+Inhenst Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510142301
@@ -50665,7 +50665,7 @@ Icon/Item/Gear/HeadGear/GEA_RockProtectionHead
 0
 0
 0
-モロックヘッド
+Morock Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510153451
@@ -50675,7 +50675,7 @@ Icon/Item/Gear/HeadGear/GEA_RockProtectionHead
 0
 0
 0
-クエイクストーカーヘッド
+Quake Stalker Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510163551
@@ -50685,7 +50685,7 @@ Icon/Item/Gear/HeadGear/GEA_RockProtectionHead
 0
 0
 0
-ロックプロテクトヘッド
+Lock Protect Head
 ソウルワーカー専用防具。\n海岸道路に現れた「アスファルトゴーレム」との\n戦闘情報を基に作られた。頭に着用する。\n\nゴーレム…。\nゴーレムって無駄に堅いイメージなんだよなぁ。\n-ゼニス-\n\n[ギア：ヘッド]
 
 ID=510161301
@@ -50695,7 +50695,7 @@ Icon/Item/Gear/HeadGear/GEA_CorruptionprotectHead
 0
 0
 0
-フォージドヘッド
+Forged Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510162301
@@ -50715,7 +50715,7 @@ Icon/Item/Gear/HeadGear/GEA_CorruptionprotectHead
 0
 0
 0
-ジャンクプロテクトヘッド
+Junk Protect Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510183551
@@ -50725,7 +50725,7 @@ Icon/Item/Gear/HeadGear/GEA_CorruptionprotectHead
 0
 0
 0
-コラププロテクトヘッド
+Corrupt Protect Head
 ソウルワーカー専用防具。\n地下水路に現れた「ジャンクナイト」との\n戦闘情報を基に作られた。頭に着用する。\n\nどこの誰かは知らないけど、不憫だよな。\n生まれ変われるなら、\nお姫様を守るナイトになってほしいよ。\n-ゼニス-\n\n[ギア：ヘッド]
 
 ID=510191301
@@ -50735,7 +50735,7 @@ Icon/Item/Gear/HeadGear/GEA_InsectHunterHead
 0
 0
 0
-メッシュヘッド
+Mesh Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510192301
@@ -50745,7 +50745,7 @@ Icon/Item/Gear/HeadGear/GEA_InsectHunterHead
 0
 0
 0
-インセクトハンターヘッド
+Insect Hunter Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510203451
@@ -50755,7 +50755,7 @@ Icon/Item/Gear/HeadGear/GEA_InsectHunterHead
 0
 0
 0
-インセクトスレイヤーヘッド
+Insect Layer Head
 ソウルワーカー専用防具。\n外部からの攻撃に瞬時に反応し、\n透明なシールドで着用者の身体を保護する。\n頭に着用する。\n\n[ギア：ヘッド]
 
 ID=510213551
@@ -50765,7 +50765,7 @@ Icon/Item/Gear/HeadGear/GEA_InsectHunterHead
 0
 0
 0
-アラクニードヘッド
+Arachnid Head
 ソウルワーカー専用防具。\n捨てられた屋敷に現れた「アラクニス」との\n戦闘情報を基に作られた。頭に着用する。\n\n優れた機織りが出てくる神話を知ってるかい？\n一度、神と機織りで勝負して勝っちゃったんだよ。\n彼女、どうなったと思う？\nかわいそうに…蜘蛛になってしまいましたとさ。\n-ゼニス-\n\n[ギア：ヘッド]
 
 ID=510211301
@@ -54315,7 +54315,7 @@ Icon/Item/Accessory/Earring/NoblessRelicEarring
 0
 0
 0
-ウェブシルクイヤリング
+Web Silk Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430203401
@@ -54325,7 +54325,7 @@ Icon/Item/Accessory/Earring/NoblessRelicEarring
 0
 0
 0
-ダージリンジュアルイヤリング
+Darjeeling Jewelry Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430213551
@@ -54335,7 +54335,7 @@ Icon/Item/Accessory/Earring/NoblessRelicEarring
 0
 0
 0
-ノブレスレリックイヤリング
+Nobel's Relic Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n報告内容：蜘蛛型の特異個体発見。\n名称を「アラクニス」に修正。要捕獲対象。\nバキュームベイン研究に影響を与える可能性大。\n-ネッドカンパニー内部報告-\n\n[アクセサリー：イヤリング]
 
 ID=430212301
@@ -54355,7 +54355,7 @@ Icon/Item/Accessory/Earring/SecretDevisalEarring
 0
 0
 0
-アクセスキーイヤリング
+Access Key Earrigns
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430233551
@@ -54365,7 +54365,7 @@ Icon/Item/Accessory/Earring/SecretDevisalEarring
 0
 0
 0
-シークレットデバイスイヤリング
+Secret Device Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n研究所内にビホールダーという奴がいる。\n我々が作り出した人工覚醒体だ。\n研究所内がこうなったのは全て奴のせいだ。\n-ヘンリー-\n\n[アクセサリー：イヤリング]
 
 ID=430242301
@@ -54375,7 +54375,7 @@ Icon/Item/Accessory/Earring/GriefTearEarring
 0
 0
 0
-シェタードスケイルイヤリング
+Shattered Scale Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430253401
@@ -54385,7 +54385,7 @@ Icon/Item/Accessory/Earring/GriefTearEarring
 0
 0
 0
-ブラックウィングイヤリング
+Black Wing Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430263551
@@ -54395,7 +54395,7 @@ Icon/Item/Accessory/Earring/GriefTearEarring
 0
 0
 0
-グリーフティアイヤリング
+Grief Tear Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\nキャサリン…！すまない…すまない…！！\n-アーロン-\n\n[アクセサリー：イヤリング]
 
 ID=430262301
@@ -54405,7 +54405,7 @@ Icon/Item/Accessory/Earring/ACC_0_BleedHeartEarring
 0
 0
 0
-ギャングスターイヤリング
+Gangster Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430273401
@@ -54415,7 +54415,7 @@ Icon/Item/Accessory/Earring/ACC_0_BleedHeartEarring
 0
 0
 0
-レッドホーンイヤリング
+Red Horn Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430283551
@@ -54425,7 +54425,7 @@ Icon/Item/Accessory/Earring/ACC_0_BleedHeartEarring
 0
 0
 0
-ブリーディングハーツイヤリング
+Bleeding Hearts Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\nぐっ、これは…ただの変種じゃないな…！\nそうか…フランマ様が言っていたのはコイツの事か！\n-スカー-\n\n[アクセサリー：イヤリング]
 
 ID=430282301
@@ -54435,7 +54435,7 @@ Icon/Item/Accessory/Earring/ACC_0_InvadersEarring
 0
 0
 0
-インベーダーズイヤリング
+Invader's Earrigns
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430293401
@@ -54445,7 +54445,7 @@ Icon/Item/Accessory/Earring/ACC_0_InvadersEarring
 0
 0
 0
-ヴェノムチェーンイヤリング
+Venom Chain Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430303551
@@ -54455,7 +54455,7 @@ Icon/Item/Accessory/Earring/ACC_0_InvadersEarring
 0
 0
 0
-ネッドトライゴンイヤリング
+Ned Trigon Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\nふふふ…面白い子。\nあの人が気に入るのもわかる気がするわ。\n楽しませてくれるのよね…？ふふ、期待してるわよ。\n-ポイズン-\n\n[アクセサリー：イヤリング]
 
 ID=430302301
@@ -54465,7 +54465,7 @@ Icon/Item/Accessory/Earring/ACC_0_GaruraCavalierEarring
 0
 0
 0
-ビーストアイイヤリング
+Beast Eye Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430313401
@@ -54475,7 +54475,7 @@ Icon/Item/Accessory/Earring/ACC_0_GaruraCavalierEarring
 0
 0
 0
-イアリーデコイヤリング
+Early Deco Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430323551
@@ -54485,7 +54485,7 @@ Icon/Item/Accessory/Earring/ACC_0_GaruraCavalierEarring
 0
 0
 0
-カルラトゥースイヤリング
+Carla Tooth Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n\nギャァァ！ギャァァ！ギャギャァァ！\n-クイーンカルラがファルコンを呼ぶ鳴き声-\n\n[アクセサリー：イヤリング]
 
 ID=430332301
@@ -54505,7 +54505,7 @@ Icon/Item/Accessory/Earring/ACC_0_RustyLocketEarring
 0
 0
 0
-リメインドロケットイヤリング
+Reminder Rocket Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430353551
@@ -54515,7 +54515,7 @@ Icon/Item/Accessory/Earring/ACC_0_RustyLocketEarring
 0
 0
 0
-ハロウジェムイヤリング
+Hallow Gem Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n私と契約を結び…ソウルワーカーになってくれ！\n-？？-\n\n[アクセサリー：イヤリング]
 
 ID=430362301
@@ -54525,7 +54525,7 @@ Icon/Item/Accessory/Earring/ACC_0_VeiledArmsEarring
 0
 0
 0
-ヘビーチェーンイヤリング
+Heavy Chain Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430373401
@@ -54535,7 +54535,7 @@ Icon/Item/Accessory/Earring/ACC_0_VeiledArmsEarring
 0
 0
 0
-ベールドアームズイヤリング
+Bared Arms Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430383551
@@ -54545,7 +54545,7 @@ Icon/Item/Accessory/Earring/ACC_0_VeiledArmsEarring
 0
 0
 0
-ブレードピースイヤリング
+Blade Piece Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\nやっと…仇がとれたわ。\n随分待たせちゃったわね。ごめんなさい。\nでも、これで安らかに眠れるでしょ…？\n-セニア、仲間の墓碑の前で-\n\n[アクセサリー：イヤリング]
 
 ID=430382301
@@ -54555,7 +54555,7 @@ Icon/Item/Accessory/Earring/ACC_0_BoltEarring
 0
 0
 0
-ボルトイヤリング
+Bolt Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430393401
@@ -54565,7 +54565,7 @@ Icon/Item/Accessory/Earring/ACC_0_BoltEarring
 0
 0
 0
-スカンクワークスイヤリング
+Skunk Works Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430403551
@@ -54575,7 +54575,7 @@ Icon/Item/Accessory/Earring/ACC_0_BoltEarring
 0
 0
 0
-ビットレイアスイヤリング
+Bit Ray Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\nラバン、起きろ。\n出番だ。\n-ヘンリー-\n\n[アクセサリー：イヤリング]
 
 ID=430412301
@@ -54585,7 +54585,7 @@ Icon/Item/Accessory/Earring/ACC_0_LucysBountyEarring
 0
 0
 0
-セントリーメダルイヤリング
+Sentry Metal Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430423401
@@ -54595,7 +54595,7 @@ Icon/Item/Accessory/Earring/ACC_0_LucysBountyEarring
 0
 0
 0
-コマンダーメダルイヤリング
+Commander Medal Earrigns
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430433551
@@ -54605,7 +54605,7 @@ Icon/Item/Accessory/Earring/ACC_0_LucysBountyEarring
 0
 0
 0
-ルシスバウンティイヤリング
+Lucy's Bounty Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n中央制御室の警備及び侵入者撃退に関して\n多大なる功績を立てたロボットとして表彰する。\nルインフォートレスのメインAI「ルーシー」より。\n-ルーシーの勲章に書かれた言葉-\n\n[アクセサリー：イヤリング]
 
 ID=430432301
@@ -54615,7 +54615,7 @@ Icon/Item/Accessory/Earring/ACC_0_ArkTearEarring
 0
 0
 0
-ウルブスティアイヤリング
+Ulbus Tear Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430443401
@@ -54625,7 +54625,7 @@ Icon/Item/Accessory/Earring/ACC_0_ArkTearEarring
 0
 0
 0
-マシンズティアイヤリング
+Machine's Tear Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430453551
@@ -54635,7 +54635,7 @@ Icon/Item/Accessory/Earring/ACC_0_ArkTearEarring
 0
 0
 0
-アークティアイヤリング
+Arctia Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n歳は大体16～18、身長は170cm以下ね。\nキュートな外見に灰色に輝く髪の毛がとても印象的。金色のまつ毛がチャームポイント！\n-ベティの秘密日記より…-\n\n[アクセサリー：イヤリング]
 
 ID=430452301
@@ -54645,7 +54645,7 @@ Icon/Item/Accessory/Earring/ACC_0_SlaughtersEyeEarring
 0
 0
 0
-トレッカーランプイヤリング
+Trekker Lamp Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430463401
@@ -54655,7 +54655,7 @@ Icon/Item/Accessory/Earring/ACC_0_SlaughtersEyeEarring
 0
 0
 0
-ゴーストアイイヤリング
+Ghost Eye Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430473551
@@ -54665,7 +54665,7 @@ Icon/Item/Accessory/Earring/ACC_0_SlaughtersEyeEarring
 0
 0
 0
-スラーズアイイヤリング
+Slur's Eye Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n歳は大体18～19、身長はブーツを考慮して165cm。\n開放的な服装が彼女の魅力を十分引き出してるわ！\n-ベティの秘密日記より…-\n\n[アクセサリー：イヤリング]
 
 ID=430472301
@@ -54675,7 +54675,7 @@ Icon/Item/Accessory/Earring/ACC_0_BraveCoreEarring
 0
 0
 0
-ティミッドコアイヤリング
+Timid Core Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430483401
@@ -54685,7 +54685,7 @@ Icon/Item/Accessory/Earring/ACC_0_BraveCoreEarring
 0
 0
 0
-リコーズコアイヤリング
+Rico's Core Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430493551
@@ -54695,7 +54695,7 @@ Icon/Item/Accessory/Earring/ACC_0_BraveCoreEarring
 0
 0
 0
-ブレイブコアイヤリング
+Brave Core Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n真の勇者が身に付けるこのコアは、\n勇者の剣を持っている時、勇者剣法第1式、\n抜剣を使えるようにしてくれるという。\n※ロボットに登場中のみ使用可能。\n-？？-\n\n[アクセサリー：イヤリング]
 
 ID=430492301
@@ -54705,7 +54705,7 @@ Icon/Item/Accessory/Earring/ACC_0_HologramSphereEarring
 0
 0
 0
-ビジョンスフィアイヤリング
+Vision Sphere Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430503401
@@ -54715,7 +54715,7 @@ Icon/Item/Accessory/Earring/ACC_0_HologramSphereEarring
 0
 0
 0
-イリュージョンイヤリング
+Illusion Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430513551
@@ -54725,7 +54725,7 @@ Icon/Item/Accessory/Earring/ACC_0_HologramSphereEarring
 0
 0
 0
-ホログラムスフィアイヤリング
+Hologram Sphere Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。耳に着用する。\n\n…100kgのお菓子が必要な訓練って何だ？\n-ニアソウルワーカー訓練過程研究報告中…-\n\n[アクセサリー：イヤリング]
 
 ID=430512301
@@ -54735,7 +54735,7 @@ Icon/Item/Accessory/Earring/ACC_0_AscensionerBuckleEarring
 0
 0
 0
-ブロークンリムイヤリング
+Broken Rim Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430523401
@@ -54745,7 +54745,7 @@ Icon/Item/Accessory/Earring/ACC_0_AscensionerBuckleEarring
 0
 0
 0
-アセンションリムイヤリング
+Ascension Rim Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430533551
@@ -54755,7 +54755,7 @@ Icon/Item/Accessory/Earring/ACC_0_AscensionerBuckleEarring
 0
 0
 0
-アセンションバックルイヤリング
+Ascension Buckle Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\nどうすればニアソウルワーカーに会えるかなぁ？\n色々取材してみたいのよね。好きな食べ物とか、\n理想のタイプとか…あぁ、直接インタビューしたい！\n-ベティの秘密日記より…-\n\n[アクセサリー：イヤリング]
 
 ID=430532301
@@ -54765,7 +54765,7 @@ Icon/Item/Accessory/Earring/ACC_0_GlaresShardEarring
 0
 0
 0
-ブロークンシャードイヤリング
+Broken Shard Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430543401
@@ -54775,7 +54775,7 @@ Icon/Item/Accessory/Earring/ACC_0_GlaresShardEarring
 0
 0
 0
-ペイディードシャードイヤリング
+Payday Shard Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430553551
@@ -54785,7 +54785,7 @@ Icon/Item/Accessory/Earring/ACC_0_GlaresShardEarring
 0
 0
 0
-クレアスシャードイヤリング
+Creature's Shard Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\nシオン…私は信じていました。\nあなたが我々を楽園へと導いてくれる天使だと…。\n-ある研究員の日誌より…-\n\n[アクセサリー：イヤリング]
 
 ID=440242301
@@ -54795,7 +54795,7 @@ Icon/Item/Accessory/Ring/GriefTearRing
 0
 0
 0
-シェタードスケイルリング
+Shattered Scale Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440253401
@@ -54805,7 +54805,7 @@ Icon/Item/Accessory/Ring/GriefTearRing
 0
 0
 0
-ブラックウィングリング
+Black Wing Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440263551
@@ -54815,7 +54815,7 @@ Icon/Item/Accessory/Ring/GriefTearRing
 0
 0
 0
-グリーフティアリング
+Grief Tear Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\nキャサリン…！すまない…すまない…！！\n-アーロン-\n\n[アクセサリー：リング]
 
 ID=440262301
@@ -54825,7 +54825,7 @@ Icon/Item/Accessory/Ring/ACC_0_BleedHeartRing
 0
 0
 0
-ギャングスターリング
+Gangster Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440273401
@@ -54835,7 +54835,7 @@ Icon/Item/Accessory/Ring/ACC_0_BleedHeartRing
 0
 0
 0
-レッドホーンリング
+Red Horn Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440283551
@@ -54845,7 +54845,7 @@ Icon/Item/Accessory/Ring/ACC_0_BleedHeartRing
 0
 0
 0
-ブリーディングハーツリング
+Bleeding Hearts Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\nぐっ、これは…ただの変種じゃないな…！\nそうか…フランマ様が言っていたのはコイツの事か！\n-スカー-\n\n[アクセサリー：リング]
 
 ID=440282301
@@ -54855,7 +54855,7 @@ Icon/Item/Accessory/Ring/ACC_0_InvadersRing
 0
 0
 0
-インベーダーズリング
+Invader's Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440293401
@@ -54865,7 +54865,7 @@ Icon/Item/Accessory/Ring/ACC_0_InvadersRing
 0
 0
 0
-ヴェノムチェーンリング
+Venom Chain Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440303551
@@ -54875,7 +54875,7 @@ Icon/Item/Accessory/Ring/ACC_0_InvadersRing
 0
 0
 0
-ネッドトライゴンリング
+Ned Trigon Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\nふふふ…面白い子。\nあの人が気に入るのもわかる気がするわ。\n楽しませてくれるのよね…？ふふ、期待してるわよ。\n-ポイズン-\n\n[アクセサリー：リング]
 
 ID=440302301
@@ -54885,7 +54885,7 @@ Icon/Item/Accessory/Ring/ACC_0_GaruraCavalierRing
 0
 0
 0
-ビーストアイリング
+Beast Eye Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440313401
@@ -54895,7 +54895,7 @@ Icon/Item/Accessory/Ring/ACC_0_GaruraCavalierRing
 0
 0
 0
-イアリーデコリング
+Early Deco Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440323551
@@ -54905,7 +54905,7 @@ Icon/Item/Accessory/Ring/ACC_0_GaruraCavalierRing
 0
 0
 0
-カルラトゥースリング
+Carla Tooth Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\nギャァァ！ギャァァ！ギャギャァァ！\n-クイーンカルラがファルコンを呼ぶ鳴き声-\n\n[アクセサリー：リング]
 
 ID=440332301
@@ -54925,7 +54925,7 @@ Icon/Item/Accessory/Ring/ACC_0_RustyLocketRing
 0
 0
 0
-リメインドロケットリング
+Reminder Rocket Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440353551
@@ -54935,7 +54935,7 @@ Icon/Item/Accessory/Ring/ACC_0_RustyLocketRing
 0
 0
 0
-ハロウジェムリング
+Hallow Gem Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n私と契約を結び…ソウルワーカーになってくれ！\n-？？-\n\n[アクセサリー：リング]
 
 ID=440362301
@@ -54945,7 +54945,7 @@ Icon/Item/Accessory/Ring/ACC_0_VeiledArmsRing
 0
 0
 0
-ヘビーチェーンリング
+Heavy Chain Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440373401
@@ -54955,7 +54955,7 @@ Icon/Item/Accessory/Ring/ACC_0_VeiledArmsRing
 0
 0
 0
-ベールドアームズリング
+Bared Arms Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440383551
@@ -54965,7 +54965,7 @@ Icon/Item/Accessory/Ring/ACC_0_VeiledArmsRing
 0
 0
 0
-ブレードピースリング
+Blade Piece Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\nやっと…仇がとれたわ。\n随分待たせちゃったわね。ごめんなさい。\nでも、これで安らかに眠れるでしょ…？\n-セニア、仲間の墓碑の前で-\n\n[アクセサリー：リング]
 
 ID=440382301
@@ -54975,7 +54975,7 @@ Icon/Item/Accessory/Ring/ACC_0_BoltRing
 0
 0
 0
-ボルトリング
+Bolt Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440393401
@@ -54985,7 +54985,7 @@ Icon/Item/Accessory/Ring/ACC_0_BoltRing
 0
 0
 0
-スカンクワークスリング
+Skunk Works Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440403551
@@ -54995,7 +54995,7 @@ Icon/Item/Accessory/Ring/ACC_0_BoltRing
 0
 0
 0
-ビットレイアスリング
+Bit Ray's Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\nラバン、起きろ。\n出番だ。\n-ヘンリー-\n\n[アクセサリー：リング]
 
 ID=440412301
@@ -55005,7 +55005,7 @@ Icon/Item/Accessory/Ring/ACC_0_LucysBountyRing
 0
 0
 0
-セントリーメダルリング
+Sentry Medal Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440423401
@@ -55015,7 +55015,7 @@ Icon/Item/Accessory/Ring/ACC_0_LucysBountyRing
 0
 0
 0
-コマンダーメダルリング
+Commander Medal Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440433551
@@ -55025,7 +55025,7 @@ Icon/Item/Accessory/Ring/ACC_0_LucysBountyRing
 0
 0
 0
-ルシスバウンティリング
+Lucy's Bounty Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n中央制御室の警備及び侵入者撃退に関して\n多大なる功績を立てたロボットとして表彰する。\nルインフォートレスのメインAI「ルーシー」より。\n-ルーシーの勲章に書かれた言葉-\n\n[アクセサリー：リング]
 
 ID=440432301
@@ -55035,7 +55035,7 @@ Icon/Item/Accessory/Ring/ACC_0_ArkTearRing
 0
 0
 0
-ウルブスティアリング
+Urbus Tear Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440443401
@@ -55045,7 +55045,7 @@ Icon/Item/Accessory/Ring/ACC_0_ArkTearRing
 0
 0
 0
-マシンズティアリング
+Machine Tear Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440453551
@@ -55055,7 +55055,7 @@ Icon/Item/Accessory/Ring/ACC_0_ArkTearRing
 0
 0
 0
-アークティアリング
+Articia Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n歳は大体16～18、身長は170cm以下ね。\nキュートな外見に灰色に輝く髪の毛がとても印象的。金色のまつ毛がチャームポイント！\n-ベティの秘密日記より…-\n\n[アクセサリー：リング]
 
 ID=440452301
@@ -55065,7 +55065,7 @@ Icon/Item/Accessory/Ring/ACC_0_SlaughtersEyeRing
 0
 0
 0
-トレッカーランプリング
+Trekker Lamp Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440463401
@@ -55075,7 +55075,7 @@ Icon/Item/Accessory/Ring/ACC_0_SlaughtersEyeRing
 0
 0
 0
-ゴーストアイリング
+Ghost Eye Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440473551
@@ -55085,7 +55085,7 @@ Icon/Item/Accessory/Ring/ACC_0_SlaughtersEyeRing
 0
 0
 0
-スラーズアイリング
+Slur's Eye Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n歳は大体18～19、身長はブーツを考慮して165cm。\n開放的な服装が彼女の魅力を十分引き出してるわ！\n-ベティの秘密日記より…-\n\n[アクセサリー：リング]
 
 ID=440472301
@@ -55095,7 +55095,7 @@ Icon/Item/Accessory/Ring/ACC_0_BraveCoreRing
 0
 0
 0
-ティミッドコアリング
+Timid Core Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440483401
@@ -55105,7 +55105,7 @@ Icon/Item/Accessory/Ring/ACC_0_BraveCoreRing
 0
 0
 0
-リコーズコアリング
+Rico's Core Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440493551
@@ -55115,7 +55115,7 @@ Icon/Item/Accessory/Ring/ACC_0_BraveCoreRing
 0
 0
 0
-ブレイブコアリング
+Brave Core Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n真の勇者が身に付けるこのコアは、\n勇者の剣を持っている時、勇者剣法第1式、\n抜剣を使えるようにしてくれるという。\n※ロボットに登場中のみ使用可能。\n-？？-\n\n[アクセサリー：リング]
 
 ID=440492301
@@ -55125,7 +55125,7 @@ Icon/Item/Accessory/Ring/ACC_0_HologramSphereRing
 0
 0
 0
-ビジョンスフィアリング
+Vision Sphere Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440503401
@@ -55135,7 +55135,7 @@ Icon/Item/Accessory/Ring/ACC_0_HologramSphereRing
 0
 0
 0
-イリュージョンリング
+Illusion Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440513551
@@ -55145,7 +55145,7 @@ Icon/Item/Accessory/Ring/ACC_0_HologramSphereRing
 0
 0
 0
-ホログラムスフィアリング
+Hologram Sphere Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n…100kgのお菓子が必要な訓練って何だ？\n-ニアソウルワーカー訓練過程研究報告中…-\n\n[アクセサリー：リング]
 
 ID=440512301
@@ -55155,7 +55155,7 @@ Icon/Item/Accessory/Ring/ACC_0_AscensionerBuckleRing
 0
 0
 0
-ブロークンリムリング
+Broken Rim Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440523401
@@ -55165,7 +55165,7 @@ Icon/Item/Accessory/Ring/ACC_0_AscensionerBuckleRing
 0
 0
 0
-アセンションリムリング
+Ascension Rim Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440533551
@@ -55175,7 +55175,7 @@ Icon/Item/Accessory/Ring/ACC_0_AscensionerBuckleRing
 0
 0
 0
-アセンションバックルリング
+Ascension Buckle Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\nどうすればニアソウルワーカーに会えるかなぁ？\n色々取材してみたいんだよね。好きな食べ物とか、\n理想のタイプとか…あぁ、直接インタビューしたい！\n-ベティの秘密日記より…-\n\n[アクセサリー：リング]
 
 ID=440532301
@@ -55185,7 +55185,7 @@ Icon/Item/Accessory/Ring/ACC_0_GlaresShardRing
 0
 0
 0
-ブロークンシャードリング
+Broken Shard Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440543401
@@ -55195,7 +55195,7 @@ Icon/Item/Accessory/Ring/ACC_0_GlaresShardRing
 0
 0
 0
-ペイディードシャードリング
+Payday Shard Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440553551
@@ -55205,7 +55205,7 @@ Icon/Item/Accessory/Ring/ACC_0_GlaresShardRing
 0
 0
 0
-クレアスシャードリング
+Creature's Shard Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\nシオン…私は信じていました。\nあなたが我々を楽園へと導いてくれる天使だと…。\n-ある研究員の日誌より…-\n\n[アクセサリー：リング]
 
 ID=711043410
@@ -61075,7 +61075,7 @@ Icon/Item/Accessory/Earring/ACC_0_GaruraCavalierEarring
 0
 0
 0
-BKトラストイヤリング
+BK Trust Earrings
 ソウルワーカー専用アクセサリー。\nブッカーズハンド団に属するアクセサリー職人が、\n第6区域で入手した素材で作り出した。\nアクセサリーの入手自体が簡単ではない上、\nその圧倒的な性能に惹かれる異能力者は多い。\nブッカーTVが認めた者のみが使用できる。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430554403
@@ -61085,7 +61085,7 @@ Icon/Item/Accessory/Earring/ACC_0_VeiledArmsEarring
 0
 0
 0
-BKペースイヤリング
+BK Pace Earrings
 ソウルワーカー専用アクセサリー。\nブッカーズハンド団に属するアクセサリー職人が、\n第6区域で入手した素材で作り出した。\nアクセサリーの入手自体が簡単ではない上、\nその圧倒的な性能に惹かれる異能力者は多い。\nブッカーTVが認めた者のみが使用できる。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=430554404
@@ -61095,7 +61095,7 @@ Icon/Item/Accessory/Earring/ACC_0_BoltEarring
 0
 0
 0
-BKファナティックイヤリング
+BK Fanatic Earrings
 ソウルワーカー専用アクセサリー。\nブッカーズハンド団に属するアクセサリー職人が、\n第6区域で入手した素材で作り出した。\nアクセサリーの入手自体が簡単ではない上、\nその圧倒的な性能に惹かれる異能力者は多い。\nブッカーTVが認めた者のみが使用できる。\n耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=440554402
@@ -61105,7 +61105,7 @@ Icon/Item/Accessory/Ring/ACC_0_RustyLocketRing
 0
 0
 0
-BKトラストリング
+BK Trust Ring
 ソウルワーカー専用アクセサリー。\nブッカーズハンド団に属するアクセサリー職人が、\n第6区域で入手した素材で作り出した。\nアクセサリーの入手自体が簡単ではない上、\nその圧倒的な性能に惹かれる異能力者は多い。\nブッカーTVが認めた者のみが使用できる。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440554403
@@ -61115,7 +61115,7 @@ Icon/Item/Accessory/Ring/ACC_0_VeiledArmsRing
 0
 0
 0
-BKペースリング
+BK Pace Ring
 ソウルワーカー専用アクセサリー。\nブッカーズハンド団に属するアクセサリー職人が、\n第6区域で入手した素材で作り出した。\nアクセサリーの入手自体が簡単ではない上、\nその圧倒的な性能に惹かれる異能力者は多い。\nブッカーTVが認めた者のみが使用できる。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=440554404
@@ -61125,7 +61125,7 @@ Icon/Item/Accessory/Ring/ACC_0_BoltRing
 0
 0
 0
-BKファナティックリング
+BK Fanatic Ring
 ソウルワーカー専用アクセサリー。\nブッカーズハンド団に属するアクセサリー職人が、\n第6区域で入手した素材で作り出した。\nアクセサリーの入手自体が簡単ではない上、\nその圧倒的な性能に惹かれる異能力者は多い。\nブッカーTVが認めた者のみが使用できる。\n手に着用する。\n\n[アクセサリー：リング]
 
 ID=111354451
@@ -61625,7 +61625,7 @@ Icon/Item/Accessory/Earring/ACC_0_13_GraveKeeperEarring
 0
 0
 0
-グレイブガードイヤリング
+Grave Guard Earrings
 ソウルワーカー専用アクセサリー。\n戦闘研究所スチールグレイブでの戦闘情報を基に\n開発された。様々な効果で使用者をサポートする。\n開発段階のため、改善の余地がある。耳に着用する。\n\n[アクセサリー：イヤリング]
 
 ID=440354451
@@ -61635,7 +61635,7 @@ Icon/Item/Accessory/Ring/ACC_0_13_GraveKeeperRing
 0
 0
 0
-グレイブガードリング
+Grave Guard Ring
 ソウルワーカー専用アクセサリー。\n戦闘研究所スチールグレイブでの戦闘情報を基に\n開発された。様々な効果で使用者をサポートする。\n開発段階のため、改善の余地がある。手に着用する。\n\n[アクセサリー：リング]
 
 ID=410454451
@@ -61655,7 +61655,7 @@ Icon/Item/Accessory/Earring/ACC_0_17_GraveKeeperEarringmk2
 0
 0
 0
-グレイブガードイヤリングMKⅡ
+Grave Guard Earrings MKⅡ
 ソウルワーカー専用アクセサリー。\n戦闘研究所スチールグレイブでの戦闘情報を基に\n開発された。様々な効果で使用者をサポートする。\n開発段階のため、改善の余地がある。耳に着用する。\n\n…やはり、ただの異能力者ではなさそうだな。\nおかげで内部の設備が全てオーバーヒートした。\n-ベンジャミン-\n\n[アクセサリー：イヤリング]
 
 ID=440454451
@@ -61665,7 +61665,7 @@ Icon/Item/Accessory/Ring/ACC_0_17_GraveKeeperRingmk2
 0
 0
 0
-グレイブガードリングMKⅡ
+Grave Guard Ring MKⅡ
 ソウルワーカー専用アクセサリー。\n戦闘研究所スチールグレイブでの戦闘情報を基に\n開発された。様々な効果で使用者をサポートする。\n開発段階のため、改善の余地がある。手に着用する。\n\n…やはり、ただの異能力者ではなさそうだな。\nおかげで内部の設備が全てオーバーヒートした。\n-ベンジャミン-\n\n[アクセサリー：リング]
 
 ID=410554454
@@ -61685,7 +61685,7 @@ Icon/Item/Accessory/Earring/ACC_0_22_GraveKeeperEarringmk3
 0
 0
 0
-グレイブガードイヤリングMKⅢ
+Grave Guard Earrings MKⅢ
 ソウルワーカー専用アクセサリー。\n戦闘研究所スチールグレイブでの戦闘情報を基に\n開発された。様々な効果で使用者をサポートする。\nグレイブガードシリーズの完成形に位置づけられ、\n「これ以上のアクセサリーは作り出せない」と\n言われている。耳に着用する。\n\nこ、これくらいオレにだって作れるし！\n…設計図さえあればだけど…。\n-ゼニス-\n\n[アクセサリー：イヤリング]
 
 ID=440554454
@@ -61695,7 +61695,7 @@ Icon/Item/Accessory/Ring/ACC_0_22_GraveKeeperRingmk3
 0
 0
 0
-グレイブガードリングMKⅢ
+Grave Guard Ring MKⅢ
 ソウルワーカー専用アクセサリー。\n戦闘研究所スチールグレイブでの戦闘情報を基に\n開発された。様々な効果で使用者をサポートする。\nグレイブガードシリーズの完成形に位置づけられ、\n「これ以上のアクセサリーは作り出せない」と\n言われている。手に着用する。\n\nこ、これくらいオレにだって作れるし！\n…設計図さえあればだけど…。\n-ゼニス-\n\n[アクセサリー：リング]
 
 ID=711554411
@@ -62075,7 +62075,7 @@ Icon/Item/Accessory/Earring/ACC_0_22_LoadOfChaosEarring
 0
 0
 0
-ロードオブカオスイヤリング
+Lord of Chaos Earrings
 ソウルワーカー専用アクセサリー。\n歪んだ次元で発見された物で、詳細は不明。\n凄まじいほどの闇の力を感じる。\n耳に着用する。\n\nゾッとするほどのエナジーだけど、それだけ強力ってことだね。\n気を抜いたら…引きずり込まれるよ。\n-ゼニス-\n\n[アクセサリー：イヤリング]
 
 ID=440554453
@@ -62085,7 +62085,7 @@ Icon/Item/Accessory/Ring/ACC_0_22_LoadOfChaosRing
 0
 0
 0
-ロードオブカオスリング
+Lord of Chaos Ring
 ソウルワーカー専用アクセサリー。\n歪んだ次元で発見された物で、詳細は不明。\n凄まじいほどの闇の力を感じる。\n手に着用する。\n\nゾッとするほどのエナジーだけど、それだけ強力ってことだね。\n気を抜いたら…引きずり込まれるよ。\n-ゼニス-\n\n[アクセサリー：リング]
 
 ID=440554455
@@ -62095,7 +62095,7 @@ Icon/Item/Accessory/Ring/ACC_0_22_ServantOfChaosRing
 0
 0
 0
-サーバントオブカオスリング
+Servant of Chaos Ring
 ソウルワーカー専用アクセサリー。\n歪んだ次元で発見された物で、詳細は不明。\n凄まじいほどの闇の力を感じる。\n手に着用する。\n\nゾッとするほどのエナジーだけど、それだけ強力ってことだね。\n気を抜いたら…引きずり込まれるよ。\n-ゼニス-\n\n[アクセサリー：リング]
 
 ID=114011301
@@ -63625,7 +63625,7 @@ Icon/Item/Accessory/Earring/ACC_0_22_AureateHonorEarring
 0
 0
 0
-オーリエイトオナーイヤリング
+Aurite Honor Earrings
 ソウルワーカー専用アクセサリー。\n金色に輝く空から取ってきた物質で製作された。\n世界のすべてを宿したかのような金色の宝石は、\n全ての人を魅了する。\n耳に着用する。\n\n輝きを放つ金色は崇拝の対象か、\nはたまた、全てを賭して消すべき畏怖なる存在か。\n- 金色の前兆報告書からの抜粋 -\n\n[アクセサリー：イヤリング]
 
 ID=440554651
@@ -63935,7 +63935,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Basic1_Costume01_07
 0
 0
 0
-Damaged Uniform A [Coat]
+Damaged Uniform A [Top]
 ジンが通っていたリーブル高校の夏服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=241010801
@@ -63975,7 +63975,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Basic2_Costume01_07
 0
 0
 0
-Damaged Uniform B [Coat]
+Damaged Uniform B [Top]
 ジンが通っていたリーブル高校の夏服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=241020801
@@ -64015,7 +64015,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Basic3_Costume01_07
 0
 0
 0
-Damaged Uniform C [Coat]
+Damaged Uniform C [Top]
 ジンが通っていたリーブル高校の夏服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=241030801
@@ -64055,7 +64055,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Basic4_Costume01_07
 0
 0
 0
-Damaged Uniform D [Coat]
+Damaged Uniform D [Top]
 ジンが通っていたリーブル高校の夏服。\n空白から落ちた際に破れてしまったようだ。
 
 ID=241040801
@@ -64145,7 +64145,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=241060801
@@ -64185,7 +64185,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Sfoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=241070801
@@ -64195,7 +64195,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Sfoldtype_Costume02_08
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Bottom]
 連合から支給される旧式軍服の下衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=241071201
@@ -64365,7 +64365,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_NormalEyes2_EyeAcc01_03
 0
 0
 0
-Star Glass
+スターグラス
 星柄の眼鏡。\nこれをかけて外出するとしたら…遊園地かな？
 
 ID=241220301
@@ -64525,7 +64525,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_AchieveDeath2_HairAcc01_01
 0
 0
 0
-エンジェルリング
+Angel Ring
 数々の死線を越えた者に与えられる。気分は天使？
 
 ID=241380101
@@ -64575,7 +64575,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_AchieveIF_HairAcc01_01
 0
 0
 0
-ドローンヘッド
+Drone Head
 色々な機能がありそうだが、\n実はただ頭の上に浮いていることしかできない。
 
 ID=241430301
@@ -64896,7 +64896,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Miner_HairCap_02
 0
 0
 Work Clothes [Safety Hat]
-作業員が身につける安全帽。
+A safety hat worn by workers.
 
 ID=242010401
 Icon/Item/Costume/PC_D/PC_D_EQ_Miner_MouthAcc_04
@@ -64906,7 +64906,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Miner_MouthAcc_04
 0
 0
 Work Clothes [Dust Proof Mask]
-作業員が身につける防塵マスク。
+A dust-proof mask worn by workers.
 
 ID=242010901
 Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Costume03_09
@@ -64916,7 +64916,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Costume03_09
 0
 0
 Work Clothes [Costume]
-作業員が身につける衣装。上下セット。
+A costume worn by workers. Top and bottom set.
 
 ID=242010501
 Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Glove_05
@@ -64926,7 +64926,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Glove_05
 0
 0
 Work Clothes [Gloves]
-作業員が身につける軍手。
+A pair of gloves worn by workers.
 
 ID=242011201
 Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Shoes_12
@@ -64936,7 +64936,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Shoes_12
 0
 0
 Work Clothes [Boots]
-作業員が身につける長靴。
+A pair of boots worn by workers.
 
 ID=242011301
 Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Tail_13
@@ -64946,7 +64946,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Miner_Tail_13
 0
 0
 Work Clothes [Body]
-作業員が身につけるポーチ。
+A pouch worn by workers.
 
 ID=242020301
 Icon/Item/Costume/PC_D/PC_D_EQ_NCmercenary_EyeAcc01_03
@@ -65015,7 +65015,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_HairAcc01_01
 0
 0
 0
-Union Standard Military Uniform [Standard Hat]
+Commissioned League Military Uniform [Standard Hat]
 連合から支給される正規軍用の帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=242030301
@@ -65025,7 +65025,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_EyeAcc01_03
 0
 0
 0
-連合正規軍服[将校眼鏡]
+Commissioned League Military Uniform [Glasses]
 連合から支給される正規軍用の将校眼鏡。\n身に付けると、クールな男になれそうな気がする。
 
 ID=242030701
@@ -65035,7 +65035,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Costume01_07
 0
 0
 0
-連合正規軍服[上衣]
+Commissioned League Military Uniform [Top]
 連合から支給される正規軍用の上衣。\n旧式よりもデザインが洗練されているようだ。
 
 ID=242030801
@@ -65055,7 +65055,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Glove_05
 0
 0
 0
-連合正規軍服[手袋]
+Commissioned League Military Uniform [Gloves]
 連合から支給される正規軍用の手袋。\n旧式よりもデザインが洗練されているようだ。
 
 ID=242031301
@@ -65065,7 +65065,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Tail_13
 0
 0
 0
-連合正規軍服[水筒]
+Commissioned League Military Uniform [Water Bottle]
 連合から支給される正規軍用の水筒。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=242031201
@@ -65075,7 +65075,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Shoes_12
 0
 0
 0
-連合正規軍服[靴]
+Commissioned League Military Uniform [Shoes]
 連合から支給される正規軍用の靴。\n旧式よりもデザインが洗練されているようだ。
 
 ID=242030102
@@ -65085,7 +65085,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_HairAcc02_16
 0
 0
 0
-連合正規軍服[将校帽子]
+Commissioned League Military Uniform [Hat]
 連合から支給される正規軍用の将校帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=242031001
@@ -65095,7 +65095,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SFregular_Back_10
 0
 0
 0
-連合正規軍服[通信カバン]
+Commissioned League Military Uniform [Bag]
 連合から支給される正規軍用の通信カバン。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=242040101
@@ -65665,7 +65665,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！
 
 ID=243110801
@@ -65705,7 +65705,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Sfoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Coat]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。
 
 ID=243120801
@@ -65715,7 +65715,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Sfoldtype_Costume02_08
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Bottom]
 連合から支給される旧式軍服の下衣。\n一昔前のデザインだ。
 
 ID=243121201
@@ -66295,7 +66295,7 @@ Icon/Item/BluePrint/Costume/Head
 0
 0
 0
-[設計図]エンジェルリング
+[Blueprint] Angel Ring
 エンジェルリングの\n製作に必要な設計図。
 
 ID=714110138
@@ -66345,7 +66345,7 @@ Icon/Item/BluePrint/Costume/Head
 0
 0
 0
-[設計図]ドローンヘッド
+[Blueprint] Drone Head
 ドローンヘッドの\n製作に必要な設計図。
 
 ID=714110343
@@ -75375,7 +75375,7 @@ Icon/Item/Accessory/Earring/ACC_0_22_BloodyGraveEarring
 0
 0
 0
-ブラッディグレイブイヤリング
+Bloody Grave Earrings
 ソウルワーカー専用アクセサリー。\nザ・シングの残骸で作られたアクセサリーで、\nザ・シングの犠牲となった人々の\n怨念と憤怒が宿っている。\nそのためか、色が赤黒く染まってしまった。\n耳に着用する。\n\n生きて帰れたら…結婚しような…。\n-？？？-\n\n[アクセサリー：イヤリング]
 
 ID=440554251
@@ -78895,7 +78895,7 @@ Icon/Item/Accessory/Earring/ACC_0_DevourersTrophyEarring
 0
 0
 0
-デバウアーズトロフィーイヤリング
+Devour's Trophy Earrings
 ソウルワーカー専用アクセサリー。\n異常空白の奥深く、ザ・プライマルの残骸の中から\n発見された。異常空白の強大なエナジーが宿っている。\n全てを飲み込みそうな存在の力はほぼ消えたが、\nその意識は今もなお残っているかのようだ。\n耳に着用する。\n\nこのような存在がなぜ存在するに至ったのか…。\nそれを知る者はいません。\nこの世界を作った創造主であればあるいは…。\n-イオ-\n\n[アクセサリー：イヤリング]
 
 ID=440555351
@@ -78905,7 +78905,7 @@ Icon/Item/Accessory/Ring/ACC_0_DevourersSeizeRing
 0
 0
 0
-デバウアーズシーズリング
+Devour's Seed's Ring
 ソウルワーカー専用アクセサリー。\n異常空白の奥深く、ザ・プライマルの残骸の中から\n発見された。異常空白の強大なエナジーが宿っている。\n全てを飲み込みそうな存在の力はほぼ消えたが、\nその意識は今もなお残っているかのようだ。\n手に着用する。\n\nこのような存在がなぜ存在するに至ったのか…。\nそれを知る者はいません。\nこの世界を作った創造主であればあるいは…。\n-イオ-\n\n[アクセサリー：リング]
 
 ID=440555352
@@ -78915,7 +78915,7 @@ Icon/Item/Accessory/Ring/ACC_0_DevourersGreedRing
 0
 0
 0
-デバウアーズグリードリング
+Devour's Greed Ring
 ソウルワーカー専用アクセサリー。\n異常空白の奥深く、ザ・プライマルの残骸の中から\n発見された。異常空白の強大なエナジーが宿っている。\n全てを飲み込みそうな存在の力はほぼ消えたが、\nその意識は今もなお残っているかのようだ。\n手に着用する。\n\nこのような存在がなぜ存在するに至ったのか…。\nそれを知る者はいません。\nこの世界を作った創造主であればあるいは…。\n-イオ-\n\n[アクセサリー：リング]
 
 ID=213389101
@@ -80445,7 +80445,7 @@ Icon/Item/Accessory/Earring/ACC_0_22_AbyssalBlanknessMemory2
 0
 0
 0
-ソウルオブディライトイアリング
+Soul of Delight Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n必ず…生きて戻れ。\n-ベンジャミン-\n\n[アクセサリー：イアリング]
 
 ID=440123351
@@ -80455,7 +80455,7 @@ Icon/Item/Accessory/ring/ACC_0_BoltRing3
 0
 0
 0
-ソウルオブフューリーイアリング
+Soul of Fury Earrings
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\n必ず…生きて戻れ。\n-ベンジャミン-\n\n[アクセサリー：イアリング]
 
 ID=440123352
@@ -80465,7 +80465,7 @@ Icon/Item/Accessory/ring/ACC_0_InvadersRing2
 0
 0
 0
-ソウルオブパッションリング
+Soul of Passion Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n指に着用する。\n\n必ず…生きて戻れ。\n-ベンジャミン-\n\n[アクセサリー：リング]
 
 ID=440263352
@@ -80475,7 +80475,7 @@ Icon/Item/Accessory/ring/GriefTearRedRing
 0
 0
 0
-グリーフティアレッドリング
+Grief Teared Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n指に着用する。\n\nキャサリン…！すまない…すまない…！！\n-アーロン-\n\n[アクセサリー：リング]
 
 ID=440403352
@@ -80485,7 +80485,7 @@ Icon/Item/Accessory/ring/ACC_0_BoltRing2
 0
 0
 0
-ビットレイアスウェーブリング
+Bit Ray's Wave Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n指に着用する。\n\nラバン、起きろ。\n出番だ。\n-ヘンリー-\n\n[アクセサリー：リング]
 
 ID=440553352
@@ -80495,7 +80495,7 @@ Icon/Item/Accessory/ring/ACC_0_GlaresShardEnergyRing
 0
 0
 0
-クレアスシャードエナジーリング
+Creature's Shard Energy Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n指に着用する。\n\nシオン…私は信じていました。\nあなたが我々を楽園へと導いてくれる天使だと…。\n-ある研究員の日誌より…-\n\n[アクセサリー：リング]
 
 ID=440213351
@@ -80505,7 +80505,7 @@ Icon/Item/Accessory/ring/ACC_0_Noblessring
 0
 0
 0
-ノブレスレリックリング
+Noble's Relic Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n指に着用する。\n\n報告内容：蜘蛛型の特異個体発見。\n名称を「アラクニス」に修正。要捕獲対象。\nバキュームベイン研究に影響を与える可能性大。\n-ネッドカンパニー内部報告-\n\n[アクセサリー：リング]
 
 ID=440233351
@@ -80515,7 +80515,7 @@ Icon/Item/Accessory/ring/SecretDevisalRing
 0
 0
 0
-シークレットディバイソルリング
+Secret Divisor Ring
 ソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n指に着用する。\n\n研究所内にビホールダーという奴がいる。\n我々が作り出した人工覚醒体だ。\n研究所内がこうなったのは全て奴のせいだ。\n-ヘンリー-\n\n[アクセサリー：リング]
 
 ID=836000145
@@ -82975,7 +82975,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=261060801
@@ -82985,7 +82985,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=261061101
@@ -83015,7 +83015,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。\n※インベントリに保管後、3日経過すると消滅する。
 
 ID=261070801
@@ -83066,7 +83066,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_Miner_HairCap_02
 0
 0
 Work Clothes [Safety Hat]
-作業員が身につける安全帽。
+A safety hat worn by workers.
 
 ID=262010401
 Icon/Item/Costume/PC_F/PC_F_EQ_Miner_MouthAcc_04
@@ -83076,7 +83076,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_Miner_MouthAcc_04
 0
 0
 Work Clothes [Dust Proof Mask]
-作業員が身につける防塵マスク。
+A dust-proof mask worn by workers.
 
 ID=262010901
 Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Costume03_09
@@ -83086,7 +83086,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Costume03_09
 0
 0
 Work Clothes [Costume]
-作業員が身につける衣装。上下セット。
+A costume worn by workers. Top and bottom set.
 
 ID=262010501
 Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Glove_05
@@ -83096,7 +83096,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Glove_05
 0
 0
 Work Clothes [Gloves]
-作業員が身につける軍手。
+A pair of gloves worn by workers.
 
 ID=262011201
 Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Shoes_12
@@ -83116,7 +83116,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_Miner_Tail_13
 0
 0
 Work Clothes [Body]
-作業員が身につけるポーチ。
+A pouch worn by workers.
 
 ID=262020301
 Icon/Item/Costume/PC_F/PC_F_EQ_NCmercenary_EyeAcc01_03
@@ -83185,7 +83185,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_HairAcc01_01
 0
 0
 0
-Union Standard Military Uniform [Standard Hat]
+Commissioned League Military Uniform [Standard Hat]
 連合から支給される正規軍用の帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=262030701
@@ -83195,7 +83195,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Costume01_07
 0
 0
 0
-連合正規軍服[上衣]
+Commissioned League Military Uniform [Top]
 連合から支給される正規軍用の上衣。\n旧式よりもデザインが洗練されているようだ。
 
 ID=262030801
@@ -83205,7 +83205,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Costume02_08
 0
 0
 0
-連合正規軍服[スカート]
+Commissioned League Military Uniform [Skirt]
 連合から支給される正規軍用のスカート。\n旧式よりもデザインが洗練されているようだ。
 
 ID=262030301
@@ -83215,7 +83215,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_EyeAcc01_03
 0
 0
 0
-連合正規軍服[将校眼鏡]
+Commissioned League Military Uniform [Glasses]
 連合から支給される正規軍用の将校眼鏡。\n身に付けると、良いパンチが当たりそうだ。
 
 ID=262030501
@@ -83225,7 +83225,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Glove_05
 0
 0
 0
-連合正規軍服[手袋]
+Commissioned League Military Uniform [Gloves]
 連合から支給される正規軍用の手袋。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=262031101
@@ -83235,7 +83235,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Socks_11
 0
 0
 0
-連合正規軍服[タイツ]
+Commissioned League Military Uniform [Tights]
 連合から支給される正規軍用のタイツ。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=262031201
@@ -83245,7 +83245,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Shoes_12
 0
 0
 0
-連合正規軍服[靴]
+Commissioned League Military Uniform [Shoes]
 連合から支給される正規軍用の靴。\n旧式よりもデザインが洗練されているようだ。
 
 ID=262031601
@@ -83255,7 +83255,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_HairAcc02_16
 0
 0
 0
-連合正規軍服[将校帽子]
+Commissioned League Military Uniform [Hat]
 連合から支給される正規軍用の将校帽子。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=262031001
@@ -83265,7 +83265,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFregular_Back_10
 0
 0
 0
-連合正規軍服[通信カバン]
+Commissioned League Military Uniform [Bag]
 連合から支給される正規軍用の通信カバン。\n正規の物らしくフォーマルな場にふさわしい。
 
 ID=263030701
@@ -83535,7 +83535,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Costume01_07
 0
 0
 0
-Merchant Uniform [Bottom]
+Merchant Uniform [Top]
 商人組合から親愛の意味を込めて贈られた上衣。\nこれで商人の仲間入り！
 
 ID=263110801
@@ -83545,7 +83545,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_DealerUnion_Costume02_08
 0
 0
 0
-Merchant Uniform [Skirt
+Merchant Uniform [Skirt]
 商人組合から親愛の意味を込めて贈られたスカート。\nこれで商人の仲間入り！
 
 ID=263111101
@@ -83575,7 +83575,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SFoldtype_Costume01_07
 0
 0
 0
-Old-Fashioned Military Uniform [Pants]
+Old-Fashioned Military Uniform [Top]
 連合から支給される旧式軍服の上衣。\n一昔前のデザインだ。
 
 ID=263120801
@@ -83765,7 +83765,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_NormalEyes2_EyeAcc01_03
 0
 0
 0
-Star Glass
+スターグラス
 星柄の眼鏡。\nこれをかけて外出するとしたら…遊園地かな？
 
 ID=261220301
@@ -83925,7 +83925,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_AchieveDeath2_HairAcc01_01
 0
 0
 0
-エンジェルリング
+Angel Ring
 数々の死線を越えた者に与えられる。気分は天使？
 
 ID=261380101
@@ -83975,7 +83975,7 @@ Icon/Item/Costume/PC_F/PC_F_EQ_AchieveIF_HairAcc01_01
 0
 0
 0
-ドローンヘッド
+Drone Head
 色々な機能がありそうだが、\n実はただ頭の上に浮いていることしかできない。
 
 ID=261430301
@@ -88605,7 +88605,7 @@ Icon/Item/SoulWeapon/PC_A/SOU_0_NumberlessRayBlade
 0
 0
 0
-リングオブリベンジ
+Ring of Revenge
 [ソウルウェポン：ソード]\n\nソウルワーカー専用武器。\nイクシードを発言したエノックをモチーフに作られた武器。今にも飛んでいきそうだ。\n\n何で怒ってんの？ねぇ、何で怒ってんの？\n-エノック-
 
 ID=111554453
@@ -88825,7 +88825,7 @@ Icon/Item/SoulWeapon/PC_B/SOU_0_NumberlessRayBuster
 0
 0
 0
-リングオブデライト
+Ring of Bright
 [ソウルウェポン：ガン]\n\nソウルワーカー専用武器。\nイクシードを発言したエノックをモチーフに作られた武器。今にも飛んでいきそうだ。\n\nハハ！戦闘は後回しで、ただ楽しみたいだけ？ええんちゃう？その性格！\n-エノック-
 
 ID=112554453
@@ -88955,7 +88955,7 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_GaruraKnightGlaive
 0
 0
 0
-アンチエアブレイドリング
+Anti Air Blade Ring
 [ソウルウェポン：サイス]\n\nソウルワーカー専用武器。\nソウルエナジーを剣気に変えられるため、空中にいる敵への殺傷能力が極めて高い。\n\n上は任せる。俺の武器は投擲用じゃないからな。\n-ケインバレル-
 
 ID=113354452
@@ -89045,7 +89045,7 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_NumberlessRayScythe
 0
 0
 0
-リングオブルナティック
+Ring of the Lunatic
 [ソウルウェポン：サイス]\n\nソウルワーカー専用武器。\nイクシードを発言したエノックをモチーフに作られた武器。今にも飛んでいきそうだ。\n\nうっわ…戦いになると人変わりすぎやろ。\n-エノック-
 
 ID=113554453
@@ -89265,7 +89265,7 @@ Icon/Item/SoulWeapon/PC_D/SOU_0_NumberlessRayGauntlet
 0
 0
 0
-リングオブデザイア
+Ring of Desire
 [ソウルウェポン：ガントレット]\n\nソウルワーカー専用武器。\nイクシードを発言したエノックをモチーフに作られた武器。今にも飛んでいきそうだ。\n\n何でそんなに一生懸命なん？多分自分もわかってへんねやろ？\n-エノック-
 
 ID=114554453
@@ -89285,7 +89285,7 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_DreadWolfScreamer
 0
 0
 0
-ウルフズハウリング
+Wolf's Howl Ring
 [ソウルウェポン：ギター]\n\nソウルワーカー専用武器。\nソウルワーカーに屠られし狼の恨みが宿ったギター。\n\nなんだか切ないわね。人間に向けられた恨みの力を、人間が行使するなんて…。\n-ミリアム-
 
 ID=115084451
@@ -89485,7 +89485,7 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_NumberlessRayHowler
 0
 0
 0
-リングオブソロー
+Ring of Solo
 [ソウルウェポン：ギター]\n\nソウルワーカー専用武器。\nイクシードを発言したエノックをモチーフに作られた武器。今にも飛んでいきそうだ。\n\n笑顔は可愛いのに、何でそんなに悲しい顔…\n-エノック-
 
 ID=115554453
@@ -89705,7 +89705,7 @@ Icon/Item/SoulWeapon/PC_F/PC_F_WP_035
 0
 0
 0
-リングオブフューリアス
+Ring of the Furious
 [ソウルウェポン：ハンマー]\n\nソウルワーカー専用武器。\nイクシードを発言したエノックをモチーフに作られた武器。今にも飛んでいきそうだ。\n\n…アンタそれただの腹いせやろ？\n-エノック-
 
 ID=116554453
@@ -89925,8 +89925,8 @@ Icon/Item/BluePrint/Equip/WP_PC1
 0
 0
 0
-[設計図]リングオブリベンジ
-リングオブリベンジの設計図。
+[Blueprint] Ring of Revenge
+Ring of Revenge's blueprint.
 
 ID=711554414
 Icon/Item/BluePrint/Equip/WP_PC1
@@ -90145,8 +90145,8 @@ Icon/Item/BluePrint/Equip/WP_pc2
 0
 0
 0
-[設計図]リングオブデライト
-リングオブデライトの設計図。
+[Blueprint] Ring of Bright
+Ring of Bright's blueprint.
 
 ID=712554414
 Icon/Item/BluePrint/Equip/WP_pc2
@@ -90275,8 +90275,8 @@ Icon/Item/BluePrint/Equip/WP_pc3
 0
 0
 0
-[設計図]アンチエアブレイドリング
-アンチエアブレイドリングの設計図。
+[Blueprint] Anti Air Blade Ring
+Anti Air Blade Ring's blueprint.
 
 ID=713354414
 Icon/Item/BluePrint/Equip/WP_pc3
@@ -90365,8 +90365,8 @@ Icon/Item/BluePrint/Equip/WP_pc3
 0
 0
 0
-[設計図]リングオブルナティック
-リングオブルナティックの設計図。
+[Blueprint] Ring of the Lunatic
+Ring of the Lunatic's blueprint.
 
 ID=713554414
 Icon/Item/BluePrint/Equip/WP_pc3
@@ -90585,8 +90585,8 @@ Icon/Item/BluePrint/Equip/WP_pc4
 0
 0
 0
-[設計図]リングオブデザイア
-リングオブデザイアの設計図。
+[Blueprint] Ring of Desire
+Ring of Desire's blueprint.
 
 ID=714554414
 Icon/Item/BluePrint/Equip/WP_pc4
@@ -90605,8 +90605,8 @@ Icon/Item/BluePrint/Equip/WP_pc5
 0
 0
 0
-[設計図]ウルフズハウリング
-ウルフズハウリングの設計図。
+[Blueprint] Wolf's Howl Ring
+Wolf's Howl Ring's blueprint.
 
 ID=715084414
 Icon/Item/BluePrint/Equip/WP_pc5
@@ -90805,8 +90805,8 @@ Icon/Item/BluePrint/Equip/WP_pc5
 0
 0
 0
-[設計図]リングオブソロー
-リングオブソローの設計図。
+[Blueprint] Ring of Solo
+Ring of Solo's blueprint.
 
 ID=715554414
 Icon/Item/BluePrint/Equip/WP_pc5
@@ -91025,8 +91025,8 @@ Icon/Item/BluePrint/Equip/WP_pc6
 0
 0
 0
-[設計図]リングオブフューリアス
-リングオブフューリアスの設計図。
+[Blueprint] Ring of the Furious
+Ring of the Furious' blueprint.
 
 ID=716554414
 Icon/Item/BluePrint/Equip/WP_pc6
@@ -91245,7 +91245,7 @@ Icon/Item/Gear/HeadGear/GEA_0_NumberlessRayHead
 0
 0
 0
-リングオブヘッド
+Ring of Head
 [ギア：ヘッド]\n\nソウルワーカー専用防具。イクシードを発言したエノックをモチーフに作られた武器。今にも飛んでいきそうだ。\n\nよっしゃー！準備運動はこのくらいにして、そろそろ本番といこかー！？\n-エノック-
 
 ID=510554351
@@ -91455,7 +91455,7 @@ Icon/Item/Gear/ShoulderGear/GEA_0_NumberlessRayShoulder
 0
 0
 0
-リングオブショルダー
+Ring of Shoulder
 [ギア：ショルダー]\n\nソウルワーカー専用防具。イクシードを発言したエノックをモチーフに作られた武器。今にも飛んでいきそうだ。\n\nよっしゃー！準備運動はこのくらいにして、そろそろ本番といこかー！？\n-エノック-
 
 ID=520554351
@@ -91655,7 +91655,7 @@ Icon/Item/Gear/BodyGear/GEA_0_NumberlessRayBody
 0
 0
 0
-リングオブボディ
+Ring of Body
 [ギア：ボディ]\n\nソウルワーカー専用防具。イクシードを発言したエノックをモチーフに作られた武器。今にも飛んでいきそうだ。\n\nよっしゃー！準備運動はこのくらいにして、そろそろ本番といこかー！？\n-エノック-
 
 ID=530554351
@@ -91845,7 +91845,7 @@ Icon/Item/Gear/LegGear/GEA_0_NumberlessRayLeg
 0
 0
 0
-リングオブレッグ
+Ring of Leg
 [ギア：レッグ]\n\nソウルワーカー専用防具。イクシードを発言したエノックをモチーフに作られた武器。今にも飛んでいきそうだ。\n\nよっしゃー！準備運動はこのくらいにして、そろそろ本番といこかー！？\n-エノック-
 
 ID=540554351
@@ -92065,8 +92065,8 @@ Icon/Item/BluePrint/Equip/HeadGear
 0
 0
 0
-[設計図]リングオブヘッド
-リングオブヘッドの設計図。
+[Blueprint] Ring of Head
+Ring of Head's blueprint.
 
 ID=710554334
 Icon/Item/BluePrint/Equip/HeadGear
@@ -92275,8 +92275,8 @@ Icon/Item/BluePrint/Equip/ShoulderGear
 0
 0
 0
-[設計図]リングオブショルダー
-リングオブショルダーの設計図。
+[Blueprint] Ring of Shoulder
+Ring of Shoulder's blueprint.
 
 ID=710554344
 Icon/Item/BluePrint/Equip/ShoulderGear
@@ -92475,8 +92475,8 @@ Icon/Item/BluePrint/Equip/BodyGear
 0
 0
 0
-[設計図]リングオブボディ
-リングオブボディの設計図。
+[Blueprint] Ring of Body
+Ring of Body's blueprint.
 
 ID=710554354
 Icon/Item/BluePrint/Equip/BodyGear
@@ -92665,8 +92665,8 @@ Icon/Item/BluePrint/Equip/LegGear
 0
 0
 0
-[設計図]リングオブレッグ
-リングオブレッグの設計図。
+[Blueprint] Ring of Leg
+Ring of Leg's blueprint.
 
 ID=710554364
 Icon/Item/BluePrint/Equip/LegGear
@@ -93595,7 +93595,7 @@ Icon/Item/BluePrint/Costume/Head
 0
 0
 0
-[設計図]エンジェル リング
+[Blueprint] Angel Ring
 [アバター設計図]\n\nエンジェルリングの製作に必要な設計図。
 
 ID=716110138
@@ -93645,7 +93645,7 @@ Icon/Item/BluePrint/Costume/Head
 0
 0
 0
-[設計図]ドローンヘッド
+[Blueprint] Drone Head
 [アバター設計図]\n\nドローンヘッドの製作に必要な設計図。
 
 ID=716110343
@@ -94595,8 +94595,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Modern Casual [Coat] - Sealed
-Contains Modern Casual [Coat].
+Modern Casual [Top] - Sealed
+Contains Modern Casual [Top].
 
 ID=863030801
 Icon/Item/Function/Package/PackageBox
@@ -94855,8 +94855,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Merchant Uniform [Coat] - Sealed
-Contains Merchant Uniform [Coat].
+Merchant Uniform [Top] - Sealed
+Contains Merchant Uniform [Top].
 
 ID=863110801
 Icon/Item/Function/Package/PackageBox
@@ -94895,8 +94895,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-Old-Fashioned Military Uniform [Coat] - Sealed
-Contains Old-Fashioned Military Uniform [Coat].
+Old-Fashioned Military Uniform [Top] - Sealed
+Contains Old-Fashioned Military Uniform [Top].
 
 ID=863120801
 Icon/Item/Function/Package/PackageBox
@@ -95825,7 +95825,7 @@ Icon/Item/Accessory/Earring/ACC_0_GlaresShardEarring
 0
 0
 0
-[EV]クレアスシャードイヤリング
+[EV] Creature's Shard Earrings
 [アクセサリー：イヤリング]\n\nソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n耳に着用する。\n\nシオン…私は信じていました。\nあなたが我々を楽園へと導いてくれる天使だと…。\n-ある研究員の日誌より…-
 
 ID=440553552
@@ -95835,7 +95835,7 @@ Icon/Item/Accessory/Ring/ACC_0_GlaresShardRing
 0
 0
 0
-[EV]クレアスシャードリング
+[EV] Creature's Shard Ring
 [アクセサリー：リング]\n\nソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n手に着用する。\n\nシオン…私は信じていました。\nあなたが我々を楽園へと導いてくれる天使だと…。\n-ある研究員の日誌より…-
 
 ID=440553353
@@ -95845,7 +95845,7 @@ Icon/Item/Accessory/ring/ACC_0_GlaresShardEnergyRing
 0
 0
 0
-[EV]クレアスシャードエナジーリング
+[EV] Creature's Shard Energy Ring
 [アクセサリー：リング]\n\nソウルワーカー専用アクセサリー。\n独特なソウルエナジーの波長を発生させることで、\n所持者の能力を強化してくれる貴重なアクセサリー。\n指に着用する。\n\nシオン…私は信じていました。\nあなたが我々を楽園へと導いてくれる天使だと…。\n-ある研究員の日誌より…-
 
 ID=839160001
@@ -96135,8 +96135,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[帽子]-未開封
-クリスマスルック[帽子]が入っている。
+Christmas Look [Hat] - Sealed
+Contains Christmas Look [Hat].
 
 ID=813490901
 Icon/Item/Function/Package/PackageBox
@@ -96145,8 +96145,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[衣装]-未開封
-クリスマスルック[衣装]が入っている。
+Christmas Look [Costume] - Sealed
+Contains Christmas Look [Costume].
 
 ID=813490501
 Icon/Item/Function/Package/PackageBox
@@ -96155,8 +96155,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[手袋]-未開封
-クリスマスルック[手袋]が入っている。
+Christmas Look [Gloves] - Sealed
+Contains Christmas Look [Gloves].
 
 ID=813491101
 Icon/Item/Function/Package/PackageBox
@@ -96165,8 +96165,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[タイツ]-未開封
-クリスマスルック[タイツ]が入っている。
+Christmas Look [Tights] - Sealed
+Contains Christmas Look [Tights].
 
 ID=813491201
 Icon/Item/Function/Package/PackageBox
@@ -96175,8 +96175,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[靴]-未開封
-クリスマスルック[靴]が入っている。
+Christmas Look [Shoes] - Sealed
+Conatins Christmas Look [Shoes].
 
 ID=823490101
 Icon/Item/Function/Package/PackageBox
@@ -96185,8 +96185,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[帽子]-未開封
-クリスマスルック[帽子]が入っている。
+Christmas Look [Hat] - Sealed
+Contains Christmas Look [Hat].
 
 ID=823490901
 Icon/Item/Function/Package/PackageBox
@@ -96195,8 +96195,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[衣装]-未開封
-クリスマスルック[衣装]が入っている。
+Christmas Look [Costume] - Sealed
+Contains Christmas Look [Costume].
 
 ID=823490501
 Icon/Item/Function/Package/PackageBox
@@ -96205,8 +96205,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[手袋]-未開封
-クリスマスルック[手袋]が入っている。
+Christmas Look [Gloves] - Sealed
+Contains Christmas Look [Gloves].
 
 ID=823491201
 Icon/Item/Function/Package/PackageBox
@@ -96215,8 +96215,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[靴]-未開封
-クリスマスルック[靴]が入っている。
+Christmas Look [Shoes] - Sealed
+Conatins Christmas Look [Shoes].
 
 ID=833560101
 Icon/Item/Function/Package/PackageBox
@@ -96225,8 +96225,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[帽子]-未開封
-クリスマスルック[帽子]が入っている。
+Christmas Look [Hat] - Sealed
+Contains Christmas Look [Hat].
 
 ID=833560901
 Icon/Item/Function/Package/PackageBox
@@ -96235,8 +96235,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[衣装]-未開封
-クリスマスルック[衣装]が入っている。
+Christmas Look [Costume] - Sealed
+Contains Christmas Look [Costume].
 
 ID=833560501
 Icon/Item/Function/Package/PackageBox
@@ -96245,8 +96245,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[手袋]-未開封
-クリスマスルック[手袋]が入っている。
+Christmas Look [Gloves] - Sealed
+Contains Christmas Look [Gloves].
 
 ID=833561201
 Icon/Item/Function/Package/PackageBox
@@ -96255,8 +96255,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[靴]-未開封
-クリスマスルック[靴]が入っている。
+Christmas Look [Shoes] - Sealed
+Conatins Christmas Look [Shoes].
 
 ID=843470901
 Icon/Item/Function/Package/PackageBox
@@ -96265,8 +96265,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[衣装]-未開封
-クリスマスルック[衣装]が入っている。
+Christmas Look [Costume] - Sealed
+Contains Christmas Look [Costume].
 
 ID=843470101
 Icon/Item/Function/Package/PackageBox
@@ -96275,8 +96275,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[帽子]-未開封
-クリスマスルック[帽子]が入っている。
+Christmas Look [Hat] - Sealed
+Contains Christmas Look [Hat].
 
 ID=843470501
 Icon/Item/Function/Package/PackageBox
@@ -96285,8 +96285,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[手袋]-未開封
-クリスマスルック[手袋]が入っている。
+Christmas Look [Gloves] - Sealed
+Contains Christmas Look [Gloves].
 
 ID=843471201
 Icon/Item/Function/Package/PackageBox
@@ -96295,8 +96295,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[靴]-未開封
-クリスマスルック[靴]が入っている。
+Christmas Look [Shoes] - Sealed
+Conatins Christmas Look [Shoes].
 
 ID=853470901
 Icon/Item/Function/Package/PackageBox
@@ -96305,8 +96305,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[衣装]-未開封
-クリスマスルック[衣装]が入っている。
+Christmas Look [Costume] - Sealed
+Contains Christmas Look [Costume].
 
 ID=853470101
 Icon/Item/Function/Package/PackageBox
@@ -96315,8 +96315,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[帽子]-未開封
-クリスマスルック[帽子]が入っている。
+Christmas Look [Hat] - Sealed
+Contains Christmas Look [Hat].
 
 ID=853470501
 Icon/Item/Function/Package/PackageBox
@@ -96325,8 +96325,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[手袋]-未開封
-クリスマスルック[手袋]が入っている。
+Christmas Look [Gloves] - Sealed
+Contains Christmas Look [Gloves].
 
 ID=853471201
 Icon/Item/Function/Package/PackageBox
@@ -96335,8 +96335,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[靴]-未開封
-クリスマスルック[靴]が入っている。
+Christmas Look [Shoes] - Sealed
+Conatins Christmas Look [Shoes].
 
 ID=863480901
 Icon/Item/Function/Package/PackageBox
@@ -96345,8 +96345,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[衣装]-未開封
-クリスマスルック[衣装]が入っている。
+Christmas Look [Costume] - Sealed
+Contains Christmas Look [Costume].
 
 ID=863480101
 Icon/Item/Function/Package/PackageBox
@@ -96355,8 +96355,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[帽子]-未開封
-クリスマスルック[帽子]が入っている。
+Christmas Look [Hat] - Sealed
+Contains Christmas Look [Hat].
 
 ID=863480501
 Icon/Item/Function/Package/PackageBox
@@ -96365,8 +96365,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[手袋]-未開封
-クリスマスルック[手袋]が入っている。
+Christmas Look [Gloves] - Sealed
+Contains Christmas Look [Gloves].
 
 ID=863481201
 Icon/Item/Function/Package/PackageBox
@@ -96375,8 +96375,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-クリスマスルック[靴]-未開封
-クリスマスルック[靴]が入っている。
+Christmas Look [Shoes] - Sealed
+Conatins Christmas Look [Shoes].
 
 ID=836000311
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
@@ -96385,7 +96385,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 0
-クリスマスアバターセット
+Christmas Avatar Set
 [アバターパッケージ]\n\n2016年度のクリスマス衣装が入っている。\nまさかこれは…サンタさんからのプレゼント！？\nハル専用\n\n-構成品-\nクリスマスルック[帽子]X1\nクリスマスルック[衣装]X1\nクリスマスルック[靴]X1\nクリスマスルック[手袋]X1\nクリスマスルック[タイツ]X1
 
 ID=836000312
@@ -96395,7 +96395,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 0
-クリスマスアバターセット
+Christmas Avatar Set
 [アバターパッケージ]\n\n2016年度のクリスマス衣装が入っている。\nまさかこれは…サンタさんからのプレゼント！？\nアーウィン専用\n\n-構成品-\nクリスマスルック[帽子]X1\nクリスマスルック[衣装]X1\nクリスマスルック[靴]X1\nクリスマスルック[手袋]X1
 
 ID=836000313
@@ -96405,7 +96405,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 0
-クリスマスアバターセット
+Christmas Avatar Set
 [アバターパッケージ]\n\n2016年度のクリスマス衣装が入っている。\nまさかこれは…サンタさんからのプレゼント！？\nリリー専用\n\n-構成品-\nクリスマスルック[帽子]X1\nクリスマスルック[衣装]X1\nクリスマスルック[靴]X1\nクリスマスルック[手袋]X1
 
 ID=836000314
@@ -96415,7 +96415,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_D
 0
 0
 0
-クリスマスアバターセット
+Christmas Avatar Set
 [アバターパッケージ]\n\n2016年度のクリスマス衣装が入っている。 \nまさかこれは…サンタさんからのプレゼント！？\nジン専用\n\n-構成品-\nクリスマスルック[帽子]X1\nクリスマスルック[衣装]X1\nクリスマスルック[靴]X1\nクリスマスルック[手袋]X1
 
 ID=836000315
@@ -96425,7 +96425,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 0
-クリスマスアバターセット
+Christmas Avatar Set
 [アバターパッケージ]\n\n2016年度のクリスマス衣装が入っている。\n まさかこれは…サンタさんからのプレゼント！？\nステラ専用\n\n-構成品-\nクリスマスルック[帽子]X1\nクリスマスルック[衣装]X1\nクリスマスルック[靴]X1\nクリスマスルック[手袋]X1
 
 ID=836000316
@@ -96435,7 +96435,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F
 0
 0
 0
-クリスマスアバターセット
+Christmas Avatar Set
 [アバターパッケージ]\n\n2016年度のクリスマス衣装が入っている。\n まさかこれは…サンタさんからのプレゼント！？\nイリス専用\n\n-構成品-\nクリスマスルック[帽子]X1\nクリスマスルック[衣装]X1\nクリスマスルック[靴]X1\nクリスマスルック[手袋]X1
 
 ID=836000340
@@ -96996,7 +96996,7 @@ Icon/Item/Etc/ETC_0_TitleItem
 0
 0
 [Title] 1st Class
-[称号獲得アイテム]\n超絶幸運を持ちし者の証明。\nその幸運をみんなに自慢しよう。
+[称号獲得アイテム]\n超絶幸運を持ちし者の証明。\nその幸運をみんなに自慢しよう。\n\n[称号獲得アイテム]接頭
 
 ID=837400058
 Icon/Item/Etc/ETC_0_TitleItem
@@ -97006,7 +97006,7 @@ Icon/Item/Etc/ETC_0_TitleItem
 0
 0
 [Title] 2nd Class
-[称号獲得アイテム]\n超幸運を持ちし者の証明。\nその幸運をみんなに自慢しよう。
+[称号獲得アイテム]\n超幸運を持ちし者の証明。\nその幸運をみんなに自慢しよう。\n\n[称号獲得アイテム]接頭
 
 ID=837400059
 Icon/Item/Etc/ETC_0_TitleItem
@@ -97016,7 +97016,7 @@ Icon/Item/Etc/ETC_0_TitleItem
 0
 0
 [Title] 3rd Class
-[称号獲得アイテム]\nぼちぼちな幸運を持ちし者の証明。\nだけど、みんなに自慢しよう。
+[称号獲得アイテム]\nぼちぼちな幸運を持ちし者の証明。\nだけど、みんなに自慢しよう。\n\n[称号獲得アイテム]接頭
 
 ID=837400060
 Icon/Item/Etc/ETC_0_TitleItem
@@ -97026,7 +97026,7 @@ Icon/Item/Etc/ETC_0_TitleItem
 0
 0
 [Title] Empty Dream
-[称号獲得アイテム]\n宝くじ当てて億万長者になる！\nそんな夢を持った人に贈られる称号。
+[称号獲得アイテム]\n宝くじ当てて億万長者になる！\nそんな夢を持った人に贈られる称号。\n\n[称号獲得アイテム]接尾
 
 ID=836000367
 Icon/Item/Function/Package/ETC_0_CostumePackage
@@ -97037,3 +97037,33 @@ Icon/Item/Function/Package/ETC_0_CostumePackage
 0
 New Year Kimono Avatar Box
 [アバターパッケージ]\n\n色々な生地が溢れるほど入っているボックス。\n各キャラクターの合った「新春和装」アバターを獲得できる。
+
+ID=836000368
+Icon/Item/Function/Package/ETC_0_NormalPackage
+0
+0
+0
+0
+0
+30分報酬[Sコイン20個]
+接続時間30分報酬。Sコインを20個入手できる。\n\n[接続時間報酬パッケージ]
+
+ID=836000369
+Icon/Item/Function/Package/ETC_0_NormalPackage
+0
+0
+0
+0
+0
+60分報酬[Sコイン30個]
+接続時間60分報酬。Sコインを30個入手できる。\n\n[接続時間報酬パッケージ]\n
+
+ID=836000370
+Icon/Item/Function/Package/ETC_0_NormalPackage
+0
+0
+0
+0
+0
+90分報酬[Sコイン50個]
+接続時間90分報酬。Sコインを50個入手できる。\n\n[接続時間報酬パッケージ]

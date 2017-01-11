@@ -31,7 +31,7 @@ Icon/Mail/SendImage_System
 ID=6
 Chloe
 [Market] Item Sold
-{1}x {0} listed in the [Market] was successfully sold for {2} Zenny, less the transaction fee. 
+{1} {0} were sold on the [Market].\nYou received {2} Zenny from the sale after deducing the charging fee.
 Icon/Mail/SendImage_System
 
 ID=7
@@ -103,7 +103,7 @@ Icon/Mail/SendImage_System
 ID=18
 Chloe
 [Market] Item Sold
-{1} {0} were sold on the [Market].\nYou received {2} Zenny from the sale.\nNo Trading Fee Discount Ticket was used.
+{1} {0} were sold on the [Market].\nYou received {2} Zenny from the sale.\nNo fee was charged because you have used a Trading Fee Exemption Ticket.
 Icon/Mail/SendImage_System
 
 ID=19

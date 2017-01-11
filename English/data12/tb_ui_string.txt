@@ -221,7 +221,7 @@ ID=122
 Haircut
 
 ID=123
-Eye
+Eyes
 
 ID=124
 Mouth
@@ -338,7 +338,7 @@ ID=183
 Avatar [Head]
 
 ID=184
-Avatar [Eye]
+Avatar [Eyes]
 
 ID=185
 Avatar [Mouth]
@@ -455,7 +455,7 @@ ID=333
 {0} was used.
 
 ID=334
-{0} was purchased for {1}.
+{0} was bought for {1}.
 
 ID=335
 Are you sure that you want to buy the selected items?\nThe selected items cannot be equipped by you.
@@ -641,7 +641,7 @@ ID=413
 Dismantle
 
 ID=414
-Equip Socket
+Socket
 
 ID=415
 Repair
@@ -1688,7 +1688,7 @@ ID=867
 Head
 
 ID=868
-Eye
+Eyes
 
 ID=869
 Mouth
@@ -2510,10 +2510,10 @@ ID=2213
 Zenny
 
 ID=2214
-Please enter a title.
+Please enter a title
 
 ID=2215
-Please enter some text.
+No content
 
 ID=2216
 Sender
@@ -2537,7 +2537,7 @@ ID=2222
 Claim Zenny
 
 ID=2223
-Mail Duration
+Storage Period
 
 ID=2224
 {0}day
@@ -2657,7 +2657,7 @@ ID=2281
 Do you want to receive all attachments from "Account Mail"?\n(You cannot receive them if you do not have enough space in your inventory)
 
 ID=2282
-Are you sure you want to delete all selected mails?\n(Unread mails and mails with attachment will not be deleted)
+Are you sure you want to delete all selected mails?\n(Unread mails and mails with attachments will not be deleted)
 
 ID=2283
 {0} mails were deleted.
@@ -2810,7 +2810,7 @@ ID=3018
 {0} has cancelled the trade request.
 
 ID=3019
-{0} has rejected the trade request.
+{0} has denied the trade request.
 
 ID=3020
 The trade request has expired because of no response.
@@ -2915,7 +2915,7 @@ ID=3068
 You can register up to 5 concurrent items only.
 
 ID=3069
-You purchased {1} in {0}'s personal shop.
+You bought {1} in {0}'s personal shop.
 
 ID=3070
 {0} has been sold for {1} Zenny.
@@ -3020,7 +3020,7 @@ ID=4003
 Lv {1} {0} Available
 
 ID=4004
-Available Attribute
+Attribute Available
 
 ID=4005
 Lv {1} {0} Available
@@ -3032,7 +3032,7 @@ ID=4007
 {0} Available
 
 ID=4008
-Dungeon entry permitted.
+Dungeon Unlocked
 
 ID=4009
 {0} - {1} {2} has been unlocked
@@ -3368,76 +3368,76 @@ ID=5519
 Character Style Settings
 
 ID=5800
-<font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought in each town's <font color='#00ff9c'>Equipment Shop</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought at <font color='#B2EBF4'>Zaito</font> in each town.</font>
 
 ID=5801
-<font color='#FFFFFF' size='30'>TIP: </font>Basic consumable items can be bought in each town's <font color='#00ff9c'>General Merchant Shop</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought at <font color='#B2EBF4'>Yomi</font> in each town.</font>
 
 ID=5802
 <font color='#FFFFFF' size='30'>TIP: </font>Various shops in towns can <font color='#00D8FF'>[Repair]</font> your equipment or <font color='#00D8FF'>[Dismantle]</font> them.
 
 ID=5803
-<font color='#FFFFFF' size='30'>TIP: </font>When using shops from NPCs, <font color='#00D8FF'>[Favorability Level]</font> will increase.\nSpecial benefits will be given depending on Favorability Level.
+<font color='#FFFFFF' size='30'>TIP: </font>Using functional NPCs, like stores, will increase the <font color='#00D8FF'>[Favorability Level]</font>.\nSpecial benefits will be given depending on the <font color='#00D8FF'>[Favorability Level]</font>.
 
 ID=5804
-<font color='#FFFFFF' size='30'>TIP: </font>Talking to <font color='#00ff9c'>[Trisha]</font>, you can <font color='#00D8FF'>[Exchange]</font> or <font color='#00D8FF'>[Enhance]</font> materials/equipment.
+<font color='#FFFFFF' size='30'>TIP: </font>At <font color='#B2EBF4'>[Trisha]</font>, you can <font color='#00D8FF'>[Enhance]</font> and <font color='#00D8FF'>[Exchange]</font> gear and materials.
 
 ID=5805
-<font color='#FFFFFF' size='30'>TIP: </font>Equipment can be <font color='#00D8FF'>enhanced</font> to be upgraded, <font color='#00D8FF'>dismantled</font> to obtain items needed to upgrade or craft other equipment.
+<font color='#FFFFFF' size='30'>TIP: </font>Equipment can be upgraded through <font color='#00D8FF'>Enhancing</font>, it can also be <font color='#00D8FF'>Dismantled</font> to obtain items needed to upgrade or craft other pieces of equipment.
 
 ID=5806
-<font color='#FFFFFF' size='30'>TIP: </font>Talking to <font color='#B2EBF4'>[Zenith]</font>, you can <font color='#00D8FF'>[Craft]</font> weapons, gear, and avatar items.
+<font color='#FFFFFF' size='30'>TIP: </font>At <font color='#B2EBF4'>[Zenith]</font> you can <font color='#00D8FF'>[Craft]</font> weapons, equipments, materials, and avatars
 
 ID=5807
-<font color='#FFFFFF' size='30'>TIP: </font>You can send mail by using <font color='#00ff9c'>HEMS</font>. A small fee will be paid.\nItems and Zenny may also be attached.
+<font color='#FFFFFF' size='30'>TIP: </font>You can send mails by using <font color='#B2EBF4'>HEMS</font>. A fee will be charged when sending.\nItems and Zenny may also be attached.
 
 ID=5808
-<font color='#FFFFFF' size='30'>TIP: </font>You may store extra items at the <font color='#00D8FF'>Bank</font> by talking to <font color='#00ff9c'>Ordon</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You can store your extra items at <font color='#00D8FF'>Ordon</font> in each town.
 
 ID=5809
-<font color='#FFFFFF' size='30'>TIP: </font>You can check the <font color='#00ff9c'>mini-map</font> to find the location of an <font color='#00D8FF'>NPC</font> or <font color='#00D8FF'>dungeon entrances</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>On the <font color='#00D8FF'>Minimap</font> you can find your current location, <font color='#00D8FF'>NPC</font> location and <font color='#00D8FF'>Dungeon</font> entrances.
 
 ID=5810
-<font color='#FFFFFF' size='30'>TIP: </font>Press the hotkey <font color='#00ff9c'>[L]</font> to see your <font color='#00D8FF'>[Achievement]</font> and <font color='#00D8FF'>[Secured Area Percentages]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You can view and confirm your <font color='#00D8FF'>[Achievements]</font> and <font color='#00D8FF'>[Clearance]</font> by pressing the hotkey <font color='#00FF9C'>[L]</font>.
 
 ID=5811
-<font color='#FFFFFF' size='30'>TIP: </font>Depending on your <font color='#00D8FF'>progress</font>, you can press <font color='#00ff9c'>[L]</font> to collect rewards.
+<font color='#FFFFFF' size='30'>TIP: </font>Depending on your <font color='#00D8FF'>Progress Information</font>, you can collect rewards by pressing the hotkey <font color='#00FF9C'>[L]</font>.
 
 ID=5812
-<font color='#FFFFFF' size='30'>TIP: </font>By collecting ingredients and bringing them to <font color='#00ff9c'>IO</font>, you can create an <font color='#00D8FF'>A.R card</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>By collecting ingredients and bringing them to <font color='#B2EBF4'>Io</font>, you can create an <font color='#00D8FF'>A.R card</font>.
 
 ID=5813
-<font color='#FFFFFF' size='30'>TIP: </font>Registering a HOLD type <font color='#00D8FF'>A.R card</font> into your slot will allow it to activate passively.
+<font color='#FFFFFF' size='30'>TIP: </font>Registering a HOLD type <font color='#00D8FF'>A.R card</font> into your slots will automatically grant passive effects.
 
 ID=5814
-<font color='#FFFFFF' size='30'>TIP: </font>When a new quest is available, a <font color='#fff94a'>[<font size='30'>！</font>]</font> mark will appear above an NPC's head. A <font color='#fff94a'>[<font size='30'>？</font>]</font> mark will appear for quests that are ready to be handed in.\nIt will also be displayed on your minimap.
+<font color='#FFFFFF' size='30'>TIP: </font>When a new quest is available, a <font color='#FFF94A'>[<font size='30'>！</font>]</font> mark will appear above an NPC's head. A <font color='#FFF94A'>[<font size='30'>？</font>]</font> mark will appear for quests that are ready to be handed in. This is also displayed on the Minimap.
 
 ID=5815
-<font color='#FFFFFF' size='30'>TIP: </font>Accepted quests will appear on your <font color='#00D8FF'>Quest Tracker</font>. Quest information can be viewed by pressing <font color='#00ff9c'>[J]</font> to open the Quest window.
+<font color='#FFFFFF' size='30'>TIP: </font>Accepted quests will appear on your <font color='#00D8FF'>Quest Tracker</font>. Quest information can be viewed by opening the Quest window, you can use the hotkey <font color='#00FF9C'>[J]</font>.
 
 ID=5816
-<font color='#FFFFFF' size='30'>TIP: </font>The game's settings can be changed by pressing the <font color='#00ff9c'>[ESC]</font> key and going to the <font color='#00D8FF'>[System Settings]</font> button.
+<font color='#FFFFFF' size='30'>TIP: </font>The game's settings can be changed by pressing the <font color='#00FF9C'>[ESC]</font> key and going to the <font color='#00D8FF'>[System Settings]</font> button.
 
 ID=5817
-<font color='#FFFFFF' size='30'>TIP: </font>Open the community list by pressing <font color='#00ff9c'>[O]</font>. You can manage your <font color='#00D8FF'>[Friend List]</font> there.
+<font color='#FFFFFF' size='30'>TIP: </font>You can open the community list by pressing <font color='#00FF9C'>[O]</font>. There you can manage your <font color='#00D8FF'>[Friend List]</font>.
 
 ID=5818
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Skills]</font> and <font color='#00D8FF'>[A.R cards]</font> can be set onto quick slots with the Skill window by pressing <font color='#00ff9c'>[K]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Skills]</font> and <font color='#00D8FF'>[A.R Cards]</font> can be set onto quick slots in the Skill window by pressing the hotkey <font color='#00FF9C'>[K]</font>.
 
 ID=5819
 <font color='#FFFFFF' size='30'>TIP: </font>Effective use of your <font color='#00D8FF'>Skill Deck</font> will prove helpful in battle.
 
 ID=5820
-<font color='#FFFFFF' size='30'>TIP: </font>Improving your <font color='#00D8FF'>Passive Skills</font> will extend your basic actions.
+<font color='#FFFFFF' size='30'>TIP: </font>Increasing the level of your <font color='#00D8FF'>Passive Skills</font> will extend and improve your basic actions.
 
 ID=5821
 <font color='#FFFFFF' size='30'>TIP: </font>The <font color='#00D8FF'>Notification Icons</font> at the lower left area of your screen will notify you of various events requiring your attention.
 
 ID=5822
-<font color='#FFFFFF' size='30'>TIP: </font>You may freely change the <font color='#00D8FF'>Title</font> above your name by using the <font color='#00D8FF'>Status window</font> <font color='#00ff9c'>[P]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You may freely change the <font color='#00D8FF'>Title</font> above your name by using the <font color='#00D8FF'>Status</font> window, hotkey <font color='#00FF9C'>[P]</font>.
 
 ID=5823
-<font color='#FFFFFF' size='30'>TIP: </font>You may claim rewards from the <font color='#00D8FF'>Memorials</font> window <font color='#00ff9c'>[B]</font> based on your <font color='#00D8FF'>Dungeon Clearance</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You may claim rewards from the <font color='#00D8FF'>Memorial</font> window <font color='#00FF9C'>[B]</font> based on your <font color='#00D8FF'>Clearance</font>.
 
 ID=5824
 <font color='#FFFFFF' size='30'>TIP: </font>Your <font color='#00D8FF'>Town Clearance</font> level is based on its associated Dungeon Clearance levels.
@@ -3446,61 +3446,61 @@ ID=5825
 <font color='#FFFFFF' size='30'>TIP: </font>When entering a dungeon, use <font color='#00D8FF'>[Auto-Matching]</font> to automatically find a Party.
 
 ID=5826
-<font color='#FFFFFF' size='30'>TIP: </font>You can revise your profile in the <font color='#00D8FF'>Status</font> window <font color='#00ff9c'>[P]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You can revise your profile in the <font color='#00D8FF'>Status</font> window, hotkey <font color='#00FF9C'>[P]</font>.
 
 ID=5827
-<font color='#FFFFFF' size='30'>TIP: </font>Press the left <font color='#00ff9c'>[Alt]</font> key to activate the mouse mode.
+<font color='#FFFFFF' size='30'>TIP: </font>Press the left <font color='#00FF9C'>[Alt]</font> key to change to mouse mode.
 
 ID=5828
-<font color='#FFFFFF' size='30'>TIP: </font>Upon reaching max level, <font color='#00ff9c'>[Rank]</font> will be enabled.
+<font color='#FFFFFF' size='30'>TIP: </font>Upon reaching max level, <font color='#00FF9C'>[Rank]</font> will be enabled.
 
 ID=5829
-<font color='#FFFFFF' size='30'>TIP: </font>When the current channel is full, please\n<font color='#00D8FF'>Change Channel</font> by clicking the top right area of your minimap.
+<font color='#FFFFFF' size='30'>TIP: </font>When the current channel is full, please use the <font color='#00D8FF'>Change Channel</font> feature by clicking the top right area of the Minimap.
 
 ID=5830
-<font color='#FFFFFF' size='30'>TIP: </font>Booker's Point <font color='#00ff9c'>[BP]</font> may be acquired from <font color='#00D8FF'>District 6</font> or <font color='#00D8FF'>Steel Grave</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Booker Points <font color='#00D8FF'>[BP]</font> may be acquired from <font color='#00D8FF'>District 6</font> or from <font color='#00D8FF'>Steel Grave</font>.
 
 ID=5831
-<font color='#FFFFFF' size='30'>TIP: </font>You can buy special items at the <font color='#00ff9c'>BP Shop</font> in <font color='#00D8FF'>District 6</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You can buy special items at the <font color='#B2EBF4'>BP Shop</font> in <font color='#00D8FF'>District 6</font>.
 
 ID=5832
-<font color='#FFFFFF' size='30'>TIP: </font>Open the <font color='#00D8FF'>Quest Information</font> window <font color='#00ff9c'>[J]</font> and click on the <font color='#00ff9c'>[Mission]</font> tab to access the daily missions.
+<font color='#FFFFFF' size='30'>TIP: </font>Open the <font color='#00D8FF'>Quest</font> window, hotkey <font color='#00FF9C'>[J]</font> and click on the <font color='#00D8FF'>[Mission]</font> tab to access the daily missions.
 
 ID=5833
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00ff9c'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font> can be used at the <font color='#00D8FF'>Void Vending Machine</font>.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font> can be used at the <font color='#00D8FF'>Void Vending Machine</font>.
 
 ID=5834
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Secret Mission]</font> will randomly appear inside dungeons.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Secret Missions]</font> will randomly appear inside dungeons.
 
 ID=5835
-<font color='#FFFFFF' size='30'>TIP: </font>As you progress through the game, you will be able to call forth a reassuring </font><font color='#00D8FF'>[Supporter]</font> to support you.
+<font color='#FFFFFF' size='30'>TIP: </font>As you progress through the game, you will be able to call forth a reassuring <font color='#00D8FF'>[Supporter]</font> to support you.
 
 ID=5836
-<font color='#FFFFFF' size='30'>TIP: </font>Please try activating <font color='#00D8FF'>Orbs</font> at the <font color='#00ff9c'>Soul Manipulator</font> NPC.\nAn activated Orb can be used by your Supporter.
+<font color='#FFFFFF' size='30'>TIP: </font>Please try activating <font color='#00D8FF'>Orbs</font> at the <font color='#B2EBF4'>Io</font> NPC.\nActivated orbs can be user by your friend's Supporters.
 
 ID=5837
-<font color='#FFFFFF' size='30'>TIP: </font>Soloing is hard! You might feel lonely!\nIn times like these, you can use </font><font color='#00D8FF'>Find Party</font> <font color='#00ff9c'>[N]</font> and </font><font color='#00D8FF'>Community</font> <font color='#00ff9c'>[O]</font> to make some friends!
+<font color='#FFFFFF' size='30'>TIP: </font>"Soloing is hard! I feel lonely!"\nIn times like these, you can use the </font><font color='#00D8FF'>Find Party</font>, hotkey <font color='#00FF9C'>[N]</font> and </font><font color='#00D8FF'>Community</font>, hotkey <font color='#00FF9C'>[O]</font> to make some friends!
 
 ID=5838
-<font color='#FFFFFF' size='30'>TIP: </font>Expand your community by establishing a <font color='#00D8FF'>Guild</font> or joining a <font color='#00D8FF'>Guild</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Expand your community by establishing a <font color='#00D8FF'>Guild</font> or joining one.
 
 ID=5839
 <font color='#FFFFFF' size='30'>TIP: </font>Upon reaching Lv10, you will be able to have your very own <font color='#00D8FF'>[Room]</font>.
 
 ID=5840
-<font color='#FFFFFF' size='30'>TIP: </font>Sometimes a <font color='#00D8FF'>Memorial</font>, A.K.A. memory fragment, will appear.\nCollect these and claim a reward from the Memorial window <font color='#00ff9c'>[B]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Rarely a <font color='#00D8FF'>Memorial</font> piece will appear.\nCollect these and claim the rewards in the Memorial window, hotkey <font color='#00ff9c'>[B]</font>.
 
 ID=5841
-<font color='#FFFFFF' size='30'>TIP: </font>Clicking the "i" icon at the top right corner will open <font color='#00D8FF'>[Help]</font>, where various information about the game can be found.
+<font color='#FFFFFF' size='30'>TIP: </font>Clicking the <font color='#FFF94A'>[<font size='30'>i</font>]</font> icon at the top right corner of the screen will open the <font color='#00D8FF'>[Help]</font>, there various information about the game can be found.
 
 ID=5842
 <font color='#FFFFFF' size='30'>TIP: </font>Entering a dungeon will consume <font color='#00D8FF'>[Fatigue]</font>.
 
 ID=5843
-<font color='#FFFFFF' size='30'>TIP: </font>Level up your <font color='#00D8FF'>Skills</font> and <font color='#00D8FF'>Abilities</font> according to your own play style.
+<font color='#FFFFFF' size='30'>TIP: </font>You can improve your <font color='#00D8FF'>Skills</font> by choosing an <font color='#00D8FF'>Attribute</font> according to your own play style.\nAttributes can change or add new effects or functionality for the respective skill.
 
 ID=5844
-<font color='#FFFFFF' size='30'>TIP: </font>Negative <font color='#00D8FF'>[Status Effects]</font> are a burden when applied to oneself, but they can turn the tide of battle when applied to enemies instead.
+<font color='#FFFFFF' size='30'>TIP: </font>Negative <font color='#00D8FF'>[Status Effects]</font> are a burden when applied to oneself, but they can turn the tide of the battle when applied to enemies instead.
 
 ID=5845
 <font color='#FFFFFF' size='30'>TIP: </font>Sometimes, an unflinching enemy with <font color='#00D8FF'>[Super Armor]</font> will appear.\nDestroying the Super Armor with attacks will cause the enemy to become temporarily dazed.
@@ -3509,124 +3509,124 @@ ID=5846
 <font color='#FFFFFF' size='30'>TIP: </font>Clicking during a <font color='#00D8FF'>[Dash]</font> or <font color='#00D8FF'>[Jump]</font> will allow you to do an attack.
 
 ID=5847
-<font color='#FFFFFF' size='30'>TIP: </font>Enemies launched in the air will receive extra damage from your attacks.
+<font color='#FFFFFF' size='30'>TIP: </font>Enemies launched in the air will receive extra damage from attacks.
 
 ID=5848
-<font color='#FFFFFF' size='30'>TIP: </font>Upon completion of a special event, you will be able to collect <font color='#00D8FF'>Soul Vapor</font> while inside dungeons. Your <font color='#00ff9c'>[Break Skill]</font> can be activated once you have collected enough.
+<font color='#FFFFFF' size='30'>TIP: </font>Upon completion of a specific event, you will be able to collect <font color='#00D8FF'>Soul Vapor</font> in dungeons, they are consumed when using a <font color='#00D8FF'>[Break Skill]</font>.
 
 ID=5849
-<font color='#FFFFFF' size='30'>TIP: </font>When inside a dungeon, you might randomly encounter <font color='#00D8FF'>Glutton</font>.\nHe may drop rare items when you defeat him.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>Glutton</font> can randomly appear inside dungeons.\nIf you manage to defeat Glutton, you may be able to earn rare items.
 
 ID=5850
-<font color='#FFFFFF' size='30'>TIP: </font>As you progress through the game, you can collect various <font color='#00D8FF'>items</font> that will make you more powerful.
+<font color='#FFFFFF' size='30'>TIP: </font>As you progress through the game, you can collect various <font color='#00D8FF'>Items</font> that will make you more powerful.
 
 ID=5851
-<font color='#FFFFFF' size='30'>TIP: </font>You can attach a <font color='#00D8FF'>Familiar</font> to a weapon that has an open socket.
+<font color='#FFFFFF' size='30'>TIP: </font>You can attach a <font color='#00D8FF'>Familiar</font> to a weapon with an open socket.
 
 ID=5852
-<font color='#FFFFFF' size='30'>TIP: </font>A <font color='#00D8FF'>Brooch</font> can be added to a Fashion item that has an open socket.
+<font color='#FFFFFF' size='30'>TIP: </font>A <font color='#00D8FF'>Brooch</font> can be added to a Fashion item with an open socket.
 
 ID=5853
-<font color='#FFFFFF' size='30'>TIP: </font>Defeated enemies will drop <font color='#00D8FF'>Ether</font>, which is used to <font color='#00ff9c'>Enhance</font> items.
+<font color='#FFFFFF' size='30'>TIP: </font>Defeated enemies will drop <font color='#00D8FF'>Ether</font>. Ether is used to <font color='#00D8FF'>Enhance</font> items.
 
 ID=5854
-<font color='#FFFFFF' size='30'>TIP: </font>Crafting items at <font color='#00ff9c'>Zenith</font> will require a <font color='#00D8FF'>Blueprint</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Some items crafted at <font color='#B2EBF4'>Zenith</font> will require a <font color='#00D8FF'>Blueprint</font>.
 
 ID=5855
-<font color='#FFFFFF' size='30'>TIP: </font>As your weapon's <font color='#00D8FF'>Durability</font> decreases, so will the effectiveness of your weapon. Repair your item often at the shop.
+<font color='#FFFFFF' size='30'>TIP: </font>As your gear's <font color='#00D8FF'>Durability</font> decreases, so will the effectiveness of it will drop. You should repair your gear regularly at a shop.
 
 ID=5856
-<font color='#FFFFFF' size="30">TIP: </font>Going to another city or town will require moving through the lawless zone: <font color='#00D8FF'>District 6</font>.
+<font color='#FFFFFF' size="30">TIP: </font>Traveling to other towns will require going through the lawless zone, <font color='#00D8FF'>District 6</font>.
 
 ID=5857
 <font color='#FFFFFF' size='30'>TIP: </font>A <font color='#00D8FF'>Starry Forest League Transport Helicopter</font> can be used to safely traverse across <font color='#00D8FF'>District 6</font>.
 
 ID=5858
-<font color='#FFFFFF' size='30'>TIP: </font>Materials and ingredients for enhancing or crafting can sometimes be obtained from the <font color='#00D8FF'>Vacuum Cubes</font> which sometimes appear in <font color='#00D8FF'>District 6</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Materials and ingredients for enhancing or crafting can sometimes be obtained from the <font color='#00D8FF'>Vacuum Cubes</font> which appear in <font color='#00D8FF'>District 6</font>.
 
 ID=5859
-<font color='#FFFFFF' size='30'>TIP: </font>Upon reaching the max level, you can try doing the <font color='#00D8FF'>Casual Raid</font> "Space Abnormality" with a minimum of 2 people.
+<font color='#FFFFFF' size='30'>TIP: </font>Upon reaching the max level, you can try doing the <font color='#00D8FF'>Casual Raid</font>, a "Space Abnormality", with at least 2 people.
 
 ID=5860
-<font color='#FFFFFF' size='30'>TIP: </font>You can enter the combat research institution <font color='#00D8FF'>Steel Grave</font> from <font color='#00D8FF'>Candus City</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You can enter the Combat Research Institution, <font color='#00D8FF'>Steel Grave</font>, from <font color='#00D8FF'>Candus City</font>.
 
 ID=5861
-<font color='#FFFFFF' size='30'>TIP: </font>The combat research institute <font color='#00D8FF'>Steel Grave</font> gives you one attempt at clearing up to 5 stages per day.
+<font color='#FFFFFF' size='30'>TIP: </font>The Combat Research Institute, <font color='#00D8FF'>Steel Grave</font>, gives you one attempt at clearing up to 5 stages per day.
 
 ID=5862
 <font color='#FFFFFF' size='30'>TIP: </font> Entering <font color='#00D8FF'>Very Hard</font> mode dungeons features stronger enemies and better rewards.
 
 ID=5863
-<font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought in each town's <font color='#00ff9c'>Equipment Shop</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought at <font color='#B2EBF4'>Zaito</font> in each town.</font>
 
 ID=5864
-<font color='#FFFFFF' size='30'>TIP: </font>Basic consumable items can be bought in each town's <font color='#00ff9c'>General Merchant Shop</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought at <font color='#B2EBF4'>Yomi</font> in each town.</font>
 
 ID=5865
 <font color='#FFFFFF' size='30'>TIP: </font>Various shops in towns can <font color='#00D8FF'>[Repair]</font> your equipment or <font color='#00D8FF'>[Dismantle]</font> them.
 
 ID=5866
-<font color='#FFFFFF' size='30'>TIP: </font>When using shops from NPCs, <font color='#00D8FF'>[Favorability Level]</font> will increase.\nSpecial benefits will be given depending on Favorability Level.
+<font color='#FFFFFF' size='30'>TIP: </font>Using functional NPCs, like stores, will increase the <font color='#00D8FF'>[Favorability Level]</font>.\nSpecial benefits will be given depending on the <font color='#00D8FF'>[Favorability Level]</font>.
 
 ID=5867
-<font color='#FFFFFF' size='30'>TIP: </font>Talking to <font color='#00ff9c'>[Trisha]</font>, you can <font color='#00D8FF'>[Exchange]</font> or <font color='#00D8FF'>[Enhance]</font> materials/equipment.
+<font color='#FFFFFF' size='30'>TIP: </font>At <font color='#B2EBF4'>[Trisha]</font>, you can <font color='#00D8FF'>[Enhance]</font> and <font color='#00D8FF'>[Exchange]</font> gear and materials.
 
 ID=5868
-<font color='#FFFFFF' size='30'>TIP: </font>Equipment can be <font color='#00D8FF'>enhanced</font> to be upgraded, <font color='#00D8FF'>dismantled</font> to obtain items needed to upgrade or craft other equipment.
+<font color='#FFFFFF' size='30'>TIP: </font>Equipment can be upgraded through <font color='#00D8FF'>Enhancing</font>, it can also be <font color='#00D8FF'>Dismantled</font> to obtain items needed to upgrade or craft other pieces of equipment.
 
 ID=5869
-<font color='#FFFFFF' size='30'>TIP: </font>Talking to <font color='#B2EBF4'>[Zenith]</font>, you can <font color='#00D8FF'>[Craft]</font> weapons, gear, and avatar items.
+<font color='#FFFFFF' size='30'>TIP: </font>At <font color='#B2EBF4'>[Zenith]</font> you can <font color='#00D8FF'>[Craft]</font> weapons, equipments, materials, and avatars
 
 ID=5870
-<font color='#FFFFFF' size='30'>TIP: </font>You can send mail by using <font color='#00ff9c'>HEMS</font>. A small fee will be paid.\nItems and Zenny may also be attached.
+<font color='#FFFFFF' size='30'>TIP: </font>You can send mails by using <font color='#B2EBF4'>HEMS</font>. A fee will be charged when sending.\nItems and Zenny may also be attached.
 
 ID=5871
-<font color='#FFFFFF' size='30'>TIP: </font>You may store extra items at the <font color='#00D8FF'>Bank</font> by talking to <font color='#00ff9c'>Ordon</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You can store your extra items at <font color='#00D8FF'>Ordon</font> in each town.
 
 ID=5872
-<font color='#FFFFFF' size='30'>TIP: </font>You can check the <font color='#00ff9c'>mini-map</font> to find the location of an <font color='#00D8FF'>NPC</font> or <font color='#00D8FF'>dungeon entrances</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>On the <font color='#00D8FF'>Minimap</font> you can find your current location, <font color='#00D8FF'>NPC</font> location and <font color='#00D8FF'>Dungeon</font> entrances.
 
 ID=5873
-<font color='#FFFFFF' size='30'>TIP: </font>Press the hotkey <font color='#00ff9c'>[L]</font> to see your <font color='#00D8FF'>[Achievement]</font> and <font color='#00D8FF'>[Secured Area Percentages]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You can view and confirm your <font color='#00D8FF'>[Achievements]</font> and <font color='#00D8FF'>[Clearance]</font> by pressing the hotkey <font color='#00FF9C'>[L]</font>.
 
 ID=5874
-<font color='#FFFFFF' size='30'>TIP: </font>Based on your game progess, you can check the <font color='#00D8FF'>Progress Information</font> window <font color='#00ff9c'>[L]</font> to receive some rewards.
+<font color='#FFFFFF' size='30'>TIP: </font>Depending on your <font color='#00D8FF'>Progress Information</font>, you can collect rewards by pressing the hotkey <font color='#00FF9C'>[L]</font>.
 
 ID=5875
-<font color='#FFFFFF' size='30'>TIP: </font>By collecting ingredients and bringing them to <font color='#00ff9c'>IO</font>, you can create an <font color='#00D8FF'>A.R card</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>By collecting ingredients and bringing them to <font color='#B2EBF4'>Io</font>, you can create an <font color='#00D8FF'>A.R card</font>.
 
 ID=5876
-<font color='#FFFFFF' size='30'>TIP: </font>Registering a HOLD type <font color='#00D8FF'>A.R card</font> into your slot will allow it to activate passively.
+<font color='#FFFFFF' size='30'>TIP: </font>Registering a HOLD type <font color='#00D8FF'>A.R card</font> into your slots will automatically grant passive effects.
 
 ID=5877
-<font color='#FFFFFF' size='30'>TIP: </font>When a new quest is available, a <font color='#fff94a'>[<font size='30'>！</font>]</font> mark will appear above an NPC's head. A <font color='#fff94a'>[<font size='30'>？</font>]</font> mark will appear for quests that are ready to be handed in.\nIt will also be displayed on your minimap.
+<font color='#FFFFFF' size='30'>TIP: </font>When a new quest is available, a <font color='#FFF94A'>[<font size='30'>！</font>]</font> mark will appear above an NPC's head. A <font color='#FFF94A'>[<font size='30'>？</font>]</font> mark will appear for quests that are ready to be handed in. This is also displayed on the Minimap.
 
 ID=5878
-<font color='#FFFFFF' size='30'>TIP: </font>Accepted quests will appear on your <font color='#00D8FF'>Quest Tracker</font>. Quest information can be viewed by pressing <font color='#00ff9c'>[J]</font> to open the Quest window.
+<font color='#FFFFFF' size='30'>TIP: </font>Accepted quests will appear on your <font color='#00D8FF'>Quest Tracker</font>. Quest information can be viewed by opening the Quest window, you can use the hotkey <font color='#00FF9C'>[J]</font>.
 
 ID=5879
-<font color='#FFFFFF' size='30'>TIP: </font>Press the <font color='#00ff9c'>[ESC]</font> key and then the <font color='#00D8FF'>[System Settings]</font> tab to change your game settings.
+<font color='#FFFFFF' size='30'>TIP: </font>The game's settings can be changed by pressing the <font color='#00FF9C'>[ESC]</font> key and going to the <font color='#00D8FF'>[System Settings]</font> button.
 
 ID=5880
-<font color='#FFFFFF' size='30'>TIP: </font>Open the community list by pressing <font color='#00ff9c'>[O]</font>. You can manage your <font color='#00D8FF'>[Friend List]</font> there.
+<font color='#FFFFFF' size='30'>TIP: </font>You can open the community list by pressing <font color='#00FF9C'>[O]</font>. There you can manage your <font color='#00D8FF'>[Friend List]</font>.
 
 ID=5881
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[A.R cards]</font> and <font color='#00D8FF'>[Skills]</font> are accessible by pressing <font color='#00ff9c'>[K]</font>.\nYou can equip them onto quick slots.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Skills]</font> and <font color='#00D8FF'>[A.R Cards]</font> can be set onto quick slots in the Skill window by pressing the hotkey <font color='#00FF9C'>[K]</font>.
 
 ID=5882
-<font color='#FFFFFF' size='30'>TIP: </font>Using your <font color='#00D8FF'>Skill Deck</font> effectively will prove useful in combat.
+<font color='#FFFFFF' size='30'>TIP: </font>Effective use of your <font color='#00D8FF'>Skill Deck</font> will prove helpful in battle.
 
 ID=5883
-<font color='#FFFFFF' size='30'>TIP: </font>Improving your <font color='#00D8FF'>Passive Skills</font> will extend your basic actions.
+<font color='#FFFFFF' size='30'>TIP: </font>Increasing the level of your <font color='#00D8FF'>Passive Skills</font> will extend and improve your basic actions.
 
 ID=5884
-<font color='#FFFFFF' size='30'>TIP: </font>The <font color='#00D8FF'>Notification Icons </font> at the lower left area of your screen will notify you of various events requiring your attention.
+<font color='#FFFFFF' size='30'>TIP: </font>The <font color='#00D8FF'>Notification Icons</font> at the lower left area of your screen will notify you of various events requiring your attention.
 
 ID=5885
-<font color='#FFFFFF' size='30'>TIP: </font>You may freely change the <font color='#00D8FF'>Title</font> above your name by using the <font color='#00D8FF'>Status</font> window <font color='#00ff9c'>[P]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You may freely change the <font color='#00D8FF'>Title</font> above your name by using the <font color='#00D8FF'>Status</font> window, hotkey <font color='#00FF9C'>[P]</font>.
 
 ID=5886
-<font color='#FFFFFF' size='30'>TIP: </font>You may claim rewards from the <font color='#00D8FF'>Memorials</font> window <font color='#00ff9c'>[B]</font> based on your <font color='#00D8FF'>Dungeon Clearance</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You may claim rewards from the <font color='#00D8FF'>Memorial</font> window <font color='#00FF9C'>[B]</font> based on your <font color='#00D8FF'>Clearance</font>.
 
 ID=5887
 <font color='#FFFFFF' size='30'>TIP: </font>Your <font color='#00D8FF'>Town Clearance</font> level is based on its associated Dungeon Clearance levels.
@@ -3635,55 +3635,55 @@ ID=5888
 <font color='#FFFFFF' size='30'>TIP: </font>When entering a dungeon, use <font color='#00D8FF'>[Auto-Matching]</font> to automatically find a Party.
 
 ID=5889
-<font color='#FFFFFF' size='30'>TIP: </font>You can revise your profile in the <font color='#00D8FF'>Status</font> window <font color='#00ff9c'>[P]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You can revise your profile in the <font color='#00D8FF'>Status</font> window, hotkey <font color='#00FF9C'>[P]</font>.
 
 ID=5890
-<font color='#FFFFFF' size='30'>TIP: </font>Press the left <font color='#00ff9c'>[Alt]</font> key to activate the mouse mode.
+<font color='#FFFFFF' size='30'>TIP: </font>Press the left <font color='#00FF9C'>[Alt]</font> key to change to mouse mode.
 
 ID=5891
-<font color='#FFFFFF' size='30'>TIP: </font>Upon reaching max level, <font color='#00ff9c'>[Rank]</font> will be enabled.
+<font color='#FFFFFF' size='30'>TIP: </font>Upon reaching max level, <font color='#00FF9C'>[Rank]</font> will be enabled.
 
 ID=5892
-<font color='#FFFFFF' size='30'>TIP: </font>When the current channel is full, please\n<font color='#00D8FF'>Change Channel</font> by clicking the top right area of your minimap.
+<font color='#FFFFFF' size='30'>TIP: </font>When the current channel is full, please use the <font color='#00D8FF'>Change Channel</font> feature by clicking the top right area of the Minimap.
 
 ID=5893
-<font color='#FFFFFF' size='30'>TIP: </font>Booker's Point <font color='#00ff9c'>[BP]</font> may be acquired from <font color='#00D8FF'>District 6</font> or <font color='#00D8FF'>Steel Grave</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Booker Points <font color='#00D8FF'>[BP]</font> may be acquired from <font color='#00D8FF'>District 6</font> or from <font color='#00D8FF'>Steel Grave</font>.
 
 ID=5894
-<font color='#FFFFFF' size='30'>TIP: </font>You can buy special items at the <font color='#00ff9c'>BP Shop</font> in <font color='#00D8FF'>District 6</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You can buy special items at the <font color='#B2EBF4'>BP Shop</font> in <font color='#00D8FF'>District 6</font>.
 
 ID=5895
-<font color='#FFFFFF' size='30'>TIP: </font>Open the <font color='#00D8FF'>Quest Information</font> window <font color='#00ff9c'>[J]</font> and click on the <font color='#00ff9c'>[Mission]</font> tab to access the daily missions.
+<font color='#FFFFFF' size='30'>TIP: </font>Open the <font color='#00D8FF'>Quest</font> window, hotkey <font color='#00FF9C'>[J]</font> and click on the <font color='#00D8FF'>[Mission]</font> tab to access the daily missions.
 
 ID=5896
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00ff9c'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font> can be used at the <font color='#00D8FF'>Void Vending Machine</font>.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font> can be used at the <font color='#00D8FF'>Void Vending Machine</font>.
 
 ID=5897
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Secret Mission]</font> will randomly appear inside dungeons.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Secret Missions]</font> will randomly appear inside dungeons.
 
 ID=5898
-<font color='#FFFFFF' size='30'>TIP: </font>As you progress through the game, you will be able to call forth a reassuring </font><font color='#00D8FF'>[Supporter]</font> to support you.
+<font color='#FFFFFF' size='30'>TIP: </font>As you progress through the game, you will be able to call forth a reassuring <font color='#00D8FF'>[Supporter]</font> to support you.
 
 ID=5899
-<font color='#FFFFFF' size='30'>TIP: </font>Please try activating <font color='#00D8FF'>Orbs</font> at the <font color='#00ff9c'>Soul Manipulator</font> NPC.\nAn activated Orb can be used by your Supporter.
+<font color='#FFFFFF' size='30'>TIP: </font>Please try activating <font color='#00D8FF'>Orbs</font> at the <font color='#B2EBF4'>Io</font> NPC.\nActivated orbs can be user by your friend's Supporters.
 
 ID=5900
-<font color='#FFFFFF' size='30'>TIP: </font>When using a bathtub/shower booth, currently worn underwear will be shown...!!
+<font color='#FFFFFF' size='30'>TIP: </font>You can see the currently worn underwear by using a Bathtub or a Shower Booth.
 
 ID=5901
-<font color='#FFFFFF' size='30'>TIP: </font>At the Item Mall, you can purchase <font color='#00D8FF'>[Fashion Items]</font> to change the outward look of your character.
+<font color='#FFFFFF' size='30'>TIP: </font>You can change the appearance of your character by buying <font color='#00D8FF'>[Fashion Items]</font> from the Item Mall.
 
 ID=5902
-<font color='#FFFFFF' size='30'>TIP: </font>If your character reaches 0 <color='#00D8FF'>[HP]</font>, it will become incapacitated and unable to fight. Be careful!
+<font color='#FFFFFF' size='30'>TIP: </font>If your character reaches 0 <color='#00D8FF'>[HP]</font>, it will become incapacitated and unable to continue fighting. Manage your HP with care!
 
 ID=5903
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[SG]</font> (Soul Gauge) is the source of your power.\nUsing a skill will consume SG. Each character recovers SG differently.
+<font color='#FFFFFF' size='30'>TIP: </font>Soul Gauge, <font color='#00D8FF'>[SG]</font>, is the source of your power.\nSG is consumed by the skills you use. Each character recovers SG in an unique way.
 
 ID=5904
-<font color='#FFFFFF' size='30'>TIP: </font>The Break Skill, <font color='#00D8FF'>"Erosion"</font>, cannot be used in <font color='#00D8FF'>District 6</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>The Break Skill, <font color='#00D8FF'>Erosion</font>, cannot be used in <font color='#00D8FF'>District 6</font>.
 
 ID=5905
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[DRAW]</font> type <font color='#00D8FF'>A.R cards</font> cannot be used in <font color='#00D8FF'>District 6</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You cannot use <font color='#00D8FF'>[DRAW]</font> type A.R cards in <font color='#00D8FF'>District 6</font>.
 
 ID=6011
 Change Representative
@@ -4043,7 +4043,7 @@ ID=8300
 Login Check
 
 ID=8301
-Cumulative Days
+Day Counter
 
 ID=8302
 Reward
@@ -4067,7 +4067,7 @@ ID=8308
 Locked
 
 ID=8309
-You can earn reward when a specific play time quota is achieved for the day.
+You can earn reward when you reach a specific play time quota.
 
 ID=8310
 Login Check Reward
@@ -4184,7 +4184,7 @@ ID=8347
 Daily Login Reward Check
 
 ID=8348
-You can earn rewards when you log in everyday.
+Each day you can earn a reward when you login.
 
 ID=8400
 Dead
@@ -5093,7 +5093,7 @@ ID=15006
 The streets of the square are almost filled with dolls.\nWhat was once a vibrant town had now become a town dominated by emotionless dolls.
 
 ID=15007
-The NED company support helicopter is needed to stop the advancement of the Big Puppet. I have to stop the dolls before they destroy the helicopter.
+The NED Company support helicopter is needed to stop the advancement of the Big Puppet. I have to stop the dolls before they destroy the helicopter.
 
 ID=15008
 Operation [Shield]. The dangerous strategy which lures the Big Puppet out directly and makes it disintegrate itself in the safety shield. This strategy is a must in order to succeed.
@@ -5126,7 +5126,7 @@ ID=15017
 I barely had time to catch my breath when I arrived at the new city where I was tasked with another mission. I have to dispose of the Soul Junks on the coastal road to secure Candus City's supply route.
 
 ID=15018
-Information by NED company mercenaries confirmed that there is still a strong Soul Junk on the coastal road.\nThey always seem angry, but...
+Information by NED Company mercenaries confirmed that there is still a strong Soul Junk on the coastal road.\nThey always seem angry, but...
 
 ID=15019
 There has been an increasing amount of mysterious earthquakes on the coastal road recently. Due to the risk of elevated roads and collapsed buildings, I have to find out the cause.
@@ -5135,13 +5135,13 @@ ID=15020
 A group of Soul Junk appeared again. Commander Aaron directed the disposal of Soul Junk and the destruction of the coast tunnel, which is the only supply route, in order to defend Candus City.
 
 ID=15021
-I got permission from NED company and entered the underground waterway. It's hard to\nbreathe due to the intense stench.\nIt certainly feels like something lives here....
+I got permission from NED Company and entered the underground waterway. It's hard to\nbreathe due to the intense stench.\nIt certainly feels like something lives here....
 
 ID=15022
 The bad smell from an underground waterway stands at various places by the city and has begun to spread.\nIt's clear that the only cause of the bad smell is in the underground waterway....
 
 ID=15023
-Mercenaries and researchers from NED company were dispatched to an underground waterway, since it seems suspicious that Brock instructs their surveillance.
+Mercenaries and researchers from NED Company were dispatched to an underground waterway, since it seems suspicious that Brock instructs their surveillance.
 
 ID=15024
 The emergence of Junk Knight has shocked all of Starry Forest League. In order to question NED Company into holding responsibility, Brock has ordered to attain a sample of Junk Knight.
@@ -5552,7 +5552,7 @@ ID=16862
 Trading Fee
 
 ID=16863
-Registration fee 
+Registration Fee 
 
 ID=16864
 Recent Item Entry
@@ -5624,13 +5624,13 @@ ID=18019
 You cannot dismantle more than 10 items in the same time.
 
 ID=18020
-You can trade up to 10 items at a time.
+Displays the last 10 sold items.
 
 ID=18021
-After the sale is over the charge fee will be {0}% of the selling price.
+A fee of {0}% will be applied after the item is sold.
 
 ID=18022
-Your item is a <font color='#A566FF'>High Valued Item</font>.  You will acquire {0} upon selling it. Do you wish to sell it?
+Your item is a <font color='#A566FF'>High Valued Item</font>. You will acquire {0} upon selling it. Do you wish to sell it?
 
 ID=18023
 Your selection contains a <font color='#A566FF'>High Valued</font> item. Are you sure you want to decompose it? Restoration is impossible.
@@ -5825,7 +5825,7 @@ ID=18179
 Restorations
 
 ID=18180
-{0} brooch sockets
+{0} Brooch sockets
 
 ID=18181
 Brooch Details
@@ -5864,7 +5864,7 @@ ID=18192
 Enhance Option
 
 ID=18193
-Enhancing will not give you an extra option.
+Enhancing will not attach an extra option.
 
 ID=18194
 Option Tuning
@@ -5900,7 +5900,7 @@ ID=18204
 Brooch extraction was successful.\nPlease check your inventory.
 
 ID=18205
-<font color='#FF3636'>{0}</font>Insufficient Zenny. Extraction failed.  
+Insufficient Zenny to extract <font color='#FF3636'>{0}</font>.  
 
 ID=18206
 Extraction failed due to lack of inventory space.
@@ -6830,7 +6830,7 @@ ID=21535
 {0} has been recalled.
 
 ID=21536
-Type
+Attribute
 
 ID=21537
 Supporter List
@@ -7391,7 +7391,7 @@ ID=22550
 Community
 
 ID=22551
-Progress Information
+Show Progress Information
 
 ID=22552
 Guild
@@ -7907,7 +7907,7 @@ ID=24281
 Hat
 
 ID=24282
-Eye 1
+Eyes 1
 
 ID=24283
 Mouth
@@ -7943,7 +7943,7 @@ ID=24293
 Eyes & Mouth Set
 
 ID=24294
-Hair & Hat & Eye Set
+Hair & Hat & Eyes Set
 
 ID=24295
 Top & Back Set
@@ -8237,7 +8237,7 @@ ID=24561
 Hat
 
 ID=24562
-Eye
+Eyes
 
 ID=24563
 Mouth
@@ -8273,7 +8273,7 @@ ID=24573
 Eyes & Mouth Set
 
 ID=24574
-Hair & Hat & Eye Set
+Hair & Hat & Eyes Set
 
 ID=24575
 Top & Back Set
@@ -8414,7 +8414,7 @@ ID=24620
 Head
 
 ID=24621
-Eye
+Eyes
 
 ID=24622
 Mouth
@@ -8618,7 +8618,7 @@ ID=24778
 Sub-Weapon
 
 ID=24779
-Head
+H Gear
 
 ID=24780
 Shoulder
@@ -9725,7 +9725,7 @@ ID=26500
 On enemy death, +{0}% Penetration for 30s
 
 ID=27000
-On hit,  5% chance of +{0}% Attack for 3s
+On hit, 5% chance of +{0}% Attack for 3s
 
 ID=27001
 When hit, 20% chance of +{0}% Defense for 5s
@@ -10181,7 +10181,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 4/Jan/2017 12:16 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 12/Jan/2017 1:55 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -10274,7 +10274,7 @@ ID=28101
 Reject Member
 
 ID=28102
-Guild applicants reached  maximum capacity; no more can be accepted.
+The Guild Application List is full, you cannot apply right now.
 
 ID=28103
 The guild is full; no more can be accepted.
@@ -10319,13 +10319,13 @@ ID=28116
 Confirm Expel Member
 
 ID=28117
-{0} was ejected from the Guild.
+{0} was expelled from the Guild.
 
 ID=28118
 Expel Member
 
 ID=28119
-{0} has been ejected from the Guild.                                                            
+{0} has been expelled from the Guild.                                                            
 
 ID=28120
 You were expelled from {0}.
@@ -10883,7 +10883,7 @@ ID=29039
 Enter a random room?
 
 ID=29040
-Room Entry Rejected
+Room Entry Denied
 
 ID=29041
 Cannot enter {0}'s room.
@@ -11990,7 +11990,7 @@ ID=33507
 Blessings of the Spider Queen
 
 ID=33508
-Eye of the Silent Attendant
+Eyes of the Silent Attendant
 
 ID=33509
 Strength of a Vacant Heart
@@ -12212,13 +12212,13 @@ ID=34025
 The crops have been fertilized.
 
 ID=34026
-The crops have been placed in a growth-inducing area.
+The crops are already fertilized.
 
 ID=34027
 The crops have already received all the possible growth-related bonuses.
 
 ID=34028
-The crops cannot have growth-promoting effects applied due to its state.
+The crops cannot be fertilized.
 
 ID=34029
 Do you wish to stop harvesting {0}?\n(All invested materials will not be returned)
@@ -13277,19 +13277,19 @@ ID=40249
 You will incur damage from leaving the arena by the magnetic field.
 
 ID=40250
-When the controller is operating, 1 to 15 enemies will appear.
+When the controller is activated, 1 to 15 enemies will appear.
 
 ID=40251
-When the Heavy Cell appears, movement slowing areas will appear on the ground.
+When Heavy Cell appears, it will generate an area that reduces Movement Speed.
 
 ID=40252
 The main EMP will attack everything; it will be activated when you approach it.
 
 ID=40253
-Four devices will spew out an extremely poisonous gas at random intervals.
+The 4 devices will emit a very powerful poisonous gas at random intervals.
 
 ID=40254
-Use the controller device to summon enemies.
+When the controller is activated, enemies will slowly appear.
 
 ID=40255
 When the cube is destroyed, all players will be paralyzed and a magnetic field will be generated.
@@ -13301,7 +13301,7 @@ ID=40257
 When the controller is activated, enemies will appear.
 
 ID=40258
-A powerful enemy will appear soon.
+A powerful enemy will soon appear.
 
 ID=40259
 Defeat the enemies and the controller will be summoned. Please operate all controllers.
@@ -13340,13 +13340,13 @@ ID=40270
 After defeating the land crusher, the controller will be summoned.
 
 ID=40271
-Upon activating 2 controllers, a web will appear and drastically reduce Warlike's defense.
+When the 2 controllers are activated, a web will appear and drastically reduce Warlike's defense.
 
 ID=40272
-When the controller is used, support fire from the Gatling gun is possible. It can only be used once.
+When the controller is activated, support fire from the Gatling gun is possible. It can only be used once.
 
 ID=40273
-After 30 seconds, activating the controllers will fire the powerful laser canon.\nThe laser canon will attack everything, dealing 90% of max HP as damage.
+30 seconds after activating the controller, a powerful laser cannon will be fired.\nThe laser canon will attack everything and deals 90% of Maximum HP as damage.
 
 ID=40274
 The Laser Cannon will be fired soon.
@@ -13388,7 +13388,7 @@ ID=40286
 4 Cubes have been summoned. A powerful effect will be granted upon cube destruction.
 
 ID=40287
-A special enemy will be summoned when using the controller.
+When the controller is activated, special enemies will appear.
 
 ID=40288
 When the Habitant is less than 60% HP, the enemy will self-destruct and damage all players.
@@ -13406,7 +13406,7 @@ ID=40292
 Every 15 seconds, magnetic waves may appear at various areas and damage the player.
 
 ID=40293
-Glutton has appeared. After defeating glutton, you can earn a variety of rewards.
+Glutton has appeared.\nYou can earn various rewards by defeating glutton.
 
 ID=40294
 Al Lucy is operating a defensive device.\nStop the device and defeat all enemies to proceed.
@@ -13427,7 +13427,7 @@ ID=40299
 The magnetic fields have been deactivated.
 
 ID=40300
-Each Steel Grave challenge is made up of 5 stages. You can challenge it up to 3 times per day
+Each Steel Grave challenge is made up of 5 stages. You can challenge it up to 3 times a day.
 
 ID=40301
 Operate the controller to spawn the enemies.
@@ -14138,7 +14138,7 @@ ID=42088
 Tactics Officer Xenia
 
 ID=42089
-Sentry Commander  
+Sentry Commander
 
 ID=42090
 Triple Speed Sentry Commander
@@ -15056,7 +15056,7 @@ ID=42394
 Fortune Master Ran μ
 
 ID=42395
-Sentry Commander  
+Sentry Commander
 
 ID=42396
 Triple Speed Sentry Commander
@@ -15356,7 +15356,7 @@ ID=43087
 Xenia
 
 ID=43089
-Sentry Commander  
+Sentry Commander
 
 ID=43091
 Heavy Earthquaker
@@ -15767,13 +15767,13 @@ ID=45007
 Reset
 
 ID=45008
-Buy All Gifts
+Gift All
 
 ID=45009
 Purchase All
 
 ID=45010
-Purchased Soulcoin
+Purchase Soulcoin
 
 ID=45011
 Buy All
@@ -15806,7 +15806,7 @@ ID=45020
 NEW
 
 ID=45021
-Items Purchased
+Purchase Items
 
 ID=45022
 Current Balance:
@@ -15830,7 +15830,7 @@ ID=45028
 d
 
 ID=45029
-Sold Units
+Quantity
 
 ID=45030
 Unit
@@ -15842,7 +15842,7 @@ ID=45032
 Save Set
 
 ID=45033
-You can save your current appearance.
+Save your current appearance in a set.
 
 ID=45034
 Select Set
@@ -15857,10 +15857,10 @@ ID=45037
 Cancel
 
 ID=45038
-Please enter a name for the set.
+Please enter a set name.
 
 ID=45039
-Save in Empty Slot.
+Save to an empty slot
 
 ID=45040
 Wardrobe Sets
@@ -15872,7 +15872,7 @@ ID=45042
 Delete
 
 ID=45043
-Purchased Soulcoin
+Purchase Soulcoin
 
 ID=45044
 Buy
@@ -15890,7 +15890,7 @@ ID=45048
 Friends
 
 ID=45049
--Empty-
+- Empty -
 
 ID=45050
 Remaining:
@@ -15938,25 +15938,25 @@ ID=45106
 No items were selected for purchasing.
 
 ID=45107
-No items in the shopping cart.
+There are no items in the shopping cart.
 
 ID=45108
 Please enter a name.
 
 ID=45109
-You can only save the wardrobe set for this character.
+You can save a set only for the current character.
 
 ID=45110
 No inventory slots.
 
 ID=45111
-No items have been selected.
+There are no selected items.
 
 ID=45112
-Do you want to set the item?
+Are you sure you want to apply the selected set?
 
 ID=45113
-Do you want to remove the selected item?
+Are you sure you want to remove the selected set?
 
 ID=45114
 At least 2 characters must be entered into the search query.
@@ -16295,7 +16295,7 @@ ID=49110
 Obtained memorial item.
 
 ID=49111
-The memorial series has been unlocked.
+The memorials were unlocked.
 
 ID=49200
 System
@@ -16751,7 +16751,7 @@ ID=49723
 The PIN is a unique 6-digit number.
 
 ID=49724
-PIN Prompt
+Incorrect PIN
 
 ID=49725
 The PIN you have entered is incorrect.\nTry again.
@@ -16769,7 +16769,7 @@ ID=49729
 The trading PIN must be a unique 4-digit number.
 
 ID=49730
-Invalid trading PIN
+Incorrect trading PIN
 
 ID=49731
 Trading PIN does not match.\nTry again.
@@ -16787,7 +16787,7 @@ ID=49735
 An account password was not set.
 
 ID=49736
-Incorrect password.
+Incorrect password
 
 ID=49737
 You entered the wrong password.\nTry again.
@@ -17516,13 +17516,13 @@ ID=52273
 The item no longer exists, you cannot dismantle it.
 
 ID=52280
-Could not implement the socket.
+Failed to socket the socket.
 
 ID=52281
-Mismatch socket type.
+Wrong socket type.
 
 ID=52282
-Mismatched socket, insertion is not possible.
+Not possible to socket a different grade.
 
 ID=52283
 Socket is unavailable.
@@ -17534,7 +17534,7 @@ ID=52285
 Lacking required item.
 
 ID=52286
-Socketing failed.
+Failed to activate the socket.
 
 ID=52287
 Cannot speak to this NPC.
@@ -17549,19 +17549,19 @@ ID=52290
 Lacking required item.
 
 ID=52291
-Socket release failed.
+Failed to remove the socket.
 
 ID=52292
 No socket available.
 
 ID=52293
-Insufficient funds to pay socketing fees.
+Insufficient funds to remove the socket.
 
 ID=52294
 Insufficient inventory space.
 
 ID=52295
-You do not have the necessary items to remove the socket item.
+You do not have the necessary items to remove the socket.
 
 ID=52301
 Insufficient Zenny. You cannot purchase the item.
@@ -17771,7 +17771,7 @@ ID=52609
 The protection buff has already been applied.
 
 ID=52612
-You cannot use consumable items in the dungeon Steel Grave.
+Consumables cannot be used in Steel Grave.
 
 ID=52613
 There are still Steel Grave entries left.
@@ -18320,7 +18320,7 @@ ID=55112
 Friend Request Ads cannot be updated.
 
 ID=55113
-You cannot add friends while in a dungeon.         
+You cannot add friends while in a dungeon.
 
 ID=55114
 User's friend list is full.
@@ -18401,22 +18401,22 @@ ID=56003
 Insufficient proficiency level.
 
 ID=56004
-Cannot use skill due to lack of HP.
+Not enough HP to use the skill.
 
 ID=56005
-Cannot use skill due to lack of SG.
+Not enough SG to use the skill.
 
 ID=56006
-Insufficient stamina; skills cannot be utilized.
+Not enough Stamina to use the skill.
 
 ID=56007
-Insufficient soul vapour; cannot use skills.
+Not enough Soul Vapor to use the skill.
 
 ID=56008
 Not enough PARTY GIST.
 
 ID=56009
-Skill cannot be used right now.
+The skill cannot be used right now.
 
 ID=56010
 Cannot be used while on cooldown.
@@ -18431,7 +18431,7 @@ ID=56013
 You cannot expand the skill deck slot.
 
 ID=56014
-Unable to level up the skill.
+Cannot learn the skill attribute.
 
 ID=56501
 Cannot be currently used.
@@ -18689,7 +18689,7 @@ ID=58213
 There is no flower pot.
 
 ID=58214
-Cannot have more Help Members.
+This crop cannot receive any more Help.
 
 ID=58215
 This flower pot was already been picked up.
@@ -18803,7 +18803,7 @@ ID=58306
 You can register up to a maximum of 10 favorite items.
 
 ID=58307
-Cannot list the item because of insufficient funds for the registration fee.
+Cannot list the item because of insufficient funds to pay the registration fee.
 
 ID=58308
 Cannot list the item because the entered price exceeds the price limit.
@@ -19145,7 +19145,7 @@ ID=60233
 [{0}] appointed you as the Force leader.
 
 ID=60234
-[{0}] has been ejected from the force due to time limit.
+[{0}] has been expelled from the force because of the time limit.
 
 ID=60235
 Cannot enter because there are Force members that don't meet the dungeon's level requirement.
