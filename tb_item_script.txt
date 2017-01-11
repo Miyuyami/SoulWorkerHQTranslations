@@ -96996,7 +96996,7 @@ Icon/Item/Etc/ETC_0_TitleItem
 0
 0
 [称号]1等
-[称号獲得アイテム]\n超絶幸運を持ちし者の証明。\nその幸運をみんなに自慢しよう。
+[称号獲得アイテム]\n超絶幸運を持ちし者の証明。\nその幸運をみんなに自慢しよう。\n\n[称号獲得アイテム]接頭
 
 ID=837400058
 Icon/Item/Etc/ETC_0_TitleItem
@@ -97006,7 +97006,7 @@ Icon/Item/Etc/ETC_0_TitleItem
 0
 0
 [称号]2等
-[称号獲得アイテム]\n超幸運を持ちし者の証明。\nその幸運をみんなに自慢しよう。
+[称号獲得アイテム]\n超幸運を持ちし者の証明。\nその幸運をみんなに自慢しよう。\n\n[称号獲得アイテム]接頭
 
 ID=837400059
 Icon/Item/Etc/ETC_0_TitleItem
@@ -97016,7 +97016,7 @@ Icon/Item/Etc/ETC_0_TitleItem
 0
 0
 [称号]3等
-[称号獲得アイテム]\nぼちぼちな幸運を持ちし者の証明。\nだけど、みんなに自慢しよう。
+[称号獲得アイテム]\nぼちぼちな幸運を持ちし者の証明。\nだけど、みんなに自慢しよう。\n\n[称号獲得アイテム]接頭
 
 ID=837400060
 Icon/Item/Etc/ETC_0_TitleItem
@@ -97026,7 +97026,7 @@ Icon/Item/Etc/ETC_0_TitleItem
 0
 0
 [称号]儚い夢
-[称号獲得アイテム]\n宝くじ当てて億万長者になる！\nそんな夢を持った人に贈られる称号。
+[称号獲得アイテム]\n宝くじ当てて億万長者になる！\nそんな夢を持った人に贈られる称号。\n\n[称号獲得アイテム]接尾
 
 ID=836000367
 Icon/Item/Function/Package/ETC_0_CostumePackage
@@ -97037,3 +97037,33 @@ Icon/Item/Function/Package/ETC_0_CostumePackage
 0
 新春和装アバターボックス
 [アバターパッケージ]\n\n色々な生地が溢れるほど入っているボックス。\n各キャラクターの合った「新春和装」アバターを獲得できる。
+
+ID=836000368
+Icon/Item/Function/Package/ETC_0_NormalPackage
+0
+0
+0
+0
+0
+30分報酬[Sコイン20個]
+接続時間30分報酬。Sコインを20個入手できる。\n\n[接続時間報酬パッケージ]
+
+ID=836000369
+Icon/Item/Function/Package/ETC_0_NormalPackage
+0
+0
+0
+0
+0
+60分報酬[Sコイン30個]
+接続時間60分報酬。Sコインを30個入手できる。\n\n[接続時間報酬パッケージ]\n
+
+ID=836000370
+Icon/Item/Function/Package/ETC_0_NormalPackage
+0
+0
+0
+0
+0
+90分報酬[Sコイン50個]
+接続時間90分報酬。Sコインを50個入手できる。\n\n[接続時間報酬パッケージ]
