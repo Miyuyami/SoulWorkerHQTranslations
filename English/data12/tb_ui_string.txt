@@ -152,7 +152,7 @@ ID=99
 Common
 
 ID=100
-All
+General
 
 ID=101
 Extra
@@ -161,7 +161,7 @@ ID=102
 Fashion
 
 ID=103
-All
+General
 
 ID=104
 Fashion
@@ -269,7 +269,7 @@ ID=138
 Skill
 
 ID=139
-A.R card
+A.R Card
 
 ID=140
 Discard
@@ -491,7 +491,7 @@ ID=345
 Sell the selected items for {0}?
 
 ID=346
-Your selection contains a <font color='#A566FF'>High Valued</font> item, selling it will give you {0}. Are you sure you want to sell?
+The selection contains a <font color='#A566FF'>highly valuable</font> item.\nYou will earn {0} from the sale.\nAre you sure you want to sell them?
 
 ID=351
 Junk
@@ -668,7 +668,7 @@ ID=424
 Soulcoin
 
 ID=430
-All
+Overall
 
 ID=431
 Type
@@ -767,7 +767,7 @@ ID=467
 Durability {0}
 
 ID=470
-Total\nReward
+Total\nRewards
 
 ID=471
 Completion
@@ -779,7 +779,7 @@ ID=473
 {0}m {1}s
 
 ID=474
-Bonus rewards acquired: {1} {0}
+Earned Bonus Rewards: {1} {0}
 
 ID=475
 Since there is no inventory space, it has been shipped by [{1} {0}] mail
@@ -833,7 +833,7 @@ ID=491
 Confirm Earnings
 
 ID=492
-<Acquired>
+<Earnings>
 
 ID=493
 <Mail payment complete>
@@ -932,7 +932,7 @@ ID=537
 A
 
 ID=538
-All
+General
 
 ID=539
 Trade
@@ -1010,7 +1010,7 @@ ID=570
 The rented card will be placed in a dedicated slot.
 
 ID=571
-Do you want to use {0}?\n(A.R cards that are used cannot be sold nor traded)
+Do you want to use {0}?\n(A.R Cards that are used cannot be sold nor traded)
 
 ID=572
 Requires Lv
@@ -1019,10 +1019,10 @@ ID=573
 SP Cost:
 
 ID=574
-Next Level SP Gain:
+Next Level Points:
 
 ID=581
-Items Gained
+Obtained Items
 
 ID=582
 Use
@@ -1238,7 +1238,7 @@ ID=682
 (Net cafe {0} Zenny)
 
 ID=683
-Acquired Rank Experience: {0} EXP
+Obtained Rank Experience: {0} EXP
 
 ID=700
 Talk
@@ -1265,7 +1265,7 @@ ID=707
 Costume (Pending)
 
 ID=708
-Area
+Transportation
 
 ID=709
 Guild Management (Pending)
@@ -1424,16 +1424,16 @@ ID=761
 <font color='#FF0000'>Untradable</font>
 
 ID=762
-<font color='#FF0000'>Untradable (Bounded)</font>
+<font color='#FF0000'>Untradable (bounded)</font>
 
 ID=763
 <font color='#FF0000'>Unsellable</font>
 
 ID=764
-<font color='#FF0000'>Indestructible</font>
+<font color='#FF0000'>Undiscardable</font>
 
 ID=765
-<font color='#FF0000'>Non-transferable</font>
+<font color='#FF0000'>Unmovable</font>
 
 ID=766
 Selling Price
@@ -1460,7 +1460,7 @@ ID=773
 Requires Lv
 
 ID=774
-DUR
+Durab.
 
 ID=775
 Showcase Item\nAction denied
@@ -1718,7 +1718,7 @@ ID=877
 Underwear
 
 ID=881
-Dismantled {0}.\nAcquired: {2} {1}\nAcquired {3} Ether
+Dismantled {0}.\nObtained {2} {1}\nObtained {3} Ether
 
 ID=882
 Dismantling failed.
@@ -1730,7 +1730,7 @@ ID=884
 Are you sure that you want to dismantle the items?
 
 ID=885
-Selected items are of <font color='#A566FF'>high rarity</font>.\nIf you hit confirm, the selected items will be dismantled and they will not be able to be restored. Would you like to dismantle them anyway?
+The selection contains a <font color='#A566FF'>highly valuable</font> item.\nDismantled items cannot be recovered.\nAre you sure you want to dismantle them?
 
 ID=886
 You do not have enough {0}, therefore it cannot be dismantled.
@@ -1934,7 +1934,7 @@ ID=967
 Enhance
 
 ID=968
-Select a replacement item.
+Select an item to exchange.
 
 ID=969
 Qty:
@@ -1952,10 +1952,10 @@ ID=973
 Exchange
 
 ID=974
-Quantity Obtained:
+Obtained:
 
 ID=975
-Used
+Consumes
 
 ID=976
 This item has been successfully enhanced.
@@ -1976,19 +1976,19 @@ ID=981
 Evolve
 
 ID=982
-The item has been protected.
+The item is being protected.
 
 ID=983
 Item Exchange
 
 ID=984
-Input desired exchanged quantity of items.
+Please enter the number of items to exchange.
 
 ID=985
 Exchange Item
 
 ID=986
-Acquired Item
+Items Obtained
 
 ID=987
 Select an item.
@@ -2375,7 +2375,7 @@ ID=2004
 No.
 
 ID=2005
-Acquired the title.
+You have obtained a title.
 
 ID=2101
 Community
@@ -2393,10 +2393,10 @@ ID=2105
 Block List
 
 ID=2106
-Online({0})
+Online ({0})
 
 ID=2107
-Offline({0})
+Offline ({0})
 
 ID=2108
 Name
@@ -2714,10 +2714,10 @@ ID=2542
 Pending ({0})
 
 ID=2543
-Online({0})
+Online ({0})
 
 ID=2544
-Offline({0})
+Offline ({0})
 
 ID=2545
 Search
@@ -2954,25 +2954,25 @@ ID=3104
 Ranking Record Reward
 
 ID=3105
-Items Gained
+Obtained Items
 
 ID=3106
-When completing {0}, the following rewards are awarded.
+Completing {0} will award you the following rewards.
 
 ID=3107
-You have achieved the {0}, the rewards below have been awarded.
+You have completed {0} and obtained the following rewards.
 
 ID=3108
-You have completed {0} records, the following rewards will be awarded.
+You have completed {0} Clearance and obtained the following rewards.
 
 ID=3109
-By collecting {0}, the following rewards are awarded.
+You have collected {0} and obtained the following rewards.
 
 ID=3110
-By achieving a position of {0} out of {1}, the following rewards are awarded.
+You have achieved the position {1} out of {0} and obtained the following rewards.
 
 ID=3111
-You have acquired the following item from {0}.
+The following items have been obtained from {0}.
 
 ID=3112
 EXP
@@ -2999,10 +2999,10 @@ ID=3201
 Randomly Open Package
 
 ID=3202
-Do you want to use [{0}]?\n(The following items can be obtained)
+Do you want to use [{0}]?\n(Following items can be obtained)
 
 ID=3203
-Do you want to use [{0}]?\n({1} of the following items can be won)
+Do you want to use [{0}]?\n({1} of the following items can be obtained)
 
 ID=3204
 You cannot use the item as there is insufficient inventory space.
@@ -3041,16 +3041,16 @@ ID=4010
 Achievement Completed
 
 ID=4011
-Achievement "{0}" attained.
+Achieved "{0}".
 
 ID=4012
 Clearance Level Up
 
 ID=4013
-Clearance Level {1} Complete: {0} 
+Clearance Level {1} Completed: {0} 
 
 ID=4014
-Memorial Completed
+Obtain Memorial
 
 ID=4015
 {0} obtained
@@ -3065,13 +3065,13 @@ ID=4018
 Clearance Level Up
 
 ID=4019
-{0} Clearance Rate: {1}%
+{0} Clearance: {1}%
 
 ID=4020
-Title Acquired
+Obtained Title
 
 ID=4021
-You have acquired the title {0}.
+You have acquired the title "{0}".
 
 ID=4022
 Cultivation Completed
@@ -3080,7 +3080,7 @@ ID=4023
 {0} can be harvested
 
 ID=5001
-New
+Unlearned
 
 ID=5002
 Cooldown:
@@ -3317,7 +3317,7 @@ ID=5502
 Weapon Preview
 
 ID=5503
-Listen to Voice
+Voice Sample
 
 ID=5504
 Listen
@@ -3368,10 +3368,10 @@ ID=5519
 Character Style Settings
 
 ID=5800
-<font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought at <font color='#B2EBF4'>Zaito</font> in each town.</font>
+<font color='#FFFFFF' size='30'>TIP: </font>Basic equipments can be bought at <font color='#B2EBF4'>Zaito</font> in each town.</font>
 
 ID=5801
-<font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought at <font color='#B2EBF4'>Yomi</font> in each town.</font>
+<font color='#FFFFFF' size='30'>TIP: </font>Basic consumables can be bought at <font color='#B2EBF4'>Yomi</font> in each town.</font>
 
 ID=5802
 <font color='#FFFFFF' size='30'>TIP: </font>Various shops in towns can <font color='#00D8FF'>[Repair]</font> your equipment or <font color='#00D8FF'>[Dismantle]</font> them.
@@ -3386,7 +3386,7 @@ ID=5805
 <font color='#FFFFFF' size='30'>TIP: </font>Equipment can be upgraded through <font color='#00D8FF'>Enhancing</font>, it can also be <font color='#00D8FF'>Dismantled</font> to obtain items needed to upgrade or craft other pieces of equipment.
 
 ID=5806
-<font color='#FFFFFF' size='30'>TIP: </font>At <font color='#B2EBF4'>[Zenith]</font> you can <font color='#00D8FF'>[Craft]</font> weapons, equipments, materials, and avatars
+<font color='#FFFFFF' size='30'>TIP: </font>At <font color='#B2EBF4'>[Zenith]</font> you can <font color='#00D8FF'>[Craft]</font> weapons, equipments, materials and avatars
 
 ID=5807
 <font color='#FFFFFF' size='30'>TIP: </font>You can send mails by using <font color='#B2EBF4'>HEMS</font>. A fee will be charged when sending.\nItems and Zenny may also be attached.
@@ -3404,10 +3404,10 @@ ID=5811
 <font color='#FFFFFF' size='30'>TIP: </font>Depending on your <font color='#00D8FF'>Progress Information</font>, you can collect rewards by pressing the hotkey <font color='#00FF9C'>[L]</font>.
 
 ID=5812
-<font color='#FFFFFF' size='30'>TIP: </font>By collecting ingredients and bringing them to <font color='#B2EBF4'>Io</font>, you can create an <font color='#00D8FF'>A.R card</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>By collecting ingredients and bringing them to <font color='#B2EBF4'>Io</font>, you can create an <font color='#00D8FF'>A.R Card</font>.
 
 ID=5813
-<font color='#FFFFFF' size='30'>TIP: </font>Registering a HOLD type <font color='#00D8FF'>A.R card</font> into your slots will automatically grant passive effects.
+<font color='#FFFFFF' size='30'>TIP: </font>Registering a HOLD type <font color='#00D8FF'>A.R Card</font> into your slots will automatically grant passive effects.
 
 ID=5814
 <font color='#FFFFFF' size='30'>TIP: </font>When a new quest is available, a <font color='#FFF94A'>[<font size='30'>！</font>]</font> mark will appear above an NPC's head. A <font color='#FFF94A'>[<font size='30'>？</font>]</font> mark will appear for quests that are ready to be handed in. This is also displayed on the Minimap.
@@ -3425,7 +3425,7 @@ ID=5818
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Skills]</font> and <font color='#00D8FF'>[A.R Cards]</font> can be set onto quick slots in the Skill window by pressing the hotkey <font color='#00FF9C'>[K]</font>.
 
 ID=5819
-<font color='#FFFFFF' size='30'>TIP: </font>Effective use of your <font color='#00D8FF'>Skill Deck</font> will prove helpful in battle.
+<font color='#FFFFFF' size='30'>TIP: </font>Using your <font color='#00D8FF'>Skill Deck</font> in an efficient way will prove very helpful in battle.
 
 ID=5820
 <font color='#FFFFFF' size='30'>TIP: </font>Increasing the level of your <font color='#00D8FF'>Passive Skills</font> will extend and improve your basic actions.
@@ -3434,7 +3434,7 @@ ID=5821
 <font color='#FFFFFF' size='30'>TIP: </font>The <font color='#00D8FF'>Notification Icons</font> at the lower left area of your screen will notify you of various events requiring your attention.
 
 ID=5822
-<font color='#FFFFFF' size='30'>TIP: </font>You may freely change the <font color='#00D8FF'>Title</font> above your name by using the <font color='#00D8FF'>Status</font> window, hotkey <font color='#00FF9C'>[P]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You may freely change the <font color='#00D8FF'>Title</font> above your name by using the <font color='#00D8FF'>Status</font> window <font color='#00FF9C'>[P]</font>.
 
 ID=5823
 <font color='#FFFFFF' size='30'>TIP: </font>You may claim rewards from the <font color='#00D8FF'>Memorial</font> window <font color='#00FF9C'>[B]</font> based on your <font color='#00D8FF'>Clearance</font>.
@@ -3446,7 +3446,7 @@ ID=5825
 <font color='#FFFFFF' size='30'>TIP: </font>When entering a dungeon, use <font color='#00D8FF'>[Auto-Matching]</font> to automatically find a Party.
 
 ID=5826
-<font color='#FFFFFF' size='30'>TIP: </font>You can revise your profile in the <font color='#00D8FF'>Status</font> window, hotkey <font color='#00FF9C'>[P]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You can revise your profile in the <font color='#00D8FF'>Status</font> window <font color='#00FF9C'>[P]</font>.
 
 ID=5827
 <font color='#FFFFFF' size='30'>TIP: </font>Press the left <font color='#00FF9C'>[Alt]</font> key to change to mouse mode.
@@ -3464,10 +3464,10 @@ ID=5831
 <font color='#FFFFFF' size='30'>TIP: </font>You can buy special items at the <font color='#B2EBF4'>BP Shop</font> in <font color='#00D8FF'>District 6</font>.
 
 ID=5832
-<font color='#FFFFFF' size='30'>TIP: </font>Open the <font color='#00D8FF'>Quest</font> window, hotkey <font color='#00FF9C'>[J]</font> and click on the <font color='#00D8FF'>[Mission]</font> tab to access the daily missions.
+<font color='#FFFFFF' size='30'>TIP: </font>Open the <font color='#00D8FF'>Quest</font> window <font color='#00FF9C'>[J]</font> and click on the <font color='#00D8FF'>[Mission]</font> tab to access the daily missions.
 
 ID=5833
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font> can be used at the <font color='#00D8FF'>Void Vending Machine</font>.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font> can be used at the <font color='#B2EBF4'>Vending Machine</font>.
 
 ID=5834
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Secret Missions]</font> will randomly appear inside dungeons.
@@ -3479,7 +3479,7 @@ ID=5836
 <font color='#FFFFFF' size='30'>TIP: </font>Please try activating <font color='#00D8FF'>Orbs</font> at the <font color='#B2EBF4'>Io</font> NPC.\nActivated orbs can be user by your friend's Supporters.
 
 ID=5837
-<font color='#FFFFFF' size='30'>TIP: </font>"Soloing is hard! I feel lonely!"\nIn times like these, you can use the </font><font color='#00D8FF'>Find Party</font>, hotkey <font color='#00FF9C'>[N]</font> and </font><font color='#00D8FF'>Community</font>, hotkey <font color='#00FF9C'>[O]</font> to make some friends!
+<font color='#FFFFFF' size='30'>TIP: </font>"Soloing is hard! I feel lonely!"\nIn times like these, you can use the </font><font color='#00D8FF'>Find Party</font> <font color='#00FF9C'>[N]</font> and </font><font color='#00D8FF'>Community</font> <font color='#00FF9C'>[O]</font> to make some friends!
 
 ID=5838
 <font color='#FFFFFF' size='30'>TIP: </font>Expand your community by establishing a <font color='#00D8FF'>Guild</font> or joining one.
@@ -3488,7 +3488,7 @@ ID=5839
 <font color='#FFFFFF' size='30'>TIP: </font>Upon reaching Lv10, you will be able to have your very own <font color='#00D8FF'>[Room]</font>.
 
 ID=5840
-<font color='#FFFFFF' size='30'>TIP: </font>Rarely a <font color='#00D8FF'>Memorial</font> piece will appear.\nCollect these and claim the rewards in the Memorial window, hotkey <font color='#00ff9c'>[B]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>On rare occasions, a <font color='#00D8FF'>Memorial</font> piece will appear.\nCollect these and claim the rewards in the Memorial window <font color='#00ff9c'>[B]</font>.
 
 ID=5841
 <font color='#FFFFFF' size='30'>TIP: </font>Clicking the <font color='#FFF94A'>[<font size='30'>i</font>]</font> icon at the top right corner of the screen will open the <font color='#00D8FF'>[Help]</font>, there various information about the game can be found.
@@ -3557,10 +3557,10 @@ ID=5862
 <font color='#FFFFFF' size='30'>TIP: </font> Entering <font color='#00D8FF'>Very Hard</font> mode dungeons features stronger enemies and better rewards.
 
 ID=5863
-<font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought at <font color='#B2EBF4'>Zaito</font> in each town.</font>
+<font color='#FFFFFF' size='30'>TIP: </font>Basic equipments can be bought at <font color='#B2EBF4'>Zaito</font> in each town.</font>
 
 ID=5864
-<font color='#FFFFFF' size='30'>TIP: </font>Basic equipment items can be bought at <font color='#B2EBF4'>Yomi</font> in each town.</font>
+<font color='#FFFFFF' size='30'>TIP: </font>Basic consumables can be bought at <font color='#B2EBF4'>Yomi</font> in each town.</font>
 
 ID=5865
 <font color='#FFFFFF' size='30'>TIP: </font>Various shops in towns can <font color='#00D8FF'>[Repair]</font> your equipment or <font color='#00D8FF'>[Dismantle]</font> them.
@@ -3575,7 +3575,7 @@ ID=5868
 <font color='#FFFFFF' size='30'>TIP: </font>Equipment can be upgraded through <font color='#00D8FF'>Enhancing</font>, it can also be <font color='#00D8FF'>Dismantled</font> to obtain items needed to upgrade or craft other pieces of equipment.
 
 ID=5869
-<font color='#FFFFFF' size='30'>TIP: </font>At <font color='#B2EBF4'>[Zenith]</font> you can <font color='#00D8FF'>[Craft]</font> weapons, equipments, materials, and avatars
+<font color='#FFFFFF' size='30'>TIP: </font>At <font color='#B2EBF4'>[Zenith]</font> you can <font color='#00D8FF'>[Craft]</font> weapons, equipments, materials and avatars
 
 ID=5870
 <font color='#FFFFFF' size='30'>TIP: </font>You can send mails by using <font color='#B2EBF4'>HEMS</font>. A fee will be charged when sending.\nItems and Zenny may also be attached.
@@ -3593,10 +3593,10 @@ ID=5874
 <font color='#FFFFFF' size='30'>TIP: </font>Depending on your <font color='#00D8FF'>Progress Information</font>, you can collect rewards by pressing the hotkey <font color='#00FF9C'>[L]</font>.
 
 ID=5875
-<font color='#FFFFFF' size='30'>TIP: </font>By collecting ingredients and bringing them to <font color='#B2EBF4'>Io</font>, you can create an <font color='#00D8FF'>A.R card</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>By collecting ingredients and bringing them to <font color='#B2EBF4'>Io</font>, you can create an <font color='#00D8FF'>A.R Card</font>.
 
 ID=5876
-<font color='#FFFFFF' size='30'>TIP: </font>Registering a HOLD type <font color='#00D8FF'>A.R card</font> into your slots will automatically grant passive effects.
+<font color='#FFFFFF' size='30'>TIP: </font>Registering a HOLD type <font color='#00D8FF'>A.R Card</font> into your slots will automatically grant passive effects.
 
 ID=5877
 <font color='#FFFFFF' size='30'>TIP: </font>When a new quest is available, a <font color='#FFF94A'>[<font size='30'>！</font>]</font> mark will appear above an NPC's head. A <font color='#FFF94A'>[<font size='30'>？</font>]</font> mark will appear for quests that are ready to be handed in. This is also displayed on the Minimap.
@@ -3614,7 +3614,7 @@ ID=5881
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Skills]</font> and <font color='#00D8FF'>[A.R Cards]</font> can be set onto quick slots in the Skill window by pressing the hotkey <font color='#00FF9C'>[K]</font>.
 
 ID=5882
-<font color='#FFFFFF' size='30'>TIP: </font>Effective use of your <font color='#00D8FF'>Skill Deck</font> will prove helpful in battle.
+<font color='#FFFFFF' size='30'>TIP: </font>Using your <font color='#00D8FF'>Skill Deck</font> in an efficient way will prove very helpful in battle.
 
 ID=5883
 <font color='#FFFFFF' size='30'>TIP: </font>Increasing the level of your <font color='#00D8FF'>Passive Skills</font> will extend and improve your basic actions.
@@ -3623,7 +3623,7 @@ ID=5884
 <font color='#FFFFFF' size='30'>TIP: </font>The <font color='#00D8FF'>Notification Icons</font> at the lower left area of your screen will notify you of various events requiring your attention.
 
 ID=5885
-<font color='#FFFFFF' size='30'>TIP: </font>You may freely change the <font color='#00D8FF'>Title</font> above your name by using the <font color='#00D8FF'>Status</font> window, hotkey <font color='#00FF9C'>[P]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You may freely change the <font color='#00D8FF'>Title</font> above your name by using the <font color='#00D8FF'>Status</font> window <font color='#00FF9C'>[P]</font>.
 
 ID=5886
 <font color='#FFFFFF' size='30'>TIP: </font>You may claim rewards from the <font color='#00D8FF'>Memorial</font> window <font color='#00FF9C'>[B]</font> based on your <font color='#00D8FF'>Clearance</font>.
@@ -3635,7 +3635,7 @@ ID=5888
 <font color='#FFFFFF' size='30'>TIP: </font>When entering a dungeon, use <font color='#00D8FF'>[Auto-Matching]</font> to automatically find a Party.
 
 ID=5889
-<font color='#FFFFFF' size='30'>TIP: </font>You can revise your profile in the <font color='#00D8FF'>Status</font> window, hotkey <font color='#00FF9C'>[P]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You can revise your profile in the <font color='#00D8FF'>Status</font> window <font color='#00FF9C'>[P]</font>.
 
 ID=5890
 <font color='#FFFFFF' size='30'>TIP: </font>Press the left <font color='#00FF9C'>[Alt]</font> key to change to mouse mode.
@@ -3653,10 +3653,10 @@ ID=5894
 <font color='#FFFFFF' size='30'>TIP: </font>You can buy special items at the <font color='#B2EBF4'>BP Shop</font> in <font color='#00D8FF'>District 6</font>.
 
 ID=5895
-<font color='#FFFFFF' size='30'>TIP: </font>Open the <font color='#00D8FF'>Quest</font> window, hotkey <font color='#00FF9C'>[J]</font> and click on the <font color='#00D8FF'>[Mission]</font> tab to access the daily missions.
+<font color='#FFFFFF' size='30'>TIP: </font>Open the <font color='#00D8FF'>Quest</font> window <font color='#00FF9C'>[J]</font> and click on the <font color='#00D8FF'>[Mission]</font> tab to access the daily missions.
 
 ID=5896
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font> can be used at the <font color='#00D8FF'>Void Vending Machine</font>.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font> can be used at the <font color='#B2EBF4'>Vending Machine</font>.
 
 ID=5897
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Secret Missions]</font> will randomly appear inside dungeons.
@@ -3674,7 +3674,7 @@ ID=5901
 <font color='#FFFFFF' size='30'>TIP: </font>You can change the appearance of your character by buying <font color='#00D8FF'>[Fashion Items]</font> from the Item Mall.
 
 ID=5902
-<font color='#FFFFFF' size='30'>TIP: </font>If your character reaches 0 <color='#00D8FF'>[HP]</font>, it will become incapacitated and unable to continue fighting. Manage your HP with care!
+<font color='#FFFFFF' size='30'>TIP: </font>If your character reaches 0 <font color='#00D8FF'>[HP]</font>, it will become incapacitated and unable to continue fighting.\nManage your HP with care!
 
 ID=5903
 <font color='#FFFFFF' size='30'>TIP: </font>Soul Gauge, <font color='#00D8FF'>[SG]</font>, is the source of your power.\nSG is consumed by the skills you use. Each character recovers SG in an unique way.
@@ -3683,7 +3683,7 @@ ID=5904
 <font color='#FFFFFF' size='30'>TIP: </font>The Break Skill, <font color='#00D8FF'>Erosion</font>, cannot be used in <font color='#00D8FF'>District 6</font>.
 
 ID=5905
-<font color='#FFFFFF' size='30'>TIP: </font>You cannot use <font color='#00D8FF'>[DRAW]</font> type A.R cards in <font color='#00D8FF'>District 6</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>You cannot use <font color='#00D8FF'>[DRAW]</font> type A.R Cards in <font color='#00D8FF'>District 6</font>.
 
 ID=6011
 Change Representative
@@ -3713,55 +3713,55 @@ ID=6019
 Standby
 
 ID=6020
-A.R card "{0}"\nAre you sure you want to discard this?
+Are you sure you want to discord A.R Card "{0}"?
 
 ID=6021
-Do you want to rent {0} {1} A.R cards?\nYou can rent them for {2} hours for {4} Zenny.\nYou currently have {3} Zenny.
+Do you want to rent {0}'s {1} A.R Card?\nYou can rent them for {2} hours for {4} Zenny.\nYou currently have {3} Zenny.
 
 ID=6022
-Did not select Friend's A.R card.
+Did not select Friend's A.R Card.
 
 ID=6023
-An additional {0} Zenny was required due to the A.R card rental.
+An additional {0} Zenny was required due to the A.R Card rental.
 
 ID=6024
 The rental period is almost finished.\n({0} seconds remaining)
 
 ID=6025
-Use the A.R card Box.\nAcquired A.R cards cannot be traded.
+Use the A.R Card Box.\nObtained A.R Cards cannot be traded.
 
 ID=6026
-The A.R card is now usable.\nThe A.R card will be removed from your inventory and the EXP will be reset during registration.\nDo you wish to register the A.R card (press [K])?
+Use the A.R Card to be able to use it's unique power.\nThe used A.R Card will be removed from your inventory and the Exp will be reset.\nIt will be registered in the A.R Card tab of the Skill window <font color='#00FF9C'>[K]</font>.\nWould you like to use it?
 
 ID=6027
-Cannot use item because A.R card slots are full.
+Cannot use item because A.R Card slots are full.
 
 ID=6028
-Acquired A.R card.
+Obtained an A.R Card.
 
 ID=6029
-Will you unseal the A.R card?
+Will you unseal the A.R Card?
 
 ID=6030
-Will you release the A.R card?
+Will you release the A.R Card?
 
 ID=6031
-A.R card has been sealed.
+A.R Card has been sealed.
 
 ID=6032
-This A.R card is being used.
+This A.R Card is being used.
 
 ID=6033
-A.R card "{0}" crafted.
+Successfully crafted A.R Card "{0}".
 
 ID=6034
-A.R card "{0}" released.
+A.R Card "{0}" has been released.
 
 ID=6035
-Crafting A.R card was unsuccessful.
+Failed to craft the A.R Card.
 
 ID=6036
-Craft A.R card
+Craft A.R Card
 
 ID=6037
 Craft
@@ -3782,10 +3782,10 @@ ID=6042
 Release Card
 
 ID=6043
-Craft/Remove
+Craft/Release
 
 ID=6044
-Craft A.R cards using respective materials.\nCrafted A.R cards cannot be traded.
+The A.R Card will be crafted with the respective materials.\nCrafted A.R Cards cannot be traded.
 
 ID=6045
 Synthesis
@@ -3821,13 +3821,13 @@ ID=6055
 Only used as crafting material when\nsynthesis EXP is maxed.
 
 ID=6056
-Would you like to trade {1} {0} to {3} {2} ?
+Are you sure you want to exchange {1} {0} for {3} {2}?
 
 ID=6057
-Please use an A.R card with the same rarity as the crafting target.
+Please use an A.R Card with the same rarity as the crafting target.
 
 ID=6058
-You cannot use Draw-type A.R cards in this area.
+You cannot use Draw-type A.R Cards in this area.
 
 ID=6059
 The Nebula grade or above is registered.\nWould you like to craft?
@@ -3971,7 +3971,7 @@ ID=7009
 Preceding Skills
 
 ID=7010
-Select Attribute
+Attribute
 
 ID=7011
 Available
@@ -4019,10 +4019,10 @@ ID=8004
 Difficulty
 
 ID=8005
-Enter({0})
+Enter ({0})
 
 ID=8006
-Cancel({0})
+Cancel ({0})
 
 ID=8100
 {0}-{1}
@@ -4067,7 +4067,7 @@ ID=8308
 Locked
 
 ID=8309
-You can earn reward when you reach a specific play time quota.
+You can claim a reward after you reach a specific play time quota.
 
 ID=8310
 Login Check Reward
@@ -4085,7 +4085,7 @@ ID=8314
 Cannot receive rewards.
 
 ID=8315
-Your inventory is full; you cannot receive the reward.
+You could not obtain any reward because your inventory is full.
 
 ID=8316
 1
@@ -4583,10 +4583,10 @@ ID=10201
 World Map
 
 ID=10211
-Alpha Mode
+Transparency
 
 ID=10212
-Basic Mode
+Solid
 
 ID=10221
 Second Stair
@@ -4628,34 +4628,34 @@ ID=10248
 On Standby
 
 ID=10249
-Equipment Merchant:
+Equipment Merchant: 
 
 ID=10250
-General Merchant:
+General Merchant: 
 
 ID=10251
-Apparel Merchant:
+Fashion Merchant: 
 
 ID=10252
-Artisan
+Craftsman: 
 
 ID=10253
-Blacksmith:
+Enhancement Artisan: 
 
 ID=10254
-Pets Salesperson:
+Pet Merchant: 
 
 ID=10255
-Peddler:
+Vehicle Attendant: 
 
 ID=10256
-Bank Teller:
+Bank Teller: 
 
 ID=10257
-Mailbox:
+Mailbox: 
 
 ID=10258
-Soul List:
+Soul Manipulator: 
 
 ID=10301
 Tutorial
@@ -4760,7 +4760,7 @@ ID=10371
 Residence of Pure Darkness
 
 ID=10372
-An Existence in Between the Darkness
+Presence in the Darkness
 
 ID=10373
 Search
@@ -4952,49 +4952,49 @@ ID=14000
 Steel Grave
 
 ID=14001
-Ch. 1
+Chapter 1
 
 ID=14002
-Ch. 2
+Chapter 2
 
 ID=14003
-Ch. 3
+Chapter 3
 
 ID=14004
-Ch. 4
+Chapter 4
 
 ID=14005
-Ch. 5
+Chapter 5
 
 ID=14006
-Ch. 6
+Chapter 6
 
 ID=14007
-Ch. 7
+Chapter 7
 
 ID=14008
-Ch. 8
+Chapter 8
 
 ID=14009
-Ch. 9
+Chapter 9
 
 ID=14010
-Ch. 10
+Chapter 10
 
 ID=14011
-Ch. 11
+Chapter 11
 
 ID=14012
-Ch. 12
+Chapter 12
 
 ID=14013
-Ch. 13
+Chapter 13
 
 ID=14014
-Ch. 14
+Chapter 14
 
 ID=14015
-Ch. 15
+Chapter 15
 
 ID=14200
 Stage 1
@@ -5546,7 +5546,7 @@ ID=16860
 You cannot purchase your own item.
 
 ID=16861
-All
+Overall
 
 ID=16862
 Trading Fee
@@ -5630,10 +5630,10 @@ ID=18021
 A fee of {0}% will be applied after the item is sold.
 
 ID=18022
-Your item is a <font color='#A566FF'>High Valued Item</font>. You will acquire {0} upon selling it. Do you wish to sell it?
+The item is a <font color='#A566FF'>highly valuable</font> item.\nYou will earn {0} from the sale.\nAre you sure you want to sell it?
 
 ID=18023
-Your selection contains a <font color='#A566FF'>High Valued</font> item. Are you sure you want to decompose it? Restoration is impossible.
+The item is a <font color='#A566FF'>highly valuable</font> item.\nDismantled items cannot be recovered.\nAre you sure you want to dismantle it?
 
 ID=18026
 Sealed
@@ -5705,7 +5705,7 @@ ID=18048
 Sold Time
 
 ID=18049
-Redeem Tickets
+Use Item
 
 ID=18050
 There is still time remaining on "{0}". If {0} is destroyed, it will be returned to the Item Mall and there will be no rewards.\nWould you still like to destroy the item?
@@ -5894,7 +5894,7 @@ ID=18202
 Extract All Brooches
 
 ID=18203
-<font color='#FFFFFF'>{0}</font> will not be used for the extraction cost<font color='#FF0000'>{1}</font>Zenny will be used instead.\n<font color='#FFFFFF'>{2}</font>it will not be deducted when used.\nWould you like to extract?
+If you do not use <font color='#FFFFFF'>{0}</font>, {1} Zenny will be deducted for the extraction cost.\nIf you use <font color='#FFFFFF'>{2}</font>, no Zenny will be deducted.\nAre you sure you want to extract?
 
 ID=18204
 Brooch extraction was successful.\nPlease check your inventory.
@@ -5903,22 +5903,22 @@ ID=18205
 Insufficient Zenny to extract <font color='#FF3636'>{0}</font>.  
 
 ID=18206
-Extraction failed due to lack of inventory space.
+You cannot extract because there is not enough space in the "Extra" inventory.
 
 ID=18207
-Extraction failed due to lack of primary inventory space.
+You cannot extract because there is not enough space in the "General" inventory.
 
 ID=18208
 Attach
 
 ID=18209
-Redeem Tickets
+Use Item
 
 ID=18210
-Used Zenny
+Use Zenny
 
 ID=18211
-Extracted {1} brooches from {0}.
+Extract {1} brooches out of {0}.
 
 ID=18212
 Insufficient {0} for the brooch extraction.
@@ -6530,7 +6530,7 @@ ID=20302
 The operation cannot be done due to insufficient space or an invalid area.
 
 ID=20303
-No available area.
+There is no enough space for the placement.
 
 ID=20304
 Time Left: {0}m
@@ -6566,7 +6566,7 @@ ID=21000
 {0}'s favorability has increased by {1}.
 
 ID=21001
-Attained favorability Lv {1} for {0}. NPC rewards are unlocked.
+{0}'s favorability level has increased to Lv{1}. The level bonus was unlocked.
 
 ID=21002
 Favorability Lv{0}
@@ -6653,19 +6653,19 @@ ID=21029
 Favorability level too low
 
 ID=21030
-Maximum purchases attained for the day.
+You have hit the maximum purchases for today.
 
 ID=21031
 You cannot gain any more favorability from {0} for today.\n[Resets at 9AM JST, 4PM PST]
 
 ID=21032
-Cannot enter the dungeon because of insufficient fatigue.
+Cannot enter the dungeon because you do not have enough fatigue.
 
 ID=21033
-Cannot enter the dungeon because {0} has insufficient fatigue.
+Cannot enter the dungeon because {0} does not have enough fatigue.
 
 ID=21034
-Cannot use the Party search function because of insufficient fatigue.
+Cannot use the Party search function because you do not have enough fatigue.
 
 ID=21035
 You can only use the basic fatigue in the current state.
@@ -6830,7 +6830,7 @@ ID=21535
 {0} has been recalled.
 
 ID=21536
-Attribute
+Type
 
 ID=21537
 Supporter List
@@ -7148,7 +7148,7 @@ ID=22237
 Party Attacks Info
 
 ID=22238
-Display Rank
+Rank
 
 ID=22300
 Graphics 
@@ -7178,10 +7178,10 @@ ID=22308
 Viewing Distance
 
 ID=22309
-Object Models Dist.
+Objects Distance
 
 ID=22310
-Environment M. Dist.
+Terrain Distance
 
 ID=22311
 Brightness
@@ -7223,13 +7223,13 @@ ID=22401
 Volume Control
 
 ID=22402
-All
+Overall
 
 ID=22403
 Sound Effect
 
 ID=22404
-Environmental Sound FX
+Environmental Sound
 
 ID=22405
 BGM
@@ -7310,19 +7310,19 @@ ID=22523
 Item 2
 
 ID=22524
-A.R card 1
+A.R Card 1
 
 ID=22525
-A.R card 2
+A.R Card 2
 
 ID=22526
-A.R card 3
+A.R Card 3
 
 ID=22527
-A.R card 4
+A.R Card 4
 
 ID=22528
-A.R card 5
+A.R Card 5
 
 ID=22529
 Function
@@ -7475,19 +7475,19 @@ ID=22600
 Chat Options
 
 ID=22601
-Auto Party Chat
+Party Auto Chat
 
 ID=22602
-Use auto chat
+Auto Chat
 
 ID=22603
-Auto chat display location
+Auto Chat Location
 
 ID=22604
 Enter Party
 
 ID=22605
-New member has joined.
+New Member Joins
 
 ID=22606
 Enter Dungeon
@@ -7502,13 +7502,13 @@ ID=22609
 Party Member Level Up
 
 ID=22610
-Receive Buff from Party.
+Buffed by Party Member
 
 ID=22611
-Become incapacitated. 
+When Incapacitated
 
 ID=22612
-Resurrected by Party.
+Resurrected by a Member
 
 ID=22613
 Macro Chat
@@ -7550,7 +7550,7 @@ ID=22625
 Chat Message Color
 
 ID=22626
-All
+Overall
 
 ID=22627
 Trade
@@ -7685,7 +7685,7 @@ ID=22670
 ※ Game performance will increase at the cost of visual details.
 
 ID=22671
-Anti-aliasing will apply upon restarting the game.
+Anti-aliasing will be applied on the next startup.
 
 ID=22672
 Key Controls Help
@@ -7703,7 +7703,7 @@ ID=22676
 Particle Effects
 
 ID=22677
-Display FPS
+FPS
 
 ID=22678
 Auto-Loot
@@ -7718,7 +7718,7 @@ ID=22681
 Texture
 
 ID=22682
-Textures are applied after restarting the game or after loading.
+Texture changes will be applied on the next startup or after loading.
 
 ID=22683
 Summon Vehicle
@@ -7775,7 +7775,7 @@ ID=24009
 Appearance
 
 ID=24010
-A.R card
+A.R Card
 
 ID=24011
 Furniture
@@ -7883,13 +7883,13 @@ ID=24273
 Skin Color
 
 ID=24274
-A.R card
+A.R Card
 
 ID=24275
-A.R card Key
+A.R Card Key
 
 ID=24276
-A.R card Box
+A.R Card Box
 
 ID=24277
 Card
@@ -8201,13 +8201,13 @@ ID=24549
 Skin Color
 
 ID=24550
-A.R card
+A.R Card
 
 ID=24551
-A.R card Key
+A.R Card Key
 
 ID=24552
-A.R card Box
+A.R Card Box
 
 ID=24553
 Card
@@ -8531,7 +8531,7 @@ ID=24659
 Bike
 
 ID=24750
-All
+General
 
 ID=24751
 Attack Brooch
@@ -8543,19 +8543,19 @@ ID=24753
 Utility Brooch
 
 ID=24754
-All
+General
 
 ID=24755
 Avatar Package
 
 ID=24756
-All
+General
 
 ID=24757
 Personal
 
 ID=24758
-All
+General
 
 ID=24759
 Pen
@@ -8582,7 +8582,7 @@ ID=24766
 Common
 
 ID=24767
-All
+General
 
 ID=24768
 Attack
@@ -8591,7 +8591,7 @@ ID=24769
 Defense
 
 ID=24770
-All
+General
 
 ID=24771
 Utility
@@ -8618,7 +8618,7 @@ ID=24778
 Sub-Weapon
 
 ID=24779
-H Gear
+Headgear
 
 ID=24780
 Shoulder
@@ -8669,10 +8669,10 @@ ID=24795
 Appearance
 
 ID=24796
-A.R card
+A.R Card
 
 ID=24797
-A.R card Key
+A.R Card Key
 
 ID=24798
 Sky Card
@@ -8819,7 +8819,7 @@ ID=24845
 Common Supporters
 
 ID=24846
-Secret A.R card
+Secret A.R Card
 
 ID=24847
 Room Package
@@ -8891,7 +8891,7 @@ ID=25001
 End Tutorial
 
 ID=25002
-Exit the tutorial and enter the field.\n(Warning! You will not get the tutorial completion EXP)
+Skip the tutorial?\n(Warning! You will not get the experience for completing the tutorial)
 
 ID=25003
 CLICK
@@ -8999,7 +8999,7 @@ ID=25302
 [Erwin] When you land a successful attack or use a skill successfully, you recover SG.
 
 ID=25303
-[Lily] will recover SG during attacks when she enters into berserk mode after a certain combo threshold.
+[Lily] will recover SG during attacks when she enters Madness mode after a certain combo threshold.
 
 ID=25304
 Jin's SG recovers out of combat and will recover a substantial amount when attacking and countering.
@@ -9026,7 +9026,7 @@ ID=25315
 Attack Recovery
 
 ID=25316
-Going over 100% will activate enraged mode.
+Going over 100% will activate the Madness mode
 
 ID=25317
 Out of combat recovery
@@ -9308,7 +9308,7 @@ ID=26078
 Damage Reduction on Long-Ranged Attacks
 
 ID=26079
-Super Armor Break
+SA Break
 
 ID=26080
 SG Cost Reduction
@@ -10181,7 +10181,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 12/Jan/2017 1:55 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 27/Jan/2017 12:50 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -10460,7 +10460,7 @@ ID=28163
 Expel
 
 ID=28164
-Guild Shop/Vending Machine
+Guild Vending Machine
 
 ID=28165
 Deposit in Guild Storage
@@ -10481,7 +10481,7 @@ ID=28170
 Input
 
 ID=28171
-All
+General
 
 ID=28172
 Ranking
@@ -10586,7 +10586,7 @@ ID=28205
 Use 2 to 8 characters for a guild name.
 
 ID=28206
-Cannot use this name, this word is not allowed.
+It cannot contain special characters or forbidden words.
 
 ID=28207
 Verify
@@ -10634,7 +10634,7 @@ ID=28221
 {0}/{1}
 
 ID=28222
-Acquired when guild members consume fatigue.\nUp to 200 consumed fatigue per day.\nUp to {0} guild experience per day.
+Obtained when guild members consume fatigue.\nUp to 200 consumed fatigue per day.\nUp to {0} guild experience per day.
 
 ID=28223
 Lv
@@ -10655,7 +10655,7 @@ ID=28228
 h
 
 ID=28229
-{0} Guild points have been gained.
+Obtained {0} Guild points.
 
 ID=28230
 Guild skill {0} Lv{1} learned
@@ -10811,7 +10811,7 @@ ID=29015
 Search
 
 ID=29016
-All
+General
 
 ID=29017
 Horoscope Order
@@ -11528,10 +11528,10 @@ ID=31145
 You may not enter the dungeon again as a party member has left.
 
 ID=31146
-Cannot re-enter the dungeon because of insufficient fatigue.
+Cannot re-enter the dungeon because you do not have enough fatigue.
 
 ID=31147
-Cannot re-enter the dungeon because {0} has insufficient fatigue.
+Cannot re-enter the dungeon because {0} does not have enough fatigue.
 
 ID=31148
 The dungeon has a re-entry cooldown of {0} seconds.
@@ -11600,7 +11600,7 @@ ID=31169
 Since party members left, the enemies have weakened.
 
 ID=31170
-Area
+Destination
 
 ID=31171
 Party Join Request Ad
@@ -11723,7 +11723,7 @@ ID=32034
 Character Skill
 
 ID=32035
-A.R card
+A.R Card
 
 ID=32036
 Break Skill
@@ -11777,7 +11777,7 @@ ID=32052
 Guild Vote
 
 ID=32053
-Guild Shop/Vending Machine
+Guild Vending Machine
 
 ID=32054
 Guild War
@@ -11798,7 +11798,7 @@ ID=32059
 Event Spawn
 
 ID=32060
-Area
+Transportation
 
 ID=32061
 Town
@@ -11813,7 +11813,7 @@ ID=32064
 Tooltip
 
 ID=32065
-DUR
+Durab.
 
 ID=32066
 Enhance
@@ -12086,10 +12086,10 @@ ID=33539
 Steel Tomb Guardian Angel
 
 ID=33540
-Steel Tomb Guardian Angel MKII
+Steel Tomb Guardian Angel MK-Ⅱ
 
 ID=33541
-Steel Tomb Guardian Angel MKIII
+Steel Tomb Guardian Angel MK-Ⅲ
 
 ID=33542
 Empty Hell
@@ -12098,10 +12098,10 @@ ID=33543
 Steel Tomb Guardian
 
 ID=33544
-Steel Tomb Guardian MKII
+Steel Tomb Guardian MK-Ⅱ
 
 ID=33545
-Steel Tomb Guardian MKIII
+Steel Tomb Guardian MK-Ⅲ
 
 ID=33546
 Dark Hate
@@ -12233,7 +12233,7 @@ ID=34032
 Exceptionally successful harvest.
 
 ID=34033
-Obtained x {0}
+Obtained {0}
 
 ID=34034
 Confirm
@@ -12254,7 +12254,7 @@ ID=34039
 {0} helped people\nCultivation time -{1}%
 
 ID=35000
-All
+General
 
 ID=35001
 Party
@@ -12290,7 +12290,7 @@ ID=35011
 EXP
 
 ID=35012
-Items Gained
+Obtained Items
 
 ID=35013
 Other Information
@@ -12335,7 +12335,7 @@ ID=35112
 {0} is now Lv{1}.
 
 ID=35113
-{0} SP acquired. 
+Obtained {0} SP.
 
 ID=35114
 You cannot chat for 10 seconds because of chat restriction.\n({0} seconds remaining)
@@ -12350,13 +12350,13 @@ ID=35117
 {0} was damaged by {1}.
 
 ID=35200
-{0} has won, earned {1} BP.
+{0} won, obtained {1} BP.
 
 ID=35201
 {0} has lost, earned {1} BP.
 
 ID=35202
-BP {0} acquired.
+Obtained {0} BP.
 
 ID=35203
 Used {1} BP to purchase {0}
@@ -12422,7 +12422,7 @@ ID=37007
 A fissure in the void has appeared in District 6.\nBefore the fissure disappears, please defeat the void core and The Thing.\n(Remaining until the fissure disappears: {0} minutes)
 
 ID=37008
-Void cube disappeared, unable to gain any items.
+The Vacuum Cube has disappeared, unable to obtain any items.
 
 ID=37009
 The power surrounding the The Primal is weakened, you can get closer now.\n({0} minutes remaining)
@@ -12485,13 +12485,13 @@ ID=37507
 Reward
 
 ID=37508
-Individual Accumulated/Acquired Soul Points
+Individual Accumulated and Earned Soul Points
 
 ID=37509
 Individual Rank and Soul Points
 
 ID=37510
-Guild Accumulated/Acquired Soul Points
+Guild Accumulated and Earned Soul Points
 
 ID=37511
 Guild Rank and Soul Points
@@ -12509,7 +12509,7 @@ ID=37515
 ▼
 
 ID=37516
-※ Dungeons\n- gain points for each normal entry and clear\n- gain points for each Very Hard clear\n- gain points for solo clear\n- gain points for not using revivals\n- gain points for not using items\n\n※ Steel Grave\n- gain points for entry\n- gain points for each cleared chapter\n\n※ Raid\n- gain points for entry\n- gain points for clear
+※ Dungeons\n- earn points for each normal entry and clear\n- earn points for each Very Hard clear\n- earn points for solo clear\n- earn points for not using revivals\n- earn points for not using items\n\n※ Steel Grave\n- earn points for entry\n- earn points for each cleared chapter\n\n※ Raid\n- earn points for entry\n- earn points for clear
 
 ID=37517
 Period: Monday 9 AM ~ Sunday 9 PM (7 days, every week)\n\nResults announcement: every Sunday 10 PM\n\nBonus Points (normal dungeons)\n- no Party\n- no recovering potions\n- no buff potions\n\n※ For Steel Grave and Casual Raid, the bonus points are higher than the clearing points of normal dungeons.
@@ -12557,7 +12557,7 @@ ID=37532
 Claim
 
 ID=37537
-Acquired Soul
+Obtained Soul
 
 ID=37538
 Personal
@@ -12635,16 +12635,16 @@ ID=38005
 Enhance Success Rate +{0}%
 
 ID=38006
-Zenny Acquisition Rate +{0}%
+Zenny Gain +{0}%
 
 ID=38007
-Increase Ether earned by {0}%
+Ether Gain +{0}%
 
 ID=38008
-Increase BP earned by {0}%
+Battle Points Gain +{0}%
 
 ID=38009
-Obtained {0} BP.
+Obtained {0} Battle Points
 
 ID=38010
 Increase Attack by {0}%
@@ -12731,64 +12731,64 @@ ID=38520
 Master A
 
 ID=38521
-2% Bonus EXP
+EXP Gain +2%
 
 ID=38522
-4% Bonus EXP
+EXP Gain +4%
 
 ID=38523
-6% Bonus EXP
+EXP Gain +6%
 
 ID=38524
-9% Bonus EXP
+EXP Gain +9%
 
 ID=38525
-12% Bonus EXP
+EXP Gain +12%
 
 ID=38526
-15% Bonus EXP
+EXP Gain +15%
 
 ID=38527
-19% Bonus EXP
+EXP Gain +19%
 
 ID=38528
-23% Bonus EXP
+EXP Gain +23%
 
 ID=38529
-27% Bonus EXP
+EXP Gain +27%
 
 ID=38530
-32% Bonus EXP
+EXP Gain +32%
 
 ID=38531
-37% Bonus EXP
+EXP Gain +37%
 
 ID=38532
-42% Bonus EXP
+EXP Gain +42%
 
 ID=38533
-48% Bonus EXP
+EXP Gain +48%
 
 ID=38534
-54% Bonus EXP
+EXP Gain +54%
 
 ID=38535
-60% Bonus EXP
+EXP Gain +60%
 
 ID=38536
-67% Bonus EXP
+EXP Gain +67%
 
 ID=38537
-74% Bonus EXP
+EXP Gain +74%
 
 ID=38538
-82% Bonus EXP
+EXP Gain +82%
 
 ID=38539
-90% Bonus EXP
+EXP Gain +90%
 
 ID=38540
-100% Bonus EXP
+EXP Gain +100%
 
 ID=39950
 <font color='#C6C5B6'>{0}</font>
@@ -12896,7 +12896,7 @@ ID=40118
 You must remove the special seal before moving to the next area.
 
 ID=40119
-Please defeat all Soul Junk before the bomb explodes.
+Please defeat all the Soul Junk before the bomb explodes.
 
 ID=40120
 Entered a safe zone.
@@ -12932,13 +12932,13 @@ ID=40130
 Right control unit activation confirmed.
 
 ID=40135
-Please examine the portraits on both sides of the corridor and find the hidden passageway.
+Please examine the portraits on both sides of the corridor and look for the secret passage.
 
 ID=40136
-The left side portrait has been successfully investigated.
+The left side portrait has been examinated
 
 ID=40137
-The right side portrait has been successfully investigated.
+The right side portrait has been examinated
 
 ID=40138
 Please examine the painting in the middle of the corridor.
@@ -12959,13 +12959,13 @@ ID=40143
 An enemy has appeared from behind.
 
 ID=40144
-Please operate all the switches to activate the elevator.
+Please activate all the switches to activate the elevator.
 
 ID=40145
 Failed to stop the Big Puppet's advance.\nPlease proceed to the central plaza.
 
 ID=40146
-Please choose your battle partners.
+Please choose your battle partner.
 
 ID=40147
 Using the cube will cause a random enemy to appear.
@@ -12995,7 +12995,7 @@ ID=40155
 Junk Knight is entering a defensive stance.\nAttack it to prevent it from doing so.
 
 ID=40156
-Junk Knight is going to use the powerful attack.
+Junk Knight is going to use a powerful attack.
 
 ID=40157
 Junk Knight has become invinvible for 30 seconds.
@@ -13304,7 +13304,7 @@ ID=40258
 A powerful enemy will soon appear.
 
 ID=40259
-Defeat the enemies and the controller will be summoned. Please operate all controllers.
+Controllers will be summoned after defeating enemies.\nPlease activate all 3 controllers.
 
 ID=40260
 Controller 1 has been activated
@@ -13316,7 +13316,7 @@ ID=40262
 All controllers have been activated.\nThe final enemies will be summoned.
 
 ID=40263
-When the controller is activated, strengthening effects are granted. 
+When the controller is activated, a strengthening buff will be granted. 
 
 ID=40264
 When the controller is activated, attack is increased.
@@ -13499,7 +13499,7 @@ ID=40402
 Defeat the enemies while avoiding the trap.
 
 ID=40403
-Please go while dodging the traps. A reward will be given for successfully doing so within a certain time limit.
+Get through quickly while dodging the traps. You can earn a reward if you succeed in a certain time limit.
 
 ID=40404
 To damage the red central temptation stone, please defeat all the enemies summoned by the blue/green temptation stone.
@@ -13529,7 +13529,7 @@ ID=40412
 Edgar's final assault stage begins.\nIf a carnival bomb falls and explode, it will cause a large area of damage. Be careful.
 
 ID=40421
-Please operate the center magnetic-field generating device.
+Please activate the center magnetic-field generating device.
 
 ID=40422
 Until the magnetic-field generating device has fully charged, please defend it from oncoming enemies.
@@ -13862,10 +13862,10 @@ ID=40630
 Primal's gigantic arm has been summoned.\nThe gigantic arm will use skills from a distance.
 
 ID=40701
-A supporting attack by tank troops will begin shortly.\nPlease endure the enemy's assault until reinforcements arrive.
+A supporting attack from the Tank Squad will soon begin.\nPlease withstand the enemy's assault until the reinforcements arrive.
 
 ID=40702
-The tank troop's assault will now begin.\nPlease defeat the remaining enemies.
+The supporting attack from the Tank Squad began.\nRemaining enemies will be defeated.
 
 ID=40703
 Please escort Katherine to the designated area.
@@ -14123,10 +14123,10 @@ ID=42083
 War Road Buster
 
 ID=42084
-Megiddo Maker MK Ⅱ
+Megiddo Maker MK-Ⅱ
 
 ID=42085
-Augmented Megiddo Maker MK Ⅱ
+Augmented Megiddo Maker MK-Ⅱ
 
 ID=42086
 Ted&Julie
@@ -14984,22 +14984,22 @@ ID=42370
 Pitifully Confused Sedurin μ
 
 ID=42371
-Megiddo Maker MK Ⅱ
+Megiddo Maker MK-Ⅱ
 
 ID=42372
-Augmented Megiddo Maker MK Ⅱ
+Augmented Megiddo Maker MK-Ⅱ
 
 ID=42373
-Purifying Megiddo Maker MK Ⅱ
+Purifying Megiddo Maker MK-Ⅱ
 
 ID=42374
-Megiddo Maker MK Ⅱ μ
+Megiddo Maker MK-Ⅱ μ
 
 ID=42375
-Augmented Megiddo Maker MK Ⅱ μ
+Augmented Megiddo Maker MK-Ⅱ μ
 
 ID=42376
-Purifying Megiddo Maker MK Ⅱ μ
+Purifying Megiddo Maker MK-Ⅱ μ
 
 ID=42377
 Xenia
@@ -15347,7 +15347,7 @@ ID=43082
 Road Buster
 
 ID=43084
-Megiddo Maker MK Ⅱ
+Megiddo Maker MK-Ⅱ
 
 ID=43086
 Ted&Julie
@@ -15671,10 +15671,10 @@ ID=43322
 [SH] Sedurin
 
 ID=43323
-[S] Megiddo Maker MK Ⅱ
+[S] Megiddo Maker MK-Ⅱ
 
 ID=43324
-[SH] Megiddo Maker MK Ⅱ
+[SH] Megiddo Maker MK-Ⅱ
 
 ID=43325
 [S] Xenia
@@ -15992,16 +15992,16 @@ ID=45201
 {0}Lv{1}
 
 ID=45202
-{0} can be changed back.
+Can be reversed to {0}
 
 ID=45203
-Cannot be changed back.
+Cannot be reversed
 
 ID=45204
 Lv{0}
 
 ID=45205
-New
+Unlearned
 
 ID=45206
 Change Character Name
@@ -16031,10 +16031,10 @@ ID=45214
 SP+{0}
 
 ID=45215
-The booster item effects have been applied.\nBy using the current items, the effect will be overwritten. Do you still wish to proceed?
+The same booster effect is already in use.\nUsing this item will increase the time of this booster effect.\nAre you sure you want to use the item?
 
 ID=45216
-The booster item effects have been applied.\nBy using the current items, the effect will be negated. Do you still wish to proceed?
+A similar booster effect is in use.\nUsing this item will cancel that booster effect.\nAre you sure you want to use the item?
 
 ID=45301
 Insufficient inventory space.
@@ -16061,13 +16061,13 @@ ID=45308
 Do you want to use {0}?
 
 ID=45309
-Item acquired: {0}\nThe item can be found in your inventory.
+Item obtained: {0}\nThe item can be found in your inventory.
 
 ID=45310
 Brooch obtained: {0}\nThe item can be found in your inventory.
 
 ID=45311
-A.R card Acquired: {0}\nThe item can be found in your inventory.
+A.R Card obtained: {0}\nThe item can be found in your inventory.
 
 ID=45312
 Obtained Item Results
@@ -16292,7 +16292,7 @@ ID=49109
 Complete
 
 ID=49110
-Obtained memorial item.
+Obtained a Memorial item.
 
 ID=49111
 The memorials were unlocked.
@@ -16418,7 +16418,7 @@ ID=49302
 Achievement Type
 
 ID=49303
-All
+Overall
 
 ID=49304
 Item
@@ -16604,10 +16604,10 @@ ID=49459
 http://cafe.naver.com/fakesoul/152
 
 ID=49497
-Perspective ON
+Camera
 
 ID=49498
-Cursor ON
+Cursor
 
 ID=49499
 Menu
@@ -16622,7 +16622,7 @@ ID=49600
 Attention
 
 ID=49601
-Do you wish to end the cut scene?
+Do you want to end the cut scene?
 
 ID=49602
 Cooldown: Less than {0} hours remaining
@@ -16658,7 +16658,7 @@ ID=49612
 Cannot recognize gamepad. Gamepad mode disabled.
 
 ID=49613
-Connection to the server has been terminated.\nTry again.
+The connection with the server has expired.\nPlease login again.\n
 
 ID=49614
 Unable to connect to the server due to a system failure.
@@ -16679,7 +16679,7 @@ ID=49619
 Please select the area you want to go to.
 
 ID=49620
-Cannot use this name, this word is not allowed.
+It cannot contain special characters or forbidden words.
 
 ID=49621
 Character names cannot include spaces or special characters.
@@ -17006,7 +17006,7 @@ ID=49976
 {0} [Removed]
 
 ID=49977
-{0} [Acquired]
+{0} [Obtained]
 
 ID=49978
 {0}: [Completed]
@@ -17141,7 +17141,7 @@ ID=50111
 This item has been blocked from use.
 
 ID=50112
-The connection to the server has been terminated; there is ongoing maintenance.
+The connection to the server has been terminated because of server maintenance.
 
 ID=51001
 Cannot locate server.
@@ -17240,7 +17240,7 @@ ID=52021
 Failed to discard the item.
 
 ID=52022
-Failed to obtain item.
+Failed to obtain the item.
 
 ID=52023
 Failed to expand slots.
@@ -17258,10 +17258,10 @@ ID=52027
 The number of items to be discarded does not match with your current quantity.
 
 ID=52028
-These items cannot be discarded.
+This item cannot be discarded.
 
 ID=52029
-Insufficient inventory space to obtain new items.
+Cannot obtain the items because your inventory is full.
 
 ID=52030
 Insufficient inventory space; the operation has been cancelled.
@@ -17324,34 +17324,34 @@ ID=52049
 There are no free slots in the Extra Inventory
 
 ID=52050
-You can no longer receive any items due to the furniture inventory being full.
+You could not receive the items because there is not enough space in the "Furniture" inventory.
 
 ID=52051
-You can no longer receive any items due to the inventory being full.
+You could not receive the items because there is not enough space in the "General" inventory.
 
 ID=52052
-You can no longer receive any items due to the fashion inventory being full.
+You could not receive the items because there is not enough space in the "Fashion" inventory.
 
 ID=52053
-You can no longer receive any items due to the extra inventory being full.
+You could not receive the items because there is not enough space in the "Extra" inventory.
 
 ID=52054
-You can no longer receive any items due to the furniture inventory being full.
+You could not receive the items because there is not enough space in the "Furniture" inventory.
 
 ID=52055
-You can no longer receive any more Zenny due to reaching the Zenny limit.
+You could not receive the Zenny because you have reached the maximum amount of Zenny.
 
 ID=52056
-You can no longer receive any more Zenny due to any more Zenny due to reaching the Zenny limit.
+You could not obtain the Zenny because you have reached the maximum amount of Zenny.
 
 ID=52057
-You can no longer receive any more B.P due to reaching the B.P limit.
+You cannot obtain any more BP because you have reached the maximum allowed BP.
 
 ID=52058
-You can no longer receive any more Ether due to reaching the Ether limit.
+You cannot obtain any more Ether because you have reached the maximum allowed Ether.
 
 ID=52059
-You have reached the maximum capacity of SoulCoins you can have.
+You cannot obtain any more Soul Coin because you have reached the maximum allowed Soul Coin.
 
 ID=52101
 The item's slot could not be used.
@@ -17513,7 +17513,7 @@ ID=52272
 Corrupted item data.
 
 ID=52273
-The item no longer exists, you cannot dismantle it.
+There is not enough space to dismantle the item.
 
 ID=52280
 Failed to socket the socket.
@@ -17582,7 +17582,7 @@ ID=52306
 The purchase was unsuccessful.
 
 ID=52307
-You can no longer re-purchase the item. 
+This item is not in the buyback list.
 
 ID=52308
 Not an NPC that has a shop.
@@ -17633,7 +17633,7 @@ ID=52323
 You cannot purchase this item anymore.
 
 ID=52324
-Cannot open Item Mall in the area.
+Item Mall cannot be opened in this area.
 
 ID=52325
 Cannot be re-purchased.
@@ -17684,7 +17684,7 @@ ID=52416
 You cannot trade with a blocked player.
 
 ID=52417
-Cannot send because the other party has exceeded the maximum possession amount of Zenny.
+You cannot send Zenny because the target hasreached the maximum amount of Zenny.
 
 ID=52430
 Personal Shop is already open.
@@ -17777,7 +17777,7 @@ ID=52613
 There are still Steel Grave entries left.
 
 ID=52615
-Failed to acquire item. Please try again.
+Failed to obtain the item. Please try again.
 
 ID=52616
 Cannot use consumables in this dungeon.
@@ -17786,16 +17786,16 @@ ID=52617
 Cannot use resurrection items in this dungeon.
 
 ID=52700
-If the PvP level difference is too great, either no BP is won, or BP is lost on losing.
+You will not gain or lose any BP because the level difference between you and the PvP target is too high.
 
 ID=52701
 For each opponent, you can only win or lose BP once a day from fighting.
 
 ID=52702
-Maximum Daily BP earned. Resets at 00 hours.
+Maximum daily BP earned. Resets at 00 hours.
 
 ID=52703
-The opponent has 0 BP. You cannot win any BP.
+The opponent has 0 BP. You cannot gain any BP.
 
 ID=52704
 PvP and PvE-earned BP limits have been reset.
@@ -17885,7 +17885,7 @@ ID=53032
 Cannot expel members in dungeon.
 
 ID=53101
-Cannot use the Force search function because of insufficient fatigue.
+Cannot use the Force search function because you do not have enough fatigue.
 
 ID=53102
 Players that are already in a dungeon cannot be invited in the Force.
@@ -18239,7 +18239,7 @@ ID=55043
 Cannot join when the Party is fighting the boss.
 
 ID=55044
-Cannot start Auto-Matching because of insufficient fatigue.
+Cannot start Auto-Matching because you do not have enough fatigue.
 
 ID=55047
 Cannot enter the dungeon because a party member is not in the same channel.
@@ -18356,7 +18356,7 @@ ID=55306
 Mail has been deleted.
 
 ID=55307
-You have exceeded the maximum amount of Zenny that you can possess.
+You have reached the maximum amount of Zenny that you can have.
 
 ID=55308
 Insufficient inventory space.
@@ -18548,7 +18548,7 @@ ID=57034
 You cannot expel yourself from the guild. 
 
 ID=57035
-Cannot use this name, this word is not allowed.
+It cannot contain special characters or forbidden words.
 
 ID=57036
 The title/rank cannot be modified.
@@ -18821,7 +18821,7 @@ ID=59001
 Your inventory is full, therefore you cannot receive the login rewards.
 
 ID=59200
-{0} turned off their public info.
+{0} has turned off their public information.
 
 ID=59201
 {0} refuses any incoming whispers.
@@ -18839,7 +18839,7 @@ ID=59302
 The operation cannot be done due to insufficient space or an invalid area.
 
 ID=59304
-No available area.
+There is no enough space for the placement.
 
 ID=59305
 This action is only available while in town.
@@ -18869,7 +18869,7 @@ ID=59404
 You cannot use that action while mounted.
 
 ID=59405
-Cannot earn the vehicle.
+Could not obtain the vehicle.
 
 ID=59406
 Cannot equip the vehicle.
@@ -18881,13 +18881,13 @@ ID=59408
 Vehicle summoning is on cooldown.
 
 ID=60001
-Attach [{0}] to the current location?
+Are you sure you want to attach [{0}] in that slot?
 
 ID=60002
-[{0}] has been attached to [{1}].
+[{0}] has been successfully attached to [{1}].
 
 ID=60003
-This item cannot be worn in the selected slot.
+This type of item cannot be attached.
 
 ID=60004
 The brooch cannot be attached to the selected slot.
@@ -18899,10 +18899,10 @@ ID=60006
 The brooch cannot be inserted here.
 
 ID=60007
-Do you want to change the attachment from [{0}] in [{1}]?\nThe existing brooch will be destroyed.
+Do you want to change the attachment from [{0}] to [{1}]?\nThe existing brooch will be destroyed.
 
 ID=60008
-The [{0}] has been converted to [{1}].
+[{0}] has been successfully changed to [{1}].
 
 ID=60009
 Are you sure you want to unlock it by using [{0}]?
