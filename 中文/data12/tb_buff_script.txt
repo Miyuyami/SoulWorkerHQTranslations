@@ -84,7 +84,7 @@ Icon/Buff/Icon_Common_Buff_SArmor
 
 ID=109
 全充能
-体力全部回复
+耐力全部回复
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 0
 
@@ -872,31 +872,31 @@ ID=5046
 能量增益Ⅰ
 耐力消费量50%降低
 Icon/Buff/Icon_Common_Buff_ST_Recovery
-體力消耗量減少
+耐力消耗量減少
 
 ID=5047
 能量增益Ⅱ
 耐力消费量50%降低
 Icon/Buff/Icon_Common_Buff_ST_Recovery
-體力消耗量減少
+耐力消耗量減少
 
 ID=5048
 能量增益Ⅲ
 耐力消费量60%降低
 Icon/Buff/Icon_Common_Buff_ST_Recovery
-體力消耗量減少
+耐力消耗量減少
 
 ID=5049
 能量增益Ⅳ
 耐力消费量70%降低
 Icon/Buff/Icon_Common_Buff_ST_Recovery
-體力消耗量減少
+耐力消耗量減少
 
 ID=5050
 能量增益Ⅴ
 耐力消费量80%降低
 Icon/Buff/Icon_Common_Buff_ST_Recovery
-體力消耗量減少
+耐力消耗量減少
 
 ID=5500
 浸食Ⅰ
@@ -2117,40 +2117,40 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG回復
 
 ID=20201
-体力回复
+耐力回复
 耐力即时回复15%
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-体力回复
+耐力回复
 
 ID=20202
-体力回复
+耐力回复
 耐力即时回复25%
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-体力回复
+耐力回复
 
 ID=20203
-体力回复
+耐力回复
 耐力即时回复50%
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-体力回复
+耐力回复
 
 ID=20204
-体力回复
+耐力回复
 耐力即时回复100%
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-体力回复
+耐力回复
 
 ID=20205
-体力回复
+耐力回复
 耐力即时回复27%
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-体力回复
+耐力回复
 
 ID=20206
-体力回复
+耐力回复
 耐力即时回复30%
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-体力回复
+耐力回复
 
 ID=20251
 HP＆SG回復
@@ -2442,15 +2442,15 @@ HP増加
 
 ID=22014
 狂热
-30秒內，1秒中回復體力10
+30秒內，1秒中回復耐力10
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-体力回复
+耐力回复
 
 ID=22015
 怒涛
-60秒內，1秒中回復體力10
+60秒內，1秒中回復耐力10
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-体力回复
+耐力回复
 
 ID=25001
 怒涛
@@ -3492,9 +3492,9 @@ HP回復
 
 ID=50141
 自我回復力Lv1
-攻擊命中時、1%的幾率回復10%體力
+攻擊命中時、1%的幾率回復10%耐力
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-体力回复
+耐力回复
 
 ID=50151
 急速補鈣Lv1
@@ -3516,9 +3516,9 @@ Icon/Buff/Icon_Common_Buff_Immun
 
 ID=50181
 高空Lv1
-跳躍時、1%的幾率回復5%體力
+跳躍時、1%的幾率回復5%耐力
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-体力回复
+耐力回复
 
 ID=50191
 格鲁斯的逆鳞Lv1
@@ -3672,15 +3672,15 @@ SG回復
 
 ID=53112
 自身回復力Ⅰ
-攻擊命中時、5%的幾率中回復5%體力。（冷卻時間10秒）
+攻擊命中時、5%的幾率中回復5%耐力。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53113
 自身回復力Ⅱ
-攻擊命中時、5%的幾率中回復10%體力。（冷卻時間10秒）
+攻擊命中時、5%的幾率中回復10%耐力。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53121
 急速补钙Ⅰ
@@ -3714,9 +3714,9 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53133
 高空Ⅰ
-跳躍時，10%的幾率回復5%體力。（冷卻時間10秒）
+跳躍時，10%的幾率回復5%耐力。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53141
 格鲁斯的逆鳞Ⅰ
@@ -3822,9 +3822,9 @@ HP回復
 
 ID=53203
 秘密的呼吸法Ⅰ
-受到攻擊時、回復5%體力。（冷卻時間20秒）
+受到攻擊時、回復5%耐力。（冷卻時間20秒）
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53211
 怪鸟的翅膀Ⅰ
@@ -3894,15 +3894,15 @@ HP回復
 
 ID=53281
 舞动之影Ⅰ
-受到攻撃時、體力回復80%。（冷卻時間30秒）
+受到攻撃時、耐力回復80%。（冷卻時間30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53282
 舞动之影Ⅱ
-受到攻撃時、體力回復90%。（冷卻時間30秒）
+受到攻撃時、耐力回復90%。（冷卻時間30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53283
 屏障全开Ⅰ
@@ -3918,15 +3918,15 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53292
 燃料节约系统Ⅰ
-20秒中回復10%體力。
+20秒中回復10%耐力。
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53293
 燃料节约系统Ⅱ
-15秒中回復20%體力。
+15秒中回復20%耐力。
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53301
 決死之擊Ⅰ
@@ -4068,9 +4068,9 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53403
 寂静的愈合Ⅰ
-空中攻撃命中時、體力回復5%。（冷卻時間10秒）
+空中攻撃命中時、耐力回復5%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53411
 哪裡都可以Ⅰ
@@ -4644,39 +4644,39 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53599
 自身回復力Ⅰ
-攻撃命中時、5%的幾率中回復7%體力。
+攻撃命中時、5%的幾率中回復7%耐力。
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53600
 自身回復力Ⅱ
-攻撃命中時、5%的幾率中回復12%體力。
+攻撃命中時、5%的幾率中回復12%耐力。
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53601
 自我回復力Ⅲ
-攻撃命中時、5%的幾率中回復17%體力。
+攻撃命中時、5%的幾率中回復17%耐力。
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53602
 自身回復力Ⅰ
-攻撃命中時、5%的幾率中回復9%體力。
+攻撃命中時、5%的幾率中回復9%耐力。
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53603
 自身回復力Ⅱ
-攻撃命中時、5%的幾率中回復14%體力。
+攻撃命中時、5%的幾率中回復14%耐力。
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53604
 自我回復力Ⅲ
-攻撃命中時、5%的幾率中回復19%體力。
+攻撃命中時、5%的幾率中回復19%耐力。
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53605
 急速补钙Ⅰ
@@ -5208,39 +5208,39 @@ HP増加
 
 ID=53700
 燃料节约系统Ⅰ
-裝備時、每5.5秒回復10%體力。
+裝備時、每5.5秒回復10%耐力。
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53701
 燃料节约系统Ⅱ
-裝備時、每5.5秒回復15%體力。
+裝備時、每5.5秒回復15%耐力。
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53702
 能源節約系統Ⅲ
-裝備時、每5.5秒回復20%體力。
+裝備時、每5.5秒回復20%耐力。
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53703
 燃料节约系统Ⅰ
-裝備時、每5.5秒回復15%體力。
+裝備時、每5.5秒回復15%耐力。
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53704
 燃料节约系统Ⅱ
-裝備時、每5.5秒回復20%體力。
+裝備時、每5.5秒回復20%耐力。
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53705
 能源節約系統Ⅲ
-裝備時、每5.5秒回復25%體力。
+裝備時、每5.5秒回復25%耐力。
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=53706
 別說話Ⅰ
@@ -5742,9 +5742,9 @@ HP回復
 
 ID=55118
 最高
-體力立刻回復。
+耐力立刻回復
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回复
+耐力回复
 
 ID=55119
 攻撃力増加
