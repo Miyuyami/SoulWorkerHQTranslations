@@ -1,0 +1,407 @@
+ID=15
+Stamina Recovery
+The amount of stamina recovered per second.
+
+ID=18
+Movement Speed
+Increase the player's movement speed by a certain factor.
+
+ID=19
+Attack Speed
+Increases the player's attack speed by a certain factor.
+
+ID=21
+Attack Power
+The maximum damage you can do to an enemy.
+
+ID=24
+Defense
+Reduce damage by a ratio dependent on the enemy's attack.\nDamage reduction against same level enemy: {0}%\nReduction will vary based on enemy's level.
+
+ID=26
+Accuracy
+Reduces the chances of your attack being evaded.
+
+ID=28
+Evaded Attack Damage
+The damage applied to an evaded attack.
+
+ID=29
+Critical Rate
+The chance of doing a critical hit.
+
+ID=31
+Critical Resistance
+Reduces probability of receiving critical damage.
+
+ID=35
+Critical Damage
+Additional damage from a critical attack.
+
+ID=38
+Damage Reduction
+Reduce damage from enemy attacks.
+
+ID=43
+Evasion Rate
+Increases the chance of the enemy's attack being less effective.
+
+ID=47
+Penetration
+Ignores a portion of the enemy's defense when calculating damage.
+
+ID=49
+Burn Resistance
+Decreases the chances of being burned.
+
+ID=50
+Poison Resistance
+Decreases the chances of being poisoned.
+
+ID=51
+Shock Resistance
+Decreases the chances of being shocked.
+
+ID=52
+Bleed Resistance
+Decreases the chance of bleeding.
+
+ID=53
+Stun Resistance
+Decreases the chances of being stunned.
+
+ID=54
+Paralysis Resistance
+Decreases the chances of being paralyzed.
+
+ID=11000
+Greetings
+Greet
+
+ID=11001
+Laugh
+Laugh
+
+ID=11002
+Mourn
+You weep.
+
+ID=11003
+Cheer
+You cheer.
+
+ID=11004
+Sit Down
+You sit down.
+
+ID=11005
+Dance
+You dance.
+
+ID=11006
+Taunt
+You taunt.
+
+ID=11007
+Boast
+You boast.
+
+ID=11008
+Idol
+Idol dancing.
+
+ID=11009
+Maid
+Practices serving.
+
+ID=11010
+Butler
+Practices serving.
+
+ID=11011
+Swimsuit
+Playing with the beach ball.
+
+ID=11012
+Sunbed
+Relaxing on the sunbed.
+
+ID=11013
+School Swimsuit
+It's a gesture.
+
+ID=11014
+Bunny
+Takes a pose.
+
+ID=11015
+Christmas
+Merry Christmas!
+
+ID=11016
+Knowledge of Japanese culture
+Show off your knowledge about Japanese culture.
+
+ID=20000
+Inventory
+Shows the Inventory window with the associated usable items.
+
+ID=20001
+Equipment
+Shows the Equipment window with the associated changeable equips.
+
+ID=20003
+Skill
+Shows the Skill window. Skills, A.R Cards and Gestures can be registered into quick slots. 
+
+ID=20008
+Quest
+Shows the Quest window; quests in progress and their associated background dialogue are shown.
+
+ID=20016
+Status
+Shows the Status window. You can confirm your character stats and set your title and profile details here.
+
+ID=20023
+Community
+Shows the Community List window. You can check your friends, guild members and social-related info.
+
+ID=20034
+Memorial
+Shows the Memorial Collection window; you can view your progress in collecting the required items for each set.
+
+ID=20036
+System
+Shows the system menu.
+
+ID=20038
+Progress Information
+Opens the Progress Information window.\nHere you can view your Achievements and Clearance Information as well as claiming the rewards.
+
+ID=20045
+Find Party
+Shows the Find Party window. You can recruit party members and post join requests here.
+
+ID=20053
+Supporter
+Opens the Supporter window.\nHere you can set the supporter order, equipment or summon them.
+
+ID=20055
+Guild
+Shows the Guild window.
+
+ID=20064
+Market
+Shows the Exchange Market window.
+
+ID=20065
+Ranking
+Shows the Rankings window.
+
+ID=20080
+Vehicle
+Opens and closes the vehicle window.
+
+ID=20100
+Room
+Enter your own room.
+
+ID=21000
+EXP Points
+You will receive {0} EXP.
+
+ID=21001
+Zenny
+Earn {0} Zenny.
+
+ID=21002
+Battle Points
+Obtained {0} Battle Points
+
+ID=21003
+Ether
+Earn {0} Ether.
+
+ID=21004
+Title
+[{0}] obtained [{1}].
+
+ID=30000
+Potion Registration
+A quick slot used for registering potions to instantly consume within combat.
+
+ID=30001
+Mini-Map and World Map
+Identify key information such as Quest type and progress or NPC names with the maps.
+
+ID=30002
+UI Tutorial Quests
+Recall the relevant quest information from your quest journal.
+
+ID=30003
+UI Mode Toggling
+Use the [ALT] key to switch between showing UI-related information or enabling combat controls.
+
+ID=30004
+Ether Related
+Ether is a key resource that is found from defeating monsters. It is used for item enhancement and evolution.
+
+ID=30005
+Soul Vapor Related
+Recycled Soul Vapor is obtained from defeating monsters and destroying objects.\n(Available on Quest Completion)
+
+ID=30006
+Combo Related
+By gaining combo length, additional bonuses and effects can be applied.
+
+ID=30007
+Items Related
+The cube can be a general cube and a rare cube that has better valuables.\nMany items can be earned from one cube.
+
+ID=30008
+Break Skill Related
+Upon reaching a certain Soul Vapor threshold, you can use the Break Skill.
+
+ID=30009
+Create Party/Party Play
+When entering a dungeon with a party, additional boosts will be applied and combat will be easier.
+
+ID=30010
+SP Use
+By using SP, you can learn new skills or enhance their attributes and abilities.
+
+ID=30011
+Shop
+Items that can be purchased or sold within shops.
+
+ID=30012
+Mail
+You can send mail with attachments to your friends.
+
+ID=30013
+Bank
+Use the Bank to safely store your items and Zenny.
+
+ID=30014
+Crafting
+Collect blueprints and prerequisite materials to craft usable items.
+
+ID=30015
+Enhance
+By using enhancement class materials with ether, equipment can be upgraded.
+
+ID=30016
+Dismantling 
+You can dismantle unwanted items for usable materials.
+
+ID=30017
+Special Mission
+Daily missions can be completed daily for S Coins which can be spent at the S Coin Shop, Vending Machine.
+
+ID=30018
+Secret Mission
+Sometimes, certain areas within the dungeon will unlock secret missions. You can complete them to earn additional rewards.
+
+ID=30019
+Record
+You can receive rewards in the Progress Information window for completing achievements.
+
+ID=30020
+Memorial
+In some dungeons you can find Memorials, you can re-enter those until you get them. You can claim a reward in the Progress Information windows after completing a Memorial Collection.
+
+ID=30021
+Clearance
+The Clearance increases each time you clear a dungeon. This will also increase the associated town's Clearance. 
+
+ID=30022
+Title
+You can express your personality by compounding titles together.
+
+ID=30023
+Fatigue Level
+Fatigue is consumed in proportion to the difficulty level and absolute level of the dungeon for each map; when none remains, you may not enter the dungeon.
+
+ID=30024
+Help
+Click the Help icon to display relevant information associated with the UI pane or window.
+
+ID=30025
+Favorability Level
+A particular feature of NPCs. Increase their favor by using their services or making purchases. As it rises, additional benefits can be obtained.
+
+ID=30026
+Supporter Related
+Add various supporters to participate in combat when playing alone in dungeons.
+
+ID=30027
+Room
+A personal room for Soulworkers only, it is fully customizable. It is a hospitable place for guests and friends to enjoy.
+
+ID=30028
+Guild
+A guild can be used to extend contact, share info and increase the gaming experience.
+
+ID=30029
+Item Durability
+As the item's durability decreases, so does its effectiveness.
+
+ID=30030
+Sub-Weapon
+Additional actions are possible when using a sub-weapon.
+
+ID=30031
+Artifact
+Collect a variety of artifact accessories to improve the character's combat aptitude.
+
+ID=30032
+Familar
+An item that is especially rate that can be socked into Soul Weapons to increase their effectiveness, the Familar.
+
+ID=30033
+A.R Card Synthesis/Release
+You can combine A.R Key Card items with a card to synthesize a higher grade A.R card or make one.
+
+ID=30034
+Obtaining A.R Cards
+Using an A.R Card will register it to the Skill window.\nOnce registered, A.R Cards can be returned by Releasing them.
+
+ID=30035
+A.R Registration and Usage
+Registered A.R cards in the Skill window can be applied to quick slots to be instantly deployed in combat for immediate benefits.
+
+ID=30036
+End Content
+The Remaining Content
+
+ID=30037
+Loot Record
+Loot Records Attained: {0} %
+
+ID=30038
+Dungeon Record
+Dungeon Records Attained: {0}%
+
+ID=30039
+Combat Records
+Combat Records Attained: {0} %
+
+ID=30040
+Quest Record
+Quest Records Attained: {0} %
+
+ID=30041
+Play Record
+Play Records Attained: {0} %
+
+ID=30042
+Social Record
+Social Records Attained: {0} %
+
+ID=30043
+Supporter Usage
+Supporters can be used by pressing the [F3] key in a dungeon or by summoning them from supporter's window [Y].
+
+ID=30044
+Raid Record
+Raid Records Attained: {0}%
