@@ -2,7 +2,7 @@
 Homepage: http://soulworkerhq.com
 
 ## How to contribute?
-  1. Join us on [Discord](https://discord.gg/0elCk6HCY5XkLg0t) and PM Miyu or Hiromi.
+  1. Join us on [Discord](https://discord.gg/0elCk6HCY5XkLg0t) and DM Kanra#4697.
   2. For now we are using [Transifex](https://www.transifex.com/hiromi-corp/swhq) to translate for now because there are lots of edits to be made.
 
 ## GUIDELINES for Transifex
