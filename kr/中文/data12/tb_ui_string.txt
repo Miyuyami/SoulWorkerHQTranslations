@@ -1793,7 +1793,7 @@ ID=915
 魔法攻击影响魔法减伤
 
 ID=916
-回避物理攻击率受爆率影响
+会影响物理攻撃失敗率和暴击率
 
 ID=917
 HP 影响物理防御力
@@ -3002,7 +3002,7 @@ ID=3202
 是否使用 [{0}]？\n(你会获得里面的东西)
 
 ID=3203
-你想使用[{0}]？\n(打开 {1} 之后将会获得里面的物品)
+要使用 [{0}] 吗？\n(打开 {1} 个后，将会获得里面的物品)
 
 ID=3204
 你不能使用该物品，背包空间不足.
@@ -3404,7 +3404,7 @@ ID=5811
 <font color='#FFFFFF' size='30'>提示: </font>随着你对游戏的深入和达成成就，可以在 <font color='#00D8FF'>进程</font> <font color='#00ff9c'>[L]</font> 获得相应的成就报酬。
 
 ID=5812
-<font color='#FFFFFF' size='30'>提示: </font>在城镇中给予 <font color='#00ff9c'>艾欧 </font> 必要的材料， 你可以制作出你想要的<font color='#00D8FF'>A.R 卡片</font>。
+<font color='#FFFFFF' size='30'>提示: </font>在城镇中给 <font color='#00ff9c'>艾欧 </font> 必要的材料， 你可以制作出你想要的 <font color='#00D8FF'>A.R 卡片</font>。
 
 ID=5813
 <font color='#FFFFFF' size='30'>提示: </font>将你的 <font color='#00D8FF'>A.R 卡片</font> 放进你的卡片插槽后，在战斗的时候会自动发动其效果。
@@ -3425,13 +3425,13 @@ ID=5818
 <font color='#FFFFFF' size='30'>提示: </font><font color='#00D8FF'>[A.R 卡片]</font> 和 <font color='#00D8FF'>[技能]</font> 可在 <font color='#00ff9c'>技能 [K]</font>中查看。\n你可以把技能和AR卡放在不同的技能热键。
 
 ID=5819
-<font color='#FFFFFF' size='30'>提示: </font>有效利用你的 <font color='#00D8FF'>技能表</font> 来提高战斗效率吧
+<font color='#FFFFFF' size='30'>提示: </font>利用你的 <font color='#00D8FF'>技能连招表</font> ，在战斗中会获得有利的效果哦。
 
 ID=5820
 <font color='#FFFFFF' size='30'>提示: </font>进阶你角色的 <font color='#00D8FF'>被动技能</font> 的话，你的基础属性能得以强化。
 
 ID=5821
-<font color='#FFFFFF' size='30'>提示: </font> <font color='#00D8FF'>通知图标</font> 在你的屏幕左下角会通知各种事件，可以确认有什么信息方便查看。
+<font color='#FFFFFF' size='30'>提示: </font> <font color='#00D8FF'>通知图标</font> 在你的屏幕左下角，会提醒你查看各种事项。
 
 ID=5822
 <font color='#FFFFFF' size='30'>提示: </font>你可以自由更改在你名字之前的 <font color='#00D8FF'>称号</font> ，在 <font color='#00D8FF'>资讯</font> <font color='#00ff9c'>[P]</font> 可以选择你心仪的文字作为你的称号。
@@ -3443,7 +3443,7 @@ ID=5824
 <font color='#FFFFFF' size='30'>提示:</font><font color='#00D8FF'>城镇占有率</font>、会影响你在副本的占有率。
 
 ID=5825
-<font color='#FFFFFF' size='30'>提示: </font>进入副本时，使用 <font color='#00D8FF'>[自动匹配]</font> 可以自动寻找队伍
+<font color='#FFFFFF' size='30'>提示: </font>选择副本时，使用 <font color='#00D8FF'>[自动匹配]</font> 可以自动寻找队伍
 
 ID=5826
 <font color='#FFFFFF' size='30'>提示: </font>你可以查看你的 <font color='#00D8FF'>资讯</font> <font color='#00ff9c'>[P]</font>，可以查看你的角色属性与能力。
@@ -3455,10 +3455,10 @@ ID=5828
 <font color='#FFFFFF' size='30'>提示: </font>满级后， <font color='#00ff9c'>[阶级]</font> 将启用.
 
 ID=5829
-<font color='#FFFFFF' size='30'>提示: </font>当前频道已满， 请\n<font color='#00D8FF'>更改频道</font> 在你小地图右上角点击切换.
+<font color='#FFFFFF' size='30'>提示: </font>当前频道已满， 请在你小地图右上角点击切换  <font color='#00D8FF'>更改频道</font> 
 
 ID=5830
-<font color='#FFFFFF' size='30'>提示: </font>BP <font color='#00ff9c'>[BP]</font> 可以在 <font color='#00D8FF'>第六区域</font> 或 <font color='#00D8FF'>Steel Grave</font>获得.
+<font color='#FFFFFF' size='30'>提示: </font>战斗点数 <font color='#00ff9c'>[BP]</font> 可以在 <font color='#00D8FF'>第六区域</font> 或 <font color='#00D8FF'>Steel Grave</font> 中获得.
 
 ID=5831
 <font color='#FFFFFF' size='30'>提示: </font>你可以在<font color='#00D8FF'>第六区域</font>的 <font color='#00ff9c'>BP商店</font>中购买你想要的特殊物品。 
@@ -3542,7 +3542,7 @@ ID=5857
 <font color='#FFFFFF' size='30'>提示: </font>使用 <font color='#00D8FF'>S.F.L 传送直升机</font> 可以安全通过 <font color='#00D8FF'>第六区域</font>，传送到其他安全区域。
 
 ID=5858
-<font color='#FFFFFF' size='30'>提示: </font>用于增强或制作的材料和成分可从中获得 <font color='#00D8FF'>真空箱 </font> ，有时出现在 <font color='#00D8FF'>第六区域</font>。
+<font color='#FFFFFF' size='30'>提示: </font>在 <font color='#00D8FF'>第六区域</font> 使用随机出现的 <font color='#00D8FF'>空白箱 </font> ，可以获得一些强化和制作素材 。
 
 ID=5859
 <font color='#FFFFFF' size='30'>提示: </font>当你达到最高等级时， 你可以去尝试挑战被称为「異常空白」的 <font color='#00D8FF'>Causel Raid</font> ，也可以与你的伙伴共同挑战。
@@ -3593,7 +3593,7 @@ ID=5874
 <font color='#FFFFFF' size='30'>提示: </font>随着你对游戏的深入和达成成就，可以在 <font color='#00D8FF'>进程</font> <font color='#00ff9c'>[L]</font> 获得相应的成就报酬。
 
 ID=5875
-<font color='#FFFFFF' size='30'>提示: </font>在城镇中给予 <font color='#00ff9c'>艾欧 </font> 必要的材料， 你可以制作出你想要的<font color='#00D8FF'>A.R 卡片</font>。
+<font color='#FFFFFF' size='30'>提示: </font>在城镇中给 <font color='#00ff9c'>艾欧 </font> 必要的材料， 你可以制作出你想要的 <font color='#00D8FF'>A.R 卡片</font>。
 
 ID=5876
 <font color='#FFFFFF' size='30'>提示: </font>将你的 <font color='#00D8FF'>A.R 卡片</font> 放进你的卡片插槽后，在战斗的时候会自动发动其效果。
@@ -3632,7 +3632,7 @@ ID=5887
 <font color='#FFFFFF' size='30'>提示:</font><font color='#00D8FF'>城镇占有率</font>、会影响你在副本的占有率。
 
 ID=5888
-<font color='#FFFFFF' size='30'>提示: </font>进入副本时，使用 <font color='#00D8FF'>[自动匹配]</font> 可以自动寻找队伍
+<font color='#FFFFFF' size='30'>提示: </font>选择副本时，使用 <font color='#00D8FF'>[自动匹配]</font> 可以自动寻找队伍
 
 ID=5889
 <font color='#FFFFFF' size='30'>提示: </font>你可以查看你的个人资讯在 <font color='#00D8FF'>资讯</font> <font color='#00ff9c'>[P]</font>。
@@ -3647,7 +3647,7 @@ ID=5892
 <font color='#FFFFFF' size='30'>提示: </font>如果当前频道已满的话， 请在你的小地图上方 来 <font color='#00D8FF'>更改频道</font> 。
 
 ID=5893
-<font color='#FFFFFF' size='30'>提示: </font>BP <font color='#00ff9c'>[BP]</font> 可以在 <font color='#00D8FF'>第六区域</font> 或 <font color='#00D8FF'>Steel Grave</font>获得.
+<font color='#FFFFFF' size='30'>提示: </font>战斗点数 <font color='#00ff9c'>[BP]</font> 可以在 <font color='#00D8FF'>第六区域</font> 或 <font color='#00D8FF'>Steel Grave</font> 中获得.
 
 ID=5894
 <font color='#FFFFFF' size='30'>提示: </font>你可以在<font color='#00D8FF'>第六区域</font>的 <font color='#00ff9c'>BP商店</font>中购买你想要的特殊物品。 
@@ -5630,7 +5630,7 @@ ID=18021
 成功出售之后会收取你该物品总价格的 {0}% 的税.
 
 ID=18022
-你的物品是 <font color='#A566FF'>稀有度高</font>的物品。当你卖出后，你将会获得 {0} . 你确定要出售吗？
+你的物品是 <font color='#A566FF'>稀有度高</font>的物品。\n卖出后，将会获得 {0} . \n 你确定要出售吗？
 
 ID=18023
 你选择的东西包括 <font color='#A566FF'>稀有度高</font> 物品. 你是否要分解它？ 该操作是不可逆的，将无法还原.
@@ -5846,7 +5846,7 @@ ID=18186
 可插{0}个胸针 (可扩展 {1} 个)
 
 ID=18187
-表情 「{0}」解锁
+表情 「{0}」已解锁
 
 ID=18188
 没有什么物品
@@ -6371,7 +6371,7 @@ ID=19507
 和风的知识
 
 ID=19508
-[Amazing Gesture] Available
+[惊喜表情] 可用
 
 ID=20010
 打招呼
@@ -6520,6 +6520,15 @@ ID=20137
 ID=20138
 {0}在愉快地表现出和风的知识
 
+ID=20142
+ショコラティア
+
+ID=20143
+チョコ…あげる。
+
+ID=20144
+{0}がチョコを渡しています。
+
 ID=20300
 该CH非常拥挤、无法移动到该频道。请选择其他的CH。
 
@@ -6614,34 +6623,34 @@ ID=21016
 装备后，在30分钟内 +{0} 攻击力，+{1} 防御力
 
 ID=21017
-支援者任务 成功 [支援者: Hugh]
+可执行的支援者任务 [支援者: 修]
 
 ID=21018
-支援者任务 成功 [支援者: Ryu]
+可执行的支援者任务 [支援者: 隆]
 
 ID=21019
-支援者任务 成功 [支援者: Haidinger]
+可执行的支援者任务 [支援者: 海丁格]
 
 ID=21020
-支援者任务 成功 [支援者: Miriam]
+可执行的支援者任务 [支援者: 米莉亞姆]
 
 ID=21021
-支援者任务 成功 [支援者: Auto Punisher]
+可执行的支援者任务 [支援者: 自動制裁者]
 
 ID=21022
-支援者任务 成功 [支援者: Cleany]
+可执行的支援者任务 [支援者: 克蘭尼]
 
 ID=21023
-支援者任务 成功 [支援者: Maxim]
+可执行的支援者任务 [支援者: 馬克西姆]
 
 ID=21024
-支援者任务 成功 [支援者: Lucy]
+可执行的支援者任务 [支援者: 露西]
 
 ID=21025
-支援者任务 成功 [支援者: Ralph]
+可执行的支援者任务 [支援者: 拉爾夫]
 
 ID=21026
-支援者任务 成功 [支援者: Sensen]
+可执行的支援者任务 [支援者: 森先]
 
 ID=21027
 完成
@@ -6698,13 +6707,13 @@ ID=21053
 该物品无法使用因为你的耐力已满.
 
 ID=21054
-HP 回复药水2级可以购买.
+HP比例回复药水2级可以购买.
 
 ID=21055
-HP 回复药水2-3级可以购买.
+HP比例回复药水2-3级可以购买.
 
 ID=21056
-HP 回复药水2-4级可以购买.
+HP比例回复药水2-4级可以购买.
 
 ID=21057
 SG 50% 回复可以购买了.
@@ -7028,7 +7037,7 @@ ID=22110
 手柄操作
 
 ID=22111
-冲刺回避
+回避后冲刺使用
 
 ID=22112
 杂项设定
@@ -9533,7 +9542,7 @@ ID=26318
 暴击时，1%机率5秒内+{0}%敌防御度贯穿
 
 ID=26319
-受到攻击时，15%机率3秒内、+{0}回避度
+受到攻击时，15%机率的3秒内、+{0}回避度
 
 ID=26320
 回避时，10%机率的10秒内、+{0}%攻击Miss伤害
@@ -12863,7 +12872,7 @@ ID=40107
 请跟本傑明会话
 
 ID=40108
-请通过使用回避键使激光陷波器回避.
+使用回避键，通过前方的屏障。
 
 ID=40109
 请在单个技能组中使用所有三种技能.
@@ -13142,7 +13151,7 @@ ID=40204
 班车定时来回出现，请寻找一个安全的地方进行战斗.
 
 ID=40205
-班车定时来回出现，在战斗的时候记得及时回避。
+班车会定时来回，在战斗的时候注意及时回避。
 
 ID=40206
 激活中央控制装置，停止班车继续运行.
@@ -13187,7 +13196,7 @@ ID=40219
 打败所有敌军，并打开巨大的板子.
 
 ID=40220
-请回避好炸弹的穿梭.
+注意躲避炸弹的穿梭。
 
 ID=40221
 敌军即将出现.\n激活装置停止敌人继续出现，并打倒敌军.
@@ -13232,19 +13241,19 @@ ID=40234
 未定
 
 ID=40235
-敌军的HP正在回复.\n 请迅速中和他们以防继续回复
+敌军的HP正在回复.\n 请优先解决完治療繭
 
 ID=40236
 如果超过 1-2 个 S.F.L 保护装置被破坏，充能装置将会停止工作
 
 ID=40237
-经过一定时间，敌方不会再出来.
+经过一定时间，敌方不会出来。
 
 ID=40238
-东面出现敌人.
+东侧区域出现敌人。
 
 ID=40239
-西边出现敌人.
+西侧区域出现敌人.
 
 ID=40240
 东部地区的敌人已清除.\n 一段时间后，敌人将会重生.
@@ -13262,7 +13271,7 @@ ID=40244
 请在有限的时间内占领最后的疯狂窥视者所处的实验室.\n如果失败了、入侵者警报装置将会启动。
 
 ID=40245
-在60秒内破坏所有激光机关.
+在60秒内，破坏所有激光机关.
 
 ID=40246
 陷阱可以根据其类型决定他的战斗方式.
@@ -13358,7 +13367,7 @@ ID=40276
 Crawler将通过自毁来恢复敌人的HP。
 
 ID=40277
-在Dark Worm，每一个真空脉冲将会增加攻击力与防御力，
+在空白面紗中，每一个真空脉冲将会增加攻击力与防御力。
 
 ID=40278
 打败敌人 控制器将会唤醒.
@@ -13499,7 +13508,7 @@ ID=40402
 打倒敌军同时避开陷阱。
 
 ID=40403
-请去回避陷阱，将在一定时间内成功地给予奖励。
+注意回避陷阱并尽快通过此地。一定时间内通过后会给予奖励。
 
 ID=40404
 要破坏红色中央诱惑石的话，请解决召唤蓝色/绿色诱惑石所召唤的敌军。
@@ -16691,7 +16700,7 @@ ID=49623
 你可以设置比现在更高的分辨率.
 
 ID=49624
-如何回避
+[输入回避键时固定]使用
 
 ID=49625
 基本键位配置
