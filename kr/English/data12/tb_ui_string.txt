@@ -2144,7 +2144,7 @@ ID=1107
 Voice
 
 ID=1108
-Actio
+Action
 
 ID=1109
 Appearance
@@ -6373,6 +6373,9 @@ Knowledge of Japanese culture
 ID=19508
 [Amazing Gesture] Available
 
+ID=19511
+Candy Knight
+
 ID=20010
 Greet
 
@@ -6528,6 +6531,15 @@ I'm giving you... chocolate.
 
 ID=20144
 {0} gives chocolate.
+
+ID=20151
+White Day
+
+ID=20152
+You've come to return the favor.
+
+ID=20153
+{0} is returning the favor.
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -9560,7 +9572,7 @@ ID=26324
 When hit by boss monsters, 10% chance of +{0}% Damage Reduction for 5s
 
 ID=26325
-On evasion, +{0}% Attack for 5s
+On evasion, the next attack has +{0}% Attack
 
 ID=26326
 On evasion, 5% chance of +{0} HP
@@ -10190,7 +10202,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 26/Feb/2017 11:50 PM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 9/Mar/2017 1:20 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -16754,7 +16766,7 @@ ID=49721
 No PIN has been set.
 
 ID=49722
-Incorrect PIN.
+Not a valid PIN
 
 ID=49723
 The PIN is a unique 6-digit number.
@@ -16772,7 +16784,7 @@ ID=49727
 You have entered the wrong PIN 3 times, the account has been locked.\nFollow the instructions on the homepage in order to reset your PIN.
 
 ID=49728
-Incorrect PIN.
+Not a valid PIN
 
 ID=49729
 The trading PIN must be a unique 4-digit number.
