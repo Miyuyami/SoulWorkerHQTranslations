@@ -5817,14 +5817,14 @@ On hit, 3% chance of Super Armor for 3s. (15s cooldown)
 
 ID=30042
 Dashing Sprint Ⅰ
-Every 15 seconds, there is a 10% chance of increasing movement speed by 10% for 2 sec.
+Every 15 seconds, 10% chance of +10% Movement Speed for 2s.
 .
 0
 0
 
 ID=30043
 Dashing Sprint Ⅱ
-Every 13 seconds, there is a 20% chance of increasing movement speed by 10% for 2 sec.
+Every 13 seconds, 20% chance of +10% Movement Speed for 2s.
 .
 0
 0
@@ -6314,14 +6314,14 @@ When hit, +100% Defense, -50% Attack for 4s. (30s cooldown)
 
 ID=30292
 Fuel Saving System Ⅰ
-Every 20 seconds, recover 10% stamina.
++10% Stamina every 20 seconds.
 .
 0
 0
 
 ID=30293
 Fuel Saving System Ⅱ
-Every 15 seconds, recover 20% stamina.
++20% Stamina every 15 seconds.
 .
 0
 0
@@ -6335,14 +6335,14 @@ On hit, -50% Defense, +15% Attack for 5s. (30s cooldown)
 
 ID=30302
 Be Quiet Ⅰ
-Every 60 seconds, recover 20% SG.
++20% SG every 60 seconds.
 .
 0
 0
 
 ID=30303
 Be Quiet Ⅱ
-Every 60 seconds, recover 30% SG.
++30% SG every 60 seconds.
 .
 0
 0
@@ -6433,7 +6433,7 @@ Invoke an area of flames to burn enemies within the vicinity. (30s cooldown)
 
 ID=30351
 Fire Bark Ⅲ
-Invoke an area of flames to burn enemies within the vicinity. (30s cooldown, stackable 3 times)
+Invoke an area of flames to burn enemies within the vicinity. (30s cooldown, max 3 stacks)
 .
 0
 0

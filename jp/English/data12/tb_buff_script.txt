@@ -114,7 +114,7 @@ Cooldown↓
 
 ID=301
 Divine Protection
-Recover HP 10% per second.
++10% HP per second.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -1068,13 +1068,13 @@ Movement Speed ↑
 
 ID=5551
 Sprinter Attribute A Ⅰ
-Recover 2% SG per second.
++2% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=5552
 Sprinter Attribute A Ⅱ
-Recover 3% SG per second.
++3% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
@@ -1530,25 +1530,25 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=6542
 Best Tempo Ⅱ
-Recover 6% SG per second.
++6% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6543
 Best Tempo Ⅲ
-Recover 8% SG per second.
++8% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6544
 Best Tempo Ⅳ
-Recover 10% SG per second.
++10% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6545
 Best Tempo Ⅴ
-Recover 15% SG per second.
++15% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
@@ -1638,19 +1638,19 @@ Attack Power ↑
 
 ID=6994
 Sorrowful Note Ⅰ
-Recover 1% SG every 2 seconds.
++1% SG every 2 seconds.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6995
 Sorrowful Note Ⅱ
-Recover 2% SG every 2 seconds.
++2% SG every 2 seconds.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6996
 Sorrowful Note Ⅲ
-Recover 3% SG every 2 seconds.
++3% SG every 2 seconds.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
@@ -1878,19 +1878,19 @@ Icon/Buff/Icon_Common_Buff_Warm
 
 ID=7508
 Blaze Ⅰ
-HP reduce per second.
+Lose HP every second.
 Icon/Buff/Icon_Common_Debuff_Bleed
 0
 
 ID=7509
 Blaze Ⅱ
-HP reduce per second.
+Lose HP every second.
 Icon/Buff/Icon_Common_Debuff_Bleed
 0
 
 ID=7510
 Blaze Ⅲ
-HP reduce per second.
+Lose HP every second.
 Icon/Buff/Icon_Common_Debuff_Bleed
 0
 
@@ -3060,7 +3060,7 @@ HP↓
 
 ID=35011
 +HP
-HP -10% per second for 2 seconds.
+-10% HP per second for 2 seconds
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -3198,7 +3198,7 @@ Invincible
 
 ID=35306
 Burn
-HP reduce per second.
+Lose HP every second.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
@@ -3552,7 +3552,7 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=51003
 Recover
-Recover 5% HP per second.
++5% HP per second.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -3918,13 +3918,13 @@ Defense ↑
 
 ID=53292
 Fuel Saving System Ⅰ
-Recover 10% Stamina for every 20 seconds.
++10% Stamina every 20 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53293
 Fuel Saving System Ⅱ
-Recover 20% Stamina for every 15 seconds.
++20% Stamina every 15 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
@@ -3936,13 +3936,13 @@ Attack Power ↑
 
 ID=53302
 Be Quiet Ⅰ
-Recover 20% SG for every 60 seconds.
++20% SG every 60 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53303
 Be Quiet Ⅱ
-Recover 30% SG for every 60 seconds.
+30% SG every 60 seconds.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
@@ -4200,13 +4200,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53511
 Radio Star Ⅰ
-In District 6, every 10 seconds, +3% Attack for 3s.
+In District 6, +3% Attack every 10 seconds for 3s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53512
 Radio Star Ⅱ
-In District 6, every 10 seconds, +5% Attack for 5s.
+In District 6, +5% Attack every 10 seconds for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
@@ -4320,37 +4320,37 @@ Attack ↑
 
 ID=53545
 Hit Fever Ⅰ
-Every 100 hit combo (up to 3 times), Attack Power +3% for 15 seconds.(Stackable 3 times)
+Every 100 hit combo (max 300), +3% Attack Power for 15s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53546
 Hit Fever Ⅱ
-Every 100 hit combo (up to 3 times), Attack Power +4% for 15 seconds.(Stackable 3 times)
+Every 100 hit combo (max 300), +4% Attack Power for 15s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53547
 Hit Fever Ⅲ
-Every 100 hit combo (up to 3 times), Attack Power +5% for 15 seconds.(Stackable 3 times)
+Every 100 hit combo (max 300), +5% Attack Power for 15s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53548
 Hit Fever Ⅰ
-Every 100 hit combo (up to 3 times), Attack Power +4% for 15 seconds.(Stackable 3 times)
+Every 100 hit combo (max 300), +4% Attack Power for 15s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53549
 Hit Fever Ⅱ
-Every 100 hit combo (up to 3 times), Attack Power +5% for 15 seconds.(Stackable 3 times)
+Every 100 hit combo (max 300), +5% Attack Power for 15s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
 ID=53550
 Hit Fever Ⅲ
-Every 100 hit combo (up to 3 times), Attack Power +6% for 15 seconds.(Stackable 3 times)
+Every 100 hit combo (max 300), +6% Attack Power for 15s. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Power ↑
 
@@ -4920,37 +4920,37 @@ HP ↑
 
 ID=53652
 Surprise Attack Pro Ⅰ
-On critical hit, 20% chance of SG recovering by 10% (Cooldown : 30 seconds)
+On critical hit, 20% chance of +10% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53653
 Surprise Attack Pro Ⅱ
-On critical hit, 20% chance of SG recovering by 13% (Cooldown : 30 seconds)
+On critical hit, 20% chance of +13% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53654
 Surprise Attack Pro IIII
-On critical hit, 20% chance of SG recovering by 16% (Cooldown : 30 seconds)
+On critical hit, 20% chance of +16% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53655
 Surprise Attack Pro Ⅰ
-On critical hit, 20% chance of SG recovering by 12% (Cooldown : 30 seconds)
+On critical hit, 20% chance of +12% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53656
 Surprise Attack Pro Ⅱ
-On critical hit, 20% chance of SG recovering by 15% (Cooldown : 30 seconds)
+On critical hit, 20% chance of +15% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53657
 Surprise Attack Pro IIII
-On critical hit, 20% chance of SG recovering by 18% (Cooldown : 30 seconds)
+On critical hit, 20% chance of +20% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
@@ -5730,7 +5730,7 @@ Defense ↑
 
 ID=55116
 This way
-Recover 2% HP per second for 10 seconds.
++2% HP per second for 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
@@ -5874,7 +5874,7 @@ Movement Speed ↓
 
 ID=63009
 HP↓
-HP -10% every 2 seconds for 10 seconds.
+-10% HP every 2 seconds for 10 seconds.
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP↓
 
@@ -5988,7 +5988,7 @@ Attack Power ↑
 
 ID=63028
 HP↓
-HP -20% every 2 seconds for 20 seconds.
+-20% HP every 0.5 seconds for 20 seconds.
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP↓
 

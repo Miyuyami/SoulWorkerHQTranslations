@@ -4717,14 +4717,14 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike_A
 0
 
 ID=21061
-電荷Ⅰ
+充能Ⅰ
 [特性情報]\n積蓄的力量追加到劍氣放出。\n蓄能時、本来的剣気的0.7倍威力發射出2倍的威力。\n\n[操作方法]\n長按技能對應的技能鍵。
 最大充能段階：[2]+1
 Icon/Skill/SoulumSword/Icon_SSword_Skill_WindBreak_A
 0
 
 ID=21062
-電荷Ⅱ
+充能Ⅱ
 [特性情報]\n積蓄的力量追加到劍氣放出。\n蓄能時、本来的剣気的0.7倍威力發射出2倍的威力。\n最大充能時、劍氣以三倍威力發射。\n\n[操作方法]\n長按技能對應的技能鍵。
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_WindBreak_A
@@ -4906,8 +4906,8 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_Splinter_A
 0
 
 ID=23031
-電荷Ⅰ
-[特性情報：電荷]\n電荷性能增加1.8倍。\n跟敵人一起上空。
+充能Ⅰ
+[特性情報：充能]\n電荷性能增加1.8倍。\n跟敵人一起上空。
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ScytheCutter_A
 0
@@ -5208,7 +5208,7 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister_A
 
 ID=24071
 衝撃弾Ⅰ
-[特性情報：攻撃変更]\n傷害量：[525%]\nSA破壊量：[44%]\n\n既存的技能効果消失、蓄力后的電荷彈向前方發射。
+[特性情報：攻撃変更]\n傷害量：[525%]\nSA破壊量：[44%]\n\n既存的技能効果消失、充能后的充能彈向前方發射。
 傷害量：[525%]+53%\nSA破壊量：[44%]+4%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_A
 0
@@ -5229,21 +5229,21 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_A
 
 ID=24074
 範囲増加Ⅰ
-[特性情報]\n攻擊範圍增加。\n\n電荷會產生巨大的波浪，攻擊敵人。
+[特性情報]\n攻擊範圍增加。\n\n充能的能量會產生巨大的波浪，攻擊敵人。
 傷害量+79%。\nSA破壊量+7%。
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_B
 0
 
 ID=24075
 範囲増加Ⅱ
-[特性情報]\n傷害量増加値：[79%]\nSA破壊量増加値：[7%]\n攻擊範圍增加。\n\n電荷會產生巨大的波浪，攻擊敵人。
+[特性情報]\n傷害量増加値：[79%]\nSA破壊量増加値：[7%]\n攻擊範圍增加。\n\n充能的能量會產生巨大的波浪，攻擊敵人。
 傷害量増加値：[79%]+184%\nSA破壊量増加値：[7%]+15%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_B
 0
 
 ID=24076
 範囲増加Ⅲ
-[特性情報]\n傷害量増加値：[263%]\nSA破壊量増加値：[22%]\n攻擊範圍增加。\n\n電荷會產生巨大的波浪，攻擊敵人。
+[特性情報]\n傷害量増加値：[263%]\nSA破壊量増加値：[22%]\n攻擊範圍增加。\n\n充能的能量會產生巨大的波浪，攻擊敵人。
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_B
 0
@@ -6404,14 +6404,14 @@ ID=30332
 0
 
 ID=30333
-跑步电荷Ⅰ
+跑步蓄力Ⅰ
 衝刺使用時、10%的機率SG10%回复。(冷卻時間5秒)
 .
 0
 0
 
 ID=30341
-跑步电荷Ⅱ
+跑步蓄力Ⅱ
 衝刺使用時、20%的機率SG10%回复。(冷卻時間3秒)
 .
 0

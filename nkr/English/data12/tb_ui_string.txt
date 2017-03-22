@@ -5750,10 +5750,10 @@ ID=18063
 Remaining seals {0} dropped by {1}.
 
 ID=18064
-{0}:{1} are unusable because they still have entry uses left.
+{0}: {1} are unusable because they still have entry uses left.
 
 ID=18068
-Dungeon limits have reset. You can enter {0}:{1}.
+Dungeon limits have reset. You can enter {0}: {1}.
 
 ID=18069
 Do you want to change your character name {0}? It consumes 1 {0}.
@@ -9572,7 +9572,7 @@ ID=26324
 When hit by boss monsters, 10% chance of +{0}% Damage Reduction for 5s
 
 ID=26325
-On evasion, the next attack has +{0}% Attack
+On evasion, +{0}% Attack for 5s
 
 ID=26326
 On evasion, 5% chance of +{0} HP
@@ -10202,7 +10202,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 9/Mar/2017 1:20 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 23/Mar/2017 1:30 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -11567,7 +11567,7 @@ ID=31151
 Purpose
 
 ID=31152
-{0}:{1}
+{0}: {1}
 
 ID=31153
 Cannot use Auto-Matching for [{0}] minutes [{1}] seconds because you were in a Party formed by Auto-Matching.
@@ -11966,7 +11966,7 @@ ID=32108
 Security
 
 ID=32109
-2nd Password
+PIN
 
 ID=33000
 こんにちは。\n私、この入り混じりし世にて至極のショーを求め彷徨う「道化師エドガー」と申します。\n突然のお手紙に、さぞ驚かれたことでしょう。\nですが、あなたの力に感嘆を禁じえなかったこの思いをお伝えしたかったのです。\nあなたのその力は、短い我が人生の中でもっとも美しく印象的でした。\n華やかでありながら地味で、美しくも汚らわしい、\nそして…平穏でありながら破壊的な…。\nこの破裂しそうな私の気持ちをどう表現すべきか、悩んだ末に結論を出しました。\nあなたに…ささやかなプレゼントを贈ります。\nその力に対し敬意を表するという意味ゆえ、どうか拒否されませんよう。\nプレゼントは、あなた方が「ショッピングストリート」と呼ぶ場所で確認できます。\n願わくば…気に入ってくださらんことを祈りつつ。\n-道化師エドガーより-
@@ -13025,7 +13025,7 @@ ID=40158
 You may freely move between the four districts.
 
 ID=40159
-The King Junk's defense will increase when its phantoms appear.
+While Jack the King's Illusion is being summoned, Jack the King's defense will be increased.
 
 ID=40160
 When the box is broken, Edgar will appear.
@@ -16742,7 +16742,7 @@ ID=49633
 Utility
 
 ID=49700
-2nd Password Register
+Register PIN
 
 ID=49701
 Confirm PIN
@@ -16760,7 +16760,7 @@ ID=49705
 Input trading PIN
 
 ID=49720
-PIN Settings
+Setup PIN
 
 ID=49721
 No PIN has been set.
