@@ -755,7 +755,7 @@ Icon/Buff/Icon_Common_Debuff_Silence
 沈黙
 
 ID=5000
-イロージョンⅠ
+覚醒
 攻撃力が20%増加する。受けるダメージ量が50%減少する。移動速度が20%増加する。スーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -898,8 +898,14 @@ ID=5050
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 スタミナ消費量減少
 
+ID=5060
+イロージョン
+ダメージ減少量が25%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=5500
-イロージョンⅠ
+覚醒
 全ての攻撃が最大ダメージを与える。攻撃速度が30%増加する。移動速度が20%増加する。スーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1174,6 +1180,12 @@ ID=5580
 Icon/Buff/Icon_Common_Buff_Sarmor
 完全回避
 
+ID=5590
+イロージョン
+攻撃速度が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=5998
 快楽の弾丸
 3重複すると、SGを3回復する。
@@ -1181,7 +1193,7 @@ Icon/Buff/Icon_Common_Buff_ASR
 SG回復
 
 ID=6000
-イロージョンⅠ
+覚醒
 クリティカル攻撃力が300%増加する。移動速度が20%増加する。スーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1318,8 +1330,14 @@ Passive
 Icon/Buff/Icon_Common_Debuff_Paralysis
 0
 
+ID=6070
+イロージョン
+クリティカル攻撃力が150%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=6500
-イロージョンⅠ
+覚醒
 SGを毎秒15%回復する。移動速度が20%増加する。スーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1636,6 +1654,12 @@ ID=6569
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
+ID=6600
+イロージョン
+SGを毎秒8%回復する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=6994
 悲しみの楽想Ⅰ
 2秒ごとにSGを1%ずつ回復する。
@@ -1661,7 +1685,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 モード転換
 
 ID=7000
-イロージョンⅠ
+覚醒
 攻撃力が100%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1811,37 +1835,43 @@ Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
 ID=7071
-0
-0
+カウンターアタック
+ソウルを10%回復。
 0
 ソウル回復
 
 ID=7072
-0
-0
+カウンターアタック
+ソウルを11%回復。
 0
 ソウル回復
 
 ID=7073
-0
-0
+カウンターアタック
+ソウルを13%回復。
 0
 ソウル回復
 
 ID=7074
-0
-0
+カウンターアタック
+ソウルを15%回復。
 0
 ソウル回復
 
 ID=7075
-0
-0
+カウンターアタック
+ソウルを20%回復。
 0
 ソウル回復
 
+ID=7080
+イロージョン
+攻撃力が50%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=7500
-イロージョンⅠ
+覚醒
 攻撃力が20%増加する。\nスーパーアーマー破壊力が30%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1947,6 +1977,12 @@ ID=7525
 一回だけ次の攻撃の攻撃力が増加する。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃強化
+
+ID=7530
+イロージョン
+SA破壊力が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
 
 ID=8001
 快速攻撃Ⅰ
@@ -5496,73 +5532,73 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53748
 集中Ⅰ
-装着時、ボス/ネームドのダメージ量が5%増加する。
+装着時、ボス/ネームドモンスターに与えるダメージが5%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53749
 集中Ⅱ
-装着時、ボス/ネームドのダメージ量が10%増加する。
+装着時、ボス/ネームドモンスターに与えるダメージが10%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53750
 集中Ⅲ
-装着時、ボス/ネームドのダメージ量が15%増加する。
+装着時、ボス/ネームドモンスターに与えるダメージが15%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53751
 集中Ⅰ
-装着時、ボス/ネームドのダメージ量が7%増加する。
+装着時、ボス/ネームドモンスターに与えるダメージが7%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53752
 集中Ⅱ
-装着時、ボス/ネームドのダメージ量が12%増加する。
+装着時、ボス/ネームドモンスターに与えるダメージが12%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53753
 集中Ⅲ
-装着時、ボス/ネームドのダメージ量が17%増加する。
+装着時、ボス/ネームドモンスターに与えるダメージが17%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53754
 冷徹Ⅰ
-装着時、ボス/ネームドのダメージが5%減少する。
+装着時、ボス/ネームドモンスターから受けるダメージが5%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53755
 冷徹Ⅱ
-装着時、ボス/ネームドのダメージが7%減少する。
+装着時、ボス/ネームドモンスターから受けるダメージが7%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53756
 冷徹Ⅲ
-装着時、ボス/ネームドのダメージが10%減少する。
+装着時、ボス/ネームドモンスターから受けるダメージが10%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53757
 冷徹Ⅰ
-装着時、ボス/ネームドのダメージが7%減少する。
+装着時、ボス/ネームドモンスターから受けるダメージが7%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53758
 冷徹Ⅱ
-装着時、ボス/ネームドのダメージが9%減少する。
+装着時、ボス/ネームドモンスターから受けるダメージが9%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53759
 冷徹Ⅲ
-装着時、ボス/ネームドのダメージが12%減少する。
+装着時、ボス/ネームドモンスターから受けるダメージが12%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
