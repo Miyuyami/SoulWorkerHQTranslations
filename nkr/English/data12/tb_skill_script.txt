@@ -5,6 +5,13 @@ null
 0
 0
 
+ID=2
+Temporary
+null
+null
+Icon/Skill/Common/Icon_Common_Skill_Dash
+0
+
 ID=11
 Basic Attack Mastery Ⅰ
 [Info]\nAttack with your sword.\nAs this skill's level increases, you will be able to perform new combo attacks.\nYou will regain SG as you attack.\nSG gain will vary by enemy type.\n\n[Usage: Ground]\nMouse: (LMB)×4\n\n[Usage: Air]\nMouse: (LMB)×2
@@ -755,9 +762,16 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BreakZenith
 Skill/Icon_SSword_Skill_BreakZenith
 
 ID=11911
-Erosion Ⅰ
-[Info]\nAwaken for 60s.\n- Attack +20%.\n- Received Damage -50%.\n- Movement Speed +20%.\n- Gain Super Armor\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press the [7] key
+覚醒
+[スキル情報]\n60秒間、覚醒状態になる。\n-攻撃力が20%増加する。\n-受けるダメージ量が50%減少する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
 LvMax
+Icon/Skill/SoulumSword/Icon_SSword_Skill_BreakWakeup
+Description_Image/Skill/SoulumSword/Image_SSword_Break_Awakening
+
+ID=11912
+イロージョン
+1段階ゲージ消費（SV50消費）\n\n[スキル情報]\n30秒間、覚醒状態になる。\n-受けるダメージ量が25%減少する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
+攻撃力が20%増加する。\n受けるダメージ量が25%減少する。
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BreakErode
 Description_Image/Skill/SoulumSword/Image_SSword_Break_Erode
 
@@ -1511,9 +1525,16 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakZenith
 0
 
 ID=12911
-Erosion Ⅰ
-[Info]\nAwaken for 60s.\n- All attacks deal maximum damage.\n- Attack Speed +30%.\n- Movement Speed +20%.\n- Gain Super Armor.\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press the [7] key
+覚醒
+2段階ゲージ消費（SV100消費）\n\n[スキル情報]\n60秒間、覚醒状態になる。\n-全ての攻撃が最大ダメージになる。\n-攻撃速度が30%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
 LvMax
+Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakWakeup
+Description_Image/Skill/GunJazz/Image_GJazz_Break_Awakening
+
+ID=12912
+イロージョン
+1段階ゲージ消費（SV50消費）\n\n[スキル情報]\n30秒間、覚醒状態になる。\n-攻撃速度が15%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
+全ての攻撃を最大ダメージで与える。\n攻撃速度が15%増加する。
 Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakErode
 Description_Image/Skill/GunJazz/Image_GJazz_Break_Erode
 
@@ -2281,9 +2302,16 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_BreakZenith
 0
 
 ID=13911
-Erosion Ⅰ
-[Info]\nAwaken for 60s.\n- Critical Rate Damage +300%\n- Movement Speed +20%\n- Gain Super Armor\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press the [7] key
+覚醒
+2段階ゲージ消費（SV100消費）\n\n[スキル情報]\n60秒間、覚醒状態になる。\n-クリティカルダメージが300%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
 LvMax
+Icon/Skill/Mistscythe/Icon_MCythe_Skill_BreakWakeup
+Description_Image/Skill/Mistscythe/Image_Mcythe_Break_Awakening
+
+ID=13912
+イロージョン
+1段階ゲージ消費（SV50消費）\n\n[スキル情報]\n30秒間、覚醒状態になる。\n-クリティカルダメージが150%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
+クリティカルダメージが150%増加する。
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_BreakErode
 Description_Image/Skill/Mistscythe/Image_Mcythe_Break_Erode
 
@@ -2429,22 +2457,22 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 
 ID=4071
 Rising Attack Ⅰ
-[Info]\nDeal 100% damage to an enemy.\n30 stamina will be consumed.\nBecome invincible for 1s after using this skill.\nCooldown: 15s\n\nWhile downed, get up while damaging surrounding enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
-Stamina cost -10.
-Icon/Skill/Common/Icon_Common_Skill_RiseAttack
-0
-
-ID=4072
-Rising Attack Ⅱ
 [Info]\nDamage: [100%]\nStamina Cost: [30]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 Stamina Cost: [30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
-ID=4073
-Rising Attack Ⅲ
+ID=4072
+Rising Attack Ⅱ
 [Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 1s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
 Invincibility Duration +2s.
+Icon/Skill/Common/Icon_Common_Skill_RiseAttack
+0
+
+ID=4073
+Rising Attack Ⅲ
+[Info]\nDamage: [100%]\nStamina Cost: [20]\nCooldown: [15s]\nBecome invincible for 3s after using.\n\nWhen downed, rise up and damage nearby enemies.\n\n[Usage]\nKeyboard: While downed (LMB or RMB)
+LvMax
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
@@ -2458,7 +2486,7 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 ID=4051
 Special Dodge Ⅰ
 [Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: While taking damage (Move Key) + (Shift Key)
-Cooldown: [50s]-10s
+クールタイム：[60秒]-10秒
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
@@ -2576,105 +2604,105 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 
 ID=14011
 Counter Attack Ⅰ
-[Basic]\nDamage: [118%]\nSA Break: [32%]\n\n[Additional]\nDamage: [59%] [118%]\nSA Break: [16%] [32%]\n\n[Common]\nCooldown: [5s]\nCan only counter short-ranged attacks, if it's successful, a part of the skill will be strengthened for 5 seconds. Recover 10% SG\n\nIgnores the enemy attack with the counter.\n\n[Usage: Forced]\n\nMouse: While countering (RMB)\n\n[Usage: Additional]\nMouse: After counter (RMB)×2
-[Basic]\nDamage: [118%]+6%\nSA Break: [32%]+1%\n\n[Additional]\nDamage: [59%]+3% [118%]+6%\nSA Break: [16%]+1% [32%]+1%\n\n[Successful Counter]\nSG gain: [10%]+1%
+[スキル情報：通常攻撃]\nダメージ量：[295%]\nSA破壊量：[79%]\n\n[スキル情報：追加攻撃]\nダメージ量：[118%]\nSA破壊量：[32%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、7秒間一部のスキルが強化状態になり、SGが10%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)
+[通常攻撃]\nダメージ量：[295%]+15%\nSA破壊量：[79%]+4%\n\n[強制攻撃] \nダメージ量：[118%]+6%\nSA破壊量：[32%]+1%\n\n[カウンター成功]\nSG獲得：[10%]+1%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 
 ID=14012
 Counter Attack Ⅱ
-[Basic]\nDamage: [124%]\nSA Break: [33%]\n\n[Additional]\nDamage: [62%] [124%]\nSA Break: [17%] [33%]\n\n[Common]\nCooldown: [5s]\nCan only counter short-ranged attacks, if it's successful, a part of the skill will be strengthened for 5 seconds. Recover 11% SG\n\nIgnores the enemy attack with the counter.\n\n[Usage: Forced]\n\nMouse: While countering (RMB)\n\n[Usage: Additional]\nMouse: After counter (RMB)×2
-[Basic]\nDamage: [124%]+15%\nSA Break: [33%]+4%\n\n[Additional]\nDamage: [62%]+7% [124%]+15%\nSA Break: [17%]+2% [33%]+4%\n\n[Successful Counter]\nSG gain: [11%]+2%
+[スキル情報：通常攻撃]\nダメージ量：[310%]\nSA破壊量：[83%]\n\n[スキル情報：強制攻撃]\nダメージ量：[124%]\nSA破壊量：[33%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、7秒間一部のスキルが強化状態になり、SGが11%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)
+[通常攻撃]\nダメージ量：[310%]+37%\nSA破壊量：[83%]+10%\n\n[強制攻撃] \nダメージ量：[124%]+15%\nSA破壊量：[33%]+4%\n\n[カウンター成功]\nSG獲得：[11%]+2%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 
 ID=14013
 Counter Attack Ⅲ
-[Basic]\nDamage: [139%]\nSA Break: [37%]\n\n[Additional]\nDamage: [69%] [139%]\nSA Break: [19%] [37%]\n\n[Common]\nCooldown: [5s]\nCan only counter short-ranged attacks, if it's successful, a part of the skill will be strengthened for 5 seconds. Recover 13% SG\n\nIgnores the enemy attack with the counter.\n\n[Usage: Forced]\n\nMouse: While countering (RMB)\n\n[Usage: Additional]\nMouse: After counter (RMB)×2
-[Basic]\nDamage: [139%]+15%\nSA Break: [37%]+4%\n\n[Additional]\nDamage: [69%]+8% [139%]+15%\nSA Break: [19%]+2% [37%]+4%\n\n[Successful Counter]\nSG gain: [13%]+2%
+[スキル情報：通常攻撃]\nダメージ量：[347%]\nSA破壊量：[93%]\n\n[スキル情報：強制攻撃]\nダメージ量：[139%]\nSA破壊量：[37%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、7秒間一部のスキルが強化状態になり、SGが13%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)
+[通常攻撃]\nダメージ量：[347%]+37%\nSA破壊量：[93%]+10%\n\n[強制攻撃] \nダメージ量：[139%]+15%\nSA破壊量：[37%]+4%\n\n[カウンター成功]\nSG獲得：[13%]+2%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 
 ID=14014
 Counter Attack Ⅳ
-[Basic]\nDamage: [154%]\nSA Break: [41%]\n\n[Additional]\nDamage: [77%] [154%]\nSA Break: [21%] [41%]\n\n[Common]\nCooldown: [5s]\nCan only counter short-ranged attacks, if it's successful, a part of the skill will be strengthened for 5 seconds. Recover 15% SG\n\nIgnores the enemy attack with the counter.\n\n[Usage: Forced]\n\nMouse: While countering (RMB)\n\n[Usage: Additional]\nMouse: After counter (RMB)×2
-[Basic]\nDamage: [154%]+23%\nSA Break: [41%]+7%\n\n[Additional]\nDamage: [77%]+12% [154%]+23%\nSA Break: [21%]+3% [41%]+7%\n\n[Successful Counter]\nSG gain: [15%]+5%
+[スキル情報：通常攻撃]\nダメージ量：[384%]\nSA破壊量：[103%]\n\n[スキル情報：強制攻撃]\nダメージ量：[154%]\nSA破壊量：[41%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、7秒間一部のスキルが強化状態になり、SGが15%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)
+[通常攻撃]\nダメージ量：[384%]+59%\nSA破壊量：[103%]+16%\n\n[強制攻撃] \nダメージ量：[154%]+23%\nSA破壊量：[41%]+7%\n\n[カウンター成功]\nSG獲得：[15%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 
 ID=14015
 Counter Attack Ⅴ
-[Basic]\nDamage: [177%]\nSA Break: [48%]\n\n[Additional]\nDamage: [89%] [177%]\nSA Break: [24%] [48%]\n\n[Common]\nCooldown: [5s]\nCan only counter short-ranged attacks, if it's successful, a part of the skill will be strengthened for 5 seconds. Recover 20% SG\n\nIgnores the enemy attack with the counter.\n\n[Usage: Forced]\n\nMouse: While countering (RMB)\n\n[Usage: Additional]\nMouse: After counter (RMB)×2
+[スキル情報：通常攻撃]\nダメージ量：[443%]\nSA破壊量：[119%]\n\n[スキル情報：追加攻撃]\nダメージ量：[177%]\nSA破壊量：[48%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、7秒間一部のスキルが強化状態になり、SGが20%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 
 ID=14021
 Glory Upper Ⅰ
-[Basic]\nDamage: [164%]\nSA Break: [210%]\n\n[Additional]\nDamage: [82%] [41%] [123%]\nSA Break: [105%] [53%] [158%]\n\n[Common]\nSG Cost: [35]\nCooldown: [10s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nApproach and knock-up enemies with an upper attack.\nAfterwards, launches addtional consecutive attacks.\n\n[Usage: Additional]\nMouse: After the last attack (RMB)×3
-[Basic]\nDamage: [164%]+8%\nSA Break: [210%]+10%\n\n[Additional]\nDamage: [82%]+4% [41%]+2% [123%]+6%\nSA Break: [105%]+5% [53%]+2% [158%]+8%
+[スキル情報：通常攻撃]\nダメージ量：[164%]\nSA破壊量：[210%]\n\n[スキル情報：追加攻撃]\nダメージ量：[82%][41%][123%]\nSA破壊量：[105%][53%][158%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[10秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG消費量：[0]\nSG受給量：[5%]\n\n接近して、アッパー攻撃で敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×3
+[通常攻撃]\nダメージ量：[164%]+8%\nSA破壊量：[210%]+10%\n\n[追加攻撃] \nダメージ量：[82%]+4% [41%]+2% [123%]+6%\nSA破壊量：[105%]+5% [53%]+2% [158%]+8%\n\n[スキル情報：カウンターアタック連係]\nSG受給量：[5%]+1%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper
 0
 
 ID=14022
 Glory Upper Ⅱ
-[Basic]\nDamage: [172%]\nSA Break: [220%]\n\n[Additional]\nDamage: [86%] [43%] [129%]\nSA Break: [110%] [55%] [165%]\n\n[Common]\nSG Cost: [35]\nCooldown: [10s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nApproach and knock-up enemies with an upper attack.\nAfterwards, launches addtional consecutive attacks.\n\n[Usage: Additional]\nMouse: After the last attack (RMB)×3
-[Basic]\nDamage: [172%]+20%\nSA Break: [220%]+27%\n\n[Additional]\nDamage: [86%]+10% [43%]+5% [129%]+15%\nSA Break: [110%]+13% [55%]+7% [165%]+20%
+[スキル情報：通常攻撃]\nダメージ量：[172%]\nSA破壊量：[220%]\n\n[スキル情報：追加攻撃]\nダメージ量：[86%][43%][129%]\nSA破壊量：[110%][55%][165%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[10秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG消費量：[0]\nSG受給量：[6%]\n\n接近して、アッパー攻撃で敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×3
+[通常攻撃]\nダメージ量：[172%]+20%\nSA破壊量：[220%]+27%\n\n[追加攻撃] \nダメージ量：[86%]+10% [43%]+5% [129%]+15%\nSA破壊量：[110%]+13% [55%]+7% [165%]+20%\n\n[スキル情報：カウンターアタック連係]\nSG受給量：[6%]+11%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper
 0
 
 ID=14023
 Glory Upper Ⅲ
-[Basic]\nDamage: [192%]\nSA Break: [247%]\n\n[Additional]\nDamage: [96%] [48%] [144%]\nSA Break: [123%] [62%] [185%]\n\n[Common]\nSG Cost: [35]\nCooldown: [10s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nApproach and knock-up enemies with an upper attack.\nAfterwards, launches addtional consecutive attacks.\n\n[Usage: Additional]\nMouse: After the last attack (RMB)×3
-[Basic]\nDamage: [192%]+20%\nSA Break: [247%]+26%\n\n[Additional]\nDamage: [96%]+10% [48%]+5% [144%]+15%\nSA Break: [123%]+14% [62%]+6% [185%]+20%
+[スキル情報：通常攻撃]\nダメージ量：[192%]\nSA破壊量：[247%]\n\n[スキル情報：追加攻撃]\nダメージ量：[96%][48%][144%]\nSA破壊量：[123%][62%][185%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[10秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG消費量：[0]\nSG受給量：[17%]\n\n接近して、アッパー攻撃で敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×3
+[通常攻撃]\nダメージ量：[192%]+20%\nSA破壊量：[247%]+26%\n\n[追加攻撃] \nダメージ量：[96%]+10% [48%]+5% [144%]+15%\nSA破壊量：[123%]+14% [62%]+6% [185%]+20%\n\n[スキル情報：カウンターアタック連係]\nSG受給量：[17%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper
 0
 
 ID=14024
 Glory Upper Ⅳ
-[Basic]\nDamage: [212%]\nSA Break: [273%]\n\n[Additional]\nDamage: [106%] [53%] [159%]\nSA Break: [137%] [68%] [205%]\n\n[Common]\nSG Cost: [35]\nCooldown: [10s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nApproach and knock-up enemies with an upper attack.\nAfterwards, launches addtional consecutive attacks.\n\n[Usage: Additional]\nMouse: After the last attack (RMB)×3
-[Basic]\nDamage: [212%]+33%\nSA Break: [273%]+42%\n\n[Additional]\nDamage: [106%]+17% [53%]+8% [159%]+25%\nSA Break: [137%]+21% [68%]+11% [205%]+31%
+[スキル情報：通常攻撃]\nダメージ量：[212%]\nSA破壊量：[273%]\n\n[スキル情報：追加攻撃]\nダメージ量：[106%][53%][159%]\nSA破壊量：[137%][68%][205%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[10秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG消費量：[0]\nSG受給量：[22%]\n\n接近して、アッパー攻撃で敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×3
+[通常攻撃]\nダメージ量：[212%]+33%\nSA破壊量：[273%]+42%\n\n[追加攻撃] \nダメージ量：[106%]+17% [53%]+8% [159%]+25%\nSA破壊量：[137%]+21% [68%]+11% [205%]+31%\n\n[スキル情報：カウンターアタック連係]\nSG受給量：[22%]+8%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper
 0
 
 ID=14025
 Glory Upper Ⅴ
-[Basic]\nDamage: [245%]\nSA Break: [315%]\n\n[Additional]\nDamage: [123%] [61%] [184%]\nSA Break: [158%] [79%] [236%]\n\n[Common]\nSG Cost: [35]\nCooldown: [10s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nApproach and knock-up enemies with an upper attack.\nAfterwards, launches addtional consecutive attacks.\n\n[Usage: Additional]\nMouse: After the last attack (RMB)×3
+[スキル情報：通常攻撃]\nダメージ量：[245%]\nSA破壊量：[315%]\n\n[スキル情報：追加攻撃]\nダメージ量：[123%][61%][184%]\nSA破壊量：[158%][79%][236%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[10秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG消費量：[0]\nSG受給量：[30%]\n\n接近して、アッパー攻撃で敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×3
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper
 0
 
 ID=14031
 Hammer Kick Ⅰ
-[Info]\nDamage: [84%]\nSA Break: [350%]\nSG Cost: [30]\nCooldown: [12s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nAfter jumping forwards, spin your body in the air and launch a kick. Attacked enemies are knocked up\n\n[Usage]\nMouse: Place in skill slot and press the corresponding key
-Damage: [84%]+4%\nSA Break: [350%]+17%
+[スキル情報]\nダメージ量：[84%]\nSA破壊量：[350%]\nSG消費量：[30]\nクールタイム：[12秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG消費量：[0]\nSG受給量：[7%]\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。攻撃された敵は宙に浮く。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[基本攻撃]\nダメージ量：[84%]+4%\nSA破壊量：[350%]+17%\n\n[スキル情報：カウンターアタック連係]\nSG受給量：[7%]+2%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HammerKick
 0
 
 ID=14032
 Hammer Kick Ⅱ
-[Info]\nDamage: [88%]\nSA Break: [367%]\nSG Cost: [30]\nCooldown: [12s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nAfter jumping forwards, spin your body in the air and launch a kick. Attacked enemies are knocked up\n\n[Usage]\nMouse: Place in skill slot and press the corresponding key
-Damage: [88%]+11%\nSA Break: [367%]+44%
+[スキル情報]\nダメージ量：[88%]\nSA破壊量：[367%]\nSG消費量：[30]\nクールタイム：[12秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG消費量：[0]\nSG受給量：[9%]\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。攻撃された敵は宙に浮く。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[基本攻撃]\nダメージ量：[88%]+11%\nSA破壊量：[367%]+44%\n\n[スキル情報：カウンターアタック連係]\nSG受給量：[9%]+16%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HammerKick
 0
 
 ID=14033
 Hammer Kick Ⅲ
-[Info]\nDamage: [99%]\nSA Break: [411%]\nSG Cost: [30]\nCooldown: [12s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nAfter jumping forwards, spin your body in the air and launch a kick. Attacked enemies are knocked up\n\n[Usage]\nMouse: Place in skill slot and press the corresponding key
-Damage: [99%]+10%\nSA Break: [411%]+43%
+[スキル情報]\nダメージ量：[99%]\nSA破壊量：[411%]\nSG消費量：[30]\nクールタイム：[12秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG消費量：[0]\nSG受給量：[25%]\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。攻撃された敵は宙に浮く。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[基本攻撃]\nダメージ量：[99%]+10%\nSA破壊量：[411%]+43%\n\n[スキル情報：カウンターアタック連係]\nSG受給量：[25%]+7%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HammerKick
 0
 
 ID=14034
 Hammer Kick Ⅳ
-[Info]\nDamage: [109%]\nSA Break: [454%]\nSG Cost: [30]\nCooldown: [12s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nAfter jumping forwards, spin your body in the air and launch a kick. Attacked enemies are knocked up\n\n[Usage]\nMouse: Place in skill slot and press the corresponding key
-Damage: [109%]+17%\nSA Break: [454%]+70%
+[スキル情報]\nダメージ量：[109%]\nSA破壊量：[454%]\nSG消費量：[30]\nクールタイム：[12秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG消費量：[0]\nSG受給量：[32%]\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。攻撃された敵は宙に浮く。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[基本攻撃]\nダメージ量：[109%]+17%\nSA破壊量：[454%]+70%\n\n[スキル情報：カウンターアタック連係]\nSG受給量：[32%]+13%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HammerKick
 0
 
 ID=14035
 Hammer Kick Ⅴ
-[Info]\nDamage: [126%]\nSA Break: [524%]\nSG Cost: [30]\nCooldown: [12s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nAfter jumping forwards, spin your body in the air and launch a kick. Attacked enemies are knocked up\n\n[Usage]\nMouse: Place in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：[126%]\nSA破壊量：[524%]\nSG消費量：[30]\nクールタイム：[12秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG消費量：[0]\nSG受給量：[45%]\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。攻撃された敵は宙に浮く。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HammerKick
 0
@@ -2716,105 +2744,105 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_PerfectCombination
 
 ID=14051
 Spirit Surge Ⅰ
-[Self]\nBuff Effect: Defense +[25%]\nBuff Duration: [10s]\n\n[Enemy]\nDebuff Effect: [Taunt]\nDebuff Duration: [10s]\n\n[Common]\nSG Cost: [40]\nCooldown: [20s]\n\nAfter releasing tremendous power, intimidate enemies while protecting allies.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報：自分]\nバフ効果：防御度[25%]増加\nバフ持続時間：[10秒]\n\n[スキル情報：敵]\nデバフ効果：[挑発]\nデバフ持続時間：[10秒]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[20秒]\n\nその場で異能力を放出し、敵を引き寄せながら挑発する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 [Self]\nBuff Effect: Defense [25%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge
 0
 
 ID=14052
 Spirit Surge Ⅱ
-[Self]\nBuff Effect: Defense +[30%]\nBuff Duration: [10s]\n\n[Enemy]\nDebuff Effect: [Taunt]\nDebuff Duration: [10s]\n\n[Common]\nSG Cost: [40]\nCooldown: [20s]\n\nAfter releasing tremendous power, intimidate enemies while protecting allies.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報：自分]\nバフ効果：防御度[30%]増加\nバフ持続時間：[10秒]\n\n[スキル情報：敵]\nデバフ効果：[挑発]\nデバフ持続時間：[10秒]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[20秒]\n\nその場で異能力を放出し、味方を守りながら敵を挑発する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 [Self]\nBuff Effect: Defense [30%]+10%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge
 0
 
 ID=14053
 Spirit Surge Ⅲ
-[Self]\nBuff Effect: Defense +[40%]\nBuff Duration: [10s]\n\n[Enemy]\nDebuff Effect: [Taunt]\nDebuff Duration: [10s]\n\n[Common]\nSG Cost: [40]\nCooldown: [20s]\n\nAfter releasing tremendous power, intimidate enemies while protecting allies.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報：自分]\nバフ効果：防御度[40%]増加\nバフ持続時間：[10秒]\n\n[スキル情報：敵]\nデバフ効果：[挑発]\nデバフ持続時間：[10秒]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[20秒]\n\nその場で異能力を放出し、味方を守りながら敵を挑発する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 [Self]\nBuff Effect: Defense [40%]+10%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge
 0
 
 ID=14054
 Spirit Surge Ⅳ
-[Self]\nBuff Effect: Defense +[50%]\nBuff Duration: [10s]\n\n[Enemy]\nDebuff Effect: [Taunt]\nDebuff Duration: [10s]\n\n[Common]\nSG Cost: [40]\nCooldown: [20s]\n\nAfter releasing tremendous power, intimidate enemies while protecting allies.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報：自分]\nバフ効果：防御度[50%]増加\nバフ持続時間：[10秒]\n\n[スキル情報：敵]\nデバフ効果：[挑発]\nデバフ持続時間：[10秒]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[20秒]\n\nその場で異能力を放出し、味方を守りながら敵を挑発する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 [Self]\nBuff Effect: Defense [50%]+20%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge
 0
 
 ID=14055
 Spirit Surge Ⅴ
-[Self]\nBuff Effect: Defense +[70%]\nBuff Duration: [10s]\n\n[Enemy]\nDebuff Effect: [Taunt]\nDebuff Duration: [10s]\n\n[Common]\nSG Cost: [40]\nCooldown: [20s]\n\nAfter releasing tremendous power, intimidate enemies while protecting allies.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報：自分]\nバフ効果：防御度[70%]増加\nバフ持続時間：[10秒]\n\n[スキル情報：敵]\nデバフ効果：[挑発]\nデバフ持続時間：[10秒]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[20秒]\n\nその場で異能力を放出し、味方を守りながら敵を挑発する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge
 0
 
 ID=14061
 Gravity Twister Ⅰ
-[Info]\nDamage: [178%]\nSA Break: [400%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\nSG Cost: [55]\nCooldown: [16s]\nWhen the skill is strengthen increases the pulling range performance by 1.5x.\n\nUnleash tremendous power before the enemy.\nParalysis and pull.\n\n[Usage]\nMouse: Place in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：[178%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[400%]\nSG消費量：[55]\nクールタイム：[16秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を使い、前方の敵を手前に\n引き寄せて麻痺させる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [178%]+9%\nSA Break: [400%]+19%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister
 0
 
 ID=14062
 Gravity Twister Ⅱ
-[Info]\nDamage: [187%]\nSA Break: [419%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\nSG Cost: [55]\nCooldown: [16s]\nWhen the skill is strengthen increases the pulling range performance by 1.5x\n\nUnleash tremendous power before the enemy.\nParalysis and pull.\n\n[Usage]\nMouse: Place in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：[187%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[419%]\nSG消費量：[55]\nクールタイム：[16秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を使い、前方の敵を手前に\n引き寄せて麻痺させる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [187%]+21%\nSA Break: [419%]+50%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister
 0
 
 ID=14063
 Gravity Twister Ⅲ
-[Info]\nDamage: [209%]\nSA Break: [469%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\nSG Cost: [55]\nCooldown: [16s]\nWhen the skill is strengthen increases the pulling range performance by 1.5x\n\nUnleash tremendous power before the enemy.\nParalysis and pull.\n\n[Usage]\nMouse: Place in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：[209%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[469%]\nSG消費量：[55]\nクールタイム：[16秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を使い、前方の敵を手前に\n引き寄せて麻痺させる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [209%]+22%\nSA Break: [469%]+50%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister
 0
 
 ID=14064
 Gravity Twister Ⅳ
-[Info]\nDamage: [232%]\nSA Break: [519%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\nSG Cost: [55]\nCooldown: [16s]\nWhen the skill is strengthen increases the pulling range performance by 1.5x\n\nUnleash tremendous power before the enemy.\nParalysis and pull.\n\n[Usage]\nMouse: Place in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：[232%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[519%]\nSG消費量：[55]\nクールタイム：[16秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を使い、前方の敵を手前に\n引き寄せて麻痺させる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [232%]+35%\nSA Break: [519%]+80%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister
 0
 
 ID=14065
 Gravity Twister Ⅴ
-[Info]\nDamage: [267%]\nSA Break: [599%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\nSG Cost: [55]\nCooldown: [16s]\nWhen the skill is strengthen increases the pulling range performance by 1.5x\n\nUnleash tremendous power before the enemy.\nParalysis and pull.\n\n[Usage]\nMouse: Place in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：[267%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[599%]\nSG消費量：[55]\nクールタイム：[16秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を使い、前方の敵を手前に\n引き寄せて麻痺させる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister
 0
 
 ID=14071
 Spirit Explosion Ⅰ
-[Info]\nDamage: [350%]\nSA Break: [29%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [60]\nCooldown: [20s]\nWhen the skill is strengthen a 3-stage charge attack will be unleashed.\n\nStore energy in the gauntlet, unleash a powerful blow forwards.\n[Usage]\nMouse: Place in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：[350%]\nSA破壊量：[29%]\nチャージ時、性能が1.4倍に増加し、最大で2倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[60]\nクールタイム：[20秒]\n\n[スキル情報：カウンターアタック連携]\n即時発動：[3チャージ]\nクールタイム：[16秒]\n\nガントレットに力を集め、前方に強力な一撃を放つ。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [350%]+17%\nSA Break: [29%]+2%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion
 0
 
 ID=14072
 Spirit Explosion Ⅱ
-[Info]\nDamage: [367%]\nSA Break: [31%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [60]\nCooldown: [20s]\nWhen the skill is strengthen a 3-stage charge attack will be unleashed.\n\nStore energy in the gauntlet, unleash a powerful blow forwards.\n[Usage]\nMouse: Place in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：[367%]\nSA破壊量：[31%]\nチャージ時、性能が1.4倍に増加し、最大で2倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[60]\nクールタイム：[20秒]\n\n[スキル情報：カウンターアタック連携]\n即時発動：[3チャージ]\nクールタイム：[16秒]\n\nガントレットに力を集め、前方に強力な一撃を放つ。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [367%]+44%\nSA Break: [31%]+3%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion
 0
 
 ID=14073
 Spirit Explosion Ⅲ
-[Info]\nDamage: [411%]\nSA Break: [34%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [60]\nCooldown: [20s]\nWhen the skill is strengthen a 3-stage charge attack will be unleashed.\n\nStore energy in the gauntlet, unleash a powerful blow forwards.\n[Usage]\nMouse: Place in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：[411%]\nSA破壊量：[34%]\nチャージ時、性能が1.4倍に増加し、最大で2倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[60]\nクールタイム：[20秒]\n\n[スキル情報：カウンターアタック連携]\n即時発動：[3チャージ]\nクールタイム：[16秒]\n\nガントレットに力を集め、前方に強力な一撃を放つ。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [411%]+44%\nSA Break: [34%]+3%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion
 0
 
 ID=14074
 Spirit Explosion Ⅳ
-[Info]\nDamage: [455%]\nSA Break: [38%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [60]\nCooldown: [20s]\nWhen the skill is strengthen a 3-stage charge attack will be unleashed.\n\nStore energy in the gauntlet, unleash a powerful blow forwards.\n[Usage]\nMouse: Place in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：[455%]\nSA破壊量：[38%]\nチャージ時、性能が1.4倍に増加し、最大で2倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[60]\nクールタイム：[20秒]\n\n[スキル情報：カウンターアタック連携]\n即時発動：[3チャージ]\nクールタイム：[16秒]\n\nガントレットに力を集め、前方に強力な一撃を放つ。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [455%]+67%\nSA Break: [38%]+6%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion
 0
 
 ID=14075
 Spirit Explosion Ⅴ
-[Info]\nDamage: [525%]\nSA Break: [44%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [60]\nCooldown: [20s]\nWhen the skill is strengthen a 3-stage charge attack will be unleashed.\n\nStore energy in the gauntlet, unleash a powerful blow forwards.\n[Usage]\nMouse: Place in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：[525%]\nSA破壊量：[44%]\nチャージ時、性能が1.4倍に増加し、最大で2倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[60]\nクールタイム：[20秒]\n\n[スキル情報：カウンターアタック連携]\n即時発動：[3チャージ]\nクールタイム：[16秒]\n\nガントレットに力を集め、前方に強力な一撃を放つ。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion
 0
@@ -2856,35 +2884,35 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritShooter
 
 ID=14091
 Quadra Blow Ⅰ
-[Info]\nDamage: [157%] per hit\nSA Break: [73%] per hit\nSG Cost: [60]\nCooldown: [25s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nFire a powerful sphere at the enemy.\nThe fired sphere explodes damaging its surroundings.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：攻撃1回あたり[157%]\nSA破壊量：攻撃1回あたり[73%]\nSG消費量：[60]\nクールタイム：[25秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [157%]+8% per hit\nSA Break: [73%]+3% per hit
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 0
 
 ID=14092
 Quadra Blow Ⅱ
-[Info]\nDamage: [165%] per hit\nSA Break: [76%] per hit\nSG Cost: [60]\nCooldown: [25s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nFire a powerful sphere at the enemy.\nThe fired sphere explodes damaging its surroundings.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：攻撃1回あたり[165%]\nSA破壊量：攻撃1回あたり[76%]\nSG消費量：[60]\nクールタイム：[25秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [165%]+20% per hit\nSA Break: [76%]+10% per hit
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 0
 
 ID=14093
 Quadra Blow Ⅲ
-[Info]\nDamage: [185%] per hit\nSA Break: [86%] per hit\nSG Cost: [60]\nCooldown: [25s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nFire a powerful sphere at the enemy.\nThe fired sphere explodes damaging its surroundings.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：攻撃1回あたり[185%]\nSA破壊量：攻撃1回あたり[86%]\nSG消費量：[60]\nクールタイム：[25秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [185%]+19% per hit\nSA Break: [86%]+9% per hit
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 0
 
 ID=14094
 Quadra Blow Ⅳ
-[Info]\nDamage: [204%] per hit\nSA Break: [95%] per hit\nSG Cost: [60]\nCooldown: [25s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nFire a powerful sphere at the enemy.\nThe fired sphere explodes damaging its surroundings.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：攻撃1回あたり[204%]\nSA破壊量：攻撃1回あたり[95%]\nSG消費量：[60]\nクールタイム：[25秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [204%]+32% per hit\nSA Break: [95%]+14% per hit
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 0
 
 ID=14095
 Quadra Blow Ⅴ
-[Info]\nDamage: [236%] per hit\nSA Break: [109%] per hit\nSG Cost: [60]\nCooldown: [25s]\nWhen the skill is strengthen increases the performance by 1.5x.\n\nFire a powerful sphere at the enemy.\nThe fired sphere explodes damaging its surroundings.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：攻撃1回あたり[236%]\nSA破壊量：攻撃1回あたり[109%]\nSG消費量：[60]\nクールタイム：[25秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 0
@@ -2926,35 +2954,35 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 
 ID=14111
 Fusion Armor Ⅰ
-[Info]\n[1] Buff Effect: [Invincibility]\n[1] Buff Duration: [1s]\n[2] Buff Effect: Defense +[10%]\n[2] Buff Duration: [20s]\nSG Cost: [60]\nCooldown: [45s]\n\nCollect Soul Energy to grant a barrier to allies.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：自分]\n[1]無敵[3秒]\n[2]防御度[10%]増加[20秒]\n\n[スキル情報：パーティー]\n[1]無敵[1秒]\n[2]防御度[10%]増加[20秒]\n\nソウルエナジーを集め、それを放出することで味方を守るバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 [1] Invincibility Duration: [1s]+0.2s\n[2] Buff Effect: Defense [10%]+2%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FusionArmor
 0
 
 ID=14112
 Fusion Armor Ⅱ
-[Info]\n[1] Buff Effect: [Invincibility]\n[1] Buff Duration: [1.2s]\n[2] Buff Effect: Defense +[12%]\n[2] Buff Duration: [20s]\nSG Cost: [60]\nCooldown: [45s]\n\nCollect Soul Energy to grant a barrier to allies.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：自分]\n[1]無敵[3.7秒]\n[2]防御度[12%]増加[20秒]\n\n[スキル情報：パーティー]\n[1]無敵[1.2秒]\n[2]防御度[12%]増加[20秒]\n\nソウルエナジーを集め、それを放出することで味方を守るバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 [1] Invincibility Duration: [1.2s]+0.4s\n[2] Buff Effect: Defense[12%]+4%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FusionArmor
 0
 
 ID=14113
 Fusion Armor Ⅲ
-[Info]\n[1] Buff Effect: [Invincibility]\n[1] Buff Duration: [1.6s]\n[2] Buff Effect: Defense +[16%]\n[2] Buff Duration: [20s]\nSG Cost: [60]\nCooldown: [45s]\n\nCollect Soul Energy to grant a barrier to allies.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：自分]\n[1]無敵[4.3秒]\n[2]防御度[16%]増加[20秒]\n\n[スキル情報：パーティー]\n[1]無敵[1.6秒]\n[2]防御度[16%]増加[20秒]\n\nソウルエナジーを集め、それを放出することで味方を守るバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 [1] Invincibility Duration: [1.6s]+0.4s\n[2] Buff Effect: Defense [16%]+4%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FusionArmor
 0
 
 ID=14114
 Fusion Armor Ⅳ
-[Info]\n[1] Buff Effect: [Invincibility]\n[1] Buff Duration: [2s]\n[2] Buff Effect: Defense +[20%]\n[2] Buff Duration: [20s]\nSG Cost: [60]\nCooldown: [45s]\n\nCollect Soul Energy to grant a barrier to allies.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：自分]\n[1]無敵[5秒]\n[2]防御度[20%]増加[20秒]\n\n[スキル情報：パーティー]\n[1]無敵[2秒]\n[2]防御度[20%]増加[20秒]\n\nソウルエナジーを集め、それを放出することで味方を守るバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 [1] Invincibility Duration: [2s]+1s\n[2] Buff Effect: Defense [20%]+10%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FusionArmor
 0
 
 ID=14115
 Fusion Armor Ⅴ
-[Info]\n[1] Buff Effect: [Invincibility]\n[1] Buff Duration: [3s]\n[2] Buff Effect: Defense +[30%]\n[2] Buff Duration: [20s]\nSG Cost: [60]\nCooldown: [45s]\n\nCollect Soul Energy to grant a barrier to allies.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：自分]\n[1]無敵[7秒]\n[2防御度[30%]増加[20秒]\n\n[スキル情報：パーティー]\n[1]無敵[3秒]\n[2]防御度[30%]増加[20秒]\n\nソウルエナジーを集め、それを放出することで味方を守るバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FusionArmor
 0
@@ -3030,9 +3058,16 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_FinalFist
 0
 
 ID=14911
-Erosion Ⅰ
-[Info]\nAwaken for 60s.\n- Attack +100%\n- Movement Speed +20%\n- Gain Super Armor\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press the [7] key
+覚醒
+2段階ゲージ消費（SV100消費）\n\n[スキル情報]\n60秒間、覚醒状態になる。\n-攻撃力が100%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
 LvMax
+Icon/Skill/SpritArms/Icon_Sprit_Skill_BreakWakeup
+Description_Image/Skill/SpiritArms/Image_Spirit_Break_Awakening
+
+ID=14912
+イロージョン
+1段階ゲージ消費（SV50消費）\n\n[スキル情報]\n30秒間、覚醒状態になる。\n-攻撃力が50%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
+攻撃力が50%増加する。
 Icon/Skill/SpritArms/Icon_Sprit_Skill_BreakErode
 Description_Image/Skill/SpiritArms/Image_Spirit_Break_Erode
 
@@ -3786,9 +3821,16 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 0
 
 ID=15911
-Erosion Ⅰ
-[Info]\nAwaken for 60s.\n- 15% SG per second\n- Movement Speed +20%\n- Gain Super Armor\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press the [7] key
+覚醒
+2段階ゲージ消費（SV100消費）\n\n[スキル情報]\n60秒間、覚醒状態になる。\n-SGを毎秒15%回復する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
 LvMax
+Icon/Skill/Howling/Icon_Howling_Skill_BreakWakeup
+Description_Image/Skill/Howling/Image_Howling_Break_Awakening
+
+ID=15912
+イロージョン
+1段階ゲージ消費（SV50消費）\n\n[スキル情報]\n30秒間、覚醒状態になる。\n-SGが毎秒8%回復する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
+1秒毎のSG回復量が7%増加する。
 Icon/Skill/Howling/Icon_Howling_Skill_BreakErode
 Description_Image/Skill/Howling/Image_Howling_Break_Erode
 
@@ -4542,9 +4584,16 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 0
 
 ID=16911
-Erosion Ⅰ
-[Info]\nAwaken for 60s.\n- Attack Power +20%.\n- Movement Speed +20%.\n- Gain Super Armor.\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nMouse: Press the [7] key
+覚醒
+2段階ゲージ消費（SV100消費）\n\n[スキル情報]\n60秒間、覚醒状態になる。\n-SA破壊力が30%増加する。\n-攻撃力が20%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
 LvMax
+Icon/Skill/Hammerstol/Icon_Hamerstoll_Skill_BreakWakeup
+Description_Image/Skill/Hammerstol/Image_Hamerstol_Skill_Awakening
+
+ID=16912
+イロージョン
+1段階ゲージ消費（SV50消費）\n\n[スキル情報]\n30秒間、覚醒状態になる。\n-SA破壊力が15%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
+攻撃力が20%増加する。\nSA破壊力が15%増加する。
 Icon/Skill/Hammerstol/Icon_Hamerstoll_Skill_BreakErode
 Description_Image/Skill/Hammerstol/Image_Hamerstol_Skill_BreakErode
 
@@ -5103,21 +5152,21 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack_A
 
 ID=24014
 SA Destruction Ⅰ
-[Basic]\nDamage: -[153%]\nSA Break: +[119%]\n\n[Additional]\nDamage: -[77%] [153%]\nSA Break: +[60%] [119%]\n\nIncreases SA Break.
-[Basic]\nDamage: [153%]-3%\nSA Break: [119%]+22%\n\n[Additional]\nDamage: [77%]-2% [153%]-3%\nSA Break: [60%]+11% [119%]+22%
+[特性情報：通常攻撃]\nSA破壊量増加値：[595%]\n\n[特性情報：強制攻撃]\nSA破壊量増加値：[238%]\n\nSA破壊量が増加する。
+[特性情報：通常攻撃]\nSA破壊量増加値：[595%]+119%\n\n[特性情報：強制攻撃]\nSA破壊量増加値：[238%]+47%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack_B
 0
 
 ID=24015
 SA Destruction Ⅱ
-[Basic]\nDamage: -[150%]\nSA Break: +[141%]\n\n[Additional]\nDamage: -[75%] [150%]\nSA Break: +[71%] [141%]\n\nIncreases SA Break.
-[Basic]\nDamage: [150%]-7%\nSA Break: [141%]+51%\n\n[Additional]\nDamage: [75%]-4% [150%]-7%\nSA Break: [71%]+25% [141%]+51%
+[特性情報：通常攻撃]\nSA破壊量増加値：[714%]\n\n[特性情報：強制攻撃]\nSA破壊量増加値：[285%]\n\nSA破壊量が増加する。
+[特性情報：通常攻撃]\nSA破壊量増加値：[714%]+238%\n\n[特性情報：強制攻撃]\nSA破壊量増加値：[285%]+95%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack_B
 0
 
 ID=24016
 SA Destruction Ⅲ
-[Basic]\nDamage: -[143%]\nSA Break: -[192%]\n\n[Additional]\nDamage: -[71%] [143%]\nSA Break: +[96%] [192%]\n\nIncreases SA Break.
+[特性情報：通常攻撃]\nSA破壊量増加値：[952%]\n\n[特性情報：強制攻撃]\nSA破壊量増加値：[380%]\n\nSA破壊量が増加する。
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack_B
 0
@@ -5228,64 +5277,64 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_A
 0
 
 ID=24074
-Range Increase Ⅰ
-[Info]\nAttack Range increased.\n\nCharge energy to create a big wave to attack the enemies.
-Damage: +79%\nSA Break: +7%
+原因値Ⅰ
+[特性情報]\nダメージ量：[735%]\nSA破壊量：[61%]\n\n凝縮された高密度のエナジーが大きなウェーブを発生させ、敵を攻撃する。
+ダメージ量増加値：[735%]+210%\nSA破壊量増加値：[61%]+18%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_B
 0
 
 ID=24075
-Range Increase Ⅱ
-[Info]\nDamage: +[79%]\nSA Break: +[7%]\nAttack Range increased.\n\nBig web appear from charged energy, attacking enemies.\n\nCharge energy to create a big wave to attack the enemies.
-Damage: [79%]+184%\nSA Break: [7%]+15%
+原因値Ⅱ
+[特性情報]\nダメージ量：[945%]\nSA破壊量：[79%]\n\n凝縮された高密度のエナジーが大きなウェーブを発生させ、敵を攻撃する。
+ダメージ量増加値：[945%]+367%\nSA破壊量増加値：[79%]+31%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_B
 0
 
 ID=24076
-Range Increase Ⅲ
-[Info]\nDamage: +[263%]\nSA Break: +[22%]\nAttack Range increased.\n\nCharge energy to create a big wave to attack the enemies.
+原因値Ⅲ
+[特性情報]\nダメージ量：[1312%]\nSA破壊量：[110%]\n\n凝縮された高密度のエナジーが大きなウェーブを発生させ、敵を攻撃する。
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_B
 0
 
 ID=24091
 Quantity Increase Ⅰ
-[Basic]\nDamage: -[106%] per hit\nSA Break: -[49%] per hit\n\n[Additional]\nDamage: [65%] per hit\nSA Break: [30%] per hit\n\nFires additional tiny spheres.
-[Basic]\nDamage: [106%]-12% per hit\nSA Break: [49%]-5%\n\n[Additional]\nDamage: [65%]+6% per hit\nSA Break: [30%]+3% per hit.
+[特性情報：通常攻撃]\nダメージ量減少値：攻撃1回あたり[130%]\nSA破壊量減少値：攻撃1回あたり[60%]\n\n[特性情報：追加攻撃]\nダメージ量：攻撃1回あたり[65%]\nSA破壊量：攻撃1回あたり[30%]\n\n小さな弾を追加発射する。
+[通常攻撃]\nダメージ量：攻撃一回あたり[130%]+12%\nSA破壊量：攻撃一回あたり[60%]+5%\n\n[追加攻撃]\nダメージ量追加値：攻撃一回あたり[65%]+7%\nSA破壊量：攻撃一回あたり[30%]+2.5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow_A
 0
 
 ID=24092
 Quantity Increase Ⅱ
-[Basic]\nDamage: -[94%] per hit\nSA Break: -[44%] per hit\n\n[Additional]\nDamage: [71%] per hit\nSA Break: [33%] per hit\n\nFires additional tiny spheres.
-[Basic]\nDamage: [94%]-35% per hit\nSA Break: [44%]-16%\n\n[Additional]\nDamage: [71%]+12% per hit\nSA Break: [33%]+5% per hit.
+[特性情報：通常攻撃]\nダメージ量：攻撃1回あたり[142%]\nSA破壊量：攻撃1回あたり[65%]\n\n[特性情報：追加攻撃]\nダメージ量：攻撃1回あたり[72%]\nSA破壊量：攻撃1回あたり[32.5%]\n\n小さな弾を追加発射する。
+[通常攻撃]\nダメージ量：攻撃一回あたり[142%]+23%\nSA破壊量：攻撃一回あたり[65%]+11%\n\n[追加攻撃]\nダメージ量追加値：攻撃一回あたり[72%]+10.5%\nSA破壊量：攻撃一回あたり[32.5%]+5.5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow_A
 0
 
 ID=24093
 Quantity Increase Ⅲ
-[Basic]\nDamage: -[71%] per hit\nSA Break: -[33%] per hit\n\n[Additional]\nDamage: +[83%] per hit\nSA Break: +[38%] per hit\n\nFires additional small bullet.
+[特性情報：通常攻撃]\nダメージ量：攻撃1回あたり[165%]\nSA破壊量：攻撃1回あたり[76%]\n\n[特性情報：追加攻撃]\nダメージ量：攻撃1回あたり[82.5%]\nSA破壊量：攻撃1回あたり[38%]\n\n小さな弾を追加発射する。
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow_A
 0
 
 ID=24101
 Extra Attack Ⅰ
-[Info]\nDebuff Effect: -[20%] Defense per hit\nDebuff Duration: [5s]\n\nSphere speed will decrease, becomes continuous attack, grants debuff.
+[特性情報]\nデバフ効果：(命中時)防御度[20%]減少\nデバフ持続時間：[5秒]\n\n衝撃弾の速度は遅くなるが、連続攻撃になり、デバフを付与する。
 Damage: +94%\nSA Break: +50%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop_A
 0
 
 ID=24102
 Extra Attack Ⅱ
-[Info]\nDamage: [94%]\nSA Break: [50%]\nDebuff Effect: -[20%] Defense per hit\nDebuff Duration: [5s]\n\nSphere speed will decrease, becomes continuous attack, grants debuff.
+[特性情報]\nダメージ量追加値：[94%]\nデバフ効果；(命中時)防御度[20%]減少\nデバフ持続時間：[5秒]\nSA破壊量追加値：[50%]\n\n衝撃弾の速度は遅くなるが、連続攻撃になり、デバフを付与する。
 Damage: [94%]+187%\nSA Break: [50%]+101%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop_A
 0
 
 ID=24103
 Extra Attack Ⅲ
-[Info]\nDamage: [281%]\nSA Break: [151%]\nDebuff Effect: -[20%] Defense per hit\nDebuff Duration: [5s]\n\nSphere speed will decrease, becomes continuous attack, grants debuff.
+[特性情報]\nダメージ量追加値：[281%]\nデバフ効果；(命中時)防御度[20%]減少\nデバフ持続時間：[5秒]\nSA破壊量追加値：[151%]\n\n衝撃弾の速度は遅くなるが、連続攻撃になり、デバフを付与する。
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop_A
 0

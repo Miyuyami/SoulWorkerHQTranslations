@@ -755,7 +755,7 @@ Icon/Buff/Icon_Common_Debuff_Silence
 Silence
 
 ID=5000
-Erosion Ⅰ
+覚醒
 Attack +20%. Damage taken -50%. Movement speed +20%. Gain super armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -898,8 +898,14 @@ Stamina consumption -80%.
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 Stamina Cost ↓
 
+ID=5060
+イロージョン
+ダメージ減少量が25%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=5500
-Erosion Ⅰ
+覚醒
 All attacks deal maximum damage. Attack Speed +30%. Movement Speed +20%. Gain super armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1174,6 +1180,12 @@ Gain Super Armor, all attacks received are evaded.
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
+ID=5590
+イロージョン
+攻撃速度が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=5998
 Pleasure Bullets
 Stack SG restoration up to 3 times.
@@ -1181,7 +1193,7 @@ Icon/Buff/Icon_Common_Buff_ASR
 +SG
 
 ID=6000
-Erosion Ⅰ
+覚醒
 +300% Critical Damage. +20% Movement Speed. Gain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1318,8 +1330,14 @@ Display buff related effects
 Icon/Buff/Icon_Common_Debuff_Paralysis
 0
 
+ID=6070
+イロージョン
+クリティカル攻撃力が150%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=6500
-Erosion Ⅰ
+覚醒
 +15% SG per second. Movement Speed +20%. Gain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1636,6 +1654,12 @@ Attack +500
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
+ID=6600
+イロージョン
+SGを毎秒8%回復する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=6994
 Sorrowful Note Ⅰ
 +1% SG every 2 seconds.
@@ -1661,7 +1685,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 Mode Switch
 
 ID=7000
-Erosion Ⅰ
+覚醒
 +100% Attack Power.\n+20% Movement Speed.\nGain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1811,37 +1835,43 @@ Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
 
 ID=7071
-0
-0
+カウンターアタック
+ソウルを10%回復。
 0
 Soul Recovery
 
 ID=7072
-0
-0
+カウンターアタック
+ソウルを11%回復。
 0
 Soul Recovery
 
 ID=7073
-0
-0
+カウンターアタック
+ソウルを13%回復。
 0
 Soul Recovery
 
 ID=7074
-0
-0
+カウンターアタック
+ソウルを15%回復。
 0
 Soul Recovery
 
 ID=7075
-0
-0
+カウンターアタック
+ソウルを20%回復。
 0
 Soul Recovery
 
+ID=7080
+イロージョン
+攻撃力が50%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=7500
-Erosion Ⅰ
+覚醒
 Attack Power +20%.\nSA Break +30%.\nMovement Speed +20%.\nGain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1947,6 +1977,12 @@ Enhanced Attack Ⅴ
 The next attack has increased attack power.
 Icon/Buff/Icon_Common_Buff_ATK
 Enhanced Attack
+
+ID=7530
+イロージョン
+SA破壊力が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
 
 ID=8001
 Rapid Attack Ⅰ
@@ -5496,73 +5532,73 @@ Critical Damage Increased
 
 ID=53748
 Concentration Ⅰ
-+5% Damage against bosses.
+装着時、ボス/ネームドモンスターに与えるダメージが5%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53749
 Concentration Ⅱ
-+10% Damage against bosses.
+装着時、ボス/ネームドモンスターに与えるダメージが10%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53750
 Concentration Ⅲ
-+15% Damage against bosses.
+装着時、ボス/ネームドモンスターに与えるダメージが15%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53751
 Concentration Ⅰ
-+7% Damage against bosses.
+装着時、ボス/ネームドモンスターに与えるダメージが7%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53752
 Concentration Ⅱ
-+12% Damage against bosses.
+装着時、ボス/ネームドモンスターに与えるダメージが12%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53753
 Concentration Ⅲ
-+17% Damage against bosses.
+装着時、ボス/ネームドモンスターに与えるダメージが17%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53754
 Cool-headed Ⅰ
-+5% Damage Reduction from bosses.
+装着時、ボス/ネームドモンスターから受けるダメージが5%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reduction Increased
 
 ID=53755
 Cool-headed Ⅱ
-+7% Damage Reduction from bosses.
+装着時、ボス/ネームドモンスターから受けるダメージが7%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reduction Increased
 
 ID=53756
 Cool-headed Ⅲ
-+10% Damage Reduction from bosses.
+装着時、ボス/ネームドモンスターから受けるダメージが10%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reduction Increased
 
 ID=53757
 Cool-headed Ⅰ
-+7% Damage Reduction from bosses.
+装着時、ボス/ネームドモンスターから受けるダメージが7%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reduction Increased
 
 ID=53758
 Cool-headed Ⅱ
-+9% Damage Reduction from bosses.
+装着時、ボス/ネームドモンスターから受けるダメージが9%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reduction Increased
 
 ID=53759
 Cool-headed Ⅲ
-+12% Damage Reduction from bosses.
+装着時、ボス/ネームドモンスターから受けるダメージが12%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reduction Increased
 

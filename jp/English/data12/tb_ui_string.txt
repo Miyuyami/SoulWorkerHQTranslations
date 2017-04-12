@@ -599,7 +599,7 @@ ID=396
 {0} Soulcoin
 
 ID=397
-{0} Recycling Points
+{0}ポイント
 
 ID=401
 Store
@@ -641,7 +641,7 @@ ID=413
 Dismantle
 
 ID=414
-Socket
+ソケット管理
 
 ID=415
 Repair
@@ -1328,16 +1328,16 @@ ID=728
 Lv{0}
 
 ID=729
-Recycle
+ヨミの秘蔵庫
 
 ID=730
-Tune Options
+オプション精錬機能
 
 ID=731
 #{0}
 
 ID=732
-Casual Raid, also known as a "Space Abnormality", is a high-difficulty Party-only dungeon. Please prepare properly before participating in the raid.
+カジュアルレイド、別名「異常空白」は高難易度のパーティー専用メイズです。
 
 ID=733
 "Golden Citadel" is a 4-man only top tier Party raid. Break through the golden disaster in order to survive.
@@ -1532,7 +1532,7 @@ ID=797
 Activate Sniper Mode
 
 ID=798
-(Net cafe entries remaining: {0})
+(ネカフェ入場回数：残り{0})
 
 ID=799
 (Net cafe entry benefits: {0})
@@ -1571,7 +1571,7 @@ ID=811
 Attach Socket Item
 
 ID=812
-Attach Familiar
+ソケットアイテム（ファミリア/ソウルストーン）を装着できます。
 
 ID=813
 You do not have the funds or item required to socket the item.
@@ -1580,7 +1580,7 @@ ID=814
 Fee
 
 ID=815
-Familiar Attached
+ソケットアイテム（ファミリア/ソウルストーン）装着
 
 ID=816
 After releasing the socketed item, new socket items can be attached.
@@ -1589,25 +1589,25 @@ ID=817
 You can attach the socket item after unattaching the applied socket item.
 
 ID=818
-Are you sure you want to attach the Familiar to the target socket?
+対象ソケットに{0}を装着しますか？
 
 ID=819
-You have successfully attached the Familiar.
+ソケットアイテム（ファミリア/ソウルストーン）装着に成功しました。
 
 ID=820
 Socket Item Management
 
 ID=821
-You can add a new Familiar in the socket.\nRelease the Familiar first.
+ソケットに装着中のソケットアイテム（ファミリア/ソウルストーン）を解除したり、\n新しいソケットを追加できます。
 
 ID=822
 You do not have the items or fee needed to dismantle items.
 
 ID=823
-You do not have the required item to add a new socket.
+新規ソケット追加に必要なアイテム[インプラントスロット]が不足しています。
 
 ID=824
-Familiar successfully released.
+ソケットアイテム（ファミリア/ソウルストーン）解除
 
 ID=825
 Additional Socket
@@ -1616,13 +1616,13 @@ ID=826
 Are you sure you want to remove the socketed item?\n(It will be returned to the inventory.)
 
 ID=827
-Do you want to add a new socket to the selected item?
+新しいソケットを追加しますか？
 
 ID=828
-Familiars can be attached in the socket attachment popup.\n(You can open the popup from the item's right-click menu)
+ソケットアイテム（ファミリア/ソウルストーン）装着はソケットアイテム装着ポップアップで進行できます。\n(装着ポップアップはアイテム右クリックメニューから選択できます。)
 
 ID=829
-Cancelled the selected Familiar.
+選択したソケットアイテム（ファミリア/ソウルストーン）が解除されました。
 
 ID=830
 A socket has been added to the selected item.
@@ -3124,8 +3124,8 @@ ID=5050
 ID=5051
 [Break Skill]\nErosion Mode Unlocked
 
-ID=5052
-SV {0}% Cost
+ID=5053
+<ブレイクスキル>\n覚醒使用可能
 
 ID=5100
 Intro Video
@@ -3956,7 +3956,7 @@ ID=7004
 Select a skill deck.
 
 ID=7005
-Display Break Skill
+Break Skill
 
 ID=7006
 Peak
@@ -3993,6 +3993,9 @@ Card No.
 
 ID=7017
 Cards
+
+ID=7018
+Awakening
 
 ID=7100
 Damage +{0}%
@@ -4273,6 +4276,9 @@ R Square
 ID=9251
 Best Showtime
 
+ID=9252
+属性カジュアルレイド
+
 ID=9301
 Candus City
 
@@ -4383,6 +4389,81 @@ ID=9781
 
 ID=9782
 The Primal
+
+ID=9783
+光輝のラストカーニバル
+
+ID=9784
+悪念のラストカーニバル
+
+ID=9785
+冷静のラストカーニバル
+
+ID=9786
+憎悪のラストカーニバル
+
+ID=9787
+治癒のラストカーニバル
+
+ID=9788
+苦痛のラストカーニバル
+
+ID=9789
+光輝のジャンクハイブ
+
+ID=9790
+悪念のジャンクハイブ
+
+ID=9791
+冷静のジャンクハイブ
+
+ID=9792
+憎悪のジャンクハイブ
+
+ID=9793
+治癒のジャンクハイブ
+
+ID=9794
+苦痛のジャンクハイブ
+
+ID=9795
+光輝のバンディットハイウェイ
+
+ID=9796
+悪念のバンディットハイウェイ
+
+ID=9797
+冷静のバンディットハイウェイ
+
+ID=9798
+憎悪のバンディットハイウェイ
+
+ID=9799
+治癒のバンディットハイウェイ
+
+ID=9800
+苦痛のバンディットハイウェイ
+
+ID=9801
+光輝のアイアンキャッスル
+
+ID=9802
+悪念のアイアンキャッスル
+
+ID=9803
+冷静のアイアンキャッスル
+
+ID=9804
+憎悪のアイアンキャッスル
+
+ID=9805
+治癒のアイアンキャッスル
+
+ID=9806
+苦痛のアイアンキャッスル
+
+ID=9891
+緊急事態発生地
 
 ID=9981
 Rocco Town Shortcut
@@ -4947,6 +5028,27 @@ Confession Time
 
 ID=10524
 Clash of Fate
+
+ID=13000
+最下級
+
+ID=13001
+下級
+
+ID=13002
+中級
+
+ID=13003
+上級
+
+ID=13004
+最上級
+
+ID=13005
+システム点検中により、認証に失敗しました。
+
+ID=13006
+予期せぬエラーにより認証に失敗しました。\nお客様センターにお問い合わせください。\n[ErrorCode：{0}]
 
 ID=14000
 Steel Grave
@@ -5801,7 +5903,7 @@ ID=18083
 {0} new furnitures will be stored in the Furniture Inventory.
 
 ID=18172
-{0} Familiar sockets
+ファミリア/ソウルストーンソケット最大{0}個付与
 
 ID=18173
 Details
@@ -5813,7 +5915,7 @@ ID=18175
 Set Option Information
 
 ID=18176
-Familiar
+ファミリア/ソウルストーン
 
 ID=18177
 Enhances
@@ -5837,10 +5939,10 @@ ID=18183
 Enhance Option
 
 ID=18184
-No Equipped Famliar
+着用ソケットアイテムなし
 
 ID=18185
-Familiar Socket available for Expansion
+ソケットアイテム（ファミリア/ソウルストーン）ソケット拡張可能
 
 ID=18186
 {0} brooch sockets ({1} extensible)
@@ -5852,7 +5954,7 @@ ID=18188
 No items found.
 
 ID=18189
-Failed to purchase item: Insufficient recycling points
+アイテム購入失敗：ヨミの秘蔵庫ポイント不足
 
 ID=18190
 Enhancement Status
@@ -5867,13 +5969,13 @@ ID=18193
 Enhancing will not attach an extra option.
 
 ID=18194
-Option Tuning
+オプション精錬
 
 ID=18195
 Fixed Options
 
 ID=18196
-Tune
+精錬
 
 ID=18197
 The options of {0} will be changed.\nAre you sure you want to change the options?
@@ -5922,6 +6024,12 @@ Extract {1} brooches out of {0}.
 
 ID=18212
 Insufficient {0} for the brooch extraction.
+
+ID=18213
+等級精錬
+
+ID=18214
+等級精錬時、登録されたアイテムの等級が低くなる場合があります。
 
 ID=18500
 Fast Blade
@@ -6187,8 +6295,104 @@ SA Break: {0}%
 ID=18603
 SG Absorbtion: {0}%
 
+ID=18650
+クーポン使用完了
+
+ID=18651
+クーポン使用失敗
+
+ID=18652
+{0}クーポンの使用が完了しました。HEMS(メール)でプレゼントを確認してください。
+
+ID=18653
+存在しないコードです。もう一度ご確認ください。
+
+ID=18654
+すでに使用されたクーポンです。
+
+ID=18655
+すでに参加済みのイベントです。(同一アカウント1回制限)
+
+ID=18656
+クーポンの使用期間が満了しました。
+
+ID=18657
+クーポン入力
+
 ID=18700
 Unlimited
+
+ID=18701
+General
+
+ID=18702
+Trade
+
+ID=18703
+Party
+
+ID=18704
+Guild
+
+ID=18705
+Whisper
+
+ID=18706
+サーバー
+
+ID=18707
+System
+
+ID=18708
+Event
+
+ID=18709
+Notice
+
+ID=18710
+拡声器
+
+ID=18711
+Cinema
+
+ID=18712
+Force
+
+ID=18750
+使用者認証情報を要請中です。\nしばらくお待ちください。
+
+ID=18751
+使用者認証情報を確認中です。\nしばらくお待ちください。
+
+ID=18752
+サーバーリスト情報を確認中です。\nしばらくお待ちください。
+
+ID=18753
+現在、接続可能なサーバーがありません。
+
+ID=18754
+サーバーが混雑しています。\nしばらくしてから、もう一度お試しください。\n初めてお越し方は、別のサーバーをご利用ください。
+
+ID=18755
+キャラクター購入制限
+
+ID=18756
+アカウント購入制限
+
+ID=18757
+サーバー許容人数超過
+
+ID=18758
+<font color='#FFC000'>[{0}]サーバーは混雑状態です。</font> \n<font color='#00B0F0'>接続待機順序：{1}</font> \n\n自動接続待機中
+
+ID=18759
+キャラクター購入限度を超過しました。
+
+ID=18760
+アカウント購入限度を超過しました。
+
+ID=18810
+1周年記念
 
 ID=19000
 <font color='#47C83E'>Attack +1%/Evaded Attack Damage +1%</font>
@@ -6376,6 +6580,9 @@ ID=19508
 ID=19511
 Candy Knight
 
+ID=19512
+スチームパンク
+
 ID=20010
 Greet
 
@@ -6540,6 +6747,15 @@ You've come to return the favor.
 
 ID=20153
 {0} is returning the favor.
+
+ID=20154
+スチームパンク
+
+ID=20155
+見よ！これぞオーバーテクノロジー。
+
+ID=20156
+{0}がオーバーテクノロジーを披露しています。
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -8068,6 +8284,12 @@ Coating
 ID=24328
 Crop
 
+ID=24329
+ソウルストーン
+
+ID=24330
+先知者の破片
+
 ID=24499
 Booker's Point
 
@@ -8174,7 +8396,7 @@ ID=24533
 Brooch Synthesis 
 
 ID=24534
-Additional Familiar Socket
+ソケットアイテム（ファミリア/ソウルストーン）ソケット追加
 
 ID=24535
 Additional Avatar Socket
@@ -8551,6 +8773,9 @@ Guild Mark Change Ticket
 ID=24659
 Bike
 
+ID=24670
+ソケットアイテム抽出機
+
 ID=24750
 General
 
@@ -8882,7 +9107,7 @@ ID=24891
 Parts
 
 ID=24892
-Recycling Point
+ヨミの秘蔵庫ポイント
 
 ID=24893
 Hammer
@@ -9481,6 +9706,42 @@ Primal Faction Additional Damage
 ID=26129
 Primal Faction Damage Reduction
 
+ID=26130
+[光輝]攻撃力
+
+ID=26131
+[悪念]攻撃力
+
+ID=26132
+[冷静]攻撃力
+
+ID=26133
+[憎悪]攻撃力
+
+ID=26134
+[治癒]攻撃力
+
+ID=26135
+[苦痛]攻撃力
+
+ID=26136
+[光輝]抵抗力
+
+ID=26137
+[悪念]抵抗力
+
+ID=26138
+[冷静]抵抗力
+
+ID=26139
+[憎悪]抵抗力
+
+ID=26140
+[治癒]抵抗力
+
+ID=26141
+[苦痛]抵抗力
+
 ID=26201
 Last-Hit Attack
 
@@ -9563,7 +9824,7 @@ ID=26321
 When critically hit, 50% chance of +{0} HP
 
 ID=26322
-On hit, 5% chance of +{0}% SA Break for 5s
+命中時、5%の確率で5秒間、スーパーアーマー破壊力{0}%適用
 
 ID=26323
 In town, +{0}% Movement Speed
@@ -9608,7 +9869,7 @@ ID=26336
 When hit, 20% chance of Super Armor for 6s
 
 ID=26337
-On evasion, +{0}% Damage Reduction for 5s
+回避時、ダメージ減少{0}%
 
 ID=26338
 When hit mid-air, +{0}% Damage Reduction for 5s.
@@ -9656,7 +9917,7 @@ ID=26352
 When under 10% HP, +{0} Attack for 10s
 
 ID=26353
-When under 10% HP, +{0}% SA Break for 10s
+体力が10%以下の時、10秒間、スーパーアーマー破壊力{0}%適用
 
 ID=26354
 On hit with 5% HP or less, 10% chance of invincibility for 1s
@@ -10202,7 +10463,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 23/Mar/2017 1:30 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 12/Apr/2017 10:40 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -10785,6 +11046,18 @@ Please select a basic pattern for the guild mark.
 
 ID=28265
 This guild mark is identical to the previous one.
+
+ID=28266
+ギルド加入状態の時のみ使用可能です。
+
+ID=28267
+{0}時間{1}分後復活
+
+ID=28268
+{0}分後復活
+
+ID=28269
+{0}秒後復活
 
 ID=29000
 Room
@@ -11638,6 +11911,12 @@ An unexpected error occurred.\nWould you like to rejoin?\n({0} seconds remaining
 ID=31175
 You cannot rejoin if you quit the game on purpose.\nYou can only rejoin if the game has ended due to an unexpected error.
 
+ID=31176
+パーティー状態の時のみ使用可能です。
+
+ID=31177
+パーティー募集レベル情報が誤っています。
+
 ID=32000
 Gameplay Controls
 
@@ -12422,25 +12701,25 @@ ID=36012
 Move
 
 ID=37001
-Emergency! A fissure in the void has appeared in District 6.
+緊急！第6区域に空白の亀裂発生！応援を求む！
 
 ID=37002
-The void core from District 6 was removed.
+空白の亀裂を除去できました。
 
 ID=37003
-The fissure in the void has disappeared from District 6.
+緊急事態発生地の空白の亀裂が突然姿を消しました。
 
 ID=37004
-Emergency! Unknown life forms have emerged in District 6.
+緊急事態発生地の中心部にコードネーム[ザ・シング]が出現しました。
 
 ID=37005
-The unknown life forms were defeated in District 6 by {0}.
+最高のソウルワーカー！{0}によって、ザ・シングが討伐されました。
 
 ID=37006
-The fissure in the void has disappeared from District 6.
+緊急事態発生地のザ・シングが突然姿を消しました。
 
 ID=37007
-A fissure in the void has appeared in District 6.\nBefore the fissure disappears, please defeat the void core and The Thing.\n(Remaining until the fissure disappears: {0} minutes)
+緊急事態が発生しました。\nLｖ.40から支援可能です。\nアイコンをクリックして支援をお願いします！\n\n亀裂消滅まで：残り{0}分
 
 ID=37008
 The Vacuum Cube has disappeared, unable to obtain any items.
@@ -12481,11 +12760,14 @@ Cannot enter.
 ID=37020
 Entrance Time
 
+ID=37021
+緊急事態発生地の中心部に移動中の[ザ・シング]のエナジー感知。1分後に遭遇する見込みです。
+
 ID=37025
-The unknown life forms from District 6 have been defeated.\n(Remaining until the event ends: {0} minutes)
+該当チャンネルのザ・シングが討伐されました。\n\n緊急事態終了まで：残り{0}分
 
 ID=37026
-Unknown life forms have emerged in District 6.\n(Remaining until the event ends: {0} minutes)
+緊急事態発生地で[コードネーム：ザ・シング]が出現しました。\n制限時間内に討伐してください！\n支援はLｖ.40から可能です。\nボタンを押して支援をお願いします！\n\n緊急事態終了まで：残り{0}分
 
 ID=37500
 Soul Hunter Progress
@@ -12687,6 +12969,15 @@ ID=38015
 
 ID=38016
 +{0}% Result Zenny
+
+ID=38022
+取引所の販売手数料免除
+
+ID=38023
+曜日に関係なく、全属性カジュアルレイド入場可能
+
+ID=38024
+メイズクリアカードキー1個自動使用
 
 ID=38500
 Rank
@@ -13448,7 +13739,7 @@ ID=40299
 The magnetic fields have been deactivated.
 
 ID=40300
-Each Steel Grave challenge is made up of 5 stages. You can challenge it up to 3 times a day.
+スチールグレイブは5ステージで構成されており、1日5回挑戦できます。
 
 ID=40301
 Operate the controller to spawn the enemies.
@@ -13890,6 +14181,348 @@ The supporting attack from the Tank Squad began.\nRemaining enemies will be defe
 
 ID=40703
 Please escort Katherine to the designated area.
+
+ID=41000
+{0}日目
+
+ID=41001
+1日目
+
+ID=41002
+2日目
+
+ID=41003
+3日目
+
+ID=41004
+4日目
+
+ID=41005
+5日目
+
+ID=41006
+6日目
+
+ID=41007
+7日目
+
+ID=41100
+これからだ！
+
+ID=41101
+新たな力Ⅰ
+
+ID=41102
+サッと溶かそうⅠ
+
+ID=41103
+ゼニスと秘密の取り引き
+
+ID=41104
+果てない旅路
+
+ID=41105
+新たな力Ⅱ
+
+ID=41106
+歴史を刻む方法
+
+ID=41107
+輝けムキムキ
+
+ID=41108
+サッと溶かそうⅡ
+
+ID=41109
+手馴れてますね？
+
+ID=41110
+新たな力Ⅲ
+
+ID=41111
+宿題のようで宿題じゃないⅠ
+
+ID=41112
+サッと溶かそうⅢ
+
+ID=41113
+ゼニスと秘密の取り引きⅡ
+
+ID=41114
+新たな力Ⅳ
+
+ID=41115
+宿題のようで宿題じゃないⅡ
+
+ID=41116
+閃かせムキムキ
+
+ID=41117
+サッと溶かそうⅣ
+
+ID=41118
+ロマン溢れる店Ⅰ
+
+ID=41119
+コントロールを深化してみよう
+
+ID=41120
+新たな力Ⅴ
+
+ID=41121
+宿題のようで宿題じゃないⅢ
+
+ID=41122
+もっと輝けⅠ
+
+ID=41123
+サッと溶かそうV
+
+ID=41124
+ゼニスと秘密の取り引きⅢ
+
+ID=41125
+新たなⅥ
+
+ID=41126
+宿題のようで宿題じゃないⅣ
+
+ID=41127
+歴史を伝承する方法
+
+ID=41128
+燃え上れムキムキ
+
+ID=41129
+サッと溶かそうVI
+
+ID=41130
+もう泣かない！
+
+ID=41131
+新たな力Ⅶ
+
+ID=41132
+宿題のようで宿題じゃないⅤ
+
+ID=41133
+歴史を塗り替える方法
+
+ID=41134
+もっと輝けⅡ
+
+ID=41135
+永遠なれムキムキ
+
+ID=41136
+サッと溶かそうⅦ
+
+ID=41137
+ゼニスと秘密の取り引きⅣ
+
+ID=41138
+ロマン溢れる店Ⅱ
+
+ID=41200
+RスクエアEP4ノーマルクリア
+
+ID=41201
+スキル強化1回
+
+ID=41202
+アイテム分解3回
+
+ID=41203
+ベストショータイムEP4ノーマルクリア
+
+ID=41204
+スキル強化3回
+
+ID=41205
+A.Rカード製作1回
+
+ID=41206
+アイテム強化4回挑戦
+
+ID=41207
+アイテム分解6回
+
+ID=41208
+Sコインショップ利用回数1回
+
+ID=41209
+コンクリートジャングルEP4ノーマルクリア
+
+ID=41210
+スキル強化5回
+
+ID=41211
+スチールグレイブプレイ2回
+
+ID=41212
+アイテム強化6回挑戦
+
+ID=41213
+アイテム分解9回
+
+ID=41214
+アイテム製作3回
+
+ID=41215
+ジャンクプールEP4ノーマルクリア
+
+ID=41216
+スキル強化7回
+
+ID=41217
+スチールグレイブ4回プレイ
+
+ID=41218
+A.Rカード製作2回
+
+ID=41219
+アイテム強化8回挑戦
+
+ID=41220
+アイテム分解12回
+
+ID=41221
+Sコインショップ利用回数2回
+
+ID=41222
+ザ・ビッグマウスEP4ノーマルクリア
+
+ID=41223
+スキル強化9回
+
+ID=41224
+スチールグレイブ6回プレイ
+
+ID=41225
+ブローチ合成1回
+
+ID=41226
+アイテム強化10回挑戦
+
+ID=41227
+アイテム分解15回
+
+ID=41228
+アイテム製作5回
+
+ID=41229
+N-102EP4ノーマルクリア
+
+ID=41230
+スキル強化10回
+
+ID=41231
+スチールグレイブ8回プレイ
+
+ID=41232
+A.Rカード製作3回
+
+ID=41233
+アイテム強化12回挑戦
+
+ID=41234
+アイテム分解18回
+
+ID=41235
+Sコインショップ利用回数3回
+
+ID=41236
+ブレイクアウトEP4ノーマルクリア
+
+ID=41237
+スキル強化10回
+
+ID=41238
+スチールグレイブ10回プレイ
+
+ID=41239
+A.Rカード製作4回
+
+ID=41240
+ブローチ合成2回
+
+ID=41241
+アイテム強化16回挑戦
+
+ID=41242
+アイテム分解21回
+
+ID=41243
+アイテム製作7回
+
+ID=41244
+Ｓコインショップ利用回数4回
+
+ID=41300
+キャラクター{0}LV達成
+
+ID=41301
+災厄の巨人{0}回クリア
+
+ID=41302
+スキル{0}回強化
+
+ID=41303
+スチールグレイブ{0}回プレイ
+
+ID=41304
+A.Rカード製作{0}回
+
+ID=41305
+ブローチ{0}回合成
+
+ID=41306
+アイテム{0}回強化
+
+ID=41307
+アイテム{0}回分解
+
+ID=41308
+アイテム{0}回製作
+
+ID=41309
+Sコインショップ{0}回利用
+
+ID=41310
+ディストリクトでPvPのBP{0}獲得
+
+ID=41311
+ザ・シングレイド参加
+
+ID=41312
+日を越えても以前のクエストを完了させることができます。
+
+ID=41313
+レッツ！ソウルワーカー！！
+
+ID=41314
+Claim
+
+ID=41315
+最終報酬受け取り
+
+ID=41316
+レッツスタート!!
+
+ID=41317
+完了してないミッションがあります。
+
+ID=41318
+Complete
+
+ID=41319
+月下の狂舞{0}回クリア
+
+ID=41320
+麗しき捕食者{0}回クリア
+
+ID=41321
+嘆きの空{0}回クリア
 
 ID=42000
 Jack the King
@@ -16261,6 +16894,159 @@ Insufficient Zenny.
 ID=47021
 Cannot use because the booster gauge is full.
 
+ID=48001
+相関関係
+
+ID=48002
+抽出
+
+ID=48003
+スロット拡張可能です。
+
+ID=48004
+ソケット追加
+
+ID=48005
+Attach
+
+ID=48006
+ソケットアイテムを装着してください
+
+ID=48007
+すべて
+
+ID=48008
+光輝
+
+ID=48009
+悪念
+
+ID=48010
+冷静
+
+ID=48011
+憎悪
+
+ID=48012
+治癒
+
+ID=48013
+苦痛
+
+ID=48014
+ソウルストーン装着不可
+
+ID=48015
+装着されたソケットアイテムを抽出するのに必要なアイテムが不足しています。
+
+ID=48016
+[ソウルウェポン装着]
+
+ID=48017
+[ギア装着]
+
+ID=48018
+ソウルストーンを装着できます。
+
+ID=48019
+ソウルストーン
+
+ID=48200
+ソウルストーンは最大3個まで装着できます。
+
+ID=48201
+同じ属性のソウルストーンは2個まで装着可能です。
+
+ID=48202
+相関属性のソウルストーンは装着できません。
+
+ID=48203
+{0}を抽出しますか？\n{1}を{2}個消費
+
+ID=48300
+光輝
+
+ID=48301
+悪念
+
+ID=48302
+冷静
+
+ID=48303
+憎悪
+
+ID=48304
+治癒
+
+ID=48305
+苦痛
+
+ID=48330
+_[#FFFF00{0}]_
+
+ID=48331
+_[#E646E6{0}]_
+
+ID=48332
+_[#3366FF{0}]_
+
+ID=48333
+_[#FF0033{0}]_
+
+ID=48334
+_[#F4FEFE{0}]_
+
+ID=48335
+_[#00FF00{0}]_
+
+ID=48400
+Entrance Time
+
+ID=48401
+相関関係
+
+ID=48402
+属性選択
+
+ID=48403
+A
+
+ID=48404
+D
+
+ID=48405
+属性変更
+
+ID=48406
+S
+
+ID=48407
+W
+
+ID=48408
+Change EP
+
+ID=48409
+Reward
+
+ID=48410
+光輝の破片に汚染された敵が現れます。\n[悪念]攻撃力と[光輝]抵抗力が高いほどスムーズに突破できます。
+
+ID=48411
+悪念の破片に汚染された敵が現れます。\n[光輝]攻撃力と[悪念]抵抗力が高いほどスムーズに突破できます。
+
+ID=48412
+冷静の破片に汚染された敵が現れます。\n[憎悪]攻撃力と[冷静]抵抗力が高いほどスムーズに突破できます。
+
+ID=48413
+憎悪の破片に汚染された敵が現れます。\n[冷静]攻撃力と[憎悪]抵抗力が高いほどスムーズに突破できます。
+
+ID=48414
+治癒の破片に汚染された敵が現れます。\n[苦痛]攻撃力と[治癒]抵抗力が高いほどスムーズに突破できます。
+
+ID=48415
+苦痛の破片に汚染された敵が現れます。\n[治癒]攻撃力と[苦痛]抵抗力が高いほどスムーズに突破できます。
+
 ID=49000
 Ongoing
 
@@ -16781,7 +17567,7 @@ ID=49726
 Account Locked
 
 ID=49727
-You have entered the wrong PIN 3 times, the account has been locked.\nFollow the instructions on the homepage in order to reset your PIN.
+2次パスワードを3回間違えたため、3分間アカウントがロックされます。\n3分後にもう一度お試しください。
 
 ID=49728
 Not a valid PIN
@@ -17471,16 +18257,16 @@ ID=52223
 Insufficient enhancement materials. Item cannot be enhanced.
 
 ID=52225
-Not a Tuning NPC.
+精錬NPCではありません。
 
 ID=52226
-Not a Tunable item.
+精錬アイテムではありません。
 
 ID=52227
-There are not enough required Tuning items.
+精錬要求アイテムが足りません。
 
 ID=52228
-Tuning has failed.
+精錬に失敗しました。
 
 ID=52250
 Insufficient BP. Item cannot be crafted.
@@ -17584,6 +18370,15 @@ Insufficient inventory space.
 ID=52295
 You do not have the necessary items to remove the socket.
 
+ID=52297
+[ソウルストーン装着不可]\n相関関係のソウルストーンは装着できません。
+
+ID=52298
+[ソウルストーン装着不可]\n同じ属性のソウルストーンは2個まで装着できます。
+
+ID=52299
+[ソウルストーン装着不可]\nソウルストーンは最大3個まで装着できます。
+
 ID=52301
 Insufficient Zenny. You cannot purchase the item.
 
@@ -17612,7 +18407,7 @@ ID=52309
 You have exceeded the purchase limit for the day.
 
 ID=52310
-Insufficient Zenny/SoulCoin/BP. You cannot purchase the item.
+所持金[ジェニー/ソウルコイン/BP/ヨミの秘蔵庫ポイント]が不足しているため、アイテム購入に失敗しました。
 
 ID=52311
 Failed to purchase item: Inventory full
@@ -17805,6 +18600,18 @@ Cannot use consumables in this dungeon.
 
 ID=52617
 Cannot use resurrection items in this dungeon.
+
+ID=52062
+ノーマル、マジック等級のアイテムは精錬できません。
+
+ID=52063
+アイテム精錬に必要な精錬石が不足しています。
+
+ID=52064
+アイテム精錬に必要なジェニーが不足しています。
+
+ID=52065
+アイテム精錬に必要なエーテルが不足しています。
 
 ID=52700
 You will not gain or lose any BP because the level difference between you and the PvP target is too high.
@@ -18304,6 +19111,57 @@ Cannot enter because it's not open at this time.
 ID=55061
 Cannot change the Party leader while a party recruitment ad is registered.
 
+ID=55062
+緊急事態はLv.40から支援可能です。
+
+ID=55063
+現在地から入場不可。\n緊急事態時に支援可能地域は、ロコタウン/カンダスシティ/グレイスシティ/ルインフォートレス/ゴールデンシタデルの各町及び第6区域の安全地帯です。参加可能地域に移動後、もう一度お試しください。
+
+ID=55064
+全てのチャンネルの緊急事態が終了しました。
+
+ID=55065
+支援者が満員です。しばらくしてから、もう一度お試しください。
+
+ID=55066
+[1位]{0}/ダメージ量：{1}
+
+ID=55067
+[2位]{0}/ダメージ量：{1}
+
+ID=55068
+[3位]{0}/ダメージ量：{1}
+
+ID=55069
+[4位]{0}/ダメージ量：{1}
+
+ID=55070
+[5位]{0}/ダメージ量：{1}
+
+ID=55071
+[6位]{0}/ダメージ量：{1}
+
+ID=55072
+[7位]{0}/ダメージ量：{1}
+
+ID=55073
+[8位]{0}/ダメージ量：{1}
+
+ID=55074
+[9位]{0}/ダメージ量：{1}
+
+ID=55075
+[10位]{0}/ダメージ量：{1}
+
+ID=55076
+トドメの一撃成功！{0}から戦利品を獲得しました。
+
+ID=55077
+{0}が{1}の戦利品獲得に成功しました。
+
+ID=55078
+空白の亀裂及び[ザ・シング]に対するソウルエナジー反応基準10位までの集計結果です。
+
 ID=55101
 You have already befriended this person.
 
@@ -18650,7 +19508,7 @@ ID=58008
 You can not summon any more Supporters. [{0}/{1}]
 
 ID=58101
-You can enter Steel Grave up to 3 times a day.\nThe limit resets at 9 AM Japan time.
+スチールグレイブは1日5回入場できます。\n午前9時に入場回数がリセットされます。
 
 ID=58102
 Steel Grave is a place to challenge the limits of oneself.\nCannot enter while in a Party.
@@ -19338,6 +20196,12 @@ Match Retrying {0}/{1}
 
 ID=60294
 If you stop Force Auto-Matching, all the applying members will be cancelled.\nDo you want to cancel?
+
+ID=60295
+緊急事態発生！！支援を要請します！
+
+ID=60296
+緊急事態が発生しました。\n支援しますか？
 
 ID=60500
 4~8 Force People

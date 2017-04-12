@@ -755,7 +755,7 @@ Icon/Buff/Icon_Common_Debuff_Silence
 침묵
 
 ID=5000
-일루전(각성) I.
+覚醒
 공격력이 20% 증가한다. 받는데미지가 50% 감소한다. 이동속도가 20% 증가한다. 슈퍼아머 상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -898,8 +898,14 @@ ID=5050
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 스테미나 사용량 감소
 
+ID=5060
+イロージョン
+ダメージ減少量が25%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=5500
-일루전(각성) I.
+覚醒
 모든 공격이 최대데미지를 준다. 공격속도가 30% 증가한다. 이동속도가 20% 증가한다. 슈퍼아머 상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1174,6 +1180,12 @@ ID=5580
 Icon/Buff/Icon_Common_Buff_Sarmor
 완전회피
 
+ID=5590
+イロージョン
+攻撃速度が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=5998
 쾌락의 탄환
 3회 중첩되면, SG를 3칸 회복한다.
@@ -1181,7 +1193,7 @@ Icon/Buff/Icon_Common_Buff_ASR
 SG 회복
 
 ID=6000
-일루전(각성) I.
+覚醒
 크리티컬 공격이 300% 증가한다. 이동속도가 20% 증가한다. 슈퍼아머 상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1318,8 +1330,14 @@ Passive
 Icon/Buff/Icon_Common_Debuff_Paralysis
 0
 
+ID=6070
+イロージョン
+クリティカル攻撃力が150%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=6500
-일루전(각성) I.
+覚醒
 SG를 매초 15%씩 회복한다. 이동속도가 20% 증가한다. 슈퍼아머 상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1636,6 +1654,12 @@ ID=6569
 Icon/Buff/Icon_Common_Buff_ATK
 공격력 증가
 
+ID=6600
+イロージョン
+SGを毎秒8%回復する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=6994
 슬픔의악상Ⅰ
 2초마다 SG를 1%씩 회복한다.
@@ -1661,7 +1685,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 모드전환
 
 ID=7000
-일루전(각성) I.
+覚醒
 공격력이 100%증가한다. \n이동속도가20%증가한다. \n슈퍼아머상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1811,37 +1835,43 @@ Icon/Buff/Icon_Common_Debuff_Def
 방어력 감소
 
 ID=7071
-0
-0
+カウンターアタック
+ソウルを10%回復。
 0
 소울회복
 
 ID=7072
-0
-0
+カウンターアタック
+ソウルを11%回復。
 0
 소울회복
 
 ID=7073
-0
-0
+カウンターアタック
+ソウルを13%回復。
 0
 소울회복
 
 ID=7074
-0
-0
+カウンターアタック
+ソウルを15%回復。
 0
 소울회복
 
 ID=7075
-0
-0
+カウンターアタック
+ソウルを20%回復。
 0
 소울회복
 
+ID=7080
+イロージョン
+攻撃力が50%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
 ID=7500
-일루전(각성) I.
+覚醒
 공격력이20%증가한다.\n슈퍼아머 파괴력이30%증가한다.\n이동속도가20%증가한다.\n슈퍼아머상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1947,6 +1977,12 @@ ID=7525
 1회만 다음공격의 공격력이 증가한다.
 Icon/Buff/Icon_Common_Buff_ATK
 공격강화
+
+ID=7530
+イロージョン
+SA破壊力が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
 
 ID=8001
 쾌속공격Ⅰ
@@ -5496,73 +5532,73 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53748
 집중Ⅰ
-장착시, 보스/네임드의 데미지양이 5% 증가한다.
+装着時、ボス/ネームドモンスターに与えるダメージが5%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지량 증가
 
 ID=53749
 집중Ⅱ
-장착시, 보스/네임드의 데미지양이 10% 증가한다.
+装着時、ボス/ネームドモンスターに与えるダメージが10%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지량 증가
 
 ID=53750
 집중Ⅲ
-장착시, 보스/네임드의 데미지양이 15% 증가한다.
+装着時、ボス/ネームドモンスターに与えるダメージが15%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지량 증가
 
 ID=53751
 집중Ⅰ
-장착시, 보스/네임드의 데미지양이 7% 증가한다.
+装着時、ボス/ネームドモンスターに与えるダメージが7%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지량 증가
 
 ID=53752
 집중Ⅱ
-장착시, 보스/네임드의 데미지양이 12% 증가한다.
+装着時、ボス/ネームドモンスターに与えるダメージが12%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지량 증가
 
 ID=53753
 집중Ⅲ
-장착시, 보스/네임드의 데미지양이 17% 증가한다.
+装着時、ボス/ネームドモンスターに与えるダメージが17%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지량 증가
 
 ID=53754
 냉철Ⅰ
-장착시, 보스/네임드의 데미지가 5% 감소한다.
+装着時、ボス/ネームドモンスターから受けるダメージが5%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지감소증가
 
 ID=53755
 냉철Ⅱ
-장착시, 보스/네임드의 데미지가 7% 감소한다.
+装着時、ボス/ネームドモンスターから受けるダメージが7%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지감소증가
 
 ID=53756
 냉철Ⅲ
-장착시, 보스/네임드의 데미지가 10% 감소한다.
+装着時、ボス/ネームドモンスターから受けるダメージが10%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지감소증가
 
 ID=53757
 냉철Ⅰ
-장착시, 보스/네임드의 데미지가 7% 감소한다.
+装着時、ボス/ネームドモンスターから受けるダメージが7%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지감소증가
 
 ID=53758
 냉철Ⅱ
-장착시, 보스/네임드의 데미지가 9% 감소한다.
+装着時、ボス/ネームドモンスターから受けるダメージが9%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지감소증가
 
 ID=53759
 냉철Ⅲ
-장착시, 보스/네임드의 데미지가 12% 감소한다.
+装着時、ボス/ネームドモンスターから受けるダメージが12%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지감소증가
 

@@ -236,7 +236,7 @@ Icon/Item/Cash/ETC_0_FormatDevice
 0
 0
 [허가증]스틸그레이브
-스틸 그레이브에서의 전투 데이터를\n삭제하는 프로그램이 내장된 기계.\n이 시설의 입장은 1일에 3회로 제한되어 있지만 \n전투데이터를 강제적으로 삭제하는 것으로 \n몇번이고 입장이 가능하게 된다.\n하지만 한번 사용하고 나면 파괴되어 버린다.\n\n[스틸 그레이브 초기화 아이템]
+スチールグレイブでの戦闘データを\n削除するプログラムが内蔵されている機械。\nこの施設の入場は一日5回と制限されているが、\n戦闘データを強制的に削除することで、\n何度でも入場できるようになる。\nしかし、一度使用すると壊れてしまう。\n\n[スチールグレイブ初期化アイテム]
 
 ID=800006003
 Icon/Item/Consumption/CON_0_CasualRaidTicket_01
@@ -6729,7 +6729,7 @@ Icon/Item/Material/Illumina/Make_M_GCoreGK_01
 기어 코어에 [코드 GK]의 정보를 덮어 씌운것. \n 외관은 기존의 것과 큰 차이가 없지만 \n 코드 GK 정보에 대한 내용은 전혀 별개. \n [그레이브 가드] 기어의 재료가 된다. \n\n [제작 재료 : 소울 기어]
 
 ID=720102019
-Icon/Item/Material/Gramaton/Make_M_WCoreGK_02
+Icon/Item/Material/Gramaton/Make_M_WCoreGK_03
 0
 0
 0
@@ -6749,7 +6749,7 @@ Icon/Item/Material/Illumina/Make_M_GCoreGK_02
 기어 코어에 [코드 GK]의 정보를 덮어 씌운것. \n 외관은 기존의 것과 큰 차이가 없지만 \n 코드 GK 정보에 대한 내용은 전혀 별개. \n [그레이브 가드 MKⅡ] 기어의 재료가 된다. \n\n [제작 재료 : 소울 기어]
 
 ID=720102021
-Icon/Item/Material/Gramaton/Make_M_WCoreGK_03
+Icon/Item/Material/Gramaton/Make_M_WCoreGK_02
 0
 0
 0
@@ -8465,7 +8465,7 @@ Icon/Item/Akasic/Card/Star/Icon_Minwoo_N_Jully_1
 0
 0
 0
-테드&스위트하트
+テッド&ジュリー
 테드와 쥴리의 역사가 새겨진 \n 별의 A.R 카드. 오른쪽 클릭으로 사용 후 \n [K] 키에서 [A.R 카드] 탭에서 내용을 확인할 수 있다. \n \n [A.R 카드]
 
 ID=300030462
@@ -8475,7 +8475,7 @@ Icon/Item/Akasic/Card/Nebula/Icon_Minwoo_N_Jully_2
 0
 0
 0
-견원의 테드&스위트하트
+犬猿のテッド&ジュリー
 테드와 쥴리의 역사가 새겨진 \n 성운의 A.R 카드. 오른쪽 클릭으로 사용 후 \n [K] 키에서 [A.R 카드] 탭에서 내용을 확인할 수 있다. \n \n [A.R 카드]
 
 ID=300030463
@@ -8485,7 +8485,7 @@ Icon/Item/Akasic/Card/Star/Icon_Minwoo_N_Jully_1
 0
 0
 0
-영원의 견원 테드&스위트하트
+永遠の犬猿テッド&ジュリー
 테드와 쥴리의 역사가 새겨진 \n 은하의 A.R 카드. 오른쪽 클릭으로 사용 후 \n [K] 키에서 [A.R 카드] 탭에서 내용을 확인할 수 있다. \n \n [A.R 카드]
 
 ID=300030471
@@ -9775,7 +9775,7 @@ Icon/Item/Akasic/Card/Star/Icon_Minwoo_N_Jully_1
 0
 0
 0
-테드&스위트하트
+テッド&ジュリー
 테드와 쥴리의 역사가 새겨진 \n 별의 A.R 카드. 오른쪽 클릭으로 사용 후 \n [K] 키에서 [A.R 카드] 탭에서 내용을 확인할 수 있다. \n \n [A.R 카드]
 
 ID=382032101
@@ -18158,6 +18158,16 @@ Icon/Item/Cash/Icon_League_Item_LeagueEmblemChange
 길드 마크 변경 권
 길드 마크를 변경할 수 있는 증명서. \n길드 마크는 길드의 얼굴! \n1회 사용하면 파기된다. \n\n[길드 마스터 전용] \n[길드 마크 변경 아이템]
 
+ID=834000017
+Icon/Item/Function/Socket_Item_Extractor
+0
+0
+0
+0
+0
+ソケットアイテム抽出機
+<font color='#FFBA85'>[ソケットアイテム抽出機]<font color='#9D927B'>\n\nソケットに装着されているアイテムを\n抽出する時に使用する。
+
 ID=836000005
 Icon/Item/Function/Package/RandomBox
 0
@@ -18305,7 +18315,7 @@ Icon/Item/Function/Package/RandomBox
 0
 0
 0
-클로이의 선물 [아바타]
+액세서리 상자
 클로이에서 특별 한 선물. \n 내용을 듣고 그러나 말하지 않았다. \n 선물은 내용이 겠에서 좋은 말이 .... \n\n [품목]
 
 ID=836000019
@@ -18315,7 +18325,7 @@ Icon/Item/Function/Package/RandomBox
 0
 0
 0
-클로이의 선물 [아바타]
+액세서리 상자
 클로이에서 특별 한 선물. \n 내용을 듣고 그러나 말하지 않았다. \n 선물은 내용이 겠에서 좋은 말이 .... \n\n [품목]
 
 ID=836000020
@@ -18325,7 +18335,7 @@ Icon/Item/Function/Package/RandomBox
 0
 0
 0
-클로이의 선물 [아바타]
+액세서리 상자
 클로이에서 특별 한 선물. \n 내용을 듣고 그러나 말하지 않았다. \n 선물은 내용이 겠에서 좋은 말이 .... \n\n [품목]
 
 ID=836000021
@@ -18335,7 +18345,7 @@ Icon/Item/Function/Package/RandomBox
 0
 0
 0
-클로이의 선물 [아바타]
+액세서리 상자
 클로이에서 특별 한 선물. \n 내용을 듣고 그러나 말하지 않았다. \n 선물은 내용이 겠에서 좋은 말이 .... \n\n [품목]
 
 ID=836000022
@@ -20136,7 +20146,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 권장 PC 구입자 특전
-권장 PC구입자에게 주는 아바타가 들어 있다.\n\n[아바타 패키지]\n-하루, 릴리, 스텔라용 구성품-\n탐정 학원 교복[옷]X1\n탐정 학원 교복[캐럿]X1\n탐정 학원 교복[신발]X1\n탐정 학원 교복[삭스]X1\n\n-어윈용 구성품-\n탐정 학원 교복[옷]X1\n탐정 학원 교복[캐럿]X1\n탐정 학원 교복[신발]X1\n탐정 학원 교복[신사 구히게]X1\n\n-진하용 구성품-\n박사[옷]X1\n박사[녹안 거울]X1\n박사[신발]X1\n박사[장갑]X1
+推奨PC購入者に贈られるアバターが入っている。\n\n[アバターパッケージ]\n-ハル、リリー、ステラ用構成品-\n探偵学園制服[衣装]X1\n探偵学園制服[キャロット]X1\n探偵学園制服[靴]X1\n探偵学園制服[ソックス]X1\n\n-アーウィン用構成品-\n探偵学園制服[衣装]X1\n探偵学園制服[キャロット]X1\n探偵学園制服[靴]X1\n探偵学園制服[紳士口ヒゲ]X1\n\n-ジン用構成品-\nドクター[衣装]X1\nドクター[緑眼鏡]X1\nドクター[靴]X1\nドクター[手袋]X1\n\n-イリス用構成品-\nスイートルック[衣装]X1\nスイートルック[帽子]X1\nスイートルック[タイツ]X1\nスイートルック[靴]X1
 
 ID=837100001
 Icon/Item/Cash/ETC_0_ArticleTransfer
@@ -20225,18 +20235,18 @@ Icon/Item/Cash/ETC_0_HighAkashicRecordTransfer
 0
 0
 0
-고급 AR카드큐브
-앞으로 ソウリスト가 기록 했던 \nA.R 카드를 받을 수 있는 장치. \n 접근할 수 없는과 말하고 있는 소중한 A.R 카드 \n 이길 수 있는 기회 ...? \NDRAW 형식의 A.R 카드는 여섯번째 지역에서는 사용할 수 없습니다. \n\n [A.R 카드 적립 항목] \nA.R 카드 랜덤 획득
+특제 A.R카드 큐브 (特製A.Rカードキューブ)
+年月をかけてソウリストが記録してきた\nA.Rカードを受け取ることができる装置。\n入手不可能と言われている貴重なA.Rカードを\n獲得できるチャンス…？\nDRAW型A.Rカードは第6区域では使用できない。\n\n[A.Rカード獲得アイテム]\nA.Rカードランダム獲得\n※レア度：★★★以上のA.Rカードのみ出現する。
 
 ID=837200003
-Icon/Item/Etc/ETC_0_SpecialARTransfer
+Icon/Item/Cash/ETC_0_HighAkashicRecordTransfer
 0
 0
 0
 0
 0
 특제 A.R카드 큐브 (特製A.Rカードキューブ)
-오랜 세월에 걸쳐 소울 리스트가 기록 해온 \nA.R카드를 획득하는 큐브. \n입수가 불가능하다고 알려진 귀중한 A.R카드를 \n획득 할 수 있는 기회…? \nDRAW형 A.R카드는 제 6 구역에서는 사용할 수 없다. \n\n[A.R카드 획득 아이템] \nA.R카드 랜덤 획득 \n(레어도:★ ★ μ 이상의 A.R카드를 획득할 수 있는 아이템
+年月をかけてソウリストが記録してきた\nA.Rカードを獲得できるキューブ。\n入手不可能と言われている貴重なA.Rカードを\n獲得できるチャンス…？\nDRAW型A.Rカードは第6区域では使用できない。\n\n[A.Rカード獲得アイテム]\nA.Rカードランダム獲得\n※レア度：★★★以上のA.Rカードのみ出現する。
 
 ID=837300001
 Icon/Item/Cash/ETC_0_WingBroachTransfer
@@ -60045,7 +60055,7 @@ Icon/Item/Broach/Ability/Bit_Function_Broach
 0
 0
 0
-기능형SD : 인스턴트
+機能型SD：リーチ
 아주 기본적이고 넓게 보급된 \n스탠다드 테마의 브로치. \보통 섬유에 소울에너지를 흘려보내, \n일종의 생명섬유로서 만들어진 섬유확장 디바이스. \n브로치는 한번 장착하면 떼어내는 것이 불가능하다. \n\n[브로치 종류 : 기능형]
 
 ID=160231008
@@ -60165,7 +60175,7 @@ Icon/Item/Broach/Ability/Kilo_Function_Broach
 0
 0
 0
-기능형SD : 인스턴트
+機能型SD：リーチ
 아주 기본적이고 넓게 보급된 \n스탠다드 테마의 브로치. \보통 섬유에 소울에너지를 흘려보내, \n일종의 생명섬유로서 만들어진 섬유확장 디바이스. \n브로치는 한번 장착하면 떼어내는 것이 불가능하다. \n\n[브로치 종류 : 기능형]
 
 ID=160232008
@@ -60285,7 +60295,7 @@ Icon/Item/Broach/Ability/Mega_Function_Broach_Cash
 0
 0
 0
-기능형SD : 인스턴트
+機能型SD：リーチ
 아주 기본적이고 넓게 보급된 \n스탠다드 테마의 브로치. \보통 섬유에 소울에너지를 흘려보내, \n일종의 생명섬유로서 만들어진 섬유확장 디바이스. \n브로치는 한번 장착하면 떼어내는 것이 불가능하다. \n\n[브로치 종류 : 기능형]
 
 ID=160233008
@@ -60405,7 +60415,7 @@ Icon/Item/Broach/Ability/Giga_Function_Broach_Cash
 0
 0
 0
-기능형SD : 인스턴트
+機能型SD：リーチ
 아주 기본적이고 넓게 보급된 \n스탠다드 테마의 브로치. \보통 섬유에 소울에너지를 흘려보내, \n일종의 생명섬유로서 만들어진 섬유확장 디바이스. \n브로치는 한번 장착하면 떼어내는 것이 불가능하다. \n\n[브로치 종류 : 기능형]
 
 ID=160234008
@@ -60555,7 +60565,7 @@ Icon/Item/Broach/Ability/Tera_Function_Broach_Cash
 0
 0
 0
-기능형SD : 인스턴트
+機能型SD：リーチ
 아주 기본적이고 넓게 보급된 \n스탠다드 테마의 브로치. \보통 섬유에 소울에너지를 흘려보내, \n일종의 생명섬유로서 만들어진 섬유확장 디바이스. \n브로치는 한번 장착하면 떼어내는 것이 불가능하다. \n\n[브로치 종류 : 기능형]
 
 ID=160235008
@@ -67345,7 +67355,7 @@ Icon/Item/Function/Package/RandomBox
 0
 0
 0
-클로이의 선물 [아바타]
+액세서리 상자
 클로이에서 특별 한 선물. \n 내용을 듣고 그러나 말하지 않았다. \n 선물은 내용이 겠에서 좋은 말이 .... \n\n [품목]
 
 ID=836000047
@@ -69080,7 +69090,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SecretHospital_HairAcc01_01
 
 ID=213170901
 Icon/Item/Costume/PC_A/PC_A_EQ_SecretHospital_Costume03_09
-0
+Icon/Item/Costume/PC_A/PC_A_EQ_SecretHospital_Costume03_09
 0
 0
 0
@@ -74300,7 +74310,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Swimming_HairAcc01_01
 
 ID=213250901
 Icon/Item/Costume/PC_A/PC_A_EQ_Swimming_Costume03_09
-0
+Icon/Item/Costume/PC_A/PC_A_EQ_Swimming_Costume03_09
 0
 0
 0
@@ -74340,7 +74350,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Swimming_HairAcc01_01
 
 ID=223250901
 Icon/Item/Costume/PC_B/PC_B_EQ_Swimming_Costume03_09
-0
+Icon/Item/Costume/PC_B/PC_B_EQ_Swimming_Costume03_09
 0
 0
 0
@@ -74380,7 +74390,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Swimming_HairAcc01_01
 
 ID=233250901
 Icon/Item/Costume/PC_C/PC_C_EQ_Swimming_Costume03_09
-0
+Icon/Item/Costume/PC_C/PC_C_EQ_Swimming_Costume03_09
 0
 0
 0
@@ -74420,7 +74430,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Swimming_HairAcc01_01
 
 ID=243250901
 Icon/Item/Costume/PC_D/PC_D_EQ_Swimming_Costume03_09
-0
+Icon/Item/Costume/PC_D/PC_D_EQ_Swimming_Costume03_09
 0
 0
 0
@@ -74460,7 +74470,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_Swimming_HairAcc01_01
 
 ID=253250901
 Icon/Item/Costume/PC_E/PC_E_EQ_Swimming_Costume03_09
-0
+Icon/Item/Costume/PC_E/PC_E_EQ_Swimming_Costume03_09
 0
 0
 0
@@ -77205,7 +77215,7 @@ Icon/Item/Broach/Ability/Berserker_Function_01
 0
 0
 0
-기능형BSK : 크랩
+기능형BSK : 아다먼트
 기능능력의 강화에 특화된 \n버서커 테마의 브로치. \n보통의 섬유에 소울에너지를 흘려, \n일종의 생명섬유로 만들어진 섬유확장 디바이스. \n브로치는 한번 착용하면 해제 불가능하다. \n\n[브로치 종류 : 기능형]
 
 ID=160331002
@@ -77215,7 +77225,7 @@ Icon/Item/Broach/Ability/Berserker_Function_01
 0
 0
 0
-기능형BSK : 아다먼트
+기능 형 BSK: 랩 터
 기능능력의 강화에 특화된 \n버서커 테마의 브로치. \n보통의 섬유에 소울에너지를 흘려, \n일종의 생명섬유로 만들어진 섬유확장 디바이스. \n브로치는 한번 착용하면 해제 불가능하다. \n\n[브로치 종류 : 기능형]
 
 ID=160331003
@@ -77375,7 +77385,7 @@ Icon/Item/Broach/Ability/Berserker_Function_02
 0
 0
 0
-기능형BSK : 크랩
+기능형BSK : 아다먼트
 기능능력의 강화에 특화된 \n버서커 테마의 브로치. \n보통의 섬유에 소울에너지를 흘려, \n일종의 생명섬유로 만들어진 섬유확장 디바이스. \n브로치는 한번 착용하면 해제 불가능하다. \n\n[브로치 종류 : 기능형]
 
 ID=160332002
@@ -77385,7 +77395,7 @@ Icon/Item/Broach/Ability/Berserker_Function_02
 0
 0
 0
-기능형BSK : 아다먼트
+기능 형 BSK: 랩 터
 기능능력의 강화에 특화된 \n버서커 테마의 브로치. \n보통의 섬유에 소울에너지를 흘려, \n일종의 생명섬유로 만들어진 섬유확장 디바이스. \n브로치는 한번 착용하면 해제 불가능하다. \n\n[브로치 종류 : 기능형]
 
 ID=160332003
@@ -77545,7 +77555,7 @@ Icon/Item/Broach/Ability/Berserker_Function_03
 0
 0
 0
-기능형BSK : 크랩
+기능형BSK : 아다먼트
 기능능력의 강화에 특화된 \n버서커 테마의 브로치. \n보통의 섬유에 소울에너지를 흘려, \n일종의 생명섬유로 만들어진 섬유확장 디바이스. \n브로치는 한번 착용하면 해제 불가능하다. \n\n[브로치 종류 : 기능형]
 
 ID=160333002
@@ -77555,7 +77565,7 @@ Icon/Item/Broach/Ability/Berserker_Function_03
 0
 0
 0
-기능형BSK : 아다먼트
+기능 형 BSK: 랩 터
 기능능력의 강화에 특화된 \n버서커 테마의 브로치. \n보통의 섬유에 소울에너지를 흘려, \n일종의 생명섬유로 만들어진 섬유확장 디바이스. \n브로치는 한번 착용하면 해제 불가능하다. \n\n[브로치 종류 : 기능형]
 
 ID=160333003
@@ -77715,7 +77725,7 @@ Icon/Item/Broach/Ability/Berserker_Function_04
 0
 0
 0
-기능형BSK : 크랩
+기능형BSK : 아다먼트
 기능능력의 강화에 특화된 \n버서커 테마의 브로치. \n보통의 섬유에 소울에너지를 흘려, \n일종의 생명섬유로 만들어진 섬유확장 디바이스. \n브로치는 한번 착용하면 해제 불가능하다. \n\n[브로치 종류 : 기능형]
 
 ID=160334002
@@ -77725,7 +77735,7 @@ Icon/Item/Broach/Ability/Berserker_Function_04
 0
 0
 0
-기능형BSK : 아다먼트
+기능 형 BSK: 랩 터
 기능능력의 강화에 특화된 \n버서커 테마의 브로치. \n보통의 섬유에 소울에너지를 흘려, \n일종의 생명섬유로 만들어진 섬유확장 디바이스. \n브로치는 한번 착용하면 해제 불가능하다. \n\n[브로치 종류 : 기능형]
 
 ID=160334003
@@ -78606,7 +78616,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 신참 패키지 [A]
-소울 워커의 성장을 서포트한다\n아이템이 들어있다. \n\n[패키지 아이템]\n-구성품-\n전투 교본[1H]X10\n보너스 카드키X5\n공격형 브로치 큐브X3\n방어형 브로치 큐브X3\n기능형 브로치 큐브X3\n인벤토리 확장권X1\n은행 창고 확장권X1\nA.R카드 큐브X2\n특제 A.R카드 큐브X1
+ソウルワーカーの成長をサポートする\nアイテムが入っている。\n\n[パッケージアイテム]\n-構成品-\n戦闘教本[1H]X10\nボーナスカードキーX10\n攻撃型SDブローチキューブX5\n防御型SDブローチキューブX5\n機能型SDブローチキューブX5\nインベントリ拡張券X1\n銀行倉庫拡張券X1\nA.RカードキューブX5\n特製A.RカードキューブX1
 
 ID=836000186
 Icon/Item/Function/Package/PackageBox
@@ -78616,7 +78626,7 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 신참 패키지 [B]
-소울 워커의 성장을 서포트한다\n아이템이 들어있다. \n\n[패키지 아이템]\n-구성품-\n전투 교본[1H]X5\n공격형 브로치 큐브X1\n방어형 브로치 큐브X1\n기능형 브로치 큐브X1\n인벤토리 확장권X1\n은행 창고 확장권X1\nA.R카드 큐브X2
+ソウルワーカーの成長をサポートする\nアイテムが入っている。\n\n[パッケージアイテム]\n-構成品-\n戦闘教本[1H]X5\n攻撃型SDブローチキューブX3\n防御型SDブローチキューブX3\n機能型SDブローチキューブX3\nインベントリ拡張券X1\n銀行倉庫拡張券X1\nA.RカードキューブX5
 
 ID=836000187
 Icon/Item/Function/Package/PackageBox
@@ -80046,7 +80056,7 @@ Icon/Item/Etc/ETC_0_SLimitedARTransfer
 0
 0
 [제1탄]특제 한정A.R카드 큐브
-오랜 세월에 걸쳐 소울 리스트가 기록 해온 \nA.R카드를 획득하는 큐브. \n본 적도 없는 귀중한 A.R카드를 \n획득 할 수 있는 기회…? \nDRAW형 A.R카드는 제 6 구역에서는 사용할 수 없다. \n\n[A.R카드 획득 아이템] \nA.R카드 랜덤 획득 \n(레어도:★ ★ μ 이상의 A.R카드를 획득할 수 있는 아이템으로 \n노아, 에녹, 시온의 A.R카드를 획득가능
+年月をかけてソウリストが記録してきた\nA.Rカードを受け取ることができる装置。\n見たこともない貴重なA.Rカードを\n獲得できるチャンス…？\nDRAW型A.Rカードは第6区域では使用できない。\n\n[A.Rカード獲得アイテム]\nA.Rカードランダム獲得\n※ノア、エノック、シオンのA.Rカードを獲得可能\n※[第一弾]限定A.Rカードキューブと確率、内容物は同じだが\n無条件でμのA.Rカードが出現する。
 
 ID=837300016
 Icon/Item/Etc/ETC_0_LSCubeTransfer
@@ -80850,7 +80860,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 
 ID=213410901
 Icon/Item/Costume/PC_A/PC_A_EQ_Mirium_Costume_03_09
-0
+Icon/Item/Costume/PC_A/PC_A_EQ_Mirium_Costume_03_09
 0
 0
 0
@@ -80880,7 +80890,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_Mirium_Shoes_12
 
 ID=223410901
 Icon/Item/Costume/PC_B/PC_B_EQ_Eric_Costume_03_09
-0
+Icon/Item/Costume/PC_B/PC_B_EQ_Eric_Costume_03_09
 0
 0
 0
@@ -80890,7 +80900,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Eric_Costume_03_09
 
 ID=223412801
 Icon/Item/Costume/PC_B/PC_B_EQ_Eric_Costume_03_09
-0
+Icon/Item/Costume/PC_B/PC_B_EQ_Eric_Costume_03_09
 0
 0
 0
@@ -80910,7 +80920,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_Eric_Shoes_12
 
 ID=233410901
 Icon/Item/Costume/PC_C/PC_C_EQ_Cynthia_Costume03_09
-0
+Icon/Item/Costume/PC_C/PC_C_EQ_Cynthia_Costume03_09
 0
 0
 0
@@ -80940,7 +80950,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_Cynthia_Shoes_12
 
 ID=243410901
 Icon/Item/Costume/PC_D/PC_D_EQ_Kainbarrel_Costume03_09
-0
+Icon/Item/Costume/PC_D/PC_D_EQ_Kainbarrel_Costume03_09
 0
 0
 0
@@ -80950,7 +80960,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_Kainbarrel_Costume03_09
 
 ID=243412801
 Icon/Item/Costume/PC_D/PC_D_EQ_Kainbarrel_Costume03_09
-0
+Icon/Item/Costume/PC_D/PC_D_EQ_Kainbarrel_Costume03_09
 0
 0
 0
@@ -81010,7 +81020,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_July_Shoes_12
 
 ID=213430901
 Icon/Item/Costume/PC_A/PC_A_EQ_SweetHeart_Costume03_09
-0
+Icon/Item/Costume/PC_A/PC_A_EQ_SweetHeart_Costume03_09
 0
 0
 0
@@ -81040,7 +81050,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SweetHeart_Shoes_12
 
 ID=223430901
 Icon/Item/Costume/PC_B/PC_B_EQ_SweetHeart_Costume03_09
-0
+Icon/Item/Costume/PC_B/PC_B_EQ_SweetHeart_Costume03_09
 0
 0
 0
@@ -81060,7 +81070,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SweetHeart_Shoes_12
 
 ID=233430901
 Icon/Item/Costume/PC_C/PC_C_EQ_SweetHeart_Costume03_09
-0
+Icon/Item/Costume/PC_C/PC_C_EQ_SweetHeart_Costume03_09
 0
 0
 0
@@ -81090,7 +81100,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SweetHeart_Shoes_12
 
 ID=243430901
 Icon/Item/Costume/PC_D/PC_D_EQ_SweetHeart_Costume03_09
-0
+Icon/Item/Costume/PC_D/PC_D_EQ_SweetHeart_Costume03_09
 0
 0
 0
@@ -81110,7 +81120,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SweetHeart_Shoes_12
 
 ID=253430901
 Icon/Item/Costume/PC_E/PC_E_EQ_SweetHeart_Costume03_09
-0
+Icon/Item/Costume/PC_E/PC_E_EQ_SweetHeart_Costume03_09
 0
 0
 0
@@ -84915,7 +84925,7 @@ Icon/Item/Function/Package/RandomBox
 0
 0
 0
-클로이의 선물 [아바타]
+액세서리 상자
 [아이템박스]\n\n클로에가 주는 특별 선물. \n내용물이 뭔지 물어봤지만, 알려주지 않았다. \n선물은 내용물을 몰라서 좋다고 하던가...
 
 ID=836000192
@@ -86216,7 +86226,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SteamPunk_Costume03_09
 0
 0
 스팀펑크[의상]
-다른 시대의 패션을 조합한 스팀펑크 풍의 의상. 참신한 조합으로 주위의 시선을 끌어모은다.
+전혀 다른 시대의 패션을 합친\n스팀 펑크 풍의 의상. \n참신한 조합 덕에 주위의 시선을 끈다.
 
 ID=213460101
 Icon/Item/Costume/PC_A/PC_A_EQ_SteamPunk_HairAcc01_01
@@ -86226,7 +86236,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SteamPunk_HairAcc01_01
 0
 0
 스팀펑크[모자]
-다른 시대의 패션을 조합한 스팀펑크 풍의 모자. 머리에 쓴다기보다 올려두는 느낌.
+다른 시대의 패션을 조합한 \n 스팀 펑크 풍의 모자. \n모자를 쓴다기 보다는 놓는다는 이미지.
 
 ID=213460501
 Icon/Item/Costume/PC_A/PC_A_EQ_SteamPunk_Glove_05
@@ -86236,7 +86246,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SteamPunk_Glove_05
 0
 0
 스팀펑크[장갑]
-다른 시대의 패션을 조합한 스팀펑크 풍의 장갑. 움직이기 편하도록 고려된 디자인.
+다른 시대의 패션을 조합한 \n 스팀 펑크 풍의 장갑. \n 움직이기 쉽도록 고려해서 만들어진 디자인.
 
 ID=213461101
 Icon/Item/Costume/PC_A/PC_A_EQ_SteamPunk_Socks_11
@@ -86246,7 +86256,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SteamPunk_Socks_11
 0
 0
 스팀펑크[타이츠]
-다른 시대의 패션을 조합한 스팀펑크 풍의 타이츠. 작은 벨 모양이 포인트.
+異なる時代のファッションを組み合わせた\nスチームパンク風のタイツ。\n小さな水玉模様がポイント。
 
 ID=213461201
 Icon/Item/Costume/PC_A/PC_A_EQ_SteamPunk_Shoes_12
@@ -86256,7 +86266,7 @@ Icon/Item/Costume/PC_A/PC_A_EQ_SteamPunk_Shoes_12
 0
 0
 스팀펑크[신발]
-다른 시대의 패션을 조합한 스팀펑크 풍의 신발. 고급 가죽을 사용하였다.
+다른 시대의 패션을 조합한 \n 스팀 펑크 스타일의 신발. \n 고급 가죽을 사용하고 있다.
 
 ID=223450101
 Icon/Item/Costume/PC_B/PC_B_EQ_RockStar_HairAcc01_01
@@ -86316,7 +86326,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SteamPunk_Costume03_09
 0
 0
 스팀펑크[의상]
-다른 시대의 패션을 조합한 스팀펑크 풍의 의상. 참신한 조합으로 주위의 시선을 끌어모은다.
+전혀 다른 시대의 패션을 합친\n스팀 펑크 풍의 의상. \n참신한 조합 덕에 주위의 시선을 끈다.
 
 ID=223460101
 Icon/Item/Costume/PC_B/PC_B_EQ_SteamPunk_HairAcc01_01
@@ -86326,7 +86336,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SteamPunk_HairAcc01_01
 0
 0
 스팀펑크[모자]
-다른 시대의 패션을 조합한 스팀펑크 풍의 모자. 머리에 쓴다기보다 올려두는 느낌.
+다른 시대의 패션을 조합한 \n 스팀 펑크 풍의 모자. \n모자를 쓴다기 보다는 놓는다는 이미지.
 
 ID=223460501
 Icon/Item/Costume/PC_B/PC_B_EQ_SteamPunk_Glove_05
@@ -86336,7 +86346,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SteamPunk_Glove_05
 0
 0
 스팀펑크[장갑]
-다른 시대의 패션을 조합한 스팀펑크 풍의 장갑. 움직이기 편하도록 고려된 디자인.
+다른 시대의 패션을 조합한 \n 스팀 펑크 풍의 장갑. \n 움직이기 쉽도록 고려해서 만들어진 디자인.
 
 ID=223461201
 Icon/Item/Costume/PC_B/PC_B_EQ_SteamPunk_Shoes_12
@@ -86346,7 +86356,7 @@ Icon/Item/Costume/PC_B/PC_B_EQ_SteamPunk_Shoes_12
 0
 0
 스팀펑크[신발]
-다른 시대의 패션을 조합한 스팀펑크 풍의 신발. 고급 가죽을 사용하였다.
+다른 시대의 패션을 조합한 \n 스팀 펑크 스타일의 신발. \n 고급 가죽을 사용하고 있다.
 
 ID=233510101
 Icon/Item/Costume/PC_C/PC_C_EQ_LovelyDate_HairAcc01_01
@@ -86406,7 +86416,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SteamPunk_Costume03_09
 0
 0
 스팀펑크[의상]
-다른 시대의 패션을 조합한 스팀펑크 풍의 의상. 참신한 조합으로 주위의 시선을 끌어모은다.
+전혀 다른 시대의 패션을 합친\n스팀 펑크 풍의 의상. \n참신한 조합 덕에 주위의 시선을 끈다.
 
 ID=233520101
 Icon/Item/Costume/PC_C/PC_C_EQ_SteamPunk_HairAcc01_01
@@ -86416,7 +86426,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SteamPunk_HairAcc01_01
 0
 0
 스팀펑크[모자]
-다른 시대의 패션을 조합한 스팀펑크 풍의 모자. 머리에 쓴다기보다 올려두는 느낌.
+다른 시대의 패션을 조합한 \n 스팀 펑크 풍의 모자. \n모자를 쓴다기 보다는 놓는다는 이미지.
 
 ID=233520501
 Icon/Item/Costume/PC_C/PC_C_EQ_SteamPunk_Glove_05
@@ -86426,7 +86436,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SteamPunk_Glove_05
 0
 0
 스팀펑크[장갑]
-다른 시대의 패션을 조합한 스팀펑크 풍의 장갑. 움직이기 편하도록 고려된 디자인.
+다른 시대의 패션을 조합한 \n 스팀 펑크 풍의 장갑. \n 움직이기 쉽도록 고려해서 만들어진 디자인.
 
 ID=233521101
 Icon/Item/Costume/PC_C/PC_C_EQ_SteamPunk_Socks_11
@@ -86436,7 +86446,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SteamPunk_Socks_11
 0
 0
 스팀펑크[타이츠]
-다른 시대의 패션을 조합한 스팀펑크 풍의 타이츠. 작은 벨 모양이 포인트.
+異なる時代のファッションを組み合わせた\nスチームパンク風のタイツ。\n小さな水玉模様がポイント。
 
 ID=233521201
 Icon/Item/Costume/PC_C/PC_C_EQ_SteamPunk_Shoes_12
@@ -86446,7 +86456,7 @@ Icon/Item/Costume/PC_C/PC_C_EQ_SteamPunk_Shoes_12
 0
 0
 스팀펑크[신발]
-다른 시대의 패션을 조합한 스팀펑크 풍의 신발. 고급 가죽을 사용하였다.
+다른 시대의 패션을 조합한 \n 스팀 펑크 스타일의 신발. \n 고급 가죽을 사용하고 있다.
 
 ID=243450101
 Icon/Item/Costume/PC_D/PC_D_EQ_RockStar_HairAcc01_01
@@ -86506,7 +86516,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SteamPunk_Costume03_09
 0
 0
 스팀펑크[의상]
-다른 시대의 패션을 조합한 스팀펑크 풍의 의상. 참신한 조합으로 주위의 시선을 끌어모은다.
+전혀 다른 시대의 패션을 합친\n스팀 펑크 풍의 의상. \n참신한 조합 덕에 주위의 시선을 끈다.
 
 ID=243460101
 Icon/Item/Costume/PC_D/PC_D_EQ_SteamPunk_HairAcc01_01
@@ -86516,7 +86526,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SteamPunk_HairAcc01_01
 0
 0
 스팀펑크[모자]
-다른 시대의 패션을 조합한 스팀펑크 풍의 모자. 머리에 쓴다기보다 올려두는 느낌.
+다른 시대의 패션을 조합한 \n 스팀 펑크 풍의 모자. \n모자를 쓴다기 보다는 놓는다는 이미지.
 
 ID=243460501
 Icon/Item/Costume/PC_D/PC_D_EQ_SteamPunk_Glove_05
@@ -86526,7 +86536,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SteamPunk_Glove_05
 0
 0
 스팀펑크[장갑]
-다른 시대의 패션을 조합한 스팀펑크 풍의 장갑. 움직이기 편하도록 고려된 디자인.
+다른 시대의 패션을 조합한 \n 스팀 펑크 풍의 장갑. \n 움직이기 쉽도록 고려해서 만들어진 디자인.
 
 ID=243461201
 Icon/Item/Costume/PC_D/PC_D_EQ_SteamPunk_Shoes_12
@@ -86536,7 +86546,7 @@ Icon/Item/Costume/PC_D/PC_D_EQ_SteamPunk_Shoes_12
 0
 0
 스팀펑크[신발]
-다른 시대의 패션을 조합한 스팀펑크 풍의 신발. 고급 가죽을 사용하였다.
+다른 시대의 패션을 조합한 \n 스팀 펑크 스타일의 신발. \n 고급 가죽을 사용하고 있다.
 
 ID=253450101
 Icon/Item/Costume/PC_E/PC_E_EQ_LovelyDate_HairAcc01_01
@@ -86596,7 +86606,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SteamPunk_Costume03_09
 0
 0
 스팀펑크[의상]
-다른 시대의 패션을 조합한 스팀펑크 풍의 의상. 참신한 조합으로 주위의 시선을 끌어모은다.
+전혀 다른 시대의 패션을 합친\n스팀 펑크 풍의 의상. \n참신한 조합 덕에 주위의 시선을 끈다.
 
 ID=253460101
 Icon/Item/Costume/PC_E/PC_E_EQ_SteamPunk_HairAcc01_01
@@ -86606,7 +86616,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SteamPunk_HairAcc01_01
 0
 0
 스팀펑크[모자]
-다른 시대의 패션을 조합한 스팀펑크 풍의 모자. 머리에 쓴다기보다 올려두는 느낌.
+다른 시대의 패션을 조합한 \n 스팀 펑크 풍의 모자. \n모자를 쓴다기 보다는 놓는다는 이미지.
 
 ID=253460501
 Icon/Item/Costume/PC_E/PC_E_EQ_SteamPunk_Glove_05
@@ -86616,7 +86626,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SteamPunk_Glove_05
 0
 0
 스팀펑크[장갑]
-다른 시대의 패션을 조합한 스팀펑크 풍의 장갑. 움직이기 편하도록 고려된 디자인.
+다른 시대의 패션을 조합한 \n 스팀 펑크 풍의 장갑. \n 움직이기 쉽도록 고려해서 만들어진 디자인.
 
 ID=253461101
 Icon/Item/Costume/PC_E/PC_E_EQ_SteamPunk_Socks_11
@@ -86626,7 +86636,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SteamPunk_Socks_11
 0
 0
 스팀펑크[타이츠]
-다른 시대의 패션을 조합한 스팀펑크 풍의 타이츠. 작은 벨 모양이 포인트.
+다른 시대의 패션을 조합한 \n 스팀 펑크 스타일의 스타킹. \n 작은 벨 모양이 포인트.
 
 ID=253461201
 Icon/Item/Costume/PC_E/PC_E_EQ_SteamPunk_Shoes_12
@@ -86636,7 +86646,7 @@ Icon/Item/Costume/PC_E/PC_E_EQ_SteamPunk_Shoes_12
 0
 0
 스팀펑크[신발]
-다른 시대의 패션을 조합한 스팀펑크 풍의 신발. 고급 가죽을 사용하였다.
+다른 시대의 패션을 조합한 \n 스팀 펑크 스타일의 신발. \n 고급 가죽을 사용하고 있다.
 
 ID=263450101
 Icon/Item/Costume/PC_F/PC_F_EQ_LovelyDate_HairAcc01_01
@@ -86737,6 +86747,186 @@ Icon/Item/Costume/PC_F/PC_F_EQ_SteamPunk_Shoes_12
 0
 스팀펑크[신발]
 다른 시대의 패션을 조합한 \n 스팀 펑크 스타일의 신발. \n 고급 가죽을 사용하고 있다.
+
+ID=906015701
+Icon/Item/Quest/Quest_0461_HighStrengthDrill
+0
+0
+0
+0
+0
+ハンマードリル
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\nハンマーヘッドのドリル。\n高硬度合成金属で作られており、\n普通のドリルよりも硬い。
+
+ID=906015901
+Icon/Item/Quest/Quest_0448_NewTypeAIDataChip
+0
+0
+0
+0
+0
+スパイダー回路
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\nスパイダーのAIを構成する回路。\n高度な技術が使われている。
+
+ID=906016001
+Icon/Item/Quest/Quest_0223_GlassParts
+0
+0
+0
+0
+0
+カットスロートプロペラ
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\nカットスロートのプロペラ。\n移動と送風に適した形だ。
+
+ID=906016201
+Icon/Item/Quest/Quest_0468_WarsolverComponent
+0
+0
+0
+0
+0
+ドローンゼロモーター
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\nドローンゼロの機動性を司るモーター。\n高度な技術を搭載している。
+
+ID=906016251
+Icon/Item/Quest/Quest_0469_BodyComponent
+0
+0
+0
+0
+0
+ゴーストゼロモーター
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\nゴーストゼロの機動性を司るモーター。\n高度な技術を搭載している。
+
+ID=906016451
+Icon/Item/Quest/Quest_0447_OldTypeAIDataChip
+0
+0
+0
+0
+0
+スプリンター回路
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\nスプリンターのAIを構成する回路。\n高度な技術が使われている。
+
+ID=906016551
+Icon/Item/Quest/Quest_0409_OldHeadset
+0
+0
+0
+0
+0
+アサルトウォードローンヘッド
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\nアサルトウォードローンの頭部分。\n体と分離しても独立機動状態を維持できる\n特殊な構造をしている。
+
+ID=906016651
+Icon/Item/Quest/Quest_0402_ArmorShield
+0
+0
+0
+0
+0
+アイアンワーム関節部位
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\nアイアンワームの関節部位。\n形状記憶合金で構成されており、\n高値で売買されている。
+
+ID=906017402
+Icon/Item/Quest/Quest_0103_TwinkleEngine
+0
+0
+0
+0
+0
+バイルドソウル
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\n第6区域のソウルジャンク「バイルド」の魂が\n宿っている霊魂石で、ブッカーTVが集めている。
+
+ID=906017451
+Icon/Item/Quest/Quest_0101_OriginTritanium
+0
+0
+0
+0
+0
+砕けたバイルドソウル
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\n砕けたバイルドソウルを合わせて、\n新しいバイルドソウルを作り出せるという。
+
+ID=906017551
+Icon/Item/Quest/Quest_0123_BWCore
+0
+0
+0
+0
+0
+光輝の試薬
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\n光輝のラストカーニバルで入手できる試薬。\n効果は不明。
+
+ID=906017701
+Icon/Item/Quest/Quest_0104_AIModule
+0
+0
+0
+0
+0
+憎悪に満ちたデータチップ
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\n憎悪のラストカーニバルに関する\nデータが入っているデータチップ。\n小さく軽いのが特徴。
+
+ID=906017951
+Icon/Item/Quest/Quest_0118_DeepDarkCore
+0
+0
+0
+0
+0
+悪念の試薬
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\n悪念のジャンクハイブで入手できる試薬。\n効果は不明。
+
+ID=906018101
+Icon/Item/Quest/Quest_0305_SoulSensor
+0
+0
+0
+0
+0
+治癒に満ちたデータチップ
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\n治癒のジャンクハイブに関する\nデータが入っているデータチップ。\n小さく軽いのが特徴。
+
+ID=906018351
+Icon/Item/Quest/Quest_0232_QueensProof
+0
+0
+0
+0
+0
+冷静の試薬
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\n冷静のバンディットハイウェイで入手できる試薬。\n効果は不明。
+
+ID=906018501
+Icon/Item/Quest/Quest_0470_DevilsComponent
+0
+0
+0
+0
+0
+苦痛に満ちたデータチップ
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\n苦痛のバンディットハイウェイに関する\nデータが入っているデータチップ。\n小さく軽いのが特徴。
+
+ID=906018601
+Icon/Item/Quest/Quest_0234_FusionCore
+0
+0
+0
+0
+0
+光輝の試薬
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\n光輝のアイアンキャッスルで入手できる試薬。\n効果は不明。
+
+ID=906018751
+Icon/Item/Quest/Quest_0471_TranceComponent
+0
+0
+0
+0
+0
+憎悪に満ちたデータチップ
+<font color='#FFBA85'>[クエストアイテム]<font color='#9D927B'>\n\n憎悪のアイアンキャッスルに関する\nデータが入っているデータチップ。\n小さく軽いのが特徴。
 
 ID=880103038
 Icon/Item/Gear/LegGear/GEA_0_GlaresForceLeg
@@ -96456,7 +96646,7 @@ Icon/Item/Etc/ETC_0_LimitedARTransfer
 0
 0
 [제2탄]특제한정A.R카드 큐브
-[A.R카드 획득 아이템]\nA.R카드 랜덤 획득\n※레어도 : ★★μ이상의 A.R카드를 획득 가능한 아이템으로\n #요미, 아만다, 캐서린의 A.R카드를 획득가능\n\n세월에 걸쳐 소울리스트가 기록해왔던\nA.R카드를 얻는것이 가능한 장치. \n본 적도 없는 귀중한 A.R카드를\n획득 가능한 찬스...?\nDRAW형 A.R카드는 제6구역에서 사용 불가능하다.
+[A.Rカード獲得アイテム]\nA.Rカードランダム獲得\n※ヨミ、アマンダ、キャサリンのA.Rカードを獲得可能\n※[第二弾]限定A.Rカードキューブと確率、内容物は同じだが\n無条件でμのA.Rカードが出る。\n\n年月をかけてソウリストが記録してきた\nA.Rカードを受け取ることができる装置。\n見たこともない貴重なA.Rカードを\n獲得できるチャンス…？\nDRAW型A.Rカードは第6区域では使用できない。
 
 ID=837000200
 Icon/Item/Function/Package/ETC_0_AkashicPackage
@@ -96497,6 +96687,736 @@ Icon/Item/Etc/ETC_0_TitleItem
 0
 [칭호]술래잡기의 귀인
 [칭호획득 아이템]접두\n\n사용하면, GM술래잡기 이벤트에 참가한 자에게 \n주어지는 칭호를 획득 가능하다.
+
+ID=150000001
+Icon/Item/Familiar/SoulStone_Light_01
+0
+0
+0
+0
+0
+[1等級]光輝のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の光が宿った欠片。\n悪念の力に強い。\n光輝の破片を一定数集めると、一段階強化できる。\n\n強すぎる光は、見た者に闇をもたらします。\n神の祝福でさえそうなのです。\nバカらしいとは思いませんか？\n-ネーブ-
+
+ID=150000002
+Icon/Item/Familiar/SoulStone_Light_02
+0
+0
+0
+0
+0
+[2等級]光輝のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の光が宿った欠片。\n悪念の力に強い。\n光輝の破片を一定数集めると、一段階強化できる。\n\n強すぎる光は、見た者に闇をもたらします。\n神の祝福でさえそうなのです。\nバカらしいとは思いませんか？\n-ネーブ-
+
+ID=150000003
+Icon/Item/Familiar/SoulStone_Light_03
+0
+0
+0
+0
+0
+[3等級]光輝のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の光が宿った欠片。\n悪念の力に強い。\n光輝の破片を一定数集めると、一段階強化できる。\n\n強すぎる光は、見た者に闇をもたらします。\n神の祝福でさえそうなのです。\nバカらしいとは思いませんか？\n-ネーブ-
+
+ID=150000004
+Icon/Item/Familiar/SoulStone_Light_04
+0
+0
+0
+0
+0
+[4等級]光輝のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の光が宿った欠片。\n悪念の力に強い。\n光輝の破片を一定数集めると、一段階強化できる。\n\n強すぎる光は、見た者に闇をもたらします。\n神の祝福でさえそうなのです。\nバカらしいとは思いませんか？\n-ネーブ-
+
+ID=150000005
+Icon/Item/Familiar/SoulStone_Light_05
+0
+0
+0
+0
+0
+[5等級]光輝のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の光が宿った欠片。\n悪念の力に強い。\n光輝の破片を一定数集めると、一段階強化できる。\n\n強すぎる光は、見た者に闇をもたらします。\n神の祝福でさえそうなのです。\nバカらしいとは思いませんか？\n-ネーブ-
+
+ID=150000006
+Icon/Item/Familiar/SoulStone_Light_06
+0
+0
+0
+0
+0
+[6等級]光輝のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の光が宿った欠片。\n悪念の力に強い。\n光輝の破片を一定数集めると、一段階強化できる。\n\n強すぎる光は、見た者に闇をもたらします。\n神の祝福でさえそうなのです。\nバカらしいとは思いませんか？\n-ネーブ-
+
+ID=150000007
+Icon/Item/Familiar/SoulStone_Light_07
+0
+0
+0
+0
+0
+[7等級]光輝のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の光が宿った欠片。\n悪念の力に強い。\n光輝の破片を一定数集めると、一段階強化できる。\n\n強すぎる光は、見た者に闇をもたらします。\n神の祝福でさえそうなのです。\nバカらしいとは思いませんか？\n-ネーブ-
+
+ID=150000008
+Icon/Item/Familiar/SoulStone_Light_08
+0
+0
+0
+0
+0
+[8等級]光輝のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の光が宿った欠片。\n悪念の力に強い。\n光輝の破片を一定数集めると、一段階強化できる。\n\n強すぎる光は、見た者に闇をもたらします。\n神の祝福でさえそうなのです。\nバカらしいとは思いませんか？\n-ネーブ-
+
+ID=150000009
+Icon/Item/Familiar/SoulStone_Light_09
+0
+0
+0
+0
+0
+[9等級]光輝のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の光が宿った欠片。\n悪念の力に強い。\nこれ以上は強化できない。\n\nもしかすると、人間というのはもともと邪悪ゆえに、\n明るい光を受け入れられないのかもしれません。\n-ネーブ-
+
+ID=150001001
+Icon/Item/Familiar/SoulStone_Dark_01
+0
+0
+0
+0
+0
+[1等級]悪念のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の闇が宿った欠片。\n光輝の力に強い。\n悪念の破片を一定数集めると、一段階強化できる。\n\n食卓に出てくる肉は喜んで食べるくせに、\n自分の手は汚したくない。\n神々からすれば、それ自体が滑稽なんです。\n-ロイ-
+
+ID=150001002
+Icon/Item/Familiar/SoulStone_Dark_02
+0
+0
+0
+0
+0
+[2等級]悪念のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の闇が宿った欠片。\n光輝の力に強い。\n悪念の破片を一定数集めると、一段階強化できる。\n\n食卓に出てくる肉は喜んで食べるくせに、\n自分の手は汚したくない。\n神々からすれば、それ自体が滑稽なんです。\n-ロイ-
+
+ID=150001003
+Icon/Item/Familiar/SoulStone_Dark_03
+0
+0
+0
+0
+0
+[3等級]悪念のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の闇が宿った欠片。\n光輝の力に強い。\n悪念の破片を一定数集めると、一段階強化できる。\n\n食卓に出てくる肉は喜んで食べるくせに、\n自分の手は汚したくない。\n神々からすれば、それ自体が滑稽なんです。\n-ロイ-
+
+ID=150001004
+Icon/Item/Familiar/SoulStone_Dark_04
+0
+0
+0
+0
+0
+[4等級]悪念のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の闇が宿った欠片。\n光輝の力に強い。\n悪念の破片を一定数集めると、一段階強化できる。\n\n食卓に出てくる肉は喜んで食べるくせに、\n自分の手は汚したくない。\n神々からすれば、それ自体が滑稽なんです。\n-ロイ-
+
+ID=150001005
+Icon/Item/Familiar/SoulStone_Dark_05
+0
+0
+0
+0
+0
+[5等級]悪念のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の闇が宿った欠片。\n光輝の力に強い。\n悪念の破片を一定数集めると、一段階強化できる。\n\n食卓に出てくる肉は喜んで食べるくせに、\n自分の手は汚したくない。\n神々からすれば、それ自体が滑稽なんです。\n-ロイ-
+
+ID=150001006
+Icon/Item/Familiar/SoulStone_Dark_06
+0
+0
+0
+0
+0
+[6等級]悪念のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の闇が宿った欠片。\n光輝の力に強い。\n悪念の破片を一定数集めると、一段階強化できる。\n\n食卓に出てくる肉は喜んで食べるくせに、\n自分の手は汚したくない。\n神々からすれば、それ自体が滑稽なんです。\n-ロイ-
+
+ID=150001007
+Icon/Item/Familiar/SoulStone_Dark_07
+0
+0
+0
+0
+0
+[7等級]悪念のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の闇が宿った欠片。\n光輝の力に強い。\n悪念の破片を一定数集めると、一段階強化できる。\n\n食卓に出てくる肉は喜んで食べるくせに、\n自分の手は汚したくない。\n神々からすれば、それ自体が滑稽なんです。\n-ロイ-
+
+ID=150001008
+Icon/Item/Familiar/SoulStone_Dark_08
+0
+0
+0
+0
+0
+[8等級]悪念のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の闇が宿った欠片。\n光輝の力に強い。\n悪念の破片を一定数集めると、一段階強化できる。\n\n食卓に出てくる肉は喜んで食べるくせに、\n自分の手は汚したくない。\n神々からすれば、それ自体が滑稽なんです。\n-ロイ-
+
+ID=150001009
+Icon/Item/Familiar/SoulStone_Dark_09
+0
+0
+0
+0
+0
+[9等級]悪念のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の闇が宿った欠片。\n光輝の力に強い。\nこれ以上は強化できない。\n\nよく考え好奇心が旺盛な生物ほど\n邪悪になりやすいです。\n善なる生物は、必ず害を及ぼす\nという事実に気づくんですよ。\n-ロイ-
+
+ID=150002001
+Icon/Item/Familiar/SoulStone_Blue_01
+0
+0
+0
+0
+0
+[1等級]冷静のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の冷静さが宿った欠片。\n憎悪の力に強い。\n冷静の破片を一定数集めると、一段階強化できる。\n\n温度測定は不可能ね。\nなんていうのかしら…物質化した感情に近いわね。\n-サラ-
+
+ID=150002002
+Icon/Item/Familiar/SoulStone_Blue_02
+0
+0
+0
+0
+0
+[2等級]冷静のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の冷静さが宿った欠片。\n憎悪の力に強い。\n冷静の破片を一定数集めると、一段階強化できる。\n\n温度測定は不可能ね。\nなんていうのかしら…物質化した感情に近いわね。\n-サラ-
+
+ID=150002003
+Icon/Item/Familiar/SoulStone_Blue_03
+0
+0
+0
+0
+0
+[3等級]冷静のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の冷静さが宿った欠片。\n憎悪の力に強い。\n冷静の破片を一定数集めると、一段階強化できる。\n\n温度測定は不可能ね。\nなんていうのかしら…物質化した感情に近いわね。\n-サラ-
+
+ID=150002004
+Icon/Item/Familiar/SoulStone_Blue_04
+0
+0
+0
+0
+0
+[4等級]冷静のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の冷静さが宿った欠片。\n憎悪の力に強い。\n冷静の破片を一定数集めると、一段階強化できる。\n\n温度測定は不可能ね。\nなんていうのかしら…物質化した感情に近いわね。\n-サラ-
+
+ID=150002005
+Icon/Item/Familiar/SoulStone_Blue_05
+0
+0
+0
+0
+0
+[5等級]冷静のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の冷静さが宿った欠片。\n憎悪の力に強い。\n冷静の破片を一定数集めると、一段階強化できる。\n\n温度測定は不可能ね。\nなんていうのかしら…物質化した感情に近いわね。\n-サラ-
+
+ID=150002006
+Icon/Item/Familiar/SoulStone_Blue_06
+0
+0
+0
+0
+0
+[6等級]冷静のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の冷静さが宿った欠片。\n憎悪の力に強い。\n冷静の破片を一定数集めると、一段階強化できる。\n\n温度測定は不可能ね。\nなんていうのかしら…物質化した感情に近いわね。\n-サラ-
+
+ID=150002007
+Icon/Item/Familiar/SoulStone_Blue_07
+0
+0
+0
+0
+0
+[7等級]冷静のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の冷静さが宿った欠片。\n憎悪の力に強い。\n冷静の破片を一定数集めると、一段階強化できる。\n\n温度測定は不可能ね。\nなんていうのかしら…物質化した感情に近いわね。\n-サラ-
+
+ID=150002008
+Icon/Item/Familiar/SoulStone_Blue_08
+0
+0
+0
+0
+0
+[8等級]冷静のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の冷静さが宿った欠片。\n憎悪の力に強い。\n冷静の破片を一定数集めると、一段階強化できる。\n\n温度測定は不可能ね。\nなんていうのかしら…物質化した感情に近いわね。\n-サラ-
+
+ID=150002009
+Icon/Item/Familiar/SoulStone_Blue_09
+0
+0
+0
+0
+0
+[9等級]冷静のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の冷静さが宿った欠片。\n憎悪の力に強い。\nこれ以上は強化できない。\n\n単に温度が低いというわけじゃないみたい。\nこれは冷たいと脳が錯覚してるだけ。\n…これは科学で証明できないわね。\n-サラ-
+
+ID=150003001
+Icon/Item/Familiar/SoulStone_Red_01
+0
+0
+0
+0
+0
+[1等級]憎悪のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の憎悪が宿った欠片。\n冷静の力に強い。\n憎悪の破片を一定数集めると、一段階強化できる。\n\n戦うために自らの憎悪すらも物質化させたのか…。\n昔の者たちは常軌を逸しているな。\n-ケインバレル-
+
+ID=150003002
+Icon/Item/Familiar/SoulStone_Red_02
+0
+0
+0
+0
+0
+[2等級]憎悪のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の憎悪が宿った欠片。\n冷静の力に強い。\n憎悪の破片を一定数集めると、一段階強化できる。\n\n戦うために自らの憎悪すらも物質化させたのか…。\n昔の者たちは常軌を逸しているな。\n-ケインバレル-
+
+ID=150003003
+Icon/Item/Familiar/SoulStone_Red_03
+0
+0
+0
+0
+0
+[3等級]憎悪のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の憎悪が宿った欠片。\n冷静の力に強い。\n憎悪の破片を一定数集めると、一段階強化できる。\n\n戦うために自らの憎悪すらも物質化させたのか…。\n昔の者たちは常軌を逸しているな。\n-ケインバレル-
+
+ID=150003004
+Icon/Item/Familiar/SoulStone_Red_04
+0
+0
+0
+0
+0
+[4等級]憎悪のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の憎悪が宿った欠片。\n冷静の力に強い。\n憎悪の破片を一定数集めると、一段階強化できる。\n\n戦うために自らの憎悪すらも物質化させたのか…。\n昔の者たちは常軌を逸しているな。\n-ケインバレル-
+
+ID=150003005
+Icon/Item/Familiar/SoulStone_Red_05
+0
+0
+0
+0
+0
+[5等級]憎悪のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の憎悪が宿った欠片。\n冷静の力に強い。\n憎悪の破片を一定数集めると、一段階強化できる。\n\n戦うために自らの憎悪すらも物質化させたのか…。\n昔の者たちは常軌を逸しているな。\n-ケインバレル-
+
+ID=150003006
+Icon/Item/Familiar/SoulStone_Red_06
+0
+0
+0
+0
+0
+[6等級]憎悪のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の憎悪が宿った欠片。\n冷静の力に強い。\n憎悪の破片を一定数集めると、一段階強化できる。\n\n戦うために自らの憎悪すらも物質化させたのか…。\n昔の者たちは常軌を逸しているな。\n-ケインバレル-
+
+ID=150003007
+Icon/Item/Familiar/SoulStone_Red_07
+0
+0
+0
+0
+0
+[7等級]憎悪のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の憎悪が宿った欠片。\n冷静の力に強い。\n憎悪の破片を一定数集めると、一段階強化できる。\n\n戦うために自らの憎悪すらも物質化させたのか…。\n昔の者たちは常軌を逸しているな。\n-ケインバレル-
+
+ID=150003008
+Icon/Item/Familiar/SoulStone_Red_08
+0
+0
+0
+0
+0
+[8等級]憎悪のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の憎悪が宿った欠片。\n冷静の力に強い。\n憎悪の破片を一定数集めると、一段階強化できる。\n\n戦うために自らの憎悪すらも物質化させたのか…。\n昔の者たちは常軌を逸しているな。\n-ケインバレル-
+
+ID=150003009
+Icon/Item/Familiar/SoulStone_Red_09
+0
+0
+0
+0
+0
+[9等級]憎悪のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の憎悪が宿った欠片。\n冷静の力に強い。\nこれ以上は強化できない。\n\n捨て置け。\nその石は人類の不和と闘争しか生み出さん。\n-ケインバレル-
+
+ID=150004001
+Icon/Item/Familiar/SoulStone_White_01
+0
+0
+0
+0
+0
+[1等級]治癒のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の治癒力が宿った欠片。\n苦痛の力に強い。\n治癒の破片を一定数集めると、一段階強化できる。\n\nこの破片を見ていると、\n初めて空白から落ちてきた日を思い出す。\n…誰でもいいから生き返らせたいって思ったの。\n-ミリアム-
+
+ID=150004002
+Icon/Item/Familiar/SoulStone_White_02
+0
+0
+0
+0
+0
+[2等級]治癒のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の治癒力が宿った欠片。\n苦痛の力に強い。\n治癒の破片を一定数集めると、一段階強化できる。\n\nこの破片を見ていると、\n初めて空白から落ちてきた日を思い出す。\n…誰でもいいから生き返らせたいって思ったの。\n-ミリアム-
+
+ID=150004003
+Icon/Item/Familiar/SoulStone_White_03
+0
+0
+0
+0
+0
+[3等級]治癒のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の治癒力が宿った欠片。\n苦痛の力に強い。\n治癒の破片を一定数集めると、一段階強化できる。\n\nこの破片を見ていると、\n初めて空白から落ちてきた日を思い出す。\n…誰でもいいから生き返らせたいって思ったの。\n-ミリアム-
+
+ID=150004004
+Icon/Item/Familiar/SoulStone_White_04
+0
+0
+0
+0
+0
+[4等級]治癒のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の治癒力が宿った欠片。\n苦痛の力に強い。\n治癒の破片を一定数集めると、一段階強化できる。\n\nこの破片を見ていると、\n初めて空白から落ちてきた日を思い出す。\n…誰でもいいから生き返らせたいって思ったの。\n-ミリアム-
+
+ID=150004005
+Icon/Item/Familiar/SoulStone_White_05
+0
+0
+0
+0
+0
+[5等級]治癒のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の治癒力が宿った欠片。\n苦痛の力に強い。\n治癒の破片を一定数集めると、一段階強化できる。\n\nこの破片を見ていると、\n初めて空白から落ちてきた日を思い出す。\n…誰でもいいから生き返らせたいって思ったの。\n-ミリアム-
+
+ID=150004006
+Icon/Item/Familiar/SoulStone_White_06
+0
+0
+0
+0
+0
+[6等級]治癒のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の治癒力が宿った欠片。\n苦痛の力に強い。\n治癒の破片を一定数集めると、一段階強化できる。\n\nこの破片を見ていると、\n初めて空白から落ちてきた日を思い出す。\n…誰でもいいから生き返らせたいって思ったの。\n-ミリアム-
+
+ID=150004007
+Icon/Item/Familiar/SoulStone_White_07
+0
+0
+0
+0
+0
+[7等級]治癒のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の治癒力が宿った欠片。\n苦痛の力に強い。\n治癒の破片を一定数集めると、一段階強化できる。\n\nこの破片を見ていると、\n初めて空白から落ちてきた日を思い出す。\n…誰でもいいから生き返らせたいって思ったの。\n-ミリアム-
+
+ID=150004008
+Icon/Item/Familiar/SoulStone_White_08
+0
+0
+0
+0
+0
+[8等級]治癒のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の治癒力が宿った欠片。\n苦痛の力に強い。\n治癒の破片を一定数集めると、一段階強化できる。\n\nこの破片を見ていると、\n初めて空白から落ちてきた日を思い出す。\n…誰でもいいから生き返らせたいって思ったの。\n-ミリアム-
+
+ID=150004009
+Icon/Item/Familiar/SoulStone_White_09
+0
+0
+0
+0
+0
+[9等級]治癒のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の治癒力が宿った欠片。\n苦痛の力に強い。\nこれ以上は強化できない。\n\nこれなら…生き返らせることができるかも…。\n-ミリアム-
+
+ID=150005001
+Icon/Item/Familiar/SoulStone_Green_01
+0
+0
+0
+0
+0
+[1等級]苦痛のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の苦痛が宿った欠片。\n治癒の力に強い。\n苦痛の破片を一定数集めると、一段階強化できる。\n\n適度な苦痛は、むしろ良い刺激となる。\nむ？どうした？私は個人的な見解を述べたまでだ。\nなんだその目は！\n-トール-
+
+ID=150005002
+Icon/Item/Familiar/SoulStone_Green_02
+0
+0
+0
+0
+0
+[2等級]苦痛のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の苦痛が宿った欠片。\n治癒の力に強い。\n苦痛の破片を一定数集めると、一段階強化できる。\n\n適度な苦痛は、むしろ良い刺激となる。\nむ？どうした？私は個人的な見解を述べたまでだ。\nなんだその目は！\n-トール-
+
+ID=150005003
+Icon/Item/Familiar/SoulStone_Green_03
+0
+0
+0
+0
+0
+[3等級]苦痛のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の苦痛が宿った欠片。\n治癒の力に強い。\n苦痛の破片を一定数集めると、一段階強化できる。\n\n適度な苦痛は、むしろ良い刺激となる。\nむ？どうした？私は個人的な見解を述べたまでだ。\nなんだその目は！\n-トール-
+
+ID=150005004
+Icon/Item/Familiar/SoulStone_Green_04
+0
+0
+0
+0
+0
+[4等級]苦痛のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の苦痛が宿った欠片。\n治癒の力に強い。\n苦痛の破片を一定数集めると、一段階強化できる。\n\n適度な苦痛は、むしろ良い刺激となる。\nむ？どうした？私は個人的な見解を述べたまでだ。\nなんだその目は！\n-トール-
+
+ID=150005005
+Icon/Item/Familiar/SoulStone_Green_05
+0
+0
+0
+0
+0
+[5等級]苦痛のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の苦痛が宿った欠片。\n治癒の力に強い。\n苦痛の破片を一定数集めると、一段階強化できる。\n\n適度な苦痛は、むしろ良い刺激となる。\nむ？どうした？私は個人的な見解を述べたまでだ。\nなんだその目は！\n-トール-
+
+ID=150005006
+Icon/Item/Familiar/SoulStone_Green_06
+0
+0
+0
+0
+0
+[6等級]苦痛のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の苦痛が宿った欠片。\n治癒の力に強い。\n苦痛の破片を一定数集めると、一段階強化できる。\n\n適度な苦痛は、むしろ良い刺激となる。\nむ？どうした？私は個人的な見解を述べたまでだ。\nなんだその目は！\n-トール-
+
+ID=150005007
+Icon/Item/Familiar/SoulStone_Green_07
+0
+0
+0
+0
+0
+[7等級]苦痛のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の苦痛が宿った欠片。\n治癒の力に強い。\n苦痛の破片を一定数集めると、一段階強化できる。\n\n適度な苦痛は、むしろ良い刺激となる。\nむ？どうした？私は個人的な見解を述べたまでだ。\nなんだその目は！\n-トール-
+
+ID=150005008
+Icon/Item/Familiar/SoulStone_Green_08
+0
+0
+0
+0
+0
+[8等級]苦痛のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の苦痛が宿った欠片。\n治癒の力に強い。\n苦痛の破片を一定数集めると、一段階強化できる。\n\n適度な苦痛は、むしろ良い刺激となる。\nむ？どうした？私は個人的な見解を述べたまでだ。\nなんだその目は！\n-トール-
+
+ID=150005009
+Icon/Item/Familiar/SoulStone_Green_09
+0
+0
+0
+0
+0
+[9等級]苦痛のソウルストーン
+<font color='#FFBA85'>[ソウルストーン]<font color='#9D927B'>\n\n創造の苦痛が宿った欠片。\n治癒の力に強い。\nこれ以上は強化できない。\n\nこの痛み…あの戦争を思い出すな…。\n-トール-
+
+ID=150010001
+Icon/Item/Familiar/LightSoulStone_01
+0
+0
+0
+0
+0
+[下級]光輝の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n光輝の力を感じる破片。\n光輝の力が宿ったソウルストーンを強化できる下級材料。\n一定個数を集めると[中級]光輝の破片を製作できる。
+
+ID=150010002
+Icon/Item/Familiar/LightSoulStone_02
+0
+0
+0
+0
+0
+[中級]光輝の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n光輝の力を感じる破片。\n光輝の力が宿ったソウルストーンを強化できる中級材料。\n一定個数を集めると[上級]光輝の破片を製作できる。
+
+ID=150010003
+Icon/Item/Familiar/LightSoulStone_03
+0
+0
+0
+0
+0
+[上級]光輝の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n光輝の力を感じる破片。\n光輝の力が宿ったソウルストーンを強化できる上級材料。
+
+ID=150010101
+Icon/Item/Familiar/DarkSoulStone_01
+0
+0
+0
+0
+0
+[下級]悪念の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n悪念の力を感じる破片。\n悪念の力が宿ったソウルストーンを強化できる下級材料。\n一定個数を集めると[中級]悪念の破片を製作できる。
+
+ID=150010102
+Icon/Item/Familiar/DarkSoulStone_02
+0
+0
+0
+0
+0
+[中級]悪念の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n悪念の力を感じる破片。\n悪念の力が宿ったソウルストーンを強化できる中級材料。\n一定個数を集めると[上級]悪念の破片を製作できる。
+
+ID=150010103
+Icon/Item/Familiar/DarkSoulStone_03
+0
+0
+0
+0
+0
+[上級]悪念の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n悪念の力を感じる破片。\n悪念の力が宿ったソウルストーンを強化できる上級材料。
+
+ID=150010201
+Icon/Item/Familiar/ColdSoulStone_01
+0
+0
+0
+0
+0
+[下級]冷静の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n冷静の力を感じる破片。\n冷静の力が宿ったソウルストーンを強化できる下級材料。\n一定個数を集めると[中級]冷静の破片を製作できる。
+
+ID=150010202
+Icon/Item/Familiar/ColdSoulStone_02
+0
+0
+0
+0
+0
+[中級]冷静の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n冷静の力を感じる破片。\n冷静の力が宿ったソウルストーンを強化できる中級材料。\n一定個数を集めると[上級]冷静の破片を製作できる。
+
+ID=150010203
+Icon/Item/Familiar/ColdSoulStone_03
+0
+0
+0
+0
+0
+[上級]冷静の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n冷静の力を感じる破片。\n冷静の力が宿ったソウルストーンを強化できる上級材料。
+
+ID=150010301
+Icon/Item/Familiar/HateSoulStone_01
+0
+0
+0
+0
+0
+[下級]憎悪の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n憎悪の力を感じる破片。\n憎悪の力が宿ったソウルストーンを強化できる下級材料。\n一定個数を集めると[中級]憎悪の破片を製作できる。
+
+ID=150010302
+Icon/Item/Familiar/HateSoulStone_02
+0
+0
+0
+0
+0
+[中級]憎悪の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n憎悪の力を感じる破片。\n憎悪の力が宿ったソウルストーンを強化できる中級材料。\n一定個数を集めると[上級]憎悪の破片を製作できる。
+
+ID=150010303
+Icon/Item/Familiar/HateSoulStone_03
+0
+0
+0
+0
+0
+[上級]憎悪の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n憎悪の力を感じる破片。\n憎悪の力が宿ったソウルストーンを強化できる上級材料。
+
+ID=150010401
+Icon/Item/Familiar/CureSoulStone_01
+0
+0
+0
+0
+0
+[下級]治癒の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n治癒の力を感じる破片。\n治癒の力が宿ったソウルストーンを強化できる下級材料。\n一定個数を集めると[中級]治癒の破片を製作できる。
+
+ID=150010402
+Icon/Item/Familiar/CureSoulStone_02
+0
+0
+0
+0
+0
+[中級]治癒の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n治癒の力を感じる破片。\n治癒の力が宿ったソウルストーンを強化できる中級材料。\n一定個数を集めると[上級]治癒の破片を製作できる。
+
+ID=150010403
+Icon/Item/Familiar/CureSoulStone_03
+0
+0
+0
+0
+0
+[上級]治癒の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n治癒の力を感じる破片。\n治癒の力が宿ったソウルストーンを強化できる上級材料。
+
+ID=150010501
+Icon/Item/Familiar/PainSoulStone_01
+0
+0
+0
+0
+0
+[下級]苦痛の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n苦痛の力を感じる破片。\n苦痛の力が宿ったソウルストーンを強化できる下級材料。\n一定個数を集めると[中級]苦痛の破片を製作できる。
+
+ID=150010502
+Icon/Item/Familiar/PainSoulStone_02
+0
+0
+0
+0
+0
+[中級]苦痛の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n苦痛の力を感じる破片。\n苦痛の力が宿ったソウルストーンを強化できる中級材料。\n一定個数を集めると[上級]苦痛の破片を製作できる。
+
+ID=150010503
+Icon/Item/Familiar/PainSoulStone_03
+0
+0
+0
+0
+0
+[上級]苦痛の破片
+<font color='#FFBA85'>[先知者の破片]<font color='#9D927B'>\n\n苦痛の力を感じる破片。\n苦痛の力が宿ったソウルストーンを強化できる上級材料。
+
+ID=820010000
+Icon/Item/Function/Package/RandomBox
+0
+0
+0
+0
+0
+[2等級]ソウルストーンランダムボックス
+<font color='#FFBA85'>[ソウルストーンボックス]<font color='#9D927B'>\n\n6種類の2等級ソウルストーンの中から1個を獲得できる。\nどれが出てくるかはわからない。
 
 ID=213470201
 Icon/Item/Costume/PC_A/PC_A_EQ_Yukata_HairCap_02
@@ -97039,7 +97959,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage
 [아바타패키지]\n\n여러가지 옷감이 넘칠정도로 들어있는 상자. \n각 캐릭터에게 맞춘「신년 기모노」아바타를 습득할수 있다.
 
 ID=836000368
-Icon/Item/Function/Package/HiddenBox
+Icon/Item/etc/ETC_0_TreasureCube
 0
 0
 0
@@ -97049,7 +97969,7 @@ S코인박스Ⅰ
 [S코인박스]\n\nS코인이 20개 들어있다.
 
 ID=836000369
-Icon/Item/Function/Package/HiddenBox
+Icon/Item/etc/ETC_0_TreasureCube
 0
 0
 0
@@ -97059,7 +97979,7 @@ S코인박스Ⅱ
 [S코인박스]\n\nS코인이 30개 들어있다.
 
 ID=836000370
-Icon/Item/Function/Package/HiddenBox
+Icon/Item/etc/ETC_0_TreasureCube
 0
 0
 0
@@ -97746,7 +98666,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_A
 0
 0
 スチームパンクセット
-[アバターパッケージ]\n「スチームパンクセット」が全て入っている。\nハル専用。\n\n-構成品-\nスチームパンク[衣装]\nスチームパンク[帽子]\nスチームパンク[手袋]\nスチームパンク[タイツ]\nスチームパンク[靴]
+[アバターパッケージ]\n「スチームパンクセット」が全て入っている。\nハル専用。\n\n-構成品-\nスチームパンク[衣装]X1\nスチームパンク[帽子]X1\nスチームパンク[手袋]X1\nスチームパンク[タイツ]X1\nスチームパンク[靴]X1
 
 ID=836000484
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
@@ -97756,7 +98676,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_B
 0
 0
 スチームパンクセット
-[アバターパッケージ]\n「スチームパンクセット」が全て入っている。\nアーウィン専用。\n\n-構成品-\nスチームパンク[衣装]\nスチームパンク[帽子]\nスチームパンク[手袋]\nスチームパンク[靴]
+[アバターパッケージ]\n「スチームパンクセット」が全て入っている。\nアーウィン専用。\n\n-構成品-\nスチームパンク[衣装]X1\nスチームパンク[帽子]X1\nスチームパンク[手袋]X1\nスチームパンク[靴]X1
 
 ID=836000485
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
@@ -97766,7 +98686,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_C
 0
 0
 スチームパンクセット
-[アバターパッケージ]\n「スチームパンクセット」が全て入っている。\nリリー専用。\n\n-構成品-\nスチームパンク[衣装]\nスチームパンク[帽子]\nスチームパンク[手袋]\nスチームパンク[タイツ]\nスチームパンク[靴]
+[アバターパッケージ]\n「スチームパンクセット」が全て入っている。\nリリー専用。\n\n-構成品-\nスチームパンク[衣装]X1\nスチームパンク[帽子]X1\nスチームパンク[手袋]X1\nスチームパンク[タイツ]X1\nスチームパンク[靴]X1
 
 ID=836000486
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_D
@@ -97776,7 +98696,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_D
 0
 0
 スチームパンクセット
-[アバターパッケージ]\n「スチームパンクセット」が全て入っている。\nジン専用。\n\n-構成品-\nスチームパンク[衣装]\nスチームパンク[帽子]\nスチームパンク[手袋]\nスチームパンク[靴]
+[アバターパッケージ]\n「スチームパンクセット」が全て入っている。\nジン専用。\n\n-構成品-\nスチームパンク[衣装]X1\nスチームパンク[帽子]X1\nスチームパンク[手袋]X1\nスチームパンク[靴]X1
 
 ID=836000487
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
@@ -97786,7 +98706,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_E
 0
 0
 スチームパンクセット
-[アバターパッケージ]\n「スチームパンクセット」が全て入っている。\nステラ専用。\n\n-構成品-\nスチームパンク[衣装]\nスチームパンク[帽子]\nスチームパンク[手袋]\nスチームパンク[タイツ]\nスチームパンク[靴]
+[アバターパッケージ]\n「スチームパンクセット」が全て入っている。\nステラ専用。\n\n-構成品-\nスチームパンク[衣装]X1\nスチームパンク[帽子]X1\nスチームパンク[手袋]X1\nスチームパンク[タイツ]X1\nスチームパンク[靴]X1
 
 ID=836000488
 Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F
@@ -97796,7 +98716,7 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F
 0
 0
 スチームパンクセット
-[アバターパッケージ]\n「スチームパンクセット」が全て入っている。\nイリス専用。\n\n-構成品-\nスチームパンク[衣装]\nスチームパンク[帽子]\nスチームパンク[手袋]\nスチームパンク[タイツ]\nスチームパンク[靴]
+[アバターパッケージ]\n「スチームパンクセット」が全て入っている。\nイリス専用。\n\n-構成品-\nスチームパンク[衣装]X1\nスチームパンク[帽子]X1\nスチームパンク[手袋]X1\nスチームパンク[タイツ]X1\nスチームパンク[靴]X1
 
 ID=837400066
 Icon/Item/Etc/ETC_0_TitleItem
@@ -98158,6 +99078,166 @@ Icon/Item/Function/Package/PackageBox
 キャンディナイト[靴]-未開封
 キャンディナイト[靴]が入っている。
 
+ID=837400075
+Icon/Item/Etc/ETC_0_TitleItem
+0
+0
+0
+0
+0
+[称号]1歳
+<font color='#FFBA85'>[称号獲得アイテム]接尾<font color='#9D927B'>\n\nサービス1周年を記念して支給された称号。
+
+ID=836000371
+Icon/Item/Function/Package/ETC_0_AkashicPackage
+0
+0
+0
+0
+0
+A.RカードパッケージⅠ
+歴史を記録したカードが入ったパッケージ。\n\n[パッケージアイテム]\n-構成品-\nA.RカードキューブX11
+
+ID=836000372
+Icon/Item/Function/Package/ETC_0_AkashicPackage
+0
+0
+0
+0
+0
+A.RカードパッケージⅡ
+歴史を記録したカードが入ったパッケージ。\n\n[パッケージアイテム]\n-構成品-\nA.RカードキューブX35\n輝くグルトンX2
+
+ID=836000373
+Icon/Item/Function/Package/ETC_0_AkashicPackage
+0
+0
+0
+0
+0
+A.RカードパッケージⅢ
+歴史を記録したカードが入ったパッケージ。\n\n[パッケージアイテム]\n-構成品-\nA.RカードキューブX60\n輝くグルトンX2
+
+ID=213531001
+Icon/Item/Costume/PC_A/PC_A_EQ_Chloe_Back_10
+0
+0
+0
+0
+0
+クロエバックパック
+[アバター]\n\nかわいいクロエの姿を模したカバン。\n実用性は…。
+
+ID=223531001
+Icon/Item/Costume/PC_B/PC_B_EQ_Chloe_Back_10
+0
+0
+0
+0
+0
+クロエバックパック
+[アバター]\n\nかわいいクロエの姿を模したカバン。\n実用性は…。
+
+ID=233601001
+Icon/Item/Costume/PC_C/PC_C_EQ_Chloe_Back_10
+0
+0
+0
+0
+0
+クロエバックパック
+[アバター]\n\nかわいいクロエの姿を模したカバン。\n実用性は…。
+
+ID=243521001
+Icon/Item/Costume/PC_D/PC_D_EQ_Chloe_Back_10
+0
+0
+0
+0
+0
+クロエバックパック
+[アバター]\n\nかわいいクロエの姿を模したカバン。\n実用性は…。
+
+ID=253541001
+Icon/Item/Costume/PC_E/PC_E_EQ_Chloe_Back_10
+0
+0
+0
+0
+0
+クロエバックパック
+[アバター]\n\nかわいいクロエの姿を模したカバン。\n実用性は…。
+
+ID=263531001
+Icon/Item/Costume/PC_F/PC_F_EQ_Chloe_Back_10
+0
+0
+0
+0
+0
+クロエバックパック
+[アバター]\n\nかわいいクロエの姿を模したカバン。\n実用性は…。
+
+ID=836000620
+Icon/Item/Function/Package/ETC_0_CostumePackage
+0
+0
+0
+0
+0
+クロエバックパックパッケージ
+[アバターパッケージ]\n\nクロエバックパックが入っている。\n各キャラクターに合ったクロエバックパックを\n獲得できる。
+
+ID=836000621
+Icon/Item/Function/Package/ETC_0_1stpack
+0
+0
+0
+0
+0
+1周年記念パッケージ
+[ソウルコインパッケージ]\n\n1周年を記念して作られたお買い得パッケージ。\n\n-構成品-\nA.RカードパッケージⅠX2\n攻撃型BSKブローチキューブ6個セットX1\n防御型BSKブローチキューブ6個セットX1\n機能型BSKブローチキューブ6個セットX1\n[特製]攻撃型BSKブローチキューブX1\n[特製]防御型BSKブローチキューブX1\n[特製]機能型BSKブローチキューブX1\n1周年記念コインX1000\nQ.B.D[強化保護]パッケージ[A]X1\nエナジーコンバーターX2\n極高濃縮ビタミンZX5\n[遂行証]空白の最深部X10
+
+ID=836000622
+Icon/Item/Function/Package/PackageBox2
+0
+0
+0
+0
+0
+1周年記念コイン10個ボックス
+[パッケージ]\n\n1周年記念コインが10個入っている。
+
+ID=836000623
+Icon/Item/Function/Package/PackageBox2
+0
+0
+0
+0
+0
+1周年記念コイン20個ボックス
+[パッケージ]\n\n1周年記念コインが20個入っている。
+
+ID=836000624
+Icon/Item/Function/Package/PackageBox2
+0
+0
+0
+0
+0
+1周年記念コイン30個ボックス
+[パッケージ]\n\n1周年記念コインが30個入っている。
+
+ID=800000025
+Icon/Item/Etc/ETC_0_1stcoin
+0
+0
+0
+0
+0
+1周年記念コイン
+[イベントアイテム]\n\nリリース1周年を記念して、クラウドリーム全域でドロップするコイン。\nこれでヨミの秘蔵物を買えるらしい…。
+
 ID=263220201
 Icon/Item/Costume/PC_F/PC_F_EQ_Idol_HairCap_02
 Icon/Item/Costume/PC_F/PC_F_EQ_Idol_HairCap_02
@@ -98268,16 +99348,6 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F
 [アバターボックス]アイドルアバター
 [アバターパッケージ]\n\n[アイドルアバターセット]が全て入っている。\nイリス専用。\n\n-構成品-\nアイドルアバター[ヘア]X1\nアイドルアバター[衣装]X1\nアイドルアバター[手袋]X1\nアイドルアバター[タイツ]X1\nアイドルアバター[靴]X1
 
-ID=800000025
-Icon/Item/Etc/ETC_0_1stcoin
-0
-0
-0
-0
-0
-1周年記念コイン
-[イベントアイテム]\n\nリリース1周年を記念して、クラウドリーム全域でドロップするコイン。\nこれでヨミの秘蔵物を買えるらしい…。
-
 ID=837400072
 Icon/Item/Etc/ETC_0_TitleItem
 0
@@ -98286,7 +99356,7 @@ Icon/Item/Etc/ETC_0_TitleItem
 0
 0
 [称号]最強(仮)
-[称号獲得アイテム]接尾\n\n使用すると、スチールグレイブのチャプター5を10回\nクリアした者に与えられる称号を獲得できる。
+[称号獲得アイテム]接尾\n\n使用すると、スチールグレイブのチャプター5を\n10回クリアした者に与えられる称号を獲得できる。
 
 ID=837400073
 Icon/Item/Etc/ETC_0_TitleItem
@@ -98296,7 +99366,7 @@ Icon/Item/Etc/ETC_0_TitleItem
 0
 0
 [称号]無敵(仮)
-[称号獲得アイテム]接尾\n\n使用すると、スチールグレイブのチャプター10を10回\nクリアした者に与えられる称号を獲得できる。
+[称号獲得アイテム]接尾\n\n使用すると、スチールグレイブのチャプター10を\n10回クリアした者に与えられる称号を獲得できる。
 
 ID=837400074
 Icon/Item/Etc/ETC_0_TitleItem
@@ -98306,4 +99376,404 @@ Icon/Item/Etc/ETC_0_TitleItem
 0
 0
 [称号]天下無双(仮)
-[称号獲得アイテム]接尾\n\n使用すると、スチールグレイブのチャプター15を10回\nクリアした者に与えられる称号を獲得できる。
+[称号獲得アイテム]接尾\n\n使用すると、スチールグレイブのチャプター15を\n15回クリアした者に与えられる称号を獲得できる。
+
+ID=836000374
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+Sコイン100個ボックス
+[コインボックス]\n\nSコインが100個入っている。
+
+ID=836000375
+Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F
+0
+0
+0
+0
+0
+아이돌 아바타 세트
+<font color='#FFBA85'>[アバターパッケージ]<font color='#9D927B'>\n\n「アイドルアバターセット」が全て入っている。\nイリス専用。\n\n-構成品-\nアイドルアバター[ヘア]X1\nアイドルアバター[衣装]X1\nアイドルアバター[手袋]X1\nアイドルアバター[タイツ]X1\nアイドルアバター[靴]X1
+
+ID=834000019
+Icon/Item/Material/Make_M_Assault_01_OS_HalfBody
+0
+0
+0
+0
+0
+精錬石
+<font color='#FFBA85'>[精錬石]\n装備を最下級～最上級に変更(0%～100%)<font color='#9D927B'>\n\nソウルワーカーの装備に反応して価値を変化させる石。\n必ずしも価値が上がるとは限らない。
+
+ID=834000020
+Icon/Item/Material/Make_M_Assault_03_OS_Begin
+0
+0
+0
+0
+0
+強化精錬石
+<font color='#FFBA85'>[精錬石]\n装備を中級～最上級に変更(41%～100%)<font color='#9D927B'>\n\nソウルワーカーの装備に反応して価値を変化させる石。\n質がいいため、価値が上がる可能性が高くなっている。
+
+ID=834000021
+Icon/Item/Material/Make_M_Assault_06_OS_SkyKill
+0
+0
+0
+0
+0
+特化精錬石
+<font color='#FFBA85'>[精錬石]\n装備を上級～最上級に変更(61%～100%)<font color='#9D927B'>\n\nソウルワーカーの装備に反応して価値を変化させる石。\n質がいいため、価値が上がる可能性がより高くなっている。
+
+ID=834000022
+Icon/Item/Material/Make_M_Assault_04_OS_Realize
+0
+0
+0
+0
+0
+超越精錬石
+<font color='#FFBA85'>[精錬石]\n装備を最上級に変更(81%～100%)<font color='#9D927B'>\n\nソウルワーカーの装備に反応して価値を変化させる石。\n高確率で最上級に変更できる。
+
+ID=213510701
+Icon/Item/Costume/PC_A/PC_A_EQ_Hood_Costume01_07
+0
+0
+0
+0
+0
+[EV]アイコニックフード[上衣]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nハル専用。
+
+ID=213510801
+Icon/Item/Costume/PC_A/PC_A_EQ_Hood_Costume02_08
+0
+0
+0
+0
+0
+[EV]アイコニックフード[下衣]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nハル専用。
+
+ID=213511101
+Icon/Item/Costume/PC_A/PC_A_EQ_Hood_Socks_11
+0
+0
+0
+0
+0
+[EV]アイコニックフード[靴下]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nハル専用。
+
+ID=213511201
+Icon/Item/Costume/PC_A/PC_A_EQ_Hood_Shoes_12
+0
+0
+0
+0
+0
+[EV]アイコニックフード[靴]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nハル専用。
+
+ID=223500701
+Icon/Item/Costume/PC_B/PC_B_EQ_Hood_Costume01_07
+0
+0
+0
+0
+0
+[EV]アイコニックフード[フード]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nアーウィン専用。
+
+ID=223500801
+Icon/Item/Costume/PC_B/PC_B_EQ_Hood_Costume02_08
+0
+0
+0
+0
+0
+[EV]アイコニックフード[下衣]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nアーウィン専用。
+
+ID=223501201
+Icon/Item/Costume/PC_B/PC_B_EQ_Hood_Shoes_12
+0
+0
+0
+0
+0
+[EV]アイコニックフード[靴]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nアーウィン専用。
+
+ID=233580701
+Icon/Item/Costume/PC_C/PC_C_EQ_Hood_Costume01_07
+0
+0
+0
+0
+0
+[EV]アイコニックフード[上衣]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうてがイケてた！\nリリー専用。
+
+ID=233580801
+Icon/Item/Costume/PC_C/PC_C_EQ_Hood_Costume02_08
+0
+0
+0
+0
+0
+[EV]アイコニックフード[下衣]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nリリー専用。
+
+ID=233581101
+Icon/Item/Costume/PC_C/PC_C_EQ_Hood_Socks_11
+0
+0
+0
+0
+0
+[EV]アイコニックフード[靴下]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nリリー専用。
+
+ID=233581201
+Icon/Item/Costume/PC_C/PC_C_EQ_Hood_Shoes_12
+0
+0
+0
+0
+0
+[EV]アイコニックフード[靴]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nリリー専用。
+
+ID=243490701
+Icon/Item/Costume/PC_D/PC_D_EQ_Hood_Costume01_07
+0
+0
+0
+0
+0
+[EV]アイコニックフード[上衣]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nジン専用。
+
+ID=243490801
+Icon/Item/Costume/PC_D/PC_D_EQ_Hood_Costume02_08
+0
+0
+0
+0
+0
+[EV]アイコニックフード[下衣]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nジン専用。
+
+ID=243491201
+Icon/Item/Costume/PC_D/PC_D_EQ_Hood_Shoes_12
+0
+0
+0
+0
+0
+[EV]アイコニックフード[靴]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nジン専用。
+
+ID=253510701
+Icon/Item/Costume/PC_E/PC_E_EQ_Hood_Costume01_07
+0
+0
+0
+0
+0
+[EV]アイコニックフード[上衣]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nステラ専用。
+
+ID=253510801
+Icon/Item/Costume/PC_E/PC_E_EQ_Hood_Costume02_08
+0
+0
+0
+0
+0
+[EV]アイコニックフード[下衣]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nステラ専用。
+
+ID=253511101
+Icon/Item/Costume/PC_E/PC_E_EQ_Hood_Socks_11
+0
+0
+0
+0
+0
+[EV]アイコニックフード[靴下]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nステラ専用。
+
+ID=253511201
+Icon/Item/Costume/PC_E/PC_E_EQ_Hood_Shoes_12
+0
+0
+0
+0
+0
+[EV]アイコニックフード[靴]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nステラ専用。
+
+ID=263500701
+Icon/Item/Costume/PC_F/PC_F_EQ_Hood_Costume01_07
+0
+0
+0
+0
+0
+[EV]アイコニックフード[上衣]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nイリス専用。
+
+ID=263500801
+Icon/Item/Costume/PC_F/PC_F_EQ_Hood_Costume02_08
+0
+0
+0
+0
+0
+[EV]アイコニックフード[下衣]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nイリス専用。
+
+ID=263501101
+Icon/Item/Costume/PC_F/PC_F_EQ_Hood_Socks_11
+0
+0
+0
+0
+0
+[EV]アイコニックフード[靴下]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nイリス専用。
+
+ID=263501201
+Icon/Item/Costume/PC_F/PC_F_EQ_Hood_Shoes_12
+0
+0
+0
+0
+0
+[EV]アイコニックフード[靴]
+<font color='#FFBA85'>[アバター]<font color='#9D927B'>\n\n幼き日はこういうのがイケてた！\nイリス専用。
+
+ID=836000583
+Icon/Item/Function/Package/ETC_0_CostumePackage
+0
+0
+0
+0
+0
+アイコニックフードアバターセット
+<font color='#FFBA85'>[アバターパッケージ]<font color='#9D927B'>\n\n各キャラクターに合った[アイコニックフードアバター]を獲得できる。
+
+ID=836000595
+Icon/Item/Function/Package/RocoBox
+0
+0
+0
+0
+0
+1周年記念コインボックス：ロコタウン
+<font color='#FFBA85'>[イベントボックス]<font color='#9D927B'>\n\nリリース1周年を記念して作られたコインが入っている。2～4個の中からランダムで獲得できる。
+
+ID=836000596
+Icon/Item/Function/Package/CandusBox
+0
+0
+0
+0
+0
+1周年記念コインボックス：カンダスシティ
+<font color='#FFBA85'>[イベントボックス]<font color='#9D927B'>\n\nリリース1周年を記念して作られたコインが入っている。5～9個の中からランダムで獲得できる。
+
+ID=836000597
+Icon/Item/Function/Package/GraceBox
+0
+0
+0
+0
+0
+1周年記念コインボックス：グレイスシティ
+<font color='#FFBA85'>[イベントボックス]<font color='#9D927B'>\n\nリリース1周年を記念して作られたコインが入っている。7～12個の中からランダムで獲得できる。
+
+ID=836000598
+Icon/Item/Function/Package/RuinBox
+0
+0
+0
+0
+0
+1周年記念コインボックス：ルインフォートレス
+<font color='#FFBA85'>[イベントボックス]<font color='#9D927B'>\n\nリリース1周年を記念して作られたコインが入っている。10～15個の中からランダムで獲得できる。
+
+ID=836000599
+Icon/Item/Function/Package/SGBox
+0
+0
+0
+0
+0
+1周年記念コインボックス：レイド
+<font color='#FFBA85'>[イベントボックス]<font color='#9D927B'>\n\nリリース1周年を記念して作られたコインが入っている。11～16個の中からランダムで獲得できる。
+
+ID=836000590
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+ジェニー25万ボックス
+<font color='#FFBA85'>[イベントボックス]<font color='#9D927B'>\n\n25万ジェニーが入っている。
+
+ID=836000591
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+Sコイン300個ボックス
+<font color='#FFBA85'>[イベントボックス]<font color='#9D927B'>\n\nSコイン300個が入っている。
+
+ID=836000592
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+Sコイン500個ボックス
+<font color='#FFBA85'>[イベントボックス]<font color='#9D927B'>\n\nSコイン500個が入っている。
+
+ID=836000593
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+Sコイン600個ボックス
+<font color='#FFBA85'>[イベントボックス]<font color='#9D927B'>\n\nSコイン600個が入っている。
+
+ID=836000594
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+BP박스(3000)
+<font color='#FFBA85'>[イベントボックス]<font color='#9D927B'>\n\n\n3000BPを獲得できるボックス。
+
+ID=836000600
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+Sコイン150個ボックス
+<font color='#FFBA85'>[イベントボックス]<font color='#9D927B'>\n\nSコインが150個入っている。
