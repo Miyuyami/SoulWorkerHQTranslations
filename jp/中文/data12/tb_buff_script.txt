@@ -755,7 +755,7 @@ Icon/Buff/Icon_Common_Debuff_Silence
 沉默
 
 ID=5000
-覚醒
+觉醒
 攻击力20%提高，減傷50%，降低移动速度20%，提高处于SuperArmor状态
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -899,13 +899,13 @@ Icon/Buff/Icon_Common_Buff_ST_Recovery
 耐力消耗量減少
 
 ID=5060
-イロージョン
-ダメージ減少量が25%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+侵食
+伤害量減少量增加25%。\n移動速度增加20%。\nSA状态。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=5500
-覚醒
+觉醒
 所有攻击化为最大伤害，攻击速度30%提高，移动速度20%提高，处于SuperArmor状态
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1181,8 +1181,8 @@ Icon/Buff/Icon_Common_Buff_Sarmor
 完全回避
 
 ID=5590
-イロージョン
-攻撃速度が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+侵食
+攻撃速度15%増加。\n移動速度20%増加。\nSA状态。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1193,7 +1193,7 @@ Icon/Buff/Icon_Common_Buff_ASR
 SG回復
 
 ID=6000
-覚醒
+觉醒
 暴击攻击力300%提高，移动速度20%提高，处于SuperArmor状态
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1331,13 +1331,13 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 0
 
 ID=6070
-イロージョン
-クリティカル攻撃力が150%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+侵食
+暴击攻撃力150%増加。\n移動速度20%増加。\nSA状态。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=6500
-覚醒
+觉醒
 SG毎秒15%回复，移动速度20%提高，处于SuperArmor状态
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1655,8 +1655,8 @@ Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=6600
-イロージョン
-SGを毎秒8%回復する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+侵食
+SG每秒8%回復。\n移動速度20%増加。\nSA状态。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1685,7 +1685,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 模式切換
 
 ID=7000
-覚醒
+觉醒
 攻击力100%提高\n移动速度20%提高\n处于SuperArmor状态
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1835,43 +1835,43 @@ Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
 ID=7071
-カウンターアタック
-ソウルを10%回復。
+反击
+SG10%回復。
 0
 靈魂回復
 
 ID=7072
-カウンターアタック
-ソウルを11%回復。
+反击
+SG11%回復。
 0
 靈魂回復
 
 ID=7073
-カウンターアタック
-ソウルを13%回復。
+反击
+SG13%回復。
 0
 靈魂回復
 
 ID=7074
-カウンターアタック
-ソウルを15%回復。
+反击
+SG15%回復。
 0
 靈魂回復
 
 ID=7075
-カウンターアタック
-ソウルを20%回復。
+反击
+SG20%回復。
 0
 靈魂回復
 
 ID=7080
-イロージョン
-攻撃力が50%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+侵食
+攻撃力50%増加。\n移動速度20%増加。\nSA状态。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=7500
-覚醒
+觉醒
 攻撃力20%提高\nSA破壊力30%提高\n移动速度20%提高\nSA状态
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1979,8 +1979,8 @@ Icon/Buff/Icon_Common_Buff_ATK
 攻撃強化
 
 ID=7530
-イロージョン
-SA破壊力が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+侵食
+SA破壊力15%増加。\n移動速度20%増加。\nSA状态。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -5532,73 +5532,73 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53748
 集中Ⅰ
-装着時、ボス/ネームドモンスターに与えるダメージが5%増加する。
+装备时、王/精英怪的追加伤害量增加5%。
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=53749
 集中Ⅱ
-装着時、ボス/ネームドモンスターに与えるダメージが10%増加する。
+装备时、对Boss级别的怪物追加伤害量增加10%。
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=53750
 集中Ⅲ
-装着時、ボス/ネームドモンスターに与えるダメージが15%増加する。
+装备时、对Boss级别的怪物追加伤害量增加15%。
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=53751
 集中Ⅰ
-装着時、ボス/ネームドモンスターに与えるダメージが7%増加する。
+装备时、对Boss级别的怪物追加伤害量增加7%。
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=53752
 集中Ⅱ
-装着時、ボス/ネームドモンスターに与えるダメージが12%増加する。
+装备时、对Boss级别的怪物追加伤害量增加12%。
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=53753
 集中Ⅲ
-装着時、ボス/ネームドモンスターに与えるダメージが17%増加する。
+装备时、对Boss级别的怪物追加伤害量增加17%。
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=53754
 冷徹Ⅰ
-装着時、ボス/ネームドモンスターから受けるダメージが5%減少する。
+装备时、受到对Boss级别的怪物的伤害减少5%。
 Icon/Buff/Icon_Common_Buff_Akashic
 減傷增加
 
 ID=53755
 冷徹Ⅱ
-装着時、ボス/ネームドモンスターから受けるダメージが7%減少する。
+装备时、受到对Boss级别的怪物伤害减少7%。
 Icon/Buff/Icon_Common_Buff_Akashic
 減傷增加
 
 ID=53756
 冷徹Ⅲ
-装着時、ボス/ネームドモンスターから受けるダメージが10%減少する。
+装备时、受到对Boss级别的怪物伤害减少10%。
 Icon/Buff/Icon_Common_Buff_Akashic
 減傷增加
 
 ID=53757
 冷徹Ⅰ
-装着時、ボス/ネームドモンスターから受けるダメージが7%減少する。
+装备时、受到对Boss级别的怪物伤害减少7%。
 Icon/Buff/Icon_Common_Buff_Akashic
 減傷增加
 
 ID=53758
 冷徹Ⅱ
-装着時、ボス/ネームドモンスターから受けるダメージが9%減少する。
+装备时、受到对Boss级别的怪物伤害减少9%。
 Icon/Buff/Icon_Common_Buff_Akashic
 減傷增加
 
 ID=53759
 冷徹Ⅲ
-装着時、ボス/ネームドモンスターから受けるダメージが12%減少する。
+装备时、受到对Boss级别的怪物伤害减少12%。
 Icon/Buff/Icon_Common_Buff_Akashic
 減傷增加
 

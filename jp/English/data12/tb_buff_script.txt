@@ -755,7 +755,7 @@ Icon/Buff/Icon_Common_Debuff_Silence
 Silence
 
 ID=5000
-覚醒
+Awakening
 Attack +20%. Damage taken -50%. Movement speed +20%. Gain super armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -899,13 +899,13 @@ Icon/Buff/Icon_Common_Buff_ST_Recovery
 Stamina Cost ↓
 
 ID=5060
-イロージョン
-ダメージ減少量が25%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Erosion
+Damage Reduction increased by 25%.\nMovement Speed increased by 20%.\nGain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=5500
-覚醒
+Awakening
 All attacks deal maximum damage. Attack Speed +30%. Movement Speed +20%. Gain super armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1181,8 +1181,8 @@ Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5590
-イロージョン
-攻撃速度が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Erosion
+Attack Speed increased by 15%.\nMovement Speed increased by 20%.\nGain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1193,7 +1193,7 @@ Icon/Buff/Icon_Common_Buff_ASR
 +SG
 
 ID=6000
-覚醒
+Awakening
 +300% Critical Damage. +20% Movement Speed. Gain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1331,13 +1331,13 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 0
 
 ID=6070
-イロージョン
-クリティカル攻撃力が150%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Erosion
+Critical Damage increased by 150%.\nMovement Speed increased by 20%.\nGain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=6500
-覚醒
+Awakening
 +15% SG per second. Movement Speed +20%. Gain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1655,8 +1655,8 @@ Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=6600
-イロージョン
-SGを毎秒8%回復する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+Erosion
+Recover 8% SG per second.\nMovement Speed increased by 20%.\nGain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1685,7 +1685,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 Mode Switch
 
 ID=7000
-覚醒
+Awakening
 +100% Attack Power.\n+20% Movement Speed.\nGain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1835,43 +1835,43 @@ Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
 
 ID=7071
-カウンターアタック
+Counter Attack
 ソウルを10%回復。
 0
 Soul Recovery
 
 ID=7072
-カウンターアタック
+Counter Attack
 ソウルを11%回復。
 0
 Soul Recovery
 
 ID=7073
-カウンターアタック
+Counter Attack
 ソウルを13%回復。
 0
 Soul Recovery
 
 ID=7074
-カウンターアタック
+Counter Attack
 ソウルを15%回復。
 0
 Soul Recovery
 
 ID=7075
-カウンターアタック
+Counter Attack
 ソウルを20%回復。
 0
 Soul Recovery
 
 ID=7080
-イロージョン
+Erosion
 攻撃力が50%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=7500
-覚醒
+Awakening
 Attack Power +20%.\nSA Break +30%.\nMovement Speed +20%.\nGain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1979,7 +1979,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 Enhanced Attack
 
 ID=7530
-イロージョン
+Erosion
 SA破壊力が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
