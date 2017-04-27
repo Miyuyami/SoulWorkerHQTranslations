@@ -6581,7 +6581,7 @@ ID=19511
 Candy Knight
 
 ID=19512
-スチームパンク
+Steampunk
 
 ID=20010
 Greet
@@ -6730,6 +6730,15 @@ Show off your knowledge about Japanese culture.
 ID=20138
 {0} shows off their knowledge about Japanese culture.
 
+ID=20139
+韓服
+
+ID=20140
+ポーズを取ります。
+
+ID=20141
+{0}がポーズを取っています。
+
 ID=20142
 Chocolatier
 
@@ -6749,7 +6758,7 @@ ID=20153
 {0} is returning the favor.
 
 ID=20154
-スチームパンク
+Steampunk
 
 ID=20155
 見よ！これぞオーバーテクノロジー。
@@ -9707,40 +9716,40 @@ ID=26129
 Primal Faction Damage Reduction
 
 ID=26130
-[光輝]攻撃力
+[Brilliance] Attack
 
 ID=26131
-[悪念]攻撃力
+[Evil] Attack
 
 ID=26132
-[冷静]攻撃力
+[Serenity] Attack
 
 ID=26133
-[憎悪]攻撃力
+[Hatred] Attack
 
 ID=26134
-[治癒]攻撃力
+[Healing] Attack
 
 ID=26135
-[苦痛]攻撃力
+[Agony] Attack
 
 ID=26136
-[光輝]抵抗力
+[Brilliance] Defence
 
 ID=26137
-[悪念]抵抗力
+[Evil] Defence
 
 ID=26138
-[冷静]抵抗力
+[Serenity] Defence
 
 ID=26139
-[憎悪]抵抗力
+[Hatred] Defence
 
 ID=26140
-[治癒]抵抗力
+[Healing] Defence
 
 ID=26141
-[苦痛]抵抗力
+[Agony] Defence
 
 ID=26201
 Last-Hit Attack
@@ -9824,7 +9833,7 @@ ID=26321
 When critically hit, 50% chance of +{0} HP
 
 ID=26322
-命中時、5%の確率で5秒間、スーパーアーマー破壊力{0}%適用
+On hit, 5% chance of +{0}% SA Break for 5s
 
 ID=26323
 In town, +{0}% Movement Speed
@@ -9869,7 +9878,7 @@ ID=26336
 When hit, 20% chance of Super Armor for 6s
 
 ID=26337
-回避時、ダメージ減少{0}%
+On evasion, +{0}% Damage Reduction
 
 ID=26338
 When hit mid-air, +{0}% Damage Reduction for 5s.
@@ -9917,7 +9926,7 @@ ID=26352
 When under 10% HP, +{0} Attack for 10s
 
 ID=26353
-体力が10%以下の時、10秒間、スーパーアーマー破壊力{0}%適用
+When under 10% HP, +{0}% SA Break for 10s
 
 ID=26354
 On hit with 5% HP or less, 10% chance of invincibility for 1s
@@ -9959,7 +9968,7 @@ ID=26366
 When hit, 30% chance of +{0}% Evaded Attack Damage for 5s
 
 ID=26367
-When hit, 30% chance of +{0}% SA Break for 5s
+攻撃を受けた時、30%の確率で5秒間、スーパーアーマー破壊力{0}%適用
 
 ID=26368
 On evasion, 30% chance of +{0}% Attack Power for 5s
@@ -9974,7 +9983,7 @@ ID=26371
 On evasion, 30% chance of +{0}% Evaded Attack Damage for 5s
 
 ID=26372
-On evasion, 30% chance of +{0}% SA Break for 5s
+回避時、30%の確率で5秒間、スーパーアーマー破壊力{0}%適用
 
 ID=26373
 On skill use, 3% chance of +{0} Attack for 5s
@@ -9989,7 +9998,7 @@ ID=26376
 On dash use, 10% chance of +{0} Attack for 5s
 
 ID=26377
-On dash use, 10% chance of +{0}% SA Break for 5s
+ダッシュ使用時、10%の確率で5秒間、スーパーアーマー破壊力{0}%適用
 
 ID=26378
 On dash use, 10% chance of +{0}% Penetration for 5s
@@ -9998,7 +10007,7 @@ ID=26379
 On kill Effect: +{0} Attack for 5s
 
 ID=26380
-On kill Effect: +{0} SA Break for 5s
+討伐効果：5秒間、スーパーアーマー破壊力{0}%適用
 
 ID=26381
 On kill Effect: -{0}% Enemy Defense for 5s
@@ -10208,7 +10217,7 @@ ID=27859
 On SA Break, 50% chance of +{0}% Penetration for 5s
 
 ID=27860
-On hitting target with 50% SA Gauge or more, +{0}% SA Break
+命中時、スーパーアーマーゲージが50%以上の時、スーパーアーマー破壊力{0}%適用
 
 ID=27861
 In town, +{0}% Movement Speed
@@ -10463,7 +10472,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 16/Apr/2017 11:20 PM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 27/Apr/2017 11:30 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -14458,6 +14467,102 @@ Create item for 7 times
 ID=41244
 Use S coin shop for 4 times
 
+ID=41245
+Create A.R card for 1 time
+
+ID=41246
+Dismantle item for 3 times
+
+ID=41247
+スチールグレイブ2回プレイ
+
+ID=41248
+Item enhancing challenge for 4 times
+
+ID=41249
+Dismantle item for 6 times
+
+ID=41250
+Use S coin shop for 1 time
+
+ID=41251
+Play Steel Graves for 4 times
+
+ID=41252
+Create A.R Card for 2 times
+
+ID=41253
+Item enhancing challenge for 6 times
+
+ID=41254
+Dismantle item for 9 times
+
+ID=41255
+Create item for 3 times
+
+ID=41256
+Play Steel Graves for 6 times
+
+ID=41257
+Item enhancing challenge for 8 times
+
+ID=41258
+Dismantle item for 12 times
+
+ID=41259
+Use S coin shop for 2 times
+
+ID=41260
+Play Steel Graves for 8 times
+
+ID=41261
+Create A.R card for 3 times
+
+ID=41262
+Brooch synthesis for 1 time
+
+ID=41263
+Item enhancing challenge for 10 times
+
+ID=41264
+Dismantle item for 15 times
+
+ID=41265
+Create item for 5 times
+
+ID=41266
+Play Steel Graves for 10 times
+
+ID=41267
+Item enhancing challenge for 12 times
+
+ID=41268
+Dismantle item for 18 times
+
+ID=41269
+Use S coin shop for 3 times
+
+ID=41270
+スチールグレイブ12回プレイ
+
+ID=41271
+Create A.R card for 4 times
+
+ID=41272
+Brooch Synthesis for 2 times
+
+ID=41273
+Item enhancing challenge for 16 times
+
+ID=41274
+Dismantle item for 21 times
+
+ID=41275
+Create item for 7 times
+
+ID=41276
+Sコインショップ利用回数4回
+
 ID=41300
 Character achieves {0} LV
 
@@ -16916,22 +17021,22 @@ ID=48007
 すべて
 
 ID=48008
-光輝
+Brilliance
 
 ID=48009
-悪念
+Evil
 
 ID=48010
-冷静
+Serenity
 
 ID=48011
-憎悪
+Hatred
 
 ID=48012
-治癒
+Healing
 
 ID=48013
-苦痛
+Agony
 
 ID=48014
 ソウルストーン装着不可
@@ -16964,22 +17069,22 @@ ID=48203
 {0}を抽出しますか？\n{1}を{2}個消費
 
 ID=48300
-光輝
+Brilliance
 
 ID=48301
-悪念
+Evil
 
 ID=48302
-冷静
+Serenity
 
 ID=48303
-憎悪
+Hatred
 
 ID=48304
-治癒
+Healing
 
 ID=48305
-苦痛
+Agony
 
 ID=48330
 _[#FFFF00{0}]_
