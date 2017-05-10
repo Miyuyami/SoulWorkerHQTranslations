@@ -3215,10 +3215,10 @@ ID=5315
 Characters can only be deleted 24 hours after creation.\n({0} hours {1} minutes remaining)
 
 ID=5320
-Maintenance in progress
+Maintenance
 
 ID=5321
-Waiting to connect...
+Full
 
 ID=5322
 Busy
@@ -9833,7 +9833,7 @@ ID=26321
 When critically hit, 50% chance of +{0} HP
 
 ID=26322
-On hit, 5% chance of +{0}% SA Break for 5s
+命中時、5%の確率で5秒間、スーパーアーマー破壊力{0}%増加
 
 ID=26323
 In town, +{0}% Movement Speed
@@ -9968,10 +9968,10 @@ ID=26366
 When hit, 30% chance of +{0}% Evaded Attack Damage for 5s
 
 ID=26367
-攻撃を受けた時、30%の確率で5秒間、スーパーアーマー破壊力{0}%適用
+攻撃を受けた時、30%の確率で5秒間、スーパーアーマー破壊力{0}%増加
 
 ID=26368
-On evasion, 30% chance of +{0}% Attack Power for 5s
+回避時、30%の確率で5秒間、攻撃力{0}増加
 
 ID=26369
 On evasion, 30% chance of {0} Accuracy for 5s
@@ -9983,7 +9983,7 @@ ID=26371
 On evasion, 30% chance of +{0}% Evaded Attack Damage for 5s
 
 ID=26372
-回避時、30%の確率で5秒間、スーパーアーマー破壊力{0}%適用
+回避時、30%の確率で5秒間、スーパーアーマー破壊力{0}%増加
 
 ID=26373
 On skill use, 3% chance of +{0} Attack for 5s
@@ -9998,7 +9998,7 @@ ID=26376
 On dash use, 10% chance of +{0} Attack for 5s
 
 ID=26377
-ダッシュ使用時、10%の確率で5秒間、スーパーアーマー破壊力{0}%適用
+ダッシュ使用時、10%の確率で5秒間、スーパーアーマー破壊力{0}%増加
 
 ID=26378
 On dash use, 10% chance of +{0}% Penetration for 5s
@@ -10007,7 +10007,7 @@ ID=26379
 On kill Effect: +{0} Attack for 5s
 
 ID=26380
-討伐効果：5秒間、スーパーアーマー破壊力{0}%適用
+討伐効果：5秒間、スーパーアーマー破壊力{0}%増加
 
 ID=26381
 On kill Effect: -{0}% Enemy Defense for 5s
@@ -10217,7 +10217,7 @@ ID=27859
 On SA Break, 50% chance of +{0}% Penetration for 5s
 
 ID=27860
-命中時、スーパーアーマーゲージが50%以上の時、スーパーアーマー破壊力{0}%適用
+命中時、スーパーアーマーゲージが50%以上の時、スーパーアーマー破壊力{0}%増加
 
 ID=27861
 In town, +{0}% Movement Speed
@@ -10472,7 +10472,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 27/Apr/2017 11:30 PM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 11/May/2017 8:20 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -17309,7 +17309,7 @@ ID=49232
 You may not unstuck your character again.\nPlease try again later.
 
 ID=49233
-Because the account is being logged in, the game will close.
+The account is already connected, the game will now close.
 
 ID=49234
 Are you sure you want to abandon the current dungeon?\nWhen abandoning, the following penalties will occur:\n- Cannot be interrupted\n- Decrease of fatigue (excluding areas that take 0 fatigue)

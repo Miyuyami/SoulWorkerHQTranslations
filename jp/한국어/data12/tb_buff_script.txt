@@ -755,7 +755,7 @@ Icon/Buff/Icon_Common_Debuff_Silence
 침묵
 
 ID=5000
-覚醒
+각성
 공격력이 20% 증가한다. 받는데미지가 50% 감소한다. 이동속도가 20% 증가한다. 슈퍼아머 상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -899,13 +899,13 @@ Icon/Buff/Icon_Common_Buff_ST_Recovery
 스테미나 사용량 감소
 
 ID=5060
-イロージョン
-ダメージ減少量が25%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+이로전
+대미지감소량이 25증가한다. \n이동속도가 20%증가한다. \n슈퍼아머상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=5500
-覚醒
+각성
 모든 공격이 최대데미지를 준다. 공격속도가 30% 증가한다. 이동속도가 20% 증가한다. 슈퍼아머 상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1181,8 +1181,8 @@ Icon/Buff/Icon_Common_Buff_Sarmor
 완전회피
 
 ID=5590
-イロージョン
-攻撃速度が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+이로전
+공격속도가 15% 증가한다. \n이동속도가 20% 증가한다. \n슈퍼아머상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1193,7 +1193,7 @@ Icon/Buff/Icon_Common_Buff_ASR
 SG 회복
 
 ID=6000
-覚醒
+각성
 크리티컬 공격이 300% 증가한다. 이동속도가 20% 증가한다. 슈퍼아머 상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1331,13 +1331,13 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 0
 
 ID=6070
-イロージョン
-クリティカル攻撃力が150%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+이로전
+크리티컬공격력이 150% 증가한다. \n이동속도가 20% 증가한다. \n슈퍼아머상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=6500
-覚醒
+각성
 SG를 매초 15%씩 회복한다. 이동속도가 20% 증가한다. 슈퍼아머 상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1655,8 +1655,8 @@ Icon/Buff/Icon_Common_Buff_ATK
 공격력 증가
 
 ID=6600
-イロージョン
-SGを毎秒8%回復する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+이로전
+SG를 매초 8% 회복한다. \n이동속도가 20% 증가한다. \n슈퍼아머상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1685,7 +1685,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 모드전환
 
 ID=7000
-覚醒
+각성
 공격력이 100%증가한다. \n이동속도가20%증가한다. \n슈퍼아머상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1835,43 +1835,43 @@ Icon/Buff/Icon_Common_Debuff_Def
 방어력 감소
 
 ID=7071
-カウンターアタック
-ソウルを10%回復。
+카운터 어택
+소울을 10% 회복.
 0
 소울회복
 
 ID=7072
-カウンターアタック
-ソウルを11%回復。
+카운터 어택
+소울을 11% 회복.
 0
 소울회복
 
 ID=7073
-カウンターアタック
-ソウルを13%回復。
+카운터 어택
+소울을 13% 회복.
 0
 소울회복
 
 ID=7074
-カウンターアタック
-ソウルを15%回復。
+카운터 어택
+소울을 15% 회복.
 0
 소울회복
 
 ID=7075
-カウンターアタック
-ソウルを20%回復。
+카운터 어택
+소울을 20% 회복.
 0
 소울회복
 
 ID=7080
-イロージョン
-攻撃力が50%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+이로전
+공격력이 50% 증가한다. \n이동속도가 20% 증가한다. \n슈퍼아머상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=7500
-覚醒
+각성
 공격력이20%증가한다.\n슈퍼아머 파괴력이30%증가한다.\n이동속도가20%증가한다.\n슈퍼아머상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
@@ -1979,8 +1979,8 @@ Icon/Buff/Icon_Common_Buff_ATK
 공격강화
 
 ID=7530
-イロージョン
-SA破壊力が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+이로전
+SA파괴력이 15% 증가한다. \n이동속도가 20% 증가한다. \n슈퍼아머상태가 된다.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -5532,73 +5532,73 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53748
 집중Ⅰ
-装着時、ボス/ネームドモンスターに与えるダメージが5%増加する。
+장착시, 보스/네임드몬스터에게 주는 대미지가 5% 증가한다.
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지량 증가
 
 ID=53749
 집중Ⅱ
-装着時、ボス/ネームドモンスターに与えるダメージが10%増加する。
+장착시, 보스/네임드몬스터에게 주는 대미지가 10% 증가한다.
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지량 증가
 
 ID=53750
 집중Ⅲ
-装着時、ボス/ネームドモンスターに与えるダメージが15%増加する。
+장착시, 보스/네임드몬스터에게 주는 대미지가 15% 증가한다.
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지량 증가
 
 ID=53751
 집중Ⅰ
-装着時、ボス/ネームドモンスターに与えるダメージが7%増加する。
+장착시, 보스/네임드몬스터에게 주는 대미지가 7% 증가한다.
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지량 증가
 
 ID=53752
 집중Ⅱ
-装着時、ボス/ネームドモンスターに与えるダメージが12%増加する。
+장착시, 보스/네임드몬스터에게 주는 대미지가 12% 증가한다.
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지량 증가
 
 ID=53753
 집중Ⅲ
-装着時、ボス/ネームドモンスターに与えるダメージが17%増加する。
+장착시, 보스/네임드몬스터에게 주는 대미지가 17% 증가한다.
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지량 증가
 
 ID=53754
 냉철Ⅰ
-装着時、ボス/ネームドモンスターから受けるダメージが5%減少する。
+장착시, 보스/네임드몬스터에게서 받는 대미지가 5% 감소한다.
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지감소증가
 
 ID=53755
 냉철Ⅱ
-装着時、ボス/ネームドモンスターから受けるダメージが7%減少する。
+장착시, 보스/네임드몬스터에게서 받는 대미지가 7% 감소한다.
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지감소증가
 
 ID=53756
 냉철Ⅲ
-装着時、ボス/ネームドモンスターから受けるダメージが10%減少する。
+장착시, 보스/네임드몬스터에게서 받는 대미지가 10% 감소한다.
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지감소증가
 
 ID=53757
 냉철Ⅰ
-装着時、ボス/ネームドモンスターから受けるダメージが7%減少する。
+장착시, 보스/네임드몬스터에게서 받는 대미지가 7% 감소한다.
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지감소증가
 
 ID=53758
 냉철Ⅱ
-装着時、ボス/ネームドモンスターから受けるダメージが9%減少する。
+장착시, 보스/네임드몬스터에게서 받는 대미지가 9% 감소한다.
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지감소증가
 
 ID=53759
 냉철Ⅲ
-装着時、ボス/ネームドモンスターから受けるダメージが12%減少する。
+장착시, 보스/네임드몬스터에게서 받는 대미지가 12% 감소한다.
 Icon/Buff/Icon_Common_Buff_Akashic
 대미지감소증가
 
