@@ -1328,10 +1328,10 @@ ID=728
 Lv{0}
 
 ID=729
-ヨミの秘蔵庫
+Yomi's Treasury
 
 ID=730
-オプション精錬機能
+Refining Option Function
 
 ID=731
 #{0}
@@ -1616,7 +1616,7 @@ ID=826
 Are you sure you want to remove the socketed item?\n(It will be returned to the inventory.)
 
 ID=827
-新しいソケットを追加しますか？
+Insert new socket?
 
 ID=828
 ソケットアイテム（ファミリア/ソウルストーン）装着はソケットアイテム装着ポップアップで進行できます。\n(装着ポップアップはアイテム右クリックメニューから選択できます。)
@@ -4391,7 +4391,7 @@ ID=9782
 The Primal
 
 ID=9783
-光輝のラストカーニバル
+Last Carnival of Brilliance
 
 ID=9784
 悪念のラストカーニバル
@@ -4409,7 +4409,7 @@ ID=9788
 苦痛のラストカーニバル
 
 ID=9789
-光輝のジャンクハイブ
+Junk Hive of Brilliance
 
 ID=9790
 悪念のジャンクハイブ
@@ -4427,7 +4427,7 @@ ID=9794
 苦痛のジャンクハイブ
 
 ID=9795
-光輝のバンディットハイウェイ
+Bandit Highway of Brilliance
 
 ID=9796
 悪念のバンディットハイウェイ
@@ -4445,7 +4445,7 @@ ID=9800
 苦痛のバンディットハイウェイ
 
 ID=9801
-光輝のアイアンキャッスル
+Iron Castle of Brilliance
 
 ID=9802
 悪念のアイアンキャッスル
@@ -4463,7 +4463,7 @@ ID=9806
 苦痛のアイアンキャッスル
 
 ID=9891
-緊急事態発生地
+Emergency Area
 
 ID=9981
 Rocco Town Shortcut
@@ -6031,6 +6031,9 @@ ID=18213
 ID=18214
 等級精錬時、登録されたアイテムの等級が低くなる場合があります。
 
+ID=18215
+該当アイテムは破壊されません。
+
 ID=18500
 Fast Blade
 
@@ -6296,25 +6299,25 @@ ID=18603
 SG Absorbtion: {0}%
 
 ID=18650
-クーポン使用完了
+Coupon used
 
 ID=18651
-クーポン使用失敗
+Coupon using failed
 
 ID=18652
 {0}クーポンの使用が完了しました。HEMS(メール)でプレゼントを確認してください。
 
 ID=18653
-存在しないコードです。もう一度ご確認ください。
+Code does not exist. Please try again.
 
 ID=18654
-すでに使用されたクーポンです。
+This coupon has already been used.
 
 ID=18655
 すでに参加済みのイベントです。(同一アカウント1回制限)
 
 ID=18656
-クーポンの使用期間が満了しました。
+This coupon has expired.
 
 ID=18657
 Enter Coupon
@@ -6350,7 +6353,7 @@ ID=18709
 Notice
 
 ID=18710
-拡声器
+Loudspeaker
 
 ID=18711
 Cinema
@@ -6731,7 +6734,7 @@ ID=20138
 {0} shows off their knowledge about Japanese culture.
 
 ID=20139
-韓服
+Hanbok
 
 ID=20140
 ポーズを取ります。
@@ -6761,10 +6764,10 @@ ID=20154
 Steampunk
 
 ID=20155
-見よ！これぞオーバーテクノロジー。
+Behold! This is Over Technology!
 
 ID=20156
-{0}がオーバーテクノロジーを披露しています。
+{0} Is showing off Over Technology!
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -8297,7 +8300,7 @@ ID=24329
 Soul Stone
 
 ID=24330
-先知者の破片
+Soulstone Fragments
 
 ID=24499
 Booker's Point
@@ -9833,7 +9836,7 @@ ID=26321
 When critically hit, 50% chance of +{0} HP
 
 ID=26322
-命中時、5%の確率で5秒間、スーパーアーマー破壊力{0}%増加
+On hit, 5% chance of +{0}% SA Break for 5s
 
 ID=26323
 In town, +{0}% Movement Speed
@@ -9842,7 +9845,7 @@ ID=26324
 When hit by boss monsters, 10% chance of +{0}% Damage Reduction for 5s
 
 ID=26325
-On evasion, +{0}% Attack for 5s
+回避時、次の攻撃の攻撃力{0}%増加
 
 ID=26326
 On evasion, 5% chance of +{0} HP
@@ -9857,7 +9860,7 @@ ID=26329
 When hit, 15% chance of +{0}% Defense for 5s
 
 ID=26330
-When hit, 8% chance of +{0}% Critical Resistance for 10s
+攻撃を受けた時、8%の確率で10秒間クリティカル抵抗{0}%増加
 
 ID=26331
 When hit, 20% chance of +{0}% Damage Reflection
@@ -9968,10 +9971,10 @@ ID=26366
 When hit, 30% chance of +{0}% Evaded Attack Damage for 5s
 
 ID=26367
-攻撃を受けた時、30%の確率で5秒間、スーパーアーマー破壊力{0}%増加
+When hit, 30% chance of +{0}% SA Break for 5s
 
 ID=26368
-回避時、30%の確率で5秒間、攻撃力{0}増加
+On evasion, 30% chance of +{0}% Attack for 5s
 
 ID=26369
 On evasion, 30% chance of {0} Accuracy for 5s
@@ -9983,7 +9986,7 @@ ID=26371
 On evasion, 30% chance of +{0}% Evaded Attack Damage for 5s
 
 ID=26372
-回避時、30%の確率で5秒間、スーパーアーマー破壊力{0}%増加
+On evasion, 30% chance of +{0}% SA Break for 5s
 
 ID=26373
 On skill use, 3% chance of +{0} Attack for 5s
@@ -9998,7 +10001,7 @@ ID=26376
 On dash use, 10% chance of +{0} Attack for 5s
 
 ID=26377
-ダッシュ使用時、10%の確率で5秒間、スーパーアーマー破壊力{0}%増加
+On dash use, 10% chance of +{0}% SA Break for 5s
 
 ID=26378
 On dash use, 10% chance of +{0}% Penetration for 5s
@@ -10007,7 +10010,7 @@ ID=26379
 On kill Effect: +{0} Attack for 5s
 
 ID=26380
-討伐効果：5秒間、スーパーアーマー破壊力{0}%増加
+On kill Effect: +{0} SA Break for 5s
 
 ID=26381
 On kill Effect: -{0}% Enemy Defense for 5s
@@ -10217,7 +10220,7 @@ ID=27859
 On SA Break, 50% chance of +{0}% Penetration for 5s
 
 ID=27860
-命中時、スーパーアーマーゲージが50%以上の時、スーパーアーマー破壊力{0}%増加
+On hitting target with 50% SA Gauge or more, +{0}% SA Break
 
 ID=27861
 In town, +{0}% Movement Speed
@@ -10472,7 +10475,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 11/May/2017 8:20 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 25/May/2017 9:45 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -12710,25 +12713,25 @@ ID=36012
 Move
 
 ID=37001
-緊急！第6区域に空白の亀裂発生！応援を求む！
+Emergency! A Void Fissure has appeared in the Emergency Area! Requesting support!
 
 ID=37002
-空白の亀裂を除去できました。
+The Void Fissures has been eliminated.
 
 ID=37003
-緊急事態発生地の空白の亀裂が突然姿を消しました。
+The Void Fissures in the Emergency Area has disappeared.
 
 ID=37004
-緊急事態発生地の中心部にコードネーム[ザ・シング]が出現しました。
+Code name [The Thing] has appeared in the center of the Emergency Area.
 
 ID=37005
-最高のソウルワーカー！{0}によって、ザ・シングが討伐されました。
+The Strongest Soulworker! {0} has defeated The Thing.
 
 ID=37006
-緊急事態発生地のザ・シングが突然姿を消しました。
+The Thing in the Emergency Area has disappeared.
 
 ID=37007
-緊急事態が発生しました。\nLｖ.40から支援可能です。\nアイコンをクリックして支援をお願いします！\n\n亀裂消滅まで：残り{0}分
+Emergency!\nLv.40 and above can participate.\nClick the icon to support!\n\nTime till disappearance of Void Fissure: {0} minutes
 
 ID=37008
 The Vacuum Cube has disappeared, unable to obtain any items.
@@ -12770,13 +12773,13 @@ ID=37020
 Entrance Time
 
 ID=37021
-緊急事態発生地の中心部に移動中の[ザ・シング]のエナジー感知。1分後に遭遇する見込みです。
+[The Thing] energy source is coming from the center of the Emergency Area. It will appear in 1 minute.
 
 ID=37025
-該当チャンネルのザ・シングが討伐されました。\n\n緊急事態終了まで：残り{0}分
+The Thing has been defeated in this channel.\n\nTime till emergency ends: {0} minutes
 
 ID=37026
-緊急事態発生地で[コードネーム：ザ・シング]が出現しました。\n制限時間内に討伐してください！\n支援はLｖ.40から可能です。\nボタンを押して支援をお願いします！\n\n緊急事態終了まで：残り{0}分
+Code name [The Thing] has appeared in the Emergency Area.\nPlease defeat it within the time limit!\nAvailable for Lv.40 and above.\nClick the icon to support!\n\nTime till emergency ends: {0} minutes
 
 ID=37500
 Soul Hunter Progress
@@ -14561,7 +14564,7 @@ ID=41275
 Create item for 7 times
 
 ID=41276
-Sコインショップ利用回数4回
+Use Scoin shop 4 times
 
 ID=41300
 Character achieves {0} LV
@@ -14597,25 +14600,25 @@ ID=41310
 ディストリクトでPvPのBP{0}獲得
 
 ID=41311
-ザ・シングレイド参加
+Participate in The Thing Raid
 
 ID=41312
 日を越えても以前のクエストを完了させることができます。
 
 ID=41313
-レッツ！ソウルワーカー！！
+Lets! Soulworker!!
 
 ID=41314
 Claim
 
 ID=41315
-最終報酬受け取り
+Receive final reward
 
 ID=41316
 Let's Start!
 
 ID=41317
-完了してないミッションがあります。
+There are missions that have not been completed.
 
 ID=41318
 Complete
@@ -19217,46 +19220,46 @@ ID=55061
 Cannot change the Party leader while a party recruitment ad is registered.
 
 ID=55062
-緊急事態はLv.40から支援可能です。
+Players above Lv.40 can help support the emergency.
 
 ID=55063
 現在地から入場不可。\n緊急事態時に支援可能地域は、ロコタウン/カンダスシティ/グレイスシティ/ルインフォートレス/ゴールデンシタデルの各町及び第6区域の安全地帯です。参加可能地域に移動後、もう一度お試しください。
 
 ID=55064
-全てのチャンネルの緊急事態が終了しました。
+The emergency in all channels has ended.
 
 ID=55065
 支援者が満員です。しばらくしてから、もう一度お試しください。
 
 ID=55066
-[1位]{0}/ダメージ量：{1}
+[1st]{0}/Damage:{1}
 
 ID=55067
-[2位]{0}/ダメージ量：{1}
+[2nd]{0}/Damage:{1}
 
 ID=55068
-[3位]{0}/ダメージ量：{1}
+[3rd]{0}/Damage:{1}
 
 ID=55069
-[4位]{0}/ダメージ量：{1}
+[4th]{0}/Damage:{1}
 
 ID=55070
-[5位]{0}/ダメージ量：{1}
+[5th]{0}/Damage:{1}
 
 ID=55071
-[6位]{0}/ダメージ量：{1}
+[6th]{0}/Damage:{1}
 
 ID=55072
-[7位]{0}/ダメージ量：{1}
+[7th]{0}/Damage:{1}
 
 ID=55073
-[8位]{0}/ダメージ量：{1}
+[8th]{0}/Damage:{1}
 
 ID=55074
-[9位]{0}/ダメージ量：{1}
+[9th]{0}/Damage:{1}
 
 ID=55075
-[10位]{0}/ダメージ量：{1}
+[10th]{0}/Damage:{1}
 
 ID=55076
 トドメの一撃成功！{0}から戦利品を獲得しました。
@@ -19864,6 +19867,24 @@ Cannot change equipment while the vehicle is summoned.
 ID=59408
 Vehicle summoning is on cooldown.
 
+ID=59501
+登録された番号は安全ではありません。
+
+ID=59502
+同じ番号が3個以上連続で入力されました。同じ番号は2個以下で入力してください。\n<Ex> 111、333、444　等
+
+ID=59503
+連続した番号を3個以上入力できません。連続しない番号を入力してください。\n<Ex> 123、456、654　等
+
+ID=59504
+登録された番号が安全ではありません。\nパスワードには1～7の数字のみ使用できます。 
+
+ID=59505
+同じ番号が4個以上連続で入力されました。同じ番号は2個以下で入力してください。\n<Ex> 1111、3333、4444　等
+
+ID=59506
+連続した番号を4個以上入力できません。連続しない番号を入力してください。\n<Ex> 1234、4567、6543　等
+
 ID=60001
 Are you sure you want to attach [{0}] in that slot?
 
@@ -20303,10 +20324,10 @@ ID=60294
 If you stop Force Auto-Matching, all the applying members will be cancelled.\nDo you want to cancel?
 
 ID=60295
-緊急事態発生！！支援を要請します！
+Emergency!! Requesting support!
 
 ID=60296
-緊急事態が発生しました。\n支援しますか？
+There is an emergency.\nSupport?
 
 ID=60500
 4~8 Force People
