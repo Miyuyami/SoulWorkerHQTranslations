@@ -2934,27 +2934,27 @@ Icon/Buff/Icon_Common_Debuff_Weakness
 
 ID=30202
 汚染
-身体の中から異質な力を感じる。
+30秒間、移動速度、攻撃速度、クリティカル率が50%減少する。
 Icon/Buff/Icon_Common_Debuff_Poison
 汚染
 
 ID=30204
 活力
-身体が活性化し、強力な力を感じる。
-Icon/Buff/Icon_Common_Buff_ATK
-浄化
+身体が活性化し、HPが毎秒15%回復する。
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+活力
 
 ID=30205
 腐食
 HPが持続的に減少する。
 Icon/Buff/Icon_Common_Debuff_Bleed
-腐敗
+腐食
 
 ID=30206
 汚染された血
 HPが持続的に減少する。
-0
--
+Icon/Buff/Icon_Common_Debuff_Poison
+汚染された血
 
 ID=30207
 腐敗
