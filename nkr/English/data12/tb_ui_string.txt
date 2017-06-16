@@ -1571,7 +1571,7 @@ ID=811
 Attach Socket Item
 
 ID=812
-ソケットアイテム（ファミリア/ソウルストーン）を装着できます。
+Item Socket (Familiar/ Soul Stone) can be attached.
 
 ID=813
 You do not have the funds or item required to socket the item.
@@ -1580,25 +1580,25 @@ ID=814
 Fee
 
 ID=815
-ソケットアイテム（ファミリア/ソウルストーン）装着
+Attach Item Socket (Familiar/ Soul Stone)
 
 ID=816
 After releasing the socketed item, new socket items can be attached.
 
 ID=817
-You can attach the socket item after unattaching the applied socket item.
+You can attach the socket item after unattaching the applied socket ite
 
 ID=818
 対象ソケットに{0}を装着しますか？
 
 ID=819
-ソケットアイテム（ファミリア/ソウルストーン）装着に成功しました。
+You have successfully attached the Familiar/ Soul Stone.
 
 ID=820
 Socket Item Management
 
 ID=821
-ソケットに装着中のソケットアイテム（ファミリア/ソウルストーン）を解除したり、\n新しいソケットを追加できます。
+You can add a new Familiar in the socket.\nRelease the Familiar/ Soul Stone first.
 
 ID=822
 You do not have the items or fee needed to dismantle items.
@@ -1607,7 +1607,7 @@ ID=823
 新規ソケット追加に必要なアイテム[インプラントスロット]が不足しています。
 
 ID=824
-ソケットアイテム（ファミリア/ソウルストーン）解除
+Item Socket (Familiar/ Soul Stone) abort
 
 ID=825
 Additional Socket
@@ -1619,10 +1619,10 @@ ID=827
 Insert new socket?
 
 ID=828
-ソケットアイテム（ファミリア/ソウルストーン）装着はソケットアイテム装着ポップアップで進行できます。\n(装着ポップアップはアイテム右クリックメニューから選択できます。)
+Familiars/ Soul Stones can be attached in the socket attachment popup.\n(You can open the popup from the item's right-click menu)
 
 ID=829
-選択したソケットアイテム（ファミリア/ソウルストーン）が解除されました。
+Cancelled the selected Familiar/ Soul Stone.
 
 ID=830
 A socket has been added to the selected item.
@@ -2661,6 +2661,9 @@ Are you sure you want to delete all selected mails?\n(Unread mails and mails wit
 
 ID=2283
 {0} mails were deleted.
+
+ID=2284
+Preview
 
 ID=2500
 Community
@@ -5903,7 +5906,7 @@ ID=18083
 {0} new furnitures will be stored in the Furniture Inventory.
 
 ID=18172
-ファミリア/ソウルストーンソケット最大{0}個付与
+{0} Familiar/ Soul Stone sockets
 
 ID=18173
 Details
@@ -5942,7 +5945,7 @@ ID=18184
 着用ソケットアイテムなし
 
 ID=18185
-ソケットアイテム（ファミリア/ソウルストーン）ソケット拡張可能
+Item Socket (Familiar/ Soul Stone) socket extensible
 
 ID=18186
 {0} brooch sockets ({1} extensible)
@@ -6750,6 +6753,24 @@ I'm giving you... chocolate.
 
 ID=20144
 {0} gives chocolate.
+
+ID=20145
+セクシーケモ耳メイド1
+
+ID=20146
+第一悩殺ポーズ！
+
+ID=20147
+{0}が第一悩殺ポーズを取っています。
+
+ID=20148
+セクシーケモ耳メイド2
+
+ID=20149
+第二悩殺ポーズ！
+
+ID=20150
+{0}が第二悩殺ポーズを取っています。
 
 ID=20151
 White Day
@@ -8408,7 +8429,7 @@ ID=24533
 Brooch Synthesis 
 
 ID=24534
-ソケットアイテム（ファミリア/ソウルストーン）ソケット追加
+Item Socket (Familiar/ Soul Stone) add socket
 
 ID=24535
 Additional Avatar Socket
@@ -10475,7 +10496,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 27/May/2017 9:15 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 16/Jun/2017 8:45 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -14150,7 +14171,7 @@ ID=40618
 The battle will begin after you leave the safety area.
 
 ID=40619
-The Primal is in contamination state.\nGetting in the contaminated area will instantly kill you.
+プライマルに捕まると汚染状態になります。\n汚染状態はプレイヤーの能力値を大幅に弱体化させます。
 
 ID=40620
 The Primal is inhaling a deep breath.
@@ -14168,7 +14189,7 @@ ID=40624
 The powerful core's guardian will be summoned soon.\nThe guardian won't disappear until the core is defeated.
 
 ID=40625
-Using the purifier will change from contaminated state to energized state, you will receive a power boost.\nBut, it can only be used while in the contaminated state.
+浄化装置を使用すると、活力状態になり、周期的にHPを回復します。
 
 ID=40626
 The Primal begins a final desperate attempt upon being severely injured.\nContaminated blood is spreading towards your feet, it will inflict continuous damange.
@@ -14177,13 +14198,16 @@ ID=40627
 The Primal is going to grab the targets that are in from of it.
 
 ID=40628
-WARNING!\nYou will be wiped out unless you enter the energized state.
+警告！\n活力状態になれなかった場合、攻略が困難になる可能性があります。
 
 ID=40629
 Members are loading.
 
 ID=40630
-Primal's gigantic arm has been summoned.\nThe gigantic arm will use skills from a distance.
+プライマルの巨大な腕が召喚されました。\n巨大な腕は、一定距離内に敵がいないと強力なスキルを使用します。
+
+ID=40631
+プライマルが強力な酸性胃液を吐こうとしています。\n周辺の残骸物の上に退避してください。
 
 ID=40701
 A supporting attack from the Tank Squad will soon begin.\nPlease withstand the enemy's assault until the reinforcements arrive.
@@ -17009,7 +17033,7 @@ ID=48002
 抽出
 
 ID=48003
-スロット拡張可能です。
+Sockets can be extended.
 
 ID=48004
 ソケット追加
@@ -17042,7 +17066,7 @@ ID=48013
 Agony
 
 ID=48014
-ソウルストーン装着不可
+Unable to attach Soul Stone
 
 ID=48015
 装着されたソケットアイテムを抽出するのに必要なアイテムが不足しています。
@@ -17054,19 +17078,19 @@ ID=48017
 [ギア装着]
 
 ID=48018
-ソウルストーンを装着できます。
+Soul Stone can be installed.
 
 ID=48019
 Soul Stone
 
 ID=48200
-ソウルストーンは最大3個まで装着できます。
+Up to 3 Soul Stones can be attached.
 
 ID=48201
-同じ属性のソウルストーンは2個まで装着可能です。
+Only 2 of Soul Stones with the same attributes can be attached.
 
 ID=48202
-相関属性のソウルストーンは装着できません。
+Soul Stones with opposing attributes cannot be attached.
 
 ID=48203
 {0}を抽出しますか？\n{1}を{2}個消費
@@ -18479,13 +18503,13 @@ ID=52295
 You do not have the necessary items to remove the socket.
 
 ID=52297
-[ソウルストーン装着不可]\n相関関係のソウルストーンは装着できません。
+[Unable to attach Soul Stone]/nSoul Stones with opposing attributes cannot be installed.
 
 ID=52298
-[ソウルストーン装着不可]\n同じ属性のソウルストーンは2個まで装着できます。
+[Unable to attach Soul Stone]/nOnly 2 of Soul Stones with the same attributes can be attached.
 
 ID=52299
-[ソウルストーン装着不可]\nソウルストーンは最大3個まで装着できます。
+[Unable to attach Soul Stone]/nUp to 3 Soul Stones can be attached.
 
 ID=52301
 Insufficient Zenny. You cannot purchase the item.
