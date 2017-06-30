@@ -2311,7 +2311,7 @@ Description_Image/Skill/Mistscythe/Image_Mcythe_Break_Awakening
 ID=13912
 Erosion
 1段階ゲージ消費（SV50消費）\n\n[スキル情報]\n30秒間、覚醒状態になる。\n-クリティカルダメージが150%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
-クリティカルダメージが150%増加する。
+Critical Damage +150%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_BreakErode
 Description_Image/Skill/Mistscythe/Image_Mcythe_Break_Erode
 
@@ -2486,7 +2486,7 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 ID=4051
 Special Dodge Ⅰ
 [Info]\nStamina Cost: [40]\nCooldown: [60s]\n\nSwiftly dodge as an enemy attacks you.\nNegate damage during the special dodge.\n\n[Usage]\nKeyboard: While taking damage (Move Key) + (Shift Key)
-クールタイム：[60秒]-10秒
+Cooldown: [60s]-10s
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
