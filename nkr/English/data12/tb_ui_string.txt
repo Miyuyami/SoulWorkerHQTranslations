@@ -3688,6 +3688,15 @@ ID=5904
 ID=5905
 <font color='#FFFFFF' size='30'>TIP: </font>You cannot use <font color='#00D8FF'>[DRAW]</font> type A.R Cards in <font color='#00D8FF'>District 6</font>.
 
+ID=5910
+<font color='#FFFFFF'><font size="30">TIP。</font>エンジェルグルトンはマップ中に1体のみ登場します。それだけレアなアイテムを持っているということです。
+
+ID=5911
+<font color='#FFFFFF'><font size="30">TIP。</font>グルトン軍団は無敵で、味方のグルトンを守るために敵を攻撃します。
+
+ID=5912
+<font color='#FFFFFF'><font size="30">TIP。</font>制限時間を過ぎると自動で街に戻ります。ドロップしたアイテムはこまめに収集することをお勧めします。
+
 ID=6011
 Change Representative
 
@@ -6037,6 +6046,21 @@ ID=18214
 ID=18215
 該当アイテムは破壊されません。
 
+ID=18300
+該当アバターにはブローチが登録されています。<font color='#A566FF'>破棄すると登録されているブローチも破棄</font>されます。本当に破棄しますか？
+
+ID=18301
+{0}エリアに移動しますか？移動時、エリア移動券を1枚消費します。
+
+ID=18302
+このエリアでは使用できません。
+
+ID=18303
+メイズ「{0}」に移動しますか？下記の条件を満たす時、{1}を1枚使用して、該当位置に移動します。\n回数制限：{2}/{3} 
+
+ID=18304
+メイズ「{0}」に移動しますか？{1}を1枚利用して該当位置に移動します。
+
 ID=18500
 Fast Blade
 
@@ -6588,6 +6612,9 @@ Candy Knight
 
 ID=19512
 Steampunk
+
+ID=19513
+ブライトサンシャイン
 
 ID=20010
 Greet
@@ -10496,7 +10523,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 13/Jul/2017 7:40 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 27/Jul/2017 9:40 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -14393,7 +14420,7 @@ ID=41210
 Level up 5 skills
 
 ID=41211
-スチールグレイブ2回クリア
+スチールグレイブプレイ2回
 
 ID=41212
 Item enhancing challenge for 6 times
@@ -14411,7 +14438,7 @@ ID=41216
 Level up 7 skills
 
 ID=41217
-スチールグレイブ4回クリア
+スチールグレイブ4回プレイ
 
 ID=41218
 Create A.R Card for 2 times
@@ -14432,7 +14459,7 @@ ID=41223
 Level up 9 skills
 
 ID=41224
-スチールグレイブ6回クリア
+スチールグレイブ6回プレイ
 
 ID=41225
 Brooch synthesis for 1 time
@@ -14453,7 +14480,7 @@ ID=41230
 Level up 10 skills
 
 ID=41231
-スチールグレイブ8回クリア
+スチールグレイブ8回プレイ
 
 ID=41232
 Create A.R card for 3 times
@@ -14474,7 +14501,7 @@ ID=41237
 Level up 10 skills
 
 ID=41238
-スチールグレイブ10回クリア
+スチールグレイブ10回プレイ
 
 ID=41239
 Create A.R card for 4 times
@@ -14501,7 +14528,7 @@ ID=41246
 Dismantle item for 3 times
 
 ID=41247
-スチールグレイブ2回クリア
+スチールグレイブ2回プレイ
 
 ID=41248
 Item enhancing challenge for 4 times
@@ -14513,7 +14540,7 @@ ID=41250
 Use S coin shop for 1 time
 
 ID=41251
-スチールグレイブ4回クリア
+スチールグレイブ4回プレイ
 
 ID=41252
 Create A.R Card for 2 times
@@ -14528,7 +14555,7 @@ ID=41255
 Create item for 3 times
 
 ID=41256
-スチールグレイブ6回クリア
+スチールグレイブ6回プレイ
 
 ID=41257
 Item enhancing challenge for 8 times
@@ -14540,7 +14567,7 @@ ID=41259
 Use S coin shop for 2 times
 
 ID=41260
-スチールグレイブ8回クリア
+スチールグレイブ8回プレイ
 
 ID=41261
 Create A.R card for 3 times
@@ -14558,7 +14585,7 @@ ID=41265
 Create item for 5 times
 
 ID=41266
-スチールグレイブ10回クリア
+スチールグレイブ10回プレイ
 
 ID=41267
 Item enhancing challenge for 12 times
@@ -14570,7 +14597,7 @@ ID=41269
 Use S coin shop for 3 times
 
 ID=41270
-スチールグレイブ12回クリア
+スチールグレイブ12回プレイ
 
 ID=41271
 Create A.R card for 4 times
@@ -14600,7 +14627,7 @@ ID=41302
 Level up {0} skills
 
 ID=41303
-スチールグレイブ{0}回クリア
+スチールグレイブ{0}回プレイ
 
 ID=41304
 Create A.R card for {0} times
@@ -14657,13 +14684,13 @@ ID=41321
 Clear Skies of Grief for {0} times
 
 ID=41322
-{0}年{1}月{2}日{3}イベントが終了します。
+{0}Year{1}Month{2}Day{3}  Event ends.
 
 ID=41323
-サマーウィークリーミッション
+Summer Weekly Mission
 
 ID=41324
-サマーウィークリーミッション
+Summer Weekly Mission
 
 ID=42000
 Jack the King
@@ -20376,6 +20403,9 @@ FP
 
 ID=9997
 破片に汚染されたゴールデンシタデル
+
+ID=10001
+グルトンワールド
 
 ID=21100
 There is no space in the inventory.
