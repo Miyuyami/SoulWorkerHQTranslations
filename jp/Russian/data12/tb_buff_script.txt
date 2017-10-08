@@ -20,7 +20,7 @@ ID=15
 顧客特典
 Защита и атака, увеличение на 20%
 Icon/Buff/Icon_Common_Buff_Reg
-Укрепление
+Усиление
 
 ID=99
 断ち切られた流れ
@@ -98,7 +98,7 @@ ID=202
 Fever
 10秒間、移動速度と攻撃速度が5%増加する。
 Icon/Buff/Icon_Common_Buff_Reg
-Укрепление
+Усиление
 
 ID=203
 Fever
@@ -2426,19 +2426,19 @@ ID=22005
 怒涛/強靭
 5分間、攻撃力が15%、防御度が100%増加する。
 Icon/Buff/Icon_Common_Buff_Reg
-Укрепление
+Усиление
 
 ID=22006
 疾風/狂気
 5分間、攻撃速度が8%、クリティカル率が12%増加する。
 Icon/Buff/Icon_Common_Buff_Reg
-Укрепление
+Усиление
 
 ID=22007
 集中/風
 5分間、命中度が300、回避が300増加する。
 Icon/Buff/Icon_Common_Buff_Reg
-Укрепление
+Усиление
 
 ID=22008
 Восстановление HP
@@ -2804,7 +2804,7 @@ ID=30063
 怒涛/強靭
 攻撃力と防御度がそれぞれ10%増加する。
 Icon/Buff/Icon_Common_Buff_Reg
-Укрепление
+Усиление
 
 ID=30065
 HP減少
@@ -3059,16 +3059,16 @@ Icon/Buff/Icon_Common_Buff_ATK
 攻撃力大幅増加
 
 ID=35005
-Укрепление
+Усиление
 攻撃力/防御度20%増加
 Icon/Buff/Icon_Common_Buff_Reg
-Укрепление
+Усиление
 
 ID=35006
-Укрепление
+Усиление
 攻撃力/防御度1000%増加
 Icon/Buff/Icon_Common_Buff_Reg
-Укрепление
+Усиление
 
 ID=35007
 Непобедимый
@@ -5885,10 +5885,10 @@ HP減少
 HP減少
 
 ID=63005
-Укрепление
+Усиление
 10秒間、攻撃力と防御度が30%上昇
 Icon/Buff/Icon_Common_Buff_Reg
-Укрепление
+Усиление
 
 ID=63006
 移動速度減少
@@ -5921,10 +5921,10 @@ Icon/Buff/Icon_Common_Debuff_Stun
 気絶
 
 ID=63011
-Укрепление
+Усиление
 10秒間、攻撃力と防御度が30%上昇
 Icon/Buff/Icon_Common_Buff_Reg
-Укрепление
+Усиление
 
 ID=63012
 攻撃増加
@@ -6147,3 +6147,33 @@ HP減少
 0
 0
 HP減少
+
+ID=5081
+계속되는 투쟁 I
+공격력이 150만큼 증가합니다.(최대 5중첩)
+Icon/Buff/Icon_Common_Buff_ATK
+공격력 증가
+
+ID=5082
+계속되는 투쟁 II
+공격력이 300만큼 증가합니다.(최대 5중첩)
+Icon/Buff/Icon_Common_Buff_ATK
+공격력 증가
+
+ID=5083
+계속되는 투쟁 III
+공격력이 500만큼 증가합니다.(최대 5중첩)
+Icon/Buff/Icon_Common_Buff_ATK
+공격력 증가
+
+ID=20305
+HP 회복
+HP 35%를 즉시 회복합니다
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP 회복
+
+ID=20405
+HP 회복
+23초에 걸쳐 HP 40%를 회복합니다
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP 회복
