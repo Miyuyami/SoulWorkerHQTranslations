@@ -1,6 +1,6 @@
 ID=1
 再生
-持続的にHPとSGが回復する。
+Постоянно восстанавливаются HP и SG.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 Восстановление HP
 
@@ -2004,7 +2004,7 @@ Icon/Buff/Icon_Common_Buff_ASR
 
 ID=10000
 再生
-持続的にHPとSGが回復する。
+Постоянно восстанавливаются HP и SG.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 回復
 
@@ -2190,7 +2190,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=20251
 HP＆SG回復
-HPとSGを即時に10%回復する。
+Мгновенное восстановление 10% HP и SG.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP＆SG回復
 
@@ -2454,13 +2454,13 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=22010
 HP、SG回復
-HPとSGを即時に50%回復する。
+Мгновенное восстановление 50% HP и SG.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP、SG回復
 
 ID=22011
 HP、SG回復
-HPとSGを即時に100%回復する。
+Мгновенное восстановление 100% HP и SG.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP、SG回復
 
@@ -6149,31 +6149,103 @@ HP減少
 HP減少
 
 ID=5081
-계속되는 투쟁 I
-공격력이 150만큼 증가합니다.(최대 5중첩)
+エターナルコンビネーションI
+攻撃力が150ほど増加する。(最大5重複)
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+攻撃力増加
 
 ID=5082
-계속되는 투쟁 II
-공격력이 300만큼 증가합니다.(최대 5중첩)
+エターナルコンビネーションII
+攻撃力が300ほど増加する。(最大5重複)
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+攻撃力増加
 
 ID=5083
-계속되는 투쟁 III
-공격력이 500만큼 증가합니다.(최대 5중첩)
+エターナルコンビネーションIII
+攻撃力が500ほど増加する。(最大5重複)
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+攻撃力増加
 
 ID=20305
-HP 회복
-HP 35%를 즉시 회복합니다
+Восстановление HP
+HP35%回復
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+Восстановление HP
 
 ID=20405
-HP 회복
-23초에 걸쳐 HP 40%를 회복합니다
+Восстановление HP
+23秒かけてHPを40%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+Восстановление HP
+
+ID=18000
+闘魂I
+-
+0
+0
+
+ID=18001
+闘魂II
+-
+0
+0
+
+ID=18002
+闘魂III
+-
+0
+0
+
+ID=18003
+破滅I
+-
+0
+0
+
+ID=18004
+破滅II
+-
+0
+0
+
+ID=18005
+破滅III
+-
+0
+0
+
+ID=18006
+暗技I
+-
+0
+0
+
+ID=18007
+暗技II
+-
+0
+0
+
+ID=18008
+暗技III
+-
+0
+0
+
+ID=18009
+ 聖火I
+-
+0
+0
+
+ID=18010
+ 聖火II
+-
+0
+0
+
+ID=18011
+ 聖火III
+-
+0
+0

@@ -3018,7 +3018,7 @@ Icon/Buff/Icon_Common_Buff_Immun
 
 ID=32001
 HP回復
- HP持續回復
+HP持續回復
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
@@ -6149,31 +6149,103 @@ HP減少
 HP減少
 
 ID=5081
-持续斗争 I
-攻击力增加150.（可叠加5次）
+永恆合擊I
+攻撃力增加150 (最多叠加5段)
 Icon/Buff/Icon_Common_Buff_ATK
-攻击力增加
+攻撃力増加
 
 ID=5082
-持续斗争 II
-攻击力增加300.（可叠加5次）
+永恆合擊II
+攻撃力增加300 (最多叠加5段)
 Icon/Buff/Icon_Common_Buff_ATK
-攻击力增加
+攻撃力増加
 
 ID=5083
-持续斗争 III
-攻击力增加500.（可叠加5次）
+永恆合擊III
+攻撃力增加500 (最多叠加5段)
 Icon/Buff/Icon_Common_Buff_ATK
-攻击力增加
+攻撃力増加
 
 ID=20305
-HP 回复
-立即回复35%HP
+HP回復
+HP回复 35%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 回复
+HP回復
 
 ID=20405
-HP 回复
-23秒内回复40%HP
+HP回復
+每隔23秒回复40%HP。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 回复
+HP回復
+
+ID=18000
+闘魂I
+-
+0
+0
+
+ID=18001
+闘魂II
+-
+0
+0
+
+ID=18002
+闘魂III
+-
+0
+0
+
+ID=18003
+破滅I
+-
+0
+0
+
+ID=18004
+破滅II
+-
+0
+0
+
+ID=18005
+破滅III
+-
+0
+0
+
+ID=18006
+暗技I
+-
+0
+0
+
+ID=18007
+暗技II
+-
+0
+0
+
+ID=18008
+暗技III
+-
+0
+0
+
+ID=18009
+ 聖火I
+-
+0
+0
+
+ID=18010
+ 聖火II
+-
+0
+0
+
+ID=18011
+ 聖火III
+-
+0
+0
