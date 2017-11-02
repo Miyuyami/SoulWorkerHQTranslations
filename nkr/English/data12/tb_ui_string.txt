@@ -185,7 +185,7 @@ ID=110
 Fashion [General]
 
 ID=111
-ファッション[Y.P]
+Fashion [Y.P]
 
 ID=112
 Consumable
@@ -218,7 +218,7 @@ ID=121
 Head
 
 ID=122
-Haircut
+Hair/Head
 
 ID=123
 Eyes
@@ -272,7 +272,7 @@ ID=139
 A.R Card
 
 ID=140
-Discard
+Break
 
 ID=141
 Miscellaneous
@@ -290,10 +290,10 @@ ID=145
 Leg
 
 ID=146
-Offensive Familiar
+Assault Familiar
 
 ID=147
-Defensive Familiar
+Defense Familiar
 
 ID=148
 Gesture
@@ -308,7 +308,7 @@ ID=173
 Personal Card
 
 ID=174
-Soul Container
+Soul Cartridge
 
 ID=175
 Soul Pendant
@@ -365,7 +365,7 @@ ID=200
 General Item
 
 ID=201
-Consumables
+Consumable Item
 
 ID=202
 Quest Item
@@ -374,10 +374,10 @@ ID=203
 Crafting Material
 
 ID=204
-Enhancement Item
+Enhancement Material
 
 ID=205
-Special Items
+Special Item
 
 ID=301
 1
@@ -398,7 +398,7 @@ ID=306
 Zenny:
 
 ID=307
-Y.P：
+Y.P:
 
 ID=308
 BP:
@@ -422,7 +422,7 @@ ID=314
 Enter the quantity of items you wish to split.
 
 ID=315
-Are you sure you want to discard {0}?
+Do you wish to discard {0}?
 
 ID=316
 Sell Mode
@@ -434,13 +434,13 @@ ID=318
 Dismantle
 
 ID=325
-Are you sure you want to expand your inventory slots?
+Do you wish to expand your inventory slots?
 
 ID=326
-Are you sure you want to expand your bank slots?
+Do you wish to expand your bank slots?
 
 ID=327
-Are you sure you want to use {0} to expand your slots?
+Do you wish to expand your slots with {0}?
 
 ID=328
 You do not meet the level requirements for a slot expansion.
@@ -458,13 +458,13 @@ ID=334
 {0} was bought for {1}.
 
 ID=335
-Are you sure that you want to buy the selected items?\nThe selected items cannot be equipped by you.
+You will not be able to equip nor use the selected item(s).\nWould you still buy it?
 
 ID=336
 {0} was sold for {1}.
 
 ID=337
-{2} has been sold to {1}.
+Earned {2} by selling {1} items.
 
 ID=338
 Slot Expansion
@@ -476,22 +476,22 @@ ID=340
 Expansion Fee: {0} Zenny
 
 ID=341
-拡張費用：{0}Y.P
+Expansion Fee: {0} Y.P
 
 ID=342
 Do you want to buy {1} [{0}] for {2}?
 
 ID=343
-Do you want to sell {1}x [{0}] for {2}?
+Do you want to sell {1} [{0}] for {2}?
 
 ID=344
-Are you sure you want to use {0} to expand your slots?
+Do you wish to open slots by using {0}?
 
 ID=345
-Sell the selected items for {0}?
+You will earn {0} from selling the selected items.
 
 ID=346
-The selection contains a <font color='#A566FF'>highly valuable</font> item.\nYou will earn {0} from the sale.\nAre you sure you want to sell them?
+There are <font color='#A566FF'>high-value</font> item(s) among the items to be sold.\nYou will earn {0} from the sale.\nWould you still sell it?
 
 ID=351
 Junk
@@ -509,7 +509,7 @@ ID=355
 Unique
 
 ID=356
-Legendary
+Legend
 
 ID=357
 Heroic
@@ -596,7 +596,7 @@ ID=395
 {0} S Coin
 
 ID=396
-{0}Y.P
+{0} Y.P
 
 ID=397
 {0} Point
@@ -647,10 +647,10 @@ ID=415
 Repair
 
 ID=416
-Register Items
+Register Trade
 
 ID=417
-Display Info
+Show Info
 
 ID=418
 Evolve
@@ -659,7 +659,7 @@ ID=419
 Brooch Management
 
 ID=421
-Display only available items
+Display usable items only
 
 ID=423
 Zenny
@@ -674,16 +674,16 @@ ID=431
 Type
 
 ID=432
-Class
+Character
 
 ID=433
 Grade
 
 ID=434
-Display items within 4 levels
+Show items within 4 levels difference
 
 ID=435
-Display only available items
+Display usable items only
 
 ID=436
 Basic Material
@@ -854,7 +854,7 @@ ID=498
 Random Earnings
 
 ID=501
-Display Info
+Show Info
 
 ID=502
 Pass Leader
@@ -1157,7 +1157,7 @@ ID=632
 Special Abnormal State Resistance
 
 ID=640
-Display Info
+Show Info
 
 ID=641
 Befriend
@@ -1748,7 +1748,7 @@ ID=900
 Status
 
 ID=901
-Class
+Character
 
 ID=902
 Lv
@@ -1898,7 +1898,7 @@ ID=955
 Enhances
 
 ID=956
-Enhancement Item
+Enhancement Material
 
 ID=957
 {1}/{2}
@@ -2693,7 +2693,7 @@ ID=2521
 Post Ad
 
 ID=2522
-Class
+Character
 
 ID=2523
 Lv
@@ -3179,7 +3179,7 @@ ID=5302
 Server Status
 
 ID=5303
-Class
+Character
 
 ID=5304
 Connect to Server [Enter]
@@ -5426,7 +5426,7 @@ ID=16554
 Unique
 
 ID=16555
-Legendary
+Legend
 
 ID=16556
 Heroic
@@ -5519,7 +5519,7 @@ ID=16813
 Category Search
 
 ID=16814
-Class
+Character
 
 ID=16815
 Level
@@ -7442,7 +7442,7 @@ ID=22229
 Befriend
 
 ID=22230
-Display Info
+Show Info
 
 ID=22231
 Miscellaneous
@@ -9038,7 +9038,7 @@ ID=24809
 Evolution Material
 
 ID=24810
-Enhancement Item
+Enhancement Material
 
 ID=24811
 Furniture Material
@@ -10544,7 +10544,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 21/Oct/2017 9:15 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 3/Nov/2017 7:10 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -10721,7 +10721,7 @@ ID=28129
 Lv
 
 ID=28130
-Class
+Character
 
 ID=28131
 Rank
@@ -11753,7 +11753,7 @@ ID=31095
 Lv
 
 ID=31096
-Class
+Character
 
 ID=31097
 Place
@@ -20024,7 +20024,7 @@ ID=60110
 Rank
 
 ID=60111
-Class
+Character
 
 ID=60112
 Lv
@@ -21458,7 +21458,7 @@ ID=28270
 Rank
 
 ID=28271
-Class
+Character
 
 ID=28272
 Level
@@ -21488,7 +21488,7 @@ ID=32114
 Brooch
 
 ID=32115
-Consumables
+Consumable Item
 
 ID=32116
 Coin
