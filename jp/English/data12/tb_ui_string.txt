@@ -242,7 +242,7 @@ ID=129
 Leg
 
 ID=130
-Foot
+Feet
 
 ID=131
 Restore Item
@@ -359,7 +359,7 @@ ID=190
 Avatar [Leg]
 
 ID=191
-Avatar [Foot]
+Avatar [Feet]
 
 ID=200
 General Item
@@ -404,13 +404,13 @@ ID=308
 BP:
 
 ID=309
-Repair all items.
+Repair all equipped items / items in possession.
 
 ID=310
 Repair all equipped items.
 
 ID=311
-Select an item to repair.
+Select and repair an item.
 
 ID=312
 Buy
@@ -686,16 +686,16 @@ ID=435
 Display usable items only
 
 ID=436
-Basic Material
+Base Material
 
 ID=437
-Additional Materials
+Additional Material/s
 
 ID=438
-Claim
+In possession
 
 ID=439
-Essential
+Requirement
 
 ID=440
 Craft Item
@@ -710,16 +710,16 @@ ID=443
 Required BP
 
 ID=444
-Zenny Cost
+Required Zenny
 
 ID=445
-You successfully crafted {0}.
+Successfully crafted {0}.
 
 ID=446
 Crafting List
 
 ID=447
-Required Material
+Required Material/s
 
 ID=448
 Blueprints are automatically registered.
@@ -728,49 +728,49 @@ ID=449
 Additional Materials are automatically registered.
 
 ID=450
-Display only craftable items
+Display craftable items only
 
 ID=456
-The equipment durability has been reduced, the durability has been reduced by {0}%.
+Since the equipped item's durability decreased,\nits ability value is decreased by {0}%.
 
 ID=457
-Are you sure you want to repair all items?\n(Cost: {0} Zenny)
+Do you wish to repair all items in possession?\n(Repair Cost: {0} Zenny)
 
 ID=458
-Are you sure you want to repair all equipment?\n(Cost: {0} Zenny)
+Do you wish to repair all equipped items?\n(Repair Cost: {0} Zenny)
 
 ID=459
-Are you sure you want to repair {0}?\n(Cost: {1} Zenny)
+Do you wish to repair {0}?\n(Repair Cost: {1} Zenny)
 
 ID=460
-{0} has been repaired.\n(Cost: {1} Zenny)
+{0} has been repaired.\nRepair Cost: {1} Zenny
 
 ID=461
-Your equipment has been repaired.\n(Cost: {0} Zenny)
+Equipped items have been repaired.\nRepair Cost: {0} Zenny
 
 ID=462
-All possessed items have been repaired.\n(Cost: {0} Zenny)
+All items have been repaired.\nRepair Cost: {0} Zenny
 
 ID=463
-Insufficient funds for repairing.
+Cannot repair due to insufficient funds.
 
 ID=464
-Items could not be repaired.\n(Only items with decreased durability can be repaired)
+The selected items cannot be repaired.\n(Only items with decreased durability can be repaired)
 
 ID=465
-Cannot equip items with 0 durability.
+Since the item's durability is 0, its ability does not manifest.
 
 ID=466
-Please repair your equipment.
+Please repair the item.
 
 ID=467
 Durability {0}
 
 ID=470
-Total\nRewards
+Maze\nAcquired Total
 
 ID=471
-Completion
+Achievement Status
 
 ID=472
 {0}h {1}m {2}s
@@ -779,16 +779,16 @@ ID=473
 {0}m {1}s
 
 ID=474
-Earned Bonus Rewards: {1} {0}
+Earned additional reward: {0} X {1}
 
 ID=475
-Since there is no inventory space, it has been shipped by [{1} {0}] mail
+Since there is no free slot in your inventory, [{0} X {1}] is sent to your mail instead.
 
 ID=476
 Result
 
 ID=477
-Total Score
+Play Record
 
 ID=478
 Clear Score
@@ -797,16 +797,16 @@ ID=479
 Clear Time
 
 ID=480
-Difficulty
+Maze Difficulty
 
 ID=481
 Max Combo
 
 ID=482
-Clear\nReward
+Completion\nReward
 
 ID=483
-Performance Bonus
+Play Reward
 
 ID=484
 Special Reward
@@ -830,7 +830,7 @@ ID=490
 Party Ranking
 
 ID=491
-Confirm Earnings
+Confirmed Earnings
 
 ID=492
 <Earnings>
@@ -842,13 +842,13 @@ ID=494
 Use Key Card
 
 ID=495
-Current Dungeon Earnings
+Current Maze Earnings
 
 ID=496
-In order to receive bonus rewards, a bonus key card is required.
+A [Bonus Card Key] is required to receive additional reward/s.
 
 ID=497
-Auto-closing in {0} seconds.
+Closes automatically after {0} seconds.
 
 ID=498
 Random Earnings
@@ -857,10 +857,10 @@ ID=501
 Show Info
 
 ID=502
-Pass Leader
+Appoint as Leader
 
 ID=503
-Kick Member
+Expel from Party
 
 ID=504
 Leave Party
@@ -869,43 +869,43 @@ ID=505
 Whisper
 
 ID=506
-Befriend
+Add as Friend
 
 ID=508
 Item use count: {0}/{1}
 
 ID=509
-※Cannot revive because you because you exceeded the item's use count.
+※Cannot revive because you have already exceeded the item use count.
 
 ID=510
 Revive
 
 ID=511
-※ <font color='#F15F5F'>For leaving the battle</font>, in<font size='15' color='#F7AE54'>{0}</font> seconds, you'll be <font color='#F15F5F'>moved to the town</font>.
+※ <font color='#F15F5F'>By forfeiting the battle</font>, you will be <font color='#F15F5F'>transferred back to town</font> after <font size='15' color='#F7AE54'>{0}</font> seconds.
 
 ID=512
 Forfeit
 
 ID=513
-※ Upon resurrection the buff <font color='#5CD1E5'>[Divine Protection]</font> will be applied.
+※ The buff effect <font color='#5CD1E5'>[Divine Protection]</font> is applied upon reviving.
 
 ID=514
-※ <font color='#F2CB61'>1 [Accident Call] will be used</font> for resurrection.
+※ <font color='#F2CB61'>1 x [Accident Call]</font> is used upon reviving.
 
 ID=515
-※ <font color='#F15F5F'>You will be moved to the last town you visited</font> after <font size='15' color='#F7AE54'>{0}</font> seconds.
+※ After <font size='15' color='#F7AE54'>{0}</font> seconds, you will be <font color='#F15F5F'>transferred to the most recent town you visited</font>.
 
 ID=516
-※ <font color='#47C83E'>"{0}" has revived you</font>.
+※ <font color='#47C83E'>You have been revived by "{0}"</font>.
 
 ID=517
-※ <font color='#FFBB00'>1 [Greater Accident Call] will be used</font> for resurrection.
+※ <font color='#FFBB00'>1 x [Top Accident Call]</font> is used upon reviving.
 
 ID=518
-※ <font color='#FFBB00'>Since you have no [Greater Accident Call],</font>you are not able to revive.
+※ Cannot revive because you do not have <font color='#FFBB00'>[Top Accident Call]</font>.
 
 ID=519
-Cannot resurrect in current area.
+Cannot revive in this specific area.
 
 ID=521
 Leave
@@ -959,25 +959,25 @@ ID=549
  
 
 ID=551
-You have received a Party invitation from {0}.\nDo you want to join the party?\n({1} seconds remaining)
+You have been invited to a Party by {0}.\nDo you want to join the party?\n({1} second/s remaining)
 
 ID=552
-If you leave the Party, you will be returned to town.\nAre you sure you want to leave?
+If you leave the Party, you will be transferred back to town.\nDo you want to leave?
 
 ID=553
-You have left the Party, moving to town.\n({0} seconds remaining)
+You have left the Party, and will be transferred back to town.\n({0} seconds remaining)
 
 ID=554
-Are you sure you want to make {0} the Party leader?
+Do you wish to appoint {0} as the Party Leader?
 
 ID=555
-Are you sure you want to expel {0} from the Party?
+Do you wish to expel {0} from the Party?
 
 ID=556
-Are you sure you want to leave the current Party?
+Do you wish to leave the Party you are currently in?
 
 ID=560
-Do you want to raise {0}'s skill level?\n(Costs: {1} SP)
+Do you want to raise {0}'s skill level?\n(Consumes {1} SP)
 
 ID=561
 Owned SP
@@ -986,16 +986,16 @@ ID=562
 {0} Point
 
 ID=563
-Do you want to learn {0} skill?\n(Costs: {1} SP)
+Do you want to learn {0}?\n(Consumes {1} SP)
 
 ID=564
-Are you sure you want to extend the skill deck?
+Do you want to expand your skill deck?
 
 ID=565
-Are you sure you want to activate the skills?
+Do you want to initialize your skills?
 
 ID=566
-Cards Owned:
+No. of Cards:
 
 ID=567
 Time Left
@@ -1007,28 +1007,28 @@ ID=569
 Summon
 
 ID=570
-The rented card will be placed in a dedicated slot.
+The rented card is automatically placed in a dedicated slot.
 
 ID=571
-Do you want to use {0}?\n(A.R Cards that are used cannot be sold nor traded)
+Do you want to use {0}?\n(By using the item, the acquired A.R Cards cannot be sold nor traded)
 
 ID=572
-Requires Lv
+Required Lv
 
 ID=573
-SP Cost:
+Required SP
 
 ID=574
-Next Level Points:
+Next Earned Point/s:
 
 ID=581
-Obtained Items
+Item/s Obtained
 
 ID=582
 Use
 
 ID=583
-{0} obtained
+Obtained {0}
 
 ID=591
 Current HP
@@ -1082,55 +1082,55 @@ ID=607
 Soul Vapor
 
 ID=608
-Movement Speed
+Movement Speed (%)
 
 ID=609
-Attack Speed
+Attack Speed (%)
 
 ID=610
-Minimum Attack
+Min. Attack Power
 
 ID=611
-Maximum Attack
+Max. Attack Power
 
 ID=612
-Minimum Magic Attack
+Min. Magic Attack Power
 
 ID=613
-Maximum Magic Attack
+Max. Magic Attack Power
 
 ID=614
 Defense
 
 ID=615
-Magic Resistance
+Magic Defense
 
 ID=616
 Accuracy
 
 ID=617
-Magic Accuracy
+Magic Attack Accuracy Rate (%)
 
 ID=618
-Evaded Attack Damage
+Failed Attack Damage (%)
 
 ID=619
-Critical Rate
+Critical (%)
 
 ID=620
-Magic Critical Rate
+Magic Critical Rate (%)
 
 ID=621
-Critical Resistance
+Critical Resistance (%)
 
 ID=622
-Magic Critical Resistance
+Magic Critical Resistance (%)
 
 ID=623
-Critical Rate
+Critical Rate (%)
 
 ID=624
-Magic Critical Rate
+Magic Critical Rate (%)
 
 ID=625
 Critical Damage
@@ -1139,28 +1139,28 @@ ID=626
 Magic Critical Attack
 
 ID=627
-Damage Reduction Chance
+Damage Reduction Chance (%)
 
 ID=628
-Damage Reduction
+Damage Reduction (%)
 
 ID=629
-Magic Damage Reduction
+Magic Damage Reduction (%)
 
 ID=630
-Persistent Abnormal State Resistance
+Continuous Status Abnormality Resistance (%)
 
 ID=631
-Active Abnormal State Resistance
+Operational Status Abnormality Resistance (%)
 
 ID=632
-Special Abnormal State Resistance
+Unique Status Abnormality Resistance (%)
 
 ID=640
 Show Info
 
 ID=641
-Befriend
+Add as Friend
 
 ID=642
 Whisper
@@ -1181,37 +1181,37 @@ ID=647
 Block
 
 ID=651
-The dungeon can be entered when everyone accepts.\n(Members in a different town.\nMembers that are logged out.)
+Can only enter the maze until all members accepts.\n(Upon entry, members who are in a different town,\nor are currently logged out cannot join.)
 
 ID=652
-The Party leader has requested to enter a dungeon. Do you wish to join?\nLocation: [{0}]\nEpisode: [{1}]\nDifficulty: [{2}]\n({3} seconds remaining)
+The Party Leader is requesting to enter the maze. Do you wish to enter?\nEntrance Area: [{0}]\nEpisode: [{1}]\nDifficulty: [{2}]\n(Time Remaining: {3} seconds)
 
 ID=653
-{0} Party Members have refused to join the dungeon.
+Member {0} refused to enter the maze.
 
 ID=661
-You will soon be moved to another area.\n({0} seconds remaining)
+You will soon be moved to the next area.\n({0} seconds remaining)
 
 ID=665
 You have been incapacitated. Do you want to revive?
 
 ID=669
-You have been killed by [{0}].
+You have been incapacitated by [{0}]'s attack.
 
 ID=670
-You have been resurrected by consuming soul energy.
+You revived by gushing out Soul Energy.
 
 ID=671
-You have been resurrected by absorbing nearby soul energy.
+You revived upon absorbing the surrounding Soul Energy.
 
 ID=672
-You have been incapacitated. Moving to [{0}].
+You have been incapacitated. You will be transferred back to [{0}].
 
 ID=673
-[{0}] was consumed.
+Used [{0}].
 
 ID=674
-[{0}] [{1}] has been used.
+[{0}] used [{1}].
 
 ID=675
 Obtained: {0}
@@ -1220,16 +1220,16 @@ ID=676
 Obtained: {0} EXP
 
 ID=677
-Obtained: {0} EXP [x{1} bonus]
+Obtained: {0} EXP [ X {1} times]
 
 ID=678
-Killed by [{0}]'s attack.
+You have been killed by [{0}]'s attack.
 
 ID=679
-{1} was killed by [{0}]'s attack.
+{1} have been killed by [{0}]'s attack.
 
 ID=680
-Currenly in combat. Please try again in {0} seconds.
+You are currently in battle. Please try again after {0} second/s.
 
 ID=681
 (Net cafe {0} EXP)
@@ -1238,7 +1238,7 @@ ID=682
 (Net cafe {0} Zenny)
 
 ID=683
-Obtained Rank Experience: {0} EXP
+Rank Experience Obtained: {0} EXP
 
 ID=700
 Talk
@@ -1265,7 +1265,7 @@ ID=707
 Costume (Pending)
 
 ID=708
-Transportation
+Area Transfer
 
 ID=709
 Guild Management (Pending)
@@ -1274,25 +1274,25 @@ ID=710
 Guild Management (Pending)
 
 ID=711
-Communication
+Communication (Pending)
 
 ID=712
-NPC Function
+NPC Feature
 
 ID=713
 Quest List [Space]
 
 ID=714
-Converse
+Talk Feature
 
 ID=715
-Quest Dialogue
+Quest Conversation
 
 ID=716
-Main
+Top
 
 ID=717
-Back[BackSpace]
+Back [BackSpace]
 
 ID=718
 Next [Space]
@@ -1310,10 +1310,10 @@ ID=722
 End [Space]
 
 ID=723
-Manage Sockets
+Socket Management Feature
 
 ID=724
-Accept Quest [Space]
+Accept [Space]
 
 ID=725
 Decline [Back]
@@ -1331,19 +1331,19 @@ ID=729
 Yomi's Treasury
 
 ID=730
-Refining Option Function
+Option Refinement Feature
 
 ID=731
 #{0}
 
 ID=732
-カジュアルレイド、別名「異常空白」は高難易度のパーティー専用メイズです。
+Casual Raid, a.k.a "Abnormal Void", is a maze reserved for high-difficulty Parties.
 
 ID=733
-"Golden Citadel" is a 4-man only top tier Party raid. Break through the golden disaster in order to survive.
+The top-tier raid, "Golden Citadel", is a maze reserved for 4-man Parties. Break through this golden calamity.
 
 ID=734
-The ultimate combat simulation “Steel Grave” can only be challenged 3 times per day. 
+Challenge one's limit in this ultimate battle training simulation, "Steel Grave". You can challenge 5 times a day.
 
 ID=735
 Normal
@@ -1355,37 +1355,37 @@ ID=737
 Expert
 
 ID=738
-Party Only
+Party-exclusive
 
 ID=739
-Party Only [4 People]
+Party-exclusive [4-man]
 
 ID=740
 Fatigue Consumption
 
 ID=741
-Requires an admission ticket.
+A dedicated admission ticket is required.
 
 ID=742
 Recommended Lv: {0}
 
 ID=743
-Recommended Number of Party Members: {0}
+Recommended Number of People: {0}
 
 ID=744
-Entry Limit
+No. of Entry
 
 ID=745
-Solo
+1-man Solo
 
 ID=746
-Solo
+1-man
 
 ID=747
-2 People
+2-man
 
 ID=748
-3 People
+3-man
 
 ID=749
 Party Recommended
@@ -1394,16 +1394,16 @@ ID=750
 Level Limit
 
 ID=751
-Equipment Item
+Equipped Item
 
 ID=752
-{0}[+{1}]
+{0} [+{1}]
 
 ID=753
 Revive Limit (Individual)
 
 ID=755
-<font color='#0099FF'>Dismantable</font>
+<font color='#0099FF'>Dismantlable</font>
 
 ID=756
 <font color='#0099FF'>Enhanceable</font>
@@ -1418,13 +1418,13 @@ ID=759
 <font color='#FF0000'>Bound on Acquisition</font>
 
 ID=760
-<font color='#FF0000'>Item Bounded</font>
+<font color='#FF0000'>Bounded Item</font>
 
 ID=761
 <font color='#FF0000'>Untradable</font>
 
 ID=762
-<font color='#FF0000'>Untradable (bounded)</font>
+<font color='#FF0000'>Untradable (Bounded)</font>
 
 ID=763
 <font color='#FF0000'>Unsellable</font>
@@ -1457,28 +1457,28 @@ ID=772
 d
 
 ID=773
-Requires Lv
+Required Lv
 
 ID=774
-Durab.
+Durability
 
 ID=775
-Showcase Item\nAction denied
+Show\nNot allowed
 
 ID=776
-Equip\nAction Denied
+Equipment\nNot allowed
 
 ID=777
-Artisan
+Crafter
 
 ID=778
-Socket Information
+Socket Info
 
 ID=779
-When additional socket items are used, the sockets are activated.
+Socket is activated when an additional socket item is used.
 
 ID=780
-Effective:
+Applied Target:
 
 ID=781
 Self
@@ -1493,64 +1493,64 @@ ID=784
 Maxed
 
 ID=785
-Use skill, after charging
+Charge after Skill use.
 
 ID=786
-Use on ON/OFF
+ON/OFF when used.
 
 ID=787
-Cursor Targeting
+Move Cursor to aim
 
 ID=788
-Use skill, after charging
+Charge after Skill use.
 
 ID=789
 Target Enemy
 
 ID=790
-Left-Click Consecutive Attack
+Hit Left-Click repeatedly
 
 ID=791
 Hold Down Left-Click
 
 ID=792
-Left-Click or Right-Click Multi-Attack
+Hit Left-Click or Right-Click repeatedly
 
 ID=793
 Recommended Link Skill
 
 ID=794
-When using the skill, the effect is active
+When using skill, effect is applied
 
 ID=795
-The effect is passively applied.
+When learned, effect is automatically applied
 
 ID=796
-{0} random options
+Grants {0} random option/s
 
 ID=797
-Activate Sniper Mode
+Switch Sniping Mode
 
 ID=798
-(ネカフェ入場回数：残り{0})
+(Net cafe No. of Entry: {0} remaining)
 
 ID=799
 (Net cafe entry benefits: {0})
 
 ID=800
-Equipment Comparison
+Compare Equipment Item
 
 ID=801
-Status Comparison
+Compare Final Status
 
 ID=802
-Compare Options
+Compare Option/s
 
 ID=803
-Set Effect Comparison
+Compare Set Effect/s
 
 ID=804
-Socket Effect Comparison
+Compare Socket Effect/s
 
 ID=805
 {0} Set:
@@ -1559,76 +1559,76 @@ ID=806
 Exp
 
 ID=807
-Brooch Details
+Brooch Info
 
 ID=808
-Worn on
+Worn part/s
 
 ID=809
-No brooch added
+No Brooch worn
 
 ID=811
 Attach Socket Item
 
 ID=812
-Item Socket (Familiar/ Soul Stone) can be attached.
+Socket Item (Familiar / Soulstone) can be attached.
 
 ID=813
-You do not have the funds or item required to socket the item.
+You do not have the required item nor funds for attaching Socket/s.
 
 ID=814
 Fee
 
 ID=815
-Attach Item Socket (Familiar/ Soul Stone)
+Attach Socket Item (Familiar / Soulstone)
 
 ID=816
-After releasing the socketed item, new socket items can be attached.
+After removing the attached item, a new item can be attached.
 
 ID=817
-You can attach the socket item after unattaching the applied socket ite
+Item can be attached after activating the deactivated socket.
 
 ID=818
-対象ソケットに{0}を装着しますか？
+Do you want to attach {0} to the target socket?
 
 ID=819
-You have successfully attached the Familiar/ Soul Stone.
+Successfully attached the Socket Item (Familiar / Soulstone).
 
 ID=820
 Socket Item Management
 
 ID=821
-You can add a new Familiar in the socket.\nRelease the Familiar/ Soul Stone first.
+You can either remove the attached Socket Item (Familiar / Soulstone),\nor add a new socket.
 
 ID=822
-You do not have the items or fee needed to dismantle items.
+You do not have the required item nor funds for releasing item.
 
 ID=823
-新規ソケット追加に必要なアイテム[インプラントスロット]が不足しています。
+You do not have the required item, "Implant Slot", to add a new Socket.
 
 ID=824
-Item Socket (Familiar/ Soul Stone) abort
+Remove Socket Item (Familiar / Soulstone)
 
 ID=825
-Additional Socket
+Add new Socket
 
 ID=826
-Are you sure you want to remove the socketed item?\n(It will be returned to the inventory.)
+Do you want to remove the attached item in the Socket?\n(The removed item will be moved back to inventory)
 
 ID=827
-Insert new socket?
+Add new Socket?
 
 ID=828
-Familiars/ Soul Stones can be attached in the socket attachment popup.\n(You can open the popup from the item's right-click menu)
+You can proceed in attaching Socket Item (Familiar / Soulstone) in the Socket Item Attachment Pop-up\n(Attachment Pop-up can be selected from the item's right-click menu)
 
 ID=829
-Cancelled the selected Familiar/ Soul Stone.
+Removed the Socket Item (Familiar / Soulstone).
 
 ID=830
-A socket has been added to the selected item.
+A Socket has been added to the selected item.
 
 ID=831
-This item cannot be socketed with a socket item.
+Cannot use the Socket feature on the item.
 
 ID=832
 Right Hand
@@ -1667,7 +1667,7 @@ ID=853
 Quest
 
 ID=854
-Dungeon
+Maze
 
 ID=855
 Portal
@@ -1676,7 +1676,7 @@ ID=856
 NPC
 
 ID=861
-Entered Channel {0}.
+Entered CH {0}.
 
 ID=865
 Weapon
@@ -1694,13 +1694,13 @@ ID=869
 Mouth
 
 ID=870
-Top
+Upper Garment
 
 ID=871
 Hand
 
 ID=872
-Bottom
+Lower Garment
 
 ID=873
 Bottom
@@ -1718,16 +1718,16 @@ ID=877
 Underwear
 
 ID=881
-Dismantled {0}.\nObtained {2} {1}\nObtained {3} Ether
+Successfully dismantled {0}.\nObtained Item: {1} X {2}\nObtained Ether: {3}
 
 ID=882
-Dismantling failed.
+Item dismantling failed.
 
 ID=883
 Do you want to dismantle {0}?
 
 ID=884
-Are you sure that you want to dismantle the items?
+Press confirm to dismantle the selected items.\nDo you want to dismantle?
 
 ID=885
 The selection contains a <font color='#A566FF'>highly valuable</font> item.\nDismantled items cannot be recovered.\nAre you sure you want to dismantle them?
@@ -1919,7 +1919,7 @@ ID=962
 Use break prevention item
 
 ID=963
-Zenny Cost
+Required Zenny
 
 ID=964
 Required BP
@@ -2381,7 +2381,7 @@ ID=2101
 Community
 
 ID=2102
-Befriend
+Add as Friend
 
 ID=2103
 Party
@@ -2957,7 +2957,7 @@ ID=3104
 Ranking Record Reward
 
 ID=3105
-Obtained Items
+Item/s Obtained
 
 ID=3106
 Completing {0} will award you the following rewards.
@@ -3056,7 +3056,7 @@ ID=4014
 Obtain Memorial
 
 ID=4015
-{0} obtained
+Obtained {0}
 
 ID=4016
 Incoming Friend Request
@@ -5627,7 +5627,7 @@ ID=16849
 Galaxy
 
 ID=16850
-{0} units
+{0}개
 
 ID=16851
 The following search parameters are not applicable.
@@ -7439,7 +7439,7 @@ ID=22228
 Guild Invite
 
 ID=22229
-Befriend
+Add as Friend
 
 ID=22230
 Show Info
@@ -8231,13 +8231,13 @@ ID=24283
 Mouth
 
 ID=24284
-Top
+Upper Garment
 
 ID=24285
 Hand
 
 ID=24286
-Bottom
+Lower Garment
 
 ID=24287
 Tail
@@ -8567,13 +8567,13 @@ ID=24563
 Mouth
 
 ID=24564
-Top
+Upper Garment
 
 ID=24565
 Hand
 
 ID=24566
-Bottom
+Lower Garment
 
 ID=24567
 Tail
@@ -8750,10 +8750,10 @@ ID=24624
 Underwear
 
 ID=24625
-Top
+Upper Garment
 
 ID=24626
-Bottom
+Lower Garment
 
 ID=24627
 Top/Bottom Set
@@ -9014,10 +9014,10 @@ ID=24801
 Head
 
 ID=24802
-Top
+Upper Garment
 
 ID=24803
-Bottom
+Lower Garment
 
 ID=24804
 Hand
@@ -9515,7 +9515,7 @@ ID=26038
 Defense
 
 ID=26039
-Magic Resistance
+Magic Defense
 
 ID=26040
 Magic Resistance
@@ -10544,7 +10544,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 3/Nov/2017 7:10 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 18/Nov/2017 12:55 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -11576,7 +11576,7 @@ ID=31036
 Cannot enter the dungeon because {0} {1} {2} logged out in a different town or area.
 
 ID=31037
-{0} Party Members have refused to join the dungeon.
+Member {0} refused to enter the maze.
 
 ID=31038
 Party Invite
@@ -12029,7 +12029,7 @@ ID=32009
 Pet
 
 ID=32010
-Dungeon
+Maze
 
 ID=32011
 Area
@@ -12179,7 +12179,7 @@ ID=32059
 Event Spawn
 
 ID=32060
-Transportation
+Area Transfer
 
 ID=32061
 Town
@@ -12194,7 +12194,7 @@ ID=32064
 Tooltip
 
 ID=32065
-Durab.
+Durability
 
 ID=32066
 Enhance
@@ -12653,7 +12653,7 @@ ID=35011
 EXP
 
 ID=35012
-Obtained Items
+Item/s Obtained
 
 ID=35013
 Other Information
@@ -16604,7 +16604,7 @@ ID=45011
 Buy All
 
 ID=45012
-Main
+Top
 
 ID=45013
 Buy
@@ -17402,7 +17402,7 @@ ID=49304
 Item
 
 ID=49305
-Dungeon
+Maze
 
 ID=49306
 Battle
@@ -18482,7 +18482,7 @@ ID=52265
 Exchange failed.
 
 ID=52270
-Dismantling failed.
+Item dismantling failed.
 
 ID=52271
 The items in the inventory cannot be dismantled.
@@ -20453,7 +20453,7 @@ ID=48422
 破片交換
 
 ID=48423
-Zenny Cost
+Required Zenny
 
 ID=48424
 破片リスト
@@ -20741,10 +20741,10 @@ ID=27896
 クリティカル攻撃時、10%の確率で1秒間クリティカルダメージ{0}増加
 
 ID=27897
-攻撃を受けた際、20%の確率で1秒間攻撃速度{0}%増加
+攻撃を受けた時、20%の確率で1秒間攻撃速度{0}%増加
 
 ID=27898
-攻撃を受けた際、40%の確率で1秒間回避度{0}増加
+攻撃を受けた時、40%の確率で1秒間回避度{0}増加
 
 ID=27899
 回避時、30%の確率で2秒間クリティカル{0}%増加
@@ -20822,22 +20822,22 @@ ID=27923
 命中時、10%の確率で5秒間攻撃力{0}増加
 
 ID=27924
-体力20%以下の状態で攻撃を受けた際、10%の確率で0.5秒間無敵
+体力20%以下の状態で攻撃を受けた時、10%の確率で0.5秒間無敵
 
 ID=27925
 スキル使用時、10%の確率で5秒間防御度{0}増加
 
 ID=27926
-体力が20%以下の状態で攻撃を受けた際、10%の確率で0.75秒間無敵
+体力が20%以下の状態で攻撃を受けた時、10%の確率で0.75秒間無敵
 
 ID=27927
-体力が20%以下の状態で攻撃を受けた際、10%の確率で1秒間無敵
+体力が20%以下の状態で攻撃を受けた時、10%の確率で1秒間無敵
 
 ID=27928
-体力が20%以下の状態で攻撃を受けた際、10%の確率で1.25秒間無敵
+体力が20%以下の状態で攻撃を受けた時、10%の確率で1.25秒間無敵
 
 ID=27929
-体力が20%以下の状態で攻撃を受けた際、10%の確率で1.5秒間無敵
+体力が20%以下の状態で攻撃を受けた時、10%の確率で1.5秒間無敵
 
 ID=19050
 <font color='#47C83E'>クリティカル1%</font>
@@ -21344,10 +21344,10 @@ ID=24660
 Costume
 
 ID=24661
-Top
+Upper Garment
 
 ID=24662
-Bottom
+Lower Garment
 
 ID=24663
 Hand
@@ -21473,7 +21473,7 @@ ID=28275
 Rank
 
 ID=32110
-ソウルウェホン
+Soul Weapon
 
 ID=32111
 Gear
@@ -21855,3 +21855,81 @@ ID=60710
 
 ID=60711
 イベント説明(テスト)_02
+
+ID=52067
+マッチング中に使用する事は出来ません。
+
+ID=41327
+オータムウィークリーミッション！
+
+ID=41328
+オータムウィークリーミッション！
+
+ID=41329
+メイズランナーズI
+
+ID=41330
+メイズランナーズII
+
+ID=41331
+メイズランナーズIII
+
+ID=41332
+メイズランナーズIV
+
+ID=41333
+メイズランナーズV
+
+ID=41334
+メイズランナーズVI
+
+ID=41335
+メイズランナーズVII
+
+ID=41336
+精錬こそわが人生
+
+ID=41337
+この世は助け合いI
+
+ID=41338
+この世は助け合いII
+
+ID=41339
+メイズ{0}回プレイ
+
+ID=41340
+等級精錬{0}回
+
+ID=41341
+自分以外のマイルームで作物のヘルプ{0}回
+
+ID=41342
+強くなったね！
+
+ID=41343
+宿題のようで宿題じゃないVI
+
+ID=41344
+ゼニスと秘密の取り引きV
+
+ID=41345
+ゼニスと秘密の取り引きVI
+
+ID=41346
+究極のムキムキ
+
+ID=41347
+ロマン溢れる店III
+
+ID=41348
+ロマン溢れる店IV
+
+ID=41349
+もっと輝けIII
+
+ID=41350
+もっと輝けIV
+
+ID=22688
+言語
