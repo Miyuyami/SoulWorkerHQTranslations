@@ -65829,7 +65829,7 @@ Icon/Item/BluePrint/Costume/Hand_4
 連合正規軍服[手袋]の\n製作に必要な設計図。
 
 ID=714406316
-Icon/Item/Function/Package/ETC_0_CostumePackage_PC_D_4
+Icon/Item/BluePrint/Costume/Hip_4
 0
 0
 0
@@ -88939,7 +88939,7 @@ Icon/Item/SoulWeapon/PC_B/SOU_0_HeavyMetalScissorBuster
 [ソウルウェポン：ガン]\n\nソウルワーカー専用武器。\nコントロールベースで発見された兵器を、ソウルワーカーの武器として改造した。\n\nムムムッ…？なんだか同類のニオイがシマス。\n-ジェシー-
 
 ID=112454452
-Icon/Item/SoulWeapon/PC_B/SOU_0_GraveKeeperBarrelmk2
+Icon/Item/SoulWeapon/PC_B/SOU_0_GunTypeBrokenArk
 0
 0
 0
@@ -113055,7 +113055,7 @@ Icon/Item/Consumption/Cure/VitaminZ
 0
 0
 0
-[期間制]極高濃縮ビタミンZ
+[期間限定]極高濃縮ビタミンZ (1日)
 瞬時にあらゆる疲労が吹き飛ぶ高濃縮ビタミン。\nまるで生まれ変わったかのように力がみなぎる。\n副作用もなく、使用回数に制限もない。\nビタミン界の革命、最終兵器と言われている。\n\n[疲労回復アイテム]\n疲労度が即時に100回復。
 
 ID=520021301
@@ -114697,3 +114697,33 @@ Icon/Item/Function/Package/ETC_0_BroachPackage
 0
 機能型FOTブローチキューブ55個セット
 お気に入りのアバターを気持ちよく着こなせるように\nブローチキューブを集めたパッケージ。\n機能型FOTブローチで構成されている。\n\n[パッケージアイテム]\n-構成品-\n機能型FOTブローチキューブX55\nブローチ合成機X11
+
+ID=837000312
+Icon/Item/Function/Package/ETC_0_SpeciallPackage
+0
+0
+0
+0
+0
+[期間限定]オータムパッケージⅠ
+有用なアイテムで構成されている2017年秋のパッケージ。\n\n[パッケージアイテム]\n-構成品-\nFOTブローチキューブX6\nA.RカードキューブX3\nレスキューキットX5\nアクシジェントコールX5\n高濃縮ビタミンX1
+
+ID=837000313
+Icon/Item/Function/Package/ETC_0_SpeciallPackage
+0
+0
+0
+0
+0
+[期間限定]オータムパッケージⅡ
+有用なアイテムで構成されている2017年秋のパッケージ。\n\n[パッケージアイテム]\n-構成品-\nFOTブローチキューブX25\nA.RカードキューブX10\nレスキューキットX20\nアクシジェントコールX20\n超高濃縮ビタミンGX2\nQ.B.D[強化保護]X5\nブラッドパフュームX3\nアイアンパフュームX3\nフラッシュパフュームX3\nライトニングパフュームX1\nビーストパフュームX1\nビガーパフュームX1
+
+ID=991000071
+Icon/Item/Cash/ReviveCell
+0
+0
+0
+0
+0
+[期間限定]リバイブセル (3日)
+超高性能ナノマシン。破損した物品を元に戻せる。\n細かな欠片からも100%復元でき、性能の低下もない。\n主に強化によって壊れた装備の復元に使用される。\n\n[壊れた装備復元アイテム]
