@@ -770,8 +770,8 @@ Description_Image/Skill/SoulumSword/Image_SSword_Break_Awakening
 
 ID=11912
 Erosion
-1段階ゲージ消費（SV50消費）\n\n[スキル情報]\n30秒間、覚醒状態になる。\n-受けるダメージ量が25%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
-攻撃力が20%増加する。\n受けるダメージ量が25%減少する。
+Stage 1 Awakening (consumes 50 SV)\n\n[Info]: Enter awakening state for 30 seconds.\n-Damage taken +25%.\n-Movement Speed +20%.\n-Gain Super Armor.\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard Press the [7] key
+Increase attack by 20%.\nDamage taken -25%.
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BreakErode
 Description_Image/Skill/SoulumSword/Image_SSword_Break_Erode
 
@@ -1484,35 +1484,35 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_Hide
 
 ID=12111
 Soul Launcher Ⅰ
-[スキル情報]\nダメージ量：[3645%]\nSA破壊量：[1882%]\nSG消費量：[5]\nクールタイム：[45秒]\n\nグレネードランチャーを生成し、前方10m地点まで強力な砲撃を行う。攻撃が当たった敵は押し出される。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-ダメージ量：[1943%]+180%\nSA破壊量：[1882%]+94%
+[Info]\nDamage: [3645%]\nSA Break: [1882%]\nSG Cost: [5]\nCooldown: [45s]\n\nBy turning guns into grenade launchers, fire a barrage of artillery up to 10 meters. Hit enemies will be pushed back.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+Damage: [1943%]+180%\nSA Break: [1882%]+94%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SoulLauncher
 0
 
 ID=12112
 Soul Launcher Ⅱ
-[スキル情報]\nダメージ量：[3825%]\nSA破壊量：[1976%]\nSG消費量：[5]\nクールタイム：[45秒]\n\nグレネードランチャーを生成し、前方10m地点まで強力な砲撃を行う。攻撃が当たった敵は押し出される。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-ダメージ量：[2040%]+450%\nSA破壊量：[1976%]+235%
+[Info]\nDamage: [3825%]\nSA Break: [1976%]\nSG Cost: [5]\nCooldown: [45s]\n\nBy turning guns into grenade launchers, fire a barrage of artillery up to 10 meters. Hit enemies will be pushed back.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+Damage: [2040%]+450%\nSA Break: [1976%]+235%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SoulLauncher
 0
 
 ID=12113
 Soul Launcher Ⅲ
-[スキル情報]\nダメージ量：[4275%]\nSA破壊量：[2211%]\nSG消費量：[5]\nクールタイム：[45秒]\n\nグレネードランチャーを生成し、前方10m地点まで強力な砲撃を行う。攻撃が当たった敵は押し出される。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-ダメージ量：[2283%]+465%\nSA破壊量：[2211%]+236%
+[Info]\nDamage: [4275%]\nSA Break: [2211%]\nSG Cost: [5]\nCooldown: [45s]\n\nBy turning guns into grenade launchers, fire a barrage of artillery up to 10 meters. Hit enemies will be pushed back.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+Damage: [2283%]+465%\nSA Break: [2211%]+236%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SoulLauncher
 0
 
 ID=12114
 Soul Launcher Ⅳ
-[スキル情報]\nダメージ量：[4740%]\nSA破壊量：[2447%]\nSG消費量：[5]\nクールタイム：[45秒]\n\nグレネードランチャーを生成し、前方10m地点まで強力な砲撃を行う。攻撃が当たった敵は押し出される。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
-ダメージ量：[2525%]+720%\nSA破壊量：[2447%]+376%
+[Info]\nDamage: [4740%]\nSA Break: [2447%]\nSG Cost: [5]\nCooldown: [45s]\n\nBy turning guns into grenade launchers, fire a barrage of artillery up to 10 meters. Hit enemies will be pushed back.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+Damage: [2525%]+720%\nSA Break: [2447%]+376%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SoulLauncher
 0
 
 ID=12115
 Soul Launcher Ⅴ
-[スキル情報]\nダメージ量：[5460%]\nSA破壊量：[2823%]\nSG消費量：[5]\nクールタイム：[45秒]\n\nグレネードランチャーを生成し、前方10m地点まで強力な砲撃を行う。攻撃が当たった敵は押し出される。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Info]\nDamage: [5460%]\nSA Break: [2823%]\nSG Cost: [5]\nCooldown: [45s]\n\nBy turning guns into grenade launchers, fire a barrage of artillery up to 10 meters. Hit enemies will be pushed back.\n\n[Usage]\nPlace in skill slot and press the corresponding key
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SoulLauncher
 0
@@ -1526,15 +1526,15 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakZenith
 
 ID=12911
 Awakening
-2段階ゲージ消費（SV100消費）\n\n[スキル情報]\n60秒間、覚醒状態になる。\n-全ての攻撃が最大ダメージになる。\n-攻撃速度が30%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
+Stage 2 Awakening (consumes 100 SV)\n\n[Info]: Enter awakening state for 60 seconds.\nAll attacks deal maximum damage.\n-Attack Speed +30%.\n-Movement Speed +20%.\n-Gain Super Armor.\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard Press the [7] key
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakWakeup
 Description_Image/Skill/GunJazz/Image_GJazz_Break_Awakening
 
 ID=12912
 Erosion
-1段階ゲージ消費（SV50消費）\n\n[スキル情報]\n30秒間、覚醒状態になる。\n-攻撃速度が15%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
-全ての攻撃を最大ダメージで与える。\n攻撃速度が15%増加する。
+Stage 1 Awakening (consumes 50 SV)\n\n[Info]: Enter awakening state for 30 seconds.\nAttack Speed +15%.\n-Movement Speed +20%.\n-Gain Super Armor.\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
+All attaks deal maximum damage.\nIncrease attack speed by 15%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakErode
 Description_Image/Skill/GunJazz/Image_GJazz_Break_Erode
 

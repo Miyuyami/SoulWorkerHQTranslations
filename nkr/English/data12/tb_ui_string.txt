@@ -1190,7 +1190,7 @@ ID=653
 Member {0} refused to enter the maze.
 
 ID=661
-You will soon be moved to the next area.\n({0} seconds remaining)
+まもなく次のエリアに移動します。\n(残り{0}秒)
 
 ID=665
 You have been incapacitated. Do you want to revive?
@@ -1337,13 +1337,13 @@ ID=731
 #{0}
 
 ID=732
-Casual Raid, a.k.a "Abnormal Void", is a maze reserved for high-difficulty Parties.
+カジュアルレイド、別名「異常空白」は高難易度のメイズです。
 
 ID=733
 The top-tier raid, "Golden Citadel", is a maze reserved for 4-man Parties. Break through this golden calamity.
 
 ID=734
-Challenge one's limit in this ultimate battle training simulation, "Steel Grave". You can challenge 5 times a day.
+極限の戦闘トレーニングシミュレーション「スチールグレイブ」で自らの限界に挑戦してください。1日に5回挑戦できます。
 
 ID=735
 Normal
@@ -3128,7 +3128,7 @@ ID=5051
 [Break Skill]\nErosion Mode Unlocked
 
 ID=5053
-<ブレイクスキル>\n覚醒使用可能
+[Break Skill]\nAwakening Available
 
 ID=5100
 Intro Video
@@ -4226,7 +4226,7 @@ ID=9100
 Room
 
 ID=9101
-グラスカバーキャンプ
+Glass Cover Camp
 
 ID=9102
 Room
@@ -5978,13 +5978,13 @@ ID=18193
 Enhancing will not attach an extra option.
 
 ID=18194
-オプション精錬
+Option Tuning
 
 ID=18195
 Fixed Options
 
 ID=18196
-精錬
+Tuning
 
 ID=18197
 The options of {0} will be changed.\nAre you sure you want to change the options?
@@ -6035,7 +6035,7 @@ ID=18212
 Insufficient {0} for the brooch extraction.
 
 ID=18213
-等級精錬
+Grade Tuning
 
 ID=18214
 等級精錬時、登録されたアイテムの等級が低くなる場合があります。
@@ -6047,16 +6047,16 @@ ID=18300
 該当アバターにはブローチが登録されています。<font color='#A566FF'>破棄すると登録されているブローチも破棄</font>されます。本当に破棄しますか？
 
 ID=18301
-{0}エリアに移動しますか？移動時、エリア移動券を1枚消費します。
+{0}エリアに移動しますか？\n移動時、エリア移動券を1枚消費します。
 
 ID=18302
 このエリアでは使用できません。
 
 ID=18303
-メイズ「{0}」に移動しますか？下記の条件を満たす時、{1}を1枚使用して、該当位置に移動します。\n回数制限：{2}/{3} 
+メイズ「{0}」に移動しますか？\n下記の条件を満たす時、{1}を1枚使用して、該当位置に移動します。\n回数制限：{2}/{3} 
 
 ID=18304
-メイズ「{0}」に移動しますか？{1}を1枚利用して該当位置に移動します。
+メイズ「{0}」に移動しますか？\n{1}を1枚利用して該当位置に移動します。
 
 ID=18500
 Fast Blade
@@ -6623,10 +6623,13 @@ ID=19512
 Steampunk
 
 ID=19513
-ブライトサンシャイン
+Bright Sunshine
 
 ID=19514
-マリンマリン
+Marine Marine
+
+ID=19516
+もう一つの和の心得
 
 ID=20010
 Greet
@@ -6779,10 +6782,10 @@ ID=20139
 Hanbok
 
 ID=20140
-ポーズを取ります。
+Take a pose.
 
 ID=20141
-{0}がポーズを取っています。
+{0}takes a pose.
 
 ID=20142
 Chocolatier
@@ -6794,7 +6797,7 @@ ID=20144
 {0} gives chocolate.
 
 ID=20145
-セクシーケモ耳メイド1
+Sexy Animal Ear Maid 1
 
 ID=20146
 第一悩殺ポーズ！
@@ -6803,7 +6806,7 @@ ID=20147
 {0}が第一悩殺ポーズを取っています。
 
 ID=20148
-セクシーケモ耳メイド2
+Sexy Animal Ear Maid 2
 
 ID=20149
 第二悩殺ポーズ！
@@ -6830,13 +6833,13 @@ ID=20156
 {0} Is showing off Over Technology!
 
 ID=20157
-マリンマリン
+Marine Marine
 
 ID=20158
-ポーズを取ります。
+Take a pose.
 
 ID=20159
-{0}がポーズを取ります。
+{0}takes a pose
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -9152,7 +9155,7 @@ ID=24847
 Room Package
 
 ID=24848
-Y.Pパッケージ
+Y.P Package
 
 ID=24881
 Sword
@@ -9923,7 +9926,7 @@ ID=26327
 On hit, 2% chance of +{0} Stamina
 
 ID=26328
-In combat, +{0}% Movement Speed
+In battle area, Movement Speed +{0}%
 
 ID=26329
 When hit, 15% chance of +{0}% Defense for 5s
@@ -10544,7 +10547,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 24/Nov/2017 6:55 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 29/Dec/2017 6:05 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -16024,6 +16027,60 @@ Communications Officer Amanda μ
 ID=42442
 Emergency Communications Amanda μ
 
+ID=42445
+Lucy
+
+ID=42446
+電脳少女ルーシー
+
+ID=42447
+要塞の番人ルーシー
+
+ID=42448
+ルーシーμ
+
+ID=42449
+電脳少女ルーシーμ
+
+ID=42450
+要塞の番人ルーシーμ
+
+ID=42451
+Xenia
+
+ID=42452
+強気な補佐官セニア
+
+ID=42453
+逆転の軍師セニア
+
+ID=42454
+Xenia μ
+
+ID=42455
+強気な補佐官セニアμ
+
+ID=42456
+逆転の軍師セニアμ
+
+ID=42457
+Sedurin
+
+ID=42458
+疲れた工学少女セデュリン
+
+ID=42459
+抹殺志向セデュリン
+
+ID=42460
+Sedurin μ
+
+ID=42461
+疲れた工学少女セデュリンμ
+
+ID=42462
+抹殺志向セデュリンμ
+
 ID=43139
 Dignity Snatcher
 
@@ -16566,6 +16623,24 @@ ID=43345
 
 ID=43346
 [SH] Warrant Officer Amanda
+
+ID=43347
+[S]ルーシー
+
+ID=43348
+[SH]ルーシー
+
+ID=43349
+[S] Xenia
+
+ID=43350
+[SH] Xenia
+
+ID=43351
+[S] Sedurin
+
+ID=43352
+[SH] Sedurin
 
 ID=45000
 Item Mall
@@ -20600,13 +20675,13 @@ ID=7019
 予備
 
 ID=9502
-グラスカバーキャンプ
+Glass Cover Camp
 
 ID=9893
-グラスカバーキャンプ
+Glass Cover Camp
 
 ID=9998
-ドレッドフルエコー
+Dread Full Echo
 
 ID=9999
 アルターオブヴォイド
@@ -20840,64 +20915,64 @@ ID=27929
 体力が20%以下の状態で攻撃を受けた時、10%の確率で1.5秒間無敵
 
 ID=19050
-<font color='#47C83E'>クリティカル1%</font>
+<font color='#47C83E'>Critical +1%</font>
 
 ID=19051
-<font color='#4374D9'>クリティカル2%</font>
+<font color='#4374D9'>Critical +2%</font>
 
 ID=19052
-<font color='#E0B94F'>クリティカル4%</font>
+<font color='#E0B94F'>Critical +4%</font>
 
 ID=19053
-<font color='#F15F5F'>クリティカル6%</font>
+<font color='#F15F5F'>Critical +6%</font>
 
 ID=19054
-<font color='#8041D9'>クリティカル9%</font>
+<font color='#8041D9'>Critical +9%</font>
 
 ID=19055
-<font color='#47C83E'>回避度40</font>
+<font color='#47C83E'>Evasio +40</font>
 
 ID=19056
-<font color='#4374D9'>回避度80</font>
+<font color='#4374D9'>Evasion +80</font>
 
 ID=19057
-<font color='#E0B94F'>回避度120</font>
+<font color='#E0B94F'>Evasion 120</font>
 
 ID=19058
-<font color='#F15F5F'>回避度160 / 攻撃速度1%</font>
+<font color='#F15F5F'>Evasion +160 / Attack Speed +1%</font>
 
 ID=19059
-<font color='#8041D9'>回避度200 / 攻撃速度2%</font>
+<font color='#8041D9'>Evasion +200 / Attack Speed +2%</font>
 
 ID=19060
-<font color='#47C83E'>クリティカルダメージ550</font>
+<font color='#47C83E'>Critical Damage +550</font>
 
 ID=19061
-<font color='#4374D9'>クリティカルダメージ750</font>
+<font color='#4374D9'>Critical Damage +750</font>
 
 ID=19062
-<font color='#E0B94F'>クリティカルダメージ950 / 戦闘エリアでの移動速度1%</font>
+<font color='#E0B94F'>Critical Damage +950 / In battle area, Movement Speed +1%</font>
 
 ID=19063
-<font color='#F15F5F'>クリティカルダメージ1150 / 戦闘エリアでの移動速度2%</font>
+<font color='#F15F5F'>Critical Damage +1,150 / In battle area, Movement Speed +2%</font>
 
 ID=19064
-<font color='#8041D9'>クリティカルダメージ1350 / 戦闘エリアでの移動速度3%</font>
+<font color='#8041D9'>Critical Damage +1,350 / In battle area, Movement Speed +3%</font>
 
 ID=19065
-<font color='#47C83E'>攻撃速度1% / クリティカル1%</font>
+<font color='#47C83E'>Attack Speed +1% / Critical +1%</font>
 
 ID=19066
-<font color='#4374D9'> 攻撃速度2% / クリティカル1%</font>
+<font color='#4374D9'> Attack Speed +2% / Critical +1%</font>
 
 ID=19067
-<font color='#E0B94F'> 攻撃速度3% / クリティカル1%</font>
+<font color='#E0B94F'> Attack Speed +3% / Critical +1%</font>
 
 ID=19068
-<font color='#F15F5F'> 攻撃速度5% / クリティカル2%</font>
+<font color='#F15F5F'> Attack Speed +5% / Critical +2%</font>
 
 ID=19069
-<font color='#8041D9'> 攻撃速度8% / クリティカル3%</font>
+<font color='#8041D9'> Attack Speed +8% / Critical +3%</font>
 
 ID=19070
 <font color='#47C83E'>Critical Rate +1%</font>
@@ -20906,88 +20981,88 @@ ID=19071
 <font color='#4374D9'>Critical Rate +2%</font>
 
 ID=19072
-<font color='#E0B94F'>クリティカル率3% / スーパーアーマー破壊力1%</font>
+<font color='#E0B94F'>Critical Rate +3% / Super Armor Break +1%</font>
 
 ID=19073
-<font color='#F15F5F'>クリティカル率4% / スーパーアーマー破壊力2%</font>
+<font color='#F15F5F'>Critical Rate +4% / Super Armor Break +2%</font>
 
 ID=19074
-<font color='#8041D9'>クリティカル率5% / スーパーアーマー破壊力3% / クリティカルダメージ350</font>
+<font color='#8041D9'>Critical Rate +5% / Super Armor Break +3% / Critical Damage +350</font>
 
 ID=19075
-<font color='#47C83E'>クリティカル抵抗2%</font>
+<font color='#47C83E'>Critical Resistance +2%</font>
 
 ID=19076
-<font color='#4374D9'>クリティカル抵抗4%</font>
+<font color='#4374D9'>Critical Resistance +4%</font>
 
 ID=19077
-<font color='#E0B94F'>クリティカル抵抗6%</font>
+<font color='#E0B94F'>Critical Resistance +6%</font>
 
 ID=19078
-<font color='#F15F5F'>クリティカル抵抗8% / クリティカル率1%</font>
+<font color='#F15F5F'>Critical Resistance +8% / Critical Rate +1%</font>
 
 ID=19079
-<font color='#8041D9'>クリティカル抵抗10% / クリティカル率3%</font>
+<font color='#8041D9'>Critical Resistance +10% / Critical Rate +3%</font>
 
 ID=19080
-<font color='#47C83E'>体力2%</font>
+<font color='#47C83E'>Max HP +2%</font>
 
 ID=19081
-<font color='#4374D9'>体力4%</font>
+<font color='#4374D9'>Max HP +4%</font>
 
 ID=19082
-<font color='#E0B94F'>体力6%</font>
+<font color='#E0B94F'>Max HP +6%</font>
 
 ID=19083
-<font color='#F15F5F'>体力8% / 防御度50</font>
+<font color='#F15F5F'>Max HP +8% / Defense +50</font>
 
 ID=19084
-<font color='#8041D9'>体力10% / 防御度100</font>
+<font color='#8041D9'>Max HP +10% / Defense +100</font>
 
 ID=19085
-<font color='#47C83E'>防御度75</font>
+<font color='#47C83E'>Defense +75</font>
 
 ID=19086
-<font color='#4374D9'>防御度150</font>
+<font color='#4374D9'>Defense +150</font>
 
 ID=19087
-<font color='#E0B94F'>防御度300</font>
+<font color='#E0B94F'>Defense +300</font>
 
 ID=19088
-<font color='#F15F5F'>防御度500</font>
+<font color='#F15F5F'>Defense +500</font>
 
 ID=19089
-<font color='#8041D9'>防御度750</font>
+<font color='#8041D9'>Defense +750</font>
 
 ID=19090
-<font color='#47C83E'>防御度25</font>
+<font color='#47C83E'>Defense +25</font>
 
 ID=19091
-<font color='#4374D9'> 防御度50</font>
+<font color='#4374D9'> Defense +50</font>
 
 ID=19092
-<font color='#E0B94F'> 防御度100</font>
+<font color='#E0B94F'> Defense +100</font>
 
 ID=19093
-<font color='#F15F5F'> 防御度250 / 体力3%増加</font>
+<font color='#F15F5F'> Defense +250 / Max HP +3%</font>
 
 ID=19094
-<font color='#8041D9'> 防御度500 / 体力5%増加</font>
+<font color='#8041D9'> Defense +500 / Max HP +5%</font>
 
 ID=19095
-<font color='#47C83E'>最大体力500</font>
+<font color='#47C83E'>Max HP +500</font>
 
 ID=19096
-<font color='#4374D9'>最大体力1200</font>
+<font color='#4374D9'>Max HP +1,200</font>
 
 ID=19097
-<font color='#E0B94F'>最大体力2500</font>
+<font color='#E0B94F'>Max HP +2,500</font>
 
 ID=19098
-<font color='#F15F5F'>最大体力5000</font>
+<font color='#F15F5F'>Max HP +5,000</font>
 
 ID=19099
-<font color='#8041D9'>最大体力8000</font>
+<font color='#8041D9'>Max HP +8,000</font>
 
 ID=19402
 Assassin
@@ -21050,13 +21125,13 @@ ID=5909
 <font color='#FFFFFF'><font size="30">TIP。</font>オペレーションでは死亡時、自動で復活されます。
 
 ID=9807
-[BETA] ディメンションシャッター
+[BETA] Dimension Shutter
 
 ID=9892
-ディメンションシャッター
+Dimension Shutter
 
 ID=10013
-[BETA] オペレーション
+[BETA] Operation
 
 ID=10065
 グラスカバーキャンプ一のすみに現われたポータルはある地下鉄に人間を導いた。その場所の深い所から聞きたくない声が聞こえてくるようだが…
@@ -21086,7 +21161,7 @@ ID=18900
 アイテム売却
 
 ID=18901
-アイテム販売
+Purchase Items
 
 ID=18902
 いくつ購入しますか？
@@ -21503,7 +21578,7 @@ ID=32119
 オペレーション
 
 ID=32120
-ディメンションシャッター
+Dimension Shutter
 
 ID=33556
 集約された科学の結晶
@@ -21638,7 +21713,7 @@ ID=60505
 該当のオペレーションの参加を取り消しますか?
 
 ID=60506
-該当の地域に移動時オペレーションのつけるのが取り消しされます。\n オペレーションを取り消して移動しますか?
+該当の地域に移動時オペレーションの申請が取り消されます。\nオペレーションを取り消して移動しますか?
 
 ID=60507
 マッチングが完了しました。\n 入場しますか?\n -残り時間 :{0}秒-
@@ -21770,13 +21845,13 @@ ID=60550
 ※ 更新 :毎時間定刻\n ※ 初期化 :毎月1日の午前09時
 
 ID=22685
-アイテム3
+Item 3
 
 ID=22686
-アイテム4
+Item 4
 
 ID=33565
-デザイア
+Desire
 
 ID=60600
 Event
@@ -21860,31 +21935,31 @@ ID=52067
 マッチング中に使用する事は出来ません。
 
 ID=41327
-オータムウィークリーミッション！
+Autumn Weekly Mission!
 
 ID=41328
-オータムウィークリーミッション！
+Autumn Weekly Mission!
 
 ID=41329
-メイズランナーズI
+Maze Runners I
 
 ID=41330
-メイズランナーズII
+Maze Runners II
 
 ID=41331
-メイズランナーズIII
+Maze Runners III
 
 ID=41332
-メイズランナーズIV
+Maze Runners IV
 
 ID=41333
-メイズランナーズV
+Maze Runners V
 
 ID=41334
-メイズランナーズVI
+Maze Runners VI
 
 ID=41335
-メイズランナーズVII
+Maze Runners VII
 
 ID=41336
 精錬こそわが人生
@@ -21944,19 +22019,28 @@ ID=41139
 強くなったね！!
 
 ID=19515
-サンタグルトンになるために。
+In order to become a Santa Glutton
 
 ID=20160
-サンタグルトン☆変身！
+Santa Glutton ☆ Transform!
 
 ID=20161
-サンタグルトンに変身！
+Transform into a Santa Glutton
 
 ID=20162
 {0}様がサンタグルトンに変身しました。
 
+ID=20163
+もう一つの和の心得
+
+ID=20164
+もう一つの和の心得を楽しく表現しています。
+
+ID=20165
+{0}がもう一つの和の心得を楽しく表現しています。
+
 ID=10005
-ロンリークリスマス
+Lonely Christmas
 
 ID=40711
 出来る限り多くの箱を破壊し、アイテムを獲得してください。
@@ -21966,3 +22050,30 @@ ID=40712
 
 ID=5063
 「覚悟のミストサイス」にクラスアップグレードしました。
+
+ID=24331
+AR Card Crafting Special Ticket
+
+ID=24671
+AR Card Crafting Special Ticket
+
+ID=24022
+Special Ticket
+
+ID=24895
+Special Ticket
+
+ID=45129
+保有Y.Pを更新する場合、「更新」ボタンを押してください。
+
+ID=45130
+保有Y.Pの情報を読込んでいます。\n反映までに最大3分程度かかる場合があります。
+
+ID=45131
+保有Y.Pの情報の読み込みに失敗しました。\nしばらくしてからもう一度お試しください。
+
+ID=5913
+クリスマスに一人ですって？いいえ、一人じゃないです。\n可愛いノアとセクシーなポイズン姉さんがあなたを待っています。
+
+ID=5914
+クリスマスプレゼントボックスは決められた時間内に一定の数が出現します。

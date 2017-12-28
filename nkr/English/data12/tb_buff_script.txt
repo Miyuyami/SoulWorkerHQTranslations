@@ -6149,19 +6149,19 @@ HP↓
 HP↓
 
 ID=5081
-エターナルコンビネーションI
+Eternal Combination I
 攻撃力が150ほど増加する。(最大5重複)
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=5082
-エターナルコンビネーションII
+Eternal Combination II
 攻撃力が300ほど増加する。(最大5重複)
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=5083
-エターナルコンビネーションIII
+Eternal Combination III
 攻撃力が500ほど増加する。(最大5重複)
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
@@ -6269,7 +6269,7 @@ Icon/Buff/Icon_Common_Buff_CRI
 暴走する狂気
 
 ID=6103
-デストルネード
+Death Tornado
 移動速度および攻撃速度増加
 Icon/Buff/Icon_Common_Buff_MSR
 移動および攻撃速度増加
@@ -6291,3 +6291,111 @@ Paralyzed
 一定時間キャラクターが動けません。
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
+
+ID=56401
+電脳少女の刻印I
+スキル使用時、10%の確率で7秒間クリティカルダメージが600上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Damage Increased
+
+ID=56402
+電脳少女の刻印II
+スキル使用時、10%の確率で7秒間クリティカルダメージが1200上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Damage Increased
+
+ID=56403
+電脳少女の刻印III
+スキル使用時、10%の確率で7秒間クリティカルダメージが1800上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Damage Increased
+
+ID=56411
+電脳少女の刻印I
+スキル使用時、20%の確率で7秒間クリティカルダメージが900上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Damage Increased
+
+ID=56422
+電脳少女の刻印II
+スキル使用時、20%の確率で7秒間クリティカルダメージが1500上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Damage Increased
+
+ID=56433
+電脳少女の刻印III
+スキル使用時、20%の確率で7秒間クリティカルダメージが2100上昇する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Damage Increased
+
+ID=56501
+戦闘戦略の書I
+スキル使用時、10%の確率で15秒間スタミナ最大値5、攻撃力5%上昇する。(時間/効果最大4重複)
+Icon/Buff/Icon_Common_Buff_Akashic
+スタミナ、攻撃力増加
+
+ID=56502
+戦闘戦略の書II
+スキル使用時、10%の確率で15秒間スタミナ最大値6、攻撃力8%上昇する。(時間/効果最大4重複)
+Icon/Buff/Icon_Common_Buff_Akashic
+スタミナ、攻撃力増加
+
+ID=56503
+戦闘戦略の書III
+スキル使用時、10%の確率で15秒間スタミナ最大値7、攻撃力12%上昇する。(時間/効果最大4重複)
+Icon/Buff/Icon_Common_Buff_Akashic
+スタミナ、攻撃力増加
+
+ID=56511
+戦闘戦略の書I
+スキル使用時、20%の確率で20秒間スタミナ最大値8、攻撃力8%上昇する。(時間/効果最大5重複)
+Icon/Buff/Icon_Common_Buff_Akashic
+スタミナ、攻撃力増加
+
+ID=56512
+戦闘戦略の書II
+スキル使用時、20%の確率で20秒間スタミナ最大値9、攻撃力12%上昇する。(時間/効果最大5重複)
+Icon/Buff/Icon_Common_Buff_Akashic
+スタミナ、攻撃力増加
+
+ID=56513
+戦闘戦略の書III
+スキル使用時、20%の確率で20秒間スタミナ最大値10、攻撃力17%上昇する。(時間/効果最大5重複)
+Icon/Buff/Icon_Common_Buff_Akashic
+スタミナ、攻撃力増加
+
+ID=56601
+薬効I
+スキル使用時、10%の確率でクリティカル確率20%、攻撃力25%上昇する。(クールタイム40秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカル率、攻撃力増加
+
+ID=56602
+薬効II
+スキル使用時、10%の確率でクリティカル確率25%、攻撃力30%上昇する。(クールタイム40秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカル率、攻撃力増加
+
+ID=56603
+薬効III
+スキル使用時、10%の確率でクリティカル確率30%、攻撃力35%上昇する。(クールタイム40秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカル率、攻撃力増加
+
+ID=56611
+薬効I
+スキル使用時、20%の確率でクリティカル確率30%、攻撃力40%上昇する。(クールタイム40秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカル率、攻撃力増加
+
+ID=56612
+薬効II
+スキル使用時、20%の確率でクリティカル確率35%、攻撃力45%上昇する。(クールタイム40秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカル率、攻撃力増加
+
+ID=56613
+薬効III
+スキル使用時、20%の確率でクリティカル確率40%、攻撃力50%上昇する。(クールタイム40秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカル率、攻撃力増加
