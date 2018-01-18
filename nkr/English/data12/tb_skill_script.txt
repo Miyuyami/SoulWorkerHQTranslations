@@ -763,14 +763,14 @@ Skill/Icon_SSword_Skill_BreakZenith
 
 ID=11911
 Awakening
-[Skill Information]\nGain Awakening buff for 60 seconds. \n20% Damage Increase \n50% Damage reduction.\n20% Increased movement speed.\n Gain Super Armor\nYour body enters Awakening state and improves your abilities.\nConsume Soul Vapor and use Skills.\n\n[Usage]\nPress 7 Key
+Consumes 2 gauge stages ([100] Soul Vapor)\n\n[Info]: Enter an awakening state for [60s].\n - Attack +[20%]\n- Damage Taken -[50%].\n- Movement Speed +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BreakWakeup
 Description_Image/Skill/SoulumSword/Image_SSword_Break_Awakening
 
 ID=11912
 Erosion
-Stage 1 Awakening (consumes 50 SV)\n\n[Info]: Enter awakening state for 30 seconds.\n-Damage taken +25%.\n-Movement Speed +20%.\n-Gain Super Armor.\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard Press the [7] key
+Consumes 1 gauge stage ([50] Soul Vapor)\n\n[Info]: Enter an awakening state for [30s].\n- Damage Taken +[25%].\n- Movement Speed +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
 Increase attack by 20%.\nDamage taken -25%.
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BreakErode
 Description_Image/Skill/SoulumSword/Image_SSword_Break_Erode
@@ -1526,14 +1526,14 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakZenith
 
 ID=12911
 Awakening
-Stage 2 Awakening (consumes 100 SV)\n\n[Info]: Enter awakening state for 60 seconds.\nAll attacks deal maximum damage.\n-Attack Speed +30%.\n-Movement Speed +20%.\n-Gain Super Armor.\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard Press the [7] key
+Consumes 2 gauge stages ([100] Soul Vapor)\n\n[Info]: Enter an awakening state for [60s].\n- All attacks deal maximum damage.\n- Attack Speed +[30%].\n- Movement Speed +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakWakeup
 Description_Image/Skill/GunJazz/Image_GJazz_Break_Awakening
 
 ID=12912
 Erosion
-Stage 1 Awakening (consumes 50 SV)\n\n[Info]: Enter awakening state for 30 seconds.\nAttack Speed +15%.\n-Movement Speed +20%.\n-Gain Super Armor.\n\nAwaken the body, temporarily increasing one's ability.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
+Consumes 1 gauge stage ([50] Soul Vapor)\n\n[Info]: Enter an awakening state for [30s].\n- Attack Speed +[15%].\n- Movement Speed +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
 All attaks deal maximum damage.\nIncrease attack speed by 15%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_BreakErode
 Description_Image/Skill/GunJazz/Image_GJazz_Break_Erode
@@ -2177,14 +2177,14 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_BreakZenith
 
 ID=13911
 Awakening
-2段階ゲージ消費（SV100消費）\n\n[スキル情報]\n60秒間、覚醒状態になる。\n-クリティカルダメージが300%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
+Consumes 2 gauge stages ([100] Soul Vapor)\n\n[Info]: Enter an awakening state for [60s].\n- Critical Damage +[300%].\n- Movement Speed +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_BreakWakeup
 Description_Image/Skill/Mistscythe/Image_Mcythe_Break_Awakening
 
 ID=13912
 Erosion
-1段階ゲージ消費（SV50消費）\n\n[スキル情報]\n30秒間、覚醒状態になる。\n-クリティカルダメージが150%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
+Consumes 1 gauge stage ([50] Soul Vapor)\n\n[Info]: Enter an awakening state for [30s].\n- Critical Damage +[150%].\n- Movement Speed +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
 Critical Damage +150%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_BreakErode
 Description_Image/Skill/Mistscythe/Image_Mcythe_Break_Erode
@@ -2933,14 +2933,14 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_FinalFist
 
 ID=14911
 Awakening
-2段階ゲージ消費（SV100消費）\n\n[スキル情報]\n60秒間、覚醒状態になる。\n-攻撃力が100%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
+Consumes 2 gauge stages ([100] Soul Vapor)\n\n[Info]: Enter an awakening state for [60s].\n- Attack +[100%].\n- Movement Speed +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_BreakWakeup
 Description_Image/Skill/SpiritArms/Image_Spirit_Break_Awakening
 
 ID=14912
 Erosion
-1段階ゲージ消費（SV50消費）\n\n[スキル情報]\n30秒間、覚醒状態になる。\n-攻撃力が50%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
+Consumes 1 gauge stage ([50] Soul Vapor)\n\n[Info]: Enter an awakening state for [30s].\n- Attack +[50%].\n- Movement Speed +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
 攻撃力が50%増加する。
 Icon/Skill/SpritArms/Icon_Sprit_Skill_BreakErode
 Description_Image/Skill/SpiritArms/Image_Spirit_Break_Erode
@@ -3689,14 +3689,14 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 
 ID=15911
 Awakening
-2段階ゲージ消費（SV100消費）\n\n[スキル情報]\n60秒間、覚醒状態になる。\n-SGを毎秒15%回復する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
+Consumes 2 gauge stages ([100] Soul Vapor)\n\n[Info]: Enter an awakening state for [60s].\n- SG Recovery: +[15%] per second.\n- Movement Speed: +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_BreakWakeup
 Description_Image/Skill/Howling/Image_Howling_Break_Awakening
 
 ID=15912
 Erosion
-1段階ゲージ消費（SV50消費）\n\n[スキル情報]\n30秒間、覚醒状態になる。\n-SGが毎秒8%回復する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
+Consumes 1 gauge stage ([50] Soul Vapor)\n\n[Info]: Enter an awakening state for [30s].\n- SG Recovery: +[8%] per second.\n- Movement Speed: +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
 1秒毎のSG回復量が7%増加する。
 Icon/Skill/Howling/Icon_Howling_Skill_BreakErode
 Description_Image/Skill/Howling/Image_Howling_Break_Erode
@@ -4376,7 +4376,7 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_Earthquake
 ID=16101
 Electric Cannon Ⅰ
 [Info]\nDamage: [1119%]\nSA Break: [2089%]\nSG Cost: [50]\nCooldown: [35s]\n\nMake the weapon float and ride on it facing forwards.\nAfterwards, fire a laser beam forwards.\nCan move while the skill is in use.\n\n[Usage]\nMouse: Place in skill slot and press the corresponding key\nKeyboard: Move Key
-ダメージ量：[1119%]+56%\nSA破壊量：[2089%]+105%
+Damage: [1119%]+56%\nSA Break: [2089%]+105%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ElectricCannon
 0
 
@@ -4452,14 +4452,14 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass
 
 ID=16911
 Awakening
-2段階ゲージ消費（SV100消費）\n\n[スキル情報]\n60秒間、覚醒状態になる。\n-SA破壊力が30%増加する。\n-攻撃力が20%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
+Consumes 2 gauge stages ([100] Soul Vapor)\n\n[Info]: Enter an awakening state for [60s].\n- SA Break +[30%].\n- Movement Speed +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
 LvMax
 Icon/Skill/Hammerstol/Icon_Hamerstoll_Skill_BreakWakeup
 Description_Image/Skill/Hammerstol/Image_Hamerstol_Skill_Awakening
 
 ID=16912
 Erosion
-1段階ゲージ消費（SV50消費）\n\n[スキル情報]\n30秒間、覚醒状態になる。\n-SA破壊力が15%増加する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
+Consumes 1 gauge stage ([50] Soul Vapor)\n\n[Info]: Enter an awakening state for [30s].\n- SA Break +[15%].\n- Movement Speed +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
 攻撃力が20%増加する。\nSA破壊力が15%増加する。
 Icon/Skill/Hammerstol/Icon_Hamerstoll_Skill_BreakErode
 Description_Image/Skill/Hammerstol/Image_Hamerstol_Skill_BreakErode
@@ -8435,126 +8435,126 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_OwnAbility
 
 ID=13061
 Death Scythe Ⅰ
-[スキル情報：基本攻撃]\nダメージ量：[207%]\nSA破壊量：[448%]\n4m以内の敵を引き寄せる。\n\n[スキル情報：追加攻撃]\nダメージ量：[169%]\nSA破壊量：[237%]\n\n[スキル情報：一般]\nSG消費量：[30]\nクールタイム：[25秒]\n\n死神が現れ、周辺にいる敵を引き寄せて攻撃する。死神の攻撃後、任意操作により最後の攻撃方法が変化する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：遠くへ吹き飛ばす。\n[2]右クリック：敵を宙に浮かせる。
+[Basic]\nDamage: [207%]\nSA Break: [448%]\nPull in enemies within 4m.\n\n[Additional]\nDamage: [169%]\nSA Break: [237%]\n\n[General]\nSG Cost: [30]\nCooldown: [25s]\n\nGrim Reaper appears, it attracts the enemies around. After the Grim Reaper attacks, the last attack is changed by the next command.\n\n[Usage: Additional]\nMouse:\n[1] [LMB]: Push the enemies away.\n[2] [RMB]: Launch the enemies in the air.
 [Basic]\nDamage: [207%]+11%\nSA Break: [448]+22%\nPulling Range: [4m]+0.5m\n\n[Additional]\nDamage: [169%]+8%\nSA Break: [237%]+12%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 0
 
 ID=13062
 Death Scythe Ⅱ
-[スキル情報：基本攻撃]\nダメージ量：[218%]\nSA破壊量：[470%]\n4.5m以内の敵を引き寄せる。\n\n[スキル情報：追加攻撃]\nダメージ量：[177%]\nSA破壊量：[249%]\n\n[スキル情報：一般]\nSG消費量：[30]\nクールタイム：[25秒]\n\n死神が現れ、周辺にいる敵を引き寄せて攻撃する。死神の攻撃後、任意操作により最後の攻撃方法が変化する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：遠くへ吹き飛ばす。\n[2]右クリック：敵を宙に浮かせる。
+[Basic]\nDamage: [218%]\nSA Break: [470%]\nPull in enemies within 4.5m.\n\n[Additional]\nDamage: [177%]\nSA Break: [249%]\n\n[General]\nSG Cost: [30]\nCooldown: [25s]\n\nGrim Reaper appears, it attracts the enemies around. After the Grim Reaper attacks, the last attack is changed by the next command.\n\n[Usage: Additional]\nMouse:\n[1] [LMB]: Push the enemies away.\n[2] [RMB]: Launch the enemies in the air.
 [Basic]\nDamage: [218%]+25%\nSA Break: [470]+56%\nPulling Range: [4.5m]+0.5m\n\n[Additional]\nDamage: [177%]+21%\nSA Break: [249%0]+30%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 0
 
 ID=13063
 Death Scythe Ⅲ
-[スキル情報：基本攻撃]\nダメージ量：[243%]\nSA破壊量：[526%]\n5m以内の敵を引き寄せる。\n\n[スキル情報：追加攻撃]\nダメージ量：[198%]\nSA破壊量：[279%]\n\n[スキル情報：一般]\nSG消費量：[30]\nクールタイム：[25秒]\n\n死神が現れ、周辺にいる敵を引き寄せて攻撃する。死神の攻撃後、任意操作により最後の攻撃方法が変化する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：遠くへ吹き飛ばす。\n[2]右クリック：敵を宙に浮かせる。
+[Basic]\nDamage: [243%]\nSA Break: [526%]\nPull in enemies within 5m.\n\n[Additional]\nDamage: [198%]\nSA Break: [279%]\n\n[General]\nSG Cost: [30]\nCooldown: [25s]\n\nGrim Reaper appears, it attracts the enemies around. After the Grim Reaper attacks, the last attack is changed by the next command.\n\n[Usage: Additional]\nMouse:\n[1] [LMB]: Push the enemies away.\n[2] [RMB]: Launch the enemies in the air.
 [Basic]\nDamage: [243%]+26%\nSA Break: [526]+56%\nPulling Range: [5m]+0.5m\n\n[Additional]\nDamage: [198%]+24%\nSA Break: [279%]+29%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 0
 
 ID=13064
 Death Scythe Ⅳ
-[スキル情報：基本攻撃]\nダメージ量：[269%]\nSA破壊量：[582%]\n5.5m以内の敵を引き寄せる。\n\n[スキル情報：追加攻撃]\nダメージ量：[219%]\nSA破壊量：[308%]\n\n[スキル情報：一般]\nSG消費量：[30]\nクールタイム：[25秒]\n\n死神が現れ、周辺にいる敵を引き寄せて攻撃する。死神の攻撃後、任意操作により最後の攻撃方法が変化する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：遠くへ吹き飛ばす。\n[2]右クリック：敵を宙に浮かせる。
+[Basic]\nDamage: [269%]\nSA Break: [582%]\nPull in enemies within 5.5m.\n\n[Additional]\nDamage: [219%]\nSA Break: [308%]\n\n[General]\nSG Cost: [30]\nCooldown: [25s]\n\nGrim Reaper appears, it attracts the enemies around. After the Grim Reaper attacks, the last attack is changed by the next command.\n\n[Usage: Additional]\nMouse:\n[1] [LMB]: Push the enemies away.\n[2] [RMB]: Launch the enemies in the air.
 [Basic]\nDamage: [269%]+42%\nSA Break: [582]+89%\nPulling Range: [5.5m]+1m\n\n[Additional]\nDamage: [219%]+34%\nSA Break: [308%]+48%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 0
 
 ID=13065
 Death Scythe Ⅴ
-[スキル情報：通常攻撃]\nダメージ量：[311%]\nSA破壊量：[671%]\n6.5m以内の敵を引き寄せる。\n\n[スキル情報：追加攻撃]\nダメージ量：[253%]\nSA破壊量：[356%]\n\n[スキル情報：一般]\nSG消費量：[30]\nクールタイム：[25秒]\n\n死神が現れ、周辺にいる敵を引き寄せて攻撃する。死神の攻撃後、任意操作により最後の攻撃方法が変化する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：\n[1]左クリック：遠くへ吹き飛ばす。\n[2]右クリック：敵を宙に浮かせる。
+[Basic]\nDamage: [311%]\nSA Break: [671%]\nPull in enemies within 6.5m.\n\n[Additional]\nDamage: [253%]\nSA Break: [356%]\n\n[General]\nSG Cost: [30]\nCooldown: [25s]\n\nGrim Reaper appears, it attracts the enemies around. After the Grim Reaper attacks, the last attack is changed by the next command.\n\n[Usage: Additional]\nMouse:\n[1] [LMB]: Push the enemies away.\n[2] [RMB]: Launch the enemies in the air.
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathScythe
 0
 
 ID=13111
 Evil Trinity Ⅰ
-[スキル情報]\nダメージ量：[911%]\nSA破壊量：[1263%]\nSG消費量：[55]\nクールタイム：[35秒]\n\n二つの鎌を持つ死神が現れ、ミストサイスと共に地面を強打する。地面強打時、三つの衝撃波が発生して範囲内の敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Info]\nDamage: [911%]\nSA Break: [1263%]\nSG Cost: [55]\nCooldown: [35s]\n\nThe Grim Reaper with two scythes appears, swinging them along with Lily. The ground smash creates three shock waves that will hit the enemies in the range.\n\n[Usage]\nPlace in skill slot and press the corresponding key
 Damage: [911%]+45%\nSA Break: [1263%]+64%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 ID=13112
 Evil Trinity Ⅱ
-[スキル情報]\nダメージ量：[956%]\nSA破壊量：[1327%]\nSG消費量：[55]\nクールタイム：[35秒]\n\n二つの鎌を持つ死神が現れ、ミストサイスと共に地面を強打する。地面強打時、三つの衝撃波が発生して範囲内の敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Info]\nDamage: [956%]\nSA Break: [1327%]\nSG Cost: [55]\nCooldown: [35s]\n\nThe Grim Reaper with two scythes appears, swinging them along with Lily. The ground smash creates three shock waves that will hit the enemies in the range.\n\n[Usage]\nPlace in skill slot and press the corresponding key
 Damage: [956%]+114%\nSA Break: [1327%]+158%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 ID=13113
 Evil Trinity Ⅲ
-[スキル情報]\nダメージ量：[1070%]\nSA破壊量：[1485%]\nSG消費量：[55]\nクールタイム：[35秒]\n\n二つの鎌を持つ死神が現れ、ミストサイスと共に地面を強打する。地面強打時、三つの衝撃波が発生して範囲内の敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Info]\nDamage: [1070%]\nSA Break: [1485%]\nSG Cost: [55]\nCooldown: [35s]\n\nThe Grim Reaper with two scythes appears, swinging them along with Lily. The ground smash creates three shock waves that will hit the enemies in the range.\n\n[Usage]\nPlace in skill slot and press the corresponding key
 Damage: [1070%]+114%\nSA Break: [1485%]+158%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 ID=13114
 Evil Trinity Ⅳ
-[スキル情報]\nダメージ量：[1184%]\nSA破壊量：[1643%]\nSG消費量：[55]\nクールタイム：[35秒]\n\n二つの鎌を持つ死神が現れ、ミストサイスと共に地面を強打する。地面強打時、三つの衝撃波が発生して範囲内の敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Info]\nDamage: [1184%]\nSA Break: [1643%]\nSG Cost: [55]\nCooldown: [35s]\n\nThe Grim Reaper with two scythes appears, swinging them along with Lily. The ground smash creates three shock waves that will hit the enemies in the range.\n\n[Usage]\nPlace in skill slot and press the corresponding key
 Damage: [1184%]+182%\nSA Break: [1643%]+252%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 ID=13115
 Evil Trinity Ⅴ
-[スキル情報]\nダメージ量：[1366%]\nSA破壊量：[1895%]\nSG消費量：[55]\nクールタイム：[35秒]\n\n二つの鎌を持つ死神が現れ、ミストサイスと共に地面を強打する。地面強打時、三つの衝撃波が発生して範囲内の敵を攻撃する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[Info]\nDamage: [1366%]\nSA Break: [1895%]\nSG Cost: [55]\nCooldown: [35s]\n\nThe Grim Reaper with two scythes appears, swinging them along with Lily. The ground smash creates three shock waves that will hit the enemies in the range.\n\n[Usage]\nPlace in skill slot and press the corresponding key
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 0
 
 ID=13071
 Cruel Slash Ⅰ
-[スキル情報]\nダメージ量：攻撃1回あたり[39%]\nSA破壊量：攻撃1回あたり[23%]\nフィニッシュダメージ量：[202%]\nフィニッシュSA破壊量：[275%]\nSG消費量：[35]\nクールタイム：[20秒]\n\n鎌を偃月刀形態に変形させ攻撃態勢をとる。左クリック連打で、一定時間その場で素早く連撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック連打)\n\n[操作方法：フィニッシュ]\nマウス：(右クリック)
+[Basic]\nDamage: [39%] per hit\nSA Break: [23%] per hit\n\n[Finisher]\nDamage: [202%]\nSA Break: [275%]\n\n[Common]\nSG Cost: [35]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left-click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n\n[Usage: Finisher]\nMouse: (RMB)
 [Basic]\nDamage: [39%]+2%\nSA Break: [23%]+1%\n\n[Finisher]\nDamage: [202%]+10%\nSA Break: [275%]+13%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 ID=13072
 Cruel Slash Ⅱ
-[スキル情報]\nダメージ量：攻撃1回あたり[41%]\nSA破壊量：攻撃1回あたり[24%]\nフィニッシュダメージ量：[212%]\nフィニッシュSA破壊量：[288%]\nSG消費量：[35]\nクールタイム：[20秒]\n\n鎌を偃月刀形態に変形させ攻撃態勢をとる。左クリック連打で、一定時間その場で素早く連撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック連打)\n\n[操作方法：フィニッシュ]\nマウス：(右クリック)
+[Basic]\nDamage: [41%] per hit\nSA Break: [24%] per hit\n\n[Finisher]\nDamage: [212%]\nSA Break: [288%]\n\n[Common]\nSG Cost: [35]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left-click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n\n[Usage: Finisher]\nMouse: (RMB)
 [Basic]\nDamage: [41%]+5%\nSA Break: [24%]+3%\n\n[Finisher]\nDamage: [212%]+26%\nSA Break: [288%]+35%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 ID=13073
 Cruel Slash Ⅲ
-[スキル情報]\nダメージ量：攻撃1回あたり[46%]\nSA破壊量：攻撃1回あたり[27%]\nフィニッシュダメージ量：[238%]\nフィニッシュSA破壊量：[323%]\nSG消費量：[35]\nクールタイム：[20秒]\n\n鎌を偃月刀形態に変形させ攻撃態勢をとる。左クリック連打で、一定時間その場で素早く連撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック連打)\n\n[操作方法：フィニッシュ]\nマウス：(右クリック)
+[Basic]\nDamage: [46%] per hit\nSA Break: [27%] per hit\n\n[Finisher]\nDamage: [238%]\nSA Break: [323%]\n\n[Common]\nSG Cost: [35]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left-click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n\n[Usage: Finisher]\nMouse: (RMB)
 [Basic]\nDamage: [46%]+5%\nSA Break: [27%]+2%\n\n[Finisher]\nDamage: [238%]+25%\nSA Break: [323%]+34%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 ID=13074
 Cruel Slash Ⅳ
-[スキル情報]\nダメージ量：攻撃1回あたり[51%]\nSA破壊量：攻撃1回あたり[29%]\nフィニッシュダメージ量：[263%]\nフィニッシュSA破壊量：[357%]\nSG消費量：[35]\nクールタイム：[20秒]\n\n鎌を偃月刀形態に変形させ攻撃態勢をとる。左クリック連打で、一定時間その場で素早く連撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック連打)\n\n[操作方法：フィニッシュ]\nマウス：(右クリック)
+[Basic]\nDamage: [51%] per hit\nSA Break: [29%] per hit\n\n[Finisher]\nDamage: [263%]\nSA Break: [357%]\n\n[Common]\nSG Cost: [35]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left-click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n\n[Usage: Finisher]\nMouse: (RMB)
 [Basic]\nDamage: [51%]+7%\nSA Break: [29%]+1%\n\n[Finisher]\nDamage: [263%]+40%\nSA Break: [357%]+55%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 ID=13075
 Cruel Slash Ⅴ
-[スキル情報]\nダメージ量：攻撃1回あたり[58%]\nSA破壊量：攻撃1回あたり[34%]\nフィニッシュダメージ量：[303%]\nフィニッシュSA破壊量：[412%]\nSG消費量：[35]\nクールタイム：[20秒]\n\n鎌を偃月刀形態に変形させ攻撃態勢をとる。左クリック連打で、一定時間その場で素早く連撃を繰り出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック連打)\n\n[操作方法：フィニッシュ]\nマウス：(右クリック)
+[Basic]\nDamage: [58%] per hit\nSA Break: [34%] per hit\n\n[Finisher]\nDamage: [303%]\nSA Break: [412%]\n\n[Common]\nSG Cost: [35]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left-click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n\n[Usage: Finisher]\nMouse: (RMB)
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 ID=23104
 Area Widener Ⅰ
-[特性情報]\nダメージ量増加値: 攻撃1回あたり [92%]\nSA破壊量減少値：攻撃1回あたり [54%]\n\n[特性情報: 強化効果付与]\n強化効果: 攻撃速度及び移動速度 [10%] 増加\n持続時間 : [5秒] \n\nキャラクターの周辺にいる味方に強化効果を与え、\n敵を攻撃する巨大な竜巻を作る。\n[空中に浮いた敵に追加ダメージ]
-ダメージ量増加値: 攻撃1回あたり [62%] +8%\nSA破壊量減少値：攻撃1回あたり [54%]  +8%\n強化効果: 攻撃速度及び移動速度 [10%] +5%
+[Info]\nDamage: +[92%] per hit\nSA Break: -[54%] per hit\n\n[Info: Buff]Buff: Movement Speed and Attack Speed +[10%]\nDuration: [5s]\n\nStrengthens the nearby allies' speed and creates a huge tornado that attacks the enemies.\nTornado moves towards the front.\n[Additional damage to enemies in the air]
+Damage: [62%]+8% per hit\nSA Break: -[54%]-8% per hit\nBuff: Movement Speed and Attack Speed +[10%]+5%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_B
 0
 
 ID=23105
 Area Widener Ⅱ
-[特性情報]\nダメージ量増加値: 攻撃1回あたり [105%]\nSA破壊量減少値：攻撃1回あたり [62%]\n\n[特性情報: 強化効果付与]\n強化効果: 攻撃速度及び移動速度 [15%] 増加\n持続時間時間 : [5秒] \n\nキャラクターの周辺にいる味方に強化効果を与え、\n敵を攻撃する巨大な竜巻を作る。\n[空中に浮いた敵に追加ダメージ]
-ダメージ量増加値: 攻撃1回あたり [105%] +15%\nSA破壊量減少値：攻撃1回あたり [62%] +8%\n強化効果: 攻撃速度及び移動速度 [15%] +5%\n持続時間時間 : [5秒] +1秒\n
+[Info]\nDamage: +[105%] per hit\nSA Break: -[62%] per hit\n\n[Info: Buff]Buff: Movement Speed and Attack Speed +[15%]\nDuration: [5s]\n\nStrengthens the nearby allies' speed and creates a huge tornado that attacks the enemies.\nTornado moves towards the front.\n[Additional damage to enemies in the air]
+Damage: [105%]+15% per hit\nSA Break: -[62%]-8% per hit\nBuff: Movement Speed and Attack Speed +[15%]+5%\nDuration: [5s]+1s
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_B
 0
 
 ID=23106
 Area Widener Ⅲ
-[特性情報]\nダメージ量増加値: 攻撃1回あたり [120%]\nSA破壊量減少値：攻撃1回あたり [70%]\n\n[特性情報: 強化効果付与]\n強化効果: 攻撃速度及び移動速度 [20%] 増加\n持続時間時間 : [6秒] \n\nキャラクターの周辺にいる味方に強化効果を与え、\n敵を攻撃する巨大な竜巻を作る。\n[空中に浮いた敵に追加ダメージ]
+[Info]\nDamage: +[120%] per hit\nSA Break: -[70%] per hit\n\n[Info: Buff]Buff: Movement Speed and Attack Speed +[20%]\nDuration: [6s]\n\nStrengthens the nearby allies' speed and creates a huge tornado that attacks the enemies.\nTornado moves towards the front.\n[Additional damage to enemies in the air]
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_B
 0
