@@ -1190,7 +1190,7 @@ ID=653
 Member {0} refused to enter the maze.
 
 ID=661
-まもなく次のエリアに移動します。\n(残り{0}秒)
+You will soon be moved to the next area.\n({0} seconds remaining)
 
 ID=665
 You have been incapacitated. Do you want to revive?
@@ -1337,13 +1337,13 @@ ID=731
 #{0}
 
 ID=732
-カジュアルレイド、別名「異常空白」は高難易度のメイズです。
+Casual Raid, a.k.a "Abnormal Void", is a high-difficulty maze.
 
 ID=733
 The top-tier raid, "Golden Citadel", is a maze reserved for 4-man Parties. Break through this golden calamity.
 
 ID=734
-極限の戦闘トレーニングシミュレーション「スチールグレイブ」で自らの限界に挑戦してください。1日に5回挑戦できます。
+Challenge one's limit in this extreme battle training simulation, "Steel Grave". You may challenge this 5 times a day.
 
 ID=735
 Normal
@@ -4226,7 +4226,7 @@ ID=9100
 Room
 
 ID=9101
-Glass Cover Camp
+Grasscover Camp
 
 ID=9102
 Room
@@ -5840,10 +5840,10 @@ ID=18055
 Set duration
 
 ID=18056
-<font color='#47C83E'>Bit</font> and <font color='#4374D9'>Kilo</font>grade brooch synthesis is possible
+Only <font color='#47C83E'>Bit</font>, <font color='#4374D9'>Kilo</font> grade brooches can be used
 
 ID=18057
-<font color='#E0B94F'>MEGA</font>,<font color='#F15F5F'>GIGA</font>,<font color='#8041D9'>TERA</font> grade brooch synthesis is possible.
+Only <font color='#E0B94F'>Mega</font>,<font color='#F15F5F'>Giga</font>,<font color='#8041D9'>Tera</font> grade brooches can be used
 
 ID=18058
 The remaining number of enhancements of {0} {1} will decrease.\nUpon confirmation, one {2} is used up.\n\nDo you wish to continue?
@@ -10547,7 +10547,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 29/Dec/2017 6:05 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 19/Jan/2018 6:00 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -20675,13 +20675,13 @@ ID=7019
 予備
 
 ID=9502
-Glass Cover Camp
+Grasscover Camp
 
 ID=9893
-Glass Cover Camp
+Grasscover Camp
 
 ID=9998
-Dread Full Echo
+Dreadful Echo
 
 ID=9999
 アルターオブヴォイド
@@ -21132,12 +21132,6 @@ Dimension Shutter
 
 ID=10013
 [BETA] Operation
-
-ID=10065
-グラスカバーキャンプ一のすみに現われたポータルはある地下鉄に人間を導いた。その場所の深い所から聞きたくない声が聞こえてくるようだが…
-
-ID=10066
-いよいよ始まった空白の調査。スタリーフォレスト連合はラピッドフレームが占領していた大地を見つけ、その調査を始める。
 
 ID=10105
 クラウドリーム全域で急に活動が始まった異常空白。\n その中でもある閉鎖地域に現われた巨大な異常空白は今までなかった珍しい異常現象を伴った。\n 空白の隙間から絶えずに出て来るヴェシたちと、そこを中心に集まって来る他のソウルワーカーの幻影。\n スタリーフォレスト連合は味方か敵か判断が付かない状況の中で、幻影の排除と異常空白を遮断させる機械の設置作戦を指示する。
@@ -22077,3 +22071,33 @@ ID=5913
 
 ID=5914
 クリスマスプレゼントボックスは決められた時間内に一定の数が出現します。
+
+ID=18307
+復活 ( {0} )
+
+ID=18308
+復活回数は毎日9時に初期化されます。
+
+ID=18309
+{0}Y.P復活
+
+ID=18310
+所持しているY.Pを消費して即時復活します。\n<font color='#FF0000'>※ 購入した場合即時復活し、キャンセルはできません。</font>
+
+ID=10003
+マンイーターガーデン
+
+ID=10004
+デッドミートファクトリー
+
+ID=10065
+グラスカバーキャンプ一のすみに現われたポータルはある地下鉄に人間を導いた。その場所の深い所から聞きたくない声が聞こえてくるようだが…
+
+ID=10066
+いよいよ始まった空白の調査。スタリーフォレスト連合はラピッドフレームが占領していた大地を見つけ、その調査を始める。
+
+ID=10067
+人気の無い公園。ソウルジャンクに浸食された動食物たちが久々に訪れた獲物を求めて彷徨っている。
+
+ID=10068
+闇の中で唯一光を放つ工場。内部からは苦しみに泣き叫ぶ悲痛な声が聞こえて来る。
