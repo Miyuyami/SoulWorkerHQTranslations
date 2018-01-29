@@ -54,7 +54,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=104
 Elastic
-Damage taken -10% for 10 seconds.
++10% Damage Reduction for 10s.
 Icon/Buff/Icon_Common_Buff_Def
 0
 
@@ -756,7 +756,7 @@ Silence
 
 ID=5000
 Awakening
-Attack +20%. Damage taken -50%. Movement speed +20%. Gain super armor.
++20% Attack. +50% Damage Reduction. +20% Movement Speed. Gain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -2604,7 +2604,7 @@ Invincible
 
 ID=30018
 Hardness
-Damage reduction increase 30%
++30% Damage Reduction.
 Icon/Buff/Icon_Common_Buff_Def
 Damage↓
 
@@ -2934,13 +2934,13 @@ Weakness
 
 ID=30202
 Contamination
-30秒間、移動速度、攻撃速度、クリティカル率が50%減少する。
+-50% Movement Speed, Attack Speed and Critical Rate for 30s.
 Icon/Buff/Icon_Common_Debuff_Poison
 Contamination
 
 ID=30204
 Vitality
-身体が活性化し、HPが毎秒15%回復する。
+While the body is activated, Recover 15% HP per second.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 Vitality
 
@@ -4932,13 +4932,13 @@ Accuracy ↑
 
 ID=53641
 Radiant
-This card is used for boosting the A.R card's EXP for further card synthesis. There are no applicable status effects to this card.
+This card is used for boosting the A.R card's EXP for further card synthesis. This card does not apply any status effects.
 0
 0
 
 ID=53642
 Stomach Panpan
-This card gives 2x A.R card EXP during card synthesis. There are no applicable status effects to this card. Can be purchased from item mall.
+This card gives 2x A.R card EXP during card synthesis. This card does not apply any status effects.
 0
 0
 
@@ -5039,7 +5039,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53666
-Bird Monster's Wing Ⅲ
+Bird Monster Wings Ⅲ
 On hit, 10% chance for the next attack to deal +10% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
@@ -5057,7 +5057,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53669
-Bird Monster's Wing Ⅲ
+Bird Monster Wings Ⅲ
 On hit, 10% chance for the next attack to deal +15% Damage. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
@@ -5568,37 +5568,37 @@ Damage ↑
 
 ID=53754
 Cool-headed Ⅰ
--5% Damage against bosses and named monsters.
++5% Damage Reduction to bosses and named monsters.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reduction Increased
 
 ID=53755
 Cool-headed Ⅱ
--7% Damage against bosses and named monsters.
++7% Damage Reduction to bosses and named monsters.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reduction Increased
 
 ID=53756
 Cool-headed Ⅲ
--10% Damage against bosses and named monsters.
++10% Damage Reduction to bosses and named monsters.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reduction Increased
 
 ID=53757
 Cool-headed Ⅰ
--7% Damage against bosses and named monsters.
++7% Damage Reduction to bosses and named monsters.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reduction Increased
 
 ID=53758
 Cool-headed Ⅱ
--9% Damage against bosses and named monsters.
++9% Damage Reduction to bosses and named monsters.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reduction Increased
 
 ID=53759
 Cool-headed Ⅲ
--12% Damage against bosses and named monsters.
++12% Damage Reduction to bosses and named monsters.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reduction Increased
 
@@ -6150,252 +6150,252 @@ HP↓
 
 ID=5081
 Eternal Combination I
-攻撃力が150ほど増加する。(最大5重複)
++150 Attack. (max 5 stacks)
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=5082
 Eternal Combination II
-攻撃力が300ほど増加する。(最大5重複)
++300 Attack. (max 5 stacks)
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=5083
 Eternal Combination III
-攻撃力が500ほど増加する。(最大5重複)
++500 Attack. (max 5 stacks)
 Icon/Buff/Icon_Common_Buff_ATK
 Attack Power ↑
 
 ID=20305
 +HP
-HP35%回復
+Recover 35% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=20405
 +HP
-23秒かけてHPを40%回復する。
+Recover 40% HP over 23s.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=18000
-闘魂I
+Fighting Spirit​ Ⅰ
 -
 0
 0
 
 ID=18001
-闘魂II
+Fighting Spirit​ Ⅱ
 -
 0
 0
 
 ID=18002
-闘魂III
+Fighting Spirit​ Ⅲ
 -
 0
 0
 
 ID=18003
-破滅I
+Ruin Ⅰ
 -
 0
 0
 
 ID=18004
-破滅II
+Ruin Ⅱ
 -
 0
 0
 
 ID=18005
-破滅III
+Ruin Ⅲ
 -
 0
 0
 
 ID=18006
-暗技I
+Dark Arts Ⅰ
 -
 0
 0
 
 ID=18007
-暗技II
+Dark Arts Ⅱ
 -
 0
 0
 
 ID=18008
-暗技III
+Dark Arts Ⅲ
 -
 0
 0
 
 ID=18009
- 聖火I
+ Sacred Fire Ⅰ
 -
 0
 0
 
 ID=18010
- 聖火II
+ Sacred Fire Ⅱ
 -
 0
 0
 
 ID=18011
- 聖火III
+ Sacred Fire Ⅲ
 -
 0
 0
 
 ID=6091
-暴走する狂気I
-クリティカルダメージ量、防御貫通率が増加し、SG消耗量が減少されます。
+Reckless Insanity Ⅰ
+Increased Penetration and Critical Damage, reduced SG Cost.
 Icon/Buff/Icon_Common_Buff_CRI
-暴走する狂気
+Reckless Insanity
 
 ID=6092
-暴走する狂気II
-クリティカルダメージ量、防御貫通率が増加し、SG消耗量が減少されます。
+Reckless Insanity Ⅱ
+Increased Penetration and Critical Damage, reduced SG Cost.
 Icon/Buff/Icon_Common_Buff_CRI
-暴走する狂気
+Reckless Insanity
 
 ID=6093
-暴走する狂気III
-クリティカルダメージ量、防御貫通率が増加し、SG消耗量が減少されます。
+Reckless Insanity Ⅲ
+Increased Penetration and Critical Damage, reduced SG Cost.
 Icon/Buff/Icon_Common_Buff_CRI
-暴走する狂気
+Reckless Insanity
 
 ID=6103
 Death Tornado
-移動速度および攻撃速度増加
+Increased Movement Speed and Attack Speed
 Icon/Buff/Icon_Common_Buff_MSR
-移動および攻撃速度増加
+Increased Speed and Attack Speed
 
 ID=30608
 Movement Speed ↓
-移動速度が減少します。
+Decreased Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=30612
-攻撃速度減少
-攻撃速度が減少します。
+Decreased Attack Speed
+Decreased Attack Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
-攻撃速度減少
+Decreased Attack Speed
 
 ID=30613
 Paralyzed
-一定時間キャラクターが動けません。
+Cannot move for a certain period of time.
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
 
 ID=56401
-電脳少女の刻印I
-スキル使用時、10%の確率で7秒間クリティカルダメージが600上昇する。
+Stamp of the Cyber Girl Ⅰ
+On skill use, 10% chance of +600 Critical Damage for 7s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage Increased
 
 ID=56402
-電脳少女の刻印II
-スキル使用時、10%の確率で7秒間クリティカルダメージが1200上昇する。
+Stamp of the Cyber Girl Ⅱ
+On skill use, 10% chance of +1200 Critical Damage for 7s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage Increased
 
 ID=56403
-電脳少女の刻印III
-スキル使用時、10%の確率で7秒間クリティカルダメージが1800上昇する。
+Stamp of the Cyber Girl Ⅲ
+On skill use, 10% chance of +1800 Critical Damage for 7s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage Increased
 
 ID=56411
-電脳少女の刻印I
-スキル使用時、20%の確率で7秒間クリティカルダメージが900上昇する。
+Stamp of the Cyber Girl Ⅰ
+On skill use, 20% chance of +900 Critical Damage for 7s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage Increased
 
 ID=56422
-電脳少女の刻印II
-スキル使用時、20%の確率で7秒間クリティカルダメージが1500上昇する。
+Stamp of the Cyber Girl Ⅱ
+On skill use, 20% chance of +1500 Critical Damage for 7s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage Increased
 
 ID=56433
-電脳少女の刻印III
-スキル使用時、20%の確率で7秒間クリティカルダメージが2100上昇する。
+Stamp of the Cyber Girl Ⅲ
+On skill use, 20% chance of +2100 Critical Damage for 7s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage Increased
 
 ID=56501
-戦闘戦略の書I
-スキル使用時、10%の確率で15秒間スタミナ最大値5、攻撃力5%上昇する。(時間/効果最大4重複)
+Book of Combat Tactics Ⅰ
+On skill use, 10% chance of +5% Attack and +5 Maximum Stamina for 15s. (max 4 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-スタミナ、攻撃力増加
+Increased Attack and Stamina
 
 ID=56502
-戦闘戦略の書II
-スキル使用時、10%の確率で15秒間スタミナ最大値6、攻撃力8%上昇する。(時間/効果最大4重複)
+Book of Combat Tactics Ⅱ
+On skill use, 10% chance of +8% Attack and +6 Maximum Stamina for 15s. (max 4 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-スタミナ、攻撃力増加
+Increased Attack and Stamina
 
 ID=56503
-戦闘戦略の書III
-スキル使用時、10%の確率で15秒間スタミナ最大値7、攻撃力12%上昇する。(時間/効果最大4重複)
+Book of Combat Tactics Ⅲ
+On skill use, 10% chance of +12% Attack and +7 Maximum Stamina for 15s. (max 4 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-スタミナ、攻撃力増加
+Increased Attack and Stamina
 
 ID=56511
-戦闘戦略の書I
-スキル使用時、20%の確率で20秒間スタミナ最大値8、攻撃力8%上昇する。(時間/効果最大5重複)
+Book of Combat Tactics Ⅰ
+On skill use, 20% chance of +8% Attack and +8 Maximum Stamina for 20s. (max 5 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-スタミナ、攻撃力増加
+Increased Attack and Stamina
 
 ID=56512
-戦闘戦略の書II
-スキル使用時、20%の確率で20秒間スタミナ最大値9、攻撃力12%上昇する。(時間/効果最大5重複)
+Book of Combat Tactics Ⅱ
+On skill use, 20% chance of +12% Attack and +9 Maximum Stamina for 20s. (max 5 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-スタミナ、攻撃力増加
+Increased Attack and Stamina
 
 ID=56513
-戦闘戦略の書III
-スキル使用時、20%の確率で20秒間スタミナ最大値10、攻撃力17%上昇する。(時間/効果最大5重複)
+Book of Combat Tactics Ⅲ
+On skill use, 20% chance of +17% Attack and +10 Maximum Stamina for 20s. (max 5 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-スタミナ、攻撃力増加
+Increased Attack and Stamina
 
 ID=56601
-薬効I
-スキル使用時、10%の確率でクリティカル確率20%、攻撃力25%上昇する。(クールタイム40秒)
+Medical Efficacy Ⅰ
+On skill use, 10% chance of +25% Attack and +20% Critical Rate. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-クリティカル率、攻撃力増加
+Increased Attack and Critical Rate
 
 ID=56602
-薬効II
-スキル使用時、10%の確率でクリティカル確率25%、攻撃力30%上昇する。(クールタイム40秒)
+Medical Efficacy Ⅱ
+On skill use, 10% chance of +30% Attack and +25% Critical Rate. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-クリティカル率、攻撃力増加
+Increased Attack and Critical Rate
 
 ID=56603
-薬効III
-スキル使用時、10%の確率でクリティカル確率30%、攻撃力35%上昇する。(クールタイム40秒)
+Medical Efficacy Ⅲ
+On skill use, 10% chance of +35% Attack and +30% Critical Rate. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-クリティカル率、攻撃力増加
+Increased Attack and Critical Rate
 
 ID=56611
-薬効I
-スキル使用時、20%の確率でクリティカル確率30%、攻撃力40%上昇する。(クールタイム40秒)
+Medical Efficacy Ⅰ
+On skill use, 20% chance of +40% Attack and +30% Critical Rate. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-クリティカル率、攻撃力増加
+Increased Attack and Critical Rate
 
 ID=56612
-薬効II
-スキル使用時、20%の確率でクリティカル確率35%、攻撃力45%上昇する。(クールタイム40秒)
+Medical Efficacy Ⅱ
+On skill use, 20% chance of +45% Attack and +35% Critical Rate. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-クリティカル率、攻撃力増加
+Increased Attack and Critical Rate
 
 ID=56613
-薬効III
-スキル使用時、20%の確率でクリティカル確率40%、攻撃力50%上昇する。(クールタイム40秒)
+Medical Efficacy Ⅲ
+On skill use, 20% chance of +50% Attack and +40% Critical Rate. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
-クリティカル率、攻撃力増加
+Increased Attack and Critical Rate
