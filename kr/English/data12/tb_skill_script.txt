@@ -763,15 +763,15 @@ Skill/Icon_SSword_Skill_BreakZenith
 
 ID=11911
 Awakening
-Consumes 2 gauge stages ([100] Soul Vapor)\n\n[Info]: Enter an awakening state for [60s].\n - Attack +[20%]\n- Damage Taken -[50%].\n- Movement Speed +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
+Consumes 2 gauge stages ([100] Soul Vapor)\n\n[Info]: Enter an awakening state for [60s].\n - Attack +[20%]\n- Damage Reduction +[50%].\n- Movement Speed +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BreakWakeup
 Description_Image/Skill/SoulumSword/Image_SSword_Break_Awakening
 
 ID=11912
 Erosion
-Consumes 1 gauge stage ([50] Soul Vapor)\n\n[Info]: Enter an awakening state for [30s].\n- Damage Taken +[25%].\n- Movement Speed +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
-Increase attack by 20%.\nDamage taken -25%.
+Consumes 1 gauge stage ([50] Soul Vapor)\n\n[Info]: Enter an awakening state for [30s].\n- Damage Reduction +[25%].\n- Movement Speed +[20%].\n- Gain Super Armor.\n\nAwaken the body to temporarily increasing your physical abilities.\nUse the skill by consuming Soul Vapor.\n\n[Usage]\nKeyboard: Press the [7] key
++20% Attack.\n+25% Damage Reduction
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BreakErode
 Description_Image/Skill/SoulumSword/Image_SSword_Break_Erode
 
@@ -2415,21 +2415,21 @@ Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 
 ID=4141
 Strong Body
-[Info]\nPassive Effect: Damage Reduction [10%]\n\nThe damage reduction effect is always active.
+[Info]\nPassive Effect: Damage Reduction +[10%]\n\nThe damage reduction effect is always active.
 Damage Reduction: [10%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive
 0
 
 ID=4142
 Strong Body Ⅱ
-[Info]\nPassive Effect: Damage Reduction [15%]\n\nThe damage reduction effect is always active.
+[Info]\nPassive Effect: Damage Reduction +[15%]\n\nThe damage reduction effect is always active.
 Damage Reduction: [15%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive
 0
 
 ID=4143
 Strong Body Ⅲ
-[Info]\nPassive Effect: Damage Reduction [20%]\n\nThe damage reduction effect is always active.
+[Info]\nPassive Effect: Damage Reduction +[20%]\n\nThe damage reduction effect is always active.
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive
 0
@@ -7790,42 +7790,42 @@ On critical hit, 20% chance of +18% SG. (30s cooldown)
 0
 
 ID=31071
-Moving Wing Ⅰ
+Moving Wings Ⅰ
 On mid-air hit, 60% chance of +5% HP. (40s cooldown)
 .
 0
 0
 
 ID=31072
-Moving Wing Ⅱ
+Moving Wings Ⅱ
 On mid-air hit, 70% chance of +7% HP. (35s cooldown)
 .
 0
 0
 
 ID=31073
-Moving Wing Ⅲ
+Moving Wings Ⅲ
 On mid-air hit, 80% chance of +9% HP. (30s cooldown)
 .
 0
 0
 
 ID=31081
-Moving Wing Ⅰ
+Moving Wings Ⅰ
 On mid-air hit, 70% chance of +6% HP. (40s cooldown)
 .
 0
 0
 
 ID=31082
-Moving Wing Ⅱ
+Moving Wings Ⅱ
 On mid-air hit, 80% chance of +8% HP. (35s cooldown)
 .
 0
 0
 
 ID=31083
-Moving Wing Ⅲ
+Moving Wings Ⅲ
 On mid-air hit, 90% chance of +10% HP. (30s cooldown)
 .
 0
@@ -8505,35 +8505,35 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilTrinity
 
 ID=13071
 Cruel Slash Ⅰ
-[Basic]\nDamage: [39%] per hit\nSA Break: [23%] per hit\n\n[Finisher]\nDamage: [202%]\nSA Break: [275%]\n\n[Common]\nSG Cost: [35]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left-click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n\n[Usage: Finisher]\nMouse: (RMB)
+[Basic]\nDamage: [39%] per hit\nSA Break: [23%] per hit\n\n[Finisher]\nDamage: [202%]\nSA Break: [275%]\n\n[Common]\nSG Cost: [35]\nCooldown: [20s]\n\nTransform the scythe into a scimitar and take an offensive pose. Left-click to quickly perform repeated attacks on the spot for a certain period of time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n\n[Usage: Finisher]\nMouse: (RMB)
 [Basic]\nDamage: [39%]+2%\nSA Break: [23%]+1%\n\n[Finisher]\nDamage: [202%]+10%\nSA Break: [275%]+13%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 ID=13072
 Cruel Slash Ⅱ
-[Basic]\nDamage: [41%] per hit\nSA Break: [24%] per hit\n\n[Finisher]\nDamage: [212%]\nSA Break: [288%]\n\n[Common]\nSG Cost: [35]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left-click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n\n[Usage: Finisher]\nMouse: (RMB)
+[Basic]\nDamage: [41%] per hit\nSA Break: [24%] per hit\n\n[Finisher]\nDamage: [212%]\nSA Break: [288%]\n\n[Common]\nSG Cost: [35]\nCooldown: [20s]\n\nTransform the scythe into a scimitar and take an offensive pose. Left-click to quickly perform repeated attacks on the spot for a certain period of time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n\n[Usage: Finisher]\nMouse: (RMB)
 [Basic]\nDamage: [41%]+5%\nSA Break: [24%]+3%\n\n[Finisher]\nDamage: [212%]+26%\nSA Break: [288%]+35%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 ID=13073
 Cruel Slash Ⅲ
-[Basic]\nDamage: [46%] per hit\nSA Break: [27%] per hit\n\n[Finisher]\nDamage: [238%]\nSA Break: [323%]\n\n[Common]\nSG Cost: [35]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left-click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n\n[Usage: Finisher]\nMouse: (RMB)
+[Basic]\nDamage: [46%] per hit\nSA Break: [27%] per hit\n\n[Finisher]\nDamage: [238%]\nSA Break: [323%]\n\n[Common]\nSG Cost: [35]\nCooldown: [20s]\n\nTransform the scythe into a scimitar and take an offensive pose. Left-click to quickly perform repeated attacks on the spot for a certain period of time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n\n[Usage: Finisher]\nMouse: (RMB)
 [Basic]\nDamage: [46%]+5%\nSA Break: [27%]+2%\n\n[Finisher]\nDamage: [238%]+25%\nSA Break: [323%]+34%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 ID=13074
 Cruel Slash Ⅳ
-[Basic]\nDamage: [51%] per hit\nSA Break: [29%] per hit\n\n[Finisher]\nDamage: [263%]\nSA Break: [357%]\n\n[Common]\nSG Cost: [35]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left-click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n\n[Usage: Finisher]\nMouse: (RMB)
+[Basic]\nDamage: [51%] per hit\nSA Break: [29%] per hit\n\n[Finisher]\nDamage: [263%]\nSA Break: [357%]\n\n[Common]\nSG Cost: [35]\nCooldown: [20s]\n\nTransform the scythe into a scimitar and take an offensive pose. Left-click to quickly perform repeated attacks on the spot for a certain period of time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n\n[Usage: Finisher]\nMouse: (RMB)
 [Basic]\nDamage: [51%]+7%\nSA Break: [29%]+1%\n\n[Finisher]\nDamage: [263%]+40%\nSA Break: [357%]+55%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
 
 ID=13075
 Cruel Slash Ⅴ
-[Basic]\nDamage: [58%] per hit\nSA Break: [34%] per hit\n\n[Finisher]\nDamage: [303%]\nSA Break: [412%]\n\n[Common]\nSG Cost: [35]\nCooldown: [20s]\n\nDeform the sickle to the scimitar form to attack. Left-click to quickly perform repeated attacks on the spot for a period of time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n\n[Usage: Finisher]\nMouse: (RMB)
+[Basic]\nDamage: [58%] per hit\nSA Break: [34%] per hit\n\n[Finisher]\nDamage: [303%]\nSA Break: [412%]\n\n[Common]\nSG Cost: [35]\nCooldown: [20s]\n\nTransform the scythe into a scimitar and take an offensive pose. Left-click to quickly perform repeated attacks on the spot for a certain period of time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n\n[Usage: Finisher]\nMouse: (RMB)
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash
 0
