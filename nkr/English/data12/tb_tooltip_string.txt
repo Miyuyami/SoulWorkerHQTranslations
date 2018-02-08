@@ -11,7 +11,7 @@ Attack Speed
 Increases the player's attack speed by a certain factor.
 
 ID=21
-Attack Power
+Attack
 The maximum damage you can do to an enemy.
 
 ID=24
@@ -27,12 +27,12 @@ Evaded Attack Damage
 The damage applied to an evaded attack.
 
 ID=29
-Critical Rate
+Critical
 The chance of doing a critical hit.
 
 ID=31
 Critical Resistance
-Reduces probability of receiving critical damage.
+Reduces the probability of receiving critical damage.
 
 ID=35
 Critical Damage
@@ -40,10 +40,10 @@ Additional damage from a critical attack.
 
 ID=38
 Damage Reduction
-Reduce damage from enemy attacks.
+Reduces the damage taken from enemy attacks.
 
 ID=43
-Evasion Rate
+Evasion
 Increases the chance of the enemy's attack being less effective.
 
 ID=47
@@ -453,3 +453,7 @@ Turn into a reindeer.
 ID=11025
 Knowledge of another Japanese culture
 Show off your knowledge about another Japanese culture.
+
+ID=11026
+Hanbok
+Takes a pose.

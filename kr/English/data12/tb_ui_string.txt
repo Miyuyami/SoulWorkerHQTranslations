@@ -236,16 +236,16 @@ ID=127
 Back
 
 ID=128
-Hand
+Hands
 
 ID=129
-Leg
+Legs
 
 ID=130
 Feet
 
 ID=131
-Restore Item
+Recovery
 
 ID=132
 Buff
@@ -344,7 +344,7 @@ ID=185
 Avatar [Mouth]
 
 ID=186
-Avatar [Hand]
+Avatar [Hands]
 
 ID=187
 Avatar [Underwear]
@@ -356,7 +356,7 @@ ID=189
 Avatar [Back]
 
 ID=190
-Avatar [Leg]
+Avatar [Legs]
 
 ID=191
 Avatar [Feet]
@@ -422,7 +422,7 @@ ID=314
 Enter the quantity of items you wish to split.
 
 ID=315
-Do you wish to discard {0}?
+Are you sure you want to discard {0}?
 
 ID=316
 Sell Mode
@@ -434,13 +434,13 @@ ID=318
 Dismantle
 
 ID=325
-Do you wish to expand your inventory slots?
+Are you sure you want to expand your inventory slots?
 
 ID=326
-Do you wish to expand your bank slots?
+Are you sure you want to expand your bank slots?
 
 ID=327
-Do you wish to expand your slots with {0}?
+Are you sure you want to use {0} to expand your slots?
 
 ID=328
 You do not meet the level requirements for a slot expansion.
@@ -473,25 +473,25 @@ ID=339
 Required Level: {0}
 
 ID=340
-Expansion Fee: {0} Zenny
+Expansion Cost: {0} Zenny
 
 ID=341
-Expansion Fee: {0} Y.P
+Expansion Cost: {0} Y.P
 
 ID=342
-Do you want to buy {1} [{0}] for {2}?
+Are you sure you want to buy {1} [{0}] for {2}?
 
 ID=343
-Do you want to sell {1} [{0}] for {2}?
+Are you sure you want to sell {1} [{0}] for {2}?
 
 ID=344
-Do you wish to open slots by using {0}?
+Are you sure you want to use {0} to expand your slots?
 
 ID=345
 You will earn {0} from selling the selected items.
 
 ID=346
-The selection contains at least one <font color='#A566FF'>high-grade item</font>.\nYou will earn {0} from the sale.\nAre you sure you want to sell them?
+The selection contains at least one <font color='#A566FF'>highly-valued</font> item.\nYou will earn {0} from the sale.\nAre you sure you want to sell them?
 
 ID=351
 Junk
@@ -515,13 +515,13 @@ ID=357
 Heroic
 
 ID=362
-Please enter the amount of Zenny to trade.
+Please enter the amount of Zenny you want to trade.
 
 ID=363
-Please enter the amount of Zenny to deposit.
+Please enter the amount of Zenny you want to deposit.
 
 ID=364
-Please enter the amount of Zenny to withdraw.
+Please enter the amount of Zenny you want to withdraw.
 
 ID=365
 1
@@ -698,7 +698,7 @@ ID=439
 Requirement
 
 ID=440
-Craft Item
+Item Crafting
 
 ID=441
 Fixed Crafting
@@ -710,7 +710,7 @@ ID=443
 Required BP
 
 ID=444
-Required Zenny
+Cost
 
 ID=445
 Successfully crafted {0}.
@@ -734,16 +734,16 @@ ID=456
 Since the equipped item's durability decreased,\nits ability value is decreased by {0}%.
 
 ID=457
-Do you wish to repair all items in possession?\n(Repair Cost: {0} Zenny)
+Are you sure you want to repair all items?\n(Cost: {0} Zenny)
 
 ID=458
-Do you wish to repair all equipped items?\n(Repair Cost: {0} Zenny)
+Are you sure you want to repair all equipment?\n(Cost: {0} Zenny)
 
 ID=459
-Do you wish to repair {0}?\n(Repair Cost: {1} Zenny)
+Are you sure you want to repair {0}?\n(Cost: {1} Zenny)
 
 ID=460
-{0} has been repaired.\nRepair Cost: {1} Zenny
+{0} has been repaired.\nCost: {1} Zenny
 
 ID=461
 Equipped items have been repaired.\nRepair Cost: {0} Zenny
@@ -839,7 +839,7 @@ ID=493
 <Mail payment complete>
 
 ID=494
-Use Key Card
+Use Card Key
 
 ID=495
 Current Dungeon Earnings
@@ -926,7 +926,7 @@ ID=531
 OFFLINE
 
 ID=536
-Ah!
+A
 
 ID=537
 A
@@ -962,22 +962,22 @@ ID=551
 You have been invited to a Party by {0}.\nDo you want to join the party?\n({1} seconds remaining)
 
 ID=552
-If you leave the Party, you will be transferred back to town.\nDo you want to leave?
+If you leave the Party, you will be transferred back to town.\nAre you sure you want to leave?
 
 ID=553
 You have left the Party, and will be transferred back to town.\n({0} seconds remaining)
 
 ID=554
-Do you wish to appoint {0} as the Party Leader?
+Are you sure you want to appoint {0} as the Party Leader?
 
 ID=555
-Do you wish to expel {0} from the Party?
+Are you sure you want to expel {0} from the Party?
 
 ID=556
-Do you wish to leave the Party you are currently in?
+Are you sure you want to leave the current Party?
 
 ID=560
-Do you want to raise {0}'s skill level?\n(Consumes {1} SP)
+Are you sure you want to raise {0}'s skill level?\n(Consumes {1} SP)
 
 ID=561
 Owned SP
@@ -986,13 +986,13 @@ ID=562
 {0} Point
 
 ID=563
-Do you want to learn {0}?\n(Consumes {1} SP)
+Are you sure you want to learn {0}?\n(Consumes {1} SP)
 
 ID=564
-Do you want to expand your skill deck?
+Are you sure you want to expand your skill deck?
 
 ID=565
-Do you want to initialize your skills?
+Are you sure you want to initialize your skills?
 
 ID=566
 No. of Cards:
@@ -1010,7 +1010,7 @@ ID=570
 The rented card is automatically placed in a dedicated slot.
 
 ID=571
-Do you want to use {0}?\n(By using the item, the acquired A.R Cards cannot be sold nor traded)
+Are you sure you want to use {0}?\n(A.R Cards cannot be sold nor traded)
 
 ID=572
 Required Lv
@@ -1088,16 +1088,16 @@ ID=609
 Attack Speed
 
 ID=610
-Min. Attack Power
+Min. Attack
 
 ID=611
-Max. Attack Power
+Max. Attack
 
 ID=612
-Min. Magic Attack Power
+Min. Magic Attack
 
 ID=613
-Max. Magic Attack Power
+Max. Magic Attack
 
 ID=614
 Defense
@@ -1115,10 +1115,10 @@ ID=618
 Evaded Attack Damage
 
 ID=619
-Critical Rate
+Critical
 
 ID=620
-Magic Critical Rate
+Magic Critical
 
 ID=621
 Critical Resistance
@@ -1127,10 +1127,10 @@ ID=622
 Magic Critical Resistance
 
 ID=623
-Critical Rate
+Critical
 
 ID=624
-Magic Critical Rate
+Magic Critical
 
 ID=625
 Critical Damage
@@ -1181,7 +1181,7 @@ ID=647
 Block
 
 ID=651
-In order to enter the dungeon all members have to accept.\n(members who are in a different town or are currently logged out cannot join)
+In order to enter the dungeon, all members have to accept.\n(Members who are in a different town or are currently logged out cannot join)
 
 ID=652
 The party leader has requested to enter a dungeon. Do you wish to join?\nEntrance Area: [{0}]\nEpisode: [{1}]\nDifficulty: [{2}]\n({3} seconds remaining)
@@ -1373,7 +1373,7 @@ ID=743
 Recommended Number of People: {0}
 
 ID=744
-No. of Entry
+No. of Entries
 
 ID=745
 1-man Solo
@@ -1532,7 +1532,7 @@ ID=797
 Switch Sniping Mode
 
 ID=798
-(Net cafe No. of Entry: {0} remaining)
+(Net cafe no. of entries: {0} remaining)
 
 ID=799
 (Net cafe entry benefits: {0})
@@ -1646,7 +1646,7 @@ ID=836
 Body
 
 ID=837
-Leg
+Legs
 
 ID=838
 Neck
@@ -1697,7 +1697,7 @@ ID=870
 Upper Garment
 
 ID=871
-Hand
+Hands
 
 ID=872
 Lower Garment
@@ -1724,10 +1724,10 @@ ID=882
 Item dismantling failed.
 
 ID=883
-Do you want to dismantle {0}?
+Are you sure you want to dismantle {0}?
 
 ID=884
-Press confirm to dismantle the selected items.\nDo you want to dismantle?
+Are you sure that you want to dismantle the selected items?
 
 ID=885
 The selection contains at least one <font color='#A566FF'>high-grade item</font>.\nDismantled items cannot be recovered.\nAre you sure you want to dismantle them?
@@ -1742,7 +1742,7 @@ ID=888
 MAX
 
 ID=891
-This item bounds on equip.\nDo you still want to equip the item?
+This item bounds on equip.\nAre you sure you want to equip the item?
 
 ID=900
 Status
@@ -1793,7 +1793,7 @@ ID=915
 Magic Attack is influenced by Magic Resistance
 
 ID=916
-Evaded Physical Attack is influenced by Critical Rate
+Evaded Physical Attack is influenced by Critical
 
 ID=917
 HP is influenced by Physical Defense
@@ -1919,7 +1919,7 @@ ID=962
 Use break prevention item
 
 ID=963
-Required Zenny
+Cost
 
 ID=964
 Required BP
@@ -1937,7 +1937,7 @@ ID=968
 Select an item to exchange.
 
 ID=969
-Qty:
+Count:
 
 ID=970
 ▲
@@ -1955,10 +1955,10 @@ ID=974
 Obtained:
 
 ID=975
-Consumes
+Uses
 
 ID=976
-This item has been successfully enhanced.
+The item has been successfully enhanced.
 
 ID=977
 Failed to enhance the item.
@@ -2183,7 +2183,7 @@ ID=1120
 You can determine the appearance of the character.
 
 ID=1131
-Do you want to create this character?
+Are you sure you want to create this character?
 
 ID=1132
 Please enter 2 or more characters for your character name.
@@ -2354,7 +2354,7 @@ ID=1450
 {0} successfully enhanced {1}+{2}.
 
 ID=1451
-{0} failed to enhance {1}+{2} and the item was broken.
+{0} failed to enhance to {1}+{2} and the item was broken.
 
 ID=1452
 {0} has successfully crafted {1}.
@@ -2447,13 +2447,13 @@ ID=2123
 CH{0}
 
 ID=2124
-Friend's Request\nYou have a friend request from {0}\nDo you accept?
+You have received a friend request from {0}.\nDo you accept?
 
 ID=2125
 {0} has been registered as a friend.
 
 ID=2126
-Do you want to remove {0} from your friends list?\nConfirm?
+Are you sure you want to remove {0} from your friends list?
 
 ID=2127
 {0} has been removed from your friends list.
@@ -2606,7 +2606,7 @@ ID=2262
 There are attachments that have not been received.
 
 ID=2263
-The attachments received by the billing requires {0} Zenny.\nDo you wish to receive the attachment?
+The attachments received by the billing requires {0} Zenny.\nAre you sure you want to receive the attachment?
 
 ID=2264
 Are you sure you want to delete the selected mail?\n(Attachment will be deleted)
@@ -2621,7 +2621,7 @@ ID=2267
 This recipient does not exist.
 
 ID=2268
-Do you want to move the mail to the archive?
+Are you sure you want to move the mail to the Archive?
 
 ID=2271
 A mail was sent to {0}.
@@ -2651,10 +2651,10 @@ ID=2279
 Receive All
 
 ID=2280
-Do you want to receive all attachements from "Inbox"?\n(You cannot receive them if you do not have enough space in your inventory)
+Are you sure you want to receive all attachments from "Inbox"?\n(you cannot receive them if you do not have enough space in your inventory)
 
 ID=2281
-Do you want to receive all attachments from "Account Mail"?\n(You cannot receive them if you do not have enough space in your inventory)
+Are you sure you want to receive all attachments from "Account Mail"?\n(you cannot receive them if you do not have enough space in your inventory)
 
 ID=2282
 Are you sure you want to delete all selected mails?\n(Unread mails and mails with attachments will not be deleted)
@@ -2786,13 +2786,13 @@ ID=3009
 Please check the contents and click “Complete Trade.”
 
 ID=3010
-Waiting for a response from the other trader.\n(If you do not want to trade, please click on the button “Cancel Trade”.)
+Waiting for a response from the other trader.\n(if you do not want to trade, please click on the button “Cancel Trade”)
 
 ID=3011
 Trade request sent to {0}. Waiting for the consent of the other party.\n({1} seconds remaining)
 
 ID=3012
-Trade request received from {0}. Do you accept?\n({1} seconds remaining)
+You have received a trade request fro {0}. Do you accept?\n({1} seconds remaining)
 
 ID=3013
 The player is too far away; the trade request has been cancelled.
@@ -2837,7 +2837,7 @@ ID=3026
 Since there was no free inventory space, the trade was cancelled.
 
 ID=3027
-Do you want to stop the trade with {0}?
+Are you sure you want to stop the trade with {0}?
 
 ID=3028
 Cancelled the trade with {0}.
@@ -2900,7 +2900,7 @@ ID=3062
 Terminate Registeration
 
 ID=3063
-Do you want to open a private store at the present location?
+Are you sure you want to open a private store at the current location?
 
 ID=3064
 A personal shop name was not entered. Please type it again.
@@ -3002,10 +3002,10 @@ ID=3201
 Randomly Open Package
 
 ID=3202
-Do you want to use [{0}]?\n(Following items can be obtained)
+Are you sure you want to use [{0}]?\n(the following items can be obtained)
 
 ID=3203
-Do you want to use [{0}]?\n({1} of the following items can be obtained)
+Are you sure you want to use [{0}]?\n({1} of the following items can be obtained)
 
 ID=3204
 You cannot use the item as there is insufficient inventory space.
@@ -3728,7 +3728,7 @@ ID=6020
 Are you sure you want to discord A.R Card "{0}"?
 
 ID=6021
-Do you want to rent {0}'s {1} A.R Card?\nYou can rent them for {2} hours for {4} Zenny.\nYou currently have {3} Zenny.
+Are you sure you want to rent {0}'s {1} A.R Card?\nYou can rent them for {2} hours for {4} Zenny.\nYou currently have {3} Zenny.
 
 ID=6022
 Did not select Friend's A.R Card.
@@ -3806,7 +3806,7 @@ ID=6046
 Synthetic Materials
 
 ID=6047
-A.R Creation Time\nAll the materials will be consumed and are unrecoverable.\nDo you want to proceed with the synthesis?
+A.R Creation Time\nAll the materials will be consumed and are unrecoverable.\nAre you sure you want to proceed with the synthesis?
 
 ID=6048
 Synthesis is complete.
@@ -3884,7 +3884,7 @@ ID=6909
 Frequently cancelling will apply a restriction.
 
 ID=6910
-Do you want to cancel the match?\n(Frequently cancelling will apply a restriction)
+Are you sure you want to cancel the match?\n(frequently cancelling will apply a restriction)
 
 ID=6911
 Limited entrance because of frequent cancellation.\n({0} minutes {1} seconds remaining)
@@ -5627,19 +5627,19 @@ ID=16849
 Galaxy
 
 ID=16850
-{0}개
+{0}
 
 ID=16851
 The following search parameters are not applicable.
 
 ID=16852
-Remove {1} {0} from sale?\n(Returned items will be sent to your mailbox)
+Withdraw {1} {0} from sale?\n(returned items will be sent by mail)
 
 ID=16853
-Do you wish to withdraw {1} of {0} from the item showcase?\n(Items recovered will be sent to mail)
+Are you sure you want to withdraw {1} of {0} from the item showcase?\n(the recovered items will be sent by mail)
 
 ID=16854
-Are you sure you want to withdraw {1} of {0}?\n(The recovered items will be sent by mail)
+Are you sure you want to withdraw {1} of {0}?\n(the recovered items will be sent by mail)
 
 ID=16855
 Search options have been changed. Would you like to refresh the page with current searching options?\n(Page will be moved and search options will change if cancelled.)
@@ -5693,7 +5693,7 @@ ID=18004
 The broken equipment has been restored.
 
 ID=18005
-Do you wish to restore {0}'s condition?\nRestoration Limit: {1}.
+Are you sure you want to restore {0}'s condition?\nRestoration Limit: {1}.
 
 ID=18006
 Restore Item
@@ -5777,7 +5777,7 @@ ID=18034
 Sealing completed
 
 ID=18035
-You can prevent an equipment piece from being destroyed by using 1 Q.B.D[Enhancement Protector] on the equipment being enhanced.\nDo you wish to continue enhancing?
+You can prevent an equipment piece from being destroyed by using 1 Q.B.D[Enhancement Protector] on the equipment being enhanced.\nAre you sure you want to continue enhancing?
 
 ID=18036
 You are in an operation mode, therefore you cannot organize your inventory. 
@@ -5801,7 +5801,7 @@ ID=18042
 Item Entry
 
 ID=18043
-{0}, {1}, {2} will be showcased. Do you want continue?
+{0}, {1}, {2} will be showcased. Are you sure you want to continue?
 
 ID=18044
 {0}day
@@ -5846,13 +5846,13 @@ ID=18057
 Only <font color='#E0B94F'>Mega</font>,<font color='#F15F5F'>Giga</font>,<font color='#8041D9'>Tera</font> grade brooches can be used
 
 ID=18058
-The remaining number of enhancements of {0} {1} will decrease.\nUpon confirmation, one {2} is used up.\n\nDo you wish to continue?
+The remaining number of enhancements of {0} {1} will decrease.\nUpon confirmation, one {2} will be used.\n\nAre you sure you want to continue?
 
 ID=18059
-The remaining number of sealings of {0} {1} will decrease.\nUpon confirmation, one {2} is used up.\n\nDo you wish to continue?
+The remaining number of sealings of {0} {1} will decrease.\nUpon confirmation, one {2} is used up.\n\nAre you sure you want to continue?
 
 ID=18060
-The remaining number of restorations of {0} {1} will decrease.\nUpon confirmation, one {2} is used up.\n\nDo you wish to continue?
+The remaining number of restorations of {0} {1} will decrease.\nUpon confirmation, one {2} is used up.\n\nAre you sure you want to continue?
 
 ID=18061
 Remaining enhances {0} dropped by {1}.
@@ -5870,7 +5870,7 @@ ID=18068
 Dungeon limits have reset. You can enter {0}: {1}.
 
 ID=18069
-Do you want to change your character name {0}? It consumes 1 {0}.
+Are you sure you want to use 1 {1} to change your character name to "{0}"?
 
 ID=18071
 Failed to purchase item: Insufficient Zenny
@@ -5903,7 +5903,7 @@ ID=18080
 All daily Casual Raid entries have been used.
 
 ID=18081
-Current number of entries available are as follows.\nLast Carnival: {0}/2\nJunk Hive: {1}/2\nIron Castle: {3}/2\nDo you want to reduce the number of entries by 1?\n(Cannot decrease below 0)
+Current number of entries available are as follows.\nLast Carnival: {0}/2\nJunk Hive: {1}/2\nIron Castle: {3}/2\nAre you sure you want to reduce the number of entries by 1?\n(cannot be decreased below 0)
 
 ID=18082
 All daily counted Casual Raid entries have been reduced by one.
@@ -6433,155 +6433,158 @@ ID=18813
 ID=18814
 4gamer_アップデート延期補償
 
+ID=18815
+公式Twitterフォロワー1000人突破
+
 ID=19000
-<font color='#47C83E'>Attack +1%/Evaded Attack Damage +1%</font>
+<font color='#47C83E'>+1% Attack/+1% Evaded Attack Damage</font>
 
 ID=19001
-<font color='#4374D9'>Attack +2%/Evaded Attack Damage +2%</font>
+<font color='#4374D9'>+2% Attack/+2% Evaded Attack Damage</font>
 
 ID=19002
-<font color='#E0B94F'>Attack +3%/Evaded Attack Damage +3%</font>
+<font color='#E0B94F'>+3% Attack/+3% Evaded Attack Damage</font>
 
 ID=19003
-<font color='#F15F5F'>Attack +4%/Evaded Attack Damage +4%/Penetration +1%</font>
+<font color='#F15F5F'>+4% Attack/+4% Evaded Attack Damage/+1% Penetration</font>
 
 ID=19004
-<font color='#8041D9'>Attack +5%/Evaded Attack Damage +5%/Penetration +2%</font>
+<font color='#8041D9'>+5% Attack/+5% Evaded Attack Damage/+2% Penetration</font>
 
 ID=19005
-<font color='#47C83E'>Defense +5%/HP +4% </font>
+<font color='#47C83E'>+5% Defense/+4% Max HP</font>
 
 ID=19006
-<font color='#4374D9'>Defense +10%/HP +8%</font>
+<font color='#4374D9'>+10% Defense/+8% Max HP</font>
 
 ID=19007
-<font color='#E0B94F'>Defense +15%/HP +12% </font>
+<font color='#E0B94F'>+15% Defense/+12% Max HP</font>
 
 ID=19008
-<font color='#F15F5F'>Defense +20%/HP +16%</font>
+<font color='#F15F5F'>+20% Defense/+16% Max HP</font>
 
 ID=19009
-<font color='#8041D9'>Defense +25%/HP +20% </font>
+<font color='#8041D9'>+25% Defense/+20% Max HP</font>
 
 ID=19010
-<font color='#47C83E'>Evasion +10/Critical Resistance +1%</font>
+<font color='#47C83E'>+10 Evasion/+1% Critical Resistance</font>
 
 ID=19011
-<font color='#4374D9'>Evasion +20/Critical Resistance +2%</font>
+<font color='#4374D9'>+20 Evasion/+2% Critical Resistance</font>
 
 ID=19012
-<font color='#E0B94F'>Evasion +30/Critical Resistance +3%</font>
+<font color='#E0B94F'>+30 Evasion/+3% Critical Resistance</font>
 
 ID=19013
-<font color='#F15F5F'>Evasion +40/Critical Resistance +4%/Damage Reduction +4%</font>
+<font color='#F15F5F'>+40 Evasion/+4% Critical Resistance/+4% Damage Reduction</font>
 
 ID=19014
-<font color='#8041D9'>Evasion +50/Critical Resistance +5%/Damage Reduction +5%</font>
+<font color='#8041D9'>+50 Evasion/+5% Critical Resistance/+5% Damage Reduction</font>
 
 ID=19015
-<font color='#47C83E'>Stamina +5/Attack Speed +1%</font>
+<font color='#47C83E'>+5 Stamina/+1% Attack Speed</font>
 
 ID=19016
-<font color='#4374D9'>Stamina +8/Attack Speed +2%</font>
+<font color='#4374D9'>+8 Stamina/+2% Attack Speed</font>
 
 ID=19017
-<font color='#E0B94F'>Stamina +11/Attack Speed +3%</font>
+<font color='#E0B94F'>+11 Stamina/+3% Attack Speed</font>
 
 ID=19018
-<font color='#F15F5F'>Stamina +14/Attack Speed +4%/Movement Speed +3%</font>
+<font color='#F15F5F'>+14 Stamina/+4% Attack Speed/+3% Movement Speed</font>
 
 ID=19019
-<font color='#8041D9'>Stamina +17/Attack Speed +5%/Movement Speed +4%</font>
+<font color='#8041D9'>+17 Stamina/+5% Attack Speed/+4% Movement Speed</font>
 
 ID=19020
-<font color='#47C83E'>Accuracy +10/Critical Damage +600</font>
+<font color='#47C83E'>+10 Accuracy/+600 Critical Damage</font>
 
 ID=19021
-<font color='#4374D9'>Accuracy +20/Critical Damage +700</font>
+<font color='#4374D9'>+20 Accuracy/+700 Critical Damage</font>
 
 ID=19022
-<font color='#E0B94F'>Accuracy +30/Critical Damage +800</font>
+<font color='#E0B94F'>+30 Accuracy/+800 Critical Damage</font>
 
 ID=19023
-<font color='#F15F5F'>Accuracy +40/Critical Damage +900/Critical Rate +1%</font>
+<font color='#F15F5F'>+40 Accuracy/+900 Critical Damage/+1% Critical</font>
 
 ID=19024
-<font color='#8041D9'>Accuracy +50/Critical Damage +1000/Critical Rate +2%</font>
+<font color='#8041D9'>+50 Accuracy/+1000 Critical Damage/+2% Critical</font>
 
 ID=19025
-<font color='#47C83E'>Attack +1%</font>
+<font color='#47C83E'>+1% Attack</font>
 
 ID=19026
-<font color='#4374D9'>Attack +3%</font>
+<font color='#4374D9'>+3% Attack</font>
 
 ID=19027
-<font color='#E0B94F'>Attack +5%</font>
+<font color='#E0B94F'>+5% Attack</font>
 
 ID=19028
-<font color='#F15F5F'>Attack +8%</font>
+<font color='#F15F5F'>+8% Attack</font>
 
 ID=19029
-<font color='#8041D9'>Attack +11%</font>
+<font color='#8041D9'>+11% Attack</font>
 
 ID=19030
-<font color='#47C83E'>Critical Rate +1%</font>
+<font color='#47C83E'>+1% Critical</font>
 
 ID=19031
-<font color='#4374D9'>Critical Rate +2%</font>
+<font color='#4374D9'>+2% Critical</font>
 
 ID=19032
-<font color='#E0B94F'>Critical Rate +3%</font>
+<font color='#E0B94F'>+3% Critical</font>
 
 ID=19033
-<font color='#F15F5F'>Critical Rate +4%</font>
+<font color='#F15F5F'>+4% Critical</font>
 
 ID=19034
-<font color='#8041D9'>Critical Rate +5%</font>
+<font color='#8041D9'>+5% Critical</font>
 
 ID=19035
-<font color='#47C83E'>SA Break +2%</font>
+<font color='#47C83E'>+2% SA Break</font>
 
 ID=19036
-<font color='#4374D9'>SA Break +5%</font>
+<font color='#4374D9'>+5% SA Break</font>
 
 ID=19037
-<font color='#E0B94F'>SA Break +8%</font>
+<font color='#E0B94F'>+8% SA Break</font>
 
 ID=19038
-<font color='#F15F5F'>SA Break +12%</font>
+<font color='#F15F5F'>+12% SA Break</font>
 
 ID=19039
-<font color='#8041D9'>SA Break +16%</font>
+<font color='#8041D9'>+16% SA Break</font>
 
 ID=19040
-<font color='#47C83E'>Attack Speed +1%/Movement Speed +1%</font>
+<font color='#47C83E'>+1% Attack Speed/+1% Movement Speed</font>
 
 ID=19041
-<font color='#4374D9'>Attack Speed +2%/Movement Speed +2%</font>
+<font color='#4374D9'>+2% Attack Speed/+2% Movement Speed</font>
 
 ID=19042
-<font color='#E0B94F'>Attack Speed +3%/Movement Speed +3%</font>
+<font color='#E0B94F'>+3% Attack Speed/+3% Movement Speed</font>
 
 ID=19043
-<font color='#F15F5F'>Attack Speed +5%/Movement Speed +4%</font>
+<font color='#F15F5F'>+5% Attack Speed/+4% Movement Speed</font>
 
 ID=19044
-<font color='#8041D9'>Attack Speed +6%/Movement Speed +6%</font>
+<font color='#8041D9'>+6% Attack Speed/+6% Movement Speed</font>
 
 ID=19045
-<font color='#47C83E'>Critical Damage +700</font>
+<font color='#47C83E'>+700 Critical Damage</font>
 
 ID=19046
-<font color='#4374D9'>Critical Damage +850</font>
+<font color='#4374D9'>+850 Critical Damage</font>
 
 ID=19047
-<font color='#E0B94F'>Critical Damage +1000</font>
+<font color='#E0B94F'>+1000 Critical Damage</font>
 
 ID=19048
-<font color='#F15F5F'>Critical Damage +1350</font>
+<font color='#F15F5F'>+1350 Critical Damage</font>
 
 ID=19049
-<font color='#8041D9'>Critical Damage +1700</font>
+<font color='#8041D9'>+1700 Critical Damage</font>
 
 ID=19400
 Standard
@@ -6860,13 +6863,13 @@ ID=20305
 Would you like to stop the usage?
 
 ID=20306
-Existing furniture will be removed; do you wish to proceed?
+Existing furniture will be removed. Are you sure you want to proceed?
 
 ID=20307
 The used item has disappeared.
 
 ID=20308
-You do not have the ソーシャルアイテム.
+The furniture item doesn't exist.
 
 ID=20309
 The item is currently inactive.
@@ -6908,25 +6911,25 @@ ID=21007
 - {1} {0}
 
 ID=21008
-Repair Fee is decreased by {0}{1}
+Repair cost is reduced by {0}{1}
 
 ID=21009
-Crafting Fee is decreased by {0}{1}
+Crafting cost is reduced by {0}{1}
 
 ID=21010
-Crafting materials cost reduced by {0}%
+Number of crafting materials are reduced by {0}%
 
 ID=21011
-Enhancing Fee is decreased by {0}{1}
+Enhancing cost is reduced by {0}{1}
 
 ID=21012
-Enhance success chance increased by {0}{1}.
+Enhancing success chance is increased by {0}{1}
 
 ID=21013
-Reduced transportation fees by {0} {1}
+Transportation cost is reduced by {0}{1}
 
 ID=21014
-The special item [{0}] can be bought
+Special item [{0}] can be purchased
 
 ID=21015
 Doubles the number of special items you can purchase per day from {0}
@@ -6974,7 +6977,7 @@ ID=21029
 Favorability level too low
 
 ID=21030
-You have hit the maximum purchases for today.
+Cannot buy any more today
 
 ID=21031
 You cannot gain any more favorability from {0} for today.\n[Resets at 9AM JST, 4PM PST]
@@ -7037,7 +7040,7 @@ ID=21400
 Board Helicopter
 
 ID=21401
-Do you want to go to {0}?\nFee: {1} Zenny
+Are you sure you want to go to {0}?\nFee: {1} Zenny
 
 ID=21402
 Zenny Fee:
@@ -7181,7 +7184,7 @@ ID=21545
 Defense Orb
 
 ID=21546
-Releasing this Supporter will have its equipped orb disappear. Do you want to continue?
+Releasing this Supporter will have its equipped orb disappear. Are you sure you want to continue?
 
 ID=21547
 You can register a new Aid.
@@ -7193,7 +7196,7 @@ ID=21549
 Standing by until Aid period ends.
 
 ID=21550
-Do you want to accept the Aid reward?
+Are you sure you want to accept the Aid reward?
 
 ID=21551
 You have received the Aid reward.
@@ -7970,7 +7973,7 @@ ID=22658
 Return Chat Options to Default
 
 ID=22659
-[{0}]key is being used for other controls.\nDo you still wish to change and overwrite key settings?
+[{0}]key is being used for other controls.\nAre you sure you want to overwrite the key settings?
 
 ID=22660
 [{0}]key cannot be used as a shortcut.\nPlease assign other keys for use.
@@ -8237,7 +8240,7 @@ ID=24284
 Upper Garment
 
 ID=24285
-Hand
+Hands
 
 ID=24286
 Lower Garment
@@ -8573,7 +8576,7 @@ ID=24564
 Upper Garment
 
 ID=24565
-Hand
+Hands
 
 ID=24566
 Lower Garment
@@ -8747,7 +8750,7 @@ ID=24622
 Mouth
 
 ID=24623
-Hand
+Hands
 
 ID=24624
 Underwear
@@ -9023,7 +9026,7 @@ ID=24803
 Lower Garment
 
 ID=24804
-Hand
+Hands
 
 ID=24805
 Shoes
@@ -9269,7 +9272,7 @@ ID=25220
 Sub Quest Interaction
 
 ID=25221
-装置を起動することができます。You may open doors or activate objects by\nmoving to them and holding [Left-Click].
+You can open doors or activate objects by moving near them and holding the [F] key.
 
 ID=25222
 Hold down the mouse button until it has fully activated.
@@ -9533,10 +9536,10 @@ ID=26043
 Evaded Attack Damage
 
 ID=26044
-Critical Rate
+Critical
 
 ID=26045
-Magic Critical Rate
+Magic Critical
 
 ID=26046
 Critical Resistance
@@ -9545,10 +9548,10 @@ ID=26047
 Magic Critical Resistance
 
 ID=26048
-Critical Rate
+Critical
 
 ID=26049
-Magic Critical Rate
+Magic Critical
 
 ID=26050
 Critical Damage
@@ -9611,7 +9614,7 @@ ID=26069
 Damage on General Mobs
 
 ID=26070
-Damage on Bosses
+敵追加ダメージ：ボス/ネームド[%]
 
 ID=26071
 Damage on Short-Ranged Attacks
@@ -9629,7 +9632,7 @@ ID=26075
 Damage Reduction from General Mobs
 
 ID=26076
-Damage Reduction from Bosses
+ダメージ減少：ボス/ネームド[%]
 
 ID=26077
 Damage Reduction on Short-Ranged Attacks
@@ -9932,7 +9935,7 @@ ID=26329
 When hit, 15% chance of +{0}% Defense for 5s
 
 ID=26330
-攻撃を受けた時、8%の確率で10秒間クリティカル抵抗{0}%増加
+When hit, 8% chance of +{0}% Critical Resistance for 10s
 
 ID=26331
 When hit, 20% chance of +{0}% Damage Reflection
@@ -9989,7 +9992,7 @@ ID=26348
 When hit, 15% chance of +{0} Attack for 3s
 
 ID=26349
-On evasion, 10% chance of +{0}% Critical Rate for 3s
+On evasion, 10% chance of +{0}% Critical for 3s
 
 ID=26350
 On evasion, 10% chance of +{0} Critical Damage for 5s
@@ -10022,7 +10025,7 @@ ID=26359
 On kill, 5% chance of Super Armor for 5s.
 
 ID=26360
-On SA Break, +{0}% Critical Rate for 5s
+On SA Break, +{0}% Critical for 5s
 
 ID=26361
 On evaded hit, 10% chance of +{0} Critical Damage for 3s
@@ -10223,7 +10226,7 @@ ID=27836
 When hit, 5% chance of +{0} SV
 
 ID=27837
-On jump hit, 5% chance of +{0}% Critical Rate (cancelled on critical hit)
+On jump hit, 5% chance of +{0}% Critical (cancelled on critical hit)
 
 ID=27838
 On dodge, 5% chance of +{0}% SG
@@ -10235,7 +10238,7 @@ ID=27840
 On SA Break, 10% chance of +{0} Critical Damage for 3s
 
 ID=27841
-On skill use, 5% chance of +{0} Critical Rate for 4s
+On skill use, 5% chance of +{0} Critical for 4s
 
 ID=27842
 When hit, +{0}% Attack (cancelled on hit)
@@ -10244,7 +10247,7 @@ ID=27843
 When hit, 5% chance of +{0}% HP
 
 ID=27844
-In District 6, +{0}% Critical Rate
+In District 6, +{0}% Critical
 
 ID=27845
 In District 6, +{0}% Maximum HP
@@ -10265,7 +10268,7 @@ ID=27850
 When gaining zenny, 10% chance of +{0}% HP of gained amount
 
 ID=27851
-On hitting target with 50% HP or more, +{0}% Critical Rate (cancelled on hit)
+On hitting target with 50% HP or more, +{0}% Critical (cancelled on hit)
 
 ID=27852
 On hitting target with 50% HP or less, +{0} Critical Damage (cancelled on critical hit)
@@ -10391,7 +10394,7 @@ ID=28018
 Set Guild Exit
 
 ID=28019
-Do you want to disband the guild?
+Are you sure you want to disband the guild?
 
 ID=28020
 Guild successfully created.
@@ -10511,7 +10514,7 @@ ID=28058
 Reset Rank
 
 ID=28059
-Do you want to reset {0}'s rank?
+Are you sure you want to reset {0}'s rank?
 
 ID=28060
 "{0}" has been established.
@@ -10526,7 +10529,7 @@ ID=28063
 {0}'s rank has been reset.
 
 ID=28064
-Do you want to save the guild permissions for {0}'s rank?
+Are you sure you want to save the guild permissions for {0}'s rank?
 
 ID=28065
 Save
@@ -10541,19 +10544,19 @@ ID=28068
 Cancel Guild Announcement
 
 ID=28069
-Do you want to proceed with the guild notice?
+Are you sure you want to proceed with the guild notice?
 
 ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 30/Jan/2018 7:30 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 9/Feb/2018 1:35 AM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
 
 ID=28073
-Do you wish to cancel the guild notice being made?
+Are you sure you want to cancel the guild notice being made?
 
 ID=28074
 Cancel Guild Notice
@@ -10586,7 +10589,7 @@ ID=28083
 {0} cannot join due to Guild withdrawal penalty.
 
 ID=28084
-{0} sent a request to "{1}". Do you accept it?\nResponse Time: {2} seconds
+{0} sent a request to join "{1}". Do you accept it?\n({2} seconds remaining)
 
 ID=28085
 Invite Guild Member
@@ -10622,7 +10625,7 @@ ID=28095
 Guild withdrawal penalty
 
 ID=28096
-Do you want to accept {0}'s request to join the Guild?
+Are you sure you want to accept {0}'s request to join the Guild?
 
 ID=28097
 Guild Applicant
@@ -10634,7 +10637,7 @@ ID=28099
 Cannot join guild
 
 ID=28100
-Do you want to reject {0}'s request to join the Guild?
+Are you sure you want to reject {0}'s request to join the Guild?
 
 ID=28101
 Reject Member
@@ -10661,7 +10664,7 @@ ID=28108
 {0} has joined the "{1}" guild.
 
 ID=28109
-If you leave the guild, you may not join a new one for 1 day.\nDo you still wish to leave?
+If you leave the guild, you may not join a new one for 1 day.\nAre you sure you want to leave?
 
 ID=28110
 Leave Guild
@@ -10979,7 +10982,7 @@ ID=28214
 Guild notice cancelled.
 
 ID=28215
-Do you wish to post the guild notice/recruit ad?
+Are you sure you want to post the guild recruitment ad?
 
 ID=28216
 Guild Recruit Notice
@@ -11039,7 +11042,7 @@ ID=28234
 Decoration
 
 ID=28235
-To change the Guild Mark you need a Guild Mark Change Ticket. Do you want to use it?
+To change the Guild Mark you need a Guild Mark Change Ticket. Are you sure you want to use it?
 
 ID=28236
 You cannot change the Guild Mark without a Guild Mark Change Ticket.
@@ -11069,10 +11072,10 @@ ID=28244
 ({0} GP)
 
 ID=28245
-Do you wish to learn {0}?\n[Cost: {1} GP and {2} Funds]
+Are you sure you want to learn {0}?\n[Cost: {1} GP and {2} Funds]
 
 ID=28246
-Do you wish to raise {0}'s level?\nIt will cost {1} GP and subtract {2} from the guild funds.
+Are you sure you want to raise {0}'s level?\nIt will cost {1} GP and {2} Funds
 
 ID=28247
 Insufficient guild funds.
@@ -11081,10 +11084,10 @@ ID=28248
 Guild Warehouse settings has been applied.[{0} seconds]
 
 ID=28249
-Do you want to move {1} {0} in the Guild Storage?
+Are you sure you want to move {1} {0} in the Guild Storage?
 
 ID=28250
-Do you want to move {1} {0} in your inventory?
+Are you sure you want to move {1} {0} in your inventory?
 
 ID=28251
 Store
@@ -11123,7 +11126,7 @@ ID=28262
 Required GP
 
 ID=28263
-Do you want to change the Guild Mark?
+Are you sure you want to change the Guild Mark?
 
 ID=28264
 Please select a basic pattern for the guild mark.
@@ -11168,7 +11171,7 @@ ID=29007
 Room Settings
 
 ID=29009
-Cancel Arrange Mode
+Leave Room Layout Mode
 
 ID=29010
 Place
@@ -11222,7 +11225,7 @@ ID=29026
 Create Room
 
 ID=29027
-Creating a room costs 5,000 Zenny.\nDo you want to create the room?\n(Only one room can be created)
+Creating a room costs 5,000 Zenny.\nAre you sure you want to create the room?\n(only one room can be created)
 
 ID=29028
 Room creation complete.
@@ -11246,13 +11249,13 @@ ID=29034
 Enter Room
 
 ID=29035
-Do you want to enter the room?
+Are you sure you want to enter the room?
 
 ID=29036
 Confirm Buddy Room Entry
 
 ID=29037
-Do you want to admit {0} to your room?
+Are you sure you want to admit {0} to your room?
 
 ID=29038
 Entering Room Guide
@@ -11270,7 +11273,7 @@ ID=29042
 Controls can be set
 
 ID=29043
-Changes were made to settings; do you wish to close the window?
+There were changes in the settings. Are you sure you want to close the window and lose all changes?
 
 ID=29044
 The maximum number of guests have been reached.
@@ -11294,13 +11297,13 @@ ID=29050
 Change Room Layout
 
 ID=29051
-To begin managing your room, all guests will be kicked out.\nDo you still wish to proceed?\n(Confirmation)
+To begin managing your room, all guests will be kicked out.\nAre you sure you want to proceed?
 
 ID=29052
-Cancel Arrange Mode
+Leave Room Layout Mode
 
 ID=29053
-Do you wish to turn layout mode off?
+Are you sure you want to leave the Room Layout mode?
 
 ID=29054
 Your room publicity settings have been reverted to their defaults.
@@ -11645,7 +11648,7 @@ ID=31058
 Since you have not confirmed the dungeon entry, you have been kicked out of the Party.
 
 ID=31059
-Do you want to cancel Auto-Matching?
+Are you sure you want to cancel Auto-Matching?
 
 ID=31060
 You cannot use [{0}] Auto-Matching for {1} minutes.
@@ -11819,13 +11822,13 @@ ID=31116
 There are too many requests. Please try again later.
 
 ID=31117
-The advertisement will last for 10 minutes. Do you wish to post it?
+The advertisement will last for 10 minutes. Are you sure you want to post it?
 
 ID=31118
-Do you wish to remove your party search request advertisement?
+Are you sure you want to remove your party search request advertisement?
 
 ID=31119
-< Party Recruiting > {0} / Purpose: {1} / Party Leader: {2} / Members: {3} / 4
+<Party Recruitment> {0}/Purpose: {1}/Party Leader: {2}/Members: {3}/4
 
 ID=31120
 You can apply for a party in {0} seconds.
@@ -11900,7 +11903,7 @@ ID=31143
 Declined {0} retry request.
 
 ID=31144
-Do you want to try the dungeon again?
+Are you sure you want to reattempt the dungeon?
 
 ID=31145
 You may not enter the dungeon again as a party member has left.
@@ -11969,7 +11972,7 @@ ID=31166
 Members have cancelled the matching.
 
 ID=31167
-The Party is in combat. Do you wish to join?\n({0} seconds remaining)
+The Party is in combat. Are you sure you want to join?\n({0} seconds remaining)
 
 ID=31168
 Party Join Request Ad
@@ -12539,10 +12542,10 @@ ID=34005
 Flowerpot 6
 
 ID=34006
-In order to use {0}, {1} is required. Do you wish to get a flower pot?
+In order to use {0}, {1} is required. Are you sure you want to get a flowerpot?
 
 ID=34007
-{0} is usable.
+{0} is now usable.
 
 ID=34008
 Cannot access {1} because you do not have {0}.
@@ -12566,7 +12569,7 @@ ID=34014
 {0}%
 
 ID=34022
-Do you want to use {0}?
+Are you sure you want to use {0}?
 
 ID=34023
 Stop Cultivation
@@ -12587,13 +12590,13 @@ ID=34028
 The crops cannot be fertilized.
 
 ID=34029
-Do you wish to stop harvesting {0}?\n(All invested materials will not be returned)
+Are you sure that you want to stop cultivating {0}?\n(invested materials will not be returned)
 
 ID=34030
 Successfully harvested {0}.
 
 ID=34031
-Successful harvest.
+Successful\nharvest
 
 ID=34032
 Exceptionally successful harvest.
@@ -12605,7 +12608,7 @@ ID=34034
 Confirm
 
 ID=34035
-Insufficient inventory space; harvesting was not possible.
+Failed to harvest because there is no free inventory space.
 
 ID=34036
 Harvest
@@ -12614,7 +12617,7 @@ ID=34037
 Help
 
 ID=34038
-Do you want to start cultivating?
+Are you sure that you want to start cultivating?
 
 ID=34039
 {0} helped people\nCultivation time -{1}%
@@ -12671,10 +12674,10 @@ ID=35102
 Chat Options
 
 ID=35103
-Ah!
+A
 
 ID=35104
-Ah!
+A
 
 ID=35105
 Dealt {0} damage.
@@ -12767,25 +12770,25 @@ ID=36012
 Move
 
 ID=37001
-Emergency! A Void Fissure has appeared in the Emergency Area! Requesting support!
+Emergency! A Void Fissure has appeared in District 6! Requesting support!
 
 ID=37002
-The Void Fissures has been eliminated.
+The Void Fissures have been eliminated.
 
 ID=37003
-The Void Fissures in the Emergency Area has disappeared.
+The Void Fissures in the Emergency Area have disappeared.
 
 ID=37004
 Code name [The Thing] has appeared in the center of the Emergency Area.
 
 ID=37005
-The Strongest Soulworker! {0} has defeated The Thing.
+The supreme Soulworker! {0} has defeated The Thing.
 
 ID=37006
-The Thing in the Emergency Area has disappeared.
+The Thing has suddenly disappeared from the Emergency Area.
 
 ID=37007
-Emergency!\nLv.40 and above can participate.\nClick the icon to support!\n\nTime till disappearance of Void Fissure: {0} minutes
+Emergency!\nLv 40 and above can join.\nClick the button to join!\n\nTime until the Void Fissures disappear: {0} minutes
 
 ID=37008
 The Vacuum Cube has disappeared, unable to obtain any items.
@@ -12827,13 +12830,13 @@ ID=37020
 Entrance Time
 
 ID=37021
-[The Thing] energy source is coming from the center of the Emergency Area. It will appear in 1 minute.
+[The Thing's] energy source is gathering towards the center of the Emergency Area. The encounter is expected to begin in a minute.
 
 ID=37025
-The Thing has been defeated in this channel.\n\nTime till emergency ends: {0} minutes
+The Thing has been defeated in this channel.\n\nTime until emergency ends: {0} minutes
 
 ID=37026
-Code name [The Thing] has appeared in the Emergency Area.\nPlease defeat it within the time limit!\nAvailable for Lv.40 and above.\nClick the icon to support!\n\nTime till emergency ends: {0} minutes
+Code name [The Thing] has appeared in the Emergency Area.\nPlease defeat it within the time limit!\nAvailable for Lv 40 and above.\nClick the button to join!\n\nTime until emergency ends: {0} minutes
 
 ID=37500
 Soul Hunter Progress
@@ -13778,7 +13781,7 @@ ID=40290
 When the controller is activated, enemies will appear.
 
 ID=40291
-Periodically, every 30 seconds, the player will be inflicted by a heavy-damaging debuff.\nDestroy the cubes to prevent further debuffs from being applied.
+Periodically, every 30 seconds, the player will be inflicted by a heavy-damaging debuff.\nDestroy the cubes to remove the debuff.
 
 ID=40292
 Every 15 seconds, magnetic waves may appear at various areas and damage the player.
@@ -13931,7 +13934,7 @@ ID=40428
 The purifier has been destroyed by the Mutant Mad Beholder's attacks.
 
 ID=40429
-Upon activating the switch in the left hand side of the A-1 Laboratory, the player's attack power will rise significantly.
+Upon activating the switch in the left hand side of the A-1 Laboratory, the player's attack will rise significantly.
 
 ID=40430
 The switches can be activated after defeating all the enemies.
@@ -16673,7 +16676,7 @@ ID=45009
 Purchase All
 
 ID=45010
-Y.P Charge
+Charge Y.P
 
 ID=45011
 Buy All
@@ -16772,7 +16775,7 @@ ID=45042
 Delete
 
 ID=45043
-Y.P Charge
+Charge Y.P
 
 ID=45044
 Buy
@@ -16823,7 +16826,7 @@ ID=45101
 The purchase was done.
 
 ID=45102
-Do you wish to buy the selected items?
+Are you sure you want to buy the selected items?
 
 ID=45103
 Purchase Error
@@ -16871,7 +16874,7 @@ ID=45117
 {0} The transactions have been completed; some purchases could not be enacted.
 
 ID=45118
-The inventory tab is full.\nNew items will be sent to the mail. Do you wish to make the purchase still?
+The inventory tab is full.\nNew items will be sent to the mail.\nAre you sure you want to make the purchase?
 
 ID=45119
 There is no more room in your Furniture Inventory.\nYou will receive the items by mail.\nAre you sure you want to purchase the items?
@@ -16958,7 +16961,7 @@ ID=45307
 Open A.R Cube
 
 ID=45308
-Do you want to use {0}?
+Are you sure you want to use {0}?
 
 ID=45309
 Item obtained: {0}\nThe item can be found in your inventory.
@@ -17675,7 +17678,7 @@ ID=49600
 Attention
 
 ID=49601
-Do you want to end the cut scene?
+Are you sure you want want to end the cut scene?
 
 ID=49602
 Cooldown: Less than {0} hours remaining
@@ -18029,7 +18032,7 @@ ID=49966
 Defeat {0}: {1}/{2}
 
 ID=49967
-Collect {0}: {1} / {2}
+Collect {0}: {1}/{2}
 
 ID=49968
 Take {1} to {0}.
@@ -20054,7 +20057,7 @@ ID=60006
 The brooch cannot be inserted here.
 
 ID=60007
-Do you want to change the attachment from [{0}] to [{1}]?\nThe existing brooch will be destroyed.
+Are you sure you want to change the attachment from [{0}] to [{1}]?\nThe existing brooch will be destroyed.
 
 ID=60008
 [{0}] has been successfully changed to [{1}].
@@ -20366,13 +20369,13 @@ ID=60258
  Force Auto-Matching search time has ended.
 
 ID=60259
-Force members are missing, do you want to proceed?\nIf you do not select a choice within the time frame, you will proceed regardless.\n(Remaining: {0} seconds)
+Force members are missing, are you sure you want to proceed?\nIf you do not select a choice within the time frame, you will proceed regardless.\n(Remaining: {0} seconds)
 
 ID=60260
 The Force has not decided whether to proceed, it has exited the stage.
 
 ID=60261
-Do you want to cancel Auto Force-Matching?
+Are you sure you want to cancel Force Auto-Matching?
 
 ID=60262
 Due to cheating, you have been given a penalty. You cannot use Force Auto-Matching for [{0}] minutes and [{1}] seconds.
@@ -20405,7 +20408,7 @@ ID=60271
 Cancel
 
 ID=60272
-The Force is currently in battle.\nDo you want to enter?\n- Remaining: {0} seconds -
+The Force is currently in battle.\nAre you sure you want to enter?\n- Remaining: {0} seconds -
 
 ID=60273
 The enemies are weaker because of the Force members leaving.
@@ -20471,7 +20474,7 @@ ID=60293
 Match Retrying {0}/{1}
 
 ID=60294
-If you stop Force Auto-Matching, all the applying members will be cancelled.\nDo you want to cancel?
+If you stop Force Auto-Matching, all the applying members will be cancelled.\nAre you sure you want to cancel?
 
 ID=60295
 Emergency!! Requesting support!
@@ -20528,7 +20531,7 @@ ID=48422
 Frag. Exchange
 
 ID=48423
-Required Zenny
+Cost
 
 ID=48424
 Fragment List
@@ -20537,10 +20540,10 @@ ID=48425
 Frag. Exchange
 
 ID=48426
-Consumes
+Uses
 
 ID=48427
-Quantity
+Count:
 
 ID=48428
 MAX
@@ -20668,6 +20671,9 @@ Only the brooch set effects in "Actual" are being applied.
 ID=5061
 「闘志のソウラムソード」にクラスアップグレードしました。
 
+ID=5062
+「誓いのガンジャズ」にクラスアップグレードしました。
+
 ID=5090
 以下の新規スキルを習得できます。
 
@@ -20693,7 +20699,7 @@ ID=10002
 ソウルスピリットの空間
 
 ID=10525
-最初の声
+The First Voice
 
 ID=10526
 嘲笑の広場
@@ -20708,13 +20714,13 @@ ID=10529
 再び立ちはだかる炎
 
 ID=10530
-鮮血の大地
+Ground of Fresh Blood
 
 ID=10531
-紅炎の交差点
+Crossing Red Flames
 
 ID=10532
-破滅への道
+Road to Ruin
 
 ID=58248
 ランキング報酬の対象者ではありません。
@@ -20810,259 +20816,259 @@ ID=53207
 アイテム購入失敗：ゼノコインが不足しています。
 
 ID=27895
-クリティカル攻撃時、10%の確率で1秒間攻撃速度{0}%増加
+On critical hit, 10% chance of +{0}% Attack Speed for 1s
 
 ID=27896
-クリティカル攻撃時、10%の確率で1秒間クリティカルダメージ{0}増加
+On critical hit, 10% chance of +{0} Critical Damage for 1s
 
 ID=27897
-攻撃を受けた時、20%の確率で1秒間攻撃速度{0}%増加
+When hit, 20% chance of +{0}% Attack Speed for 1s
 
 ID=27898
-攻撃を受けた時、40%の確率で1秒間回避度{0}増加
+When hit, 40% chance of +{0} Evasion for 1s
 
 ID=27899
-回避時、30%の確率で2秒間クリティカル{0}%増加
+On evasion, 30% chance of +{0}% Critical for 2s
 
 ID=27900
-回避時、30%の確率で5秒間クリティカルダメージ{0}増加
+On evasion, 30% chance of +{0}% Critical for 5s
 
 ID=27901
-スキル使用時、5%の確率で5秒間防御度貫通 {0}%増加
+On skill use, 5% chance of +{0}% Penetration for 5s
 
 ID=27902
-命中時、5%の確率で5秒間スーパーアーマー破壊力{0}%増加
+On hit, 5% chance of +{0}% SA Break for 5s
 
 ID=27903
-ダッシュ使用時、10%の確率で5秒間クリティカル{0}%増加
+On dash use, 10% chance of +{0}% Critical for 5s
 
 ID=27904
-スキル使用時、5%の確率で5秒間クリティカル{0}増加
+On skill use, 5% chance of +{0} Critical for 5s
 
 ID=27905
-命中時、7%の確率で5秒間スーパーアーマー破壊力{0}%増加
+On hit, 7% chance of +{0}% SA Break for 5s
 
 ID=27906
-討伐効果：5秒間クリティカルダメージ{0}増加
+On kill Effect: +{0} Critical Damage for 5s
 
 ID=27907
-討伐効果：5秒間クリティカル{0}%増加
+On kill Effect: +{0}% Critical for 5s
 
 ID=27908
-討伐効果：5秒間防御度貫通{0}%増加
+On kill Effect: +{0}% Penetration for 5s
 
 ID=27909
-スキル使用時、10%の確率でクリティカルダメージ{0}増加
+On skill use, 10% chance of +{0} Critical Damage
 
 ID=27910
-体力が70%以上の時、攻撃成功時に3秒間クリティカルダメージ{0}増加
+When over 70% HP, +{0} Critical Damage for 3s
 
 ID=27911
-体力が30%未満の場合、攻撃成功時に3秒間クリティカルダメージ{0}増加
+When under 30% HP, +{0} Critical Damage for 3s
 
 ID=27912
-命中時、15%の確率で体力{0}回復
+On hit, 15% chance of +{0} HP
 
 ID=27913
-攻撃を受けた時、30%の確率で体力{0}回復
+When hit, 30% chance of +{0} HP
 
 ID=27914
-体力50%未満の場合、10秒間防御度{0}増加
+When under 50% HP, +{0} Defense for 10s
 
 ID=27915
-体力50%未満の場合、10秒間クリティカル抵抗{0}%増加
+When under 50% HP, +{0}% Critical Resistance for 10s
 
 ID=27916
-ダッシュ使用時、10%の確率で5秒間防御度{0}増加
+On dash use, 10% chance of +{0} Defense for 5s
 
 ID=27917
-討伐効果：5秒間攻撃力{0}増加
+On kill Effect: +{0} Attack for 5s
 
 ID=27918
-討伐効果：5秒間防御度{0}増加
+On kill Effect: +{0} Defense for 5s
 
 ID=27919
-回避使用時、5%の確率でHP {0}%回復
+On dodge, 5% chance of +{0}% HP
 
 ID=27920
-討伐効果：5秒間ダメージ減少{0}%増加
+On kill Effect: +{0}% Damage Reduction for 5s
 
 ID=27921
-スキル使用時、10%の確率でSG {0}%回復
+On skill use, 10% chance of +{0}% SG
 
 ID=27922
-攻撃を受けた時、5%の確率で10秒間防御度{0}増加
+When hit, 5% chance of +{0} Defense for 10s
 
 ID=27923
-命中時、10%の確率で5秒間攻撃力{0}増加
+On hit, 10% chance of +{0} Attack for 5s
 
 ID=27924
-体力20%以下の状態で攻撃を受けた時、10%の確率で0.5秒間無敵
+When hit with 20% HP or less, 10% chance of Invincibility for 0.5s
 
 ID=27925
-スキル使用時、10%の確率で5秒間防御度{0}増加
+On skill use, 10% chance of +{0} Defense for 5s
 
 ID=27926
-体力が20%以下の状態で攻撃を受けた時、10%の確率で0.75秒間無敵
+When hit with 20% HP or less, 10% chance of Invincibility for 0.75s
 
 ID=27927
-体力が20%以下の状態で攻撃を受けた時、10%の確率で1秒間無敵
+When hit with 20% HP or less, 10% chance of Invincibility for 1s
 
 ID=27928
-体力が20%以下の状態で攻撃を受けた時、10%の確率で1.25秒間無敵
+When hit with 20% HP or less, 10% chance of Invincibility for 1.25s
 
 ID=27929
-体力が20%以下の状態で攻撃を受けた時、10%の確率で1.5秒間無敵
+When hit with 20% HP or less, 10% chance of Invincibility for 1.5s
 
 ID=19050
-<font color='#47C83E'>Critical +1%</font>
+<font color='#47C83E'>+1% Critical</font>
 
 ID=19051
-<font color='#4374D9'>Critical +2%</font>
+<font color='#4374D9'>+2% Critical</font>
 
 ID=19052
-<font color='#E0B94F'>Critical +4%</font>
+<font color='#E0B94F'>+4% Critical</font>
 
 ID=19053
-<font color='#F15F5F'>Critical +6%</font>
+<font color='#F15F5F'>+6% Critical</font>
 
 ID=19054
-<font color='#8041D9'>Critical +9%</font>
+<font color='#8041D9'>+9% Critical</font>
 
 ID=19055
-<font color='#47C83E'>Evasion +40</font>
+<font color='#47C83E'>+40 Evasion</font>
 
 ID=19056
-<font color='#4374D9'>Evasion +80</font>
+<font color='#4374D9'>+80 Evasion</font>
 
 ID=19057
-<font color='#E0B94F'>Evasion 120</font>
+<font color='#E0B94F'>+120 Evasion</font>
 
 ID=19058
-<font color='#F15F5F'>Evasion +160 / Attack Speed +1%</font>
+<font color='#F15F5F'>+160 Evasion/+1% Attack Speed </font>
 
 ID=19059
-<font color='#8041D9'>Evasion +200 / Attack Speed +2%</font>
+<font color='#8041D9'>+200 Evasion/+2% Attack Speed</font>
 
 ID=19060
-<font color='#47C83E'>Critical Damage +550</font>
+<font color='#47C83E'>+550 Critical Damage</font>
 
 ID=19061
-<font color='#4374D9'>Critical Damage +750</font>
+<font color='#4374D9'>+750 Critical Damage</font>
 
 ID=19062
-<font color='#E0B94F'>Critical Damage +950 / In battle area, Movement Speed +1%</font>
+<font color='#E0B94F'>+950 Critical Damage/In combat area, +1% Movement Speed</font>
 
 ID=19063
-<font color='#F15F5F'>Critical Damage +1,150 / In battle area, Movement Speed +2%</font>
+<font color='#F15F5F'>+1150 Critical Damage/In combat area, +2% Movement Speed</font>
 
 ID=19064
-<font color='#8041D9'>Critical Damage +1,350 / In battle area, Movement Speed +3%</font>
+<font color='#8041D9'>+1350 Critical Damage/In combat area, +3% Movement Speed</font>
 
 ID=19065
-<font color='#47C83E'>Attack Speed +1% / Critical +1%</font>
+<font color='#47C83E'>+1% Attack Speed/+1% Critical</font>
 
 ID=19066
-<font color='#4374D9'> Attack Speed +2% / Critical +1%</font>
+<font color='#4374D9'>+2% Attack Speed/+1% Critical</font>
 
 ID=19067
-<font color='#E0B94F'> Attack Speed +3% / Critical +1%</font>
+<font color='#E0B94F'>+3% Attack Speed/+1% Critical</font>
 
 ID=19068
-<font color='#F15F5F'> Attack Speed +5% / Critical +2%</font>
+<font color='#F15F5F'>+5% Attack Speed/+2% Critical</font>
 
 ID=19069
-<font color='#8041D9'> Attack Speed +8% / Critical +3%</font>
+<font color='#8041D9'>+8% Attack Speed/+3% Critical</font>
 
 ID=19070
-<font color='#47C83E'>Critical Rate +1%</font>
+<font color='#47C83E'>+1% Critical</font>
 
 ID=19071
-<font color='#4374D9'>Critical Rate +2%</font>
+<font color='#4374D9'>+2% Critical</font>
 
 ID=19072
-<font color='#E0B94F'>Critical Rate +3% / Super Armor Break +1%</font>
+<font color='#E0B94F'>+3% Critical/+1% SA Break</font>
 
 ID=19073
-<font color='#F15F5F'>Critical Rate +4% / Super Armor Break +2%</font>
+<font color='#F15F5F'>+4% Critical/+2% SA Break</font>
 
 ID=19074
-<font color='#8041D9'>Critical Rate +5% / Super Armor Break +3% / Critical Damage +350</font>
+<font color='#8041D9'>+5% Critical/+3% SA Break/+350 Critical Damage</font>
 
 ID=19075
-<font color='#47C83E'>Critical Resistance +2%</font>
+<font color='#47C83E'>+2% Critical Resistance</font>
 
 ID=19076
-<font color='#4374D9'>Critical Resistance +4%</font>
+<font color='#4374D9'>+4% Critical Resistance</font>
 
 ID=19077
-<font color='#E0B94F'>Critical Resistance +6%</font>
+<font color='#E0B94F'>+6% Critical Resistance</font>
 
 ID=19078
-<font color='#F15F5F'>Critical Resistance +8% / Critical Rate +1%</font>
+<font color='#F15F5F'>+8% Critical Resistance/+1% Critical</font>
 
 ID=19079
-<font color='#8041D9'>Critical Resistance +10% / Critical Rate +3%</font>
+<font color='#8041D9'>+10% Critical Resistance/+3% Critical</font>
 
 ID=19080
-<font color='#47C83E'>Max HP +2%</font>
+<font color='#47C83E'>+2% Max HP</font>
 
 ID=19081
-<font color='#4374D9'>Max HP +4%</font>
+<font color='#4374D9'>+4% Max HP</font>
 
 ID=19082
-<font color='#E0B94F'>Max HP +6%</font>
+<font color='#E0B94F'>+6% Max HP</font>
 
 ID=19083
-<font color='#F15F5F'>Max HP +8% / Defense +50</font>
+<font color='#F15F5F'>+8% Max HP/+50 Defense</font>
 
 ID=19084
-<font color='#8041D9'>Max HP +10% / Defense +100</font>
+<font color='#8041D9'>+10% Max HP/+100 Defense</font>
 
 ID=19085
-<font color='#47C83E'>Defense +75</font>
+<font color='#47C83E'>+75 Defense</font>
 
 ID=19086
-<font color='#4374D9'>Defense +150</font>
+<font color='#4374D9'>+150 Defense</font>
 
 ID=19087
-<font color='#E0B94F'>Defense +300</font>
+<font color='#E0B94F'>+300 Defense</font>
 
 ID=19088
-<font color='#F15F5F'>Defense +500</font>
+<font color='#F15F5F'>+500 Defense</font>
 
 ID=19089
-<font color='#8041D9'>Defense +750</font>
+<font color='#8041D9'>+750 Defense</font>
 
 ID=19090
-<font color='#47C83E'>Defense +25</font>
+<font color='#47C83E'>+25 Defense</font>
 
 ID=19091
-<font color='#4374D9'> Defense +50</font>
+<font color='#4374D9'>+50 Defense</font>
 
 ID=19092
-<font color='#E0B94F'> Defense +100</font>
+<font color='#E0B94F'>+100 Defense</font>
 
 ID=19093
-<font color='#F15F5F'> Defense +250 / Max HP +3%</font>
+<font color='#F15F5F'>+250 Defense/+3% Max HP</font>
 
 ID=19094
-<font color='#8041D9'> Defense +500 / Max HP +5%</font>
+<font color='#8041D9'>+500 Defense/+5% Max HP</font>
 
 ID=19095
-<font color='#47C83E'>Max HP +500</font>
+<font color='#47C83E'>+500 Max HP</font>
 
 ID=19096
-<font color='#4374D9'>Max HP +1,200</font>
+<font color='#4374D9'>+1200 Max HP</font>
 
 ID=19097
-<font color='#E0B94F'>Max HP +2,500</font>
+<font color='#E0B94F'>+2500 Max HP</font>
 
 ID=19098
-<font color='#F15F5F'>Max HP +5,000</font>
+<font color='#F15F5F'>+5000 Max HP</font>
 
 ID=19099
-<font color='#8041D9'>Max HP +8,000</font>
+<font color='#8041D9'>+8000 Max HP</font>
 
 ID=19402
 Assassin
@@ -21092,7 +21098,7 @@ ID=34017
 Wilting
 
 ID=34018
-Docomposing
+Decaying
 
 ID=34019
 Decomposed
@@ -21419,7 +21425,7 @@ ID=24662
 Lower Garment
 
 ID=24663
-Hand
+Hands
 
 ID=24664
 Shoes
@@ -21473,19 +21479,19 @@ ID=27877
 命中時、2%の確率で敵キャラクター回避度 {0}%
 
 ID=27878
-攻撃を受けた時に2%の確率で敵キャラクターにダメージ {0}% 反射
+When hit, 2% chance of reflecting {0}% of the damage
 
 ID=27879
-攻撃を受けた時に3%の確率で敵キャラクター移動速度 {0}%
+When hit, 3% chance of -{0}% Movement Speed to the attacker
 
 ID=27880
-攻撃を受けた時に3%確率で敵キャラクター攻撃速度 {0}%
+When hit, 3% chance of -{0}% Attack Speed to the attacker
 
 ID=27881
 敵キャラクター防御力 {0}
 
 ID=27882
-攻撃を受けた時に1秒間攻撃速度 {0}%増加
+When hit, +{0}% Attack speed for 1s
 
 ID=27883
 PVP：攻撃力 {0} 増加
@@ -21515,7 +21521,7 @@ ID=27891
 PVP：回避度 {0} 増加
 
 ID=27892
-PVP：攻撃を受けた時に、1秒間攻撃速度 {0}% 増加
+PVP: When hit, +{0}% Attack speed for 1s
 
 ID=27893
 PVP：スタミナ最大値 {0} 増加
@@ -22101,3 +22107,36 @@ ID=10067
 
 ID=10068
 闇の中で唯一光を放つ工場。内部からは苦しみに泣き叫ぶ悲痛な声が聞こえて来る。
+
+ID=10533
+公園入口
+
+ID=10534
+血まみれの庭園
+
+ID=10535
+崩れた散歩路
+
+ID=10536
+捕食者の狩場
+
+ID=10537
+死肉の養殖場
+
+ID=10538
+欲望に駆られる者たち
+
+ID=10539
+捨てられた救いの道
+
+ID=10540
+最高の玩具
+
+ID=20167
+Take a pose.
+
+ID=20168
+{0}takes a pose.
+
+ID=20166
+韓服2
