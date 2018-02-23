@@ -698,7 +698,7 @@ ID=439
 Requirement
 
 ID=440
-Item Crafting
+Craft Item
 
 ID=441
 Fixed Crafting
@@ -1343,7 +1343,7 @@ ID=733
 The top-tier raid, "Golden Citadel", is a dungeon reserved for 4-man parties. Break through this golden calamity.
 
 ID=734
-Challenge one's limit in this extreme battle training simulation, "Steel Grave". You may challenge this 5 times a day.
+Challenge your limits in this extreme battle training simulation, "Steel Grave". You may challenge this up to 5 times a day.
 
 ID=735
 Normal
@@ -2759,13 +2759,13 @@ ID=2585
 Cancel
 
 ID=3001
-[{0}]'s Item
+[{0}]'s items
 
 ID=3002
-Registration
+Registering
 
 ID=3003
-Complete Registration
+Locked In
 
 ID=3004
 Confirm Registration
@@ -2783,10 +2783,10 @@ ID=3008
 After registering your items and Zenny, please click on the “Complete Registration”.
 
 ID=3009
-Please check the contents and click “Complete Trade.”
+Please check the contents and click "Complete Trade".
 
 ID=3010
-Waiting for a response from the other trader.\n(if you do not want to trade, please click on the button “Cancel Trade”)
+Waiting for a response from the other player.\n(if you want to cancel, click the "Cancel Trade" button)
 
 ID=3011
 Trade request sent to {0}. Waiting for the consent of the other party.\n({1} seconds remaining)
@@ -2798,10 +2798,10 @@ ID=3013
 The player is too far away; the trade request has been cancelled.
 
 ID=3014
-The player has logged out. The trade request has been aborted.
+The player has logged out. The trade request has been canceled.
 
 ID=3015
-The trade has been cancelled.\n(You must be in the same town as the other party.)
+The trade has been cancelled.\n(you must be in the same town as the other party.)
 
 ID=3016
 The trade request with {0} was cancelled.
@@ -2816,7 +2816,7 @@ ID=3019
 {0} has denied the trade request.
 
 ID=3020
-The trade request has expired because of no response.
+The trade request has expired because the other party did not respond in time.
 
 ID=3021
 NPC Controls are unavailable while in a trade.
@@ -2825,22 +2825,22 @@ ID=3022
 Equipment changes are unavailable while in a trade.
 
 ID=3023
-Target player already has a trade in progress.\nPlease try again later.
+The target player is already trading with someone.\nPlease try again later.
 
 ID=3024
 Target player has already requested a trade.\nPlease try again later.
 
 ID=3025
-Trade with {0} was successful.
+The trade with {0} was successful.
 
 ID=3026
 Since there was no free inventory space, the trade was cancelled.
 
 ID=3027
-Are you sure you want to stop the trade with {0}?
+Are you sure you want to cancel the trade with {0}?
 
 ID=3028
-Cancelled the trade with {0}.
+The trade with {0} was cancelled.
 
 ID=3029
 {0} has cancelled the trade.
@@ -2858,7 +2858,7 @@ ID=3033
 {0} cannot be traded with because they are currently opening a private shop.
 
 ID=3034
-You cannot trade with this player.
+Unable to trade with this player.
 
 ID=3035
 Change
@@ -3743,7 +3743,7 @@ ID=6025
 Use the A.R Card Box.\nObtained A.R Cards cannot be traded.
 
 ID=6026
-Use the A.R Card to be able to use it's unique power.\nThe used A.R Card will be removed from your inventory and the Exp will be reset.\nIt will be registered in the A.R Card tab of the Skill window <font color='#00FF9C'>[K]</font>.\nWould you like to use it?
+Use the A.R Card to be able to use it's unique power.\nThe used A.R Card will be removed from your inventory and the Exp will be reset.\nIt will be registered in the A.R Card tab of the Skill window <font color='#00FF9C'>[K]</font>.\nAre you sure you want to use it?
 
 ID=6027
 Cannot use item because A.R Card slots are full.
@@ -3842,10 +3842,10 @@ ID=6058
 You cannot use Draw-type A.R Cards in this area.
 
 ID=6059
-The Nebula grade or above is registered.\nWould you like to craft?
+The Nebula grade or above is registered.\nAre you sure you want to craft?
 
 ID=6060
-The Nebula grade or above is registered.\nWould you like to synthesize?
+The Nebula grade or above is registered.\nAre you sure you want to synthesize?
 
 ID=6061
 It cannot be used as a crafting material.
@@ -4589,7 +4589,7 @@ ID=10054
 The Starry Forest League has discovered the evident secret agreement between the NED Company and the Rapid Flame faction.\nThe S.F.L. is considering a plan to neutralize the NED military compound.
 
 ID=10061
-The Starry Forest League is betting on encountering a Soulworker Replica by recapturing the Ruin Fortress, where the high performance AI “Lucy” is being suppressed.
+The Starry Forest League is betting on encountering a Soulworker Replica by recapturing the Ruin Fortress, where the high performance AI Lucy is being suppressed.
 
 ID=10062
 The main power source of Ruin Fortress is called the Buster Core. The buster core must be reactivated in order to restore electric power to Ruin Fortress.
@@ -5642,7 +5642,7 @@ ID=16854
 Are you sure you want to withdraw {1} of {0}?\n(the recovered items will be sent by mail)
 
 ID=16855
-Search options have been changed. Would you like to refresh the page with current searching options?\n(Page will be moved and search options will change if cancelled.)
+Search options have been changed. Are you sure you want to refresh the page with current searching options?\n(Page will be moved and search options will change if cancelled.)
 
 ID=16856
 More than one input is necessary.
@@ -5762,7 +5762,7 @@ ID=18029
 Sealing Stamp
 
 ID=18030
-Would you like to seal{0}?\nSeal Limit: {1}.
+Are you sure you want to seal {0}?\nSeal Limit: {1}.
 
 ID=18031
 Seal Count
@@ -5822,7 +5822,7 @@ ID=18049
 Use Item
 
 ID=18050
-There is still time remaining on "{0}". If {0} is destroyed, it will be returned to the Item Mall and there will be no rewards.\nWould you still like to destroy the item?
+There is still time remaining on "{0}". If {0} is destroyed, it will be returned to the Item Mall and there will be no rewards.\nAre you sure you want to destroy the item?
 
 ID=18051
 Temporary item "{0}" has been refunded. Please check your mail for more details.
@@ -6029,7 +6029,7 @@ ID=18210
 Use Zenny
 
 ID=18211
-Extract {1} brooches out of {0}.
+Extract {1} brooches out of {0} item parts.
 
 ID=18212
 Insufficient {0} for the brooch extraction.
@@ -6842,7 +6842,7 @@ ID=20158
 Take a pose.
 
 ID=20159
-{0}takes a pose
+{0} takes a pose.
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -6860,7 +6860,7 @@ ID=20304
 Time Left: {0}m
 
 ID=20305
-Would you like to stop the usage?
+Are you sure you want to stop the usage?
 
 ID=20306
 Existing furniture will be removed. Are you sure you want to proceed?
@@ -6992,13 +6992,13 @@ ID=21034
 Cannot use the Party search function because you do not have enough fatigue.
 
 ID=21035
-You can only use the basic fatigue in the current state.
+Cannot be used when your basic fatigue is at maximum (200).
 
 ID=21036
 The usage limit has been reached. You can use it again in {0} hours.
 
 ID=21037
-Using this fatigue recovery item will exceed the total amount of your basic fatigue level. Are you sure you want to use it?
+Using this fatigue recovery item will exceed the total amount of your basic fatigue (200). Are you sure you want to use it?
 
 ID=21038
 Character cannot use the item.
@@ -7010,7 +7010,7 @@ ID=21040
 Daily Usage Restriction: [{0}/{1}]
 
 ID=21041
-You cannot use the item when your basic fatigue (200) is at MAX.
+Cannot be used when your basic fatigue is at maximum (200).
 
 ID=21051
 This item cannot be used because your HP is maxed.
@@ -8951,7 +8951,7 @@ ID=24778
 Sub-Weapon
 
 ID=24779
-Headgear
+Head
 
 ID=24780
 Shoulder
@@ -10550,7 +10550,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 9/Feb/2018 1:35 AM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 23/Feb/2018 6:20 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -11642,7 +11642,7 @@ ID=31056
 Unable to find a party within the time limit.
 
 ID=31057
-Would you like to proceed with this party?\nWill automatically continue if no input is given.\n({0} seconds remaining)
+Are you sure you want to proceed with this party?\nWill automatically continue if no input is given.\n({0} seconds remaining)
 
 ID=31058
 Since you have not confirmed the dungeon entry, you have been kicked out of the Party.
@@ -11888,7 +11888,7 @@ ID=31138
 The Party has been formed.
 
 ID=31139
-Would you like to request for retry for the dungeon?\n(Remaining time: {0} seconds)
+Are you sure you want to request to retry the dungeon?\n({0} seconds remaining)
 
 ID=31140
 The leader {0} has requested a dungeon retry.\nWill you accept the request?\n({1} seconds remaining)
@@ -11993,7 +11993,7 @@ ID=31173
 Cannot apply to join a Party from a lawless zone.
 
 ID=31174
-An unexpected error occurred.\nWould you like to rejoin?\n({0} seconds remaining)
+An unexpected error occurred.\nAre you sure you want to rejoin?\n({0} seconds remaining)
 
 ID=31175
 You cannot rejoin if you quit the game on purpose.\nYou can only rejoin if the game has ended due to an unexpected error.
@@ -13400,7 +13400,7 @@ ID=40163
 Phantom's ghost explodes, increasing Phantom's defense for 30 seconds.
 
 ID=40164
-The AI Lucy has activated the personal defense system.
+AI Lucy has activated the personal defense system.
 
 ID=40165
 A powerful magnetic field has been activated due to the personal defense system.
@@ -13421,7 +13421,7 @@ ID=40170
 Use the security device to open the closed door.
 
 ID=40171
-Open the door and defeat all enemies inside.
+To open the door you must defeat all enemies.
 
 ID=40172
 When unlocked using the security device, hidden switch will appear.
@@ -17012,7 +17012,7 @@ ID=46004
 {0}>{1}
 
 ID=46010
-Chapter Record
+Record
 
 ID=46100
 STAGE
@@ -18563,7 +18563,7 @@ ID=52270
 Item dismantling failed.
 
 ID=52271
-The items in the inventory cannot be dismantled.
+You cannot dismantle items from this inventory using inventory dismantling items.
 
 ID=52272
 Corrupted item data.
@@ -20390,7 +20390,7 @@ ID=60265
 The Force was formed.
 
 ID=60266
-Would you like to ask the Force members to restart the dungeon?\n- Remaining: {0} seconds -
+Are you sure you want to ask the Force members to restart the dungeon?\n({0} seconds remaining)
 
 ID=60267
 The force leader, {0}, has requested to restart the dungeon.\nDo you accept?\n- Remaining: {1} seconds -
@@ -20450,7 +20450,7 @@ ID=60285
 All Force members will enter the dungeon when all members agree. \nYou cannot enter if a Force member in another town or is not logged in.
 
 ID=60286
-The Force leader is requesting dungeon entry. Would you like to enter?\nEntry position: [{0}]\nEpisode: [{1}]\nDifficulty: [{2}]\n- Remaining: {3} seconds -
+The Force leader is requesting dungeon entry. Are you sure you want to enter?\nEntry position: [{0}]\nEpisode: [{1}]\nDifficulty: [{2}]\n({3} seconds remaining)
 
 ID=60287
 Force member {0} refused to enter the dungeon.
@@ -20693,7 +20693,7 @@ ID=9999
 アルターオブヴォイド
 
 ID=10000
-パーフォレイテッドストリート
+Perforated Street
 
 ID=10002
 ソウルスピリットの空間
@@ -20702,16 +20702,16 @@ ID=10525
 The First Voice
 
 ID=10526
-嘲笑の広場
+The Square of Mockery
 
 ID=10527
-腐り落ちた闇
+Rotten Darkness
 
 ID=10528
-腐敗した追憶
+Corrupted Reminiscence
 
 ID=10529
-再び立ちはだかる炎
+Rekindling Flames
 
 ID=10530
 Ground of Fresh Blood
@@ -22091,10 +22091,10 @@ ID=18310
 所持しているY.Pを消費して即時復活します。\n<font color='#FF0000'>※ 購入した場合即時復活し、キャンセルはできません。</font>
 
 ID=10003
-マンイーターガーデン
+Man Eater Garden
 
 ID=10004
-デッドミートファクトリー
+Dead Meat Factory
 
 ID=10065
 グラスカバーキャンプ一のすみに現われたポータルはある地下鉄に人間を導いた。その場所の深い所から聞きたくない声が聞こえてくるようだが…
@@ -22109,28 +22109,28 @@ ID=10068
 闇の中で唯一光を放つ工場。内部からは苦しみに泣き叫ぶ悲痛な声が聞こえて来る。
 
 ID=10533
-公園入口
+Park Entrance
 
 ID=10534
-血まみれの庭園
+Bloody Garden
 
 ID=10535
-崩れた散歩路
+Collapsed Walking Path
 
 ID=10536
-捕食者の狩場
+Predator's Hunting Field
 
 ID=10537
-死肉の養殖場
+Dead Meat Farm
 
 ID=10538
-欲望に駆られる者たち
+The Ones Driven by Desire
 
 ID=10539
-捨てられた救いの道
+Path of Abandoned Salvation
 
 ID=10540
-最高の玩具
+The Best Toy
 
 ID=20167
 Take a pose.
@@ -22140,3 +22140,156 @@ ID=20168
 
 ID=20166
 韓服2
+
+ID=20169
+スケーティング
+
+ID=20170
+スケーティングを披露します。
+
+ID=20171
+{0}がスケーティングを披露しています。
+
+ID=19520
+スケーティング
+
+ID=45140
+Close
+
+ID=45141
+元に戻す
+
+ID=45143
+確認する
+
+ID=45144
+着用可能装備のみ表示
+
+ID=45145
+Search
+
+ID=45146
+カート
+
+ID=45147
+合計金額
+
+ID=45148
+Current Balance:
+
+ID=45149
+Charge Y.P
+
+ID=45150
+Purchase Items
+
+ID=45151
+所持しているアバター
+
+ID=45152
+カラー変更
+
+ID=45153
+Head
+
+ID=45154
+Costume
+
+ID=45155
+オプション
+
+ID=45156
+ヘア
+
+ID=45157
+Hat
+
+ID=45158
+メガネ
+
+ID=45159
+マスク
+
+ID=45160
+ヘアバンド
+
+ID=45161
+Upper Garment
+
+ID=45162
+Lower Garment
+
+ID=45163
+Underwear
+
+ID=45164
+Shoes
+
+ID=45165
+手袋
+
+ID=45166
+靴下
+
+ID=45167
+腰
+
+ID=45168
+背中
+
+ID=45169
+Weapon
+
+ID=45170
+Hair Color
+
+ID=45171
+Skin Type
+
+ID=45172
+Eye Color
+
+ID=45173
+{0}個のアイテム
+
+ID=45174
+購入方法を選択してください。
+
+ID=45175
+Delete
+
+ID=45176
+自分で使用する
+
+ID=45177
+プレゼントする
+
+ID=45178
+プレゼントキャラクター名
+
+ID=45179
+※カートにプレゼントできない商品が含まれています。
+
+ID=45180
+プレゼント購入
+
+ID=45182
+Move Camera
+
+ID=45184
+キャラクター回転
+
+ID=45186
+ズームイン/アウト
+
+ID=45187
+[購入取消不可]
+
+ID=45188
+(保有中)
+
+ID=45124
+ 
+
+ID=45125
+ 
