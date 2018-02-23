@@ -1204,35 +1204,35 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_TakeAim
 
 ID=12041
 Focus Shot Ⅰ
-[スキル情報]\nダメージ量：攻撃1回あたり[70%]\nSA破壊量：攻撃1回あたり[40%]\nSG消費量：[3]\nクールタイム：[15秒]\n\n武器をマシンガン形態に変形させ、\nその場で前方に素早く連射する。\nスキルレベルが上がるほど射撃時間が増加する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック長押し)
-ダメージ量：[70%]+3%\nSA破壊量：[40%]+2%
+[Info]\nDamage: [70%] per hit\nSA Break: [40%] per hit\nSG Cost: [3]\nCooldown: [15s]\n\nConvert the guns into a machine gun, firing rapidly at enemies. The fire duration increases as the skill level increases.\n\n[Usage: Additional]\nMouse: hold (LMB)
+Damage: [70%]+3%\nSA Break: [40%]+2%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot
 0
 
 ID=12042
 Focus Shot Ⅱ
-[スキル情報]\nダメージ量：攻撃1回あたり[73%]\nSA破壊量：攻撃1回あたり[42%]\nSG消費量：[3]\nクールタイム：[15秒]\n\n武器をマシンガン形態に変形させ、\nその場で前方に素早く連射する。\nスキルレベルが上がるほど射撃時間が増加する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック長押し)
-ダメージ量：[73%]+9%\nSA破壊量：[42%]+5%
+[Info]\nDamage: [73%] per hit\nSA Break: [42%] per hit\nSG Cost: [3]\nCooldown: [15s]\n\nConvert the guns into a machine gun, firing rapidly at enemies. The fire duration increases as the skill level increases.\n\n[Usage: Additional]\nMouse: hold (LMB)
+Damage: [73%]+9%\nSA Break: [42%]+5%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot
 0
 
 ID=12043
 Focus Shot Ⅲ
-[スキル情報]\nダメージ量：攻撃1回あたり[82%]\nSA破壊量：攻撃1回あたり[47%]\nSG消費量：[3]\nクールタイム：[15秒]\n\n武器をマシンガン形態に変形させ、\nその場で前方に素早く連射する。\nスキルレベルが上がるほど射撃時間が増加する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック長押し)
-ダメージ量：[82%]+8%\nSA破壊量：[47%]+5%
+[Info]\nDamage: [82%] per hit\nSA Break: [47%] per hit\nSG Cost: [3]\nCooldown: [15s]\n\nConvert the guns into a machine gun, firing rapidly at enemies. The fire duration increases as the skill level increases.\n\n[Usage: Additional]\nMouse: hold (LMB)
+Damage: [82%]+8%\nSA Break: [47%]+5%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot
 0
 
 ID=12044
 Focus Shot Ⅳ
-[スキル情報]\nダメージ量：攻撃1回あたり[90%]\nSA破壊量：攻撃1回あたり[52%]\nSG消費量：[3]\nクールタイム：[15秒]\n\n武器をマシンガン形態に変形させ、\nその場で前方に素早く連射する。\nスキルレベルが上がるほど射撃時間が増加する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック長押し)
-ダメージ量：[90%]+15%\nSA破壊量：[52%]+8%
+[Info]\nDamage: [90%] per hit\nSA Break: [52%] per hit\nSG Cost: [3]\nCooldown: [15s]\n\nConvert the guns into a machine gun, firing rapidly at enemies. The fire duration increases as the skill level increases.\n\n[Usage: Additional]\nMouse: hold (LMB)
+Damage: [90%]+15%\nSA Break: [52%]+8%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot
 0
 
 ID=12045
 Focus Shot Ⅴ
-[スキル情報]\nダメージ量：攻撃1回あたり[105%]\nSA破壊量：攻撃1回あたり[60%]\nSG消費量：[3]\nクールタイム：[15秒]\n\n武器をマシンガン形態に変形させ、\nその場で前方に素早く連射する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック長押し)
+[Info]\nDamage: [105%] per hit\nSA Break: [60%] per hit\nSG Cost: [3]\nCooldown: [15s]\n\nConvert the guns into a machine gun, firing rapidly at enemies. The fire duration increases as the skill level increases.\n\n[Usage: Additional]\nMouse: hold (LMB)
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_FocusShot
 0
@@ -4305,35 +4305,35 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_BulletStorm
 
 ID=16131
 Full Burst Ⅰ
-[Info]\nDamage: [681%]\nSA Break: [87%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nチャージ段階によって攻撃範囲が増加する。\nチャージ時、性能が1.8倍に増加し、最大2.5倍増加する。\n\n最大チャージ段階：[3]\nダメージ量：[681%]\nSA破壊量：[87%]\nSG消費量：[40]\nクールタイム：[12秒]\n\n武器を両手で持ち、銃口のレーザービームを光線剣のように振るって\n敵を攻撃する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [681%]+34%\nSA Break: [87%]+4%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FullBurst
 0
 
 ID=16132
 Full Burst Ⅱ
-[Info]\nDamage: [715%]\nSA Break: [91%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nチャージ段階によって攻撃範囲が増加する。\nチャージ時、性能が1.8倍に増加し、最大2.5倍増加する。\n\n最大チャージ段階：[3]\nダメージ量：[715%]\nSA破壊量：[91%]\nSG消費量：[40]\nクールタイム：[12秒]\n\n武器を両手で持ち、銃口のレーザービームを光線剣のように振るって\n敵を攻撃する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [715%]+85%\nSA Break: [91%]+11%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FullBurst
 0
 
 ID=16133
 Full Burst Ⅲ
-[Info]\nDamage: [800%]\nSA Break: [102%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nチャージ段階によって攻撃範囲が増加する。\nチャージ時、性能が1.8倍に増加し、最大2.5倍増加する。\n\n最大チャージ段階：[3]\nダメージ量：[800%]\nSA破壊量：[102%]\nSG消費量：[40]\nクールタイム：[12秒]\n\n武器を両手で持ち、銃口のレーザービームを光線剣のように振るって\n敵を攻撃する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [800%]+85%\nSA Break: [102%]+11%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FullBurst
 0
 
 ID=16134
 Full Burst Ⅳ
-[Info]\nDamage: [885%]\nSA Break: [113%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nチャージ段階によって攻撃範囲が増加する。\nチャージ時、性能が1.8倍に増加し、最大2.5倍増加する。\n\n最大チャージ段階：[3]\nダメージ量：[885%]\nSA破壊量：[113%]\nSG消費量：[40]\nクールタイム：[12秒]\n\n武器を両手で持ち、銃口のレーザービームを光線剣のように振るって\n敵を攻撃する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 Damage: [885%]+137%\nSA Break: [113%]+17%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FullBurst
 0
 
 ID=16135
 Full Burst Ⅴ
-[Info]\nDamage: [1022%]\nSA Break: [130%]\nCharging increases attack range.\nMaximum charges: [3]\nSG Cost: [40]\nCooldown: [12s]\n\nHold the weapon with both hands and swing it like a laser beam sword to attack the enemies.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nチャージ段階によって攻撃範囲が増加する。\nチャージ時、性能が1.8倍に増加し、最大2.5倍増加する。\n\n最大チャージ段階：[3]\nダメージ量：[1022%]\nSA破壊量：[130%]\nSG消費量：[40]\nクールタイム：[12秒]\n\n武器を両手で持ち、銃口のレーザービームを光線剣のように振るって\n敵を攻撃する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_FullBurst
 0
@@ -6433,14 +6433,14 @@ Right hand appears and slams downward on enemies.\nEffect: Paralysis (60s cooldo
 
 ID=30401
 God Hand Ⅱ
-Both hand appear and slams downward on enemies.\nEffect: Paralysis (60s cooldown)
+Both hands appear and slams downward on enemies.\nEffect: Paralysis (60s cooldown)
 .
 0
 0
 
 ID=30402
 God Hand Ⅲ
-Both hand appear and slams downward on enemies in a large radius.\nEffect: Paralysis (60s cooldown)
+Both hands appear and slams downward on enemies in a large radius.\nEffect: Paralysis (60s cooldown)
 .
 0
 0
