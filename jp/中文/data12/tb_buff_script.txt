@@ -3522,7 +3522,7 @@ SG回復
 
 ID=50121
 原偶像的实力Lv1
-Alisa跳舞時、周圍的隊友HP回復
+辛西婭跳舞的时候，回复周围的队友的 HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
@@ -3570,7 +3570,7 @@ Icon/Buff/Icon_Common_Buff_Accuracy
 
 ID=50211
 復仇鬼Lv1
-暴擊命中時、5%的機率中2秒內，所有攻擊化為暴擊狀態。
+命中暴擊時、5% 的機率中 2 秒內，所有攻擊化為暴擊狀態。
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
@@ -6405,3 +6405,33 @@ ID=5614
 攻撃力、防御力貫通率増加。
 Icon/Buff/Icon_Common_Buff_Penetration
 攻撃力、防御力貫通率増加
+
+ID=9000
+凍結
+5秒間、動けなくなる。
+Icon/Buff/Icon_Common_Debuff_Freezing
+凍結
+
+ID=9001
+睡眠
+10秒間、睡眠状態になる。10秒間経過するか、睡眠中にダメージを受けるとHP30%を回復する。
+Icon/Buff/Icon_Common_Debuff_Sleep
+睡眠
+
+ID=9002
+HP減少
+5秒間、1秒毎にHPが2%ずつ減少する。(最大5重複)
+Icon/Buff/Icon_Common_Buff_Akashic
+HP減少
+
+ID=9003
+吸血
+5秒間、攻撃が的中するとHPを5%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
+吸血
+
+ID=9004
+火傷
+HP3%降低
+Icon/Buff/Icon_Common_Debuff_Burn
+火傷
