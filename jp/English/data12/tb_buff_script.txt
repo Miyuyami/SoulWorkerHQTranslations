@@ -6401,7 +6401,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Increased Attack and Critical
 
 ID=5614
-勝ち取る幸運
-攻撃力、防御力貫通率が増加します。
+To Gain Luck
+Attack and Defense Penetration Increased.
 Icon/Buff/Icon_Common_Buff_Penetration
-攻撃力、防御力貫通率増加
+Increases Attack and Defense Penetration
+
+ID=9000
+Slow
+5秒間、動けなくなる。
+Icon/Buff/Icon_Common_Debuff_Freezing
+Slow
+
+ID=9001
+Sleep
+10秒間、睡眠状態になる。10秒間経過するか、睡眠中にダメージを受けるとHP30%を回復する。
+Icon/Buff/Icon_Common_Debuff_Sleep
+Sleep
+
+ID=9002
+HP↓
+5秒間、1秒毎にHPが2%ずつ減少する。(最大5重複)
+Icon/Buff/Icon_Common_Buff_Akashic
+HP↓
+
+ID=9003
+Vampire
+5秒間、攻撃が的中するとHPを5%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Vampire
+
+ID=9004
+Burn
+HP is reduced by 3%.
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
