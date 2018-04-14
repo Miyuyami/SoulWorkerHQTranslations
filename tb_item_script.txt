@@ -20776,7 +20776,7 @@ Icon/Item/Consumption/Cure/CON_0_StarryForestRescueBoxEX
 0
 0
 ナノケアキットEX
-ナノマシンで身体を回復させる救助キット。\nナノサイズの治療マシンが傷を修復・再生する。\nまた、ソウルエナジーがマシンに内蔵されており、\n消耗分を補充する。\n\n[HP、SG回復アイテム]\nHPをSGを100%即時に回復。クールタイム30秒。
+ナノマシンで身体を回復させる救助キット。\nナノサイズの治療マシンが傷を修復・再生する。\nまた、ソウルエナジーがマシンに内蔵されており、\n消耗分を補充する。\n\n[HP、SG回復アイテム]\nHPとSGを100%即時に回復。クールタイム30秒。
 
 ID=838000012
 Icon/Item/Consumption/Buff/Con_0_BeastPerfume
@@ -123327,3 +123327,313 @@ Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F
 0
 鬼祷師の装束アバターセット
 <font color='#FFBA85'>[アバターパッケージ]<font color='#9D927B'>\n\n[鬼祷師の装束] アバターが入っているパッケージ。イリス専用。\n\n-構成品-\n鬼祷師の装束[頭飾り]\n鬼祷師の装束[衣装]\n鬼祷師の装束[仮面]\n鬼祷師の装束[手袋]\n鬼祷師の装束[ソックス]\n鬼祷師の装束[靴]
+
+ID=991000250
+Icon/Item/Etc/ETC_0_TitleItem
+0
+0
+0
+0
+0
+[称号]異次元の
+<font color='#FFD700'>[称号獲得アイテム]接頭<font color='#9D927B'>\n異次元でニアソウルワーカーを倒した者に与えられる称号\n\n\n-獲得称号-\n異次元の\n\n-着用効果-\nなし
+
+ID=991000251
+Icon/Item/Etc/ETC_0_TitleItem
+0
+0
+0
+0
+0
+[称号]超越者
+<font color='#FFD700'>[称号獲得アイテム]接尾<font color='#9D927B'>\n異次元でニアソウルワーカーを倒した者に与えられる称号\n\n\n-獲得称号-\n超越者\n\n-着用効果-\nなし
+
+ID=991000252
+Icon/Item/Etc/ETC_0_TitleItem
+0
+0
+0
+0
+0
+[称号]2歳
+<font color='#FFD700'>[称号獲得アイテム]接尾<font color='#9D927B'>\nサービス2周年を記念した称号\n\n\n-獲得称号-\n2歳\n\n-着用効果-\nなし
+
+ID=991000247
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+2周年感謝パッケージ
+ <font color='#FFBA85'>[2周年記念パッケージ]<font color='#9D927B'>\n\n2周年記念7日ミッションを全てクリアした証のパッケージ。\n\n-構成品-\nクロエのぬいぐるみボックス X 1\n2周年記念ポスター X 1\nソウルワーカー花火 X 10\nQ.B.D[強化保護] X 2\nA.Rカードキューブ X 10\nSコイン X 1000
+
+ID=991000253
+Icon/Item/Function/Package/RandomBox_SoulStone_Hidden
+0
+0
+0
+0
+0
+[期間限定]2周年SDブローチランダムボックス
+<font color='#FFBA85'>[ブローチランダムボックス]<font color='#9D927B'>\n\n個別の出現確率に基づき出現アイテムから1つ獲得可能。\n  \n  -出現アイテム-\n[特製]攻撃型SDブローチキューブ(テラブローチ確定)\n[特製]防御型SDブローチキューブ(テラブローチ確定)\n[特製]機能型SDブローチキューブ(テラブローチ確定)\n攻撃型SDブローチキューブ6個セット\n防御型SDブローチキューブ6個セット\n機能型SDブローチキューブ6個セット
+
+ID=991000254
+Icon/Item/Function/Package/RandomBox_SoulStone_Hidden
+0
+0
+0
+0
+0
+[期間限定]2周年BSKブローチランダムボックス
+<font color='#FFBA85'>[ブローチランダムボックス]<font color='#9D927B'>\n\n個別の出現確率に基づき出現アイテムから1つ獲得可能。\n  \n  -出現アイテム-\n[特製]攻撃型BSKブローチキューブ(テラブローチ確定)\n[特製]防御型BSKブローチキューブ(テラブローチ確定)\n[特製]機能型BSKブローチキューブ(テラブローチ確定)\n攻撃型BSKブローチキューブ6個セット\n防御型BSKブローチキューブ6個セット\n機能型BSKブローチキューブ6個セット
+
+ID=991000255
+Icon/Item/Event/Event_Firework_SW
+0
+0
+0
+0
+0
+ソウルワーカー花火
+<font color='#FFBA85'>[ソーシャルアイテム] 使用するとキャラクター周辺に花火が発射されます。使い捨てのアイテム。<font color='#9D927B'>\n\nお祝いにぴったりな花火。みんなで盛り上がろう！
+
+ID=991000256
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+[期間限定]2周年ルーキーパッケージ
+<font color='#FFBA85'>[期間限定]2周年ルーキーパッケージ<font color='#9D927B'>\n2周年の期間限定で販売するルーキーパッケージ。\n\n-構成品-\nA.Rカードキューブx15\nインベントリ拡張券x3\n銀行倉庫拡張券x2\n戦闘教本[1H]x5\n血光のクォーツx35\nソウルワーカー花火x10
+
+ID=991000257
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+[期間限定]2周年強化パッケージ
+<font color='#FFBA85'>[期間限定]2周年強化パッケージ<font color='#9D927B'>\n2周年の期間限定で販売する強化パッケージ。\n\n-構成品-\nQ.B.D[強化保護]x15\nアンチリミッターx3\nリバイブセルx1\nウェポンエクステンションx20\nギアエクステンションx20\nソウルワーカー花火x10
+
+ID=991000144
+Icon/Item/Costume/PC_A/PC_A_EQ_CupCake2_HairAcc01_01
+0
+0
+0
+0
+0
+2周年記念ケーキ
+<font color='#FFBA85'>[外見]<font color='#9D927B'>\n\n2周年をお祝いするのにぴったりのカチューシャ。ハル専用。\n※食べられません
+
+ID=991000145
+Icon/Item/Costume/PC_B/PC_B_EQ_CupCake2_HairAcc01_01
+0
+0
+0
+0
+0
+2周年記念ケーキ
+<font color='#FFBA85'>[外見]<font color='#9D927B'>\n\n2周年をお祝いするのにぴったりのカチューシャ。アーウィン専用。\n※食べられません
+
+ID=991000146
+Icon/Item/Costume/PC_C/PC_C_EQ_CupCake2_HairAcc01_01
+0
+0
+0
+0
+0
+2周年記念ケーキ
+<font color='#FFBA85'>[外見]<font color='#9D927B'>\n\n2周年をお祝いするのにぴったりのカチューシャ。リリー専用。\n※食べられません
+
+ID=991000147
+Icon/Item/Costume/PC_D/PC_D_EQ_CupCake2_HairAcc01_01
+0
+0
+0
+0
+0
+2周年記念ケーキ
+<font color='#FFBA85'>[外見]<font color='#9D927B'>\n\n2周年をお祝いするのにぴったりのカチューシャ。ジン専用。\n※食べられません
+
+ID=991000148
+Icon/Item/Costume/PC_E/PC_E_EQ_CupCake2_HairAcc01_01
+0
+0
+0
+0
+0
+2周年記念ケーキ
+<font color='#FFBA85'>[外見]<font color='#9D927B'>\n\n2周年をお祝いするのにぴったりのカチューシャ。ステラ専用。\n※食べられません
+
+ID=991000149
+Icon/Item/Costume/PC_F/PC_F_EQ_CupCake2_HairAcc01_01
+0
+0
+0
+0
+0
+2周年記念ケーキ
+<font color='#FFBA85'>[外見]<font color='#9D927B'>\n\n2周年をお祝いするのにぴったりのカチューシャ。イリス専用。\n※食べられません
+
+ID=991000150
+Icon/Item/Function/Package/ETC_0_CostumePackage
+0
+0
+0
+0
+0
+2周年記念ケーキボックス
+<font color='#FFBA85'>[アバターパッケージ]<font color='#9D927B'>\n\n2周年記念ケーキが入っている。\n各キャラクターにあった頭アバターを入手できる。
+
+ID=991000151
+Icon/Item/Costume/PC_A/PC_A_EQ_ChloeHead_HairAcc01_01
+0
+0
+0
+0
+0
+クロエのぬいぐるみ
+<font color='#FFBA85'>[外見]<font color='#9D927B'>\n\nクロエといつも一緒にいる気分になれるカチューシャ。ハル専用。\n「オペレーターのクロエです！」
+
+ID=991000152
+Icon/Item/Costume/PC_B/PC_B_EQ_ChloeHead_HairAcc01_01
+0
+0
+0
+0
+0
+クロエのぬいぐるみ
+<font color='#FFBA85'>[外見]<font color='#9D927B'>\n\nクロエといつも一緒にいる気分になれるカチューシャ。アーウィン専用。\n「オペレーターのクロエです！」
+
+ID=991000153
+Icon/Item/Costume/PC_C/PC_C_EQ_ChloeHead_HairAcc01_01
+0
+0
+0
+0
+0
+クロエのぬいぐるみ
+<font color='#FFBA85'>[外見]<font color='#9D927B'>\n\nクロエといつも一緒にいる気分になれるカチューシャ。リリー専用。\n「オペレーターのクロエです！」
+
+ID=991000154
+Icon/Item/Costume/PC_D/PC_D_EQ_ChloeHead_HairAcc01_01
+0
+0
+0
+0
+0
+クロエのぬいぐるみ
+<font color='#FFBA85'>[外見]<font color='#9D927B'>\n\nクロエといつも一緒にいる気分になれるカチューシャ。ジン専用。\n「オペレーターのクロエです！」
+
+ID=991000155
+Icon/Item/Costume/PC_E/PC_E_EQ_ChloeHead_HairAcc01_01
+0
+0
+0
+0
+0
+クロエのぬいぐるみ
+<font color='#FFBA85'>[外見]<font color='#9D927B'>\n\nクロエといつも一緒にいる気分になれるカチューシャ。ステラ専用。\n「オペレーターのクロエです！」
+
+ID=991000156
+Icon/Item/Costume/PC_F/PC_F_EQ_ChloeHead_HairAcc01_01
+0
+0
+0
+0
+0
+クロエのぬいぐるみ
+<font color='#FFBA85'>[外見]<font color='#9D927B'>\n\nクロエといつも一緒にいる気分になれるカチューシャ。イリス専用。\n「オペレーターのクロエです！」
+
+ID=991000157
+Icon/Item/Function/Package/ETC_0_CostumePackage
+0
+0
+0
+0
+0
+クロエのぬいぐるみボックス
+<font color='#FFBA85'>[アバターパッケージ]<font color='#9D927B'>\n\nクロエのぬいぐるみが入っている。\n各キャラクターにあった頭アバターを入手できる。
+
+ID=991000158
+Icon/Item/Furniture/MOBJ_32303_EV_Wallhanging
+0
+0
+0
+0
+0
+2周年記念ポスター
+<font color='#FFBA85'>[家具]<font color='#9D927B'>\n\nソウルワーカーの2周年を記念したポスター。\nマイルームに飾って2周年を一緒にお祝いしよう！
+
+ID=991000179
+Icon/Item/Etc/ETC_1_UnidentifiedScroll
+0
+0
+0
+0
+0
+[遂行証]次元の挑戦チケット
+異次元にあるスカイクロックパレスでニアソウルワーカーとの戦闘に挑めるチケット。\n\n[スカイクロックパレス入場券] \nニアソウルワーカー総力戦
+
+ID=991000183
+Icon/Item/Function/Package/SGBox
+0
+0
+0
+0
+0
+[D.Sボックス]スカイクロックパレス
+スカイクロックパレスのD.Sポイントを一定量以上達成すると獲得できるボックス。有用なアイテムが入っている。\n\n[アイテムボックス]
+
+ID=991000184
+Icon/Item/Function/Package/RandomBox
+0
+0
+0
+0
+0
+[設計図ランダムボックス]ラバンのサングラス
+<font color='#FFBA85'>[設計図ランダムボックス]<font color='#9D927B'>\n\n「ラバンのサングラス」の設計図が入っているボックス。\n急いで包装したせいで誰の設計図が入っているかはわからない。
+
+ID=991000185
+Icon/Item/Function/Package/RandomBox
+0
+0
+0
+0
+0
+[設計図ランダムボックス]ドリームベアバッグ
+<font color='#FFBA85'>[設計図ランダムボックス]<font color='#9D927B'>\n\n「ドリームベアバッグ」の設計図が入っているボックス。\n急いで包装したせいで誰の設計図が入っているかはわからない。
+
+ID=991000186
+Icon/Item/Function/Package/RandomBox
+0
+0
+0
+0
+0
+[設計図ランダムボックス]ドリームハット
+<font color='#FFBA85'>[設計図ランダムボックス]<font color='#9D927B'>\n\n「ドリームハット」の設計図が入っているボックス。\n急いで包装したせいで誰の設計図が入っているかはわからない。
+
+ID=991000187
+Icon/Item/Function/Package/RandomBox
+0
+0
+0
+0
+0
+[設計図ランダムボックス]ラピッドフレイムの角
+<font color='#FFBA85'>[設計図ランダムボックス]<font color='#9D927B'>\n\n「ラピッドフレイムの角」の設計図が入っているボックス。\n急いで包装したせいで誰の設計図が入っているかはわからない。
+
+ID=991000188
+Icon/Item/Function/Package/RandomBox
+0
+0
+0
+0
+0
+グルトンキューブランダムボックス
+<font color='#FFBA85'>[ランダムボックス]<font color='#9D927B'>\n\n様々な色のグルトンキューブのうち、一つを獲得する事が出来る。
