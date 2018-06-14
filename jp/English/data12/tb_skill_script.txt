@@ -63,7 +63,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 
 ID=121
 Special Ability Mastery Ⅱ
-[スキル情報：地上]\nダメージ：[184％]\nスーパーアーマー破壊量：[147％]\n\n[スキル情報：公衆]\nダメージ：[241％]\nスーパーアーマー破壊量：[178％]\n\n[スキル情報：一般]\n再使用待機時間：[10秒]\n攻撃時SG獲得量が[20％]増加します。\nSG獲得量はモンスターの評価に基づいて大幅に増加します。\n\nこの能力を利用して、一定の範囲内の敵を空中に\n浮かべゆっくり作成します。空中での使用時に急速にキック攻撃をして着地します。\n\n[遊び方：地上]\nマウス：（右クリック）\n\n[遊び方：公衆]\nマウス：ジャンプの後（右クリック）」
+[Skill Info: Ground]\nDamage: [184%]\nSA Break: [147%]\n\n[Skill Info: Mid-air]\nDamage: [241%]\nSA Break: [178%]\n\n[Skill Info: General]\nCooldown: [10s]\nSG Gain when attacking increases by [20%].\nSG Gain increases depending on the monster type.\n\nLaunch enemies within a certain range in mid-air and slows down their movement.\nWhile in mid-air, do a quick kick attack to land.\n\n[How to Use: Ground]\nMouse: (RMB)\n\n[How to Use: Mid-air]\nMouse: After jumping (RMB)
 [Ground]\nDamage: [184%]+22%\nSA Break: [147%}+18%\n\n[Air]\nDamage: [241%]+29%\nSA Break: [178%]+22%\nLaunch enemies higher into the air.\n\n[Common]\nSG Gain: [20%]+50%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_OwnAbility
 0
@@ -77,7 +77,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 
 ID=131
 Special Ability Mastery Ⅲ
-[スキル情報：地上]\nダメージ量：[206％]\nSA破壊量：[165％]\n\n[スキル情報：空中]\nダメージ量：[270％]\nSA破壊量：[200％]\n\n[スキル情報：一般]\nクールタイム：[10秒]\n攻撃時、SGを獲得。\nSG獲得量はモンスター等級に応じて増加する。\n\n異能力により一定範囲内の敵を宙に浮かせ、動きを遅くする。\n空中で使用時、素早く蹴り攻撃を繰り出して着地する。\n\n[操作方法：地上]\nマウス：(右クリック)\n\n[操作方法：空中]\nマウス：ジャンプ後(右クリック)
+[Skill Info: Ground]\nDamage: [206%]\nSA Break: [165%]\n\n[Skill Info: Mid-air]\nDamage: [270%]\nSA Break: [200%]\n\n[Skill Info: General]\nCooldown: [10s]\nSG Gain when attacking.\nSG Gain increases depending on the monster type.\n\nLaunch enemies within a certain range in mid-air and slows down their movement.\nWhile in mid-air, do a quick kick attack to land.\n\n[How to Use: Ground]\nMouse: (RMB)\n\n[How to Use: Mid-air]\nMouse: After jumping (RMB)
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_OwnAbility
 0
@@ -1806,35 +1806,35 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 
 ID=13011
 Evil Slash Ⅰ
-[Info]\nDamage: [182%]\nSA Break: [196%]\nSG Cost: [30]\nCooldown: [10s]\n\nQuickly rotate the scythe, pushes out the enemy at the end of the blow.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [182%]+9%\nSA Break: [196%]+10%
+[スキル情報]\nダメージ量：[270%]\nSA破壊量：[196%]\nSG消費量：[30]\nクールタイム：[10秒]\n\n鎌を素早く回転させ、最後の一撃で敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+ダメージ量：[270%]+27%\nSA破壊量：[196%]+10%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ID=13012
 Evil Slash Ⅱ
-[Info]\nDamage: [191%]\nSA Break: [206%]\nSG Cost: [30]\nCooldown: [10s]\n\nQuickly rotate the scythe, pushes out the enemy at the end of the blow.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [191%]+23%\nSA Break: [206%]+24%
+[スキル情報]\nダメージ量：[297%]\nSA破壊量：[206%]\nSG消費量：[30]\nクールタイム：[10秒]\n\n鎌を素早く回転させ、最後の一撃で敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+ダメージ量：[297%]+36%\nSA破壊量：[206%]+24%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ID=13013
 Evil Slash Ⅲ
-[Info]\nDamage: [214%]\nSA Break: [230%]\nSG Cost: [30]\nCooldown: [10s]\n\nQuickly rotate the scythe, pushes out the enemy at the end of the blow.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [214%]+23%\nSA Break: [230%]+25%
+[スキル情報]\nダメージ量：[333%]\nSA破壊量：[230%]\nSG消費量：[30]\nクールタイム：[10秒]\n\n鎌を素早く回転させ、最後の一撃で敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+ダメージ量：[333%]+47%\nSA破壊量：[230%]+25%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ID=13014
 Evil Slash Ⅳ
-[Info]\nDamage: [237%]\nSA Break: [255%]\nSG Cost: [30]\nCooldown: [10s]\n\nQuickly rotate the scythe, pushes out the enemy at the end of the blow.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [237%]+36%\nSA Break: [255%]+39%
+[スキル情報]\nダメージ量：[380%]\nSA破壊量：[255%]\nSG消費量：[30]\nクールタイム：[10秒]\n\n鎌を素早く回転させ、最後の一撃で敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+ダメージ量：[380%]+68%\nSA破壊量：[255%]+39%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
 
 ID=13015
 Evil Slash Ⅴ
-[Info]\nDamage: [273%]\nSA Break: [294%]\nSG Cost: [30]\nCooldown: [10s]\n\nQuickly rotate the scythe, pushes out the enemy at the end of the blow.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：[448%]\nSA破壊量：[294%]\nSG消費量：[30]\nクールタイム：[10秒]\n\n鎌を素早く回転させ、最後の一撃で敵を押し出す。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
@@ -1912,34 +1912,34 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ScytheCutter
 ID=13041
 Grim Countdown Ⅰ
 [Info]\nDamage: [358%]\nSA Break: [201%]\nSG Cost: [35]\nCooldown: [15s]\n\nAfter doing a rotation slash, cut the front enemies alongside the summoned Grim Reaper.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [358%]+18%\nSA Break: [201%]+10%
+ダメージ量：[358%]+36%\nSA破壊量：[201%]+21%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown
 0
 
 ID=13042
 Grim Countdown Ⅱ
-[Info]\nDamage: [376%]\nSA Break: [211%]\nSG Cost: [35]\nCooldown: [15s]\n\nAfter doing a rotation slash, cut the front enemies alongside the summoned Grim Reaper.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [376%]+45%\nSA Break: [211%]+26%
+[スキル情報]\nダメージ量：[394%]\nSA破壊量：[222%]\nSG消費量：[35]\nクールタイム：[15秒]\n\n回転しながら敵を押し出した後、召喚した死神と共に前方の敵を切り裂く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+ダメージ量：[394%]+48%\nSA破壊量：[222%]+26%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown
 0
 
 ID=13043
 Grim Countdown Ⅲ
-[Info]\nDamage: [421%]\nSA Break: [237%]\nSG Cost: [35]\nCooldown: [15s]\n\nAfter doing a rotation slash, cut the front enemies alongside the summoned Grim Reaper.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [421%]+44%\nSA Break: [237%]+25%
+[スキル情報]\nダメージ量：[442%]\nSA破壊量：[248%]\nSG消費量：[35]\nクールタイム：[15秒]\n\n回転しながら敵を押し出した後、召喚した死神と共に前方の敵を切り裂く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+ダメージ量：[442%]+61%\nSA破壊量：[248%]+35%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown
 0
 
 ID=13044
 Grim Countdown Ⅳ
-[Info]\nDamage: [465%]\nSA Break: [262%]\nSG Cost: [35]\nCooldown: [15s]\n\nAfter doing a rotation slash, cut the front enemies alongside the summoned Grim Reaper.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [465%]+72%\nSA Break: [262%]+40%
+[スキル情報]\nダメージ量：[503%]\nSA破壊量：[283%]\nSG消費量：[35]\nクールタイム：[15秒]\n\n回転しながら敵を押し出した後、召喚した死神と共に前方の敵を切り裂く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+ダメージ量：[503%]+91%\nSA破壊量：[283%]+51%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown
 0
 
 ID=13045
 Grim Countdown Ⅴ
-[Info]\nDamage: [537%]\nSA Break: [302%]\nSG Cost: [35]\nCooldown: [15s]\n\nAfter doing a rotation slash, cut the front enemies alongside the summoned Grim Reaper.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：[594%]\nSA破壊量：[334%]\nSG消費量：[35]\nクールタイム：[15秒]\n\n回転しながら敵を押し出した後、召喚した死神と共に前方の敵を切り裂く。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown
 0
@@ -2016,70 +2016,70 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder
 
 ID=13081
 Grim Reaper Ⅰ
-[Info]\nDamage: [365%]\nSA Break: [602%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically placed onto your quickslots)
-Damage: [365%]+19%\nSA Break: [602%]+30%
+[Info]\nDamage: [475%]\nSA Break: [783%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically placed onto your quickslots)
+ダメージ量：[475%]+24%\nSA破壊量：[783%]+39%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13082
 Grim Reaper Ⅱ
-[Info]\nDamage: [384%]\nSA Break: [632%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically placed onto your quickslots)
-Damage: [384%]+45%\nSA Break: [632%]+76%
+[スキル情報]\nダメージ量：[499%]\nSA破壊量：[822%]\nSG消費量：[30]\nクールタイム：[28秒]\n\n空中でのみ使用可能。前方に死神を召喚し、敵を宙に浮かせる。すでに空中にいる敵にも同一ダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+ダメージ量：[499%]+59%\nSA破壊量：[822%]+99%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13083
 Grim Reaper Ⅲ
-[Info]\nDamage: [429%]\nSA Break: [708%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically placed onto your quickslots)
-Damage: [429%]+46%\nSA Break: [708%]+75%
+[スキル情報]\nダメージ量：[558%]\nSA破壊量：[921%]\nSG消費量：[30]\nクールタイム：[28秒]\n\n空中でのみ使用可能。前方に死神を召喚し、敵を宙に浮かせる。すでに空中にいる敵にも同一ダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+ダメージ量：[558%]+60%\nSA破壊量：[921%]+97%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13084
 Grim Reaper Ⅳ
-[Info]\nDamage: [475%]\nSA Break: [783%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically placed onto your quickslots)
-Damage: [475%]+73%\nSA Break: [783%]+120%
+[スキル情報]\nダメージ量：[618%]\nSA破壊量：[1018%]\nSG消費量：[30]\nクールタイム：[28秒]\n\n空中でのみ使用可能。前方に死神を召喚し、敵を宙に浮かせる。すでに空中にいる敵にも同一ダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+ダメージ量：[618%]+94%\nSA破壊量：[1018%]+156%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13085
 Grim Reaper Ⅴ
-[Info]\nDamage: [548%]\nSA Break: [903%]\nSG Cost: [30]\nCooldown: [28s]\n\nOnly available in the air. Summons the Grim Reaper, launching the enemies in the air. It will attack the enemies in the air.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[スキル情報]\nダメージ量：[712%]\nSA破壊量：[1174%]\nSG消費量：[30]\nクールタイム：[28秒]\n\n空中でのみ使用可能。前方に死神を召喚し、敵を宙に浮かせる。すでに空中にいる敵にも同一ダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimReaper
 0
 
 ID=13091
 Force Region Ⅰ
-[Info]\nBuff Effect: Critical +[5%]\nBuff Duration: [20s]\nSG Cost: [85]\nCooldown [45s]\n\nThe summoned Grim Reaper's roar will grant a buff that increases critical chance to the party members in range, including self.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Buff Effect: Critical [5%]+1%
+[スキル情報]\nバフ効果：クリティカル率[5%]増加\nバフ持続時間：[20秒]\nSG消費量：[80]\nクールタイム：[45秒]\n\n召喚された死神が咆哮と共に、範囲内の自分を含むパーティーメンバーにクリティカル率を上昇させるバフを付与する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+クリティカル率増加：[5%]+2%\nSG消耗量減少：[80]-5
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 ID=13092
 Force Region Ⅱ
-[Info]\nBuff Effect: Critical +[6%]\nBuff Duration: [20s]\nSG Cost: [85]\nCooldown [45s]\n\nThe summoned Grim Reaper's roar will grant a buff that increases critical chance to the party members in range, including self.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Buff Effect: Critical [6%]+2%
+[スキル情報]\nバフ効果：クリティカル率[7%]増加\nバフ持続時間：[20秒]\nSG消費量：[75]\nクールタイム：[45秒]\n\n召喚された死神が咆哮と共に、範囲内の自分を含むパーティーメンバーにクリティカル率を上昇させるバフを付与する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+クリティカル率増加：[7%]+2%\nSG消耗量減少：[75]-10
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 ID=13093
 Force Region Ⅲ
-[Info]\nBuff Effect: Critical +[8%]\nBuff Duration: [20s]\nSG Cost: [85]\nCooldown [45s]\n\nThe summoned Grim Reaper's roar will grant a buff that increases critical chance to the party members in range, including self.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Buff Effect: Critical [8%]+2%
+[スキル情報]\nバフ効果：クリティカル率[9%]増加\nバフ持続時間：[20秒]\nSG消費量：[65]\nクールタイム：[45秒]\n\n召喚された死神が咆哮と共に、範囲内の自分を含むパーティーメンバーにクリティカル率を上昇させるバフを付与する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+クリティカル率増加：[9%]+3%\nSG消耗量減少：[65]-10
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 ID=13094
 Force Region Ⅳ
-[Info]\nBuff Effect: Critical +[10%]\nBuff Duration: [20s]\nSG Cost: [85]\nCooldown [45s]\n\nThe summoned Grim Reaper's roar will grant a buff that increases critical chance to the party members in range, including self.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Buff Effect: Critical [10%]+5%
+[スキル情報]\nバフ効果：クリティカル率[12%]増加\nバフ持続時間：[20秒]\nSG消費量：[55]\nクールタイム：[45秒]\n\n召喚された死神が咆哮と共に、範囲内の自分を含むパーティーメンバーにクリティカル率を上昇させるバフを付与する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+クリティカル率増加：[12%]+3%\nSG消耗量減少：[55]-10
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
 
 ID=13095
 Force Region Ⅴ
-[Info]\nBuff Effect: Critical +[15%]\nBuff Duration: [20s]\nSG Cost: [85]\nCooldown [45s]\n\nThe summoned Grim Reaper's roar will grant a buff that increases critical chance to the party members in range, including self.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nバフ効果：クリティカル率[15%]増加\nバフ持続時間：[20秒]\nSG消費量：[45]\nクールタイム：[45秒]\n\n召喚された死神が咆哮と共に、範囲内の自分を含むパーティーメンバーにクリティカル率を上昇させるバフを付与する。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 0
@@ -3472,35 +3472,35 @@ Icon/Skill/Howling/Icon_Howling_Skill_DecadePulse
 
 ID=15081
 Soul Scream Ⅰ
-[Common]\nDamage: [100%]\nBuff Effect: [Invincibility]\nBuff Duration: [1s]\nSA Break: [250%]\nSG Cost: [40]\nCooldown: [60s]\n\n[Barrier]\nDamage: [10%] per second\nSA Break: [25%] per second\nBuff Effect: [Paralysis]\nDebuff Duration: [3s]\nBarrier Duration: [10s]\n\nMake souls go rampant, creating a barrier around the caster. Invincibility will be granted on skill cast. The barrier will damage and paralyze all nearby enemies.[Usage]\nPlace in skill slot and press the corresponding key
-SG Cost: [40]-5
+[スキル情報：一般]\n打撃毎ダメージ量：[30%]\n打撃毎SA破壊量：[75%]\nバフ効果：無敵\nバフ持続時間：[1秒]\nSG消費量：[40]\nクールタイム：[60秒]\n\n[スキル情報：バリア]\nダメージ量：毎秒[10%]\nSA破壊量：毎秒[25%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nバリア持続時間：[10秒]\n\nゴーストを暴走させ、バリアを生成する。スキル使用時、無敵判定。バリアは一定時間持続し、周囲の敵にダメージを与えて麻痺状態にする。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+ダメージ量：[30%]+2%\nSA破壊量：[75%]+4%\nSG消費量：[40]-5
 Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 0
 
 ID=15082
 Soul Scream Ⅱ
-[Common]\nDamage: [100%]\nBuff Effect: [Invincibility]\nBuff Duration: [1s]\nSA Break: [250%]\nSG Cost: [35]\nCooldown: [60s]\n\n[Barrier]\nDamage: [10%] per second\nSA Break: [25%] per second\nBuff Effect: [Paralysis]\nDebuff Duration: [3s]\nBarrier Duration: [10s]\n\nMake souls go rampant, creating a barrier around the caster. Invincibility will be granted on skill cast. The barrier will damage and paralyze all nearby enemies.[Usage]\nPlace in skill slot and press the corresponding key
-SG Cost: [35]-5\nCooldown:[60s]-5s
+[スキル情報：一般]\n打撃毎ダメージ量：[32%]\n打撃毎SA破壊量：[79%]\nバフ効果：無敵\nバフ持続時間：[1秒]\nSG消費量：[35]\nクールタイム：[60秒]\n\n[スキル情報：バリア]\nダメージ量：毎秒[10%]\nSA破壊量：毎秒[25%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nバリア持続時間：[10秒]\n\nゴーストを暴走させ、バリアを生成する。スキル使用時、無敵判定。バリアは一定時間持続し、周囲の敵にダメージを与えて麻痺状態にする。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+ダメージ量：[32%]+4%\nSA破壊量：[79%]+10%\nSG消費量：[35]-5\nクールタイム：[60秒]-5秒
 Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 0
 
 ID=15083
 Soul Scream Ⅲ
-[Common]\nDamage: [100%]\nBuff Effect: [Invincibility]\nBuff Duration: [1s]\nSA Break: [250%]\nSG Cost: [30]\nCooldown: [55s]\n\n[Barrier]\nDamage: [10%] per second\nSA Break: [25%] per second\nBuff Effect: [Paralysis]\nDebuff Duration: [3s]\nBarrier Duration: [10s]\n\nMake souls go rampant, creating a barrier around the caster. Invincibility will be granted on skill cast. The barrier will damage and paralyze all nearby enemies.[Usage]\nPlace in skill slot and press the corresponding key
-SG Cost: [30]-5\nCooldown:[55s]-5s
+[スキル情報：一般]\n打撃毎ダメージ量：[36%]\n打撃毎SA破壊量：[89%]\nバフ効果：無敵\nバフ持続時間：[1秒]\nSG消費量：[30]\nクールタイム：[55秒]\n\n[スキル情報：バリア]\nダメージ量：毎秒[10%]\nSA破壊量：毎秒[25%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nバリア持続時間：[10秒]\n\nゴーストを暴走させ、バリアを生成する。スキル使用時、無敵判定。バリアは一定時間持続し、周囲の敵にダメージを与えて麻痺状態にする。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+ダメージ量：[36%]+3%\nSA破壊量：[89%]+9%\nSG消費量：[30]-5\nクールタイム：[55秒]-5秒
 Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 0
 
 ID=15084
 Soul Scream Ⅳ
-[Common]\nDamage: [100%]\nBuff Effect: [Invincibility]\nBuff Duration: [1s]\nSA Break: [250%]\nSG Cost: [25]\nCooldown: [50s]\n\n[Barrier]\nDamage: [10%] per second\nSA Break: [25%] per second\nBuff Effect: [Paralysis]\nDebuff Duration: [3s]\nBarrier Duration: [10s]\n\nMake souls go rampant, creating a barrier around the caster. Invincibility will be granted on skill cast. The barrier will damage and paralyze all nearby enemies.[Usage]\nPlace in skill slot and press the corresponding key
-SG Cost: [25]-5\nCooldown:[50s]-20s
+[スキル情報：一般]\n打撃毎ダメージ量：[39%]\n打撃毎SA破壊量：[98%]\nバフ効果：無敵\nバフ持続時間：[1秒]\nSG消費量：[25]\nクールタイム：[50秒]\n\n[スキル情報：バリア]\nダメージ量：毎秒[10%]\nSA破壊量：毎秒[25%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nバリア持続時間：[10秒]\n\nゴーストを暴走させ、バリアを生成する。スキル使用時、無敵判定。バリアは一定時間持続し、周囲の敵にダメージを与えて麻痺状態にする。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+ダメージ量：[39%]+6%\nSA破壊量：[98%]+15%\nSG消費量：[25]-5\nクールタイム：[50秒]-20秒
 Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 0
 
 ID=15085
 Soul Scream Ⅴ
-[Common]\nDamage: [100%]\nBuff Effect: [Invincibility]\nBuff Duration: [1s]\nSA Break: [250%]\nSG Cost: [20]\nCooldown: [30s]\n\n[Barrier]\nDamage: [10%] per second\nSA Break: [25%] per second\nBuff Effect: [Paralysis]\nDebuff Duration: [3s]\nBarrier Duration: [10s]\n\nMake souls go rampant, creating a barrier around the caster. Invincibility will be granted on skill cast. The barrier will damage and paralyze all nearby enemies.[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報：一般]\n打撃毎ダメージ量：[45%]\n打撃毎SA破壊量：[113%]\nバフ効果：無敵\nバフ持続時間：[1秒]\nSG消費量：[20]\nクールタイム：[30秒]\n\n[スキル情報：バリア]\nダメージ量：毎秒[10%]\nSA破壊量：毎秒[25%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nバリア持続時間：[10秒]\n\nゴーストを暴走させ、バリアを生成する。スキル使用時、無敵判定。バリアは一定時間持続し、周囲の敵にダメージを与えて麻痺状態にする。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_SoulScream
 0
@@ -4830,21 +4830,21 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ScytheCutter_A
 
 ID=23041
 HP Absorption Ⅰ
-[Info]\nDamage: -[267%]\nSA Break: -[151%]\nHP Absorption: [35%]\n\nSteals HP from the enemy and recovers user's HP based on damage dealt.\nEffect is only applied to one enemy.
+[特性情報]\nダメージ量：[594%]\nSA破壊量：[334%]\nHP吸収：[35%]\n\nダメージを与えた敵からHPを奪い、自分のHPを回復する。\n該当効果は1体にのみ適用。
 HP Absorption: [35%]+10%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown_A
 0
 
 ID=23042
 HP Absorption Ⅱ
-[Info]\nDamage: -[267%]\nSA Break: -[151%]\nHP Absorption: [45%]\n\nSteals HP from the enemy and recovers user's HP based on damage dealt.\nEffect is only applied to one enemy.
+[特性情報]\nダメージ量：[594%]\nSA破壊量：[334%]\nHP吸収：[45%]\n\nダメージを与えた敵からHPを奪い、自分のHPを回復する。\n該当効果は1体にのみ適用。
 HP Absorption: [45%]+20%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown_A
 0
 
 ID=23043
 HP Absorption Ⅲ
-[Info]\nDamage: -[267%]\nSA Break: -[151%]\nHP Absorption: [65%]\n\nSteals HP from the enemy and recovers user's HP based on damage dealt.\nEffect is only applied to one enemy.
+[特性情報]\nダメージ量：[594%]\nSA破壊量：[334%]\nHP吸収：[65%]\n\nダメージを与えた敵からHPを奪い、自分のHPを回復する。\n該当効果は1体にのみ適用。
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_GrimCountDown_A
 0
@@ -4872,63 +4872,63 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_FearChain_A
 
 ID=23051
 Summon Grim Reaper Ⅰ
-[Grim Reaper]\nDamage: [20%] per hit\nSA Break: [41%] per hit\n\nThrow the scythe and summon Grim Reaper.
-[Grim Reaper]\nDamage: [20%]+3%\nSA Break: [41%]+6%
+[特性情報：死神攻撃]\nダメージ量：攻撃1回あたり[39%]\nSA破壊量：攻撃1回あたり[41%]\n\n死神を召喚し、追加で鎌を投げる。
+[死神攻撃]\nダメージ量増加：[39%]+4%\nSA破壊量増加：[41%]+6%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder_A
 0
 
 ID=23052
 Summon Grim Reaper Ⅱ
-[Grim Reaper]\nDamage: [23%] per hit\nSA Break: [47%] per hit\n\nThrow the scythe and summon Grim Reaper.
-[Grim Reaper]\nDamage: [23%]+6%\nSA Break: [47%]+12%
+[特性情報：死神攻撃]\nダメージ量：攻撃1回あたり[43%]\nSA破壊量：攻撃1回あたり[47%]\n\n死神を召喚し、追加で鎌を投げる。
+[死神攻撃]\nダメージ量増加：[43%]+8%\nSA破壊量増加：[47%]+12%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder_A
 0
 
 ID=23053
 Summon Grim Reaper Ⅲ
-[Grim Reaper]\nDamage: [29%] per hit\nSA Break: [59%] per hit\n\nThrow the scythe and summon Grim Reaper.
+[特性情報：死神攻撃]\nダメージ量：攻撃1回あたり[51%]\nSA破壊量：攻撃1回あたり[60%]\n\n死神を召喚し、追加で鎌を投げる。
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder_A
 0
 
 ID=23054
 Whirlwind Ⅰ
-[Info]\nCreate a whirlwind by throwing the scythe forward.\nScythe will stop at a point and damage the enemies at the place.
-Damage: +4%\nSA Break: +8%
+[特性情報]\nダメージ量増加値：攻撃1回あたり[39%]増加\nSA破壊量増加値：攻撃1回あたり[108%]増加\n\n前方に鎌を投げて旋風を発生させる。鎌は一定距離を進むと止まり、その場で敵にダメージを与える。
+ダメージ量増加：[39%]+4%\nSA破壊量増加：[108%]+10%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder_B
 0
 
 ID=23055
 Whirlwind Ⅱ
-[Info]\nDamage: +[4%] per hit.\nSA Break: +[8%] per hit.\n\n[Info]\nCreate a whirlwind by throwing the scythe forward.\nScythe will stop at a point and damage the enemies at the place.
-Damage: [8%]+8%\nSA Break: [8%]+17%
+[特性情報]\nダメージ量増加値：攻撃1回あたり[43%]増加\nSA破壊量増加値：攻撃1回あたり[118%]増加\n\n前方に鎌を投げて旋風を発生させる。鎌は一定距離を進むと止まり、その場で敵にダメージを与える。
+ダメージ量増加：[43%]+8%\nSA破壊量増加：[118%]+17%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder_B
 0
 
 ID=23056
 Whirlwind Ⅲ
-[Info]\nDamage: +[16%] per hit.\nSA Break: [25%] per hit.\n\n[Info]\nCreate a whirlwind by throwing the scythe forward.\nScythe will stop at a point and damage the enemies at the place.
+[特性情報]\nダメージ量増加値：攻撃1回あたり[51%]増加\nSA破壊量増加値：攻撃1回あたり[135%]増加\n\n前方に鎌を投げて旋風を発生させる。鎌は一定距離を進むと止まり、その場で敵にダメージを与える。
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathGrinder_B
 0
 
 ID=23071
 Defense Penetration Ⅰ
-[Info]\nBuff Effect: Penetration +[20%]\n\nAttacks done to the enemy ignore enemy's defense.
-Buff Effect: Penetration [20%]+20%
+[特性情報]\nバフ効果：敵の防御度貫通[15%]\n\n攻撃を受けた敵の防御度を一定量無視する。
+敵の防御度貫通：[15%]+15%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash_A
 0
 
 ID=23072
 Defense Penetration Ⅱ
-[Info]\nBuff Effect: Penetration +[40%]\n\nAttacks done to the enemy ignore enemy's defense.
-Buff Effect: Penetration [40%]+30%
+[特性情報]\nバフ効果：敵の防御度貫通[30%]\n\n攻撃を受けた敵の防御度を一定量無視する。
+敵の防御度貫通：[30%]+20%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash_A
 0
 
 ID=23073
 Defense Penetration Ⅲ
-[Info]\nBuff Effect: Penetration Rate +[70%]\n\nAttacks done to the enemy ignore enemy's defense.
+[特性情報]\nバフ効果：敵の防御度貫通[50%]\n\n攻撃を受けた敵の防御度を一定量無視する。
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_CruelSlash_A
 0
@@ -8126,21 +8126,21 @@ Over the spout oil from the ground, -70% Movement Speed to enemies for 7s. (90s 
 0
 
 ID=1171
-エターナルコンビネーションI
+Eternal Combination I
 [スキル情報] 20コンボ達成時、10秒間攻撃力が150ほど増加する。(最大5重複)
 攻撃力増加:[150]+150
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_SGPassive2
 0
 
 ID=1172
-エターナルコンビネーションII
+Eternal Combination II
 [スキル情報] 20コンボ達成時、10秒間攻撃力が300ほど増加する。(最大5重複)
 攻撃力増加:[300]+200
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_SGPassive2
 0
 
 ID=1173
-エターナルコンビネーションIII
+Eternal Combination III
 [スキル情報] 20コンボ達成時、10秒間攻撃力が500ほど増加する。(最大5重複)
 LvMax
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_SGPassive2
@@ -8154,259 +8154,259 @@ Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
 ID=11301
-ソードフォールI
+Sword Fall I
 [スキル情報]\nダメージ量:[684%]\nSA破壊量:[480%]\nSG消費量:[45]\nクールタイム:[30秒]\n\n空中状態で前方の敵を打ちおろすと同時に、周辺に剣を召還し攻撃する。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量:[684%]+36%\nSA破壊量:[480%]+24%
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_Swordsfall
 0
 
 ID=11302
-ソードフォールII
+Sword Fall II
 [スキル情報]\nダメージ量:[720%]\nSA破壊量:[504%]\nSG消費量:[45]\nクールタイム:[30秒]\n\n空中状態で前方の敵を打ちおろすと同時に、周辺に剣を召還し攻撃する。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量:[720%]+66%\nSA破壊量:[504%]+48%
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_Swordsfall
 0
 
 ID=11303
-ソードフォールIII
+Sword Fall III
 [スキル情報]\nダメージ量:[786%]\nSA破壊量:[552%]\nSG消費量:[45]\nクールタイム:[30秒]\n\n空中状態で前方の敵を打ちおろすと同時に、周辺に剣を召還し攻撃する。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量:[786%]+102%\nSA破壊量:[552%]+72%
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_Swordsfall
 0
 
 ID=11304
-ソードフォールIV
+Sword Fall IV
 [スキル情報]\nダメージ量:[888%]\nSA破壊量:[624%]\nSG消費量:[45]\nクールタイム:[30秒]\n\n空中状態で前方の敵を打ちおろすと同時に、周辺に剣を召還し攻撃する。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量:[888%]+138%\nSA破壊量:[624%]+96%
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_Swordsfall
 0
 
 ID=11305
-ソードフォールV
+Sword Fall V
 [スキル情報]\nダメージ量:[1026%]\nSA破壊量:[720%]\nSG消費量:[45]\nクールタイム:[30秒]\n\n空中状態で前方の敵を打ちおろすと同時に、周辺に剣を召還し攻撃する。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 LvMax
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_Swordsfall
 0
 
 ID=11401
-スラッシングワーフェアI
+Slashing Warfare I
 [スキル情報]\nダメージ量:[1040%]\nSA破壊量:[750%]\nSG消費量:[30]\nクールタイム:[20秒]\nバフ効果:3秒間、ダメージ減少[24%]\nデバフ効果:3秒間、出血[2%]\n\n２本の剣を交差させるように切り裂き突進攻撃をした後、後方に向かって回転攻撃を加え敵を引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 ダメージ量:[1040%]+52%\nSA破壊量:[750%]+37%\nデバフ出血増加:[2%]+1%
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_Warfare
 0
 
 ID=11402
-スラッシングワーフェアII
+Slashing Warfare II
 [スキル情報]\nダメージ量:[1092%]\nSA破壊量:[787%]\nSG消費量:[30]\nクールタイム:[20秒]\nバフ効果:3秒間、ダメージ減少[24%]\nデバフ効果:3秒間、出血[3%]\n\n２本の剣を交差させるように切り裂き突進攻撃をした後、後方に向かって回転攻撃を加え敵を引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 ダメージ量:[1092%]+130%\nSA破壊量:[787%]+94%\nバフダメージ減少増加:[24%]+8%\nデバフ出血増加:[2%]+1%
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_Warfare
 0
 
 ID=11403
-スラッシングワーフェアIII
+Slashing Warfare III
 [スキル情報]\nダメージ量:[1222%]\nSA破壊量:[881%]\nSG消費量:[30]\nクールタイム:[20秒]\nバフ効果:3秒間、ダメージ減少[32%]\nデバフ効果:3秒間、出血[3%]\n\n２本の剣を交差させるように切り裂き突進攻撃をした後、後方に向かって回転攻撃を加え敵を引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 ダメージ量:[1222%]+129%\nSA破壊量:[881%]+93%
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_Warfare
 0
 
 ID=11404
-スラッシングワーフェアIV
+Slashing Warfare IV
 [スキル情報]\nダメージ量:[1351%]\nSA破壊量:[974%]\nSG消費量:[30]\nクールタイム:[20秒]\nバフ効果:3秒間、ダメージ減少[32%]\nデバフ効果:3秒間、出血[3%]\n\n２本の剣を交差させるように切り裂き突進攻撃をした後、後方に向かって回転攻撃を加え敵を引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 ダメージ量:[1351%]+208%\nSA破壊量:[974%]+150%\nバフダメージ減少増加:[32%]+8%\nデバフ出血増加:[3%]+1%
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_Warfare
 0
 
 ID=11405
-スラッシングワーフェアV
+Slashing Warfare V
 [スキル情報]\nダメージ量:[1559%]\nSA破壊量:[1124%]\nSG消費量:[30]\nクールタイム:[20秒]\nバフ効果:3秒間、ダメージ減少[40%]\nデバフ効果:3秒間、出血[4%]\n\n２本の剣を交差させるように切り裂き突進攻撃をした後、後方に向かって回転攻撃を加え敵を引き寄せる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_Warfare
 0
 
 ID=21091
-重撃I
+Heavy Blow I
 [特性情報]\nダメージ量:[820%]\nSA破壊量:[726%]\nデバフ効果:気絶[1.8秒]\n\n剣と大剣を結合して前方に投擲する。
 ダメージ増加値:[820%]+123%\nSA破壊量増加値:[726%]+109%\nデバフ効果追加時間:[1.8秒]+0.6秒
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_FlashStep_A
 0
 
 ID=21092
-重撃II
+Heavy Blow II
 [特性情報]\nダメージ量:[943%]\nSA破壊量:[835%]\nデバフ効果:気絶[2.4秒]\n\n剣と大剣を結合して前方に投擲する。
 ダメージ増加値:[943%]+246%\nSA破壊量増加値:[835%]+217%\nデバフ効果追加時間:[2.4秒]+0.8秒
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_FlashStep_A
 0
 
 ID=21093
-重撃III
+Heavy Blow III
 [特性情報]\nダメージ量:[1189%]\nSA破壊量:[1052%]\nデバフ効果:気絶[3.2秒]\n\n剣と大剣を結合して前方に投擲する。
 LvMax
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_FlashStep_A
 0
 
 ID=21081
-追撃I
+Pursuit I
 [特性情報:追加攻撃]\n追加ダメージ量:[354%]\n追加SA破壊量:[552%]\n\nスピンカッター後、敵に追撃します。[操作方法：追加攻撃]マウス：最後の攻撃後(右クリック)
 ダメージ増加値:[354%]+53%\nSA破壊量増加値:[552%]+83%
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_SpinAttack_A
 0
 
 ID=21082
-追撃II
+Pursuit II
 [特性情報:追加攻撃]\n追加ダメージ量:[407%]\n追加SA破壊量:[635%]\n\nスピンカッター後、敵に追撃します。[操作方法：追加攻撃]マウス：最後の攻撃後(右クリック)
 ダメージ増加値:[407%]+106%\nSA破壊量増加値:[635%]+166%
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_SpinAttack_A
 0
 
 ID=21083
-追撃III
+Pursuit III
 [特性情報:追加攻撃]\n追加ダメージ量:[513%]\n追加SA破壊量:[801%]\n\nスピンカッター後、敵に追撃します。[操作方法：追加攻撃]マウス：最後の攻撃後(右クリック)
 LvMax
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_SpinAttack_A
 0
 
 ID=11913
-エクスティンクションプレリュード
+Extinction Prelude
 覚醒状態でのみスキル使用が可能です。\nスキル使用時に覚醒状態が解除されます。\n \n [スキル情報]\n ダメージ量:[2250%]\n SA破壊量:[2950%]\n \n ハルの幻影と共に連続突進斬撃攻撃で前方の敵を攻撃します。\n \n [操作法]\n 使用条件:覚醒状態でキーボードの「7」を入力
 LvMax
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_Prelude
 Description_Image/Skill/SoulumSword/Image_Ssword_Skill_Prelude
 
 ID=13141
-アスモデウス
+Asmodeus
 覚醒状態でのみスキル使用が可能です。\n\n[スキル情報]\n全体ダメージ量: [2700%]\n全体SA破壊量: [2360%]\n\n動きを封鎖する強力な攻撃で前方の敵を蹂躙します。\n\n[操作法]\n使用条件:覚醒状態でキーボードの「7」を入力
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_Asmodeus
 Description_Image/Skill/Mistscythe/Image_Mcythe_Skill_Asmodeus
 
 ID=13151
-ブラッディーブロッサムI
+Bloody Blossom I
 [スキル情報]\nダメージ量: [752%]\nSA破壊量: [480%]\nSG消費量: [30]\nクールタイム: [28秒]\n\n空中で両手の鎌を素早く回転しながら攻撃した後、強力なX字切り攻撃を行います。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量: [752%] +76%\nSA破壊量: [480%] +24%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_BloodyBlossom
 0
 
 ID=13152
-ブラッディーブロッサムII
+Bloody Blossom II
 [スキル情報]\nダメージ量: [828%]\nSA破壊量: [504%]\nSG消費量: [30]\nクールタイム: [28秒]\n\n空中で両手の鎌を素早く回転しながら攻撃した後、強力なX字切り攻撃を行います。\n\n\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量: [828%] +99%\nSA破壊量: [504%] +46%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_BloodyBlossom
 0
 
 ID=13153
-ブラッディーブロッサムIII
+Bloody Blossom III
 [スキル情報]\nダメージ量: [927%]\nSA破壊量: [550%]\nSG消費量: [30]\nクールタイム: [28秒]\n\n空中で両手の鎌を素早く回転しながら攻撃した後、強力なX字切り攻撃を行います。\n\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量: [927%] +130%\nSA破壊量: [550%] +92%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_BloodyBlossom
 0
 
 ID=13154
-ブラッディーブロッサムIV
+Bloody Blossom IV
 [スキル情報]\nダメージ量: [1057%]\nSA破壊量: [616%]\nSG消費量: [30]\nクールタイム: [28秒]\n\n空中で両手の鎌を素早く回転しながら攻撃した後、強力なX字切り攻撃を行います。\n\n\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量: [1057%] +190%\nSA破壊量: [616%] +92%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_BloodyBlossom
 0
 
 ID=13155
-ブラッディーブロッサムV
+Bloody Blossom V
 [スキル情報]\nダメージ量: [1247%]\nSA破壊量: [708%]\nSG消費量: [30]\nクールタイム: [28秒]\n\n空中で両手の鎌を素早く回転しながら攻撃した後、強力なX字切り攻撃を行います。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_BloodyBlossom
 0
 
 ID=23011
-鎖鎌I
-[特性情報]\n全体ダメージ量: [384%]\n全体SA破壊量: 打撃毎[304%]\n\n鎌の代わりに鎖鎌を利用して、より広い範囲の敵を攻撃します。
-ダメージ量増加値: [384%] +39%\nSA破壊量増加値: [394%] +10%
+Chain-sickle I
+[特性情報]\n全体ダメージ量: [540%]\n全体SA破壊量: 打撃毎[304%]\n\n鎌の代わりに鎖鎌を利用して、より広い範囲の敵を攻撃します。
+ダメージ量増加値: [540%] +39%\nSA破壊量増加値: [394%] +10%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_EvilSlash_A
 0
 
 ID=23012
-鎖鎌II
-[特性情報]\n全体ダメージ量: [423%]\n全体SA破壊量: [335%]\n\n鎌の代わりに鎖鎌を利用して、より広い範囲の敵を攻撃します。
-ダメージ量増加値: [423%] +79%\nSA破壊量増加値: [335%] +31%
+Chain-sickle II
+[特性情報]\n全体ダメージ量: [589%]\n全体SA破壊量: [335%]\n\n鎌の代わりに鎖鎌を利用して、より広い範囲の敵を攻撃します。
+ダメージ量増加値: [589%] +88%\nSA破壊量増加値: [335%] +31%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_EvilSlash_A
 0
 
 ID=23013
-鎖鎌III
-[特性情報]\n全体ダメージ量: [498%]\n全体SA破壊量: [394%]\n\n鎌の代わりに鎖鎌を利用して、より広い範囲の敵を攻撃します。
+Chain-sickle III
+[特性情報]\n全体ダメージ量: [677%]\n全体SA破壊量: [394%]\n\n鎌の代わりに鎖鎌を利用して、より広い範囲の敵を攻撃します。
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_EvilSlash_A
 0
 
 ID=23061
-残像I
-[特性情報]\n追加ダメージ量: [628%]\n追加SA破壊量: [1068%]\n\nリリーの攻撃動作に合わせて死神の残像が敵に向かって突進しながら攻撃します。
-ダメージ量増加値: [628%] +82%\nSA破壊量増加値: [1068%] +130%
+Afterimage I
+[特性情報]\n追加ダメージ量: [628%]\n追加SA破壊量: [2136%]\n\nリリーの攻撃動作に合わせて死神の残像が敵に向かって突進しながら攻撃します。
+ダメージ量増加値: [628%] +82%\nSA破壊量増加値: [2136%] +258%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathScythe_A
 0
 
 ID=23062
-残像II
-[特性情報]\n追加ダメージ量: [710%]\n追加SA破壊量: [1198%]\n\nリリーの攻撃動作に合わせて死神の残像が敵に向かって突進しながら攻撃します。
-ダメージ量増加値: [710%] +170%\nSA破壊量増加値: [1198%] +286%
+Afterimage II
+[特性情報]\n追加ダメージ量: [710%]\n追加SA破壊量: [2394%]\n\nリリーの攻撃動作に合わせて死神の残像が敵に向かって突進しながら攻撃します。
+ダメージ量増加値: [710%] +170%\nSA破壊量増加値: [2394%] +574%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathScythe_A
 0
 
 ID=23063
-残像III
-[特性情報]\n追加ダメージ量: [880%]\n追加SA破壊量: [1484%]\n\nリリーの攻撃動作に合わせて死神の残像が敵に向かって突進しながら攻撃します。
+Afterimage III
+[特性情報]\n追加ダメージ量: [880%]\n追加SA破壊量: [2968%]\n\nリリーの攻撃動作に合わせて死神の残像が敵に向かって突進しながら攻撃します。
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathScythe_A
 0
 
 ID=3171
-暴走する狂気 I
-[スキル情報]\nHPが50%以下になると、1分毎に10秒間SG消費量10%減少、クリティカル攻撃力800増加、防御力貫通が10%増加します。
-SG消耗量減少 : [10%] +10% \nクリティカル攻撃力増加: [800] +800\n防御力貫通増加 : [10%] +10% 
+Rampaging Madness I
+[スキル情報]\nSGが70%以上の場合、1分毎に15秒間SG消費量5%減少、クリティカル攻撃力600増加、防御力貫通が5%増加します。
+SG消耗量減少 : [5%] +5% \nクリティカル攻撃力増加: [600] +600\n防御力貫通増加 : [5%] +5% 
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive2
 0
 
 ID=3172
-暴走する狂気 II
-[スキル情報]\nHPが50%以下になると、1分毎に10秒間SG消費量20%減少、クリティカル攻撃力1600増加、防御力貫通が20%増加します。
-SG消耗量減少 : [20%] +10% \nクリティカル攻撃力増加: [1600] +900\n防御力貫通増加 : [20%] +10% 
+Rampaging Madness II
+[スキル情報]\nSGが70%以上の場合、1分毎に15秒間SG消費量10%減少、クリティカル攻撃力1200増加、防御力貫通が10%増加します。
+SG消耗量減少 : [10%] +5% \nクリティカル攻撃力増加: [1200] +800\n防御力貫通増加 : [10%] +10% 
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive2
 0
 
 ID=3173
-暴走する狂気 III
-[スキル情報]\nHPが50%以下になると、1分毎に10秒間SG消費量30%減少、クリティカル攻撃力2500増加、防御力貫通が30%増加します。
+Rampaging Madness III
+[スキル情報]\nSGが70%以上の場合、1分毎に15秒間SG消費量15%減少、クリティカル攻撃力2000増加、防御力貫通が20%増加します。
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive2
 0
 
 ID=13161
-フューリーサイス I
+Fury Scythe I
 [スキル情報]\n最大 ダメージ量: [2000%]\n最大 SA破壊量: [2130%]\nSG消費量: [55]\nクールタイム: [30秒]\n\n[スキル情報：追加]\n追加打撃ダメージ量: 打撃毎[375%]\n追加打撃SA破壊量: 打撃毎[399%]\n\n※追加打撃回数によって最大ダメージ量が異なる場合があります。\n\n鎌と鎖鎌を結合し、前方に連続で突進攻撃をします。操作によって敵に攻撃したり前方に移動したりします。\n\n[操作法]\nスキルスロットに登録して該当キーを入力\n\n[操作法：追加]\nマウス：\n[1]左クリック: 前方の敵を切り、短く突進します。\n[2]右クリック: 前方に向かって素早く移動します。
 \n最大ダメージ量: [2000%] +200%\n最大SA破壊量: [2130%] +106%\n追加打撃ダメージ量: 打撃毎[375%] +37%\n追加打撃SA破壊量: 打撃毎[399%] +20%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_Furymach
 0
 
 ID=13162
-フューリーサイス II
+Fury Scythe II
 [スキル情報]\n最大 ダメージ量: [2200%]\n最大 SA破壊量: [2236%]\nSG消費量: [55]\nクールタイム: [30秒]\n\n[スキル情報：追加]\n追加打撃ダメージ量: 打撃毎[412%]\n追加打撃SA破壊量: 打撃毎[419%]\n\n※追加打撃回数によって最大ダメージ量が異なる場合があります。\n\n鎌と鎖鎌を結合し、前方に連続で突進攻撃をします。操作によって敵に攻撃したり前方に移動したりします。\n\n[操作法]\nスキルスロットに登録して該当キーを入力\n\n[操作法：追加]\nマウス：\n[1]左クリック: 前方の敵を切り、短く突進します。\n[2]右クリック: 前方に向かって素早く移動します。
 \n最大ダメージ量: [2200%] +264%\n最大SA破壊量: [2236%] +202%\n追加打撃ダメージ量: 打撃毎[412%] +50%\n追加打撃SA破壊量: 打撃毎[419%] +38%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_Furymach
 0
 
 ID=13163
-フューリーサイス III
+Fury Scythe III
 [スキル情報]\n最大 ダメージ量: [2464%]\n最大 SA破壊量: [2438%]\nSG消費量: [55]\nクールタイム: [30秒]\n\n[スキル情報：追加]\n追加打撃ダメージ量: 打撃毎[462%]\n追加打撃SA破壊量: 打撃毎[457%]\n\n※追加打撃回数によって最大ダメージ量が異なる場合があります。\n\n鎌と鎖鎌を結合し、前方に連続で突進攻撃をします。操作によって敵に攻撃したり前方に移動したりします。\n\n[操作法]\nスキルスロットに登録して該当キーを入力\n\n[操作法：追加]\nマウス：\n[1]左クリック: 前方の敵を切り、短く突進します。\n[2]右クリック: 前方に向かって素早く移動します。
 \n最大ダメージ量: [2464%] +344%\n最大SA破壊量: [2438%] +292%\n追加打撃ダメージ量: 打撃毎[462%] +64%\n追加打撃SA破壊量: 打撃毎[457%] +54%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_Furymach
 0
 
 ID=13164
-フューリーサイス IV
+Fury Scythe IV
 [スキル情報]\n最大 ダメージ量: [2808%]\n最大 SA破壊量: [2730%]\nSG消費量: [55]\nクールタイム: [30秒]\n\n[スキル情報：追加]\n追加打撃ダメージ量: 打撃毎[526%]\n追加打撃SA破壊量: 打撃毎[511%]\n\n※追加打撃回数によって最大ダメージ量が異なる場合があります。\n\n鎌と鎖鎌を結合し、前方に連続で突進攻撃をします。操作によって敵に攻撃したり前方に移動したりします。\n\n[操作法]\nスキルスロットに登録して該当キーを入力\n\n[操作法：追加]\nマウス：\n[1]左クリック: 前方の敵を切り、短く突進します。\n[2]右クリック: 前方に向かって素早く移動します。
 \n最大ダメージ量: [2808%] +506%\n最大SA破壊量: [2730%] +410%\n追加打撃ダメージ量: 打撃毎[526%] +95%\n追加打撃SA破壊量: 打撃毎[511%] +77%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_Furymach
 0
 
 ID=13165
-フューリーサイス V
+Fury Scythe V
 [スキル情報]\n最大 ダメージ量: [3314%]\n最大 SA破壊量: [3140%]\nSG消費量: [55]\nクールタイム: [30秒]\n\n[スキル情報：追加]\n追加打撃ダメージ量: 打撃毎[621%]\n追加打撃SA破壊量: 打撃毎[588%]\n\n※追加打撃回数によって最大ダメージ量が異なる場合があります。\n\n鎌と鎖鎌を結合し、前方に連続で突進攻撃をします。操作によって敵に攻撃したり前方に移動したりします。\n\n[操作法]\nスキルスロットに登録して該当キーを入力\n\n[操作法：追加]\nマウス：\n[1]左クリック: 前方の敵を切り、短く突進します。\n[2]右クリック: 前方に向かって素早く移動します。
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_Furymach
@@ -8560,281 +8560,281 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_B
 0
 
 ID=2171
-勝ち取る幸運 I
+Lucky Break I
 [スキル情報]\nソウルを消耗するスキルを連続使用時、防御力貫通、攻撃力が増加します。\nスキル使用後、5秒以内に他のスキルを使うと効果が重複し、3重複毎に10秒間防御力貫通4%、攻撃力200が増加します。
 防御力貫通：[4%] +3%\n攻撃力：[200] +200
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SGPassive2
 0
 
 ID=2172
-勝ち取る幸運 II
+Lucky Break II
 [スキル情報]\nソウルを消耗するスキルを連続使用時、防御力貫通、攻撃力が増加します。\nスキル使用後、5秒以内に他のスキルを使うと効果が重複し、3重複毎に10秒間防御力貫通7%、攻撃力400が増加します。
 防御力貫通：[7%] +3%\n攻撃力：[400] +200
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SGPassive2
 0
 
 ID=2173
-勝ち取る幸運 III
+Lucky Break III
 [スキル情報]\nソウルを消耗するスキルを連続使用時、防御力貫通、攻撃力が増加します。\nスキル使用後、5秒以内に他のスキルを使うと効果が重複し、3重複毎に10秒間防御力貫通10%、攻撃力600が増加します。
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SGPassive2
 0
 
 ID=12141
-ブレイズホバー I
+Blaze Hover I
 [スキル情報]\nダメージ量:打撃毎[220%]\nSA破壊量:打撃毎[112%]\nSG消費量:[3]\nクールタイム:[25秒]\n\n空中状態で該当状態でホバーボードを召喚し、前方に移動しながら砲撃します。\n\n[操作法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量:[220%] +11%\nSA破壊量:[112%] +6%
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_BlazeHover
 0
 
 ID=12142
-ブレイズホバー II
+Blaze Hover II
 [スキル情報]\nダメージ量:打撃毎[231%]\nSA破壊量:打撃毎[118%]\nSG消費量:[3]\nクールタイム:[25秒]\n\n空中状態で該当状態でホバーボードを召喚し、前方に移動しながら砲撃します。\n\n[操作法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量:[231%] +27%\nSA破壊量:[118%] +14%
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_BlazeHover
 0
 
 ID=12143
-ブレイズホバー III
+Blaze Hover III
 [スキル情報]\nダメージ量:打撃毎[258%]\nSA破壊量:打撃毎[132%]\nSG消費量:[3]\nクールタイム:[25秒]\n\n空中状態で該当状態でホバーボードを召喚し、前方に移動しながら砲撃します。\n\n[操作法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量:[258%] +27%\nSA破壊量:[%] +13%
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_BlazeHover
 0
 
 ID=12144
-ブレイズホバー IV
+Blaze Hover IV
 [スキル情報]\nダメージ量:打撃毎[286%]\nSA破壊量:打撃毎[145%]\nSG消費量:[3]\nクールタイム:[25秒]\n\n空中状態で該当状態でホバーボードを召喚し、前方に移動しながら砲撃します。\n\n[操作法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量:[286%] +44%\nSA破壊量:[%] +23%
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_BlazeHover
 0
 
 ID=12145
-ブレイズホバー V
+Blaze Hover V
 [スキル情報]\nダメージ量:打撃毎[330%]\nSA破壊量:打撃毎[168%]\nSG消費量:[3]\nクールタイム:[25秒]\n\n空中状態で該当状態でホバーボードを召喚し、前方に移動しながら砲撃します。\n\n[操作法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 LvMax
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_BlazeHover
 0
 
 ID=12151
-ミッションコール I
+Mission Call I
 [スキル情報]\nダメージ量:打撃毎[944%]\nSA破壊量:打撃毎[1065%]\nSG消費量:[4]\nクールタイム:[30秒]\n\nマウスで指定したポイントを空中からレーザーで爆撃します。\n\n[操作法]\nマウス：スキルスロットに登録して該当キーを入力及びマウス移動
 ダメージ量:[944%] +47%\nSA破壊量:[1065%] +53%
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_MissionCall
 0
 
 ID=12152
-ミッションコール II
+Mission Call II
 [スキル情報]\nダメージ量:打撃毎[991%]\nSA破壊量:打撃毎[1118%]\nSG消費量:[4]\nクールタイム:[30秒]\n\nマウスで指定したポイントを空中からレーザーで爆撃します。\n\n[操作法]\nマウス：スキルスロットに登録して該当キーを入力及びマウス移動
 ダメージ量:[991%] +118%\nSA破壊量:[1118%] +133%
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_MissionCall
 0
 
 ID=12153
-ミッションコール III
+Mission Call III
 [スキル情報]\nダメージ量:打撃毎[1109%]\nSA破壊量:打撃毎[1251%]\nSG消費量:[4]\nクールタイム:[30秒]\n\nマウスで指定したポイントを空中からレーザーで爆撃します。\n\n[操作法]\nマウス：スキルスロットに登録して該当キーを入力及びマウス移動
 ダメージ量:[1109%] +117%\nSA破壊量:[1251%] +132%
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_MissionCall
 0
 
 ID=12154
-ミッションコール IV
+Mission Call IV
 [スキル情報]\nダメージ量:打撃毎[1226%]\nSA破壊量:打撃毎[1383%]\nSG消費量:[4]\nクールタイム:[30秒]\n\nマウスで指定したポイントを空中からレーザーで爆撃します。\n\n[操作法]\nマウス：スキルスロットに登録して該当キーを入力及びマウス移動
 ダメージ量:[1226%] +189%\nSA破壊量:[1383%] +213%
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_MissionCall
 0
 
 ID=12155
-ミッションコール V
+Mission Call V
 [スキル情報]\nダメージ量:打撃毎[1415%]\nSA破壊量:打撃毎[1596%]\nSG消費量:[4]\nクールタイム:[30秒]\n\nマウスで指定したポイントを空中からレーザーで爆撃します。\n\n[操作法]\nマウス：スキルスロットに登録して該当キーを入力及びマウス移動
 LvMax
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_MissionCall
 0
 
 ID=12913
-ジオメトリープラトゥーン
+Geometry Platoon
 覚醒状態でのみスキル使用が可能です。\nスキル使用時、覚醒状態が解除されます。\n\n[スキル情報]\nダメージ量:[2500%]\nSA破壊量:[2700%]\n\nジオメトリー小隊を召喚し前方を爆撃します。その後、空中爆撃します。\n\n[操作法]\n使用条件：覚醒状態\nキーボード：キーボードの「7」を入力/右クリック時、最後の攻撃をします。
 LvMax
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_GeometryPlatoon
 Description_Image/Skill/GunJazz/Image_GJazz_Skill_GeometryPlatoon
 
 ID=22061
-ウェスタンフィニッシュ I
+Western Finish I
 [特性情報]\n全体攻撃ダメージ量:[619%]\n全体攻撃SA破壊量: [339%]\n\n最後の攻撃の前に右クリックすると、もう一度強力な攻撃を繰り返します。
 追加ダメージ量：[619%] +73%\n追加SA破壊量：[339%] +39%
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_CombatMaster_A
 0
 
 ID=22062
-ウェスタンフィニッシュ II
+Western Finish II
 [特性情報]\n全体攻撃ダメージ量:[692%]\n全体攻撃SA破壊量: [378%]\n\n最後の攻撃の前に右クリックすると、もう一度強力な攻撃を繰り返します。
 追加ダメージ量：[692%] +73%\n追加SA破壊量：[378%] +41%
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_CombatMaster_A
 0
 
 ID=22063
-ウェスタンフィニッシュ III
+Western Finish III
 [特性情報]\n全体攻撃ダメージ量:[765%]\n全体攻撃SA破壊量: [419%]\n\n最後の攻撃の前に右クリックすると、もう一度強力な攻撃を繰り返します。
 LvMax
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_CombatMaster_A
 0
 
 ID=22081
-ドロップカプセル I
+Drop Capsule I
 [特性情報]\nダメージ量:[1215%]\nSA破壊量: [303%]\n\n[特性情報：召喚体一般攻撃]\nダメージ量及びSA破壊量: 打撃毎[100%]\n\n[特性情報：召喚体自爆攻撃]\nダメージ量及びSA破壊量: [200%]\n\n砲撃ポイントに自爆するロボットを召喚するカプセルを発射します。\nドロップカプセルからは「デリーバー」を召喚します。
 ダメージ量が60%増加します。\nSA破壊量が15%増加します。\nドロップカプセルが[トレッカー]を召喚します。\n自爆攻撃のダメージ量、SA破壊量が100%増加します。
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_ElectricShot_A
 0
 
 ID=22082
-ドロップカプセル II
+Drop Capsule II
 [特性情報]\nダメージ量:[1275%]\nSA破壊量: [318%]\n\n[特性情報：召喚体一般攻撃]\nダメージ量及びSA破壊量: 打撃毎[100%]\n\n[特性情報：召喚体自爆攻撃]\nダメージ量及びSA破壊量: [300%]\n\n砲撃ポイントに自爆するロボットを召喚するカプセルを発射します。\nドロップカプセルは「トレッカー」を召喚します。
 ダメージ量が151%増加します。\nSA破壊量が37%増加します。\nドロップカプセルが[メカグルトン]を召喚します。\n自爆攻撃のダメージ量、SA破壊量が200%増加します。
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_ElectricShot_A
 0
 
 ID=22083
-ドロップカプセル III
+Drop Capsule III
 [特性情報]\nダメージ量:[1426%]\nSA破壊量: [355%]\n\n[特性情報：召喚体一般攻撃]\nダメージ量及びSA破壊量: 打撃毎[100%]\n\n[特性情報：召喚体自爆攻撃]\nダメージ量及びSA破壊量: [500%]\n\n砲撃ポイントに自爆するロボットを召喚するカプセルを発射します。\nドロップカプセルは「メカグルトン」を召喚します。
 LvMax
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_ElectricShot_A
 0
 
 ID=5171
-バウンスウェーブ I
+Bounce Wave I
 [スキル情報]\nパッシブ効果：回復スキル使用時、5秒間、スキルクールタイム[7%]減少\nパッシブクールタイム：[60秒]\n\n支援モードでトラブルパス、ビーズプレイ、ベストテンポを使用時、スキルのクールタイムが減少します。
 クールタイム減少量：[7%] +4% 
 Icon/Skill/Howling/Icon_Howling_Skill_SGPassive2
 0
 
 ID=5172
-バウンスウェーブ II
+Bounce Wave II
 [スキル情報]\nパッシブ効果：回復スキル使用時、5秒間、スキルクールタイム[11%]減少\nパッシブクールタイム：[60秒]\n\n支援モードでトラブルパス、ビーズプレイ、ベストテンポを使用時、スキルのクールタイムが減少します。
 クールタイム減少量：[11%] +4% 
 Icon/Skill/Howling/Icon_Howling_Skill_SGPassive2
 0
 
 ID=5173
-バウンスウェーブ III
+Bounce Wave III
 [スキル情報]\nパッシブ効果：回復スキル使用時、5秒間、スキルクールタイム[15%]減少\nパッシブクールタイム：[60秒]\n\n支援モードでトラブルパス、ビーズプレイ、ベストテンポを使用時、スキルのクールタイムが減少します。
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_SGPassive2
 0
 
 ID=15141
-レックレスプリンセス I
+Reckless Princess I
 [スキル情報]\nダメージ量：[660%]\nSA破壊量：[700%]\nSG消費量：[35]\nクールタイム：[30秒]\n\n空中からゴーストを前方下方向に発射します。攻撃時、爆発の反動により後方に飛ばされます。\n\n[操作法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量：[660%] +66%\nSA破壊量：[700%] +70%
 Icon/Skill/Howling/Icon_Howling_Skill_recklessPrincess
 0
 
 ID=15142
-レックレスプリンセス II
+Reckless Princess II
 [スキル情報]\nダメージ量：[726%]\nSA破壊量：[770%]\nSG消費量：[35]\nクールタイム：[30秒]\n\n空中からゴーストを前方下方向に発射します。攻撃時、爆発の反動により後方に飛ばされます。\n[操作法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量：[726%] +87%\nSA破壊量：[770%] +92%
 Icon/Skill/Howling/Icon_Howling_Skill_recklessPrincess
 0
 
 ID=15143
-レックレスプリンセス III
+Reckless Princess III
 [スキル情報]\nダメージ量：[813%]\nSA破壊量：[862%]\nSG消費量：[35]\nクールタイム：[30秒]\n\n空中からゴーストを前方下方向に発射します。攻撃時、爆発の反動により後方に飛ばされます。\n\n[操作法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量：[813%] +114%\nSA破壊量：[862%] +121%
 Icon/Skill/Howling/Icon_Howling_Skill_recklessPrincess
 0
 
 ID=15144
-レックレスプリンセス IV
+Reckless Princess IV
 [スキル情報]\nダメージ量：[927%]\nSA破壊量：[983%]\nSG消費量：[35]\nクールタイム：[30秒]\n\n空中からゴーストを前方下方向に発射します。攻撃時、爆発の反動により後方に飛ばされます。\n\n[操作法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 ダメージ量：[927%] +167%\nSA破壊量：[983%] +177%
 Icon/Skill/Howling/Icon_Howling_Skill_recklessPrincess
 0
 
 ID=15145
-レックレスプリンセス V
+Reckless Princess V
 [スキル情報]\nダメージ量：[1094%]\nSA破壊量：[1160%]\nSG消費量：[35]\nクールタイム：[30秒]\n\n空中からゴーストを前方下方向に発射します。攻撃時、爆発の反動により後方に飛ばされます。\n\n[操作法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_recklessPrincess
 0
 
 ID=15151
-ウルフズショータイム I
+Wolf's Showtime I
 [スキル情報]\nダメージ量：[1570%]\nSA破壊量：[682%]\nSG消費量：[30]\nクールタイム：[35秒]\n\n[スキル情報：応援]\nバフ効果：最大HP[600]増加(効果及び維持時間は最大3重複)\nバフ持続時間：[60秒]\n\nウルフズファントムを前方に投げ、人型に変身したウルフズファントムが周りの敵を素早く切り裂きます。\n同時にステラは周りの友達を応援し、元気付けます。\n\n[操作法]\nスキルスロットに登録して該当キーを入力
 [攻撃]\nダメージ量：[1570%] +157%\nSA破壊量：[682%] +68%\n\n[応援]\nバフ：最大HP[600]+300\n
 Icon/Skill/Howling/Icon_Howling_Skill_WolvesShowtime
 0
 
 ID=15152
-ウルフズショータイム II
+Wolf's Showtime II
 [スキル情報]\nダメージ量：[1727%]\nSA破壊量：[750%]\nSG消費量：[30]\nクールタイム：[35秒]\n\n[スキル情報：応援]\nバフ効果：最大HP[900]増加(効果及び維持時間は最大3重複)\nバフ持続時間：[60秒]\n\nウルフズファントムを前方に投げ、人型に変身したウルフズファントムが周りの敵を素早く切り裂きます。\n同時にステラは周りの友達を応援し、元気付けます。\n\n[操作法]\nスキルスロットに登録して該当キーを入力
 [攻撃]\nダメージ量：[1727%]+207%\nSA破壊量：[750%] +90%\n\n[応援]\nバフ：最大HP[900]+300\n
 Icon/Skill/Howling/Icon_Howling_Skill_WolvesShowtime
 0
 
 ID=15153
-ウルフズショータイム III
+Wolf's Showtime III
 [スキル情報]\nダメージ量：[1934%]\nSA破壊量：[840%]\nSG消費量：[30]\nクールタイム：[35秒]\n\n[スキル情報：応援]\nバフ効果：最大HP[1200]増加(効果及び維持時間は最大3重複)\nバフ持続時間：[60秒]\nウルフズファントムを前方に投げ、人型に変身したウルフズファントムが周りの敵を素早く切り裂きます。\n同時にステラは周りの友達を応援し、元気付けます。\n\n[操作法]\nスキルスロットに登録して該当キーを入力
 [攻撃]\nダメージ量：[1934%]+271%\nSA破壊量：[840%] +118%\n\n[応援]\nバフ：最大HP[1200]+300\n
 Icon/Skill/Howling/Icon_Howling_Skill_WolvesShowtime
 0
 
 ID=15154
-ウルフズショータイム IV
+Wolf's Showtime IV
 [スキル情報]\nダメージ量：[2205%]\nSA破壊量：[958%]\nSG消費量：[30]\nクールタイム：[35秒]\n\n[スキル情報：応援]\nバフ効果：最大HP[1500]増加(効果及び維持時間は最大3重複)\nバフ持続時間：[60秒]\n\nウルフズファントムを前方に投げ、人型に変身したウルフズファントムが周りの敵を素早く切り裂きます。\n同時にステラは周りの友達を応援し、元気付けます。\n\n[操作法]\nスキルスロットに登録して該当キーを入力
 [攻撃]\nダメージ量：[2205%] +397%\nSA破壊量：[958%] +172%\n\n[応援]\nバフ：最大HP[1500]+500
 Icon/Skill/Howling/Icon_Howling_Skill_WolvesShowtime
 0
 
 ID=15155
-ウルフズショータイム V
+Wolf's Showtime V
 [スキル情報]\nダメージ量：[2602%]\nSA破壊量：[1130%]\nSG消費量：[30]\nクールタイム：[35秒]\n\n[スキル情報：応援]\nバフ効果：最大HP[2000]増加(効果及び維持時間は最大3重複)\nバフ持続時間：[60秒]\n\nウルフズファントムを前方に投げ、人型に変身したウルフズファントムが周りの敵を素早く切り裂きます。\n同時にステラは周りの友達を応援し、元気付けます。\n\n[操作法]\nスキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_WolvesShowtime
 0
 
 ID=15913
-ステリアシンフォニー
+Stellar Symphony
 覚醒状態でスキルが使用が可能です。\nスキル使用時、覚醒状態が解除されます。\n\n[スキル情報]\nダメージ量：[3400%]\nSA破壊量：[2800%]\n\nステラがたくさんの友達を呼び出し、楽器演奏に合わせて総攻撃します。 \n\n[操作法]\n使用条件:覚醒状態でキーボードの「7」を入力
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_StelliaSymphony
 Description_Image/Skill/Howling/Image_Howling_Skill_Stellia Symphony
 
 ID=25011
-パフォーマンスアップ I
+Performance Up I
 [特性情報：回転攻撃]\nダメージ量：打撃毎[77%]\nSA破壊量：打撃毎[34%]\n\n[特性情報：フィニッシュ攻撃]\nダメージ量：[385%]\nSA破壊量：[173%]\n\nワールダンス使用中に移動できるようになります。また、回転攻撃時は回避状態になります。\n(一部特殊攻撃は対象外)
 回転攻撃ダメージ量増加値：[77%] +11%\n回転攻撃SA破壊量増加値：[34%] +5%\nフィニッシュ攻撃ダメージ量増加値：[385%] +58%\nフィニッシュ攻撃SA破壊量増加値：[173%]+26%
 Icon/Skill/Howling/Icon_Howling_Skill_WhirlDance_A
 0
 
 ID=25012
-パフォーマンスアップ II
+Performance Up II
 [特性情報：回転攻撃]\nダメージ量：打撃毎[88%]\nSA破壊量：打撃毎[39%]\n\n[特性情報：フィニッシュ攻撃]\nダメージ量：[443%]\nSA破壊量：[199%]\n\nワールダンス使用中に移動できるようになります。また、回転攻撃時は回避状態になります。\n(一部特殊攻撃は対象外)
 回転攻撃ダメージ量増加値：[88%]+23%\n回転攻撃SA破壊量増加値：[39%] +11%\nフィニッシュ攻撃ダメージ量増加値：[443%] +115%\nフィニッシュ攻撃SA破壊量増加値：[199%] +52%
 Icon/Skill/Howling/Icon_Howling_Skill_WhirlDance_A
 0
 
 ID=25013
-パフォーマンスアップ III
+Performance Up III
 [特性情報：回転攻撃]\nダメージ量：打撃毎[111%]\nSA破壊量：打撃毎[50%]\n\n[特性情報：フィニッシュ攻撃]\nダメージ量：[558%]\nSA破壊量：[251%]\n\nワールダンス使用中に移動できるようになります。また、回転攻撃時は回避状態になります。\n(一部特殊攻撃は対象外)
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_WhirlDance_A
 0
 
 ID=25081
-スターライトステージ I
-[特性情報：左クリック]\nダメージ量：[479%]\nSA破壊量：[1198%]\nデバフ効果：感電[4秒]の間、1秒毎にHP1%減少 \n\n[特性情報：右クリック]\nダメージ量：[239%]\nSA破壊量：[599%]\nバフ効果：味方のSGを5秒の間、1秒毎に[4%]回復\n\n爆走したゴーストと派手なライヴを披露して、敵を攻撃したり味方を支援します。
-左クリックダメージ量増加：[479%] +72%\n左クリックSA破壊量増加：[1198%] +179%\n感電デバフ持続時間：[4秒]+2秒\n右クリックダメージ量増加：[239%] +36%\n右クリックSA破壊量増加：[599%] +89%\nSGバフ回復量増加：[4%]+2%\n
+Starlight Stage I
+[特性情報：攻撃]\n打撃毎ダメージ量：[125%]\n打撃毎SA破壊量：[311%]\n\n[特性情報：バフ/デバフ]\n右クリックバフ：味方SGを5秒間1秒毎に[4%]回復\n左クリックデバフ：感電[4秒]間、1秒毎にHP1％減少\n\n爆走したゴーストと派手なライヴを披露して、敵を攻撃したり味方を支援します。
+ダメージ量増加：[125%] +18%\nSA破壊量増加：[311%] +46%\n感電デバフ持続時間：[4秒]+2秒\nSGバフ回復量増加：[4%]+2%\n
 Icon/Skill/Howling/Icon_Howling_Skill_SoulScream_A
 0
 
 ID=25082
-スターライトステージ II
-[特性情報：左クリック]\nダメージ量：[551%]\nSA破壊量：[1377%]\nデバフ効果：感電[6秒]の間、1秒毎にHP1%減少 \n\n[特性情報：右クリック]\nダメージ量：[275%]\nSA破壊量：[688%]\nバフ効果：味方のSGを5秒の間、1秒毎に[6%]回復\n\n爆走したゴーストと派手なライヴを披露して、敵を攻撃したり味方を支援します。
-左クリックダメージ量増加：[551%] +144%\n左クリックSA破壊量増加：[1377%] +360%\n感電デバフ持続時間：[6秒]+2秒\n右クリックダメージ量増加：[275%] +72%\n右クリックSA破壊量増加：[688%] +180%\nSGバフ回復量増加：[6%]+2%\n
+Starlight Stage II
+[特性情報：攻撃]\n打撃毎ダメージ量：[143%]\n打撃毎SA破壊量：[357%]\n\n[特性情報：バフ/デバフ]\n右クリックバフ：味方SGを5秒間1秒毎に[6%]回復\n左クリックデバフ：感電[6秒]間、1秒毎にHP1％減少\n\n爆走したゴーストと派手なライヴを披露して、敵を攻撃したり味方を支援します。
+ダメージ量増加：[143%] +38%\nSA破壊量増加：[357%] +94%\n感電デバフ持続時間：[6秒]+2秒\nSGバフ回復量増加：[6%]+2%\n
 Icon/Skill/Howling/Icon_Howling_Skill_SoulScream_A
 0
 
 ID=25083
-スターライトステージ III
-[特性情報：左クリック]\nダメージ量：[695%]\nSA破壊量：[1737%]\nデバフ効果：感電[8秒]の間、1秒毎にHP1%減少 \n\n[特性情報：右クリック]\nダメージ量：[347%]\nSA破壊量：[868%]\nバフ効果：味方のSGを5秒の間、1秒毎に[10%]回復\n\n爆走したゴーストと派手なライヴを披露して、敵を攻撃したり味方を支援します。
+Starlight Stage III
+[特性情報：攻撃]\n打撃毎ダメージ量：[181%]\n打撃毎SA破壊量：[451%]\n\n[特性情報：バフ/デバフ]\n右クリックバフ：味方SGを5秒間1秒毎に[10%]回復\n左クリックデバフ：感電[8秒]間、1秒毎にHP1％減少\n\n爆走したゴーストと派手なライヴを披露して、敵を攻撃したり味方を支援します。
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_SoulScream_A
 0
