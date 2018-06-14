@@ -113,7 +113,7 @@ ID=57
 Craft
 
 ID=58
-Enhance
+Reinforce
 
 ID=59
 Trade
@@ -275,7 +275,7 @@ ID=140
 Break
 
 ID=141
-Miscellaneous
+Others
 
 ID=142
 Head
@@ -297,6 +297,18 @@ Defense Familiar
 
 ID=148
 Gesture
+
+ID=149
+自動選択
+
+ID=150
+Normal
+
+ID=151
+マジック以下
+
+ID=152
+レア以下
 
 ID=171
 Soul Weapon
@@ -1262,7 +1274,7 @@ ID=706
 Craft
 
 ID=707
-Costume (Pending)
+Fashion (Pending)
 
 ID=708
 Area Transfer
@@ -1328,7 +1340,7 @@ ID=728
 Lv{0}
 
 ID=729
-リサイクルショップ
+Recycle Shop
 
 ID=730
 Option Tuning
@@ -1874,7 +1886,7 @@ ID=942
 Bound on Acquisition
 
 ID=943
-Item Bounded
+Bounded Item
 
 ID=946
 <font color='#FF0000'>Unsellable</font>
@@ -1892,10 +1904,10 @@ ID=953
 Please register a target item.
 
 ID=954
-Maximum Enhance Limit: +{0}
+Max. Enhancement Level: +{0}
 
 ID=955
-Enhances
+Enhancement Level
 
 ID=956
 Enhancement Material
@@ -2039,7 +2051,7 @@ ID=1002
 Short 'n Wild
 
 ID=1003
-Curled Short Style
+Short Curly Style
 
 ID=1004
 Hair 4
@@ -2153,28 +2165,28 @@ ID=1110
 Hairstyle Color
 
 ID=1111
-Skin Type
+Skin
 
 ID=1112
 Eye Color
 
 ID=1113
-General Costume
+Basic Costume
 
 ID=1114
 Listen
 
 ID=1115
-Run
+Execute
 
 ID=1116
-Character Select
+Select Character
 
 ID=1117
-Default Look.
+Default
 
 ID=1118
-Random Look
+Random
 
 ID=1119
 Create
@@ -2498,7 +2510,7 @@ ID=2209
 Recipient
 
 ID=2210
-Header
+Title
 
 ID=2211
 Attached
@@ -3239,7 +3251,7 @@ ID=5331
 Kant
 
 ID=5400
-Character Select
+Select Character
 
 ID=5401
 Next
@@ -3341,7 +3353,7 @@ ID=5509
 Eye Color
 
 ID=5510
-Skin Type
+Skin
 
 ID=5511
 Basic Costume Selection
@@ -3365,7 +3377,7 @@ ID=5517
 Reset
 
 ID=5518
-Random Look
+Random
 
 ID=5519
 Character Style Settings
@@ -4223,13 +4235,13 @@ ID=9002
 Season 3
 
 ID=9100
-Room
+My Room
 
 ID=9101
 Grasscover Camp
 
 ID=9102
-Room
+My Room
 
 ID=9103
 Alice Breeze
@@ -4346,7 +4358,7 @@ ID=9603
 Tower of Greed
 
 ID=9604
-[Pending] Iron Castle
+[Pending] Iron Army
 
 ID=9611
 Concrete Jungle
@@ -4406,7 +4418,7 @@ ID=9783
 Last Carnival of Brilliance
 
 ID=9784
-Last Carnival of Evil
+Last Carnival of Malice
 
 ID=9785
 Last Carnival of Serenity
@@ -4424,7 +4436,7 @@ ID=9789
 Junk Hive of Brilliance
 
 ID=9790
-Junk Hive of Evil
+Junk Hive of Malice
 
 ID=9791
 Junk Hive of Serenity
@@ -4442,7 +4454,7 @@ ID=9795
 Bandit Highway of Brilliance
 
 ID=9796
-Bandit Highway of Evil
+Bandit Highway of Malice
 
 ID=9797
 Bandit Highway of Serenity
@@ -4460,7 +4472,7 @@ ID=9801
 Iron Castle of Brilliance
 
 ID=9802
-Iron Castle of Evil
+Iron Castle of Malice
 
 ID=9803
 Iron Castle of Serenity
@@ -4505,22 +4517,22 @@ ID=9989
 Golden Citadel
 
 ID=9990
-House of Premonition
+Hall of Omen
 
 ID=9991
-House of Disorder
+Hall of Chaos
 
 ID=9992
-House of Conflict
+Hall of Conflict
 
 ID=9993
-House of Eternity
+Hall of Eternity
 
 ID=9994
-House of Calamity
+Hall of Calamity
 
 ID=9995
-House of Endings
+Hall of Endings
 
 ID=9996
 The most difficult raid, The Primal, is a force dedicated dungeon for maximum 8 players.\nTo stop the world from collapsing, please defeat The Primal along with your comrades.
@@ -4889,7 +4901,7 @@ ID=10401
 Beings of the Underworld
 
 ID=10402
-Power Leads to Power
+Power with Power
 
 ID=10403
 Pursuit
@@ -5474,7 +5486,7 @@ ID=16586
 Tera
 
 ID=16587
-PB
+Peta
 
 ID=16800
 Please enter text to search.
@@ -5531,7 +5543,7 @@ ID=16817
 Price
 
 ID=16818
-Enhances
+Enhancement Level
 
 ID=16819
 Min
@@ -5627,7 +5639,7 @@ ID=16849
 Galaxy
 
 ID=16850
-{0}
+{0}개
 
 ID=16851
 The following search parameters are not applicable.
@@ -5696,7 +5708,7 @@ ID=18005
 Are you sure you want to restore {0}'s condition?\nRestoration Limit: {1}.
 
 ID=18006
-Restore Item
+Restore
 
 ID=18007
 Restorations
@@ -5705,7 +5717,7 @@ ID=18008
 Revive Cell
 
 ID=18009
-Restore Item
+Restore
 
 ID=18010
 The item's condition is restorable.
@@ -6068,7 +6080,7 @@ ID=18506
 Power Slash
 
 ID=18507
-Leap Strike
+Leap Attack
 
 ID=18508
 Arena Rush
@@ -6233,7 +6245,7 @@ ID=18561
 Beads Play
 
 ID=18562
-Decade Pulse
+Decayed Pulse
 
 ID=18563
 Soul Scream
@@ -6308,13 +6320,13 @@ ID=18602
 SA Break: {0}%
 
 ID=18603
-SG Absorbtion: {0}%
+SG Absorption: {0}%
 
 ID=18650
-Coupon used
+You have used the coupon
 
 ID=18651
-Coupon using failed
+Failed to use the coupon
 
 ID=18652
 {0}クーポンの使用が完了しました。HEMS(メール)でプレゼントを確認してください。
@@ -6426,6 +6438,12 @@ ID=18815
 
 ID=18816
 ネッドカンパニー試供品シリアルコード
+
+ID=18817
+シルバーWチャンス
+
+ID=18818
+ゴールドWチャンス
 
 ID=19000
 <font color='#47C83E'>+1% Attack/+1% Evaded Attack Damage</font>
@@ -6794,19 +6812,19 @@ ID=20145
 Sexy Animal Ear Maid 1
 
 ID=20146
-第一悩殺ポーズ！
+First bewitching pose!
 
 ID=20147
-{0}が第一悩殺ポーズを取っています。
+{0} takes a first bewitching pose.
 
 ID=20148
 Sexy Animal Ear Maid 2
 
 ID=20149
-第二悩殺ポーズ！
+Second bewitching pose!
 
 ID=20150
-{0}が第二悩殺ポーズを取っています。
+{0} takes a second bewitching pose.
 
 ID=20151
 White Day
@@ -7202,7 +7220,7 @@ ID=21554
 Recall
 
 ID=21555
-Summonable only during solo play.
+Can only summon on solo play.
 
 ID=22000
 ON
@@ -7211,13 +7229,13 @@ ID=22001
 OFF
 
 ID=22002
-Display All
+Show All
 
 ID=22003
-Display only for Party members
+Show to Party members only
 
 ID=22004
-Display only guild members
+Show to Guild members only
 
 ID=22005
 Hide All
@@ -7226,7 +7244,7 @@ ID=22006
 Always Show
 
 ID=22007
-Display when attacking
+Show on attack
 
 ID=22008
 Hide
@@ -7244,13 +7262,13 @@ ID=22012
 OFF
 
 ID=22013
-Single Press
+Press once
 
 ID=22014
 Hold Down
 
 ID=22015
-Display if possible
+Show when available
 
 ID=22016
 Allow All
@@ -7295,7 +7313,7 @@ ID=22029
 Best
 
 ID=22030
-Complex
+Projection
 
 ID=22031
 Simple
@@ -7307,7 +7325,7 @@ ID=22033
 Fixed
 
 ID=22034
-Rotation
+Rotating
 
 ID=22100
 Camera
@@ -7331,28 +7349,28 @@ ID=22106
 The camera's perspective is isomorphic to the character.
 
 ID=22107
-Sync Camera to Attacks
+Attack in the camera's direction
 
 ID=22108
-Camera
+Camera PoV
 
 ID=22109
-Character Perspective
+Character PoV
 
 ID=22110
-Gamepad Controls
+Use Gamepad
 
 ID=22111
-Dash to Dodge
+Dash after evading
 
 ID=22112
-Miscallaneous Settings
+Other Settings
 
 ID=22200
-Preferences
+Game Settings
 
 ID=22201
-Display Information
+Displayed Info
 
 ID=22202
 Name
@@ -7364,13 +7382,13 @@ ID=22204
 Title
 
 ID=22205
-Enemy Names
+Enemy Name
 
 ID=22206
 Enemy HP
 
 ID=22207
-NPC Names
+NPC Name
 
 ID=22208
 Chat Bubble
@@ -7385,13 +7403,13 @@ ID=22211
 Object Damage Info
 
 ID=22212
-Camera Settings
+Camera
 
 ID=22213
-Camera Settings FX
+Camera Direction on Skills
 
 ID=22214
-Shake Screen
+Camera Shake
 
 ID=22215
 Camera Sensitivity
@@ -7403,10 +7421,10 @@ ID=22217
 UI Scale
 
 ID=22218
-Item Drop Names
+Item Drop Name
 
 ID=22219
-AR Card Switch Mode
+Switch to AR Card Mode
 
 ID=22220
 Skill Navigation
@@ -7421,13 +7439,13 @@ ID=22223
 Mouse Sensitivity
 
 ID=22224
-Interaction Controls
+Message Reception
 
 ID=22225
 Whisper
 
 ID=22226
-Trade Requests
+Player Trading
 
 ID=22227
 Party Invite
@@ -7442,10 +7460,10 @@ ID=22230
 Show Info
 
 ID=22231
-Miscellaneous
+Others
 
 ID=22232
-Screenshot Location
+Screenshot Save Location
 
 ID=22233
 Select Screenshot Save Location
@@ -7454,40 +7472,40 @@ ID=22234
 Screenshot Hotkey
 
 ID=22235
-Reset Settings to Default
+Reset Game Settings
 
 ID=22236
-Self Attacks Info
+Show Your Attack Info
 
 ID=22237
-Party Attacks Info
+Show Allies' Attack Info
 
 ID=22238
-Rank
+Show Rank
 
 ID=22300
-Graphics 
+Graphics Settings
 
 ID=22301
-Screen Settings
+Screen
 
 ID=22302
 Screen Mode
 
 ID=22303
-Game Resolution
+Resolution
 
 ID=22304
-Quality Controls
+Quality
 
 ID=22305
 Overall Quality
 
 ID=22306
-Shadow Models
+Shadow Render
 
 ID=22307
-Shadow Textures
+Shadow Quality
 
 ID=22308
 Viewing Distance
@@ -7505,7 +7523,7 @@ ID=22312
 Contrast
 
 ID=22313
-Gamma[Full Screen]
+Gamma [Full Screen-exclusive]
 
 ID=22314
 Permeation Effect
@@ -7517,10 +7535,10 @@ ID=22316
 Glow Effect
 
 ID=22317
-Depth of Field
+Autofocus
 
 ID=22318
-Object Physics Effects
+Apply Destruction Physics
 
 ID=22319
 Anti-Aliasing
@@ -7532,10 +7550,10 @@ ID=22321
 Auto Optimization
 
 ID=22400
-Sound
+Sound Settings
 
 ID=22401
-Volume Control
+Volume
 
 ID=22402
 All
@@ -7652,13 +7670,13 @@ ID=22532
 Confirm Item Name
 
 ID=22533
-AR Card Switch Mode
+Switch to AR Card Mode
 
 ID=22534
 Weapon Access
 
 ID=22535
-Camera Settings
+Camera
 
 ID=22536
 Zoom in Camera
@@ -7769,7 +7787,7 @@ ID=22571
 Radio Chat 6
 
 ID=22572
-Miscellaneous
+Others
 
 ID=22573
 Reset Hotkeys to Default
@@ -7958,7 +7976,7 @@ ID=22656
 Transp. (Inactive)
 
 ID=22657
-Miscellaneous
+Others
 
 ID=22658
 Return Chat Options to Default
@@ -8318,7 +8336,7 @@ ID=24313
 Puppet
 
 ID=24314
-Camera Settings
+Camera
 
 ID=24315
 Cassette
@@ -8546,7 +8564,7 @@ ID=24557
 TV
 
 ID=24558
-Miscellaneous
+Others
 
 ID=24559
 Weapon
@@ -8675,7 +8693,7 @@ ID=24600
 Puppet
 
 ID=24601
-Camera Settings
+Camera
 
 ID=24602
 Cassette
@@ -8888,7 +8906,7 @@ ID=24760
 Puppet
 
 ID=24761
-Camera Settings
+Camera
 
 ID=24762
 Cassette
@@ -9773,10 +9791,10 @@ ID=26125
 Combat Movement Speed
 
 ID=26126
-Void Irregular Faction Additional Damage
+ゴールデンシタデル勢力追加ダメージ[%]
 
 ID=26127
-Void Irregular Faction Damage Reduction
+ゴールデンシタデル勢力ダメージ減少[%]
 
 ID=26128
 Primal Faction Additional Damage
@@ -10541,7 +10559,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 29/Apr/2018 6:35 PM JST.\nPlease check your guild's information for updates.
+This translation was brought to you by the Soulworker Translation Team.\nLast updated at 14/Jun/2018 10:30 PM JST.\nPlease check your guild's information for updates.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -11138,7 +11156,7 @@ ID=28269
 {0}秒後復活
 
 ID=29000
-Room
+My Room
 
 ID=29001
 Visit
@@ -11432,10 +11450,10 @@ ID=29098
 Received rank rewards.\nPlease check your account mail.
 
 ID=29121
-マイルーム情報を読込中です。\n読込が完了するとこのメッセージは自動に消えます。\n\n時間が1分以上かかる場合には「確認」ボタンを押して村に戻る事が出来ます。
+マイルーム情報を読込中です。\n読込が完了するとこのメッセージは自動に消えます。\n\n時間が1分以上かかる場合には「確認」ボタンを押して街に戻る事が出来ます。
 
 ID=29122
-マイルーム入場遅延
+マイルーム入場中
 
 ID=30000
 Profile
@@ -12269,13 +12287,13 @@ ID=32088
 Camera
 
 ID=32089
-Preferences
+Game Settings
 
 ID=32090
-Graphics 
+Graphics Settings
 
 ID=32091
-Sound
+Sound Settings
 
 ID=32092
 Hotkey Config
@@ -13874,10 +13892,10 @@ ID=40401
 More enemies will be summoned soon. Please be careful.
 
 ID=40402
-Defeat the enemies while avoiding the trap.
+床の火炎トラップは周期的に発生します。\n火炎トラップを避けながら人形を討伐してください。
 
 ID=40403
-Get through quickly while dodging the traps. You can earn a reward if you succeed in a certain time limit.
+火炎トラップは一定時間毎に火柱を生成し、回避で避けることはできません。\nタイミングを見計らい、火炎トラップを避けてください。
 
 ID=40404
 To damage the red central temptation stone, please defeat all the enemies summoned by the blue/green temptation stone.
@@ -13886,7 +13904,7 @@ ID=40405
 Please defeat Edgar or one after another, more enemies will appear.
 
 ID=40406
-Failure to defeat the enemy within the time limit will cause the time bomb to explode and deal heavy damage.
+時限爆弾の爆発を避けながら全ての人形を退治してください。\n時限爆弾は全ての敵が倒れるまで生成されます。
 
 ID=40407
 The next enemy will appear after all current enemies are defeated.
@@ -13901,13 +13919,13 @@ ID=40410
 All enemies summoned by the blue/green temptation stone have been exterminated.\nThe red temptation stone can be attacked.
 
 ID=40411
-As time passes, more powerful enemies will appear.
+人形たちの守護を受けている為、エドガはダメージを受けません。\n全ての人形を退治すると人形たちの守護が消えます。
 
 ID=40412
-Edgar's final assault stage begins.\nIf a carnival bomb falls and explode, it will cause a large area of damage. Be careful.
+カーニバルボムは周期的に地上に落下して爆発します。\nボムが落下して爆発すると、ダメージと同時に火炎地帯を生成するので気を付けてください。
 
 ID=40421
-Please activate the center magnetic-field generating device.
+大形のソウルジャンクが現れました。\nソウルジャンク殲滅装置を保護してください。
 
 ID=40422
 Until the magnetic-field generating device has fully charged, please defend it from oncoming enemies.
@@ -13925,10 +13943,10 @@ ID=40426
 The magnetic fields will discharge.
 
 ID=40427
-Using the front switch will make the Mutant Mad Beholder appear.\nThe Mad Beholder has a large amount of HP so normal attacks will not be very effective.
+[A-1] [B-1] [C-1]研究室にあるセキュリティーロックを全部解除すれば、特殊実験体隔離室への移動が可能となります。
 
 ID=40428
-The purifier has been destroyed by the Mutant Mad Beholder's attacks.
+特殊実験体隔離室のセキュリティーロック解除。
 
 ID=40429
 Upon activating the switch in the left hand side of the A-1 Laboratory, the player's attack will rise significantly.
@@ -13937,13 +13955,13 @@ ID=40430
 The switches can be activated after defeating all the enemies.
 
 ID=40431
-The second switch is located on the right side of the map in the B-1 Laboratory. The lab's door has opened.
+セキュリティーNo.A-1のロックが解除されました。
 
 ID=40432
-The third C-1 Laboratory's door switch has been activated.
+セキュリティーNo.B-1のロックが解除されました。
 
 ID=40433
-All the switches have been activated.
+セキュリティーNo.C-1のロックが解除されました。
 
 ID=40434
 If you disable the central power source, the defense system will be disabled.
@@ -13955,10 +13973,10 @@ ID=40442
 The bomb will explode shortly!
 
 ID=40443
-Rapid Flame reinforcements have arrived.
+遠距離砲撃用テンペスト保護のため、敵の援軍が到着しました。
 
 ID=40444
-Attacking a Rapid Gate will destroy it, stopping reinforcements coming out.
+ラピッドゲートから続けて援軍が召喚されます。ラピッドゲートは攻撃して破壊できます。
 
 ID=40445
 The immobile tank is blocking the path. Destroy it using other tanks.
@@ -14000,10 +14018,10 @@ ID=40457
 To deploy the 2nd EMP generator, it must be charged for 30 seconds.
 
 ID=40458
-Bombardment from the Flame Tempest Forces have started.
+フレイムテンペストの長距離砲撃が始まります。
 
 ID=40459
-The shield generator can be activated to negate the Flame Tempests' attacks.
+フレイムテンペストの長距離砲撃が始まる前にシールド発生装置が投下され、砲撃を阻むシールドが自動で展開します。
 
 ID=40460
 EMP generator charge is complete.
@@ -14241,6 +14259,39 @@ ID=40630
 
 ID=40631
 プライマルが強力な酸性胃液を吐こうとしています。\n周辺の残骸物の上に退避してください。
+
+ID=40633
+クリスタルを起動すると戦闘が開始します。
+
+ID=40634
+行け、兵士達よ！\n愚かな蟻どもを叩き潰し、魂も残さず喰らうのだ！
+
+ID=40635
+圧倒的な力を見せてやろう！\nただし、貴様らの命と引き換えだ！
+
+ID=40636
+懦弱な下等生物が…！\n恐怖に慄き命乞いをしろ！
+
+ID=40637
+つまらん蠅どもめ…\n貴様らの立てる場所などないわ！
+
+ID=40638
+どうした…？\nその程度の力では肉片一つ残らんぞ！
+
+ID=40639
+力だ…もっと、力を……！
+
+ID=40640
+まさかこの程度の攻撃で死にはせんだろう？\n耐えて見せろ！
+
+ID=40641
+まだだ…まだ足りんぞ！\nこんなにも血が滾るのは久しぶりだ！
+
+ID=40642
+くはははは！いいぞ…もっとだ！\n肉が爛れ落ち、腕が吹き飛ぼうともかかって来い！\nお楽しみはこれからだ！
+
+ID=40643
+憤怒！虐殺！破壊！
 
 ID=40701
 A supporting attack from the Tank Squad will soon begin.\nPlease withstand the enemy's assault until the reinforcements arrive.
@@ -17363,7 +17414,7 @@ ID=49201
 System Settings
 
 ID=49202
-Character Select
+Select Character
 
 ID=49203
 Server Selection
@@ -17837,7 +17888,7 @@ ID=49732
 Item Lock
 
 ID=49733
-You have entered the wrong trading PIN 3 times, the items have been locked.\nFollow the instructions on the homepage in order to reset your trading PIN.
+取引パスワードを3回間違えたため、ロックされました。\n公式サイトのFAQをご確認の上再設定の依頼を行ってください。
 
 ID=49734
 Trading PIN was not set
@@ -19787,7 +19838,7 @@ ID=58105
 You do not meet the requirements for entry; you have not explored the town yet.
 
 ID=59100
-Cube does not exist.
+アイテムの使用に失敗しました。
 
 ID=58200
 Level requirement is not met to create a room.
@@ -19953,6 +20004,9 @@ Cannot list the item because the entered price exceeds the price limit.
 
 ID=58309
 Exceeded the maximum number of listed items. Cannot list more than 100 items.
+
+ID=58310
+制裁されているユーザーが販売しているアイテムの為、購入できません。
 
 ID=58400
 Match is still ongoing, cannot enter a free match because of withdrawal restrictions.\nCurrently, the entry time restriction does not decrease because the match you have left is still in progress.
@@ -20523,6 +20577,9 @@ ID=21105
 
 ID=48416
 [光輝]/[悪念]/[冷静]/[憎悪]/[苦痛]の破片に汚染された敵が登場します。\n※消費アイテム使用可能
+
+ID=48417
+アルターオブヴォイドの[エキスパート]難易度です。全モンスターの能力値が上昇し、攻撃パターンが追加されます。
 
 ID=48420
 Growth
@@ -21347,7 +21404,7 @@ ID=24668
 Underwear
 
 ID=24669
-Miscellaneous
+Others
 
 ID=24894
 製錬石
@@ -21796,6 +21853,42 @@ ID=5913
 ID=5914
 クリスマスプレゼントボックスは決められた時間内に一定の数が出現します。
 
+ID=5915
+<font color='#FFFFFF'><font size="30">TIP。</font>ヴォイドラーバを攻撃するとキャラクターに適用されている<font color='#FF0033'>[筋切断]</font>と<font color='#FF0033'>[脳震蕩]</font>デバフを食い尽します。
+
+ID=5916
+<font color='#FFFFFF'><font size="30">TIP。</font><font color='#FF0033'>[魂の崩壊]</font>デバフは暫くすると<font color='#FF0033'>[堕落した魂]</font>に変化します。変化は1人のみ適用されます。
+
+ID=5917
+<font color='#FFFFFF'><font size="30">TIP。</font>戦闘中のヨルハカは<font color='#FF0033'>自分の周囲に誰も居ないと暴走</font>し、非常に強力な攻撃を行います。
+
+ID=5918
+<font color='#FFFFFF'><font size="30">TIP。</font>ヨルハカは体力回復時に<font color='#FF0033'>スーパーアーマー</font>状態になります。<font color='#FF0033'>スーパーアーマー</font>を破壊することで回復状態を止めることができます。
+
+ID=5923
+<font color='#FFFFFF'><font size="30">TIP。</font>ニアソウルワーカーは一定時間ごとにラバン、エノック、ノア、シオンの順に出現します。
+
+ID=5924
+<font color='#FFFFFF'><font size="30">TIP。</font>覚醒体のニアソウルワーカーのスキルはすごく強力なので注意してください。
+
+ID=5925
+<font color='#FFFFFF'><font size="30">TIP。</font>ニアソウルワーカーを全員倒すと中央から特別な報酬ボックスが出現します。
+
+ID=5926
+<font color='#FFFFFF'><font size="30">TIP。</font>スカイクロックパレスの占有率報酬をお見逃しなく！
+
+ID=5927
+<font color='#FFFFFF'><font size="30">TIP。</font><font color='#FF0033'>[堕落した魂]</font>状態で敵を攻撃すると攻撃時に対象の体力を回復し<br />受けるダメージが60%減少する<font color='#FF0033'>[吸収された力]</font> バフを付与します。
+
+ID=5928
+ギルドに入ると様々な特典が付与されます。
+
+ID=5929
+ブローチのセット効果を利用しましょう。
+
+ID=5930
+困った時は公式サイトを確認し、お問い合わせに連絡しましょう。
+
 ID=18307
 復活 ( {0} )
 
@@ -21962,7 +22055,7 @@ ID=45170
 Hair Color
 
 ID=45171
-Skin Type
+Skin
 
 ID=45172
 Eye Color
@@ -22446,3 +22539,114 @@ Register
 
 ID=60718
 登録を行うと、インベントリ内のアイテムが全て登録されます。\n{0}を{1}個登録しますか？
+
+ID=10007
+空白内部に祭壇が確認されました。 [アルターオブヴォイド]でヨルハカを討伐してください。
+
+ID=18604
+打撃毎のダメージ量 :{0}%
+
+ID=27938
+HP回復時、30%の確率で3秒間移動速度{0}%増加
+
+ID=27939
+回避使用時、10%の確率で攻撃速度{0}%増加
+
+ID=33566
+ヴォイドセット
+
+ID=33567
+ヴォイドアクセサリーセット
+
+ID=33568
+ディスオーダーズI セット
+
+ID=33569
+ディスオーダーズII セット
+
+ID=33570
+ディスオーダーズアクセサリーセット
+
+ID=59009
+出席報酬支給処理中
+
+ID=59010
+出席報酬は既に獲得しています。
+
+ID=9108
+ディストピアレイド
+
+ID=20175
+ぐるぐるグルトン
+
+ID=20176
+ぐるぐるグルトンの呪文を唱えます。
+
+ID=20177
+{0}がぐるぐるグルトンの呪文を唱えます。
+
+ID=19810
+ソードフォール
+
+ID=19811
+スラッシングワーフェア
+
+ID=19812
+エクスティンクションプレリュード
+
+ID=19820
+ブレイズホバー
+
+ID=19821
+ミッションコール
+
+ID=19822
+ジオメトリープラトゥーン
+
+ID=19830
+ブラッディーブロッサム
+
+ID=19831
+フューリーサイス
+
+ID=19832
+アスモデウス
+
+ID=19840
+ギガンティックプレッシャー
+
+ID=19841
+カウンターストリーム
+
+ID=19842
+アクティビティオーバーチャージ
+
+ID=19850
+レックレスプリンセス
+
+ID=19851
+ウルフズショータイム
+
+ID=19852
+ステリアシンフォニー
+
+ID=22692
+ヘルプポップアップの表示
+
+ID=3077
+相手が取引内容を変更した為、登録確認を取り消します。
+
+ID=5064
+予備
+
+ID=38026
+エーテル獲得確率{0}%増加
+
+ID=38027
+BP獲得確率{0}%増加
+
+ID=60720
+サッカー大会応援イベント
+
+ID=60721
+サッカーボールを集めてアイテムを貰おう！

@@ -1242,19 +1242,19 @@ HP吸收
 
 ID=6021
 鬼神亂舞特性AⅠ
-敌人的防御力20%無效化
+敌人的防御力15%無效化
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=6022
 鬼神亂舞特性AⅡ
-无视敌人的防御力40%
+敵の防御度を30%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=6023
 鬼神亂舞特性AⅢ
-无视敌人的防御力70%
+敵の防御度を50%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
@@ -1284,19 +1284,19 @@ Icon/Buff/Icon_Common_Buff_CRI
 
 ID=6042
 極戰怒吼Ⅱ
-暴擊率增加6%
+暴擊率增加7%
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
 ID=6043
 極戰怒吼Ⅲ
-暴擊率增加8%
+クリティカル率が9%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
 ID=6044
 極戰怒吼Ⅳ
-暴擊率增加10%
+クリティカル率が12%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
@@ -2979,6 +2979,54 @@ HP減少
 0
 0
 HP減少
+
+ID=30302
+魂の崩壊
+まもなく誰かの魂が堕落します。
+Icon/Buff/Icon_Common_Debuff_Weakness
+魂の崩壊
+
+ID=30303
+堕落した魂
+攻撃時に攻撃対象のHPを回復させ、被ダメージ量60%減少バフを付与します。
+Icon/Buff/Icon_Common_Debuff_Fear
+堕落した魂
+
+ID=30304
+吸収された力
+被ダメージ量が60%減少、被撃時にHPが回復します。
+Icon/Buff/Icon_Common_Buff_Def
+吸収された力
+
+ID=63049
+筋切断
+攻撃速度及び移動速度が15%ほど減少します。(最大5重複)
+Icon/Buff/Icon_Common_Debuff_MSR
+攻撃及び移動速度減少
+
+ID=63050
+脳震盪
+クリティカル確率が20%、防御力が3000減少します。(最大5重複)
+Icon/Buff/Icon_Common_Debuff_Stun
+クリティカル確率及び防御力減少
+
+ID=63051
+移動速度減少
+移動速度が40%ほど減少します。
+Icon/Buff/Icon_Common_Debuff_MSR
+移動速度減少
+
+ID=63079
+装甲融解
+10秒間、防御度が1000減少。(最大5重複)
+Icon/Buff/Icon_Common_Debuff_Def
+装甲融解
+
+ID=63083
+深い傷
+15秒間、移動速度、攻撃速度、クリティカル確率が30%減少。
+Icon/Buff/Icon_Common_Debuff_Bleed
+深い傷
 
 ID=30470
 HP減少
@@ -6438,138 +6486,174 @@ Icon/Buff/Icon_Common_Debuff_Burn
 
 ID=6620
 冷却时间降低
-5秒間、クールタイムが7%減少します。
+5秒内、冷却时间缩短 7 %
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 冷却时间降低
 
 ID=6621
 冷却时间降低
-5秒間、クールタイムが11%減少します。
+5秒内、冷却时间缩短 11 %
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 冷却时间降低
 
 ID=6622
 冷却时间降低
-5秒間、クールタイムが15%減少します。
+5秒内、冷却时间缩短 15 %
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 冷却时间降低
 
 ID=6640
 HP増加
-1分の間、HPが600増加します。(最大3重複)
+1 分钟内、HP 将会 +600。(最大叠加3段)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP増加
 
 ID=6641
 HP増加
-1分の間、HPが900増加します。(最大3重複)
+1 分钟内、HP 将会 +900。(最大叠加3段)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP増加
 
 ID=6642
 HP増加
-1分の間、HPが1200増加します。(最大3重複)
+1 分钟内、HP 将会 +1200。(最大叠加3段)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP増加
 
 ID=6643
 HP増加
-1分の間、HPが1500増加します。(最大3重複)
+1 分钟内、HP 将会 +1500。(最大叠加3段)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP増加
 
 ID=6644
 HP増加
-1分の間、HPが2000増加します。(最大3重複)
+1 分钟内、HP 将会 +2000。(最大叠加3段)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP増加
 
 ID=6650
 SG回復
-SGが1秒毎に4%程、回復します。(5秒間持続)
+SG 每秒回复 4%。（将持续 5 秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=6651
 SG回復
-SGが1秒毎に6%程、回復します。(5秒間持続)
+SG 每秒回复 6%。（将持续 5 秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=6652
 SG回復
-SGが1秒毎に10%程、回復します。(5秒間持続)
+SG 每秒回复 10%。（将持续 5 秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 SG回復
 
 ID=6655
 觸電
-HPが1%ずつ減少します。 (4秒間持続)
+HP 将会减少 1%。 (持续4秒)
 Icon/Buff/Icon_Common_Debuff_Shock
 觸電
 
 ID=6656
 觸電
-HPが1%ずつ減少します。 (6秒間持続)
+HP 将会减少 1%。 (持续6秒)
 Icon/Buff/Icon_Common_Debuff_Shock
 觸電
 
 ID=6657
 觸電
-HPが1%ずつ減少します。 (8秒間持続)
+HP 将会减少 1%。 (持续8秒)
 Icon/Buff/Icon_Common_Debuff_Shock
 觸電
 
 ID=5091
-被害量減少
-受ける被害を24%減少させます。
+受到的伤害量減少
+受到的伤害量減少 24% 。
 Icon/Buff/Icon_Common_Buff_Def
-被害量減少
+受到的伤害量減少
 
 ID=5092
-被害量減少
-受ける被害を32%減少させます。
+受到的伤害量減少
+受到的伤害量減少 32% 。
 Icon/Buff/Icon_Common_Buff_Def
-被害量減少
+受到的伤害量減少
 
 ID=5093
-被害量減少
-受ける被害を40%減少させます。
+受到的伤害量減少
+受到的伤害量減少 40% 。
 Icon/Buff/Icon_Common_Buff_Def
-被害量減少
+受到的伤害量減少
 
 ID=5096
 出血
-HPが2%ずつ減少します。
+HP 减少 2%
 Icon/Buff/Icon_Common_Debuff_Bleed
 出血
 
 ID=5097
 出血
-HPが3%ずつ減少します。
+HP 减少 3%
 Icon/Buff/Icon_Common_Debuff_Bleed
 出血
 
 ID=5098
 出血
-HPが4%ずつ減少します。
+HP 减少 4%
 Icon/Buff/Icon_Common_Debuff_Bleed
 出血
 
 ID=5101
 窒息
-1.8秒間、気絶効果を受けます。
+1.8秒内，受到窒息效果。
 Icon/Buff/Icon_Common_Debuff_Stun
 窒息
 
 ID=5102
 窒息
-2.4秒間、気絶効果を受けます。
+2.4秒内，受到窒息效果。
 Icon/Buff/Icon_Common_Debuff_Stun
 窒息
 
 ID=5103
 窒息
-3.2秒間、気絶効果を受けます。
+3.2秒内，受到窒息效果。
 Icon/Buff/Icon_Common_Debuff_Stun
 窒息
+
+ID=21005
+0
+0
+Icon/Buff/Icon_Common_Buff_ATK
+공격력 증가
+
+ID=21015
+意志
+8分間、防御度が30%増加します。
+Icon/Buff/Icon_Common_Buff_Def
+防御度増加
+
+ID=21024
+勇気
+8分間、攻撃速度が5%増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+攻撃速度増加
+
+ID=21034
+挑戦
+8分間、移動速度が5%増加します。
+Icon/Buff/Icon_Common_Buff_MSR
+移動速度増加
+
+ID=21044
+勝負
+8分間、クリティカル率が5%増加します。
+Icon/Buff/Icon_Common_Buff_CRI
+暴擊率增加
+
+ID=205
+フィーバー
+1秒間、ボス追加ダメージが5%増加します。
+Icon/Buff/Icon_Common_Buff_Immun
+勝利
