@@ -1242,19 +1242,19 @@ HP吸収
 
 ID=6021
 クルエルスラッシュ特性AⅠ
-敵の防御度を20%無効化する。
+敵の防御度を15%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=6022
 クルエルスラッシュ特性AⅡ
-敵の防御度を40%無効化する。
+敵の防御度を30%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=6023
 クルエルスラッシュ特性AⅢ
-敵の防御度を70%無効化する。
+敵の防御度を50%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
@@ -1284,19 +1284,19 @@ Icon/Buff/Icon_Common_Buff_CRI
 
 ID=6042
 フォースリージョンⅡ
-クリティカル率が6%増加する。
+クリティカル率が7%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 クリティカル率増加
 
 ID=6043
 フォースリージョンⅢ
-クリティカル率が8%増加する。
+クリティカル率が9%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 クリティカル率増加
 
 ID=6044
 フォースリージョンⅣ
-クリティカル率が10%増加する。
+クリティカル率が12%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 クリティカル率増加
 
@@ -2979,6 +2979,54 @@ HP減少
 0
 0
 HP減少
+
+ID=30302
+魂の崩壊
+まもなく誰かの魂が堕落します。
+Icon/Buff/Icon_Common_Debuff_Weakness
+魂の崩壊
+
+ID=30303
+堕落した魂
+攻撃時に攻撃対象のHPを回復させ、被ダメージ量60%減少バフを付与します。
+Icon/Buff/Icon_Common_Debuff_Fear
+堕落した魂
+
+ID=30304
+吸収された力
+被ダメージ量が60%減少、被撃時にHPが回復します。
+Icon/Buff/Icon_Common_Buff_Def
+吸収された力
+
+ID=63049
+筋切断
+攻撃速度及び移動速度が15%ほど減少します。(最大5重複)
+Icon/Buff/Icon_Common_Debuff_MSR
+攻撃及び移動速度減少
+
+ID=63050
+脳震盪
+クリティカル確率が20%、防御力が3000減少します。(最大5重複)
+Icon/Buff/Icon_Common_Debuff_Stun
+クリティカル確率及び防御力減少
+
+ID=63051
+移動速度減少
+移動速度が40%ほど減少します。
+Icon/Buff/Icon_Common_Debuff_MSR
+移動速度減少
+
+ID=63079
+装甲融解
+10秒間、防御度が1000減少。(最大5重複)
+Icon/Buff/Icon_Common_Debuff_Def
+装甲融解
+
+ID=63083
+深い傷
+15秒間、移動速度、攻撃速度、クリティカル確率が30%減少。
+Icon/Buff/Icon_Common_Debuff_Bleed
+深い傷
 
 ID=30470
 HP減少
@@ -6573,3 +6621,39 @@ ID=5103
 3.2秒間、気絶効果を受けます。
 Icon/Buff/Icon_Common_Debuff_Stun
 มึนงง
+
+ID=21005
+0
+0
+Icon/Buff/Icon_Common_Buff_ATK
+공격력 증가
+
+ID=21015
+意志
+8分間、防御度が30%増加します。
+Icon/Buff/Icon_Common_Buff_Def
+เพิ่มระดับการป้องกัน
+
+ID=21024
+勇気
+8分間、攻撃速度が5%増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+เพิ่มความเร็วในการโจมตี
+
+ID=21034
+挑戦
+8分間、移動速度が5%増加します。
+Icon/Buff/Icon_Common_Buff_MSR
+移動速度増加
+
+ID=21044
+勝負
+8分間、クリティカル率が5%増加します。
+Icon/Buff/Icon_Common_Buff_CRI
+クリティカル率増加
+
+ID=205
+フィーバー
+1秒間、ボス追加ダメージが5%増加します。
+Icon/Buff/Icon_Common_Buff_Immun
+勝利

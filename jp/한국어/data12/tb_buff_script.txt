@@ -1242,19 +1242,19 @@ HP 흡수
 
 ID=6021
 크루엘 슬래쉬 특성AⅠ
-적의 방어율을 20% 무시한다.
+적의 방어율을 15% 무시한다.
 Icon/Buff/Icon_Common_Buff_Penetration
 방어력 관통
 
 ID=6022
 크루엘 슬래쉬 특성AⅡ
-적의 방어율을 40% 무시한다.
+敵の防御度を30%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 방어력 관통
 
 ID=6023
 크루엘 슬래쉬 특성AⅢ
-적의 방어율을 70% 무시한다.
+敵の防御度を50%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 방어력 관통
 
@@ -1284,19 +1284,19 @@ Icon/Buff/Icon_Common_Buff_CRI
 
 ID=6042
 포스 리전Ⅱ
-크리티컬확률이 6% 증가한다.
+크리티컬 확률이 7% 증가한다.
 Icon/Buff/Icon_Common_Buff_CRI
 크리티컬 확률 증가
 
 ID=6043
 포스 리전Ⅲ
-크리티컬확률이 8% 증가한다.
+クリティカル率が9%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 크리티컬 확률 증가
 
 ID=6044
 포스 리전Ⅳ
-크리티컬 확률이 10% 증가한다.
+クリティカル率が12%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 크리티컬 확률 증가
 
@@ -2979,6 +2979,54 @@ HP 감소
 0
 0
 HP 감소
+
+ID=30302
+魂の崩壊
+まもなく誰かの魂が堕落します。
+Icon/Buff/Icon_Common_Debuff_Weakness
+魂の崩壊
+
+ID=30303
+堕落した魂
+攻撃時に攻撃対象のHPを回復させ、被ダメージ量60%減少バフを付与します。
+Icon/Buff/Icon_Common_Debuff_Fear
+堕落した魂
+
+ID=30304
+吸収された力
+被ダメージ量が60%減少、被撃時にHPが回復します。
+Icon/Buff/Icon_Common_Buff_Def
+吸収された力
+
+ID=63049
+筋切断
+攻撃速度及び移動速度が15%ほど減少します。(最大5重複)
+Icon/Buff/Icon_Common_Debuff_MSR
+攻撃及び移動速度減少
+
+ID=63050
+脳震盪
+クリティカル確率が20%、防御力が3000減少します。(最大5重複)
+Icon/Buff/Icon_Common_Debuff_Stun
+クリティカル確率及び防御力減少
+
+ID=63051
+이동속도 감소
+移動速度が40%ほど減少します。
+Icon/Buff/Icon_Common_Debuff_MSR
+이동속도 감소
+
+ID=63079
+装甲融解
+10秒間、防御度が1000減少。(最大5重複)
+Icon/Buff/Icon_Common_Debuff_Def
+装甲融解
+
+ID=63083
+深い傷
+15秒間、移動速度、攻撃速度、クリティカル確率が30%減少。
+Icon/Buff/Icon_Common_Debuff_Bleed
+深い傷
 
 ID=30470
 HP 감소
@@ -6573,3 +6621,39 @@ ID=5103
 3.2秒間、気絶効果を受けます。
 Icon/Buff/Icon_Common_Debuff_Stun
 기절
+
+ID=21005
+0
+0
+Icon/Buff/Icon_Common_Buff_ATK
+공격력 증가
+
+ID=21015
+意志
+8分間、防御度が30%増加します。
+Icon/Buff/Icon_Common_Buff_Def
+방어력 증가
+
+ID=21024
+勇気
+8分間、攻撃速度が5%増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+공격속도 증가
+
+ID=21034
+挑戦
+8分間、移動速度が5%増加します。
+Icon/Buff/Icon_Common_Buff_MSR
+이동속도 증가
+
+ID=21044
+勝負
+8分間、クリティカル率が5%増加します。
+Icon/Buff/Icon_Common_Buff_CRI
+크리티컬 확률 증가
+
+ID=205
+フィーバー
+1秒間、ボス追加ダメージが5%増加します。
+Icon/Buff/Icon_Common_Buff_Immun
+勝利
