@@ -1248,13 +1248,13 @@ Defense Penetration
 
 ID=6022
 Cruel Slash Attribute A Ⅱ
-敵の防御度を30%無効化する。
+Ignores the enemy's defense by 30%.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=6023
 Cruel Slash Attribute A Ⅲ
-敵の防御度を50%無効化する。
+Ignores the enemy's defense by 50%.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
@@ -1290,13 +1290,13 @@ Critical ↑
 
 ID=6043
 Force Region Ⅲ
-クリティカル率が9%増加する。
+Increases Critical by 9%.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=6044
 Force Region Ⅳ
-クリティカル率が12%増加する。
+Increases Critical by 12%.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
@@ -2836,102 +2836,6 @@ HP↓
 0
 HP↓
 
-ID=30101
--
--
-Icon/Buff/Icon_Common_Debuff_Paralysis
--
-
-ID=30114
-Defense↓
-DEF reduced by 50% for 10s
-Icon/Buff/Icon_Common_Debuff_Def
-Defense↓
-
-ID=30120
-Nearby Shock
-Surrounding allies are electrocuted.
-Icon/Buff/Icon_Common_Debuff_Bleed
-Nearby Shock
-
-ID=30121
-Shock Lv2
-HP is reduced by 2%.
-Icon/Buff/Icon_Common_Debuff_Shock
-Shock
-
-ID=30122
-Shock Cure
-Electrocuted status fades.
-Icon/Buff/Icon_Common_Buff_HP_Recovery
-+HP
-
-ID=30130
-Frostbite
-Frozen in 10 seconds.
-Icon/Buff/Icon_Common_Debuff_Freezing
-Frostbite
-
-ID=30131
-Slow
-Immobilized for 10 seconds.
-Icon/Buff/Icon_Common_Debuff_Freezing
-Slow
-
-ID=30132
-Frost Shield
-Cannot receive damage.
-Icon/Buff/Icon_Common_Buff_Warm
-Frost Shield
-
-ID=30133
-Frostbite Resistivity
-It will be less likely to get frostbitten.
-Icon/Buff/Icon_Common_Buff_Warm
-Frostbite Resistivity
-
-ID=30134
-Chill
--1% HP each second for 10 seconds while chilled.
-Icon/Buff/Icon_Common_Debuff_Bleed
-Chill
-
-ID=30140
-Bleed
--1% HP per second for 10 seconds.
-Icon/Buff/Icon_Common_Debuff_Bleed
-Bleed
-
-ID=30141
-Weakened
-Attack Speed and Defense -30%.
-Icon/Buff/Icon_Common_Debuff_MSR
-Weakened
-
-ID=30142
-Slowed
--50% Movement&Attack Speed.
-Icon/Buff/Icon_Common_Debuff_MSR
-Slowed
-
-ID=30145
-HP↓
-0
-0
-HP↓
-
-ID=30146
-Weakness
-Defense -50%.
-Icon/Buff/Icon_Common_Debuff_Weakness
-Weakness
-
-ID=30147
-Weakness
-All stats are drastically reduced.
-Icon/Buff/Icon_Common_Debuff_Weakness
-Weakness
-
 ID=30202
 Contamination
 -50% Movement Speed, Attack Speed and Critical for 30s.
@@ -2981,52 +2885,52 @@ HP↓
 HP↓
 
 ID=30302
-魂の崩壊
-まもなく誰かの魂が堕落します。
+Soul Breakdown
+Soon, someone's soul will be corrupted.
 Icon/Buff/Icon_Common_Debuff_Weakness
-魂の崩壊
+Soul Breakdown
 
 ID=30303
-堕落した魂
-攻撃時に攻撃対象のHPを回復させ、被ダメージ量60%減少バフを付与します。
+Corrupted Soul
+Upon attacking, the attack target's HP will be recovered, and will be granted a 60% Damage Reduction buff.
 Icon/Buff/Icon_Common_Debuff_Fear
-堕落した魂
+Corrupted Soul
 
 ID=30304
-吸収された力
-被ダメージ量が60%減少、被撃時にHPが回復します。
+Absorbed Power
+Damage received is reduced by 60%, and recovers HP when attacked.
 Icon/Buff/Icon_Common_Buff_Def
-吸収された力
+Absorbed Power
 
 ID=63049
-筋切断
-攻撃速度及び移動速度が15%ほど減少します。(最大5重複)
+Cut Tendon
+Reduces Attack Speed and Movement Speed by 15%. (Max stack: 5)
 Icon/Buff/Icon_Common_Debuff_MSR
-攻撃及び移動速度減少
+Attack and Movement Speed Reduction
 
 ID=63050
-脳震盪
-クリティカル確率が20%、防御力が3000減少します。(最大5重複)
+Concussion
+Reduces Critical by 20%, and Defense by 3,000. (Max stack: 5)
 Icon/Buff/Icon_Common_Debuff_Stun
-クリティカル確率及び防御力減少
+Critical and Defense Reduction
 
 ID=63051
 Movement Speed ↓
-移動速度が40%ほど減少します。
+Reduces Movement Speed by 40%.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=63079
-装甲融解
-10秒間、防御度が1000減少。(最大5重複)
+Melt Armor
+Reduces Defense by 1,000 for 10 seconds. (Max stack: 5)
 Icon/Buff/Icon_Common_Debuff_Def
-装甲融解
+Melt Armor
 
 ID=63083
-深い傷
-15秒間、移動速度、攻撃速度、クリティカル確率が30%減少。
+Deep Wound
+Reduces Movement Speed, Attack Speed, and Critical by 30% for 15 seconds.
 Icon/Buff/Icon_Common_Debuff_Bleed
-深い傷
+Deep Wound
 
 ID=30470
 HP↓
@@ -3324,7 +3228,7 @@ HP↓
 
 ID=35400
 Movement Speed ↓
-Movement Speed -50% for 5 seconds.
+3秒間、移動速度が30%減少する。
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
@@ -6657,3 +6561,189 @@ ID=205
 1秒間、ボス追加ダメージが5%増加します。
 Icon/Buff/Icon_Common_Buff_Immun
 勝利
+
+ID=7090
+攻防一体の身体
+自分、または味方が5秒以内に敵を連続で討伐すると発動効果がスタックします。5スタック時、ダメージ量減少と攻撃力が増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+0
+
+ID=7100
+攻防一体の身体I
+ダメージ量減少効果が5%、攻撃力が50%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+攻防一体の身体
+
+ID=7101
+攻防一体の身体II
+ダメージ量減少効果が10%、攻撃力が100%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+攻防一体の身体
+
+ID=7102
+攻防一体の身体II
+ダメージ量減少効果が15%、攻撃力が150%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+攻防一体の身体
+
+ID=7111
+休息
+5秒の間、攻防一体の身体の効果が発動しません。
+Icon/Buff/Icon_Common_Debuff_Sleep
+0
+
+ID=7121
+スピリットシューター
+防御度が10%ほど減少します。
+Icon/Buff/Icon_Common_Debuff_Def
+Defense↓
+
+ID=7122
+スピリットシューター
+防御度が20%ほど減少します。
+Icon/Buff/Icon_Common_Debuff_Def
+Defense↓
+
+ID=7123
+スピリットシューター
+防御度が30%ほど減少します。
+Icon/Buff/Icon_Common_Debuff_Def
+Defense↓
+
+ID=30110
+Burn
+毎秒HPが3500ずつ減少する。
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=30114
+Defense↓
+DEF reduced by 50% for 10s
+Icon/Buff/Icon_Common_Debuff_Shock
+Defense↓
+
+ID=30120
+Nearby Shock
+Surrounding allies are electrocuted.
+Icon/Buff/Icon_Common_Debuff_Bleed
+Nearby Shock
+
+ID=30121
+Shock Lv2
+HP is reduced by 2%.
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=30122
+Shock Cure
+Electrocuted status fades.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
++HP
+
+ID=30130
+Frostbite
+5秒後、氷結状態になる。
+Icon/Buff/Icon_Common_Debuff_Freezing
+Frostbite
+
+ID=30131
+Slow
+動けなくなる。
+Icon/Buff/Icon_Common_Debuff_Freezing
+Slow
+
+ID=30132
+Frost Shield
+Cannot receive damage.
+Icon/Buff/Icon_Common_Buff_Warm
+Frost Shield
+
+ID=30133
+Frostbite Resistivity
+It will be less likely to get frostbitten.
+Icon/Buff/Icon_Common_Buff_Warm
+Frostbite Resistivity
+
+ID=30134
+Chill
+HPが毎秒1%ずつ減少し5秒後に氷結状態になる。
+Icon/Buff/Icon_Common_Debuff_Bleed
+Chill
+
+ID=30140
+Bleed
+毎秒HPが3%減少する。
+Icon/Buff/Icon_Common_Debuff_Bleed
+感染
+
+ID=30141
+Weakness
+防御度4000が減少する。
+Icon/Buff/Icon_Common_Debuff_Def
+Weakened
+
+ID=30142
+傷感染
+受けるダメージ量が10%増加する。
+Icon/Buff/Icon_Common_Debuff_Bleed
+Slowed
+
+ID=30145
+HP↓
+0
+0
+HP↓
+
+ID=30146
+Weakness
+Defense -50%.
+Icon/Buff/Icon_Common_Debuff_Weakness
+Weakness
+
+ID=30147
+Weakness
+All stats are drastically reduced.
+Icon/Buff/Icon_Common_Debuff_Weakness
+Weakness
+
+ID=30154
+腐敗の毒
+クリティカル確率が50%減少する。
+Icon/Buff/Icon_Common_Debuff_Poison
+腐敗の毒
+
+ID=30155
+超猛毒
+被ダメージ量が20%増加する。
+Icon/Buff/Icon_Common_Debuff_Poison
+超猛毒
+
+ID=30156
+超猛毒
+移動速度及び攻撃速度が20%減少する。
+Icon/Buff/Icon_Common_Debuff_Weakness
+超猛毒
+
+ID=30157
+超猛毒
+毎秒HPが2%減少する。
+Icon/Buff/Icon_Common_Debuff_Bleed
+超猛毒
+
+ID=30158
+超猛毒
+攻撃力が100%増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+超猛毒
+
+ID=30159
+超猛毒
+被ダメージ量20%が減少する。
+Icon/Buff/Icon_Common_Buff_Def
+超猛毒
+
+ID=30160
+超猛毒
+攻撃速度が100%増加する。
+Icon/Buff/Icon_Common_Buff_ASR
+超猛毒
