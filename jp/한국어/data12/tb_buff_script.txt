@@ -2836,102 +2836,6 @@ HP 감소
 0
 HP 감소
 
-ID=30101
--
--
-Icon/Buff/Icon_Common_Debuff_Paralysis
--
-
-ID=30114
-방어력 감소
-10초동안, 방어율50%감소
-Icon/Buff/Icon_Common_Debuff_Def
-방어력 감소
-
-ID=30120
-주위감전
-주위의 아군을 감전시킨다.
-Icon/Buff/Icon_Common_Debuff_Bleed
-주위감전
-
-ID=30121
-찌릿찌릿 Lv2
-HP가 2% 씩 감소한다.
-Icon/Buff/Icon_Common_Debuff_Shock
-감전
-
-ID=30122
-감전치료
-감전효과가 사라진다.
-Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
-
-ID=30130
-동상
-10초후, 빙결상태가 된다.
-Icon/Buff/Icon_Common_Debuff_Freezing
-동상
-
-ID=30131
-빙결
-10초동안, 움직일수 없게된다.
-Icon/Buff/Icon_Common_Debuff_Freezing
-빙결
-
-ID=30132
-빙결저항
-데미지를 받지 않게 된다.
-Icon/Buff/Icon_Common_Buff_Warm
-빙결저항
-
-ID=30133
-동상저항
-동상상태가 되기 힘들어진다.
-Icon/Buff/Icon_Common_Buff_Warm
-동상저항
-
-ID=30134
-냉기
-HP가 매초1%씩 감소하고 10초후에 빙결상태가 된다.
-Icon/Buff/Icon_Common_Debuff_Bleed
-냉기
-
-ID=30140
-출혈
-10초동안, 초마다 HP가 1% 감소한다.
-Icon/Buff/Icon_Common_Debuff_Bleed
-출혈
-
-ID=30141
-약화
-공격속도와 방어율이 30%감소한다.
-Icon/Buff/Icon_Common_Debuff_MSR
-약화
-
-ID=30142
-둔화
-이동속도와 공격속도가 50% 감소한다.
-Icon/Buff/Icon_Common_Debuff_MSR
-둔화
-
-ID=30145
-HP 감소
-0
-0
-HP 감소
-
-ID=30146
-쇠약
-방어율이 50% 감소한다.
-Icon/Buff/Icon_Common_Debuff_Weakness
-쇠약
-
-ID=30147
-쇠약
-모든 능력치가 크게 저하한다.
-Icon/Buff/Icon_Common_Debuff_Weakness
-쇠약
-
 ID=30202
 오염
 30초동안, 이동속도, 공격속도, 크리티컬확률이 50% 감소한다.
@@ -3324,7 +3228,7 @@ HP 감소
 
 ID=35400
 이동속도 감소
-5 초 동안 이동속도가 50% 감소한다.
+3秒間、移動速度が30%減少する。
 Icon/Buff/Icon_Common_Debuff_MSR
 이동속도 감소
 
@@ -6657,3 +6561,189 @@ ID=205
 1秒間、ボス追加ダメージが5%増加します。
 Icon/Buff/Icon_Common_Buff_Immun
 勝利
+
+ID=7090
+攻防一体の身体
+自分、または味方が5秒以内に敵を連続で討伐すると発動効果がスタックします。5スタック時、ダメージ量減少と攻撃力が増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+0
+
+ID=7100
+攻防一体の身体I
+ダメージ量減少効果が5%、攻撃力が50%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+攻防一体の身体
+
+ID=7101
+攻防一体の身体II
+ダメージ量減少効果が10%、攻撃力が100%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+攻防一体の身体
+
+ID=7102
+攻防一体の身体II
+ダメージ量減少効果が15%、攻撃力が150%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+攻防一体の身体
+
+ID=7111
+休息
+5秒の間、攻防一体の身体の効果が発動しません。
+Icon/Buff/Icon_Common_Debuff_Sleep
+0
+
+ID=7121
+スピリットシューター
+防御度が10%ほど減少します。
+Icon/Buff/Icon_Common_Debuff_Def
+방어력 감소
+
+ID=7122
+スピリットシューター
+防御度が20%ほど減少します。
+Icon/Buff/Icon_Common_Debuff_Def
+방어력 감소
+
+ID=7123
+スピリットシューター
+防御度が30%ほど減少します。
+Icon/Buff/Icon_Common_Debuff_Def
+방어력 감소
+
+ID=30110
+화상
+毎秒HPが3500ずつ減少する。
+Icon/Buff/Icon_Common_Debuff_Burn
+화상
+
+ID=30114
+방어력 감소
+10초동안, 방어율50%감소
+Icon/Buff/Icon_Common_Debuff_Shock
+방어력 감소
+
+ID=30120
+주위감전
+주위의 아군을 감전시킨다.
+Icon/Buff/Icon_Common_Debuff_Bleed
+주위감전
+
+ID=30121
+찌릿찌릿 Lv2
+HP가 2% 씩 감소한다.
+Icon/Buff/Icon_Common_Debuff_Shock
+감전
+
+ID=30122
+감전치료
+감전효과가 사라진다.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP 회복
+
+ID=30130
+동상
+5秒後、氷結状態になる。
+Icon/Buff/Icon_Common_Debuff_Freezing
+동상
+
+ID=30131
+빙결
+動けなくなる。
+Icon/Buff/Icon_Common_Debuff_Freezing
+빙결
+
+ID=30132
+빙결저항
+데미지를 받지 않게 된다.
+Icon/Buff/Icon_Common_Buff_Warm
+빙결저항
+
+ID=30133
+동상저항
+동상상태가 되기 힘들어진다.
+Icon/Buff/Icon_Common_Buff_Warm
+동상저항
+
+ID=30134
+냉기
+HPが毎秒1%ずつ減少し5秒後に氷結状態になる。
+Icon/Buff/Icon_Common_Debuff_Bleed
+냉기
+
+ID=30140
+출혈
+毎秒HPが3%減少する。
+Icon/Buff/Icon_Common_Debuff_Bleed
+感染
+
+ID=30141
+쇠약
+防御度4000が減少する。
+Icon/Buff/Icon_Common_Debuff_Def
+약화
+
+ID=30142
+傷感染
+受けるダメージ量が10%増加する。
+Icon/Buff/Icon_Common_Debuff_Bleed
+둔화
+
+ID=30145
+HP 감소
+0
+0
+HP 감소
+
+ID=30146
+쇠약
+방어율이 50% 감소한다.
+Icon/Buff/Icon_Common_Debuff_Weakness
+쇠약
+
+ID=30147
+쇠약
+모든 능력치가 크게 저하한다.
+Icon/Buff/Icon_Common_Debuff_Weakness
+쇠약
+
+ID=30154
+腐敗の毒
+クリティカル確率が50%減少する。
+Icon/Buff/Icon_Common_Debuff_Poison
+腐敗の毒
+
+ID=30155
+超猛毒
+被ダメージ量が20%増加する。
+Icon/Buff/Icon_Common_Debuff_Poison
+超猛毒
+
+ID=30156
+超猛毒
+移動速度及び攻撃速度が20%減少する。
+Icon/Buff/Icon_Common_Debuff_Weakness
+超猛毒
+
+ID=30157
+超猛毒
+毎秒HPが2%減少する。
+Icon/Buff/Icon_Common_Debuff_Bleed
+超猛毒
+
+ID=30158
+超猛毒
+攻撃力が100%増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+超猛毒
+
+ID=30159
+超猛毒
+被ダメージ量20%が減少する。
+Icon/Buff/Icon_Common_Buff_Def
+超猛毒
+
+ID=30160
+超猛毒
+攻撃速度が100%増加する。
+Icon/Buff/Icon_Common_Buff_ASR
+超猛毒
