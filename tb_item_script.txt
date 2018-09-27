@@ -13918,6 +13918,16 @@ Icon/Item/Consumption/Cure/HP_Cure_FirstAidKit_06
 ペタメディボックス
 <font color='#FFBA85'>[HP固定数値回復アイテム]\n4550のHPを即時に回復。クールタイム5秒。比率回復系アイテムとクールタイムを共有しません。<font color='#9D927B'>\n\nソウルワーカー用の回復薬が入っており、\n即効性のある薬品が素早く外傷を治癒する。\nただし、連続で使用する際は副作用を考慮して\n一定の時間を置く必要がある。
 
+ID=610101007
+Icon/Item/Consumption/Cure/HP_Cure_FirstAidKit_06
+0
+0
+0
+0
+0
+ブーストペタメディボックス
+<font color='#FFBA85'>[HP固定数値回復アイテム]\n10000のHPを即時に回復。クールタイム5秒。比率回復系アイテムとクールタイムを共有しません。<font color='#9D927B'>\n\n従来のペタメディボックスを特殊な方法でブーストしたメディボックス。\n見た目だけではペタメディボックスと区別が付かず、\nどんな方法でブーストしたかは知られてない。\n一部経路でのみ流通している。
+
 ID=610102001
 Icon/Item/Consumption/Cure/HP_Cure_CureJelly_01
 0
@@ -103595,8 +103605,8 @@ Icon/Item/Function/Package/ETC_0_SpeciallPackage
 0
 0
 0
-サマーウィークリーミッションクリア報酬[新規]
-<fontcolor='#FFBA85'>[パッケージアイテム]<fontcolor='#9D927B'>\nサマーウィークリーミッションをクリアした\n新規プレイヤーに贈られる報酬。\n\n攻撃型SDブローチキューブX5\n防御型SDブローチキューブX5\n機能型SDブローチキューブX5\nブローチ合成器X3\n特製A.RカードキューブX1
+レッツ！ソウルワーカー！！最終達成報酬[新規]
+<fontcolor='#FFBA85'>[パッケージアイテム]<fontcolor='#9D927B'>\nサマーウィークリーミッションをクリアした\n新規プレイヤーに贈られる報酬。\n\n攻撃型SDブローチキューブ　×5\n防御型SDブローチキューブ　×5\n機能型SDブローチキューブ　×5\nブローチ合成器　×3\n特製A.Rカードキューブ　×2
 
 ID=837200160
 Icon/Item/Function/Package/ETC_0_SpeciallPackage
@@ -103606,7 +103616,7 @@ Icon/Item/Function/Package/ETC_0_SpeciallPackage
 0
 0
 サマーウィークリーミッションクリア報酬[既存]
-<fontcolor='#FFBA85'>[パッケージアイテム]<fontcolor='#9D927B'>\nサマーウィークリーミッションをクリアした\n既存プレイヤーに送られる報酬。\n\n攻撃型SDブローチキューブX5\n防御型SDブローチキューブX5\n機能型SDブローチキューブX5\nブローチ合成器X3\n輝くグルトン★4X1
+<fontcolor='#FFBA85'>[パッケージアイテム]<fontcolor='#9D927B'>\nサマーウィークリーミッションをクリアした\n既存プレイヤーに送られる報酬。\n\n攻撃型SDブローチキューブ　×5\n防御型SDブローチキューブ　×5\n機能型SDブローチキューブ　×5\nブローチ合成器　×3\n輝くグルトン★4　×1
 
 ID=213580201
 Icon/Item/Costume/PC_A/PC_A_EQ_Swimming2_HairAcc01_01
@@ -137985,8 +137995,8 @@ Icon/Item/Gear/HeadGear/GEA_HarbingerHead
 0
 0
 0
-강화 보호(+6)의 라이트 울브즈 헤드기어
-<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドライトウルフズヘッド
+<font color='#FFBA85'>[ギア:ヘッド]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=520014351
 Icon/Item/Gear/ShoulderGear/GEA_Harbingershoulder
@@ -137995,8 +138005,8 @@ Icon/Item/Gear/ShoulderGear/GEA_Harbingershoulder
 0
 0
 0
-강화 보호(+6)의 라이트 울브즈 숄더기어
-<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドライトウルフズショルダー
+<font color='#FFBA85'>[ギア:ショルダー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=530014351
 Icon/Item/Gear/BodyGear/GEA_Harbingerbody
@@ -138005,8 +138015,8 @@ Icon/Item/Gear/BodyGear/GEA_Harbingerbody
 0
 0
 0
-강화 보호(+6)의 라이트 울브즈 바디기어
-<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドライトウルフズボディ
+<font color='#FFBA85'>[ギア:ボディ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=540014351
 Icon/Item/Gear/LegGear/GEA_Harbingerleg
@@ -138015,8 +138025,8 @@ Icon/Item/Gear/LegGear/GEA_Harbingerleg
 0
 0
 0
-강화 보호(+6)의 라이트 울브즈 레그기어
-<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドライトウルフズレッグ
+<font color='#FFBA85'>[ギア:レッグ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=410015401
 Icon/Item/Accessory/Pendant/GreyRockMemoryPendant
@@ -138025,8 +138035,8 @@ Icon/Item/Accessory/Pendant/GreyRockMemoryPendant
 0
 0
 0
-경험의 부적 팬던트
-<font color='#FFBA85'>[액세서리 : 펜던트]<font color='#9D927B'>\n\n소울워커 전용 액세서리. 보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\n목에 착용할 수 있다.
+エクスペリエンスペンダント
+<font color='#FFBA85'>[アクセサリー:ペンダント]<font color='#9D927B'>\n\nソウルワーカー専用アクセサリー。普通のアクセサリーに見えるが独特なソウルエナジーを発し、装着者の能力を強化してくれる。
 
 ID=430015401
 Icon/Item/Accessory/Earring/NoblessRelicEarring
@@ -138035,8 +138045,8 @@ Icon/Item/Accessory/Earring/NoblessRelicEarring
 0
 0
 0
-경험의 부적 이어링
-<font color='#FFBA85'>[액세서리 : 이어링]<font color='#9D927B'>\n\n소울워커 전용 액세서리. 보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\n귀에 착용할 수 있다.
+エクスペリエンスイヤリング
+<font color='#FFBA85'>[アクセサリー:イヤリング]<font color='#9D927B'>\n\nソウルワーカー専用アクセサリー。普通のアクセサリーに見えるが独特なソウルエナジーを発し、装着者の能力を強化してくれる。
 
 ID=440015401
 Icon/Item/Accessory/Ring/GriefTearRing
@@ -138045,8 +138055,8 @@ Icon/Item/Accessory/Ring/GriefTearRing
 0
 0
 0
-경험의 부적 씰
-<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\n\n소울워커 전용 액세서리. 보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\n목에 착용할 수 있다.
+エクスペリエンスシール
+<font color='#FFBA85'>[アクセサリー:リング]<font color='#9D927B'>\n\nソウルワーカー専用アクセサリー。普通のアクセサリーに見えるが独特なソウルエナジーを発し、装着者の能力を強化してくれる。
 
 ID=440015402
 Icon/Item/Accessory/Ring/ACC_0_BleedHeartRing
@@ -138055,8 +138065,8 @@ Icon/Item/Accessory/Ring/ACC_0_BleedHeartRing
 0
 0
 0
-경험의 부적 렐릭
-<font color='#FFBA85'>[액세서리 : 링]<font color='#9D927B'>\n\n소울워커 전용 액세서리. 보통의 액세서리 같지만 독특한 소울 에너지 파장을 발생시켜 소지자의 능력을 강화해주는 귀중한 액세서리다.\n귀에 착용할 수 있다.
+エクスペリエンスレリック
+<font color='#FFBA85'>[アクセサリー:リング]<font color='#9D927B'>\n\nソウルワーカー専用アクセサリー。普通のアクセサリーに見えるが独特なソウルエナジーを発し、装着者の能力を強化してくれる。
 
 ID=111054452
 Icon/Item/SoulWeapon/PC_A/SOU_0_DreadWolfToothSword
@@ -138065,8 +138075,8 @@ Icon/Item/SoulWeapon/PC_A/SOU_0_DreadWolfToothSword
 0
 0
 0
-강화 보호(+6)의 울브즈 팽
-<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドウルフズファング
+<font color='#FFBA85'>[ソウルウェポン:ソード]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=112054452
 Icon/Item/SoulWeapon/PC_B/SOU_0_DreadWolfHeartShooter
@@ -138075,8 +138085,8 @@ Icon/Item/SoulWeapon/PC_B/SOU_0_DreadWolfHeartShooter
 0
 0
 0
-강화 보호(+6)의 울브즈 건
-<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドウルフズガン
+<font color='#FFBA85'>[ソウルウェポン:ガン]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=113054452
 Icon/Item/SoulWeapon/PC_C/SOU_0_DreadWolfMeinScythe
@@ -138085,8 +138095,8 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_DreadWolfMeinScythe
 0
 0
 0
-강화 보호(+6)의 울브즈 크로우
-<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドウルフズクロウ
+<font color='#FFBA85'>[ソウルウェポン:サイス]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=114054452
 Icon/Item/SoulWeapon/PC_D/SOU_0_DreadWolfClaw
@@ -138095,8 +138105,8 @@ Icon/Item/SoulWeapon/PC_D/SOU_0_DreadWolfClaw
 0
 0
 0
-강화 보호(+6)의 울브즈 피스트
-<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドウルフズフィスト
+<font color='#FFBA85'>[ソウルウェポン:ガントレット]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=115054452
 Icon/Item/SoulWeapon/PC_E/SOU_0_DreadWolfScreamer
@@ -138105,8 +138115,8 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_DreadWolfScreamer
 0
 0
 0
-강화 보호(+6)의 울브즈 하울링
-<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドウルフズハウリング
+<font color='#FFBA85'>[ソウルウェポン:ギター]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=116054452
 Icon/Item/SoulWeapon/PC_F/PC_F_WP_016
@@ -138115,8 +138125,8 @@ Icon/Item/SoulWeapon/PC_F/PC_F_WP_016
 0
 0
 0
-강화 보호(+6)의 울브즈 캐논
-<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドウルフズキャノン
+<font color='#FFBA85'>[ソウルウェポン:ハンマー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=510054351
 Icon/Item/Gear/HeadGear/GEA_HarbingerHead
@@ -138125,8 +138135,8 @@ Icon/Item/Gear/HeadGear/GEA_HarbingerHead
 0
 0
 0
-강화 보호(+6)의 울브즈 헤드기어
-<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドウルフズヘッド
+<font color='#FFBA85'>[ギア:ヘッド]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=520054351
 Icon/Item/Gear/ShoulderGear/GEA_Harbingershoulder
@@ -138135,8 +138145,8 @@ Icon/Item/Gear/ShoulderGear/GEA_Harbingershoulder
 0
 0
 0
-강화 보호(+6)의 울브즈 숄더기어
-<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドウルフズショルダー
+<font color='#FFBA85'>[ギア:ショルダー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=530054351
 Icon/Item/Gear/BodyGear/GEA_Harbingerbody
@@ -138145,8 +138155,8 @@ Icon/Item/Gear/BodyGear/GEA_Harbingerbody
 0
 0
 0
-강화 보호(+6)의 울브즈 바디기어
-<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドウルフズボディ
+<font color='#FFBA85'>[ギア:ボディ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=540054351
 Icon/Item/Gear/LegGear/GEA_Harbingerleg
@@ -138155,8 +138165,8 @@ Icon/Item/Gear/LegGear/GEA_Harbingerleg
 0
 0
 0
-강화 보호(+6)의 울브즈 레그기어
-<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドウルフズレッグ
+<font color='#FFBA85'>[ギア:レッグ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=111104451
 Icon/Item/SoulWeapon/PC_A/SOU_0_FanaticDisasterBringer
@@ -138165,8 +138175,8 @@ Icon/Item/SoulWeapon/PC_A/SOU_0_FanaticDisasterBringer
 0
 0
 0
-강화 보호(+6)의 템프테이션 슬라이스
-<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドテンプテーションスライス
+<font color='#FFBA85'>[ソウルウェポン:ソード]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=112104451
 Icon/Item/SoulWeapon/PC_B/SOU_0_FanaticDisasterCaller
@@ -138175,8 +138185,8 @@ Icon/Item/SoulWeapon/PC_B/SOU_0_FanaticDisasterCaller
 0
 0
 0
-강화 보호(+6)의 템프테이션 거너
-<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドテンプテーションガンナー
+<font color='#FFBA85'>[ソウルウェポン:ガン]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=113104451
 Icon/Item/SoulWeapon/PC_C/SOU_0_FanaticDisasterGuides
@@ -138185,8 +138195,8 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_FanaticDisasterGuides
 0
 0
 0
-강화 보호(+6)의 템프테이션 행거
-<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドテンプテーションハンガー
+<font color='#FFBA85'>[ソウルウェポン:サイス]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=114104451
 Icon/Item/SoulWeapon/PC_D/SOU_0_FanaticDisasterGauntlet
@@ -138195,8 +138205,8 @@ Icon/Item/SoulWeapon/PC_D/SOU_0_FanaticDisasterGauntlet
 0
 0
 0
-강화 보호(+6)의 템프테이션 록
-<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドテンプテーションロック
+<font color='#FFBA85'>[ソウルウェポン:ガントレット]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=115104451
 Icon/Item/SoulWeapon/PC_E/SOU_0_FanaticDisasterChoir
@@ -138205,8 +138215,8 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_FanaticDisasterChoir
 0
 0
 0
-강화 보호(+6)의 템프테이션 오우라
-<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドテンプテーションオウラ
+<font color='#FFBA85'>[ソウルウェポン:ギター]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=116104451
 Icon/Item/SoulWeapon/PC_F/PC_F_WP_018
@@ -138215,8 +138225,8 @@ Icon/Item/SoulWeapon/PC_F/PC_F_WP_018
 0
 0
 0
-강화 보호(+6)의 템프테이션 둠스톤
-<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドテンプテーショントゥームストーン
+<font color='#FFBA85'>[ソウルウェポン:ハンマー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=510104351
 Icon/Item/Gear/HeadGear/GEA_FleesHead
@@ -138225,8 +138235,8 @@ Icon/Item/Gear/HeadGear/GEA_FleesHead
 0
 0
 0
-강화 보호(+6)의 템프테이션 헤드기어
-<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドテンプテーションヘッド
+<font color='#FFBA85'>[ギア:ヘッド]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=520104351
 Icon/Item/Gear/ShoulderGear/GEA_StandardShoulder
@@ -138235,8 +138245,8 @@ Icon/Item/Gear/ShoulderGear/GEA_StandardShoulder
 0
 0
 0
-강화 보호(+6)의 템프테이션 숄더기어
-<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドテンプテーションショルダー
+<font color='#FFBA85'>[ギア:ショルダー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されなG18070い。
 
 ID=530104351
 Icon/Item/Gear/BodyGear/GEA_StandardBody
@@ -138245,8 +138255,8 @@ Icon/Item/Gear/BodyGear/GEA_StandardBody
 0
 0
 0
-강화 보호(+6)의 템프테이션 바디기어
-<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドテンプテーションボディ
+<font color='#FFBA85'>[ギア:ボディ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=540104351
 Icon/Item/Gear/LegGear/GEA_FleesLeg
@@ -138255,8 +138265,8 @@ Icon/Item/Gear/LegGear/GEA_FleesLeg
 0
 0
 0
-강화 보호(+6)의 템프테이션 레그기어
-<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドテンプテーションレッグ
+<font color='#FFBA85'>[ギア:レッグ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=111154451
 Icon/Item/SoulWeapon/PC_A/SOU_0_GolemDestroyingSword
@@ -138265,8 +138275,8 @@ Icon/Item/SoulWeapon/PC_A/SOU_0_GolemDestroyingSword
 0
 0
 0
-강화 보호(+6)의 브릭 투핸더 소드
-<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドブリックトゥーハンドソード
+<font color='#FFBA85'>[ソウルウェポン:ソード]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=112154451
 Icon/Item/SoulWeapon/PC_B/SOU_0_GolemDestroyingGun
@@ -138275,8 +138285,8 @@ Icon/Item/SoulWeapon/PC_B/SOU_0_GolemDestroyingGun
 0
 0
 0
-강화 보호(+6)의 스톤 듀얼건
-<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドストーンデュアルガン
+<font color='#FFBA85'>[ソウルウェポン:ガン]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=113154451
 Icon/Item/SoulWeapon/PC_C/SOU_0_GolemDestroyingScythe
@@ -138285,8 +138295,8 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_GolemDestroyingScythe
 0
 0
 0
-강화 보호(+6)의 아스팔트 슬라이서
-<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドアスファルトサイス
+<font color='#FFBA85'>[ソウルウェポン:サイス]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=114154451
 Icon/Item/SoulWeapon/PC_D/SOU_0_GolemDestroyingArm
@@ -138295,8 +138305,8 @@ Icon/Item/SoulWeapon/PC_D/SOU_0_GolemDestroyingArm
 0
 0
 0
-강화 보호(+6)의 블록 건틀릿
-<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドブロックガントレット
+<font color='#FFBA85'>[ソウルウェポン:ガントレット]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=115154451
 Icon/Item/SoulWeapon/PC_E/SOU_0_GolemDestroyingGuitar
@@ -138305,8 +138315,8 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_GolemDestroyingGuitar
 0
 0
 0
-강화 보호(+6)의 콘크리트 사운드
-<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドコンクリートサウンド
+<font color='#FFBA85'>[ソウルウェポン:ギター]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=116154451
 Icon/Item/SoulWeapon/PC_F/PC_F_WP_020
@@ -138315,8 +138325,8 @@ Icon/Item/SoulWeapon/PC_F/PC_F_WP_020
 0
 0
 0
-강화 보호(+6)의 시멘트 캐논
-<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドセメントキャノン
+<font color='#FFBA85'>[ソウルウェポン:ハンマー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=510154351
 Icon/Item/Gear/HeadGear/GEA_RockProtectionHead
@@ -138325,8 +138335,8 @@ Icon/Item/Gear/HeadGear/GEA_RockProtectionHead
 0
 0
 0
-강화 보호(+6)의 스톤즈 헤드기어
-<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドストーンズヘッド
+<font color='#FFBA85'>[ギア:ヘッド]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=520154351
 Icon/Item/Gear/ShoulderGear/GEA_RockProtectionShoulder
@@ -138335,8 +138345,8 @@ Icon/Item/Gear/ShoulderGear/GEA_RockProtectionShoulder
 0
 0
 0
-강화 보호(+6)의 스톤즈 숄더기어
-<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドストーンズショルダー
+<font color='#FFBA85'>[ギア:ショルダー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=530154351
 Icon/Item/Gear/BodyGear/GEA_RockProtectionBody
@@ -138345,8 +138355,8 @@ Icon/Item/Gear/BodyGear/GEA_RockProtectionBody
 0
 0
 0
-강화 보호(+6)의 스톤즈 바디기어
-<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドストーンズボディ
+<font color='#FFBA85'>[ギア:ボディ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=540154351
 Icon/Item/Gear/LegGear/GEA_RockProtectionLeg
@@ -138355,8 +138365,8 @@ Icon/Item/Gear/LegGear/GEA_RockProtectionLeg
 0
 0
 0
-강화 보호(+6)의 스톤즈 레그기어
-<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドストーンズレッグ
+<font color='#FFBA85'>[ギア:レッグ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=111204451
 Icon/Item/SoulWeapon/PC_A/SOU_0_ArachnidVanishingSword
@@ -138365,8 +138375,8 @@ Icon/Item/SoulWeapon/PC_A/SOU_0_ArachnidVanishingSword
 0
 0
 0
-강화 보호(+6)의 타란튤라
-<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドタランチュラ
+<font color='#FFBA85'>[ソウルウェポン:ソード]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=112204451
 Icon/Item/SoulWeapon/PC_B/SOU_0_ArachnidVanishingGun
@@ -138375,8 +138385,8 @@ Icon/Item/SoulWeapon/PC_B/SOU_0_ArachnidVanishingGun
 0
 0
 0
-강화 보호(+6)의 아리아드네
-<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドアリアドネ
+<font color='#FFBA85'>[ソウルウェポン:ガン]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=113204451
 Icon/Item/SoulWeapon/PC_C/SOU_0_ArachnidVanishingEdge
@@ -138385,8 +138395,8 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_ArachnidVanishingEdge
 0
 0
 0
-강화 보호(+6)의 아라크네
-<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドアラクネ
+<font color='#FFBA85'>[ソウルウェポン:サイス]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=114204451
 Icon/Item/SoulWeapon/PC_D/SOU_0_ArachnidVanishingArm
@@ -138395,8 +138405,8 @@ Icon/Item/SoulWeapon/PC_D/SOU_0_ArachnidVanishingArm
 0
 0
 0
-강화 보호(+6)의 웅골리안트
-<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドウンゴリアント
+<font color='#FFBA85'>[ソウルウェポン:ガントレット]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=115204451
 Icon/Item/SoulWeapon/PC_E/SOU_0_ArachnidVanishingGuitar
@@ -138405,8 +138415,8 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_ArachnidVanishingGuitar
 0
 0
 0
-강화 보호(+6)의 코브웹
-<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドコブウェル
+<font color='#FFBA85'>[ソウルウェポン:ギター]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=116204451
 Icon/Item/SoulWeapon/PC_F/PC_F_WP_022
@@ -138415,8 +138425,8 @@ Icon/Item/SoulWeapon/PC_F/PC_F_WP_022
 0
 0
 0
-강화 보호(+6)의 맹그로브
-<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドマングローブ
+<font color='#FFBA85'>[ソウルウェポン:ハンマー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=510204351
 Icon/Item/Gear/HeadGear/GEA_InsectHunterHead
@@ -138425,8 +138435,8 @@ Icon/Item/Gear/HeadGear/GEA_InsectHunterHead
 0
 0
 0
-강화 보호(+6)의 스파이더 헤드기어
-<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドスパイダーヘッド
+<font color='#FFBA85'>[ギア:ヘッド]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=520204351
 Icon/Item/Gear/ShoulderGear/GEA_InsectHunterShoulder
@@ -138435,8 +138445,8 @@ Icon/Item/Gear/ShoulderGear/GEA_InsectHunterShoulder
 0
 0
 0
-강화 보호(+6)의 스파이더 숄더기어
-<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドスパイダーショルダー
+<font color='#FFBA85'>[ギア:ショルダー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=530204351
 Icon/Item/Gear/BodyGear/GEA_InsectHunterBody
@@ -138445,8 +138455,8 @@ Icon/Item/Gear/BodyGear/GEA_InsectHunterBody
 0
 0
 0
-강화 보호(+6)의 스파이더 바디기어
-<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドスパイダーボディ
+<font color='#FFBA85'>[ギア:ボディ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=540204351
 Icon/Item/Gear/LegGear/GEA_InsectHunterLeg
@@ -138455,8 +138465,8 @@ Icon/Item/Gear/LegGear/GEA_InsectHunterLeg
 0
 0
 0
-강화 보호(+6)의 스파이더 레그기어
-<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドスパイダーレッグ
+<font color='#FFBA85'>[ギア:レッグ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=111254451
 Icon/Item/SoulWeapon/PC_A/SOU_0_GriefSkiesSlayer
@@ -138465,8 +138475,8 @@ Icon/Item/SoulWeapon/PC_A/SOU_0_GriefSkiesSlayer
 0
 0
 0
-강화 보호(+6)의 트레지디 오브 스워드
-<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドトラジェディーオブスウォード
+<font color='#FFBA85'>[ソウルウェポン:ソード]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=112254451
 Icon/Item/SoulWeapon/PC_B/SOU_0_GriefSkiesBuster
@@ -138475,8 +138485,8 @@ Icon/Item/SoulWeapon/PC_B/SOU_0_GriefSkiesBuster
 0
 0
 0
-강화 보호(+6)의 트레지디 오브 리볼버
-<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドトラジェディーオブリボルバー
+<font color='#FFBA85'>[ソウルウェポン:ガン]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=113254451
 Icon/Item/SoulWeapon/PC_C/SOU_0_GriefSkiesRipper
@@ -138485,8 +138495,8 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_GriefSkiesRipper
 0
 0
 0
-강화 보호(+6)의 트레지디 오브 사이드
-<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドトラジェディーオブサイス
+<font color='#FFBA85'>[ソウルウェポン:サイス]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=114254451
 Icon/Item/SoulWeapon/PC_D/SOU_0_GriefSkiesPuncher
@@ -138495,8 +138505,8 @@ Icon/Item/SoulWeapon/PC_D/SOU_0_GriefSkiesPuncher
 0
 0
 0
-강화 보호(+6)의 트레지디 오브 핸드
-<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドトラジェディーオブハンド
+<font color='#FFBA85'>[ソウルウェポン:ガントレット]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=115254451
 Icon/Item/SoulWeapon/PC_E/SOU_0_GriefSkiesHowler
@@ -138505,8 +138515,8 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_GriefSkiesHowler
 0
 0
 0
-강화 보호(+6)의 트레지디 오브 송
-<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドトラジェディーオブソング
+<font color='#FFBA85'>[ソウルウェポン:ギター]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=116254451
 Icon/Item/SoulWeapon/PC_F/PC_F_WP_024
@@ -138515,8 +138525,8 @@ Icon/Item/SoulWeapon/PC_F/PC_F_WP_024
 0
 0
 0
-강화 보호(+6)의 트레지디 오브 로켓
-<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドトラジェディーオブロケット
+<font color='#FFBA85'>[ソウルウェポン:ハンマー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=510254351
 Icon/Item/Gear/HeadGear/GEA_HollowHeartsHead
@@ -138525,8 +138535,8 @@ Icon/Item/Gear/HeadGear/GEA_HollowHeartsHead
 0
 0
 0
-강화 보호(+6)의 트레지디 오브 헤드
-<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドトラジェディーオブヘッド
+<font color='#FFBA85'>[ギア:ヘッド]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=520254351
 Icon/Item/Gear/ShoulderGear/GEA_HollowHeartsShoulder
@@ -138535,8 +138545,8 @@ Icon/Item/Gear/ShoulderGear/GEA_HollowHeartsShoulder
 0
 0
 0
-강화 보호(+6)의 트레지디 오브 숄더
-<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドトラジェディーオブショルダー
+<font color='#FFBA85'>[ギア:ショルダー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=530254351
 Icon/Item/Gear/BodyGear/GEA_HollowHeartsBody
@@ -138545,8 +138555,8 @@ Icon/Item/Gear/BodyGear/GEA_HollowHeartsBody
 0
 0
 0
-강화 보호(+6)의 트레지디 오브 바디
-<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドトラジェディーオブボディ
+<font color='#FFBA85'>[ギア:ボディ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=540254351
 Icon/Item/Gear/LegGear/GEA_HollowHeartsLeg
@@ -138555,8 +138565,8 @@ Icon/Item/Gear/LegGear/GEA_HollowHeartsLeg
 0
 0
 0
-강화 보호(+6)의 트레지디 오브 레그
-<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドトラジェディーオブレッグ
+<font color='#FFBA85'>[ギア:レッグ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=111304452
 Icon/Item/SoulWeapon/PC_A/SOU_0_FatalReflectionPattisa
@@ -138565,8 +138575,8 @@ Icon/Item/SoulWeapon/PC_A/SOU_0_FatalReflectionPattisa
 0
 0
 0
-강화 보호(+6)의 톡신 블레이드
-<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドトキシンブレイド
+<font color='#FFBA85'>[ソウルウェポン:ソード]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=112304452
 Icon/Item/SoulWeapon/PC_B/SOU_0_FatalReflectionDecomposer
@@ -138575,8 +138585,8 @@ Icon/Item/SoulWeapon/PC_B/SOU_0_FatalReflectionDecomposer
 0
 0
 0
-강화 보호(+6)의 클로라인 머신건
-<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドクローラインマシンガン
+<font color='#FFBA85'>[ソウルウェポン:ガン]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=113304452
 Icon/Item/SoulWeapon/PC_C/SOU_0_FatalReflectionFalx
@@ -138585,8 +138595,8 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_FatalReflectionFalx
 0
 0
 0
-강화 보호(+6)의 애시드 킬러
-<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドアシッドキラー
+<font color='#FFBA85'>[ソウルウェポン:サイス]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=114304452
 Icon/Item/SoulWeapon/PC_D/SOU_0_FatalReflectionGarment
@@ -138595,8 +138605,8 @@ Icon/Item/SoulWeapon/PC_D/SOU_0_FatalReflectionGarment
 0
 0
 0
-강화 보호(+6)의 베놈 몽크
-<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドヴェノムモンク
+<font color='#FFBA85'>[ソウルウェポン:ガントレット]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=115304452
 Icon/Item/SoulWeapon/PC_E/SOU_0_FatalReflectionHarmonics
@@ -138605,8 +138615,8 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_FatalReflectionHarmonics
 0
 0
 0
-강화 보호(+6)의 루이사이트 멜로디
-<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドルイサイトメロディー
+<font color='#FFBA85'>[ソウルウェポン:ギター]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=116304452
 Icon/Item/SoulWeapon/PC_F/PC_F_WP_014
@@ -138615,8 +138625,8 @@ Icon/Item/SoulWeapon/PC_F/PC_F_WP_014
 0
 0
 0
-강화 보호(+6)의 포스겐 붐버
-<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドホスゲンボンバー
+<font color='#FFBA85'>[ソウルウェポン:ハンマー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=510304352
 Icon/Item/Gear/HeadGear/GEA_0_VenomousIdolHead
@@ -138625,8 +138635,8 @@ Icon/Item/Gear/HeadGear/GEA_0_VenomousIdolHead
 0
 0
 0
-강화 보호(+6)의 베놈 헤드기어
-<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドヴェノムヘッド
+<font color='#FFBA85'>[ギア:ヘッド]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=520304352
 Icon/Item/Gear/ShoulderGear/GEA_0_VenomousIdolShoulder
@@ -138635,8 +138645,8 @@ Icon/Item/Gear/ShoulderGear/GEA_0_VenomousIdolShoulder
 0
 0
 0
-강화 보호(+6)의 베놈 숄더기어
-<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドヴェノムショルダー
+<font color='#FFBA85'>[ギア:ショルダー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=530304352
 Icon/Item/Gear/BodyGear/GEA_0_VenomousIdolBody
@@ -138645,8 +138655,8 @@ Icon/Item/Gear/BodyGear/GEA_0_VenomousIdolBody
 0
 0
 0
-강화 보호(+6)의 베놈 바디기어
-<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドヴェノムボディ
+<font color='#FFBA85'>[ギア:ボディ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=540304352
 Icon/Item/Gear/LegGear/GEA_0_VenomousIdolLeg
@@ -138655,8 +138665,8 @@ Icon/Item/Gear/LegGear/GEA_0_VenomousIdolLeg
 0
 0
 0
-강화 보호(+6)의 베놈 레그기어
-<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドヴェノムレッグ
+<font color='#FFBA85'>[ギア:レッグ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=111354453
 Icon/Item/SoulWeapon/PC_A/SOU_0_ReviveWarriorSlayer
@@ -138665,8 +138675,8 @@ Icon/Item/SoulWeapon/PC_A/SOU_0_ReviveWarriorSlayer
 0
 0
 0
-강화 보호(+6)의 포스리전 스트롱거
-<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドフォースリージョンストロンガー
+<font color='#FFBA85'>[ソウルウェポン:ソード]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=112354453
 Icon/Item/SoulWeapon/PC_B/SOU_0_ReviveWarriorBuster
@@ -138675,8 +138685,8 @@ Icon/Item/SoulWeapon/PC_B/SOU_0_ReviveWarriorBuster
 0
 0
 0
-강화 보호(+6)의 포스리전 스피더
-<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドフォースリージョンスピーダー
+<font color='#FFBA85'>[ソウルウェポン:ガン]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=113354453
 Icon/Item/SoulWeapon/PC_C/SOU_0_ReviveWarriorScyther
@@ -138685,8 +138695,8 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_ReviveWarriorScyther
 0
 0
 0
-강화 보호(+6)의 포스리전 샤프너
-<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドフォースリージョンシャープナー
+<font color='#FFBA85'>[ソウルウェポン:サイス]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=114354453
 Icon/Item/SoulWeapon/PC_D/SOU_0_ReviveWarriorBlocker
@@ -138695,8 +138705,8 @@ Icon/Item/SoulWeapon/PC_D/SOU_0_ReviveWarriorBlocker
 0
 0
 0
-강화 보호(+6)의 포스리전 타이터
-<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドフォースリージョンタイター
+<font color='#FFBA85'>[ソウルウェポン:ガントレット]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=115354453
 Icon/Item/SoulWeapon/PC_E/SOU_0_ReviveWarriorHowler
@@ -138705,8 +138715,8 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_ReviveWarriorHowler
 0
 0
 0
-강화 보호(+6)의 포스리전 라우더
-<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドフォースリージョンラウダー
+<font color='#FFBA85'>[ソウルウェポン:ギター]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=116354453
 Icon/Item/SoulWeapon/PC_F/PC_F_WP_027
@@ -138715,8 +138725,8 @@ Icon/Item/SoulWeapon/PC_F/PC_F_WP_027
 0
 0
 0
-강화 보호(+6)의 포스리전 헤비어
-<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドフォースリージョンヘビアー
+<font color='#FFBA85'>[ソウルウェポン:ハンマー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=510354352
 Icon/Item/Gear/HeadGear/GEA_0_AbendonedLustHead
@@ -138725,8 +138735,8 @@ Icon/Item/Gear/HeadGear/GEA_0_AbendonedLustHead
 0
 0
 0
-강화 보호(+6)의 포스리전 헤드기어
-<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドフォースリージョンヘッド
+<font color='#FFBA85'>[ギア:ヘッド]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=520354352
 Icon/Item/Gear/ShoulderGear/GEA_0_AbendonedLustShoulder
@@ -138735,8 +138745,8 @@ Icon/Item/Gear/ShoulderGear/GEA_0_AbendonedLustShoulder
 0
 0
 0
-강화 보호(+6)의 포스리전 숄더기어
-<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドフォースリージョンショルダー
+<font color='#FFBA85'>[ギア:ショルダー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=530354352
 Icon/Item/Gear/BodyGear/GEA_0_AbendonedLustBody
@@ -138745,8 +138755,8 @@ Icon/Item/Gear/BodyGear/GEA_0_AbendonedLustBody
 0
 0
 0
-강화 보호(+6)의 포스리전 바디기어
-<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドフォースリージョンボディ
+<font color='#FFBA85'>[ギア:ボディ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=540354352
 Icon/Item/Gear/LegGear/GEA_0_AbendonedLustLeg
@@ -138755,8 +138765,8 @@ Icon/Item/Gear/LegGear/GEA_0_AbendonedLustLeg
 0
 0
 0
-강화 보호(+6)의 포스리전 레그기어
-<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドフォースリージョンレッグ
+<font color='#FFBA85'>[ギア:レッグ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=111404452
 Icon/Item/SoulWeapon/PC_A/SOU_0_SwordofHollowVengeance
@@ -138765,8 +138775,8 @@ Icon/Item/SoulWeapon/PC_A/SOU_0_SwordofHollowVengeance
 0
 0
 0
-강화 보호(+6)의 라반:블레이더 폼
-<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+ラバン:トランセンドブレイダーフォーム
+<font color='#FFBA85'>[ソウルウェポン:ソード]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=112404452
 Icon/Item/SoulWeapon/PC_B/SOU_0_GunofHollowVengeance
@@ -138775,8 +138785,8 @@ Icon/Item/SoulWeapon/PC_B/SOU_0_GunofHollowVengeance
 0
 0
 0
-강화 보호(+6)의 라반:거너 폼
-<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+ラバン:トランセンドガンナーフォーム
+<font color='#FFBA85'>[ソウルウェポン:ガン]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=113404452
 Icon/Item/SoulWeapon/PC_C/SOU_0_ScytheofHollowVengeance
@@ -138785,8 +138795,8 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_ScytheofHollowVengeance
 0
 0
 0
-강화 보호(+6)의 라반:킬러 폼
-<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+ラバン:トランセンドキラーフォーム
+<font color='#FFBA85'>[ソウルウェポン:サイス]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=114404452
 Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletofHollowVengeance
@@ -138795,8 +138805,8 @@ Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletofHollowVengeance
 0
 0
 0
-강화 보호(+6)의 라반:워리어 폼
-<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+ラバン:トランセンドウォリアフォーム
+<font color='#FFBA85'>[ソウルウェポン:ガントレット]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=115404452
 Icon/Item/SoulWeapon/PC_E/SOU_0_GuitarofHollowVengeance
@@ -138805,8 +138815,8 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_GuitarofHollowVengeance
 0
 0
 0
-강화 보호(+6)의 라반:바드 폼
-<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+ラバン:トランセンドバードフォーム
+<font color='#FFBA85'>[ソウルウェポン:ギター]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=116404452
 Icon/Item/SoulWeapon/PC_F/PC_F_WP_029
@@ -138815,8 +138825,8 @@ Icon/Item/SoulWeapon/PC_F/PC_F_WP_029
 0
 0
 0
-강화 보호(+6)의 라반:봄버 폼
-<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+ラバン:トランセンドボンバーフォーム
+<font color='#FFBA85'>[ソウルウェポン:ハンマー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=510404352
 Icon/Item/Gear/HeadGear/GEA_0_UnforgivenViceHead
@@ -138825,8 +138835,8 @@ Icon/Item/Gear/HeadGear/GEA_0_UnforgivenViceHead
 0
 0
 0
-강화 보호(+6)의 라반:헤드기어 폼
-<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+ラバン:トランセンドヘッドフォーム
+<font color='#FFBA85'>[ギア:ヘッド]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=520404352
 Icon/Item/Gear/ShoulderGear/GEA_0_UnforgivenViceShoulder
@@ -138835,8 +138845,8 @@ Icon/Item/Gear/ShoulderGear/GEA_0_UnforgivenViceShoulder
 0
 0
 0
-강화 보호(+6)의 라반:숄더기어 폼
-<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+ラバン:トランセンドショルダーフォーム
+<font color='#FFBA85'>[ギア:ショルダー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=530404352
 Icon/Item/Gear/BodyGear/GEA_0_UnforgivenViceBody
@@ -138845,8 +138855,8 @@ Icon/Item/Gear/BodyGear/GEA_0_UnforgivenViceBody
 0
 0
 0
-강화 보호(+6)의 라반:바디기어 폼
-<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+ラバン:トランセンドボディフォーム
+<font color='#FFBA85'>[ギア:ボディ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=540404352
 Icon/Item/Gear/LegGear/GEA_0_UnforgivenViceLeg
@@ -138855,8 +138865,8 @@ Icon/Item/Gear/LegGear/GEA_0_UnforgivenViceLeg
 0
 0
 0
-강화 보호(+6)의 라반:레그기어 폼
-<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+ラバン:トランセンドレッグフォーム
+<font color='#FFBA85'>[ギア:レッグ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=111454454
 Icon/Item/SoulWeapon/PC_A/SOU_0_SwordTypeBrokenArk
@@ -138865,8 +138875,8 @@ Icon/Item/SoulWeapon/PC_A/SOU_0_SwordTypeBrokenArk
 0
 0
 0
-강화 보호(+6)의 버스터 건블레이드
-<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドバスターガンブレイド
+<font color='#FFBA85'>[ソウルウェポン:ソード]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=112454454
 Icon/Item/SoulWeapon/PC_B/SOU_0_GunTypeBrokenArk
@@ -138875,8 +138885,8 @@ Icon/Item/SoulWeapon/PC_B/SOU_0_GunTypeBrokenArk
 0
 0
 0
-강화 보호(+6)의 버스터 머스킷
-<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドバスターマスケット
+<font color='#FFBA85'>[ソウルウェポン:ガン]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=113454454
 Icon/Item/SoulWeapon/PC_C/SOU_0_ScytheTypeBrokenArk
@@ -138885,8 +138895,8 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_ScytheTypeBrokenArk
 0
 0
 0
-강화 보호(+6)의 버스터 크레센도
-<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドバスタークレシェンド
+<font color='#FFBA85'>[ソウルウェポン:サイス]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=114454454
 Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletTypeBrokenArk
@@ -138895,8 +138905,8 @@ Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletTypeBrokenArk
 0
 0
 0
-강화 보호(+6)의 버스터 크레이터
-<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドバスタークレーター
+<font color='#FFBA85'>[ソウルウェポン:ガントレット]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=115454454
 Icon/Item/SoulWeapon/PC_E/SOU_0_GuitarTypeBrokenArk
@@ -138905,8 +138915,8 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_GuitarTypeBrokenArk
 0
 0
 0
-강화 보호(+6)의 버스터 로어
-<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドバスターローア
+<font color='#FFBA85'>[ソウルウェポン:ギター]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=116454454
 Icon/Item/SoulWeapon/PC_F/PC_F_WP_031
@@ -138915,8 +138925,8 @@ Icon/Item/SoulWeapon/PC_F/PC_F_WP_031
 0
 0
 0
-강화 보호(+6)의 버스터 헬브링어
-<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドバスターヘルブリンガー
+<font color='#FFBA85'>[ソウルウェポン:ハンマー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=510454352
 Icon/Item/Gear/HeadGear/GEA_0_HeadTypeBrokenArk
@@ -138925,8 +138935,8 @@ Icon/Item/Gear/HeadGear/GEA_0_HeadTypeBrokenArk
 0
 0
 0
-강화 보호(+6)의 버스터 헤드기어
-<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドバスターヘッド
+<font color='#FFBA85'>[ギア:ヘッド]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=520454352
 Icon/Item/Gear/ShoulderGear/GEA_0_ShoulderTypeBrokenArk
@@ -138935,8 +138945,8 @@ Icon/Item/Gear/ShoulderGear/GEA_0_ShoulderTypeBrokenArk
 0
 0
 0
-강화 보호(+6)의 버스터 숄더기어
-<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドバスターショルダー
+<font color='#FFBA85'>[ギア:ショルダー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=530454352
 Icon/Item/Gear/BodyGear/GEA_0_BodyTypeBrokenArk
@@ -138945,8 +138955,8 @@ Icon/Item/Gear/BodyGear/GEA_0_BodyTypeBrokenArk
 0
 0
 0
-강화 보호(+6)의 버스터 바디기어
-<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドバスターボディ
+<font color='#FFBA85'>[ギア:ボディ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=540454352
 Icon/Item/Gear/LegGear/GEA_0_LegTypeBrokenArk
@@ -138955,8 +138965,8 @@ Icon/Item/Gear/LegGear/GEA_0_LegTypeBrokenArk
 0
 0
 0
-강화 보호(+6)의 버스터 레그기어
-<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドバスターレッグ
+<font color='#FFBA85'>[ギア:レッグ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=111504451
 Icon/Item/SoulWeapon/PC_A/SOU_0_SwordTypeQueensArk
@@ -138965,8 +138975,8 @@ Icon/Item/SoulWeapon/PC_A/SOU_0_SwordTypeQueensArk
 0
 0
 0
-강화 보호(+6)의 블러썸 화이트릴리
-<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドブロッサムホワイトリリー
+<font color='#FFBA85'>[ソウルウェポン:ソード]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=112504451
 Icon/Item/SoulWeapon/PC_B/SOU_0_GunTypeQueensArk
@@ -138975,8 +138985,8 @@ Icon/Item/SoulWeapon/PC_B/SOU_0_GunTypeQueensArk
 0
 0
 0
-강화 보호(+6)의 블러썸 위드
-<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドブロッサムウィード
+<font color='#FFBA85'>[ソウルウェポン:ガン]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=113504451
 Icon/Item/SoulWeapon/PC_C/SOU_0_ScytheTypeQueensArk
@@ -138985,8 +138995,8 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_ScytheTypeQueensArk
 0
 0
 0
-강화 보호(+6)의 블러썸 블랙로즈
-<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドブロッサムブラックローズ
+<font color='#FFBA85'>[ソウルウェポン:サイス]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=114504451
 Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletTypeQueensArk
@@ -138995,8 +139005,8 @@ Icon/Item/SoulWeapon/PC_D/SOU_0_GauntletTypeQueensArk
 0
 0
 0
-강화 보호(+6)의 블러썸 단델리온
-<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドブロッサムダンデリオン
+<font color='#FFBA85'>[ソウルウェポン:ガントレット]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=115504451
 Icon/Item/SoulWeapon/PC_E/SOU_0_GuitarTypeQueensArk
@@ -139005,8 +139015,8 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_GuitarTypeQueensArk
 0
 0
 0
-강화 보호(+6)의 블러썸 코스모스
-<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドブロッサムコスモス
+<font color='#FFBA85'>[ソウルウェポン:ギター]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=116504451
 Icon/Item/SoulWeapon/PC_F/PC_F_WP_034
@@ -139015,8 +139025,8 @@ Icon/Item/SoulWeapon/PC_F/PC_F_WP_034
 0
 0
 0
-강화 보호(+6)의 블러썸 선플라워
-<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドブロッサムサンフラワー
+<font color='#FFBA85'>[ソウルウェポン:ハンマー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=510504351
 Icon/Item/Gear/HeadGear/GEA_0_HeadTypeQueensArk
@@ -139025,8 +139035,8 @@ Icon/Item/Gear/HeadGear/GEA_0_HeadTypeQueensArk
 0
 0
 0
-강화 보호(+6)의 라우렐 크라운
-<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドラウレルクラウン
+<font color='#FFBA85'>[ギア:ヘッド]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=520504351
 Icon/Item/Gear/ShoulderGear/GEA_0_ShoulderTypeQueensArk
@@ -139035,8 +139045,8 @@ Icon/Item/Gear/ShoulderGear/GEA_0_ShoulderTypeQueensArk
 0
 0
 0
-강화 보호(+6)의 라우렐 숄더
-<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドラウレルショルダー
+<font color='#FFBA85'>[ギア:ショルダー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=530504351
 Icon/Item/Gear/BodyGear/GEA_0_BodyTypeQueensArk
@@ -139045,8 +139055,8 @@ Icon/Item/Gear/BodyGear/GEA_0_BodyTypeQueensArk
 0
 0
 0
-강화 보호(+6)의 라우렐 바디
-<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドラウレルボディ
+<font color='#FFBA85'>[ギア:ボディ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=540504351
 Icon/Item/Gear/LegGear/GEA_0_LegTypeQueensArk
@@ -139055,8 +139065,8 @@ Icon/Item/Gear/LegGear/GEA_0_LegTypeQueensArk
 0
 0
 0
-강화 보호(+6)의 라우렐 레그
-<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドラウレルレッグ
+<font color='#FFBA85'>[ギア:レッグ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=111554653
 Icon/Item/SoulWeapon/PC_A/SOU_0_AureateOrder
@@ -139065,8 +139075,8 @@ Icon/Item/SoulWeapon/PC_A/SOU_0_AureateOrder
 0
 0
 0
-강화 보호(+6)의 아우리트 오더
-<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドオーリエイトオーダー
+<font color='#FFBA85'>[ソウルウェポン:ソード]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=112554653
 Icon/Item/SoulWeapon/PC_B/SOU_0_AureateVanity
@@ -139075,8 +139085,8 @@ Icon/Item/SoulWeapon/PC_B/SOU_0_AureateVanity
 0
 0
 0
-강화 보호(+6)의 아우리트 배니티
-<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドオーリエイトバニティー
+<font color='#FFBA85'>[ソウルウェポン:ガン]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=113554653
 Icon/Item/SoulWeapon/PC_C/SOU_0_AureateDecay
@@ -139085,8 +139095,8 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_AureateDecay
 0
 0
 0
-강화 보호(+6)의 아우리트 디케이
-<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドオーリエイトディケイ
+<font color='#FFBA85'>[ソウルウェポン:サイス]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=114554653
 Icon/Item/SoulWeapon/PC_D/SOU_0_AureateBastion
@@ -139095,8 +139105,8 @@ Icon/Item/SoulWeapon/PC_D/SOU_0_AureateBastion
 0
 0
 0
-강화 보호(+6)의 아우리트 바스티온
-<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドオーリエイトバスティオン
+<font color='#FFBA85'>[ソウルウェポン:ガントレット]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=115554653
 Icon/Item/SoulWeapon/PC_E/SOU_0_AureateMelos
@@ -139105,8 +139115,8 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_AureateMelos
 0
 0
 0
-강화 보호(+6)의 아우리트 멜로스
-<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドオーリエイトメロス
+<font color='#FFBA85'>[ソウルウェポン:ギター]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=116554653
 Icon/Item/SoulWeapon/PC_F/PC_F_WP_048
@@ -139115,8 +139125,8 @@ Icon/Item/SoulWeapon/PC_F/PC_F_WP_048
 0
 0
 0
-강화 보호(+6)의 아우리트 퓨리
-<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドオーリエイトフューリー
+<font color='#FFBA85'>[ソウルウェポン:ハンマー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=510554653
 Icon/Item/Gear/HeadGear/GEA_0_22_AureateFallenHead
@@ -139125,8 +139135,8 @@ Icon/Item/Gear/HeadGear/GEA_0_22_AureateFallenHead
 0
 0
 0
-강화 보호(+6)의 아우리트 폴른 헤드
-<font color='#FFBA85'>[기어 : 헤드 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドオーリエイトフォルンヘッド
+<font color='#FFBA85'>[ギア:ヘッド]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=520554653
 Icon/Item/Gear/ShoulderGear/GEA_0_22_AureateFallenSholder
@@ -139135,8 +139145,8 @@ Icon/Item/Gear/ShoulderGear/GEA_0_22_AureateFallenSholder
 0
 0
 0
-강화 보호(+6)의 아우리트 폴른 숄더
-<font color='#FFBA85'>[기어 : 숄더 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドオーリエイトフォルンショルダー
+<font color='#FFBA85'>[ギア:ショルダー]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=530554653
 Icon/Item/Gear/BodyGear/GEA_0_22_AureateFallenBody
@@ -139145,8 +139155,8 @@ Icon/Item/Gear/BodyGear/GEA_0_22_AureateFallenBody
 0
 0
 0
-강화 보호(+6)의 아우리트 폴른 바디
-<font color='#FFBA85'>[기어 : 바디 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドオーリエイトフォルンボディ
+<font color='#FFBA85'>[ギア:ボディ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=540554653
 Icon/Item/Gear/LegGear/GEA_0_22_AureateFallenLeg
@@ -139155,8 +139165,8 @@ Icon/Item/Gear/LegGear/GEA_0_22_AureateFallenLeg
 0
 0
 0
-강화 보호(+6)의 아우리트 폴른 레그
-<font color='#FFBA85'>[기어 : 레그 기어]<font color='#9D927B'>\n\n<font color='#FFBA85'>해당 아이템은 +6 강화 시도까지 파괴되지 않습니다.<font color='#9D927B'>\n별숲리그에서 신입 소울워커를 위해 제작된 특수 장비. +6 강화 시도까지 강화에 의하여 파괴되지 않고, 강화 비용이 저렴하다는 장점이 있다.
+トランセンドオーリエイトフォルンレッグ
+<font color='#FFBA85'>[ギア:レッグ]<font color='#9D927B'>\n\n<font color='#FFBA85'>この装備は1～6段階への強化に失敗しても破壊はされません。<font color='#9D927B'>\nスタリーフォレスト連合が新入りのソウルワーカーの為に制作した特殊装備。強化費用が安く、6段階までは強化に失敗しても破壊されない。
 
 ID=111555357
 Icon/Item/SoulWeapon/PC_A/SOU_0_DevourersDoom
@@ -139165,8 +139175,8 @@ Icon/Item/SoulWeapon/PC_A/SOU_0_DevourersDoom
 0
 0
 0
-디바우러스 둠 II
-<font color='#FFBA85'>[소울 웨폰 : 검]<font color='#9D927B'>\n\n소울워커 전용 무기. 더 프라이멀의 에너지가 융합된 잔해로 제작한 무기로 이상 공백의 특이 에너지를 흡수하여 종래의 무기와는 다른 강력한 힘을 가지고 있다. 다만 주의하지 않는다면 힘에 먹혀버릴 수 있어 취급에 주의가 필요하다. 하루 에스티아가 사용한다.\n\n그 앞에서는 아무도 이길 가망이 없어, 본 것 만으로도 공포와 광기에 가득 차 맞설 수 없으리니...\n- ??? -
+デバウアーズドゥームII
+ソウルワーカー専用武器。\nザ・プライマルのエナジーが融合した残骸で製作された。\n異常空白の特異なエナジーを吸収し、\n従来の武器とは異なる強力な力を宿した武器。\nしかし、油断すると力に飲み込まれてしまうため、\n扱いには気をつけねばならない。\n\nあれの前では全てが無意味だ。\n目にしただけで恐怖と狂気に飲まれ、\n立つことすらままならない…。\n-？？？-\n\n[ソウルウェポン:ソード]
 
 ID=112555357
 Icon/Item/SoulWeapon/PC_B/SOU_0_DevourersRuth
@@ -139175,8 +139185,8 @@ Icon/Item/SoulWeapon/PC_B/SOU_0_DevourersRuth
 0
 0
 0
-디바우러스 루스 II
-<font color='#FFBA85'>[소울 웨폰 : 총]<font color='#9D927B'>\n\n소울워커 전용 무기. 더 프라이멀의 에너지가 융합된 잔해로 제작한 무기로 이상 공백의 특이 에너지를 흡수하여 종래의 무기와는 다른 강력한 힘을 가지고 있다. 다만 주의하지 않는다면 힘에 먹혀버릴 수 있어 취급에 주의가 필요하다. 어윈 아크라이트가 사용한다.\n\n입에서 내뿜는 저 불길을 보라. 그 앞에서 우리가 겪을 것은 피할 수 없는 재난일 뿐이니....\n- ??? -
+デバウアーズルースII
+ソウルワーカー専用武器。\nザ・プライマルのエナジーが融合した残骸で製作された。\n異常空白の特異なエナジーを吸収し、\n従来の武器とは異なる強力な力を宿した武器。\nしかし、油断すると力に飲み込まれてしまうため、\n扱いには気をつけねばならない。\n\nあの口より吹き出される炎を見よ。\n決して逃れられぬ災いそのものだ…。\n-？？？-\n\n[ソウルウェポン:ガン]
 
 ID=113555357
 Icon/Item/SoulWeapon/PC_C/SOU_0_DevourersAnguish
@@ -139185,8 +139195,8 @@ Icon/Item/SoulWeapon/PC_C/SOU_0_DevourersAnguish
 0
 0
 0
-디바우러스 앵기쉬 II
-<font color='#FFBA85'>[소울 웨폰 : 낫]<font color='#9D927B'>\n\n소울워커 전용 무기. 더 프라이멀의 에너지가 융합된 잔해로 제작한 무기로 이상 공백의 특이 에너지를 흡수하여 종래의 무기와는 다른 강력한 힘을 가지고 있다. 다만 주의하지 않는다면 힘에 먹혀버릴 수 있어 취급에 주의가 필요하다. 릴리 블룸메르헨이 사용한다.\n\n그 앞에서 우리는 비통한 삶을 끝내기를 바랄 뿐이다.\n- ??? -
+デバウアーズアングイッシュII
+ソウルワーカー専用武器。\nザ・プライマルのエナジーが融合した残骸で製作された。\n異常空白の特異なエナジーを吸収し、\n従来の武器とは異なる強力な力を宿した武器。\nしかし、油断すると力に飲み込まれてしまうため、\n扱いには気をつけねばならない。\n\nあれの前では、我々はただこの悲痛な生を\n終わらせたいと願うだけだ。\n-？？？-\n\n[ソウルウェポン:サイス]
 
 ID=114555357
 Icon/Item/SoulWeapon/PC_D/SOU_0_DevourersEndure
@@ -139195,8 +139205,8 @@ Icon/Item/SoulWeapon/PC_D/SOU_0_DevourersEndure
 0
 0
 0
-디바우러스 인듀어 II
-<font color='#FFBA85'>[소울 웨폰 : 권갑]<font color='#9D927B'>\n\n소울워커 전용 무기. 더 프라이멀의 에너지가 융합된 잔해로 제작한 무기로 이상 공백의 특이 에너지를 흡수하여 종래의 무기와는 다른 강력한 힘을 가지고 있다. 다만 주의하지 않는다면 힘에 먹혀버릴 수 있어 취급에 주의가 필요하다. 진 세이파츠가 사용한다.\n\n우리는 인내하지 않으리라. 이제 세상에 두 발로 서 있지 않으리니....\n- ??? -
+デバウアーズインジュアーII
+ソウルワーカー専用武器。\nザ・プライマルのエナジーが融合した残骸で製作された。\n異常空白の特異なエナジーを吸収し、\n従来の武器とは異なる強力な力を宿した武器。\nしかし、油断すると力に飲み込まれてしまうため、\n扱いには気をつけねばならない。\n\n我々は耐え忍ぶことを諦めた。\nもうこの世にいられないと悟ったからだ…\n-？？？-\n\n[ソウルウェポン:ガントレット]
 
 ID=115555357
 Icon/Item/SoulWeapon/PC_E/SOU_0_DevourersWraith
@@ -139205,8 +139215,8 @@ Icon/Item/SoulWeapon/PC_E/SOU_0_DevourersWraith
 0
 0
 0
-디바우러스 레이스 II
-<font color='#FFBA85'>[소울 웨폰 : 기타]<font color='#9D927B'>\n\n소울워커 전용 무기. 더 프라이멀의 에너지가 융합된 잔해로 제작한 무기로 이상 공백의 특이 에너지를 흡수하여 종래의 무기와는 다른 강력한 힘을 가지고 있다. 다만 주의하지 않는다면 힘에 먹혀버릴 수 있어 취급에 주의가 필요하다. 스텔라 유니벨이 사용한다.\n\n우리의 영혼은 영원히 괴물의 입 속에 살리라.\n- ??? -
+デバウアーズレイスII
+ソウルワーカー専用武器。\nザ・プライマルのエナジーが融合した残骸で製作された。\n異常空白の特異なエナジーを吸収し、\n従来の武器とは異なる強力な力を宿した武器。\nしかし、油断すると力に飲み込まれてしまうため、\n扱いには気をつけねばならない。\n\n我らの魂は永久に怪物の中で生きるだろう。\n-？？？-\n\n[ソウルウェポン:ギター]
 
 ID=116555357
 Icon/Item/SoulWeapon/PC_F/PC_F_WP_049
@@ -139215,8 +139225,8 @@ Icon/Item/SoulWeapon/PC_F/PC_F_WP_049
 0
 0
 0
-디바우러스 모나크 II
-<font color='#FFBA85'>[소울 웨폰 : 해머]<font color='#9D927B'>\n\n소울워커 전용 무기. 더 프라이멀의 에너지가 융합된 잔해로 제작한 무기로 이상 공백의 특이 에너지를 흡수하여 종래의 무기와는 다른 강력한 힘을 가지고 있다. 다만 주의하지 않는다면 힘에 먹혀버릴 수 있어 취급에 주의가 필요하다. 이리스 유마가 사용한다.\n\n절망의 늪에서 허우적거리는 나의 그림자를 보았다.\n- ??? -
+デバウアーズモナークII
+ソウルワーカー専用武器。\nザ・プライマルのエナジーが融合した残骸で製作された。\n異常空白の特異なエナジーを吸収し、\n従来の武器とは異なる強力な力を宿した武器。\nしかし、油断すると力に飲み込まれてしまうため、\n扱いには気をつけねばならない。\n\n絶望の沼でもがく自らの影を垣間見た。\n-？？？-\n\n[ソウルウェポン:ハンマー]
 
 ID=910010000
 Icon/Item/Function/Package/PackageBox
@@ -139225,8 +139235,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-디바우러스 II 소울웨폰 박스
-<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n승급을 축하합니다! 디바우러스 II 소울웨폰을 획득할 수 있는 패키지 아이템. 개봉하는 캐릭터에 맞춰 알맞은 장비를 획득할 수 있다.
+デバウアーズII ソウルウェポンボックス
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\n使用したキャラクターに合ったデバウアーズ IIシリーズのソウルウェポンを獲得できるボックス。
 
 ID=910010001
 Icon/Item/Function/Package/PackageBox
@@ -139235,8 +139245,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-디바우러스 II 소울웨폰 박스
-<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n승급을 축하합니다! 디바우러스 II 소울웨폰을 획득할 수 있는 패키지 아이템. 개봉하는 캐릭터에 맞춰 알맞은 장비를 획득할 수 있다.
+デバウアーズII ソウルウェポンボックス
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\n使用したキャラクターに合ったデバウアーズ IIシリーズのソウルウェポンを獲得できるボックス。
 
 ID=910010002
 Icon/Item/Function/Package/PackageBox
@@ -139245,8 +139255,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-디바우러스 II 소울웨폰 박스
-<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n승급을 축하합니다! 디바우러스 II 소울웨폰을 획득할 수 있는 패키지 아이템. 개봉하는 캐릭터에 맞춰 알맞은 장비를 획득할 수 있다.
+デバウアーズII ソウルウェポンボックス
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\n使用したキャラクターに合ったデバウアーズ IIシリーズのソウルウェポンを獲得できるボックス。
 
 ID=910010003
 Icon/Item/Function/Package/PackageBox
@@ -139255,8 +139265,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-디바우러스 II 소울웨폰 박스
-<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n승급을 축하합니다! 디바우러스 II 소울웨폰을 획득할 수 있는 패키지 아이템. 개봉하는 캐릭터에 맞춰 알맞은 장비를 획득할 수 있다.
+デバウアーズII ソウルウェポンボックス
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\n使用したキャラクターに合ったデバウアーズ IIシリーズのソウルウェポンを獲得できるボックス。
 
 ID=910010004
 Icon/Item/Function/Package/PackageBox
@@ -139265,8 +139275,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-디바우러스 II 소울웨폰 박스
-<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n승급을 축하합니다! 디바우러스 II 소울웨폰을 획득할 수 있는 패키지 아이템. 개봉하는 캐릭터에 맞춰 알맞은 장비를 획득할 수 있다.
+デバウアーズII ソウルウェポンボックス
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\n使用したキャラクターに合ったデバウアーズ IIシリーズのソウルウェポンを獲得できるボックス。
 
 ID=910010005
 Icon/Item/Function/Package/PackageBox
@@ -139275,8 +139285,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-디바우러스 II 소울웨폰 박스
-<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n승급을 축하합니다! 디바우러스 II 소울웨폰을 획득할 수 있는 패키지 아이템. 개봉하는 캐릭터에 맞춰 알맞은 장비를 획득할 수 있다.
+デバウアーズII ソウルウェポンボックス
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\n使用したキャラクターに合ったデバウアーズ IIシリーズのソウルウェポンを獲得できるボックス。
 
 ID=910010006
 Icon/Item/Function/Package/PackageBox
@@ -139285,8 +139295,8 @@ Icon/Item/Function/Package/PackageBox
 0
 0
 0
-디바우러스 II 소울웨폰 박스
-<font color='#FFBA85'>[패키지 아이템]<font color='#9D927B'>\n\n승급을 축하합니다! 디바우러스 II 소울웨폰을 획득할 수 있는 패키지 아이템. 개봉하는 캐릭터에 맞춰 알맞은 장비를 획득할 수 있다.
+デバウアーズII ソウルウェポンボックス
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\n使用したキャラクターに合ったデバウアーズ IIシリーズのソウルウェポンを獲得できるボックス。
 
 ID=910010007
 Icon/Item/Etc/ETC_0_PersonalStoreOpenTicket
@@ -139295,8 +139305,8 @@ Icon/Item/Etc/ETC_0_PersonalStoreOpenTicket
 0
 0
 0
-디바우러스 기어 교환권
-<font color='#FFBA85'>[아이템 선택 티켓]<font color='#9D927B'>\n\n승급을 축하합니다! 디바우러스 시리즈 기어 중 원하는 1가지를 선택하여 획득할 수 있는 선택권.
+デバウアーズギア選択券
+<font color='#FFBA85'>[セレクトボックス]<font color='#9D927B'>\nデバウアーズシリーズのギアの内、希望するアイテムを1つ選んで獲得できる。\n\n-選択品-\nデバウアーズバイルヘッド　×1\nデバウアーズバイルショルダー　×1\nデバウアーズバイルボディ　×1\nデバウアーズバイルレッグ　×1
 
 ID=910010008
 Icon/Item/Etc/ETC_0_PersonalStoreOpenTicket
@@ -139305,5 +139315,685 @@ Icon/Item/Etc/ETC_0_PersonalStoreOpenTicket
 0
 0
 0
-디바우러스 액세서리 교환권
-<font color='#FFBA85'>[아이템 선택 티켓]<font color='#9D927B'>\n\n승급을 축하합니다! 디바우러스 시리즈 액세서리 중 원하는 1가지를 선택하여 획득할 수 있는 선택권.
+デバウアーズアクセサリー選択券
+<font color='#FFBA85'>[セレクトボックス]<font color='#9D927B'>\nデバウアーズシリーズのアクセサリーの内、希望するアイテムを1つ選んで獲得できる。\n\n-選択品-\nデバウアーズトロフィーペンダント　×1\nデバウアーズトロフィーイヤリング　×1\nデバウアーズシーズリング　×1\nデバウアーズグリードリング　×1
+
+ID=150606101
+Icon/Item/Familiar/GearFamiliar_Type_A
+0
+0
+0
+0
+0
+浄化の聖瞬[Aタイプ]
+<font color='#FFBA85'>[ギアファミリア]<font color='#9D927B'>\n<font color='#FFBA85'>[プライマル勢力ダメージ減少]<font color='#9D927B'>\n\n正式名称は、[攻撃補助ユニット]。\nギアに装着し、固有の性能を発揮する。\n[ギアファミリア]とも言う。\n性能の限界が明確なギアに追加で性能を付与する。
+
+ID=150606102
+Icon/Item/Familiar/GearFamiliar_Type_A
+0
+0
+0
+0
+0
+浄化の聖瞬[Aタイプ]
+<font color='#FFBA85'>[ギアファミリア]<font color='#9D927B'>\n<font color='#FFBA85'>[ゴールデンシタデル勢力ダメージ減少]<font color='#9D927B'>\n\n正式名称は、[攻撃補助ユニット]。\nギアに装着し、固有の性能を発揮する。\n[ギアファミリア]とも言う。\n性能の限界が明確なギアに追加で性能を付与する。
+
+ID=150606103
+Icon/Item/Familiar/GearFamiliar_Type_A
+0
+0
+0
+0
+0
+浄化の聖瞬[Aタイプ]
+<font color='#FFBA85'>[ギアファミリア]<font color='#9D927B'>\n<font color='#FFBA85'>[防御関連ステータス]<font color='#9D927B'>\n\n正式名称は、[攻撃補助ユニット]。\nギアに装着し、固有の性能を発揮する。\n[ギアファミリア]とも言う。\n性能の限界が明確なギアに追加で性能を付与する。
+
+ID=150606201
+Icon/Item/Familiar/GearFamiliar_Type_B
+0
+0
+0
+0
+0
+相殺の聖瞬[Bタイプ]
+<font color='#FFBA85'>[ギアファミリア]<font color='#9D927B'>\n<font color='#FFBA85'>[[猛攻]相殺]<font color='#9D927B'>\n\n正式名称は、[攻撃補助ユニット]。\nギアに装着し、固有の性能を発揮する。\n[ギアファミリア]とも言う。\n性能の限界が明確なギアに追加で性能を付与する。
+
+ID=150606202
+Icon/Item/Familiar/GearFamiliar_Type_B
+0
+0
+0
+0
+0
+相殺の聖瞬[Bタイプ]
+<font color='#FFBA85'>[ギアファミリア]<font color='#9D927B'>\n<font color='#FFBA85'>[PvPダメージ減少]<font color='#9D927B'>\n\n正式名称は、[攻撃補助ユニット]。\nギアに装着し、固有の性能を発揮する。\n[ギアファミリア]とも言う。\n性能の限界が明確なギアに追加で性能を付与する。
+
+ID=150606203
+Icon/Item/Familiar/GearFamiliar_Type_B
+0
+0
+0
+0
+0
+相殺の聖瞬[Bタイプ]
+<font color='#FFBA85'>[ギアファミリア]<font color='#9D927B'>\n<font color='#FFBA85'>[攻撃関連ステータス]<font color='#9D927B'>\n\n正式名称は、[攻撃補助ユニット]。\nギアに装着し、固有の性能を発揮する。\n[ギアファミリア]とも言う。\n性能の限界が明確なギアに追加で性能を付与する。
+
+ID=880322081
+Icon/Item/Furniture/MOBJ_32208_GL_Bed
+0
+0
+0
+0
+0
+グルトンベッド
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=880322091
+Icon/Item/Furniture/MOBJ_32209_GL_ChairSofa
+0
+0
+0
+0
+0
+グルトンチェア
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=880322101
+Icon/Item/Furniture/MOBJ_32210_GL_Table
+0
+0
+0
+0
+0
+グルトンテーブル
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=880322121
+Icon/Item/Furniture/MOBJ_32212_GL_Bathtub
+0
+0
+0
+0
+0
+グルトンバスタブ
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=880322191
+Icon/Item/Furniture/MOBJ_32219_GL_PropFour_A
+0
+0
+0
+0
+0
+黄金グルトン像
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。\nこの黄金像は家の中に置くだけで\nかなりの金運を呼ぶという噂もあるほどで、\n彼らの最高傑作と言われている。
+
+ID=880322171
+Icon/Item/Furniture/MOBJ_32217_GL_Shower
+0
+0
+0
+0
+0
+グルトンシャワーブース
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=880322131
+Icon/Item/Furniture/MOBJ_32213_GL_Lamp_A
+0
+0
+0
+0
+0
+グルトンランプ
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=880322141
+Icon/Item/Furniture/MOBJ_32214_GL_PropOne
+0
+0
+0
+0
+0
+グルトンスタンド
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=880322034
+Icon/Item/Furniture/MOBJ_32203_GL_Wallhanging_D
+0
+0
+0
+0
+0
+グルトン壁掛時計
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=880322132
+Icon/Item/Furniture/MOBJ_32213_GL_Lamp
+0
+0
+0
+0
+0
+グルトンライト
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=880322161
+Icon/Item/Furniture/MOBJ_32216_GL_PropThree
+0
+0
+0
+0
+0
+グルトンフィギュア
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=880322031
+Icon/Item/Furniture/MOBJ_32203_GL_Wallhanging_A
+0
+0
+0
+0
+0
+グルトン壁掛け[A]
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=880322032
+Icon/Item/Furniture/MOBJ_32203_GL_Wallhanging_B
+0
+0
+0
+0
+0
+グルトン壁掛け[B]
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=880322033
+Icon/Item/Furniture/MOBJ_32203_GL_Wallhanging_C
+0
+0
+0
+0
+0
+グルトン壁掛け[C]
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=880322151
+Icon/Item/Furniture/MOBJ_32215_GL_PropTwo_A
+0
+0
+0
+0
+0
+グルトンクッション[A]
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=880322152
+Icon/Item/Furniture/MOBJ_32215_GL_PropTwo_B
+0
+0
+0
+0
+0
+グルトンクッション[B]
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=880322153
+Icon/Item/Furniture/MOBJ_32215_GL_PropTwo_C
+0
+0
+0
+0
+0
+グルトンクッション[C]
+人の物を盗むイメージのあるグルトンだが、金運を呼ぶ霊物扱いする人も存在し\n信仰の対象になる事もある。\nそのような人たちはグルトンの悪い\nイメージを消すためにグルトンの家具や\nグッズを作り、販売している。
+
+ID=836001155
+Icon/Item/Function/Package/ETC_0_SpeciallPackage
+0
+0
+0
+0
+0
+グルトン家具セット
+グルトン家具を集めた家具セット。\n\n-構成品-\nグルトンベッド　×1(取引不可)\nグルトンチェア　×1(取引不可)\nグルトンテーブル　×1(取引不可)\n黄金グルトン像　×1(取引不可)\nグルトンシャワーブース　×1(取引不可)\nグルトンランプ　×1(取引不可)\nグルトン壁掛時計　×1(取引不可)\nグルトンライト　×1(取引不可)\nグルトンフィギュア　×1(取引不可)
+
+ID=243001021
+Icon/Item/Costume/PC_D/PC_D_EQ_Detective_HairAcc01_01
+0
+0
+0
+0
+0
+探偵学園制服[キャロット]
+探偵学園男性用制服の帽子。\n迷宮入りした事件も簡単に解決できそう。
+
+ID=243001091
+Icon/Item/Costume/PC_D/PC_D_EQ_Detective_Costume03_09
+Icon/Item/Costume/PC_D/PC_D_EQ_Detective_Costume03_09
+0
+0
+0
+0
+探偵学園制服[衣装]
+探偵学園男性用制服。上下セット。\n迷宮入りした事件も簡単に解決できそう。
+
+ID=243001041
+Icon/Item/Costume/PC_D/PC_D_EQ_Detective_MouthAcc_04
+0
+0
+0
+0
+0
+探偵学園制服[紳士口ヒゲ]
+探偵学園の口ヒゲ。\n迷宮入りした事件を解決するオジサマになれる。
+
+ID=243001121
+Icon/Item/Costume/PC_D/PC_D_EQ_Detective_Shoes_12
+0
+0
+0
+0
+0
+探偵学園制服[靴]
+探偵学園男性用制服の靴。\n迷宮入りした事件も簡単に解決できそう。
+
+ID=263001021
+Icon/Item/Costume/PC_F/PC_F_EQ_Detective_HairAcc01_01
+0
+0
+0
+0
+0
+探偵学園制服[キャロット]
+探偵学園女性用制服の帽子。\n迷宮入りした事件も簡単に解決できそう。
+
+ID=263001091
+Icon/Item/Costume/PC_F/PC_F_EQ_Detective_Costume03_09
+Icon/Item/Costume/PC_F/PC_F_EQ_Detective_Costume03_09
+0
+0
+0
+0
+探偵学園制服[衣装]
+探偵学園女性用制服。上下セット。\n迷宮入りした事件も簡単に解決できそう。
+
+ID=263001111
+Icon/Item/Costume/PC_F/PC_F_EQ_Detective_Socks_11
+0
+0
+0
+0
+0
+探偵学園制服[ソックス]
+探偵学園女性用制服の靴下。\n迷宮入りした事件も簡単に解決できそう。
+
+ID=263001121
+Icon/Item/Costume/PC_F/PC_F_EQ_Detective_Shoes_12
+0
+0
+0
+0
+0
+探偵学園制服[靴]
+探偵学園女性用制服の靴。\n迷宮入りした事件も簡単に解決できそう。
+
+ID=843001021
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+探偵学園制服[キャロット]-未開封
+探偵学園制服[キャロット]が入っている。
+
+ID=843001091
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+探偵学園制服[衣装]-未開封
+探偵学園制服[衣装]が入っている。
+
+ID=843001041
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+探偵学園制服[紳士口ヒゲ]-未開封
+探偵学園制服[紳士口ヒゲ]が入っている。
+
+ID=843001121
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+探偵学園制服[靴]-未開封
+探偵学園制服[靴]が入っている。
+
+ID=863001021
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+探偵学園制服[キャロット]-未開封
+探偵学園制服[キャロット]が入っている。
+
+ID=863001091
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+探偵学園制服[衣装]-未開封
+探偵学園制服[衣装]が入っている。
+
+ID=863001111
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+探偵学園制服[ソックス]-未開封
+探偵学園制服[ソックス]が入っている。
+
+ID=863001121
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+探偵学園制服[靴]-未開封
+探偵学園制服[靴]が入っている。
+
+ID=843001092
+Icon/Item/Function/Package/ETC_0_CostumePackage_PC_D
+0
+0
+0
+0
+0
+探偵学園制服セット
+「探偵学園制服セット」が全て入っている。\nジン専用。\n\n[アバターパッケージ]\n-構成品-\n探偵学園制服[キャロット]　×1\n探偵学園制服[衣装]　×1\n探偵学園制服[紳士口ヒゲ]　×1\n探偵学園制服[靴]　×1
+
+ID=863001092
+Icon/Item/Function/Package/ETC_0_CostumePackage_PC_F
+0
+0
+0
+0
+0
+探偵学園制服セット
+「探偵学園制服セット」が全て入っている。\nイリス専用。\n\n[アバターパッケージ]\n-構成品-\n探偵学園制服[衣装]　×1\n探偵学園制服[キャロット]　×1\n探偵学園制服[ソックス]　×1\n探偵学園制服[靴]　×1
+
+ID=993000234
+Icon/Item/Etc/ETC_0_OldCoin
+0
+0
+0
+0
+0
+[EV]ドリームロットコイン
+<font color='#FFBA85'>[イベントアイテム]<font color='#9D927B'>\n\nグルトンが握りしめていたコイン。\nずっと握っていたためか、少し生暖かい。\n何かの抽選に使われるようだ。\n\n<font color='#FF0000'>※該当アイテムはイベント期間終了後効果が無くなり、\n1000ジェニーで売却が出来るようになります。<font color='#9D927B'>
+
+ID=991000600
+Icon/Item/Function/Package/RandomBox_SoulStone_Hidden
+0
+0
+0
+0
+0
+[期間限定]10月のダブルアップランダムボックス
+<font color='#FFBA85'>[ランダムボックス]<font color='#9D927B'>\n\nそれぞれ50％の確率で「Q.B.D[強化保護]ｘ1」\nまたは「Q.B.Dダブルアップパッケージｘ1」のいずれかを獲得できる。\n\n-出現アイテム-\nQ.B.Dダブルアップパッケージ　×1(取引不可)\nQ.B.D[強化保護]　×1(取引不可)
+
+ID=991000601
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+Q.B.Dダブルアップパッケージ
+<fontcolor='#FFBA85'>[パッケージ]<fontcolor='#9D927B'>\n\n『[期間限定]10月のダブルアップランダムボックス　×1』と『Q.B.D[強化保護]　×1』が入っている。\n\n-構成品-\n[期間限定]10月のダブルアップランダムボックス　×1(取引不可)\nQ.B.D[強化保護]　×1(取引不可)
+
+ID=991000602
+Icon/Item/Function/CountBox
+0
+0
+0
+0
+0
+[期間限定]特別カウントボックスI
+<font color='#FFBA85'>[カウントボックス]<font color='#9D927B'>\n\n使用すると構成品のアイテムが獲得できます。\n計7回分のアイテムを獲得できますが、一度使用すると再使用までに20時間が必要となります。\n\n再使用時間:20時間\n使用可能回数:7回\n\n-目玉アイテム-\nグルトンカプセル選択券 ×1(取引不可)\nSコイン500個ボックス　×1(取引不可)\nA.Rカードキューブ　×1(取引不可)\nオールスキルリバーサー ×1(取引不可)\n\n※同じカウントボックスを複数所持している場合、再使用時間はすべてのアイテムにて共通となります。\n
+
+ID=991000603
+Icon/Item/Function/CountBox
+0
+0
+0
+0
+0
+[期間限定]特別カウントボックスII
+<font color='#FFBA85'>[カウントボックス]<font color='#9D927B'>\n\n使用すると構成品のアイテムが獲得できます。\n計14回分のアイテムを獲得できますが、一度使用すると再使用までに20時間が必要となります。\n\n再使用時間:20時間\n使用可能回数:14回\n\n-目玉アイテム-\nグルトンカプセル選択券　×1(取引不可)\nSコイン500個ボックス　×1(取引不可)\n[特製]テラブローチキューブ　×1(取引不可)\nエナジーコンバーター　×1(取引不可)\n\n※同じカウントボックスを複数所持している場合、再使用時間はすべてのアイテムにて共通となります。
+
+ID=991000604
+Icon/Item/Etc/ETC_0_PersonalStoreOpenTicket
+0
+0
+0
+0
+0
+グルトンカプセル選択券
+<font color='#FFBA85'>[セレクトボックス]<font color='#9D927B'>\n\n現在、Sコインショップにて販売されているグルトンカプセルカプセルの内、希望するアイテムを1つ選んで獲得できる。\n\n-選択品-\n[グルトンカプセル]ぶらぶらグルトン　×1\n[グルトンカプセル]ひっつきカワウソ　×1
+
+ID=836000418
+Icon/Item/Etc/ETC_0_EtherBox
+0
+0
+0
+0
+0
+50000エーテルボックス
+装備強化で使用する触媒エーテルが入っている。\nソウルワーカーだけが認識し物質化できるエーテルを\nどうやって詰め込んだのかはヒ・ミ・ツ♡\nアイテム使用時、50000エーテルを獲得できる。\n\n[エーテルボックス]使用時、50000エーテルを獲得。
+
+ID=810001146
+Icon/Item/Etc/ETC_0_LSCube_HugeLuck
+0
+0
+0
+0
+0
+[特製]テラブローチキューブ
+[アイテムボックス]\n\n確定でテラブローチをランダムで\n1つ獲得できるキューブ。\nアバターに装着し、力を得よう。
+
+ID=910010009
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+トランセンドギアパッケージ(Lv5)
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\nレベル5から着用可能なトランセンドギアを獲得できるパッケージ。<font color='#FFBA85'>このパッケージから獲得する装備品は6段階まで強化に失敗しても破壊されません。<font color='#9D927B'>
+
+ID=910010010
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+トランセンドギアパッケージ(Lv10)
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\nレベル10から着用可能なトランセンドギアを獲得できるパッケージ。<font color='#FFBA85'>このパッケージから獲得する装備品は6段階まで強化に失敗しても破壊されません。<font color='#9D927B'>
+
+ID=910010011
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+トランセンドギアパッケージ(Lv15)
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\nレベル15から着用可能なトランセンドギアを獲得できるパッケージ。<font color='#FFBA85'>このパッケージから獲得する装備品は6段階まで強化に失敗しても破壊されません。<font color='#9D927B'>
+
+ID=910010012
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+トランセンドギアパッケージ(Lv20)
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\nレベル20から着用可能なトランセンドギアを獲得できるパッケージ。<font color='#FFBA85'>このパッケージから獲得する装備品は6段階まで強化に失敗しても破壊されません。<font color='#9D927B'>
+
+ID=910010013
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+トランセンドギアパッケージ(Lv25)
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\nレベル25から着用可能なトランセンドギアを獲得できるパッケージ。<font color='#FFBA85'>このパッケージから獲得する装備品は6段階まで強化に失敗しても破壊されません。<font color='#9D927B'>
+
+ID=910010014
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+トランセンドギアパッケージ(Lv30)
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\nレベル30から着用可能なトランセンドギアを獲得できるパッケージ。<font color='#FFBA85'>このパッケージから獲得する装備品は6段階まで強化に失敗しても破壊されません。<font color='#9D927B'>
+
+ID=910010015
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+トランセンドギアパッケージ(Lv35)
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\nレベル35から着用可能なトランセンドギアを獲得できるパッケージ。<font color='#FFBA85'>このパッケージから獲得する装備品は6段階まで強化に失敗しても破壊されません。<font color='#9D927B'>
+
+ID=910010016
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+トランセンドギアパッケージ(Lv40)
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\nレベル40から着用可能なトランセンドギアを獲得できるパッケージ。<font color='#FFBA85'>このパッケージから獲得する装備品は6段階まで強化に失敗しても破壊されません。<font color='#9D927B'>
+
+ID=910010017
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+トランセンドギアパッケージ(Lv45)
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\nレベル45から着用可能なトランセンドギアを獲得できるパッケージ。<font color='#FFBA85'>このパッケージから獲得する装備品は6段階まで強化に失敗しても破壊されません。<font color='#9D927B'>
+
+ID=910010018
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+トランセンドギアパッケージ(Lv50)
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\nレベル50から着用可能なトランセンドギアを獲得できるパッケージ。<font color='#FFBA85'>このパッケージから獲得する装備品は6段階まで強化に失敗しても破壊されません。<font color='#9D927B'>
+
+ID=910010019
+Icon/Item/Function/Package/PackageBox
+0
+0
+0
+0
+0
+トランセンドギアパッケージ(Lv55)
+<font color='#FFBA85'>[パッケージ]<font color='#9D927B'>\n\nレベル55から着用可能なトランセンドギアを獲得できるパッケージ。<font color='#FFBA85'>このパッケージから獲得する装備品は6段階まで強化に失敗しても破壊されません。<font color='#9D927B'>
+
+ID=880331171
+Icon/Item/Furniture/MOBJ_33117_PropFour
+0
+0
+0
+0
+0
+ハルの特大パネル(クラスアップグレード)
+クラスアップグレード後の「ハル・エスティア」の特大パネル。
+
+ID=880332171
+Icon/Item/Furniture/MOBJ_33217_PropFour
+0
+0
+0
+0
+0
+アーウィンの特大パネル(クラスアップグレード)
+クラスアップグレード後の「アーウィン・アークライト」の特大パネル。
+
+ID=880333171
+Icon/Item/Furniture/MOBJ_33317_PropFour
+0
+0
+0
+0
+0
+リリーの特大パネル(クラスアップグレード)
+クラスアップグレード後の「リリー・ブルームメルヘン」の特大パネル。
+
+ID=880334171
+Icon/Item/Furniture/MOBJ_33417_PropFour
+0
+0
+0
+0
+0
+ジンの特大パネル(クラスアップグレード)
+クラスアップグレード後の「ジン・セイパーツ」の特大パネル。
+
+ID=880335171
+Icon/Item/Furniture/MOBJ_33517_PropFour
+0
+0
+0
+0
+0
+ステラの特大パネル(クラスアップグレード)
+クラスアップグレード後の「ステラ・ユニベル」の特大パネル。
+
+ID=880336171
+Icon/Item/Furniture/MOBJ_33617_PropFour
+0
+0
+0
+0
+0
+イリスの特大パネル(クラスアップグレード)
+クラスアップグレード後の「イリス・ユマ」の特大パネル。
+
+ID=993000235
+Icon/Item/Etc/ETC_0_PersonalStoreOpenTicket
+0
+0
+0
+0
+0
+特大パネルセレクトボックス
+<font color='#FFBA85'>[セレクトボックス]<font color='#9D927B'>\n\n選択品の中から希望するアイテムを1つ選んで獲得できる。\n\n-選択品-\nハルの特大パネル(クラスアップグレード)　×1\nアーウィンの特大パネル(クラスアップグレード)　×1\nリリーの特大パネル(クラスアップグレード)　×1\nジンの特大パネル(クラスアップグレード)　×1\nステラの特大パネル(クラスアップグレード)　×1\nイリスの特大パネル(クラスアップグレード)　×1\n\n※獲得できるアイテムは全て取引不可アイテムです。
