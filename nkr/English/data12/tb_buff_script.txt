@@ -1152,31 +1152,31 @@ Invincible
 
 ID=5576
 Hide and Seek Ⅰ
-Gain Super Armor, all attacks received are evaded.
+スーパーアーマー状態になり、攻撃を受けても回避判定になります。
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5577
 Hide and Seek Ⅱ
-Gain Super Armor, all attacks received are evaded.
+スーパーアーマー状態になり、攻撃を受けても回避判定になります。
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5578
 Hide and Seek Ⅲ
-Gain Super Armor, all attacks received are evaded.
+スーパーアーマー状態になり、攻撃を受けても回避判定になります。
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5579
 Hide and Seek ⅠV
-Gain Super Armor, all attacks received are evaded.
+スーパーアーマー状態になり、攻撃を受けても回避判定になります。
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5580
 Hide and Seek Ⅴ
-Gain Super Armor, all attacks received are evaded.
+スーパーアーマー状態になり、攻撃を受けても回避判定になります。
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
@@ -2884,6 +2884,54 @@ HP↓
 0
 HP↓
 
+ID=30231
+黒い血
+敵の血を被せられました。プライマルのブレスの影響を受けなくなります。
+Icon/Buff/Icon_Common_Buff_SArmor
+黒い血
+
+ID=30232
+Toughen
+効果時間中、プライマルの巨大な腕からのダメージを減少させます。
+Icon/Buff/Icon_Common_Buff_Reg
+Toughen
+
+ID=30233
+狂乱
+効果時間中、攻撃力と攻撃速度が大きく増加する代わりに、防御力が大幅減少されます。
+Icon/Buff/Icon_Common_Buff_ATK
+狂乱
+
+ID=30234
+酸性液
+持続的にHPが減少します。
+Icon/Buff/Icon_Common_Debuff_Bleed
+酸性液
+
+ID=30235
+Weakness
+一時的に身体が衰弱状態となり攻撃力が減少します。
+Icon/Buff/Icon_Common_DeBuff_ATK
+Weakness
+
+ID=30236
+胃酸
+持続的にHPが減少され、6重複されると腐蝕状態となり、持続的にとても大きなダメージを受けます。
+Icon/Buff/Icon_Common_Debuff_Poison
+胃酸
+
+ID=30237
+腐蝕
+持続的にとても大きなダメージを受けます。
+Icon/Buff/Icon_Common_Debuff_Provoke
+腐蝕
+
+ID=30238
+血の塊
+プライマルのべとべとする血が固まって動けられません。
+Icon/Buff/Icon_Common_Debuff_Paralysis
+血の塊
+
 ID=30302
 Soul Breakdown
 Soon, someone's soul will be corrupted.
@@ -3600,13 +3648,13 @@ Movement Speed ↑
 
 ID=53051
 Mind's Eye Ⅰ
-On hit, 4% chance of +5% HP. (60s cooldown)
+攻撃命中時、4%の確率でHPが5%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53052
 Mind's Eye Ⅱ
-On hit, 5% chance of +5% HP. (60s cooldown)
+攻撃命中時、5%の確率でHPが5%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
@@ -3948,13 +3996,13 @@ Attack Speed ↑
 
 ID=53313
 Weak but Precise Ⅰ
-When hit, 20% chance of +1000 Accuracy, -20% Attack for 5s. (60s cooldown)
+攻撃を受けた時、20%の確率で5秒間、攻撃力が20%減少し、命中が1000上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53321
 Weak but Precise Ⅱ
-When hit, 20% chance of +1000 Accuracy, -15% Attack for 5s. (60s cooldown)
+攻撃を受けた時、20%の確率で5秒間、攻撃力が15%減少し、命中が1000上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
@@ -3996,19 +4044,19 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53352
 Escape Notice Ⅰ
-On SA Break, 50% chance of +50% Movement Speed for 3s. (60s cooldown)
+スーパーアーマーブレイクが発生すると、50%の確率で3秒間、移動速度が50%上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=53353
 Business Energy Ⅰ
-On enemy death, 10% chance of +10% SG. (60s cooldown)
+敵死亡時、10%の確率でSGが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53361
 Ready... Fire!! Ⅰ
-Every 1 minute, Accuracy +200 for 10 seconds.
+60秒ごとに10秒間、命中度が200上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
@@ -4044,7 +4092,7 @@ Attack ↑
 
 ID=53391
 Lost & Found Ⅰ
-When obtaining an item, 10% chance of being invincible for 2s. (60s cooldown)
+アイテム獲得時、10%の確率で2秒間、無敵状態になる。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Invincible
 
@@ -4062,7 +4110,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53411
 Always Ready Ⅰ
-Every 1 minute, Attack Speed +5% for 10 seconds.
+60秒ごとに10秒間、攻撃速度が5%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
@@ -4074,13 +4122,13 @@ Movement Speed ↑
 
 ID=53413
 Messenger's Flower Ⅰ
-When SA breaks, +10% Attack for 5s. (60s cooldown)
+スーパーアーマーブレイクが発生すると、5秒間、攻撃力が10%上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53421
 Messenger's Flower Ⅱ
-When SA breaks, +15% Attack for 10s. (60s cooldown)
+スーパーアーマーブレイクが発生すると、10秒間、攻撃力が15%上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
@@ -4092,7 +4140,7 @@ Attack ↑
 
 ID=53423
 Hit & Away Ⅰ
-On evaded hit, 30% chance of +100 Evasion for 5s. (60s cooldown)
+攻撃失敗時、30%の確率で5秒間、回避度が100上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Evasion ↑
 
@@ -4170,13 +4218,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53471
 Punching Bag Ⅰ
-When hit, 50% chance of +1% Attack for 60s. (1s cooldown; max 3 stacks)
+攻撃を受けた時、50%の確率で60秒間、攻撃力が1%ずつ上昇する。(クールタイム1秒、最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53472
 Punching Bag Ⅱ
-When hit, 100% chance of +1% Attack for 60s. (1s cooldown; max 5 stacks)
+攻撃を受けた時、100%の確率で60秒間、攻撃力が1%ずつ上昇する。(クールタイム1秒、最大5重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
@@ -4212,25 +4260,25 @@ Movement Speed ↑
 
 ID=53522
 Maintenance Pro Ⅰ
-Recover 1% HP every 1 minute.
+60秒ごとにHPが1%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53523
 Maintenance Pro Ⅱ
-Recover 2% HP every 1 minute.
+60秒ごとにHPが2%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53531
 Quiet Smile Ⅰ
-Recover 1% SG every 1 minute.
+60秒ごとにSGが1%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53532
 Quiet Smile I
-Recover 2% SG every 1 minute.
+60秒ごとにSGが2%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
@@ -4308,37 +4356,37 @@ Attack ↑
 
 ID=53545
 Hit Fever Ⅰ
-Every 100 hit combo (max 300), +3% Attack for 15s. (max 3 stacks)
+コンボ100hitごとに(最大300hit)15秒間、攻撃力が3%ずつ上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53546
 Hit Fever Ⅱ
-Every 100 hit combo (max 300), +4% Attack for 15s. (max 3 stacks)
+コンボ100hitごとに(最大300hit)15秒間、攻撃力が4%ずつ上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53547
 Hit Fever Ⅲ
-Every 100 hit combo (max 300), +5% Attack for 15s. (max 3 stacks)
+コンボ100hitごとに(最大300hit)15秒間、攻撃力が5%ずつ上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53548
 Hit Fever Ⅰ
-Every 100 hit combo (max 300), +4% Attack for 15s. (max 3 stacks)
+コンボ100hitごとに(最大300hit)15秒間、攻撃力が4%ずつ上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53549
 Hit Fever Ⅱ
-Every 100 hit combo (max 300), +5% Attack for 15s. (max 3 stacks)
+コンボ100hitごとに(最大300hit)15秒間、攻撃力が5%ずつ上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53550
 Hit Fever Ⅲ
-Every 100 hit combo (max 300), +6% Attack for 15s. (max 3 stacks)
+コンボ100hitごとに(最大300hit)15秒間、攻撃力が6%ずつ上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
@@ -4812,37 +4860,37 @@ Attack ↑
 
 ID=53629
 Quadruple Fierce Attack Ⅰ
-On hit, 15% chance of +3% Attack Speed for 2.5s. (max 3 stacks)
+攻撃命中時、15%の確率で2.5秒間、攻撃速度が3%上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53630
 Quadruple Fierce Attack Ⅱ
-On hit, 15% chance of +3% Attack Speed for 3s. (max 3 stacks)
+攻撃命中時、15%の確率で3秒間、攻撃速度が3%上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53631
 Quadruple Fierce Attack Ⅲ
-On hit, 15% chance of +3% Attack Speed for 3.5s. (max 3 stacks)
+攻撃命中時、15%の確率で3.5秒間、攻撃速度が3%上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53632
 Quadruple Fierce Attack Ⅰ
-On hit, 15% chance of +5% Attack Speed for 2.5s. (max 3 stacks)
+攻撃命中時、15%の確率で2.5秒間、攻撃速度が5%上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53633
 Quadruple Fierce Attack Ⅱ
-On hit, 15% chance of +5% Attack Speed for 3.5s. (max 3 stacks)
+攻撃命中時、15%の確率で3.5秒間、攻撃速度が5%上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53634
 Quadruple Fierce Attack Ⅲ
-On hit, 15% chance of +5% Attack Speed for 4.5s. (max 3 stacks)
+攻撃命中時、15%の確率で4.5秒間、攻撃速度が5%上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
@@ -5304,37 +5352,37 @@ Attack Speed ↑
 
 ID=53718
 Weak but Precise Ⅰ
-When hit, 20% chance of -20% Attack, +1000 Accuracy for 6s. (60s cooldown)
+攻撃を受けた時、20%の確率で6秒間、攻撃力が20%減少し、命中度が1000上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53719
 Weak but Precise Ⅱ
-When hit, 20% chance of -10% Attack, +1000 Accuracy for 6s. (60s cooldown)
+攻撃を受けた時、20%の確率で6秒間、攻撃力が10%減少し、命中度が1000上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53720
 Weak but Precise Ⅲ
-When hit, 20% chance of -5% Attack, +1000 Accuracy for 6s. (60s cooldown)
+攻撃を受けた時、20%の確率で6秒間、攻撃力が5%減少し、命中度が1000上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53721
 Weak but Precise Ⅰ
-When hit, 20% chance of -20% Attack, +1100 Accuracy for 6s. (60s cooldown)
+攻撃を受けた時、20%の確率で6秒間、攻撃力が20%減少し、命中度が1100上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53722
 Weak but Precise Ⅱ
-When hit, 20% chance of -10% Attack, +1100 Accuracy for 6s. (60s cooldown)
+攻撃を受けた時、20%の確率で6秒間、攻撃力が10%減少し、命中度が1100上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53723
 Weak but Precise Ⅲ
-When hit, 20% chance of -5% Attack, +1100 Accuracy for 6s. (60s cooldown)
+攻撃を受けた時、20%の確率で6秒間、攻撃力が5%減少し、命中度が1100上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
@@ -5376,39 +5424,39 @@ Damage Reduction Increased
 
 ID=53730
 Infinite Power Ⅰ
--1% SG Cost
+装着時、SGの消費量が1%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
-SG Cost Reduced
+SG消費量減少
 
 ID=53731
 Infinite Power Ⅱ
--3% SG Cost
+装着時、SGの消費量が3%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
-SG Cost Reduced
+SG消費量減少
 
 ID=53732
 Infinite Power Ⅲ
--5% SG Cost
+装着時、SGの消費量が5%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
-SG Cost Reduced
+SG消費量減少
 
 ID=53733
 Infinite Power Ⅰ
--2% SG Cost
+装着時、SGの消費量が2%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
-SG Cost Reduced
+SG消費量減少
 
 ID=53734
 Infinite Power Ⅱ
--4% SG Cost
+装着時、SGの消費量が4%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
-SG Cost Reduced
+SG消費量減少
 
 ID=53735
 Infinite Power Ⅲ
--6% SG Cost
+装着時、SGの消費量が6%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
-SG Cost Reduced
+SG消費量減少
 
 ID=53736
 Blade's Angel Ⅰ
@@ -6282,37 +6330,37 @@ Critical Damage Increased
 
 ID=56501
 Book of Combat Tactics I
-スキル使用時、10%の確率で15秒間スタミナ最大値5、攻撃力5%上昇する。(最大4重複)
+スキル使用時、10%の確率で15秒間スタミナ最大値5、攻撃力5%上昇する。(最大4重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Increased Attack and Stamina
 
 ID=56502
 Book of Combat Tactics II
-スキル使用時、10%の確率で15秒間スタミナ最大値6、攻撃力8%上昇する。(最大4重複)
+スキル使用時、10%の確率で15秒間スタミナ最大値6、攻撃力8%上昇する。(最大4重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Increased Attack and Stamina
 
 ID=56503
 Book of Combat Tactics III
-スキル使用時、10%の確率で15秒間スタミナ最大値7、攻撃力12%上昇する。(最大4重複)
+スキル使用時、10%の確率で15秒間スタミナ最大値7、攻撃力12%上昇する。(最大4重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Increased Attack and Stamina
 
 ID=56511
 Book of Combat Tactics I
-スキル使用時、20%の確率で20秒間スタミナ最大値8、攻撃力8%上昇する。(最大5重複)
+スキル使用時、20%の確率で20秒間スタミナ最大値8、攻撃力8%上昇する。(最大5重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Increased Attack and Stamina
 
 ID=56512
 Book of Combat Tactics II
-スキル使用時、20%の確率で20秒間スタミナ最大値9、攻撃力12%上昇する。(最大5重複)
+スキル使用時、20%の確率で20秒間スタミナ最大値9、攻撃力12%上昇する。(最大5重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Increased Attack and Stamina
 
 ID=56513
 Book of Combat Tactics III
-スキル使用時、20%の確率で20秒間スタミナ最大値10、攻撃力17%上昇する。(最大5重複)
+スキル使用時、20%の確率で20秒間スタミナ最大値10、攻撃力17%上昇する。(最大5重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Increased Attack and Stamina
 
@@ -6354,9 +6402,9 @@ Increased Attack and Critical
 
 ID=5614
 Winning Break
-Attack and Defense Penetration Increased.
+攻撃力、防御度貫通率が増加します。
 Icon/Buff/Icon_Common_Buff_Penetration
-Increases Attack and Defense Penetration
+攻撃力、防御度貫通率増加
 
 ID=9000
 Slow
@@ -6795,3 +6843,441 @@ Extreme Rush III
 5秒間、無敵状態になります。
 Icon/Buff/Icon_Common_Buff_Immun
 Extreme Rush III
+
+ID=55137
+黄金の火花
+攻撃速度及び移動速度減少が30%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+攻撃速度及び移動速度減少
+
+ID=55138
+黄金の氷河I
+受けたダメージの2%を反射する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ反射
+
+ID=55139
+黄金の氷河II
+受けたダメージの3%を反射する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ反射
+
+ID=55140
+黄金の氷河III
+受けたダメージの5%を反射する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ反射
+
+ID=55141
+黄金の氷河IV
+受けたダメージの7%を反射する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ反射
+
+ID=55142
+黄金の雪原I
+5秒間ボス/ネームドモンスターに与えるダメージが7%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage ↑
+
+ID=55143
+黄金の雪原II
+7秒間ボス/ネームドモンスターに与えるダメージが7%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage ↑
+
+ID=55144
+黄金の雪原III
+10秒間ボス/ネームドモンスターに与えるダメージが7%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage ↑
+
+ID=55145
+黄金の雪原IV
+13秒間ボス/ネームドモンスターに与えるダメージが7%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage ↑
+
+ID=55146
+黄金の嵐I
+5秒間最大ダメージ量を固定させる効果を付与する。
+Icon/Buff/Icon_Common_Buff_Akashic
+最大ダメージ量固定
+
+ID=55147
+黄金の嵐II
+8秒間最大ダメージ量を固定させる効果を付与する。
+Icon/Buff/Icon_Common_Buff_Akashic
+最大ダメージ量固定
+
+ID=55148
+黄金の嵐III
+11秒間最大ダメージ量を固定させる効果を付与する。
+Icon/Buff/Icon_Common_Buff_Akashic
+最大ダメージ量固定
+
+ID=55149
+黄金の嵐IV
+15秒間最大ダメージ量を固定させる効果を付与する。
+Icon/Buff/Icon_Common_Buff_Akashic
+最大ダメージ量固定
+
+ID=54111
+秘密の研究者I
+装着時のダメージ減少が3%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage Reduction Increased
+
+ID=54112
+秘密の研究者II
+装着時のダメージ減少が4%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage Reduction Increased
+
+ID=54113
+秘密の研究者III
+装着時のダメージ減少が5%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage Reduction Increased
+
+ID=54121
+禁忌科学の探究者I
+装着時のダメージ減少が5%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage Reduction Increased
+
+ID=54122
+禁忌科学の探究者II
+装着時のダメージ減少が6%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage Reduction Increased
+
+ID=54123
+禁忌科学の探究者III
+装着時のダメージ減少が7%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage Reduction Increased
+
+ID=54211
+歴史の観察者I
+装着時、10秒毎にSVを5獲得する。
+Icon/Buff/Icon_Common_Buff_Akashic
+SV回復
+
+ID=54212
+歴史の観察者II
+装着時、10秒毎にSVを6獲得する。
+Icon/Buff/Icon_Common_Buff_Akashic
+SV回復
+
+ID=54213
+歴史の観察者III
+装着時、10秒毎にSVを7獲得する。
+Icon/Buff/Icon_Common_Buff_Akashic
+SV回復
+
+ID=54221
+新歴史の観察者I
+装着時、10秒毎にSVを7獲得する。
+Icon/Buff/Icon_Common_Buff_Akashic
+SV回復
+
+ID=54222
+新歴史の観察者II
+装着時、10秒毎にSVを9獲得する。
+Icon/Buff/Icon_Common_Buff_Akashic
+SV回復
+
+ID=54223
+新歴史の観察者III
+装着時、10秒毎にSVを11獲得する。
+Icon/Buff/Icon_Common_Buff_Akashic
+SV回復
+
+ID=54311
+錬金術師I
+状態異常になると50%の確率で3秒間、無敵状態になる。(クールタイム45秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Invincible
+
+ID=54312
+錬金術師II
+状態異常になると70%の確率で3秒間、無敵状態になる。(クールタイム45秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Invincible
+
+ID=54313
+錬金術師III
+状態異常になると90%の確率で3秒間、無敵状態になる。(クールタイム45秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Invincible
+
+ID=54321
+最後の錬金術師I
+状態異常になると60%の確率で3秒間、無敵状態になる。(クールタイム35秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Invincible
+
+ID=54322
+最後の錬金術師II
+状態異常になると80%の確率で3秒間、無敵状態になる。(クールタイム35秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Invincible
+
+ID=54323
+最後の錬金術師III
+状態異常になると100%の確率で3秒間、無敵状態になる。(クールタイム35秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Invincible
+
+ID=54411
+復讐の熱望I
+装着時の移動速度が7%増加し、攻撃速度が1%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Speed ↑
+
+ID=54412
+復讐の熱望II
+装着時の移動速度が8%増加し、攻撃速度が2%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Speed ↑
+
+ID=54413
+復讐の熱望III
+装着時の移動速度が9%増加し、攻撃速度が3%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Speed ↑
+
+ID=54421
+闘志の意志I
+装着時の移動速度が10%増加し、攻撃速度が3%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Speed ↑
+
+ID=54422
+闘志の意志II
+装着時の移動速度が12%増加し、攻撃速度が4%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Speed ↑
+
+ID=54423
+闘志の意志III
+装着時の移動速度が14%増加し、攻撃速度が5%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack Speed ↑
+
+ID=54511
+快楽の熱望I
+クリティカル命中時、5%の確率で2秒間、敵防御度貫通が2%増加する。(最大2重複[効果ならびに効果時間の一部])
+Icon/Buff/Icon_Common_Buff_Akashic
+敵防御度貫通増加
+
+ID=54512
+快楽の熱望II
+クリティカル命中時、5%の確率で2秒間、敵防御度貫通が3%増加する。 (最大2重複[効果ならびに効果時間の一部])
+Icon/Buff/Icon_Common_Buff_Akashic
+敵防御度貫通増加
+
+ID=54513
+快楽の熱望III
+クリティカル命中時、5%の確率で2秒間、敵防御度貫通が4%増加する。 (最大2重複[効果ならびに効果時間の一部])
+Icon/Buff/Icon_Common_Buff_Akashic
+敵防御度貫通増加
+
+ID=54521
+誓いの意志I
+クリティカル命中時、7%の確率で3秒間、敵防御度貫通が3%増加する。 (最大2重複[効果ならびに効果時間の一部])
+Icon/Buff/Icon_Common_Buff_Akashic
+敵防御度貫通増加
+
+ID=54522
+誓いの意志II
+クリティカル命中時、7%の確率で3秒間、敵防御度貫通が4%増加する。 (最大2重複[効果ならびに効果時間の一部])
+Icon/Buff/Icon_Common_Buff_Akashic
+敵防御度貫通増加
+
+ID=54523
+誓いの意志III
+クリティカル命中時、7%の確率で3秒間、敵防御度貫通が5%増加する。 (最大2重複[効果ならびに効果時間の一部])
+Icon/Buff/Icon_Common_Buff_Akashic
+敵防御度貫通増加
+
+ID=54611
+狂気の熱望I
+スキル使用時、3秒間の攻撃力700増加する。(クールタイム30秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack ↑
+
+ID=54612
+狂気の熱望II
+スキル使用時、3秒間の攻撃力900増加する。(クールタイム30秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack ↑
+
+ID=54613
+狂気の熱望III
+スキル使用時、3秒間の攻撃力1200増加する。(クールタイム30秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack ↑
+
+ID=54621
+覚悟の意志I
+スキル使用時、5秒間の攻撃力900増加する。(クールタイム30秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack ↑
+
+ID=54622
+覚悟の意志II
+スキル使用時、5秒間の攻撃力1200増加する。(クールタイム30秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack ↑
+
+ID=54623
+覚悟の意志III
+スキル使用時、5秒間の攻撃力1600増加する。(クールタイム30秒)
+Icon/Buff/Icon_Common_Buff_Akashic
+Attack ↑
+
+ID=54711
+情熱の熱望I
+装着時の防御度が500増加し、ボス/ネームドモンスターから受けるダメージが7%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少
+
+ID=54712
+情熱の熱望II
+装着時の防御度が700増加し、ボス/ネームドモンスターから受けるダメージが8%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少
+
+ID=54713
+情熱の熱望III
+装着時の防御度が900増加し、ボス/ネームドモンスターから受けるダメージが9%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少
+
+ID=54721
+信頼の意志I
+装着時の防御度が750増加し、ボス/ネームドモンスターから受けるダメージが8%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少
+
+ID=54722
+信頼の意志II
+装着時の防御度が900増加し、ボス/ネームドモンスターから受けるダメージが9%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少
+
+ID=54723
+信頼の意志III
+装着時の防御度が1050増加し、ボス/ネームドモンスターから受けるダメージが10%減少する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ減少
+
+ID=54811
+悲しみの熱望I
+攻撃命中時、30%の確率でSGが10%回復する。(クールタイム20秒)
+Icon/Buff/Icon_Common_Buff_Akashic
++SG
+
+ID=54812
+悲しみの熱望II
+攻撃命中時、30%の確率でSGが15%回復する。(クールタイム20秒)
+Icon/Buff/Icon_Common_Buff_Akashic
++SG
+
+ID=54813
+悲しみの熱望III
+攻撃命中時、30%の確率でSGが20%回復する。(クールタイム20秒)
+Icon/Buff/Icon_Common_Buff_Akashic
++SG
+
+ID=54821
+希望の意志I
+攻撃命中時、30%の確率でSGが20%回復する。(クールタイム15秒)
+Icon/Buff/Icon_Common_Buff_Akashic
++SG
+
+ID=54822
+希望の意志II
+攻撃命中時、30%の確率でSGが25%回復する。(クールタイム15秒)
+Icon/Buff/Icon_Common_Buff_Akashic
++SG
+
+ID=54823
+希望の意志III
+攻撃命中時、30%の確率でSGが30%回復する。(クールタイム15秒)
+Icon/Buff/Icon_Common_Buff_Akashic
++SG
+
+ID=54911
+憤怒の熱望I
+65秒毎に5秒間、クリティカルダメージが1500増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ増加
+
+ID=54912
+憤怒の熱望II
+65秒毎に5秒間、クリティカルダメージが2000増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ増加
+
+ID=54913
+憤怒の熱望III
+65秒毎に5秒間、クリティカルダメージが3000増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ増加
+
+ID=54921
+勇猛の意志I
+55秒毎に5秒間、クリティカルダメージが2000増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ増加
+
+ID=54922
+勇猛の意志II
+55秒毎に5秒間、クリティカルダメージが3000増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ増加
+
+ID=54923
+勇猛の意志III
+55秒毎に5秒間、クリティカルダメージが4500増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ増加
+
+ID=60111
+正義のソウルワーカーI
+装着時の攻撃力が500増加し、ボス/ネームドに与えるダメージが7%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage ↑
+
+ID=60112
+正義のソウルワーカーII
+装着時の攻撃力が600増加し、ボス/ネームドに与えるダメージが8%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage ↑
+
+ID=60113
+正義のソウルワーカーIII
+装着時の攻撃力が700増加し、ボス/ネームドに与えるダメージが9%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage ↑
+
+ID=60121
+悲劇のリーダーI
+装着時の攻撃力が650増加し、ボス/ネームドに与えるダメージが9%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage ↑
+
+ID=60122
+悲劇のリーダーII
+装着時の攻撃力が800増加し、ボス/ネームドに与えるダメージが10%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage ↑
+
+ID=60123
+悲劇のリーダーIII
+装着時の攻撃力が1000増加し、ボス/ネームドに与えるダメージが11%増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage ↑
