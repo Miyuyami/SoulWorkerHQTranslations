@@ -1,0 +1,27 @@
+﻿[FontConfig "English"] 
+fontlib "../datas/data00.v"
+map "$normal" = "Arial Unicode MS" Normal
+map "$bold" = "Arial Unicode MS" Bold
+map "$header" = "Arial Unicode MS" Bold
+map "$IMECandidateListFont" = "Arial Unicode MS" Normal
+
+[FontConfig "Korean"] 
+fontlib "../datas/data00.v"
+map "$normal" = "Arial Unicode MS" Normal
+map "$bold" = "Arial Unicode MS" Bold
+map "$header" = "Arial Unicode MS" Bold
+map "$IMECandidateListFont" = "Arial Unicode MS" Normal
+
+[FontConfig "Chinese"] 
+fontlib "../datas/data00.v"
+map "$normal" = "Arial Unicode MS" Normal
+map "$bold" = "Arial Unicode MS" Bold
+map "$header" = "Arial Unicode MS" Bold
+map "$IMECandidateListFont" = "Arial Unicode MS" Normal
+
+[FontConfig "Japanese"] 
+fontlib "../datas/data00.v"
+map "$normal" = "Arial Unicode MS" Normal
+map "$bold" = "Arial Unicode MS" Bold
+map "$header" = "Arial Unicode MS" Bold
+map "$IMECandidateListFont" = "Arial Unicode MS" Normal
