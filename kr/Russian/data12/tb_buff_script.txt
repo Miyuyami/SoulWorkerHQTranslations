@@ -840,31 +840,31 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=5041
 ブローアップⅠ
-攻撃命中時、SGを1%獲得する。
+SA破壊量が4%増加し、攻撃命中時にSGを1%獲得する。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG獲得
 
 ID=5042
 ブローアップⅡ
-攻撃命中時、SGを1.2%獲得する。
+SA破壊量が8%増加し、攻撃命中時にSGを1.2%獲得する。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG獲得
 
 ID=5043
 ブローアップⅢ
-攻撃命中時、SGを1.6%獲得する。
+SA破壊量が12%増加し、攻撃命中時にSGを1.6%獲得する。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG獲得
 
 ID=5044
 ブローアップⅣ
-攻撃命中時、SGを2%獲得する。
+SA破壊量が16%増加し、攻撃命中時にSGを2%獲得する。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG獲得
 
 ID=5045
 ブローアップⅤ
-攻撃命中時、SGを3%獲得する。
+SA破壊量が20%増加し、攻撃命中時にSGを3%獲得する。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG獲得
 
@@ -1542,61 +1542,61 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=6541
 ベストテンポⅠ
-SGを毎秒5%ずつ回復する。
+攻撃速度が5%増加する。\nSGを毎秒5%ずつ回復する。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 Восстановление SG
 
 ID=6542
 ベストテンポⅡ
-SGを毎秒6%ずつ回復する。
+攻撃速度が6%増加する。\nSGを毎秒6%ずつ回復する。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 Восстановление SG
 
 ID=6543
 ベストテンポⅢ
-SGを毎秒8%ずつ回復する。
+攻撃速度が8%増加する。\nSGを毎秒8%ずつ回復する。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 Восстановление SG
 
 ID=6544
 ベストテンポⅣ
-SGを毎秒10%ずつ回復する。
+攻撃速度が10%増加する。\nSGを毎秒10%ずつ回復する。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 Восстановление SG
 
 ID=6545
 ベストテンポⅤ
-SGを毎秒15%ずつ回復する。
+攻撃速度が15%増加する。\nSGを毎秒15%ずつ回復する。
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 Восстановление SG
 
 ID=6546
 ベストテンポⅠ
-HPを12%回復する。
+HPを7%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 Восстановление HP
 
 ID=6547
 ベストテンポⅡ
-HPを15%回復する。
+HPを9%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 Восстановление HP
 
 ID=6548
 ベストテンポⅢ
-HPを20%回復する。
+HPを11%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 Восстановление HP
 
 ID=6549
 ベストテンポⅣ
-HPを25%回復する。
+HPを16%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 Восстановление HP
 
 ID=6550
 ベストテンポⅤ
-HPを35%回復する。
+HPを25%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 Восстановление HP
 
@@ -1614,21 +1614,21 @@ Icon/Buff/Icon_Common_Buff_Def
 
 ID=6562
 トラブルパスⅠ
-防御度が60増加する。
-Icon/Buff/Icon_Common_Buff_Def
-防御度増加
+移動速度が4%増加する。
+Icon/Buff/Icon_Common_Buff_MSR
+移動速度増加
 
 ID=6563
 トラブルパスⅡ
-防御度が120増加する。
-Icon/Buff/Icon_Common_Buff_Def
-防御度増加
+移動速度が6%増加する。
+Icon/Buff/Icon_Common_Buff_MSR
+移動速度増加
 
 ID=6564
 トラブルパスⅢ
-防御度が250増加する。
-Icon/Buff/Icon_Common_Buff_Def
-防御度増加
+移動速度が10%増加する。
+Icon/Buff/Icon_Common_Buff_MSR
+移動速度増加
 
 ID=6566
 ビーズプレイⅠ
@@ -3593,1339 +3593,1339 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 Восстановление HP
 
 ID=53021
-硬皮化Ⅰ
+守備転換
 攻撃を受けた時、5%の確率で1秒間、防御度が50%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53022
-硬皮化Ⅱ
+守備転換
 攻撃を受けた時、10%の確率で1秒間、防御度が50%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53023
-正確な急所突きⅠ
+急所攻撃
 攻撃命中時、5%の確率で2秒間、クリティカル率が20%上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率増加
 
 ID=53031
-正確な急所突きⅡ
+急所攻撃
 攻撃命中時、10%の確率で3秒間、クリティカル率が20%上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率増加
 
 ID=53032
-好戦の証明Ⅰ
+好戦の証明
 攻撃を受けた時、5%の確率で2秒間、攻撃力が8%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53033
-好戦の証明Ⅱ
+好戦の証明
 攻撃を受けた時、10%の確率で3秒間、攻撃力が8%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53041
-一挙入魂Ⅰ
+不屈の意志
 攻撃命中時、3%の確率で3秒間、スーパーアーマー状態になる。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Супер броня
 
 ID=53042
-疾走チュウⅠ
+電光石火
 毎秒10%の確率で2秒間、移動速度が10%上昇する。（クールタイム15秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53043
-疾走チュウⅡ
+電光石火
 毎秒20%の確率で2秒間、移動速度が10%上昇する。（クールタイム13秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53051
-心眼Ⅰ
+生存本能
 攻撃命中時、4%の確率でHPが5%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53052
-心眼Ⅱ
+生存本能
 攻撃命中時、5%の確率でHPが5%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53053
-攻撃の儀式Ⅰ
+奇襲攻撃
 ジャンプ時、3%の確率で2秒間、攻撃力が10%上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53061
-攻撃の儀式Ⅱ
+奇襲攻撃
 ジャンプ時、5%の確率で2秒間、攻撃力が10%上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53072
-バキュームⅠ
+戦闘回復
 クリティカル命中時、3%の確率でHPが2%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53073
-バキュームⅡ
+戦闘回復
 クリティカル命中時、6%の確率でHPが3%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53081
-バキュームⅢ
+戦闘回復
 クリティカル命中時、9%の確率でHPが4%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53082
-魂のジャンプⅠ
+野獣の勘
 ジャンプ時、10%の確率でSGが5%回復する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53083
-魂のジャンプⅡ
+野獣の勘
 ジャンプ時、10%の確率でSGが10%回復する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53091
-魂のジャンプⅢ
+野獣の勘
 ジャンプ時、10%の確率でSGが20%回復する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53112
-自己回復力Ⅰ
+戦闘呼吸
 攻撃命中時、5%の確率でスタミナが5%回復する。（クールタイム10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53113
-自己回復力Ⅱ
+戦闘呼吸
 攻撃命中時、5%の確率でスタミナが10%回復する。（クールタイム10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53121
-急速カルシウム補給Ⅰ
+猛獣の反撃
 攻撃を受けた時、5%の確率でSGが10%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53122
-急速カルシウム補給Ⅱ
+猛獣の反撃
 攻撃を受けた時、10%の確率でSGが10%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53123
-ビクターの法則Ⅰ
+予知
 攻撃命中時、4%の確率で2秒間、命中度が200上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53131
-ビクターの法則Ⅱ
+予知
 攻撃命中時、5%の確率で2秒間、命中度が250上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53132
-魔眼解放Ⅰ
+不敗の意志
 攻撃を受けた時、5%の確率で1秒間、無敵状態になる。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Непобедимый!
 
 ID=53133
-スカイハイⅠ
+疾走回復
 ジャンプ時、10%の確率でスタミナが5%回復する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53141
-ガルスの逆鱗Ⅰ
+回避起動
 攻撃を受けた時、5%の確率で2秒間、回避度が200上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53142
-ガルスの逆鱗Ⅱ
+回避起動
 攻撃を受けた時、5%の確率で3秒間、回避度が200上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53143
-俊敏なマッチョⅠ
+臨戦態勢
 攻撃を受けた時、5%の確率で3秒間、攻撃力が6%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53151
-俊敏なマッチョⅡ
+臨戦態勢
 攻撃を受けた時、5%の確率で3秒間、攻撃力が12%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53152
-復讐鬼Ⅰ
+破壊本能
 クリティカル命中時、5%の確率で2秒間、全ての攻撃がクリティカルに固定される効果が発生する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率増加
 
 ID=53153
-猛攻四連Ⅰ
+連続攻撃
 攻撃命中時、10%の確率で3秒間、攻撃速度が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53161
-猛攻四連Ⅱ
+連続攻撃
 攻撃命中時、10%の確率で5秒間、攻撃速度が10%上昇する。（クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53162
-山のごときⅠ
+守備手
 毎秒30%の確率で10秒間、攻撃力が20%減少し、防御度が100%上昇する。（クールタイム60秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53163
-紅き烙印Ⅰ
+赤い烙印
 クリティカル攻撃を受けた時、3秒間、命中度が500上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53171
-紅き烙印Ⅱ
+赤い烙印
 クリティカル攻撃を受けた時、5秒間、命中度が500上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53172
-臨時指揮官の威厳Ⅰ
+危機克服
 回避スキル使用時、20%の確率でHPの5%が回復する。（クールタイム15秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53173
-奇襲のプロⅠ
+ハンター
 クリティカル攻撃時、5%の確率でSGが10%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53181
-奇襲のプロⅡ
+ハンター
 クリティカル攻撃時、10%の確率でSGが20%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53182
-子供は風の子Ⅰ
+突進
 ダッシュ中、5%の確率で5秒間、攻撃力が10%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53183
-毒を以って毒を制すⅠ
+毒気と狂気
 状態異常にかかった時、50%の確率で10秒間、攻撃力が10%上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53201
-轟音Ⅰ
+強襲
 空中攻撃命中時、50%の確率でHPが3%回復する。(クールタイム40秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53202
-轟音Ⅱ
+強襲
 空中攻撃命中時、50%の確率でHPが6%回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53203
-秘蔵の呼吸法Ⅰ
+落ち着い
 攻撃を受けた時、スタミナが5%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53211
-怪鳥の翼Ⅰ
+雰囲気の反転
 攻撃命中時、15%の確率で3秒間、防御度が50%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53212
-怪鳥の翼Ⅱ
+雰囲気の反転
 攻撃命中時、20%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53213
-物質変換Ⅰ
+物質変換
 アイテム獲得時、20%の確率で5秒間、攻撃力が10%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53221
-物質変換Ⅱ
+物質変換
 アイテム獲得時、30%の確率で5秒間、攻撃力が10%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53222
-一点集中Ⅰ
+一点集中
 攻撃を受けた時、5%の確率で2秒間、攻撃力が10%減少し、攻撃速度が15%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53223
-怪我はするほど強くなるⅠ
+衛生兵
 攻撃を受けた時、10%の確率でHPが5%回復する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53231
-ソウルドレインⅠ
+ソウルドレイン
 攻撃命中時、4%の確率でSGが10%回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53232
-ソウルドレインⅡ
+ソウルドレイン
 攻撃命中時、5%の確率でSGが10%回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53243
-肉を切らせて骨を断つⅠ
+肉切骨断
 攻撃を受けた時、10%の確率で5秒間、攻撃力が5%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53251
-肉を切らせて骨を断つⅡ
+肉切骨断
 攻撃を受けた時、20%の確率で5秒間、攻撃力が5%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53273
-赤い眼光Ⅰ
+解毒剤の処方
 状態異常にかかると、HPが10%回復する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53281
-踊る影Ⅰ
+脱出準備
 攻撃を受けた時、スタミナが80%回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53282
-踊る影Ⅱ
+脱出準備
 攻撃を受けた時、スタミナが90%回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53283
-シールド出力全開Ⅰ
+しゃがむ
 攻撃を受けた時、2秒間、防御度が100%上昇し、攻撃力が70%減少する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53291
-シールド出力全開Ⅱ
+しゃがむ
 攻撃を受けた時、4秒間、防御度が100%上昇し、攻撃力が50%減少する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53292
-燃料節約システムⅠ
+安定的呼吸
 20秒ごとにスタミナが10%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53293
-燃料節約システムⅡ
+安定的呼吸
 15秒ごとにスタミナが20%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53301
-決死の攻撃Ⅰ
+攻守交代
 攻撃命中時、5秒間、防御度が50%減少し、攻撃力が15%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53302
-黙りなさいⅠ
+瞑想
 60秒ごとにSGが20%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53303
-黙りなさいⅡ
+瞑想
 60秒ごとにSGが30%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53311
-ラッシュの時間Ⅰ
+速戦即決
 クリティカル命中時、10%の確率で4秒間、攻撃速度が10%上昇する。(クールタイム40秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53312
-ラッシュの時間Ⅱ
+速戦即決
 クリティカル命中時、10%の確率で6秒間、攻撃速度が10%上昇する。(クールタイム40秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53313
-軽いけど正確にⅠ
+必中の一念
 攻撃を受けた時、20%の確率で5秒間、攻撃力が20%減少し、命中が1000上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53321
-軽いけど正確にⅡ
+必中の一念
 攻撃を受けた時、20%の確率で5秒間、攻撃力が15%減少し、命中が1000上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53322
-ブレイキングメッセージⅠ
+反撃比
 クリティカル命中時、5%の確率で3秒間、防御度が100%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53323
-ブレイキングメッセージⅡ
+反撃比
 クリティカル命中時、10%の確率で3秒間、防御度が100%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53331
-クリティカルパワーⅠ
+攻撃準備
 クリティカル命中時、50%の確率で2秒間、攻撃力が3%上昇する。(クールタイム1秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53332
-クリティカルパワーⅡ
+攻撃準備
 クリティカル命中時、50%の確率で2秒間、攻撃力が4%上昇する。(クールタイム1秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53333
-ランニングチャージⅠ
+接近戦
 ダッシュ中、10%の確率でSGが10%回復する。(クールタイム5秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53341
-ランニングチャージⅡ
+接近戦
 ダッシュ中、20%の確率でSGが10%回復する。(クールタイム5秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53352
-逃走注意Ⅰ
+衝撃の反動
 スーパーアーマーブレイクが発生すると、50%の確率で3秒間、移動速度が50%上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53353
-ビジネスエナジーⅠ
+吸収
 敵死亡時、10%の確率でSGが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53361
-照準…発射！！Ⅰ
+照準…発射！！
 60秒ごとに10秒間、命中度が200上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53362
-痛くても我慢Ⅰ
+応急処置
 攻撃を受けた時、10%の確率でHPを3%を回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53363
-静寂の暗殺者Ⅰ
+死の速度
 敵死亡時、10%の確率で3秒間、攻撃速度が5%上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53371
-静寂の暗殺者Ⅱ
+死の速度
 敵死亡時、10%の確率で5秒間、攻撃速度が5%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53372
-ラッキーデイⅠ
+応酬
 クリティカル攻撃を受けた時、2秒間、攻撃力が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53373
-ラッキーデイⅡ
+応酬
 クリティカル攻撃を受けた時、2秒間、攻撃力が10%上昇する。(クールタイム5秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53391
-忘れ物センターⅠ
+忘れ物センター
 アイテム獲得時、10%の確率で2秒間、無敵状態になる。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Непобедимый!
 
 ID=53392
-桃園の誓いⅠ
+鋼の意志
 クリティカル命中時、5%の確率で5秒間、攻撃力が10%上昇、移動速度が50%減少する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53403
-サイレントヒーリングⅠ
+風の回復
 空中攻撃命中時、スタミナを5%回復する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53411
-どこにでもすぐにⅠ
+迅速
 60秒ごとに10秒間、攻撃速度が5%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53412
-ハイヒールな気分Ⅰ
+風の流れ
 ジャンプ時、5秒間、移動速度が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53413
-使者の花Ⅰ
+こだわりの剣舞
 スーパーアーマーブレイクが発生すると、5秒間、攻撃力が10%上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53421
-使者の花Ⅱ
+こだわりの剣舞
 スーパーアーマーブレイクが発生すると、10秒間、攻撃力が15%上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53422
-作用反作用の法則Ⅰ
+過敏反応
 クリティカル攻撃を受けた時、20%の確率で3秒間、攻撃力が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53423
-ヒットアンドアウェイⅠ
+挽回
 攻撃失敗時、30%の確率で5秒間、回避度が100上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53431
-鉄壁の鎧Ⅰ
+選手交代
 味方がスキル使用時、40%の確率で5秒間、防御度が20%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53432
-鉄壁の鎧Ⅱ
+選手交代
 味方がスキル使用時、40%の確率で5秒間、防御度が30%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53433
-吹き飛べⅠ
+機敏
 攻撃命中時、10%の確率で3秒間、攻撃速度と移動速度が5%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53441
-吹き飛べⅡ
+機敏
 攻撃命中時、10%の確率で5秒間、攻撃速度と移動速度が5%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53442
-戦闘タイプ分析Ⅰ
+機会の判断
 スキル使用時、10%の確率で5秒間、命中度が500上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53443
-戦闘タイプ分析Ⅱ
+機会の判断
 スキル使用時、10%の確率で5秒間、命中度が600上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53451
-筋力は衰えないⅠ
+バタフライ効果
 クリティカル命中時、3秒間、攻撃力が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53452
-筋力は衰えないⅡ
+バタフライ効果
 クリティカル命中時、3秒間、攻撃力が15%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53453
-復讐血戦Ⅰ
+復讐血戦
 近くの味方が死亡時、50%の確率で10秒間、攻撃力が30%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53461
-復讐血戦Ⅱ
+復讐血戦
 近くの味方が死亡時、60%の確率で10秒間、攻撃力が40%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53462
-オタクの底力Ⅰ
+苦痛挽回
 攻撃を受けた時、5%の確率で2秒間、HPとSGが毎秒3%回復する。(クールタイム45秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53463
-オタクの底力Ⅱ
+苦痛挽回
 攻撃を受けた時、5%の確率で3秒間、HPとSGが毎秒4%回復する。(クールタイム45秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53471
-殴られ屋Ⅰ
+怒り
 攻撃を受けた時、50%の確率で60秒間、攻撃力が1%ずつ上昇する。(クールタイム1秒、最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53472
-殴られ屋Ⅱ
+怒り
 攻撃を受けた時、100%の確率で60秒間、攻撃力が1%ずつ上昇する。(クールタイム1秒、最大5重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53483
-略奪者Ⅰ
+魂収める
 モンスター死亡時、SGが10%回復する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53511
-ラジオスターⅠ
+威力競争
 第6区域でのみ適用。10秒ごとに3秒間、攻撃力が3%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53512
-ラジオスターⅡ
+威力競争
 第6区域でのみ適用。10秒ごとに5秒間、攻撃力が5%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53513
-搭乗サービスⅠ
+速度競争
 第6区域でのみ適用。3秒間、移動速度が3%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53521
-搭乗サービスⅡ
+速度競争
 第6区域でのみ適用。5秒間、移動速度が5%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53522
-プロの整備術Ⅰ
+継続的な管理
 60秒ごとにHPが1%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53523
-プロの整備術Ⅱ
+継続的な管理
 60秒ごとにHPが2%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53531
-静かなる微笑みⅠ
+気合
 60秒ごとにSGが1%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53532
-静かなる微笑みⅡ
+気合
 60秒ごとにSGが2%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53533
-戦友の絆Ⅰ
+生存のプロ
 装着時、最大HPが15%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53534
-戦友の絆Ⅱ
+生存のプロ
 装着時、最大HPが20%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53535
-戦友の絆Ⅲ
+生存のプロ
 装着時、最大HPが25%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53536
-戦友の絆Ⅰ
+生存のプロ
 装着時、最大HPが20%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53537
-戦友の絆Ⅱ
+生存のプロ
 装着時、最大HPが25%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53538
-戦友の絆Ⅲ
+生存のプロ
 装着時、最大HPが30%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53539
-初戦撲殺Ⅰ
+初戦撲殺
 装着時、攻撃力が4%、クリティカル率が1%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃増加
 
 ID=53540
-初戦撲殺Ⅱ
+初戦撲殺
 装着時、攻撃力が5%、クリティカル率が1%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃増加
 
 ID=53541
-初戦撲殺Ⅲ
+初戦撲殺
 装着時、攻撃力が6%、クリティカル率が2%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃増加
 
 ID=53542
-初戦撲殺Ⅰ
+初戦撲殺
 装着時、攻撃力が4%、クリティカル率が2%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃増加
 
 ID=53543
-初戦撲殺Ⅱ
+初戦撲殺
 装着時、攻撃力が6%、クリティカル率が2%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃増加
 
 ID=53544
-初戦撲殺Ⅲ
+初戦撲殺
 装着時、攻撃力が8%、クリティカル率が3%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃増加
 
 ID=53545
-ヒットフィーバーⅠ
+ヒットフィーバー
 コンボ100hitごとに(最大300hit)15秒間、攻撃力が3%ずつ上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53546
-ヒットフィーバーⅡ
+ヒットフィーバー
 コンボ100hitごとに(最大300hit)15秒間、攻撃力が4%ずつ上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53547
-ヒットフィーバーⅢ
+ヒットフィーバー
 コンボ100hitごとに(最大300hit)15秒間、攻撃力が5%ずつ上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53548
-ヒットフィーバーⅠ
+ヒットフィーバー
 コンボ100hitごとに(最大300hit)15秒間、攻撃力が4%ずつ上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53549
-ヒットフィーバーⅡ
+ヒットフィーバー
 コンボ100hitごとに(最大300hit)15秒間、攻撃力が5%ずつ上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53550
-ヒットフィーバーⅢ
+ヒットフィーバー
 コンボ100hitごとに(最大300hit)15秒間、攻撃力が6%ずつ上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53551
-緊急シールドⅠ
+緊急シールド
 HPが20%以下になると20秒間、防御度が40%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53552
-緊急シールドⅡ
+緊急シールド
 HPが20%以下になると20秒間、防御度が60%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53553
-緊急シールドⅢ
+緊急シールド
 HPが20%以下になると20秒間、防御度が80%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53554
-緊急シールドⅠ
+緊急シールド
 HPが20%以下になると20秒間、防御度が60%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53555
-緊急シールドⅡ
+緊急シールド
 HPが20%以下になると20秒間、防御度が80%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53556
-緊急シールドⅢ
+緊急シールド
 HPが20%以下になると20秒間、防御度が100%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53557
-権力の真髄Ⅰ
+黄金の手
 モンスター死亡時、ジェニーを追加で5%獲得する。
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53558
-権力の真髄Ⅱ
+黄金の手
 モンスター死亡時、ジェニーを追加で10%獲得する。
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53559
-権力の真髄Ⅲ
+黄金の手
 モンスター死亡時、ジェニーを追加で15%獲得する。
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53560
-権力の真髄Ⅰ
+黄金の手
 モンスター死亡時、ジェニーを追加で10%獲得する。
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53561
-権力の真髄Ⅱ
+黄金の手
 モンスター死亡時、ジェニーを追加で15%獲得する。
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53562
-権力の真髄Ⅲ
+黄金の手
 モンスター死亡時、ジェニーを追加で20%獲得する。
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53563
-硬皮化Ⅰ
+守備転換
 攻撃を受けた時、5%の確率で5秒間、防御度が50%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53564
-硬皮化Ⅱ
+守備転換
 攻撃を受けた時、10%の確率で5秒間、防御度が50%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53565
-硬皮化Ⅲ
+守備転換
 攻撃を受けた時、15%の確率で5秒間、防御度が50%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53566
-硬皮化Ⅰ
+守備転換
 攻撃を受けた時、10%の確率で5秒間、防御度が50%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53567
-硬皮化Ⅱ
+守備転換
 攻撃を受けた時、15%の確率で5秒間、防御度が50%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53568
-硬皮化Ⅲ
+守備転換
 攻撃を受けた時、20%の確率で5秒間、防御度が50%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53569
-正確な急所突きⅠ
+急所攻撃
 攻撃命中時、5%の確率で2.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率増加
 
 ID=53570
-正確な急所突きⅡ
+急所攻撃
 攻撃命中時、10%の確率で3.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率増加
 
 ID=53571
-正確な急所突きⅢ
+急所攻撃
 攻撃命中時、15%の確率で4.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率増加
 
 ID=53572
-正確な急所突きⅠ
+急所攻撃
 攻撃命中時、10%の確率で2.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率増加
 
 ID=53573
-正確な急所突きⅡ
+急所攻撃
 攻撃命中時、15%の確率で3.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率増加
 
 ID=53574
-正確な急所突きⅢ
+急所攻撃
 攻撃命中時、20%の確率で4.5秒間、クリティカル率が20%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率増加
 
 ID=53575
-好戦の証明Ⅰ
+好戦の証明
 攻撃を受けた時、5%の確率で2.5秒間、攻撃力が10%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53576
-好戦の証明Ⅱ
+好戦の証明
 攻撃を受けた時、10%の確率で3.5秒間、攻撃力が10%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53577
-好戦の証明Ⅲ
+好戦の証明
 攻撃を受けた時、15%の確率で4.5秒間、攻撃力が10%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53578
-好戦の証明Ⅰ
+好戦の証明
 攻撃を受けた時、10%の確率で2.5秒間、攻撃力が10%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53579
-好戦の証明Ⅱ
+好戦の証明
 攻撃を受けた時、15%の確率で3.5秒間、攻撃力が10%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53580
-好戦の証明Ⅲ
+好戦の証明
 攻撃を受けた時、20%の確率で4.5秒間、攻撃力が10%増加する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53581
-疾走チュウⅠ
+電光石火
 毎秒10%の確率で2.5秒間、移動速度が10%上昇する。（クールタイム15秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53582
-疾走チュウⅡ
+電光石火
 毎秒20%の確率で3秒間、移動速度が10%上昇する。（クールタイム13秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53583
-疾走チュウⅢ
+電光石火
 毎秒30%の確率で3.5秒間、移動速度が10%上昇する。（クールタイム11秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53584
-疾走チュウⅠ
+電光石火
 毎秒15%の確率で3秒間、移動速度が10%上昇する。（クールタイム15秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53585
-疾走チュウⅡ
+電光石火
 毎秒25%の確率で3.5秒間、移動速度が10%上昇する。（クールタイム13秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53586
-疾走チュウⅢ
+電光石火
 毎秒35%の確率で4秒間、移動速度が10%上昇する。（クールタイム11秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 移動速度増加
 
 ID=53587
-心眼Ⅰ
+生存本能
 攻撃命中時、7%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53588
-心眼Ⅱ
+生存本能
 攻撃命中時、12%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53589
-心眼Ⅲ
+生存本能
 攻撃命中時、17%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53590
-心眼Ⅰ
+生存本能
 攻撃命中時、9%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53591
-心眼Ⅱ
+生存本能
 攻撃命中時、14%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53592
-心眼Ⅲ
+生存本能
 攻撃命中時、19%の確率で即時にHPが10%回復する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53593
-攻撃の儀式Ⅰ
+奇襲攻撃
 ジャンプ時、15%の確率で4秒間、攻撃力が10%上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53594
-攻撃の儀式Ⅱ
+奇襲攻撃
 ジャンプ時、20%の確率で4秒間、攻撃力が10%上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53595
-攻撃の儀式Ⅲ
+奇襲攻撃
 ジャンプ時、25%の確率で4秒間、攻撃力が10%上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53596
-攻撃の儀式Ⅰ
+奇襲攻撃
 ジャンプ時、20%の確率で4秒間、攻撃力が10%上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53597
-攻撃の儀式Ⅱ
+奇襲攻撃
 ジャンプ時、25%の確率で4秒間、攻撃力が10%上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53598
-攻撃の儀式Ⅲ
+奇襲攻撃
 ジャンプ時、30%の確率で4秒間、攻撃力が10%上昇する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53599
-自己回復力Ⅰ
+戦闘呼吸
 攻撃命中時、5%の確率でスタミナが7%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53600
-自己回復力Ⅱ
+戦闘呼吸
 攻撃命中時、5%の確率でスタミナが12%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53601
-自己回復力Ⅲ
+戦闘呼吸
 攻撃命中時、5%の確率でスタミナが17%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53602
-自己回復力Ⅰ
+戦闘呼吸
 攻撃命中時、5%の確率でスタミナが9%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53603
-自己回復力Ⅱ
+戦闘呼吸
 攻撃命中時、5%の確率でスタミナが14%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53604
-自己回復力Ⅲ
+戦闘呼吸
 攻撃命中時、5%の確率でスタミナが19%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53605
-急速カルシウム補給Ⅰ
+猛獣の反撃
 攻撃を受けた時、7%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53606
-急速カルシウム補給Ⅱ
+猛獣の反撃
 攻撃を受けた時、12%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53607
-急速カルシウム補給Ⅲ
+猛獣の反撃
 攻撃を受けた時、17%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53608
-急速カルシウム補給Ⅰ
+猛獣の反撃
 攻撃を受けた時、9%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53609
-急速カルシウム補給Ⅱ
+猛獣の反撃
 攻撃を受けた時、14%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53610
-急速カルシウム補給Ⅲ
+猛獣の反撃
 攻撃を受けた時、19%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53611
-ビクターの法則Ⅰ
+予知
 攻撃命中時、7%の確率で4秒間、命中度が200上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53612
-ビクターの法則Ⅱ
+予知
 攻撃命中時、7%の確率で4秒間、命中度が250上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53613
-ビクターの法則Ⅲ
+予知
 攻撃命中時、7%の確率で4秒間、命中度が300上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53614
-ビクターの法則Ⅰ
+予知
 攻撃命中時、9%の確率で4秒間、命中度が250上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53615
-ビクターの法則Ⅱ
+予知
 攻撃命中時、9%の確率で4秒間、命中度が300上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53616
-ビクターの法則Ⅲ
+予知
 攻撃命中時、9%の確率で4秒間、命中度が350上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53617
-ガルスの逆鱗Ⅰ
+回避起動
 攻撃を受けた時、5%の確率で2秒間、回避度が500上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53618
-ガルスの逆鱗Ⅱ
+回避起動
 攻撃を受けた時、5%の確率で3秒間、回避度が500上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53619
-ガルスの逆鱗Ⅲ
+回避起動
 攻撃を受けた時、5%の確率で4秒間、回避度が500上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53620
-ガルスの逆鱗Ⅰ
+回避起動
 攻撃を受けた時、9%の確率で3秒間、回避度が500上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53621
-ガルスの逆鱗Ⅱ
+回避起動
 攻撃を受けた時、9%の確率で4秒間、回避度が500上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53622
-ガルスの逆鱗Ⅲ
+回避起動
 攻撃を受けた時、9%の確率で5秒間、回避度が500上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 回避度増加
 
 ID=53623
-俊敏なマッチョⅠ
+臨戦態勢
 攻撃を受けた時、7%の確率で2秒間、攻撃力が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53624
-俊敏なマッチョⅡ
+臨戦態勢
 攻撃を受けた時、7%の確率で2.5秒間、攻撃力が15%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53625
-俊敏なマッチョⅢ
+臨戦態勢
 攻撃を受けた時、7%の確率で3秒間、攻撃力が20%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53626
-俊敏なマッチョⅠ
+臨戦態勢
 攻撃を受けた時、9%の確率で3.5秒間、攻撃力が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53627
-俊敏なマッチョⅡ
+臨戦態勢
 攻撃を受けた時、9%の確率で4秒間、攻撃力が15%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53628
-俊敏なマッチョⅢ
+臨戦態勢
 攻撃を受けた時、9%の確率で4.5秒間、攻撃力が20%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53629
-猛攻四連Ⅰ
+連続攻撃
 攻撃命中時、15%の確率で2.5秒間、攻撃速度が3%上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53630
-猛攻四連Ⅱ
+連続攻撃
 攻撃命中時、15%の確率で3秒間、攻撃速度が3%上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53631
-猛攻四連Ⅲ
+連続攻撃
 攻撃命中時、15%の確率で3.5秒間、攻撃速度が3%上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53632
-猛攻四連Ⅰ
+連続攻撃
 攻撃命中時、15%の確率で2.5秒間、攻撃速度が5%上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53633
-猛攻四連Ⅱ
+連続攻撃
 攻撃命中時、15%の確率で3.5秒間、攻撃速度が5%上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53634
-猛攻四連Ⅲ
+連続攻撃
 攻撃命中時、15%の確率で4.5秒間、攻撃速度が5%上昇する。(最大3重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53635
-紅き烙印Ⅰ
+赤い烙印
 クリティカル攻撃を受けた時、7秒間、命中度が500上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53636
-紅き烙印Ⅱ
+赤い烙印
 クリティカル攻撃を受けた時、12秒間、命中度が500上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53637
-紅き烙印Ⅲ
+赤い烙印
 クリティカル攻撃を受けた時、17秒間、命中度が500上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53638
-紅き烙印Ⅰ
+赤い烙印
 クリティカル攻撃を受けた時、9秒間、命中度が500上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53639
-紅き烙印Ⅱ
+赤い烙印
 クリティカル攻撃を受けた時、14秒間、命中度が500上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53640
-紅き烙印Ⅲ
+赤い烙印
 クリティカル攻撃を受けた時、19秒間、命中度が500上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
@@ -4955,649 +4955,649 @@ Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53652
-奇襲のプロⅠ
+ハンター
 クリティカル命中時、20%の確率でSGが10%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53653
-奇襲のプロⅡ
+ハンター
 クリティカル命中時、20%の確率でSGが13%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53654
-奇襲のプロⅢ
+ハンター
 クリティカル命中時、20%の確率でSGが16%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53655
-奇襲のプロⅠ
+ハンター
 クリティカル命中時、20%の確率でSGが12%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53656
-奇襲のプロⅡ
+ハンター
 クリティカル命中時、20%の確率でSGが15%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53657
-奇襲のプロⅢ
+ハンター
 クリティカル命中時、20%の確率でSGが18%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53658
-翼動Ⅰ
+強襲
 空中攻撃成功時、60%の確率でHPが5%回復する。（クールタイム40秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53659
-翼動Ⅱ
+強襲
 空中攻撃成功時、70%の確率でHPが7%回復する。（クールタイム35秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53660
-翼動Ⅲ
+強襲
 空中攻撃成功時、80%の確率でHPが9%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53661
-翼動Ⅰ
+強襲
 空中攻撃成功時、70%の確率でHPが6%回復する。（クールタイム40秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53662
-翼動Ⅱ
+強襲
 空中攻撃成功時、80%の確率でHPが8%回復する。（クールタイム35秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53663
-翼動Ⅲ
+強襲
 空中攻撃成功時、90%の確率でHPが10%回復する。（クールタイム30秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление HP
 
 ID=53664
-怪鳥の翼Ⅰ
+連携攻撃
 攻撃命中時、10%の確率で次の一撃のダメージ量が5%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53665
-怪鳥の翼Ⅱ
+連携攻撃
 攻撃命中時、10%の確率で次の一撃のダメージ量が7%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53666
-怪鳥の翼Ⅲ
+連携攻撃
 攻撃命中時、10%の確率で次の一撃のダメージ量が10%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53667
-怪鳥の翼Ⅰ
+連携攻撃
 攻撃命中時、10%の確率で次の一撃のダメージ量が6%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53668
-怪鳥の翼Ⅱ
+連携攻撃
 攻撃命中時、10%の確率で次の一撃のダメージ量が10%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53669
-怪鳥の翼Ⅲ
+連携攻撃
 攻撃命中時、10%の確率で次の一撃のダメージ量が15%増加する。(クールタイム8秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53670
-物質変換Ⅰ
+物質変換
 アイテム獲得時、4秒間、攻撃力が20%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53671
-物質変換Ⅱ
+物質変換
 アイテム獲得時、7秒間、攻撃力が20%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53672
-物質変換Ⅲ
+物質変換
 アイテム獲得時、11秒間、攻撃力が20%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53673
-物質変換Ⅰ
+物質変換
 アイテム獲得時、4秒間、攻撃力が25%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53674
-物質変換Ⅱ
+物質変換
 アイテム獲得時、7秒間、攻撃力が25%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53675
-物質変換Ⅲ
+物質変換
 アイテム獲得時、11秒間、攻撃力が25%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53676
-ソウルドレインⅠ
+ソウルドレイン
 攻撃命中時、10%の確率でSGが10%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53677
-ソウルドレインⅡ
+ソウルドレイン
 攻撃命中時、10%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53678
-ソウルドレインⅢ
+ソウルドレイン
 攻撃命中時、15%の確率でSGが20%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53679
-ソウルドレインⅠ
+ソウルドレイン
 攻撃命中時、15%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53680
-ソウルドレインⅡ
+ソウルドレイン
 攻撃命中時、15%の確率でSGが20%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53681
-ソウルドレインⅢ
+ソウルドレイン
 攻撃命中時、20%の確率でSGが25%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53682
-肉を切らせて骨を断つⅠ
+肉切骨断
 攻撃を受けた時、2%の確率で4秒間、攻撃力が20%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53683
-肉を切らせて骨を断つⅡ
+肉切骨断
 攻撃を受けた時、4%の確率で5秒間、攻撃力が20%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53684
-肉を切らせて骨を断つⅢ
+肉切骨断
 攻撃を受けた時、7%の確率で6秒間、攻撃力が20%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53685
-肉を切らせて骨を断つⅠ
+肉切骨断
 攻撃を受けた時、3%の確率で5秒間、攻撃力が25%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53686
-肉を切らせて骨を断つⅡ
+肉切骨断
 攻撃を受けた時、6%の確率で6秒間、攻撃力が25%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53687
-肉を切らせて骨を断つⅢ
+肉切骨断
 攻撃を受けた時、10%の確率で7秒間、攻撃力が25%上昇する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53688
-踊る影Ⅰ
+チャンバラ
 装着時、攻撃力が5%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53689
-踊る影Ⅱ
+チャンバラ
 装着時、攻撃力が7%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53690
-踊る影Ⅲ
+チャンバラ
 装着時、攻撃力が10%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53691
-踊る影Ⅰ
+チャンバラ
 装着時、攻撃力が6%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53692
-踊る影Ⅱ
+チャンバラ
 装着時、攻撃力が9%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53693
-踊る影Ⅲ
+チャンバラ
 装着時、攻撃力が13%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=53694
-シールド出力全開Ⅰ
+準備万全
 装着時、最大HPが8%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53695
-シールド出力全開Ⅱ
+準備万全
 装着時、最大HPが13%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53696
-シールド出力全開Ⅲ
+準備万全
 装着時、最大HPが18%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53697
-シールド出力全開Ⅰ
+準備万全
 装着時、最大HPが12%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53698
-シールド出力全開Ⅱ
+準備万全
 装着時、最大HPが17%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53699
-シールド出力全開Ⅲ
+準備万全
 装着時、最大HPが22%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53700
-燃料節約システムⅠ
+安定的呼吸
 装着時、5.5秒ごとにスタミナが10%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53701
-燃料節約システムⅡ
+安定的呼吸
 装着時、5.5秒ごとにスタミナが15%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53702
-燃料節約システムⅢ
+安定的呼吸
 装着時、5.5秒ごとにスタミナが20%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53703
-燃料節約システムⅠ
+安定的呼吸
 装着時、5.5秒ごとにスタミナが15%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53704
-燃料節約システムⅡ
+安定的呼吸
 装着時、5.5秒ごとにスタミナが20%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53705
-燃料節約システムⅢ
+安定的呼吸
 装着時、5.5秒ごとにスタミナが25%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ回復
 
 ID=53706
-黙りなさいⅠ
+瞑想
 装着時、60秒ごとにSGが50%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53707
-黙りなさいⅡ
+瞑想
 装着時、60秒ごとにSGが55%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53708
-黙りなさいⅢ
+瞑想
 装着時、60秒ごとにSGが60%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53709
-黙りなさいⅠ
+瞑想
 装着時、60秒ごとにSGが55%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53710
-黙りなさいⅡ
+瞑想
 装着時、60秒ごとにSGが65%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53711
-黙りなさいⅢ
+瞑想
 装着時、60秒ごとにSGが75%回復する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=53712
-ラッシュの時間Ⅰ
+速戦即決
 クリティカル成功時、10%の確率で6秒間、攻撃速度が12%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53713
-ラッシュの時間Ⅱ
+速戦即決
 クリティカル成功時、10%の確率で6秒間、攻撃速度が13%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53714
-ラッシュの時間Ⅲ
+速戦即決
 クリティカル成功時、10%の確率で6秒間、攻撃速度が14%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53715
-ラッシュの時間Ⅰ
+速戦即決
 クリティカル成功時、15%の確率で6秒間、攻撃速度が13%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53716
-ラッシュの時間Ⅱ
+速戦即決
 クリティカル成功時、15%の確率で6秒間、攻撃速度が14%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53717
-ラッシュの時間Ⅲ
+速戦即決
 クリティカル成功時、15%の確率で6秒間、攻撃速度が15%上昇する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=53718
-軽いけど正確にⅠ
+必中の一念
 攻撃を受けた時、20%の確率で6秒間、攻撃力が20%減少し、命中度が1000上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53719
-軽いけど正確にⅡ
+必中の一念
 攻撃を受けた時、20%の確率で6秒間、攻撃力が10%減少し、命中度が1000上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53720
-軽いけど正確にⅢ
+必中の一念
 攻撃を受けた時、20%の確率で6秒間、攻撃力が5%減少し、命中度が1000上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53721
-軽いけど正確にⅠ
+必中の一念
 攻撃を受けた時、20%の確率で6秒間、攻撃力が20%減少し、命中度が1100上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53722
-軽いけど正確にⅡ
+必中の一念
 攻撃を受けた時、20%の確率で6秒間、攻撃力が10%減少し、命中度が1100上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53723
-軽いけど正確にⅢ
+必中の一念
 攻撃を受けた時、20%の確率で6秒間、攻撃力が5%減少し、命中度が1100上昇する。(クールタイム60秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53724
-風の加護Ⅰ
+風の加護
 装着時、ダメージ減少が1%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53725
-風の加護Ⅱ
+風の加護
 装着時、ダメージ減少が4%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53726
-風の加護Ⅲ
+風の加護
 装着時、ダメージ減少が7%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53727
-風の加護Ⅰ
+風の加護
 装着時、ダメージ減少が3%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53728
-風の加護Ⅱ
+風の加護
 装着時、ダメージ減少が6%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53729
-風の加護Ⅲ
+風の加護
 装着時、ダメージ減少が9%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53730
-無限動力Ⅰ
+無限動力
 装着時、SGの消費量が1%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 SG消費量減少
 
 ID=53731
-無限動力Ⅱ
+無限動力
 装着時、SGの消費量が3%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 SG消費量減少
 
 ID=53732
-無限動力Ⅲ
+無限動力
 装着時、SGの消費量が5%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 SG消費量減少
 
 ID=53733
-無限動力Ⅰ
+無限動力
 装着時、SGの消費量が2%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 SG消費量減少
 
 ID=53734
-無限動力Ⅱ
+無限動力
 装着時、SGの消費量が4%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 SG消費量減少
 
 ID=53735
-無限動力Ⅲ
+無限動力
 装着時、SGの消費量が6%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 SG消費量減少
 
 ID=53736
-刃の天使Ⅰ
+処刑者
 装着時、クリティカルダメージが200上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53737
-刃の天使Ⅱ
+処刑者
 装着時、クリティカルダメージが700上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53738
-刃の天使Ⅲ
+処刑者
 装着時、クリティカルダメージが1200上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53739
-刃の天使Ⅰ
+処刑者
 装着時、クリティカルダメージが500上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53740
-刃の天使Ⅱ
+処刑者
 装着時、クリティカルダメージが1000上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53741
-刃の天使Ⅲ
+処刑者
 装着時、クリティカルダメージが1500上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53742
-友情Ⅰ
+眼目
 装着時、ダメージ減少が1%増加し、クリティカルダメージが100上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53743
-友情Ⅱ
+眼目
 装着時、ダメージ減少が2%増加し、クリティカルダメージが350上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53744
-友情Ⅲ
+眼目
 装着時、ダメージ減少が4%増加し、クリティカルダメージが600上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53745
-友情Ⅰ
+眼目
 装着時、ダメージ減少が2%増加し、クリティカルダメージが100上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53746
-友情Ⅱ
+眼目
 装着時、ダメージ減少が3%増加し、クリティカルダメージが350上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53747
-友情Ⅲ
+眼目
 装着時、ダメージ減少が5%増加し、クリティカルダメージが600上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=53748
-集中Ⅰ
+決戦
 装着時、ボス/ネームドモンスターに与えるダメージが5%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53749
-集中Ⅱ
+決戦
 装着時、ボス/ネームドモンスターに与えるダメージが10%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53750
-集中Ⅲ
+決戦
 装着時、ボス/ネームドモンスターに与えるダメージが15%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53751
-集中Ⅰ
+決戦
 装着時、ボス/ネームドモンスターに与えるダメージが7%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53752
-集中Ⅱ
+決戦
 装着時、ボス/ネームドモンスターに与えるダメージが12%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53753
-集中Ⅲ
+決戦
 装着時、ボス/ネームドモンスターに与えるダメージが17%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=53754
-冷徹Ⅰ
+不動の意志
 装着時、ボス/ネームドモンスターから受けるダメージが5%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53755
-冷徹Ⅱ
+不動の意志
 装着時、ボス/ネームドモンスターから受けるダメージが7%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53756
-冷徹Ⅲ
+不動の意志
 装着時、ボス/ネームドモンスターから受けるダメージが10%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53757
-冷徹Ⅰ
+不動の意志
 装着時、ボス/ネームドモンスターから受けるダメージが7%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53758
-冷徹Ⅱ
+不動の意志
 装着時、ボス/ネームドモンスターから受けるダメージが9%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=53759
-冷徹Ⅲ
+不動の意志
 装着時、ボス/ネームドモンスターから受けるダメージが12%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
@@ -6293,109 +6293,109 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 麻痺
 
 ID=56401
-電脳少女の刻印I
+機会捕捉
 スキル使用時、10%の確率で7秒間クリティカルダメージが600上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=56402
-電脳少女の刻印II
+機会捕捉
 スキル使用時、10%の確率で7秒間クリティカルダメージが1200上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=56403
-電脳少女の刻印III
+機会捕捉
 スキル使用時、10%の確率で7秒間クリティカルダメージが1800上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=56411
-電脳少女の刻印I
+機会捕捉
 スキル使用時、20%の確率で7秒間クリティカルダメージが900上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=56422
-電脳少女の刻印II
+機会捕捉
 スキル使用時、20%の確率で7秒間クリティカルダメージが1500上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=56433
-電脳少女の刻印III
+機会捕捉
 スキル使用時、20%の確率で7秒間クリティカルダメージが2100上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ量増加
 
 ID=56501
-戦闘戦略の書I
+切り札
 スキル使用時、10%の確率で15秒間スタミナ最大値5、攻撃力5%上昇する。(最大4重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ、攻撃力増加
 
 ID=56502
-戦闘戦略の書II
+切り札
 スキル使用時、10%の確率で15秒間スタミナ最大値6、攻撃力8%上昇する。(最大4重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ、攻撃力増加
 
 ID=56503
-戦闘戦略の書III
+切り札
 スキル使用時、10%の確率で15秒間スタミナ最大値7、攻撃力12%上昇する。(最大4重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ、攻撃力増加
 
 ID=56511
-戦闘戦略の書I
+切り札
 スキル使用時、20%の確率で20秒間スタミナ最大値8、攻撃力8%上昇する。(最大5重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ、攻撃力増加
 
 ID=56512
-戦闘戦略の書II
+切り札
 スキル使用時、20%の確率で20秒間スタミナ最大値9、攻撃力12%上昇する。(最大5重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ、攻撃力増加
 
 ID=56513
-戦闘戦略の書III
+切り札
 スキル使用時、20%の確率で20秒間スタミナ最大値10、攻撃力17%上昇する。(最大5重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 スタミナ、攻撃力増加
 
 ID=56601
-薬効I
+本能発現
 攻撃時、10%の確率で10秒間クリティカル確率20%、攻撃力25%上昇する。(クールタイム40秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率、攻撃力増加
 
 ID=56602
-薬効II
+本能発現
 攻撃時、10%の確率で10秒間クリティカル確率25%、攻撃力30%上昇する。(クールタイム40秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率、攻撃力増加
 
 ID=56603
-薬効III
+本能発現
 攻撃時、10%の確率で10秒間クリティカル確率30%、攻撃力35%上昇する。(クールタイム40秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率、攻撃力増加
 
 ID=56611
-薬効I
+本能発現
 攻撃時、20%の確率で10秒間クリティカル確率30%、攻撃力40%上昇する。(クールタイム40秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率、攻撃力増加
 
 ID=56612
-薬効II
+本能発現
 攻撃時、20%の確率で10秒間クリティカル確率35%、攻撃力45%上昇する。(クールタイム40秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率、攻撃力増加
 
 ID=56613
-薬効III
+本能発現
 攻撃時、20%の確率で10秒間クリティカル確率40%、攻撃力50%上昇する。(クールタイム40秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカル率、攻撃力増加
@@ -6647,22 +6647,22 @@ Icon/Buff/Icon_Common_Buff_ASR
 0
 
 ID=7100
-攻防一体の身体I
-ダメージ量減少効果が5%、攻撃力が50%増加します。
+解放された身体I
+攻撃力が75%、SA破壊量が15%増加しますが、敵に15%の追加ダメージを受ける。
 Icon/Buff/Icon_Common_Buff_ATK
-攻防一体の身体
+解放された身体
 
 ID=7101
-攻防一体の身体II
-ダメージ量減少効果が10%、攻撃力が100%増加します。
+解放された身体II
+攻撃力が100%、SA破壊量が30%増加しますが、敵に20%の追加ダメージを受ける。
 Icon/Buff/Icon_Common_Buff_ATK
-攻防一体の身体
+解放された身体
 
 ID=7102
-攻防一体の身体II
-ダメージ量減少効果が15%、攻撃力が150%増加します。
+解放された身体II
+攻撃力が150%、SA破壊量が45%増加しますが、敵に25%の追加ダメージを受ける。
 Icon/Buff/Icon_Common_Buff_ATK
-攻防一体の身体
+解放された身体
 
 ID=7111
 休息
@@ -6923,361 +6923,859 @@ Icon/Buff/Icon_Common_Buff_Akashic
 最大ダメージ量固定
 
 ID=54111
-秘密の研究者I
+防御態勢
 装着時のダメージ減少が3%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=54112
-秘密の研究者II
+防御態勢
 装着時のダメージ減少が4%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=54113
-秘密の研究者III
+防御態勢
 装着時のダメージ減少が5%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=54121
-禁忌科学の探究者I
+防御態勢
 装着時のダメージ減少が5%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=54122
-禁忌科学の探究者II
+防御態勢
 装着時のダメージ減少が6%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=54123
-禁忌科学の探究者III
+防御態勢
 装着時のダメージ減少が7%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少増加
 
 ID=54211
-歴史の観察者I
+悟り
 装着時、10秒毎にSVを5獲得する。
 Icon/Buff/Icon_Common_Buff_Akashic
 SV回復
 
 ID=54212
-歴史の観察者II
+悟り
 装着時、10秒毎にSVを6獲得する。
 Icon/Buff/Icon_Common_Buff_Akashic
 SV回復
 
 ID=54213
-歴史の観察者III
+悟り
 装着時、10秒毎にSVを7獲得する。
 Icon/Buff/Icon_Common_Buff_Akashic
 SV回復
 
 ID=54221
-新歴史の観察者I
+悟り
 装着時、10秒毎にSVを7獲得する。
 Icon/Buff/Icon_Common_Buff_Akashic
 SV回復
 
 ID=54222
-新歴史の観察者II
+悟り
 装着時、10秒毎にSVを9獲得する。
 Icon/Buff/Icon_Common_Buff_Akashic
 SV回復
 
 ID=54223
-新歴史の観察者III
+悟り
 装着時、10秒毎にSVを11獲得する。
 Icon/Buff/Icon_Common_Buff_Akashic
 SV回復
 
 ID=54311
-錬金術師I
+錬金術師
 状態異常になると50%の確率で3秒間、無敵状態になる。(クールタイム45秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Непобедимый!
 
 ID=54312
-錬金術師II
+錬金術師
 状態異常になると70%の確率で3秒間、無敵状態になる。(クールタイム45秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Непобедимый!
 
 ID=54313
-錬金術師III
+錬金術師
 状態異常になると90%の確率で3秒間、無敵状態になる。(クールタイム45秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Непобедимый!
 
 ID=54321
-最後の錬金術師I
+錬金術師
 状態異常になると60%の確率で3秒間、無敵状態になる。(クールタイム35秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Непобедимый!
 
 ID=54322
-最後の錬金術師II
+錬金術師
 状態異常になると80%の確率で3秒間、無敵状態になる。(クールタイム35秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Непобедимый!
 
 ID=54323
-最後の錬金術師III
+錬金術師
 状態異常になると100%の確率で3秒間、無敵状態になる。(クールタイム35秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Непобедимый!
 
 ID=54411
-復讐の熱望I
+縦横無尽
 装着時の移動速度が7%増加し、攻撃速度が1%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=54412
-復讐の熱望II
+縦横無尽
 装着時の移動速度が8%増加し、攻撃速度が2%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=54413
-復讐の熱望III
+縦横無尽
 装着時の移動速度が9%増加し、攻撃速度が3%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=54421
-闘志の意志I
+縦横無尽
 装着時の移動速度が10%増加し、攻撃速度が3%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=54422
-闘志の意志II
+縦横無尽
 装着時の移動速度が12%増加し、攻撃速度が4%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=54423
-闘志の意志III
+縦横無尽
 装着時の移動速度が14%増加し、攻撃速度が5%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃速度増加
 
 ID=54511
-快楽の熱望I
+激流
 クリティカル命中時、5%の確率で2秒間、敵防御度貫通が2%増加する。(最大2重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 敵防御度貫通増加
 
 ID=54512
-快楽の熱望II
+激流
 クリティカル命中時、5%の確率で2秒間、敵防御度貫通が3%増加する。 (最大2重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 敵防御度貫通増加
 
 ID=54513
-快楽の熱望III
+激流
 クリティカル命中時、5%の確率で2秒間、敵防御度貫通が4%増加する。 (最大2重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 敵防御度貫通増加
 
 ID=54521
-誓いの意志I
+激流
 クリティカル命中時、7%の確率で3秒間、敵防御度貫通が3%増加する。 (最大2重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 敵防御度貫通増加
 
 ID=54522
-誓いの意志II
+激流
 クリティカル命中時、7%の確率で3秒間、敵防御度貫通が4%増加する。 (最大2重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 敵防御度貫通増加
 
 ID=54523
-誓いの意志III
+激流
 クリティカル命中時、7%の確率で3秒間、敵防御度貫通が5%増加する。 (最大2重複[効果ならびに効果時間の一部])
 Icon/Buff/Icon_Common_Buff_Akashic
 敵防御度貫通増加
 
 ID=54611
-狂気の熱望I
+死刑宣告
 スキル使用時、3秒間の攻撃力700増加する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=54612
-狂気の熱望II
+死刑宣告
 スキル使用時、3秒間の攻撃力900増加する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=54613
-狂気の熱望III
+死刑宣告
 スキル使用時、3秒間の攻撃力1200増加する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=54621
-覚悟の意志I
+死刑宣告
 スキル使用時、5秒間の攻撃力900増加する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=54622
-覚悟の意志II
+死刑宣告
 スキル使用時、5秒間の攻撃力1200増加する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=54623
-覚悟の意志III
+死刑宣告
 スキル使用時、5秒間の攻撃力1600増加する。(クールタイム30秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Атака ↑
 
 ID=54711
-情熱の熱望I
+鉄壁守備
 装着時の防御度が500増加し、ボス/ネームドモンスターから受けるダメージが7%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少
 
 ID=54712
-情熱の熱望II
+鉄壁守備
 装着時の防御度が700増加し、ボス/ネームドモンスターから受けるダメージが8%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少
 
 ID=54713
-情熱の熱望III
+鉄壁守備
 装着時の防御度が900増加し、ボス/ネームドモンスターから受けるダメージが9%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少
 
 ID=54721
-信頼の意志I
+鉄壁守備
 装着時の防御度が750増加し、ボス/ネームドモンスターから受けるダメージが8%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少
 
 ID=54722
-信頼の意志II
+鉄壁守備
 装着時の防御度が900増加し、ボス/ネームドモンスターから受けるダメージが9%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少
 
 ID=54723
-信頼の意志III
+鉄壁守備
 装着時の防御度が1050増加し、ボス/ネームドモンスターから受けるダメージが10%減少する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ減少
 
 ID=54811
-悲しみの熱望I
+捕食の本能
 攻撃命中時、30%の確率でSGが10%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=54812
-悲しみの熱望II
+捕食の本能
 攻撃命中時、30%の確率でSGが15%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=54813
-悲しみの熱望III
+捕食の本能
 攻撃命中時、30%の確率でSGが20%回復する。(クールタイム20秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=54821
-希望の意志I
+捕食の本能
 攻撃命中時、30%の確率でSGが20%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=54822
-希望の意志II
+捕食の本能
 攻撃命中時、30%の確率でSGが25%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=54823
-希望の意志III
+捕食の本能
 攻撃命中時、30%の確率でSGが30%回復する。(クールタイム15秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Восстановление SG
 
 ID=54911
-憤怒の熱望I
+冷徹な判断
 65秒毎に5秒間、クリティカルダメージが1500増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ増加
 
 ID=54912
-憤怒の熱望II
+冷徹な判断
 65秒毎に5秒間、クリティカルダメージが2000増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ増加
 
 ID=54913
-憤怒の熱望III
+冷徹な判断
 65秒毎に5秒間、クリティカルダメージが3000増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ増加
 
 ID=54921
-勇猛の意志I
+冷徹な判断
 55秒毎に5秒間、クリティカルダメージが2000増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ増加
 
 ID=54922
-勇猛の意志II
+冷徹な判断
 55秒毎に5秒間、クリティカルダメージが3000増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ増加
 
 ID=54923
-勇猛の意志III
+冷徹な判断
 55秒毎に5秒間、クリティカルダメージが4500増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ増加
 
 ID=60111
-正義のソウルワーカーI
+裁き
 装着時の攻撃力が500増加し、ボス/ネームドに与えるダメージが7%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=60112
-正義のソウルワーカーII
+裁き
 装着時の攻撃力が600増加し、ボス/ネームドに与えるダメージが8%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=60113
-正義のソウルワーカーIII
+裁き
 装着時の攻撃力が700増加し、ボス/ネームドに与えるダメージが9%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=60121
-悲劇のリーダーI
+裁き
 装着時の攻撃力が650増加し、ボス/ネームドに与えるダメージが9%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=60122
-悲劇のリーダーII
+裁き
 装着時の攻撃力が800増加し、ボス/ネームドに与えるダメージが10%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
 
 ID=60123
-悲劇のリーダーIII
+裁き
 装着時の攻撃力が1000増加し、ボス/ネームドに与えるダメージが11%増加する。
 Icon/Buff/Icon_Common_Buff_Akashic
 ダメージ量増加
+
+ID=25006
+怒涛
+1分間、攻撃力が50%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+Атака ↑
+
+ID=25007
+強靭
+1分間、防御度が50%増加します。
+Icon/Buff/Icon_Common_Buff_Def
+防御度増加
+
+ID=25008
+迅速
+1分間、移動速度が50%増加します。
+Icon/Buff/Icon_Common_Buff_MSR
+移動速度増加
+
+ID=60127
+専門掃除
+装着時、ソウルジャンク勢力に与えるダメージが5％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウルジャンク勢力にダメージ増加
+
+ID=60128
+専門掃除
+装着時、ソウルジャンク勢力に与えるダメージが8％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウルジャンク勢力にダメージ増加
+
+ID=60129
+専門掃除
+装着時、ソウルジャンク勢力に与えるダメージが12％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウルジャンク勢力にダメージ増加
+
+ID=60130
+専門掃除
+装着時、ソウルジャンク勢力に与えるダメージが7％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウルジャンク勢力にダメージ増加
+
+ID=60131
+専門掃除
+装着時、ソウルジャンク勢力に与えるダメージが10％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウルジャンク勢力にダメージ増加
+
+ID=60132
+専門掃除
+装着時、ソウルジャンク勢力に与えるダメージが15％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ソウルジャンク勢力にダメージ増加
+
+ID=60133
+急所攻撃
+攻撃命中時、5％の確率で2.5秒間、クリティカル率が25％増加する。（クールタイム10秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカル率増加
+
+ID=60134
+急所攻撃
+攻撃命中時、10％の確率で3.5秒間、クリティカル率が25％増加する。（クールタイム10秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカル率増加
+
+ID=60135
+急所攻撃
+攻撃命中時、15％の確率で4.5秒間、クリティカル率が25％増加する。（クールタイム10秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカル率増加
+
+ID=60136
+急所攻撃
+攻撃命中時、10％の確率で2.5秒間、クリティカル率が25％増加する。（クールタイム10秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカル率増加
+
+ID=60137
+急所攻撃
+攻撃命中時、15％の確率で3.5秒間、クリティカル率が25％増加する。（クールタイム10秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカル率増加
+
+ID=60138
+急所攻撃
+攻撃命中時、20％の確率で4.5秒間、クリティカル率が25％増加する。（クールタイム10秒）
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカル率増加
+
+ID=60139
+戦闘の流れ
+装着時、攻撃速度が9％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+攻撃速度増加
+
+ID=60140
+戦闘の流れ
+装着時、攻撃速度が11％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+攻撃速度増加
+
+ID=60141
+戦闘の流れ
+装着時、攻撃速度が13％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+攻撃速度増加
+
+ID=60142
+戦闘の流れ
+装着時、攻撃速度が11％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+攻撃速度増加
+
+ID=60143
+戦闘の流れ
+装着時、攻撃速度が13％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+攻撃速度増加
+
+ID=60144
+戦闘の流れ
+装着時、攻撃速度が15％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+攻撃速度増加
+
+ID=60145
+決戦
+装着時、ボス/ネームドに与えるダメージが3％増加し、防御度貫通が2％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ、防御度貫通増加
+
+ID=60146
+決戦
+装着時、ボス/ネームドに与えるダメージが7％増加し、防御度貫通が3％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ、防御度貫通増加
+
+ID=60147
+決戦
+装着時、ボス/ネームドに与えるダメージが10％増加し、防御度貫通が5％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ、防御度貫通増加
+
+ID=60148
+決戦
+装着時、ボス/ネームドに与えるダメージが5％増加し、防御度貫通が2％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ、防御度貫通増加
+
+ID=60149
+決戦
+装着時、ボス/ネームドに与えるダメージが9％増加し、防御度貫通が3％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ、防御度貫通増加
+
+ID=60150
+決戦
+装着時、ボス/ネームドに与えるダメージが12％増加し、防御度貫通が5％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ダメージ、防御度貫通増加
+
+ID=60151
+物欲発現
+アイテム獲得時、5秒間、移動速度が3％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+移動速度増加
+
+ID=60152
+物欲発現
+アイテム獲得時、5秒間、移動速度が5％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+移動速度増加
+
+ID=60153
+物欲発現
+アイテム獲得時、5秒間、移動速度が7％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+移動速度増加
+
+ID=60154
+物欲発現
+アイテム獲得時、5秒間、移動速度が6％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+移動速度増加
+
+ID=60155
+物欲発現
+アイテム獲得時、5秒間、移動速度が9％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+移動速度増加
+
+ID=60156
+物欲発現
+アイテム獲得時、5秒間、移動速度が12％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+移動速度増加
+
+ID=60157
+複数の怒り
+味方死亡時に60秒間、攻撃力が150増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Атака ↑
+
+ID=60158
+複数の怒り
+味方死亡時に60秒間、攻撃力が250増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Атака ↑
+
+ID=60159
+複数の怒り
+味方死亡時に60秒間、攻撃力が400増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Атака ↑
+
+ID=60160
+複数の怒り
+味方死亡時に60秒間、攻撃力が275増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Атака ↑
+
+ID=60161
+複数の怒り
+味方死亡時に60秒間、攻撃力が425増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Атака ↑
+
+ID=60162
+複数の怒り
+味方死亡時に60秒間、攻撃力が625増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Атака ↑
+
+ID=60163
+動力遮断
+装着時、アイアンフォース勢力に与えるダメージが5％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+アイアンフォース勢力にダメージ増加
+
+ID=60164
+動力遮断
+装着時、アイアンフォース勢力に与えるダメージが8％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+アイアンフォース勢力にダメージ増加
+
+ID=60165
+動力遮断
+装着時、アイアンフォース勢力に与えるダメージが12％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+アイアンフォース勢力にダメージ増加
+
+ID=60166
+動力遮断
+装着時、アイアンフォース勢力に与えるダメージが7％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+アイアンフォース勢力にダメージ増加
+
+ID=60167
+動力遮断
+装着時、アイアンフォース勢力に与えるダメージが10％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+アイアンフォース勢力にダメージ増加
+
+ID=60168
+動力遮断
+装着時、アイアンフォース勢力に与えるダメージが15％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+アイアンフォース勢力にダメージ増加
+
+ID=60169
+老練
+装着時、戦闘獲得経験値が3％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+経験値獲得量増加
+
+ID=60170
+老練
+装着時、戦闘獲得経験値が6％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+経験値獲得量増加
+
+ID=60171
+老練
+装着時、戦闘獲得経験値が9％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+経験値獲得量増加
+
+ID=60172
+老練
+装着時、戦闘獲得経験値が4％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+経験値獲得量増加
+
+ID=60173
+老練
+装着時、戦闘獲得経験値が8％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+経験値獲得量増加
+
+ID=60174
+老練
+装着時、戦闘獲得経験値が12％増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+経験値獲得量増加
+
+ID=60175
+自己回復
+装着時、60秒ごとにHPが5％回復します。
+Icon/Buff/Icon_Common_Buff_Akashic
+体力回復
+
+ID=60176
+自己回復
+装着時、60秒ごとにHPが7％回復します。
+Icon/Buff/Icon_Common_Buff_Akashic
+体力回復
+
+ID=60177
+自己回復
+装着時、60秒ごとにHPが9％回復します。
+Icon/Buff/Icon_Common_Buff_Akashic
+体力回復
+
+ID=60178
+自己回復
+装着時、60秒ごとにHPが6％回復します。
+Icon/Buff/Icon_Common_Buff_Akashic
+体力回復
+
+ID=60179
+自己回復
+装着時、60秒ごとにHPが8％回復します。
+Icon/Buff/Icon_Common_Buff_Akashic
+体力回復
+
+ID=60180
+自己回復
+装着時、60秒ごとにHPが10％回復します。
+Icon/Buff/Icon_Common_Buff_Akashic
+体力回復
+
+ID=60181
+動機
+プレイヤー死亡時に60秒間、攻撃力300増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Атака ↑
+
+ID=60182
+動機
+プレイヤー死亡時に60秒間、攻撃力500増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Атака ↑
+
+ID=60183
+動機
+プレイヤー死亡時に60秒間、攻撃力800増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Атака ↑
+
+ID=60184
+動機
+プレイヤー死亡時に60秒間、攻撃力550増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Атака ↑
+
+ID=60185
+動機
+プレイヤー死亡時に60秒間、攻撃力850増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Атака ↑
+
+ID=60186
+動機
+プレイヤー死亡時に60秒間、攻撃力1250に増加する。
+Icon/Buff/Icon_Common_Buff_Akashic
+Атака ↑
+
+ID=60187
+黄金の手
+モンスター死亡時、ジェニーを追加で10％獲得する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ジェニー習得量増加
+
+ID=60188
+黄金の手
+モンスター死亡時、ジェニーを追加で15％獲得する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ジェニー習得量増加
+
+ID=60189
+黄金の手
+モンスター死亡時、ジェニーを追加で20％獲得する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ジェニー習得量増加
+
+ID=60190
+黄金の手
+モンスター死亡時、ジェニーを追加で15％獲得する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ジェニー習得量増加
+
+ID=60191
+黄金の手
+モンスター死亡時、ジェニーを追加で20％獲得する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ジェニー習得量増加
+
+ID=60192
+黄金の手
+モンスター死亡時、ジェニーを追加で25％獲得する。
+Icon/Buff/Icon_Common_Buff_Akashic
+ジェニー習得量増加
+
+ID=58401
+犠牲
+A.Rカードの☆1μA.R合成に使用できます。それ以外の能力はありません。
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=58402
+犠牲
+A.Rカードの☆2μA.R合成に使用できます。それ以外の能力はありません。
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=58403
+犠牲
+A.Rカードの☆3μA.R合成に使用できます。それ以外の能力はありません。
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=58404
+犠牲
+A.Rカードの☆4μA.R合成に使用できます。それ以外の能力はありません。
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=58405
+犠牲
+A.Rカードの☆5μA.R合成に使用できます。それ以外の能力はありません。
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=58406
+犠牲
+A.Rカードの☆6μA.R合成に使用できます。それ以外の能力はありません。
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=6570
+ビーズプレイⅠ
+クリティカル確率が5%増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+クリティカル確率増加
+
+ID=6571
+ビーズプレイⅡ
+クリティカル確率が8%増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+クリティカル確率増加
+
+ID=6572
+ビーズプレイⅢ
+クリティカル確率が15%増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+クリティカル確率増加
+
+ID=6630
+ベストテンポⅠ
+移動速度が10%増加する。
+Icon/Buff/Icon_Common_Buff_MSR
+移動速度増加
+
+ID=6631
+ベストテンポⅡ
+移動速度が12%増加する。
+Icon/Buff/Icon_Common_Buff_MSR
+移動速度増加
+
+ID=6632
+ベストテンポⅢ
+移動速度が16%増加する。
+Icon/Buff/Icon_Common_Buff_MSR
+移動速度増加
+
+ID=6633
+ベストテンポⅣ
+移動速度が20%増加する。
+Icon/Buff/Icon_Common_Buff_MSR
+移動速度増加
+
+ID=6634
+ベストテンポⅤ
+移動速度が30%増加する。
+Icon/Buff/Icon_Common_Buff_MSR
+移動速度増加
