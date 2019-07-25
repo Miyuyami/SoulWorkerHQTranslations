@@ -756,7 +756,7 @@ Icon/Buff/Icon_Common_Debuff_Silence
 
 ID=5000
 覚醒
-攻撃力が20%増加する。受けるダメージ量が50%減少する。移動速度が20%増加する。スーパーアーマー状態になる。
+与えるダメージ量が15%増加する。\n受けるダメージ量が25%減少する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -906,7 +906,7 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=5500
 覚醒
-全ての攻撃が最大ダメージを与える。攻撃速度が30%増加する。移動速度が20%増加する。スーパーアーマー状態になる。
+全ての攻撃が最大ダメージを与える。\n攻撃速度が30%増加する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1194,7 +1194,7 @@ SG回復
 
 ID=6000
 覚醒
-クリティカル攻撃力が300%増加する。移動速度が20%増加する。スーパーアーマー状態になる。
+クリティカル攻撃力が300%増加する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1338,7 +1338,7 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=6500
 覚醒
-SGを毎秒15%回復する。移動速度が20%増加する。スーパーアーマー状態になる。
+SGを毎秒15%回復する。\n攻撃速度が30%増加する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1542,63 +1542,63 @@ HP回復
 
 ID=6541
 ベストテンポⅠ
-攻撃速度が5%増加する。\nSGを毎秒5%ずつ回復する。
-Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG回復
+攻撃速度が5%増加する。\n移動速度が10%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+ベストテンポ
 
 ID=6542
 ベストテンポⅡ
-攻撃速度が6%増加する。\nSGを毎秒6%ずつ回復する。
-Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG回復
+攻撃速度が6%増加する。\n移動速度が12%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+ベストテンポ
 
 ID=6543
 ベストテンポⅢ
-攻撃速度が8%増加する。\nSGを毎秒8%ずつ回復する。
-Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG回復
+攻撃速度が8%増加する。\n移動速度が16%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+ベストテンポ
 
 ID=6544
 ベストテンポⅣ
-攻撃速度が10%増加する。\nSGを毎秒10%ずつ回復する。
-Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG回復
+攻撃速度が10%増加する。\n移動速度が20%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+ベストテンポ
 
 ID=6545
 ベストテンポⅤ
-攻撃速度が15%増加する。\nSGを毎秒15%ずつ回復する。
-Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG回復
+攻撃速度が15%増加する。\n移動速度が30%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+ベストテンポ
 
 ID=6546
 ベストテンポⅠ
-HPを7%回復する。
+攻撃速度が5%増加する。\n移動速度が10%増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP回復
+ベストテンポ
 
 ID=6547
 ベストテンポⅡ
-HPを9%回復する。
+攻撃速度が6%増加する。\n移動速度が12%増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP回復
+ベストテンポ
 
 ID=6548
 ベストテンポⅢ
-HPを11%回復する。
+攻撃速度が8%増加する。\n移動速度が16%増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP回復
+ベストテンポ
 
 ID=6549
 ベストテンポⅣ
-HPを16%回復する。
+攻撃速度が10%増加する。\n移動速度が20%増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP回復
+ベストテンポ
 
 ID=6550
 ベストテンポⅤ
-HPを25%回復する。
+攻撃速度が15%増加する。\n移動速度が30%増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP回復
+ベストテンポ
 
 ID=6551
 ソウルスクリーム
@@ -1656,7 +1656,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=6600
 イロージョン
-SGを毎秒8%回復する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+SGを毎秒8%回復する。\n攻撃速度が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1686,7 +1686,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=7000
 覚醒
-攻撃力が100%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+攻撃力が100%増加する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1872,7 +1872,7 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=7500
 覚醒
-攻撃力が20%増加する。\nスーパーアーマー破壊力が30%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+与えるダメージ量が15%増加する。\nSA破壊力が30%増加する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1950,33 +1950,39 @@ Icon/Buff/Icon_Common_Debuff_Stun
 
 ID=7521
 攻撃強化Ⅰ
-一回だけ次の攻撃の攻撃力が増加する。
+全ての攻撃を最大ダメージで与えます。
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃強化
+リミットブレイクⅠ
 
 ID=7522
 攻撃強化Ⅱ
-一回だけ次の攻撃の攻撃力が増加する。
+全ての攻撃を最大ダメージで与えます。
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃強化
+リミットブレイクⅡ
 
 ID=7523
 攻撃強化Ⅲ
-一回だけ次の攻撃の攻撃力が増加する。
+全ての攻撃を最大ダメージで与えます。
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃強化
+リミットブレイクⅢ
 
 ID=7524
 攻撃強化Ⅳ
-一回だけ次の攻撃の攻撃力が増加する。
+全ての攻撃を最大ダメージで与えます。
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃強化
+リミットブレイクⅣ
 
 ID=7525
 攻撃強化Ⅴ
-一回だけ次の攻撃の攻撃力が増加する。
+全ての攻撃を最大ダメージで与えます。
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃強化
+リミットブレイクⅤ
+
+ID=7526
+防御度減少
+防御度が20%減少する。
+Icon/Buff/Icon_Common_Debuff_Def
+防御度減少
 
 ID=7530
 イロージョン
@@ -2949,6 +2955,30 @@ ID=30304
 被ダメージ量が60%減少、被撃時にHPが回復します。
 Icon/Buff/Icon_Common_Buff_Def
 吸収された力
+
+ID=30401
+後悔
+邪悪な力を使用した罪を思い知らさ後悔しています。
+Icon/Buff/Icon_Common_Debuff_Weakness
+後悔
+
+ID=30402
+必死の抵抗
+ラパクンバの強力な広域攻撃に対してに短い時間、耐性を持ちます。
+Icon/Buff/Icon_Common_Buff_Reg
+必死の抵抗
+
+ID=30403
+破滅
+近くのパーティーメンバーに毎秒当たり6000のダメージを与えます。
+Icon/Buff/Icon_Common_Debuff_Hell_fier
+破滅
+
+ID=30404
+火傷
+毎秒3000の画像ダメージを受けます。
+Icon/Buff/Icon_Common_Debuff_Burn
+火傷
 
 ID=63049
 筋切断
@@ -6455,32 +6485,62 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 クールタイム減少
 
 ID=6640
-HP増加
-1分の間、HPが600増加します。(最大3重複)
+応援
+1分間、HPが600増加します。(最大3重複)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP増加
 
 ID=6641
-HP増加
-1分の間、HPが900増加します。(最大3重複)
+応援
+1分間、HPが900増加します。(最大3重複)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP増加
 
 ID=6642
-HP増加
-1分の間、HPが1200増加します。(最大3重複)
+応援
+1分間、HPが1200増加します。(最大3重複)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP増加
 
 ID=6643
-HP増加
-1分の間、HPが1500増加します。(最大3重複)
+応援
+1分間、HPが1500増加します。(最大3重複)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP増加
 
 ID=6644
+応援
+1分間、HPが2000増加します。(最大3重複)
+Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP増加
-1分の間、HPが2000増加します。(最大3重複)
+
+ID=6645
+歓声
+2分間、HPが4000増加します。
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP増加
+
+ID=6646
+歓声
+2分間、HPが5000増加します。
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP増加
+
+ID=6647
+歓声
+2分間、HPが6000増加します。
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP増加
+
+ID=6648
+歓声
+2分間、HPが8000増加します。
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP増加
+
+ID=6649
+歓声
+2分間、HPが10000増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP増加
 
@@ -7777,5 +7837,41 @@ Icon/Buff/Icon_Common_Buff_MSR
 ID=6634
 ベストテンポⅤ
 移動速度が30%増加する。
+Icon/Buff/Icon_Common_Buff_MSR
+移動速度増加
+
+ID=6635
+ベストテンポ I
+SGが1秒毎に、5％回復します。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG回復
+
+ID=6636
+ベストテンポ II
+SGが1秒毎に、6％回復します。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG回復
+
+ID=6637
+ベストテンポ III
+SGが1秒毎に、8％回復します。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG回復
+
+ID=6638
+ベストテンポ IV
+SGが1秒毎に、10％回復します。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG回復
+
+ID=6639
+ベストテンポ V
+SGが1秒毎に、15％回復します。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG回復
+
+ID=6573
+ビーズプレイ
+移動速度が30％増加します。
 Icon/Buff/Icon_Common_Buff_MSR
 移動速度増加
