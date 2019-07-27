@@ -756,7 +756,7 @@ Icon/Buff/Icon_Common_Debuff_Silence
 
 ID=5000
 각성
-공격력이 20% 증가한다. 받는데미지가 50% 감소한다. 이동속도가 20% 증가한다. 슈퍼아머 상태가 된다.
+与えるダメージ量が15%増加する。\n受けるダメージ量が25%減少する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -906,7 +906,7 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=5500
 각성
-모든 공격이 최대데미지를 준다. 공격속도가 30% 증가한다. 이동속도가 20% 증가한다. 슈퍼아머 상태가 된다.
+全ての攻撃が最大ダメージを与える。\n攻撃速度が30%増加する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1194,7 +1194,7 @@ SG 회복
 
 ID=6000
 각성
-크리티컬 공격이 300% 증가한다. 이동속도가 20% 증가한다. 슈퍼아머 상태가 된다.
+クリティカル攻撃力が300%増加する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1338,7 +1338,7 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=6500
 각성
-SG를 매초 15%씩 회복한다. 이동속도가 20% 증가한다. 슈퍼아머 상태가 된다.
+SGを毎秒15%回復する。\n攻撃速度が30%増加する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1542,63 +1542,63 @@ HP 회복
 
 ID=6541
 베스트 템포Ⅰ
-攻撃速度が5%増加する。\nSGを毎秒5%ずつ回復する。
-Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+攻撃速度が5%増加する。\n移動速度が10%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+ベストテンポ
 
 ID=6542
 베스트 템포Ⅱ
-攻撃速度が6%増加する。\nSGを毎秒6%ずつ回復する。
-Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+攻撃速度が6%増加する。\n移動速度が12%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+ベストテンポ
 
 ID=6543
 베스트 템포Ⅲ
-攻撃速度が8%増加する。\nSGを毎秒8%ずつ回復する。
-Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+攻撃速度が8%増加する。\n移動速度が16%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+ベストテンポ
 
 ID=6544
 베스트 템포Ⅳ
-攻撃速度が10%増加する。\nSGを毎秒10%ずつ回復する。
-Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+攻撃速度が10%増加する。\n移動速度が20%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+ベストテンポ
 
 ID=6545
 베스트 템포Ⅴ
-攻撃速度が15%増加する。\nSGを毎秒15%ずつ回復する。
-Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG 회복
+攻撃速度が15%増加する。\n移動速度が30%増加します。
+Icon/Buff/Icon_Common_Buff_ATK
+ベストテンポ
 
 ID=6546
 베스트 템포Ⅰ
-HPを7%回復する。
+攻撃速度が5%増加する。\n移動速度が10%増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+ベストテンポ
 
 ID=6547
 베스트 템포Ⅱ
-HPを9%回復する。
+攻撃速度が6%増加する。\n移動速度が12%増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+ベストテンポ
 
 ID=6548
 베스트 템포Ⅲ
-HPを11%回復する。
+攻撃速度が8%増加する。\n移動速度が16%増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+ベストテンポ
 
 ID=6549
 베스트 템포Ⅳ
-HPを16%回復する。
+攻撃速度が10%増加する。\n移動速度が20%増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+ベストテンポ
 
 ID=6550
 베스트 템포Ⅴ
-HP를 25% 회복한다.
+攻撃速度が15%増加する。\n移動速度が30%増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP 회복
+ベストテンポ
 
 ID=6551
 소울 스크림
@@ -1656,7 +1656,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=6600
 이로전
-SG를 매초 8% 회복한다. \n이동속도가 20% 증가한다. \n슈퍼아머상태가 된다.
+SGを毎秒8%回復する。\n攻撃速度が15%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1686,7 +1686,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=7000
 각성
-공격력이 100%증가한다. \n이동속도가20%증가한다. \n슈퍼아머상태가 된다.
+攻撃力が100%増加する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1872,7 +1872,7 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=7500
 각성
-공격력이20%증가한다.\n슈퍼아머 파괴력이30%증가한다.\n이동속도가20%증가한다.\n슈퍼아머상태가 된다.
+与えるダメージ量が15%増加する。\nSA破壊力が30%増加する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1950,33 +1950,39 @@ Icon/Buff/Icon_Common_Debuff_Stun
 
 ID=7521
 공격강화Ⅰ
-1회만 다음공격의 공격력이 증가한다.
+全ての攻撃を最大ダメージで与えます。
 Icon/Buff/Icon_Common_Buff_ATK
-공격강화
+リミットブレイクⅠ
 
 ID=7522
 공격강화Ⅱ
-1회만 다음공격의 공격력이 증가한다.
+全ての攻撃を最大ダメージで与えます。
 Icon/Buff/Icon_Common_Buff_ATK
-공격강화
+リミットブレイクⅡ
 
 ID=7523
 공격강화Ⅲ
-1회만 다음공격의 공격력이 증가한다.
+全ての攻撃を最大ダメージで与えます。
 Icon/Buff/Icon_Common_Buff_ATK
-공격강화
+リミットブレイクⅢ
 
 ID=7524
 공격강화Ⅳ
-1회만 다음공격의 공격력이 증가한다.
+全ての攻撃を最大ダメージで与えます。
 Icon/Buff/Icon_Common_Buff_ATK
-공격강화
+リミットブレイクⅣ
 
 ID=7525
 공격강화Ⅴ
-1회만 다음공격의 공격력이 증가한다.
+全ての攻撃を最大ダメージで与えます。
 Icon/Buff/Icon_Common_Buff_ATK
-공격강화
+リミットブレイクⅤ
+
+ID=7526
+방어력 감소
+방어력이 20% 감소한다.
+Icon/Buff/Icon_Common_Debuff_Def
+방어력 감소
 
 ID=7530
 이로전
@@ -2949,6 +2955,30 @@ ID=30304
 被ダメージ量が60%減少、被撃時にHPが回復します。
 Icon/Buff/Icon_Common_Buff_Def
 吸収された力
+
+ID=30401
+後悔
+邪悪な力を使用した罪を思い知らさ後悔しています。
+Icon/Buff/Icon_Common_Debuff_Weakness
+後悔
+
+ID=30402
+必死の抵抗
+ラパクンバの強力な広域攻撃に対してに短い時間、耐性を持ちます。
+Icon/Buff/Icon_Common_Buff_Reg
+必死の抵抗
+
+ID=30403
+破滅
+近くのパーティーメンバーに毎秒当たり6000のダメージを与えます。
+Icon/Buff/Icon_Common_Debuff_Hell_fier
+破滅
+
+ID=30404
+화상
+毎秒3000の画像ダメージを受けます。
+Icon/Buff/Icon_Common_Debuff_Burn
+화상
 
 ID=63049
 筋切断
@@ -6455,32 +6485,62 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 쿨타임 감소
 
 ID=6640
-HP 증가
-1分の間、HPが600増加します。(最大3重複)
+応援
+1分間、HPが600増加します。(最大3重複)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP 증가
 
 ID=6641
-HP 증가
-1分の間、HPが900増加します。(最大3重複)
+応援
+1分間、HPが900増加します。(最大3重複)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP 증가
 
 ID=6642
-HP 증가
-1分の間、HPが1200増加します。(最大3重複)
+応援
+1分間、HPが1200増加します。(最大3重複)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP 증가
 
 ID=6643
-HP 증가
-1分の間、HPが1500増加します。(最大3重複)
+応援
+1分間、HPが1500増加します。(最大3重複)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP 증가
 
 ID=6644
+応援
+1分間、HPが2000増加します。(最大3重複)
+Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP 증가
-1分の間、HPが2000増加します。(最大3重複)
+
+ID=6645
+歓声
+2分間、HPが4000増加します。
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP 증가
+
+ID=6646
+歓声
+2分間、HPが5000増加します。
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP 증가
+
+ID=6647
+歓声
+2分間、HPが6000増加します。
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP 증가
+
+ID=6648
+歓声
+2分間、HPが8000増加します。
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP 증가
+
+ID=6649
+歓声
+2分間、HPが10000増加します。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP 증가
 
@@ -7777,5 +7837,41 @@ Icon/Buff/Icon_Common_Buff_MSR
 ID=6634
 베스트 템포Ⅴ
 移動速度が30%増加する。
+Icon/Buff/Icon_Common_Buff_MSR
+이동속도 증가
+
+ID=6635
+ベストテンポ I
+SGが1秒毎に、5％回復します。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG 회복
+
+ID=6636
+ベストテンポ II
+SGが1秒毎に、6％回復します。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG 회복
+
+ID=6637
+ベストテンポ III
+SGが1秒毎に、8％回復します。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG 회복
+
+ID=6638
+ベストテンポ IV
+SGが1秒毎に、10％回復します。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG 회복
+
+ID=6639
+ベストテンポ V
+SGが1秒毎に、15％回復します。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG 회복
+
+ID=6573
+ビーズプレイ
+移動速度が30％増加します。
 Icon/Buff/Icon_Common_Buff_MSR
 이동속도 증가

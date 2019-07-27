@@ -872,7 +872,7 @@ ID=502
 Appoint as Leader
 
 ID=503
-Expel from Party
+You have been kicked from the Party
 
 ID=504
 Leave Party
@@ -902,7 +902,7 @@ ID=513
 ※ The buff effect <font color='#5CD1E5'>[Divine Protection]</font> is applied upon reviving.
 
 ID=514
-※ <font color='#F2CB61'>1 x [Accident Call]</font> is used upon reviving.
+※ <font color='#F2CB61'>1 x [Exigent Call]</font> is used upon reviving.
 
 ID=515
 ※ After <font size='15' color='#F7AE54'>{0}</font> seconds, you will be <font color='#F15F5F'>transferred to the most recent town you visited</font>.
@@ -911,10 +911,10 @@ ID=516
 ※ <font color='#47C83E'>You have been revived by "{0}"</font>.
 
 ID=517
-※ <font color='#FFBB00'>1 x [Top Accident Call]</font> is used upon reviving.
+※ <font color='#FFBB00'>1 x [Top Exigent Call]</font> is used upon reviving.
 
 ID=518
-※ Cannot revive because you do not have <font color='#FFBB00'>[Top Accident Call]</font>.
+※ Cannot revive because you do not have <font color='#FFBB00'>[Top Exigent Call]</font>.
 
 ID=519
 Cannot revive in this specific area.
@@ -1277,7 +1277,7 @@ ID=707
 Fashion (Pending)
 
 ID=708
-エリア移動[{0}]
+Area Transfer
 
 ID=709
 Guild Management (Pending)
@@ -1301,7 +1301,7 @@ ID=715
 Quest Conversation
 
 ID=716
-トップ[Q]
+Top [Q]
 
 ID=717
 戻る[E]
@@ -1340,7 +1340,7 @@ ID=728
 Lv{0}
 
 ID=729
-リサイクルショップ[{0}]
+Recycle Shop [{0}]
 
 ID=730
 オプション精錬機能[{0}]
@@ -1413,6 +1413,9 @@ ID=752
 
 ID=753
 Revive Limit (Individual)
+
+ID=754
+エリア移動[{0}]
 
 ID=755
 <font color='#0099FF'>Dismantlable</font>
@@ -3007,6 +3010,9 @@ Title
 ID=3117
 Supporter
 
+ID=3118
+キャッシュ
+
 ID=3200
 Open Package
 
@@ -4085,13 +4091,13 @@ ID=8308
 -連続出席報酬は毎日の出席時に獲得し、3日連続報酬を獲得すると1日目からになります。\n-月毎出席報酬は毎月1日にリセットされます。\n-出席報酬は毎日09：00にリセットされます。
 
 ID=8404
-30分
+30 minutes
 
 ID=8405
-60分
+60 minutes
 
 ID=8406
-90分
+90 minutes
 
 ID=8407
 {0} Day
@@ -4291,6 +4297,9 @@ Battle Court
 ID=9211
 Rocco Town
 
+ID=9212
+Rocco Town
+
 ID=9221
 Steel Grave
 
@@ -4309,6 +4318,9 @@ Attributed Casual Raid
 ID=9301
 Candus City
 
+ID=9302
+Candus City
+
 ID=9311
 N-102
 
@@ -4322,6 +4334,9 @@ ID=9341
 Breakout
 
 ID=9401
+Grace City
+
+ID=9402
 Grace City
 
 ID=9411
@@ -4512,6 +4527,9 @@ ID=9986
 
 ID=9987
 [S. Grave] Ruin Fortress
+
+ID=10069
+Golden Citadel
 
 ID=9988
 Golden Citadel Entrance
@@ -5756,7 +5774,7 @@ ID=18028
 Seal Count
 
 ID=18029
-Sealing Stamp
+Sealing Stamper
 
 ID=18030
 Are you sure you want to seal {0}?\nSeal Limit: {1}.
@@ -6218,7 +6236,7 @@ ID=18557
 Phantom Release
 
 ID=18558
-Trouble Pass
+Treble Pass
 
 ID=18559
 Hysteric Shock
@@ -6983,7 +7001,7 @@ ID=21033
 Cannot enter the dungeon because {0} does not have enough fatigue.
 
 ID=21034
-Cannot use the Party search function because you do not have enough fatigue.
+疲労度が足りないため、このエピソードではパーティー検索機能を使用できません。
 
 ID=21035
 Cannot be used when your basic fatigue is at maximum (200).
@@ -8369,7 +8387,7 @@ ID=24329
 Soulstone
 
 ID=24330
-Soulstone Fragments
+Prophet's Fragments
 
 ID=24499
 Booker's Point
@@ -8858,7 +8876,7 @@ ID=24670
 Socket Item Extractor
 
 ID=24672
-エナジーコンバーターパーツ
+Energy Converter Parts
 
 ID=24750
 General
@@ -9221,7 +9239,7 @@ ID=25001
 End Tutorial
 
 ID=25002
-Skip the tutorial?\n(Warning! You will not get the experience for completing the tutorial)
+チュートリアルをスキップしてフィールドに進みます。
 
 ID=25003
 CLICK
@@ -11687,7 +11705,7 @@ ID=31070
 Standby
 
 ID=31071
-Find Party
+パーティー/フォース検索
 
 ID=31072
 Standby List
@@ -11699,10 +11717,10 @@ ID=31074
 Post Ad
 
 ID=31075
-Party Applicant
+パーティー/フォース申請者
 
 ID=31076
-Recruiting
+パーティー募集
 
 ID=31077
 Requests
@@ -11807,16 +11825,16 @@ ID=31110
 Your party recruitment ad lasts for [{0}]m [{1}]s.
 
 ID=31111
-Party request complete.\nParty requests will be automatically deleted after 30 minutes.\n(Amount of requests left: {0})
+パーティー/フォース申請が完了しました。\nパーティー/フォース申請は30分後に自動で削除されます。\n(残り申請可能回数：{0}回)
 
 ID=31112
-Party request will be cancelled after 30 minutes.
+パーティー/フォース申請は30分後に自動削除されます。
 
 ID=31113
-Too many Party requests. Please try again later.
+パーティー/フォース申請可能回数を超過しました。
 
 ID=31114
-The Party that you have requested for does not exist.
+申請をしたパーティー/フォースがありません。
 
 ID=31115
 Applied already.
@@ -11858,22 +11876,22 @@ ID=31127
 Party Recruitment advertisement re-registration cancelled.
 
 ID=31128
-Party Request Sent
+パーティー/フォース申請完了
 
 ID=31129
-Party Request Notification
+パーティー/フォース申請完了のお知らせ
 
 ID=31130
-Exceeded the Party requests limit
+申請パーティー/フォース回数超過
 
 ID=31131
-The applicant has denied the application.
+申請済みのパーティー/フォースなし
 
 ID=31132
 The party application has been sent already.
 
 ID=31133
-Cannot apply to the party in this state
+申請パーティー/フォース混雑状態
 
 ID=31134
 Post Ad
@@ -14522,7 +14540,7 @@ ID=41224
 スチールグレイブ6回プレイ
 
 ID=41225
-Brooch synthesis for 1 time
+Synthesize brooch once
 
 ID=41226
 Item enhancing challenge for 10 times
@@ -14567,7 +14585,7 @@ ID=41239
 Create A.R card for 4 times
 
 ID=41240
-Brooch Synthesis for 2 times
+Synthesize brooch 2 times
 
 ID=41241
 Item enhancing challenge for 16 times
@@ -14633,7 +14651,7 @@ ID=41261
 Create A.R card for 3 times
 
 ID=41262
-Brooch synthesis for 1 time
+Synthesize brooch once
 
 ID=41263
 Item enhancing challenge for 10 times
@@ -14663,7 +14681,7 @@ ID=41271
 Create A.R card for 4 times
 
 ID=41272
-Brooch Synthesis for 2 times
+Synthesize brooch 2 times
 
 ID=41273
 Item enhancing challenge for 16 times
@@ -14693,7 +14711,7 @@ ID=41304
 Create A.R card for {0} times
 
 ID=41305
-Brooch Synthesis for {0} times
+Synthesize brooch {0} times
 
 ID=41306
 Enhance item for {0} times
@@ -19036,11 +19054,17 @@ You cannot make a request because the target is in the lawless zone.
 ID=53032
 Cannot expel members in dungeon.
 
+ID=53034
+パーティー募集中に、フォースの招待はできません。
+
+ID=53035
+パーティー/フォースを組んでいる、または募集中はオートマッチングができません。
+
 ID=53101
 Cannot use the Force search function because you do not have enough fatigue.
 
 ID=53102
-Players that are already in a dungeon cannot be invited in the Force.
+メイズ内部、または別の町にいるプレイヤーはフォースに招待できません。
 
 ID=53103
 You are not the Force leader.
@@ -19212,6 +19236,12 @@ Cannot use this feature while in a Force.
 
 ID=53159
 Cannot invite users from a different area.
+
+ID=53160
+フォース募集中に、パーティーの招待はできません。
+
+ID=53161
+パーティー/フォースを組んでいる、または募集中はオートフォースマッチングができません。
 
 ID=54001
 The mission is already active.
@@ -20561,7 +20591,7 @@ ID=60501
 1~4 People
 
 ID=60502
-2～4人パーティ
+2～4人パーティー
 
 ID=60503
 FP
@@ -20753,10 +20783,13 @@ ID=5090
 以下の新規スキルを習得できます。
 
 ID=7019
-EXスキル
+EX Skill
 
 ID=9502
 Grasscover Camp
+
+ID=9503
+Ruin Fortress
 
 ID=9893
 Grasscover Camp
@@ -20765,7 +20798,7 @@ ID=9998
 Dreadful Echo
 
 ID=9999
-アルターオブヴォイド
+Altar of Void
 
 ID=10000
 Perforated Street
@@ -21128,7 +21161,7 @@ ID=18305
 スキップすると次の段階のチュートリアルを進行できます。\n チュートリアルをスキップしますか？
 
 ID=18306
-スキップするとチュートリアル完了報酬を受けることができなくて、チュートリアルが終わります。\n \n -完了報酬-\n \n 復活アイテムX 10 \n HP回復アイテムX 50\n SG回復アイテムX 50
+チュートリアルをスキップしますか？\n（スキップした場合、チュートリアルが終了します。）
 
 ID=18800
 Enter Coupon
@@ -21584,13 +21617,13 @@ ID=42443
 疲れた科学者セデュリン
 
 ID=42444
-マッドサイエンティストセデュリン
+Mad Scientist Sedurin
 
 ID=49237
 Notice
 
 ID=49238
-アップデート
+Update
 
 ID=49239
 Event
@@ -21633,6 +21666,27 @@ ID=59507
 
 ID=59508
 サーバーシステムエラーにより、移動及び一部機能の使用が制限されています。\n 正常に利用できるようになるまで暫くお待ちください。
+
+ID=59600
+ルーレットは使用できません。
+
+ID=59601
+本日のルーレットは終了いたしました。
+
+ID=59602
+ジェニーが足りません。
+
+ID=59603
+エーテルが足りません。
+
+ID=59604
+BPが足りません。
+
+ID=59605
+キャッシュが足りません。
+
+ID=59606
+アイテムが足りません。
 
 ID=22685
 Item 3
@@ -22328,7 +22382,7 @@ ID=60569
 Bonus Reward
 
 ID=60570
-開始時間：毎日18時、20時、22時
+オペレーションサービスは終了いたしました。
 
 ID=60571
 マッチングまで残り時間 - {0}:{1}
@@ -22609,6 +22663,9 @@ Dystopia Raid
 ID=9109
 スペシャルメイズ
 
+ID=9110
+My Room
+
 ID=20175
 ぐるぐるグルトン
 
@@ -22703,10 +22760,10 @@ ID=10018
 天真爛漫な少女が夢の世界で色んなお友だちと遊んでいます。\n今日はいったいどんな夢を見るのでしょうか。
 
 ID=40714
-下劣な覗き魔には天罰ですよ、オリジナル！
+わたくし達のバカンスを邪魔するなんて…砂浜に頭だけ残して埋めてさしあげます。
 
 ID=40715
-ウチに会いたい気持ちはわかるけど、覗きはあかん！
+準備運動にはピッタリやな！泳ぐ前に少し暴れたろか！
 
 ID=40716
 パ～～～～～～～フェッッックトォ
@@ -22874,85 +22931,85 @@ ID=41353
 Create A.R card for 1 time
 
 ID=41354
-メイズクリア1回
+Clear maze once
 
 ID=41355
-Sコインショップ2回利用
+Use S Coin Shop 2 times
 
 ID=41356
-アイテム強化1回挑戦
+Enhance item once
 
 ID=41357
 Create A.R Card for 2 times
 
 ID=41358
-メイズクリア2回
+Clear maze 2 times
 
 ID=41359
-Sコインショップ4回利用
+Use S Coin Shop 4 times
 
 ID=41360
-アイテム強化2回挑戦
+Enhance item 2 times
 
 ID=41361
 Create A.R card for 3 times
 
 ID=41362
-メイズクリア4回
+Clear maze 4 times
 
 ID=41363
-Sコインショップ6回利用
+Use S Coin Shop 6 times
 
 ID=41364
-アイテム強化5回挑戦
+Enhance item 5 times
 
 ID=41365
-A.Rカード製作5回
+Craft A.R Cards 5 times
 
 ID=41366
-メイズクリア6回
+Clear maze 6 times
 
 ID=41367
-Sコインショップ8回利用
+Use S Coin Shop 8 times
 
 ID=41368
-アイテム強化7回挑戦
+Enhance item 7 times
 
 ID=41369
-A.Rカード製作7回
+Craft A.R Cards 7 times
 
 ID=41370
-メイズクリア8回
+Clear maze 8 times
 
 ID=41371
-Sコインショップ10回利用
+Use S Coin Shop 10 times
 
 ID=41372
 Item enhancing challenge for 10 times
 
 ID=41373
-A.Rカード製作9回
+Craft A.R Cards 9 times
 
 ID=41374
-メイズクリア10回
+Clear maze 10 times
 
 ID=41375
-Sコインショップ12回利用
+Use S Coin Shop 12 times
 
 ID=41376
 Item enhancing challenge for 12 times
 
 ID=41377
-A.Rカード製作13回
+Craft A.R Cards 13 times
 
 ID=41378
-メイズクリア12回
+Clear maze 12 times
 
 ID=41379
-Sコインショップ15回利用
+Use S Coin Shop 15 times
 
 ID=41380
-アイテム強化15回挑戦
+Enhance item 15 times
 
 ID=18216
 Summer Festival I
@@ -22982,25 +23039,25 @@ ID=20180
 {0}が警戒しています。
 
 ID=41381
-アイテム分解1回
+Disassemble item once
 
 ID=41382
-アイテム分解2回
+Disassemble item 2 times
 
 ID=41383
 Dismantle item for 3 times
 
 ID=41384
-アイテム分解5回
+Disassemble item 5 times
 
 ID=41385
-アイテム分解7回
+Disassemble item 7 times
 
 ID=41386
 Dismantle item for 9 times
 
 ID=41387
-アイテム分解13回
+Disassemble item 13 times
 
 ID=5066
 「勇猛のハンマーストール」にクラスアップグレードしました。
@@ -23045,67 +23102,67 @@ ID=18221
 小さな夢の7日間ミッション
 
 ID=41388
-コントロールゾーン43 EP1 ノーマル2回クリア
+Clear 「Control Zone 43 EP 1 Normal」 2 times
 
 ID=41389
-コントロールゾーン43 EP3 ノーマル2回クリア
+Clear 「Control Zone 43 EP 3 Normal」 2 times
 
 ID=41390
-コントロールゾーン43 EP2 ノーマル2回クリア
+Clear 「Control Zone 43 EP 2 Normal」 2 times
 
 ID=41391
-コントロールゾーン43 EP4 ノーマル2回クリア
+Clear 「Control Zone 43 EP 4 Normal」 2 times
 
 ID=41392
-ベストショータイムEP1 ノーマル2回クリア
+Clear 「Best Showtime EP 1 Normal」 2 times
 
 ID=41393
-RスクエアEP4 ノーマル2回クリア
+Clear 「R Square EP 4 Normal」 2 times
 
 ID=41394
-ベストショータイムEP3 ノーマル3回クリア
+Clear 「Best Showtime EP 3 Normal」 3 times
 
 ID=41395
-コンクリートジャングルEP2 ノーマル2回クリア
+Clear 「Concrete Jungle EP 2 Normal」 2 times
 
 ID=41396
-コンクリートジャングルEP4 ノーマル2回クリア
+Clear 「Concrete Jungle EP 4 Normal」 2 times
 
 ID=41397
-コンクリートジャングルEP3 ノーマル2回クリア
+Clear 「Concrete Jungle EP 3 Normal」 2 times
 
 ID=41398
-N-102EP4 ノーマル2回クリア
+Clear 「N-102 EP 4 Normal」 2 times
 
 ID=41399
-ジャンクプールEP4 ノーマル3回クリア
+Clear 「Junk Pool EP 4 Normal」 3 times
 
 ID=41400
-ブレイクアウトEP3 ノーマル3回クリア
+Clear 「Break Out EP 3 Normal」 3 times
 
 ID=41401
-フロントラインEP1 ノーマル2回クリア
+Clear 「Frontline EP 1 Normal」 2 times
 
 ID=41402
-ネッドカンパニーEP4 ノーマル2回クリア
+Clear 「NED Company EP 4 Normal」 2 times
 
 ID=41403
-ネッドカンパニーEP3 ノーマル2回クリア
+Clear 「NED Company EP 3 Normal」 2 times
 
 ID=41404
-ウルフクライEP2 ノーマル2回クリア
+Clear 「Wolf Cry EP 2 Normal」 2 times
 
 ID=41405
-コールドレインEP1 ノーマル2回クリア
+Clear 「Cold Rain EP 1 Normal」 2 times
 
 ID=41406
-コールドレインEP3 ノーマル2回クリア
+Clear 「Cold Rain EP 3 Normal」 2 times
 
 ID=41407
-フレイムブレイカーEP3 ノーマル3回クリア
+Clear 「Flame Breaker EP 3 Normal」 3 times
 
 ID=41408
-コールドレインEP4 ノーマル3回クリア
+Clear 「Cold Rain EP 4 Normal」 3 times
 
 ID=41409
 シロに会う
@@ -24398,7 +24455,7 @@ ID=42512
 光を包む聖女ミリアム
 
 ID=42513
-ミリアムμ
+Miriam µ
 
 ID=42514
 暖かい手のミリアムμ
@@ -24407,7 +24464,7 @@ ID=42515
 光を包む聖女ミリアムμ
 
 ID=42564
-エターニティ
+Eternity
 
 ID=42565
 炎のエターニティ
@@ -24416,7 +24473,7 @@ ID=42566
 炸裂する爆音のエターニティ
 
 ID=42567
-エターニティμ
+Eternity µ
 
 ID=42568
 炎のエターニティμ
@@ -24425,7 +24482,7 @@ ID=42569
 炸裂する爆音のエターニティμ
 
 ID=42570
-アポカリプス
+Apocalypse
 
 ID=42571
 雪原のアポカリプス
@@ -24434,7 +24491,7 @@ ID=42572
 静かな氷河アポカリプス
 
 ID=42573
-アポカリプスμ
+Apocalypse µ
 
 ID=42574
 雪原のアポカリプスμ
@@ -24443,7 +24500,7 @@ ID=42575
 静かな氷河アポカリプスμ
 
 ID=42576
-ジャガーノート
+Juggernaut
 
 ID=42577
 雷のジャガーノート
@@ -24452,7 +24509,7 @@ ID=42578
 滅ぼす落雷ジャガーノート
 
 ID=42579
-ジャガーノートμ
+Juggernaut µ
 
 ID=42580
 雷のジャガーノートμ
@@ -24461,7 +24518,7 @@ ID=42581
 滅ぼす落雷ジャガーノートμ
 
 ID=42582
-パンデモニア
+Pandemonia
 
 ID=42583
 暴風のパンデモニア
@@ -24470,7 +24527,7 @@ ID=42584
 吹き荒ぶ疾風パンデモニア
 
 ID=42585
-パンデモニアμ
+Pandemonia µ
 
 ID=42586
 暴風のパンデモニアμ
@@ -24479,7 +24536,7 @@ ID=42587
 吹き荒ぶ疾風パンデモニアμ
 
 ID=42588
-アルティメイタム
+Ultimatum
 
 ID=42589
 光のアルティメイタム
@@ -24488,7 +24545,7 @@ ID=42590
 敬畏の光明アルティメイタム
 
 ID=42591
-アルティメイタムμ
+Ultimatum µ
 
 ID=42592
 光のアルティメイタムμ
@@ -24497,40 +24554,40 @@ ID=42593
 敬畏の光明アルティメイタムμ
 
 ID=43366
-[S]ミリアム
+[S] Miriam
 
 ID=43367
-[SH]ミリアム
+[SH] Miriam
 
 ID=43384
-[S]イクイルブリアムエターニティ
+[S] Equilibrium Eternity
 
 ID=43385
-[SH]イクイルブリアムエターニティ
+[SH] Equilibrium Eternity
 
 ID=43386
-[S]イクイルブリアムアポカリプス
+[S] Equilibrium Apocalypse
 
 ID=43387
-[SH]イクイルブリアムアポカリプス
+[SH] Equilibrium Apocalypse
 
 ID=43388
-[S]イクイルブリアムジャガーノート
+[S] Equilibrium Juggernaut
 
 ID=43389
-[SH]イクイルブリアムジャガーノート
+[SH] Equilibrium Juggernaut
 
 ID=43390
-[S]イクイルブリアムパンデモニア
+[S] Equilibrium Pandemonia
 
 ID=43391
-[SH]イクイルブリアムパンデモニア
+[SH] Equilibrium Pandemonia
 
 ID=43392
-[S]イクイルブリアムアルティメイタム
+[S] Equilibrium Ultimatum
 
 ID=43393
-[SH]イクイルブリアムアルティメイタム
+[SH] Equilibrium Ultimatum
 
 ID=42480
 Good Boy
@@ -24542,13 +24599,13 @@ ID=42482
 Good Boy
 
 ID=42483
-グッドボーイμ
+Good Boy μ
 
 ID=42484
-グッドボーイμ
+Good Boy μ
 
 ID=42485
-グッドボーイμ
+Good Boy μ
 
 ID=42486
 Katherine
@@ -24578,13 +24635,13 @@ ID=42494
 Ryu
 
 ID=42495
-リューμ
+Ryu µ
 
 ID=42496
-リューμ
+Ryu µ
 
 ID=42497
-リューμ
+Ryu µ
 
 ID=42498
 Kainbarrel
@@ -24596,13 +24653,13 @@ ID=42500
 Kainbarrel
 
 ID=42501
-ケインバレルμ
+Kainbarrel µ
 
 ID=42502
-ケインバレルμ
+Kainbarrel µ
 
 ID=42503
-ケインバレルμ
+Kainbarrel µ
 
 ID=42504
 Haidinger
@@ -24614,13 +24671,13 @@ ID=42506
 Haidinger
 
 ID=42507
-ハイディンガーμ
+Haidinger µ
 
 ID=42508
-ハイディンガーμ
+Haidinger µ
 
 ID=42509
-ハイディンガーμ
+Haidinger µ
 
 ID=42516
 Ralph
@@ -24632,13 +24689,13 @@ ID=42518
 Ralph
 
 ID=42519
-ラルフμ
+Ralph µ
 
 ID=42520
-ラルフμ
+Ralph µ
 
 ID=42521
-ラルフμ
+Ralph µ
 
 ID=42522
 Lucy
@@ -24668,151 +24725,151 @@ ID=42530
 Punisher
 
 ID=42531
-パニッシャーμ
+Punisher µ
 
 ID=42532
-パニッシャーμ
+Punisher µ
 
 ID=42533
-パニッシャーμ
+Punisher µ
 
 ID=42534
-ラバン
+Laban
 
 ID=42535
-ラバン
+Laban
 
 ID=42536
-ラバン
+Laban
 
 ID=42537
-ラバンμ
+Laban µ
 
 ID=42538
-ラバンμ
+Laban µ
 
 ID=42539
-ラバンμ
+Laban µ
 
 ID=42540
-ジェノサイダーX
+Genocider X
 
 ID=42541
-ジェノサイダーX
+Genocider X
 
 ID=42542
-ジェノサイダーX
+Genocider X
 
 ID=42543
-ジェノサイダーXμ
+Genocider X µ
 
 ID=42544
-ジェノサイダーXμ
+Genocider X µ
 
 ID=42545
-ジェノサイダーXμ
+Genocider X µ
 
 ID=42546
-インプパペット
+Imp Puppet
 
 ID=42547
-インプパペット
+Imp Puppet
 
 ID=42548
-インプパペット
+Imp Puppet
 
 ID=42549
-インプパペットμ
+Imp Puppet µ
 
 ID=42550
-インプパペットμ
+Imp Puppet µ
 
 ID=42551
-インプパペットμ
+Imp Puppet µ
 
 ID=42552
-リトルパペット
+Little Puppet
 
 ID=42553
-リトルパペット
+Little Puppet
 
 ID=42554
-リトルパペット
+Little Puppet
 
 ID=42555
-リトルパペットμ
+Little Puppet µ
 
 ID=42556
-リトルパペットμ
+Little Puppet µ
 
 ID=42557
-リトルパペットμ
+Little Puppet µ
 
 ID=42558
-アマリリス
+Amaryllis
 
 ID=42559
-アマリリス
+Amaryllis
 
 ID=42560
-アマリリス
+Amaryllis
 
 ID=42561
-アマリリスμ
+Amaryllis µ
 
 ID=42562
-アマリリスμ
+Amaryllis µ
 
 ID=42563
-アマリリスμ
+Amaryllis µ
 
 ID=42594
-ポイズン
+Poison
 
 ID=42595
-ポイズン
+Poison
 
 ID=42596
-ポイズン
+Poison
 
 ID=42597
-ポイズンμ
+Poison µ
 
 ID=42598
-ポイズンμ
+Poison µ
 
 ID=42599
-ポイズンμ
+Poison µ
 
 ID=42600
-ファルコン&カルラ
+Falcon & Garuda
 
 ID=42601
-ファルコン&カルラ
+Falcon & Garuda
 
 ID=42602
-ファルコン&カルラ
+Falcon & Garuda
 
 ID=42603
-ファルコン&カルラμ
+Falcon & Garuda µ
 
 ID=42604
-ファルコン&カルラμ
+Falcon & Garuda µ
 
 ID=42605
-ファルコン&カルラμ
+Falcon & Garuda µ
 
 ID=42606
 Haru
 
 ID=42607
-復讐のソウラムソードハル
+Soulum Sword of Revenge, Haru
 
 ID=42608
-闘志のソウラムソードハル
+Soulum Sword of Fighting Spirit, Haru
 
 ID=42609
-ハルμ
+Haru µ
 
 ID=42610
 復讐のソウラムソードハルμ
@@ -24830,7 +24887,7 @@ ID=42614
 誓いのガンジャズアーウィン
 
 ID=42615
-アーウィンμ
+Erwin µ
 
 ID=42616
 快楽のガンジャズアーウィンμ
@@ -24848,7 +24905,7 @@ ID=42620
 覚悟のミストサイスリリー
 
 ID=42621
-リリーμ
+Lily µ
 
 ID=42622
 狂気のミストサイスリリーμ
@@ -24866,7 +24923,7 @@ ID=42626
 信頼のスピリットアームズジン
 
 ID=42627
-ジンμ
+Jin µ
 
 ID=42628
 情熱のスピリットアームズジンμ
@@ -24884,7 +24941,7 @@ ID=42632
 希望のハウリングギターステラ
 
 ID=42633
-ステラμ
+Stella µ
 
 ID=42634
 悲しみのハウリングギターステラμ
@@ -24902,7 +24959,7 @@ ID=42638
 勇猛のハンマーストールイリス
 
 ID=42639
-イリスμ
+Iris µ
 
 ID=42640
 憤怒のハンマーストールイリスμ
@@ -24911,25 +24968,25 @@ ID=42641
 勇猛のハンマーストールイリスμ
 
 ID=42642
-テネブリス
+Tenebris
 
 ID=42643
-グラスカバーのリーダーテネブリス
+Grasscover Leader, Tenebris
 
 ID=42644
 夜空の悲劇テネブリス
 
 ID=42645
-テネブリスμ
+Tenebris µ
 
 ID=42646
-グラスカバーのリーダーテネブリスμ
+Grasscover Leader, Tenebris µ
 
 ID=42647
 夜空の悲劇テネブリスμ
 
 ID=42648
-ヘンリー
+Henry
 
 ID=42649
 ネッドカンパニーの科学者ヘンリー
@@ -24938,7 +24995,7 @@ ID=42650
 禁忌科学の執行者ヘンリー
 
 ID=42651
-ヘンリーμ
+Henry µ
 
 ID=42652
 ネッドカンパニーの科学者ヘンリーμ
@@ -24947,25 +25004,25 @@ ID=42653
 禁忌科学の執行者ヘンリーμ
 
 ID=42654
-ゼニス
+Zenith
 
 ID=42655
-ホワイトハッカーゼニス
+White Hacker, Zenith
 
 ID=42656
 無法の創作者ゼニス
 
 ID=42657
-ゼニスμ
+Zenith µ
 
 ID=42658
-ホワイトハッカーゼニスμ
+White Hacker, Zenith µ
 
 ID=42659
 無法の創作者ゼニスμ
 
 ID=42660
-イオ
+Io
 
 ID=42661
 観察者イオ
@@ -24974,7 +25031,7 @@ ID=42662
 新歴史の傍観者イオ
 
 ID=42663
-イオμ
+Io µ
 
 ID=42664
 観察者イオμ
@@ -24983,10 +25040,10 @@ ID=42665
 新歴史の傍観者イオμ
 
 ID=43356
-[S]グッドボーイ
+[S] Good Boy
 
 ID=43357
-[SH]グッドボーイ
+[SH] Good Boy
 
 ID=43358
 [S] Katherine
@@ -24995,28 +25052,28 @@ ID=43359
 [SH] Katherine
 
 ID=43360
-[S]リュー
+[S] Ryu
 
 ID=43361
-[SH]リュー
+[SH] Ryu
 
 ID=43362
-[S]ケインバレル
+[S] Kainbarrel
 
 ID=43363
-[SH]ケインバレル
+[SH] Kainbarrel
 
 ID=43364
-[S]ハイディンガー
+[S] Haidinger
 
 ID=43365
-[SH]ハイディンガー
+[SH] Haidinger
 
 ID=43368
-[S]ラルフ
+[S] Ralph
 
 ID=43369
-[SH]ラルフ
+[SH] Ralph
 
 ID=43370
 [S]ルーシー
@@ -25025,40 +25082,40 @@ ID=43371
 [SH]ルーシー
 
 ID=43372
-[S]パニッシャー
+[S] Punisher
 
 ID=43373
-[SH]パニッシャー
+[SH] Punisher
 
 ID=43374
-[S]ラバン
+[S] Laban
 
 ID=43375
-[SH]ラバン
+[SH] Laban
 
 ID=43376
-[S]ジェノサイダーX
+[S] Genocider X
 
 ID=43377
-[SH]ジェノサイダーX
+[SH] Genocider X
 
 ID=43378
-[S]インプパペット
+[S] Imp Puppet
 
 ID=43379
-[SH]インプパペット
+[SH] Imp Puppet
 
 ID=43380
-[S]リトルパペット
+[S] Little Puppet
 
 ID=43381
-[SH]リトルパペット
+[SH] Little Puppet
 
 ID=43382
-[S]アマリリス
+[S] Amaryllis
 
 ID=43383
-[SH]アマリリス
+[SH] Amaryllis
 
 ID=16562
 Star
@@ -25235,13 +25292,13 @@ ID=100029
 製作と同じ材料に追加材料として同じ等級の「カードカバー」を使用すると上位等級の内、いずれか1つを獲得する事ができる「A.R結合」を行う事ができます。\nA.R結合を通じて新しいカードを手に入れる事はできますが、復旧できませんので慎重に行ってください。
 
 ID=27940
-パーティまたはフォース組んではいない時、クリティカル攻撃時のクリティカルダメージ+{0}
+パーティーまたはフォース組んではいない時、クリティカル攻撃時のクリティカルダメージ+{0}
 
 ID=65017
 Change
 
 ID=65018
-ポートレート
+Portrait
 
 ID=65019
 Apply
@@ -25301,10 +25358,10 @@ ID=70000
 Idol
 
 ID=711001
-復讐のソウラムソード
+Soulum Sword of Revenge
 
 ID=712001
-立ち向かう闘志の刃
+Sword of Fighting Spirit
 
 ID=710001
 日常服
@@ -25319,16 +25376,16 @@ ID=710004
 Idol
 
 ID=710005
-バニーガール
+Bunny Girl
 
 ID=710006
 聖なる裁き
 
 ID=721001
-快楽のガンジャズ
+Gun Jazz of Pleasure
 
 ID=722001
-永遠なる誓いの砲弾
+Artillery of Eternal Vow
 
 ID=720001
 日常服
@@ -25343,16 +25400,16 @@ ID=720004
 Idol
 
 ID=720005
-バニーボーイ
+Bunny Boy
 
 ID=720006
 聖なる裁き
 
 ID=731001
-狂気のミストサイス
+Mist Scythe of Madness
 
 ID=732001
-突き進む覚悟の鎖
+Chains of Piercing Resolve
 
 ID=730001
 日常服
@@ -25367,16 +25424,16 @@ ID=730004
 Idol
 
 ID=730005
-バニーガール
+Bunny Girl
 
 ID=730006
 聖なる裁き
 
 ID=741001
-情熱のスピリットアームズ
+Spirit Arms of Passion
 
 ID=742001
-燃え上がる信頼の盾
+Shield of Blazing Conviction
 
 ID=740001
 日常服
@@ -25391,16 +25448,16 @@ ID=740004
 Idol
 
 ID=740005
-バニーボーイ
+Bunny Boy
 
 ID=740006
 聖なる裁き
 
 ID=751001
-悲しみのハウリングギター
+Howling Guitar of Sorrow
 
 ID=752001
-飛翔する希望の魂
+Soul of Soaring Aspiration
 
 ID=750001
 日常服
@@ -25415,16 +25472,16 @@ ID=750004
 Idol
 
 ID=750005
-バニーガール
+Bunny Girl
 
 ID=750006
 聖なる裁き
 
 ID=761001
-憤怒のハンマーストール
+Hammer Stol of Rage
 
 ID=762001
-先行する勇猛の流星
+Shooting Star of Outstanding Valor
 
 ID=760001
 日常服
@@ -25439,13 +25496,13 @@ ID=760004
 Idol
 
 ID=760005
-バニーガール
+Bunny Girl
 
 ID=760006
 聖なる裁き
 
 ID=24336
-ポートレートアイテム
+Portrait Item
 
 ID=24337
 期間制ポートレートアイテム
@@ -25457,25 +25514,25 @@ ID=65045
 登録された{0}ポートレートの使用期間が満了されました。
 
 ID=710007
-ラブリークリスマス
+Lovely Christmas
 
 ID=720007
-ラブリークリスマス
+Lovely Christmas
 
 ID=730007
-ラブリークリスマス
+Lovely Christmas
 
 ID=740007
-ラブリークリスマス
+Lovely Christmas
 
 ID=750007
-ラブリークリスマス
+Lovely Christmas
 
 ID=760007
-ラブリークリスマス
+Lovely Christmas
 
 ID=9895
-ザ・プライマル:ヒーロー
+The Primal: Hero
 
 ID=10111
 [ザ・プライマル:ヒーロー]は最大8人で臨むフォース専用メイズです。世界の崩壊を止めるために、仲間と共に再構成されたプライマルを討伐してください。
@@ -25523,13 +25580,13 @@ ID=58905
 染色するために必要な材料が不足しています。ご確認ください。
 
 ID=66000
-コスチューム染色
+Costume Dye
 
 ID=66002
-染色
+Dye
 
 ID=66003
-ランダム染色
+Random Dye
 
 ID=66004
 必要チケット数量
@@ -25541,7 +25598,7 @@ ID=66006
 上記の色から個別の確率で染色します。ただし、以前に染色した色と同じ色に染まる事もあります。
 
 ID=66007
-染色
+Dye
 
 ID=66008
 色落ち
@@ -25559,7 +25616,7 @@ ID=1454
 色の変更[{0}]
 
 ID=66012
-(★)
+(SP)
 
 ID=66013
 染色情報なし
@@ -25589,7 +25646,7 @@ ID=18765
 使用回数
 
 ID=9894
-ディプルス・ホライズン
+Dipluce Horizon
 
 ID=10546
 先発隊偵察作戦
@@ -25640,13 +25697,13 @@ ID=10561
 神聖な戦場
 
 ID=10107
-スカイワーカー
+スカイウォーカー
 
 ID=10108
-トランスポートフリート
+Transport Fleet
 
 ID=10109
-ビットレイアーズアーミー
+Betrayers Army
 
 ID=10110
 Holy Ground
@@ -25658,10 +25715,10 @@ ID=27942
 ボスモンスターに攻撃命中時、1秒間クリティカル{0}%増加
 
 ID=27943
-2人以上のパーティ時、攻撃力{0}増加
+2人以上のパーティー時、攻撃力{0}増加
 
 ID=27944
-消費アイテム使用時、30%の確率でHP{0}追加回復
+消費アイテム使用時、HP{0}追加回復
 
 ID=27945
 スキル使用時、5秒間、クリティカルダメージ{0}増加
@@ -25706,7 +25763,7 @@ ID=66017
 このA.Rカードとは同時に装着する事はできません。
 
 ID=42666
-ラウファー
+Laufer
 
 ID=42667
 ネッド出身秘書ラウファー
@@ -25715,7 +25772,7 @@ ID=42668
 親友への贖罪ラウファー
 
 ID=42669
-ラウファーμ
+Laufer µ
 
 ID=42670
 ネッド出身秘書ラウファーμ
@@ -25724,7 +25781,7 @@ ID=42671
 親友への贖罪ラウファーμ
 
 ID=42672
-レオナ
+Leona
 
 ID=42673
 ネッドの秘書レオナ
@@ -25733,7 +25790,7 @@ ID=42674
 資本主義の管理者レオナ
 
 ID=42675
-レオナμ
+Leona µ
 
 ID=42676
 ネッドの秘書レオナμ
@@ -25742,7 +25799,7 @@ ID=42677
 資本主義の管理者レオナμ
 
 ID=42678
-ベネリス
+Beneris
 
 ID=42679
 オルカ部隊所属ベネリス
@@ -25751,7 +25808,7 @@ ID=42680
 交渉の切り札ベネリス
 
 ID=42681
-ベネリスμ
+Beneris µ
 
 ID=42682
 オルカ部隊所属ベネリスμ
@@ -25760,7 +25817,7 @@ ID=42683
 交渉の切り札ベネリスμ
 
 ID=42684
-アルア
+Arua
 
 ID=42685
 十人隊長アルア
@@ -25769,7 +25826,7 @@ ID=42686
 戦場に咲く青い花アルア
 
 ID=42687
-アルアμ
+Arua µ
 
 ID=42688
 十人隊長アルアμ
@@ -25778,25 +25835,25 @@ ID=42689
 戦場に咲く青い花アルアμ
 
 ID=42690
-ペリー
+Perry
 
 ID=42691
-ブッカーズTVペリー
+Booker TV, Perry
 
 ID=42692
 スクープ確保の予感ペリー
 
 ID=42693
-ペリーμ
+Perry µ
 
 ID=42694
-ブッカーズTVペリーμ
+Booker TV, Perry µ
 
 ID=42695
 スクープ確保の予感ペリーμ
 
 ID=42696
-ジェレミー
+Jeremy
 
 ID=42697
 スタリーフォレスト連合所属ジェレミー
@@ -25805,7 +25862,7 @@ ID=42698
 心に闇を抱えたジェレミー
 
 ID=42699
-ジェレミーμ
+Jeremy µ
 
 ID=42700
 スタリーフォレスト連合所属ジェレミーμ
@@ -25814,25 +25871,25 @@ ID=42701
 心に闇を抱えたジェレミーμ
 
 ID=42702
-ヒックス
+Hicks
 
 ID=42703
 贖罪する科学者ヒックス
 
 ID=42704
-レプリカプロジェクトヒックス
+Replica Project, Hicks
 
 ID=42705
-ヒックスμ
+Hicks µ
 
 ID=42706
 贖罪する科学者ヒックスμ
 
 ID=42707
-レプリカプロジェクトヒックスμ
+Replica Project, Hicks µ
 
 ID=42708
-ロバート
+Robert
 
 ID=42709
 市場の息子ロバート
@@ -25841,7 +25898,7 @@ ID=42710
 都市再建の一歩ロバート
 
 ID=42711
-ロバートμ
+Robert µ
 
 ID=42712
 市場の息子ロバートμ
@@ -25850,7 +25907,7 @@ ID=42713
 都市再建の一歩ロバートμ
 
 ID=42714
-ウォーレン
+Warren
 
 ID=42715
 民間の医師ウォーレン
@@ -25859,7 +25916,7 @@ ID=42716
 最高峰の守護者ウォーレン
 
 ID=42717
-ウォーレンμ
+Warren µ
 
 ID=42718
 民間の医師ウォーレンμ
@@ -25868,7 +25925,7 @@ ID=42719
 最高峰の守護者ウォーレンμ
 
 ID=42720
-エミリート
+Emilito
 
 ID=42721
 スタリーフォレストの兵士エミリート
@@ -25877,7 +25934,7 @@ ID=42722
 親友との信頼エミリート
 
 ID=42723
-エミリートμ
+Emilito µ
 
 ID=42724
 スタリーフォレストの兵士エミリートμ
@@ -25886,7 +25943,7 @@ ID=42725
 親友との信頼エミリートμ
 
 ID=42726
-アレン
+Allen
 
 ID=42727
 財閥の子孫アレン
@@ -25895,7 +25952,7 @@ ID=42728
 孤児院のスポンサーアレン
 
 ID=42729
-アレンμ
+Allen µ
 
 ID=42730
 財閥の子孫アレンμ
@@ -25913,7 +25970,7 @@ ID=42734
 突撃兵ラルフ
 
 ID=42735
-ラルフμ
+Ralph µ
 
 ID=42736
 ネッド傭兵ラルフμ
@@ -25922,22 +25979,22 @@ ID=42737
 突撃兵ラルフμ
 
 ID=42738
-ホイルカードカバー
+Foil Card Cover
 
 ID=42739
-ホイルカードカバー
+Foil Card Cover
 
 ID=42740
-ホイルカードカバー
+Foil Card Cover
 
 ID=42741
-ホイルカードカバー
+Foil Card Cover
 
 ID=42742
-ホイルカードカバー
+Foil Card Cover
 
 ID=42743
-ホイルカードカバー
+Foil Card Cover
 
 ID=30201
 コスチューム専用ジェスチャーを使用可能
@@ -25946,7 +26003,7 @@ ID=30203
 Attack
 
 ID=30204
-クリティカル
+Critical
 
 ID=30205
 General
@@ -26006,46 +26063,46 @@ ID=18223
 ３周年ウィークリーミッション第1弾
 
 ID=41430
-キャラクター3LV達成
+Reach Character Lv 3
 
 ID=41431
-キャラクター8LV達成
+Reach Character Lv 8
 
 ID=41432
-キャラクター13LV達成
+Reach Character Lv 13
 
 ID=41433
-キャラクター18LV達成
+Reach Character Lv 18
 
 ID=41434
-キャラクター23LV達成
+Reach Character Lv 23
 
 ID=41435
-キャラクター28LV達成
+Reach Character Lv 28
 
 ID=41436
-キャラクター33LV達成
+Reach Character Lv 33
 
 ID=41437
-メイズクリア4回
+Clear maze 4 times
 
 ID=41438
-メイズクリア8回
+Clear maze 8 times
 
 ID=41439
-メイズクリア12回
+Clear maze 12 times
 
 ID=41440
-メイズクリア16回
+Clear maze 16 times
 
 ID=41441
-メイズクリア20回
+Clear maze 20 times
 
 ID=41442
-メイズクリア24回
+Clear maze 24 times
 
 ID=41443
-メイズクリア28回
+Clear maze 28 times
 
 ID=41444
 Dismantle item for 3 times
@@ -26063,52 +26120,52 @@ ID=41448
 Dismantle item for 15 times
 
 ID=41449
-アイテム分解20回
+Disassemble item 20 times
 
 ID=41450
-アイテム分解30回
+Disassemble item 30 times
 
 ID=41451
-キャラクター3LV達成
+Reach Character Lv 3
 
 ID=41452
-キャラクター8LV達成
+Reach Character Lv 8
 
 ID=41453
-キャラクター13LV達成
+Reach Character Lv 13
 
 ID=41454
-キャラクター18LV達成
+Reach Character Lv 18
 
 ID=41455
-キャラクター23LV達成
+Reach Character Lv 23
 
 ID=41456
-キャラクター28LV達成
+Reach Character Lv 28
 
 ID=41457
-キャラクター33LV達成
+Reach Character Lv 33
 
 ID=41458
-メイズクリア4回
+Clear maze 4 times
 
 ID=41459
-メイズクリア8回
+Clear maze 8 times
 
 ID=41460
-メイズクリア12回
+Clear maze 12 times
 
 ID=41461
-メイズクリア16回
+Clear maze 16 times
 
 ID=41462
-メイズクリア20回
+Clear maze 20 times
 
 ID=41463
-メイズクリア24回
+Clear maze 24 times
 
 ID=41464
-メイズクリア28回
+Clear maze 28 times
 
 ID=41465
 Dismantle item for 3 times
@@ -26126,10 +26183,10 @@ ID=41469
 Dismantle item for 15 times
 
 ID=41470
-アイテム分解20回
+Disassemble item 20 times
 
 ID=41471
-アイテム分解30回
+Disassemble item 30 times
 
 ID=18224
 ３周年ウィークリーミッション第2弾
@@ -26138,172 +26195,436 @@ ID=18225
 ３周年ウィークリーミッション第2弾
 
 ID=41472
-スチールグレイブ5回プレイ
+Play Steel Grave 5 times
 
 ID=41473
-自分以外のマイルームで作物のヘルプ1回
+Help crops in other rooms once
 
 ID=41474
 スチールグレイブ10回プレイ
 
 ID=41475
-自分以外のマイルームで作物のヘルプ2回
+Help crops in other rooms 2 times
 
 ID=41476
-スチールグレイブ15回プレイ
+Play Steel Grave 15 times
 
 ID=41477
-自分以外のマイルームで作物のヘルプ3回
+Help crops in other rooms 3 times
 
 ID=41478
-スチールグレイブ20回プレイ
+Play Steel Grave 20 times
 
 ID=41479
-Brooch synthesis for 1 time
+Synthesize brooch once
 
 ID=41480
-アイテム強化1回挑戦
+Enhance item once
 
 ID=41481
-ブローチ合成3回
+Synthesize brooch 3 times
 
 ID=41482
-アイテム強化3回挑戦
+Enhance item 3 times
 
 ID=41483
-ブローチ合成5回
+Synthesize brooch 5 times
 
 ID=41484
-アイテム強化5回挑戦
+Enhance item 5 times
 
 ID=41485
-ブローチ合成7回
+Synthesize brooch 7 times
 
 ID=41486
-アイテム製作1回
+Craft item once
 
 ID=41487
-Sコインショップ1回利用
+Use S Coin Shop once
 
 ID=41488
 Create item for 3 times
 
 ID=41489
-Sコインショップ3回利用
+Use S Coin Shop 3 times
 
 ID=41490
 Create item for 5 times
 
 ID=41491
-Sコインショップ5回利用
+Use S Coin Shop 5 times
 
 ID=41492
-アイテム製作10回
+Craft item 10 times
 
 ID=41493
-スチールグレイブ5回プレイ
+Play Steel Grave 5 times
 
 ID=41494
-自分以外のマイルームで作物のヘルプ1回
+Help crops in other rooms once
 
 ID=41495
 スチールグレイブ10回プレイ
 
 ID=41496
-自分以外のマイルームで作物のヘルプ2回
+Help crops in other rooms 2 times
 
 ID=41497
-スチールグレイブ15回プレイ
+Play Steel Grave 15 times
 
 ID=41498
-自分以外のマイルームで作物のヘルプ3回
+Help crops in other rooms 3 times
 
 ID=41499
-スチールグレイブ20回プレイ
+Play Steel Grave 20 times
 
 ID=41500
-Brooch synthesis for 1 time
+Synthesize brooch once
 
 ID=41501
-アイテム強化1回挑戦
+Enhance item once
 
 ID=41502
-ブローチ合成3回
+Synthesize brooch 3 times
 
 ID=41503
-アイテム強化3回挑戦
+Enhance item 3 times
 
 ID=41504
-ブローチ合成5回
+Synthesize brooch 5 times
 
 ID=41505
-アイテム強化5回挑戦
+Enhance item 5 times
 
 ID=41506
-ブローチ合成7回
+Synthesize brooch 7 times
 
 ID=41507
-アイテム製作1回
+Craft item once
 
 ID=41508
-Sコインショップ1回利用
+Use S Coin Shop once
 
 ID=41509
 Create item for 3 times
 
 ID=41510
-Sコインショップ3回利用
+Use S Coin Shop 3 times
 
 ID=41511
 Create item for 5 times
 
 ID=41512
-Sコインショップ5回利用
+Use S Coin Shop 5 times
 
 ID=41513
-アイテム製作10回
+Craft item 10 times
 
 ID=700001
-致命的な魅力のヘンリー
+Fatally Attractive Henry
 
 ID=700002
-冷たい都会男トール
+Unfriendly City Man Thor
 
 ID=700003
-衝撃のセニア
+Impulsive Xenia
 
 ID=700004
-ボイスメッセージ[マーティン]
+Voice Message [Martin]
 
 ID=700005
-自信満々アルア
+Overconfident Arua
 
 ID=710012
-ハルの料理教室
+Haru's Cooking Class
 
 ID=710013
-天才美少女アーウィン
+Beautiful Genius Erwin
 
 ID=710014
-ラブリーリリー
+Lovely Lily
 
 ID=710015
-今日も苦労するジン
+Struggling Everyday Jin
 
 ID=710016
-大人ステラ
+Adult Stella
 
 ID=710017
-ちびっ子イリスちゃん
+Small Iris-chan
 
 ID=710011
-アニマルパジャマ
+Animal Pajama
 
 ID=20211
-アニマルパジャマ
+Animal Pajama
 
 ID=20212
 可愛く動物の真似をします。
 
 ID=20213
 {0}様が可愛く動物の真似をします。
+
+ID=31178
+Party
+
+ID=31179
+Force
+
+ID=31180
+List
+
+ID=31181
+フィルター
+
+ID=31182
+All
+
+ID=31183
+パーティー募集登録
+
+ID=31184
+フォース募集登録
+
+ID=31185
+パーティー募集解除
+
+ID=31186
+フォース募集解除
+
+ID=31187
+パーティー募集登録
+
+ID=31188
+ディストリクト
+
+ID=31189
+フォース募集登録
+
+ID=31190
+Anything
+
+ID=31191
+フォース参加
+
+ID=31192
+参加取消
+
+ID=31193
+募集レベル不足
+
+ID=31194
+メイズを選択してください。
+
+ID=31195
+フォースリーダーはパーティーの募集を行う事はできません。
+
+ID=31196
+パーティーリーダーはフォースの募集を行う事はできません。
+
+ID=31197
+パーティー/フォースリーダーはパーティー/フォースの募集を行う事はできません。
+
+ID=31198
+パーティー/フォース状態ではパーティー/フォースの募集を行う事はできません。
+
+ID=31199
+フォースを組めない地域では、フォースの参加はできません。
+
+ID=31200
+フォースを組めない地域では、フォースの募集はできません。
+
+ID=31201
+フォースを組むためのレベルが足りません。フォースはレベル55以上から可能です。
+
+ID=31202
+フォースを組む事ができるのは、レベル55以上からです。募集レベルの制限を確認してください
+
+ID=31203
+条件に合う募集内容が存在しません。
+
+ID=33007
+私の親愛なる娘キャサリンへ\n空の上から私を見守っていてくれ。\n
+
+ID=61000
+スタート！
+
+ID=61001
+ストップ！
+
+ID=61002
+ルーレットの回数は、毎日午前９時に初期化されます。
+
+ID=61003
+Obtained Items
+
+ID=61004
+ボタンを押すと戻ります。
+
+ID=61005
+ルーレットを回してアイテムを手に入れよう
+
+ID=61006
+残り回数[キャッシュ]
+
+ID=61007
+残り回数[キャッシュ]
+
+ID=61008
+イベント期間
+
+ID=61009
+ルーレット
+
+ID=33574
+女王の騎士
+
+ID=80000
+SP染色ポイントが不足しています。
+
+ID=80001
+<font color='#F29661'> {0} </font>回 SP染色可能
+
+ID=80002
+染色ポイントを排出して確定SPカラーで染色する事ができます。\nスペシャル染色時に染色ポイントは初期化されます。
+
+ID=80003
+SP染色
+
+ID=80004
+染色ポイント
+
+ID=80005
+{0} / {1} pt
+
+ID=80006
+<font color='#00CED1'>キャラクター毎に</font>ポイントが蓄積していく。\n<font color='#00CED1'>ポイント{0}</font>毎に、1回SP染色が可能\n<font color='#00CED1'>最大{1}回まで保存</font>可能\n 選択染色<font color='#00CED1'> {2}ポイント</font>が加算\n ランダム染色<font color='#00CED1'> {3}ポイント</font>が加算
+
+ID=53301
+CH. {0}
+
+ID=53304
+ESCキーを押すとカットシーンが終了します。
+
+ID=53305
+他プレイヤーのカットシーン終了を待っております。
+
+ID=53306
+全てのプレイヤーのカットシーンが終了されました。
+
+ID=53307
+ESCキーを押すと画面を終了します。
+
+ID=28694
+攻撃を受けた時、20%の確率で5秒間移動速度{0}%増加
+
+ID=22687
+Item Mall
+
+ID=20214
+サーヴァント・イン・カフェ
+
+ID=20215
+礼儀正しく挨拶をします。
+
+ID=20216
+{0}が礼儀正しく挨拶をします。
+
+ID=710019
+サーヴァント・イン・カフェ
+
+ID=33575
+プライマシーStセット
+
+ID=33576
+プライマシーExセット
+
+ID=33577
+プライマシーアクセサリーセット
+
+ID=10019
+無人島で、知性を持つソウルジャンクが出現するとの情報を入手しました。 [ヒドゥン・ハイドアウト]でコードネーム[ラパクンバ]を討伐してください。
+
+ID=10113
+ヒドゥン・ハイドアウト
+
+ID=40644
+これが我が力である！\nさあ！舞い散るがいい！
+
+ID=40645
+来い！我が従僕達よ！\nあの汚らわしい者共を消し去れ！
+
+ID=40646
+天罰だ！汚らわしい者共よ！\n塵も残さず消し去ってやる！
+
+ID=40647
+汚らわしい者共よ！\n汝の罪と共に消えるがいい！
+
+ID=40648
+汝の魂を解放してやる。\nその体と共にな！
+
+ID=40649
+自然に還るがいい！\nそして、破滅の苦痛に悶えろ！
+
+ID=40650
+その邪悪な力を無くしてやろう。\n汝の信じる力が汝を苦しめるだろう。
+
+ID=40651
+その邪悪な力を無くしてやろう。\n汝が力を付ける事こそが汝の首を絞めるだろう。
+
+ID=40652
+その邪悪な力を無くしてやろう。\n強さを渇望する汝の欲が汝の魂を抉り取るだろう。
+
+ID=5933
+<font color='#FFFFFF'><font size="30">TIP：</font>召喚された石碑はラパクンバの攻撃を一定ダメージを受けると、破壊されるため注意が必要です。
+
+ID=5934
+<font color="#FFFFFF"><font size="30">TIP：</font>生成されたポータルを利用してラパクンバの精神世界にある<font color="#FF0033">[信仰心]</font>を破壊すればスキル禁止パターンが解除されます。
+
+ID=5935
+<font color="#FFFFFF"><font size="30">TIP：</font><font color="#FF0033">[破滅]</font>デバフは自分を除いた一定距離内の全てのパーティーメンバーにダメージを与えることになります。 <br />デバフを受けるとパーティーメンバーはそれぞれ遠く離れる必要があります。
+
+ID=5936
+<font color="#FFFFFF"><font size="30">TIP：</font>ラパクンバが召喚したトーテムらは破壊できません。トーテムは召喚後,一定時間が経てば消える。
+
+ID=27950
+スタミナが30%以下の場合、攻撃時3秒間移動速度{0}%増加
+
+ID=27951
+スタミナが100%の場合、攻撃時3秒間攻撃速度{0}%増加
+
+ID=9897
+ディプルス・レイド
+
+ID=10566
+グルトンワールドサマー
+
+ID=710020
+真夏の水兵
+
+ID=20217
+水兵
+
+ID=20218
+皆の士気を高めます。
+
+ID=20219
+{0}が皆の士気を高めます。
+
+ID=40770
+スーパーファンタスティックナイスダイナマイトアタック！
+
+ID=40771
+超ミラクルセクシーキングハイパースピン！
+
+ID=40772
+メガトンゴージャスアルティメットギンガトビッグバンアイスクラッシュ！
+
+ID=11714
+やたら自信満々の
+
+ID=11715
+脱いだら凄い
+
+ID=11716
+ダイナマイトセクシー
