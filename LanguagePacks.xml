@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <soulworkerPatcher>
   <regions>
-    <jp name="form_region_jp">
+    <jp name="form_region_jp" folder="jp">
       <languages>
         <en name="English">
-          <value>12/Sep/2019 8:01 PM</value>
+          <value>1/Oct/2019 2:54 AM</value>
         </en>
         <ko name="한국어">
           <value>12/Sep/2019 8:01 PM</value>
@@ -20,10 +20,10 @@
         </ru>
       </languages>
     </jp>
-    <kr name="form_region_kr">
+    <kr name="form_region_kr" folder="kr">
       <languages>
         <en name="English">
-          <value>12/Sep/2019 8:01 PM</value>
+          <value>1/Oct/2019 2:54 AM</value>
         </en>
         <th name="ภาษาไทย">
           <value>12/Sep/2019 8:01 PM</value>
@@ -39,26 +39,7 @@
         </ru>
       </languages>
     </kr>
-    <nkr name="form_region_nkr">
-      <languages>
-        <en name="English">
-          <value>12/Sep/2019 8:01 PM</value>
-        </en>
-        <th name="ภาษาไทย">
-          <value>12/Sep/2019 8:01 PM</value>
-        </th>
-        <zh name="中文">
-          <value>12/Sep/2019 8:01 PM</value>
-        </zh>
-        <ja name="日本語">
-          <value>12/Sep/2019 8:01 PM</value>
-        </ja>
-        <ru name="Russian">
-          <value>12/Sep/2019 8:01 PM</value>
-        </ru>
-      </languages>
-    </nkr>
-    <gf name="form_region_gf">
+    <gf name="form_region_gf" folder="gf">
       <languages>
         <ru name="Russian">
           <value>12/Sep/2019 8:01 PM</value>
@@ -77,5 +58,8 @@
         </ja>
       </languages>
     </gf>
+	
+    <gjp name="form_region_gjp" folder="jp" langlink="jp"/>
+    <nkr name="form_region_nkr" folder="kr" langlink="kr"/>
   </regions>
 </soulworkerPatcher>
