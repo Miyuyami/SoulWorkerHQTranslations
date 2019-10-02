@@ -20,6 +20,7 @@
         </ru>
       </languages>
     </jp>
+    <gjp name="form_region_gjp" folder="jp" langlink="jp"/>
     <kr name="form_region_kr" folder="kr">
       <languages>
         <en name="English">
@@ -39,6 +40,7 @@
         </ru>
       </languages>
     </kr>
+    <nkr name="form_region_nkr" folder="kr" langlink="kr"/>
     <gf name="form_region_gf" folder="gf">
       <languages>
         <ru name="Russian">
@@ -58,7 +60,5 @@
         </ja>
       </languages>
     </gf>
-    <gjp name="form_region_gjp" folder="jp" langlink="jp" />
-    <nkr name="form_region_nkr" folder="kr" langlink="kr" />
   </regions>
 </soulworkerPatcher>
