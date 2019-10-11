@@ -1224,55 +1224,55 @@ Icon/Buff/Icon_Common_Buff_Reg
 
 ID=6011
 그림 카운트다운 특성AⅠ
-공격명중시, 대미지량의 35%를 회복한다.
+攻撃命中時、ダメージ量の10%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP 흡수
 
 ID=6012
 그림 카운트다운 특성AⅡ
-공격명중시, 대미지량의 45%를 회복한다.
+攻撃命中時、ダメージ量の15%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP 흡수
 
 ID=6013
 그림 카운트다운 특성AⅢ
-공격명중시, 대미지량의 65%를 회복한다.
+攻撃命中時、ダメージ量の20%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP 흡수
 
 ID=6021
 크루엘 슬래쉬 특성AⅠ
-적의 방어율을 15% 무시한다.
+敵の防御度を10%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 방어력 관통
 
 ID=6022
 크루엘 슬래쉬 특성AⅡ
-敵の防御度を30%無効化する。
+적의 방어율을 20% 무시한다.
 Icon/Buff/Icon_Common_Buff_Penetration
 방어력 관통
 
 ID=6023
 크루엘 슬래쉬 특성AⅢ
-敵の防御度を50%無効化する。
+敵の防御度を30%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 방어력 관통
 
 ID=6031
 크루엘 슬래쉬 특성BⅠ
-크리티컬 확률이 5% 증가한다.
+クリティカルダメージが100%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 크리티컬 확률 증가
 
 ID=6032
 크루엘 슬래쉬 특성BⅡ
-크리티컬 확률이 7% 증가한다.
+クリティカルダメージが150%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 크리티컬 확률 증가
 
 ID=6033
 크루엘 슬래쉬 특성BⅢ
-크리티컬 확률이 10% 증가한다.
+クリティカルダメージが200%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 크리티컬 확률 증가
 
@@ -1284,19 +1284,19 @@ Icon/Buff/Icon_Common_Buff_CRI
 
 ID=6042
 포스 리전Ⅱ
-크리티컬 확률이 7% 증가한다.
+クリティカル率が6%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 크리티컬 확률 증가
 
 ID=6043
 포스 리전Ⅲ
-クリティカル率が9%増加する。
+クリティカル率が8%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 크리티컬 확률 증가
 
 ID=6044
 포스 리전Ⅳ
-クリティカル率が12%増加する。
+크리티컬 확률이 10% 증가한다.
 Icon/Buff/Icon_Common_Buff_CRI
 크리티컬 확률 증가
 
@@ -1305,6 +1305,36 @@ ID=6045
 크리티컬 확률이 15% 증가한다.
 Icon/Buff/Icon_Common_Buff_CRI
 크리티컬 확률 증가
+
+ID=6046
+포스 리전Ⅰ
+攻撃速度が3％増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+공격속도 증가
+
+ID=6047
+포스 리전Ⅱ
+攻撃速度が6％増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+공격속도 증가
+
+ID=6048
+포스 리전Ⅲ
+攻撃速度が9％増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+공격속도 증가
+
+ID=6049
+포스 리전Ⅳ
+攻撃速度が12％増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+공격속도 증가
+
+ID=6050
+포스 리전Ⅴ
+攻撃速度が15％増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+공격속도 증가
 
 ID=6051
 특수공격
