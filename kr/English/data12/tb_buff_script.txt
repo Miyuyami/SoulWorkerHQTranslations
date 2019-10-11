@@ -1224,55 +1224,55 @@ Icon/Buff/Icon_Common_Buff_Reg
 
 ID=6011
 Grim Countdown Attribute A Ⅰ
-On hit, +(35% of damage) HP.
+攻撃命中時、ダメージ量の10%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6012
 Grim Countdown Attribute A Ⅱ
-On hit, +(45% of damage) HP.
+攻撃命中時、ダメージ量の15%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6013
 Grim Countdown Attribute A Ⅲ
-On hit, +(65% of damage) HP.
+攻撃命中時、ダメージ量の20%HPを回復する。
 Icon/Buff/Icon_Common_Buff_VampHP2
 HP Absorption
 
 ID=6021
 Cruel Slash Attribute A Ⅰ
-Enemy defense is penetrated by 15%.
+敵の防御度を10%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=6022
 Cruel Slash Attribute A Ⅱ
-Ignores the enemy's defense by 30%.
+Enemy defense is penetrated by 20%.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=6023
 Cruel Slash Attribute A Ⅲ
-Ignores the enemy's defense by 50%.
+Ignores the enemy's defense by 30%.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=6031
 Cruel Slash Attribute B Ⅰ
-Critical +5%.
+クリティカルダメージが100%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=6032
 Cruel Slash Attribute B Ⅱ
-Critical +7%.
+クリティカルダメージが150%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=6033
 Cruel Slash Attribute B Ⅲ
-Critical +10%.
+クリティカルダメージが200%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
@@ -1284,19 +1284,19 @@ Critical ↑
 
 ID=6042
 Force Region Ⅱ
-Critical +7%.
+クリティカル率が6%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=6043
 Force Region Ⅲ
-Increases Critical by 9%.
+クリティカル率が8%増加する。
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=6044
 Force Region Ⅳ
-Increases Critical by 12%.
+Critical +10%.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
@@ -1305,6 +1305,36 @@ Force Region Ⅴ
 Critical +15%.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
+
+ID=6046
+Force Region Ⅰ
+攻撃速度が3％増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+Attack Speed ↑
+
+ID=6047
+Force Region Ⅱ
+攻撃速度が6％増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+Attack Speed ↑
+
+ID=6048
+Force Region Ⅲ
+攻撃速度が9％増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+Attack Speed ↑
+
+ID=6049
+Force Region Ⅳ
+攻撃速度が12％増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+Attack Speed ↑
+
+ID=6050
+Force Region Ⅴ
+攻撃速度が15％増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+Attack Speed ↑
 
 ID=6051
 Special Attack
