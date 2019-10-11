@@ -167,7 +167,7 @@ ID=104
 Fashion
 
 ID=105
-ギア装備
+Gear
 
 ID=106
 Fashion
@@ -230,7 +230,7 @@ ID=125
 Underwear
 
 ID=126
-Costume
+Outfit
 
 ID=127
 Back
@@ -299,16 +299,16 @@ ID=148
 Gesture
 
 ID=149
-自動選択
+Select Automatically
 
 ID=150
 Normal
 
 ID=151
-マジック以下
+Below Magic
 
 ID=152
-レア以下
+Below Rare
 
 ID=171
 Soul Weapon
@@ -362,7 +362,7 @@ ID=187
 Avatar [Underwear]
 
 ID=188
-Avatar [Costume]
+Avatar [Outfit]
 
 ID=189
 Avatar [Back]
@@ -1256,22 +1256,22 @@ ID=700
 Talk
 
 ID=701
-商店[{0}]
+Shop [{0}]
 
 ID=702
-銀行[{0}]
+Bank [{0}]
 
 ID=703
-強化[{0}]
+Enhance [{0}]
 
 ID=704
-合成[{0}]
+Synthesis [{0}]
 
 ID=705
 Auction House
 
 ID=706
-製作[{0}]
+Craft [{0}]
 
 ID=707
 Fashion (Pending)
@@ -1304,7 +1304,7 @@ ID=716
 Top [Q]
 
 ID=717
-戻る[E]
+Return [E]
 
 ID=718
 Next [Space]
@@ -1343,13 +1343,13 @@ ID=729
 Recycle Shop [{0}]
 
 ID=730
-オプション精錬機能[{0}]
+Option Tuning [{0}]
 
 ID=731
 #{0}
 
 ID=732
-Casual Raid, a.k.a "Abnormal Void", is a high-difficulty dungeon.
+Casual Raids, also known as "Space Abnormalities", are high-difficulty dungeons.
 
 ID=733
 「ゴールデンシタデル」は5つの地域を攻略するメイズです。黄金の災厄を突破してください。
@@ -1415,7 +1415,7 @@ ID=753
 Revive Limit (Individual)
 
 ID=754
-エリア移動[{0}]
+Area Transfer [{0}]
 
 ID=755
 <font color='#0099FF'>Dismantlable</font>
@@ -1709,13 +1709,13 @@ ID=869
 Mouth
 
 ID=870
-Upper Garment
+Top
 
 ID=871
 Hands
 
 ID=872
-Lower Garment
+Bottom
 
 ID=873
 Bottom
@@ -2150,7 +2150,7 @@ ID=1104
 Confirm Character
 
 ID=1105
-Costume
+Outfit
 
 ID=1106
 Weapon
@@ -2174,7 +2174,7 @@ ID=1112
 Eye Color
 
 ID=1113
-Basic Costume
+Basic Outfit
 
 ID=1114
 Listen
@@ -2249,7 +2249,7 @@ ID=1303
 Casual Raid
 
 ID=1304
-All instances of<font color='#FF0000'>[Casual Raid][Co-Op Dungeon]</font>have been open.
+All instances of <font color='#FF0000'>[Casual Raid][Co-Op Dungeon]</font> have been open.
 
 ID=1311
 Equilibrium has appeared.
@@ -3362,7 +3362,7 @@ ID=5510
 Skin
 
 ID=5511
-Basic Costume Selection
+Basic Outfit Selection
 
 ID=5512
 Underwear
@@ -3470,7 +3470,7 @@ ID=5827
 <font color='#FFFFFF' size='30'>TIP: </font>Press the left <font color='#00FF9C'>[Alt]</font> key to change to mouse mode.
 
 ID=5828
-<font color='#FFFFFF'><font size="30">TIP：</font>Lv55到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
+<font color='#FFFFFF' size='30'>TIP: </font>After reaching Lv55, <font color='#00D8FF'>[Rank]</font> will be applied.
 
 ID=5829
 <font color='#FFFFFF' size='30'>TIP: </font>When the current channel is full, please use the <font color='#00D8FF'>Change Channel</font> feature by clicking the top right area of the Minimap.
@@ -3563,7 +3563,7 @@ ID=5858
 <font color='#FFFFFF' size='30'>TIP: </font>Materials and ingredients for enhancing or crafting can sometimes be obtained from the <font color='#00D8FF'>Vacuum Cubes</font> which appear in <font color='#00D8FF'>District 6</font>.
 
 ID=5859
-<font color='#FFFFFF'><font size="30">TIP：</font>Lv55になると<font color='#00D8FF'>カジュアルレイド</font>、別名「異常空白」に入場できます。
+<font color='#FFFFFF' size='30'>TIP: </font>At Lv55, you are able to enter <font color='#00D8FF'>Casual Raid</font>, also known as an "Space Abnormality".
 
 ID=5860
 <font color='#FFFFFF' size='30'>TIP: </font>You can enter the Combat Research Institution, <font color='#00D8FF'>Steel Grave</font>, from <font color='#00D8FF'>Candus City</font>.
@@ -3656,7 +3656,7 @@ ID=5890
 <font color='#FFFFFF' size='30'>TIP: </font>Press the left <font color='#00FF9C'>[Alt]</font> key to change to mouse mode.
 
 ID=5891
-<font color='#FFFFFF'><font size="30">TIP：</font>Lv55到達後は、</font><font color='#00ff9c'>[ランク]</font>が適用されます。
+<font color='#FFFFFF' size='30'>TIP: </font>After reaching Lv55, <font color='#00D8FF'>[Rank]</font> will be applied.
 
 ID=5892
 <font color='#FFFFFF' size='30'>TIP: </font>When the current channel is full, please use the <font color='#00D8FF'>Change Channel</font> feature by clicking the top right area of the Minimap.
@@ -3701,13 +3701,13 @@ ID=5905
 <font color='#FFFFFF' size='30'>TIP: </font>You cannot use <font color='#00D8FF'>[DRAW]</font> type A.R Cards in <font color='#00D8FF'>District 6</font>.
 
 ID=5910
-<font color='#FFFFFF'><font size="30">TIP：</font>エンジェルグルトンはマップ中に1体のみ登場します。それだけレアなアイテムを持っているということです。
+<font color='#FFFFFF' size='30'>TIP: </font>Only one Angel Glutton can appear inside a map. They hold rare items.
 
 ID=5911
-<font color='#FFFFFF'><font size="30">TIP：</font>グルトン軍団は無敵で、味方のグルトンを守るために敵を攻撃します。
+<font color='#FFFFFF' size='30'>TIP: </font>The Glutton Army is invincible, they protect their allies and attack opponents.
 
 ID=5912
-<font color='#FFFFFF'><font size="30">TIP：</font>制限時間を過ぎると自動で街に戻ります。ドロップしたアイテムはこまめに収集することをお勧めします。
+<font color='#FFFFFF' size='30'>TIP: </font>You will be automatically returned to the town when the time limit expires. It is recommended to pick up dropped items frequently.
 
 ID=6011
 Change Representative
@@ -3755,7 +3755,7 @@ ID=6025
 Use the A.R Card Box.\nObtained A.R Cards cannot be traded.
 
 ID=6026
-A.Rカードを使用して固有能力を獲得します。\n使用したA.Rカードはインベントリから削除されます。\nA.Rカードに登録されます。\n使用しますか？
+Use the A.R Card to be able to use it's unique power.\nThe used A.R Card will be removed from your inventory.\nIt will be registered in the A.R Card menu.\nAre you sure you want to use it?
 
 ID=6027
 Cannot use item because A.R Card slots are full.
@@ -4067,28 +4067,28 @@ ID=8300
 Login Check
 
 ID=8301
-連続出席報酬
+Consecutive Attendance Reward
 
 ID=8302
-接続維持報酬
+Play Time Reward
 
 ID=8303
 Claim
 
 ID=8304
-出席報酬
+Attendance Reward
 
 ID=8305
-{0}月
+Month: {0}
 
 ID=8306
-注意事項
+Notes
 
 ID=8307
 Claimed
 
 ID=8308
--連続出席報酬は毎日の出席時に獲得し、3日連続報酬を獲得すると1日目からになります。\n-月毎出席報酬は毎月1日にリセットされます。\n-出席報酬は毎日09：00にリセットされます。
+- The continuous attendance reward is earnt on login, after 3 days it will restart from day 1.\n- The monthly attendance rewards will be reset on the 1st of every month.\n- The attendance is reset at 09:00 JST/00:00 UTC.
 
 ID=8404
 30 minutes
@@ -5093,7 +5093,7 @@ ID=13005
 Failed to authenticate because of system maintenance.
 
 ID=13006
-予期せぬエラーにより認証に失敗しました。\nお客様センターにお問い合わせください。\n[ErrorCode：{0}]
+Authentication failed due to an unexpected error.\nPlease contact the Customer Service Center.\n[ErrorCode: {0}]
 
 ID=14000
 Steel Grave
@@ -5978,7 +5978,7 @@ ID=18188
 No items found.
 
 ID=18189
-アイテム購入失敗：ヨミの秘蔵庫ポイント不足
+Failed to purchase item: Insufficient Yomi's Treasury Points
 
 ID=18190
 Enhancement Status
@@ -6056,10 +6056,10 @@ ID=18214
 Tuning doesn't guarantee a higher grade.
 
 ID=18215
-該当アイテムは破壊されません。
+The target item will not be destroyed.
 
 ID=18300
-該当アバターにはブローチが登録されています。<font color='#A566FF'>破棄すると登録されているブローチも破棄</font>されます。本当に破棄しますか？
+There is a brooch in the target avatar.\n<font color='#A566FF'>Discarding the avatar will destroy the brooch.</font>\nAre you sure you want to discard it?
 
 ID=18500
 Fast Blade
@@ -6992,7 +6992,7 @@ ID=21030
 Cannot buy any more today
 
 ID=21031
-You cannot gain any more favorability from {0} for today.\n[Resets at 9AM JST, 4PM PST]
+You cannot gain any more favorability from {0} today.\n[Resets at 09:00 JST/00:00 UTC]
 
 ID=21032
 Cannot enter the dungeon because you do not have enough fatigue.
@@ -8249,13 +8249,13 @@ ID=24283
 Mouth
 
 ID=24284
-Upper Garment
+Top
 
 ID=24285
 Hands
 
 ID=24286
-Lower Garment
+Bottom
 
 ID=24287
 Tail
@@ -8585,13 +8585,13 @@ ID=24563
 Mouth
 
 ID=24564
-Upper Garment
+Top
 
 ID=24565
 Hands
 
 ID=24566
-Lower Garment
+Bottom
 
 ID=24567
 Tail
@@ -8768,10 +8768,10 @@ ID=24624
 Underwear
 
 ID=24625
-Upper Garment
+Top
 
 ID=24626
-Lower Garment
+Bottom
 
 ID=24627
 Top/Bottom Set
@@ -9035,10 +9035,10 @@ ID=24801
 Head
 
 ID=24802
-Upper Garment
+Top
 
 ID=24803
-Lower Garment
+Bottom
 
 ID=24804
 Hands
@@ -9050,7 +9050,7 @@ ID=24806
 Underwear
 
 ID=24807
-Costume
+Outfit
 
 ID=24808
 Crafting Material
@@ -10565,7 +10565,7 @@ ID=28070
 Change Guild Notice
 
 ID=28071
-This translation was brought to you by the Soulworker Translation Team.\nLast updated at 14/Jun/2018 10:30 PM JST.\nPlease check your guild's information for updates.
+Please check your guild's notice contents.
 
 ID=28072
 New guild notices have been posted.\nCheck it out.
@@ -11423,10 +11423,10 @@ ID=29087
 Claim
 
 ID=29088
-Ranking and praise resets at 9 AM JST in the 1st day of every month. (Info is updated every day)
+Ranking and praise resets at 09:00 JST/00:00 UTC in the 1st day of every month. (Info is updated every day)
 
 ID=29089
-Information is updated every day at 9 AM JST.
+Information is updated every day at 09:00 JST/00:00 UTC.
 
 ID=29090
 Ranking Reward List
@@ -12821,7 +12821,7 @@ ID=37006
 The Thing has suddenly disappeared from the Emergency Area.
 
 ID=37007
-Emergency!\nLv 40 and above can join.\nClick the button to join!\n\nTime until the Void Fissures disappear: {0} minutes
+Emergency!\nLv40 and above can join.\nClick the button to join!\n\nTime until the Void Fissures disappear: {0} minutes
 
 ID=37008
 The Vacuum Cube has disappeared, unable to obtain any items.
@@ -12869,7 +12869,7 @@ ID=37025
 The Thing has been defeated in this channel.\n\nTime until emergency ends: {0} minutes
 
 ID=37026
-Code name [The Thing] has appeared in the Emergency Area.\nPlease defeat it within the time limit!\nAvailable for Lv 40 and above.\nClick the button to join!\n\nTime until emergency ends: {0} minutes
+Code name [The Thing] has appeared in the Emergency Area.\nPlease defeat it within the time limit!\nAvailable for Lv40 and above.\nClick the button to join!\n\nTime until emergency ends: {0} minutes
 
 ID=37500
 Soul Hunter Progress
@@ -15587,7 +15587,7 @@ ID=42269
 Fanged Wolf Kain μ
 
 ID=42270
-Lightning Speed Fanged Wolf Kainμ
+Lightning Speed Fanged Wolf Kain μ
 
 ID=42271
 Big Puppet
@@ -17288,7 +17288,7 @@ ID=48203
 {0}を抽出しますか？\n{1}を{2}個消費
 
 ID=48210
-<font color='#FF0000'>レジェンドファミリア抽出不可</font>
+<font color='#FF0000'>レジェンド等級のファミリアは抽出不可</font>
 
 ID=48211
 同じタイプのファミリアは装着できません。
@@ -19466,7 +19466,7 @@ ID=55061
 Cannot change the Party leader while a party recruitment ad is registered.
 
 ID=55062
-Players above Lv.40 can help support the emergency.
+Players above Lv40 can help support the emergency.
 
 ID=55063
 現在地から入場不可。\n緊急事態時に支援可能地域は、ロコタウン/カンダスシティ/グレイスシティ/ルインフォートレス/ゴールデンシタデルの各町及び第6区域の安全地帯です。参加可能地域に移動後、もう一度お試しください。
@@ -21425,13 +21425,13 @@ ID=19768
 残酷な
 
 ID=24660
-Costume
+Outfit
 
 ID=24661
-Upper Garment
+Top
 
 ID=24662
-Lower Garment
+Bottom
 
 ID=24663
 Hands
@@ -21896,10 +21896,10 @@ ID=5063
 「覚悟のミストサイス」にクラスアップグレードしました。
 
 ID=24331
-AR Card Crafting Special Ticket
+A.R Card Crafting Special Ticket
 
 ID=24671
-AR Card Crafting Special Ticket
+A.R Card Crafting Special Ticket
 
 ID=24022
 Special Ticket
@@ -22082,7 +22082,7 @@ ID=45153
 Head
 
 ID=45154
-Costume
+Outfit
 
 ID=45155
 Option
@@ -22103,10 +22103,10 @@ ID=45160
 Headband
 
 ID=45161
-Upper Garment
+Top
 
 ID=45162
-Lower Garment
+Bottom
 
 ID=45163
 Underwear
@@ -22182,6 +22182,9 @@ ID=45124
 
 ID=45125
  
+
+ID=45126
+異なる製品を一緒に入れることはできません。個別に購入してください。
 
 ID=60297
 マッチング待機中… <font color='#FFBB00'>{0}</font>超
@@ -24455,7 +24458,7 @@ ID=42512
 光を包む聖女ミリアム
 
 ID=42513
-Miriam µ
+Miriam μ
 
 ID=42514
 暖かい手のミリアムμ
@@ -24473,7 +24476,7 @@ ID=42566
 炸裂する爆音のエターニティ
 
 ID=42567
-Eternity µ
+Eternity μ
 
 ID=42568
 炎のエターニティμ
@@ -24491,7 +24494,7 @@ ID=42572
 静かな氷河アポカリプス
 
 ID=42573
-Apocalypse µ
+Apocalypse μ
 
 ID=42574
 雪原のアポカリプスμ
@@ -24509,7 +24512,7 @@ ID=42578
 滅ぼす落雷ジャガーノート
 
 ID=42579
-Juggernaut µ
+Juggernaut μ
 
 ID=42580
 雷のジャガーノートμ
@@ -24527,7 +24530,7 @@ ID=42584
 吹き荒ぶ疾風パンデモニア
 
 ID=42585
-Pandemonia µ
+Pandemonia μ
 
 ID=42586
 暴風のパンデモニアμ
@@ -24545,7 +24548,7 @@ ID=42590
 敬畏の光明アルティメイタム
 
 ID=42591
-Ultimatum µ
+Ultimatum μ
 
 ID=42592
 光のアルティメイタムμ
@@ -24635,13 +24638,13 @@ ID=42494
 Ryu
 
 ID=42495
-Ryu µ
+Ryu μ
 
 ID=42496
-Ryu µ
+Ryu μ
 
 ID=42497
-Ryu µ
+Ryu μ
 
 ID=42498
 Kainbarrel
@@ -24653,13 +24656,13 @@ ID=42500
 Kainbarrel
 
 ID=42501
-Kainbarrel µ
+Kainbarrel μ
 
 ID=42502
-Kainbarrel µ
+Kainbarrel μ
 
 ID=42503
-Kainbarrel µ
+Kainbarrel μ
 
 ID=42504
 Haidinger
@@ -24671,13 +24674,13 @@ ID=42506
 Haidinger
 
 ID=42507
-Haidinger µ
+Haidinger μ
 
 ID=42508
-Haidinger µ
+Haidinger μ
 
 ID=42509
-Haidinger µ
+Haidinger μ
 
 ID=42516
 Ralph
@@ -24689,13 +24692,13 @@ ID=42518
 Ralph
 
 ID=42519
-Ralph µ
+Ralph μ
 
 ID=42520
-Ralph µ
+Ralph μ
 
 ID=42521
-Ralph µ
+Ralph μ
 
 ID=42522
 Lucy
@@ -24725,13 +24728,13 @@ ID=42530
 Punisher
 
 ID=42531
-Punisher µ
+Punisher μ
 
 ID=42532
-Punisher µ
+Punisher μ
 
 ID=42533
-Punisher µ
+Punisher μ
 
 ID=42534
 Laban
@@ -24743,13 +24746,13 @@ ID=42536
 Laban
 
 ID=42537
-Laban µ
+Laban μ
 
 ID=42538
-Laban µ
+Laban μ
 
 ID=42539
-Laban µ
+Laban μ
 
 ID=42540
 Genocider X
@@ -24761,13 +24764,13 @@ ID=42542
 Genocider X
 
 ID=42543
-Genocider X µ
+Genocider X μ
 
 ID=42544
-Genocider X µ
+Genocider X μ
 
 ID=42545
-Genocider X µ
+Genocider X μ
 
 ID=42546
 Imp Puppet
@@ -24779,13 +24782,13 @@ ID=42548
 Imp Puppet
 
 ID=42549
-Imp Puppet µ
+Imp Puppet μ
 
 ID=42550
-Imp Puppet µ
+Imp Puppet μ
 
 ID=42551
-Imp Puppet µ
+Imp Puppet μ
 
 ID=42552
 Little Puppet
@@ -24797,13 +24800,13 @@ ID=42554
 Little Puppet
 
 ID=42555
-Little Puppet µ
+Little Puppet μ
 
 ID=42556
-Little Puppet µ
+Little Puppet μ
 
 ID=42557
-Little Puppet µ
+Little Puppet μ
 
 ID=42558
 Amaryllis
@@ -24815,13 +24818,13 @@ ID=42560
 Amaryllis
 
 ID=42561
-Amaryllis µ
+Amaryllis μ
 
 ID=42562
-Amaryllis µ
+Amaryllis μ
 
 ID=42563
-Amaryllis µ
+Amaryllis μ
 
 ID=42594
 Poison
@@ -24833,13 +24836,13 @@ ID=42596
 Poison
 
 ID=42597
-Poison µ
+Poison μ
 
 ID=42598
-Poison µ
+Poison μ
 
 ID=42599
-Poison µ
+Poison μ
 
 ID=42600
 Falcon & Garuda
@@ -24851,13 +24854,13 @@ ID=42602
 Falcon & Garuda
 
 ID=42603
-Falcon & Garuda µ
+Falcon & Garuda μ
 
 ID=42604
-Falcon & Garuda µ
+Falcon & Garuda μ
 
 ID=42605
-Falcon & Garuda µ
+Falcon & Garuda μ
 
 ID=42606
 Haru
@@ -24869,7 +24872,7 @@ ID=42608
 Soulum Sword of Fighting Spirit, Haru
 
 ID=42609
-Haru µ
+Haru μ
 
 ID=42610
 復讐のソウラムソードハルμ
@@ -24887,7 +24890,7 @@ ID=42614
 誓いのガンジャズアーウィン
 
 ID=42615
-Erwin µ
+Erwin μ
 
 ID=42616
 快楽のガンジャズアーウィンμ
@@ -24905,7 +24908,7 @@ ID=42620
 覚悟のミストサイスリリー
 
 ID=42621
-Lily µ
+Lily μ
 
 ID=42622
 狂気のミストサイスリリーμ
@@ -24923,7 +24926,7 @@ ID=42626
 信頼のスピリットアームズジン
 
 ID=42627
-Jin µ
+Jin μ
 
 ID=42628
 情熱のスピリットアームズジンμ
@@ -24941,7 +24944,7 @@ ID=42632
 希望のハウリングギターステラ
 
 ID=42633
-Stella µ
+Stella μ
 
 ID=42634
 悲しみのハウリングギターステラμ
@@ -24959,7 +24962,7 @@ ID=42638
 勇猛のハンマーストールイリス
 
 ID=42639
-Iris µ
+Iris μ
 
 ID=42640
 憤怒のハンマーストールイリスμ
@@ -24977,10 +24980,10 @@ ID=42644
 夜空の悲劇テネブリス
 
 ID=42645
-Tenebris µ
+Tenebris μ
 
 ID=42646
-Grasscover Leader, Tenebris µ
+Grasscover Leader, Tenebris μ
 
 ID=42647
 夜空の悲劇テネブリスμ
@@ -24995,7 +24998,7 @@ ID=42650
 禁忌科学の執行者ヘンリー
 
 ID=42651
-Henry µ
+Henry μ
 
 ID=42652
 ネッドカンパニーの科学者ヘンリーμ
@@ -25013,10 +25016,10 @@ ID=42656
 無法の創作者ゼニス
 
 ID=42657
-Zenith µ
+Zenith μ
 
 ID=42658
-White Hacker, Zenith µ
+White Hacker, Zenith μ
 
 ID=42659
 無法の創作者ゼニスμ
@@ -25031,7 +25034,7 @@ ID=42662
 新歴史の傍観者イオ
 
 ID=42663
-Io µ
+Io μ
 
 ID=42664
 観察者イオμ
@@ -25772,7 +25775,7 @@ ID=42668
 親友への贖罪ラウファー
 
 ID=42669
-Laufer µ
+Laufer μ
 
 ID=42670
 ネッド出身秘書ラウファーμ
@@ -25790,7 +25793,7 @@ ID=42674
 資本主義の管理者レオナ
 
 ID=42675
-Leona µ
+Leona μ
 
 ID=42676
 ネッドの秘書レオナμ
@@ -25808,7 +25811,7 @@ ID=42680
 交渉の切り札ベネリス
 
 ID=42681
-Beneris µ
+Beneris μ
 
 ID=42682
 オルカ部隊所属ベネリスμ
@@ -25826,7 +25829,7 @@ ID=42686
 戦場に咲く青い花アルア
 
 ID=42687
-Arua µ
+Arua μ
 
 ID=42688
 十人隊長アルアμ
@@ -25844,10 +25847,10 @@ ID=42692
 スクープ確保の予感ペリー
 
 ID=42693
-Perry µ
+Perry μ
 
 ID=42694
-Booker TV, Perry µ
+Booker TV, Perry μ
 
 ID=42695
 スクープ確保の予感ペリーμ
@@ -25862,7 +25865,7 @@ ID=42698
 心に闇を抱えたジェレミー
 
 ID=42699
-Jeremy µ
+Jeremy μ
 
 ID=42700
 スタリーフォレスト連合所属ジェレミーμ
@@ -25880,13 +25883,13 @@ ID=42704
 Replica Project, Hicks
 
 ID=42705
-Hicks µ
+Hicks μ
 
 ID=42706
 贖罪する科学者ヒックスμ
 
 ID=42707
-Replica Project, Hicks µ
+Replica Project, Hicks μ
 
 ID=42708
 Robert
@@ -25898,7 +25901,7 @@ ID=42710
 都市再建の一歩ロバート
 
 ID=42711
-Robert µ
+Robert μ
 
 ID=42712
 市場の息子ロバートμ
@@ -25916,7 +25919,7 @@ ID=42716
 最高峰の守護者ウォーレン
 
 ID=42717
-Warren µ
+Warren μ
 
 ID=42718
 民間の医師ウォーレンμ
@@ -25934,7 +25937,7 @@ ID=42722
 親友との信頼エミリート
 
 ID=42723
-Emilito µ
+Emilito μ
 
 ID=42724
 スタリーフォレストの兵士エミリートμ
@@ -25952,7 +25955,7 @@ ID=42728
 孤児院のスポンサーアレン
 
 ID=42729
-Allen µ
+Allen μ
 
 ID=42730
 財閥の子孫アレンμ
@@ -25970,7 +25973,7 @@ ID=42734
 突撃兵ラルフ
 
 ID=42735
-Ralph µ
+Ralph μ
 
 ID=42736
 ネッド傭兵ラルフμ
@@ -26063,25 +26066,25 @@ ID=18223
 ３周年ウィークリーミッション第1弾
 
 ID=41430
-Reach Character Lv 3
+Reach Character Lv3
 
 ID=41431
-Reach Character Lv 8
+Reach Character Lv8
 
 ID=41432
-Reach Character Lv 13
+Reach Character Lv13
 
 ID=41433
-Reach Character Lv 18
+Reach Character Lv18
 
 ID=41434
-Reach Character Lv 23
+Reach Character Lv23
 
 ID=41435
-Reach Character Lv 28
+Reach Character Lv28
 
 ID=41436
-Reach Character Lv 33
+Reach Character Lv33
 
 ID=41437
 Clear 4 dungeons
@@ -26126,25 +26129,25 @@ ID=41450
 Disassemble item 30 times
 
 ID=41451
-Reach Character Lv 3
+Reach Character Lv3
 
 ID=41452
-Reach Character Lv 8
+Reach Character Lv8
 
 ID=41453
-Reach Character Lv 13
+Reach Character Lv13
 
 ID=41454
-Reach Character Lv 18
+Reach Character Lv18
 
 ID=41455
-Reach Character Lv 23
+Reach Character Lv23
 
 ID=41456
-Reach Character Lv 28
+Reach Character Lv28
 
 ID=41457
-Reach Character Lv 33
+Reach Character Lv33
 
 ID=41458
 Clear 4 dungeons
@@ -26741,4 +26744,160 @@ ID=18821
 ドスパラ訪問キャンペーン
 
 ID=18822
-ドスパラ推奨PC購入キャンペーン
+ドスパラ推奨パソコン購入キャンペーン
+
+ID=33578
+声援のヴォイドセット
+
+ID=33579
+声援のヴォイドアクセサリーセット
+
+ID=55117
+当アカウント内のキャラクターは遮断することができません。
+
+ID=10119
+アカウント制限
+
+ID=10120
+このメイズは入場回数を共有します。
+
+ID=10118
+セカンドデイドリーム
+
+ID=10020
+遅くまでゲームをして眠っているセツカは今日も面白い夢を見ます。夢の中で登場するセツカマンのゲーム世界を経験してみてください。
+
+ID=40757
+はぁ…昨日おねえちゃんバレないようにこっそり夜おそくまでゲームしちゃった。
+
+ID=40758
+セツカもゲームを作りたい！\nちょうど、とても強い子たちも出てくるんだ！
+
+ID=40759
+すごく怖そうな、わんちゃんが出てきたらみんな逃げるでしょう？
+
+ID=40760
+バーニングレッドみたいに、素敵なミサイルとか、レーザーも撃つロボットも出てくるんだよ！
+
+ID=40761
+とっても大きいロボットも作りたいの！あたまに乗ると家が見下ろせるぐらい大きいなロボットがいいな！
+
+ID=40762
+足の多い子たちは走るのも早いよね？ あの子たちが悪い人たちが逃げたら捕まえてくれるの。\n
+
+ID=40763
+でも、蜘蛛は少し気味悪い…セツカのゲームには少しだけにしておこ…。
+
+ID=40764
+かっこいいサメのおじさんと可愛いワニも見せてあげたい！
+
+ID=40765
+サメのおじさんはお料理が趣味だから、おいしいプリンも作れるんだって。
+
+ID=40766
+最後はセツカを守ってくれる素敵なゴーレムと騎士が出て来るよ。
+
+ID=40767
+とっても強い騎士団長が最後のボスとして出てくるの。
+
+ID=40768
+このゲームで一番強いから新しく来た人たちを歓迎してあげるよ!
+
+ID=40769
+ゼニスおねえちゃんにセツカが考えたゲームを作ってってお願いしなきゃ！早く明日が来てほしいな。
+
+ID=16873
+Preview
+
+ID=16874
+商品検索
+
+ID=55607
+メールの送信に失敗しました。
+
+ID=20009
+使用可能なカウントボックスがあります。
+
+ID=50017
+クラウドリームで冒険を始まって1時間経過しました。\n簡単なストレッチで固まった体をほぐしてください。
+
+ID=50018
+クラウドリームで冒険を始まって2時間経過しました。\n冷たい飲み物と共に休憩時間はどうですか？
+
+ID=50019
+クラウドリームで冒険を始まって3時間が経過しました。\n休憩を取って、美味しいお菓子でも味わってみるのはどうですか？
+
+ID=50020
+クラウドリームで冒険を始まって4時間が経過しました。\n涼しい風にあたりに行ってはいかがでしょうか？
+
+ID=50021
+クラウドリームで冒険を始まって{0}時間が経過しました。\n冒険し過ぎると日常生活に影響を与える可能性があります。
+
+ID=5480
+移動するスロットを選んでください。\nキャラクターが位置したスロットを選んだ場合、両キャラクターの位置が入れ替わります。
+
+ID=5481
+{0}まで全てのキャラクターが接続できます。\n２、3番ページにキャラクターが残っている場合、一日最大6個のキャラクターのみが出席補修を獲得できます。
+
+ID=5482
+1ページに位置したキャラクターのみ接続できます。\n1ページに位置したキャラクターを削除した後、２、3ページのキャラクターを選択して1ページに移動させます。
+
+ID=5483
+空のスロットだけ選択できます。\n1ページに空のスロットがなければ、キャラクターを削除した後、\n繰り返してみてください。
+
+ID=5484
+1ページに位置したキャラクターのみ接続できます。\n1ページに空のスロットがない場合、移動ボタンをクリックして\nキャラクターを移動した後、接続できます。
+
+ID=5485
+キャラクター移動
+
+ID=5486
+キャラクタースロット位置変更
+
+ID=5487
+空のスロットのみにキャラクター移動ができます。
+
+ID=5488
+キャラクター整理期間案内
+
+ID=49346
+設定した言語はクライアントを再実行すると適用されます。
+
+ID=62009
+カートリストがいっぱいになりました。
+
+ID=62010
+ネットカフェうるおい
+
+ID=192
+予備
+
+ID=948
+予備
+
+ID=55081
+スカイクラフト移動中はすぐ移動ができません。
+
+ID=55082
+現在、メイズに進入しています。
+
+ID=55083
+パーティー又は、フォースメンバーがメイズに入場したため移動ができません。
+
+ID=8020
+サウンド装置初期化に失敗しました。サウンド装置のドライバーバージョンや設定などの問題でこのような問題が発生する可能性があります。{0}
+
+ID=45127
+保有キャッシュ更新中…
+
+ID=20229
+ねこの着ぐるみ
+
+ID=20230
+真昼の平和と自由を満喫します。
+
+ID=20231
+{0}が真昼の平和と自由を満喫します。
+
+ID=710023
+ねこの着ぐるみ
