@@ -197,7 +197,7 @@ ID=114
 Soul Weapon
 
 ID=115
-Sub-Weapon
+Sub Weapon
 
 ID=116
 Soul Pendant
@@ -299,7 +299,7 @@ ID=148
 Gesture
 
 ID=149
-Select Automatically
+Select by
 
 ID=150
 Normal
@@ -314,7 +314,7 @@ ID=171
 Soul Weapon
 
 ID=172
-Sub-Weapon
+Sub Weapon
 
 ID=173
 Personal Card
@@ -2162,7 +2162,7 @@ ID=1108
 Action
 
 ID=1109
-Appearance
+Style
 
 ID=1110
 Hairstyle Color
@@ -3011,7 +3011,7 @@ ID=3117
 Supporter
 
 ID=3118
-キャッシュ
+Cash
 
 ID=3200
 Open Package
@@ -4079,7 +4079,7 @@ ID=8304
 Attendance Reward
 
 ID=8305
-Month: {0}
+Monthly
 
 ID=8306
 Notes
@@ -4100,7 +4100,7 @@ ID=8406
 90 minutes
 
 ID=8407
-{0} Day
+Day {0}
 
 ID=8309
 You can claim a reward after you reach a specific play time quota.
@@ -4115,7 +4115,7 @@ ID=8312
 Daily Login Reward Check
 
 ID=8313
-You have received a reward for logging in today.
+You have received a daily login reward.
 
 ID=8314
 Cannot receive rewards.
@@ -5744,7 +5744,7 @@ ID=18016
 You can synthesize the brooch.
 
 ID=18017
-You need 5 brooches of same theme for synthesis.
+合成にはブローチが5個必要です。
 
 ID=18018
 You cannot register anymore items.
@@ -6332,7 +6332,7 @@ ID=18651
 Failed to use the coupon
 
 ID=18652
-{0}クーポンの使用が完了しました。HEMS(メール)でプレゼントを確認してください。
+{0}Your coupon has been used. Please check your HEMS (mail).
 
 ID=18653
 Code does not exist. Please try again.
@@ -6449,49 +6449,49 @@ ID=18818
 ゴールドWチャンス
 
 ID=19000
-<font color='#47C83E'>+1% Attack/+1% Evaded Attack Damage</font>
+<font color='#47C83E'>攻撃力3%/攻撃失敗時ダメージ増加5%</font>
 
 ID=19001
-<font color='#4374D9'>+2% Attack/+2% Evaded Attack Damage</font>
+<font color='#4374D9'>攻撃力5%/攻撃失敗時ダメージ増加7%</font>
 
 ID=19002
-<font color='#E0B94F'>+3% Attack/+3% Evaded Attack Damage</font>
+<font color='#E0B94F'>攻撃力7%/攻撃失敗時ダメージ増加10%</font>
 
 ID=19003
-<font color='#F15F5F'>+4% Attack/+4% Evaded Attack Damage/+1% Penetration</font>
+<font color='#F15F5F'>攻撃力10%/攻撃失敗時ダメージ増加14%/敵防御度貫通3%</font>
 
 ID=19004
-<font color='#8041D9'>+5% Attack/+5% Evaded Attack Damage/+2% Penetration</font>
+<font color='#8041D9'>攻撃力15%/攻撃失敗時ダメージ増加20%/敵防御度貫通5%</font>
 
 ID=19005
-<font color='#47C83E'>+5% Defense/+4% Max HP</font>
+<font color='#47C83E'>攻撃力240/防御度12%/HP12%増加</font>
 
 ID=19006
-<font color='#4374D9'>+10% Defense/+8% Max HP</font>
+<font color='#4374D9'>攻撃力340/防御度17%/HP17%増加</font>
 
 ID=19007
-<font color='#E0B94F'>+15% Defense/+12% Max HP</font>
+<font color='#E0B94F'>攻撃力490/防御度25%/HP25%増加</font>
 
 ID=19008
-<font color='#F15F5F'>+20% Defense/+16% Max HP</font>
+<font color='#F15F5F'>攻撃力700/防御度35%/HP35%増加</font>
 
 ID=19009
-<font color='#8041D9'>+25% Defense/+20% Max HP</font>
+<font color='#8041D9'>攻撃力1000/防御度50%/HP50%増加</font>
 
 ID=19010
-<font color='#47C83E'>+10 Evasion/+1% Critical Resistance</font>
+<font color='#47C83E'>回避度24/クリティカル抵抗1%</font>
 
 ID=19011
-<font color='#4374D9'>+20 Evasion/+2% Critical Resistance</font>
+<font color='#4374D9'>回避度34/クリティカル抵抗2%</font>
 
 ID=19012
-<font color='#E0B94F'>+30 Evasion/+3% Critical Resistance</font>
+<font color='#E0B94F'>回避度49/クリティカル抵抗3%</font>
 
 ID=19013
-<font color='#F15F5F'>+40 Evasion/+4% Critical Resistance/+4% Damage Reduction</font>
+<font color='#F15F5F'>回避度70/クリティカル抵抗4%/ダメージ減少4%</font>
 
 ID=19014
-<font color='#8041D9'>+50 Evasion/+5% Critical Resistance/+5% Damage Reduction</font>
+<font color='#8041D9'>回避度100/クリティカル抵抗5%/ダメージ減少5%</font>
 
 ID=19015
 <font color='#47C83E'>+5 Stamina/+1% Attack Speed</font>
@@ -6509,34 +6509,34 @@ ID=19019
 <font color='#8041D9'>+17 Stamina/+5% Attack Speed/+4% Movement Speed</font>
 
 ID=19020
-<font color='#47C83E'>+10 Accuracy/+600 Critical Damage</font>
+<font color='#47C83E'>命中度28/クリティカルダメージ増加600</font>
 
 ID=19021
-<font color='#4374D9'>+20 Accuracy/+700 Critical Damage</font>
+<font color='#4374D9'>命中度41/クリティカルダメージ増加700</font>
 
 ID=19022
-<font color='#E0B94F'>+30 Accuracy/+800 Critical Damage</font>
+<font color='#E0B94F'>命中度58/クリティカルダメージ増加800</font>
 
 ID=19023
-<font color='#F15F5F'>+40 Accuracy/+900 Critical Damage/+1% Critical</font>
+<font color='#F15F5F'>命中度84/クリティカルダメージ増加900/クリティカル1%</font>
 
 ID=19024
-<font color='#8041D9'>+50 Accuracy/+1000 Critical Damage/+2% Critical</font>
+<font color='#8041D9'>命中度120/クリティカルダメージ増加1000/クリティカル2%</font>
 
 ID=19025
-<font color='#47C83E'>+1% Attack</font>
+<font color='#47C83E'>攻撃力3%</font>
 
 ID=19026
-<font color='#4374D9'>+3% Attack</font>
+<font color='#4374D9'>攻撃力5%</font>
 
 ID=19027
-<font color='#E0B94F'>+5% Attack</font>
+<font color='#E0B94F'>攻撃力10%</font>
 
 ID=19028
-<font color='#F15F5F'>+8% Attack</font>
+<font color='#F15F5F'>攻撃力20%</font>
 
 ID=19029
-<font color='#8041D9'>+11% Attack</font>
+<font color='#8041D9'>攻撃力25%</font>
 
 ID=19030
 <font color='#47C83E'>+1% Critical</font>
@@ -6545,28 +6545,28 @@ ID=19031
 <font color='#4374D9'>+2% Critical</font>
 
 ID=19032
-<font color='#E0B94F'>+3% Critical</font>
+<font color='#E0B94F'>クリティカル3%</font>
 
 ID=19033
-<font color='#F15F5F'>+4% Critical</font>
+<font color='#F15F5F'>クリティカル4%</font>
 
 ID=19034
-<font color='#8041D9'>+5% Critical</font>
+<font color='#8041D9'>クリティカル5%</font>
 
 ID=19035
-<font color='#47C83E'>+2% SA Break</font>
+<font color='#47C83E'>スーパーアーマー破壊力3%</font>
 
 ID=19036
-<font color='#4374D9'>+5% SA Break</font>
+<font color='#4374D9'>スーパーアーマー破壊力7%</font>
 
 ID=19037
-<font color='#E0B94F'>+8% SA Break</font>
+<font color='#E0B94F'>スーパーアーマー破壊力12%</font>
 
 ID=19038
-<font color='#F15F5F'>+12% SA Break</font>
+<font color='#F15F5F'>スーパーアーマー破壊力18%</font>
 
 ID=19039
-<font color='#8041D9'>+16% SA Break</font>
+<font color='#8041D9'>スーパーアーマー破壊力25%</font>
 
 ID=19040
 <font color='#47C83E'>+1% Attack Speed/+1% Movement Speed</font>
@@ -6578,7 +6578,7 @@ ID=19042
 <font color='#E0B94F'>+3% Attack Speed/+3% Movement Speed</font>
 
 ID=19043
-<font color='#F15F5F'>+5% Attack Speed/+4% Movement Speed</font>
+<font color='#F15F5F'>攻撃速度5%/移動速度5%</font>
 
 ID=19044
 <font color='#8041D9'>+6% Attack Speed/+6% Movement Speed</font>
@@ -7010,7 +7010,7 @@ ID=21036
 The usage limit has been reached. You can use it again in {0} hours.
 
 ID=21037
-Using this fatigue recovery item will exceed the total amount of your basic fatigue (200). Are you sure you want to use it?
+Using this fatigue recovery item will exceed the total amount of your basic fatigue (max 200). Are you sure you want to use it?
 
 ID=21038
 Character cannot use the item.
@@ -8108,7 +8108,7 @@ ID=24008
 Function
 
 ID=24009
-Appearance
+Style
 
 ID=24010
 A.R Card
@@ -8168,7 +8168,7 @@ ID=24256
 Soul Weapon
 
 ID=24257
-Sub-Weapon
+Sub Weapon
 
 ID=24258
 Head
@@ -8414,7 +8414,7 @@ ID=24506
 Soul Weapon
 
 ID=24507
-Sub-Weapon
+Sub Weapon
 
 ID=24508
 Head
@@ -8726,7 +8726,7 @@ ID=24610
 Soul Weapon
 
 ID=24611
-Sub-Weapon
+Sub Weapon
 
 ID=24612
 Head
@@ -8963,7 +8963,7 @@ ID=24777
 Soul Weapon
 
 ID=24778
-Sub-Weapon
+Sub Weapon
 
 ID=24779
 Head
@@ -9014,7 +9014,7 @@ ID=24794
 Function
 
 ID=24795
-Appearance
+Style
 
 ID=24796
 A.R Card
@@ -9080,7 +9080,7 @@ ID=24816
 Soul Weapon Blueprint
 
 ID=24817
-Subweapon Blueprint
+Sub Weapon Blueprint
 
 ID=24818
 Gear Blueprint
@@ -9911,10 +9911,10 @@ ID=26316
 On hit, 1% chance of +{0}% Attack for 5s
 
 ID=26317
-On critical hit, 3% chance of +{0}% Penetration for 3s
+クリティカル時、5%の確率で3秒間敵防御度貫通{0}%
 
 ID=26318
-On critical hit, 1% chance of +{0}% Penetration for 5s
+クリティカル時、3%の確率で5秒間敵防御度貫通{0}%
 
 ID=26319
 When hit, 15% chance of +{0} Evasion for 3s
@@ -9938,7 +9938,7 @@ ID=26325
 回避時、次の攻撃の攻撃力{0}%増加
 
 ID=26326
-On evasion, 5% chance of +{0} HP
+回避時、10%の確率でHP{0}回復
 
 ID=26327
 On hit, 2% chance of +{0} Stamina
@@ -9956,22 +9956,22 @@ ID=26331
 When hit, 20% chance of +{0}% Damage Reflection
 
 ID=26332
-When hit, 20% chance of Super Armor for 1s
-
-ID=26333
 When hit, 20% chance of Super Armor for 2s
 
-ID=26334
+ID=26333
 When hit, 20% chance of Super Armor for 4s
 
+ID=26334
+攻撃を受けた時、20%の確率で8秒間スーパーアーマー効果
+
 ID=26335
-When hit, 20% chance of Super Armor for 5s
+攻撃を受けた時、20%の確率で10秒間スーパーアーマー効果
 
 ID=26336
-When hit, 20% chance of Super Armor for 6s
+攻撃を受けた時、20%の確率で12秒間スーパーアーマー効果
 
 ID=26337
-On evasion, +{0}% Damage Reduction
+回避時、5秒間ダメージ減少{0}%
 
 ID=26338
 When hit mid-air, +{0}% Damage Reduction for 5s.
@@ -9983,13 +9983,13 @@ ID=26340
 When being hit under 50% HP, 10% chance of +{0}% Defense for 5s
 
 ID=26341
-On dodge, 2% chance of +{0}% HP
+回避使用時、15%の確率でHP{0}%回復
 
 ID=26342
-On dodge, 3% chance of +{0}% HP
+回避使用時、10%の確率でHP{0}%回復
 
 ID=26343
-When dashing, 10% chance of +{0}% Movement Speed for 5s
+ダッシュ使用時、15%の確率で5秒間移動速度{0}%増加
 
 ID=26344
 On skill use, 2% chance of -{0}% Cooldown
@@ -10007,7 +10007,7 @@ ID=26348
 When hit, 15% chance of +{0} Attack for 3s
 
 ID=26349
-On evasion, 10% chance of +{0}% Critical for 3s
+回避時、10%の確率で3秒間、クリティカル{0}%増加
 
 ID=26350
 On evasion, 10% chance of +{0} Critical Damage for 5s
@@ -10016,13 +10016,13 @@ ID=26351
 On kill, +{0} Attack for 1s
 
 ID=26352
-When under 10% HP, +{0} Attack for 10s
+HPが10%以下の時、10秒間、攻撃力{0}増加
 
 ID=26353
-When under 10% HP, +{0}% SA Break for 10s
+HPが10%以下の時、10秒間、スーパーアーマー破壊力{0}%適用
 
 ID=26354
-On hit with 5% HP or less, 10% chance of invincibility for 1s
+HPが5%以下の時に攻撃成功時、10%の確率で1秒無敵
 
 ID=26355
 On kill, 5% chance of Super Armor for 1s.
@@ -10040,7 +10040,7 @@ ID=26359
 On kill, 5% chance of Super Armor for 5s.
 
 ID=26360
-On SA Break, +{0}% Critical for 5s
+スーパーアーマーブレイク発動時、5秒間、クリティカル{0}%増加
 
 ID=26361
 On evaded hit, 10% chance of +{0} Critical Damage for 3s
@@ -10079,16 +10079,16 @@ ID=26372
 On evasion, 30% chance of +{0}% SA Break for 5s
 
 ID=26373
-On skill use, 3% chance of +{0} Attack for 5s
+スキル使用時、10%の確率で5秒間、攻撃力{0}増加
 
 ID=26374
-On skill use, 3% chance of +{0} Accuracy for 5s
+スキル使用時、10%の確率で5秒間、命中度{0}増加
 
 ID=26375
 スキル使用時、3%の確率で5秒間、クリティカルダメージ{0}増加
 
 ID=26376
-On dash use, 10% chance of +{0} Attack for 5s
+ダッシュ使用時、30%の確率で5秒間、攻撃力{0}増加
 
 ID=26377
 On dash use, 10% chance of +{0}% SA Break for 5s
@@ -10104,6 +10104,9 @@ On kill Effect: +{0} SA Break for 5s
 
 ID=26381
 討伐効果：5秒間、敵の防御度貫通{0}%増加
+
+ID=26382
+回避時、30％の確率で5秒間攻撃力{0}増加
 
 ID=26500
 On enemy death, +{0}% Penetration for 30s
@@ -10241,7 +10244,7 @@ ID=27836
 When hit, 5% chance of +{0} SV
 
 ID=27837
-On jump hit, 5% chance of +{0}% Critical (cancelled on critical hit)
+ジャンプ攻撃時、5%の確率でクリティカル{0}%増加(クリティカル命中時解除)
 
 ID=27838
 On dodge, 5% chance of +{0}% SG
@@ -10253,7 +10256,7 @@ ID=27840
 On SA Break, 10% chance of +{0} Critical Damage for 3s
 
 ID=27841
-On skill use, 5% chance of +{0} Critical for 4s
+スキル使用時、5%の確率で4秒間、クリティカル{0}%増加
 
 ID=27842
 When hit, +{0}% Attack (cancelled on hit)
@@ -10262,7 +10265,7 @@ ID=27843
 When hit, 5% chance of +{0}% HP
 
 ID=27844
-In District 6, +{0}% Critical
+第6区域でクリティカル{0}%増加
 
 ID=27845
 In District 6, +{0}% Maximum HP
@@ -10283,7 +10286,7 @@ ID=27850
 When gaining zenny, 10% chance of +{0}% HP of gained amount
 
 ID=27851
-On hitting target with 50% HP or more, +{0}% Critical (cancelled on hit)
+命中時、対象のHPが50%以上の時、クリティカル{0}%増加(命中時解除)
 
 ID=27852
 On hitting target with 50% HP or less, +{0} Critical Damage (cancelled on critical hit)
@@ -10673,7 +10676,7 @@ ID=28106
 {0}m ago
 
 ID=28107
-{0} has joined.
+You have joined {0}.
 
 ID=28108
 {0} has joined the "{1}" guild.
@@ -11705,7 +11708,7 @@ ID=31070
 Standby
 
 ID=31071
-パーティー/フォース検索
+Party / Force Search
 
 ID=31072
 Standby List
@@ -11720,7 +11723,7 @@ ID=31075
 パーティー/フォース申請者
 
 ID=31076
-パーティー募集
+Party recruitment
 
 ID=31077
 Requests
@@ -12509,10 +12512,10 @@ ID=33539
 Steel Tomb Guardian Angel
 
 ID=33540
-Steel Tomb Guardian Angel MK-Ⅱ
+Steel Tomb Guardian Angel MK-2
 
 ID=33541
-Steel Tomb Guardian Angel MK-Ⅲ
+Steel Tomb Guardian Angel MK-3
 
 ID=33542
 Empty Hell
@@ -12521,10 +12524,10 @@ ID=33543
 Steel Tomb Guardian
 
 ID=33544
-Steel Tomb Guardian MK-Ⅱ
+Steel Tomb Guardian MK-2
 
 ID=33545
-Steel Tomb Guardian MK-Ⅲ
+Steel Tomb Guardian MK-3
 
 ID=33546
 Dark Hate
@@ -12533,7 +12536,7 @@ ID=33547
 The Bloodline of the Shadow
 
 ID=33548
-Monarchial Disorder
+Monarchical Disorder
 
 ID=33549
 Disturbance
@@ -13502,7 +13505,7 @@ ID=40185
 When the two security devices are used, you can deactivate the Buster Core's defenses.
 
 ID=40186
-When you operate the cube switch, the security device's power will be cut off.
+When you activate the cube switch, the security device's power will be cut off.
 
 ID=40187
 Primary power supply has been cut off. The first door opens after 15 seconds.
@@ -13571,7 +13574,7 @@ ID=40208
 Please find 2 of the 4 objects hidden behind the gates to disable the trap.
 
 ID=40209
-In order to disable the magnetic field, you must operate the switch furthest away.
+In order to disable the magnetic field, you must activate the switch furthest away.
 
 ID=40210
 Please activate two of the switches to disable the trap equipment.
@@ -13592,7 +13595,7 @@ ID=40215
 You can deal damage to enemies by making the drone explode via the nearby control console.
 
 ID=40216
-Deactivate the electro-magnetic field by using the power controller.
+Deactivate the electromagnetic field by activating the power controller.
 
 ID=40217
 Open the large shutter by using the control unit.
@@ -13844,10 +13847,10 @@ ID=40299
 The magnetic fields have been deactivated.
 
 ID=40300
-スチールグレイブは5ステージで構成されており、1日5回挑戦できます。
+Steel Grave is composed of 5 stages, you are able to challenge it 5 times a day.
 
 ID=40301
-Operate the controller to spawn the enemies.
+Activate the controller to spawn the enemies.
 
 ID=40302
 Use the supporter summoning equipment to summon a Supporter that will help you in battle.
@@ -13859,7 +13862,7 @@ ID=40304
 Pass the cube barricade by activating the switch and using the floating board.
 
 ID=40305
-Deactivate the floor traps by activating the controller on top of the map.
+Deactivate the floor traps by activating the controller on north side of the map.
 
 ID=40306
 Pass the cube barricade by defeating the enemies and using the floating board.
@@ -13880,13 +13883,13 @@ ID=40311
 Cube has been summoned. Destroy it to fully restore HP.
 
 ID=40312
-Disable the floor trap by using the controller on the floating area.
+Disable the floor trap by activating the controller on the floating area.
 
 ID=40313
-After Poison's HP drops below a certain point, she will unleash large AoE attacks.
+After Poison's HP drops below a certain point, wide-area attacks will be launched.
 
 ID=40314
-When all controllers are operated, the cube-shaped barricades will be cleared.
+When all controllers are activated, the cube-shaped barricades will be cleared.
 
 ID=40315
 The Flame Tempest Forces will perform a wide-area attack every 30 seconds.
@@ -13898,16 +13901,16 @@ ID=40317
 Every 10 seconds, powerful laser beams will sequentially fire.\nLaser beams will only damage the player.
 
 ID=40318
-Destroying the cube on top of the map will grant a movement speed increase.
+Destroying the cube on the north side of the map will grant a movement speed increase.
 
 ID=40319
-Summoning your ally. Your ally will provide covering fire.\nCovering fire will damage both the player and the enemy, so please use caution.
+An ally will be summoned shortly and will provide support fire.\nThe support fire will damage both the players and enemies, please be careful.
 
 ID=40320
 Use the controller to stop the wide-area attacks. The Flame Tempest Forces will be put into a 10-second paralysis state.
 
 ID=40321
-Even if you cannot see the floating area, you can still stand on it.
+Some of the floating areas are not visible but you can stand on them.
 
 ID=40401
 More enemies will be summoned soon. Please be careful.
@@ -14051,46 +14054,46 @@ ID=40461
 The shield generator has arrived, when it is activated, you can prevent the enemies' attacks from reaching.
 
 ID=40471
-When the device is utilized, the land bison will be activated.\nBarrier walls can only be destroyed by the land bison.
+The Land Bison can be activated from the device.\nOnly the Land Bison can destroy the enclosing walls.
 
 ID=40472
-With the land bison's strength remaining at least than 50%, its performance will be reduced.
+Land Bison's durability has been reduced to 50%. Its performance has been reduced.
 
 ID=40473
-With the land bison's strength remaining at least than 20%, when it is destroyed, the operation will fail.
+Land Bison's durability has been reduced to 20%. The mission will fail if Land Bison is destroyed.
 
 ID=40474
-The land bison has been destroyed.\nThe operation has failed.
+The land bison has been destroyed. It is not possible to proceed.\nThe mission has been failed.
 
 ID=40475
 Upon activating the switch, the elevator can be used.
 
 ID=40476
-The elevator has stopped moving due to the enemy's attack.\nIf all enemies are neutralized, you can operate the elevator's switch.
+The elevator has stopped because of an incoming enemy attack.\nAfter all enemies are defeated you can activate the switch.
 
 ID=40477
-The Main Core's defense system is operating.\nDefeat it to stop the defense system.
+The Main Core's defense system has been activated.\nDestroy the Main Core to deactivate the defense system.
 
 ID=40478
-In order to proceed to the Ark Ship's deck, you need to activate the power control unit.
+Please activate the power controller to proceed to the Ark Ship's deck.
 
 ID=40479
-The intruder elimination program has been unintentionally activated. Before the power switch self-destructs, please destroy the power generator.
+The intruder elimination program activated because of an error.\nPlease destroy the powered sphere before the power source explodes.
 
 ID=40480
-Upon activating the switch, the elevator can be used.
+Activating the switch will start the elevator.
 
 ID=40481
 Activate the defense capsule to generate a barrier that protects players.
 
 ID=40482
-The ark ship's defense systems have gone wild due to its broken power source.\nThe laser canon will face the ships hulls and hit randomly.
+The ark ship's defense systems have gone wild due to its broken power source.\nThe laser cannon will face the ships hulls and hit randomly.
 
 ID=40483
-The blue laser decreases all of players' stats.\nIt also decreases the defense stat of the enemies.
+The blue laser lowers all player stats and also lowers the enemy defense.
 
 ID=40484
-The red laser only damage players.\nIt generate a thermal heat zone that can burn the players.
+The red laser can only damage players.\nIt also creates a hot zone that burns the players.
 
 ID=40485
 The Sieg Prototype have taken over the Ark Ship's main gun.\nBombardment to the first-grade plate will begin promptly.
@@ -14324,7 +14327,7 @@ ID=40703
 Please escort Katherine to the designated area.
 
 ID=41000
-{0} Day
+Day {0}
 
 ID=41001
 Day 1
@@ -15029,10 +15032,10 @@ ID=42083
 War Road Buster
 
 ID=42084
-Megiddo Maker MK-Ⅱ
+Megiddo Maker MK-2
 
 ID=42085
-Augmented Megiddo Maker MK-Ⅱ
+Augmented Megiddo Maker MK-2
 
 ID=42086
 Ted&Julie
@@ -15890,22 +15893,22 @@ ID=42370
 Pitifully Confused Sedurin μ
 
 ID=42371
-Megiddo Maker MK-Ⅱ
+Megiddo Maker MK-2
 
 ID=42372
-Augmented Megiddo Maker MK-Ⅱ
+Augmented Megiddo Maker MK-2
 
 ID=42373
-Purifying Megiddo Maker MK-Ⅱ
+Purifying Megiddo Maker MK-2
 
 ID=42374
-Megiddo Maker MK-Ⅱ μ
+Megiddo Maker MK-2 μ
 
 ID=42375
-Augmented Megiddo Maker MK-Ⅱ μ
+Augmented Megiddo Maker MK-2 μ
 
 ID=42376
-Purifying Megiddo Maker MK-Ⅱ μ
+Purifying Megiddo Maker MK-2 μ
 
 ID=42377
 Xenia
@@ -16307,7 +16310,7 @@ ID=43082
 Road Buster
 
 ID=43084
-Megiddo Maker MK-Ⅱ
+Megiddo Maker MK-2
 
 ID=43086
 Ted&Julie
@@ -16631,10 +16634,10 @@ ID=43322
 [SH] Sedurin
 
 ID=43323
-[S] Megiddo Maker MK-Ⅱ
+[S] Megiddo Maker MK-2
 
 ID=43324
-[SH] Megiddo Maker MK-Ⅱ
+[SH] Megiddo Maker MK-2
 
 ID=43325
 [S] Xenia
@@ -17852,7 +17855,7 @@ ID=49629
 Notice
 
 ID=49630
-Additional Info
+Details
 
 ID=49631
 Attack
@@ -19868,7 +19871,7 @@ ID=58008
 You can not summon any more Supporters. [{0}/{1}]
 
 ID=58101
-スチールグレイブは1日5回入場できます。\n午前9時に入場回数がリセットされます。
+You can enter Steel Grave up to 5 times a day.\nThe limit resets at 09:00 JST/00:00 UTC.
 
 ID=58102
 Steel Grave is a place to challenge the limits of oneself.\nCannot enter while in a Party.
@@ -20891,22 +20894,22 @@ ID=27909
 On skill use, 10% chance of +{0} Critical Damage
 
 ID=27910
-When over 70% HP, +{0} Critical Damage for 3s
+HPが70%以上の時、攻撃成功時に3秒間クリティカルダメージ{0}増加
 
 ID=27911
-When under 30% HP, +{0} Critical Damage for 3s
+HPが30%未満の場合、攻撃成功時に3秒間クリティカルダメージ{0}増加
 
 ID=27912
-On hit, 15% chance of +{0} HP
+命中時、15%の確率でHP{0}回復
 
 ID=27913
-When hit, 30% chance of +{0} HP
+攻撃を受けた時、30%の確率でHP{0}回復
 
 ID=27914
-When under 50% HP, +{0} Defense for 10s
+攻撃を受けた時、HP50%未満の場合10秒間防御度{0}増加
 
 ID=27915
-When under 50% HP, +{0}% Critical Resistance for 10s
+攻撃を受けた時、HP50%未満の場合10秒間クリティカル抵抗{0}%増加
 
 ID=27916
 On dash use, 10% chance of +{0} Defense for 5s
@@ -20918,7 +20921,7 @@ ID=27918
 On kill Effect: +{0} Defense for 5s
 
 ID=27919
-On dodge, 5% chance of +{0}% HP
+回避使用時、10%の確率でHP{0}%回復
 
 ID=27920
 On kill Effect: +{0}% Damage Reduction for 5s
@@ -20933,22 +20936,22 @@ ID=27923
 On hit, 10% chance of +{0} Attack for 5s
 
 ID=27924
-When hit with 20% HP or less, 10% chance of Invincibility for 0.5s
+攻撃を受けた時、HP10%以下の場合、10%の確率で1秒間無敵
 
 ID=27925
 On skill use, 10% chance of +{0} Defense for 5s
 
 ID=27926
-When hit with 20% HP or less, 10% chance of Invincibility for 0.75s
+攻撃を受けた時、HP15%以下の場合、10%の確率で1秒間無敵
 
 ID=27927
-When hit with 20% HP or less, 10% chance of Invincibility for 1s
+攻撃を受けた時、HP20%以下の場合、10%の確率で1秒間無敵
 
 ID=27928
-When hit with 20% HP or less, 10% chance of Invincibility for 1.25s
+攻撃を受けた時、HP20%以下の場合、10%の確率で1.25秒間無敵
 
 ID=27929
-When hit with 20% HP or less, 10% chance of Invincibility for 1.5s
+攻撃を受けた時、HP20%以下の場合、10%の確率で1.5秒間無敵
 
 ID=19050
 <font color='#47C83E'>+1% Critical</font>
@@ -20957,13 +20960,13 @@ ID=19051
 <font color='#4374D9'>+2% Critical</font>
 
 ID=19052
-<font color='#E0B94F'>+4% Critical</font>
+<font color='#E0B94F'>クリティカル3%</font>
 
 ID=19053
-<font color='#F15F5F'>+6% Critical</font>
+<font color='#F15F5F'>クリティカル4%</font>
 
 ID=19054
-<font color='#8041D9'>+9% Critical</font>
+<font color='#8041D9'>クリティカル5%</font>
 
 ID=19055
 <font color='#47C83E'>+40 Evasion</font>
@@ -21008,97 +21011,97 @@ ID=19068
 <font color='#F15F5F'>+5% Attack Speed/+2% Critical</font>
 
 ID=19069
-<font color='#8041D9'>+8% Attack Speed/+3% Critical</font>
+<font color='#8041D9'> 攻撃速度6% / クリティカル3%</font>
 
 ID=19070
-<font color='#47C83E'>+1% Critical</font>
+<font color='#47C83E'>クリティカル1% / スーパーアーマー破壊力3%</font>
 
 ID=19071
-<font color='#4374D9'>+2% Critical</font>
+<font color='#4374D9'>クリティカル1% / スーパーアーマー破壊力5%</font>
 
 ID=19072
-<font color='#E0B94F'>+3% Critical/+1% SA Break</font>
+<font color='#E0B94F'>クリティカル1% / スーパーアーマー破壊力7%</font>
 
 ID=19073
-<font color='#F15F5F'>+4% Critical/+2% SA Break</font>
+<font color='#F15F5F'>クリティカル2% / スーパーアーマー破壊力10%</font>
 
 ID=19074
-<font color='#8041D9'>+5% Critical/+3% SA Break/+350 Critical Damage</font>
+<font color='#8041D9'>クリティカル3% / スーパーアーマー破壊力15% </font>
 
 ID=19075
-<font color='#47C83E'>+2% Critical Resistance</font>
+<font color='#47C83E'>クリティカルダメージ240 / 攻撃力190</font>
 
 ID=19076
-<font color='#4374D9'>+4% Critical Resistance</font>
+<font color='#4374D9'>クリティカルダメージ340 / 攻撃力270</font>
 
 ID=19077
-<font color='#E0B94F'>+6% Critical Resistance</font>
+<font color='#E0B94F'>クリティカルダメージ490 / 攻撃力390</font>
 
 ID=19078
-<font color='#F15F5F'>+8% Critical Resistance/+1% Critical</font>
+<font color='#F15F5F'>クリティカルダメージ700 / 攻撃力560 / クリティカル3%</font>
 
 ID=19079
-<font color='#8041D9'>+10% Critical Resistance/+3% Critical</font>
+<font color='#8041D9'>クリティカルダメージ1000 / 攻撃力800 / クリティカル3%</font>
 
 ID=19080
-<font color='#47C83E'>+2% Max HP</font>
+<font color='#47C83E'>HP24% / 攻撃力600 / ダメージ減少2%</font>
 
 ID=19081
-<font color='#4374D9'>+4% Max HP</font>
+<font color='#4374D9'>HP34% / 攻撃力857 / ダメージ減少3%</font>
 
 ID=19082
-<font color='#E0B94F'>+6% Max HP</font>
+<font color='#E0B94F'>HP49% / 攻撃力1225 / ダメージ減少5%</font>
 
 ID=19083
-<font color='#F15F5F'>+8% Max HP/+50 Defense</font>
+<font color='#F15F5F'>HP70% / 攻撃力1750 / ダメージ減少7%</font>
 
 ID=19084
-<font color='#8041D9'>+10% Max HP/+100 Defense</font>
+<font color='#8041D9'>HP100% / 攻撃力2500 / ダメージ減少10%</font>
 
 ID=19085
-<font color='#47C83E'>+75 Defense</font>
+<font color='#47C83E'>防御度24% /  ダメージ減少1% / HP1200</font>
 
 ID=19086
-<font color='#4374D9'>+150 Defense</font>
+<font color='#4374D9'>防御度34% /  ダメージ減少2% / HP1715</font>
 
 ID=19087
-<font color='#E0B94F'>+300 Defense</font>
+<font color='#E0B94F'>防御度49% /  ダメージ減少3% / HP2450</font>
 
 ID=19088
-<font color='#F15F5F'>+500 Defense</font>
+<font color='#F15F5F'>防御度70% /  ダメージ減少4% / HP3500</font>
 
 ID=19089
-<font color='#8041D9'>+750 Defense</font>
+<font color='#8041D9'>防御度100% /  ダメージ減少5% / HP5000</font>
 
 ID=19090
-<font color='#47C83E'>+25 Defense</font>
+<font color='#47C83E'>最大スタミナ5 /  クリティカルダメージ192 / 命中度48</font>
 
 ID=19091
-<font color='#4374D9'>+50 Defense</font>
+<font color='#4374D9'> 最大スタミナ7 /  クリティカルダメージ274 / 命中度68</font>
 
 ID=19092
-<font color='#E0B94F'>+100 Defense</font>
+<font color='#E0B94F'> 最大スタミナ10 /  クリティカルダメージ392 / 命中度98</font>
 
 ID=19093
-<font color='#F15F5F'>+250 Defense/+3% Max HP</font>
+<font color='#F15F5F'> 最大スタミナ14 /  クリティカルダメージ560 / 命中度140</font>
 
 ID=19094
-<font color='#8041D9'>+500 Defense/+5% Max HP</font>
+<font color='#8041D9'> 最大スタミナ20 /  クリティカルダメージ800 / 命中度200</font>
 
 ID=19095
-<font color='#47C83E'>+500 Max HP</font>
+<font color='#47C83E'>最大HP1920 / スタミナ回復1 / 攻撃力120</font>
 
 ID=19096
-<font color='#4374D9'>+1200 Max HP</font>
+<font color='#4374D9'>最大HP2744 / スタミナ回復2 / 攻撃力171</font>
 
 ID=19097
-<font color='#E0B94F'>+2500 Max HP</font>
+<font color='#E0B94F'>最大HP3920 / スタミナ回復3 / 攻撃力245</font>
 
 ID=19098
-<font color='#F15F5F'>+5000 Max HP</font>
+<font color='#F15F5F'>最大HP5600 / スタミナ回復4 / 攻撃力350</font>
 
 ID=19099
-<font color='#8041D9'>+8000 Max HP</font>
+<font color='#8041D9'>最大HP8000 / スタミナ回復5 / 攻撃力500</font>
 
 ID=19402
 Assassin
@@ -21629,13 +21632,13 @@ ID=49239
 Event
 
 ID=49343
-You have received a reward for logging in today.
+You have received a daily login reward.
 
 ID=49344
-You have received a reward for logging in today.
+You have received a daily login reward.
 
 ID=49345
-You have received a reward for logging in today.
+You have received a daily login reward.
 
 ID=49706
 パスワードの初期化
@@ -22514,16 +22517,16 @@ ID=27893
 PVP：スタミナ最大値 {0} 増加
 
 ID=18301
-{0}エリアに移動しますか？\n移動時、エリア移動券を1枚消費します。
+Are you sure you want to move to {0} area?\nMoving will consume one area transfer ticket.
 
 ID=18302
 このエリアでは使用できません。
 
 ID=18303
-メイズ「{0}」に移動しますか？\n下記の条件を満たす時、{1}を1枚使用して、該当位置に移動します。\n回数制限：{2}/{3} 
+Are you sure you want to move to the dungeon "{0}"?\nWhen the following conditions are met, use one "{1}" to move to the corresponding location\nLimit: {2}/{3} 
 
 ID=18304
-メイズ「{0}」に移動しますか？\n{1}を1枚利用して該当位置に移動します。
+Are you sure you want to move to the dungeon "{0}"?\nOne "{1}" will be consumed.
 
 ID=27930
 消費アイテム使用時、50%の確率で3秒間、\n攻撃力{0}が確率で増加。
@@ -22643,13 +22646,13 @@ ID=33567
 Void Accessory Set
 
 ID=33568
-Disorders I Set
+Disorder's Ⅰ Set
 
 ID=33569
-Disorders II Set
+Disorders Ⅱ Set
 
 ID=33570
-Disorders Accessory Set
+Disorder's Accessory Set
 
 ID=33573
 海の守護者
@@ -22727,7 +22730,7 @@ ID=22692
 Display Help Pop-up
 
 ID=22693
-Display Sub-weapon
+Display Sub Weapon
 
 ID=3077
 相手が取引内容を変更した為、登録確認を取り消します。
@@ -23066,16 +23069,16 @@ ID=5066
 「勇猛のハンマーストール」にクラスアップグレードしました。
 
 ID=18761
-アイテム選択
+Select Item
 
 ID=18762
-アイテム{0}個を選択してください。
+Please select {0} items.
 
 ID=18763
-{0}個選択可能
+Select {0}
 
 ID=18764
-受取り
+Accept
 
 ID=110000
 使用回数
@@ -25691,7 +25694,7 @@ ID=10558
 青い甲冑のヴェシ
 
 ID=10559
-名誉の血で染まった所
+名誉の血で染まった場所
 
 ID=10560
 騎士の守護獣
@@ -26744,7 +26747,7 @@ ID=18821
 ドスパラ訪問キャンペーン
 
 ID=18822
-ドスパラ推奨パソコン購入キャンペーン
+ドスパラソウルワーカー推奨ゲーミングPC購入キャンペーン
 
 ID=33578
 声援のヴォイドセット
@@ -26901,3 +26904,210 @@ ID=20231
 
 ID=710023
 ねこの着ぐるみ
+
+ID=5067
+「決意のディスペーロア」にクラスアップグレードしました。
+
+ID=772001
+共に歩む決意の矢
+
+ID=42744
+ニヒルキングダムのアルア
+
+ID=42745
+堂々たる姿態アルア
+
+ID=42746
+女王を守る剣アルア
+
+ID=42747
+ニヒルキングダムのアルアμ
+
+ID=42748
+堂々たる姿態アルアμ
+
+ID=42749
+女王を守る剣アルアμ
+
+ID=42750
+オルカ部隊のベネリス
+
+ID=42751
+暗襲のベネリス
+
+ID=42752
+謎めいた存在のベネリス
+
+ID=42753
+オルカ部隊のベネリスμ
+
+ID=42754
+暗襲のベネリスμ
+
+ID=42755
+謎めいた存在のベネリスμ
+
+ID=42756
+レルペンヌ
+
+ID=42757
+執着のレルペンヌ
+
+ID=42758
+鮮血に染まった恋人レルペンヌ
+
+ID=42759
+レルペンヌμ
+
+ID=42760
+執着のレルペンヌμ
+
+ID=42761
+鮮血に染まった恋人レルペンヌμ
+
+ID=43422
+[S]レルペンヌ
+
+ID=43423
+[SH]レルペンヌ
+
+ID=42762
+チイ
+
+ID=42763
+熱望のディスペーロアチイ
+
+ID=42764
+決意のディスペーロアチイ
+
+ID=42765
+チイμ
+
+ID=42766
+熱望のディスペーロアチイμ
+
+ID=42767
+決意のディスペーロアチイμ
+
+ID=43424
+[S]チイ
+
+ID=43425
+[SH]チイ
+
+ID=28695
+クリティカル時、10％の確率で2秒間攻撃速度{0}％増加
+
+ID=28696
+クリティカル時、10％の確率で2秒間クリティカルダメージ{0}増加
+
+ID=28697
+攻撃を受けた時、50％の確率で2秒間攻撃速度{0}％増加
+
+ID=28698
+攻撃を受けた時、50％の確率で2秒間クリティカルダメージ{0}増加
+
+ID=28699
+回避使用時に、10％の確率で5秒間クリティカル{0}％増加
+
+ID=28700
+回避使用時に、10％の確率で5秒間クリティカルダメージ{0}増加
+
+ID=28701
+攻撃を受けた時、30％の確率で1.5秒間攻撃速度{0}％増加
+
+ID=28702
+攻撃を受けた時、40％の確率で3秒間回避度{0}増加
+
+ID=28703
+攻撃を受けた時、50％の確率で3秒間クリティカルダメージ{0}増加
+
+ID=28704
+ダッシュ時、20％の確率で3秒間クリティカルダメージ{0}増加
+
+ID=28705
+ダッシュ時、30％の確率で5秒間クリティカル{0}％増加
+
+ID=28706
+攻撃を受けた時、スタミナ50％以上の場合5秒間クリティカルダメージ{0}増加
+
+ID=28707
+攻撃を受けた時、スタミナ50％以上の場合HP{0}回復
+
+ID=28708
+消費アイテム使用時、20％の確率で5秒間クリティカルダメージ{0}増加
+
+ID=28709
+消費アイテム使用時、20％の確率で5秒間攻撃力{0}増加
+
+ID=28710
+クリティカルヒット時、10％の確率で5秒間攻撃力{0}増加
+
+ID=28711
+スキル使用時、5％の確率で5秒間クリティカルダメージ{0}増加
+
+ID=28712
+スキル使用時、5％の確率で5秒間クリティカル{0}％増加
+
+ID=18229
+オプション情報
+
+ID=18230
+選択精錬ポイント
+
+ID=18231
+変更可能なオプション
+
+ID=18232
+<font color='#0048BA'>キャラクター単位</font>で最大 <font color='#FFBF00'>{0}</font><font color='#0048BA'>ポイント</font>累積\n<font color='#0048BA'>消費したエナジーコンバーター当たり</font> <font color='#FFBF00'>{1}</font><font color='#0048BA'>ポイント</font>獲得\n超過したポイントは消滅
+
+ID=18233
+選択精錬ポイント
+
+ID=18234
+1つのオプションのみを選択して製錬することができます。\n選択されたオプションの種類は変更されません。
+
+ID=18235
+復元オプション
+
+ID=18236
+復元費用
+
+ID=18238
+変更されたオプション
+
+ID=18239
+<font color= '＃0048BA」>変更されたオプションが適用されました。</ font>\n復元オプションを選択して、既存のオプションに戻すことができます。\nオプション復元時BPが消費されます。\n<font color= '＃FF0000'>現在の状態から抜け出したら、もはや復元することができません。</ font>
+
+ID=18240
+Confirm
+
+ID=18241
+Restore
+
+ID=18243
+保有ポイント
+
+ID=18244
+必要ポイント
+
+ID=18245
+精密精錬
+
+ID=18246
+精密精錬時、登録されたアイテムを最上級（100％）で精錬します。
+
+ID=18247
+等級保護アイテムを使用
+
+ID=20238
+ナイトメア
+
+ID=20239
+宙に浮いて見下ろします。
+
+ID=20240
+{0}さんが宙に浮いて見下ろします。
+
+ID=710024
+ナイトメア
