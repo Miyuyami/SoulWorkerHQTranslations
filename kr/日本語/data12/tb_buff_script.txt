@@ -960,19 +960,19 @@ Icon/Buff/Icon_Common_Debuff_MSR
 
 ID=5516
 スライドステップ特性BⅠ
-中毒状態になり重複数によってHPが1%ずつ減少する。
+中毒状態になりHPが1%ずつ減少する。
 Icon/Buff/Icon_Common_Debuff_Poison
 中毒
 
 ID=5517
 スライドステップ特性BⅡ
-中毒状態になり重複数によってHPが2%ずつ減少する。
+中毒状態になりHPが2%ずつ減少する。
 Icon/Buff/Icon_Common_Debuff_Poison
 中毒
 
 ID=5518
 スライドステップ特性BⅢ
-中毒状態になり重複数によってHPが5%ずつ減少する。
+中毒状態になりHPが5%ずつ減少する。
 Icon/Buff/Icon_Common_Debuff_Poison
 中毒
 
@@ -2082,37 +2082,37 @@ HP回復
 
 ID=20051
 HP回復
-21秒かけてHPを700回復する。
+24秒間の間にHPを合計7200回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=20052
 HP回復
-21秒かけてHPを2261回復する。
+24秒間の間にHPを合計14400回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=20053
 HP回復
-21秒かけてHPを3703回復する。
+24秒間の間にHPを合計21600回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=20054
 HP回復
-21秒かけてHPを4900回復する。
+24秒間の間にHPを合計28800回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=20055
 HP回復
-21秒かけてHPを5859回復する。
+24秒間の間にHPを合計36000回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=20056
 HP回復
-21秒かけてHPを6825回復する。
+24秒間の間にHPを合計48000回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
@@ -2232,31 +2232,31 @@ HP＆SG回復
 
 ID=20301
 HP回復
-HPを即時に10%回復する。
+HPを10%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=20302
 HP回復
-HPを即時に20%回復する。
+HPを15%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=20303
 HP回復
-HPを即時に25%回復する。
+HPを20%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=20304
 HP回復
-HPを即時に30%回復する。
+HPを25%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=20401
 HP回復
-9秒かけてHPを15%回復する。
+12秒間の間にHPを合計20%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
@@ -6228,13 +6228,13 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=20305
 HP回復
-HP35%回復
+HPを30%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ID=20405
 HP回復
-23秒かけてHPを40%回復する。
+24秒間の間にHPを合計40%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
