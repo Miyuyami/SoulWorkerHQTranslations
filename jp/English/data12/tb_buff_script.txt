@@ -960,19 +960,19 @@ Movement Speed ↓
 
 ID=5516
 Slide Step Attribute B Ⅰ
-HP is reduced by 1% from poisoning.
+中毒状態になりHPが1%ずつ減少する。
 Icon/Buff/Icon_Common_Debuff_Poison
 Poisoned
 
 ID=5517
 Slide Step Attribute B Ⅱ
-HP is reduced by 2% from poisoning.
+中毒状態になりHPが2%ずつ減少する。
 Icon/Buff/Icon_Common_Debuff_Poison
 Poisoned
 
 ID=5518
 Slide Step Attribute B Ⅲ
-HP is reduced by 5% from poisoning.
+中毒状態になりHPが5%ずつ減少する。
 Icon/Buff/Icon_Common_Debuff_Poison
 Poisoned
 
@@ -2082,37 +2082,37 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=20051
 +HP
-Recover 700 HP over 21 seconds.
+24秒間の間にHPを合計7200回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=20052
 +HP
-Recover 2261 HP over 21 seconds.
+24秒間の間にHPを合計14400回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=20053
 +HP
-Recover 3703 HP over 21 seconds.
+24秒間の間にHPを合計21600回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=20054
 +HP
-Recover 4900 HP over 21 seconds.
+24秒間の間にHPを合計28800回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=20055
 +HP
-Recover 5859 HP over 21 seconds.
+24秒間の間にHPを合計36000回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=20056
 +HP
-Recover 6825 HP over 21 seconds.
+24秒間の間にHPを合計48000回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -2232,31 +2232,31 @@ Recover HP&SG
 
 ID=20301
 +HP
-Immediately recover 10% HP.
+HPを10%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=20302
 +HP
-Immediately recover 20% HP.
+HPを15%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=20303
 +HP
-Immediately recover 25% HP.
+HPを20%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=20304
 +HP
-Immediately recover 30% HP.
+Recover HP by 25%.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=20401
 +HP
-Recover 15% HP over 9 seconds.
+12秒間の間にHPを合計20%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -6228,13 +6228,13 @@ Attack ↑
 
 ID=20305
 +HP
-Recover 35% HP
+HPを30%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=20405
 +HP
-Recover 40% HP over 23s.
+24秒間の間にHPを合計40%回復する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
