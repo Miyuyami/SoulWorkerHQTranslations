@@ -1,0 +1,7961 @@
+ID=1
+Recovery
+Continuously regenerates HP and SF
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=2
+Blessing
+You are invincible.
+Icon/Buff/Icon_Common_Buff_Immun
+Exalted
+
+ID=3
+Blessing
+You are invincible.
+Icon/Buff/Icon_Common_Buff_Immun
+Exalted
+
+ID=15
+Customer Bonus
++20% attack and defence
+Icon/Buff/Icon_Common_Buff_Reg
+Buffed
+
+ID=99
+Dextrous Deluge
+Reduces the character’s defence by 100%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=100
+Crush
+Ignores enemy’s super armour for 3 sec
+Icon/Buff/Icon_Common_Buff_SABreak
+0
+
+ID=101
+Recovery
+Immediately regenerates 5% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+0
+
+ID=102
+Verve
+Immediately regenerates 20% SF
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+0
+
+ID=103
+Sick ’Em!
++10% attack damage for 10 sec
+Icon/Buff/Icon_Common_Buff_ATK
+0
+
+ID=104
+Outcry
+-10% damage received for 10 sec
+Icon/Buff/Icon_Common_Buff_Def
+0
+
+ID=105
+Be Nimble
++5% move speed for 10 sec
+Icon/Buff/Icon_Common_Buff_MSR
+0
+
+ID=106
+Deft Hands
++5% attack speed for 10 sec
+Icon/Buff/Icon_Common_Buff_ASR
+0
+
+ID=107
+Weak Spot Identified
++10% crit rate for 10 sec
+Icon/Buff/Icon_Common_Buff_CRI
+0
+
+ID=108
+Super Armour
+Super armour for 5 sec
+Icon/Buff/Icon_Common_Buff_SArmor
+0
+
+ID=109
+Run, Forrest, Run!
+Regenerates 100% stamina
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+0
+
+ID=201
+Rapture
+Invincible for 3 sec
+Icon/Buff/Icon_Common_Buff_Immun
+Exalted
+
+ID=202
+Rapture
++5% move speed and attack speed for 10 sec
+Icon/Buff/Icon_Common_Buff_Reg
+Buffed
+
+ID=203
+Rapture
+Regenerates 100% SF
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=204
+Rapture
+-50% cooldown for 10 sec. Skill SF is not consumed
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+Reduced cooldown
+
+ID=301
+Blessing
+Regenerates 10% HP each second
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=302
+Keep Your Powder Dry
++10% attack damage for 10 sec
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack
+
+ID=303
+Defence Mode
++10% defence for 10 sec
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=304
+Deft Hands
++10% attack speed for 10 sec
+Icon/Buff/Icon_Common_Buff_ASR
+Increased attack speed
+
+ID=500
+Zombie Lover
+Follows a single target totally entranced for 4 sec
+Icon/Buff/Icon_Common_Debuff_Charm
+Stun Resist
+
+ID=504
+Return of the Queen
+Paralysed for 5 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=600
+Restoration
+Immediately heals you from inflicted damage
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=1001
+Burn LV1
+Constant -1% HP
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=1002
+Burn LV2
+Constant -2% HP
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=1003
+Burn LV3
+Constant -3% HP
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=1004
+Burn LV4
+Constant -4% HP
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=1005
+Burn LV5
+Constant -5% HP
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=1006
+Burn LV6
+Constant -6% HP
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=1007
+Burn LV7
+Constant -7% HP
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=1008
+Burn LV8
+Constant -8% HP
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=1009
+Burn LV9
+Constant -9% HP
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=1010
+Burn LV10
+Constant -10% HP
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=1101
+Poison LV1
+Constant -1% HP
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=1102
+Poison LV2
+Constant -2% HP
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=1103
+Poison LV3
+Constant -3% HP
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=1104
+Poison LV4
+Constant -4% HP
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=1105
+Poison LV5
+Constant -5% HP
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=1106
+Poison LV6
+Constant -6% HP
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=1107
+Poison LV7
+Constant -7% HP
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=1108
+Poison LV8
+Constant -8% HP
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=1109
+Poison LV9
+Constant -9% HP
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=1110
+Poison LV10
+Constant -10% HP
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=1201
+Short Circuit LV1
+Constant -1% HP
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=1202
+Short Circuit LV2
+Constant -2% HP
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=1203
+Short Circuit LV3
+Constant -3% HP
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=1204
+Short Circuit LV4
+Constant -4% HP
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=1205
+Short Circuit LV5
+Constant -5% HP
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=1206
+Short Circuit LV6
+Constant -6% HP
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=1207
+Short Circuit LV7
+Constant -7% HP
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=1208
+Short Circuit LV8
+Constant -8% HP
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=1209
+Short Circuit LV9
+Constant -9% HP
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=1210
+Short Circuit LV10
+Constant -10% HP
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=1301
+Bleeding LV1
+Constant -1% HP
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=1302
+Bleeding LV2
+Constant -2% HP
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=1303
+Bleeding LV3
+Constant -3% HP
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=1304
+Bleeding LV4
+Constant -4% HP
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=1305
+Bleeding LV5
+Constant -5% HP
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=1306
+Bleeding LV6
+Constant -6% HP
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=1307
+Bleeding LV7
+Constant -7% HP
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=1308
+Bleeding LV8
+Constant -8% HP
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=1309
+Bleeding LV9
+Constant -9% HP
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=1310
+Bleeding LV10
+Constant -10% HP
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=1401
+Stun LV1
+Stunned for 0.5 sec
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=1402
+Stun LV2
+Stunned for 1 sec
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=1403
+Stun LV3
+Stunned for 1.5 sec
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=1404
+Stun LV4
+Stunned for 2 sec
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=1405
+Stun LV5
+Stunned for 2.5 sec
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=1406
+Stun LV6
+Stunned for 3 sec
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=1407
+Stun LV7
+Stunned for 3.5 sec
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=1408
+Stun LV8
+Stunned for 4 sec
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=1409
+Stun LV9
+Stunned for 4.5 sec
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=1410
+Stun LV10
+Stunned for 5 sec
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=1501
+Paralysis LV1
+Paralysed for 0.5 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=1502
+Paralysis LV2
+Paralysed for 1 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=1503
+Paralysis LV3
+Paralysed for 1.5 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=1504
+Paralysis LV4
+Paralysed for 2 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=1505
+Paralysis LV5
+Paralysed for 2.5 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=1506
+Paralysis LV6
+Paralysed for 3 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=1507
+Paralysis LV7
+Paralysed for 3.5 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=1508
+Paralysis Lv8
+Paralysed for 4 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=1509
+Paralysis LV9
+Paralysed for 4.5 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=1510
+Paralysis LV10
+Paralysed for 5 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=1511
+Paralysis
+Paralysed for 10 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=1601
+Sleep LV1
+Sleep for 0.5 sec. The trauma will be lifted after suffering damage
+Icon/Buff/Icon_Common_Debuff_Sleep
+Sleep
+
+ID=1602
+Sleep LV2
+Sleep for 1 sec. The trauma will be lifted after suffering damage
+Icon/Buff/Icon_Common_Debuff_Sleep
+Sleep
+
+ID=1603
+Sleep LV3
+Sleep for 1.5 sec. The trauma will be lifted after suffering damage
+Icon/Buff/Icon_Common_Debuff_Sleep
+Sleep
+
+ID=1604
+Sleep LV4
+Sleep for 2 sec. The trauma will be lifted after suffering damage
+Icon/Buff/Icon_Common_Debuff_Sleep
+Sleep
+
+ID=1605
+Sleep LV5
+Sleep for 2.5 sec. The trauma will be lifted after suffering damage
+Icon/Buff/Icon_Common_Debuff_Sleep
+Sleep
+
+ID=1606
+Sleep LV6
+Sleep for 3 sec. The trauma will be lifted after suffering damage
+Icon/Buff/Icon_Common_Debuff_Sleep
+Sleep
+
+ID=1607
+Sleep LV7
+Sleep for 3.5 sec. The trauma will be lifted after suffering damage
+Icon/Buff/Icon_Common_Debuff_Sleep
+Sleep
+
+ID=1608
+Sleep LV8
+Sleep for 4 sec. The trauma will be lifted after suffering damage
+Icon/Buff/Icon_Common_Debuff_Sleep
+Sleep
+
+ID=1609
+Sleep LV9
+Sleep for 4.5 sec. The trauma will be lifted after suffering damage
+Icon/Buff/Icon_Common_Debuff_Sleep
+Sleep
+
+ID=1610
+Sleep LV10
+Sleep for 5 sec. The trauma will be lifted after suffering damage
+Icon/Buff/Icon_Common_Debuff_Sleep
+Sleep
+
+ID=1701
+Stun Resist LV1
+Follows a single target totally entranced for 0.5 sec
+Icon/Buff/Icon_Common_Debuff_Charm
+Stun Resist
+
+ID=1702
+Stun Resist LV2
+Follows a single target totally entranced for 1 sec
+Icon/Buff/Icon_Common_Debuff_Charm
+Stun Resist
+
+ID=1703
+Stun Resist LV3
+Follows a single target totally entranced for 1.5 sec
+Icon/Buff/Icon_Common_Debuff_Charm
+Stun Resist
+
+ID=1704
+Stun Resist LV4
+Follows a single target totally entranced for 2 sec
+Icon/Buff/Icon_Common_Debuff_Charm
+Stun Resist
+
+ID=1705
+Stun Resist LV5
+Follows a single target totally entranced for 2.5 sec
+Icon/Buff/Icon_Common_Debuff_Charm
+Stun Resist
+
+ID=1706
+Stun Resist LV6
+Follows a single target totally entranced for 3 sec
+Icon/Buff/Icon_Common_Debuff_Charm
+Stun Resist
+
+ID=1707
+Stun Resist LV7
+Follows a single target totally entranced for 3.5 sec
+Icon/Buff/Icon_Common_Debuff_Charm
+Stun Resist
+
+ID=1708
+Stun Resist LV8
+Follows a single target totally entranced for 4 sec
+Icon/Buff/Icon_Common_Debuff_Charm
+Stun Resist
+
+ID=1709
+Stun Resist LV9
+Follows a single target totally entranced for 4.5 sec
+Icon/Buff/Icon_Common_Debuff_Charm
+Stun Resist
+
+ID=1710
+Stun Resist LV10
+Follows a single target totally entranced for 5 sec
+Icon/Buff/Icon_Common_Debuff_Charm
+Stun Resist
+
+ID=1801
+Confused LV1
+Confused for 0.5 sec. No further actions possible
+Icon/Buff/Icon_Common_Debuff_Fear
+Confused
+
+ID=1802
+Confused LV2
+Confused for 1 sec. No further actions possible
+Icon/Buff/Icon_Common_Debuff_Fear
+Confused
+
+ID=1803
+Confused LV3
+Confused for 1.5 sec. No further actions possible
+Icon/Buff/Icon_Common_Debuff_Fear
+Confused
+
+ID=1804
+Confused LV4
+Confused for 2 sec. No further actions possible
+Icon/Buff/Icon_Common_Debuff_Fear
+Confused
+
+ID=1805
+Confused LV5
+Confused for 2.5 sec. No further actions possible
+Icon/Buff/Icon_Common_Debuff_Fear
+Confused
+
+ID=1806
+Confused LV6
+Confused for 3 sec. No further actions possible
+Icon/Buff/Icon_Common_Debuff_Fear
+Confused
+
+ID=1807
+Confused LV7
+Confused for 3.5 sec. No further actions possible
+Icon/Buff/Icon_Common_Debuff_Fear
+Confused
+
+ID=1808
+Confused LV8
+Confused for 4 sec. No further actions possible
+Icon/Buff/Icon_Common_Debuff_Fear
+Confused
+
+ID=1809
+Confused LV9
+Confused for 4.5 sec. No further actions possible
+Icon/Buff/Icon_Common_Debuff_Fear
+Confused
+
+ID=1810
+Confused LV10
+Confused for 5 sec. No further actions possible
+Icon/Buff/Icon_Common_Debuff_Fear
+Confused
+
+ID=1901
+Silenced LV1
+No skills for 0.5 sec
+Icon/Buff/Icon_Common_Debuff_Silence
+Silenced
+
+ID=1902
+Silenced LV2
+No skills for 1 sec
+Icon/Buff/Icon_Common_Debuff_Silence
+Silenced
+
+ID=1903
+Silenced LV3
+No skills for 1.5 sec
+Icon/Buff/Icon_Common_Debuff_Silence
+Silenced
+
+ID=1904
+Silenced LV4
+No skills for 2 sec
+Icon/Buff/Icon_Common_Debuff_Silence
+Silenced
+
+ID=1905
+Silenced LV5
+No skills for 2.5 sec
+Icon/Buff/Icon_Common_Debuff_Silence
+Silenced
+
+ID=1906
+Silenced LV6
+No skills for 3 sec
+Icon/Buff/Icon_Common_Debuff_Silence
+Silenced
+
+ID=1907
+Silenced LV7
+No skills for 3.5 sec
+Icon/Buff/Icon_Common_Debuff_Silence
+Silenced
+
+ID=1908
+Silenced LV8
+No skills for 4 sec
+Icon/Buff/Icon_Common_Debuff_Silence
+Silenced
+
+ID=1909
+Silenced LV9
+No skills for 4.5 sec
+Icon/Buff/Icon_Common_Debuff_Silence
+Silenced
+
+ID=1910
+Silenced LV10
+No skills for 5 sec
+Icon/Buff/Icon_Common_Debuff_Silence
+Silenced
+
+ID=5000
+Supernova
++15% attack damage\n-25% damage received\n+20% move speed\nActivates super armour
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=5001
+Temeraire 1
+When using a skill which uses SF, the damage inflicted is randomly increased
+Icon/Buff/Icon_Common_Buff_ATK
+Increased damage
+
+ID=5002
+Temeraire 2
+When using a skill which uses SF, the damage inflicted is randomly increased
+Icon/Buff/Icon_Common_Buff_ATK
+Increased damage
+
+ID=5003
+Temeraire 3
+When using a skill which uses SF, the damage inflicted is randomly increased
+Icon/Buff/Icon_Common_Buff_ATK
+Increased damage
+
+ID=5005
+SoulStrike
+Hurled through the air
+Icon/Buff/Icon_Common_Debuff_Weakness
+0
+
+ID=5009
+Retribution
+Inflicted damage is randomly increased upon receiving damage
+Icon/Buff/Icon_Common_Buff_ATK
+Increased damage
+
+ID=5011
+First Blade A1
+-30% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=5012
+First Blade A2
+-40% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=5013
+First Blade A3
+-50% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=5031
+Arena Storm 1 (team)
++7% attack damage
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=5032
+Arena Storm 2 (team)
++9% attack damage
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=5033
+Arena Storm 3 (team)
++12% attack damage
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=5034
+Arena Storm 4 (team)
++15% attack damage
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=5035
+Arena Storm 5 (team)
++20% attack damage
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=5046
+Blow Up 1
+-50% stamina consumption
+Icon/Buff/Icon_Common_Buff_ST_Recovery
+Reduced stamina consumption
+
+ID=5047
+Blow Up 2
+-50% stamina consumption
+Icon/Buff/Icon_Common_Buff_ST_Recovery
+Reduced stamina consumption
+
+ID=5048
+Blow Up 3
+-60% stamina consumption
+Icon/Buff/Icon_Common_Buff_ST_Recovery
+Reduced stamina consumption
+
+ID=5049
+Blow Up 4
+-70% stamina consumption
+Icon/Buff/Icon_Common_Buff_ST_Recovery
+Reduced stamina consumption
+
+ID=5050
+Blow Up 5
+-80% stamina consumption
+Icon/Buff/Icon_Common_Buff_ST_Recovery
+Reduced stamina consumption
+
+ID=5060
+Hysteria
++25% damage reduction\n+20% move speed\nActivates super armour
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=5500
+Supernova
+All attacks inflict maximum damage.\n+30% attack speed\n+20% move speed\nActivates super armour
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=5501
+Passive
+SF Regen
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+0
+
+ID=5502
+Passive
+SF Regen
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+0
+
+ID=5503
+Passive
+SF Regen
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+0
+
+ID=5505
+SoulStrike
+-30% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=5506
+Reduction
+-50% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=5511
+Dodge Shot A1
+-30% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=5512
+Dodge Shot A2
+-45% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=5513
+Dodge Shot A3
+-75% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=5516
+Dodge Shot B1
+Poison continuously eats 1% of your HP per stack
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=5517
+Dodge Shot B2
+Poison continuously eats 2% of your HP per stack
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=5518
+Dodge Shot B3
+Poison continuously eats 5% of your HP per stack
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=5521
+Napalm 1
+Burns continuously steal 1% HP from you
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=5522
+Napalm 2
+Burns continuously steal 1% HP from you
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=5523
+Napalm 3
+Burns continuously steal 1% HP from you
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=5524
+Napalm 4
+Burns continuously steal 1% HP from you
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=5525
+Napalm 5
+Burns continuously steal 1% HP from you
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=5531
+Bull’s Eye A1
+Bleeding continuously steals 2% HP from you
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=5532
+Bull’s Eye A2
+Bleeding continuously steals 3% HP from you
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=5533
+Bull’s Eye A3
+Bleeding continuously steals 4% HP from you
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=5536
+Bull’s Eye B1
+-10% defence for 4 sec
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=5537
+Bull’s Eye B2
+-10% defence for 6 sec
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=5538
+Bull’s Eye B3
+-10% defence for 8 sec
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=5541
+Speed Trick 1
++10% move speed
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=5542
+Speed Trick 2
++11% move speed
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=5543
+Speed Trick 3
++13% move speed
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=5544
+Speed Trick 4
++16% move speed
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=5545
+Speed Trick 5
++20% move speed
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=5551
+Sprinter A1
+Regenerates 2% SF each second
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=5552
+Sprinter A2
+Regenerates 3% SF each second
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=5553
+Sprinter A3
+Regenerates 5% SF each second
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=5561
+Aiming 1
+Ignores 7% of enemy defence
+Icon/Buff/Icon_Common_Buff_Penetration
+Power Through
+
+ID=5562
+Aiming 2
+Ignores 9% of enemy defence
+Icon/Buff/Icon_Common_Buff_Penetration
+Power Through
+
+ID=5563
+Aiming 3
+Ignores 12% of enemy defence
+Icon/Buff/Icon_Common_Buff_Penetration
+Power Through
+
+ID=5564
+Aiming 4
+Ignores 15% of enemy defence
+Icon/Buff/Icon_Common_Buff_Penetration
+Power Through
+
+ID=5565
+Aiming 5
+Ignores 20% of enemy defence
+Icon/Buff/Icon_Common_Buff_Penetration
+Power Through
+
+ID=5571
+Shield
+You are invincible.
+Icon/Buff/Icon_Common_Buff_Immun
+Exalted
+
+ID=5572
+Shield
+You are invincible.
+Icon/Buff/Icon_Common_Buff_Immun
+Exalted
+
+ID=5573
+Shield
+You are invincible.
+Icon/Buff/Icon_Common_Buff_Immun
+Exalted
+
+ID=5574
+Shield
+You are invincible.
+Icon/Buff/Icon_Common_Buff_Immun
+Exalted
+
+ID=5575
+Shield
+You are invincible.
+Icon/Buff/Icon_Common_Buff_Immun
+Exalted
+
+ID=5576
+Shield
+Provides super armour. All received damage counts as a MISS.
+Icon/Buff/Icon_Common_Buff_Sarmor
+Perfect evasion
+
+ID=5577
+Shield
+Provides super armour. All received damage counts as a MISS.
+Icon/Buff/Icon_Common_Buff_Sarmor
+Perfect evasion
+
+ID=5578
+Shield
+Provides super armour. All received damage counts as a MISS.
+Icon/Buff/Icon_Common_Buff_Sarmor
+Perfect evasion
+
+ID=5579
+Shield
+Provides super armour. All received damage counts as a MISS.
+Icon/Buff/Icon_Common_Buff_Sarmor
+Perfect evasion
+
+ID=5580
+Shield
+Provides super armour. All received damage counts as a MISS.
+Icon/Buff/Icon_Common_Buff_Sarmor
+Perfect evasion
+
+ID=5590
+Hysteria
++15% attack speed\n+20% move speed\nActivates super armour
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=5998
+SF Globes
+Regenerates 3 SF on 3 stacks
+Icon/Buff/Icon_Common_Buff_ASR
+SF Regen
+
+ID=6000
+Supernova
++300% crit damage\n+20% move speed\nActivates super armour
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=6001
+Passive
+SF Regen
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+0
+
+ID=6002
+Passive
+SF Regen
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+0
+
+ID=6003
+Passive
+SF Regen
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+0
+
+ID=6005
+Mang of Madness
+Increases attack damage and crit rate
+Icon/Buff/Icon_Common_Buff_Reg
+0
+
+ID=6011
+Angel of Death A1
+Leech 35% of damage as HP on direct hit
+Icon/Buff/Icon_Common_Buff_VampHP2
+HP Absorbed
+
+ID=6012
+Angel of Death A2
+Leech 45% of damage as HP on direct hit
+Icon/Buff/Icon_Common_Buff_VampHP2
+HP Absorbed
+
+ID=6013
+Angel of Death A3
+Leech 65% of damage as HP on direct hit
+Icon/Buff/Icon_Common_Buff_VampHP2
+HP Absorbed
+
+ID=6021
+Carnage A1
+Ignores 15% of enemy defence.
+Icon/Buff/Icon_Common_Buff_Penetration
+Power Through
+
+ID=6022
+Carnage A2
+Ignores 30% of enemy defence.
+Icon/Buff/Icon_Common_Buff_Penetration
+Power Through
+
+ID=6023
+Carnage A3
+Ignores 50% of enemy defence.
+Icon/Buff/Icon_Common_Buff_Penetration
+Power Through
+
+ID=6031
+Carnage B1
+Crit rate increases by +5%
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit rate
+
+ID=6032
+Carnage B2
+Crit rate increases by +7%
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit rate
+
+ID=6033
+Carnage B3
+Crit rate increases by +10%
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit rate
+
+ID=6041
+Battle Howl
+Crit rate increases by +5%
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit rate
+
+ID=6042
+Battle Howl
+Crit Rate +7%.
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit rate
+
+ID=6043
+Battle Howl
+Crit Rate +9%.
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit rate
+
+ID=6044
+Battle Howl
+Crit Rate +12%.
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit rate
+
+ID=6045
+Battle Howl
+Crit rate increases by +15%
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit rate
+
+ID=6051
+SoulStrike
+-30% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=6052
+SoulStrike
+-40% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=6053
+SoulStrike
+-50% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=6061
+Passive
+Effect display buff
+Icon/Buff/Icon_Common_Debuff_Paralysis
+0
+
+ID=6070
+Hysteria
+Crit damage increased by 150%\n+20% move speed\nActivates super armour
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=6500
+Supernova
+Regenerates 15% SF each second.\n+20% move speed\nActivates super armour
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=6501
+Passive
+SF Regen
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+0
+
+ID=6502
+Passive
+SF Regen
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+0
+
+ID=6503
+Passive
+SF Regen
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+0
+
+ID=6511
+Phantom Trail
+Defence reduced by 10%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=6512
+Phantom Trail
+Defence reduced by 15%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=6513
+Phantom Trail
+Defence reduced by 20%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=6514
+Phantom Trail
+Defence reduced by 25%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=6515
+Phantom Trail
+Defence reduced by 30%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=6516
+Phantom Trail
+Regenerates 4% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=6517
+Phantom Trail
+Regenerates 4% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=6518
+Phantom Trail
+Regenerates 4% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=6519
+Phantom Trail
+Regenerates 4% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=6520
+Phantom Trail
+Regenerates 4% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=6521
+Sonic Pulse
+Paralysed for 1 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=6522
+Sonic Pulse
+Defence reduced by 30%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=6523
+Sonic Pulse
+Defence reduced by 45%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=6524
+Sonic Pulse
+Defence reduced by 60%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=6525
+Sonic Pulse
+Defence reduced by 80%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=6526
+Sonic Pulse
+-10% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=6527
+Sonic Pulse
+-10% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=6528
+Sonic Pulse
+-10% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=6529
+Sonic Pulse
+-10% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=6530
+Sonic Pulse
+-10% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=6531
+Sonic Pulse
+Leech 100% of damage as HP on direct hit
+Icon/Buff/Icon_Common_Buff_VampHP2
+HP Absorbed
+
+ID=6532
+Sonic Pulse
+Leech 100% of damage as HP on direct hit
+Icon/Buff/Icon_Common_Buff_VampHP2
+HP Absorbed
+
+ID=6533
+Sonic Pulse
+Leech 100% of damage as HP on direct hit
+Icon/Buff/Icon_Common_Buff_VampHP2
+HP Absorbed
+
+ID=6534
+Sonic Pulse
+Leech 100% of damage as HP on direct hit
+Icon/Buff/Icon_Common_Buff_VampHP2
+HP Absorbed
+
+ID=6535
+Sonic Pulse
+Leech 100% of damage as HP on direct hit
+Icon/Buff/Icon_Common_Buff_VampHP2
+HP Absorbed
+
+ID=6536
+Orb Song 1
+Regenerates 25% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=6537
+Orb Song 2
+Regenerates 25% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=6538
+Orb Song 3
+Regenerates 25% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=6539
+Orb Song 4
+Regenerates 25% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=6540
+Orb Song 5
+Regenerates 25% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=6551
+Soul Cry
+Paralyses enemies in the vicinity.
+Icon/Buff/Icon_Common_Buff_Sarmor
+Shield
+
+ID=6561
+Phantom Trail
+-10% damage received
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=6566
+Orb Song 1
++50 attack damage
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=6567
+Orb Song 2
++150 attack damage
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=6568
+Orb Song 3
++250 attack damage
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=6569
+Orb Song 4
++500 attack damage
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=6600
+Hysteria
+Regenerates 8% SF each second\n+20% move speed\nActivates super armour
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=6994
+Song of Sorrow 1
+Regenerates 1% SF every 2 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=6995
+Song of Sorrow 2
+Regenerates 2% SF every 2 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=6996
+Song of Sorrow 3
+Regenerates 3% SF every 2 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=6999
+Song of Sorrow
+Regenerates SF at regular time intervals
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+Mode Switch
+
+ID=7000
+Supernova
++100% attack damage\n+20% move speed\nActivates super armour
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=7001
+0
+0
+0
+Counter
+
+ID=7010
+Provoke
+Attacks the provoked target at certain time intervals
+Icon/Buff/Icon_Common_Debuff_Provoke
+Provoke
+
+ID=7021
+Provoke
+Attacks the provoked target for a certain length of time. Evasion is reduced while provoked.
+Icon/Buff/Icon_Common_Debuff_Provoke
+Provoke and Evade
+
+ID=7026
+Qi Wave
+Defence is increased by 25% for a certain time
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=7027
+Qi Wave
+Defence is increased by 30% for a certain time
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=7028
+Qi Wave
+Defence is increased by 40% for a certain time
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=7029
+Qi Wave
+Defence is increased by 50% for a certain time
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=7030
+Qi Wave
+Defence is increased by 70% for a certain time
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=7031
+Qi Wave A1
+-10% evasion
+Icon/Buff/Icon_Common_Debuff_Weakness
+0
+
+ID=7032
+Qi Wave A2
+-20% evasion
+Icon/Buff/Icon_Common_Debuff_Weakness
+0
+
+ID=7033
+Qi Wave A3
+-40% evasion
+Icon/Buff/Icon_Common_Debuff_Weakness
+0
+
+ID=7041
+Fusion Armour
+Grants Exalted for a set period of time.
+Icon/Buff/Icon_Common_Buff_SArmor
+Exalted
+
+ID=7042
+Fusion Armour
+Grants Exalted for a set period of time.
+Icon/Buff/Icon_Common_Buff_SArmor
+Exalted
+
+ID=7043
+Fusion Armour
+Grants Exalted for a set period of time.
+Icon/Buff/Icon_Common_Buff_SArmor
+Exalted
+
+ID=7044
+Fusion Armour
+Grants Exalted for a set period of time.
+Icon/Buff/Icon_Common_Buff_SArmor
+Exalted
+
+ID=7045
+Fusion Armour
+Grants Exalted for a set period of time.
+Icon/Buff/Icon_Common_Buff_SArmor
+Exalted
+
+ID=7046
+Fusion Armour
+Defence is increased by 10% for a certain time
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=7047
+Fusion Armour
+Defence is increased by 14% for a certain time
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=7048
+Fusion Armour
+Defence is increased by 16% for a certain time
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=7049
+Fusion Armour
+Defence is increased by 20% for a certain time
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=7050
+Fusion Armour
+Defence is increased by 30% for a certain time
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=7060
+Cometfall
+Defence reduced by 20%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=7061
+Cometfall
+Defence reduced by 30%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=7062
+Cometfall
+Defence reduced by 30%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=7071
+Counter
+SF Regeneration 10%
+0
+SF Regeneration
+
+ID=7072
+Counter
+SF Regeneration 11%
+0
+SF Regeneration
+
+ID=7073
+Counter
+SF Regeneration 13%
+0
+SF Regeneration
+
+ID=7074
+Counter
+SF Regeneration 15%
+0
+SF Regeneration
+
+ID=7075
+Counter
+SF Regeneration 20%
+0
+SF Regeneration
+
+ID=7080
+Hysteria
++50 attack damage\n+20% move speed\nActivates super armour
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=7090
+Closed Loop
+Stacks boosted if you defeat an enemy by yourself or with allies within 5 sec. 5 stacks reduce damage received and increase attack damage.
+Icon/Buff/Icon_Common_Buff_ASR
+0
+
+ID=7111
+Catching Breath
+Closed Loop is not activated for 5 sec.
+Icon/Buff/Icon_Common_Debuff_Sleep
+0
+
+ID=7121
+Qi Strike
+Defence reduced by 10%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=7122
+Qi Strike
+Defence reduced by 20%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=7123
+Qi Strike
+Defence reduced by 30%
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=7501
+Overheated
+Regenerates 100% SF
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+0
+
+ID=7502
+Overheated
+You can’t use this skill
+Icon/Buff/Icon_Common_Debuff_Silence
+0
+
+ID=7505
+Inflammation 1
+Deals additional damage to enemies hit by melee attacks for a certain time
+Icon/Buff/Icon_Common_Buff_Warm
+0
+
+ID=7506
+Inflammation 2
+Deals additional damage to enemies hit by melee attacks for a certain time
+Icon/Buff/Icon_Common_Buff_Warm
+0
+
+ID=7507
+Inflammation 3
+Deals additional damage to enemies hit by melee attacks for a certain time
+Icon/Buff/Icon_Common_Buff_Warm
+0
+
+ID=7508
+Burn 1
+Suffer HP damage every second
+Icon/Buff/Icon_Common_Debuff_Bleed
+0
+
+ID=7509
+Burn 2
+Suffer HP damage every second
+Icon/Buff/Icon_Common_Debuff_Bleed
+0
+
+ID=7510
+Burn 3
+Suffer HP damage every second
+Icon/Buff/Icon_Common_Debuff_Bleed
+0
+
+ID=7511
+SF Regen 1
+Immediately regenerates SF
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=7512
+SF Regen 2
+Immediately regenerates SF
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=7513
+SF Regen 3
+Immediately regenerates SF
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=7516
+Stun
+Stunned for a certain time
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=7530
+Hysteria 1
++15% super armour break\n+20% move speed\nActivates super armour
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=8001
+Lightning Strike 1
+-5% SF consumption
+Icon/Buff/Icon_Common_Buff_ASR
+0
+
+ID=8002
+Lightning Strike 2
+-8% SF consumption
+Icon/Buff/Icon_Common_Buff_ASR
+0
+
+ID=8003
+Lightning Strike 3
+-10% SF consumption
+Icon/Buff/Icon_Common_Buff_ASR
+0
+
+ID=10000
+Recovery
+Continuously regenerates HP and SF
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+Regeneration
+
+ID=20001
+HP regen
+Immediately regenerates 500 HP.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20002
+HP regen
+Immediately regenerates 1500 HP.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20003
+HP regen
+Immediately regenerates 3000 HP.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20004
+HP regen
+Immediately regenerates 5000 HP.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20005
+HP regen
+Immediately regenerates 7000 HP.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20006
+HP regen
+Immediately regenerates 10000 HP.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20051
+HP regen
+Regenerates 1000 HP over 28 sec.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20052
+HP regen
+Regenerates 3000 HP over 28 sec.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20053
+HP regen
+Regenerates 6000 HP over 28 sec.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20054
+HP regen
+Regenerates 10000 HP over 28 sec.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20055
+HP regen
+Regenerates 14000 HP over 28 sec.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20056
+HP regen
+Regenerates 20000 HP over 28 sec.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20101
+SF Regen
+Immediately regenerates 10% SF
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20102
+SF Regen
+Immediately regenerates 15% SF
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20103
+SF Regen
+Immediately regenerates 20% SF
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20104
+SF Regen
+Immediately regenerates 25% SF
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20105
+SF Regen
+Immediately regenerates 30% SF
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20106
+SF Regen
+Immediately regenerates 35% SF
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20151
+SF Regen
+Regenerates 15% SF over 5 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20152
+SF Regen
+Regenerates 20% SF over 5 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20153
+SF Regen
+Regenerates 25% SF over 5 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20154
+SF Regen
+Regenerates 30% SF over 5 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20155
+SF Regen
+Regenerates 35% SF over 5 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20156
+SF Regen
+Regenerates 40% SF over 5 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20201
+Stamina regen
+Immediately regenerates 15% stamina
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+Stamina regen
+
+ID=20202
+Stamina regen
+Immediately regenerates 25% stamina
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+Stamina regen
+
+ID=20203
+Stamina regen
+Immediately regenerates 50% stamina
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+Stamina regen
+
+ID=20204
+Stamina regen
+Immediately regenerates 100% stamina
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+Stamina regen
+
+ID=20205
+Stamina regen
+Immediately regenerates 27% stamina
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+Stamina regen
+
+ID=20206
+Stamina regen
+Immediately regenerates 30% stamina
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+Stamina regen
+
+ID=20251
+HP & SF Regen
+Immediately regenerates 10% HP and SF
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP & SF Regen
+
+ID=20301
+HP regen
+Immediately regenerates 10% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20302
+HP regen
+Immediately regenerates 20% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20303
+HP regen
+Immediately regenerates 25% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20304
+HP regen
+Immediately regenerates 30% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20401
+HP regen
+Regenerates 15% HP over 9 sec
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20402
+HP regen
+Regenerates 25% HP over 15 sec
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20403
+HP regen
+Regenerates 30% HP over 18 sec
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20404
+HP regen
+Regenerates 35% HP over 21 sec
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20501
+SF Regen
+Immediately regenerates 50% SF
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20502
+SF Regen
+Immediately regenerates 100% SF
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20503
+SF Regen
+Regenerates 50% SF over 30 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20504
+SF Regen
+Regenerates 50% SF over 15 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20505
+SF Regen
+Regenerates 100% SF over 30 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=20506
+SF Regen
+Regenerates 100% SF over 15 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=21001
+Deluge
++5% attack damage
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack
+
+ID=21002
+Deluge
++7% attack damage for 5 min
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack
+
+ID=21003
+Deluge
++10% attack damage for 5 min
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack
+
+ID=21004
+Deluge
++5% attack damage for 3 min
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack
+
+ID=21011
+Colossus
++20% defence for 5 min
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=21012
+Colossus
++30% defence for 5 min
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=21013
+Colossus
++40% defence for 5 min
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=21014
+Colossus
++20% defence for 3 min
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=21021
+Turbulent
+Increases attack speed by 2% for 5 min
+Icon/Buff/Icon_Common_Buff_ASR
+Increased attack speed
+
+ID=21022
+Turbulent
+Increases attack speed by 4% for 5 min
+Icon/Buff/Icon_Common_Buff_ASR
+Increased attack speed
+
+ID=21023
+Turbulent
+Increases attack speed by 6% for 5 min
+Icon/Buff/Icon_Common_Buff_ASR
+Increased attack speed
+
+ID=21031
+At the Double
+Increases move speed by 2% for 5 min
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=21032
+At the Double
+Increases move speed by 4% for 5 min
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=21033
+At the Double
+Increases move speed by 6% for 5 min
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=21041
+Irascible
+Increases crit rate by 4% for 5 min
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit rate
+
+ID=21042
+Irascible
+Increases crit rate by 6% for 5 min
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit rate
+
+ID=21043
+Irascible
+Increases crit rate by 8% for 5 min
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit rate
+
+ID=21251
+Indestructible
+Super armour for 15 sec
+Icon/Buff/Icon_Common_Buff_SArmor
+Super Armour
+
+ID=21252
+Demolisher
+Ignores super armour for 5 sec
+Icon/Buff/Icon_Common_Buff_SABreak
+Super Armour Piercer
+
+ID=21253
+Soulie Soulboa
+Grants Exalted for 3 sec.
+Icon/Buff/Icon_Common_Buff_SArmor
+Exalted
+
+ID=22001
+Deluge
+Increases attack speed by 12% for 5 min
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack
+
+ID=22002
+Colossus
+Increases defence by 50% for 5 min
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=22003
+Turbulent
+Increases attack speed by 10% for 5 min
+Icon/Buff/Icon_Common_Buff_ASR
+Increased attack speed
+
+ID=22004
+Irascible
+Increases crit rate by 10% for 5 min
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit rate
+
+ID=22005
+Deluge/Colossus
+Increases attack speed by 15% and defence by 100% for 5 min
+Icon/Buff/Icon_Common_Buff_Reg
+Buffed
+
+ID=22006
+Wind Storm/Turbulent
+Increases attack speed by 8% and crit rate by 12% for 5 min
+Icon/Buff/Icon_Common_Buff_Reg
+Buffed
+
+ID=22007
+Focus/Wind
+Provides +300 accuracy and +300 evasion for 5 min
+Icon/Buff/Icon_Common_Buff_Reg
+Buffed
+
+ID=22008
+HP regen
+Immediately regenerates 50% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=22009
+HP regen
+Immediately regenerates 100% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=22010
+HP & SF Regen
+Immediately regenerates 50% HP and SF
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP & SF Regen
+
+ID=22011
+HP & SF Regen
+Immediately regenerates 100% HP and SF
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP & SF Regen
+
+ID=22012
+Increased HP
+Increases HP by 30% for 5 min
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+Increased HP
+
+ID=22013
+Increased HP
+Increases HP by 50% for 5 min
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+Increased HP
+
+ID=22014
+Kooky
+Regenerates 10 stamina each second for 30 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+Stamina regen
+
+ID=22015
+Deluge
+Regenerates 10 stamina each second for 60 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+Stamina regen
+
+ID=25001
+Deluge
+Increases attack damage for 1 min
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack
+
+ID=25002
+Colossus
+Increases defence by 30% for 1 min
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=25003
+At the Double
+Increases move speed by 7% for 1 min
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=25004
+HP regen
+Immediately regenerates 10% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=30001
+Kill Orders
++10% attack damage for 20 sec
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=30002
+Poison
+Deducts 2% HP for 3 sec
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=30003
+Poison
+Deducts 2% HP for 5 sec
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=30004
+Slow
+-20% move speed for 5 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=30005
+Slow
+-50% move speed for 5 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=30006
+Slow
+-80% move speed for 5 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=30007
+Whirling
+You are stunned for 6 sec.
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=30008
+Whirling
+You are stunned for 5 sec.
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=30009
+Blind Rage
+Increases attack damage by 100% for 1 min
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=30010
+Vengeful Shadows
+Increases defence by 100% for 30 sec
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=30011
+King Wayangon
+Immune to all effects
+Icon/Buff/Icon_Common_Buff_Immun
+Exalted
+
+ID=30012
+Light and Darkness
+Regenerates 5% HP of nearby allies each second
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=30013
+Light and Darkness
+Regenerates 10% HP of nearby allies each second
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=30014
+Light and Darkness
+Regenerates 15% HP of nearby allies each second
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=30015
+Judgement Day
+Immune to all effects for 15 sec
+Icon/Buff/Icon_Common_Buff_Immun
+Exalted
+
+ID=30018
+Thick Skinned
+Reduces damage received by 30%
+Icon/Buff/Icon_Common_Buff_Def
+Reduced damage
+
+ID=30020
+Light and Darkness
+Regenerates 1% HP of nearby allies each second. This effect can be stacked
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=30024
+-
+-
+Icon/Buff/Icon_Common_Debuff_Stun
+-
+
+ID=30025
+-
+-
+Icon/Buff/Icon_Common_Debuff_Stun
+-
+
+ID=30026
+-
+-
+Icon/Buff/Icon_Common_Debuff_Poison
+-
+
+ID=30031
+-
+-
+Icon/Buff/Icon_Common_Buff_ATK
+-
+
+ID=30032
+-
+-
+Icon/Buff/Icon_Common_Buff_ATK
+-
+
+ID=30033
+-
+-
+Icon/Buff/Icon_Common_Buff_ATK
+-
+
+ID=30034
+-
+-
+Icon/Buff/Icon_Common_Buff_ATK
+-
+
+ID=30036
+HP Loss
+0
+0
+HP Loss
+
+ID=30040
+HP Loss
+Constant -1% HP\nThis effect remains for 10 sec
+0
+HP Loss
+
+ID=30041
+Pandora’s Box
++30% attack damage for nearby allies
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=30042
+Sticky Slime
+-60% move speed
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=30043
+-
+-
+Icon/Buff/Icon_Common_Buff_Def
+-
+
+ID=30044
+-
+-
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+-
+
+ID=30045
+-
+-
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+-
+
+ID=30046
+-
+-
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+-
+
+ID=30047
+-
+-
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+-
+
+ID=30048
+-
+-
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+-
+
+ID=30049
+-
+-
+Icon/Buff/Icon_Common_Debuff_Stun
+-
+
+ID=30050
+Slow
+-50% move speed for 5 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=30051
+Slow
+-50% move speed for 2 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=30052
+Slow
+-60% move speed for 3 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=30053
+Slow
+-80% move speed for 1 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=30054
+HP Loss
+Reduces HP by 10%
+0
+HP Loss
+
+ID=30055
+Slowed
+-50% move speed: 1 sec duration, time refreshes
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=30056
+HP Loss
+-5% HP: 3 sec duration, 0.5 sec, time refreshes
+0
+HP Loss
+
+ID=30057
+HP Loss
+-70% HP
+0
+HP Loss
+
+ID=30058
+HP Loss
+-1% HP: 10 sec duration, 3 stacks
+Icon/Buff/Icon_Common_Debuff_Bleed
+HP Loss
+
+ID=30059
+Slowed
+-50% move speed: 5 sec duration, time refreshes
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=30060
+HP Loss
+-40% HP
+0
+HP Loss
+
+ID=30062
+Slowed
+-80% move speed for 3 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=30061
+HP Loss
+HP -2%
+0
+HP Loss
+
+ID=30063
+Deluge/Colossus
+Increases attack damage and defence by 10%
+Icon/Buff/Icon_Common_Buff_Reg
+Buffed
+
+ID=30065
+HP Loss
+0
+0
+HP Loss
+
+ID=30066
+HP Loss
+HP -15% (one-time effect)
+0
+HP Loss
+
+ID=30067
+HP Loss
+-70% HP
+0
+HP Loss
+
+ID=30068
+Character paralysed
+Paralysis
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=30069
+HP Loss
+Suffer HP damage every second
+0
+HP Loss
+
+ID=30101
+-
+-
+Icon/Buff/Icon_Common_Debuff_Paralysis
+-
+
+ID=30202
+Pollution
+Reduces move speed, attack speed and crit rate by 50% for 30 sec.
+Icon/Buff/Icon_Common_Debuff_Poison
+Pollution
+
+ID=30204
+Verve
+Regenerates 15% of your HP per second and you feel the force of life flow through your body.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+Verve
+
+ID=30205
+Corrosion
+Constant HP loss
+Icon/Buff/Icon_Common_Debuff_Bleed
+Corrosion
+
+ID=30206
+Contaminated Blood
+Constant HP loss
+Icon/Buff/Icon_Common_Debuff_Poison
+Contaminated
+
+ID=30207
+Rotten
+Constant HP loss
+0
+-
+
+ID=30208
+Resistance
+Protects from the poisons of the Putrefied Zone for the duration of the effect
+Icon/Buff/Icon_Common_Buff_SArmor
+-
+
+ID=30212
+Wall of Steel
+You suffer virtually no damage for the duration
+Icon/Buff/Icon_Common_Debuff_Def
+-
+
+ID=30217
+HP Loss
+0
+0
+HP Loss
+
+ID=30302
+Falling Soul
+Somebody’s soul will fall soon.
+Icon/Buff/Icon_Common_Debuff_Weakness
+Falling Soul
+
+ID=30303
+Fallen Soul
+Each attack regenerates the target’s HP. Reduces damage received by 60%.
+Icon/Buff/Icon_Common_Debuff_Fear
+Fallen Soul
+
+ID=30304
+Absorbed Strength
+Reduces damage received by 60% and regenerates HP.
+Icon/Buff/Icon_Common_Buff_Def
+Absorbed Strength
+
+ID=63049
+Tenotomy
+-15% attack speed and move speed. (Max. 5x stacks)
+Icon/Buff/Icon_Common_Debuff_MSR
+Weakened, Slowed
+
+ID=63050
+Unsettled
+-20% crit rate, -3,000 defence. (Max. 5x stacks)
+Icon/Buff/Icon_Common_Debuff_Stun
+Reduced crit rate/defence
+
+ID=63051
+Slowed
+-40% move speed.
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=63079
+Molten Gloves
+-1,000 defence for 10 sec (max. 5x stacks)
+Icon/Buff/Icon_Common_Debuff_Def
+Molten Gloves
+
+ID=63083
+Flesh Wound
+-30% move speed, attack speed and crit rate for 15 sec.
+Icon/Buff/Icon_Common_Debuff_Bleed
+Flesh Wound
+
+ID=30470
+HP Loss
+HP -15%
+0
+HP Loss
+
+ID=30471
+Character in Shock
+You are shocked for 3 sec.
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=30472
+HP Loss
+Reduces HP by 30%
+0
+HP Loss
+
+ID=30473
+Attack Damage Boost
++10% attack damage for 60 sec
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=30474
+Increase Move Speed
++5% move speed for 60 sec
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=31001
+-
+-
+Icon/Buff/Icon_Common_Buff_Immun
+-
+
+ID=32001
+HP regen
+Continuously regenerates HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=32002
+SF Regen
+Continuously regenerates SF
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=35000
+HP Loss
+Deducts 3% HP every 2 sec
+0
+HP Loss
+
+ID=35001
+HP Loss
+Deducts 3% HP every 2 sec
+0
+HP Loss
+
+ID=35002
+HP Loss
+Reduces HP by 100% (instant death)
+0
+HP Loss
+
+ID=35003
+Exalted
+Exalted for 6 sec in the area of effect
+Icon/Buff/Icon_Common_Buff_Immun
+Exalted
+
+ID=35004
+SoulForce Boost
+Increases player’s attack damage by 2000% for 30 sec.
+Icon/Buff/Icon_Common_Buff_ATK
+Massive attack damage boost
+
+ID=35005
+Buffed
++20% attack damage/defence
+Icon/Buff/Icon_Common_Buff_Reg
+Buffed
+
+ID=35006
+Buffed
++1000% attack damage/defence
+Icon/Buff/Icon_Common_Buff_Reg
+Buffed
+
+ID=35007
+Exalted
+The Exalted effect remains for 60 min.
+Icon/Buff/Icon_Common_Buff_Immun
+Exalted
+
+ID=35008
+Action not possible
+For Production_Paralysis_3sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=35009
+HP Loss
+Deducts 5% HP each second for 3 sec
+0
+HP Loss
+
+ID=35010
+HP Loss
+Deducts 5% HP each second for 3 sec
+0
+HP Loss
+
+ID=35011
+HP regen
+Deducts 10% HP each second for 2 sec
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=35012
+HP Loss
+0
+0
+HP Loss
+
+ID=35013
+HP Loss
+0
+0
+HP Loss
+
+ID=35015
+HP Loss
+0
+0
+HP Loss
+
+ID=35016
+HP Loss
+0
+0
+HP Loss
+
+ID=35018
+HP Loss
+0
+0
+HP Loss
+
+ID=35019
+HP Loss
+0
+0
+HP Loss
+
+ID=35023
+HP Loss
+0
+0
+HP Loss
+
+ID=35024
+HP Loss
+0
+0
+HP Loss
+
+ID=35030
+HP Loss
+0
+0
+HP Loss
+
+ID=35200
+HP Loss
+0
+0
+HP Loss
+
+ID=35201
+HP Loss
+0
+0
+HP Loss
+
+ID=35202
+Stun
+You are stunned for 10 sec.
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=35203
+HP Loss
+0
+0
+HP Loss
+
+ID=35204
+HP Loss
+0
+0
+HP Loss
+
+ID=35205
+Exalted
+You suffer no damage.
+Icon/Buff/Icon_Common_Buff_Immun
+Exalted
+
+ID=35206
+HP Loss
+0
+0
+HP Loss
+
+ID=35207
+HP Loss
+0
+0
+HP Loss
+
+ID=35300
+HP Loss
+Forfeited 40% HP
+0
+HP Loss
+
+ID=35302
+Weakness
+All stats are reduced by 50%
+Icon/Buff/Icon_Common_Debuff_Weakness
+Weakness
+
+ID=35303
+Reduced defence
+Reduces defence for 15 sec
+Icon/Buff/Icon_Common_Debuff_Def
+Armour Meltdown
+
+ID=35304
+HP Loss
+HP -15%
+0
+HP Loss
+
+ID=35305
+Exalted
+You suffer no damage.
+Icon/Buff/Icon_Common_Buff_Immun
+Exalted
+
+ID=35306
+Burn
+Suffer HP damage every second
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=35310
+HP Loss
+0
+0
+HP Loss
+
+ID=35311
+HP Loss
+0
+0
+HP Loss
+
+ID=35312
+Slowed
+-40% move speed for 5 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=35313
+HP Loss
+You are shocked for 3 sec and lose HP.
+0
+HP Loss
+
+ID=35314
+HP Loss
+0
+0
+HP Loss
+
+ID=35315
+HP Loss
+0
+0
+HP Loss
+
+ID=37300
+HP Loss
+Deducts 5% HP every 2 sec
+0
+HP Loss
+
+ID=37421
+HP Loss
+Deducts 3% HP every 2 sec
+0
+HP Loss
+
+ID=39001
+-
+-
+Icon/Buff/Icon_Common_Debuff_Burn
+-
+
+ID=39002
+-
+-
+Icon/Buff/Icon_Common_Debuff_Bleed
+-
+
+ID=39003
+-
+-
+Icon/Buff/Icon_Common_Debuff_Paralysis
+-
+
+ID=39004
+Poison
+You have been poisoned and lose HP
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=39005
+Overload
+Taifon’s abilities are paralysed for a moment
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=39006
+Overload
+Taifon’s abilities are paralysed for a moment
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=39007
+Bloodsucker
+Regenerates a certain amount of damage inflicted as HP
+Icon/Buff/Icon_Common_Buff_VampHP2
+HP Absorbed
+
+ID=39008
+Neutralisation
+Stops Ravan’s Bloodsucker effect temporarily.
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Lifts ‘HP Absorbed’.
+
+ID=39009
+Acceleration
++20% move speed for 10 sec
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=39010
+Surprise Attack
++10% attack damage for 10 sec
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=39011
+Paralysis
+Paralysis for 2 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=39012
+Slow
+Reduces move speed for 10 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=39013
+Blunt Blades
+Reduces attack damage for 10 sec
+Icon/Buff/Icon_Common_DeBuff_ATK
+Reduced attack damage
+
+ID=39014
+Poison
+Poison effect for 10 sec
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=39015
+Paralysis
+Paralysed for 30 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=39016
+Poison
+Poison effect for 30 sec
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=39021
+Weak Spot Identified
+Reduces defence by 50% for 5 sec
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=39022
+Poison
+Poison effect for 10 sec
+Icon/Buff/Icon_Common_Debuff_Poison
+Poison
+
+ID=39023
+Paralysis
+Paralysed for a moment
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=39024
+Slow
+Reduces move speed for 1 hour
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=39025
+Raid
+Increases attack damage
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=39026
+Wall of Steel
+Increases defence
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=39027
+Regeneration
+Continuous regeneration
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=40001
+Blessing
+Can respawn upon death within 10 min.
+Icon/Buff/Icon_Common_Buff_Revive
+Blessing
+
+ID=40002
+Blessing
+Can respawn upon death within 30 min.
+Icon/Buff/Icon_Common_Buff_Revive
+Blessing
+
+ID=40003
+Blessing
+Can respawn upon death within 60 min.
+Icon/Buff/Icon_Common_Buff_Revive
+Blessing
+
+ID=50001
+Machine Mastery
+When equipped: +500 HP every 5 sec.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=50002
+Machine Mastery
+When equipped: +600 HP every 5 sec.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=50003
+Machine Mastery
+When equipped: +700 HP every 5 sec.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=50021
+Juicer LV1
+On suffering damage there’s a 5% probability that you gain +50% defence for 1 second.
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=50031
+Solar Plexus LV1
+On suffering damage there’s a 1% probability that you gain a +20% crit rate for 2 seconds.
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit rate
+
+ID=50041
+War Lust LV1
+On suffering damage there’s a 5% probability that you gain +10% attack damage for 2 seconds (cooldown: 10 sec).
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=50051
+Robot Punch LV1
+On suffering damage there’s a 1% probability that normal or elite monsters are stunned for 1 second.
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=50061
+Meep, Meep LV1
+When equipped, you have a 10% chance that your move speed increases +10% for 2 sec.
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=50071
+Inner Eye LV1
+On suffering damage there’s a 1% probability that your accuracy drops -10% and attack damage rises +20%.
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=50081
+Sunbathing LV1
+When equipped there is a 3% probability of HP +10% for 3 seconds in certain periods of time.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP Regen
+
+ID=50101
+Devourer LV1
+A successful critical hit has a 10% chance to add +2% HP.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP Regen
+
+ID=50111
+Boing, Boing LV1
+On jump there is a 1% chance of +5% SF.
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=50121
+Selene’s Time LV1
+Selene dances to regenerate the HP of nearby characters
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP Regen
+
+ID=50141
+Right as Rain LV1
+On direct hit there’s a 1% probability that you gain +10% stamina.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+Stamina regen
+
+ID=50151
+Calcium Recharge LV1
+On suffering damage there’s a 5% probability that you gain +15% SF for 2 seconds.
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=50161
+Prescience LV1
+On direct hit there’s a 1% probability that you gain a +20% accuracy for 2 seconds.
+Icon/Buff/Icon_Common_Buff_Accuracy
+Increased accuracy
+
+ID=50171
+Devil Eyes LV1
+On suffering damage there’s a 5% probability that you are Exalted for 1 second.
+Icon/Buff/Icon_Common_Buff_Immun
+Exalted
+
+ID=50181
+Celestial Run LV1
+On jump there is a 1% chance of +5% stamina.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+Stamina regen
+
+ID=50191
+Flounder LV1
+On suffering damage there’s a 5% probability that you gain +10% attack damage for 2 seconds.
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=50201
+Stone Biceps LV1
+On suffering damage there’s a 5% probability that you gain +20% evasion for 2 seconds.
+Icon/Buff/Icon_Common_Buff_Accuracy
+Increased evasion
+
+ID=50211
+Enrage LV1
+On a landed critical hit there’s a 5% probability that all attacks are crits for 2 seconds.
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit rate
+
+ID=50521
+Entry LV1
+HP +500 for set time intervals when equipped.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP Regen
+
+ID=50541
+Solace LV1
+HP +200 per second for 3 seconds when equipped.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP Regen
+
+ID=51003
+Regeneration
+Regenerates 5% HP each second
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP Regen
+
+ID=52394
+Hunted Down
+When you use a skill (10% probability): +600 crit damage for 7 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=52395
+Hunted Down
+When you use a skill (10% probability): +1200 crit damage for 7 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=52396
+Hunted Down
+When you use a skill (10% probability): +1800 crit damage for 7 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=52397
+Hunted Down
+When you use a skill (20% probability): +900 crit damage for 7 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=52398
+Hunted Down
+When you use a skill (20% probability): +1500 crit damage for 7 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=52399
+Hunted Down
+When you use a skill (20% probability): +2100 crit damage for 7 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=52400
+Happy Chance
+When you use a skill (10% probability): +5 max. stamina and +5% attack power for 15 sec. \nDuration/effect stacks max. 4x
+Icon/Buff/Icon_Common_Buff_Akashic
+More stamina, more damage
+
+ID=52401
+Happy Chance
+When you use a skill (10% probability): +6 max. stamina and +8% attack power for 15 sec. \nDuration/effect stacks max. 4x
+Icon/Buff/Icon_Common_Buff_Akashic
+More stamina, more damage
+
+ID=52402
+Happy Chance
+When you use a skill (10% probability): +7 max. stamina and +12% attack power for 15 sec. \nDuration/effect stacks max. 4x
+Icon/Buff/Icon_Common_Buff_Akashic
+More stamina, more damage
+
+ID=52403
+Happy Chance
+When you use a skill (20% probability): +8 max. stamina and +8% attack power for 20 sec. \nDuration/effect stacks max. 5x
+Icon/Buff/Icon_Common_Buff_Akashic
+More stamina, more damage
+
+ID=52404
+Happy Chance
+When you use a skill (20% probability): +9 max. stamina and +12% attack power for 20 sec. \nDuration/effect stacks max. 5x
+Icon/Buff/Icon_Common_Buff_Akashic
+More stamina, more damage
+
+ID=52405
+Happy Chance
+When you use a skill (20% probability): +10 max. stamina and +17% attack power for 20 sec. \nDuration/effect stacks max. 5x
+Icon/Buff/Icon_Common_Buff_Akashic
+More stamina, more damage
+
+ID=52406
+Predator
+When you make a direct hit (10% probability): +20% crit rate and +25% attack power for 10 sec. \nCooldown: 40 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+More crit hit, more damage
+
+ID=52407
+Predator
+When you make a direct hit (10% probability): +25% crit rate and +30% attack power for 10 sec. \nCooldown: 40 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+More crit hit, more damage
+
+ID=52408
+Predator
+When you make a direct hit (10% probability): +30% crit rate and +35% attack power for 10 sec. \nCooldown: 40 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+More crit hit, more damage
+
+ID=52409
+Predator
+When you make a direct hit (20% probability): +30% crit rate and +40% attack power for 10 sec. \nCooldown: 40 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+More crit hit, more damage
+
+ID=52410
+Predator
+When you make a direct hit (20% probability): +35% crit rate and +45% attack power for 10 sec. \nCooldown: 40 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+More crit hit, more damage
+
+ID=52411
+Predator
+When you make a direct hit (20% probability): +40% crit rate and +50% attack power for 10 sec. \nCooldown: 40 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+More crit hit, more damage
+
+ID=53021
+Coordinated
+When you take damage (5% probability): +50% defence for 1 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53022
+Coordinated
+When you take damage (10% probability): +50% defence for 1 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53023
+Death Claw
+When you make a direct hit (5% probability): +20% crit rate for 2 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=53031
+Death Claw
+When you make a direct hit (10% probability): +20% crit rate for 3 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=53032
+War Lust
+When you take damage (5% probability): +8% attack power for 2 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53033
+War Lust
+When you take damage (10% probability): +8% attack power for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53041
+Tenacious
+When you make a direct hit (3% probability): Super Armour for 3 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Super Armour
+
+ID=53042
+Fluorescent
+When equipped (10% probability): +10% move speed each second for 2 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=53043
+Fluorescent
+When equipped (20% probability): +10% move speed each second for 2 sec. \nCooldown: 13 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=53051
+Zest for Life
+When you make a direct hit (4% probability): +5% HP \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53052
+Zest for Life
+When you make a direct hit (5% probability): +5% HP \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53053
+Stalking
+When you jump (3% probability): +10% attack damage for 2 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53061
+Stalking
+When you jump (5% probability): +10% attack power for 2 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53072
+Power Plant
+When you deal a crit (3% probability): +2% HP \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53073
+Power Plant
+When you deal a crit (6% probability): +3% HP \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53081
+Power Plant
+When you deal a crit (9% probability): +4% HP \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53082
+In a Single Bound
+When you jump (10% probability): +5% SF \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53083
+In a Single Bound
+When you jump (10% probability): +10% SF \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53091
+In a Single Bound
+When you jump (10% probability): +20% SF \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53112
+Catch Your Breath
+When you make a direct hit (5% probability): +5% stamina \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53113
+Catch Your Breath
+When you make a direct hit (5% probability): +10% stamina \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53121
+The Creature Awakens
+When you take damage (5% probability): +10% SF \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53122
+The Creature Awakens
+When you take damage (10% probability): +10% SF \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53123
+6th Sense
+When you make a direct hit (4% probability): +200 accuracy for 2 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53131
+6th Sense
+When you make a direct hit (5% probability): +250 accuracy for 2 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53132
+Undefeated
+When you take damage (5% probability): gain Exalted for 1 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Exalted
+
+ID=53133
+Workout
+When you jump (10% probability): +5% stamina \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53141
+Evade
+When you take damage (5% probability): +200 evasion rating for 2 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased evasion
+
+ID=53142
+Evade
+When you take damage (5% probability): +200 evasion rating for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased evasion
+
+ID=53143
+Code Red
+When you take damage (5% probability): +6% attack power for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53151
+Code Red
+When you take damage (5% probability): +12% attack power for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53152
+Urge to Destroy
+When you deal a crit (5% probability): all attacks count as crits for 2 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=53153
+Shock & Awe
+When you make a direct hit (10% probability): +10% attack speed for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53161
+Shock & Awe
+When you make a direct hit (10% probability): +10% attack speed for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53162
+Hesitation
+While equipped (30% probability): -20% attack power each second and +100% defence for 10 sec. \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53163
+Burning Mark
+When you take crit damage: +500 accuracy for 3 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53171
+Burning Mark
+When you take crit damage: +500 accuracy for 5 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53172
+Wholesome Quiet
+When you evade (20% probability): +5% HP \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53173
+Hunting Instinct
+When you deal a critical hit (5% probability): +10% SF \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53181
+Hunting Instinct
+When you deal a critical hit (10% probability): +20% SF \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53182
+Onslaught
+When you sprint (5% probability): +10% attack power for 5 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53183
+Elation
+When you suffer trauma (50% probability): +10% attack power for 10 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53201
+Hurricane
+When you hit with a jump attack (50% probability): +3% HP \nCooldown: 40 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53202
+Hurricane
+When you hit with a jump attack (50% probability): +6% HP \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53203
+Oasis
+When you take damage: +5% stamina \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53211
+Preventive Measures
+When you make a direct hit (15% probability): +50% defence for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53212
+Preventive Measures
+When you make a direct hit (20% probability): +50% defence for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53213
+Metamorphosis
+When you receive an item (20% probability): +10% attack power for 5 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53221
+Metamorphosis
+When you receive an item (30% probability): +10% attack power for 5 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53222
+Focus
+When you take damage (5% probability): +10% attack power and +15% attack speed for 2 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53223
+Angel's Blessing
+When you take damage (10% probability): +5% HP \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53231
+Soul Maw
+When you make a direct hit (4% probability): +10% SF \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53232
+Soul Maw
+When you make a direct hit (5% probability): +10% SF \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53243
+SoulGrudge
+When you take damage (10% probability): +5% attack power for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53251
+SoulGrudge
+When you take damage (20% probability): +5% attack power for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53273
+Antidote
+When you suffer trauma: +10% HP \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53281
+Ready to Run
+When you take damage: +80% stamina \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53282
+Ready to Run
+When you take damage: +90% stamina \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53283
+Duck Down
+When you take damage: +100% defence and -70% attack power for 2 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53291
+Duck Down
+When you take damage: +100% defence and -50% attack power for 4 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53292
+Deep Breaths
+When equipped: +10% stamina every 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53293
+Deep Breaths
+When equipped: +20% stamina every 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53301
+Invade & Evade
+When you make a direct hit: -50% defence and +15% attack power for 5 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53302
+Illumination
+When equipped: +20% SF every 60 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53303
+Illumination
+When equipped: +30% SF every 60 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53311
+Speedy Serendipity
+When you deal a crit (10% probability): +10% attack speed for 4 sec. \nCooldown: 40 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53312
+Speedy Serendipity
+When you deal a crit (10% probability): +10% attack speed for 6 sec. \nCooldown: 40 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53313
+Home Stretch
+When you take damage (20% probability): -20% attack power and +1000 accuracy for 5 sec. \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53321
+Home Stretch
+When you take damage (20% probability): -15% attack power and +1000 accuracy for 5 sec. \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53322
+In and Out
+When you deal a crit (5% probability): +100% defence for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53323
+In and Out
+When you deal a crit (10% probability): +100% defence for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53331
+Fighting Position
+When you deal a crit (50% probability): +3% attack power for 2 sec. \nCooldown: 1 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53332
+Fighting Position
+When you deal a crit (50% probability): +4% attack power for 2 sec. \nCooldown: 1 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53333
+On your marks...
+When you sprint (10% probability): +10% SF \nCooldown: 5 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53341
+On your marks...
+When you sprint (20% probability): +10% SF \nCooldown: 5 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53352
+Recoil
+Breaking super armour (50% probability): +50% move speed for 3 sec. \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=53353
+Absorbed
+When you slay a monster (10% probability): +10% SF \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53361
+Precision
+When equipped: +200 accuracy for 10 sec. every 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53362
+Field Hospital
+When you take damage (10% probability): +3% HP \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53363
+Death Vector
+When you slay a monster (10% probability): +5% attack speed for 3 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53371
+Death Vector
+When you slay a monster (10% probability): +5% attack speed for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53372
+Quickdraw
+When you take crit damage: +10% attack power for 2 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53373
+Quickdraw
+When you take crit damage: +10% attack power for 2 sec. \nCooldown: 5 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53391
+Those With, Shall Receive
+When you receive an item (10% probability): gain Exalted for 2 sec. \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Exalted
+
+ID=53392
+Will of the Gods
+When you deal a crit (5% probability): +10% attack power and -50% move speed for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53403
+Healing Breeze
+When you hit with a jump attack: +5% stamina \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53411
+Greased Lightning
+When equipped: +5% attack speed for 10 sec. every 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53412
+Windrunner
+When you jump: +10% move speed for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=53413
+Crossed Blades
+When equipped: +10% attack power when breaking super armour for 5 sec. \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53421
+Crossed Blades
+When equipped: +15% attack power when breaking super armour for 10 sec. \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53422
+Overreaction
+When you take crit damage (20% probability): +10% attack power for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53423
+Learning Curve
+When your attack fails (30% probability): +100 evasion rating for 5 sec. \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased evasion
+
+ID=53431
+United Workers
+When an ally uses a skill (40% probability): +20% defence for 5 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53432
+United Workers
+When an ally uses a skill (40% probability): +30% defence for 5 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53433
+Fleet Feet
+When you make a direct hit (10% probability): +5% attack speed and +5% move speed for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53441
+Fleet Feet
+When you make a direct hit (10% probability): +5% attack speed and +5% move speed for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53442
+The Hour Strikes
+When you use a skill (10% probability): +500 accuracy for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53443
+The Hour Strikes
+When you use a skill (10% probability): +600 accuracy for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53451
+Butterfly Effect
+When you deal a crit: +10% attack power for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53452
+Butterfly Effect
+When you deal a crit: +15% attack power for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53453
+Vendetta
+When an ally dies (50% probability): +30% attack power for 10 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53461
+Vendetta
+When an ally dies (60% probability): +40% attack power for 10 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53462
+Painful Recovery
+When you take damage (5% probability): +3% HP and +3% SF for 2 sec. \nCooldown: 45 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53463
+Painful Recovery
+When you take damage (5% probability): +4% HP and +4% SF for 3 sec. \nCooldown: 45 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53471
+Furious Outburst
+When you take damage (50% probability): +1% attack power for 60 sec. \nCooldown: 1 sec, max. 3x stacks
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53472
+Furious Outburst
+When you take damage: +1% attack power for 60 sec. \nCooldown: 1 sec, max. 5x stacks
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53483
+Gather Up Souls
+When you slay a monster: +10% SF \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53511
+Power Play
+In District 6 only: +3% attack power for 3 sec. every 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53512
+Power Play
+In District 6 only: +5% attack power for 5 sec. every 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53513
+Fight Fast
+In District 6 only: +3% move speed for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=53521
+Fight Fast
+In District 6 only: +5% move speed for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=53522
+Correct Dose
+When equipped: +1% HP every 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53523
+Correct Dose
+When equipped: +2% HP every 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53531
+Breath Control
+When equipped: +1% SF every 60 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53532
+Breath Control
+When equipped: +2% SF every 60 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53533
+Art of Survival
+When equipped: +15% max. HP
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased HP
+
+ID=53534
+Art of Survival
+When equipped: +20% max. HP
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased HP
+
+ID=53535
+Art of Survival
+When equipped: +25% max. HP
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased HP
+
+ID=53536
+Art of Survival
+When equipped: +20% max. HP
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased HP
+
+ID=53537
+Art of Survival
+When equipped: +25% max. HP
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased HP
+
+ID=53538
+Art of Survival
+When equipped: +30% max. HP
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased HP
+
+ID=53539
+Escalation
+When equipped: +4% attack power, +1% crit rate
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53540
+Escalation
+When equipped: +5% attack power, +1% crit rate
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53541
+Escalation
+When equipped: +6% attack power, +2% crit rate
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53542
+Escalation
+When equipped: +4% attack power, +2% crit rate
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53543
+Escalation
+When equipped: +6% attack power, +2% crit rate
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53544
+Escalation
+When equipped: +8% attack power, +3% crit rate
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53545
+Hailstorm
+When equipped: +3% attack power to all 100 combo strikes (max. 300) for 15 sec. \nMax. 3x stacks
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53546
+Hailstorm
+When equipped: +4% attack power to all 100 combo strikes (max. 300) for 15 sec. \nMax. 3x stacks
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53547
+Hailstorm
+When equipped: +5% attack power to all 100 combo strikes (max. 300) for 15 sec. \nMax. 3x stacks
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53548
+Hailstorm
+When equipped: +4% attack power to all 100 combo strikes (max. 300) for 15 sec. \nMax. 3x stacks
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53549
+Hailstorm
+When equipped: +5% attack power to all 100 combo strikes (max. 300) for 15 sec. \nMax. 3x stacks
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53550
+Hailstorm
+When equipped: +6% attack power to all 100 combo strikes (max. 300) for 15 sec. \nMax. 3x stacks
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53551
+Self-defence
+When your HP is under 20%: +40% defence for 20 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53552
+Self-defence
+When your HP is under 20%: +60% defence for 20 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53553
+Self-defence
+When your HP is under 20%: +80% defence for 20 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53554
+Self-defence
+When your HP is under 20%: +60% defence for 20 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53555
+Self-defence
+When your HP is under 20%: +80% defence for 20 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53556
+Self-defence
+When your HP is under 20%: +100% defence for 20 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53557
+Fistful of Gold
+When you slay a monster: +5% DZ earned
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=53558
+Fistful of Gold
+When you slay a monster: +10% DZ earned
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=53559
+Fistful of Gold
+When you slay a monster: +15% DZ earned
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=53560
+Fistful of Gold
+When you slay a monster: +10% DZ earned
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=53561
+Fistful of Gold
+When you slay a monster: +15% DZ earned
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=53562
+Fistful of Gold
+When you slay a monster: +20% DZ earned
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=53563
+Coordinated
+When you take damage (5% probability): +50% defence for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53564
+Coordinated
+When you take damage (10% probability): +50% defence for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53565
+Coordinated
+When you take damage (15% probability): +50% defence for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53566
+Coordinated
+When you take damage (10% probability): +50% defence for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53567
+Coordinated
+When you take damage (15% probability): +50% defence for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53568
+Coordinated
+When you take damage (20% probability): +50% defence for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=53569
+Death Claw
+When you make a direct hit (5% probability): +20% crit rate for 2.5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=53570
+Death Claw
+When you make a direct hit (10% probability): +20% crit rate for 3.5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=53571
+Death Claw
+When you make a direct hit (15% probability): +20% crit rate for 4.5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=53572
+Death Claw
+When you make a direct hit (10% probability): +20% crit rate for 2.5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=53573
+Death Claw
+When you make a direct hit (15% probability): +20% crit rate for 3.5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=53574
+Death Claw
+When you make a direct hit (20% probability): +20% crit rate for 4.5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=53575
+War Lust
+When you take damage (5% probability): +10% attack power for 2.5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53576
+War Lust
+When you take damage (10% probability): +10% attack power for 3.5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53577
+War Lust
+When you take damage (15% probability): +10% attack power for 4.5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53578
+War Lust
+When you take damage (10% probability): +10% attack power for 2.5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53579
+War Lust
+When you take damage (15% probability): +10% attack power for 3.5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53580
+War Lust
+When you take damage (20% probability): +10% attack power for 4.5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53581
+Fluorescent
+When equipped (10% probability): +10% move speed for 2.5 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=53582
+Fluorescent
+When equipped (20% probability): +10% move speed each second for 3 sec. \nCooldown: 13 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=53583
+Fluorescent
+When equipped (30% probability): +10% move speed each second for 3.5 sec. \nCooldown: 11 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=53584
+Fluorescent
+When equipped (15% probability): +10% move speed each second for 3 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=53585
+Fluorescent
+When equipped (25% probability): +10% move speed each second for 3.5 sec. \nCooldown: 13 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=53586
+Fluorescent
+When equipped (35% probability): +10% move speed each second for 4 sec. \nCooldown: 11 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=53587
+Zest for Life
+When you make a direct hit (7% probability): +10% HP \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53588
+Zest for Life
+When you make a direct hit (12% probability): +10% HP \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53589
+Zest for Life
+When you make a direct hit (17% probability): +10% HP \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53590
+Zest for Life
+When you make a direct hit (9% probability): +10% HP \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53591
+Zest for Life
+When you make a direct hit (14% probability): +10% HP \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53592
+Zest for Life
+When you make a direct hit (19% probability): +10% HP \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53593
+Stalking
+When you jump (15% probability): +10% attack power for 4 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53594
+Stalking
+When you jump (20% probability): +10% attack power for 4 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53595
+Stalking
+When you jump (25% probability): +10% attack power for 4 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53596
+Stalking
+When you jump (20% probability): +10% attack power for 4 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53597
+Stalking
+When you jump (25% probability): +10% attack power for 4 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53598
+Stalking
+When you jump (30% probability): +10% attack power for 4 sec. \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53599
+Catch Your Breath
+When you make a direct hit (5% probability): +7% stamina
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53600
+Catch Your Breath
+When you make a direct hit (5% probability): +12% stamina
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53601
+Catch Your Breath
+When you make a direct hit (5% probability): +17% stamina
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53602
+Catch Your Breath
+When you make a direct hit (5% probability): +9% stamina
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53603
+Catch Your Breath
+When you make a direct hit (5% probability): +14% stamina
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53604
+Catch Your Breath
+When you make a direct hit (5% probability): +19% stamina
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53605
+The Creature Awakens
+When you take damage (7% probability): +15% SF \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53606
+The Creature Awakens
+When you take damage (12% probability): +15% SF \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53607
+The Creature Awakens
+When you take damage (17% probability): +15% SF \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53608
+The Creature Awakens
+When you take damage (9% probability): +15% SF \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53609
+The Creature Awakens
+When you take damage (14% probability): +15% SF \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53610
+The Creature Awakens
+When you take damage (19% probability): +15% SF \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53611
+6th Sense
+When you make a direct hit (7% probability): +200 accuracy for 4 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53612
+6th Sense
+When you make a direct hit (7% probability): +250 accuracy for 4 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53613
+6th Sense
+When you make a direct hit (7% probability): +300 accuracy for 4 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53614
+6th Sense
+When you make a direct hit (9% probability): +250 accuracy for 4 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53615
+6th Sense
+When you make a direct hit (9% probability): +300 accuracy for 4 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53616
+6th Sense
+When you make a direct hit (9% probability): +350 accuracy for 4 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53617
+Evade
+When you take damage (5% probability): +500 evasion rating for 2 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased evasion
+
+ID=53618
+Evade
+When you take damage (5% probability): +500 evasion rating for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased evasion
+
+ID=53619
+Evade
+When you take damage (5% probability): +500 evasion rating for 4 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased evasion
+
+ID=53620
+Evade
+When you take damage (9% probability): +500 evasion rating for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased evasion
+
+ID=53621
+Evade
+When you take damage (9% probability): +500 evasion rating for 4 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased evasion
+
+ID=53622
+Evade
+When you take damage (9% probability): +500 evasion rating for 5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased evasion
+
+ID=53623
+Code Red
+When you take damage (7% probability): +10% attack power for 2 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53624
+Code Red
+When you take damage (7% probability): +15% attack damage for 2.5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53625
+Code Red
+When you take damage (7% probability): +20% attack power for 3 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53626
+Code Red
+When you take damage (9% probability): +10% attack power for 3.5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53627
+Code Red
+When you take damage (9% probability): +15% attack power for 4 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53628
+Code Red
+When you take damage (9% probability): +20% attack power for 4.5 sec. \nCooldown: 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53629
+Shock & Awe
+When you make a direct hit (15% probability): +3% attack speed for 2.5 sec. \nMax. 3x stacks
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53630
+Shock & Awe
+When you make a direct hit (15% probability): +3% attack speed for 3 sec. \nMax. 3x stacks
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53631
+Shock & Awe
+When you make a direct hit (15% probability): +3% attack speed for 3.5 sec. \nMax. 3x stacks
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53632
+Shock & Awe
+When you make a direct hit (15% probability): +5% attack speed for 2.5 sec. \nMax. 3x stacks
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53633
+Shock & Awe
+When you make a direct hit (15% probability): +5% attack speed for 3.5 sec. \nMax. 3x stacks
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53634
+Shock & Awe
+When you make a direct hit (15% probability): +5% attack speed for 4.5 sec. \nMax. 3x stacks
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53635
+Burning Mark
+When you take crit damage: +500 accuracy for 7 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53636
+Burning Mark
+When you take crit damage: +500 accuracy for 12 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53637
+Burning Mark
+When you take crit damage: +500 accuracy for 17 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53638
+Burning Mark
+When you take crit damage: +500 accuracy for 9 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53639
+Burning Mark
+When you take crit damage: +500 accuracy for 14 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53640
+Burning Mark
+When you take crit damage: +500 accuracy for 19 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53641
+Glare
+Available immediately after being added. \nProvides no skills.
+0
+0
+
+ID=53642
+Rammed!
+Provides +100% AXP in comparison to the standard SoulCash Akasha skill. Provides no skills.
+0
+0
+
+ID=53643
+Rammed!
+Gives three times as much AXP as a simple SoulCash Akasha skill. Provides no skills.
+0
+0
+
+ID=53644
+Grumble Grumble
+Available immediately after being added.\nIf you add this card, a star is added.
+0
+0
+
+ID=53651
+Cheer
+When equipped: +5% max. HP
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased HP
+
+ID=53652
+Hunting Instinct
+When you deal a crit (20% probability): +10% SF \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53653
+Hunting Instinct
+When you deal a crit (20% probability): +13% SF \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53654
+Hunting Instinct
+When you deal a crit (20% probability): +16% SF \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53655
+Hunting Instinct
+When you deal a crit (20% probability): +12% SF \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53656
+Hunting Instinct
+When you deal a crit (20% probability): +15% SF \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53657
+Hunting Instinct
+When you deal a crit (20% probability): +18% SF \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53658
+Hurricane
+When you hit with a jump attack (60% probability): +5% HP \nCooldown: 40 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53659
+Hurricane
+When you hit with a jump attack (70% probability): +7% HP \nCooldown: 35 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53660
+Hurricane
+When you hit with a jump attack (80% probability): +9% HP \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53661
+Hurricane
+When you hit with a jump attack (70% probability): +6% HP \nCooldown: 40 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53662
+Hurricane
+When you hit with a jump attack (80% probability): +8% HP \nCooldown: 35 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53663
+Hurricane
+When you hit with a jump attack (90% probability): +10% HP \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=53664
+Chain Attack
+When you make a direct hit (10% probability): +5% attack damage for your next attack \nCooldown: 8 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=53665
+Chain Attack
+When you make a direct hit (10% probability): +7% attack damage for your next attack \nCooldown: 8 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=53666
+Chain Attack
+When you make a direct hit (10% probability): +10% attack damage for your next attack \nCooldown: 8 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=53667
+Chain Attack
+When you make a direct hit (10% probability): +6% attack damage for your next attack \nCooldown: 8 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=53668
+Chain Attack
+When you make a direct hit (10% probability): +10% attack damage for your next attack \nCooldown: 8 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=53669
+Chain Attack
+When you make a direct hit (10% probability): +15% attack damage for your next attack \nCooldown: 8 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=53670
+Metamorphosis
+When you receive an item: +20% attack power for 4 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53671
+Metamorphosis
+When you receive an item: +20% attack power for 7 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53672
+Metamorphosis
+When you receive an item: +20% attack power for 11 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53673
+Metamorphosis
+When you receive an item: +25% attack power for 4 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53674
+Metamorphosis
+When you receive an item: +25% attack power for 7 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53675
+Metamorphosis
+When you receive an item: +25% attack power for 11 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53676
+Soul Maw
+When you make a direct hit (10% probability): +10% SF \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53677
+Soul Maw
+When you make a direct hit (10% probability): +15% SF \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53678
+Soul Maw
+When you make a direct hit (15% probability): +20% SF \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53679
+Soul Maw
+When you make a direct hit (15% probability): +15% SF \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53680
+Soul Maw
+When you make a direct hit (15% probability): +20% SF \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53681
+Soul Maw
+When you make a direct hit (20% probability): +25% SF \nCooldown: 15 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53682
+SoulGrudge
+When you take damage (2% probability): +20% attack power for 4 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53683
+SoulGrudge
+When you take damage (4% probability): +20% attack power for 5 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53684
+SoulGrudge
+When you take damage (7% probability): +20% attack power for 6 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53685
+SoulGrudge
+When you take damage (3% probability): +25% attack damage for 5 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53686
+SoulGrudge
+When you take damage (6% probability): +25% attack damage for 6 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53687
+SoulGrudge
+When you take damage (10% probability): +25% attack damage for 7 sec. \nCooldown: 20 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53688
+Battle Cry
+When equipped: +5% attack power
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53689
+Battle Cry
+When equipped: +7% attack power
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53690
+Battle Cry
+When equipped: +10% attack power
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53691
+Battle Cry
+When equipped: +6% attack power
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53692
+Battle Cry
+When equipped: +9% attack power
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53693
+Battle Cry
+When equipped: +13% attack power
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=53694
+Ready When You Are
+When equipped: +8% HP
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased HP
+
+ID=53695
+Ready When You Are
+When equipped: +13% HP
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased HP
+
+ID=53696
+Ready When You Are
+When equipped: +18% HP
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased HP
+
+ID=53697
+Ready When You Are
+When equipped: +12% HP
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased HP
+
+ID=53698
+Ready When You Are
+When equipped: +17% HP
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased HP
+
+ID=53699
+Ready When You Are
+When equipped: +22% HP
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased HP
+
+ID=53700
+Deep Breaths
+When equipped: +10% stamina every 5.5 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53701
+Deep Breaths
+When equipped: +15% stamina every 5.5 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53702
+Deep Breaths
+When equipped: +20% stamina every 5.5 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53703
+Deep Breaths
+When equipped: +15% stamina every 5.5 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53704
+Deep Breaths
+When equipped: +20% stamina every 5.5 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53705
+Deep Breaths
+When equipped: +25% stamina every 5.5 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=53706
+Illumination
+When equipped: +50% SF every 60 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53707
+Illumination
+When equipped: +55% SF every 60 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53708
+Illumination
+When equipped: +60% SF every 60 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53709
+Illumination
+When equipped: +55% SF every 60 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53710
+Illumination
+When equipped: +65% SF every 60 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53711
+Illumination
+When equipped: +75% SF every 60 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regen
+
+ID=53712
+Speedy Serendipity
+When you deal a crit (10% probability): +12% attack speed for 6 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53713
+Speedy Serendipity
+When you deal a crit (10% probability): +13% attack speed for 6 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53714
+Speedy Serendipity
+When you deal a crit (10% probability): +14% attack speed for 6 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53715
+Speedy Serendipity
+When you deal a crit (15% probability): +13% attack speed for 6 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53716
+Speedy Serendipity
+When you deal a crit (15% probability): +14% attack speed for 6 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53717
+Speedy Serendipity
+When you deal a crit (15% probability): +15% attack speed for 6 sec. \nCooldown: 30 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=53718
+Home Stretch
+When you take damage (20% probability): -20% attack power and +1000 accuracy for 6 sec. \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53719
+Home Stretch
+When you take damage (20% probability): -10% attack power and +1000 accuracy for 6 sec. \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53720
+Home Stretch
+When you take damage (20% probability): -5% attack power and +1000 accuracy for 6 sec. \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53721
+Home Stretch
+When you take damage (20% probability): -20% attack power and +1100 accuracy for 6 sec. \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53722
+Home Stretch
+When you take damage (20% probability): -10% attack power and +1100 accuracy for 6 sec. \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53723
+Home Stretch
+When you take damage (20% probability): -5% attack power and +1100 accuracy for 6 sec. \nCooldown: 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=53724
+Windbreaker
+When equipped: +2% damage reduction
+Icon/Buff/Icon_Common_Buff_Akashic
+Reduced damage
+
+ID=53725
+Windbreaker
+When equipped: +4% damage reduction
+Icon/Buff/Icon_Common_Buff_Akashic
+Reduced damage
+
+ID=53726
+Windbreaker
+When equipped: +8% damage reduction
+Icon/Buff/Icon_Common_Buff_Akashic
+Reduced damage
+
+ID=53727
+Windbreaker
+When equipped: +4% damage reduction
+Icon/Buff/Icon_Common_Buff_Akashic
+Reduced damage
+
+ID=53728
+Windbreaker
+When equipped: +7% damage reduction
+Icon/Buff/Icon_Common_Buff_Akashic
+Reduced damage
+
+ID=53729
+Windbreaker
+When equipped: +10% damage reduction
+Icon/Buff/Icon_Common_Buff_Akashic
+Reduced damage
+
+ID=53730
+Energy-efficient
+When equipped: -2% SF consumption
+Icon/Buff/Icon_Common_Buff_Akashic
+Reduced SF consumption
+
+ID=53731
+Energy-efficient
+When equipped: -4% SF consumption
+Icon/Buff/Icon_Common_Buff_Akashic
+Reduced SF consumption
+
+ID=53732
+Energy-efficient
+When equipped: -6% SF consumption
+Icon/Buff/Icon_Common_Buff_Akashic
+Reduced SF consumption
+
+ID=53733
+Energy-efficient
+When equipped: -4% SF consumption
+Icon/Buff/Icon_Common_Buff_Akashic
+Reduced SF consumption
+
+ID=53734
+Energy-efficient
+When equipped: -8% SF consumption
+Icon/Buff/Icon_Common_Buff_Akashic
+Reduced SF consumption
+
+ID=53735
+Energy-efficient
+When equipped: -12% SF consumption
+Icon/Buff/Icon_Common_Buff_Akashic
+Reduced SF consumption
+
+ID=53736
+Final Words
+When equipped: +150 crit damage
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=53737
+Final Words
+When equipped: +300 crit damage
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=53738
+Final Words
+When equipped: +450 crit damage
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=53739
+Final Words
+When equipped: +300 crit damage
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=53740
+Final Words
+When equipped: +600 crit damage
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=53741
+Final Words
+When equipped: +900 crit damage
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=55002
+Surprise 3
+-50% defence for 30 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Reduced defence
+
+ID=55005
+Viperess Call
++10% defence for 30 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=55006
+Viperess Call
++30% defence for 30 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=55010
+Bow Wow!
++10% attack damage for 7 sec
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=55011
+Woof Woof!
++10% defence for 7 sec
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=55012
+Yap Yap!
++10% attack speed for 7 sec
+Icon/Buff/Icon_Common_Buff_ASR
+Increased attack speed
+
+ID=55088
+Oil Bomb 1
+Oil sprays out of the ground and reduces the move speed of enemies by 30% for 2 sec. Cooldown 90 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=55089
+Oil Bomb 2
+Oil sprays out of the ground and reduces the move speed of enemies by 30% for 4 sec. Cooldown 90 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=55090
+Oil Bomb 3
+Oil sprays out of the ground and reduces the move speed of enemies by 50% for 4 sec. Cooldown 90 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=55091
+Oil Bomb 1
+Oil sprays out of the ground and reduces the move speed of enemies by 30% for 3 sec. Cooldown 90 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=55092
+Oil Bomb 2
+Oil sprays out of the ground and reduces the move speed of enemies by 30% for 5 sec. Cooldown 90 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=55093
+Oil Bomb 3
+Oil sprays out of the ground and reduces the move speed of enemies by 70% for 7 sec. Cooldown 90 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=55101
+Increased attack damage
++10% attack damage for 7 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=55102
+Increased attack speed
++10% attack speed for 7 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=55103
+Cooldown Killer
+You can use skills at will for 5 seconds\n(Requires SF)
+Icon/Buff/Icon_Common_Buff_Akashic
+Remove skill
+
+ID=55104
+HP Loss
+Deducts 2% HP each second for 10 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Loss
+
+ID=55105
+Slowed
++10% move speed for 10 sec\n(Max. 5x stacks)
+Icon/Buff/Icon_Common_Buff_Akashic
+Slowed
+
+ID=55106
+HP Loss
+Deducts 2% HP each second for 10 seconds.\n(Max. 5x stacks)
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Loss
+
+ID=55107
+Increased attack damage
++10% attack damage for 5 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=55108
+Increased attack speed
++5% attack speed for 5 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=55109
+Blood Drain
+Regenerates 2% HP when followed by a direct hit within 5 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Blood Drain
+
+ID=55110
+Rotate
++10% attack damage for 5 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=55111
+Swan
++5% attack speed for 5 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=55112
+Dizzifying
++5% move speed for 5 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=55113
+Top to Bottom
++10% crit rate for 5 seconds.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=55114
+Weapon Mastery
++50 accuracy for 5 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased accuracy
+
+ID=55115
+Flurry
++10% defence for 5 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased defence
+
+ID=55116
+Over Here!
+Regenerates 2% HP each second for 10 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=55117
+Over Here Please!
+Immediately regenerates 20% HP
+Icon/Buff/Icon_Common_Buff_Akashic
+HP Regen
+
+ID=55118
+Best of the Best!
+Immediately regenerates stamina
+Icon/Buff/Icon_Common_Buff_Akashic
+Stamina regen
+
+ID=55119
+Increased attack damage
++10% attack damage for 20 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=55120
+Increased attack damage
++10% attack damage for 10 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack damage
+
+ID=55121
+Increased attack speed
++5% attack speed for 10 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=55122
+Blood Drain
+Regenerates 2% HP when followed by a direct hit within 10 sec
+Icon/Buff/Icon_Common_Buff_Akashic
+Blood Drain
+
+ID=60000
+Take Ten
+Regenerates 100% HP over 10 sec
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP Regen
+
+ID=60001
+0
+0
+0
+0
+
+ID=60002
+0
+0
+0
+0
+
+ID=61000
+INetCafe bonus
+Bonus for connecting from INetCafé
+Icon/Buff/Icon_PC_Buff_ExpBoost
+0
+
+ID=61001
+Premium Player
+Bonus for premium players
+Icon/Buff/Icon_PC_Buff_ExpBoost
+0
+
+ID=61100
+Team Bonus
+Bonus for forming a 2-player team
+Icon/Buff/Icon_PC_Buff_ExpBoost
+0
+
+ID=61101
+Team Bonus
+Bonus for forming a 3-player team
+Icon/Buff/Icon_PC_Buff_ExpBoost
+0
+
+ID=61102
+Team Bonus
+Bonus for forming a 4-player team
+Icon/Buff/Icon_PC_Buff_ExpBoost
+0
+
+ID=63000
+HP Loss
+HP -15%
+0
+HP Loss
+
+ID=63001
+HP Loss
+Reduces HP by 25%
+0
+HP Loss
+
+ID=63002
+Action not possible
+Paralysis for 3 sec
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=63003
+HP Loss
+Reduces HP by 50%
+0
+HP Loss
+
+ID=63004
+HP Loss
+HP -2%
+0
+HP Loss
+
+ID=63005
+Buffed
++30% attack damage and +30% defence for 10 sec
+Icon/Buff/Icon_Common_Buff_Reg
+Buffed
+
+ID=63006
+Slowed
+-50% move speed for 1.5 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=63007
+Slowed
+-30% move speed for 5 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=63008
+Slowed
+-30% move speed for 5 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=63009
+HP Loss
+Reduces HP by 10% every 2 sec for 10 sec
+Icon/Buff/Icon_Common_Debuff_Bleed
+HP Loss
+
+ID=63010
+Action not possible
+Stunned for 10 sec
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=63011
+Buffed
++30% attack damage and +30% defence for 10 sec
+Icon/Buff/Icon_Common_Buff_Reg
+Buffed
+
+ID=63012
+Attack Boost
++30% attack damage for 10 min
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=63013
+Defence Boost
++30% defence for 10 min
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=63014
+HP Regen
+Regenerates 50% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP Regen
+
+ID=63015
+Attack Boost
++30% attack damage for 10 min
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=63016
+Defence Boost
++30% defence for 10 min
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=63017
+HP Regen
+Regenerates 50% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP Regen
+
+ID=63018
+HP Loss
+HP -15%
+0
+HP Loss
+
+ID=63019
+Attack Boost
++30% attack damage for 10 min
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=63020
+Defence Boost
++30% defence for 10 min
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=63021
+HP Regen
+Regenerates 50% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP Regen
+
+ID=63022
+HP Loss
+Reduces HP by 99%
+0
+HP Loss
+
+ID=63023
+Reduced defence
+-200% defence for 10 min
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced defence
+
+ID=63024
+HP Loss
+Reduces HP by 20%
+0
+HP Loss
+
+ID=63025
+HP Loss
+Reduces HP by 90%
+0
+HP Loss
+
+ID=63026
+HP Loss
+HP -2%
+0
+HP Loss
+
+ID=63027
+Attack Boost
++500% attack damage for 15 sec
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=63028
+HP Loss
+Reduces HP by 20% every 0.5 sec for 20 sec.
+Icon/Buff/Icon_Common_Debuff_Bleed
+HP Loss
+
+ID=63029
+HP Regen
+Reduces HP by 10%
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP Regen
+
+ID=63030
+HP Loss
+Reduces HP by 10%
+0
+HP Loss
+
+ID=63031
+Slowed
+-50% move speed for 10 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=63032
+Attack Boost
++30% attack damage for 10 min
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=63033
+Defence Boost
++30% defence for 10 min
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=63034
+HP Regen
+Regenerates 100% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP Regen
+
+ID=63035
+HP Loss
+Reduces HP by 5% every 3 sec
+0
+HP Loss
+
+ID=63036
+Attack Boost
++30% attack damage for 5 min
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=63037
+Defence Boost
++30% defence for 5 min
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=63038
+HP Regen
+Regenerates 100% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP Regen
+
+ID=63039
+HP Loss
+Reduces HP by 20%
+0
+HP Loss
+
+ID=63040
+HP Loss
+Reduces HP by 20%
+0
+HP Loss
+
+ID=63041
+HP Loss
+Reduces HP by 20%
+0
+HP Loss
+
+ID=63042
+Action not possible
+Shock for 10 sec
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=63043
+HP Loss
+HP -15% every second for 3 seconds
+0
+HP Loss
+
+ID=63044
+Slowed
+-30% move speed for 5 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=63045
+Speed Boost
++30% move speed for 1 min
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=63046
+HP Loss
+-15% HP
+0
+HP Loss
+
+ID=63047
+HP Loss
+-15% HP every 2 seconds.
+0
+HP Loss
+
+ID=63048
+HP Loss
+0
+0
+HP Loss
+
+ID=5081
+Combat Will 1
++150 attack damage (max. 5x stacks)
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=5082
+Combat Will 2
++300 attack damage (max. 5x stacks)
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=5083
+Combat Will 3
++500 attack damage (max. 5x stacks)
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=20305
+HP regen
+Immediately regenerates 35% HP.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=20405
+HP regen
+Regenerates 40% HP over 23 sec.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=18000
+Temeraire 1
+-
+0
+0
+
+ID=18001
+Temeraire 2
+-
+0
+0
+
+ID=18002
+Temeraire 3
+-
+0
+0
+
+ID=18003
+Destruction 1
+-
+0
+0
+
+ID=18004
+Destruction 2
+-
+0
+0
+
+ID=18005
+Destruction 3
+-
+0
+0
+
+ID=18006
+Malice 1
+-
+0
+0
+
+ID=18007
+Malice 2
+-
+0
+0
+
+ID=18008
+Malice 3
+-
+0
+0
+
+ID=18009
+Vexation 1
+-
+0
+0
+
+ID=18010
+Vexation 2
+-
+0
+0
+
+ID=18011
+Vexation 3
+-
+0
+0
+
+ID=6091
+Battle Lust 1
+Increases crit damage and armour break. Reduces SF consumption.
+Icon/Buff/Icon_Common_Buff_CRI
+Battle Lust
+
+ID=6092
+Battle Lust 2
+Increases crit damage and armour break. Reduces SF consumption.
+Icon/Buff/Icon_Common_Buff_CRI
+Battle Lust
+
+ID=6093
+Battle Lust 3
+Increases crit damage and armour break. Reduces SF consumption.
+Icon/Buff/Icon_Common_Buff_CRI
+Battle Lust
+
+ID=6103
+Die-phoon
+Increases move speed and attack speed.
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move/attack speed
+
+ID=30608
+Slowed
+Move speed decreased
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=30612
+Less attack speed
+Attack speed reduced
+Icon/Buff/Icon_Common_Debuff_MSR
+Less attack speed
+
+ID=30613
+Paralysis
+Paralysed for a certain time
+Icon/Buff/Icon_Common_Debuff_Paralysis
+Paralysis
+
+ID=5614
+Golden Grace
+Increases attack damage and chance of armour break.
+Icon/Buff/Icon_Common_Buff_Penetration
+Damage/armour break
+
+ID=52413
+Unity 1
+When equipped: +1% damage reduction, +100 crit damage.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=52414
+Unity 2
+When equipped: +2% damage reduction, +350 crit damage.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=52415
+Unity 3
+When equipped: +4% damage reduction, +600 crit damage.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=52416
+Unity 1
+When equipped: +2% damage reduction, +100 crit damage.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=52417
+Unity 2
+When equipped: +3% damage reduction, +350 crit damage.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=52418
+Unity 3
+When equipped: +5% damage reduction, +600 crit damage.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=52419
+Crosshair 1
+When equipped: +4% damage to bosses/named monsters.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=52420
+Crosshair 2
+When equipped: +9% damage to bosses/named monsters.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=52421
+Crosshair 3
+When equipped: +15% damage to bosses/named monsters.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=52422
+Crosshair 1
+When equipped: +6% damage to bosses/named monsters.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=52423
+Crosshair 2
+When equipped: +11% damage to bosses/named monsters.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=52424
+Crosshair 3
+When equipped: +17% damage to bosses/named monsters.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=52425
+Freezing 1
+When equipped: -5% damage from boss/named monsters.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage reduction
+
+ID=52426
+Freezing 2
+When equipped: -7% damage from boss/named monsters.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage reduction
+
+ID=52427
+Freezing 3
+When equipped: -10% damage from boss/named monsters.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage reduction
+
+ID=52428
+Freezing 1
+When equipped: -7% damage from boss/named monsters.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage reduction
+
+ID=52429
+Freezing 2
+When equipped: -9% damage from boss/named monsters.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage reduction
+
+ID=52430
+Freezing 3
+When equipped: -12% damage from boss/named monsters.
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage reduction
+
+ID=5091
+Damage Reduction
+Reduces suffered damage by 24%.
+Icon/Buff/Icon_Common_Buff_Def
+Reduced damage
+
+ID=5092
+Damage Reduction
+Reduces suffered damage by 32%.
+Icon/Buff/Icon_Common_Buff_Def
+Reduced damage
+
+ID=5093
+Damage Reduction
+Reduces suffered damage by 40%.
+Icon/Buff/Icon_Common_Buff_Def
+Reduced damage
+
+ID=5096
+Bleeding
+Constant -2% HP
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=5097
+Bleeding
+Constant -3% HP
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=5098
+Bleeding
+Constant -4% HP
+Icon/Buff/Icon_Common_Debuff_Bleed
+Bleeding
+
+ID=5101
+Stun
+Stunned for 1.8 sec
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=5102
+Stun
+Stunned for 2.4 sec
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=5103
+Stun
+Stunned for 3.2 sec
+Icon/Buff/Icon_Common_Debuff_Stun
+Stun
+
+ID=6620
+Reduced cooldown
+-7% cooldown for 5 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+Reduced cooldown
+
+ID=6621
+Reduced cooldown
+-11% cooldown for 5 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+Reduced cooldown
+
+ID=6622
+Reduced cooldown
+-15% cooldown for 5 sec
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+Reduced cooldown
+
+ID=6640
+Increased HP
++600 HP for 1 min (max. 3x stacks)
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+Increased HP
+
+ID=6641
+Increased HP
++900 HP for 1 min (max. 3x stacks)
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+Increased HP
+
+ID=6642
+Increased HP
++1200 HP for 1 min (max. 3x stacks)
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+Increased HP
+
+ID=6643
+Increased HP
++1500 HP for 1 min (max. 3x stacks)
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+Increased HP
+
+ID=6644
+Increased HP
++2000 HP for 1 min (max. 3x stacks)
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+Increased HP
+
+ID=6650
+SF Regeneration
+Regenerates 4% SF per second. (This effect remains for 5 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regeneration
+
+ID=6651
+SF Regeneration
+Regenerates 6% SF per second. (This effect remains for 5 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regeneration
+
+ID=6652
+SF Regeneration
+Regenerates 10% SF per second. (This effect remains for 5 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regeneration
+
+ID=6655
+Shock
+Constant -1% HP. (This effect remains for 4 sec.)
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=6656
+Shock
+Constant -1% HP. (This effect remains for 6 sec.)
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=6657
+Shock
+Constant -1% HP. (This effect remains for 8 sec.)
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=7551
+Indestructible 1
+You are exalted for 3 sec.
+Icon/Buff/Icon_Common_Buff_Immun
+Indestructible 1
+
+ID=7552
+Indestructible 2
+You are exalted for 4 sec.
+Icon/Buff/Icon_Common_Buff_Immun
+Indestructible 2
+
+ID=7553
+Indestructible 3
+You are exalted for 5 sec.
+Icon/Buff/Icon_Common_Buff_Immun
+Indestructible 3
+
+ID=5111
+Arena Storm 1 (self)
+Attack damage +5%
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=5112
+Arena Storm 2 (self)
+Attack damage +7%
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=5113
+Arena Storm 3 (self)
+Attack damage +9%
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=5114
+Arena Storm 4 (self)
+Attack damage +12%
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=5115
+Arena Storm (self)
+Attack damage +15%
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=35400
+Slowed
+-30% move speed for 3 sec
+Icon/Buff/Icon_Common_Debuff_MSR
+Slowed
+
+ID=9000
+Blood Drain
+Regenerates 1% HP for hits within 5 min.
+Icon/Buff/Icon_Common_Buff_Akashic
+Blood Drain
+
+ID=9001
+Deluge
++10% attack damage for 5 min.\n+500 attack damage for 5 min.
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=9002
+Rage Routine
+Crit rate +5% for 5 min.\n+500 crit damage for 5 min.
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit damage/rate
+
+ID=30110
+Burn
+Removes 3500 HP every second.
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=30114
+Reduced Defence
+Reduces defence by 50% for 10 sec
+Icon/Buff/Icon_Common_Debuff_Shock
+Reduced defence
+
+ID=30120
+Electricity Nearby
+Allies in the vicinity suffer from Shock
+Icon/Buff/Icon_Common_Debuff_Bleed
+Electricity in the area
+
+ID=30121
+Short Circuit LV2
+Constant -2% HP
+Icon/Buff/Icon_Common_Debuff_Shock
+Shock
+
+ID=30122
+Shock Healing
+The electrical effect is lifted.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=30130
+Frostbite
+Frost after 5 sec
+Icon/Buff/Icon_Common_Debuff_Freezing
+Frostbite
+
+ID=30131
+Frost
+Prevents movement
+Icon/Buff/Icon_Common_Debuff_Freezing
+Frost
+
+ID=30132
+Frost Resistance
+You suffer no damage.
+Icon/Buff/Icon_Common_Buff_Warm
+Frost Resistance
+
+ID=30133
+Freeze Resistance
+Resistant to Frostbite
+Icon/Buff/Icon_Common_Buff_Warm
+Freeze Resistance
+
+ID=30134
+Frost Breath
+Deducts 1% HP each second and freezes after 5 sec.
+Icon/Buff/Icon_Common_Debuff_Bleed
+Frost Breath
+
+ID=30140
+Bleeding
+-3% HP per second
+Icon/Buff/Icon_Common_Debuff_Bleed
+Infected
+
+ID=30141
+Vulnerable
+Defence -4000
+Icon/Buff/Icon_Common_Debuff_Def
+Weaken
+
+ID=30142
+Infected Wound
++10% damage received
+Icon/Buff/Icon_Common_Debuff_Bleed
+Slow
+
+ID=30145
+HP Loss
+0
+0
+HP Loss
+
+ID=30146
+Weakness
+Reduces defence by 50%
+Icon/Buff/Icon_Common_Debuff_Weakness
+Weakness
+
+ID=30147
+Weakness
+Massively reduces all stats
+Icon/Buff/Icon_Common_Debuff_Weakness
+Weakness
+
+ID=30154
+Poisonous Decay
+-50% crit rate
+Icon/Buff/Icon_Common_Debuff_Poison
+Poisonous Decay
+
+ID=30155
+Pollution
++20% damage received
+Icon/Buff/Icon_Common_Debuff_Poison
+Very Poisonous
+
+ID=30156
+Vulnerable
+-20% move speed/attack speed
+Icon/Buff/Icon_Common_Debuff_Weakness
+Very Poisonous
+
+ID=30157
+Bleeding
+-2% HP per second
+Icon/Buff/Icon_Common_Debuff_Bleed
+Very Poisonous
+
+ID=30158
+Pollution
++100% attack power
+Icon/Buff/Icon_Common_Buff_ATK
+Very Poisonous
+
+ID=30159
+Vulnerable
+-20% damage received
+Icon/Buff/Icon_Common_Buff_Def
+Very Poisonous
+
+ID=30160
+Bleeding
++100% attack speed
+Icon/Buff/Icon_Common_Buff_ASR
+Very Poisonous
+
+ID=9003
+At the Double
+Increases move speed by 10% for 1 min.
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=9004
+At the Double
+Increases move speed by 20% for 1 min.
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=9005
+At the Double
+Increases move speed by 30% for 30 sec.
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=9006
+Massive
+Increases defence by 100% for 20 sec.
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=9007
+Massive
+Increases defence by 50% for 30 sec.
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=9008
+Massive
+Increases defence by 30% for 40 sec.
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=9009
+Massive
+Increases defence by 10% for 1 min.
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=9010
+Deluge
+Increases defence by 50% for 30 sec.
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=9011
+Deluge
+Increases defence by 30% for 40 sec.
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=9012
+Deluge
+Increases defence by 20% for 50 sec.
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=9013
+Deluge
+Increases defence by 10% for 1 min.
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack damage
+
+ID=55137
+Aurith Pillars
+-30% attack and move speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Weakened, Slowed
+
+ID=55138
+Aurith's Song 1
+Reflected damage taken: 2%
+Icon/Buff/Icon_Common_Buff_Akashic
+Reflects
+
+ID=55139
+Aurith's Song 2
+Reflected damage taken: 3%
+Icon/Buff/Icon_Common_Buff_Akashic
+Reflects
+
+ID=55140
+Aurith's Song 3
+Reflected damage taken: 5%
+Icon/Buff/Icon_Common_Buff_Akashic
+Reflects
+
+ID=55141
+Aurith's Song 4
+Reflected damage taken: 7%
+Icon/Buff/Icon_Common_Buff_Akashic
+Reflects
+
+ID=55142
+Aurith in Need 1
+Damage dealt to bosses/named monsters: +7%
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=55143
+Aurith in Need 2
+Damage dealt to bosses/named monsters: +7%
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=55144
+Aurith in Need 3
+Damage dealt to bosses/named monsters: +7%
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=55145
+Aurith in Need 4
+Damage dealt to bosses/named monsters: +7%
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=55146
+Aurith Tornado 1
+Max. attack power against all monsters for 3 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Max. attack damage
+
+ID=55147
+Aurith Tornado 2
+Max. attack power against all monsters for 4 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Max. attack damage
+
+ID=55148
+Aurith Tornado 3
+Max. attack power against all monsters for 6 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Max. attack damage
+
+ID=55149
+Aurith Tornado 4
+Max. attack power against all monsters for 8 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Max. attack damage
+
+ID=54111
+Defence Mode
+When equipped: -3% damage taken
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage reduction
+
+ID=54112
+Defence Mode
+When equipped: -4% damage taken
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage reduction
+
+ID=54113
+Defence Mode
+When equipped: -5% damage taken
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage reduction
+
+ID=54121
+Defence Mode
+When equipped: -5% damage taken
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage reduction
+
+ID=54122
+Defence Mode
+When equipped: -6% damage taken
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage reduction
+
+ID=54123
+Defence Mode
+When equipped: -7% damage taken
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage reduction
+
+ID=54211
+It Finally Clicked!
+When equipped: +5 SN every 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SN Regeneration
+
+ID=54212
+It Finally Clicked!
+When equipped: +6 SN every 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SN Regeneration
+
+ID=54213
+It Finally Clicked!
+When equipped: +7 SN every 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SN Regeneration
+
+ID=54221
+It Finally Clicked!
+When equipped: +7 SN every 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SN Regeneration
+
+ID=54222
+It Finally Clicked!
+When equipped: +9 SN every 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SN Regeneration
+
+ID=54223
+It Finally Clicked!
+When equipped: +11 SN every 10 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+SN Regeneration
+
+ID=54311
+Perfect Destruction
+Suffering a trauma: 50% probability of Exalted for 3 sec. (cooldown: 45 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Exalted
+
+ID=54312
+Perfect Destruction
+Suffering a trauma: 70% probability of Exalted for 3 sec. (cooldown: 45 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Exalted
+
+ID=54313
+Perfect Destruction
+Suffering a trauma: 90% probability of Exalted for 3 sec. (cooldown: 45 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Exalted
+
+ID=54321
+Perfect Destruction
+Suffering a trauma: 60% probability of Exalted for 3 sec. Cooldown: 35 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Exalted
+
+ID=54322
+Perfect Destruction
+Suffering a trauma: 80% probability of Exalted for 3 sec. (cooldown: 35 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Exalted
+
+ID=54323
+Perfect Destruction
+Suffering a trauma: 100% probability of Exalted for 3 sec. Cooldown: 35 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Exalted
+
+ID=54411
+Just As You Please
+When equipped: +7% move speed, +1% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=54412
+Just As You Please
+When equipped: +8% move speed, +2% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=54413
+Just As You Please
+When equipped: +9% move speed, +3% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=54421
+Just As You Please
+When equipped: +10% move speed, +3% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=54422
+Just As You Please
+When equipped: +12% move speed, +4% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=54423
+Just As You Please
+When equipped: +14% move speed, +5% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=54511
+Wild Water
+On critical hit: 5% probability of increasing your armour break by +2% for 2 sec. (stackable max. 2x)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased armour break
+
+ID=54512
+Wild Water
+On critical hit: 5% probability of increasing your armour break by +3% for 2 sec. (stackable max. 2x)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased armour break
+
+ID=54513
+Wild Water
+On critical hit: 5% probability of increasing your armour break by +4% for 2 sec. (stackable max. 2x)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased armour break
+
+ID=54521
+Wild Water
+On critical hit: 7% probability of increasing your armour break by +3% for 3 sec. (stackable max. 2x)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased armour break
+
+ID=54522
+Wild Water
+On critical hit: 7% probability of increasing your armour break by +4% for 3 sec. (stackable max. 2x)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased armour break
+
+ID=54523
+Wild Water
+On critical hit: 7% probability of increasing your armour break by +5% for 3 sec. (stackable max. 2x)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased armour break
+
+ID=54611
+To Hell with You!
+Using a skill: +700 attack power for 3 sec. (cooldown: 30 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=54612
+To Hell with You!
+Using a skill: +900 attack power for 3 sec. (cooldown: 30 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=54613
+To Hell with You!
+Using a skill: +1200 attack power for 3 sec. (cooldown: 30 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=54621
+To Hell with You!
+Using a skill: +900 attack power for 5 sec. (cooldown: 30 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=54622
+To Hell with You!
+Using a skill: +1200 attack power for 5 sec. (cooldown: 30 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=54623
+To Hell with You!
+Using a skill: +1600 attack power for 5 sec. (cooldown: 30 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=54711
+Talk to the Wall!
+When equipped: +500 defence, -7% damage taken from bosses
+Icon/Buff/Icon_Common_Buff_Akashic
+HP regen
+
+ID=54712
+Talk to the Wall!
+When equipped: +700 defence, -8% damage taken from bosses
+Icon/Buff/Icon_Common_Buff_Akashic
+HP regen
+
+ID=54713
+Talk to the Wall!
+When equipped: +900 defence, -9% damage taken from bosses
+Icon/Buff/Icon_Common_Buff_Akashic
+HP regen
+
+ID=54721
+Talk to the Wall!
+When equipped: +750 defence, -8% damage taken from bosses
+Icon/Buff/Icon_Common_Buff_Akashic
+HP regen
+
+ID=54722
+Talk to the Wall!
+When equipped: +900 defence, -9% damage taken from bosses
+Icon/Buff/Icon_Common_Buff_Akashic
+HP regen
+
+ID=54723
+Talk to the Wall!
+When equipped: +1050 defence, -10% damage taken from bosses
+Icon/Buff/Icon_Common_Buff_Akashic
+HP regen
+
+ID=54811
+The World is Hungry
+On direct hit: 30% probability of +10% SoulForce (cooldown: 20 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regeneration
+
+ID=54812
+The World is Hungry
+On direct hit: 30% probability of +15% SoulForce (cooldown: 20 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regeneration
+
+ID=54813
+The World is Hungry
+On direct hit: 30% probability of +20% SoulForce (cooldown: 20 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regeneration
+
+ID=54821
+The World is Hungry
+On direct hit: 30% probability of +20% SoulForce (cooldown: 15 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regeneration
+
+ID=54822
+The World is Hungry
+On direct hit: 30% probability of +25% SoulForce (cooldown: 15 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regeneration
+
+ID=54823
+The World is Hungry
+On direct hit: 30% probability of +30% SoulForce (cooldown: 15 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+SF Regeneration
+
+ID=54911
+More Than Critical
+When equipped: +1500 crit damage for 4 sec. every 65 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=54912
+More Than Critical
+When equipped: +2000 crit damage for 4 sec. every 65 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=54913
+More Than Critical
+When equipped: +3000 crit damage for 4 sec. every 65 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=54921
+More Than Critical
+When equipped: +2000 crit damage for 5 sec. every 55 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=54922
+More Than Critical
+When equipped: +3000 crit damage for 5 sec. every 55 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=54923
+More Than Critical
+When equipped: +4500 crit damage for 5 sec. every 55 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit damage
+
+ID=60111
+Execution
+When equipped: +500 attack power, +7% damage dealt to bosses/named monsters
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=60112
+Execution
+When equipped: +600 attack power, +8% damage dealt to bosses/named monsters
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=60113
+Execution
+When equipped: +700 attack power, +9% damage dealt to bosses/named monsters
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=60121
+Execution
+When equipped: +650 attack power, +9% damage dealt to bosses/named monsters
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=60122
+Execution
+When equipped: +800 attack power, +10% damage dealt to bosses/named monsters
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=60123
+Execution
+When equipped: +1000 attack power, +11% damage dealt to bosses/named monsters
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased damage
+
+ID=60127
+Master of Purification
+When equipped: +5% damage dealt to SoulDregs
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage to SoulDregs
+
+ID=60128
+Master of Purification
+When equipped: +8% damage dealt to SoulDregs
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage to SoulDregs
+
+ID=60129
+Master of Purification
+When equipped: +12% damage dealt to SoulDregs
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage to SoulDregs
+
+ID=60130
+Master of Purification
+When equipped: +7% damage dealt to SoulDregs
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage to SoulDregs
+
+ID=60131
+Master of Purification
+When equipped: +10% damage dealt to SoulDregs
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage to SoulDregs
+
+ID=60132
+Master of Purification
+When equipped: +15% damage dealt to SoulDregs
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage to SoulDregs
+
+ID=60133
+Death Claw
+On direct hit: 5% probability of +25% Crit Rate for 2.5 sec. (cooldown: 10 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=60134
+Death Claw
+On direct hit: 10% probability of +25% Crit Rate for 3.5 sec. (cooldown: 10 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=60135
+Death Claw
+On direct hit: 15% probability of +25% Crit Rate for 4.5 sec. (cooldown: 10 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=60136
+Death Claw
+On direct hit: 10% probability of +25% Crit Rate for 2.5 sec. (cooldown: 10 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=60137
+Death Claw
+On direct hit: 15% probability of +25% Crit Rate for 3.5 sec. (cooldown: 10 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=60138
+Death Claw
+On direct hit: 20% probability of +25% Crit Rate for 4.5 sec. (cooldown: 10 sec.)
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased crit rate
+
+ID=60139
+Rapids
+When equipped: +9% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=60140
+Rapids
+When equipped: +11% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=60141
+Rapids
+When equipped: +13% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=60142
+Rapids
+When equipped: +11% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=60143
+Rapids
+When equipped: +13% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=60144
+Rapids
+When equipped: +15% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=60145
+Checkmate
+When equipped: +3% damage dealt to bosses/named monsters, +2% armour break
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage, Piercer
+
+ID=60146
+Checkmate
+When equipped: +7% damage dealt to bosses/named monsters, +3% armour break
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage, Piercer
+
+ID=60147
+Checkmate
+When equipped: +10% damage dealt to bosses/named monsters, +5% armour break
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage, Piercer
+
+ID=60148
+Checkmate
+When equipped: +5% damage dealt to bosses/named monsters, +2% armour break
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage, Piercer
+
+ID=60149
+Checkmate
+When equipped: +9% damage dealt to bosses/named monsters, +3% armour break
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage, Piercer
+
+ID=60150
+Checkmate
+When equipped: +12% damage dealt to bosses/named monsters, +5% armour break
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage, Piercer
+
+ID=60151
+Euphoria
+Receiving an item: +3% move speed for 5 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=60152
+Euphoria
+Receiving an item: +5% move speed for 5 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=60153
+Euphoria
+Receiving an item: +7% move speed for 5 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=60154
+Euphoria
+Receiving an item: +6% move speed for 5 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=60155
+Euphoria
+Receiving an item: +9% move speed for 5 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=60156
+Euphoria
+Receiving an item: +12% move speed for 5 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased move speed
+
+ID=60157
+Thirst for Revenge
+When an ally dies: +150 attack power for 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=60158
+Thirst for Revenge
+When an ally dies: +250 attack power for 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=60159
+Thirst for Revenge
+When an ally dies: +400 attack power for 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=60160
+Thirst for Revenge
+When an ally dies: +275 attack power for 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=60161
+Thirst for Revenge
+When an ally dies: +425 attack power for 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=60162
+Thirst for Revenge
+When an ally dies: +625 attack power for 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=60163
+Known Good Die
+When equipped: +5% damage dealt to Iron Menace mobs
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage to Iron Menace mobs
+
+ID=60164
+Known Good Die
+When equipped: +8% damage dealt to Iron Menace mobs
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage to Iron Menace mobs
+
+ID=60165
+Known Good Die
+When equipped: +12% damage dealt to Iron Menace mobs
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage to Iron Menace mobs
+
+ID=60166
+Known Good Die
+When equipped: +7% damage dealt to Iron Menace mobs
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage to Iron Menace mobs
+
+ID=60167
+Known Good Die
+When equipped: +10% damage dealt to Iron Menace mobs
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage to Iron Menace mobs
+
+ID=60168
+Known Good Die
+When equipped: +15% damage dealt to Iron Menace mobs
+Icon/Buff/Icon_Common_Buff_Akashic
+Damage to Iron Menace mobs
+
+ID=60169
+Sovereign
+When equipped: +3% XP gain in combat
+Icon/Buff/Icon_Common_Buff_Akashic
+More XP
+
+ID=60170
+Sovereign
+When equipped: +6% XP gain in combat
+Icon/Buff/Icon_Common_Buff_Akashic
+More XP
+
+ID=60171
+Sovereign
+When equipped: +9% XP gain in combat
+Icon/Buff/Icon_Common_Buff_Akashic
+More XP
+
+ID=60172
+Sovereign
+When equipped: +4% XP gain in combat
+Icon/Buff/Icon_Common_Buff_Akashic
+More XP
+
+ID=60173
+Sovereign
+When equipped: +8% XP gain in combat
+Icon/Buff/Icon_Common_Buff_Akashic
+More XP
+
+ID=60174
+Sovereign
+When equipped: +12% XP gain in combat
+Icon/Buff/Icon_Common_Buff_Akashic
+More XP
+
+ID=60175
+Self-care
+When equipped: +5% HP every 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP regen
+
+ID=60176
+Self-care
+When equipped: +7% HP every 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP regen
+
+ID=60177
+Self-care
+When equipped: +9% HP every 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP regen
+
+ID=60178
+Self-care
+When equipped: +6% HP every 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP regen
+
+ID=60179
+Self-care
+When equipped: +8% HP every 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP regen
+
+ID=60180
+Self-care
+When equipped: +10% HP every 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+HP regen
+
+ID=60181
+Accidental Hand
+On death: +300 attack power for 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=60182
+Accidental Hand
+On death: +500 attack power for 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=60183
+Accidental Hand
+On death: +800 attack power for 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=60184
+Accidental Hand
+On death: +550 attack power for 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=60185
+Accidental Hand
+On death: +850 attack power for 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=60186
+Accidental Hand
+On death: +1250 attack power for 60 sec.
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack power
+
+ID=60187
+Fistful of Gold
+When you slay a monster: +10% DZ earned
+Icon/Buff/Icon_Common_Buff_Akashic
+More dzenai
+
+ID=60188
+Fistful of Gold
+When you slay a monster: +15% DZ earned
+Icon/Buff/Icon_Common_Buff_Akashic
+More dzenai
+
+ID=60189
+Fistful of Gold
+When you slay a monster: +20% DZ earned
+Icon/Buff/Icon_Common_Buff_Akashic
+More dzenai
+
+ID=60190
+Fistful of Gold
+When you slay a monster: +15% DZ earned
+Icon/Buff/Icon_Common_Buff_Akashic
+More dzenai
+
+ID=60191
+Fistful of Gold
+When you slay a monster: +20% DZ earned
+Icon/Buff/Icon_Common_Buff_Akashic
+More dzenai
+
+ID=60192
+Fistful of Gold
+When you slay a monster: +25% DZ earned
+Icon/Buff/Icon_Common_Buff_Akashic
+More dzenai
+
+ID=58401
+Victim
+Used in Hidden Fusion of Akasha skills with one star. Provides no skills.
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=58402
+Victim
+Used in Hidden Fusion of Akasha skills with two stars. Provides no skills.
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=58403
+Victim
+Used in Hidden Fusion of Akasha skills with three stars. Provides no skills.
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=58404
+Victim
+Used in Hidden Fusion of Akasha skills with four stars. Provides no skills.
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=58405
+Victim
+Used in Hidden Fusion of Akasha skills with five stars. Provides no skills.
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=58406
+Victim
+Used in Hidden Fusion of Akasha skills with six stars. Provides no skills.
+Icon/Buff/Icon_Common_Buff_Akashic
+0
+
+ID=5041
+Blow Up 1
++4% super armour break and on direct hit, +1% SF regeneration
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF generation
+
+ID=5042
+Blow Up 2
++8% super armour break and on direct hit, +1.2% SF regeneration
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF generation
+
+ID=5043
+Blow Up 3
++12% super armour break and on direct hit, +1.6% SF regeneration
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF generation
+
+ID=5044
+Blow Up 4
++16% super armour break and on direct hit, +2% SF regeneration
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF generation
+
+ID=5045
+Blow Up 5
++20% super armour break and on direct hit, +3% SF regeneration
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF generation
+
+ID=6541
+Rhythm Keeper
+Increases attack speed by 5%.\nRegenerates 5% SF each second.
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=6542
+Rhythm Keeper
+Increases attack speed by 6%.\nRegenerates 6% SF each second
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=6543
+Rhythm Keeper
+Increases attack speed by 8%.\nRegenerates 8% SF each second
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=6544
+Rhythm Keeper
+Increases attack speed by 10%.\nRegenerates 10% SF each second
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=6545
+Rhythm Keeper
+Increases attack speed by 15%.\nRegenerates 15% SF each second
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SF Regen
+
+ID=6546
+Rhythm Keeper
+Regenerates 7% HP.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=6547
+Rhythm Keeper
+Regenerates 9% HP.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=6548
+Rhythm Keeper
+Regenerates 11% HP.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=6549
+Rhythm Keeper
+Regenerates 16% HP.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=6550
+Rhythm Keeper
+Regenerates 25% HP
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+HP regen
+
+ID=6562
+Phantom Trail
++4% move speed
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=6563
+Phantom Trail
++6% move speed
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=6564
+Phantom Trail
++10% move speed
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=7100
+Unleashed
++75% attack, +15% super armour break and +15% additional damage
+Icon/Buff/Icon_Common_Buff_ATK
+Unleashed
+
+ID=7101
+Unleashed
++100% attack, +30% super armour break and +20% additional damage
+Icon/Buff/Icon_Common_Buff_ATK
+Unleashed
+
+ID=7102
+Unleashed
++150% attack, +45% super armour break and +25% additional damage
+Icon/Buff/Icon_Common_Buff_ATK
+Unleashed
+
+ID=6570
+Orb Song
+Crit rate increases by 5%
+Icon/Buff/Icon_Common_Buff_ATK
+Increased crit rate
+
+ID=6571
+Orb Song
+Crit rate increases by 8%
+Icon/Buff/Icon_Common_Buff_ATK
+Increased crit rate
+
+ID=6572
+Orb Song
+Crit rate increases by 15%
+Icon/Buff/Icon_Common_Buff_ATK
+Increased crit rate
+
+ID=6630
+Rhythm Keeper
++10% move speed
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=6631
+Rhythm Keeper
++12% move speed
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=6632
+Rhythm Keeper
++16% move speed
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=6633
+Rhythm Keeper
++20% move speed
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=6634
+Rhythm Keeper
++30% move speed
+Icon/Buff/Icon_Common_Buff_MSR
+Increased move speed
+
+ID=6573
+Orb Song
++30% move speed
+Icon/Buff/Icon_Common_Buff_MSR
+Speed Boost
+
+ID=60193
+Checkmate
+When equipped: +1% damage dealt to bosses/named monsters, +1% armour break
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage, Piercer
+
+ID=60194
+Checkmate
+When equipped: +2% damage dealt to bosses/named monsters, +2% armour break
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage, Piercer
+
+ID=60195
+Checkmate
+When equipped: +4% damage dealt to bosses/named monsters, +3% armour break
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage, Piercer
+
+ID=60196
+Checkmate
+When equipped: +2% damage dealt to bosses/named monsters, +1% armour break
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage, Piercer
+
+ID=60197
+Checkmate
+When equipped: +4% damage dealt to bosses/named monsters, +2% armour break
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage, Piercer
+
+ID=60198
+Checkmate
+When equipped: +6% damage dealt to bosses/named monsters, +3% armour break
+Icon/Buff/Icon_Common_Buff_Akashic
+More damage, Piercer
+
+ID=60199
+Rapids
+When equipped: +2% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=60200
+Rapids
+When equipped: +4% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=60201
+Rapids
+When equipped: +6% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=60202
+Rapids
+When equipped: +3% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=60203
+Rapids
+When equipped: +5% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=60204
+Rapids
+When equipped: +8% attack speed
+Icon/Buff/Icon_Common_Buff_Akashic
+Increased attack speed
+
+ID=22016
+Deluge
+Attack power +13% for 20 minutes
+Icon/Buff/Icon_Common_Buff_ATK
+Increased attack power
+
+ID=22017
+Massive
+Defence power +50% for 20 minutes
+Icon/Buff/Icon_Common_Buff_Def
+Increased defence
+
+ID=22018
+Turbulent
+Attack speed +8% for 20 minutes
+Icon/Buff/Icon_Common_Buff_ASR
+Increased attack speed
+
+ID=22019
+Irascible
+Crit Rate +8% for 20 minutes
+Icon/Buff/Icon_Common_Buff_CRI
+Increased crit rate
+
+ID=29030
+Successful Experiment
+Increases damage dealt to Blood SoulWorkers and reduces the damage you suffer from them for 10 minutes.
+Icon/Buff/Icon_Common_Buff_Reg
+Against Blood SoulWorkers
+
+ID=7500
+Supernova
++15% attack damage.\n+30% super armour break.\n+20% move speed.\nActivates super armour.
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=7521
+Burst
+All attacks inflict maximum damage.
+Icon/Buff/Icon_Common_Buff_ATK
+Burst
+
+ID=7522
+Burst
+All attacks inflict maximum damage.
+Icon/Buff/Icon_Common_Buff_ATK
+Burst
+
+ID=7523
+Burst
+All attacks inflict maximum damage.
+Icon/Buff/Icon_Common_Buff_ATK
+Burst
+
+ID=7524
+Burst
+All attacks inflict maximum damage.
+Icon/Buff/Icon_Common_Buff_ATK
+Burst
+
+ID=7525
+Burst
+All attacks inflict maximum damage.
+Icon/Buff/Icon_Common_Buff_ATK
+Burst
+
+ID=7526
+Reduced Defence
+Reduces defence by 20%.
+Icon/Buff/Icon_Common_Debuff_Def
+Reduced Defence
+
+ID=8501
+Kilonova
+All attacks inflict maximum damage.\n+20% move speed\nActivates super armour
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=8502
+Supernova
+All attacks inflict maximum damage.\n-25% damage received\n+20% move speed\nActivates super armour
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=8511
+Loot in Sight
+Targets marked with Loot in Sight will suffer additional damage from SoulStrikes (max 3x stacks).
+Icon/Buff/Icon_Common_Debuff_Poison
+Loot in Sight
+
+ID=8521
+Life Drops
+Regenerates HP in proportion to attack damage with each hit for 3 sec.
+Icon/Buff/Icon_Common_Buff_VampHP2
+Life Drops
+
+ID=8531
+Improved Piercer
+Grants improved armour break for 5 sec.
+Icon/Buff/Icon_Common_Buff_Penetration
+Improved Piercer
+
+ID=8541
+More Crit Damage
+Crit damage increased by 150% for 25 sec.
+Icon/Buff/Icon_Common_Buff_ATK
+More Crit Damage
+
+ID=8542
+More Crit Damage
+Crit damage increased by 170% for 25 sec.
+Icon/Buff/Icon_Common_Buff_ATK
+More Crit Damage
+
+ID=8543
+More Crit Damage
+Crit damage increased by 200% for 25 sec.
+Icon/Buff/Icon_Common_Buff_ATK
+More Crit Damage
+
+ID=8551
+Improved Piercer
+Grants 5% more effective armour break for 25 sec.
+Icon/Buff/Icon_Common_Buff_Penetration
+Improved Piercer
+
+ID=8552
+Improved Piercer
+Grants 10% more effective armour break for 25 sec.
+Icon/Buff/Icon_Common_Buff_Penetration
+Improved Piercer
+
+ID=8553
+Improved Piercer
+Grants 15% more effective armour break for 25 sec.
+Icon/Buff/Icon_Common_Buff_Penetration
+Improved Piercer
+
+ID=8561
+Deft Hands
++5% attack speed for 15 sec. (max 3x stacks)
+Icon/Buff/Icon_Common_Buff_ASR
+0
+
+ID=8571
+강화된 검은피
+10초간 슈퍼아머 파괴량과 치명타 확률이 5% 증가합니다.
+Icon/Buff/Icon_Common_Buff_CRI
+강화된 검은피
+
+ID=8572
+강화된 검은피
+10초간 슈퍼아머 파괴량과 치명타 확률이 7% 증가합니다.
+Icon/Buff/Icon_Common_Buff_CRI
+강화된 검은피
+
+ID=8573
+강화된 검은피
+10초간 슈퍼아머 파괴량과 치명타 확률이 10% 증가합니다.
+Icon/Buff/Icon_Common_Buff_CRI
+강화된 검은피
+
+ID=411
+데자이어 각성
+60초간 이동 속도 30% 및 피해량과 공격 속도 20% 상승, 최대 피해량으로 고정, SG 소모율이 20% 감소합니다.
+Icon/Buff/Icon_Common_Buff_BreakErode
+데자이어 각성

@@ -1,0 +1,571 @@
+ID=15
+Stamina Regeneration
+Amount of stamina you regenerate each second.
+
+ID=18
+Move Speed
+The speed at which you move.
+
+ID=19
+Attack Speed
+The speed at which you attack.
+
+ID=21
+Attack Damage
+The max and minimum damage that you can inflict on foes.
+
+ID=24
+Defence
+Reduces incoming damage in relation to your defence rating.\nDefence rating: reduces by {0}% with an identical level.\nDefence rating adjusts with level differences.
+
+ID=26
+Accuracy
+Reduces the chance of only landing a partial hit.
+
+ID=28
+Partial Damage
+The damage rate that counts when you make a partial hit.
+
+ID=29
+Crit
+The chance of landing a crit and the crit damage amount (less max attack damage).
+
+ID=31
+Crit Resistance
+Reduces the chance of suffering a critical hit.
+
+ID=35
+Crit Damage
+The additional damage that you inflict with a critical hit.
+
+ID=38
+Damage Reduction
+Reduce the damage that you suffer from enemy attacks.
+
+ID=43
+Evasion
+The chance of evading enemy attacks.
+
+ID=47
+Armour Break
+Ignores the enemy’s defence by the correspondent value.
+
+ID=49
+Fire Resistance
+Reduces the chance of receiving burns.
+
+ID=50
+Poison Resistance
+Reduces the chance of being poisoned.
+
+ID=51
+Electric Resistance
+Reduces the chance of suffering electrocution.
+
+ID=52
+Bleed Resistance
+Reduces the chance of bleeding.
+
+ID=53
+Stun Resistance
+Reduces the chance of becoming stunned.
+
+ID=54
+Paralysis Resistance
+Reduces the chance of becoming paralysed.
+
+ID=11000
+Greet
+You wave joyfully.
+
+ID=11001
+Laugh
+You laugh heartily.
+
+ID=11002
+Cry
+You cry.
+
+ID=11003
+Cheer
+You encourage everyone.
+
+ID=11004
+Sit
+You sit down and relax.
+
+ID=11005
+Dance
+You dance wildly.
+
+ID=11006
+Provoke
+You threaten with intent.
+
+ID=11007
+Boast
+You pose with pride.
+
+ID=11008
+Superstar
+You pose like a superstar.
+
+ID=11009
+Maid
+You act like a servant.
+
+ID=11010
+Butler
+You act like a servant.
+
+ID=11011
+Supermodel
+You pose like a supermodel.
+
+ID=11012
+Sunbathing
+You sprawl out as if you were on a sunbed.
+
+ID=11013
+Swim School
+You enact swimming movements.
+
+ID=11014
+Bunny
+You behave like an innocent little bunny.
+
+ID=11015
+Happy Holidays
+You wish a very merry Christmas!
+
+ID=11016
+Yukata
+You celebrate grandly.
+
+ID=11017
+Hanbok
+You dress in traditional Korean attire.
+
+ID=11018
+Confectioner
+You show off your best pastry chef skills.
+
+ID=11019
+Spiral Cats 1
+You show off your Spiral Cats skills 1.
+
+ID=11020
+Spiral Cats 2
+You show off your Spiral Cats skills 2.
+
+ID=11021
+White Day
+You celebrate White Day.
+
+ID=11022
+Steampunk
+You celebrate your Steampunk style.
+
+ID=11023
+Sweetie-Pie 1
+As a maid you’re a real sweetie-pie 1.
+
+ID=11024
+Sweetie-Pie 2
+As a maid you’re a real sweetie-pie 2.
+
+ID=11025
+Sun Kiss
+You tan yourself in the sun in your Sun Kiss Swimsuit.
+
+ID=20000
+Inventory
+Opens/closes inventory.\nLook through items in your possession and use them as you wish.
+
+ID=20001
+Equipment
+Opens/closes the window for equipment you are currently wearing.\nCheck your equipment and swap them as desired.
+
+ID=20003
+Skills
+Opens/closes the skill menu.\nAdd skills, Akasha skills and gestures to your quick slots.
+
+ID=20008
+Quests
+Opens/closes the quest window.\nCheck on quests in progress and ones you have completed.
+
+ID=20016
+Profile
+Opens/closes the profile.\nCheck your attributes, choose your title or edit your profile.
+
+ID=20023
+Community
+Opens/closes the community window.\nCheck information on friends, guild players and blocked players.
+
+ID=20034
+SoulSequence
+Opens/closes the SoulSequence window.\nCheck details on SoulSequences in your possession and view the SoulSequences that you have collected.
+
+ID=20036
+System
+Opens the system menu.
+
+ID=20038
+Progress
+Opens/closes the game progress window.\nCheck details on your achievements and progress and collect bonuses.
+
+ID=20045
+Team Search
+Opens/closes team search window.\nYou can search for teams or players searching for a team.
+
+ID=20053
+Allies
+Opens/closes the Allies window.\nApply gear to your allies and summon or dismiss them.
+
+ID=20055
+Guild
+Opens/closes the guild page.
+
+ID=20064
+Market
+Opens/closes the Market.
+
+ID=20065
+Rankings
+Opens/closes the rankings window.
+
+ID=20080
+Mount
+Opens/closes the mount window.
+
+ID=20100
+My Home
+Enter your home.
+
+ID=21000
+Experience Points (XP)
+You receive {0} XP.
+
+ID=21001
+Dzenai
+You receive {0} DZ.
+
+ID=21002
+Your Battle Points
+You receive {0} BP.
+
+ID=21003
+Aethar
+You receive {0} Aethar.
+
+ID=21004
+Title
+You receive the title {0} {1}.
+
+ID=30000
+Consumable Quick Slot
+You can add and use some consumables in the provided quick slot.
+
+ID=30001
+Use Mini-map/Map
+Use the mini-map and zone map to be able to see important (like quests) info at all times.
+
+ID=30002
+Quests
+The quest log provides you with an overview of individual quests.
+
+ID=30003
+UI Mode
+Press [Alt] to switch the UI mode and to set the mouse to cursor mode.
+
+ID=30004
+Gathering Aethar
+You gather Aethar by defeating monsters. You will need it as a material for upgrading and overclocking.
+
+ID=30005
+Gathering SoulNova
+SoulNova (SN) is obtained by defeating monsters and attacking objects. It is required as a material for the Nova skill. (Can be used after completing the correspondent quest.)
+
+ID=30006
+Combos
+Execute combos directly after one another to generate additional positive effects.
+
+ID=30007
+Gathering Items
+Qubes are containers that come in both common and also rare forms. There are items to be found in every qube.
+
+ID=30008
+Nova Skill
+Fill your SN bar to be able to use your Nova skill.
+
+ID=30009
+Teamplay
+Form a team and enter a district together. You’ll then benefit from team advantages and progress through battles more quickly.
+
+ID=30010
+Using Skill Points
+Use your skill points (SP) to improve your skills or to learn their SoulPlus.
+
+ID=30011
+Shop Actions
+You can buy or sell items in the shop.
+
+ID=30012
+HEMS
+Send your friends messages and even attach items.
+
+ID=30013
+Bank
+Use the bank to store items or dzenai.
+
+ID=30014
+Crafting
+Gather blueprints and materials to produce items.
+
+ID=30015
+Upgrading
+Use upgrade materials and Aethar to improve your equipment.
+
+ID=30016
+Dismantle
+Dismantle unneeded items and use their materials.
+
+ID=30017
+Special Quests (SQ)
+In daily quests, which appear once per day, you can earn Grutin Gold, which can then be used in the Grutin Bazaar.
+
+ID=30018
+Hidden Quests (HQ)
+Sometimes hidden quests appear in certain corners of districts. If you complete their objective, you will receive additional rewards at the end of the district.
+
+ID=30019
+Achievements
+Collect rewards for achievements in the progress menu.
+
+ID=30020
+SoulSequence
+You will be able to find SoulSequences in some of the districts that you have already completed. If you complete a SoulSequence, you will receive a reward in the progress menu.
+
+ID=30021
+Progression
+Every district completion increases your progress. The progress of all districts within a city zone decide the superordinate zone progress.
+
+ID=30022
+Title
+Gather different titles and decide which ones best represent your style.
+
+ID=30023
+Energy
+With increasing level and depending on the type of district you enter, you consume energy points (EP). If you do not have enough EP, you will not be able to enter any districts.
+
+ID=30024
+Help
+Click on the help symbol to receive helpful information on the related game action.
+
+ID=30025
+VIP Level
+NPCs that you visit to carry out functions repay you with a VIP status, which improves the more you visit them. The higher your VIP level, the more advantages you receive.
+
+ID=30026
+Allies
+Meet unusual companions on your quests. These allies will then help you in different ways during combat.
+
+ID=30027
+My Home
+As a SoulWorker you have your very own home. This closed-off area allows you to let your hair down between battle runs and take full advantage of community features.
+
+ID=30028
+Guild
+Found a guild and make use of even more community features.
+
+ID=30029
+Durability
+If the durability of an item sinks too low, it will no longer be of any use to you.
+
+ID=30030
+Auxiliary Weapon
+Equip an auxiliary weapon to increase your stats and add bonuses.
+
+ID=30031
+Relics
+Gather various relics and equip them to improve your attributes.
+
+ID=30032
+Drives
+You can find sockets on special SoulWeapons and armour. Socket on a drive to improve the stats of the equipment.
+
+ID=30036
+Endgame
+Endgame content
+
+ID=30037
+Item Achievements
+Item progress: {0}%
+
+ID=30038
+District Achievements
+District progress: {0}%
+
+ID=30039
+Battle Achievements
+Battle progress: {0}%
+
+ID=30040
+Quest Achievements
+Quest progress: {0}%
+
+ID=30041
+Game Achievements
+Total game progress: {0}%
+
+ID=30042
+Community Achievements
+Community progress: {0}%
+
+ID=30043
+Summon Allies
+Summon allies by pressing F3 in districts or by opening the Ally window using Z.
+
+ID=30044
+Raid Achievements
+Raid progress: {0}%
+
+ID=21005
+Dzenai
+This currency is used in in-game shops and at the Market.\nYou receive it by defeating monsters and also as a reward.
+
+ID=21006
+Aethar
+This material is used to upgrade and refine items.\nYou receive it by defeating monsters and from dismantling.
+
+ID=21007
+BP
+This currency is used to purchase high-quality items from Deleska.\nYou receive it by defeating monsters and also as a reward.
+
+ID=21008
+SoulCash
+You use this currency in the premium shop to purchase goods.\nYou receive it by topping up.
+
+ID=11031
+Sea Breeze 1
+Sea Breeze 1 refreshes your senses.
+
+ID=11032
+Sea Breeze 2
+Sea Breeze 2 refreshes your senses.
+
+ID=11029
+Yin and Yang
+You pose in the symbol of Yin and Yang.
+
+ID=11030
+Grutin Greeting
+You greet like a Grutin would, gru gru.
+
+ID=11033
+Work in Black
+Today’s Mission: Work in Black
+
+ID=11027
+Hanbok B
+Hanbok B accentuates your figure.
+
+ID=11034
+Hero's Glory
+You seem really familiar somehow.
+
+ID=11035
+Pure of Heart
+Back to the nursery.
+
+ID=11028
+Figure Skating
+You glide over the ice in sublime patterns.
+
+ID=11037
+Marching Band
+You’re in the Marching Band.
+
+ID=11038
+Holy Seat
+You commemorate the Holy Seat with prayer.
+
+ID=1000
+Level XP
+{0} / {1} ({2}%)
+
+ID=1001
+Rank XP (own)
+{0}\n{1} / {2} ({3}%)
+
+ID=1002
+Rank (others)
+{0}
+
+ID=10
+HP
+Your Hit Points (HP). You’re incapacitated when your HP reaches 0.
+
+ID=14
+Stamina
+Consumed when you evade or use skills.
+
+ID=103
+Extra Damage: Basic
+The extra damage against standard monsters increases by this rate.
+
+ID=104
+Extra Dam.: Boss/Named
+The extra damage against named monsters and bosses increases by this rate.
+
+ID=100
+Shorter Cooldown
+The cooldown time of skills reduces by this rate.
+
+ID=11039
+Purple Magnolias
+You blossom as a purple magnolia.
+
+ID=30033
+AK Fuse/Development
+You can use Akasha Cards 3 ways: fuse them to increase your AXP; add them to increase your AK rank; merge them to increase their AK rarity.
+
+ID=30034
+Gathering Akasha
+You can equip or unequip any Akasha Cards you've received via the Akasha Record menu.
+
+ID=30035
+Setting/Using Akasha
+You can access your active and passive Akasha skills during battle once you've registered them in the Akasha Record and individually equipped each of them.
+
+ID=11036
+Party Pyjamas
+Celebrating in their favourite SouliJama look.
+
+ID=11044
+데자이어 워커
+데자이어 워커 제스쳐를 취합니다.
+
+ID=11045
+데자이어 각성
+데자이어 각성 제스쳐를 취합니다.
+
+ID=11042
+서번트 인 카페
+서번트 인 카페 제스쳐를 취합니다.
+
+ID=11043
+Sailor
+You act like a sailor.
+
+ID=11046
+Bad Blood Ball
+You're showing your best bad side.
+
+ID=11047
+Soul Kitty
+Here, kitty, kitty!
+
+ID=11048
+Into the Dreamworld
+The world is melting… what is the dream, what is reality?
