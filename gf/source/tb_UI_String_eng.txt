@@ -23639,7 +23639,7 @@ ID=52070
 The item can’t be used.
 
 ID=52071
-The number of selected items doesn’t match.
+The number of items selected is incorrect.
 
 ID=24023
 Chip Flexor
@@ -27293,7 +27293,7 @@ ID=53301
 Channel {0}
 
 ID=53302
-Group/Squad {0} (Channel {1})
+{0} (Channel {1})
 
 ID=53303
 Side/Repeatable Quest: Hide LV
@@ -27545,16 +27545,16 @@ ID=24340
 이모션
 
 ID=20229
-서번트 인 카페
+Fancy Hotelier
 
 ID=20230
-예의를 갖춰 인사합니다.
+You’re a meeter and greeter like no other.
 
 ID=20231
-{0}님이 예의를 갖춰 인사합니다.
+{0} meets and greets like a boss.
 
 ID=710019
-서번트 인 카페
+Fancy Hotelier
 
 ID=1056
 Wavy Up Do
@@ -27731,13 +27731,13 @@ ID=20240
 {0}님에게 데자이어 워커의 기운이 신체에 서립니다.
 
 ID=20009
-사용 가능한 카운트박스가 있습니다.
+You have a count box.
 
 ID=331
-아이템 정렬을 하시겠습니까?
+Do you want to sort your items?
 
 ID=55607
-우편 반송에 실패했습니다.
+HEMS delivery failed.
 
 ID=10119
 계정 제한
@@ -28010,16 +28010,16 @@ ID=31203
 No matching searches were found for the criteria you have entered.
 
 ID=53304
-ESC키를 누르면 컷신이 종료됩니다.
+ESC: Skip cutscene
 
 ID=53305
-다른 유저를 기다리는 중입니다.
+Waiting for other players...
 
 ID=53306
-모든 유저의 컷신이 종료되었습니다.
+The cutscene has been skipped for all players.
 
 ID=53307
-ESC키를 누르면 화면이 종료됩니다.
+ESC: Close
 
 ID=80000
 Not enough Special Dye points.
@@ -28446,3 +28446,60 @@ Guardian of the Ocean
 
 ID=33574
 Queen’s Knight
+
+ID=18229
+옵션 정보
+
+ID=18230
+선택 제련 포인트
+
+ID=18231
+변경 가능 옵션
+
+ID=18232
+- <font color='#0048BA'>캐릭터 단위</font>로 최대 <font color='#FFBF00'>{0}</font><font color='#0048BA'> 포인트</font> 누적\n- <font color='#0048BA'>소비한 에너지 컨버터 당</font> <font color='#FFBF00'>{1}</font><font color='#0048BA'> 포인트</font> 획득\n- 초과된 포인트는 소멸
+
+ID=18233
+선택 제련
+
+ID=18234
+1개의 옵션만 선택하여 제련할 수 있습니다.\n선택된 옵션의 종류는 변경되지 않습니다.
+
+ID=18235
+복원 옵션
+
+ID=18236
+복원 비용
+
+ID=18238
+변경된 옵션
+
+ID=18239
+<font color='#0048BA'>변경된 옵션이 적용되었습니다.</font>\n복원 옵션을 선택하여 기존 옵션으로 되돌릴 수 있습니다.\n옵션 복원 시 BP가 소모됩니다.\n<font color='#FF0000'>현재 상태에서 벗어나면 더 이상 복원을 할 수 없습니다.</font>
+
+ID=18240
+확인
+
+ID=18241
+복원
+
+ID=18243
+보유 포인트
+
+ID=18244
+필요 포인트
+
+ID=18245
+정밀 제련
+
+ID=18246
+정밀 제련 시, 등록된 아이템을 최상급(100%)으로 제련합니다.
+
+ID=18247
+등급 보호 아이템 사용
+
+ID=53160
+You cannot send team invites during a SoulSquad search.
+
+ID=53161
+Automatic squad search is unavailable during a team or SoulSquad search.
