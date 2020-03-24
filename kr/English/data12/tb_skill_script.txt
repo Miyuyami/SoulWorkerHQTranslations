@@ -2752,7 +2752,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 
 ID=4131
 Will of Passion Ⅰ
-[Info]\nRecover SG on successful hit.\nRecover SG automatically while out of combat.\nRecover significantly more SG when out of combat for a longer time.\nOn successful counter, recover additional SG.
+[スキル情報]\n基本攻撃成功時、SGを回復。\n非戦闘状態で自動的にSGを回復。\n非戦闘状態が長いほど、大幅にSGを回復。\nカウンター成功時、追加SGを回復。
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
@@ -2760,23 +2760,23 @@ Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 
 ID=4141
 Strong Body
-[Info]\nPassive Effect: Damage Reduction +[10%]\n\nThe damage reduction effect is always active.
-Damage Reduction: [10%]+5%
+[スキル情報]\nパッシブ効果：ダメージ減少[10%]増加
+ダメージ減少：[10%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive
 0
 0
 
 ID=4142
 Strong Body Ⅱ
-[Info]\nPassive Effect: Damage Reduction +[15%]\n\nThe damage reduction effect is always active.
-Damage Reduction: [15%]+5%
+[スキル情報]\nパッシブ効果：ダメージ減少[15%]増加
+ダメージ減少：[15%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive
 0
 0
 
 ID=4143
 Strong Body Ⅲ
-[Info]\nPassive Effect: Damage Reduction +[20%]\n\nThe damage reduction effect is always active.
+[スキル情報]\nパッシブ効果：ダメージ減少[20%]増加
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive
 0
@@ -2784,7 +2784,7 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive
 
 ID=4151
 Stamina Mastery Ⅰ
-[Info]\nPassive Effect: +[10%] Stamina Recovery Rate\n\nStamina recovery rate is permanently increased.
+[Info]\nPassive Effect: [+10%] Stamina Recovery Rate\n\nIncreases stamina recovery.
 Stamina Recovery Rate: [10%]+10% 
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
@@ -2792,7 +2792,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 
 ID=4152
 Stamina Mastery Ⅱ
-[Info]\nPassive Effect: +[20%] Stamina Recovery Rate\n\nStamina recovery rate is permanently increased.
+[Info]\nPassive Effect: [+20%] Stamina Recovery Rate\n\nIncreases stamina recovery.
 Stamina Recovery Rate: [20%]+10% 
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
@@ -2800,7 +2800,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 
 ID=4153
 Stamina Mastery Ⅲ
-[Info]\nPassive Effect: +[30%] Stamina Recovery Rate\n\nStamina recovery rate is permanently increased.
+[Info]\nPassive Effect: [+30%] Stamina Recovery Rate\n\nIncreases stamina recovery.
 Stamina Recovery Rate: [30%]+10% 
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
@@ -2808,7 +2808,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 
 ID=4154
 Stamina Mastery Ⅳ
-[Info]\nPassive Effect: +[40%] Stamina Recovery Rate\n\nStamina recovery rate is permanently increased.
+[Info]\nPassive Effect: [+40%] Stamina Recovery Rate\n\nIncreases stamina recovery.
 Stamina Recovery Rate: [40%]+10% 
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
@@ -2816,7 +2816,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 
 ID=4155
 Stamina Mastery Ⅴ
-[Info]\nPassive Effect: +[50%] Stamina Recovery Rate\n\nStamina recovery rate is permanently increased.
+[Info]\nPassive Effect: [+50%] Stamina Recovery Rate\n\nIncreases stamina recovery.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
@@ -2832,39 +2832,39 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 
 ID=14011
 Counter Attack Ⅰ
-[スキル情報：通常攻撃]\nダメージ量：[295%]\nSA破壊量：[79%]\n\n[スキル情報：追加攻撃]\nダメージ量：[118%]\nSA破壊量：[32%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、7秒間一部のスキルが強化状態になり、SGが10%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)
-[通常攻撃]\nダメージ量：[295%]+15%\nSA破壊量：[79%]+4%\n\n[強制攻撃] \nダメージ量：[118%]+6%\nSA破壊量：[32%]+1%\n\n[カウンター成功]\nSG獲得：[10%]+1%
+[スキル情報：基本効果]\nダメージ量：[295%]\nSA破壊量：[79%]\nクールタイム：[5秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[118%]\nSA破壊量：[32%]\n\nカウンターの構えを取ります。\n成功時、8.3秒間一部のスキルが強化状態となり、SGを[15%]回復する。\n近距離攻撃に対して、回避行いカウンターを繰り出す。\n追加操作で、構えを解き攻撃を行う。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：効果中(右クリック)
+[基本効果]\nダメージ量：[295%]+15%\nSA破壊量：[79%]+4%\n\n[追加攻撃] \nダメージ量：[118%]+6%\nSA破壊量：[32%]+1%\n\n[回復効果]\nSG回復：[15%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=14012
 Counter Attack Ⅱ
-[スキル情報：通常攻撃]\nダメージ量：[310%]\nSA破壊量：[83%]\n\n[スキル情報：強制攻撃]\nダメージ量：[124%]\nSA破壊量：[33%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、7秒間一部のスキルが強化状態になり、SGが11%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)
-[通常攻撃]\nダメージ量：[310%]+37%\nSA破壊量：[83%]+10%\n\n[強制攻撃] \nダメージ量：[124%]+15%\nSA破壊量：[33%]+4%\n\n[カウンター成功]\nSG獲得：[11%]+2%
+[スキル情報：基本効果]\nダメージ量：[310%]\nSA破壊量：[83%]\nクールタイム：[5秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[124%]\nSA破壊量：[33%]\n\nカウンターの構えを取ります。\n成功時、8.3秒間一部のスキルが強化状態となり、SGを[20%]回復する。\n近距離攻撃に対して、回避行いカウンターを繰り出す。\n追加操作で、構えを解き攻撃を行う。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：効果中(右クリック)
+[基本効果]\nダメージ量：[310%]+37%\nSA破壊量：[83%]+10%\n\n[追加攻撃] \nダメージ量：[124%]+15%\nSA破壊量：[33%]+4%\n\n[回復効果]\nSG回復：[20%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=14013
 Counter Attack Ⅲ
-[スキル情報：通常攻撃]\nダメージ量：[347%]\nSA破壊量：[93%]\n\n[スキル情報：強制攻撃]\nダメージ量：[139%]\nSA破壊量：[37%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、7秒間一部のスキルが強化状態になり、SGが13%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)
-[通常攻撃]\nダメージ量：[347%]+37%\nSA破壊量：[93%]+10%\n\n[強制攻撃] \nダメージ量：[139%]+15%\nSA破壊量：[37%]+4%\n\n[カウンター成功]\nSG獲得：[13%]+2%
+[スキル情報：基本効果]\nダメージ量：[347%]\nSA破壊量：[93%]\nクールタイム：[5秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[139%]\nSA破壊量：[37%]\n\nカウンターの構えを取ります。\n成功時、8.3秒間一部のスキルが強化状態となり、SGを[25%]回復する。\n近距離攻撃に対して、回避行いカウンターを繰り出す。\n追加操作で、構えを解き攻撃を行う。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：効果中(右クリック)
+[基本効果]\nダメージ量：[347%]+37%\nSA破壊量：[93%]+10%\n\n[追加攻撃] \nダメージ量：[139%]+15%\nSA破壊量：[37%]+4%\n\n[回復効果]\nSG回復：[25%]+10%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=14014
 Counter Attack Ⅳ
-[スキル情報：通常攻撃]\nダメージ量：[384%]\nSA破壊量：[103%]\n\n[スキル情報：強制攻撃]\nダメージ量：[154%]\nSA破壊量：[41%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、7秒間一部のスキルが強化状態になり、SGが15%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)
-[通常攻撃]\nダメージ量：[384%]+59%\nSA破壊量：[103%]+16%\n\n[強制攻撃] \nダメージ量：[154%]+23%\nSA破壊量：[41%]+7%\n\n[カウンター成功]\nSG獲得：[15%]+5%
+[スキル情報：基本効果]\nダメージ量：[384%]\nSA破壊量：[103%]\nクールタイム：[5秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[154%]\nSA破壊量：[41%]\n\nカウンターの構えを取ります。\n成功時、8.3秒間一部のスキルが強化状態となり、SGを[30%]回復する。\n近距離攻撃に対して、回避行いカウンターを繰り出す。\n追加操作で、構えを解き攻撃を行う。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：効果中(右クリック)
+[基本効果]\nダメージ量：[384%]+59%\nSA破壊量：[103%]+16%\n\n[追加攻撃] \nダメージ量：[154%]+23%\nSA破壊量：[41%]+7%\n\n[回復効果]\nSG回復：[35%]+15%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
 Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=14015
 Counter Attack Ⅴ
-[スキル情報：通常攻撃]\nダメージ量：[443%]\nSA破壊量：[119%]\n\n[スキル情報：追加攻撃]\nダメージ量：[177%]\nSA破壊量：[48%]\n\n[スキル情報：一般]\nクールタイム：[5秒]\n近距離攻撃に対してのみ反撃でき、成功時、7秒間一部のスキルが強化状態になり、SGが20%回復する。\n\n敵の攻撃を無視してカウンターを繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)
+[スキル情報：基本効果]\nダメージ量：[443%]\nSA破壊量：[119%]\nクールタイム：[5秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[177%]\nSA破壊量：[48%]\n\nカウンターの構えを取ります。\n成功時、8.3秒間一部のスキルが強化状態となり、SGを[50%]回復する。\n近距離攻撃に対して、回避行いカウンターを繰り出す。\n追加操作で、構えを解き攻撃を行う。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：効果中(右クリック)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
@@ -2872,39 +2872,39 @@ Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=14021
 Glory Upper Ⅰ
-[スキル情報：通常攻撃]\nダメージ量：[164%]\nSA破壊量：[210%]\n\n[スキル情報：追加攻撃]\nダメージ量：[82%][41%][123%]\nSA破壊量：[105%][53%][158%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[10秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG消費量：[0]\nSG受給量：[5%]\n\n接近して、アッパー攻撃で敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×3
-[通常攻撃]\nダメージ量：[164%]+8%\nSA破壊量：[210%]+10%\n\n[追加攻撃] \nダメージ量：[82%]+4% [41%]+2% [123%]+6%\nSA破壊量：[105%]+5% [53%]+2% [158%]+8%\n\n[スキル情報：カウンターアタック連係]\nSG受給量：[5%]+1%
+[スキル情報：基本攻撃]\nダメージ量：[221%]\nSA破壊量：[210%]\nSG消費量：[25]\nクールタイム：[10秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[110%][55%][166%]\nSA破壊量：[105%][53%][158%]\n\n連続攻撃で敵を浮かせる。\nその後、追加操作に追撃を加える。\nカウンターアタックによる、スキル強化時ダメージ量が1.5倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：右クリック　×３
+[基本攻撃]\nダメージ量：[221%]+11%\nSA破壊量：[210%]+10%\n\n[追加攻撃] \nダメージ量：[110%]+6% [55%]+3% [166%]+8%\nSA破壊量：[105%]+5% [53%]+2% [158%]+8%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper
 0
 Movie/Skill/PC_D/B_Skill_GloryUpper
 
 ID=14022
 Glory Upper Ⅱ
-[スキル情報：通常攻撃]\nダメージ量：[172%]\nSA破壊量：[220%]\n\n[スキル情報：追加攻撃]\nダメージ量：[86%][43%][129%]\nSA破壊量：[110%][55%][165%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[10秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG消費量：[0]\nSG受給量：[6%]\n\n接近して、アッパー攻撃で敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×3
-[通常攻撃]\nダメージ量：[172%]+20%\nSA破壊量：[220%]+27%\n\n[追加攻撃] \nダメージ量：[86%]+10% [43%]+5% [129%]+15%\nSA破壊量：[110%]+13% [55%]+7% [165%]+20%\n\n[スキル情報：カウンターアタック連係]\nSG受給量：[6%]+11%
+[スキル情報：通常攻撃]\nダメージ量：[232%]\nSA破壊量：[220%]\nSG消費量：[25]\nクールタイム：[10秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[116%][58%][174%]\nSA破壊量：[110%][55%][165%]\n\n連続攻撃で敵を浮かせる。\nその後、追加操作に追撃を加える。\nカウンターアタックによる、スキル強化時ダメージ量が1.5倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：右クリック　×３
+[基本攻撃]\nダメージ量：[232%]+27%\nSA破壊量：[220%]+27%\n\n[追加攻撃] \nダメージ量：[116%]+13% [58%]+6% [174%]+20%\nSA破壊量：[110%]+13% [55%]+7% [165%]+20%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper
 0
 Movie/Skill/PC_D/B_Skill_GloryUpper
 
 ID=14023
 Glory Upper Ⅲ
-[スキル情報：通常攻撃]\nダメージ量：[192%]\nSA破壊量：[247%]\n\n[スキル情報：追加攻撃]\nダメージ量：[96%][48%][144%]\nSA破壊量：[123%][62%][185%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[10秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG消費量：[0]\nSG受給量：[17%]\n\n接近して、アッパー攻撃で敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×3
-[通常攻撃]\nダメージ量：[192%]+20%\nSA破壊量：[247%]+26%\n\n[追加攻撃] \nダメージ量：[96%]+10% [48%]+5% [144%]+15%\nSA破壊量：[123%]+14% [62%]+6% [185%]+20%\n\n[スキル情報：カウンターアタック連係]\nSG受給量：[17%]+5%
+[スキル情報：通常攻撃]\nダメージ量：[259%]\nSA破壊量：[247%]\nSG消費量：[25]\nクールタイム：[10秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[129%][64%][194%]\nSA破壊量：[123%][62%][185%]\n\n連続攻撃で敵を浮かせる。\nその後、追加操作に追撃を加える。\nカウンターアタックによる、スキル強化時ダメージ量が1.5倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：右クリック　×３
+[基本攻撃]\nダメージ量：[259%]+27%\nSA破壊量：[247%]+26%\n\n[追加攻撃] \nダメージ量：[129%]+14% [64%]+7% [194%]+20%\nSA破壊量：[123%]+14% [62%]+6% [185%]+20%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper
 0
 Movie/Skill/PC_D/B_Skill_GloryUpper
 
 ID=14024
 Glory Upper Ⅳ
-[スキル情報：通常攻撃]\nダメージ量：[212%]\nSA破壊量：[273%]\n\n[スキル情報：追加攻撃]\nダメージ量：[106%][53%][159%]\nSA破壊量：[137%][68%][205%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[10秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG消費量：[0]\nSG受給量：[22%]\n\n接近して、アッパー攻撃で敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×3
-[通常攻撃]\nダメージ量：[212%]+33%\nSA破壊量：[273%]+42%\n\n[追加攻撃] \nダメージ量：[106%]+17% [53%]+8% [159%]+25%\nSA破壊量：[137%]+21% [68%]+11% [205%]+31%\n\n[スキル情報：カウンターアタック連係]\nSG受給量：[22%]+8%
+[スキル情報：通常攻撃]\nダメージ量：[286%]\nSA破壊量：[273%]\nSG消費量：[25]\nクールタイム：[10秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[143%][71%][214%]\nSA破壊量：[137%][68%][205%]\n\n連続攻撃で敵を浮かせる。\nその後、追加操作に追撃を加える。\nカウンターアタックによる、スキル強化時ダメージ量が1.5倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：右クリック　×３
+[基本攻撃]\nダメージ量：[286%]+44%\nSA破壊量：[273%]+42%\n\n[追加攻撃] \nダメージ量：[143%]+23% [71%]+11% [214%]+34%\nSA破壊量：[137%]+21% [68%]+11% [205%]+31%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper
 0
 Movie/Skill/PC_D/B_Skill_GloryUpper
 
 ID=14025
 Glory Upper Ⅴ
-[スキル情報：通常攻撃]\nダメージ量：[245%]\nSA破壊量：[315%]\n\n[スキル情報：追加攻撃]\nダメージ量：[123%][61%][184%]\nSA破壊量：[158%][79%][236%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[10秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG消費量：[0]\nSG受給量：[30%]\n\n接近して、アッパー攻撃で敵を浮かせる。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×3
+[スキル情報：通常攻撃]\nダメージ量：[330%]\nSA破壊量：[315%]\nSG消費量：[25]\nクールタイム：[10秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[166%][82%][248%]\nSA破壊量：[158%][79%][236%]\n\n連続攻撃で敵を浮かせる。\nその後、追加操作に追撃を加える。\nカウンターアタックによる、スキル強化時ダメージ量が1.5倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：右クリック　×３
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper
 0
@@ -2912,39 +2912,39 @@ Movie/Skill/PC_D/B_Skill_GloryUpper
 
 ID=14031
 Hammer Kick Ⅰ
-[スキル情報]\nダメージ量：[84%]\nSA破壊量：[350%]\nSG消費量：[30]\n打撃時SG受給量: [7%]\nクールタイム：[12秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG回復量：[7%]\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。攻撃された敵は宙に浮く。\nカウンターアタック連携時ハンマーキックスキルで消費したSGを返してもらって、SG受給が打撃時から即回復に変更されます。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-[基本攻撃]\nダメージ量：[84%]+4%\nSA破壊量：[350%]+17%\n打撃時SG受給量：[7%]+2%\n\n[スキル情報：カウンターアタック連係]\nSG即回復：[7%]+2%
+[スキル情報]\nダメージ量：[378%]\nSA破壊量：[700%]\nSG消費量：[30]\nSG回復量：[10]\nクールタイム：[12秒]\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。\n攻撃命中時、SGを回復しカウンターアタックによる、スキル強化時ダメージ量が2倍になり、攻撃回数が増加する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[基本攻撃]\nダメージ量：[378%]+18%\nSA破壊量：[700%]+34%\nSG回復量：[10]+4
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HammerKick
 0
 Movie/Skill/PC_D/B_Skill_HammerKick
 
 ID=14032
 Hammer Kick Ⅱ
-[スキル情報]\nダメージ量：[88%]\nSA破壊量：[367%]\nSG消費量：[30]\n打撃時SG受給量：[9%]\nクールタイム：[12秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG回復量：[9%]\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。攻撃された敵は宙に浮く。\nカウンターアタック連携時ハンマーキックスキルで消費したSGを返してもらって、SG受給が打撃時から即回復に変更されます。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-[基本攻撃]\nダメージ量：[88%]+11%\nSA破壊量：[367%]+44%\n打撃時SG受給量：[9%]+16%\n\n[スキル情報：カウンターアタック連係]\nSG即回復：[9%]+16%
+[スキル情報]\nダメージ量：[396%]\nSA破壊量：[734%]\nSG消費量：[30]\nSG回復量：[14]\nクールタイム：[12秒]\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。\n攻撃命中時、SGを回復しカウンターアタックによる、スキル強化時ダメージ量が2倍になり、攻撃回数が増加する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[基本攻撃]\nダメージ量：[396%]+50%\nSA破壊量：[734%]+88%\nSG回復量：[14]+6
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HammerKick
 0
 Movie/Skill/PC_D/B_Skill_HammerKick
 
 ID=14033
 Hammer Kick Ⅲ
-[スキル情報]\nダメージ量：[99%]\nSA破壊量：[411%]\nSG消費量：[30]\nSG受給量：[25%]\nクールタイム：[12秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG回復量：[25%]\n\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。攻撃された敵は宙に浮く。\nカウンターアタック連携時ハンマーキックスキルで消費したSGを返してもらって、SG受給が打撃時から即回復に変更されます。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-[基本攻撃]\nダメージ量：[99%]+10%\nSA破壊量：[411%]+43%\n打撃時SG受給量：[25%]+7%\n\n[スキル情報：カウンターアタック連係]\nSG受給量：[25%]+7%
+[スキル情報]\nダメージ量：[446%]\nSA破壊量：[822%]\nSG消費量：[30]\nSG回復量：[20]\nクールタイム：[12秒]\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。\n攻撃命中時、SGを回復しカウンターアタックによる、スキル強化時ダメージ量が2倍になり、攻撃回数が増加する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[基本攻撃]\nダメージ量：[446%]+44%\nSA破壊量：[822%]+86%\nSG回復量：[20]+6
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HammerKick
 0
 Movie/Skill/PC_D/B_Skill_HammerKick
 
 ID=14034
 Hammer Kick Ⅳ
-[スキル情報]\nダメージ量：[109%]\nSA破壊量：[454%]\nSG消費量：[30]\nSG受給量：[32%]\nクールタイム：[12秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG回復量：[32%]\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。攻撃された敵は宙に浮く。\nカウンターアタック連携時ハンマーキックスキルで消費したSGを返してもらって、SG受給が打撃時から即回復に変更されます。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-[基本攻撃]\nダメージ量：[109%]+17%\nSA破壊量：[454%]+70%\n打撃時SG受給量：[32%]+13%\n\n[スキル情報：カウンターアタック連係]\nSG受給量：[32%]+13%
+[スキル情報]\nダメージ量：[490%]\nSA破壊量：[908%]\nSG消費量：[30]\nSG回復量：[26]\nクールタイム：[12秒]\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。\n攻撃命中時、SGを回復しカウンターアタックによる、スキル強化時ダメージ量が2倍になり、攻撃回数が増加する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[基本攻撃]\nダメージ量：[490%]+78%\nSA破壊量：[908%]+140%\nSG回復量：[26]+8
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HammerKick
 0
 Movie/Skill/PC_D/B_Skill_HammerKick
 
 ID=14035
 Hammer Kick Ⅴ
-[スキル情報]\nダメージ量：[126%]\nSA破壊量：[524%]\nSG消費量：[30]\nSG受給量：[45%]\nクールタイム：[12秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\nSG回復量：[45％]\n\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。攻撃された敵は宙に浮く。\nカウンターアタック連携時ハンマーキックスキルで消費したSGを返してもらって、SG受給が打撃時から即回復に変更されます。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[スキル情報]\nダメージ量：[568%]\nSA破壊量：[1048%]\nSG消費量：[30]\nSG回復量：[34]\nクールタイム：[12秒]\n\n前方に跳躍後、空中で体を捻りながら蹴りを繰り出す。\n攻撃命中時、SGを回復しカウンターアタックによる、スキル強化時ダメージ量が2倍になり、攻撃回数が増加する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HammerKick
 0
@@ -2952,39 +2952,39 @@ Movie/Skill/PC_D/B_Skill_HammerKick
 
 ID=14041
 Perfect Combination Ⅰ
-[スキル情報：通常攻撃]\nダメージ量：[102%]\nSA破壊量：[58%]\n\n[スキル情報：追加攻撃]\nダメージ量：[153%][256%]\nSA破壊量：[88%][146%]\n\n[スキル情報：一般]\nSG消費量：[45]\nSG受給量：打撃当たり[5%]\nクールタイム：[8秒]\n\n素早く突進し、タックルしながら敵を押し出す。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×2
-[通常攻撃]\nダメージ量：[102%]+5%\nSA破壊量：[58%]+3%\n\n[追加攻撃] \nダメージ量：[153%]+8% [256%]+13%\nSA破壊量：[88%]+4% [146%]+8%\n\n[一般攻撃]\nSG受給量：打撃当たり[5%] + 1%
+[スキル情報：基本攻撃]\nダメージ量：[102%]\nSA破壊量：[29%]\nSG消費量：[35]\nクールタイム：[10秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[153%][256%]\nSA破壊量：[44%][73%]\n\n素早く突進し、タックルしながら敵を押し出す。\nその後、追加操作により連続攻撃を繰り出す。\n攻撃命中時に、SGを[5%]回復する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×2
+[基本攻撃]\nダメージ量：[102%]+5%\nSA破壊量：[29%]+2%\nSG回復量：[5%] +2%\n\n[追加攻撃] \nダメージ量：[153%]+15% [256%]+25%\nSA破壊量：[44%]+2% [73%]+4%\n
 Icon/Skill/SpritArms/Icon_Sprit_Skill_PerfectCombination
 0
 Movie/Skill/PC_D/B_Skill_PerfectCombination
 
 ID=14042
 Perfect Combination Ⅱ
-[スキル情報：通常攻撃]\nダメージ量：[107%]\nSA破壊量：[61%]\n\n[スキル情報：追加攻撃]\nダメージ量：[161%][269%]\nSA破壊量：[92%][154%]\n\n[スキル情報：一般]\nSG消費量：[45]\nSG受給量：打撃当たり[6%]\nクールタイム：[8秒]\n\n素早く突進し、タックルしながら敵を押し出す。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×2
-[通常攻撃]\nダメージ量：[107%]+13%\nSA破壊量：[61%]+7%\n\n[追加攻撃] \nダメージ量：[161%]+19% [269%]+32%\nSA破壊量：[92%]+11% [154%]+18%\n\n[一般攻撃]\nSG受給量:打撃当たり[6%] + 11%
+[スキル情報：基本攻撃]\nダメージ量：[112%]\nSA破壊量：[31%]\nSG消費量：[35]\nクールタイム：[10秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[168%][281%]\nSA破壊量：[46%][77%]\n\n素早く突進し、タックルしながら敵を押し出す。\nその後、追加操作により連続攻撃を繰り出す。\n攻撃命中時に、SGを[7%]回復する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(右クリック)×2
+[基本攻撃]\nダメージ量：[112%]+26%\nSA破壊量：[31%]+3%\nSG回復量：[7%] + 2%\n\n[追加攻撃] \nダメージ量：[168%]+39% [281%]+64%\nSA破壊量：[46%]+6% [77%]+9%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_PerfectCombination
 0
 Movie/Skill/PC_D/B_Skill_PerfectCombination
 
 ID=14043
 Perfect Combination Ⅲ
-[スキル情報：通常攻撃]\nダメージ量：[120%]\nSA破壊量：[69%]\n\n[スキル情報：追加攻撃]\nダメージ量：[180%][301%]\nSA破壊量：[103%][172%]\n\n[スキル情報：一般]\nSG消費量：[45]\nSG受給量：打撃当たり[17%]\nクールタイム：[8秒]\n\n素早く突進し、タックルしながら敵を押し出す。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×2
-[通常攻撃]\nダメージ量：[120%]+13%\nSA破壊量：[69%]+7%\n\n[追加攻撃] \nダメージ量：[180%]+20% [301%]+32%\nSA破壊量：[103%]+11% [172%]+18%\n\n[一般攻撃]\nSG受給量:打撃当たり[17%] + 4%
+[スキル情報：基本攻撃]\nダメージ量：[138%]\nSA破壊量：[34%]\nSG消費量：[35]\nクールタイム：[10秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[207%][345%]\nSA破壊量：[52%][86%]\n\n素早く突進し、タックルしながら敵を押し出す。\nその後、追加操作により連続攻撃を繰り出す。\n攻撃命中時に、SGを[9%]回復する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(右クリック)×2
+[基本攻撃]\nダメージ量：[138%]+25%\nSA破壊量：[34%]+4%\nSG回復量：[9%] + 3%\n\n[追加攻撃] \nダメージ量：[207%]+38% [345%]+64%\nSA破壊量：[52%]+5% [86%]+9%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_PerfectCombination
 0
 Movie/Skill/PC_D/B_Skill_PerfectCombination
 
 ID=14044
 Perfect Combination Ⅳ
-[スキル情報：通常攻撃]\nダメージ量：[133%]\nSA破壊量：[76%]\n\n[スキル情報：追加攻撃]\nダメージ量：[200%][333%]\nSA破壊量：[114%][190%]\n\n[スキル情報：一般]\nSG消費量：[45]\nSG受給量：打撃当たり[21%]\nクールタイム：[8秒]\n\n素早く突進し、タックルしながら敵を押し出す。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×2
-[通常攻撃]\nダメージ量：[133%]+20%\nSA破壊量：[76%]+12%\n\n[追加攻撃] \nダメージ量：[200%]+30% [333%]+51%\nSA破壊量：[114%]+18% [190%]+30%\n\n[一般攻撃]\nSG受給量:打撃当たり[21%] + 8%
+[スキル情報：基本攻撃]\nダメージ量：[163%]\nSA破壊量：[38%]\nSG消費量：[35]\nクールタイム：[10秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[245%][409%]\nSA破壊量：[57%][95%]\n\n素早く突進し、タックルしながら敵を押し出す。\nその後、追加操作により連続攻撃を繰り出す。\n攻撃命中時に、SGを[12%]回復する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(右クリック)×2
+[基本攻撃]\nダメージ量：[163%]+41%\nSA破壊量：[38%]+6%\nSG回復量：[12%] + 3%\n\n[追加攻撃] \nダメージ量：[245%]+61% [409%]+102%\nSA破壊量：[57%]+9% [95%]+15%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_PerfectCombination
 0
 Movie/Skill/PC_D/B_Skill_PerfectCombination
 
 ID=14045
 Perfect Combination Ⅴ
-[スキル情報：通常攻撃]\nダメージ量：[153%]\nSA破壊量：[88%]\n\n[スキル情報：追加攻撃]\nダメージ量：[230%][384%]\nSA破壊量：[132%][220%]\n\n[スキル情報：一般]\nSG消費量：[45]\nSG受給量：打撃当たり[29%]\nクールタイム：[8秒]\n\n素早く突進し、タックルしながら敵を押し出す。\nその後、追加操作により連続攻撃を繰り出す。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)×2
+[スキル情報：基本攻撃]\nダメージ量：[204%]\nSA破壊量：[44%]\nSG消費量：[35]\nクールタイム：[10秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[306%][511%]\nSA破壊量：[66%][110%]\n\n素早く突進し、タックルしながら敵を押し出す。\nその後、追加操作により連続攻撃を繰り出す。\n攻撃命中時に、SGを[15%]回復する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃]\nマウス：(右クリック)×2
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_PerfectCombination
 0
@@ -2992,39 +2992,39 @@ Movie/Skill/PC_D/B_Skill_PerfectCombination
 
 ID=14051
 Spirit Surge Ⅰ
-[スキル情報：自分]\nバフ効果：防御度[25%]増加\nバフ持続時間：[10秒]\n\n[スキル情報：敵]\nデバフ効果：[挑発]\nデバフ持続時間：[10秒]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[20秒]\n\nその場で異能力を放出し、敵を引き寄せながら挑発する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-[Self]\nBuff Effect: Defense [25%]+5%
+[スキル情報：基本効果]\nバフ効果：防御度[25%]増加\nバフ持続時間：[10秒]\nSG消費量：[40]\nクールタイム：[20秒]\n\n[スキル情報：追加効果]\nデバフ効果：[挑発]\nデバフ持続時間：[10秒]\n\n自身を強化しつつ、敵を引き付ける。\n基本効果発同時に、敵を引き寄せる効果が発動する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[スキル情報：基本効果]\n防御度増加：[25%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge
 0
 Movie/Skill/PC_D/B_Skill_SpiritSurge
 
 ID=14052
 Spirit Surge Ⅱ
-[スキル情報：自分]\nバフ効果：防御度[30%]増加\nバフ持続時間：[10秒]\n\n[スキル情報：敵]\nデバフ効果：[挑発]\nデバフ持続時間：[10秒]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[20秒]\n\nその場で異能力を放出し、味方を守りながら敵を挑発する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-[Self]\nBuff Effect: Defense [30%]+10%
+[スキル情報：基本効果]\nバフ効果：防御度[30%]増加\nバフ持続時間：[10秒]\nSG消費量：[40]\nクールタイム：[20秒]\n\n[スキル情報：追加効果]\nデバフ効果：[挑発]\nデバフ持続時間：[10秒]\n\n自身を強化しつつ、敵を引き付ける。\n基本効果発同時に、敵を引き寄せる効果が発動する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[スキル情報：基本効果]\n防御度増加：[30%]+10%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge
 0
 Movie/Skill/PC_D/B_Skill_SpiritSurge
 
 ID=14053
 Spirit Surge Ⅲ
-[スキル情報：自分]\nバフ効果：防御度[40%]増加\nバフ持続時間：[10秒]\n\n[スキル情報：敵]\nデバフ効果：[挑発]\nデバフ持続時間：[10秒]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[20秒]\n\nその場で異能力を放出し、味方を守りながら敵を挑発する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-[Self]\nBuff Effect: Defense [40%]+10%
+[スキル情報：基本効果]\nバフ効果：防御度[40%]増加\nバフ持続時間：[10秒]\nSG消費量：[40]\nクールタイム：[20秒]\n\n[スキル情報：追加効果]\nデバフ効果：[挑発]\nデバフ持続時間：[10秒]\n\n自身を強化しつつ、敵を引き付ける。\n基本効果発同時に、敵を引き寄せる効果が発動する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[スキル情報：基本効果]\n防御度増加：[40%]+10%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge
 0
 Movie/Skill/PC_D/B_Skill_SpiritSurge
 
 ID=14054
 Spirit Surge Ⅳ
-[スキル情報：自分]\nバフ効果：防御度[50%]増加\nバフ持続時間：[10秒]\n\n[スキル情報：敵]\nデバフ効果：[挑発]\nデバフ持続時間：[10秒]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[20秒]\n\nその場で異能力を放出し、味方を守りながら敵を挑発する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-[Self]\nBuff Effect: Defense [50%]+20%
+[スキル情報：基本効果]\nバフ効果：防御度[50%]増加\nバフ持続時間：[10秒]\nSG消費量：[40]\nクールタイム：[20秒]\n\n[スキル情報：追加効果]\nデバフ効果：[挑発]\nデバフ持続時間：[10秒]\n\n自身を強化しつつ、敵を引き付ける。\n基本効果発同時に、敵を引き寄せる効果が発動する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[スキル情報：基本効果]\n防御度増加：[50%]+20%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge
 0
 Movie/Skill/PC_D/B_Skill_SpiritSurge
 
 ID=14055
 Spirit Surge Ⅴ
-[スキル情報：自分]\nバフ効果：防御度[70%]増加\nバフ持続時間：[10秒]\n\n[スキル情報：敵]\nデバフ効果：[挑発]\nデバフ持続時間：[10秒]\n\n[スキル情報：一般]\nSG消費量：[40]\nクールタイム：[20秒]\n\nその場で異能力を放出し、味方を守りながら敵を挑発する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[スキル情報：基本効果]\nバフ効果：防御度[70%]増加\nバフ持続時間：[10秒]\nSG消費量：[40]\nクールタイム：[20秒]\n\n[スキル情報：追加効果]\nデバフ効果：[挑発]\nデバフ持続時間：[10秒]\n\n自身を強化しつつ、敵を引き付ける。\n基本効果発同時に、敵を引き寄せる効果が発動する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge
 0
@@ -3032,39 +3032,39 @@ Movie/Skill/PC_D/B_Skill_SpiritSurge
 
 ID=14061
 Gravity Twister Ⅰ
-[スキル情報]\nダメージ量：[178%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[400%]\nSG消費量：[55]\nクールタイム：[16秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を使い、前方の敵を手前に\n引き寄せて麻痺させる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-Damage: [178%]+9%\nSA Break: [400%]+19%
+[スキル情報]\nダメージ量：[534%]\nSA破壊量：[400%]\nSG消費量：[55]\nクールタイム：[16秒]\n\n敵を引き寄せて、攻撃する。\nカウンターアタックによる、スキル強化時ダメージ量が1.5倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[534%]+27%\nSA破壊量：[400%]+19%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister
 0
 Movie/Skill/PC_D/B_Skill_GravityTwister
 
 ID=14062
 Gravity Twister Ⅱ
-[スキル情報]\nダメージ量：[187%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[419%]\nSG消費量：[55]\nクールタイム：[16秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を使い、前方の敵を手前に\n引き寄せて麻痺させる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-Damage: [187%]+21%\nSA Break: [419%]+50%
+[スキル情報]\nダメージ量：[561%]\nSA破壊量：[419%]\nSG消費量：[55]\nクールタイム：[16秒]\n\n敵を引き寄せて、攻撃する。\nカウンターアタックによる、スキル強化時ダメージ量が1.5倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[561%]+66%\nSA破壊量：[419%]+50%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister
 0
 Movie/Skill/PC_D/B_Skill_GravityTwister
 
 ID=14063
 Gravity Twister Ⅲ
-[スキル情報]\nダメージ量：[209%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[469%]\nSG消費量：[55]\nクールタイム：[16秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を使い、前方の敵を手前に\n引き寄せて麻痺させる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-Damage: [209%]+22%\nSA Break: [469%]+50%
+[スキル情報]\nダメージ量：[627%]\nSA破壊量：[469%]\nSG消費量：[55]\nクールタイム：[16秒]\n\n敵を引き寄せて、攻撃する。\nカウンターアタックによる、スキル強化時ダメージ量が1.5倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[627%]+69%\nSA破壊量：[469%]+50%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister
 0
 Movie/Skill/PC_D/B_Skill_GravityTwister
 
 ID=14064
 Gravity Twister Ⅳ
-[スキル情報]\nダメージ量：[232%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[519%]\nSG消費量：[55]\nクールタイム：[16秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を使い、前方の敵を手前に\n引き寄せて麻痺させる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-Damage: [232%]+35%\nSA Break: [519%]+80%
+[スキル情報]\nダメージ量：[696%]\nSA破壊量：[519%]\nSG消費量：[55]\nクールタイム：[16秒]\n\n敵を引き寄せて、攻撃する。\nカウンターアタックによる、スキル強化時ダメージ量が1.5倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[696%]+105%\nSA破壊量：[519%]+80%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister
 0
 Movie/Skill/PC_D/B_Skill_GravityTwister
 
 ID=14065
 Gravity Twister Ⅴ
-[スキル情報]\nダメージ量：[267%]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\nSA破壊量：[599%]\nSG消費量：[55]\nクールタイム：[16秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を使い、前方の敵を手前に\n引き寄せて麻痺させる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[スキル情報]\nダメージ量：[801%]\nSA破壊量：[599%]\nSG消費量：[55]\nクールタイム：[16秒]\n\n敵を引き寄せて、攻撃する。\nカウンターアタックによる、スキル強化時ダメージ量が1.5倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister
 0
@@ -3072,39 +3072,39 @@ Movie/Skill/PC_D/B_Skill_GravityTwister
 
 ID=14071
 Spirit Explosion Ⅰ
-[スキル情報]\nダメージ量：[350%]\nSA破壊量：[29%]\nチャージ時、性能が1.4倍に増加し、最大で2倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[60]\nクールタイム：[20秒]\n\n[スキル情報：カウンターアタック連携]\n即時発動：[3チャージ]\nクールタイム：[16秒]\n\nガントレットに力を集め、前方に強力な一撃を放つ。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-Damage: [350%]+17%\nSA Break: [29%]+2%
+[スキル情報]\nダメージ量：[455%]\nSA破壊量：[435%]\nSG消費量：[50]\nクールタイム：[20秒]\n最大チャージ段階：[3]\n\nガントレットに力を溜め、強力な一撃を放つ。\nチャージ時、性能が1.4倍に増加し、\n最大で2倍に増加する。\nカウンターアタックによる、スキル強化時チャージ段階が最大になりダメージ量、SA破壊量が1.3倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[455%]+22%\nSA破壊量：[435%]+30%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion
 0
 Movie/Skill/PC_D/B_Skill_SpiritExplosion
 
 ID=14072
 Spirit Explosion Ⅱ
-[スキル情報]\nダメージ量：[367%]\nSA破壊量：[31%]\nチャージ時、性能が1.4倍に増加し、最大で2倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[60]\nクールタイム：[20秒]\n\n[スキル情報：カウンターアタック連携]\n即時発動：[3チャージ]\nクールタイム：[16秒]\n\nガントレットに力を集め、前方に強力な一撃を放つ。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-Damage: [367%]+44%\nSA Break: [31%]+3%
+[スキル情報]\nダメージ量：[477%]\nSA破壊量：[465%]\nSG消費量：[50]\nクールタイム：[20秒]\n最大チャージ段階：[3]\n\nガントレットに力を溜め、強力な一撃を放つ。\nチャージ時、性能が1.4倍に増加し、\n最大で2倍に増加する。\nカウンターアタックによる、スキル強化時チャージ段階が最大になりダメージ量、SA破壊量が1.3倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[477%]+57%\nSA破壊量：[465%]+45%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion
 0
 Movie/Skill/PC_D/B_Skill_SpiritExplosion
 
 ID=14073
 Spirit Explosion Ⅲ
-[スキル情報]\nダメージ量：[411%]\nSA破壊量：[34%]\nチャージ時、性能が1.4倍に増加し、最大で2倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[60]\nクールタイム：[20秒]\n\n[スキル情報：カウンターアタック連携]\n即時発動：[3チャージ]\nクールタイム：[16秒]\n\nガントレットに力を集め、前方に強力な一撃を放つ。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-Damage: [411%]+44%\nSA Break: [34%]+3%
+[スキル情報]\nダメージ量：[534%]\nSA破壊量：[510%]\nSG消費量：[50]\nクールタイム：[20秒]\n最大チャージ段階：[3]\n\nガントレットに力を溜め、強力な一撃を放つ。\nチャージ時、性能が1.4倍に増加し、\n最大で2倍に増加する。\nカウンターアタックによる、スキル強化時チャージ段階が最大になりダメージ量、SA破壊量が1.3倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[534%]+58%\nSA破壊量：[510%]+60%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion
 0
 Movie/Skill/PC_D/B_Skill_SpiritExplosion
 
 ID=14074
 Spirit Explosion Ⅳ
-[スキル情報]\nダメージ量：[455%]\nSA破壊量：[38%]\nチャージ時、性能が1.4倍に増加し、最大で2倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[60]\nクールタイム：[20秒]\n\n[スキル情報：カウンターアタック連携]\n即時発動：[3チャージ]\nクールタイム：[16秒]\n\nガントレットに力を集め、前方に強力な一撃を放つ。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-Damage: [455%]+67%\nSA Break: [38%]+6%
+[スキル情報]\nダメージ量：[592%]\nSA破壊量：[570%]\nSG消費量：[50]\nクールタイム：[20秒]\n最大チャージ段階：[3]\n\nガントレットに力を溜め、強力な一撃を放つ。\nチャージ時、性能が1.4倍に増加し、\n最大で2倍に増加する。\nカウンターアタックによる、スキル強化時チャージ段階が最大になりダメージ量、SA破壊量が1.3倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[592%]+91%\nSA破壊量：[570%]+90%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion
 0
 Movie/Skill/PC_D/B_Skill_SpiritExplosion
 
 ID=14075
 Spirit Explosion Ⅴ
-[スキル情報]\nダメージ量：[525%]\nSA破壊量：[44%]\nチャージ時、性能が1.4倍に増加し、最大で2倍増加する。\n\n[スキル情報：一般]\n最大チャージ段階：[3]\nSG消費量：[60]\nクールタイム：[20秒]\n\n[スキル情報：カウンターアタック連携]\n即時発動：[3チャージ]\nクールタイム：[16秒]\n\nガントレットに力を集め、前方に強力な一撃を放つ。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[スキル情報]\nダメージ量：[683%]\nSA破壊量：[660%]\nSG消費量：[50]\nクールタイム：[20秒]\n最大チャージ段階：[3]\n\nガントレットに力を溜め、強力な一撃を放つ。\nチャージ時、性能が1.4倍に増加し、\n最大で2倍に増加する。\nカウンターアタックによる、スキル強化時チャージ段階が最大になりダメージ量、SA破壊量が1.3倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion
 0
@@ -3112,39 +3112,39 @@ Movie/Skill/PC_D/B_Skill_SpiritExplosion
 
 ID=14081
 Spirit Shooter Ⅰ
-[Info]\nDamage: [257%]\nSA Break: [301%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\nSG Cost: [40]\nCooldown: [15s]\n\nGenerates a shockwave that instantly paralyzes enemies.\nRetreats using the recoil.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [257%]+13%\nSA Break: [301%]+15%
+[スキル情報：基本攻撃]\nダメージ量：[514%]\nSA破壊量：[301%]\nSG消費量：[40]\nクールタイム：[25秒]\n\n[スキル情報：追加効果]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\n\n衝撃波を発生させ、敵を麻痺させる。\nスキル使用時、反動を利用して後退する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[514%]+26%\nSA破壊量：[301%]+15%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritShooter
 0
 Movie/Skill/PC_D/B_Skill_SpiritShooter
 
 ID=14082
 Spirit Shooter Ⅱ
-[Info]\nDamage: [270%]\nSA Break: [316%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\nSG Cost: [40]\nCooldown: [15s]\n\nGenerates a shockwave that instantly paralyzes enemies.\nRetreats using the recoil.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [270%]+32%\nSA Break: [316%]+38%
+[スキル情報：基本攻撃]\nダメージ量：[540%]\nSA破壊量：[316%]\nSG消費量：[40]\nクールタイム：[25秒]\n\n[スキル情報：追加効果]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\n\n衝撃波を発生させ、敵を麻痺させる。\nスキル使用時、反動を利用して後退する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[540%]+64%\nSA破壊量：[316%]+38%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritShooter
 0
 Movie/Skill/PC_D/B_Skill_SpiritShooter
 
 ID=14083
 Spirit Shooter Ⅲ
-[Info]\nDamage: [302%]\nSA Break: [354%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\nSG Cost: [40]\nCooldown: [15s]\n\nGenerates a shockwave that instantly paralyzes enemies.\nRetreats using the recoil.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [302%]+32%\nSA Break: [354%]+38%
+[スキル情報：基本攻撃]\nダメージ量：[604%]\nSA破壊量：[354%]\nSG消費量：[40]\nクールタイム：[25秒]\n\n[スキル情報：追加効果]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\n\n衝撃波を発生させ、敵を麻痺させる。\nスキル使用時、反動を利用して後退する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[604%]+64%\nSA破壊量：[354%]+38%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritShooter
 0
 Movie/Skill/PC_D/B_Skill_SpiritShooter
 
 ID=14084
 Spirit Shooter Ⅳ
-[Info]\nDamage: [334%]\nSA Break: [391%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\nSG Cost: [40]\nCooldown: [15s]\n\nGenerates a shockwave that instantly paralyzes enemies.\nRetreats using the recoil.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [334%]+51%\nSA Break: [391%]+61%
+[スキル情報：基本攻撃]\nダメージ量：[668%]\nSA破壊量：[392%]\nSG消費量：[40]\nクールタイム：[25秒]\n\n[スキル情報：追加効果]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\n\n衝撃波を発生させ、敵を麻痺させる。\nスキル使用時、反動を利用して後退する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[668%]+102%\nSA破壊量：[391%]+61%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritShooter
 0
 Movie/Skill/PC_D/B_Skill_SpiritShooter
 
 ID=14085
 Spirit Shooter Ⅴ
-[Info]\nDamage: [385%]\nSA Break: [452%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\nSG Cost: [40]\nCooldown: [15s]\n\nGenerates a shockwave that instantly paralyzes enemies.\nRetreats using the recoil.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報：基本攻撃]\nダメージ量：[770%]\nSA破壊量：[452%]\nSG消費量：[40]\nクールタイム：[25秒]\n\n[スキル情報：追加効果]\nデバフ効果：麻痺\nデバフ持続時間：[3秒]\n\n衝撃波を発生させ、敵を麻痺させる。\nスキル使用時、反動を利用して後退する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritShooter
 0
@@ -3152,39 +3152,39 @@ Movie/Skill/PC_D/B_Skill_SpiritShooter
 
 ID=14091
 Quadra Blow Ⅰ
-[スキル情報]\nダメージ量：攻撃1回あたり[157%]\nSA破壊量：攻撃1回あたり[73%]\nSG消費量：[60]\nクールタイム：[25秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-Damage: [157%]+8% per hit\nSA Break: [73%]+3% per hit
+[スキル情報]\nダメージ量：[157%]\nSA破壊量：[146%]\nSG消費量：[40]\nクールタイム：[15秒]\n\n球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\nカウンターアタックによる、スキル強化時ダメージ量が1.5倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[157%]+8%\nSA破壊量：[146%]+6%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 0
 Movie/Skill/PC_D/B_Skill_QuadraBlow
 
 ID=14092
 Quadra Blow Ⅱ
-[スキル情報]\nダメージ量：攻撃1回あたり[165%]\nSA破壊量：攻撃1回あたり[76%]\nSG消費量：[60]\nクールタイム：[25秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-Damage: [165%]+20% per hit\nSA Break: [76%]+10% per hit
+[スキル情報]\nダメージ量：[165%]\nSA破壊量：[152%]\nSG消費量：[40]\nクールタイム：[15秒]\n\n球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\nカウンターアタックによる、スキル強化時ダメージ量が1.5倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[165%]+20%\nSA破壊量：[152%]+20%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 0
 Movie/Skill/PC_D/B_Skill_QuadraBlow
 
 ID=14093
 Quadra Blow Ⅲ
-[スキル情報]\nダメージ量：攻撃1回あたり[185%]\nSA破壊量：攻撃1回あたり[86%]\nSG消費量：[60]\nクールタイム：[25秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-Damage: [185%]+19% per hit\nSA Break: [86%]+9% per hit
+[スキル情報]\nダメージ量：[185%]\nSA破壊量：[172%]\nSG消費量：[40]\nクールタイム：[15秒]\n\n球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\nカウンターアタックによる、スキル強化時ダメージ量が1.5倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[185%]+19%\nSA破壊量：[172%]+18%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 0
 Movie/Skill/PC_D/B_Skill_QuadraBlow
 
 ID=14094
 Quadra Blow Ⅳ
-[スキル情報]\nダメージ量：攻撃1回あたり[204%]\nSA破壊量：攻撃1回あたり[95%]\nSG消費量：[60]\nクールタイム：[25秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-Damage: [204%]+32% per hit\nSA Break: [95%]+14% per hit
+[スキル情報]\nダメージ量：[204%]\nSA破壊量：[190%]\nSG消費量：[40]\nクールタイム：[15秒]\n\n球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\nカウンターアタックによる、スキル強化時ダメージ量が1.5倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[204%]+32%\nSA破壊量：[190%]+28%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 0
 Movie/Skill/PC_D/B_Skill_QuadraBlow
 
 ID=14095
 Quadra Blow Ⅴ
-[スキル情報]\nダメージ量：攻撃1回あたり[236%]\nSA破壊量：攻撃1回あたり[109%]\nSG消費量：[60]\nクールタイム：[25秒]\n\n[スキル情報：カウンターアタック連携]\nダメージ量：[2倍]増加\n\n異能力を球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[スキル情報]\nダメージ量：[236%]\nSA破壊量：[218%]\nSG消費量：[40]\nクールタイム：[15秒]\n\n球体化し、敵に向かって発射する。\n発射された球体は衝突時に爆発し、周囲にダメージを与える。\nカウンターアタックによる、スキル強化時ダメージ量が1.5倍になる。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 0
@@ -3192,7 +3192,7 @@ Movie/Skill/PC_D/B_Skill_QuadraBlow
 
 ID=14101
 Heavy Drop Ⅰ
-[Info]\nDamage: [625%]\nSA Break: [335%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [45]\nCooldown: [30s]\n\nGather up tremendous power in the air to create a gigantic sphere.\nThe sphere generates a big explosion when touching the ground damaging all nearby enemies.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[スキル情報]\nダメージ量：[625%]\nSA破壊量：[335%]\nSG消費量：[45]\nクールタイム：[30秒]\n最大チャージ段階：[3]\n\nチャージ段階に応じて範囲が増加し、\n性能が1.4倍に増加し、最大で2倍に増加する。\n空中でエナジーを集め、巨大な球体を作り出す。\n球体投げ大爆発を引き起こし、周辺の敵にダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力 (空中スキルは自動でクイックスロットに整列)
 Damage: [625%]+31%\nSA Break: [335%]+16%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 0
@@ -3200,7 +3200,7 @@ Movie/Skill/PC_D/B_Skill_HeavyDrop
 
 ID=14102
 Heavy Drop Ⅱ
-[Info]\nDamage: [656%]\nSA Break: [351%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [45]\nCooldown: [30s]\n\nGather up tremendous power in the air to create a gigantic sphere.\nThe sphere generates a big explosion when touching the ground damaging all nearby enemies.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[スキル情報]\nダメージ量：[656%]\nSA破壊量：[351%]\nSG消費量：[45]\nクールタイム：[30秒]\n最大チャージ段階：[3]\n\nチャージ段階に応じて範囲が増加し、\n性能が1.4倍に増加し、最大で2倍に増加する。\n空中でエナジーを集め、巨大な球体を作り出す。\n球体投げ大爆発を引き起こし、周辺の敵にダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力 (空中スキルは自動でクイックスロットに整列)
 Damage: [656%]+78%\nSA Break:[351%]+42%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 0
@@ -3208,7 +3208,7 @@ Movie/Skill/PC_D/B_Skill_HeavyDrop
 
 ID=14103
 Heavy Drop Ⅲ
-[Info]\nDamage: [734%]\nSA Break: [393%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [45]\nCooldown: [30s]\n\nGather up tremendous power in the air to create a gigantic sphere.\nThe sphere generates a big explosion when touching the ground damaging all nearby enemies.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[スキル情報]\nダメージ量：[734%]\nSA破壊量：[393%]\nSG消費量：[45]\nクールタイム：[30秒]\n最大チャージ段階：[3]\n\nチャージ段階に応じて範囲が増加し、\n性能が1.4倍に増加し、最大で2倍に増加する。\n空中でエナジーを集め、巨大な球体を作り出す。\n球体投げ大爆発を引き起こし、周辺の敵にダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力 (空中スキルは自動でクイックスロットに整列)
 Damage: [734%]+78%\nSA Break: [393%]+42%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 0
@@ -3216,7 +3216,7 @@ Movie/Skill/PC_D/B_Skill_HeavyDrop
 
 ID=14104
 Heavy Drop Ⅳ
-[Info]\nDamage: [812%]\nSA Break: [435%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [45]\nCooldown: [30s]\n\nGather up tremendous power in the air to create a gigantic sphere.\nThe sphere generates a big explosion when touching the ground damaging all nearby enemies.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[スキル情報]\nダメージ量：[812%]\nSA破壊量：[435%]\nSG消費量：[45]\nクールタイム：[30秒]\n最大チャージ段階：[3]\n\nチャージ段階に応じて範囲が増加し、\n性能が1.4倍に増加し、最大で2倍に増加する。\n空中でエナジーを集め、巨大な球体を作り出す。\n球体投げ大爆発を引き起こし、周辺の敵にダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力 (空中スキルは自動でクイックスロットに整列)
 Damage: [812%]+125%\nSA Break: [435%]+67%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 0
@@ -3224,7 +3224,7 @@ Movie/Skill/PC_D/B_Skill_HeavyDrop
 
 ID=14105
 Heavy Drop Ⅴ
-[Info]\nDamage: [937%]\nSA Break: [502%]\nWhile charging increases the performance by 1.4x, up to 2x.\n\n[Common]\nMaximum Charge Stage: [3]\nSG Cost: [45]\nCooldown: [30s]\n\nGather up tremendous power in the air to create a gigantic sphere.\nThe sphere generates a big explosion when touching the ground damaging all nearby enemies.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically placed onto your quickslots)
+[スキル情報]\nダメージ量：[937%]\nSA破壊量：[502%]\nSG消費量：[45]\nクールタイム：[30秒]\n最大チャージ段階：[3]\n\nチャージ段階に応じて範囲が増加し、\n性能が1.4倍に増加し、最大で2倍に増加する。\n空中でエナジーを集め、巨大な球体を作り出す。\n球体投げ大爆発を引き起こし、周辺の敵にダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力 (空中スキルは自動でクイックスロットに整列)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 0
@@ -3232,39 +3232,39 @@ Movie/Skill/PC_D/B_Skill_HeavyDrop
 
 ID=14111
 Fusion Armor Ⅰ
-[スキル情報]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：自分]\n[1]無敵[3秒]\n[2]防御度[10%]増加[20秒]\n\n[スキル情報：パーティー]\n[1]無敵[1秒]\n[2]防御度[10%]増加[20秒]\n\nソウルエナジーを集め、それを放出することで味方を守るバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-[1] Invincibility Duration: [1s]+0.2s\n[2] Buff Effect: Defense [10%]+2%
+[スキル情報：基本効果]\nバフ効果：無敵[3秒]、\n防御度[10%]増加[20秒]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：追加効果]\nバフ効果：無敵[1秒]、\n防御度[10%]増加[20秒]\n\nソウルエナジーを放出する事でバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[スキル情報：基本効果]\nバフ効果：無敵[3秒]+0.7秒\n防御度[10%]+2%\n\n[スキル情報：追加効果]\nバフ効果：無敵[1秒]+0.2秒\n防御度[10%]+2%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FusionArmor
 0
 Movie/Skill/PC_D/B_Skill_FusionArmor
 
 ID=14112
 Fusion Armor Ⅱ
-[スキル情報]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：自分]\n[1]無敵[3.7秒]\n[2]防御度[12%]増加[20秒]\n\n[スキル情報：パーティー]\n[1]無敵[1.2秒]\n[2]防御度[12%]増加[20秒]\n\nソウルエナジーを集め、それを放出することで味方を守るバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-[1] Invincibility Duration: [1.2s]+0.4s\n[2] Buff Effect: Defense[12%]+4%
+[スキル情報：基本効果]\nバフ効果：無敵[3.7秒]、\n防御度[12%]増加[20秒]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：追加効果]\nバフ効果：無敵[1.2秒]、\n防御度[12%]増加[20秒]\n\nソウルエナジーを放出する事でバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[スキル情報：基本効果]\nバフ効果：無敵[3.7秒]+0.6秒\n防御度[12%]+4%\n\n[スキル情報：追加効果]\nバフ効果：無敵[1.2秒]+0.4秒\n防御度[12%]+4%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FusionArmor
 0
 Movie/Skill/PC_D/B_Skill_FusionArmor
 
 ID=14113
 Fusion Armor Ⅲ
-[スキル情報]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：自分]\n[1]無敵[4.3秒]\n[2]防御度[16%]増加[20秒]\n\n[スキル情報：パーティー]\n[1]無敵[1.6秒]\n[2]防御度[16%]増加[20秒]\n\nソウルエナジーを集め、それを放出することで味方を守るバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-[1] Invincibility Duration: [1.6s]+0.4s\n[2] Buff Effect: Defense [16%]+4%
+[スキル情報：基本効果]\nバフ効果：無敵[4.3秒]、\n防御度[16%]増加[20秒]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：追加効果]\nバフ効果：無敵[1.6秒]、\n防御度[16%]増加[20秒]\n\nソウルエナジーを放出する事でバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[スキル情報：基本効果]\nバフ効果：無敵[4.3秒]+0.7秒\n防御度[16%]+4%\n\n[スキル情報：追加効果]\nバフ効果：無敵[1.6秒]+0.4秒\n防御度[16%]+4%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FusionArmor
 0
 Movie/Skill/PC_D/B_Skill_FusionArmor
 
 ID=14114
 Fusion Armor Ⅳ
-[スキル情報]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：自分]\n[1]無敵[5秒]\n[2]防御度[20%]増加[20秒]\n\n[スキル情報：パーティー]\n[1]無敵[2秒]\n[2]防御度[20%]増加[20秒]\n\nソウルエナジーを集め、それを放出することで味方を守るバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
-[1] Invincibility Duration: [2s]+1s\n[2] Buff Effect: Defense [20%]+10%
+[スキル情報：基本効果]\nバフ効果：無敵[5秒]、\n防御度[20%]増加[20秒]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：追加効果]\nバフ効果：無敵[2秒]、\n防御度[20%]増加[20秒]\n\nソウルエナジーを放出する事でバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[スキル情報：基本効果]\nバフ効果：無敵[5秒]+2秒\n防御度[20%]+10%\n\n[スキル情報：追加効果]\nバフ効果：無敵[2秒]+1秒\n防御度[20%]+10%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FusionArmor
 0
 Movie/Skill/PC_D/B_Skill_FusionArmor
 
 ID=14115
 Fusion Armor Ⅴ
-[スキル情報]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：自分]\n[1]無敵[7秒]\n[2防御度[30%]増加[20秒]\n\n[スキル情報：パーティー]\n[1]無敵[3秒]\n[2]防御度[30%]増加[20秒]\n\nソウルエナジーを集め、それを放出することで味方を守るバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+[スキル情報：基本効果]\nバフ効果：無敵[7秒]、\n防御度[30%]増加[20秒]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：追加効果]\nバフ効果：無敵[3秒]、\n防御度[30%]増加[20秒]\n\nソウルエナジーを放出する事でバリアを付与する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FusionArmor
 0
@@ -3272,39 +3272,39 @@ Movie/Skill/PC_D/B_Skill_FusionArmor
 
 ID=14121
 Rapid Puncher Ⅰ
-[Basic]\nDamage: [106%] per hit\nSA Break: [130%] per hit\n\n[Finisher]\nDamage: [422%]\nSA Break: [519%]\n\n[Common]\nSG Cost: [65]\nCooldown: [35s]\n\nPushes the Gauntlets to their maximum output power to strike with the fists left and right alternatively. Afterwards adds a powerful finishing attack at any time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n[Usage: Finisher]\nMouse: (RMB)
-[Basic]\nDamage: [106%]+5% per hit\nSA Break: [130%]+6% per hit\n\n[Finisher]\nDamage: [422%]+21% per hit\nSA Break: [519%]+26% per hit
+[スキル情報：基本効果]\nSG消費量：[65]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃：連撃]\nダメージ量：[175%]\nSA破壊量：[215%]\n\n[スキル情報：追加攻撃：強撃]\nダメージ量：[700%]\nSA破壊量：[860%]\n\n高出力状態で、連続攻撃打ち出す。\n追加操作、連続攻撃の終了時に強力な攻撃を加える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃：連撃]\nマウス：(左クリック連打)\n\n[操作方法：追加攻撃：強撃]\nマウス：(右クリック)
+[スキル情報：追加攻撃：連撃]\nダメージ量：[175%]+9%\nSA破壊量：[215%]+9%\n\n[スキル情報：追加攻撃：強撃]\nダメージ量：[700%]+36%\nSA破壊量：[860%]+36%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_RapidPuncher
 0
 Movie/Skill/PC_D/B_Skill_RapidPuncher
 
 ID=14122
 Rapid Puncher Ⅱ
-[Basic]\nDamage: [111%] per hit\nSA Break: [136%] per hit\n\n[Finisher]\nDamage: [443%]\nSA Break: [545%]\n\n[Common]\nSG Cost: [65]\nCooldown: [35s]\n\nPushes the Gauntlets to their maximum output power to strike with the fists left and right alternatively. Afterwards adds a powerful finishing attack at any time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n[Usage: Finisher]\nMouse: (RMB)
-[Basic]\nDamage: [111%]+13% per hit\nSA Break: [136%]+17% per hit\n\n[Finisher]\nDamage: [443%]+53% per hit\nSA Break: [545%]+65% per hit
+[スキル情報：基本効果]\nSG消費量：[65]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃：連撃]\nダメージ量：[184%]\nSA破壊量：[224%]\n\n[スキル情報：追加攻撃：強撃]\nダメージ量：[736%]\nSA破壊量：[896%]\n\n高出力状態で、連続攻撃打ち出す。\n追加操作、連続攻撃の終了時に強力な攻撃を加える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃：連撃]\nマウス：(左クリック連打)\n\n[操作方法：追加攻撃：強撃]\nマウス：(右クリック)
+[スキル情報：追加攻撃：連撃]\nダメージ量：[184%]+21%\nSA破壊量：[224%]+29%\n\n[スキル情報：追加攻撃：強撃]\nダメージ量：[736%]+84%\nSA破壊量：[896%]+116%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_RapidPuncher
 0
 Movie/Skill/PC_D/B_Skill_RapidPuncher
 
 ID=14123
 Rapid Puncher Ⅲ
-[Basic]\nDamage: [124%] per hit\nSA Break: [153%] per hit\n\n[Finisher]\nDamage: [496%]\nSA Break: [610%]\n\n[Common]\nSG Cost: [65]\nCooldown: [35s]\n\nPushes the Gauntlets to their maximum output power to strike with the fists left and right alternatively. Afterwards adds a powerful finishing attack at any time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n[Usage: Finisher]\nMouse: (RMB)
-[Basic]\nDamage: [124%]+13% per hit\nSA Break: [153%]+16% per hit\n\n[Finisher]\nDamage: [496%]+53% per hit\nSA Break: [610%]+65% per hit
+[スキル情報：基本効果]\nSG消費量：[65]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃：連撃]\nダメージ量：[205%]\nSA破壊量：[253%]\n\n[スキル情報：追加攻撃：強撃]\nダメージ量：[820%]\nSA破壊量：[1012%]\n\n高出力状態で、連続攻撃打ち出す。\n追加操作、連続攻撃の終了時に強力な攻撃を加える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃：連撃]\nマウス：(左クリック連打)\n\n[操作方法：追加攻撃：強撃]\nマウス：(右クリック)
+[スキル情報：追加攻撃：連撃]\nダメージ量：[205%]+22%\nSA破壊量：[253%]+26%\n\n[スキル情報：追加攻撃：強撃]\nダメージ量：[820%]+88%\nSA破壊量：[1012%]+104%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_RapidPuncher
 0
 Movie/Skill/PC_D/B_Skill_RapidPuncher
 
 ID=14124
 Rapid Puncher Ⅳ
-[Basic]\nDamage: [137%] per hit\nSA Break: [169%] per hit\n\n[Finisher]\nDamage: [549%]\nSA Break: [675%]\n\n[Common]\nSG Cost: [65]\nCooldown: [35s]\n\nPushes the Gauntlets to their maximum output power to strike with the fists left and right alternatively. Afterwards adds a powerful finishing attack at any time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n[Usage: Finisher]\nMouse: (RMB)
-[Basic]\nDamage: [137%]+21% per hit\nSA Break: [169%]+26% per hit\n\n[Finisher]\nDamage: [549%]+85% per hit\nSA Break: [675%]+104% per hit
+[スキル情報：基本効果]\nSG消費量：[65]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃：連撃]\nダメージ量：[227%]\nSA破壊量：[279%]\n\n[スキル情報：追加攻撃：強撃]\nダメージ量：[908%]\nSA破壊量：[1116%]\n\n高出力状態で、連続攻撃打ち出す。\n追加操作、連続攻撃の終了時に強力な攻撃を加える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃：連撃]\nマウス：(左クリック連打)\n\n[操作方法：追加攻撃：強撃]\nマウス：(右クリック)
+[スキル情報：追加攻撃：連撃]\nダメージ量：[227%]+34%\nSA破壊量：[279%]+43%\n\n[スキル情報：追加攻撃：強撃]\nダメージ量：[908%]+136%\nSA破壊量：[1116%]+172%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_RapidPuncher
 0
 Movie/Skill/PC_D/B_Skill_RapidPuncher
 
 ID=14125
 Rapid Puncher Ⅴ
-[Basic]\nDamage: [158%] per hit\nSA Break: [195%] per hit\n\n[Finisher]\nDamage: [634%]\nSA Break: [779%]\n\n[Common]\nSG Cost: [65]\nCooldown: [35s]\n\nPushes the Gauntlets to their maximum output power to strike with the fists left and right alternatively. Afterwards adds a powerful finishing attack at any time.\n\n[Usage: Additional]\nMouse: (spam LMB)\n[Usage: Finisher]\nMouse: (RMB)
+[スキル情報：基本効果]\nSG消費量：[65]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃：連撃]\nダメージ量：[261%]\nSA破壊量：[322%]\n\n[スキル情報：追加攻撃：強撃]\nダメージ量：[1044%]\nSA破壊量：[1288%]\n\n高出力状態で、連続攻撃打ち出す。\n追加操作、連続攻撃の終了時に強力な攻撃を加える。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力\n\n[操作方法：追加攻撃：連撃]\nマウス：(左クリック連打)\n\n[操作方法：追加攻撃：強撃]\nマウス：(右クリック)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_RapidPuncher
 0
@@ -3312,39 +3312,39 @@ Movie/Skill/PC_D/B_Skill_RapidPuncher
 
 ID=14131
 Final Fist Ⅰ
-[Info]\nDamage: [1997%]\nSA Break: [2124%]\nSG Cost: [75]\nCooldown: [45s]\n\nPushes the Gauntlets to their maximum output power to hit the ground. Causes a wide explosion every time it hits the ground.\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [1997%]+100%\nSA Break: [2124%]+106%
+[スキル情報]\nダメージ量：[199%][299%][599%]\nSA破壊量：[212%][318%][637%]\nSG消費量：[75]\nクールタイム：[45秒]\n\nエナジーを最大出力にして地面を打つ。\n攻撃する度に爆発を引き起こす。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[199%]+10%[299%]+25%[599%]+30%\nSA破壊量：[212%]+11%[318%]+16%[637%]+32%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FinalFist
 0
 Movie/Skill/PC_D/B_SKill_FinalFist
 
 ID=14132
 Final Fist Ⅱ
-[Info]\nDamage: [2097%]\nSA Break: [2230%]\nSG Cost: [75]\nCooldown: [45s]\n\nPushes the Gauntlets to their maximum output power to hit the ground. Causes a wide explosion every time it hits the ground.\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [2097%]+250%\nSA Break: [2230%]+266%
+[スキル情報]\nダメージ量：[209%][314%][629%]\nSA破壊量：[223%][334%][669%]\nSG消費量：[75]\nクールタイム：[45秒]\n\nエナジーを最大出力にして地面を打つ。\n攻撃する度に爆発を引き起こす。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[209%]+25%[314%]+38%[629%]+75%\nSA破壊量：[223%]+26%[334%]+40%[669%]+79%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FinalFist
 0
 Movie/Skill/PC_D/B_SKill_FinalFist
 
 ID=14133
 Final Fist Ⅲ
-[Info]\nDamage: [2347%]\nSA Break: [2496%]\nSG Cost: [75]\nCooldown: [45s]\n\nPushes the Gauntlets to their maximum output power to hit the ground. Causes a wide explosion every time it hits the ground.\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [2347%]+250%\nSA Break: [2496%]+265%
+[スキル情報]\nダメージ量：[234%][352%][704%]\nSA破壊量：[249%][374%][748%]\nSG消費量：[75]\nクールタイム：[45秒]\n\nエナジーを最大出力にして地面を打つ。\n攻撃する度に爆発を引き起こす。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[234%]+25%[352%]+37%[704%]+75%\nSA破壊量：[249%]+27%[374%]+40%[748%]+80%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FinalFist
 0
 Movie/Skill/PC_D/B_SKill_FinalFist
 
 ID=14134
 Final Fist Ⅳ
-[Info]\nDamage: [2597%]\nSA Break: [2761%]\nSG Cost: [75]\nCooldown: [45s]\n\nPushes the Gauntlets to their maximum output power to hit the ground. Causes a wide explosion every time it hits the ground.\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [2597%]+399%\nSA Break: [2761%]+425%
+[スキル情報]\nダメージ量：[259%][389%][779%]\nSA破壊量：[276%][414%][828%]\nSG消費量：[75]\nクールタイム：[45秒]\n\nエナジーを最大出力にして地面を打つ。\n攻撃する度に爆発を引き起こす。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[259%]+40%[389%]+60%[779%]+119%\nSA破壊量：[276%]+42%[414%]+63%[828%]+127%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FinalFist
 0
 Movie/Skill/PC_D/B_SKill_FinalFist
 
 ID=14135
 Final Fist Ⅴ
-[Info]\nDamage: [2996%]\nSA Break: [3186%]\nSG Cost: [75]\nCooldown: [45s]\n\nPushes the Gauntlets to their maximum output power to hit the ground. Causes a wide explosion every time it hits the ground.\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：[299%][449%][898%]\nSA破壊量：[318%][477%][955%]\nSG消費量：[75]\nクールタイム：[45秒]\n\nエナジーを最大出力にして地面を打つ。\n攻撃する度に爆発を引き起こす。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FinalFist
 0
@@ -4088,7 +4088,7 @@ Movie/Skill/PC_E/B_Skill_BeastParty
 
 ID=15121
 Best Tempo Ⅰ
-[スキル情報：攻撃モード]\n毎秒SG[5%]回復、[10秒]\nバフ効果：攻撃速度[5%]、移動速度[10％]増加\nバフ持続時間：[15秒]\n\n[スキル情報:追加効果]\nバフ効果：毎秒SG[5%]回復、\n攻撃速度[5%]、移動速度[10％]増加\nバフ持続時間：[10秒]\n\n[スキル情報：支援モード]\nHP回復効果：[14%]\nバフ効果：攻撃速度[5%]、移動速度[10％]増加\nバフ持続時間：[15秒]\n\n[スキル情報:追加効果]\nHP回復効果：[14%]\nバフ効果：攻撃速度[5%]、移動速度[10％]増加\nバフ持続時間：[10秒]\n\n[スキル情報：共通]\nSG消費量：[45]\nクールタイム：[45秒]\n\nギターを演奏し、味方の士気を奮い立たせる。\n使用時に周囲の仲間に追加効果を与える。\n支援モード時、HPを回復させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[スキル情報：攻撃モード]\n毎秒SG[5%]回復、[10秒]\nバフ効果：攻撃速度[5%]、移動速度[10％]増加\nバフ持続時間：[20秒]\n\n[スキル情報：支援モード]\nHP回復効果：[14%]\nバフ効果：攻撃速度[5%]、移動速度[10％]増加\nバフ持続時間：[20秒]\n\n[スキル情報：共通]\nSG消費量：[45]\nクールタイム：[45秒]\n\nギターを演奏し、味方の士気を奮い立たせる。\n使用時に周囲の仲間に追加効果を与える。\n支援モード時、HPを回復させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 [共通バフ効果]\n攻撃速度[5%]+1%\n移動速度[10％]+2%\n\n[攻撃モード]\nSG回復量：[5%]+1%\n\n[支援モード]\nHP回復量：[14%] +4%
 Icon/Skill/Howling/Icon_Howling_Skill_BestTempo
 0
@@ -4096,7 +4096,7 @@ Movie/Skill/PC_E/B_Skill_BestTempo
 
 ID=15122
 Best Tempo Ⅱ
-[スキル情報：攻撃モード]\n毎秒SG[6%]回復、[10秒]\nバフ効果：攻撃速度[6%]、移動速度[12％]増加\nバフ持続時間：[15秒]\n\n[スキル情報:追加効果]\nバフ効果：毎秒SG[6%]回復、\n攻撃速度[6%]、移動速度[12％]増加\nバフ持続時間：[10秒]\n\n[スキル情報：支援モード]\nHP回復効果：[18%]\nバフ効果：攻撃速度[6%]、移動速度[12%]増加\nバフ持続時間：[15秒]\n\n[スキル情報:追加効果]\nHP回復効果：[18%]\nバフ効果：攻撃速度[6%]、移動速度[12%]増加\nバフ持続時間：[10秒]\n\n[スキル情報：共通]\nSG消費量：[45]\nクールタイム：[45秒]\n\nギターを演奏し、味方の士気を奮い立たせる。\n使用時に周囲の仲間に追加効果を与える。\n支援モード時、HPを回復させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[スキル情報：攻撃モード]\n毎秒SG[6%]回復、[10秒]\nバフ効果：攻撃速度[6%]、移動速度[12％]増加\nバフ持続時間：[20秒]\n\n[スキル情報：支援モード]\nHP回復効果：[18%]\nバフ効果：攻撃速度[6%]、移動速度[12%]増加\nバフ持続時間：[20秒]\n\n[スキル情報：共通]\nSG消費量：[45]\nクールタイム：[45秒]\n\nギターを演奏し、味方の士気を奮い立たせる。\n使用時に周囲の仲間に追加効果を与える。\n支援モード時、HPを回復させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 [共通バフ効果]\n攻撃速度[6%]+2%\n移動速度[12％]+4%\n\n[攻撃モード]\nSG回復量：[6%]+2%\n\n[支援モード]\nHP回復量：[18%] +4%
 Icon/Skill/Howling/Icon_Howling_Skill_BestTempo
 0
@@ -4104,7 +4104,7 @@ Movie/Skill/PC_E/B_Skill_BestTempo
 
 ID=15123
 Best Tempo Ⅲ
-[スキル情報：攻撃モード]\n毎秒SG[8%]回復、[10秒]\nバフ効果：攻撃速度[8%]、移動速度[16％]増加\nバフ持続時間：[15秒]\n\n[スキル情報:追加効果]\nバフ効果：毎秒SG[8%]回復、\n攻撃速度[8%]、移動速度[16％]増加\nバフ持続時間：[10秒]\n\n[スキル情報：支援モード]\nHP回復効果：[22%]\nバフ効果：攻撃速度[8%]、移動速度[16％]増加\nバフ持続時間：[15秒]\n\n[スキル情報:追加効果]\nHP回復効果：[22%]\nバフ効果：攻撃速度[8%]、移動速度[16％]増加\nバフ持続時間：[10秒]\n\n[スキル情報：共通]\nSG消費量：[45]\nクールタイム：[45秒]\n\nギターを演奏し、味方の士気を奮い立たせる。\n使用時に周囲の仲間に追加効果を与える。\n支援モード時、HPを回復させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[スキル情報：攻撃モード]\n毎秒SG[6%]回復、[10秒]\nバフ効果：攻撃速度[8%]、移動速度[16％]増加\nバフ持続時間：[20秒]\n\n[スキル情報：支援モード]\nHP回復効果：[22%]\nバフ効果：攻撃速度[8%]、移動速度[16%]増加\nバフ持続時間：[20秒]\n\n[スキル情報：共通]\nSG消費量：[45]\nクールタイム：[45秒]\n\nギターを演奏し、味方の士気を奮い立たせる。\n使用時に周囲の仲間に追加効果を与える。\n支援モード時、HPを回復させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 [共通バフ効果]\n攻撃速度[8%]+2%\n移動速度[16％]+4%\n\n[攻撃モード]\nSG回復量：[8%]+2%\n\n[支援モード]\nHP回復量：[22%] +10%
 Icon/Skill/Howling/Icon_Howling_Skill_BestTempo
 0
@@ -4112,7 +4112,7 @@ Movie/Skill/PC_E/B_Skill_BestTempo
 
 ID=15124
 Best Tempo Ⅳ
-[スキル情報：攻撃モード]\n毎秒SG[10%]回復、[10秒]\nバフ効果：攻撃速度[10%]、移動速度[20％]増加\nバフ持続時間：[15秒]\n\n[スキル情報:追加効果]\nバフ効果：毎秒SG[10%]回復、\n攻撃速度[10%]、移動速度[20％]増加\nバフ持続時間：[10秒]\n\n[スキル情報：支援モード]\nHP回復効果：[32%]\nバフ効果：攻撃速度[10%]、移動速度[20%]増加\nバフ持続時間：[15秒]\n\n[スキル情報:追加効果]\nHP回復効果：[32%]\nバフ効果：攻撃速度[10%]、移動速度[20%]増加\nバフ持続時間：[10秒]\n\n[スキル情報：共通]\nSG消費量：[45]\nクールタイム：[45秒]\n\nギターを演奏し、味方の士気を奮い立たせる。\n使用時に周囲の仲間に追加効果を与える。\n支援モード時、HPを回復させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[スキル情報：攻撃モード]\n毎秒SG[10%]回復、[10秒]\nバフ効果：攻撃速度[10%]、移動速度[20％]増加\nバフ持続時間：[20秒]\n\n[スキル情報：支援モード]\nHP回復効果：[32%]\nバフ効果：攻撃速度[10%]、移動速度[20%]増加\nバフ持続時間：[20秒]\n\n[スキル情報：共通]\nSG消費量：[45]\nクールタイム：[45秒]\n\nギターを演奏し、味方の士気を奮い立たせる。\n使用時に周囲の仲間に追加効果を与える。\n支援モード時、HPを回復させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 [共通バフ効果]\n攻撃速度[10%]+5%\n移動速度[20％]+10%\n\n[攻撃モード]\nSG回復量：[10%]+5%\n\n[支援モード]\nHP回復量：[32%] +18%
 Icon/Skill/Howling/Icon_Howling_Skill_BestTempo
 0
@@ -4120,7 +4120,7 @@ Movie/Skill/PC_E/B_Skill_BestTempo
 
 ID=15125
 Best Tempo Ⅴ
-[スキル情報：攻撃モード]\n毎秒SG[15%]回復、[10秒]\nバフ効果：攻撃速度[15%]、移動速度[30％]増加\nバフ持続時間：[15秒]\n\n[スキル情報:追加効果]\nバフ効果：毎秒SG[15%]回復、\n攻撃速度[15%]、移動速度[30％]増加\nバフ持続時間：[10秒]\n\n[スキル情報：支援モード]\nHP回復効果：[50%]\nバフ効果：攻撃速度[15%]、移動速度[30％]増加\nバフ持続時間：[15秒]\n\n[スキル情報:追加効果]\nHP回復効果：[50%]\nバフ効果：攻撃速度[15%]、移動速度[30％]増加\nバフ持続時間：[10秒]\n\n[スキル情報：共通]\nSG消費量：[45]\nクールタイム：[45秒]\n\nギターを演奏し、味方の士気を奮い立たせる。\n使用時に周囲の仲間に追加効果を与える。\n支援モード時、HPを回復させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
+[スキル情報：攻撃モード]\n毎秒SG[15%]回復、[10秒]\nバフ効果：攻撃速度[15%]、移動速度[30％]増加\nバフ持続時間：[20秒]\n\n[スキル情報：支援モード]\nHP回復効果：[50%]\nバフ効果：攻撃速度[15%]、移動速度[30％]増加\nバフ持続時間：[20秒]\n\n[スキル情報：共通]\nSG消費量：[45]\nクールタイム：[45秒]\n\nギターを演奏し、味方の士気を奮い立たせる。\n使用時に周囲の仲間に追加効果を与える。\n支援モード時、HPを回復させる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_BestTempo
 0
@@ -4489,7 +4489,7 @@ Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 ID=6141
 Rapid Attack Ⅰ
 [スキル情報]\nパッシブ効果：SG消費量[5%]減少
-SG消費量：[8%]
+SG消費量：[５%]＋３％
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_SGPassive
 0
 0
@@ -4497,7 +4497,7 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_SGPassive
 ID=6142
 Rapid Attack Ⅱ
 [スキル情報]\nパッシブ効果：SG消費量[8%]減少
-SG消費量：[10%]
+SG消費量：[８%]＋２％
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_SGPassive
 0
 0
@@ -4600,39 +4600,39 @@ Movie/Skill/PC_F/B_Skill_HammerCrash
 
 ID=16021
 Camel Spin Ⅰ
-[Info]\nDamage: [320%]\nSA Break: [209%]\nSG Cost: [35]\nCooldown: [10s]\n\nTake a short leap forward then strike with a 360° rotation.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [320%]+16%\nSA Break: [209%]+10%
+[スキル情報]\nダメージ量：[320%]\nSA破壊量：[209%]\nSG消費量：[35]\nSG回復量：[1]\nクールタイム：[10秒]\n\n前方に向かって低く飛び、体を360度回転させ攻撃する。\n攻撃命中時、SGを回復する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[320%]+16%\nSA破壊量：[209%]+10%\nSG回復量：[1]+1
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_CamelSpin
 0
 Movie/Skill/PC_F/B_Skill_CamelSpin
 
 ID=16022
 Camel Spin Ⅱ
-[Info]\nDamage: [336%]\nSA Break: [219%]\nSG Cost: [35]\nCooldown: [10s]\n\nTake a short leap forward then strike with a 360° rotation.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [336%]+40%\nSA Break: [219%]+26%
+[スキル情報]\nダメージ量：[336%]\nSA破壊量：[219%]\nSG消費量：[35]\nSG回復量：[2]\nクールタイム：[10秒]\n\n前方に向かって低く飛び、体を360度回転させ攻撃する。\n攻撃命中時、SGを回復する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[336%]+40%\nSA破壊量：[219%]+26%\nSG回復量：[2]+1
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_CamelSpin
 0
 Movie/Skill/PC_F/B_Skill_CamelSpin
 
 ID=16023
 Camel Spin Ⅲ
-[Info]\nDamage: [376%]\nSA Break: [245%]\nSG Cost: [35]\nCooldown: [10s]\n\nTake a short leap forward then strike with a 360° rotation.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [376%]+40%\nSA Break: [245%]+26%
+[スキル情報]\nダメージ量：[376%]\nSA破壊量：[245%]\nSG消費量：[35]\nSG回復量：[3]\nクールタイム：[10秒]\n\n前方に向かって低く飛び、体を360度回転させ攻撃する。\n攻撃命中時、SGを回復する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[376%]+40%\nSA破壊量：[245%]+26%\nSG回復量：[3]+1
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_CamelSpin
 0
 Movie/Skill/PC_F/B_Skill_CamelSpin
 
 ID=16024
 Camel Spin Ⅳ
-[Info]\nDamage: [416%]\nSA Break: [271%]\nSG Cost: [35]\nCooldown: [10s]\n\nTake a short leap forward then strike with a 360° rotation.\n\n[Usage]\nPlace in skill slot and press the corresponding key
-Damage: [416%]+64%\nSA Break: [271%]+42%
+[スキル情報]\nダメージ量：[416%]\nSA破壊量：[271%]\nSG消費量：[35]\nSG回復量：[4]\nクールタイム：[10秒]\n\n前方に向かって低く飛び、体を360度回転させ攻撃する。\n攻撃命中時、SGを回復する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
+ダメージ量：[416%]+64%\nSA破壊量：[271%]+42%\nSG回復量：[4]+1
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_CamelSpin
 0
 Movie/Skill/PC_F/B_Skill_CamelSpin
 
 ID=16025
 Camel Spin Ⅴ
-[Info]\nDamage: [480%]\nSA Break: [313%]\nSG Cost: [35]\nCooldown: [10s]\n\nTake a short leap forward then strike with a 360° rotation.\n\n[Usage]\nPlace in skill slot and press the corresponding key
+[スキル情報]\nダメージ量：[480%]\nSA破壊量：[313%]\nSG消費量：[35]\nSG回復量：[5]\nクールタイム：[10秒]\n\n前方に向かって低く飛び、体を360度回転させ攻撃する。\n攻撃命中時、SGを回復する。\n\n[操作方法]\nマウス：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_CamelSpin
 0
@@ -4840,39 +4840,39 @@ Movie/Skill/PC_F/B_Skill_PulseFire
 
 ID=16081
 Limit Break Ⅰ
-[スキル情報：基本効果]\nバフ効果：最大ダメージ固定\nバフ持続時間：[5秒]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：追加効果]\nバフ効果：最大ダメージ固定\nバフ持続時間：[5秒]\n\n体内のソウルエナジーを放出しダメージを増幅する。\n使用時に周囲の仲間に追加効果を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
-[スキル情報]\nバフ持続時間：[5秒] +2秒\n\n[スキル情報：追加効果]\nバフ持続時間：[5秒] +1秒
+[スキル情報：基本効果]\nバフ効果：最大ダメージ固定、攻撃力[50％]上昇\nバフ持続時間：[20秒]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：追加効果]\nバフ効果：最大ダメージ固定\nバフ持続時間：[20秒]\n\n体内のソウルエナジーを放出しダメージを増幅する。\n使用時に周囲の仲間に追加効果を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+バフ効果：攻撃力[50％]+25％
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_LimitBrake
 0
 Movie/Skill/PC_F/B_Skill_LimitBrake
 
 ID=16082
 Limit Break Ⅱ
-[スキル情報：基本効果]\nバフ効果：最大ダメージ固定\nバフ持続時間：[7秒]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：追加効果]\nバフ効果：最大ダメージ固定\nバフ持続時間：[6秒]\n\n体内のソウルエナジーを放出しダメージを増幅する。 \n使用時に周囲の仲間に追加効果を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
-[スキル情報]\nバフ持続時間：[7秒] +2秒\n\n[スキル情報：追加効果]\nバフ持続時間：[6秒] +1秒
+[スキル情報：基本効果]\nバフ効果：最大ダメージ固定、攻撃力[75％]上昇\nバフ持続時間：[20秒]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：追加効果]\nバフ効果：最大ダメージ固定\nバフ持続時間：[20秒]\n\n体内のソウルエナジーを放出しダメージを増幅する。\n使用時に周囲の仲間に追加効果を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+バフ効果：攻撃力[75％]+25％
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_LimitBrake
 0
 Movie/Skill/PC_F/B_Skill_LimitBrake
 
 ID=16083
 Limit Break Ⅲ
-[スキル情報：基本効果]\nバフ効果：最大ダメージ固定\nバフ持続時間：[9秒]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：追加効果]\nバフ効果：最大ダメージ固定\nバフ持続時間：[7秒]\n\n体内のソウルエナジーを放出しダメージを増幅する。 \n使用時に周囲の仲間に追加効果を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
-[スキル情報]\nバフ持続時間：[9秒] +3秒\n\n[スキル情報：追加効果]\nバフ持続時間：[7秒] +1秒
+[スキル情報：基本効果]\nバフ効果：最大ダメージ固定、攻撃力[100％]上昇\nバフ持続時間：[20秒]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：追加効果]\nバフ効果：最大ダメージ固定\nバフ持続時間：[20秒]\n\n体内のソウルエナジーを放出しダメージを増幅する。\n使用時に周囲の仲間に追加効果を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+バフ効果：攻撃力[100％]+25％
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_LimitBrake
 0
 Movie/Skill/PC_F/B_Skill_LimitBrake
 
 ID=16084
 Limit Break Ⅳ
-[スキル情報：基本効果]\nバフ効果：最大ダメージ固定\nバフ持続時間：[12秒]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：追加効果]\nバフ効果：最大ダメージ固定\nバフ持続時間：[8秒]\n\n体内のソウルエナジーを放出しダメージを増幅する。 \n使用時に周囲の仲間に追加効果を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
-[スキル情報]\nバフ持続時間：[12秒] +3秒\n\n[スキル情報：追加効果]\nバフ持続時間：[8秒] +2秒
+[スキル情報：基本効果]\nバフ効果：最大ダメージ固定、攻撃力[125％]上昇\nバフ持続時間：[20秒]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：追加効果]\nバフ効果：最大ダメージ固定\nバフ持続時間：[20秒]\n\n体内のソウルエナジーを放出しダメージを増幅する。\n使用時に周囲の仲間に追加効果を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+バフ効果：攻撃力[125％]+25％
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_LimitBrake
 0
 Movie/Skill/PC_F/B_Skill_LimitBrake
 
 ID=16085
 Limit Break Ⅴ
-[スキル情報：基本効果]\nバフ効果：最大ダメージ固定\nバフ持続時間：[15秒]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：追加効果]\nバフ効果：最大ダメージ固定\nバフ持続時間：[10秒]\n\n体内のソウルエナジーを放出しダメージを増幅する。 \n使用時に周囲の仲間に追加効果を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+[スキル情報：基本効果]\nバフ効果：最大ダメージ固定、攻撃力[150％]上昇\nバフ持続時間：[20秒]\nSG消費量：[60]\nクールタイム：[45秒]\n\n[スキル情報：追加効果]\nバフ効果：最大ダメージ固定\nバフ持続時間：[20秒]\n\n体内のソウルエナジーを放出しダメージを増幅する。\n使用時に周囲の仲間に追加効果を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_LimitBrake
 0
@@ -5687,48 +5687,48 @@ Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_A
 Movie/Skill/PC_C/B_Skill_DeathTornado_A
 
 ID=24011
-Knock Out
-[Info]\nDebuff Effect: [Stun]\nDebuff Duration: [1s]\n\nStuns attacked enemies.
-Debuff Duration: [1s]+1s
+ダメージ増加Ⅰ
+[特性情報：基本効果]\nダメージ量：[531％]\n\n[特性情報：追加攻撃]\nダメージ量：[212％]\n\nダメージ量が増加する。
+[特性情報：基本効果]\nダメージ量：[531％]+106%\n\n[特性情報：追加攻撃]\nダメージ量：[212％]+42%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack_A
 0
-Movie/Skill/PC_D/B_Skill_CounterAttack_A
+Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=24012
-Knock Out Ⅱ
-[Info]\nDebuff Effect: [Stun]\nDebuff Duration: [2s]\n\nStuns attacked enemies.
-Debuff Duration: [2s]+1s
+ダメージ増加Ⅱ
+[特性情報：基本効果]\nダメージ量：[637％]\n\n[特性情報：追加攻撃]\nダメージ量：[254％]\n\nダメージ量が増加する。
+[特性情報：基本効果]\nダメージ量：[637％]+128%\n\n[特性情報：追加攻撃]\nダメージ量：[254％]+51%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack_A
 0
-Movie/Skill/PC_D/B_Skill_CounterAttack_A
+Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=24013
-Knock Out Ⅲ
-[Info]\nDebuff Effect: [Stun]\nDebuff Duration: [3s]\n\nStuns the enemy.
+ダメージ増加Ⅲ
+[特性情報：基本効果]\nダメージ量：[765％]\n\n[特性情報：追加攻撃]\nダメージ量：[305％]\n\nダメージ量が増加する。
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack_A
 0
-Movie/Skill/PC_D/B_Skill_CounterAttack_A
+Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=24014
 SA Destruction Ⅰ
-[特性情報：通常攻撃]\nSA破壊量増加値：[595%]\n\n[特性情報：強制攻撃]\nSA破壊量増加値：[238%]\n\nSA破壊量が増加する。
-[特性情報：通常攻撃]\nSA破壊量増加値：[595%]+119%\n\n[特性情報：強制攻撃]\nSA破壊量増加値：[238%]+47%
+[特性情報：基本効果]\nSA破壊量：[893％]\n\n[特性情報：追加攻撃]\nSA破壊量：[357％]\n\nSA破壊量が増加する。
+[特性情報：基本効果]\nSA破壊量：[893％]+178%\n\n[特性情報：追加攻撃]\nSA破壊量：[357％]+71%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack_B
 0
 Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=24015
 SA Destruction Ⅱ
-[特性情報：通常攻撃]\nSA破壊量増加値：[714%]\n\n[特性情報：強制攻撃]\nSA破壊量増加値：[285%]\n\nSA破壊量が増加する。
-[特性情報：通常攻撃]\nSA破壊量増加値：[714%]+238%\n\n[特性情報：強制攻撃]\nSA破壊量増加値：[285%]+95%
+[特性情報：基本効果]\nSA破壊量：[1071％]\n\n[特性情報：追加攻撃]\nSA破壊量：[428％]\n\nSA破壊量が増加する。
+[特性情報：基本効果]\nSA破壊量：[1071％]+357%\n\n[特性情報：追加攻撃]\nSA破壊量：[428％]+143%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack_B
 0
 Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=24016
 SA Destruction Ⅲ
-[特性情報：通常攻撃]\nSA破壊量増加値：[952%]\n\n[特性情報：強制攻撃]\nSA破壊量増加値：[380%]\n\nSA破壊量が増加する。
+[特性情報：基本効果]\nSA破壊量：[1428％]\n\n[特性情報：追加攻撃]\nSA破壊量：[571％]\n\nSA破壊量が増加する。
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack_B
 0
@@ -5736,23 +5736,23 @@ Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=24021
 Knockdown Ⅰ
-[Basic]\nDamage: +[113%]\nSA Break: -[162%]\n\n[Additional]\nDamage: +[57%] [28%] [85%]\nSA Break: -[81%] [41%] [122%]\n\n[Additional 2]\nDamage: [269%]\nSA Break: [115%]\n\nActivated after Glory Upper's additional attack.\nFollow up with a powerful blow on the enemy.\n\n[Usage: Additional]\nMouse: After last attack (RMB)
-[Basic]\nDamage: [113%]+36%\nSA Break: [162%]-15%\n\n[Additional]\nDamage: [57%]+18% [28%]+9% [85%]+27%\nSA Break: [81%]-8% [41%]-4% [122%]-12%\n\n[Additional 2]\nDamage: [269%]+27%\nSA Break: [115%]+11% 
+[スキル情報：通常攻撃]\nダメージ量：[484%]\nSA破壊量：[315％]\n\n[スキル情報：追加攻撃]\nダメージ量：[242%][121%][363%][363%]\nSA破壊量：[158％] [79％] [236％][236％]\n\nグローリーアッパーの追加攻撃後、強力な一撃を与える。\n\n[操作方法：追加攻撃]\nマウス：右クリック　×4
+[スキル情報：通常攻撃]\nダメージ量：[484%]+48%\nSA破壊量：[315％]+21%\n\n[スキル情報：追加攻撃]\nダメージ量：[242%]+24%[121%]+12%[363%]+36%[363%]+36%\nSA破壊量：[158%]+11%[79%]+16%[236%]+16%[236%]+16%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper_A
 0
 Movie/Skill/PC_D/B_Skill_GloryUpper_A
 
 ID=24022
 Knockdown Ⅱ
-[Basic]\nDamage: +[149%]\nSA Break: -[147%]\n\n[Additional]\nDamage: +[75%] [37%] [112%]\nSA Break: -[73%] [37%] [110%]\n\n[Additional 2]\nDamage: [296%]\nSA Break: [126%]\n\nActivated after Glory Upper's additional attack.\nFollow up with a powerful blow on the enemy.\n\n[Usage: Additional]\nMouse: After last attack (RMB)
-[Basic]\nDamage: [149%]+72%\nSA Break: [147%]-31%\n\n[Additional]\nDamage: [75%]+35% [37%]+18% [112%]+54%\nSA Break: [73%]-15% [37%]-8% [110%]-23%\n\n[Additional 2]\nDamage: [296%]+54%\nSA Break: [126%]+23% 
+[スキル情報：通常攻撃]\nダメージ量：[532%]\nSA破壊量：[336％]\n\n[スキル情報：追加攻撃]\nダメージ量：[266%][133%][399%][399%]\nSA破壊量：[169%][95%][252%][252%]\n\nグローリーアッパーの追加攻撃後、強力な一撃を与える。\n\n[操作方法：追加攻撃]\nマウス：右クリック　×4
+[スキル情報：通常攻撃]\nダメージ量：[532%]+92%\nSA破壊量：[336％]+61%\n\n[スキル情報：追加攻撃]\nダメージ量：[266%]+48%[133%]+24%[399%]+72%[399%]+72%\nSA破壊量：[169%]+30%[95%]+46%[252%]+46%[252%]+46%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper_A
 0
 Movie/Skill/PC_D/B_Skill_GloryUpper_A
 
 ID=24023
 Knockdown Ⅲ
-[特性情報：通常攻撃]\nダメージ量増加値：[98%]\nSA破壊量減少値：[116%]\n\n[特性情報：追加攻撃]\nダメージ量増加値：[65%] [32%] [98%]\nSA破壊量減少値：[58%] [29%] [87%]\n\n[特性情報：追加攻撃2]\nダメージ量追加値：[257%]\nSA破壊量追加値：[149%]\n\nグローリーアッパーの追加攻撃後に発動。\n敵を追撃し強力な一撃を加える。\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)
+[スキル情報：通常攻撃]\nダメージ量：[629%]\nSA破壊量：[397％]\n\n[スキル情報：追加攻撃]\nダメージ量：[314%][157%][471%][471%]\nSA破壊量：[199%][141%][298%][298%]\n\nグローリーアッパーの追加攻撃後、強力な一撃を与える。\n\n[操作方法：追加攻撃]\nマウス：右クリック　×4
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper_A
 0
@@ -5760,23 +5760,23 @@ Movie/Skill/PC_D/B_Skill_GloryUpper_A
 
 ID=24024
 Upper Ⅰ
-[特性情報：通常攻撃]\nダメージ量追加値：[113%]\nSA破壊量減少値：[162%]\n\n[特性情報：追加攻撃]\nダメージ量増加値：[57%] [28%] [85%]\nSA破壊量減少値：[81%] [41%] [122%]\n\n[特性情報：追加攻撃2]\nダメージ量追加値：[269%]\nSA破壊量追加値：[115%]\n\nグローリーアッパーの追加攻撃後に発動。\n異能力で前方の敵を攻撃する。\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)
-[通常攻撃]\nダメージ量増加値：[98%] +34%\nSA破壊量増加値：[31%] +63%\n\n[追加攻撃]\nダメージ量増加値：\n[65%] +17% [32%] +8% [98%] +26%\nSA破壊量増加値：\n[16%]+31% [8%]+16% [23%]+48%\n\n[追加攻撃2]\nダメージ量追加値：[257%] +26%\nSA破壊量追加値：[260%]+47% 
+[スキル情報：通常攻撃]\nダメージ量：[484%]\nSA破壊量：[315％]\n\n[スキル情報：追加攻撃]\nダメージ量：[242%][121%][363%][363%]\nSA破壊量：[158％] [79％] [236％][236％]\n\nグローリーアッパーの追加攻撃後、強力な一撃を与える。\n\n[操作方法：追加攻撃]\nマウス：右クリック　×4
+[スキル情報：通常攻撃]\nダメージ量：[484%]+48%\nSA破壊量：[315％]+21%\n\n[スキル情報：追加攻撃]\nダメージ量：[242%]+24%[121%]+12%[363%]+36%[363%]+36%\nSA破壊量：[158%]+11%[79%]+16%[236%]+16%[236%]+16%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper_B
 0
 Movie/Skill/PC_D/B_Skill_GloryUpper_B
 
 ID=24025
 Upper Ⅱ
-[特性情報：通常攻撃]\nダメージ量増加値：[149%]\nSA破壊量減少値：[147%]\n\n[特性情報：追加攻撃]\nダメージ量増加値：[75%] [37%] [112%]\nSA破壊量減少値：[73%] [37%] [110%]\n\n[特性情報：追加攻撃2]\nダメージ量追加値：[296%]\nSA破壊量追加値：[126%]\n\nグローリーアッパーの追加攻撃後に発動。\n異能力で前方の敵を攻撃する。\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)
-[通常攻撃]\nダメージ量増加値：[133%] +68%\nSA破壊量増加値：[31%]+63%\n\n[追加攻撃]\nダメージ量増加値：\n[83%] +34% [41%] +17% [124%] +51%\nSA破壊量増加値：\n[16%]+31% [8%]+16% [23%]+48%\n\n[追加攻撃2]\nダメージ量追加値：[283%] +51%\nSA破壊量追加値：[260%]+47% 
+[スキル情報：通常攻撃]\nダメージ量：[532%]\nSA破壊量：[336％]\n\n[スキル情報：追加攻撃]\nダメージ量：[266%][133%][399%][399%]\nSA破壊量：[169%][95%][252%][252%]\n\nグローリーアッパーの追加攻撃後、強力な一撃を与える。\n\n[操作方法：追加攻撃]\nマウス：右クリック　×4
+[スキル情報：通常攻撃]\nダメージ量：[532%]+92%\nSA破壊量：[336％]+61%\n\n[スキル情報：追加攻撃]\nダメージ量：[266%]+48%[133%]+24%[399%]+72%[399%]+72%\nSA破壊量：[169%]+30%[95%]+46%[252%]+46%[252%]+46%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper_B
 0
 Movie/Skill/PC_D/B_Skill_GloryUpper_B
 
 ID=24026
 Upper Ⅲ
-[特性情報：通常攻撃]\nダメージ量増加値：[98%]\nSA破壊量減少値：[116%]\n\n[特性情報：追加攻撃]\nダメージ量増加値：[65%] [32%] [98%]\nSA破壊量減少値：[58%] [29%] [87%]\n\n[特性情報：追加攻撃2]\nダメージ量追加値：[257%]\nSA破壊量追加値：[149%]\n\nグローリーアッパーの追加攻撃後に発動。\n異能力で前方の敵を攻撃する。\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)
+[スキル情報：通常攻撃]\nダメージ量：[629%]\nSA破壊量：[397％]\n\n[スキル情報：追加攻撃]\nダメージ量：[314%][157%][471%][471%]\nSA破壊量：[199%][141%][298%][298%]\n\nグローリーアッパーの追加攻撃後、強力な一撃を与える。\n\n[操作方法：追加攻撃]\nマウス：右クリック　×4
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper_B
 0
@@ -5808,23 +5808,23 @@ Movie/Skill/PC_D/B_Skill_SpiritSurge
 
 ID=24061
 Shock Wave Ⅰ
-[Change]\nDamage: [31%] per hit\nSA Break: [69%] per hit\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\n\nExisting skill effect is changed into a multi-hit shock wave.
-Damage: [31%]+4% per hit\nSA Break: [69%]+9% per hit
+[特性情報：基本攻撃]\nダメージ量：[276%]\nSA破壊量：[206%]\n\n[特性情報：追加攻撃]\nダメージ量：[46%]\nSA破壊量：[34%]\n\nスキル取得時、攻撃が変化し多段ヒットする衝撃波によりダメージを与えるようになる。\n衝撃波その場で留まり、効果中ダメージを与え続ける。
+[特性情報：基本攻撃]\nダメージ量：[276%]+36％\nSA破壊量：[206%]+27％\n\n[特性情報：追加攻撃]\nダメージ量：[46%]+6％\nSA破壊量：[34%]+4％
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister_A
 0
 Movie/Skill/PC_D/B_Skill_GravityTwister_A
 
 ID=24062
 Shock Wave Ⅱ
-[Change]\nDamage: [35%] per hit\nSA Break: [78%] per hit\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\n\nExisting skill effect is changed into a multi-hit shock wave.
-Damage: [35%]+9% per hit\nSA Break: [78%]+21% per hit
+[特性情報：基本攻撃]\nダメージ量：[312%]\nSA破壊量：[233%]\n\n[特性情報：追加攻撃]\nダメージ量：[52%]\nSA破壊量：[38%]\n\nスキル取得時、攻撃が変化し多段ヒットする衝撃波によりダメージを与えるようになる。\n衝撃波その場で留まり、効果中ダメージを与え続ける。
+[特性情報：基本攻撃]\nダメージ量：[312%]+84％\nSA破壊量：[233%]+63％\n\n[特性情報：追加攻撃]\nダメージ量：[52%]+14％\nSA破壊量：[38%]+11%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister_A
 0
 Movie/Skill/PC_D/B_Skill_GravityTwister_A
 
 ID=24063
 Shock Wave Ⅲ
-[Change]\nDamage: [55%] per hit\nSA Break: [99%] per hit\nDebuff Effect: [Paralysis]\nDebuff Duration: [3s]\n\nExisting skill effect is changed into a multi-hit shock wave.
+[特性情報：基本攻撃]\nダメージ量：[396%]\nSA破壊量：[296%]\n\n[特性情報：追加攻撃]\nダメージ量：[66%]\nSA破壊量：[49%]\n\nスキル取得時、攻撃が変化し多段ヒットする衝撃波によりダメージを与えるようになる。\n衝撃波その場で留まり、効果中ダメージを与え続ける。
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister_A
 0
@@ -5832,71 +5832,71 @@ Movie/Skill/PC_D/B_Skill_GravityTwister_A
 
 ID=24071
 Impact Bullets Ⅰ
-[Change]\nDamage: [525%]\nSA Break: [44%]\n\nRemoves existing skill effect, charges energy and fires it forwards.
-Damage: [525%]+53%\nSA Break: [44%]+4%
+[特性情報]\nダメージ量：[859%]\nSA破壊量：[824%]\n\n衝撃波の範囲が狭まり、前方に広がるようになる。
+ダメージ量：[859%]+246%\nSA破壊量：[824%]+243%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_A
 0
 Movie/Skill/PC_D/B_Skill_SpiritExplosion_A
 
 ID=24072
 Impact Bullets Ⅱ
-[Change]\nDamage: [578%]\nSA Break: [48%]\n\nRemoves existing skill effect, charges energy and fires it forwards.
-Damage: [578%]+105%\nSA Break: [48%]+9%
+[特性情報]\nダメージ量：[1105%]\nSA破壊量：[1067%]\n\n衝撃波の範囲が狭まり、前方に広がるようになる。
+ダメージ量：[1105%]+430%\nSA破壊量：[1067%]+418%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_A
 0
 Movie/Skill/PC_D/B_Skill_SpiritExplosion_A
 
 ID=24073
 Impact Bullets Ⅲ
-[Change]\nDamage: [683%]\nSA Break: [57%]\n\nRemoves existing skill effect, charges energy and fires it forwards.
+[特性情報]\nダメージ量：[1535%]\nSA破壊量：[1485%]\n\n衝撃波の範囲が狭まり、前方に広がるようになる。
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_A
 0
 Movie/Skill/PC_D/B_Skill_SpiritExplosion_A
 
 ID=24074
-原因値Ⅰ
-[特性情報]\nダメージ量：[735%]\nSA破壊量：[61%]\n\n凝縮された高密度のエナジーが大きなウェーブを発生させ、敵を攻撃する。
-ダメージ量：[735%]+210%\nSA破壊量：[61%]+18%
+質量増加Ⅰ
+[特性情報]\nダメージ量：[956%]\nSA破壊量：[915%]\n\n凝縮された高密度のエナジーが大きなウェーブを発生させ、敵を攻撃する。
+ダメージ量：[956%]+273%\nSA破壊量：[915%]+270%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_B
 0
-Movie/Skill/PC_D/B_Skill_SpiritExplosion_B
+Movie/Skill/PC_D/B_Skill_SpiritExplosion
 
 ID=24075
-原因値Ⅱ
-[特性情報]\nダメージ量：[945%]\nSA破壊量：[79%]\n\n凝縮された高密度のエナジーが大きなウェーブを発生させ、敵を攻撃する。
-ダメージ量：[945%]+367%\nSA破壊量：[79%]+31%
+質量増加Ⅱ
+[特性情報]\nダメージ量：[1229%]\nSA破壊量：[1185%]\n\n凝縮された高密度のエナジーが大きなウェーブを発生させ、敵を攻撃する。
+ダメージ量：[1229%]+477%\nSA破壊量：[1185%]+465%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_B
 0
-Movie/Skill/PC_D/B_Skill_SpiritExplosion_B
+Movie/Skill/PC_D/B_Skill_SpiritExplosion
 
 ID=24076
-原因値Ⅲ
-[特性情報]\nダメージ量：[1312%]\nSA破壊量：[110%]\n\n凝縮された高密度のエナジーが大きなウェーブを発生させ、敵を攻撃する。
+質量増加Ⅲ
+[特性情報]\nダメージ量：[1706%]\nSA破壊量：[1650%]\n\n凝縮された高密度のエナジーが大きなウェーブを発生させ、敵を攻撃する。
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_B
 0
-Movie/Skill/PC_D/B_Skill_SpiritExplosion_B
+Movie/Skill/PC_D/B_Skill_SpiritExplosion
 
 ID=24091
 Quantity Increase Ⅰ
-[特性情報：通常攻撃]\nダメージ量減少値：攻撃1回あたり[130%]\nSA破壊量減少値：攻撃1回あたり[60%]\n\n[特性情報：追加攻撃]\nダメージ量：攻撃1回あたり[65%]\nSA破壊量：攻撃1回あたり[30%]\n\n小さな弾を追加発射する。
-[通常攻撃]\nダメージ量：攻撃一回あたり[130%]+12%\nSA破壊量：攻撃一回あたり[60%]+5%\n\n[追加攻撃]\nダメージ量追加値：攻撃一回あたり[65%]+7%\nSA破壊量：攻撃一回あたり[30%]+2.5%
+[特性情報：基本攻撃]\nダメージ量：[236%]\nSA破壊量：[218%]\n\n[特性情報：追加攻撃]\nダメージ量：[59%]\nSA破壊量：[54%]\n\nスキル取得後、放出弾丸を追加発射する。
+[特性情報：基本攻撃]\nダメージ量：[236%]+23%\nSA破壊量：[218%]+22%\n\n[特性情報：追加攻撃]\nダメージ量：[59%]+5%\nSA破壊量：[54%]+6%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow_A
 0
 Movie/Skill/PC_D/B_Skill_QuadraBlow_A
 
 ID=24092
 Quantity Increase Ⅱ
-[特性情報：通常攻撃]\nダメージ量：攻撃1回あたり[142%]\nSA破壊量：攻撃1回あたり[65%]\n\n[特性情報：追加攻撃]\nダメージ量：攻撃1回あたり[72%]\nSA破壊量：攻撃1回あたり[32.5%]\n\n小さな弾を追加発射する。
-[通常攻撃]\nダメージ量：攻撃一回あたり[142%]+23%\nSA破壊量：攻撃一回あたり[65%]+11%\n\n[追加攻撃]\nダメージ量追加値：攻撃一回あたり[72%]+10.5%\nSA破壊量：攻撃一回あたり[32.5%]+5.5%
+[特性情報：基本攻撃]\nダメージ量：[259%]\nSA破壊量：[240%]\n\n[特性情報：追加攻撃]\nダメージ量：[64%]\nSA破壊量：[60%]\n\nスキル取得後、放出弾丸を追加発射する。
+[特性情報：基本攻撃]\nダメージ量：[259%]+26%\nSA破壊量：[240%]+24%\n\n[特性情報：追加攻撃]\nダメージ量：[64%]+7%\nSA破壊量：[60%]+6%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow_A
 0
 Movie/Skill/PC_D/B_Skill_QuadraBlow_A
 
 ID=24093
 Quantity Increase Ⅲ
-[特性情報：通常攻撃]\nダメージ量：攻撃1回あたり[165%]\nSA破壊量：攻撃1回あたり[76%]\n\n[特性情報：追加攻撃]\nダメージ量：攻撃1回あたり[82.5%]\nSA破壊量：攻撃1回あたり[38%]\n\n小さな弾を追加発射する。
+[特性情報：基本攻撃]\nダメージ量：[285%]\nSA破壊量：[264%]\n\n[特性情報：追加攻撃]\nダメージ量：[71%]\nSA破壊量：[66%]\n\nスキル取得後、放出弾丸を追加発射する。
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow_A
 0
@@ -5904,23 +5904,23 @@ Movie/Skill/PC_D/B_Skill_QuadraBlow_A
 
 ID=24101
 Extra Attack Ⅰ
-[特性情報]\nデバフ効果：(命中時)防御度[20%]減少\nデバフ持続時間：[5秒]\n\n衝撃弾の速度は遅くなるが、連続攻撃になり、デバフを付与する。
-Damage: +94%\nSA Break: +50%
+[特性情報]\nデバフ効果：防御度[20%]減少\nデバフ持続時間：[5秒]\n\nエナジー弾の速度が遅くなり多段ヒットするようになる。\n攻撃命中時、デバフを付与する。
+ダメージ量：[937%]+94%\nSA破壊量：[502%]+50%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop_A
 0
 Movie/Skill/PC_D/B_Skill_HeavyDrop_A
 
 ID=24102
 Extra Attack Ⅱ
-[特性情報]\nダメージ量追加値：[94%]\nデバフ効果；(命中時)防御度[20%]減少\nデバフ持続時間：[5秒]\nSA破壊量追加値：[50%]\n\n衝撃弾の速度は遅くなるが、連続攻撃になり、デバフを付与する。
-Damage: [94%]+187%\nSA Break: [50%]+101%
+[特性情報]\nダメージ量：[1031%]\nSA破壊量：[552%]\nデバフ効果：防御度[20%]減少\nデバフ持続時間：[5秒]\n\nエナジー弾の速度が遅くなり多段ヒットするようになる。\n攻撃命中時、デバフを付与する。
+[特性情報]\nダメージ量：[1031%]+187%\nSA破壊量：[552%]+101%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop_A
 0
 Movie/Skill/PC_D/B_Skill_HeavyDrop_A
 
 ID=24103
 Extra Attack Ⅲ
-[特性情報]\nダメージ量追加値：[281%]\nデバフ効果；(命中時)防御度[20%]減少\nデバフ持続時間：[5秒]\nSA破壊量追加値：[151%]\n\n衝撃弾の速度は遅くなるが、連続攻撃になり、デバフを付与する。
+[特性情報]\nダメージ量：[1218%]\nSA破壊量：[653%]\nデバフ効果：防御度[20%]減少\nデバフ持続時間：[5秒]\n\nエナジー弾の速度が遅くなり多段ヒットするようになる。\n攻撃命中時、デバフを付与する。
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop_A
 0
@@ -6024,23 +6024,23 @@ Movie/Skill/PC_E/B_Skill_BeadsPlay_N_A
 
 ID=25064
 Strengthen Ⅰ
-[特性情報：支援モード]\nHP回復効果：[20%]\nバフ効果：クリティカル確率[5%]増加[20秒]\n移動速度[30%]増加[10秒]\n\n効果時間が増加し、[攻撃力増加]バフが\n[クリティカル増加]バフに変更されます。\n\nスキル使用時に、周囲に回復効果、バフ効果を適用する。\nチャージ時に、広範囲に回復効果、バフ効果を適用する。
-[支援モード]\nクリティカル確率増加値：[5%] +3%
+[特性情報：支援モード]\nHP回復効果：[20%]\nバフ効果：攻撃力[50%]上昇[20秒]、\nクリティカル確率[5%]増加[20秒]、\n移動速度[30%]増加[10秒]\n\nバフが強化され持続時間が増加、\n[クリティカル増加]バフが追加されます。\n\nスキル使用時に、周囲に回復効果、バフ効果を適用する。\nチャージ時に、広範囲に回復効果、バフ効果を適用する。
+[支援モード]\n攻撃力：[50％]+25％\nクリティカル確率：[5%] +3%
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_B
 0
 Movie/Skill/PC_E/B_Skill_BeadsPlay_N_B
 
 ID=25065
 Strengthen Ⅱ
-[特性情報：支援モード]\nHP回復効果：[20%]\nバフ効果：クリティカル確率[8%]増加[20秒]\n移動速度[30%]増加[10秒]\n\n効果時間が増加し、[攻撃力増加]バフが\n[クリティカル増加]バフに変更されます。\n\nスキル使用時に、周囲に回復効果、バフ効果を適用する。\nチャージ時に、広範囲に回復効果、バフ効果を適用する。
-[支援モード]\nクリティカル確率増加値：[8%] +7%
+[特性情報：支援モード]\nHP回復効果：[20%]\nバフ効果：攻撃力[75%]上昇[20秒]、\nクリティカル確率[8%]増加[20秒]、\n移動速度[30%]増加[10秒]\n\nバフが強化され持続時間が増加、\n[クリティカル増加]バフが追加されます。\n\nスキル使用時に、周囲に回復効果、バフ効果を適用する。\nチャージ時に、広範囲に回復効果、バフ効果を適用する。
+[支援モード]\n攻撃力：[75％]+25％\nクリティカル確率：[8%] +7%
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_B
 0
 Movie/Skill/PC_E/B_Skill_BeadsPlay_N_B
 
 ID=25066
 Strengthen Ⅲ
-[特性情報：支援モード]\nHP回復効果：[20%]\nバフ効果：クリティカル確率[15%]増加[20秒]\n移動速度[30%]増加[10秒]\n\n効果時間が増加し、[攻撃力増加]バフが\n[クリティカル増加]バフに変更されます。\n\nスキル使用時に、周囲に回復効果、バフ効果を適用する。\nチャージ時に、広範囲に回復効果、バフ効果を適用する。
+[特性情報：支援モード]\nHP回復効果：[20%]\nバフ効果：攻撃力[100%]上昇[20秒]、\nクリティカル確率[15%]増加[20秒]、\n移動速度[30%]増加[10秒]\n\nバフが強化され持続時間が増加、\n[クリティカル増加]バフが追加されます。\n\nスキル使用時に、周囲に回復効果、バフ効果を適用する。\nチャージ時に、広範囲に回復効果、バフ効果を適用する。
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_B
 0
@@ -10112,23 +10112,23 @@ Movie/Skill/PC_E/B_Skill_SoulScream_A
 
 ID=4171
 Unleashed Body Ⅰ
-[スキル情報]\n特集攻撃を使用時、３０秒間攻撃力が[75%]、SA破壊量が[15%]増加するが、敵から受けるダメージが[15%]増加する。\nクールタイム：[60秒]
-攻撃力増加量: [75%] + 25%\nSA破壊量: [15%] + 15%\n敵から受けるダメージ量: [15%] + 5%
+[スキル情報]\n地上で特殊能力を使用時、40秒間攻撃力が[75%]、SA破壊量が[15%]増加するが、ダメージ減少が[15%]低下する。\nクールタイム：[60秒]
+攻撃力増加量：[75%]+25%\nSA破壊量：[15%]+5%\n破ダメージ増加：[15%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive2
 0
 0
 
 ID=4172
 Unleashed Body Ⅱ
-[スキル情報]\n特集攻撃を使用時、３０秒間攻撃力が[100%]、SA破壊量が[30%]増加するが、敵から受けるダメージが[20%]増加する。\nクールタイム：[60秒]
-攻撃力増加量: [100%] + 50%\nSA破壊量: [30%] + 15%\n敵から受けるダメージ量: [20%] + 5%
+[スキル情報]\n地上で特殊能力を使用時、40秒間攻撃力が[100%]、SA破壊量が[20%]増加するが、ダメージ減少が[20%]低下する。\nクールタイム：[60秒]
+攻撃力増加量：[100%]+50%\nSA破壊量：[20%]+10%\n破ダメージ増加：[20%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive2
 0
 0
 
 ID=4173
 Unleashed Body Ⅲ
-[スキル情報]\n特集攻撃を使用時、３０秒間攻撃力が[150%]、SA破壊量が[45%]増加するが、敵から受けるダメージが[25%]増加する。\nクールタイム：[60秒]
+[スキル情報]\n地上で特殊能力を使用時、40秒間攻撃力が[150%]、SA破壊量が[30%]増加するが、ダメージ減少が[25%]低下する。\nクールタイム：[60秒]
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive2
 0
@@ -10136,39 +10136,39 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive2
 
 ID=14141
 Drastic Landing Ⅰ
-[スキル情報]\nダメージ量：打撃毎 [84%]\nSA破壊量：打撃毎 [48%]\nフィニッシュダメージ量：[420%]\nフィニッシュSA破壊量：[240%]\nSG消費量：[55]\nクールタイム：[20秒]\n\n空中でブーストシールドを前方に配置し、地面に振り下ろした際に生じる衝撃波で攻撃します。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
-[通常]\nダメージ量：打撃毎 [84%] +8%\nSA破壊量：打撃毎 [48%] +4%\n\n[フィニッシュ]\nダメージ量：打撃毎 [420%] +42%\nSA破壊量：打撃毎 [240%] +24%
+[スキル情報：基本攻撃]\nダメージ量：[126%]\nSA破壊量： [48%]\nSG消費量：[30]\nクールタイム：[20秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[630%]\nSA破壊量：[240%]\n\nブーストシールドを展開し、地面に叩き突け衝撃波を発生させる。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[スキル情報：基本攻撃]\nダメージ量：[126%]+12%\nSA破壊量： [48%]+4%\n\n[スキル情報：追加攻撃]\nダメージ量：[630%]+63%\nSA破壊量：[240%]+24%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_DrasticLanding
 0
 Movie/Skill/PC_D/B_Skill_DrasticLanding
 
 ID=14142
 Drastic Landing Ⅱ
-[スキル情報]\nダメージ量：打撃毎 [92%]\nSA破壊量：打撃毎 [52%]\nフィニッシュダメージ量：[462%]\nフィニッシュSA破壊量：[264%]\nSG消費量：[30]\nクールタイム：[15秒]\n\n空中でブーストシールドを前方に配置し、地面に振り下ろした際に生じる衝撃波で攻撃します。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
-[通常]\nダメージ量：打撃毎 [92%] +11%\nSA破壊量：打撃毎 [52%] +7%\n\n[フィニッシュ]\nダメージ量：打撃毎 [462%] +55%\nSA破壊量：打撃毎 [264%] +32%
+[スキル情報：基本攻撃]\nダメージ量：[138%]\nSA破壊量： [52%]\nSG消費量：[30]\nクールタイム：[20秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[693%]\nSA破壊量：[264%]\n\nブーストシールドを展開し、地面に叩き突け衝撃波を発生させる。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[スキル情報：基本攻撃]\nダメージ量：[138%]+17%\nSA破壊量： [52%]+7%\n\n[スキル情報：追加攻撃]\nダメージ量：[693%]+83%\nSA破壊量：[264%]+32%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_DrasticLanding
 0
 Movie/Skill/PC_D/B_Skill_DrasticLanding
 
 ID=14143
 Drastic Landing Ⅲ
-[スキル情報]\nダメージ量：打撃毎 [103%]\nSA破壊量：打撃毎 [59%]\nフィニッシュダメージ量：[517%]\nフィニッシュSA破壊量：[296%]\nSG消費量：[30]\nクールタイム：[15秒]\n\n空中でブーストシールドを前方に配置し、地面に振り下ろした際に生じる衝撃波で攻撃します。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
-[通常]\nダメージ量：打撃毎 [103%] +15%\nSA破壊量：打撃毎 [59%] +8%\n\n[フィニッシュ]\nダメージ量：打撃毎 [517%] +72%\nSA破壊量：打撃毎 [296%] +41%
+[スキル情報：基本攻撃]\nダメージ量：[155%]\nSA破壊量： [59%]\nSG消費量：[30]\nクールタイム：[20秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[776%]\nSA破壊量：[296%]\n\nブーストシールドを展開し、地面に叩き突け衝撃波を発生させる。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[スキル情報：基本攻撃]\nダメージ量：[155%]+22%\nSA破壊量： [59%]+8%\n\n[スキル情報：追加攻撃]\nダメージ量：[776%]+109%\nSA破壊量：[296%]+41%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_DrasticLanding
 0
 Movie/Skill/PC_D/B_Skill_DrasticLanding
 
 ID=14144
 Drastic Landing Ⅳ
-[スキル情報]\nダメージ量：打撃毎 [118%]\nSA破壊量：打撃毎 [67%]\nフィニッシュダメージ量：[589%]\nフィニッシュSA破壊量：[337%]\nSG消費量：[30]\nクールタイム：[15秒]\n\n空中でブーストシールドを前方に配置し、地面に振り下ろした際に生じる衝撃波で攻撃します。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
-[通常]\nダメージ量：打撃毎 [118%] +21%\nSA破壊量：打撃毎 [67%] +12%\n\n[フィニッシュ]\nダメージ量：打撃毎 [589%] +107%\nSA破壊量：打撃毎 [337%] +61%
+[スキル情報：基本攻撃]\nダメージ量：[177%]\nSA破壊量： [67%]\nSG消費量：[30]\nクールタイム：[20秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[885%]\nSA破壊量：[337%]\n\nブーストシールドを展開し、地面に叩き突け衝撃波を発生させる。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[スキル情報：基本攻撃]\nダメージ量：[177%]+32%\nSA破壊量： [67%]+12%\n\n[スキル情報：追加攻撃]\nダメージ量：[885%]+160%\nSA破壊量：[337%]+61%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_DrasticLanding
 0
 Movie/Skill/PC_D/B_Skill_DrasticLanding
 
 ID=14145
 Drastic Landing Ⅴ
-[スキル情報]\nダメージ量：打撃毎 [139%]\nSA破壊量：打撃毎 [79%]\nフィニッシュダメージ量：[696%]\nフィニッシュSA破壊量：[398%]\nSG消費量：[30]\nクールタイム：[15秒]\n\n空中でブーストシールドを前方に配置し、地面に振り下ろした際に生じる衝撃波で攻撃します。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[スキル情報：基本攻撃]\nダメージ量：[209%]\nSA破壊量： [79%]\nSG消費量：[30]\nクールタイム：[20秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[1045%]\nSA破壊量：[398%]\n\nブーストシールドを展開し、地面に叩き突け衝撃波を発生させる。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_DrasticLanding
 0
@@ -10176,39 +10176,39 @@ Movie/Skill/PC_D/B_Skill_DrasticLanding
 
 ID=14151
 Counter Stream Ⅰ
-[スキル情報：強制攻撃]\nダメージ量：打撃毎 [572%]\nSA破壊量：打撃毎 [99%]\nカウンター成功時、ダメージ量が2倍増加し、最終打撃は3倍増加します。\n\nSG消費量：[55]\nクールタイム：[35秒]\n\n構えを取り最大3回のカウンターアタックを使用する事が出来ます。カウンター発動回数に応じて反撃時、より多くのダメージを与えます。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)
-[スキル情報]\nダメージ量：打撃毎 [572%] +57%\nSA破壊量：打撃毎 [99%] +9%
+[スキル情報：基本効果]\nSG消費量：[55]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[858%]\nSA破壊量：[99%]\n\nカウンターの構えを取ります。\nカウンター成功時、段階毎に1.4倍、1.6倍、2倍とダメージ量が増加する。\n追加操作で、最大3回カウンターを行い、\n構えを解く事で追加攻撃を行う事もできる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加操作]\nマウス：(右クリック)
+[スキル情報：追加攻撃]\nダメージ量：[858%]+86%\nSA破壊量：[99%]+9%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterStream
 0
 Movie/Skill/PC_D/B_Skill_CounterStream
 
 ID=14152
 Counter Stream Ⅱ
-[スキル情報：強制攻撃]\nダメージ量：打撃毎 [629%]\nSA破壊量：打撃毎 [108%]\nカウンター成功時、ダメージ量が2倍増加し、最終打撃は3倍増加します。\n\nSG消費量：[55]\nクールタイム：[35秒]\n\n構えを取り最大3回のカウンターアタックを使用する事が出来ます。カウンター発動回数に応じて反撃時、より多くのダメージを与えます。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)
-[スキル情報]\nダメージ量：打撃毎 [629%] +76%\nSA破壊量：打撃毎 [108%] +14%
+[スキル情報：基本効果]\nSG消費量：[55]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[944%]\nSA破壊量：[108%]\n\nカウンターの構えを取ります。\nカウンター成功時、段階毎に1.4倍、1.6倍、2倍とダメージ量が増加する。\n追加操作で、最大3回カウンターを行い、\n構えを解く事で追加攻撃を行う事もできる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加操作]\nマウス：(右クリック)
+[スキル情報：追加攻撃]\nダメージ量：[944%]+113%\nSA破壊量：[108%]+14%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterStream
 0
 Movie/Skill/PC_D/B_Skill_CounterStream
 
 ID=14153
 Counter Stream Ⅲ
-[スキル情報：強制攻撃]\nダメージ量：打撃毎 [705%]\nSA破壊量：打撃毎 [122%]\nカウンター成功時、ダメージ量が2倍増加し、最終打撃は3倍増加します。\n\nSG消費量：[55]\nクールタイム：[35秒]\n\n構えを取り最大3回のカウンターアタックを使用する事が出来ます。カウンター発動回数に応じて反撃時、より多くのダメージを与えます。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)
-[スキル情報]\nダメージ量：打撃毎 [705%] +100%\nSA破壊量：打撃毎 [122%] +17%
+[スキル情報：基本効果]\nSG消費量：[55]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[1057%]\nSA破壊量：[122%]\n\nカウンターの構えを取ります。\nカウンター成功時、段階毎に1.4倍、1.6倍、2倍とダメージ量が増加する。\n追加操作で、最大3回カウンターを行い、\n構えを解く事で追加攻撃を行う事もできる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加操作]\nマウス：(右クリック)
+[スキル情報：追加攻撃]\nダメージ量：[1057%]+148%\nSA破壊量：[122%]+17%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterStream
 0
 Movie/Skill/PC_D/B_Skill_CounterStream
 
 ID=14154
 Counter Stream Ⅳ
-[スキル情報：強制攻撃]\nダメージ量：打撃毎 [803%]\nSA破壊量：打撃毎 [139%]\nカウンター成功時、ダメージ量が2倍増加し、最終打撃は3倍増加します。\n\nSG消費量：[55]\nクールタイム：[35秒]\n\n構えを取り最大3回のカウンターアタックを使用する事が出来ます。カウンター発動回数に応じて反撃時、より多くのダメージを与えます。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)
-[スキル情報]\nダメージ量：打撃毎 [803%] +145%\nSA破壊量：打撃毎 [139%] +22%
+[スキル情報：基本効果]\nSG消費量：[55]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[1205%]\nSA破壊量：[139%]\n\nカウンターの構えを取ります。\nカウンター成功時、段階毎に1.4倍、1.6倍、2倍とダメージ量が増加する。\n追加操作で、最大3回カウンターを行い、\n構えを解く事で追加攻撃を行う事もできる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加操作]\nマウス：(右クリック)
+[スキル情報：追加攻撃]\nダメージ量：[1205%]+217%\nSA破壊量：[139%]+22%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterStream
 0
 Movie/Skill/PC_D/B_Skill_CounterStream
 
 ID=14155
 Counter Stream Ⅴ
-[スキル情報：強制攻撃]\nダメージ量：打撃毎 [948%]\nSA破壊量：打撃毎 [161%]\nカウンター成功時、ダメージ量が2倍増加し、最終打撃は3倍増加します。\n\nSG消費量：[55]\nクールタイム：[35秒]\n\n構えを取り最大3回のカウンターアタックを使用する事が出来ます。カウンター発動回数に応じて反撃時、より多くのダメージを与えます。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：強制攻撃]\nマウス：カウンター姿勢で(右クリック)
+[スキル情報：基本効果]\nSG消費量：[55]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[1422%]\nSA破壊量：[161%]\n\nカウンターの構えを取ります。\nカウンター成功時、段階毎に1.4倍、1.6倍、2倍とダメージ量が増加する。\n追加操作で、最大3回カウンターを行い、\n構えを解く事で追加攻撃を行う事もできる。\n\n[操作方法]\nスキルスロットに登録して該当キーを入力\n\n[操作方法：追加操作]\nマウス：(右クリック)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterStream
 0
@@ -10216,7 +10216,7 @@ Movie/Skill/PC_D/B_Skill_CounterStream
 
 ID=14913
 Activity Overcharge
-[スキル情報]\nダメージ量：[2500%]\nSA破壊量：[2360%]\n\n強力なソウルエナジーの球体を前方に発射します。エナジー球体は敵を引き寄せ、当たった敵にダメージを与え、巨大な爆発を起こします。\n\n[操作方法]\n使用条件:覚醒状態でキーボードの「7」を入力
+[スキル情報]\nダメージ量：[2500%]\nSA破壊量：[2360%]\n\n強力なソウルエナジーの球体を前方に発射します。エナジー球体は敵を引き寄せ、当たった敵にダメージを与え、巨大な爆発を起こします。\n\n[操作方法]\n使用条件：覚醒状態でキーボードの「7」を入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_ActivityOverCharge
 Description_Image/Skill/SpiritArms/Image_Spirit_Skill_ActivityOverCharge
@@ -10224,23 +10224,23 @@ Movie/Skill/PC_D/B_Skill_ActivityOverCharge
 
 ID=24111
 Rising Upper Ⅰ
-[特性情報：ブーストシールド回転攻撃]\nダメージ量：打撃毎 [7%]\nSA破壊量：打撃毎 [4%]\n\n最終打撃がアッパーに変わり、ブーストシールドが周辺を打撃します。アッパーの途中で右クリックすると、追加で地面を突き下ろします。\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)\n\n[操作方法：既存追加攻撃]\nマウス：最後の攻撃後(左クリック)
-[通常]\nダメージ量：打撃毎 [7%] +16%\nSA破壊量：打撃毎 [4%] +9%
+[特性情報]\nダメージ量：[10%]\nSA破壊量：[2%]\n\n攻撃に派生が生まれ、攻撃中ブーストシールドが周囲にダメージを与えるようになります。\n\n[操作方法：追加操作]\nマウス：ストレート派生(右クリック)\n\n[操作方法：追加操作]\nマウス：アッパー派生(左クリック)
+[特性情報]\nダメージ量：[10%] +20%\nSA破壊量： [2%] +4%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_PerfectCombination_A
 0
 Movie/Skill/PC_D/B_Skill_PerfectCombination_A
 
 ID=24112
 Rising Upper Ⅱ
-[特性情報：ブーストシールド回転攻撃]\nダメージ量：打撃毎 [23%]\nSA破壊量：打撃毎 [13%]\n\n最終打撃がアッパーに変わり、ブーストシールドが周辺を打撃します。アッパーの途中で右クリックすると、追加で地面を突き下ろします。\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)\n\n[操作方法：既存追加攻撃]\nマウス：最後の攻撃後(左クリック)
-[通常]\nダメージ量：打撃毎 [23%] +15%\nSA破壊量：打撃毎 [13%] +8%
+[特性情報]\nダメージ量：[30%]\nSA破壊量：[6%]\n\n攻撃に派生が生まれ、攻撃中ブーストシールドが周囲にダメージを与えるようになります。\n\n[操作方法：追加操作]\nマウス：ストレート派生(右クリック)\n\n[操作方法：追加操作]\nマウス：アッパー派生(左クリック)
+[特性情報]\nダメージ量：[30%] +21%\nSA破壊量： [6%] +5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_PerfectCombination_A
 0
 Movie/Skill/PC_D/B_Skill_PerfectCombination_A
 
 ID=24113
 Rising Upper Ⅲ
-[特性情報：ブーストシールド回転攻撃]\nダメージ量：打撃毎 [38%]\nSA破壊量：打撃毎 [21%]\n\n最終打撃がアッパーに変わり、ブーストシールドが周辺を打撃します。\nアッパーの途中で右クリックすると、追加で地面を突き下ろします。\n\n[操作方法：追加攻撃]\nマウス：最後の攻撃後(右クリック)\n\n[操作方法：既存追加攻撃]\nマウス：最後の攻撃後(左クリック)
+[特性情報]\nダメージ量：[51%]\nSA破壊量：[11%]\n\n攻撃に派生が生まれ、攻撃中ブーストシールドが周囲にダメージを与えるようになります。\n\n[操作方法：追加操作]\nマウス：ストレート派生(右クリック)\n\n[操作方法：追加操作]\nマウス：アッパー派生(左クリック)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_PerfectCombination_A
 0
@@ -10248,23 +10248,23 @@ Movie/Skill/PC_D/B_Skill_PerfectCombination_A
 
 ID=24121
 Recoil Bound Ⅰ
-[特性情報]\nダメージ量：打撃毎 [450%]\nSA破壊量：打撃毎 [510%]\nデバフ効果：(命中時)防御度[10%]減少\nバフ持続時間：[10秒] \n\n敵に防御度減少効果を付与し、後方上空に浮き上がります。
-デバフ効果：(命中時)防御度減少[10%] +10%
+[特性情報]\nダメージ量：[900%]\nSA破壊量：[510%]\nデバフ効果：防御度[5%]減少\nデバフ持続時間：[25秒] \n\nエナジーを爆発させて後方へ飛び上がる。\n攻撃命中時、敵防御力を低下する。
+ダメージ量：[900%]+82%\nSA破壊量：[510%]+46%\nデバフ効果：防御度[5%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritShooter_A
 0
 Movie/Skill/PC_D/B_Skill_SpiritShooter_A
 
 ID=24122
 Recoil Bound Ⅱ
-[特性情報]\nダメージ量：打撃毎 [491%]\nSA破壊量：打撃毎 [556%]\nデバフ効果：(命中時)防御度[20%]減少\nバフ持続時間：[10秒] \n\n敵に防御度減少効果を付与し、後方上空に浮き上がります。
-デバフ効果：(命中時)防御度減少[20%] +10%
+[特性情報]\nダメージ量：[982%]\nSA破壊量：[556%]\nデバフ効果：防御度[10%]減少\nデバフ持続時間：[25秒] \n\nエナジーを爆発させて後方へ飛び上がる。\n攻撃命中時、敵防御力を低下する。
+ダメージ量：[982%]+148%\nSA破壊量：[556%]+84%\nデバフ効果：防御度[10%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritShooter_A
 0
 Movie/Skill/PC_D/B_Skill_SpiritShooter_A
 
 ID=24123
 Recoil Bound Ⅲ
-[特性情報]\nダメージ量：打撃毎 [565%]\nSA破壊量：打撃毎 [640%]\nデバフ効果：(命中時)防御度[30%]減少\nバフ持続時間：[10秒] \n\n敵に防御度減少効果を付与し、後方上空に浮き上がります。
+[特性情報]\nダメージ量：[1130%]\nSA破壊量：[640%]\nデバフ効果：防御度[15%]減少\nデバフ持続時間：[25秒] \n\nエナジーを爆発させて後方へ飛び上がる。\n攻撃命中時、敵防御力を低下する。
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritShooter_A
 0
@@ -11537,6 +11537,14 @@ Movie/Skill/PC_A/B_Skill_Trollsverd
 ID=11142
 Trollsverd Ⅱ
 [スキル情報：基本攻撃]\nダメージ量：[1823%]\nSA破壊量：[2010%]\nSG消費量：[50]\nクールタイム：[40秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[182%]\nSA破壊量：[201%]\n\nソウルエナジーで光の剣「トロルスベルド」を形象化して前方の敵を薙ぎ払います。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+[スキル情報：基本攻撃]\nダメージ量：[1823%] +219%\nSA破壊量：[2010%] +242%\n\n[スキル情報：追加攻撃]\nダメージ量：[182%] +22%\nSA破壊量：[201%] +24%
+Icon/Skill/SoulumSword/Icon_Ssword_Skill_Trollsverd
+0
+Movie/Skill/PC_A/B_Skill_Trollsverd
+
+ID=11143
+トロルスベルドIII
+[スキル情報：基本攻撃]\nダメージ量：[2042%]\nSA破壊量：[2252%]\nSG消費量：[50]\nクールタイム：[40秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[204%]\nSA破壊量：[225%]\n\nソウルエナジーで光の剣「トロルスベルド」を形象化して前方の敵を薙ぎ払います。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_Trollsverd
 0
@@ -11553,6 +11561,14 @@ Movie/Skill/PC_B/B_Skill_SwallowBullet
 ID=12162
 Swallow Bullet Ⅱ
 [スキル情報：基本攻撃]\nダメージ量：[171%]\nSA破壊量：[186%]\nSG消費量：[4]\nクールタイム：[45秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[428%]\nSA破壊量：[466%]\n\n一定の範囲内で数回バウントして敵を貫通攻撃する特殊弾を1回発射します。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+[スキル情報：基本攻撃]\nダメージ量：[171%] +21%\nSA破壊量：[186%] +23%\n\n[スキル情報：追加攻撃]\nダメージ量：[428%] +52%\nSA破壊量：[466%] +56%
+Icon/Skill/GunJazz/Icon_GJazz_Skill_Deadline
+0
+Movie/Skill/PC_B/B_Skill_SwallowBullet
+
+ID=12163
+スワローブレットIII
+[スキル情報：基本攻撃]\nダメージ量：[192%]\nSA破壊量：[209%]\nSG消費量：[4]\nクールタイム：[45秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[480%]\nSA破壊量：[522%]\n\n一定の範囲内で数回バウントして敵を貫通攻撃する特殊弾を1回発射します。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Deadline
 0
@@ -11569,6 +11585,14 @@ Movie/Skill/PC_C/B_Skill_LeashedBest
 ID=13172
 Leashed Beast Ⅱ
 [スキル情報：基本攻撃]\nダメージ量：[353%]\nSA破壊量：[360%]\nSG消費量：[55]\nクールタイム：[40秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[471%]\nSA破壊量：[480%]\n\n前方にソウルエナジーの球体を召喚した後、飛び上がって全力で切り落とします。球体は周りの敵を引き寄せて攻撃し、斬り攻撃の後に爆発します。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+[スキル情報：基本攻撃]\nダメージ量：[353%] +43%\nSA破壊量：[360%] +44%\n\n[スキル情報：追加攻撃]\nダメージ量：[471%] +57%\nSA破壊量：[480%] +59%
+Icon/Skill/Mistscythe/Icon_Mcythe_Skill_LeashedBeast
+0
+Movie/Skill/PC_C/B_Skill_LeashedBest
+
+ID=13173
+リーシュドビーストIII
+[スキル情報：基本攻撃]\nダメージ量：[396%]\nSA破壊量：[404%]\nSG消費量：[55]\nクールタイム：[40秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[528%]\nSA破壊量：[539%]\n\n前方にソウルエナジーの球体を召喚した後、飛び上がって全力で切り落とします。球体は周りの敵を引き寄せて攻撃し、斬り攻撃の後に爆発します。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_LeashedBeast
 0
@@ -11576,7 +11600,7 @@ Movie/Skill/PC_C/B_Skill_LeashedBest
 
 ID=14161
 Barrett Straight Ⅰ
-[スキル情報：基本攻撃]\nダメージ量：[749%]\nSA破壊量：[825%]\nSG消費量[55]\nクールタイム：[45秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[448%]\nSA破壊量：[494%]\n\n右側拳にソウルエナジーを集めて全力で突進します。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+[スキル情報：基本攻撃]\nダメージ量：[749%]\nSA破壊量：[825%]\nSG消費量：[55]\nクールタイム：[45秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[448%]\nSA破壊量：[494%]\n\n右側拳にソウルエナジーを集めて全力で突進します。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
 [スキル情報：基本攻撃]\nダメージ量：[749%] +75%\nSA破壊量：[825%] +83%\n\n[スキル情報：追加攻撃]\nダメージ量：[448%] +45%\nSA破壊量：[494%] +50%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_BarrettStraight
 0
@@ -11585,6 +11609,14 @@ Movie/Skill/PC_D/B_Skill_BarrettStraight
 ID=14162
 Barrett Straight Ⅱ
 [スキル情報：基本攻撃]\nダメージ量：[824%]\nSA破壊量：[908%]\nSG消費量：[55]\nクールタイム：[45秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[493%]\nSA破壊量：[544%]\n\n右側拳にソウルエナジーを集めて全力で突進します。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+[スキル情報：基本攻撃]\nダメージ量：[749%] +75%\nSA破壊量：[825%] +83%\n\n[スキル情報：追加攻撃]\nダメージ量：[448%] +45%\nSA破壊量：[494%] +50%
+Icon/Skill/SpritArms/Icon_Sprit_Skill_BarrettStraight
+0
+Movie/Skill/PC_D/B_Skill_BarrettStraight
+
+ID=14163
+バレットストレートIII
+[スキル情報：基本攻撃]\nダメージ量：[924%]\nSA破壊量：[1018%]\nSG消費量：[55]\nクールタイム：[45秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[553%]\nSA破壊量：[610%]\n\n右側拳にソウルエナジーを集めて全力で突進します。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_BarrettStraight
 0
@@ -11592,7 +11624,7 @@ Movie/Skill/PC_D/B_Skill_BarrettStraight
 
 ID=15161
 Ghosty Hunt Ⅰ
-[スキル情報：基本攻撃]\nダメージ量：[435%]\nSA破壊量：[462%]\nSG消費量：[40]\nクールタイム：[40秒]\n\nステラがともだちを召還して前方の敵を攻撃をします。\n支援モード時、ブレスによる集中攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+[スキル情報]\nダメージ量：[435%]\nSA破壊量：[462%]\nSG消費量：[40]\nクールタイム：[40秒]\n\nステラがともだちを召還して前方の敵を攻撃をします。\n支援モード時、ブレスによる集中攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
 ダメージ量：[435%] +44%\nSA破壊量：[462%] +47%
 Icon/Skill/Howling/Icon_Howling_Skill_GhostyHunt
 0
@@ -11600,7 +11632,15 @@ Movie/Skill/PC_E/B_Skill_GhostHunt
 
 ID=15162
 Ghosty Hunt Ⅱ
-[スキル情報：基本攻撃]\nダメージ量：[479%]\nSA破壊量：[509%]\nSG消費量：[40]\nクールタイム：[40秒]\n\nステラがともだちを召還して前方の敵を攻撃をします。\n支援モード時、ブレスによる集中攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+[スキル情報]\nダメージ量：[479%]\nSA破壊量：[509%]\nSG消費量：[40]\nクールタイム：[40秒]\n\nステラがともだちを召還して前方の敵を攻撃をします。\n支援モード時、ブレスによる集中攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+ダメージ量：[479%] +57%\nSA破壊量：[509%] +61%
+Icon/Skill/Howling/Icon_Howling_Skill_GhostyHunt
+0
+Movie/Skill/PC_E/B_Skill_GhostHunt
+
+ID=15163
+ゴースティーハントIII
+[スキル情報]\nダメージ量：[536%]\nSA破壊量：[570%]\nSG消費量：[40]\nクールタイム：[40秒]\n\nステラがともだちを召還して前方の敵を攻撃をします。\n支援モード時、ブレスによる集中攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_GhostyHunt
 0
@@ -11608,7 +11648,7 @@ Movie/Skill/PC_E/B_Skill_GhostHunt
 
 ID=16161
 Rapid Vulcan Ⅰ
-[スキル情報：基本攻撃]\nダメージ量：[105%]\nSA破壊量：[133%]\nSG消費量：[60]\nクールタイム：[40秒]\n\nハンマーを機関銃にして、前方の敵に通常弾と誘導弾を無差別に連射します。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+[スキル情報]\nダメージ量：[105%]\nSA破壊量：[133%]\nSG消費量：[60]\nクールタイム：[40秒]\n\nハンマーを機関銃にして、前方の敵に通常弾と誘導弾を無差別に連射します。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
 [スキル情報：基本攻撃]\nダメージ量：[105%] +11%\nSA破壊量：[133%] +14%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_Expocalypse
 0
@@ -11616,7 +11656,15 @@ Movie/Skill/PC_F/B_Skill_RapidVulcan
 
 ID=16162
 Rapid Vulcan Ⅱ
-[スキル情報：基本攻撃]\nダメージ量：[116%]\nSA破壊量：[147%]\nSG消費量：[60]\nクールタイム：[40秒]\n\nハンマーを機関銃にして、前方の敵に通常弾と誘導弾を無差別に連射します。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+[スキル情報]\nダメージ量：[116%]\nSA破壊量：[147%]\nSG消費量：[60]\nクールタイム：[40秒]\n\nハンマーを機関銃にして、前方の敵に通常弾と誘導弾を無差別に連射します。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
+[スキル情報：基本攻撃]\nダメージ量：[116%] +13%\nSA破壊量：[147%] +17%
+Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_Expocalypse
+0
+Movie/Skill/PC_F/B_Skill_RapidVulcan
+
+ID=16163
+ラピッドバルカンIII
+[スキル情報：基本攻撃]\nダメージ量：[129%]\nSA破壊量：[164%]\nSG消費量：[60]\nクールタイム：[40秒]\n\nハンマーを機関銃にして、前方の敵に通常弾と誘導弾を無差別に連射します。\n\n[操作方法]\nキーボード：スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_Expocalypse
 0
@@ -11912,7 +11960,7 @@ Movie/Skill/PC_G/B_N_Attack_Dash
 
 ID=7121
 Special Dash Attack Ⅰ
-[スキル情報]\nダメージ量：[241%]\nSA破壊量：[111%]\nクールタイム：[5秒]\n\nダッシュ中に使用する事で、体を回転させ攻撃します。\n攻撃命中時、SGを獲得。\n\n[操作方法]\nマウス：ダッシュ中(右クリック)
+[スキル情報]\nダメージ量：[241%]\nSA破壊量：[111%]\n\nダッシュ中に使用する事で、体を回転させ攻撃します。\n攻撃命中時、SGを獲得。\n\n[操作方法]\nマウス：ダッシュ中(右クリック)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
@@ -12584,7 +12632,7 @@ Movie/Skill/PC_G/B_Skill_ScareClow_B
 
 ID=27021
 Dark Blood [Bird Trap] Ⅰ
-[特性情報：基本攻撃]\nダメージ量：[393%]\nSA破壊量：[318%]\nHP消費：現在HP[5%]\nクールタイム：[10秒]\nデバフ効果：獲物捕捉[15秒](最大3重複)\n\n[特性情報：追加攻撃]\nダメージ量：[589%]\nSA破壊量：[478%]\n\n[特性情報：追加効果]\nバフ効果：攻撃速度[5%]増加(最大3重複)\nバフ持続時間：[15秒]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行う事で、ダメージを与える。
+[特性情報：基本攻撃]\nダメージ量：[393%]\nSA破壊量：[318%]\nHP消費：現在HP[5%]\nクールタイム：[15秒]\nデバフ効果：獲物捕捉[15秒](最大3重複)\n\n[特性情報：追加攻撃]\nダメージ量：[589%]\nSA破壊量：[478%]\n\n[特性情報：追加効果]\nバフ効果：攻撃速度[5%]増加(最大3重複)\nバフ持続時間：[15秒]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行う事で、ダメージを与える。
 [特性情報：基本攻撃]\nダメージ量：[393%]+35%\nSA破壊量：[318%]+29%\n\n[特性情報：追加攻撃]\nダメージ量：[589%]+54%\nSA破壊量：[478%]+43%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
@@ -12592,7 +12640,7 @@ Movie/Skill/PC_G/B_Skill_OverturnGround_A
 
 ID=27022
 Dark Blood [Bird Trap] Ⅱ
-[特性情報：基本攻撃]\nダメージ量：[428%]\nSA破壊量：[347%]\nHP消費：現在HP[5%]\nクールタイム：[10秒]\nデバフ効果：獲物捕捉[15秒](最大3重複)\n\n[特性情報：追加攻撃]\nダメージ量：[643%]\nSA破壊量：[521%]\n\n[特性情報：追加効果]\nバフ効果：攻撃速度[5%]増加(最大3重複)\nバフ持続時間：[15秒]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行う事で、ダメージを与える。
+[特性情報：基本攻撃]\nダメージ量：[428%]\nSA破壊量：[347%]\nHP消費：現在HP[5%]\nクールタイム：[15秒]\nデバフ効果：獲物捕捉[15秒](最大3重複)\n\n[特性情報：追加攻撃]\nダメージ量：[643%]\nSA破壊量：[521%]\n\n[特性情報：追加効果]\nバフ効果：攻撃速度[5%]増加(最大3重複)\nバフ持続時間：[15秒]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行う事で、ダメージを与える。
 [特性情報：基本攻撃]\nダメージ量：[428%]+39%\nSA破壊量：[347%]+52%\n\n[特性情報：追加攻撃]\nダメージ量：[643%]+57%\nSA破壊量：[521%]+78%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
@@ -12600,7 +12648,7 @@ Movie/Skill/PC_G/B_Skill_OverturnGround_A
 
 ID=27023
 Dark Blood [Bird Trap] Ⅲ
-[特性情報：基本攻撃]\nダメージ量：[467%]\nSA破壊量：[399]\nHP消費：現在HP[5%]\nクールタイム：[10秒]\nデバフ効果：獲物捕捉[15秒](最大3重複)\n\n[特性情報：追加攻撃]\nダメージ量：[700%]\nSA破壊量：[599%]\n\n[特性情報：追加効果]\nバフ効果：攻撃速度[5%]増加(最大3重複)\nバフ持続時間：[15秒]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行う事で、ダメージを与える。
+[特性情報：基本攻撃]\nダメージ量：[467%]\nSA破壊量：[399]\nHP消費：現在HP[5%]\nクールタイム：[15秒]\nデバフ効果：獲物捕捉[15秒](最大3重複)\n\n[特性情報：追加攻撃]\nダメージ量：[700%]\nSA破壊量：[599%]\n\n[特性情報：追加効果]\nバフ効果：攻撃速度[5%]増加(最大3重複)\nバフ持続時間：[15秒]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行う事で、ダメージを与える。
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
@@ -12928,7 +12976,7 @@ Movie/Skill/PC_G/B_Skill_RedVine
 
 ID=17161
 捕食者の風格I
-[スキル情報：基本攻撃]\nダメージ量：[1907%]\nSA破壊量：[2414%]\nSG消費量：[50]\nクールタイム：[45秒]\n\n空中に飛び上がって前方の敵に強力な攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
+[スキル情報]\nダメージ量：[1907%]\nSA破壊量：[2414%]\nSG消費量：[50]\nクールタイム：[45秒]\n\n空中に飛び上がって前方の敵に強力な攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[1907%]+191％\nSA破壊量：[2414%]+242％
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DevilsToy
 0
@@ -12936,16 +12984,16 @@ Movie/Skill/PC_G/B_Skill_DevilsToy
 
 ID=17162
 捕食者の風格II
-[スキル情報：基本攻撃]\nダメージ量：[2098%]\nSA破壊量：[2656%]\nSG消費量：[50]\nクールタイム：[45秒]\n\n空中に飛び上がって前方の敵に強力な攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
-LvMax
+[スキル情報]\nダメージ量：[2098%]\nSA破壊量：[2656%]\nSG消費量：[50]\nクールタイム：[45秒]\n\n空中に飛び上がって前方の敵に強力な攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
+[スキル情報：基本攻撃]\nダメージ量：[2098%]+252％\nSA破壊量：[2656%]+319％
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DevilsToy
 0
 Movie/Skill/PC_G/B_Skill_DevilsToy
 
 ID=17163
 捕食者の風格III
-[スキル情報：基本攻撃]\nダメージ量：[%]\nSA破壊量：[%]\nSG消費量：[]\nクールタイム：[秒]\n\n空中に飛び上がって前方の敵に強力な攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
-[スキル情報：基本攻撃]\nダメージ量：[0%]+0％\nSA破壊量：[0%]+0％
+[スキル情報：基本攻撃]\nダメージ量：[2350%]\nSA破壊量：[2975%]\nSG消費量：[50]\nクールタイム：[45秒]\n\n空中に飛び上がって前方の敵に強力な攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
+LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DevilsToy
 0
 Movie/Skill/PC_G/B_Skill_DevilsToy
