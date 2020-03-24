@@ -18,7 +18,7 @@ Invincible
 
 ID=15
 Customer Benefits
-Attack & Defense +20%.
+Attack and Defense increased by 20%
 Icon/Buff/Icon_Common_Buff_Reg
 Enhance
 
@@ -48,7 +48,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=103
 Enhancement
-Attack +10% for 10 seconds.
+Attack +10% for 10 seconds
 Icon/Buff/Icon_Common_Buff_ATK
 0
 
@@ -120,13 +120,13 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=302
 Guard Crash
-Attack +10% for 10 seconds.
+Attack +10% for 10 seconds
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=303
 Defense Mode
-Defense +10% for 10 seconds.
+Defense +10% for 10 seconds
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
@@ -756,7 +756,7 @@ Silence
 
 ID=5000
 Awakening
-与えるダメージ量が15%増加する。\n受けるダメージ量が25%減少する。\n移動速度が20%増加する。\nSA状態になる。
+Damage dealt +15%.\nDamage received -25%.\nMovement Speed +20%\nInstant SA state.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -810,61 +810,61 @@ Movement Speed ↓
 
 ID=5031
 Arena Rush Ⅰ
-Attack +7%.
+Attack +7%
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=5032
 Arena Rush Ⅱ
-Attack +9%.
+Attack +9%
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=5033
 Arena Rush Ⅲ
-Attack +12%.
+Attack +12%
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=5034
 Arena Rush Ⅳ
-Attack +15%.
+Attack +15%
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=5035
 Arena Rush Ⅴ
-Attack +20%.
+Attack +20%
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=5041
 Blow-up Ⅰ
-SA破壊量が4%増加し、攻撃命中時にSGを1%獲得する。
+SA Break +4%, SG +1% each hit
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG +
 
 ID=5042
 Blow-up Ⅱ
-SA破壊量が8%増加し、攻撃命中時にSGを1.2%獲得する。
+SA Break +8%, SG +1.2% each hit
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG +
 
 ID=5043
 Blow-up Ⅲ
-SA破壊量が12%増加し、攻撃命中時にSGを1.6%獲得する。
+SA Break +12%, SG +1.6% each hit
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG +
 
 ID=5044
 Blow-up Ⅳ
-SA破壊量が16%増加し、攻撃命中時にSGを2%獲得する。
+SA Break +16%, SG +2% each hit
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG +
 
 ID=5045
 Blow-up Ⅴ
-SA破壊量が20%増加し、攻撃命中時にSGを3%獲得する。
+SA Break +20%, SG +3% each hit
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG +
 
@@ -1260,19 +1260,19 @@ Defense Penetration
 
 ID=6031
 Cruel Slash Attribute B Ⅰ
-クリティカルダメージが100%増加する。
+クリティカルダメージが100%上昇する。
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=6032
 Cruel Slash Attribute B Ⅱ
-クリティカルダメージが150%増加する。
+クリティカルダメージが150%上昇する。
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=6033
 Cruel Slash Attribute B Ⅲ
-クリティカルダメージが200%増加する。
+クリティカルダメージが200%上昇する。
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
@@ -1362,7 +1362,7 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 
 ID=6070
 Erosion
-Critical Damage increased by 150%.\nMovement Speed increased by 20%.\nGain Super Armor.
+クリティカル攻撃力が150%上昇する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1716,7 +1716,7 @@ Mode Switch
 
 ID=7000
 Awakening
-攻撃力が100%増加する。\n移動速度が20%増加する。\nSA状態になる。
+攻撃力が100%上昇する。\n移動速度が20%増加する。\nSA状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1740,31 +1740,31 @@ Taunt+Evasion↓
 
 ID=7026
 Spirit Surge Ⅰ
-For a certain amount of time, Defense +25%
+一定時間、防御度が25%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=7027
 Spirit Surge Ⅱ
-For a certain amount of time, Defense +30%
+一定時間、防御度が30%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=7028
 Spirit Surge Ⅲ
-For a certain amount of time, Defense +40%
+一定時間、防御度が40%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=7029
 Spirit Surge Ⅳ
-For a certain amount of time, Defense +50%
+一定時間、防御度が50%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=7030
 Spirit Surge Ⅴ
-For a certain amount of time, Defense +70%
+一定時間、防御度が70%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
@@ -1818,31 +1818,31 @@ Invincible
 
 ID=7046
 Fusion Armor Ⅰ
-For a certain amount of time, Def +10%
+一定時間、防御度が10%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=7047
 Fusion Armor Ⅱ
-For a certain amount of time, Def +14%
+一定時間、防御度が14%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=7048
 Fusion Armor Ⅲ
-For a certain amount of time, Def +16%
+一定時間、防御度が16%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=7049
 Fusion Armor Ⅳ
-For a certain amount of time, Def +20%
+一定時間、防御度が20%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=7050
 Fusion Armor Ⅴ
-For a certain amount of time, Defense +30%
+一定時間、防御度が30%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
@@ -1872,31 +1872,31 @@ Soul Recovery
 
 ID=7072
 Counter Attack
-Recover 11% Soul.
+Recover 15% Soul.
 0
 Soul Recovery
 
 ID=7073
 Counter Attack
-Recover 13% Soul.
+ソウルを25%回復。
 0
 Soul Recovery
 
 ID=7074
 Counter Attack
-Recover 15% Soul.
+ソウルを35%回復。
 0
 Soul Recovery
 
 ID=7075
 Counter Attack
-Recover 20% Soul.
+ソウルを50%回復。
 0
 Soul Recovery
 
 ID=7080
 Erosion
-Increase attack by 50%.\n Increase movement speed by 20%.\n Gain Super Armor.
+攻撃力が50%上昇する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -2019,6 +2019,36 @@ Erosion
 Increase SA Break by 15%.\n Increase movement speed by 20%.\n Gain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
+
+ID=7531
+リミットブレイクI
+攻撃力が50％上昇します。
+Icon/Buff/Icon_Common_Buff_ATK
+リミットブレイク
+
+ID=7532
+リミットブレイクII
+攻撃力が75％上昇します。
+Icon/Buff/Icon_Common_Buff_ATK
+リミットブレイク
+
+ID=7533
+リミットブレイクIII
+攻撃力が100％上昇します。
+Icon/Buff/Icon_Common_Buff_ATK
+リミットブレイク
+
+ID=7534
+リミットブレイクIV
+攻撃力が125％上昇します。
+Icon/Buff/Icon_Common_Buff_ATK
+リミットブレイク
+
+ID=7535
+リミットブレイクV
+攻撃力が150％上昇します。
+Icon/Buff/Icon_Common_Buff_ATK
+リミットブレイク
 
 ID=8001
 Rapid Attack Ⅰ
@@ -2316,49 +2346,49 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=21001
 Raging
-Attack +5% for 5 minutes.
+5分間、攻撃力が5%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=21002
 Raging
-Attack +7% for 5 minutes.
+5分間、攻撃力が7%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=21003
 Raging
-Attack +10% for 5 minutes.
+5分間、攻撃力が10%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=21004
 Raging
-Attack +5% for 3 minutes.
+3分間、攻撃力が5%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=21011
 Toughen
-Defense +20% for 5 minutes.
+5分間、防御度が20%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=21012
 Toughen
-Defense +30% for 5 minutes.
+5分間、防御度が30%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=21013
 Toughen
-Defense +40% for 5 minutes.
+5分間、防御度が40%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=21014
 Toughen
-Defense +20% for 3 minutes.
+3分間、防御度が20%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
@@ -2436,13 +2466,13 @@ Invincible
 
 ID=22001
 Raging
-Attack +12% for 5 minutes.
+5分間、攻撃力が12%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=22002
 Toughen
-Defense +50% for 5 minutes.
+5分間、防御度が50%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
@@ -2460,7 +2490,7 @@ Critical ↑
 
 ID=22005
 Turbulent Waves/Tenacious
-Attack +15% and Defense +100% for 5 minutes.
+5分間、攻撃力が15%、防御度が100%上昇する。
 Icon/Buff/Icon_Common_Buff_Reg
 Enhance
 
@@ -2502,13 +2532,13 @@ HP, SG Recovery
 
 ID=22012
 HP ↑
-Increase HP by 30% for 5 minutes.
+5分間、HPが30%上昇する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP ↑
 
 ID=22013
 HP ↑
-+HP by 50% for 5 minutes.
+5分間、HPが50%上昇する。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP ↑
 
@@ -2526,13 +2556,13 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=25001
 Raging
-Attack +5% for 1 minute.
+1分間、攻撃力が5%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=25002
 Toughen
-Defense +30% for 1 minute.
+1分間、防御度が30%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
@@ -2838,7 +2868,7 @@ Movement Speed ↓
 
 ID=30063
 Turbulent Waves/Tenacious
-Increase both attack and defense by 10%.
+攻撃力と防御度がそれぞれ10%上昇する。
 Icon/Buff/Icon_Common_Buff_Reg
 Enhance
 
@@ -3060,7 +3090,7 @@ HP↓
 
 ID=30473
 Attack ↑
-Attack +10% for 60 seconds
+60秒間、攻撃力が10%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
@@ -3114,19 +3144,19 @@ Invincible
 
 ID=35004
 Soul energy amplification.
-Player attack +2000% for 30 seconds
+30秒間、プレイヤーの攻撃力2000%上昇
 Icon/Buff/Icon_Common_Buff_ATK
 Greatly increases Attack.
 
 ID=35005
 Enhance
-+20% Attack and Defense
+攻撃力/防御度20%上昇
 Icon/Buff/Icon_Common_Buff_Reg
 Enhance
 
 ID=35006
 Enhance
-+1000% Attack and Defense
+攻撃力/防御度1000%上昇
 Icon/Buff/Icon_Common_Buff_Reg
 Enhance
 
@@ -3677,13 +3707,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=53032
-好戦の証明
+Proof of War
 When hit, 5% chance of +8% Attack for 2s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53033
-好戦の証明
+Proof of War
 When hit, 10% chance of +8% Attack for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
@@ -4344,37 +4374,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53533
 生存のプロ
-+15% Maximum HP.
+装着時、最大HPが15%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53534
 生存のプロ
-+20% Maximum HP.
+装着時、最大HPが20%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53535
 生存のプロ
-+25% Maximum HP.
+装着時、最大HPが25%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53536
 生存のプロ
-+20% Maximum HP.
+装着時、最大HPが20%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53537
 生存のプロ
-+25% Maximum HP.
+装着時、最大HPが25%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53538
 生存のプロ
-+30% Maximum HP.
+装着時、最大HPが30%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
@@ -4524,37 +4554,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53563
 守備転換
-When hit, 5% chance of +50% Defense for 5s. (10s cooldown)
+攻撃を受けた時、5%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53564
 守備転換
-When hit, 10% chance of +50% Defense for 5s. (10s cooldown)
+攻撃を受けた時、10%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53565
 守備転換
-When hit, 15% chance of +50% Defense for 5s. (10s cooldown)
+攻撃を受けた時、15%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53566
 守備転換
-When hit, 10% chance of +50% Defense for 5s. (10s cooldown)
+攻撃を受けた時、10%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53567
 守備転換
-When hit, 15% chance of +50% Defense for 5s. (10s cooldown)
+攻撃を受けた時、15%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53568
 守備転換
-When hit, 20% chance of +50% Defense for 5s. (10s cooldown)
+攻撃を受けた時、20%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
@@ -4595,38 +4625,38 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=53575
-好戦の証明
-When hit, 5% chance of +10% Attack for 2.5s. (10s cooldown)
+Proof of War
+攻撃を受けた時、5%の確率で2.5秒間、攻撃力が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53576
-好戦の証明
-When hit, 10% chance of +10% Attack for 3.5s. (10s cooldown)
+Proof of War
+攻撃を受けた時、10%の確率で3.5秒間、攻撃力が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53577
-好戦の証明
-When hit, 15% chance of +10% Attack for 4.5s. (10s cooldown)
+Proof of War
+攻撃を受けた時、15%の確率で4.5秒間、攻撃力が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53578
-好戦の証明
-When hit, 10% chance of +10% Attack for 2.5s. (10s cooldown)
+Proof of War
+攻撃を受けた時、10%の確率で2.5秒間、攻撃力が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53579
-好戦の証明
-When hit, 15% chance of +10% Attack for 3.5s. (10s cooldown)
+Proof of War
+攻撃を受けた時、15%の確率で3.5秒間、攻撃力が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53580
-好戦の証明
-When hit, 20% chance of +10% Attack for 4.5s. (10s cooldown)
+Proof of War
+攻撃を受けた時、20%の確率で4.5秒間、攻撃力が10%上昇する。(クールタイム10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
@@ -5010,7 +5040,7 @@ This card is used for increasing the A.R card's EXP during synthesis. This card 
 
 ID=53651
 Fight
-+5% Maximum HP.
+装着時、最大HPが5%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
@@ -5232,73 +5262,73 @@ Attack ↑
 
 ID=53688
 チャンバラ
-+5% Attack.
+装着時、攻撃力が5%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53689
 チャンバラ
-+7% Attack.
+装着時、攻撃力が7%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53690
 チャンバラ
-+10% Attack.
+装着時、攻撃力が10%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53691
 チャンバラ
-+6% Attack.
+装着時、攻撃力が6%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53692
 チャンバラ
-+9% Attack.
+装着時、攻撃力が9%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53693
 チャンバラ
-+13% Attack.
+装着時、攻撃力が13%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53694
 準備万全
-+8% Maximum HP.
+装着時、最大HPが8%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53695
 準備万全
-+13% Maximum HP.
+装着時、最大HPが13%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53696
 準備万全
-+18% Maximum HP.
+装着時、最大HPが18%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53697
 準備万全
-+12% Maximum HP.
+装着時、最大HPが12%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53698
 準備万全
-+17% Maximum HP.
+装着時、最大HPが17%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53699
 準備万全
-+22% Maximum HP.
+装着時、最大HPが22%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
@@ -5670,25 +5700,25 @@ Defense↓
 
 ID=55005
 Snake Shock
-Defense +10% for 30 seconds.
+30秒間、防御度が10%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=55006
 Snake Shock
-Defense +30% for 30 seconds.
+30秒間、防御度が30%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=55010
 Roar of Power
-Attack +10% for 7 seconds.
+7秒間、攻撃力が10%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=55011
 Roar of Protection
-Defense +10% for 7 seconds.
+7秒間、防御度が10%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
@@ -5736,7 +5766,7 @@ Movement Speed ↓
 
 ID=55101
 Attack ↑
-Attack +10% for 7 seconds.
+7秒間、攻撃力が10%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
@@ -5772,7 +5802,7 @@ HP↓
 
 ID=55107
 Attack ↑
-Attack +10% for 5 seconds.
+5秒間、攻撃力が10%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
@@ -5790,7 +5820,7 @@ Vampire
 
 ID=55110
 Rotation
-Attack +10% for 5 seconds.
+5秒間、攻撃力が10%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
@@ -5820,7 +5850,7 @@ Accuracy ↑
 
 ID=55115
 Right Fit
-Defense +10% for 5 seconds.
+5秒間、防御度が10%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
@@ -5844,13 +5874,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=55119
 Attack ↑
-Attack +10% for 20 seconds.
+20秒間、攻撃力が10%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=55120
 Attack ↑
-Attack +10% for 10 seconds.
+Attack +10% for 10 seconds
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
@@ -6132,13 +6162,13 @@ HP↓
 
 ID=63036
 Attack ↑
-Attack +30% for 5 minutes
+5分間、攻撃力30%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=63037
 Defense ↑
-Defense +30% for 5 minutes
+5分間、防御度が30%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
@@ -6702,7 +6732,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=21015
 意志
-8分間、防御度が30%増加します。
+8分間、防御度が30%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
@@ -6730,51 +6760,39 @@ ID=205
 Icon/Buff/Icon_Common_Buff_Immun
 勝利
 
-ID=7090
-攻防一体の身体
-自分、または味方が5秒以内に敵を連続で討伐すると発動効果がスタックします。5スタック時、ダメージ量減少と攻撃力が増加します。
-Icon/Buff/Icon_Common_Buff_ASR
-0
-
 ID=7100
 解放された身体I
-攻撃力が75%、SA破壊量が15%増加しますが、敵に15%の追加ダメージを受ける。
+攻撃力が75%、SA破壊量が15%増加しますが、ダメージ減少が15％低下します。
 Icon/Buff/Icon_Common_Buff_ATK
 解放された身体
 
 ID=7101
 解放された身体II
-攻撃力が100%、SA破壊量が30%増加しますが、敵に20%の追加ダメージを受ける。
+攻撃力が100%、SA破壊量が20%増加しますが、ダメージ減少が20％低下します。
 Icon/Buff/Icon_Common_Buff_ATK
 解放された身体
 
 ID=7102
 解放された身体II
-攻撃力が150%、SA破壊量が45%増加しますが、敵に25%の追加ダメージを受ける。
+攻撃力が150%、SA破壊量が30%増加しますが、ダメージ減少が25％低下します。
 Icon/Buff/Icon_Common_Buff_ATK
 解放された身体
 
-ID=7111
-休息
-5秒の間、攻防一体の身体の効果が発動しません。
-Icon/Buff/Icon_Common_Debuff_Sleep
-0
-
 ID=7121
 スピリットシューター
-防御度が10%ほど減少します。
+防御度が5%ほど減少します。
 Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
 
 ID=7122
 スピリットシューター
-防御度が20%ほど減少します。
+防御度が10%ほど減少します。
 Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
 
 ID=7123
 スピリットシューター
-防御度が30%ほど減少します。
+防御度が15%ほど減少します。
 Icon/Buff/Icon_Common_Debuff_Def
 Defense↓
 
@@ -6900,7 +6918,7 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 
 ID=30158
 超猛毒
-攻撃力が100%増加する。
+攻撃力が100%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 超猛毒
 
@@ -7374,13 +7392,13 @@ Damage ↑
 
 ID=25006
 Raging
-1分間、攻撃力が50%増加します。
+1分間、攻撃力が50%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=25007
 Toughen
-1分間、防御度が50%増加します。
+1分間、防御度が50%上昇する。
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
@@ -7644,37 +7662,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=60169
 老練
-装着時、戦闘獲得経験値が3％増加する。
+装着時、戦闘獲得経験値が3%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 経験値獲得量増加
 
 ID=60170
 老練
-装着時、戦闘獲得経験値が6％増加する。
+装着時、戦闘獲得経験値が6%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 経験値獲得量増加
 
 ID=60171
 老練
-装着時、戦闘獲得経験値が9％増加する。
+装着時、戦闘獲得経験値が9%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 経験値獲得量増加
 
 ID=60172
 老練
-装着時、戦闘獲得経験値が4％増加する。
+装着時、戦闘獲得経験値が4%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 経験値獲得量増加
 
 ID=60173
 老練
-装着時、戦闘獲得経験値が8％増加する。
+装着時、戦闘獲得経験値が8%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 経験値獲得量増加
 
 ID=60174
 老練
-装着時、戦闘獲得経験値が12％増加する。
+装着時、戦闘獲得経験値が12%上昇する。
 Icon/Buff/Icon_Common_Buff_Akashic
 経験値獲得量増加
 
@@ -7824,19 +7842,19 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=6570
 Beads Play Ⅰ
-クリティカル確率が5%増加する。
+攻撃力が50%増加する。\nクリティカル確率が5%増加する。
 Icon/Buff/Icon_Common_Buff_ATK
 クリティカル確率増加
 
 ID=6571
 Beads Play Ⅱ
-クリティカル確率が8%増加する。
+攻撃力が70%増加する。\nクリティカル確率が8%増加する。
 Icon/Buff/Icon_Common_Buff_ATK
 クリティカル確率増加
 
 ID=6572
 Beads Play Ⅲ
-クリティカル確率が15%増加する。
+攻撃力が100%増加する。\nクリティカル確率が15%増加する。
 Icon/Buff/Icon_Common_Buff_ATK
 クリティカル確率増加
 
@@ -8142,25 +8160,25 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=8581
 Deceleration
-攻撃速度と移動速度が15％低下する。
+攻撃速度と移動速度が15％減少する。
 Icon/Buff/Icon_Common_Debuff_MSR
-攻撃速度、移動速度低下
+攻撃速度、移動速度減少
 
 ID=8591
 Bleed
-HPが2％ずつ減少する。
+HPが2％ごと低下する。
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=8592
 Bleed
-HPが3％ずつ減少する。
+HPが3％ごと低下する。
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=8593
 Bleed
-HPが4％ずつ減少する。
+HPが4％ごと低下する。
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
@@ -8169,3 +8187,153 @@ Paralyzed
 一定時間、動く事ができなくなります。
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
+
+ID=22016
+Raging
+30分間、攻撃力が12％上昇します。
+Icon/Buff/Icon_Common_Buff_ATK
+攻撃力上昇
+
+ID=22017
+Toughen
+30分間、防御力が50％上昇します。
+Icon/Buff/Icon_Common_Buff_Def
+防御力上昇
+
+ID=22018
+Swiften
+30分間、攻撃速度が10％増加します。
+Icon/Buff/Icon_Common_Buff_ASR
+Attack Speed ↑
+
+ID=22019
+Insane
+30分間、クリティカルが10％増加します。
+Icon/Buff/Icon_Common_Buff_CRI
+クリティカル増加
+
+ID=30701
+制圧
+身体を動かす事ができない。
+Icon/Buff/Icon_Common_Debuff_Paralysis
+制圧
+
+ID=60217
+悟り
+装着時、10秒毎にSVを6獲得、SGを6%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
+SV回復、SG回復
+
+ID=60218
+悟り
+装着時、10秒毎にSVを8獲得、SGを8%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
+SV回復、SG回復
+
+ID=60219
+悟り
+装着時、10秒毎にSVを9獲得、SGを10%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
+SV回復、SG回復
+
+ID=60220
+悟り
+装着時、10秒毎にSVを7獲得、SGを11%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
+SV回復、SG回復
+
+ID=60221
+悟り
+装着時、10秒毎にSVを9獲得、SGを13%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
+SV回復、SG回復
+
+ID=60222
+悟り
+装着時、10秒毎にSVを11獲得、SGを16%回復する。
+Icon/Buff/Icon_Common_Buff_Akashic
+SV回復、SG回復
+
+ID=63200
+Slowed
+Movement Speed -30%.
+Icon/Buff/Icon_Common_Debuff_MSR
+Movement Speed ↓
+
+ID=63201
+アキュラス強化
+与えるダメージ50％増加、受けるダメージ50％減少
+Icon/Buff/Icon_Common_Buff_ATK
+Enhance
+
+ID=63202
+アキュラス回復
+5秒ごとHP3％回復
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+Recover
+
+ID=63205
+堕落
+60秒の間5秒毎1000のダメージを受け、クリティカルダメージが3000増加します。
+Icon/Buff/Icon_Common_Debuff_Arculus02
+堕落
+
+ID=63203
+SG減少
+SG100％減少
+Icon/Buff/Icon_Common_Buff_SG_decrease
+SG減少
+
+ID=63206
+堕落
+60秒の間5秒毎1000のダメージを受け、クリティカルダメージが3000増加します。
+Icon/Buff/Icon_Common_Debuff_Arculus02
+堕落
+
+ID=63207
+崩壊
+1秒毎20000のダメージ
+Icon/Buff/Icon_Common_Debuff_Hell_fier
+崩壊
+
+ID=63208
+スタミナ減少
+スタミナ100％減少
+Icon/Buff/Icon_Common_Buff_ST_decrease
+スタミナ減少
+
+ID=63209
+エドガーの誘惑
+エドガーのサプライズ！3秒間スキルクールタイム100％減少
+Icon/Buff/Icon_Common_Debuff_Edgar02
+クールタイム除去
+
+ID=63215
+氷牢
+そのまま死を待ちなさい。
+Icon/Buff/Icon_Common_Debuff_Freezing
+氷牢
+
+ID=63218
+眩暈
+ジャンククイーンの協力な力で正気になれません。
+Icon/Buff/Icon_Common_Debuff_dizziness
+眩暈
+
+ID=63219
+氷牢
+そのまま死を待ちなさい。
+Icon/Buff/Icon_Common_Debuff_Freezing
+氷牢
+
+ID=601
+テスト攻撃バフ
+30分間攻撃力が１増加します。（最大10重畳、テスト用）
+Icon/Buff/Icon_Common_Buff_ATK
+Attack ↑
+
+ID=602
+テスト防御バフ
+30分間防御力が１増加します。（最大10重畳、テスト用）
+Icon/Buff/Icon_Common_Buff_Def
+防御力増加

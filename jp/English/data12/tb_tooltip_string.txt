@@ -152,11 +152,11 @@ I'm giving you... chocolate.
 
 ID=11019
 Sexy Animal Ears Maid 1
-Give the first enchanting pose.
+Takes an enchanting pose 1.
 
 ID=11020
 Sexy Animal Ears Maid 2
-Give the second enchanting pose.
+Takes an enchanting pose 2.
 
 ID=11021
 White Day
@@ -383,7 +383,7 @@ Familar
 An item that is especially rate that can be socked into Soul Weapons to increase their effectiveness, the Familar.
 
 ID=30033
-アカシックアイテム製作
+Craft Akashic Item
 A.RカードとA.Rカードを組み合わせ、\n次の等級のA.Rカードを製作する事ができます。
 
 ID=30034
@@ -472,50 +472,50 @@ Invoke a Spinning Glutton.
 
 ID=11030
 Agent
-エージェントスーツのポーズを取ります。
+Takes an Agent Suit's pose.
 
 ID=11031
-潮風1
-潮風1のポーズを取ります。
+Sea Breeze 1
+Takes a Sea Breeze 1 pose.
 
 ID=11032
-潮風2
-潮風2のポーズを取ります。
+Sea Breeze 2
+Takes a Sea Breeze 2 pose.
 
 ID=11033
-童心
-童心に返ります。
+Childlike
+Turns back to a child.
 
 ID=11034
-ヒーロー
-ヒーローのポーズを取ります。
+Hero
+Takes a Hero's pose.
 
 ID=11035
-軍楽隊
-軍楽隊のポーズを取ります。
+Military Band
+Takes a Military Band's pose.
 
 ID=11036
-聖なる裁き
-聖なる裁きのポーズを取ります。
+Holy Judgement
+Takes a Holy Judgement's pose.
 
 ID=11037
-ブルーミングドレス
-ブルーミングドレスのポーズを取ります。
+Blooming Dress
+Takes a Blooming Dress' pose.
 
 ID=11038
-聖騎士
-聖騎士のポーズを取ります。
+Holy Knight
+Takes a Holy Knight's pose.
 
 ID=1000
-レベル経験値
+Level EXP
 {0} / {1} ({2}%)
 
 ID=1001
-等級経験値
+Rank EXP
 {0}\n{1} / {2} ({3}%)
 
 ID=1002
-等級
+Rank
 {0}
 
 ID=10
@@ -523,41 +523,45 @@ HP
 キャラクターの体力です。HPが0になると倒れます。
 
 ID=14
-スタミナ
+Stamina
 回避やスキルなどを使用するたびに消費される数値です。
 
 ID=103
-敵追加ダメージ:一般
+Add'l. Dmg: General Mobs
 一般タイプの敵に与える追加ダメージの割合です。
 
 ID=104
-敵追加ダメージ:ボス/ネームド
-ボスとネームドタイプの敵に与える追加ダメージの割合です。
+Add'l. Dmg: Boss/Named Mobs
+Percentage of add'l. Dmg: Boss/Named Mobs
 
 ID=100
-クールタイム短縮
-スキル使用後に発生するスキルクールタイムの減少割合です。
+Cooldown Reduction
+Cooldown Reduction after a skill is used
 
 ID=11039
-アニマルパジャマ
-動物の真似をしてみた。
+Animal Pajama
+Imitates an animal.
 
 ID=11040
-サーヴァント・イン・カフェ
-サーヴァント・イン・カフェのポーズを取ります。
+Servant-in-Café
+Takes a Servant-in-Café's pose.
 
 ID=11041
-真夏の水兵
-真夏の水兵のポーズを取ります。
+Midsummer Sailor
+Takes a Midsummer Sailor's pose.
 
 ID=11044
-エネミーコスチューム
-エネミーコスチュームのポーズを取ります。
+Enemy Costume
+Takes an Enemy Costume's pose.
 
 ID=11045
-ねこの着ぐるみ
-ねこのものまね。
+Cat Costume
+Imitates a cat.
 
 ID=11048
-ナイトメア
-ナイトメアジェスチャーを取ります。
+Nightmare
+Takes a Nightmare gesture.
+
+ID=21023
+マイレージポイント
+一部アイテムを購入時に、提供されるマイレージでアイテムを獲得できます。\n獲得したマイレージは毎月1日00:00に初期化され、毎月末日23時59分まで使用可能です。
