@@ -20411,7 +20411,7 @@ ID=60103
 The weekly ranking is reset every week.
 
 ID=60104
-Rankings window
+Ranking
 
 ID=60105
 Raid
@@ -27803,97 +27803,97 @@ ID=5067
 <결의의 데스퍼로어>로 승급되었습니다.
 
 ID=80100
-캐릭터 커스텀
+Customise character
 
 ID=80101
-설정 완료
+Setting complete.
 
 ID=80102
 {0}:{1}
 
 ID=80103
-재 설정 대기 시간
+Cooldown for new settings
 
 ID=80104
-대표 캐릭터
+Main character
 
 ID=80105
-대표 캐릭터를 지정해 주세요
+Please select a main character.
 
 ID=80106
-슬롯 이동
+Change slot
 
 ID=80107
-이동 할 캐릭터 슬롯을 선택해 주세요
+Select a character slot you want to change.
 
 ID=80108
-대표 캐릭터 설정되어 있지 않아 랭킹 확인이 불가능 합니다.
+You cannot view your ranking without a main character.
 
 ID=59630
-대표 캐릭터가 설정되어 있지 않습니다.\n\n대표 캐릭터 비 설정 시 보상 등에서\n불이익이 생길 수 있습니다.\n
+You haven’t set a main character.\nWithout a main character, there may be disadvantages\nwhen it comes to rewards, for example.
 
 ID=59631
-선택된 캐릭터를 대표 캐릭터로 설정 합니다.\n\n대표캐릭터는 랭킹에 참여 가능하며,\n계정을 대표 하는 사진 등에 활용 합니다.\n\n<font color='#FF0000'>대표캐릭터는 등록 시 1일 동안 다른 캐릭터로는\n등록이 불가능 합니다.</font>\n\n계속 진행 하시겠습니까?
+The selected character will be your main character.\n\nThe main character takes part in rankings\nand you can use their picture for your account.\n\n<font color='#FF0000'>If you register a main character, you cannot\nregister another main character for 1 day.</font>\n\nDo you wish to continue?
 
 ID=59632
-대표 캐릭터가 변경된 경우\n현재 대표 캐릭터로 집계 중이던 기록이\n\n모두 삭제 되고 1일 동안\n대표 캐릭터 교체가 불가능 합니다.\n\n\n계속 진행 하시겠습니까?
+If the main character changes, all previous\nmain character records will be deleted\nand you cannot take on\nanother main character for 1 day.\n\n\nDo you wish to continue?
 
 ID=59633
-현재 대표 캐릭터에 아직 수령하지 않은\n랭킹 보상이 남아 있습니다.\n\n보상 수령이 되지 않았을 경우\n대표 캐릭터 변경은 불가능 합니다.
+Your current main character still has\noutstanding ranking titles.\n\nThe main character can only be changed\nonce all rewards have been accepted.
 
 ID=59634
-현재 랭킹 집계가 진행 중 입니다.\n\n보상 관련 내용으로 인해 변경이 불가능 하니\n\n집계 완료 후 변경 부탁 드립니다.
+The rankings are being calculated.\n\nIt’s not possible to make changes while rewards are being calculated.\n\nPlease try again later.
 
 ID=59635
-대표 캐릭터로 지정된 캐릭터는 삭제 불가능 합니다.
+The main character cannot be removed.
 
 ID=59636
-현재는 대표 캐릭터 선택이 불가능 합니다.
+Setting a main character is not possible at the moment.
 
 ID=59637
-이미 대표로 설정된 캐릭터 입니다.\n다른 캐릭터를 선택해 주세요.
+This character has already been set as the main character.\nPlease select a different character.
 
 ID=67110
-히든 하이드아웃 [N/T]
+Suspicious Hideout (Easy/Time)
 
 ID=9897
-디플루스 호라이즌 레이드
+Dipluce Horizon Raid
 
 ID=65713
-1위~4위
+1st–4th Place
 
 ID=65714
-5위~8위
+5th–8th Place
 
 ID=65715
-9위~12위
+9th–12th Place
 
 ID=65716
-13위~20위
+13th–20th Place
 
 ID=65717
-21위~100위
+21st–100th Place
 
 ID=65718
-101위~ 상위 5%
+Top 5% (excluding places 100 and above)
 
 ID=65719
-상위 6%~10%
+Top 6–10%
 
 ID=65720
-상위 11%~20%
+Top 11–20%
 
 ID=65721
-상위 21%~30%
+Top 21–30%
 
 ID=65722
-상위 31%~50%
+Top 31–50%
 
 ID=65723
-상위 51%~80%
+Top 51–80%
 
 ID=65724
-상위 81%~100%
+Top 81–100%
 
 ID=27950
 스태미너가 30% 미만 일 때 대쉬 시, 3초간 이동속도 {0}% 증가
@@ -28043,10 +28043,10 @@ ID=80006
 -Collected <font color='#00CED1'>per character</font>\n- 1x Special Dyes <font color='#00CED1'>per point{0}</font>\n- <font color='#00CED1'>Can be collected up to max. {1}x</font>\n- Selected Dyes <font color='#00CED1'> {2} points</font> collected\n- Random Dyes <font color='#00CED1'> {3} points</font> collected.
 
 ID=67109
-요르하카 솔로랭크 [M/T]
+Yorhaka Solo Rating (Manic/Time)
 
 ID=22578
-랭킹 열기/닫기
+Open/Close Rankings
 
 ID=27940
 파티 또는 포스 상태가 아닐 때, 치명타 공격 시 치명타 피해 +{0}
@@ -28079,238 +28079,238 @@ ID=27949
 Evasion has a 5% probability of increasing your attack power by {0} for 1 sec.
 
 ID=67001
-종합 랭킹
+Total Rankings
 
 ID=67002
- - 매주 월요일 00시에 랭킹이 마감되고, 2시간뒤 보상과 함께 다음 시즌이 시작 됩니다.\n - 랭킹 마감 후 2시간 동안은 플레이 기록이 랭킹에 집계 되지 않습니다.\n - 플레이 기록은 30분 마다 집계되어 랭킹에 반영 됩니다.
+- Rankings are finalised every Monday at midnight. The new season begins 2 hours later with the issuing of rewards.\n- During these 2 hours, no ranking entries can be accepted.\n- Afterwards, all achieved records will be entered into the rankings every 30 minutes.
 
 ID=67003
-보상 보기
+Ranking Title
 
 ID=67004
-보상 받기
+Accept reward
 
 ID=67006
-이전 시즌 보상을 획득 합니다.
+You receive the previous season’s rewards.
 
 ID=67007
-보상을 획득할 수 없습니다. 인벤토리를 확인 하시기 바랍니다.\n최대 N일 동안 받지 않은 보상은 삭제 될 수 있습니다.
+You cannot receive any rewards. Please check your inventory.\nRewards that aren’t accepted for N days can be deleted.
 
 ID=67008
-다음 시즌을 준비 중 입니다. 현재 플레이 기록은 랭킹에 집계 되지 않습니다.
+The next season is being prepared. This means no game records can be registered in the rankings.
 
 ID=67009
-랭킹 진행 중
+Rankings active
 
 ID=67010
-시즌 대기 중
+Preparing season.
 
 ID=67011
-현재 기록
+Current record
 
 ID=67012
-최고 기록
+Highest record
 
 ID=67013
-이전 랭킹 보기
+View last ranking
 
 ID=67014
-현재 랭킹 보기
+View current ranking
 
 ID=67015
-보상 확인
+Go to reward
 
 ID=67016
-확인
+Confirm
 
 ID=67101
-포인트 합계 랭킹
+Total points ranking
 
 ID=67102
-이노센트 데이드림 [T]
+Innocent Daydream (T)
 
 ID=67103
-커럽티드 레코드EP.5 [T]
+Records of the Corrupt Ep. 5 (T)
 
 ID=67104
-더 프라이멀 [N/T]
+Primal (N/T)
 
 ID=67105
-알터 오브 보이드 [M/T]
+Viilor’s Altar (M/T)
 
 ID=67106
-스카이클락 팰리스 [H/C]
+Skyclock Palace (H/C)
 
 ID=67107
-알터 오브 보이드 [M/C]
+Viilor’s Altar (M/A)
 
 ID=67108
-{0}일 {1}:{2} 남음
+Still {0} days {1}:{2} left
 
 ID=67201
-오퍼레이션
+Dimension Trip
 
 ID=68001
-메이즈 랭킹
+District Ranking
 
 ID=68002
-배틀아레나
+Rift Arena
 
 ID=65401
-1위 보상
+Reward for 1st Place
 
 ID=65402
-2위 보상
+Reward for 2nd Place
 
 ID=65403
-3위 보상
+Reward for 3rd Place
 
 ID=65404
-4위~10위 보상
+Reward for 4th–10th Place
 
 ID=65405
-11위~30위 보상
+Reward for 11th–30th Place
 
 ID=65406
-31위~100위 보상
+Reward for 31st–100th Place
 
 ID=65407
-101위~상위 10% 보상
+Reward for the top 10% (excluding places 100 and above)
 
 ID=65409
-상위 31%~상위 50% 보상
+Reward for the top 31–50%
 
 ID=65410
-상위 51%~상위 80% 보상
+Reward for the top 51–80%
 
 ID=65411
-상위 81%~상위 100% 보상
+Reward for the top 81–100%
 
 ID=65501
-1위 보상
+Reward for 1st Place
 
 ID=65502
-2위 보상
+Reward for 2nd Place
 
 ID=65503
-3위 보상
+Reward for 3rd Place
 
 ID=65504
-4위~10위 보상
+Reward for 4th–10th Place
 
 ID=65505
-11위~30위 보상
+Reward for 11th–30th Place
 
 ID=65506
-31위~50위 보상
+Reward for 31st–50th Place
 
 ID=65507
-51위~100위 보상
+Reward for 51st–100th Place
 
 ID=58500
-랭킹 리스트를 요청할 수 없습니다.
+The ranking list cannot be requested.
 
 ID=58501
-리스트 산출 중에는 랭킹 확인이 불가능 합니다.
+Rankings cannot be viewed while the list is being calculated.
 
 ID=58502
-랭킹 보상을 받을 수 없습니다.
+You haven’t received a ranking title.
 
 ID=58503
-받을 수 있는 랭킹 보상이 없습니다.
+No ranking title is available.
 
 ID=58504
-보상을 이미 획득 하였습니다.
+You’ve already received the reward.
 
 ID=58505
-랭킹 리스트 요청이 잠시 지연 되었습니다.\n랭킹 요청 사항이 많을 경우 잠시 처리 지연 될 수 있습니다.
+Your Ranking List request is experiencing a delay.\nDelays can occur if too many requests are made at the same time.
 
 ID=67017
-회
+x
 
 ID=65408
-상위 11%~상위 30% 보상
+Reward for the top 11–30%
 
 ID=65601
-1위~8위
+1st–8th Place
 
 ID=65602
-9위~16위
+9th–16th Place
 
 ID=65603
-17위~24위
+17th–24th Place
 
 ID=65604
-101위~상위 5%
+Top 5% (excluding places 100 and above)
 
 ID=65605
-상위 6%~10%
+Top 6–10%
 
 ID=65606
-상위 11%~20%
+Top 11–20%
 
 ID=65607
-상위 21%~30%
+Top 21–30%
 
 ID=65608
-상위 31%~40%
+Top 31–40%
 
 ID=65609
-상위 41%~50%
+Top 41–50%
 
 ID=65610
-상위 51%~80%
+Top 51–80%
 
 ID=65611
-상위 81%~100%
+Top 81–100%
 
 ID=65701
-1위~4위
+1st–4th Place
 
 ID=65702
-5위~8위
+5th–8th Place
 
 ID=65703
-9위~12위
+9th–12th Place
 
 ID=65704
-13위~20위
+13th–20th Place
 
 ID=65705
-101위~상위 10%
+Top 10% (excluding places 100 and above)
 
 ID=65706
-상위 11%~20%
+Top 11–20%
 
 ID=65707
-상위 21%~30%
+Top 21–30%
 
 ID=65708
-상위 31%~40%
+Top 31–40%
 
 ID=65709
-상위 41%~50%
+Top 41–50%
 
 ID=65710
-상위 51%~80%
+Top 51–80%
 
 ID=65711
-상위 81%~100%
+Top 81–100%
 
 ID=58506
-시즌 마감 중에는 보상을 획득하실 수 없습니다.
+No rewards can be obtained during the end of the season.
 
 ID=58507
-다음 시즌이 시작 되었습니다.
+The next season has begun.
 
 ID=41417
 Chii’s Sprint Event
 
 ID=65712
-25위~100위
+25th–100th Place
 
 ID=65612
-21위~100위
+21st–100th Place
 
 ID=9894
 Dipluce Horizon
@@ -28370,7 +28370,7 @@ ID=10108
 Dipluce Armada
 
 ID=10109
-The Unholy
+The Renegades
 
 ID=10110
 Holy Ground
@@ -28509,3 +28509,9 @@ Soul Warriors
 
 ID=710027
 Soul Riders
+
+ID=710031
+Gentiana Institute
+
+ID=10125
+Trashbert's Escape
