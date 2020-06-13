@@ -18,7 +18,7 @@ Icon/Buff/Icon_Common_Buff_Immun
 
 ID=15
 顧客獎勵
-攻撃力と防御度がそれぞれ20%上昇する。
+攻击力和防御力提升20%
 Icon/Buff/Icon_Common_Buff_Reg
 強化
 
@@ -48,7 +48,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=103
 増強
-10秒間、攻撃力が10%上昇する。
+10秒内攻击力提升10%
 Icon/Buff/Icon_Common_Buff_ATK
 0
 
@@ -120,13 +120,13 @@ HP回復
 
 ID=302
 防御崩坏
-10秒間、攻撃力が10%上昇する。
+10秒内攻击力提升10%
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=303
 防御模式
-10秒間、防御度が10%上昇する。
+10秒内防御度提升10%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -395,362 +395,38 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 出血
 
 ID=1401
-窒息Lv1
-0.5秒内、受到窒息效果
-Icon/Buff/Icon_Common_Debuff_Stun
 窒息
-
-ID=1402
-窒息Lv2
-1秒内、受到窒息效果
-Icon/Buff/Icon_Common_Debuff_Stun
-窒息
-
-ID=1403
-窒息Lv3
-1.5秒内、受到窒息效果
-Icon/Buff/Icon_Common_Debuff_Stun
-窒息
-
-ID=1404
-窒息Lv4
-2秒内、受到窒息效果
-Icon/Buff/Icon_Common_Debuff_Stun
-窒息
-
-ID=1405
-窒息Lv5
-2.5秒内、受到窒息效果
-Icon/Buff/Icon_Common_Debuff_Stun
-窒息
-
-ID=1406
-窒息Lv6
-3秒内、受到窒息效果
-Icon/Buff/Icon_Common_Debuff_Stun
-窒息
-
-ID=1407
-窒息Lv7
-3.5秒内、受到窒息效果
-Icon/Buff/Icon_Common_Debuff_Stun
-窒息
-
-ID=1408
-窒息Lv8
-4秒内、受到窒息效果
-Icon/Buff/Icon_Common_Debuff_Stun
-窒息
-
-ID=1409
-窒息Lv9
-4.5秒内、受到窒息效果
-Icon/Buff/Icon_Common_Debuff_Stun
-窒息
-
-ID=1410
-窒息Lv10
-5秒内、受到窒息效果
+気絶効果を受ける。
 Icon/Buff/Icon_Common_Debuff_Stun
 窒息
 
 ID=1501
-麻痺Lv1
-0.5秒内、玩家无法动弹
-Icon/Buff/Icon_Common_Debuff_Paralysis
 麻痺
-
-ID=1502
-麻痺Lv2
-1秒内、玩家无法动弹
-Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
-
-ID=1503
-麻痺Lv3
-1.5秒内、玩家无法动弹
-Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
-
-ID=1504
-麻痺Lv4
-2秒内、玩家无法动弹
-Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
-
-ID=1505
-麻痺Lv5
-2.5秒内、玩家无法动弹
-Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
-
-ID=1506
-麻痺Lv6
-3秒内、玩家无法动弹
-Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
-
-ID=1507
-麻痺Lv7
-3.5秒内、玩家无法动弹
-Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
-
-ID=1508
-麻痺Lv8
-4秒内、玩家无法动弹
-Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
-
-ID=1509
-麻痺Lv9
-4.5秒内、玩家无法动弹
-Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
-
-ID=1510
-麻痺Lv10
-5秒内、玩家无法动弹
+キャラクターが動けなくなる。
 Icon/Buff/Icon_Common_Debuff_Paralysis
 麻痺
 
 ID=1601
-睡眠Lv1
-0.5秒内、玩家获得睡眠状态，被攻击后解除
-Icon/Buff/Icon_Common_Debuff_Sleep
 睡眠
-
-ID=1602
-睡眠Lv2
-1秒内、玩家获得睡眠状态，被攻击后解除
-Icon/Buff/Icon_Common_Debuff_Sleep
-睡眠
-
-ID=1603
-睡眠Lv3
-1.5秒内、玩家获得睡眠状态，被攻击后解除
-Icon/Buff/Icon_Common_Debuff_Sleep
-睡眠
-
-ID=1604
-睡眠Lv4
-2秒内、玩家获得睡眠状态，被攻击后解除
-Icon/Buff/Icon_Common_Debuff_Sleep
-睡眠
-
-ID=1605
-睡眠Lv5
-2.5秒内、玩家获得睡眠状态，被攻击后解除
-Icon/Buff/Icon_Common_Debuff_Sleep
-睡眠
-
-ID=1606
-睡眠Lv6
-3秒内、玩家获得睡眠状态，被攻击后解除
-Icon/Buff/Icon_Common_Debuff_Sleep
-睡眠
-
-ID=1607
-睡眠Lv7
-3.5秒内、玩家获得睡眠状态，被攻击后解除
-Icon/Buff/Icon_Common_Debuff_Sleep
-睡眠
-
-ID=1608
-睡眠Lv8
-4秒内、玩家获得睡眠状态，被攻击后解除
-Icon/Buff/Icon_Common_Debuff_Sleep
-睡眠
-
-ID=1609
-睡眠Lv9
-4.5秒内、玩家获得睡眠状态，被攻击后解除
-Icon/Buff/Icon_Common_Debuff_Sleep
-睡眠
-
-ID=1610
-睡眠Lv10
-5秒内、玩家获得睡眠状态，被攻击后解除
+キャラクターが睡眠状態になり、攻撃されると状態異常が解除される。
 Icon/Buff/Icon_Common_Debuff_Sleep
 睡眠
 
 ID=1701
-魅惑Lv1
-0.5秒内、被魅惑
-Icon/Buff/Icon_Common_Debuff_Charm
 魅惑
-
-ID=1702
-魅惑Lv2
-1秒内、被魅惑
-Icon/Buff/Icon_Common_Debuff_Charm
-魅惑
-
-ID=1703
-魅惑Lv3
-1.5秒内、被魅惑
-Icon/Buff/Icon_Common_Debuff_Charm
-魅惑
-
-ID=1704
-魅惑Lv4
-2秒内、被魅惑
-Icon/Buff/Icon_Common_Debuff_Charm
-魅惑
-
-ID=1705
-魅惑Lv5
-2.5秒内、被魅惑
-Icon/Buff/Icon_Common_Debuff_Charm
-魅惑
-
-ID=1706
-魅惑Lv6
-3秒内、被魅惑
-Icon/Buff/Icon_Common_Debuff_Charm
-魅惑
-
-ID=1707
-魅惑Lv7
-3.5秒内、被魅惑
-Icon/Buff/Icon_Common_Debuff_Charm
-魅惑
-
-ID=1708
-魅惑Lv8
-4秒内、被魅惑
-Icon/Buff/Icon_Common_Debuff_Charm
-魅惑
-
-ID=1709
-魅惑Lv9
-4.5秒内、被魅惑
-Icon/Buff/Icon_Common_Debuff_Charm
-魅惑
-
-ID=1710
-魅惑Lv10
-5秒内、被魅惑
+魅惑状態になり対象に付きまとう。
 Icon/Buff/Icon_Common_Debuff_Charm
 魅惑
 
 ID=1801
-混乱Lv1
-0.5秒内，变得有些混乱什么事都干不了
-Icon/Buff/Icon_Common_Debuff_Fear
 混乱
-
-ID=1802
-混乱Lv2
-1秒内，变得有些混乱什么事都干不了
-Icon/Buff/Icon_Common_Debuff_Fear
-混乱
-
-ID=1803
-混乱Lv3
-1.5秒内，变得有些混乱什么事都干不了
-Icon/Buff/Icon_Common_Debuff_Fear
-混乱
-
-ID=1804
-混乱Lv4
-2秒内，变得有些混乱什么事都干不了
-Icon/Buff/Icon_Common_Debuff_Fear
-混乱
-
-ID=1805
-混乱Lv5
-2.5秒内，变得有些混乱什么事都干不了
-Icon/Buff/Icon_Common_Debuff_Fear
-混乱
-
-ID=1806
-混乱Lv6
-3秒内，变得有些混乱什么事都干不了
-Icon/Buff/Icon_Common_Debuff_Fear
-混乱
-
-ID=1807
-混乱Lv7
-3.5秒内，变得有些混乱什么事都干不了
-Icon/Buff/Icon_Common_Debuff_Fear
-混乱
-
-ID=1808
-混乱Lv8
-4秒内，变得有些混乱什么事都干不了
-Icon/Buff/Icon_Common_Debuff_Fear
-混乱
-
-ID=1809
-混乱Lv9
-4.5秒内，变得有些混乱什么事都干不了
-Icon/Buff/Icon_Common_Debuff_Fear
-混乱
-
-ID=1810
-混乱Lv10
-5秒内，变得有些混乱什么事都干不了
+混乱状態になり何もできなくなります。
 Icon/Buff/Icon_Common_Debuff_Fear
 混乱
 
 ID=1901
-沉默Lv1
-0.5秒内、获得沉默，不能使用技能
-Icon/Buff/Icon_Common_Debuff_Silence
 沉默
-
-ID=1902
-沉默Lv2
-1秒内、获得沉默，不能使用技能
-Icon/Buff/Icon_Common_Debuff_Silence
-沉默
-
-ID=1903
-沉默Lv3
-1.5秒内、获得沉默，不能使用技能
-Icon/Buff/Icon_Common_Debuff_Silence
-沉默
-
-ID=1904
-沉默Lv4
-2秒内、获得沉默，不能使用技能
-Icon/Buff/Icon_Common_Debuff_Silence
-沉默
-
-ID=1905
-沉默Lv5
-2.5秒内、获得沉默，不能使用技能
-Icon/Buff/Icon_Common_Debuff_Silence
-沉默
-
-ID=1906
-沉默Lv6
-3秒内、获得沉默，不能使用技能
-Icon/Buff/Icon_Common_Debuff_Silence
-沉默
-
-ID=1907
-沉默Lv7
-3.5秒内、获得沉默，不能使用技能
-Icon/Buff/Icon_Common_Debuff_Silence
-沉默
-
-ID=1908
-沉默Lv8
-4秒内、获得沉默，不能使用技能
-Icon/Buff/Icon_Common_Debuff_Silence
-沉默
-
-ID=1909
-沉默Lv9
-4.5秒内、获得沉默，不能使用技能
-Icon/Buff/Icon_Common_Debuff_Silence
-沉默
-
-ID=1910
-沉默Lv10
-5秒内、获得沉默，不能使用技能
+沈黙状態になりスキルが使用できなくなる。
 Icon/Buff/Icon_Common_Debuff_Silence
 沉默
 
@@ -810,31 +486,31 @@ Icon/Buff/Icon_Common_Debuff_MSR
 
 ID=5031
 戰爭劍陣Ⅰ
-攻撃力が7%上昇する。
+攻击力提升7%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=5032
 戰爭劍陣Ⅱ
-攻撃力が9%上昇する。
+攻击力提升9%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=5033
 戰爭劍陣Ⅲ
-攻撃力が12%上昇する。
+攻击力提升12%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=5034
 戰爭劍陣Ⅳ
-攻撃力が15%上昇する。
+攻击力提升15%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=5035
 戰爭劍陣Ⅴ
-攻撃力が20%上昇する。
+攻击力提升20%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
@@ -1260,19 +936,19 @@ Icon/Buff/Icon_Common_Buff_Penetration
 
 ID=6031
 鬼神亂舞特性BⅠ
-クリティカルダメージが100%上昇する。
+暴击伤害量提升100%。
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
 ID=6032
 鬼神亂舞特性BⅡ
-クリティカルダメージが150%上昇する。
+暴击伤害量提升150%。
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
 ID=6033
 鬼神亂舞特性BⅢ
-クリティカルダメージが200%上昇する。
+暴击伤害量提升200%。
 Icon/Buff/Icon_Common_Buff_CRI
 暴擊率增加
 
@@ -1362,7 +1038,7 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 
 ID=6070
 侵食
-クリティカル攻撃力が150%上昇する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+暴击攻击力提升150%。\n移动速度增加20%。\n霸体状态。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1716,7 +1392,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=7000
 觉醒
-攻撃力が100%上昇する。\n移動速度が20%増加する。\nSA状態になる。
+攻击力提升100%。\n移动速度增加20%。\n霸体状态。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1740,31 +1416,31 @@ Icon/Buff/Icon_Common_Debuff_Provoke
 
 ID=7026
 神经电流Ⅰ
-一定時間、防御度が25%上昇する。
+一定时间内防御度提升25%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=7027
 神经电流Ⅱ
-一定時間、防御度が30%上昇する。
+一定时间内防御度提升30%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=7028
 神经电流Ⅲ
-一定時間、防御度が40%上昇する。
+一定时间内防御度提升40%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=7029
 神经电流Ⅳ
-一定時間、防御度が50%上昇する。
+一定时间内防御度提升50%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=7030
 神经电流Ⅴ
-一定時間、防御度が70%上昇する。
+一定时间内防御度提升70%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -1816,36 +1492,6 @@ ID=7045
 Icon/Buff/Icon_Common_Buff_SArmor
 無敵
 
-ID=7046
-聚变装甲Ⅰ
-一定時間、防御度が10%上昇する。
-Icon/Buff/Icon_Common_Buff_Def
-防御度増加
-
-ID=7047
-聚变装甲Ⅱ
-一定時間、防御度が14%上昇する。
-Icon/Buff/Icon_Common_Buff_Def
-防御度増加
-
-ID=7048
-聚变装甲Ⅲ
-一定時間、防御度が16%上昇する。
-Icon/Buff/Icon_Common_Buff_Def
-防御度増加
-
-ID=7049
-聚变装甲Ⅳ
-一定時間、防御度が20%上昇する。
-Icon/Buff/Icon_Common_Buff_Def
-防御度増加
-
-ID=7050
-聚变装甲Ⅴ
-一定時間、防御度が30%上昇する。
-Icon/Buff/Icon_Common_Buff_Def
-防御度増加
-
 ID=7060
 重擊
 防御力20%降低
@@ -1896,7 +1542,7 @@ ID=7075
 
 ID=7080
 侵食
-攻撃力が50%上昇する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+攻击力提升50%。\n移动速度增加20%。\n霸体状态。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -2022,31 +1668,31 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=7531
 リミットブレイクI
-攻撃力が50％上昇します。
+攻击力提升50%。
 Icon/Buff/Icon_Common_Buff_ATK
 リミットブレイク
 
 ID=7532
 リミットブレイクII
-攻撃力が75％上昇します。
+攻击力提升75%。
 Icon/Buff/Icon_Common_Buff_ATK
 リミットブレイク
 
 ID=7533
 リミットブレイクIII
-攻撃力が100％上昇します。
+攻击力提升100%。
 Icon/Buff/Icon_Common_Buff_ATK
 リミットブレイク
 
 ID=7534
 リミットブレイクIV
-攻撃力が125％上昇します。
+攻击力提升125%。
 Icon/Buff/Icon_Common_Buff_ATK
 リミットブレイク
 
 ID=7535
 リミットブレイクV
-攻撃力が150％上昇します。
+攻击力提升150%。
 Icon/Buff/Icon_Common_Buff_ATK
 リミットブレイク
 
@@ -2346,49 +1992,49 @@ SG回復
 
 ID=21001
 怒涛
-5分間、攻撃力が5%上昇する。
+5分钟内攻击力提升5%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=21002
 怒涛
-5分間、攻撃力が7%上昇する。
+5分钟内攻击力提升7%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=21003
 怒涛
-5分間、攻撃力が10%上昇する。
+5分钟内攻击力提升10%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=21004
 怒涛
-3分間、攻撃力が5%上昇する。
+3分钟内攻击力提升5%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=21011
 強靭
-5分間、防御度が20%上昇する。
+5分钟内防御度提升20%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=21012
 強靭
-5分間、防御度が30%上昇する。
+5分钟内防御度提升30%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=21013
 強靭
-5分間、防御度が40%上昇する。
+5分钟内防御度提升40%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=21014
 強靭
-3分間、防御度が20%上昇する。
+3分钟内防御度提升20%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -2466,13 +2112,13 @@ Icon/Buff/Icon_Common_Buff_SArmor
 
 ID=22001
 怒涛
-5分間、攻撃力が12%上昇する。
+5分钟内攻击力提升12%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=22002
 強靭
-5分間、防御度が50%上昇する。
+5分钟内防御度提升50%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -2490,7 +2136,7 @@ Icon/Buff/Icon_Common_Buff_CRI
 
 ID=22005
 怒涛/強靭
-5分間、攻撃力が15%、防御度が100%上昇する。
+5分钟内攻击力提升15%、防御度提升100%。
 Icon/Buff/Icon_Common_Buff_Reg
 強化
 
@@ -2532,13 +2178,13 @@ HP、SG回復
 
 ID=22012
 HP増加
-5分間、HPが30%上昇する。
+5分钟内HP提升30%。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP増加
 
 ID=22013
 HP増加
-5分間、HPが50%上昇する。
+5分钟内HP提升50%。
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP増加
 
@@ -2556,13 +2202,13 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=25001
 怒涛
-1分間、攻撃力が5%上昇する。
+1分钟内攻击力提升5%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=25002
 強靭
-1分間、防御度が30%上昇する。
+1分钟内防御度提升30%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -2868,7 +2514,7 @@ Icon/Buff/Icon_Common_Debuff_MSR
 
 ID=30063
 怒涛/強靭
-攻撃力と防御度がそれぞれ10%上昇する。
+攻击力和防御度提升10%。
 Icon/Buff/Icon_Common_Buff_Reg
 強化
 
@@ -3090,7 +2736,7 @@ HP減少
 
 ID=30473
 攻撃力増加
-60秒間、攻撃力が10%上昇する。
+60秒内攻击力提升10%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
@@ -3144,19 +2790,19 @@ Icon/Buff/Icon_Common_Buff_Immun
 
 ID=35004
 靈魂能量增幅
-30秒間、プレイヤーの攻撃力2000%上昇
+30秒内攻击力提升2000%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻擊力大幅度增強
 
 ID=35005
 強化
-攻撃力/防御度20%上昇
+攻击力和防御度提高20%。
 Icon/Buff/Icon_Common_Buff_Reg
 強化
 
 ID=35006
 強化
-攻撃力/防御度1000%上昇
+攻击力和防御度提高1000%。
 Icon/Buff/Icon_Common_Buff_Reg
 強化
 
@@ -4374,37 +4020,37 @@ SG回復
 
 ID=53533
 生存のプロ
-装着時、最大HPが15%上昇する。
+装备时最大HP提升15%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53534
 生存のプロ
-装着時、最大HPが20%上昇する。
+装备时最大HP提升20%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53535
 生存のプロ
-装着時、最大HPが25%上昇する。
+装备时最大HP提升25%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53536
 生存のプロ
-装着時、最大HPが20%上昇する。
+装备时最大HP提升20%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53537
 生存のプロ
-装着時、最大HPが25%上昇する。
+装备时最大HP提升25%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53538
 生存のプロ
-装着時、最大HPが30%上昇する。
+装备时最大HP提升30%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
@@ -4554,37 +4200,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53563
 守备转换
-攻撃を受けた時、5%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
+受到攻击时、5%的概率5秒内防御度提升50%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53564
 守备转换
-攻撃を受けた時、10%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
+受到攻击时、10%的概率5秒内防御度提升50%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53565
 守备转换
-攻撃を受けた時、15%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
+受到攻击时、15%的概率5秒内防御度提升50%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53566
 守备转换
-攻撃を受けた時、10%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
+受到攻击时、10%的概率5秒内防御度提升50%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53567
 守备转换
-攻撃を受けた時、15%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
+受到攻击时、15%的概率5秒内防御度提升50%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53568
 守备转换
-攻撃を受けた時、20%の確率で5秒間、防御度が50%上昇する。(クールタイム10秒)
+受到攻击时、20%的概率5秒内防御度提升50%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
@@ -4626,37 +4272,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53575
 好战的证明
-攻撃を受けた時、5%の確率で2.5秒間、攻撃力が10%上昇する。(クールタイム10秒)
+受到攻击时、5%的概率2.5秒内攻击力提升10%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53576
 好战的证明
-攻撃を受けた時、10%の確率で3.5秒間、攻撃力が10%上昇する。(クールタイム10秒)
+受到攻击时、10%的概率3.5秒内攻击力提升10%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53577
 好战的证明
-攻撃を受けた時、15%の確率で4.5秒間、攻撃力が10%上昇する。(クールタイム10秒)
+受到攻击时、15%的概率4.5秒内攻击力提升10%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53578
 好战的证明
-攻撃を受けた時、10%の確率で2.5秒間、攻撃力が10%上昇する。(クールタイム10秒)
+受到攻击时、10%的概率2.5秒内攻击力提升10%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53579
 好战的证明
-攻撃を受けた時、15%の確率で3.5秒間、攻撃力が10%上昇する。(クールタイム10秒)
+受到攻击时、15%的概率3.5秒内攻击力提升10%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53580
 好战的证明
-攻撃を受けた時、20%の確率で4.5秒間、攻撃力が10%上昇する。(クールタイム10秒)
+受到攻击时、20%的概率4.5秒内攻击力提升10%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
@@ -5040,7 +4686,7 @@ ID=53643
 
 ID=53651
 加油
-装着時、最大HPが5%上昇する。
+装备时最大HP提升5%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
@@ -5262,73 +4908,73 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53688
 チャンバラ
-装着時、攻撃力が5%上昇する。
+装备时攻击力提升5%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53689
 チャンバラ
-装着時、攻撃力が7%上昇する。
+装备时攻击力提升7%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53690
 チャンバラ
-装着時、攻撃力が10%上昇する。
+装备时攻击力提升10%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53691
 チャンバラ
-装着時、攻撃力が6%上昇する。
+装备时攻击力提升6%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53692
 チャンバラ
-装着時、攻撃力が9%上昇する。
+装备时攻击力提升9%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53693
 チャンバラ
-装着時、攻撃力が13%上昇する。
+装备时攻击力提升13%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53694
 準備万全
-装着時、最大HPが8%上昇する。
+装备时最大HP提升8%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53695
 準備万全
-装着時、最大HPが13%上昇する。
+装备时最大HP提升13%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53696
 準備万全
-装着時、最大HPが18%上昇する。
+装备时最大HP提升18%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53697
 準備万全
-装着時、最大HPが12%上昇する。
+装备时最大HP提升12%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53698
 準備万全
-装着時、最大HPが17%上昇する。
+装备时最大HP提升17%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
 ID=53699
 準備万全
-装着時、最大HPが22%上昇する。
+装备时最大HP提升22%。
 Icon/Buff/Icon_Common_Buff_Akashic
 HP増加
 
@@ -5477,37 +5123,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 命中度増加
 
 ID=53724
-風の加護
+风之加护
 裝備時、減傷增加1%
 Icon/Buff/Icon_Common_Buff_Akashic
 減傷增加
 
 ID=53725
-風の加護
+风之加护
 裝備時、減傷增加4%
 Icon/Buff/Icon_Common_Buff_Akashic
 減傷增加
 
 ID=53726
-風の加護
+风之加护
 裝備時、減傷增加7%
 Icon/Buff/Icon_Common_Buff_Akashic
 減傷增加
 
 ID=53727
-風の加護
+风之加护
 裝備時、減傷增加3%
 Icon/Buff/Icon_Common_Buff_Akashic
 減傷增加
 
 ID=53728
-風の加護
+风之加护
 裝備時、減傷增加6%
 Icon/Buff/Icon_Common_Buff_Akashic
 減傷增加
 
 ID=53729
-風の加護
+风之加护
 裝備時、減傷增加9%
 Icon/Buff/Icon_Common_Buff_Akashic
 減傷增加
@@ -5700,25 +5346,25 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=55005
 蛇皮疙瘩
-30秒間、防御度が10%上昇する。
+30秒内防御度提升10%。
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=55006
 蛇皮疙瘩
-30秒間、防御度が30%上昇する。
+30秒内防御度提升30%。
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=55010
 力量的咆哮
-7秒間、攻撃力が10%上昇する。
+7秒内攻击力提升10%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=55011
 守护的咆哮
-7秒間、防御度が10%上昇する。
+7秒内防御度提升10%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -5766,7 +5412,7 @@ Icon/Buff/Icon_Common_Debuff_MSR
 
 ID=55101
 攻撃力増加
-7秒間、攻撃力が10%上昇する。
+7秒内攻击力提升10%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
@@ -5802,7 +5448,7 @@ HP減少
 
 ID=55107
 攻撃力増加
-5秒間、攻撃力が10%上昇する。
+5秒内攻击力提升10%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
@@ -5820,7 +5466,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=55110
 回轉
-5秒間、攻撃力が10%上昇する。
+5秒内攻击力提升10%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
@@ -5850,7 +5496,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=55115
 正派之风
-5秒間、防御度が10%上昇する。
+5秒内防御度提升10%。
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
@@ -5874,13 +5520,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=55119
 攻撃力増加
-20秒間、攻撃力が10%上昇する。
+20秒内攻击力提升10%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=55120
 攻撃力増加
-10秒間、攻撃力が10%上昇する。
+10秒内攻击力提升10%
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
@@ -6162,13 +5808,13 @@ HP減少
 
 ID=63036
 攻撃增強
-5分間、攻撃力30%上昇する。
+5分钟内攻击力提升30%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=63037
 防御増加
-5分間、防御度が30%上昇する。
+5分钟内防御度提升30%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -6732,7 +6378,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=21015
 意志
-8分間、防御度が30%上昇する。
+8分钟内防御度提升30%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -6762,25 +6408,25 @@ Icon/Buff/Icon_Common_Buff_Immun
 
 ID=7100
 解放的身体I
-攻撃力が75%、SA破壊量が15%増加しますが、ダメージ減少が15％低下します。
+与えるダメージが[3%]上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 解放的身体
 
 ID=7101
 解放的身体II
-攻撃力が100%、SA破壊量が20%増加しますが、ダメージ減少が20％低下します。
+与えるダメージが[5%]上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 解放的身体
 
 ID=7102
-解放的身体II
-攻撃力が150%、SA破壊量が30%増加しますが、ダメージ減少が25％低下します。
+解放された身体III
+与えるダメージが[8%]上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 解放的身体
 
 ID=7121
 精神攻击
-防御度が5%ほど減少します。
+防御度减少5%。
 Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
@@ -6792,7 +6438,7 @@ Icon/Buff/Icon_Common_Debuff_Def
 
 ID=7123
 精神攻击
-防御度が15%ほど減少します。
+防御度が20%減少します。
 Icon/Buff/Icon_Common_Debuff_Def
 防御度減少
 
@@ -6918,7 +6564,7 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 
 ID=30158
 超猛毒
-攻撃力が100%上昇する。
+攻击力提升100%。
 Icon/Buff/Icon_Common_Buff_ATK
 超猛毒
 
@@ -7355,50 +7001,50 @@ Icon/Buff/Icon_Common_Buff_Akashic
 暴击伤害增加
 
 ID=60111
-裁き
+制裁
 装备时攻击力增加500、附加王/精英伤害增加7%。
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=60112
-裁き
+制裁
 装备时攻击力增加600、附加王/精英伤害增加8%。
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=60113
-裁き
+制裁
 装备时攻击力增加700、附加王/精英伤害增加9%。
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=60121
-裁き
+制裁
 装备时攻击力增加650、附加王/精英伤害增加9%。
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=60122
-裁き
+制裁
 装备时攻击力增加800、附加王/精英伤害增加10%。
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=60123
-裁き
+制裁
 装备时攻击力增加1000、附加王/精英伤害增加11%。
 Icon/Buff/Icon_Common_Buff_Akashic
 傷害量增加
 
 ID=25006
 怒涛
-1分間、攻撃力が50%上昇する。
+1分钟内攻击力提升50%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=25007
 強靭
-1分間、防御度が50%上昇する。
+1分钟内防御度提升50%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -7662,37 +7308,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=60169
 老练
-装着時、戦闘獲得経験値が3%上昇する。
+装备时经验获得提升3%。
 Icon/Buff/Icon_Common_Buff_Akashic
 增加经验值获得量
 
 ID=60170
 老练
-装着時、戦闘獲得経験値が6%上昇する。
+装备时经验获得提升6%。
 Icon/Buff/Icon_Common_Buff_Akashic
 增加经验值获得量
 
 ID=60171
 老练
-装着時、戦闘獲得経験値が9%上昇する。
+装备时经验获得提升9%。
 Icon/Buff/Icon_Common_Buff_Akashic
 增加经验值获得量
 
 ID=60172
 老练
-装着時、戦闘獲得経験値が4%上昇する。
+装备时经验获得提升4%。
 Icon/Buff/Icon_Common_Buff_Akashic
 增加经验值获得量
 
 ID=60173
 老练
-装着時、戦闘獲得経験値が8%上昇する。
+装备时经验获得提升8%。
 Icon/Buff/Icon_Common_Buff_Akashic
 增加经验值获得量
 
 ID=60174
 老练
-装着時、戦闘獲得経験値が12%上昇する。
+装备时经验获得提升12%。
 Icon/Buff/Icon_Common_Buff_Akashic
 增加经验值获得量
 
@@ -7842,19 +7488,19 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=6570
 弹珠Ⅰ
-攻撃力が50%増加する。\nクリティカル確率が5%増加する。
+攻击力增加50%。\n暴击率增加5%。
 Icon/Buff/Icon_Common_Buff_ATK
 暴击概率增加
 
 ID=6571
 弹珠Ⅱ
-攻撃力が70%増加する。\nクリティカル確率が8%増加する。
+攻击力增加70%。\n暴击率增加8%。
 Icon/Buff/Icon_Common_Buff_ATK
 暴击概率增加
 
 ID=6572
 弹珠Ⅲ
-攻撃力が100%増加する。\nクリティカル確率が15%増加する。
+攻击力增加100%。\n暴击率增加15%。
 Icon/Buff/Icon_Common_Buff_ATK
 暴击概率增加
 
@@ -8160,25 +7806,25 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=8581
 降速
-攻撃速度と移動速度が15％減少する。
+攻击速度和移动速度减少15%。
 Icon/Buff/Icon_Common_Debuff_MSR
-攻撃速度、移動速度減少
+减少攻击速度、移动速度
 
 ID=8591
 出血
-HPが2％ごと低下する。
+HP降低2%。
 Icon/Buff/Icon_Common_Debuff_Bleed
 出血
 
 ID=8592
 出血
-HPが3％ごと低下する。
+HP降低3%。
 Icon/Buff/Icon_Common_Debuff_Bleed
 出血
 
 ID=8593
 出血
-HPが4％ごと低下する。
+HP降低4%。
 Icon/Buff/Icon_Common_Debuff_Bleed
 出血
 
@@ -8190,69 +7836,69 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 
 ID=22016
 怒涛
-30分間、攻撃力が12％上昇します。
+30分钟内攻击力提升12%。
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃力上昇
+攻击力提升
 
 ID=22017
 強靭
-30分間、防御力が50％上昇します。
+30分钟内防御力提升50%。
 Icon/Buff/Icon_Common_Buff_Def
-防御力上昇
+防御力提升
 
 ID=22018
 疾風
-30分間、攻撃速度が10％増加します。
+30分钟内攻击速度增加10%。
 Icon/Buff/Icon_Common_Buff_ASR
 攻撃速度増加
 
 ID=22019
 狂氣
-30分間、クリティカルが10％増加します。
+30分钟内暴击率增加10%。
 Icon/Buff/Icon_Common_Buff_CRI
-クリティカル増加
+增加暴击率
 
 ID=30701
 制圧
-身体を動かす事ができない。
+身体无法活动。
 Icon/Buff/Icon_Common_Debuff_Paralysis
 制圧
 
 ID=60217
 悟り
-装着時、10秒毎にSVを6獲得、SGを6%回復する。
+装备时、每10秒获得6SV、恢复6%SG。
 Icon/Buff/Icon_Common_Buff_Akashic
-SV回復、SG回復
+恢复SV、恢复SG
 
 ID=60218
 悟り
-装着時、10秒毎にSVを8獲得、SGを8%回復する。
+装备时、每10秒获得8SV、恢复8%SG。
 Icon/Buff/Icon_Common_Buff_Akashic
-SV回復、SG回復
+恢复SV、恢复SG
 
 ID=60219
 悟り
-装着時、10秒毎にSVを9獲得、SGを10%回復する。
+装备时、每10秒获得9SV、恢复10%SG。
 Icon/Buff/Icon_Common_Buff_Akashic
-SV回復、SG回復
+恢复SV、恢复SG
 
 ID=60220
 悟り
-装着時、10秒毎にSVを7獲得、SGを11%回復する。
+装备时、每10秒获得7SV、恢复11%SG。
 Icon/Buff/Icon_Common_Buff_Akashic
-SV回復、SG回復
+恢复SV、恢复SG
 
 ID=60221
 悟り
-装着時、10秒毎にSVを9獲得、SGを13%回復する。
+装备时、每10秒获得9SV、恢复13%SG。
 Icon/Buff/Icon_Common_Buff_Akashic
-SV回復、SG回復
+恢复SV、恢复SG
 
 ID=60222
 悟り
-装着時、10秒毎にSVを11獲得、SGを16%回復する。
+装备时、每10秒获得11SV、恢复16%SG。
 Icon/Buff/Icon_Common_Buff_Akashic
-SV回復、SG回復
+恢复SV、恢复SG
 
 ID=63200
 鈍化
@@ -8262,78 +7908,102 @@ Icon/Buff/Icon_Common_Debuff_MSR
 
 ID=63201
 アキュラス強化
-与えるダメージ50％増加、受けるダメージ50％減少
+增加伤害50%、受到伤害减少50%
 Icon/Buff/Icon_Common_Buff_ATK
 強化
 
 ID=63202
 アキュラス回復
-5秒ごとHP3％回復
+每5秒恢复3%HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 回復
 
 ID=63205
 堕落
-60秒の間5秒毎1000のダメージを受け、クリティカルダメージが3000増加します。
+60秒内每5秒受到1000伤害、暴击伤害增加3000。
 Icon/Buff/Icon_Common_Debuff_Arculus02
 堕落
 
 ID=63203
-SG減少
-SG100％減少
+减少SG
+减少100%SG
 Icon/Buff/Icon_Common_Buff_SG_decrease
-SG減少
+减少SG
 
 ID=63206
 堕落
-60秒の間5秒毎1000のダメージを受け、クリティカルダメージが3000増加します。
+60秒内每5秒受到1000伤害、暴击伤害增加3000。
 Icon/Buff/Icon_Common_Debuff_Arculus02
 堕落
 
 ID=63207
-崩壊
-1秒毎20000のダメージ
+崩坏
+每1秒20000伤害
 Icon/Buff/Icon_Common_Debuff_Hell_fier
-崩壊
+崩坏
 
 ID=63208
-スタミナ減少
-スタミナ100％減少
+减少耐力
+减少100%耐力
 Icon/Buff/Icon_Common_Buff_ST_decrease
-スタミナ減少
+减少耐力
 
 ID=63209
-エドガーの誘惑
-エドガーのサプライズ！3秒間スキルクールタイム100％減少
+埃德加的诱惑
+埃德加的惊喜！3秒内技能冷却时间100%减少
 Icon/Buff/Icon_Common_Debuff_Edgar02
-クールタイム除去
+技能冷却时间减少
 
 ID=63215
-氷牢
-そのまま死を待ちなさい。
+冰牢
+就那样等死吧。
 Icon/Buff/Icon_Common_Debuff_Freezing
-氷牢
+冰牢
 
 ID=63218
-眩暈
-ジャンククイーンの協力な力で正気になれません。
+眩晕
+女王陛下的力量让我无法清醒过来。
 Icon/Buff/Icon_Common_Debuff_dizziness
-眩暈
+眩晕
 
 ID=63219
-氷牢
-そのまま死を待ちなさい。
+冰牢
+就那样等死吧。
 Icon/Buff/Icon_Common_Debuff_Freezing
-氷牢
+冰牢
 
 ID=601
-テスト攻撃バフ
-30分間攻撃力が１増加します。（最大10重畳、テスト用）
+测试攻击Buff
+30分钟内攻击力增加1。（最大10层、测试用）
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=602
-テスト防御バフ
-30分間防御力が１増加します。（最大10重畳、テスト用）
+测试防御Buff
+30分钟内防御力增加1。（最大10层、测试用）
 Icon/Buff/Icon_Common_Buff_Def
-防御力増加
+增加防御力
+
+ID=30917
+减少耐力
+0
+0
+减少耐力
+
+ID=411
+デザイア覚醒
+60秒間、デザイアエナジーを纏い攻撃性能を大幅に上昇させます。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=412
+デザイア覚醒無敵
+无敌化
+Icon/Buff/Icon_Common_Buff_Immun
+無敵
+
+ID=701
+クールタイム初期化
+スキルを自由に使用できる。
+Icon/Buff/Icon_Common_Buff_Reg
+技能解放

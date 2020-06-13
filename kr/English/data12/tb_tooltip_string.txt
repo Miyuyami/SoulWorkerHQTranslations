@@ -12,7 +12,7 @@ Increases the player's attack speed by a certain factor.
 
 ID=21
 Attack
-敵に与える最小ダメージ量と最大ダメージ量です。
+The min. and max. damage you can deal to the enemy.
 
 ID=24
 Defense
@@ -28,7 +28,7 @@ The damage applied to an evaded attack.
 
 ID=29
 Critical
-クリティカル攻撃時、クリティカル発生確率とクリティカル発生時に追加されるダメージの数値です。(最大ダメージ基準)
+The chance and damage added when a critical attack occurs. (Based on max. damage)
 
 ID=31
 Critical Resistance
@@ -176,7 +176,7 @@ Shows the Equipment window with the associated changeable equips.
 
 ID=20003
 Skill
-スキルウィンドウを表示します。\nクイックスロットにスキルや、\nジェスチャーなどを登録できます。
+Displays the Skill Window.\nYou can register Skills and Gestures\nin the Quick Slots.
 
 ID=20008
 Quest
@@ -184,7 +184,7 @@ Shows the Quest window; quests in progress and their associated background dialo
 
 ID=20016
 Status
-ステータスウィンドウを表示します。\nキャラクターの能力値を確認して、\n称号やプロフィールを設定できます。
+Displays the Status Window.\nYou can check your Character's Stats\nand set titles and profiles.
 
 ID=20023
 Community
@@ -204,7 +204,7 @@ Opens the Progress Information window.\nHere you can view your Achievements and 
 
 ID=20045
 Find Party
-パーティー/フォース検索ウィンドウを表示します。\nパーティーやフォースのメンバーを検索できます。
+Displays the Party/Force Search Window.\nYou can search Party and Force members.
 
 ID=20053
 Supporter
@@ -384,15 +384,15 @@ An item that is especially rate that can be socked into Soul Weapons to increase
 
 ID=30033
 Craft Akashic Item
-A.RカードとA.Rカードを組み合わせ、\n次の等級のA.Rカードを製作する事ができます。
+You can craft higher grade A.R Cards\nby combining A.R Cards.
 
 ID=30034
-Obtaining A.R Cards
-A.Rカードを使用して獲得すると、登録されます。
+Obtain Akashic
+Register the A.R Card by using it.
 
 ID=30035
 A.R Registration and Usage
-登録されたA.Rカードはクイックスロットに\n配置でき、戦闘時に使用したり\n有益な効果を受ける事ができます。
+Registered A.R Cards can be set to your Quick Slots\nwhere you can either use it in combat or\nreceive useful effects.
 
 ID=30036
 End Content
@@ -520,19 +520,19 @@ Rank
 
 ID=10
 HP
-キャラクターの体力です。HPが0になると倒れます。
+Your Character's Health. You will be incapacitated if HP reaches 0.
 
 ID=14
 Stamina
-回避やスキルなどを使用するたびに消費される数値です。
+The stat you consume whenever you dodge.
 
 ID=103
 Add'l. Dmg: General Mobs
-一般タイプの敵に与える追加ダメージの割合です。
+The additional damage (%) you deal against common enemies.
 
 ID=104
 Add'l. Dmg: Boss/Named Mobs
-Percentage of add'l. Dmg: Boss/Named Mobs
+The additional damage (%) you deal against boss or named enemies.
 
 ID=100
 Cooldown Reduction
@@ -563,5 +563,13 @@ Nightmare
 Takes a Nightmare gesture.
 
 ID=21023
-マイレージポイント
-一部アイテムを購入時に、提供されるマイレージでアイテムを獲得できます。\n獲得したマイレージは毎月1日00:00に初期化され、毎月末日23時59分まで使用可能です。
+Mileage Point
+You can purchase some items with its corresponding Mileage.\nIt resets at 00:00 JST every first day of the month and can be used until 23:59 JST every last day of the month.
+
+ID=11042
+Desireworker
+Takes a Desireworker pose.
+
+ID=11043
+Desire Awakening
+Takes a Desire Awakening pose.
