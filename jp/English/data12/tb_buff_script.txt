@@ -78,7 +78,7 @@ Icon/Buff/Icon_Common_Buff_CRI
 
 ID=108
 Super Armor
-Gain super armor for 5 seconds.
+Gain Super Armor for 5 seconds.
 Icon/Buff/Icon_Common_Buff_SArmor
 0
 
@@ -576,7 +576,7 @@ Stamina Cost ↓
 
 ID=5060
 Erosion
-Damage Reduction increased by 25%.\nMovement Speed increased by 20%.\nGain Super Armor.
++25% Damage Reduction.\n+20% Movement Speed.\nGain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -828,37 +828,37 @@ Invincible
 
 ID=5576
 Hide and Seek Ⅰ
-Gain Super Armor, then getting Evasions
+Gain Super Armor, and all attacks received register as evaded.
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5577
 Hide and Seek Ⅱ
-Gain Super Armor, then getting Evasions
+Gain Super Armor, and all attacks received register as evaded.
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5578
 Hide and Seek Ⅲ
-Gain Super Armor, then getting Evasions
+Gain Super Armor, and all attacks received register as evaded.
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5579
 Hide and Seek ⅠV
-Gain Super Armor, then getting Evasions
+Gain Super Armor, and all attacks received register as evaded.
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5580
 Hide and Seek Ⅴ
-Gain Super Armor, then getting Evasions
+Gain Super Armor, and all attacks received register as evaded.
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5590
 Erosion
-Attack Speed increased by 15%.\nMovement Speed increased by 20%.\nGain Super Armor.
++15% Attack Speed.\n+20% Movement Speed.\nGain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -870,7 +870,7 @@ Icon/Buff/Icon_Common_Buff_ASR
 
 ID=6000
 Awakening
-Critical Damage +300%.\nMovement Speed +20%.\nGain Super Armor State
++300% Critical Damage.\n+20% Movement Speed.\nGain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1662,7 +1662,7 @@ Defense↓
 
 ID=7530
 Erosion
-Increase SA Break by 15%.\n Increase movement speed by 20%.\n Gain Super Armor.
++15% SA Break.\n+20% Movement Speed.\nGain Super Armor.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -2094,7 +2094,7 @@ Critical ↑
 
 ID=21251
 Persevere
-Gain super armor for 15 seconds.
+Gain Super Armor for 15 seconds.
 Icon/Buff/Icon_Common_Buff_SArmor
 Super Armor
 
@@ -8007,3 +8007,39 @@ ID=701
 スキルを自由に使用できる。
 Icon/Buff/Icon_Common_Buff_Reg
 Skill Release
+
+ID=60223
+真の軍事力
+攻撃命中時、15％の確率で2.5秒間、クリティカルダメージ600、ボス/ネームドモンスターへのダメージが3％増加します。(最大3重複[効果ならびに効果時間の一部])
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加、ボス/ネームドモンスターダメージ増加
+
+ID=60224
+真の軍事力
+攻撃命中時、15％の確率で3秒間、クリティカルダメージ650、ボス/ネームドモンスターへのダメージが4％増加します。(最大3重複[効果ならびに効果時間の一部])
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加、ボス/ネームドモンスターダメージ増加
+
+ID=60225
+真の軍事力
+攻撃命中時、15％の確率で3.5秒間、クリティカルダメージ700、ボス/ネームドモンスターへのダメージが5％増加します。(最大3重複[効果ならびに効果時間の一部])
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加、ボス/ネームドモンスターダメージ増加
+
+ID=60226
+真の軍事力
+攻撃命中時、15％の確率で2.5秒間、クリティカルダメージ600、ボス/ネームドモンスターへのダメージが3％増加します。(最大4重複[効果ならびに効果時間の一部])
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加、ボス/ネームドモンスターダメージ増加
+
+ID=60227
+真の軍事力
+攻撃命中時、15％の確率で3.5秒間、クリティカルダメージ650、ボス/ネームドモンスターへのダメージが4％増加します。(最大4重複[効果ならびに効果時間の一部])
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加、ボス/ネームドモンスターダメージ増加
+
+ID=60228
+真の軍事力
+攻撃命中時、15％の確率で4.5秒間、クリティカルダメージ700、ボス/ネームドモンスターへのダメージが5％増加します。(最大4重複[効果ならびに効果時間の一部])
+Icon/Buff/Icon_Common_Buff_Akashic
+クリティカルダメージ量増加、ボス/ネームドモンスターダメージ増加

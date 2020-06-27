@@ -2066,10 +2066,10 @@ ID=1005
 Hair 5
 
 ID=1011
-Shaggy with Tail
+Tailed Shaggy
 
 ID=1012
-Preppy
+Smart Hair
 
 ID=1013
 Wild Shaggy
@@ -2081,13 +2081,13 @@ ID=1015
 Hair 5
 
 ID=1021
-Twisted Twin Tails
+Twisted Twintails
 
 ID=1022
-Princess Twin Tails
+Princess Twintails
 
 ID=1023
-Natural Twin Tails
+Natural Twintails
 
 ID=1024
 Hair 4
@@ -4832,7 +4832,7 @@ ID=10331
 Silent Killing Intent
 
 ID=10332
-Badge of Grief
+Badge of Sorrow
 
 ID=10333
 Clever Trap
@@ -4961,7 +4961,7 @@ ID=10432
 Dark City
 
 ID=10433
-Immorality Traces
+Traces of Corruption
 
 ID=10434
 A New Leap
@@ -5750,7 +5750,7 @@ ID=18018
 You cannot register anymore items.
 
 ID=18019
-一度に20個まで分解できます。
+You can't dismantle more than 20 items in the same time.
 
 ID=18020
 Displays the last 10 sold items.
@@ -5849,7 +5849,7 @@ ID=18053
 ({0}day)
 
 ID=18054
-Expiry Date:
+Temporary Item
 
 ID=18055
 Set duration
@@ -6413,7 +6413,7 @@ ID=18757
 サーバー許容人数超過
 
 ID=18758
-<font color='#FFC000'>[{0}]サーバーは混雑状態です。</font> \n<font color='#00B0F0'>接続待機順序：{1}</font> \n\n自動接続待機中
+<font color='#FFC000'>[{0}]Server is full. </font>\n<font color='#00B0F0'>Connection queue: {1}</font> \n\nWaiting to reconnect
 
 ID=18759
 キャラクター購入限度を超過しました。
@@ -10142,7 +10142,7 @@ ID=27802
 When hit mid-air, +{0}% Defense for 2s
 
 ID=27803
-When hit with 50% HP or more, +{0}% Defense ce 2s
+When hit with at least 50% HP, +{0}% Defense for 2s
 
 ID=27804
 On hitting general monsters, 10% chance of +{0}% Attack for 2s
@@ -10157,7 +10157,7 @@ ID=27807
 When hit by boss monsters, +{0}% Defense for 4s
 
 ID=27808
-On hitting target with 50% HP or more, +{0}% Attack (cancelled on hit)
+On hit with at least 50% HP, +{0}% Attack (cancelled on hit)
 
 ID=27809
 On hitting target with 20% HP or less, +{0}% Attack (cancelled on hit)
@@ -10274,7 +10274,7 @@ ID=27846
 In District 6, +{0} Critical Damage
 
 ID=27847
-+{0} Critical Damage to enemies with HP ≥ 70% (cancelled on critical hit)
++{0} Critical Damage to enemies with at least 70% HP (cancelled on critical hit)
 
 ID=27848
 When hit with 20% HP or less, 20% chance of +{0} HP
@@ -10289,7 +10289,7 @@ ID=27851
 命中時、対象のHPが50%以上の時、クリティカル{0}%増加(命中時解除)
 
 ID=27852
-On hit, +{0} Critical Damage to enemies with HP < 50% (cancelled on critical hit)
+On hit, +{0} Critical Damage to enemies with less than 50% HP (cancelled on critical hit)
 
 ID=27853
 On kill, 5% chance of +{0} SV
@@ -10313,7 +10313,7 @@ ID=27859
 On SA Break, 50% chance of +{0}% Penetration for 5s
 
 ID=27860
-On hitting target with 50% SA Gauge or more, +{0}% SA Break
+On hit with at least 50% SA Gauge, +{0}% SA Break
 
 ID=27861
 In town, +{0}% Movement Speed
@@ -11426,7 +11426,7 @@ ID=29087
 Claim
 
 ID=29088
-Ranking and praise resets at 09:00 JST/00:00 UTC in the 1st day of every month. (Info is updated every day)
+Ranking and Recommended Info reset at 09:00 JST/00:00 UTC every 1st day of the month. (Ranking Info is updated every day at 09:00 JST)
 
 ID=29089
 Information is updated every day at 09:00 JST/00:00 UTC.
@@ -11486,7 +11486,7 @@ ID=30102
 Find Friends
 
 ID=30103
-Solo Play[Don't Disturb]
+Solo Play [Do Not Disturb]
 
 ID=30104
 Newbie
@@ -16979,7 +16979,7 @@ ID=45207
 Change Guild Name
 
 ID=45208
-Multi-Dimensional Radio
+Super-Dimensional Radio
 
 ID=45209
 Transmit
@@ -20174,7 +20174,7 @@ ID=60103
 Weekly Rankings are reset every week.
 
 ID=60104
-ランキング情報
+Ranking Reward
 
 ID=60105
 Raid
@@ -20822,7 +20822,7 @@ ID=10532
 Road to Ruin
 
 ID=58248
-ランキング報酬の対象者ではありません。
+You are ineligible for Ranking Rewards.
 
 ID=33562
 欲望の支配者
@@ -20882,10 +20882,10 @@ ID=27909
 On skill use, 10% chance of +{0} Critical Damage
 
 ID=27910
-When HP ≥ 70%, on successful attack, +{0} Critical Damage for 3s
+When HP is at least 70%, on successful attack, +{0} Critical Damage for 3s
 
 ID=27911
-When HP < 30%, on successful attack, +{0} Critical Damage for 3s
+When HP is 30% or less, on successful attack, +{0} Critical Damage for 3s
 
 ID=27912
 命中時、15%の確率でHP{0}回復
@@ -22310,7 +22310,7 @@ ID=60547
 Operation
 
 ID=60548
-ランキング情報
+Ranking Reward
 
 ID=60549
 参加回数
@@ -22319,13 +22319,13 @@ ID=60550
 ※ 更新 ： 毎時間定刻\n※ 初期化 ： 毎月1日の午前9時
 
 ID=60551
-前回のランキング
+Previous Rankings
 
 ID=60552
-現在のランキング
+Current Rankings
 
 ID=60553
-Operation Ranking
+Operation Rankings
 
 ID=60554
 Reward
@@ -22334,13 +22334,13 @@ ID=60555
 毎月1日の午前9時にリセットされます。
 
 ID=60556
-ランキング報酬を獲得できます。
+You can receive Ranking Rewards.
 
 ID=60557
 報酬獲得
 
 ID=60558
-ランキング報酬を獲得しました。\n \n ランキング報酬はメールで支給されます。\n メールを確認してください。
+Received Ranking Rewards.\n\nRanking Rewards will be distributed to through mail.\nPlease check your mail.
 
 ID=60559
 既に報酬を獲得しました。
@@ -22358,13 +22358,13 @@ ID=60563
 3rd
 
 ID=60564
-4～10th
+4th ~ 10th
 
 ID=60565
-11～30th
+11th ~ 30th
 
 ID=60566
-31～50th
+31st ~ 50th
 
 ID=60567
 51st and above
@@ -22847,7 +22847,7 @@ ID=20186
 {0}が夏のテンションで楽しく踊ってます。
 
 ID=19523
-童心の園児服
+Childlike Kindergarten Clothes
 
 ID=20187
 童心に返る
@@ -23081,7 +23081,7 @@ ID=110003
 カウントボックスアイテムを使用しますか？\n以下のアイテムが獲得できます。
 
 ID=110004
-期間制限なし
+Permanent
 
 ID=63000
 この機能は戦闘地域内では使用できません。
@@ -23228,13 +23228,13 @@ ID=10541
 穢された覚悟の記録
 
 ID=10542
-穢された狂気の記録
+Record of Corrupted Madness
 
 ID=10543
 穢された希望の記録
 
 ID=10544
-穢された悲しみの記録
+Record of Corrupted Sorrow
 
 ID=10545
 穢された者たちの記録
@@ -23714,7 +23714,7 @@ ID=11317
 本能の
 
 ID=11318
-不屈の
+Tenacious
 
 ID=11319
 守護の
@@ -23894,7 +23894,7 @@ ID=11411
 本能の
 
 ID=11412
-不屈の
+Tenacious
 
 ID=11413
 守護の
@@ -24074,7 +24074,7 @@ ID=11505
 本能の
 
 ID=11506
-不屈の
+Tenacious
 
 ID=11507
 守護の
@@ -24254,7 +24254,7 @@ ID=11565
 本能の
 
 ID=11566
-不屈の
+Tenacious
 
 ID=11601
 守護の
@@ -25499,7 +25499,7 @@ ID=24336
 Portrait Item
 
 ID=24337
-期間制ポートレートアイテム
+Temporary Portrait Item
 
 ID=65044
 {0}s
@@ -25637,7 +25637,7 @@ ID=24906
 スポイト
 
 ID=18765
-使用回数
+確率確認
 
 ID=9894
 Dipluce Horizon
@@ -26660,13 +26660,13 @@ ID=24907
 Chii
 
 ID=1061
-ツーポイントバインドヘアー
+Two-point Bound Hair
 
 ID=1064
-スイートブレードブレンドヘア
+Sweet Braided Blended Hair
 
 ID=1065
-ロングストレートブレンドポニーテール
+Long Straight Blended Ponytail
 
 ID=18584
 爪痕
@@ -26711,7 +26711,7 @@ ID=18597
 Break Erosion
 
 ID=771001
-熱望のディスペーロア
+Despair Roar of Desire
 
 ID=20226
 エネミーコスチューム
@@ -27149,10 +27149,10 @@ ID=18315
 {0}に移動しますか？
 
 ID=67001
-総合ランキング
+Overall Rankings
 
 ID=67002
- - 毎週月曜日00:00集計が行われ、2時間後に次のシーズンが開始されます。\n - ランキング集計中の2時間は、記録が集計されません。\n - ランキングは30分毎に更新されます。
+  - Rankings are tallied every Monday at 00:00 JST, and the next season will start 2 hours after.\n - During those 2 hours, any records will not be tallied.\n - Rankings are updated every 30 minutes.
 
 ID=67003
 報酬を見る
@@ -27170,7 +27170,7 @@ ID=67008
 次のシーズンの準備中です。現在のプレイ記録は集計されません。
 
 ID=67009
-ランキング進行中
+Rankings in Progress
 
 ID=67010
 シーズン待機中
@@ -27182,10 +27182,10 @@ ID=67012
 最高記録
 
 ID=67013
-前回のランキングを見る
+View Previous Rankings
 
 ID=67014
-現在ランキング表示
+View Current Rankings
 
 ID=67015
 Preview
@@ -27194,7 +27194,7 @@ ID=67016
 Confirm
 
 ID=67101
-ポイント合計ランキング
+Total Ranking Points
 
 ID=67108
 残り{0}日と{1}：{2}\n
@@ -27266,22 +27266,22 @@ ID=65419
 Top 91% ~ 100% Rewards
 
 ID=58500
-ランキングリストを確認する事ができません。
+You can't confirm the Ranking List.
 
 ID=58501
-現在、ランキングの確認は行えません。
+You can't currently confirm the Ranking List.
 
 ID=58502
-ランキング報酬を受ける事ができません。
+You can't receive the Ranking Rewards.
 
 ID=58503
-受け取る事のできるランキング報酬がありません。
+There are no Ranking Rewards for you to receive.
 
 ID=58504
 報酬を既に受け取っています。
 
 ID=58505
-ランキングリストを読み込んでいます。\n項目、内容が多い場合、処理に時間がかかる場合がございます。
+Loading the Ranking List.\nIt may take time to process if there are vast entries and contents.
 
 ID=67111
 Second Daydream [H/T]
@@ -27410,7 +27410,7 @@ ID=58507
 次のシーズンが始まりました。
 
 ID=22578
-ランキング開く/閉じる
+Open/Close Ranking
 
 ID=80100
 キャラクター設定
@@ -27437,22 +27437,22 @@ ID=80107
 スロットを入れ替えたいキャラクターを選択してください。
 
 ID=80108
-キャラクターが設定されていない為、ランキングの確認が行えません。
+You can't confirm your Ranking since your character is not set.
 
 ID=59630
-ランキングにキャラクターが登録されておりません。キャラクター選択画面から、キャラクター設定より代表キャラクターを設定し、登録行なってください。登録していない場合、報酬を受け取る事ができません。
+There is no character registered for Ranking. Please select and register your representative from the Character Selection Screen. You will not receive any rewards if you do not register.
 
 ID=59631
-選択されたキャラクターを代表キャラクターに設定します。\n設定されたキャラクターはランキングに参加が可能となり、\nアカウントの代表的なキャラクターとなります。\n\n<font color='#FF0000'>キャラクターは登録後、\n24時間は他キャラクターの登録ができません。</font>
+Register the selected character as your representative.\nThe selected character may participate in Rankings,\nand will be the representative of your account.\n\n<font color='#FF0000'>After registering the character,\nyou can't register other characters for 24 hours.</font>
 
 ID=59632
 代表キャラクターが変更された場合、\n 現在の代表キャラクターで集計していた記録がすべて削除され、\n\n24時間の間、代表キャラクターの交換ができません。\n\n続行しますか？
 
 ID=59633
-現在のキャラクターで受け取っていないランキング報酬が残っています。\n\n報酬の受け取りが終了していない場合キャラクター変更は行えません。
+The Ranking Rewards have yet to be received by the current representative.\n\nYou cannot change representative if the rewards are yet to be received.
 
 ID=59634
-現在ランキングの集計中です。\n現在は変更ができませんので、集計終了後に変更お願いします。
+Currently tallying Rankings.\nYou may change it once the tally ends.
 
 ID=59635
 代表キャラクターに設定されたキャラクターは削除できません。
@@ -27578,7 +27578,7 @@ ID=66118
 Top 71% ~ 100% Rewards
 
 ID=67113
-ポイント合計ランキング
+Total Ranking Points
 
 ID=66201
 1st ~ 3rd Rewards
@@ -27839,19 +27839,19 @@ ID=61112
 <img src='img://LocalizeImage\General\icon_Money_Mileage01.png' width='20' height='20' vspace='-7'> {0} Tag Mileage Earned
 
 ID=20501
-When attacked while Stamina ≤ 70%, 10% chance to recover {0} Stamina.
+When attacked while Stamina is 70% or less, 10% chance to recover {0} Stamina.
 
 ID=20502
-When attacked while Stamina ≤ 30%, 10% chance to recover {0} HP.
+When attacked while Stamina is 30% or less, 10% chance to recover {0} HP.
 
 ID=20503
-When attacking while Stamina ≤ 70%, + {0} Attack for 1 second.
+When attacking while Stamina is 70% or less, + {0} Attack for 1 second.
 
 ID=20504
-When attacking while Stamina ≤ 40%, + {0} Attack for 1 second.
+When attacking while Stamina is 40% or less, + {0} Attack for 1 second.
 
 ID=20505
-When attacking while Stamina ≤ 10%, + {0} Attack for 1 second.
+When attacking while Stamina is 10% or less, + {0} Attack for 1 second.
 
 ID=33580
 Twilight St Set
@@ -28106,13 +28106,13 @@ ID=10562
 穢された誓いの記録
 
 ID=10563
-穢された快楽の記録
+Record of Corrupted Pleasure
 
 ID=10564
 穢された闘志の記録
 
 ID=10565
-穢された復讐の記録
+Record of Corrupted Revenge
 
 ID=40776
 まもなく、快楽を追い求める少年が召喚されます。戦闘準備をしてください。
@@ -28223,7 +28223,7 @@ ID=10124
 Training Center
 
 ID=710035
-童心の園児服
+Childlike Kindergarten Clothes
 
 ID=7201
 Break/Presets
@@ -28391,10 +28391,10 @@ ID=24920
 Avatar Package
 
 ID=67124
-アバターパッケージング状態確認
+Confirm Avatar Packaging
 
 ID=67125
-アバターパッケージング完了
+End Avatar Packaging
 
 ID=67126
 ブローチが装着されたアバターはパッケージングできません。
@@ -28412,22 +28412,22 @@ ID=67130
 アバターのパッケージングに失敗しました。
 
 ID=67131
-アバターパッケージング
+Avatar Packaging
 
 ID=67132
-アバターパーツアイテム登録
+Register Avatar Part Item
 
 ID=67133
 パッケージ形にパッケージングするアバターパーツアイテムを登録してください。
 
 ID=67134
-パッケージング
+Packaging
 
 ID=18087
-{0}を封印しますか？
+Will you seal {0}?
 
 ID=67140
-ラパクンバソロランキング[N/T]
+RaphaKumba Solo Ranking [N/T]
 
 ID=1455
 連続強化
@@ -28464,3 +28464,42 @@ ID=1465
 
 ID=1466
 消耗した材料
+
+ID=710037
+Shadow Rider
+
+ID=20241
+Shadow Rider
+
+ID=20242
+バイクを呼び出して派手なアクションを披露します。
+
+ID=20243
+{0}さんがバイクを呼び出して派手なアクションを披露します。
+
+ID=42774
+Junk Queen
+
+ID=42775
+Exiled Princess
+
+ID=42776
+Twilight Army's Queen
+
+ID=42777
+Junk Queen μ
+
+ID=42778
+Exiled Princess μ
+
+ID=42779
+Twilight Army's Queen μ
+
+ID=43426
+[S] Junk Queen
+
+ID=43427
+[SH] Junk Queen
+
+ID=32136
+Contact Us
