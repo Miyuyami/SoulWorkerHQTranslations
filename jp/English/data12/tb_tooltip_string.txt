@@ -4,11 +4,11 @@ The amount of stamina recovered per second.
 
 ID=18
 Movement Speed
-Increase the player's movement speed by a certain factor.
+The player's movement speed multiplier.
 
 ID=19
 Attack Speed
-Increases the player's attack speed by a certain factor.
+The player's attack speed multiplier.
 
 ID=21
 Attack
@@ -16,123 +16,123 @@ The min. and max. damage you can deal to the enemy.
 
 ID=24
 Defense
-Reduce damage by a ratio dependent on the enemy's attack.\nDamage reduction against same level enemy: {0}%\nReduction will vary based on enemy's level.
+Reduces damage from enemy attacks.\nDefense: {0}% Damage reduction at same level\nDamage reduction vary depending on level difference.
 
 ID=26
 Accuracy
-Reduces the chances of your attack being evaded.
+Reduces the chance of your attacks missing.
 
 ID=28
 Evaded Attack Damage
-The damage applied to an evaded attack.
+The damage multiplier applied when an attack misses.
 
 ID=29
 Critical
-The chance and damage added when a critical attack occurs. (Based on max. damage)
+The chance and damage added when a critical attack hits. (Based on max. damage)
 
 ID=31
 Critical Resistance
-Reduces the probability of receiving critical damage.
+Reduces the chance of receiving critical damage.
 
 ID=35
 Critical Damage
-Additional damage from a critical attack.
+The damage added when a critical attack hits.
 
 ID=38
 Damage Reduction
-Reduces the damage taken from enemy attacks.
+Reduces the damage from enemy attacks.
 
 ID=43
 Evasion
-Increases the chance of the enemy's attack being less effective.
+Increases the chance of enemy attacks missing.
 
 ID=47
 Penetration
-Ignores a portion of the enemy's defense when calculating damage.
+The multiplier that ignores the enemy's defense when attacking.
 
 ID=49
 Burn Resistance
-Decreases the chances of being burned.
+Reduces the chance of getting burned.
 
 ID=50
 Poison Resistance
-Decreases the chances of being poisoned.
+Reduces the chance of getting poisoned.
 
 ID=51
 Shock Resistance
-Decreases the chances of being shocked.
+Reduces the chance of getting shocked.
 
 ID=52
 Bleed Resistance
-Decreases the chance of bleeding.
+Reduces the chance of bleeding.
 
 ID=53
 Stun Resistance
-Decreases the chances of being stunned.
+Reduces the chance of getting stunned.
 
 ID=54
 Paralysis Resistance
-Decreases the chances of being paralyzed.
+Reduces the chance of getting paralyzed.
 
 ID=11000
-Greetings
 Greet
+Greets.
 
 ID=11001
 Laugh
-Laugh
+Laugh.
 
 ID=11002
-Mourn
-You weep.
+Cry
+Cry.
 
 ID=11003
 Cheer
-You cheer.
+Cheer.
 
 ID=11004
-Sit Down
-You sit down.
+Sit
+Sit down.
 
 ID=11005
 Dance
-You dance.
+Dance.
 
 ID=11006
-Taunt
-You taunt.
+Provoke
+Provoke.
 
 ID=11007
 Boast
-You boast.
+Boast.
 
 ID=11008
 Idol
-Idol dancing.
+Do an idol dance.
 
 ID=11009
 Maid
-Practices serving.
+Practice serving.
 
 ID=11010
 Butler
-Practices serving.
+Practice serving.
 
 ID=11011
 Swimsuit
-Playing with the beach ball.
+Play with a beach ball.
 
 ID=11012
 Sunbed
-Relaxing on the sunbed.
+Relax on the sunbed.
 
 ID=11013
 School Swimsuit
-It's a gesture.
+Do a gesture.
 
 ID=11014
 Bunny
-Takes a pose.
+Take a pose.
 
 ID=11015
 Christmas
@@ -144,23 +144,23 @@ Show off your knowledge about Japanese culture.
 
 ID=11017
 Hanbok
-Takes a pose.
+Take a pose.
 
 ID=11018
 Chocolatier
-I'm giving you... chocolate.
+Give a... chocolate.
 
 ID=11019
 Sexy Animal Ears Maid 1
-Takes an enchanting pose 1.
+Take a bewitching pose 1.
 
 ID=11020
 Sexy Animal Ears Maid 2
-Takes an enchanting pose 2.
+Take a bewitching pose 2.
 
 ID=11021
 White Day
-I am returning the chocolate.
+Return a gift in return for the chocolate.
 
 ID=11022
 Steampunk
@@ -168,11 +168,11 @@ Over Technology!!
 
 ID=20000
 Inventory
-Shows the Inventory window with the associated usable items.
+Displays the Inventory window.\nYou can check and use the items you own.
 
 ID=20001
 Equipment
-Shows the Equipment window with the associated changeable equips.
+Displays the Equipment window.\nYou can check and chance your equipment.
 
 ID=20003
 Skill
@@ -180,7 +180,7 @@ Displays the Skill Window.\nYou can register Skills and Gestures\nin the Quick S
 
 ID=20008
 Quest
-Shows the Quest window; quests in progress and their associated background dialogue are shown.
+Displays the Quest window.\nYou can check your quest progression and quest logs.
 
 ID=20016
 Status
@@ -188,51 +188,51 @@ Displays the Status Window.\nYou can check your Character's Stats\nand set title
 
 ID=20023
 Community
-Shows the Community List window. You can check your friends, guild members and social-related info.
+Displays the Community window.\nYou can check info regarding your friends, guild members, and blocked players.
 
 ID=20034
 Memorial
-Shows the Memorial Collection window; you can view your progress in collecting the required items for each set.
+Displays the Memorial window.\nYou can check Memorial information and\nMemorial items you have collected.
 
 ID=20036
 System
-Shows the system menu.
+Displays the System Menu.
 
 ID=20038
 Progress Information
-Opens the Progress Information window.\nHere you can view your Achievements and Clearance Information as well as claiming the rewards.
+Displays the Progress Information window.\nYou can check your Achievements and\nClearance Information and receive rewards.
 
 ID=20045
-Find Party
-Displays the Party/Force Search Window.\nYou can search Party and Force members.
+Party Search
+Displays the Party/Force Search window.\nYou can search Party and Force members.
 
 ID=20053
 Supporter
-Opens the Supporter window.\nHere you can set the supporter order, equipment or summon them.
+Displays the Supporter window.\nYou can set the Supporters' equipment and summon/unsummon them.
 
 ID=20055
 Guild
-Shows the Guild window.
+Displays the Guild window.
 
 ID=20064
 Market
-Shows the Exchange Market window.
+Displays the Exchange Market window.
 
 ID=20065
 Ranking
-Shows the Rankings window.
+Displays the Ranking window.
 
 ID=20080
 Vehicle
-Opens and closes the vehicle window.
+Displays the Vehicle window.
 
 ID=20100
-Room
-Enter your own room.
+My Room
+Enter My Room.
 
 ID=21000
-EXP Points
-You will receive {0} EXP.
+EXP
+Earn {0} EXP.
 
 ID=21001
 Zenny
@@ -240,7 +240,7 @@ Earn {0} Zenny.
 
 ID=21002
 Battle Points
-Obtained {0} Battle Points
+Earn {0} Battle Points.
 
 ID=21003
 Ether
@@ -251,80 +251,80 @@ Title
 [{0}] obtained [{1}].
 
 ID=30000
-Potion Registration
-A quick slot used for registering potions to instantly consume within combat.
+Registering and Using Potions
+Some consumable items can be registered\nand used in your quick slots.
 
 ID=30001
-Mini-Map and World Map
-Identify key information such as Quest type and progress or NPC names with the maps.
+Using Minimap and World Map
+You can check various information such as\nQuests from the Minimap and World Map.
 
 ID=30002
-UI Tutorial Quests
-Recall the relevant quest information from your quest journal.
+Quest UI
+You can check details of Quests\nin progress from the Quest Journal.
 
 ID=30003
-UI Mode Toggling
-Use the [ALT] key to switch between showing UI-related information or enabling combat controls.
+UI Mode
+You can check various information using the mouse\nby pressing the [Alt] key to change to Mode B.
 
 ID=30004
-Ether Related
-Ether is a key resource that is found from defeating monsters. It is used for item enhancement and evolution.
+Ether
+Ether can be obtained by defeating enemies and\nis a key material for enhancement and upgrading.
 
 ID=30005
-Soul Vapor Related
-Recycled Soul Vapor is obtained from defeating monsters and destroying objects.\n(Available on Quest Completion)
+Soul Vapor
+Soul Vapor can be obtained from enemies and objects,\nand is used for the Break Skill.\n(Can be used on quest completion)
 
 ID=30006
-Combo Related
-By gaining combo length, additional bonuses and effects can be applied.
+Combo
+Gain additional bonuses and effects by stacking combo hits.
 
 ID=30007
-Items Related
-The cube can be a general cube and a rare cube that has better valuables.\nMany items can be earned from one cube.
+Items
+There are common cubes and cubes of at least Rare grade\nwhere you can obtain random items.
 
 ID=30008
-Break Skill Related
-Upon reaching a certain Soul Vapor threshold, you can use the Break Skill.
+Break Skill
+You can use the Break Skill by collecting\nSoul Vapor and filling the Break Gauge.
 
 ID=30009
 Create Party/Party Play
-When entering a dungeon with a party, additional boosts will be applied and combat will be easier.
+You can progress faster in battles with additional bonuses\nby forming parties and entering dungeons.
 
 ID=30010
-SP Use
-By using SP, you can learn new skills or enhance their attributes and abilities.
+Using SP
+You can use SP to increase Skill Mastery\nand learn Skill Extensions.
 
 ID=30011
 Shop
-Items that can be purchased or sold within shops.
+You can sell and/or purchase items in the shop.
 
 ID=30012
 Mail
-You can send mail with attachments to your friends.
+You can send and/or attach items\nto mails to your friends.
 
 ID=30013
 Bank
-Use the Bank to safely store your items and Zenny.
+You can store inventory items\nand/or zenny in the Bank.
 
 ID=30014
 Crafting
-Collect blueprints and prerequisite materials to craft usable items.
+You can craft items by using blueprints and/or materials.
 
 ID=30015
 Enhance
-By using enhancement class materials with ether, equipment can be upgraded.
+You can enhance equipment by using\nenhancement materials and Ether.
 
 ID=30016
-Dismantling 
-You can dismantle unwanted items for usable materials.
+Dismantle
+Unnecessary items can be dismantled to materials.
 
 ID=30017
 Special Mission
-Daily missions can be completed daily for S Coins which can be spent at the S Coin Shop, Vending Machine.
+You can obtain S Coins from Daily Missions\nwhich can be used in the S Coin Shop.
 
 ID=30018
-Secret Mission
-Sometimes, certain areas within the dungeon will unlock secret missions. You can complete them to earn additional rewards.
+Secret Event
+Secret Events may sometimes appear in certain areas of the dungeon.\nYou can receive additional rewards by completing it.
 
 ID=30019
 Achievement
@@ -332,74 +332,74 @@ You can receive rewards in the Progress Information window for completing achiev
 
 ID=30020
 Memorial
-In some dungeons you can find Memorials, you can re-enter those until you get them. You can claim a reward in the Progress Information windows after completing a Memorial Collection.
+There are locations in dungeons where you can find Memorials after clearing the dungeon once. You can receive rewards in the Progress Information window once you complete the Memorial Theme.
 
 ID=30021
 Clearance
-The Clearance increases each time you clear a dungeon. This will also increase the associated town's Clearance. 
+The Clearance increases whenever you clear a dungeon.\nThe Dungeon Clearance also affects the City Clearance.
 
 ID=30022
 Title
-You can express your personality by compounding titles together.
+You can mix titles and show off your individuality.
 
 ID=30023
-Fatigue Level
-Fatigue is consumed in proportion to the difficulty level and absolute level of the dungeon for each map; when none remains, you may not enter the dungeon.
+Fatigue
+Fatigue is consumed depending on the dungeon difficulty and level.\nYou can't enter a dungeon if you have insufficient FP.
 
 ID=30024
 Help
-Click the Help icon to display relevant information associated with the UI pane or window.
+Clicking the Help icon will display relevant information according to your progress.
 
 ID=30025
 Favorability Level
-A particular feature of NPCs. Increase their favor by using their services or making purchases. As it rises, additional benefits can be obtained.
+Increase your favorability by frequenting the NPC's services. Gain various bonuses by increasing the favorability level.
 
 ID=30026
-Supporter Related
-Add various supporters to participate in combat when playing alone in dungeons.
+Supporter
+NPCs will join you as you progress to the story.\nThey will join and help you in battle.
 
 ID=30027
-Room
-A personal room for Soulworkers only, it is fully customizable. It is a hospitable place for guests and friends to enjoy.
+My Room
+A room provided to Soulworkers.\nEnjoy this special place with your friends and guests.
 
 ID=30028
 Guild
-A guild can be used to extend contact, share info and increase the gaming experience.
+Establish a guild, and enjoy it with your friends.
 
 ID=30029
 Item Durability
-As the item's durability decreases, so does its effectiveness.
+Items have durability, and its effect reduces as its durability decline.
 
 ID=30030
 Sub Weapon
-Additional actions are possible when using a sub weapon.
+You can increase your stats and add actions\nby equipping a sub weapon.
 
 ID=30031
 Artifact
-Collect a variety of artifact accessories to improve the character's combat aptitude.
+You can increase your stats by collecting\nand equipping various artifacts.
 
 ID=30032
-Familar
-An item that is especially rate that can be socked into Soul Weapons to increase their effectiveness, the Familar.
+Familiar
+Soul Weapons may sometimes have sockets. You can increase your stats by equipping Familiars.
 
 ID=30033
 Craft Akashic Item
 You can craft higher grade A.R Cards\nby combining A.R Cards.
 
 ID=30034
-Obtain Akashic
+Akashic
 Register the A.R Card by using it.
 
 ID=30035
-A.R Registration and Usage
+Registering and Using Akashic
 Registered A.R Cards can be set to your Quick Slots\nwhere you can either use it in combat or\nreceive useful effects.
 
 ID=30036
 End Content
-The Remaining Content
+Final Content
 
 ID=30037
-Loot Achievement
+Item Achievement
 Item Achievements' Completion: {0}%
 
 ID=30038
@@ -407,8 +407,8 @@ Dungeon Achievement
 Dungeon Achievements' Completion: {0}%
 
 ID=30039
-Combat Achievement
-Combat Achievements' Completion: {0}%
+Battle Achievement
+Battle Achievements' Completion: {0}%
 
 ID=30040
 Quest Achievement
@@ -423,8 +423,8 @@ Community Achievement
 Community Achievements' Completion: {0}%
 
 ID=30043
-Supporter Usage
-Supporters can be used by pressing the [F3] key in a dungeon or by summoning them from supporter's window [Y].
+Using Supporter
+You can summon Supporters by pressing the [F3] key in the dungeon or the [Y] key in the Supporter window.
 
 ID=30044
 Raid Achievement
@@ -432,31 +432,31 @@ Raid Achievements' Completion: {0}%
 
 ID=21005
 Zenny
-This is the currency used in shops and market.\nIt can be earned from killing monsters or via various rewards.
+The currency used in shops and exchange market in-game.\nYou can obtain it by defeating enemies or from rewards.
 
 ID=21006
 Ether
-This is the currency used for enhancing and tuning.\nIt can be obtained by killing monsters or dismantling.
+The currency used to enhance and tune items.\nYou can obtain it by defeating enemies or through dismantling.
 
 ID=21007
 B.P
-This is the currency used in certain special shops.\nIt can be obtained by killing powerful monsters or via various rewards.
+The currency used to buy items in the B.P Shop.\nYou can obtain it by defeating powerful enemies or from rewards.
 
 ID=21008
 Y.P
-This is the currency used to purchase items in the Item Mall.\nIt can be obtained via Y.P Charge.
+The currency used to buy items in the Item Mall.\nYou can obtain it by charging Y.P.
 
 ID=11024
 Reindeer Transformation
 Turn into a reindeer.
 
 ID=11025
-Knowledge of another Japanese culture
-Show off your knowledge about another Japanese culture.
+Another Knowledge of Japanese culture
+Show off another knowledge about Japanese culture.
 
 ID=11026
 Hanbok
-Takes a pose.
+Take a pose.
 
 ID=11027
 Skating
@@ -472,39 +472,39 @@ Invoke a Spinning Glutton.
 
 ID=11030
 Agent
-Takes an Agent Suit's pose.
+Take an Agent Suit's pose.
 
 ID=11031
 Sea Breeze 1
-Takes a Sea Breeze 1 pose.
+Take a Sea Breeze 1 pose.
 
 ID=11032
 Sea Breeze 2
-Takes a Sea Breeze 2 pose.
+Take a Sea Breeze 2 pose.
 
 ID=11033
 Childlike
-Turns back to a child.
+Turn back into a child.
 
 ID=11034
 Hero
-Takes a Hero's pose.
+Take a Hero's pose.
 
 ID=11035
 Military Band
-Takes a Military Band's pose.
+Take a Military Band's pose.
 
 ID=11036
-Holy Judgement
-Takes a Holy Judgement's pose.
+Sacred Judgement
+Take a Sacred Judgement's pose.
 
 ID=11037
 Blooming Dress
-Takes a Blooming Dress' pose.
+Take a Blooming Dress' pose.
 
 ID=11038
 Holy Knight
-Takes a Holy Knight's pose.
+Take a Holy Knight's pose.
 
 ID=1000
 Level EXP
@@ -540,27 +540,27 @@ Cooldown Reduction after a skill is used
 
 ID=11039
 Animal Pajama
-Imitates an animal.
+Imitate an animal.
 
 ID=11040
 Servant-in-Café
-Takes a Servant-in-Café's pose.
+Take a Servant-in-Café's pose.
 
 ID=11041
 Midsummer Sailor
-Takes a Midsummer Sailor's pose.
+Take a Midsummer Sailor's pose.
 
 ID=11044
 Enemy Costume
-Takes an Enemy Costume's pose.
+Take an Enemy Costume's pose.
 
 ID=11045
 Cat Costume
-Imitates a cat.
+Imitate a cat.
 
 ID=11048
 Nightmare
-Takes a Nightmare gesture.
+Take a Nightmare gesture.
 
 ID=21023
 Mileage Point
@@ -568,8 +568,8 @@ You can purchase some items with its corresponding Mileage.\nIt resets at 00:00 
 
 ID=11042
 Desireworker
-Takes a Desireworker pose.
+Take a Desireworker pose.
 
 ID=11043
 Desire Awakening
-Takes a Desire Awakening pose.
+Take a Desire Awakening pose.

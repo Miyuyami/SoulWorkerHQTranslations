@@ -443,7 +443,7 @@ ID=317
 Ether:
 
 ID=318
-Dismantle
+Dismantle Mode
 
 ID=325
 Are you sure you want to expand your inventory slots?
@@ -836,7 +836,7 @@ ID=487
 Event
 
 ID=488
-Net cafe
+Net Café
 
 ID=489
 Final Reward
@@ -1247,10 +1247,10 @@ ID=680
 You are currently in battle. Please try again after {0} seconds.
 
 ID=681
-(Net cafe {0} EXP)
+(Net Café {0} EXP)
 
 ID=682
-(Net cafe {0} Zenny)
+(Net Café {0} Zenny)
 
 ID=683
 Rank Experience Obtained: {0} EXP
@@ -1376,7 +1376,7 @@ ID=739
 Party-exclusive [4-man]
 
 ID=740
-Fatigue Consumption
+FP Consumption
 
 ID=741
 A dedicated admission ticket is required.
@@ -1547,13 +1547,13 @@ ID=796
 Grants {0} random options
 
 ID=797
-Switch Sniping Mode
+Switch to Sniping Mode
 
 ID=798
-(Net cafe no. of entries: {0} remaining)
+(Net Café no. of Entries: {0} remaining)
 
 ID=799
-(Net cafe entry benefits: {0})
+(Net Café Entry Benefits: {0})
 
 ID=800
 Compare Equipment Item
@@ -2948,7 +2948,7 @@ ID=3072
 !!! Start Selling !!!
 
 ID=3073
-Store Name
+Shop Name
 
 ID=3074
 On Sale
@@ -3227,7 +3227,7 @@ ID=5311
 Delete Character
 
 ID=5312
-If you delete the character, all data will be deleted and you will not be able to recover. \nThe same character name will became unavailable in the future. \nAre you sure to delete it?
+If you delete the character, all data will be deleted and will be unrecoverable.\nThe same character name may be unavailable hereafter.\nDo you really wish to delete this character?
 
 ID=5313
 A deleted character cannot be recovered.\nAs a guild master, the guild will be disbanded.\nAre you sure you want to delete this character?
@@ -3491,7 +3491,7 @@ ID=5833
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font> can be used at the <font color='#B2EBF4'>Vending Machine</font>.
 
 ID=5834
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Secret Missions]</font> will randomly appear inside dungeons.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Secret Events]</font> randomly appear inside dungeons.
 
 ID=5835
 <font color='#FFFFFF' size='30'>TIP: </font>As you progress through the game, you will be able to call forth a reassuring <font color='#00D8FF'>[Supporter]</font> to support you.
@@ -3515,7 +3515,7 @@ ID=5841
 <font color='#FFFFFF' size='30'>TIP: </font>Clicking the <font color='#FFF94A'>[<font size='30'>i</font>]</font> icon at the top right corner of the screen will open the <font color='#00D8FF'>[Help]</font>, there various information about the game can be found.
 
 ID=5842
-<font color='#FFFFFF' size='30'>TIP: </font>Entering a dungeon will consume <font color='#00D8FF'>[Fatigue]</font>.
+<font color='#FFFFFF' size='30'>TIP: </font>Entering dungeons consume <font color='#00D8FF'>[Fatigue]</font>.
 
 ID=5843
 <font color='#FFFFFF' size='30'>TIP: </font>You can improve your <font color='#00D8FF'>Skills</font> by choosing an <font color='#00D8FF'>Attribute</font> according to your own play style.\nAttributes can change or add new effects or functionality for the respective skill.
@@ -3677,7 +3677,7 @@ ID=5896
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[S-Coin]</font> obtained from <font color='#00D8FF'>Daily Missions</font> can be used at the <font color='#B2EBF4'>Vending Machine</font>.
 
 ID=5897
-<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Secret Missions]</font> will randomly appear inside dungeons.
+<font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Secret Events]</font> randomly appear inside dungeons.
 
 ID=5898
 <font color='#FFFFFF' size='30'>TIP: </font>As you progress through the game, you will be able to call forth a reassuring <font color='#00D8FF'>[Supporter]</font> to support you.
@@ -4712,7 +4712,7 @@ ID=10211
 Transparency
 
 ID=10212
-Solid
+Basic Mode
 
 ID=10221
 Second Stair
@@ -5744,13 +5744,13 @@ ID=18016
 You can synthesize the brooch.
 
 ID=18017
-You need 5 brooch for synthesis.
+You need 5 brooches for synthesis.
 
 ID=18018
 You cannot register anymore items.
 
 ID=18019
-You can't dismantle more than 20 items in the same time.
+You can only dismantle up to 20 items at a time.
 
 ID=18020
 Displays the last 10 sold items.
@@ -6404,10 +6404,10 @@ ID=18754
 サーバーが混雑しています。\nしばらくしてから、もう一度お試しください。\n初めてお越し方は、別のサーバーをご利用ください。
 
 ID=18755
-Character Purchase Restriction
+Character Purchase Limit
 
 ID=18756
-Account Purchase Restriction
+Account Purchase Limit
 
 ID=18757
 サーバー許容人数超過
@@ -6890,7 +6890,7 @@ ID=20310
 You have no dismantling permission for the selected item.
 
 ID=20400
-Recovering Fatigue
+Recovering Fatigue...
 
 ID=20401
 Less than 1 minute
@@ -6950,34 +6950,34 @@ ID=21016
 While mounted, +{0} Attack, +{1} Defense for 30m
 
 ID=21017
-Supporter Quest Complete [Supporter: Hugh]
+Can do Supporter Quest [Supporter: Hugh]
 
 ID=21018
-Supporter Quest Complete [Supporter: Ryu]
+Can do Supporter Quest [Supporter: Ryu]
 
 ID=21019
-Supporter Quest Complete [Supporter: Haidinger]
+Can do Supporter Quest [Supporter: Haidinger]
 
 ID=21020
-Supporter Quest Complete [Supporter: Miriam]
+Can do Supporter Quest [Supporter: Miriam]
 
 ID=21021
-Supporter Quest Complete [Supporter: Auto Punisher]
+Can do Supporter Quest [Supporter: Auto Punisher]
 
 ID=21022
-Supporter Quest Complete [Supporter: Cleany]
+Can do Supporter Quest [Supporter: Cleany]
 
 ID=21023
-Supporter Quest Complete [Supporter: Maxim]
+Can do Supporter Quest [Supporter: Maxim]
 
 ID=21024
-Supporter Quest Complete [Supporter: Lucy]
+Can do Supporter Quest [Supporter: Lucy]
 
 ID=21025
-Supporter Quest Complete [Supporter: Ralph]
+Can do Supporter Quest [Supporter: Ralph]
 
 ID=21026
-Supporter Quest Complete [Supporter: Sensen]
+Can do Supporter Quest [Supporter: Sensen]
 
 ID=21027
 Done
@@ -6986,7 +6986,7 @@ ID=21028
 Locked
 
 ID=21029
-Favorability level too low
+Insufficient Favorability Level
 
 ID=21030
 Cannot buy any more today
@@ -7427,7 +7427,7 @@ ID=22218
 Item Drop Name
 
 ID=22219
-Switch to AR Card Mode
+Switch to AR Mode
 
 ID=22220
 Skill Navigation
@@ -7673,7 +7673,7 @@ ID=22532
 Confirm Item Name
 
 ID=22533
-Switch to AR Card Mode
+Switch to AR Mode
 
 ID=22534
 Weapon Access
@@ -7703,7 +7703,7 @@ ID=22542
 UI
 
 ID=22543
-Convert UI Mode
+Switch to UI Mode
 
 ID=22544
 Hide UI
@@ -8066,19 +8066,19 @@ ID=23000
 Basic fatigue level was completely restored.
 
 ID=23001
-Bonus Fatigue Points {0}
+Bonus FP {0}
 
 ID=23002
 EXP Gain +10%
 
 ID=23003
-Fatigue {0}
+FP {0}
 
 ID=23004
-Fatigue Information
+FP Information
 
 ID=23005
-Net cafe fatigue {0}
+Net Café FP {0}
 
 ID=24000
 Zenny
@@ -8201,7 +8201,7 @@ ID=24267
 Consumables
 
 ID=24268
-Fatigue Consumption
+FP Consumption
 
 ID=24269
 Function
@@ -8447,7 +8447,7 @@ ID=24517
 Consumables
 
 ID=24518
-Fatigue Consumption
+FP Consumption
 
 ID=24519
 Package
@@ -11183,7 +11183,7 @@ ID=29005
 Leave
 
 ID=29006
-Manage Room
+Layout Mode
 
 ID=29007
 Room Settings
@@ -11312,7 +11312,7 @@ ID=29049
 {0} has been kicked from your room.
 
 ID=29050
-Change Room Layout
+Layout Mode Guide
 
 ID=29051
 To begin managing your room, all guests will be kicked out.\nAre you sure you want to proceed?
@@ -12347,7 +12347,7 @@ ID=32105
 Exchange
 
 ID=32106
-Y.P Store
+Y.P Shop
 
 ID=32107
 Login
@@ -13037,7 +13037,7 @@ ID=38003
 Trading fee reduced by {0}%
 
 ID=38004
-Obtained {0} fatigue
+Add'l. FP {0}
 
 ID=38005
 Enhance Success Rate +{0}%
@@ -13064,7 +13064,7 @@ ID=38012
 Stamina +{0}
 
 ID=38013
-Netcafe exclusive +200 fatigue
+Net Café-exclusive +200 FP
 
 ID=38014
 +1 special dungeon entry count
@@ -14726,7 +14726,7 @@ ID=41312
 日を越えても以前のクエストを完了させることができます。
 
 ID=41313
-Lets! Soulworker!!
+Let's! Soulworker!!
 
 ID=41314
 Claim
@@ -15176,7 +15176,7 @@ ID=42135
 Martin
 
 ID=42136
-Extraordinary Commander Martin
+Interim Commander Martin
 
 ID=42137
 Training Dummy
@@ -15233,28 +15233,28 @@ ID=42154
 Mechanic Erik
 
 ID=42155
-Sonny
+Sunny
 
 ID=42156
-Medical Officer Sonny
+Medical Trooper Sunny
 
 ID=42157
-Fortune Medical Troop
+Medical Troop Fortune
 
 ID=42158
-Fortune Nurse
+Nurse Fortune
 
 ID=42159
-Fortune Miracle in White Clothing
+Miracle in White Clothing Fortune
 
 ID=42160
-Fortune Medical Troop μ
+Medical Troop Fortune μ
 
 ID=42161
-Fortune Nurse μ
+Nurse Fortune μ
 
 ID=42162
-Fortune Miracle in White Clothing μ
+Miracle in White Clothing Fortune μ
 
 ID=42163
 Strike Force
@@ -15533,7 +15533,7 @@ ID=42254
 Black Fist Black Gauntlet
 
 ID=42255
-Blasting Fist Black Gauntlet
+Explosive Fist Black Gauntlet
 
 ID=42256
 Black Gauntlet μ
@@ -15542,7 +15542,7 @@ ID=42257
 Black Fist Black Gauntlet μ
 
 ID=42258
-Blasting Fist Black Gauntlet μ
+Explosive Fist Black Gauntlet μ
 
 ID=42259
 Hell Infuser
@@ -15659,7 +15659,7 @@ ID=42296
 Glutton μ
 
 ID=42297
-Shining Glutton
+Shiny Glutton
 
 ID=42298
 Sunset Flower Miriam
@@ -15671,7 +15671,7 @@ ID=42300
 Gluttonous Glutton Army
 
 ID=42301
-Overly Gluttonous Glutton Army
+Gluttonous Calamity, Glutton Army
 
 ID=42302
 Glutton Army μ
@@ -15680,7 +15680,7 @@ ID=42303
 Gluttonous Glutton Army μ
 
 ID=42304
-Overly Gluttonous Glutton Army μ
+Gluttonous Calamity, Glutton Army μ
 
 ID=42305
 Chaser
@@ -16061,22 +16061,22 @@ ID=42430
 Ultra-Reliable Yomi μ
 
 ID=42431
-Katherine
+Catherine
 
 ID=42432
-Innocent Katherine
+Innocent Catherine
 
 ID=42433
-Messy Girl Katherine
+Reckless Daughter, Catherine
 
 ID=42434
-Katherine μ
+Catherine μ
 
 ID=42435
-Innocent Katherine μ
+Innocent Catherine μ
 
 ID=42436
-Messy Girl Katherine μ
+Reckless Daughter, Catherine μ
 
 ID=42437
 Warrant Officer Amanda
@@ -16397,7 +16397,7 @@ ID=43153
 Erik
 
 ID=43155
-Sonny
+Sunny
 
 ID=43265
 [S] Kain
@@ -16430,10 +16430,10 @@ ID=43292
 [SH] Rapid Flame
 
 ID=43157
-[S] Fortune Medical Troop
+[S] Medical Troop Fortune
 
 ID=43160
-[SH] Fortune Medical Troop
+[SH] Medical Troop Fortune
 
 ID=43163
 [S] Strike Force
@@ -16682,10 +16682,10 @@ ID=43342
 [SH] Yomi
 
 ID=43343
-[S] Katherine
+[S] Catherine
 
 ID=43344
-[SH] Katherine
+[SH] Catherine
 
 ID=43345
 [S] Warrant Officer Amanda
@@ -17951,7 +17951,7 @@ ID=49913
 Cannot join the Party because the mission failed.
 
 ID=49914
-Mission Rewards
+Secret Event Rewards
 
 ID=49915
 < Rewarded >
@@ -17960,7 +17960,7 @@ ID=49916
 < Sent to mail >
 
 ID=49917
-Secret Mission
+Secret Event
 
 ID=49918
 Success
@@ -20684,7 +20684,7 @@ ID=48447
 高級溶解剤
 
 ID=48448
-※使用時、抽出効果の増加及び低確率でシークレットソウルストーンを獲得
+※ On use, it increases extraction effect and you can obtain a Secret Soulstone at a low chance
 
 ID=48449
 高級溶解剤使用
@@ -21539,7 +21539,7 @@ ID=32117
 階級
 
 ID=32118
-BP商店
+BP Shop
 
 ID=33556
 集約された科学の結晶
@@ -21587,7 +21587,7 @@ ID=38019
 FP消耗 {0} 減少
 
 ID=38020
-シークレットイベント出現 {0}%
+Secret Event Appearance {0}%
 
 ID=40704
 ビッグパペットの進撃を止められません。\n 中央広場に移動してください。
@@ -22199,7 +22199,7 @@ ID=60509
 安全地帯に移動します。
 
 ID=60510
-必要疲労度
+Required FP
 
 ID=60511
 参加回数
@@ -22532,10 +22532,10 @@ ID=18311
 Pop Candy
 
 ID=18915
-キャラクター購入制限：{0}
+Character Purchase Limit: {0}
 
 ID=18916
-アカウント購入制限：{0}
+Account Purchase Limit: {0}
 
 ID=20172
 鬼祷
@@ -24602,22 +24602,22 @@ ID=42485
 Good Boy μ
 
 ID=42486
-Katherine
+Catherine
 
 ID=42487
-Katherine
+Catherine
 
 ID=42488
-Katherine
+Catherine
 
 ID=42489
-Katherine μ
+Catherine μ
 
 ID=42490
-Katherine μ
+Catherine μ
 
 ID=42491
-Katherine μ
+Catherine μ
 
 ID=42492
 Ryu
@@ -25040,10 +25040,10 @@ ID=43357
 [SH] Good Boy
 
 ID=43358
-[S] Katherine
+[S] Catherine
 
 ID=43359
-[SH] Katherine
+[SH] Catherine
 
 ID=43360
 [S] Ryu
@@ -25604,7 +25604,7 @@ ID=66010
 カメラの移動
 
 ID=66011
-カメラのズーム
+Camera Zoom
 
 ID=1454
 色の変更[{0}]
@@ -25634,7 +25634,7 @@ ID=24675
 染色材料
 
 ID=24906
-スポイト
+Dropper
 
 ID=18765
 確率確認
@@ -25691,7 +25691,7 @@ ID=10561
 神聖な戦場
 
 ID=10107
-スカイウォーカー
+Sky Walker
 
 ID=10108
 Transport Fleet
@@ -25760,73 +25760,73 @@ ID=42666
 Laufer
 
 ID=42667
-ネッド出身秘書ラウファー
+NED Secretary, Laufer
 
 ID=42668
-親友への贖罪ラウファー
+Atoning for a Close Friend, Laufer
 
 ID=42669
 Laufer μ
 
 ID=42670
-ネッド出身秘書ラウファーμ
+NED Secretary, Laufer μ
 
 ID=42671
-親友への贖罪ラウファーμ
+Atoning for a Close Friend, Laufer μ
 
 ID=42672
 Leona
 
 ID=42673
-ネッドの秘書レオナ
+NED Secretary Leona
 
 ID=42674
-資本主義の管理者レオナ
+Capitalist Manager, Leona
 
 ID=42675
 Leona μ
 
 ID=42676
-ネッドの秘書レオナμ
+NED Secretary Leona μ
 
 ID=42677
-資本主義の管理者レオナμ
+Capitalist Manager, Leona μ
 
 ID=42678
-Beneris
+Veneris
 
 ID=42679
-オルカ部隊所属ベネリス
+Orca Troop's Veneris
 
 ID=42680
-交渉の切り札ベネリス
+Negotiation Expert, Veneris
 
 ID=42681
-Beneris μ
+Veneris μ
 
 ID=42682
-オルカ部隊所属ベネリスμ
+Orca Troop's Veneris μ
 
 ID=42683
-交渉の切り札ベネリスμ
+Negotiation Expert, Veneris μ
 
 ID=42684
 Arua
 
 ID=42685
-十人隊長アルア
+10th Commander, Arua
 
 ID=42686
-戦場に咲く青い花アルア
+Blue Flower Blooming on the Battlefield, Arua
 
 ID=42687
 Arua μ
 
 ID=42688
-十人隊長アルアμ
+10th Commander, Arua μ
 
 ID=42689
-戦場に咲く青い花アルアμ
+Blue Flower Blooming on the Battlefield, Arua μ
 
 ID=42690
 Perry
@@ -25835,7 +25835,7 @@ ID=42691
 Booker TV, Perry
 
 ID=42692
-スクープ確保の予感ペリー
+Scoop Hunter, Perry
 
 ID=42693
 Perry μ
@@ -25844,31 +25844,31 @@ ID=42694
 Booker TV, Perry μ
 
 ID=42695
-スクープ確保の予感ペリーμ
+Scoop Hunter, Perry μ
 
 ID=42696
 Jeremy
 
 ID=42697
-スタリーフォレスト連合所属ジェレミー
+Starry Forest League, Jeremy
 
 ID=42698
-心に闇を抱えたジェレミー
+Bearing Darkness in his Heart, Jeremy
 
 ID=42699
 Jeremy μ
 
 ID=42700
-スタリーフォレスト連合所属ジェレミーμ
+Starry Forest League, Jeremy μ
 
 ID=42701
-心に闇を抱えたジェレミーμ
+Bearing Darkness in his Heart, Jeremy μ
 
 ID=42702
 Hicks
 
 ID=42703
-贖罪する科学者ヒックス
+Atoning Scientist, Hicks
 
 ID=42704
 Replica Project, Hicks
@@ -25877,7 +25877,7 @@ ID=42705
 Hicks μ
 
 ID=42706
-贖罪する科学者ヒックスμ
+Atoning Scientist, Hicks μ
 
 ID=42707
 Replica Project, Hicks μ
@@ -25886,91 +25886,91 @@ ID=42708
 Robert
 
 ID=42709
-市場の息子ロバート
+Merchant's Son, Robert
 
 ID=42710
-都市再建の一歩ロバート
+Taking Action for City Rehabilitation, Robert
 
 ID=42711
 Robert μ
 
 ID=42712
-市場の息子ロバートμ
+Merchant's Son, Robert μ
 
 ID=42713
-都市再建の一歩ロバートμ
+Taking Action for City Rehabilitation, Robert μ
 
 ID=42714
 Warren
 
 ID=42715
-民間の医師ウォーレン
+Private Doctor, Warren
 
 ID=42716
-最高峰の守護者ウォーレン
+Greatest Guardian, Warren
 
 ID=42717
 Warren μ
 
 ID=42718
-民間の医師ウォーレンμ
+Private Doctor, Warren μ
 
 ID=42719
-最高峰の守護者ウォーレンμ
+Greatest Guardian, Warren μ
 
 ID=42720
 Emilito
 
 ID=42721
-スタリーフォレストの兵士エミリート
+Starry Forest Soldier, Emilito
 
 ID=42722
-親友との信頼エミリート
+Faithful to his Close Friend, Emilito
 
 ID=42723
 Emilito μ
 
 ID=42724
-スタリーフォレストの兵士エミリートμ
+Starry Forest Soldier, Emilito μ
 
 ID=42725
-親友との信頼エミリートμ
+Faithful to his Close Friend, Emilito μ
 
 ID=42726
 Allen
 
 ID=42727
-財閥の子孫アレン
+Conglomerate's Heir, Allen
 
 ID=42728
-孤児院のスポンサーアレン
+Orphanage's Sponsor, Allen
 
 ID=42729
 Allen μ
 
 ID=42730
-財閥の子孫アレンμ
+Conglomerate's Heir, Allen μ
 
 ID=42731
-孤児院のスポンサーアレンμ
+Orphanage's Sponsor, Allen μ
 
 ID=42732
 Ralph
 
 ID=42733
-ネッド傭兵ラルフ
+NED Mercenary, Ralph
 
 ID=42734
-突撃兵ラルフ
+Infantry, Ralph
 
 ID=42735
 Ralph μ
 
 ID=42736
-ネッド傭兵ラルフμ
+NED Mercenary, Ralph μ
 
 ID=42737
-突撃兵ラルフμ
+Infantry, Ralph μ
 
 ID=42738
 Foil Card Cover
@@ -26000,46 +26000,46 @@ ID=30205
 General
 
 ID=30206
-ファッション追加効果
+Add'l. Fashion Effect
 
 ID=21106
-キャラクター製作制限
+Character Crafting Limit
 
 ID=21107
-アカウント製作制限
+Account Crafting Limit
 
 ID=21108
-製作可能な数
+Craftable Amount
 
 ID=52258
 製作制限を超えているため、製作することができません。
 
 ID=21109
-毎日09:00に初期化
+Resets every day at 09:00 JST
 
 ID=21110
-毎週月曜日09:00に初期化
+Resets every Monday at 09:00 JST
 
 ID=21111
-毎週火曜日09:00に初期化
+Resets every Tuesday at 09:00 JST
 
 ID=21112
-毎週水曜日09:00に初期化
+Resets every Wednesday at 09:00 JST
 
 ID=21113
-毎週木曜日09:00に初期化
+Resets every Thursday at 09:00 JST
 
 ID=21114
-毎週金曜日09:00に初期化
+Resets every Friday at 09:00 JST
 
 ID=21115
-毎週土曜日09:00に初期化
+Resets every Saturday at 09:00 JST
 
 ID=21116
-毎週日曜日09:00に初期化
+Resets every Sunday at 09:00 JST
 
 ID=21117
-毎月1日09:00に初期化
+Resets every first day of the month at 09:00 JST
 
 ID=53302
 {0} ( CH. {1} )
@@ -26048,10 +26048,10 @@ ID=53303
 Hide Sub/Repeat Quests Level Value
 
 ID=18222
-３周年ウィークリーミッション第1弾
+3rd Anniv. Weekly Mission Part 1
 
 ID=18223
-３周年ウィークリーミッション第1弾
+3rd Anniv. Weekly Mission Part 1
 
 ID=41430
 Reach Character Lv3
@@ -26180,10 +26180,10 @@ ID=41471
 Disassemble item 30 times
 
 ID=18224
-３周年ウィークリーミッション第2弾
+3rd Anniv. Weekly Mission Part 2
 
 ID=18225
-３周年ウィークリーミッション第2弾
+3rd Anniv. Weekly Mission Part 2
 
 ID=41472
 Play Steel Grave 5 times
@@ -26366,7 +26366,7 @@ ID=31180
 List
 
 ID=31181
-フィルター
+Filter
 
 ID=31182
 All
@@ -26387,7 +26387,7 @@ ID=31187
 パーティー募集登録
 
 ID=31188
-ディストリクト
+District
 
 ID=31189
 フォース募集登録
@@ -26438,10 +26438,10 @@ ID=33007
 私の親愛なる娘キャサリンへ\n空の上から私を見守っていてくれ。\n
 
 ID=61000
-スタート！
+Start!
 
 ID=61001
-ストップ！
+Stop!
 
 ID=61002
 ルーレットの回数は、毎日午前９時に初期化されます。
@@ -26465,10 +26465,10 @@ ID=61008
 イベント期間
 
 ID=61009
-ルーレット
+Roulette
 
 ID=33574
-女王の騎士
+Queen's Knight
 
 ID=80000
 SP染色ポイントが不足しています。
@@ -26480,10 +26480,10 @@ ID=80002
 染色ポイントを排出して確定SPカラーで染色する事ができます。\nスペシャル染色時に染色ポイントは初期化されます。
 
 ID=80003
-SP染色
+SP Dye
 
 ID=80004
-染色ポイント
+Dye Point
 
 ID=80005
 {0} / {1} pt
@@ -26513,7 +26513,7 @@ ID=22687
 Item Mall
 
 ID=20214
-サーヴァント・イン・カフェ
+Servant-in-Café
 
 ID=20215
 礼儀正しく挨拶をします。
@@ -26522,22 +26522,22 @@ ID=20216
 {0}が礼儀正しく挨拶をします。
 
 ID=710019
-サーヴァント・イン・カフェ
+Servant-in-Café
 
 ID=33575
-プライマシーStセット
+Primacy St Set
 
 ID=33576
-プライマシーExセット
+Primacy Ex Set
 
 ID=33577
-プライマシーアクセサリーセット
+Primacy Accessory Set
 
 ID=10019
 無人島で、知性を持つソウルジャンクが出現するとの情報を入手しました。 [ヒドゥン・ハイドアウト]でコードネーム[ラパクンバ]を討伐してください。
 
 ID=10113
-ヒドゥン・ハイドアウト
+Hidden Hideout
 
 ID=40644
 これが我が力である！\nさあ！舞い散るがいい！
@@ -26585,10 +26585,10 @@ ID=27951
 スタミナが100%の場合、攻撃時3秒間攻撃速度{0}%増加
 
 ID=9897
-ディプルス・レイド
+Dipluce Raid
 
 ID=10566
-グルトンワールドサマー
+Glutton World Summer
 
 ID=710020
 真夏の水兵
@@ -26618,13 +26618,13 @@ ID=11715
 脱いだら凄い
 
 ID=11716
-ダイナマイトセクシー
+Dynamite Sexy
 
 ID=24339
-エモーション
+Emotion
 
 ID=24340
-エモーション
+Emotion
 
 ID=40752
 キーボードのW、A、S、Dキーを使用して移動できます。
@@ -26714,7 +26714,7 @@ ID=771001
 Despair Roar of Desire
 
 ID=20226
-エネミーコスチューム
+Enemy Costume
 
 ID=20227
 敵の姿に扮して、能力を行使します。
@@ -26723,7 +26723,7 @@ ID=20228
 {0}が敵の姿に扮して、能力を行使します。
 
 ID=710022
-エネミーコスチューム
+Enemy Costume
 
 ID=710018
 Cat Chii
@@ -26750,7 +26750,7 @@ ID=10120
 このメイズは入場回数を共有します。
 
 ID=10118
-セカンドデイドリーム
+Second Daydream
 
 ID=10020
 遅くまでゲームをして眠っているセツカは今日も面白い夢を見ます。夢の中で登場するセツカマンのゲーム世界を経験してみてください。
@@ -26879,7 +26879,7 @@ ID=45127
 保有キャッシュ更新中…
 
 ID=20229
-ねこの着ぐるみ
+Cat Costume
 
 ID=20230
 真昼の平和と自由を満喫します。
@@ -26888,7 +26888,7 @@ ID=20231
 {0}が真昼の平和と自由を満喫します。
 
 ID=710023
-ねこの着ぐるみ
+Cat Costume
 
 ID=5067
 「決意のディスペーロア」にクラスアップグレードしました。
@@ -26897,40 +26897,40 @@ ID=772001
 共に歩む決意の矢
 
 ID=42744
-ニヒルキングダムのアルア
+Nihil Kingdom's Arua
 
 ID=42745
-堂々たる姿態アルア
+Imposing Figure, Arua
 
 ID=42746
-女王を守る剣アルア
+Sword that Protects the Queen, Arua
 
 ID=42747
-ニヒルキングダムのアルアμ
+Nihil Kingdom's Arua μ
 
 ID=42748
-堂々たる姿態アルアμ
+Imposing Figure, Arua μ
 
 ID=42749
-女王を守る剣アルアμ
+Sword that Protects the Queen, Arua μ
 
 ID=42750
-オルカ部隊のベネリス
+Orca Troop's Veneris
 
 ID=42751
-暗襲のベネリス
+Night Attack's Veneris
 
 ID=42752
-謎めいた存在のベネリス
+Mysterious Person, Veneris
 
 ID=42753
-オルカ部隊のベネリスμ
+Orca Troop's Veneris μ
 
 ID=42754
-暗襲のベネリスμ
+Night Attack's Veneris
 
 ID=42755
-謎めいた存在のベネリスμ
+Mysterious Person, Veneris μ
 
 ID=42756
 Lerfenne
@@ -27098,28 +27098,28 @@ ID=710024
 Nightmare
 
 ID=61100
-月間購入制限
+Monthly Purchase Limit
 
 ID=61101
-週間購入制限
+Weekly Purchase Limit
 
 ID=61102
-キャラクター毎の月間購入制限:{0}
+Monthly Purchase Limit per Character: {0}
 
 ID=61103
-キャラクター毎の週間購入制限:{0}
+Weekly Purchase Limit per Character: {0}
 
 ID=61104
-アカウント毎の月間購入制限:{0}
+Monthly Purchase Limit per Account: {0}
 
 ID=61105
-アカウント毎の週間購入制限:{0}
+Weekly Purchase Limit per Account: {0}
 
 ID=61106
 毎月1日00:00にポイント初期化
 
 ID=61107
-マイレージショップ:{0}
+Mileage Shop: {0}
 
 ID=61108
 購入または、プレゼントを受け取る時\n<font color='#FFBB00'>マイレージ{0}ポイント獲得</font>
@@ -28148,7 +28148,7 @@ ID=58404
 ジェスチャー情報が間違っています。
 
 ID=7020
-デザイア覚醒
+Desire Awakening
 
 ID=7021
 <font color='#FF0000'>デザイア覚醒時スキルのエフェクトが強化されダメージが1.3倍増加します。</font>
@@ -28187,7 +28187,7 @@ ID=20222
 {0}様が強くなった力で勝利を勝ち取ります。
 
 ID=20223
-デザイア覚醒
+Desire Awakening
 
 ID=20224
 デザイアエナジーが身体に宿ります。
@@ -28196,7 +28196,7 @@ ID=20225
 {0}様にデザイアエナジーが身体に宿ります。
 
 ID=710036
-日常のクレヨン
+Casual Crayon
 
 ID=40800
 トレーニングセンターに進入します。\n配置された端末機を利用して、各種バフおよびダミーモンスターを召喚できます。
