@@ -484,35 +484,53 @@ Fast Blade Attribute A Ⅲ
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
+ID=5021
+SG消費量減少I
+SG消費量が10%減少する。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG Cost ↓
+
+ID=5022
+SG消費量減少II
+SG消費量が12%減少する。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG Cost ↓
+
+ID=5023
+SG消費量減少III
+SG消費量が15％減少する。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG Cost ↓
+
 ID=5031
 Arena Rush Ⅰ
-+7% Attack.
+ダメージ量が1%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
-Attack ↑
+Damage ↑
 
 ID=5032
 Arena Rush Ⅱ
-+9% Attack.
+ダメージ量が2%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
-Attack ↑
+Damage ↑
 
 ID=5033
 Arena Rush Ⅲ
-+12% Attack.
+ダメージ量が3%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
-Attack ↑
+Damage ↑
 
 ID=5034
 Arena Rush Ⅳ
-+15% Attack.
+ダメージ量が4%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
-Attack ↑
+Damage ↑
 
 ID=5035
 Arena Rush Ⅴ
-+20% Attack.
+ダメージ量が5%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
-Attack ↑
+Damage ↑
 
 ID=5041
 Blow-up Ⅰ
@@ -5902,6 +5920,24 @@ Eternal Combination Ⅲ
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
+ID=5086
+Eternal Combination Ⅰ
+攻撃力が750増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+Attack ↑
+
+ID=5087
+Eternal Combination Ⅱ
+攻撃力が1500増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+Attack ↑
+
+ID=5088
+Eternal Combination Ⅲ
+攻撃力が2500増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+Attack ↑
+
 ID=20305
 +HP
 +30% HP.
@@ -6348,25 +6384,25 @@ Damage ↑
 
 ID=5112
 Arena Rush Ⅱ (Self)
-+7% Damage.
+ダメージ量が6%増加する。
 Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
 ID=5113
 Arena Rush Ⅲ (Self)
-+9% Damage.
++7% Damage.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
 ID=5114
 Arena Rush Ⅳ (Self)
-+12% Damage.
+ダメージ量が8%増加する。
 Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
 ID=5115
 Arena Rush Ⅴ (Self)
-+15% Damage.
+ダメージ量が10%増加する。
 Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
@@ -8010,132 +8046,132 @@ Skill Release
 
 ID=60223
 True Military Strength
-攻撃命中時、15％の確率で2.5秒間、クリティカルダメージ600、ボス/ネームドモンスターへのダメージが3％増加します。(クールタイム1.5秒、最大3重複[効果ならびに効果時間の一部])
+On hit, 15% chance of +600 Critical Damage and +3% Damage to Boss/Named Enemies for 2.5 seconds. (1.5s cooldown, and max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Increases Critical Damage and Damage to Boss/Named Enemies
 
 ID=60224
 True Military Strength
-攻撃命中時、15％の確率で3秒間、クリティカルダメージ650、ボス/ネームドモンスターへのダメージが4％増加します。(クールタイム1.5秒、最大3重複[効果ならびに効果時間の一部])
+On hit, 15% chance of +650 Critical Damage and +4% Damage to Boss/Named Enemies for 3 seconds. (1.5s cooldown, and max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Increases Critical Damage and Damage to Boss/Named Enemies
 
 ID=60225
 True Military Strength
-攻撃命中時、15％の確率で3.5秒間、クリティカルダメージ700、ボス/ネームドモンスターへのダメージが5％増加します。(クールタイム1.5秒、最大3重複[効果ならびに効果時間の一部])
+On hit, 15% chance of +700 Critical Damage and +5% Damage to Boss/Named Enemies for 3.5 seconds. (1.5s cooldown, and max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Increases Critical Damage and Damage to Boss/Named Enemies
 
 ID=60226
 True Military Strength
-攻撃命中時、15％の確率で2.5秒間、クリティカルダメージ600、ボス/ネームドモンスターへのダメージが3％増加します。(クールタイム1.5秒、最大4重複[効果ならびに効果時間の一部])
+On hit, 15% chance of +600 Critical Damage and +3% Damage to Boss/Named Enemies for 2.5 seconds. (1.5s cooldown, and max 4 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Increases Critical Damage and Damage to Boss/Named Enemies
 
 ID=60227
 True Military Strength
-攻撃命中時、15％の確率で3.5秒間、クリティカルダメージ650、ボス/ネームドモンスターへのダメージが4％増加します。(クールタイム1.5秒、最大4重複[効果ならびに効果時間の一部])
+On hit, 15% chance of +650 Critical Damage and +4% Damage to Boss/Named Enemies for 3.5 seconds. (1.5s cooldown, and max 4 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Increases Critical Damage and Damage to Boss/Named Enemies
 
 ID=60228
 True Military Strength
-攻撃命中時、15％の確率で4.5秒間、クリティカルダメージ700、ボス/ネームドモンスターへのダメージが5％増加します。(クールタイム1.5秒、最大4重複[効果ならびに効果時間の一部])
+On hit, 15% chance of +700 Critical Damage and +5% Damage to Boss/Named Enemies for 4.5 seconds. (1.5s cooldown, and max 4 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Increases Critical Damage and Damage to Boss/Named Enemies
 
 ID=9006
-弾丸
-次に使用するスキルに爆発攻撃が追加で1回で発生します。(2分間維持)
+Bullet
+Creates an additional explosion for your next skill. (cancelled in 2 minutes)
 Icon/Buff/Icon_Common_Buff_Accuracy
-弾丸リロード
+Bullet Reload
 
 ID=9007
-活性化
-2分間、武器の機能が活性化されます。5重複すると武器の制限が解除されます。
+Activate
+The weapon's feature is activated for 2 minutes. The weapon's limit will be released when stacked 5 times.
 Icon/Buff/Icon_Common_Buff_Reg
 0
 
 ID=9008
-制限解除
-武器の機能が解除されます。7秒間、スキル使用時に追加攻撃が発生します。
+Limit Release
+The weapon's limit is released. Deal additional attacks when using skills for 7 seconds.
 Icon/Buff/Icon_Common_Buff_Warm
-制限解除
+Limit Release
 
 ID=9011
-身体活性化I
-身体が活性化され、5秒間攻撃速度が3％増加します。
+Energized Body Ⅰ
++3% Attack Speed for 5 seconds.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=9012
-身体活性化II
-身体が活性化され、5秒間攻撃速度が5％増加します。
+Energized Body Ⅱ
++5% Attack Speed for 5 seconds.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=9013
-身体活性化III
-身体が活性化され、5秒間攻撃速度が7％増加します。
+Energized Body Ⅲ
++7% Attack Speed for 5 seconds.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=9014
-身体活性化IV
-身体が活性化され、5秒間攻撃速度が9％増加します。
+Energized Body Ⅳ
++9% Attack Speed for 5 seconds.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=9015
-身体活性化V
-身体が活性化され、5秒間攻撃速度が12％増加します。
+Energized Body Ⅴ
++12% Attack Speed for 5 seconds.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=9016
-身体強化I
-身体が強化され、8秒間ダメージが5％増加します。
+Enhanced Body Ⅰ
++5% Damage for 8 seconds.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
 ID=9017
-身体強化II
-身体が強化され、9秒間ダメージが7％増加します。
+Enhanced Body Ⅱ
++7% Damage for 9 seconds.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
 ID=9018
-身体強化III
-身体が強化され、10秒間ダメージが10％増加します。
+Enhanced Body Ⅲ
++10% Damage for 10 seconds.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
 ID=9021
-全体強化I
-受けるダメージ量が最大35％減少、攻撃速度が4％増加します。\n4秒後現在の数値から受けるダメージ量が7％減少、攻撃速度が4％増加します。
+Overall Enhancement Ⅰ
++35% Reduce Damage and +4% Attack Speed.\nAfter every 4 seconds, -7% Reduce Damage and +4% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Def
 受けるダメージ減少、攻撃速度増加
 
 ID=9022
-全体強化II
+Overall Enhancement Ⅱ
 受けるダメージ量が最大28％減少、攻撃速度が8％増加します。\n4秒後現在の数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
 Icon/Buff/Icon_Common_Buff_Def
 受けるダメージ減少、攻撃速度増加
 
 ID=9023
-全体強化III
+Overall Enhancement Ⅲ
 受けるダメージ量が最大21％減少、攻撃速度が12％増加します。\n4秒後現在数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
 Icon/Buff/Icon_Common_Buff_Def
 受けるダメージ減少、攻撃速度増加
 
 ID=9024
-全体強化IV
+Overall Enhancement Ⅳ
 受けるダメージ量が最大14％減少、攻撃速度が16％増加します。\n4秒後現在数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
 Icon/Buff/Icon_Common_Buff_Def
 受けるダメージ減少、攻撃速度増加
 
 ID=9025
-全体強化V
+Overall Enhancement Ⅴ
 受けるダメージ量が最大7％減少、攻撃速度が20％増加します。\n4秒後現在数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
 Icon/Buff/Icon_Common_Buff_Def
 受けるダメージ減少、攻撃速度増加
@@ -8181,3 +8217,21 @@ Awakening
 ダメージ量が15％増加します。\nSA破壊量が30％増加します。\n移動速度が20％増加します。\nSA状態になります。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
+
+ID=9040
+SG回復I
+SGが5%即時回復します。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
++SG
+
+ID=9041
+気絶Lv1
+持続時間中、気絶効果を受ける。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG 회복
+
+ID=9042
+SG回復II
+SGが10%即時回復します。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
++SG
