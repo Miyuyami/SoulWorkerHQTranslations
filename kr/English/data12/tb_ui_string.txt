@@ -887,7 +887,7 @@ ID=506
 Add as Friend
 
 ID=508
-Item use count: {0}/{1}
+Item Use Count: {0}/{1}
 
 ID=509
 ※Cannot revive because you have already exceeded the item use count.
@@ -1127,7 +1127,7 @@ ID=617
 Magic Attack Accuracy Rate
 
 ID=618
-Evaded Attack Damage
+Missed Attack Dmg
 
 ID=619
 Critical
@@ -1148,19 +1148,19 @@ ID=624
 Magic Critical
 
 ID=625
-Critical Damage
+Critical Dmg
 
 ID=626
 Magic Critical Attack
 
 ID=627
-Damage Reduction Chance
+Dmg Reduction Rate
 
 ID=628
-Damage Reduction
+Dmg Reduction
 
 ID=629
-Magic Damage Reduction
+Magic Dmg Reduction
 
 ID=630
 Persistent Abnormal State Resistance
@@ -1340,7 +1340,7 @@ ID=727
 {0} EXP
 
 ID=728
-Lv{0}
+LV.{0}
 
 ID=729
 Recycle Shop [{0}]
@@ -4031,7 +4031,7 @@ ID=7102
 SG Cost -{0}%
 
 ID=8000
-Clearance Rate {0}/{1}({2}%)
+Clearance {0}/{1} ({2}%)
 
 ID=8001
 Clear:
@@ -4775,7 +4775,7 @@ ID=10255
 Vehicle Attendant: 
 
 ID=10256
-Bank Teller: 
+Bank Manager: 
 
 ID=10257
 Mailbox: 
@@ -6449,19 +6449,19 @@ ID=18818
 Gold W-chance
 
 ID=19000
-<font color='#47C83E'>+3% Attack / +5% Evaded Attack Damage</font>
+<font color='#47C83E'>攻撃力3%/攻撃失敗時ダメージ5%増加</font>
 
 ID=19001
-<font color='#4374D9'>+5% Attack / +7% Evaded Attack Damage</font>
+<font color='#4374D9'>攻撃力5%/攻撃失敗時ダメージ7%増加</font>
 
 ID=19002
-<font color='#E0B94F'>+7% Attack / +10% Evaded Attack Damage</font>
+<font color='#E0B94F'>攻撃力7%/攻撃失敗時ダメージ10%増加</font>
 
 ID=19003
-<font color='#F15F5F'>+10% Attack / +14% Evaded Attack Damage / +3% Penetration</font>
+<font color='#F15F5F'>攻撃力10%/攻撃失敗時ダメージ14%増加/敵防御度貫通3%</font>
 
 ID=19004
-<font color='#8041D9'>+15% Attack / +20% Evaded Attack Damage / +5% Penetration</font>
+<font color='#8041D9'>攻撃力15%/攻撃失敗時ダメージ20%増加/敵防御度貫通5%</font>
 
 ID=19005
 <font color='#47C83E'>+240 Attack / +12% Defense / +12% HP</font>
@@ -6488,40 +6488,40 @@ ID=19012
 <font color='#E0B94F'>+49 Evasion / +3% Critical Resistance</font>
 
 ID=19013
-<font color='#F15F5F'>+70 Evasion / +4% Critical Resistance / +4% Damage Reduction</font>
+<font color='#F15F5F'>+70 Evasion / +4% Critical Resistance / +4% Dmg Reduction</font>
 
 ID=19014
-<font color='#8041D9'>+100 Evasion / +5% Critical Resistance / +5% Damage Reduction</font>
+<font color='#8041D9'>+100 Evasion / +5% Critical Resistance / +5% Dmg Reduction</font>
 
 ID=19015
-<font color='#47C83E'>+5 Stamina/+1% Attack Speed</font>
+<font color='#47C83E'>スタミナ5/攻撃速度1%</font>
 
 ID=19016
-<font color='#4374D9'>+8 Stamina/+2% Attack Speed</font>
+<font color='#4374D9'>スタミナ8/攻撃速度2%</font>
 
 ID=19017
-<font color='#E0B94F'>+11 Stamina/+3% Attack Speed</font>
+<font color='#E0B94F'>スタミナ11/攻撃速度3%</font>
 
 ID=19018
-<font color='#F15F5F'>+14 Stamina/+4% Attack Speed/+3% Movement Speed</font>
+<font color='#F15F5F'>スタミナ14/攻撃速度4%/移動速度3%</font>
 
 ID=19019
-<font color='#8041D9'>+17 Stamina/+5% Attack Speed/+4% Movement Speed</font>
+<font color='#8041D9'>スタミナ17/攻撃速度5%/移動速度4%</font>
 
 ID=19020
-<font color='#47C83E'>+28 Accuracy / +600 Critical Damage</font>
+<font color='#47C83E'>命中度28/クリティカルダメージ600</font>
 
 ID=19021
-<font color='#4374D9'>+41 Accuracy / +700 Critical Damage</font>
+<font color='#4374D9'>命中度41/クリティカルダメージ700</font>
 
 ID=19022
-<font color='#E0B94F'>+58 Accuracy / +800 Critical Damage</font>
+<font color='#E0B94F'>命中度58/クリティカルダメージ800</font>
 
 ID=19023
-<font color='#F15F5F'>+84 Accuracy / +900 Critical Damage / +1% Critical</font>
+<font color='#F15F5F'>命中度84/クリティカルダメージ900/クリティカル1%</font>
 
 ID=19024
-<font color='#8041D9'>+120 Accuracy / +1000 Critical Damage / +2% Critical</font>
+<font color='#8041D9'>命中度120/クリティカルダメージ1000/クリティカル2%</font>
 
 ID=19025
 <font color='#47C83E'>+3% Attack</font>
@@ -6584,19 +6584,19 @@ ID=19044
 <font color='#8041D9'>+6% Attack Speed/+6% Movement Speed</font>
 
 ID=19045
-<font color='#47C83E'>+700 Critical Damage</font>
+<font color='#47C83E'>クリティカルダメージ700</font>
 
 ID=19046
-<font color='#4374D9'>+850 Critical Damage</font>
+<font color='#4374D9'>クリティカルダメージ850</font>
 
 ID=19047
-<font color='#E0B94F'>+1000 Critical Damage</font>
+<font color='#E0B94F'>クリティカルダメージ1000</font>
 
 ID=19048
-<font color='#F15F5F'>+1350 Critical Damage</font>
+<font color='#F15F5F'>クリティカルダメージ1350</font>
 
 ID=19049
-<font color='#8041D9'>+1700 Critical Damage</font>
+<font color='#8041D9'>クリティカルダメージ1700</font>
 
 ID=19400
 Standard
@@ -6629,7 +6629,7 @@ ID=19507
 Knowledge of Japanese culture
 
 ID=19508
-[Amazing Gesture] Available
+Hanbok
 
 ID=19511
 Candy Knight
@@ -7019,7 +7019,7 @@ ID=21039
 Level is insufficient. This item cannot be used.
 
 ID=21040
-Daily Usage Restriction: [{0}/{1}]
+Daily Usage Limit: [{0}/{1}]
 
 ID=21041
 Cannot be used when your basic fatigue is at maximum (200).
@@ -7463,7 +7463,7 @@ ID=22230
 Show Info
 
 ID=22231
-スクリーンショット並びにゲーム設定初期化
+Screenshot and Game Settings
 
 ID=22232
 Screenshot Save Location
@@ -9548,7 +9548,7 @@ ID=26042
 Magic Accuracy
 
 ID=26043
-Evaded Attack Damage
+Missed Attack Dmg
 
 ID=26044
 Critical
@@ -9569,10 +9569,10 @@ ID=26049
 Magic Critical
 
 ID=26050
-Critical Damage
+Critical Dmg
 
 ID=26051
-Critical Damage
+Critical Dmg
 
 ID=26052
 Magic Critical Attack
@@ -9581,13 +9581,13 @@ ID=26053
 Magic Critical Attack
 
 ID=26054
-Damage Reduction Chance
+Dmg Reduction Rate
 
 ID=26055
-Damage Reduction
+Dmg Reduction
 
 ID=26056
-Magic Damage Reduction
+Magic Dmg Reduction
 
 ID=26057
 Burn Resistance
@@ -9623,13 +9623,13 @@ ID=26067
 Add'l. Dmg: PvP [%]
 
 ID=26068
-Reduced Dmg: PvP [%]
+Dmg Reduction: PvP [%]
 
 ID=26069
-Add'l. Dmg: General Mobs [%]
+Add'l. Dmg: Common [%]
 
 ID=26070
-Add'l. Dmg: Boss/Named Mobs [%]
+Add'l. Dmg: Boss/Named [%]
 
 ID=26071
 Add'l. Dmg: Short-range Attacks [%]
@@ -9644,16 +9644,16 @@ ID=26074
 Add'l. Dmg: Down [%]
 
 ID=26075
-Reduced Dmg: General Mobs [%]
+Dmg Reduction: Common [%]
 
 ID=26076
-Reduced Dmg: Boss/Named Mobs [%]
+Dmg Reduction: Boss/Named [%]
 
 ID=26077
-Reduced Dmg: Short-range Attack [%]
+Dmg Reduction: Short-range Attack [%]
 
 ID=26078
-Reduced Dmg: Long-range Attack [%]
+Dmg Reduction: Long-range Attack [%]
 
 ID=26079
 SA Break
@@ -9743,40 +9743,40 @@ ID=26107
 Add'l. Dmg: Nier Soulworker [%]
 
 ID=26108
-Add'l. Dmg: District 6 Mobs [%]
+Add'l. Dmg: District 6 [%]
 
 ID=26109
-Reduced Dmg: Souljunk [%]
+Dmg Reduction: Souljunk [%]
 
 ID=26110
-Reduced Dmg: Puppet Corps [%]
+Dmg Reduction: Puppet Corps [%]
 
 ID=26111
-Reduced Dmg: NED Company [%]
+Dmg Reduction: NED Company [%]
 
 ID=26112
-Reduced Dmg: Rapid Flame [%]
+Dmg Reduction: Rapid Flame [%]
 
 ID=26113
-Reduced Dmg: Nihil Kingdom [%]
+Dmg Reduction: Nihil Kingdom [%]
 
 ID=26114
-Reduced Dmg: Iron Force [%]
+Dmg Reduction: Iron Force [%]
 
 ID=26115
-Reduced Dmg: Nier Soulworker [%]
+Dmg Reduction: Nier Soulworker [%]
 
 ID=26116
-Reduced Dmg: District 6 Mobs [%]
+Dmg Reduction: District 6 [%]
 
 ID=26117
-Reduced Dmg: Evaded Attack [%]
+Dmg Reduction: Missed Attack [%]
 
 ID=26118
-Reduced Dmg: Aerial [%]
+Dmg Reduction: Aerial [%]
 
 ID=26119
-Reduced Dmg: Down [%]
+Dmg Reduction: Down [%]
 
 ID=26120
 Activate Stamina Recovery on Attack Chance
@@ -9797,16 +9797,16 @@ ID=26125
 Combat Movement Speed
 
 ID=26126
-Golden Citadel Forces Add'l. Dmg [%]
+Add'l. Dmg: Golden Citadel [%]
 
 ID=26127
-Golden Citadel Forces Reduced Dmg [%]
+Dmg Reduction: Golden Citadel [%]
 
 ID=26128
-Primal Forces Add'l. Dmg [%]
+Add'l. Dmg: Primal [%]
 
 ID=26129
-Primal Forces Reduced Dmg [%]
+Dmg Reduction: Primal [%]
 
 ID=26130
 [Brilliance] Attack
@@ -9920,7 +9920,7 @@ ID=26319
 When hit, 15% chance of +{0} Evasion for 3s
 
 ID=26320
-When evaded, 10% chance of +{0}% Evaded Attack Damage for 10s
+When evaded, 10% chance of +{0}% Missed Attack Dmg for 10s
 
 ID=26321
 When critically hit, 50% chance of +{0} HP
@@ -9932,7 +9932,7 @@ ID=26323
 In town, +{0}% Movement Speed
 
 ID=26324
-When hit by a boss, 10% chance of +{0}% Damage Reduction for 5s
+When hit by a boss, 10% chance of +{0}% Dmg Reduction for 5s
 
 ID=26325
 When evaded, next attack deals +{0}% Attack
@@ -9971,13 +9971,13 @@ ID=26336
 When hit, 20% chance of SA effect for 12s
 
 ID=26337
-When evaded, +{0}% Damage Reduction for 5s
+When evaded, +{0}% Dmg Reduction for 5s
 
 ID=26338
-When hit mid-air, +{0}% Damage Reduction for 5s.
+When hit mid-air, +{0}% Dmg Reduction for 5s.
 
 ID=26339
-When hit while down, +{0}% Damage Reduction for 5s
+When hit while down, +{0}% Dmg Reduction for 5s
 
 ID=26340
 When being hit under 50% HP, 10% chance of +{0}% Defense for 5s
@@ -9998,7 +9998,7 @@ ID=26345
 On critical hit, 5% chance of +{0]% Attack for 5s
 
 ID=26346
-On hit, 5% chance of +{0} Critical Damage for 3s
+On hit, 5% chance of +{0} Critical Dmg for 3s
 
 ID=26347
 When critically hit, 50% chance of +{0}% Attack for 1s
@@ -10010,7 +10010,7 @@ ID=26349
 When evaded, 10% chance of +{0}% Critical for 3s
 
 ID=26350
-When evaded, 10% chance of +{0} Critical Damage for 5s
+When evaded, 10% chance of +{0} Critical Dmg for 5s
 
 ID=26351
 On kill, +{0} Attack for 1s
@@ -10043,7 +10043,7 @@ ID=26360
 スーパーアーマーブレイク発動時、5秒間、クリティカル{0}%増加
 
 ID=26361
-On evaded hit, 10% chance of +{0} Critical Damage for 3s
+On evaded hit, 10% chance of +{0} Critical Dmg for 3s
 
 ID=26362
 On hit with 10% Stamina or less, +{0}% Attack
@@ -10055,10 +10055,10 @@ ID=26364
 When hit, 30% chance of +{0} Accuracy for 5s
 
 ID=26365
-When hit, 30% chance of +{0} Critical Damage for 5s
+When hit, 30% chance of +{0} Critical Dmg for 5s
 
 ID=26366
-When hit, 30% chance of +{0}% Evaded Attack Damage for 5s
+When hit, 30% chance of +{0}% Missed Attack Dmg for 5s
 
 ID=26367
 When hit, 30% chance of +{0}% SA Break for 5s
@@ -10070,10 +10070,10 @@ ID=26369
 On evasion, 30% chance of {0} Accuracy for 5s
 
 ID=26370
-When evaded, 30% chance of +{0} Critical Damage for 5s
+When evaded, 30% chance of +{0} Critical Dmg for 5s
 
 ID=26371
-When evaded, 30% chance of +{0}% Evaded Attack Damage for 5s
+When evaded, 30% chance of +{0}% Missed Attack Dmg for 5s
 
 ID=26372
 On evasion, 30% chance of +{0}% SA Break for 5s
@@ -10085,7 +10085,7 @@ ID=26374
 スキル使用時、10%の確率で5秒間、命中度{0}増加
 
 ID=26375
-On skill use, 30% chance of +{0}% Evaded Attack Damage for 5 s
+On skill use, 30% chance of +{0}% Missed Attack Dmg for 5s
 
 ID=26376
 ダッシュ使用時、30%の確率で5秒間、攻撃力{0}増加
@@ -10253,7 +10253,7 @@ ID=27839
 On critical hit, 10% chance of +{0}% SG
 
 ID=27840
-On SA Break, 10% chance of +{0} Critical Damage for 3s
+On SA Break, 10% chance of +{0} Critical Dmg for 3s
 
 ID=27841
 スキル使用時、5%の確率で4秒間、クリティカル{0}%増加
@@ -10271,10 +10271,10 @@ ID=27845
 In District 6, +{0}% Maximum HP
 
 ID=27846
-In District 6, +{0} Critical Damage
+In District 6, +{0} Critical Dmg
 
 ID=27847
-+{0} Critical Damage to enemies with at least 70% HP (cancelled on critical hit)
++{0} Critical Dmg to enemies with at least 70% HP (cancelled on critical hit)
 
 ID=27848
 When hit with 20% HP or less, 20% chance of +{0} HP
@@ -10289,13 +10289,13 @@ ID=27851
 命中時、対象のHPが50%以上の時、クリティカル{0}%増加(命中時解除)
 
 ID=27852
-On hit, +{0} Critical Damage to enemies with less than 50% HP (cancelled on critical hit)
+On hit, +{0} Critical Dmg to enemies with less than 50% HP (cancelled on critical hit)
 
 ID=27853
 On kill, 5% chance of +{0} SV
 
 ID=27854
-When critically hit, 20% chance of +{0} Damage Reduction for 2s
+When critically hit, 20% chance of +{0} Dmg Reduction for 2s
 
 ID=27855
 On HP recovery, 10% chance of +{0} Attack for 3s
@@ -20789,7 +20789,7 @@ ID=9998
 Dreadful Echo
 
 ID=9999
-アルター・オブ・ヴォイド
+Altar of Void
 
 ID=10000
 Perforated Street
@@ -20840,7 +20840,7 @@ ID=27895
 On critical hit, 10% chance of +{0}% Attack Speed for 1s
 
 ID=27896
-On critical hit, 10% chance of +{0} Critical Damage for 1s
+On critical hit, 10% chance of +{0} Critical Dmg for 1s
 
 ID=27897
 When hit, 20% chance of +{0}% Attack Speed for 1s
@@ -20852,7 +20852,7 @@ ID=27899
 On evasion, 30% chance of +{0}% Critical for 2s
 
 ID=27900
-When evaded, 30% chance of +{0} Critical Damage for 5s
+When evaded, 30% chance of +{0} Critical Dmg for 5s
 
 ID=27901
 スキル使用時、5%の確率で5秒間防御度貫通{0}%増加
@@ -20870,7 +20870,7 @@ ID=27905
 On hit, 7% chance of +{0}% SA Break for 5s
 
 ID=27906
-Kill Effect: +{0} Critical Damage for 5s
+Kill Effect: +{0} Critical Dmg for 5s
 
 ID=27907
 On kill Effect: +{0}% Critical for 5s
@@ -20879,13 +20879,13 @@ ID=27908
 On kill Effect: +{0}% Penetration for 5s
 
 ID=27909
-On skill use, 10% chance of +{0} Critical Damage
+On skill use, 10% chance of +{0} Critical Dmg
 
 ID=27910
-When HP is at least 70%, on successful attack, +{0} Critical Damage for 3s
+When HP is at least 70%, on successful attack, +{0} Critical Dmg for 3s
 
 ID=27911
-When HP is 30% or less, on successful attack, +{0} Critical Damage for 3s
+When HP is 30% or less, on successful attack, +{0} Critical Dmg for 3s
 
 ID=27912
 命中時、15%の確率でHP{0}回復
@@ -20912,7 +20912,7 @@ ID=27919
 On dodge, 10% chance to recover {0}% HP
 
 ID=27920
-Kill Effect: +{0}% Damage Reduction for 5s
+Kill Effect: +{0}% Dmg Reduction for 5s
 
 ID=27921
 スキル使用時、10%の確率でSG{0}%回復
@@ -20972,19 +20972,19 @@ ID=19059
 <font color='#8041D9'>+200 Evasion/+2% Attack Speed</font>
 
 ID=19060
-<font color='#47C83E'>+550 Critical Damage</font>
+<font color='#47C83E'>+550 Critical Dmg</font>
 
 ID=19061
-<font color='#4374D9'>+750 Critical Damage</font>
+<font color='#4374D9'>+750 Critical Dmg</font>
 
 ID=19062
-<font color='#E0B94F'>+950 Critical Damage/In combat area, +1% Movement Speed</font>
+<font color='#E0B94F'>+950 Critical Dmg/In combat area, +1% Movement Speed</font>
 
 ID=19063
-<font color='#F15F5F'>+1150 Critical Damage/In combat area, +2% Movement Speed</font>
+<font color='#F15F5F'>+1150 Critical Dmg/In combat area, +2% Movement Speed</font>
 
 ID=19064
-<font color='#8041D9'>+1350 Critical Damage/In combat area, +3% Movement Speed</font>
+<font color='#8041D9'>+1350 Critical Dmg/In combat area, +3% Movement Speed</font>
 
 ID=19065
 <font color='#47C83E'>+1% Attack Speed/+1% Critical</font>
@@ -21017,79 +21017,79 @@ ID=19074
 <font color='#8041D9'>クリティカル3% / スーパーアーマー破壊力15% </font>
 
 ID=19075
-<font color='#47C83E'>+240 Critical Damage / +190 Attack</font>
+<font color='#47C83E'>+240 Critical Dmg / +190 Attack</font>
 
 ID=19076
-<font color='#4374D9'>+340 Critical Damage / +270 Attack</font>
+<font color='#4374D9'>+340 Critical Dmg / +270 Attack</font>
 
 ID=19077
-<font color='#E0B94F'>+490 Critical Damage / +390 Attack</font>
+<font color='#E0B94F'>+490 Critical Dmg / +390 Attack</font>
 
 ID=19078
-<font color='#F15F5F'>+700 Critical Damage / +560 Attack / +3% Critical</font>
+<font color='#F15F5F'>+700 Critical Dmg / +560 Attack / +3% Critical</font>
 
 ID=19079
-<font color='#8041D9'>+1000 Critical Damage / +800 Attack / +3% Critical</font>
+<font color='#8041D9'>+1000 Critical Dmg / +800 Attack / +3% Critical</font>
 
 ID=19080
-<font color='#47C83E'>+24% HP / +600 Attack / +2% Damage Reduction</font>
+<font color='#47C83E'>+24% HP / +600 Attack / +2% Dmg Reduction</font>
 
 ID=19081
-<font color='#4374D9'>+34% HP / +857 Attack / +3% Damage Reduction</font>
+<font color='#4374D9'>+34% HP / +857 Attack / +3% Dmg Reduction</font>
 
 ID=19082
-<font color='#E0B94F'>+49% HP / +1225 Attack / +5% Damage Reduction</font>
+<font color='#E0B94F'>+49% HP / +1225 Attack / +5% Dmg Reduction</font>
 
 ID=19083
-<font color='#F15F5F'>+70% HP / +1750 Attack / +7% Damage Reduction</font>
+<font color='#F15F5F'>+70% HP / +1750 Attack / +7% Dmg Reduction</font>
 
 ID=19084
-<font color='#8041D9'>+100% HP / +2500 Attack / +10% Damage Reduction</font>
+<font color='#8041D9'>+100% HP / +2500 Attack / +10% Dmg Reduction</font>
 
 ID=19085
-<font color='#47C83E'>+24% Defense / +1% Damage Reduction / +1200 HP</font>
+<font color='#47C83E'>+24% Defense / +1% Dmg Reduction / +1200 HP</font>
 
 ID=19086
-<font color='#4374D9'>+34% Defense / +2% Damage Reduction / +1715 HP</font>
+<font color='#4374D9'>+34% Defense / +2% Dmg Reduction / +1715 HP</font>
 
 ID=19087
-<font color='#E0B94F'>+49% Defense / +3% Damage Reduction / +2450 HP</font>
+<font color='#E0B94F'>+49% Defense / +3% Dmg Reduction / +2450 HP</font>
 
 ID=19088
-<font color='#F15F5F'>+70% Defense / +4% Damage Reduction / +3500 HP</font>
+<font color='#F15F5F'>+70% Defense / +4% Dmg Reduction / +3500 HP</font>
 
 ID=19089
-<font color='#8041D9'>+100% Defense / +5% Damage Reduction / +5000 HP</font>
+<font color='#8041D9'>+100% Defense / +5% Dmg Reduction / +5000 HP</font>
 
 ID=19090
-<font color='#47C83E'>+5 Max Stamina / +192 Critical Damage / +48 Accuracy</font>
+<font color='#47C83E'>スタミナ5/クリティカルダメージ192/命中度48</font>
 
 ID=19091
-<font color='#4374D9'> +7 Max Stamina / +274 Critical Damage / +68 Accuracy</font>
+<font color='#4374D9'>スタミナ7/クリティカルダメージ274/命中度68</font>
 
 ID=19092
-<font color='#E0B94F'> +10 Max Stamina / +392 Critical Damage / +98 Accuracy</font>
+<font color='#E0B94F'>スタミナ10/クリティカルダメージ392/命中度98</font>
 
 ID=19093
-<font color='#F15F5F'> +14 Max Stamina / +560 Critical Damage / +140 Accuracy</font>
+<font color='#F15F5F'>スタミナ14/クリティカルダメージ560/命中度140</font>
 
 ID=19094
-<font color='#8041D9'> +20 Max Stamina / +800 Critical Damage / +200 Accuracy</font>
+<font color='#8041D9'>スタミナ20/クリティカルダメージ800/命中度200</font>
 
 ID=19095
-<font color='#47C83E'>最大HP1920 / スタミナ回復1 / 攻撃力120</font>
+<font color='#47C83E'>HP1920/スタミナ回復1/攻撃力120</font>
 
 ID=19096
-<font color='#4374D9'>最大HP2744 / スタミナ回復2 / 攻撃力171</font>
+<font color='#4374D9'>HP2744/スタミナ回復2/攻撃力171</font>
 
 ID=19097
-<font color='#E0B94F'>最大HP3920 / スタミナ回復3 / 攻撃力245</font>
+<font color='#E0B94F'>HP3920/スタミナ回復3/攻撃力245</font>
 
 ID=19098
-<font color='#F15F5F'>最大HP5600 / スタミナ回復4 / 攻撃力350</font>
+<font color='#F15F5F'>HP5600/スタミナ回復4/攻撃力350</font>
 
 ID=19099
-<font color='#8041D9'>最大HP8000 / スタミナ回復5 / 攻撃力500</font>
+<font color='#8041D9'>HP8000/スタミナ回復5/攻撃力500</font>
 
 ID=19402
 Assassin
@@ -21728,7 +21728,7 @@ ID=60621
 報酬完了
 
 ID=60622
-適用中
+Applied
 
 ID=60623
 Not applied
@@ -22478,7 +22478,7 @@ ID=27884
 PvP: +{0}% SA Break
 
 ID=27885
-PvP: +{0} Critical Damage
+PvP: +{0} Critical Dmg
 
 ID=27886
 PVP：的中度 {0} 増加
@@ -22607,7 +22607,7 @@ ID=22691
 他プレイヤーのエフェクト
 
 ID=22113
-カメラ垂直反転
+Invert Camera Vertically
 
 ID=60719
 Register
@@ -24437,7 +24437,7 @@ ID=18924
 支援登録[{0}]
 
 ID=18925
-ソウルストーン管理[{0}]
+Manage Soulstone [{0}]
 
 ID=42510
 Miriam
@@ -25298,10 +25298,10 @@ ID=65019
 Apply
 
 ID=65020
-取消
+Cancel
 
 ID=65021
-適用中
+Applied
 
 ID=65025
 該当ポートレートの期間が延長されました。
@@ -26372,10 +26372,10 @@ ID=31182
 All
 
 ID=31183
-パーティー募集登録
+Party Recruitment
 
 ID=31184
-フォース募集登録
+Force Recruitment
 
 ID=31185
 パーティー募集解除
@@ -26384,13 +26384,13 @@ ID=31186
 フォース募集解除
 
 ID=31187
-パーティー募集登録
+Party Recruitment
 
 ID=31188
 District
 
 ID=31189
-フォース募集登録
+Force Recruitment
 
 ID=31190
 Anything
@@ -27176,10 +27176,10 @@ ID=67010
 シーズン待機中
 
 ID=67011
-現在の記録
+Current Records
 
 ID=67012
-最高記録
+Best Records
 
 ID=67013
 View Previous Rankings
@@ -27440,13 +27440,13 @@ ID=80108
 You can't confirm your Ranking since your character is not set.
 
 ID=59630
-There is no character registered for Ranking. Please select and register your representative from the Character Selection Screen. You will not receive any rewards if you do not register.
+代表キャラクターが設定されていません。当画面内の「キャラクター設定」より代表キャラクターを設定してください。この設定を行っていない場合、ランキングコンテンツ等の報酬を受け取ることができません。
 
 ID=59631
-Register the selected character as your representative.\nThe selected character may participate in Rankings,\nand will be the representative of your account.\n\n<font color='#FF0000'>After registering the character,\nyou can't register other characters for 24 hours.</font>
+選択されたキャラクターを「代表キャラクター」に設定します。\n選択されたキャラクターはランキングへの参加が可能となり、アカウントの代表的なキャラクターとなります。\n\n<font color='#FF0000'>キャラクター登録後、24時間は他のキャラクターを登録できません。</font>
 
 ID=59632
-代表キャラクターが変更された場合、\n 現在の代表キャラクターで集計していた記録がすべて削除され、\n\n24時間の間、代表キャラクターの交換ができません。\n\n続行しますか？
+代表キャラクターが変更された場合、 現在の代表キャラクターで集計していた記録がすべて削除され、24時間の間、代表キャラクターの交換ができません。\n\n続行しますか？
 
 ID=59633
 The Ranking Rewards have yet to be received by the current representative.\n\nYou cannot change representative if the rewards are yet to be received.
@@ -28124,7 +28124,7 @@ ID=40778
 まもなく、快楽を追い求める少年と復讐を渇望する少女が召喚されます。生き残ってください。
 
 ID=10121
-バトル・オブ・ヴォイド
+Battle of Void
 
 ID=40773
 身の程も知らぬ雑魚たちが集まってるな。力の差をその体で感じさせてやるぞ。
@@ -28484,7 +28484,7 @@ ID=42775
 Exiled Princess
 
 ID=42776
-青黒軍団の王女
+Twilight Army's Princess
 
 ID=42777
 Junk Queen μ
@@ -28493,7 +28493,7 @@ ID=42778
 Exiled Princess μ
 
 ID=42779
-青黒軍団の王女μ
+Twilight Army's Princess μ
 
 ID=43426
 [S] Junk Queen
@@ -28505,13 +28505,13 @@ ID=32136
 Contact Us
 
 ID=24908
-エフネル
+Ephnel
 
 ID=24909
-槍
+Spear
 
 ID=97
-エフネル
+Ephnel
 
 ID=5447
 スピアと派手な足技を利用して敵を貫く。
@@ -28520,58 +28520,58 @@ ID=5477
 世界に抗い、屈することない覚悟で生まれ変わった少女。何に対しても折れない不屈の意志を貫く。
 
 ID=18598
-エアバースト
+Air Burst
 
 ID=18599
-ソニックブーム
+Sonic Boom
 
 ID=18605
-ライトニングロッド
+Lightning Rod
 
 ID=18606
-スウィフトスタブ
+Swift Stab
 
 ID=18607
-リジェクションフィールド
+Field Octagon
 
 ID=18608
-スピアダンス
+Spear Dance
 
 ID=18609
-ヴィシャスウッドペッカー
+Vicious Woodpecker
 
 ID=18610
-エンジェリックステップ
+Angelic Step
 
 ID=18611
-アマゾネスハント
+Amazoness Hunt
 
 ID=18612
-サポートコール
+Support Call
 
 ID=18613
-マンバスコイル
+Mamba's Coil
 
 ID=18614
-アセンディングトルネード
+Ascending Tornado
 
 ID=18615
-スーパーノヴァ
+Supernova
 
 ID=1062
-シングルポイントサイドテール
+Single Point Sidetail
 
 ID=781001
-不屈のボミングスピア
+Bombing Spear of Tenacity
 
 ID=782001
 急転する砕身の閃槍
 
 ID=1063
-ウェーブサイドテール
+Wavy Sidetail
 
 ID=1066
-キュートバンサイドテール
+Cute Bun Sidetail
 
 ID=49242
 http://soulworker.gamecom.jp/ingame/qna/
@@ -28634,7 +28634,7 @@ ID=62000
 ネットカフェ特典メニュー
 
 ID=62001
-コスチュームレンタル
+Costume Rental
 
 ID=62002
 買い物カゴ
@@ -28688,7 +28688,265 @@ ID=54024
 クエストの保有上限を超過したため受注できません。
 
 ID=16875
-取引所検索
+Search on Market
 
 ID=18824
 エフネル生放送記念プレゼント
+
+ID=18263
+装着中のブローチとのテーマまたは等級が異なるため、セット効果が発動されません。装着しますか？\nブローチ装着後には解除できません。
+
+ID=18264
+Manage All Brooches
+
+ID=52085
+選択精錬ポイントの累積量を超えたため使用できません。
+
+ID=18265
+セット効果図鑑
+
+ID=18266
+Head
+
+ID=18267
+Gloves
+
+ID=18268
+Shoes
+
+ID=18269
+Top
+
+ID=18270
+Bottom
+
+ID=19100
+攻撃力<font color='#E0B94F'>7%</font> / <font color='#F15F5F'>10%</font> / <font color='#8041D9'>15%</font>増加
+
+ID=19101
+スタミナ<font color='#E0B94F'>11</font> / <font color='#F15F5F'>14</font> / <font color='#8041D9'>17</font>増加
+
+ID=19102
+命中度<font color='#E0B94F'>58</font> / <font color='#F15F5F'>84</font> / <font color='#8041D9'>120</font>増加
+
+ID=19103
+攻撃力<font color='#E0B94F'>490</font> / <font color='#F15F5F'>700</font> / <font color='#8041D9'>1000</font>増加
+
+ID=19104
+回避度<font color='#E0B94F'>49</font> / <font color='#F15F5F'>70</font> / <font color='#8041D9'>100</font>増加
+
+ID=19105
+攻撃失敗時ダメージ<font color='#E0B94F'>10%</font> / <font color='#F15F5F'>14%</font> / <font color='#8041D9'>20%</font>増加
+
+ID=19106
+攻撃速度<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>4%</font> / <font color='#8041D9'>5%</font>増加
+
+ID=19107
+クリティカルダメージ<font color='#E0B94F'>800</font> / <font color='#F15F5F'>900</font> / <font color='#8041D9'>1000</font>増加
+
+ID=19108
+防御度<font color='#E0B94F'>25%</font> / <font color='#F15F5F'>35%</font> / <font color='#8041D9'>50%</font>増加
+
+ID=19109
+クリティカル抵抗<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>4%</font> / <font color='#8041D9'>5%</font>増加
+
+ID=19110
+敵防御度貫通<font color='#F15F5F'>3%</font> / <font color='#8041D9'>5%</font>増加
+
+ID=19111
+移動速度<font color='#F15F5F'>3%</font> / <font color='#8041D9'>4%</font>増加
+
+ID=19112
+クリティカル<font color='#F15F5F'>1%</font> / <font color='#8041D9'>2%</font>増加
+
+ID=19113
+HP<font color='#E0B94F'>25%</font> / <font color='#F15F5F'>35%</font> / <font color='#8041D9'>50%</font>増加
+
+ID=19114
+ダメージ減少<font color='#F15F5F'>4%</font> / <font color='#8041D9'>5%</font>増加
+
+ID=19115
+クリティカルダメージ<font color='#E0B94F'>490</font> / <font color='#F15F5F'>700</font> / <font color='#8041D9'>1000</font>増加
+
+ID=19116
+スタミナ<font color='#E0B94F'>10</font> / <font color='#F15F5F'>14</font> / <font color='#8041D9'>20</font>増加
+
+ID=19117
+HP<font color='#E0B94F'>3920</font> / <font color='#F15F5F'>5600</font> / <font color='#8041D9'>8000</font>増加
+
+ID=19118
+HP<font color='#E0B94F'>49%</font> / <font color='#F15F5F'>70%</font> / <font color='#8041D9'>100%</font>増加
+
+ID=19119
+防御度<font color='#E0B94F'>49%</font> / <font color='#F15F5F'>70%</font> / <font color='#8041D9'>100%</font>増加
+
+ID=19120
+攻撃力<font color='#E0B94F'>390</font> / <font color='#F15F5F'>560</font> / <font color='#8041D9'>800</font>増加
+
+ID=19121
+クリティカルダメージ<font color='#E0B94F'>392</font> / <font color='#F15F5F'>560</font> / <font color='#8041D9'>800</font>増加
+
+ID=19122
+スタミナ回復<font color='#E0B94F'>3</font> / <font color='#F15F5F'>4</font> / <font color='#8041D9'>5</font>増加
+
+ID=19123
+攻撃力<font color='#E0B94F'>1225</font> / <font color='#F15F5F'>1750</font> /<font color='#8041D9'>2500</font>増加
+
+ID=19124
+ダメージ減少<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>4%</font> / <font color='#8041D9'>5%</font>増加
+
+ID=19125
+クリティカル<font color='#F15F5F'>3%</font> / <font color='#8041D9'>3%</font>増加
+
+ID=19126
+命中度<font color='#E0B94F'>98</font> / <font color='#F15F5F'>140</font> / <font color='#8041D9'>200</font>増加
+
+ID=19127
+攻撃力<font color='#E0B94F'>245</font> / <font color='#F15F5F'>350</font> / <font color='#8041D9'>500</font>増加
+
+ID=19128
+ダメージ減少<font color='#E0B94F'>5%</font> / <font color='#F15F5F'>7%</font> / <font color='#8041D9'>10%</font>増加
+
+ID=19129
+HP<font color='#E0B94F'>2450</font> / <font color='#F15F5F'>3500</font> / <font color='#8041D9'>5000</font>増加
+
+ID=19130
+攻撃力<font color='#E0B94F'>10%</font> / <font color='#F15F5F'>20%</font> / <font color='#8041D9'>25%</font>増加
+
+ID=19131
+攻撃速度<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>5%</font> / <font color='#8041D9'>6%</font>増加
+
+ID=19132
+クリティカルダメージ<font color='#E0B94F'>1000</font> / <font color='#F15F5F'>1350</font> / <font color='#8041D9'>1700</font>増加
+
+ID=19133
+クリティカル<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>4%</font> / <font color='#8041D9'>5%</font>増加
+
+ID=19134
+SA破壊力<font color='#E0B94F'>12%</font> / <font color='#F15F5F'>18%</font> / <font color='#8041D9'>25%</font>増加
+
+ID=19135
+0
+
+ID=19136
+移動速度<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>5%</font> / <font color='#8041D9'>6%</font>増加
+
+ID=19137
+0
+
+ID=19138
+0
+
+ID=19139
+0
+
+ID=19140
+0
+
+ID=19141
+0
+
+ID=19142
+0
+
+ID=19143
+0
+
+ID=19144
+0
+
+ID=19145
+クリティカル<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>4%</font> / <font color='#8041D9'>5%</font>増加
+
+ID=19146
+攻撃速度<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>5%</font> / <font color='#8041D9'>6%</font>増加
+
+ID=19147
+クリティカル<font color='#E0B94F'>1%</font> / <font color='#F15F5F'>2%</font> / <font color='#8041D9'>3%</font>増加
+
+ID=19148
+回避度<font color='#E0B94F'>120</font> / <font color='#F15F5F'>160</font> / <font color='#8041D9'>200</font>増加
+
+ID=19149
+クリティカルダメージ<font color='#E0B94F'>950</font> / <font color='#F15F5F'>1150</font> / <font color='#8041D9'>1350</font>増加
+
+ID=19150
+0
+
+ID=19151
+クリティカル<font color='#E0B94F'>1%</font> / <font color='#F15F5F'>2%</font> / <font color='#8041D9'>3%</font>増加
+
+ID=19152
+SA破壊力<font color='#E0B94F'>7%</font> / <font color='#F15F5F'>10%</font> / <font color='#8041D9'>15%</font>増加
+
+ID=19153
+攻撃速度<font color='#F15F5F'>1%</font> / <font color='#8041D9'>2%</font>増加
+
+ID=19154
+戦闘エリア移動速度<font color='#E0B94F'>1%</font> / <font color='#F15F5F'>2%</font> / <font color='#8041D9'>3%</font>増加
+
+ID=19155
+0
+
+ID=19156
+0
+
+ID=19157
+0
+
+ID=19158
+0
+
+ID=19159
+0
+
+ID=18271
+SD
+
+ID=18272
+BSK
+
+ID=18273
+FOT
+
+ID=18274
+SIN
+
+ID=18275
+テーマ
+
+ID=18276
+ブローチセット効果(<font color='#E0B94F'>メガ</font>/<font color='#F15F5F'>ギガ</font>/<font color='#8041D9'>テラ</font>)
+
+ID=18277
+メイズをやり直す際には、入場アイテムまたはFPを消耗します。\n進行中のメイズを放棄し、やり直しますか？ 
+
+ID=10126
+ディプルスホライズン
+
+ID=5956
+ノアとエノックをこらしめれば、最もセクシーな「誰か」が登場します。
+
+ID=11727
+海辺の
+
+ID=11728
+ひと夏の
+
+ID=11729
+激動の
+
+ID=11730
+揺動の
+
+ID=10136
+ランブルバケーションナイト
+
+ID=18730
+拡声器が足りません。
+
+ID=5068
+「刷新のボミングスピア」にクラスアップグレードしました。
+
+ID=49502
+メイズリスタート

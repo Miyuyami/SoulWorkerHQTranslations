@@ -484,35 +484,53 @@ ID=5013
 Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
+ID=5021
+SG消費量減少I
+SG消費量が10%減少する。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG消費量減少
+
+ID=5022
+SG消費量減少II
+SG消費量が12%減少する。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG消費量減少
+
+ID=5023
+SG消費量減少III
+SG消費量が15％減少する。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG消費量減少
+
 ID=5031
 アリーナラッシュⅠ
-攻撃力が7%上昇する。
+ダメージ量が1%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃力増加
+ダメージ量増加
 
 ID=5032
 アリーナラッシュⅡ
-攻撃力が9%上昇する。
+ダメージ量が2%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃力増加
+ダメージ量増加
 
 ID=5033
 アリーナラッシュⅢ
-攻撃力が12%上昇する。
+ダメージ量が3%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃力増加
+ダメージ量増加
 
 ID=5034
 アリーナラッシュⅣ
-攻撃力が15%上昇する。
+ダメージ量が4%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃力増加
+ダメージ量増加
 
 ID=5035
 アリーナラッシュⅤ
-攻撃力が20%上昇する。
+ダメージ量が5%上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃力増加
+ダメージ量増加
 
 ID=5041
 ブローアップⅠ
@@ -5902,6 +5920,24 @@ ID=5083
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
+ID=5086
+エターナルコンビネーションI
+攻撃力が750増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+攻撃力増加
+
+ID=5087
+エターナルコンビネーションII
+攻撃力が1500増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+攻撃力増加
+
+ID=5088
+エターナルコンビネーションIII
+攻撃力が2500増加する。
+Icon/Buff/Icon_Common_Buff_ATK
+攻撃力増加
+
 ID=20305
 HP回復
 HPを30%回復する。
@@ -6348,25 +6384,25 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=5112
 アリーナラッシュⅡ(自分)
-ダメージ量が7%増加する。
+ダメージ量が6%増加する。
 Icon/Buff/Icon_Common_Buff_ATK
 ダメージ量増加
 
 ID=5113
 アリーナラッシュⅢ(自分)
-ダメージ量が9%増加する。
+ダメージ量が7%増加する。
 Icon/Buff/Icon_Common_Buff_ATK
 ダメージ量増加
 
 ID=5114
 アリーナラッシュⅣ(自分)
-ダメージ量が12%増加する。
+ダメージ量が8%増加する。
 Icon/Buff/Icon_Common_Buff_ATK
 ダメージ量増加
 
 ID=5115
 アリーナラッシュⅤ(自分)
-ダメージ量が15%増加する。
+ダメージ量が10%増加する。
 Icon/Buff/Icon_Common_Buff_ATK
 ダメージ量増加
 
@@ -8181,3 +8217,21 @@ ID=9032
 ダメージ量が15％増加します。\nSA破壊量が30％増加します。\n移動速度が20％増加します。\nSA状態になります。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
+
+ID=9040
+SG回復I
+SGが5%即時回復します。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG回復
+
+ID=9041
+気絶Lv1
+持続時間中、気絶効果を受ける。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG 회복
+
+ID=9042
+SG回復II
+SGが10%即時回復します。
+Icon/Buff/Icon_Common_Buff_SG_Recovery
+SG回復

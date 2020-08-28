@@ -1340,7 +1340,7 @@ ID=727
 {0}EXP
 
 ID=728
-Lv{0}
+LV.{0}
 
 ID=729
 リサイクルショップ[{0}]
@@ -6449,19 +6449,19 @@ ID=18818
 ゴールドWチャンス
 
 ID=19000
-<font color='#47C83E'>攻撃力3%/攻撃失敗時ダメージ増加5%</font>
+<font color='#47C83E'>攻撃力3%/攻撃失敗時ダメージ5%増加</font>
 
 ID=19001
-<font color='#4374D9'>攻撃力5%/攻撃失敗時ダメージ増加7%</font>
+<font color='#4374D9'>攻撃力5%/攻撃失敗時ダメージ7%増加</font>
 
 ID=19002
-<font color='#E0B94F'>攻撃力7%/攻撃失敗時ダメージ増加10%</font>
+<font color='#E0B94F'>攻撃力7%/攻撃失敗時ダメージ10%増加</font>
 
 ID=19003
-<font color='#F15F5F'>攻撃力10%/攻撃失敗時ダメージ増加14%/敵防御度貫通3%</font>
+<font color='#F15F5F'>攻撃力10%/攻撃失敗時ダメージ14%増加/敵防御度貫通3%</font>
 
 ID=19004
-<font color='#8041D9'>攻撃力15%/攻撃失敗時ダメージ増加20%/敵防御度貫通5%</font>
+<font color='#8041D9'>攻撃力15%/攻撃失敗時ダメージ20%増加/敵防御度貫通5%</font>
 
 ID=19005
 <font color='#47C83E'>攻撃力240/防御度12%/HP12%増加</font>
@@ -6494,34 +6494,34 @@ ID=19014
 <font color='#8041D9'>回避度100/クリティカル抵抗5%/ダメージ減少5%</font>
 
 ID=19015
-<font color='#47C83E'>最大スタミナ5/攻撃速度1%</font>
+<font color='#47C83E'>スタミナ5/攻撃速度1%</font>
 
 ID=19016
-<font color='#4374D9'>最大スタミナ8/攻撃速度2%</font>
+<font color='#4374D9'>スタミナ8/攻撃速度2%</font>
 
 ID=19017
-<font color='#E0B94F'>最大スタミナ11/攻撃速度3%</font>
+<font color='#E0B94F'>スタミナ11/攻撃速度3%</font>
 
 ID=19018
-<font color='#F15F5F'>最大スタミナ14/攻撃速度4%/移動速度3%</font>
+<font color='#F15F5F'>スタミナ14/攻撃速度4%/移動速度3%</font>
 
 ID=19019
-<font color='#8041D9'>最大スタミナ17/攻撃速度5%/移動速度4%</font>
+<font color='#8041D9'>スタミナ17/攻撃速度5%/移動速度4%</font>
 
 ID=19020
-<font color='#47C83E'>命中度28/クリティカルダメージ増加600</font>
+<font color='#47C83E'>命中度28/クリティカルダメージ600</font>
 
 ID=19021
-<font color='#4374D9'>命中度41/クリティカルダメージ増加700</font>
+<font color='#4374D9'>命中度41/クリティカルダメージ700</font>
 
 ID=19022
-<font color='#E0B94F'>命中度58/クリティカルダメージ増加800</font>
+<font color='#E0B94F'>命中度58/クリティカルダメージ800</font>
 
 ID=19023
-<font color='#F15F5F'>命中度84/クリティカルダメージ増加900/クリティカル1%</font>
+<font color='#F15F5F'>命中度84/クリティカルダメージ900/クリティカル1%</font>
 
 ID=19024
-<font color='#8041D9'>命中度120/クリティカルダメージ増加1000/クリティカル2%</font>
+<font color='#8041D9'>命中度120/クリティカルダメージ1000/クリティカル2%</font>
 
 ID=19025
 <font color='#47C83E'>攻撃力3%</font>
@@ -6584,19 +6584,19 @@ ID=19044
 <font color='#8041D9'>攻撃速度6%/移動速度6%</font>
 
 ID=19045
-<font color='#47C83E'>クリティカルダメージ増加700</font>
+<font color='#47C83E'>クリティカルダメージ700</font>
 
 ID=19046
-<font color='#4374D9'>クリティカルダメージ増加850</font>
+<font color='#4374D9'>クリティカルダメージ850</font>
 
 ID=19047
-<font color='#E0B94F'>クリティカルダメージ増加1000</font>
+<font color='#E0B94F'>クリティカルダメージ1000</font>
 
 ID=19048
-<font color='#F15F5F'>クリティカルダメージ増加1350</font>
+<font color='#F15F5F'>クリティカルダメージ1350</font>
 
 ID=19049
-<font color='#8041D9'>クリティカルダメージ増加1700</font>
+<font color='#8041D9'>クリティカルダメージ1700</font>
 
 ID=19400
 Standard
@@ -6629,7 +6629,7 @@ ID=19507
 和の心得
 
 ID=19508
-[すごいジェスチャー]使用可能
+韓服
 
 ID=19511
 キャンディナイト
@@ -21062,34 +21062,34 @@ ID=19089
 <font color='#8041D9'>防御度100% /  ダメージ減少5% / HP5000</font>
 
 ID=19090
-<font color='#47C83E'>最大スタミナ5 /  クリティカルダメージ192 / 命中度48</font>
+<font color='#47C83E'>スタミナ5/クリティカルダメージ192/命中度48</font>
 
 ID=19091
-<font color='#4374D9'> 最大スタミナ7 /  クリティカルダメージ274 / 命中度68</font>
+<font color='#4374D9'>スタミナ7/クリティカルダメージ274/命中度68</font>
 
 ID=19092
-<font color='#E0B94F'> 最大スタミナ10 /  クリティカルダメージ392 / 命中度98</font>
+<font color='#E0B94F'>スタミナ10/クリティカルダメージ392/命中度98</font>
 
 ID=19093
-<font color='#F15F5F'> 最大スタミナ14 /  クリティカルダメージ560 / 命中度140</font>
+<font color='#F15F5F'>スタミナ14/クリティカルダメージ560/命中度140</font>
 
 ID=19094
-<font color='#8041D9'> 最大スタミナ20 /  クリティカルダメージ800 / 命中度200</font>
+<font color='#8041D9'>スタミナ20/クリティカルダメージ800/命中度200</font>
 
 ID=19095
-<font color='#47C83E'>最大HP1920 / スタミナ回復1 / 攻撃力120</font>
+<font color='#47C83E'>HP1920/スタミナ回復1/攻撃力120</font>
 
 ID=19096
-<font color='#4374D9'>最大HP2744 / スタミナ回復2 / 攻撃力171</font>
+<font color='#4374D9'>HP2744/スタミナ回復2/攻撃力171</font>
 
 ID=19097
-<font color='#E0B94F'>最大HP3920 / スタミナ回復3 / 攻撃力245</font>
+<font color='#E0B94F'>HP3920/スタミナ回復3/攻撃力245</font>
 
 ID=19098
-<font color='#F15F5F'>最大HP5600 / スタミナ回復4 / 攻撃力350</font>
+<font color='#F15F5F'>HP5600/スタミナ回復4/攻撃力350</font>
 
 ID=19099
-<font color='#8041D9'>最大HP8000 / スタミナ回復5 / 攻撃力500</font>
+<font color='#8041D9'>HP8000/スタミナ回復5/攻撃力500</font>
 
 ID=19402
 Assassin
@@ -27440,13 +27440,13 @@ ID=80108
 キャラクターが設定されていない為、ランキングの確認が行えません。
 
 ID=59630
-ランキングにキャラクターが登録されておりません。キャラクター選択画面から、キャラクター設定より代表キャラクターを設定し、登録行なってください。登録していない場合、報酬を受け取る事ができません。
+代表キャラクターが設定されていません。当画面内の「キャラクター設定」より代表キャラクターを設定してください。この設定を行っていない場合、ランキングコンテンツ等の報酬を受け取ることができません。
 
 ID=59631
-選択されたキャラクターを代表キャラクターに設定します。\n設定されたキャラクターはランキングに参加が可能となり、\nアカウントの代表的なキャラクターとなります。\n\n<font color='#FF0000'>キャラクターは登録後、\n24時間は他キャラクターの登録ができません。</font>
+選択されたキャラクターを「代表キャラクター」に設定します。\n選択されたキャラクターはランキングへの参加が可能となり、アカウントの代表的なキャラクターとなります。\n\n<font color='#FF0000'>キャラクター登録後、24時間は他のキャラクターを登録できません。</font>
 
 ID=59632
-代表キャラクターが変更された場合、\n 現在の代表キャラクターで集計していた記録がすべて削除され、\n\n24時間の間、代表キャラクターの交換ができません。\n\n続行しますか？
+代表キャラクターが変更された場合、 現在の代表キャラクターで集計していた記録がすべて削除され、24時間の間、代表キャラクターの交換ができません。\n\n続行しますか？
 
 ID=59633
 現在のキャラクターで受け取っていないランキング報酬が残っています。\n\n報酬の受け取りが終了していない場合キャラクター変更は行えません。
@@ -28692,3 +28692,261 @@ ID=16875
 
 ID=18824
 エフネル生放送記念プレゼント
+
+ID=18263
+装着中のブローチとのテーマまたは等級が異なるため、セット効果が発動されません。装着しますか？\nブローチ装着後には解除できません。
+
+ID=18264
+ブローチ管理(統合)
+
+ID=52085
+選択精錬ポイントの累積量を超えたため使用できません。
+
+ID=18265
+セット効果図鑑
+
+ID=18266
+頭
+
+ID=18267
+手袋
+
+ID=18268
+靴
+
+ID=18269
+上衣
+
+ID=18270
+下衣
+
+ID=19100
+攻撃力<font color='#E0B94F'>7%</font> / <font color='#F15F5F'>10%</font> / <font color='#8041D9'>15%</font>増加
+
+ID=19101
+スタミナ<font color='#E0B94F'>11</font> / <font color='#F15F5F'>14</font> / <font color='#8041D9'>17</font>増加
+
+ID=19102
+命中度<font color='#E0B94F'>58</font> / <font color='#F15F5F'>84</font> / <font color='#8041D9'>120</font>増加
+
+ID=19103
+攻撃力<font color='#E0B94F'>490</font> / <font color='#F15F5F'>700</font> / <font color='#8041D9'>1000</font>増加
+
+ID=19104
+回避度<font color='#E0B94F'>49</font> / <font color='#F15F5F'>70</font> / <font color='#8041D9'>100</font>増加
+
+ID=19105
+攻撃失敗時ダメージ<font color='#E0B94F'>10%</font> / <font color='#F15F5F'>14%</font> / <font color='#8041D9'>20%</font>増加
+
+ID=19106
+攻撃速度<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>4%</font> / <font color='#8041D9'>5%</font>増加
+
+ID=19107
+クリティカルダメージ<font color='#E0B94F'>800</font> / <font color='#F15F5F'>900</font> / <font color='#8041D9'>1000</font>増加
+
+ID=19108
+防御度<font color='#E0B94F'>25%</font> / <font color='#F15F5F'>35%</font> / <font color='#8041D9'>50%</font>増加
+
+ID=19109
+クリティカル抵抗<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>4%</font> / <font color='#8041D9'>5%</font>増加
+
+ID=19110
+敵防御度貫通<font color='#F15F5F'>3%</font> / <font color='#8041D9'>5%</font>増加
+
+ID=19111
+移動速度<font color='#F15F5F'>3%</font> / <font color='#8041D9'>4%</font>増加
+
+ID=19112
+クリティカル<font color='#F15F5F'>1%</font> / <font color='#8041D9'>2%</font>増加
+
+ID=19113
+HP<font color='#E0B94F'>25%</font> / <font color='#F15F5F'>35%</font> / <font color='#8041D9'>50%</font>増加
+
+ID=19114
+ダメージ減少<font color='#F15F5F'>4%</font> / <font color='#8041D9'>5%</font>増加
+
+ID=19115
+クリティカルダメージ<font color='#E0B94F'>490</font> / <font color='#F15F5F'>700</font> / <font color='#8041D9'>1000</font>増加
+
+ID=19116
+スタミナ<font color='#E0B94F'>10</font> / <font color='#F15F5F'>14</font> / <font color='#8041D9'>20</font>増加
+
+ID=19117
+HP<font color='#E0B94F'>3920</font> / <font color='#F15F5F'>5600</font> / <font color='#8041D9'>8000</font>増加
+
+ID=19118
+HP<font color='#E0B94F'>49%</font> / <font color='#F15F5F'>70%</font> / <font color='#8041D9'>100%</font>増加
+
+ID=19119
+防御度<font color='#E0B94F'>49%</font> / <font color='#F15F5F'>70%</font> / <font color='#8041D9'>100%</font>増加
+
+ID=19120
+攻撃力<font color='#E0B94F'>390</font> / <font color='#F15F5F'>560</font> / <font color='#8041D9'>800</font>増加
+
+ID=19121
+クリティカルダメージ<font color='#E0B94F'>392</font> / <font color='#F15F5F'>560</font> / <font color='#8041D9'>800</font>増加
+
+ID=19122
+スタミナ回復<font color='#E0B94F'>3</font> / <font color='#F15F5F'>4</font> / <font color='#8041D9'>5</font>増加
+
+ID=19123
+攻撃力<font color='#E0B94F'>1225</font> / <font color='#F15F5F'>1750</font> /<font color='#8041D9'>2500</font>増加
+
+ID=19124
+ダメージ減少<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>4%</font> / <font color='#8041D9'>5%</font>増加
+
+ID=19125
+クリティカル<font color='#F15F5F'>3%</font> / <font color='#8041D9'>3%</font>増加
+
+ID=19126
+命中度<font color='#E0B94F'>98</font> / <font color='#F15F5F'>140</font> / <font color='#8041D9'>200</font>増加
+
+ID=19127
+攻撃力<font color='#E0B94F'>245</font> / <font color='#F15F5F'>350</font> / <font color='#8041D9'>500</font>増加
+
+ID=19128
+ダメージ減少<font color='#E0B94F'>5%</font> / <font color='#F15F5F'>7%</font> / <font color='#8041D9'>10%</font>増加
+
+ID=19129
+HP<font color='#E0B94F'>2450</font> / <font color='#F15F5F'>3500</font> / <font color='#8041D9'>5000</font>増加
+
+ID=19130
+攻撃力<font color='#E0B94F'>10%</font> / <font color='#F15F5F'>20%</font> / <font color='#8041D9'>25%</font>増加
+
+ID=19131
+攻撃速度<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>5%</font> / <font color='#8041D9'>6%</font>増加
+
+ID=19132
+クリティカルダメージ<font color='#E0B94F'>1000</font> / <font color='#F15F5F'>1350</font> / <font color='#8041D9'>1700</font>増加
+
+ID=19133
+クリティカル<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>4%</font> / <font color='#8041D9'>5%</font>増加
+
+ID=19134
+SA破壊力<font color='#E0B94F'>12%</font> / <font color='#F15F5F'>18%</font> / <font color='#8041D9'>25%</font>増加
+
+ID=19135
+0
+
+ID=19136
+移動速度<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>5%</font> / <font color='#8041D9'>6%</font>増加
+
+ID=19137
+0
+
+ID=19138
+0
+
+ID=19139
+0
+
+ID=19140
+0
+
+ID=19141
+0
+
+ID=19142
+0
+
+ID=19143
+0
+
+ID=19144
+0
+
+ID=19145
+クリティカル<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>4%</font> / <font color='#8041D9'>5%</font>増加
+
+ID=19146
+攻撃速度<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>5%</font> / <font color='#8041D9'>6%</font>増加
+
+ID=19147
+クリティカル<font color='#E0B94F'>1%</font> / <font color='#F15F5F'>2%</font> / <font color='#8041D9'>3%</font>増加
+
+ID=19148
+回避度<font color='#E0B94F'>120</font> / <font color='#F15F5F'>160</font> / <font color='#8041D9'>200</font>増加
+
+ID=19149
+クリティカルダメージ<font color='#E0B94F'>950</font> / <font color='#F15F5F'>1150</font> / <font color='#8041D9'>1350</font>増加
+
+ID=19150
+0
+
+ID=19151
+クリティカル<font color='#E0B94F'>1%</font> / <font color='#F15F5F'>2%</font> / <font color='#8041D9'>3%</font>増加
+
+ID=19152
+SA破壊力<font color='#E0B94F'>7%</font> / <font color='#F15F5F'>10%</font> / <font color='#8041D9'>15%</font>増加
+
+ID=19153
+攻撃速度<font color='#F15F5F'>1%</font> / <font color='#8041D9'>2%</font>増加
+
+ID=19154
+戦闘エリア移動速度<font color='#E0B94F'>1%</font> / <font color='#F15F5F'>2%</font> / <font color='#8041D9'>3%</font>増加
+
+ID=19155
+0
+
+ID=19156
+0
+
+ID=19157
+0
+
+ID=19158
+0
+
+ID=19159
+0
+
+ID=18271
+SD
+
+ID=18272
+BSK
+
+ID=18273
+FOT
+
+ID=18274
+SIN
+
+ID=18275
+テーマ
+
+ID=18276
+ブローチセット効果(<font color='#E0B94F'>メガ</font>/<font color='#F15F5F'>ギガ</font>/<font color='#8041D9'>テラ</font>)
+
+ID=18277
+メイズをやり直す際には、入場アイテムまたはFPを消耗します。\n進行中のメイズを放棄し、やり直しますか？ 
+
+ID=10126
+ディプルスホライズン
+
+ID=5956
+ノアとエノックをこらしめれば、最もセクシーな「誰か」が登場します。
+
+ID=11727
+海辺の
+
+ID=11728
+ひと夏の
+
+ID=11729
+激動の
+
+ID=11730
+揺動の
+
+ID=10136
+ランブルバケーションナイト
+
+ID=18730
+拡声器が足りません。
+
+ID=5068
+「刷新のボミングスピア」にクラスアップグレードしました。
+
+ID=49502
+メイズリスタート
