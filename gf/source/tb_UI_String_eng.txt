@@ -4396,9 +4396,6 @@ ID=10013
 ID=10014
 Rift Arena
 
-ID=10021
--
-
 ID=10022
 -
 
@@ -23495,16 +23492,16 @@ ID=20206
 {0} is marching a band together.
 
 ID=10541
-Corrupt Chain of Resolve
+Corrupt Record of Resolve
 
 ID=10542
-Corrupt Chain of Madness
+Corrupt Record of Madness
 
 ID=10543
-Corrupt Chain of Hope
+Corrupt Record of Hope
 
 ID=10544
-Corrupt Chain of Sorrow
+Corrupt Record of Sorrow
 
 ID=10545
 Embracer of Madness and Sorrow
@@ -28426,6 +28423,12 @@ Completed Skyclock Palace (Easy) {0}x.
 ID=41422
 Completed Skyclock Palace (Hard) {0}x.
 
+ID=41423
+Completed Hidden Hideout {0}x
+
+ID=41424
+District completed 100x
+
 ID=55081
 It's not possible to teleport inside the helicopter.
 
@@ -28448,55 +28451,55 @@ ID=33574
 Queen’s Knight
 
 ID=18229
-옵션 정보
+Options
 
 ID=18230
-선택 제련 포인트
+Enhancement Selection Points
 
 ID=18231
-변경 가능 옵션
+Available Modification Options
 
 ID=18232
-- <font color='#0048BA'>캐릭터 단위</font>로 최대 <font color='#FFBF00'>{0}</font><font color='#0048BA'> 포인트</font> 누적\n- <font color='#0048BA'>소비한 에너지 컨버터 당</font> <font color='#FFBF00'>{1}</font><font color='#0048BA'> 포인트</font> 획득\n- 초과된 포인트는 소멸
+- The max. <font color='#FFBF00'>{0}</font> <font color='#0048BA'> points</font> are accumulated <font color='#0048BA'>per character</font>.\n- <font color='#0048BA'>Each used Energy Converter</font> produces <font color='#FFBF00'>{1}</font><font color='#0048BA'>points</font>.\n- Any surplus points will expire.
 
 ID=18233
-선택 제련
+Enhancement Selection
 
 ID=18234
-1개의 옵션만 선택하여 제련할 수 있습니다.\n선택된 옵션의 종류는 변경되지 않습니다.
+You can only choose and refine 1 option.\nThe selected option's category will not be altered.
 
 ID=18235
-복원 옵션
+Restore Option
 
 ID=18236
-복원 비용
+Restore Cost
 
 ID=18238
-변경된 옵션
+Altered Option
 
 ID=18239
-<font color='#0048BA'>변경된 옵션이 적용되었습니다.</font>\n복원 옵션을 선택하여 기존 옵션으로 되돌릴 수 있습니다.\n옵션 복원 시 BP가 소모됩니다.\n<font color='#FF0000'>현재 상태에서 벗어나면 더 이상 복원을 할 수 없습니다.</font>
+<font color='#0048BA'>Option has been altered.</font>\nSelect 'Restore Option' to reset the option.\nRestoring the option consumes BP.\n<font color='#FF0000'>Once the current state has been restored, restoration is no longer possible.</font>
 
 ID=18240
-확인
+Confirm
 
 ID=18241
-복원
+Restore
 
 ID=18243
-보유 포인트
+Your Points
 
 ID=18244
-필요 포인트
+Points Required
 
 ID=18245
-정밀 제련
+Precise Enhancement
 
 ID=18246
-정밀 제련 시, 등록된 아이템을 최상급(100%)으로 제련합니다.
+Using Precise Enhancement will enhance the registered item to the 'Superior' (100%) level.
 
 ID=18247
-등급 보호 아이템 사용
+Use Level Protection
 
 ID=53160
 You cannot send team invites during a SoulSquad search.
@@ -28692,3 +28695,759 @@ ID=20259
 
 ID=20260
 White Sand
+
+ID=10567
+생체 반응 시험실
+
+ID=10568
+육체 강화 진단실
+
+ID=10569
+시험 기록 보관소
+
+ID=10570
+위험 객체 격리실
+
+ID=10571
+지하 성당 입구
+
+ID=10572
+영생에 이르는 길
+
+ID=10573
+포식의 축복
+
+ID=10574
+해후
+
+ID=10575
+교단의 아지트
+
+ID=10576
+영웅의 몰락
+
+ID=10577
+빛에 가려진 정의
+
+ID=10578
+운명의 새벽
+
+ID=10115
+S303 쉘터
+
+ID=10116
+언홀리 새너토리엄
+
+ID=10117
+던 오브 페이트
+
+ID=33007
+개요 : 다나스에 대한 조사\n\n니힐킹덤 루나 녹스 세력의 전 만인대장.\n궐기를 일으킬 자격은 성록, 지 녹스 님으로부터 자연의 대군을 일으킬 자격을 하사받아 풀이나 나무가 있는 장소라면 어디에서든 자신을 지킬 병사를 일으킬 수 있음.\n디플루스 항만도시의 조사에서 그의 흔적을 찾아냄.\n\n그가 정말로 사라진 루나 녹스의 만인대장인지 자세한 조사를 진행하기 위해 소울워커의 도움이 필요함.\n\n※메인 퀘스트 진행을 위해서 베네리스 에게서 수락 가능한 서브퀘스트 [첩보부대 오르카 I~III] 퀘스트를 클리어를 할 필요가 있음.
+
+ID=20501
+스태미나 70% 이하 일 때, 피격 시 10% 확률로 스태미나 {0} 회복
+
+ID=20502
+스태미나 30% 이하 일 때, 피격 시 10% 확률로 체력 {0} 회복
+
+ID=20503
+스태미나 70% 이하 일 때, 적중 시 공격력 1초간 {0} 증가
+
+ID=20504
+스태미나 40% 이하 일 때, 적중 시 공격력 1초간 {0} 증가
+
+ID=20505
+스태미나 10% 이하 일 때, 적중 시 공격력 1초간 {0} 증가
+
+ID=33580
+트와일라잇 스탠다드 세트
+
+ID=33581
+트와일라잇 익스텐드 세트
+
+ID=33582
+트와일라잇 액세서리 세트
+
+ID=33008
+반갑습니다 소울워커 여러분. 일부러 제 무대를 찾아와주신 여러분에게 깜짝 이벤트를 준비했답니다!\n아래의 장소에 저와 직접 만날 수 있는 초대장을 숨겨놓았으니 한번 열심히 찾아보세요!\n\n1. 처음으로 거대한 괴물과 맞서 싸웠던 그곳.\n\n2. 배신자와 모든 것이 불타오른 그곳.\n\n3. 푸른 전사가 타락하여 다시 일어선 그곳.\n\n네, 그렇습니다! 저와 여러분이 함께 일했던 추억이 깃든 장소들이죠! 옛 추억을 회상하며 열심히 찾아보세요!\n그럼! 행운을 빌어요!
+
+ID=40782
+나의 여왕이시여. \n어떤 때라도 당신을 지키겠습니다
+
+ID=40783
+너의 공격은 아무런 의미가 없다!.\n여왕님의 가호가 나와 함께하리라!
+
+ID=40784
+이 세상에서 지워주마.\n너의 흔적은 티끌하나 조차 남기지 않겠다!
+
+ID=40785
+나는 쓰러지지 않는다! 이 몸은 여왕님의 방패
+
+ID=40786
+나의 여왕님. 부디 제게 맡겨주시지요
+
+ID=40787
+아름답게 터지는 폭죽처럼!\n폭발은 예술입니다.
+
+ID=40788
+어딜보는겁니까 전 이쪽에 있습니다.\n잔상을 남길 생각은 없었는데 말이죠.
+
+ID=40789
+으하하하하하…역시...쉽게 당해주실거라고는 생각하지 않았습니다.
+
+ID=40790
+에드가의 정화의 파동 발사를 아큘러스에게 적중시키면 아큘러스의 강화버프를 삭제시킬 수 있습니다.
+
+ID=40791
+이제 곧 비참하게 조각난 당신들의 모습을 보게 되겠군요.
+
+ID=40792
+비굴하게 도망치는 모습이 나를 즐겁게 해주는군요.
+
+ID=40793
+크흑… 아…아아…아아아아악!
+
+ID=40794
+추한 움직임이군요, 거기에 그대로 계세요.\n그대로 죽음을 기다리세요.
+
+ID=40795
+나의 방패! 앞으로 나가세요!
+
+ID=40796
+나의 기사님. 약속했던 안식을 주세요.
+
+ID=40797
+왜 제 주변엔 아무도 없는거죠? 자, 모두 이쪽으로 오세요.
+
+ID=40798
+안돼! 이럴수는 없어요! 나의 기사들이 모두…
+
+ID=40799
+자 이리오세요. 나의 안으로 들어오세요\n나를 믿고 당신의 모든것을 저에게 넘겨주세요.
+
+ID=10021
+-
+
+ID=10123
+루나폴
+
+ID=5938
+<font color='#FFFFFF'><font size="30">TIP。</font>정크아큘러스가 사용한 강화버프는 에드가의 <font color='#FF0033'>[정화의 파동발사]</font>를 아큘러스에게 적중시키면 삭제할 수 있습니다.
+
+ID=5939
+<font color='#FFFFFF'><font size="30">TIP。</font><font color='#FF0033'>[퀸의 신봉자]</font>가 정크 퀸의 일정범위까지 이동하게 되면 정크퀸은 <font color='#FF0033'>[강력한 범위공격]</font>을 사용합니다.
+
+ID=5940
+<font color='#FFFFFF'><font size="30">TIP。</font>에드가는 주위에 적대적 대상이 없을 시 계속해서 화염지대를 생성합니다.
+
+ID=5941
+<font color='#FFFFFF'><font size="30">TIP。</font>정크 퀸의 주위에 적대적 대상이 없을 시 모든 플레이어를 자신의 앞으로 소환합니다.
+
+ID=5942
+<font color='#FFFFFF'><font size="30">TIP。</font>정크 퀸이 소환한 퀸즈소드[서리]를 처치하게 되면 행동불가 디버프가 해제됩니다.
+
+ID=5943
+<font color='#FFFFFF'><font size="30">TIP。</font>정크 퀸이 부여하는 <font color='#FF0033'>[현기증]</font> 디버프는 암흑지대 트랩에 피격 시 해제됩니다.
+
+ID=54023
+반복 퀘스트의 반복 횟수가 초과되었습니다.
+
+ID=600001
+퀘스트 수락
+
+ID=600002
+반복 횟수 : [{0} / {1}]
+
+ID=24908
+에프넬
+
+ID=24909
+창
+
+ID=97
+에프넬
+
+ID=5447
+사용 무기는 창.\n창과 화려한 발 기술을 이용하여 적들을 일격에 관통한다.
+
+ID=5477
+세상에 저항하며 굴복하지 않기 위해 스스로 각오를 다지며 다시 만들어진 소녀. 어느 것에도 굽히지 않는 강철보다 더 단단한 불굴의 의지로 관철한다.
+
+ID=18598
+에어 버스트
+
+ID=18599
+소닉 붐
+
+ID=18605
+라이트닝 로드
+
+ID=18606
+스위프트 스탭
+
+ID=18607
+리젝션 필드
+
+ID=18608
+스피어 댄스
+
+ID=18609
+비셔스 우드페커
+
+ID=18610
+엔젤릭 스탭
+
+ID=18611
+아마조네스 헌트
+
+ID=18612
+서포트 콜
+
+ID=18613
+맘바스 코일
+
+ID=18614
+어센딩 토네이도
+
+ID=18615
+슈퍼 노바
+
+ID=1064
+싱글 포인트 사이드 테일
+
+ID=781001
+불굴의 바밍스피어
+
+ID=782001
+격변하는 쇄신의 섬창
+
+ID=42768
+Lakasha
+
+ID=42769
+Lakasha, the Vigilant
+
+ID=42770
+Lakasha, the Unfathomable
+
+ID=42771
+Lakasha
+
+ID=42772
+Lakasha, the Vigilant
+
+ID=42773
+Lakasha, the Unfathomable
+
+ID=43447
+[S] Lakasha
+
+ID=43448
+[HS] Lakasha
+
+ID=9711
+캔더스 시티 W
+
+ID=9712
+그레이스 시티 W
+
+ID=9713
+루인 포트리스 W
+
+ID=10126
+디플루스 호라이즌
+
+ID=5068
+<쇄신의 바밍스피어>로 승급되었습니다.
+
+ID=11724
+매우좋톤
+
+ID=40807
+일어나라그루! 우리는 샌드백이 아니다그루!\n그루톤들.... 집결하라그루!
+
+ID=40808
+으윽….이대로 끝나지 않는다 그루!\n그루톤 포에버!
+
+ID=40809
+두려워해라! 도망쳐봐라! 너희들의 운명이 여기 왔다그루!
+
+ID=40810
+으..으으....윽 아이 엠 그루톤
+
+ID=40815
+맵의 중앙에 있는 마크로 이동하게 되면 전투가 시작됩니다.
+
+ID=10131
+리벤져스
+
+ID=10132
+이벤트 메이즈
+
+ID=5944
+복수심에 불타는 그루톤들은 메이즈를 클리어하기 전까지 끊임없이 소환됩니다.
+
+ID=5945
+그루톤들은 자신들을 구타해온 소울워커를 증오하는 마음 외에는 아무것도 갖고있지 않습니다.
+
+ID=5946
+삼대오백톤을 처치하면 복수의 가망이 없어진 그루톤들은 전의를 잃고 쓰러지게 됩니다.
+
+ID=42774
+SoulDreg Crown
+
+ID=42775
+Burnt Blood
+
+ID=42776
+Aquamarine Throne
+
+ID=42777
+SoulDreg Crown
+
+ID=42778
+Burnt Blood
+
+ID=42779
+Aquamarine Throne
+
+ID=43449
+[S] SoulDreg Crown
+
+ID=43450
+[HS] SoulDreg Crown
+
+ID=5947
+대쉬 점프 중에는 방향 전환이 불가능합니다.
+
+ID=5948
+점프 구슬의 색상에 따라 추가 도약의 높이가 달라집니다.
+
+ID=5949
+[붉은 구슬]은 습득하게 되면 강제 낙하가 됩니다.
+
+ID=5950
+클리어 시간은 보상에 영향을 주지 않습니다.
+
+ID=55090
+월드 보스 참여는 1회만 가능 합니다.
+
+ID=37121
+긴급상황 발생지의 중심부로 이동 중인 [코드네임: 더 둠]의 에너지 감지. 약 1분 후 조우 예정!
+
+ID=37125
+해당 채널의 더 둠이 토벌되었습니다.\n\n긴급상황 종료까지 남은 시간 : {0}분
+
+ID=37126
+긴급상황 발생지의 [코드네임: 더 둠]을 저지해 주세요!\n주어진 시간 내에 토벌해야 하며 레벨 65부터 지원 가능합니다.\n버튼을 눌러 지원해 주세요!\n\n긴급상황 종료까지 남은 시간 : {0}분
+
+ID=37104
+긴급상황 발생지의 중심부에 [코드네임: 더 둠]이 출현하였습니다.
+
+ID=37105
+최고의 소울워커! {0}님의 강력한 힘에 의해, 더 둠이 토벌되었습니다.
+
+ID=37106
+긴급상황 발생지의 더 둠이 갑자기 모습을 감췄습니다.
+
+ID=37130
+최근 일어난 공백의 균열로 인해 봉인에서 풀려나게 된 거대한 괴물. 과거엔 가장 번성했던 별숲리그와 별숲리그의 창시자 로드가 힘을 합쳐 간신히 봉인할 수 있었으나 이제 지금 남겨진 인류와 소울워커가 직접 막아낼 수밖에 없다.
+
+ID=37131
+아카샤의 의지를 받고 세상을 시험하기 위해 나타난 거대한 괴물. 망가진 이 세상이 더 이상 스스로 지켜낼 힘이 없다고 판단된다면 이 괴물은 부정한 것들을 지우기 위해 지상에 남은 모든 것을 지워버릴 것이다.
+
+ID=37140
+월드 보스
+
+ID=37141
+서버 전체 토벌 횟수
+
+ID=37142
+드랍 아이템 목록
+
+ID=37143
+토벌 보상 목록
+
+ID=37144
+서버 전체 토벌 횟수 별 보상
+
+ID=37145
+서버 전체에서 토벌 된 횟수 만큼의 부스터를 지급합니다.
+
+ID=37146
+{0}회 이상 처치
+
+ID=37147
+{0}:{1}
+
+ID=37148
+등장시간 : {0}
+
+ID=37149
+{0}레벨 이상 입장 가능
+
+ID=37150
+참여
+
+ID=37151
+{0}회 처치 완료
+
+ID=37152
+{0} 후에 보스 출현!
+
+ID=38036
+몬스터 처치 EXP {0}% 증가
+
+ID=38037
+공격속도 {0}% 증가
+
+ID=38038
+적중도 {0} 증가
+
+ID=55091
+토벌 시작 후에는 채널 이동을 할 수 없습니다.
+
+ID=37201
+업그레이드 옵션을 선택해 주세요
+
+ID=37202
+선택
+
+ID=37203
+획득 능력
+
+ID=37204
+{0} 스킬 레벨 +
+
+ID=37211
+환상이 파괴되고 꿈에서 깨어납니다.
+
+ID=37212
+소요 시간
+
+ID=37213
+클리어
+
+ID=37214
+도전 실패
+
+ID=37215
+나가기
+
+ID=37221
+섹터 완료
+
+ID=37222
+보스 처치
+
+ID=37223
+1층
+
+ID=37224
+2층
+
+ID=37225
+3층
+
+ID=37226
+4층
+
+ID=37230
+클리어 달성 시간이 초과되어 체력이 감소합니다.
+
+ID=37231
+도전 시작
+
+ID=37232
+섹터가 클리어 되었습니다. 포탈을 통해 다음 섹터로 이동해 주세요.
+
+ID=37233
+{0}층{1}번째 섹터 진행 중
+
+ID=37311
+출현하는 모든 몬스터를 처치해 주세요.
+
+ID=37321
+출현하는 모든 몬스터를 처치해 주세요.
+
+ID=37331
+에드가를 처치하세요.
+
+ID=37332
+아마릴리스를 처치하세요.
+
+ID=37333
+스카를 처치하세요.
+
+ID=37334
+로드를 처치하세요.
+
+ID=37341
+귀여운 그루톤을 피해 몬스터를 모두 처치해 주세요.
+
+ID=37342
+에드가의 빔으로 모든 큐브를 부숴 주세요.
+
+ID=37343
+라파쿰바가 주술을 시전합니다. 크리스탈을 파괴하여 주술에 저항하세요.
+
+ID=37344
+45초 안에 푸른 영역에 의문의 구체를 집어넣어 미래로 향하는 문을 열어 주세요.
+
+ID=37345
+미리엄이 당신을 도와줍니다. 그녀에게 말을 걸어 주세요.
+
+ID=37346
+굴러오는 로이의 흑염구를 피하며 몬스터를 처치하세요.
+
+ID=37347
+리스크가 있는 곳엔 그만큼의 리턴이 함께합니다. [루시]>[굿보이]>[하이딩거]
+
+ID=37348
+라파쿰바가 주술을 시전합니다. 바닥의 원을 밟아 살아남으세요.
+
+ID=37349
+캐서린의 원망과 마주하고 마음의 준비를 하세요.
+
+ID=37350
+아무것도 얻을 수 없어요. 안타깝네요.
+
+ID=37351
+기믹섹터 안내 문구 입니다
+
+ID=37352
+기믹섹터 안내 문구 입니다
+
+ID=37353
+기믹섹터 안내 문구 입니다
+
+ID=37354
+기믹섹터 안내 문구 입니다
+
+ID=37355
+기믹섹터 안내 문구 입니다
+
+ID=18316
+환상 파괴를 시작합니다. 꿈의 세계로 이동하시겠습니까?
+
+ID=5951
+브레이킹 일루전에서는 아이템과 아카식 레코드를 사용할 수 없습니다.
+
+ID=5952
+브레이킹 일루전에서는 캐릭터의 능력치가 장비 아이템이나 브로치 등에 영향을 받지 않습니다.
+
+ID=5953
+액티브 스킬은, 메이즈 내에서 획득한 스킬만 사용할 수 있습니다.
+
+ID=5954
+각 포탈을 통과할 때 버프 또는 디버프가 부여됩니다.
+
+ID=5955
+섹터를 클리어했지만 업그레이드 옵션을 획득할 수 없는 경우도 있습니다.
+
+ID=37356
+자세히
+
+ID=37357
+간략히
+
+ID=10135
+브레이킹 일루전
+
+ID=33585
+오더메이드 세트
+
+ID=10127
+화이트 아웃
+
+ID=10128
+레저렉션 프로젝트
+
+ID=10129
+언터쳐블 패스
+
+ID=10130
+헬 시티
+
+ID=10133
+바인디드 룸
+
+ID=10136
+럼블 베케이션 나이트
+
+ID=10579
+눈 덮힌 설산
+
+ID=10580
+얼어붙은 전장
+
+ID=10581
+차가운 무덤
+
+ID=10582
+하얀 지옥
+
+ID=10583
+더 깊은 아래쪽
+
+ID=10584
+극비 연구
+
+ID=10585
+세계 부활 계획
+
+ID=10586
+실패의 종착점
+
+ID=10587
+닿지않는 길
+
+ID=10588
+통로의 혈전
+
+ID=10589
+사라진 목소리
+
+ID=10590
+반환점
+
+ID=10591
+지옥이 된 도시
+
+ID=10592
+소살의 공포
+
+ID=10593
+화염속 진군
+
+ID=10594
+불꽃의 군주
+
+ID=10595
+바인디드 룸
+
+ID=40816
+세듀린과 대화하여 퀘스트를 진행한 뒤에 해당 장치를 가동하여 바인디드 룸을 시작할 수 있습니다.
+
+ID=37360
+이동할 지역을 선택하세요
+
+ID=37361
+나가기
+
+ID=37362
+컷신 건너뛰기
+
+ID=37363
+메이즈 이동 [{0}]
+
+ID=10596
+그레이스 시티 웨스트 워
+
+ID=42780
+Ephnel
+
+ID=42781
+Spear of Rebellion
+
+ID=42782
+Spear of Fortitude
+
+ID=42783
+Ephnel
+
+ID=42784
+Spear of Rebellion
+
+ID=42785
+Spear of Fortitude
+
+ID=43451
+[S] Ephnel
+
+ID=43452
+[HS] Ephnel
+
+ID=42786
+Naomin of the Rending Winds
+
+ID=42787
+In the Eye of the Rending Witch
+
+ID=42788
+Rending Flames and Blood
+
+ID=42789
+Naomin of the Rending Winds
+
+ID=42790
+In the Eye of the Rending Witch
+
+ID=42791
+Rending Flames and Blood
+
+ID=43453
+[S] Naomin
+
+ID=43454
+[HS] Naomin
+
+ID=42756
+Lupan
+
+ID=42757
+Lupan, Head Over Heels in Love
+
+ID=42758
+Lupan, In Too Deep
+
+ID=42759
+Lupan
+
+ID=42760
+Lupan, Head Over Heels in Love
+
+ID=42761
+Lupan, In Too Deep
+
+ID=43443
+[S] Lupan
+
+ID=43444
+[HS] Lupan
+
+ID=1455
+Multi-upgrade
+
+ID=1456
+Cancel
+
+ID=1457
+Replays
+
+ID=1458
+Selected Upgrade
+
+ID=1459
+Upgrade active
+
+ID=1460
+You’ve used up all your replays. Now aborting upgrade.
+
+ID=1461
+You’ve reached the selected amount of upgrades. Now aborting upgrade.
+
+ID=1462
+Insufficient materials. Now aborting upgrade.
+
+ID=1463
+Insufficient Anti-Destruction. Now aborting upgrade.
+
+ID=1464
+Now aborting multi-upgrade.
+
+ID=1465
+Upgraded {0}x
+
+ID=1466
+Consumed
