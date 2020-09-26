@@ -738,31 +738,31 @@ Icon/Buff/Icon_Common_Debuff_Def
 
 ID=5541
 스프린터Ⅰ
-이동속도가 10% 증가한다.
+移動速度が5%増加する。
 Icon/Buff/Icon_Common_Buff_MSR
 이동속도 증가
 
 ID=5542
 스프린터Ⅱ
-이동속도가 11% 증가한다.
+移動速度が6%増加する。
 Icon/Buff/Icon_Common_Buff_MSR
 이동속도 증가
 
 ID=5543
 스프린터Ⅲ
-이동속도 13% 증가한다.
+移動速度が7%増加する。
 Icon/Buff/Icon_Common_Buff_MSR
 이동속도 증가
 
 ID=5544
 스프린터Ⅳ
-이동속도가 16% 증가한다.
+移動速度が8%増加する。
 Icon/Buff/Icon_Common_Buff_MSR
 이동속도 증가
 
 ID=5545
 스프린터Ⅴ
-이동속도가 20% 증가한다.
+이동속도가 10% 증가한다.
 Icon/Buff/Icon_Common_Buff_MSR
 이동속도 증가
 
@@ -786,31 +786,61 @@ SG 회복
 
 ID=5561
 테이크 에임Ⅰ
-적의 방어율을 7% 무시한다.
+敵の防御度を6%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 방어력 관통
 
 ID=5562
 테이크 에임Ⅱ
-적의 방어율을 9% 무시한다.
+적의 방어율을 7% 무시한다.
 Icon/Buff/Icon_Common_Buff_Penetration
 방어력 관통
 
 ID=5563
 테이크 에임Ⅲ
-적의 방어율을 12% 무시한다.
+적의 방어율을 9% 무시한다.
 Icon/Buff/Icon_Common_Buff_Penetration
 방어력 관통
 
 ID=5564
 테이크 에임Ⅳ
-적의 방어율을 15% 무시한다.
+敵の防御度を11%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 방어력 관통
 
 ID=5565
 테이크 에임Ⅴ
-적의 방어율을 20% 무시한다.
+적의 방어율을 15% 무시한다.
+Icon/Buff/Icon_Common_Buff_Penetration
+방어력 관통
+
+ID=5566
+テイクエイム
+敵の防御度を1%無効化する。
+Icon/Buff/Icon_Common_Buff_Penetration
+방어력 관통
+
+ID=5567
+テイクエイム
+敵の防御度を2%無効化する。
+Icon/Buff/Icon_Common_Buff_Penetration
+방어력 관통
+
+ID=5568
+テイクエイム
+敵の防御度を3%無効化する。
+Icon/Buff/Icon_Common_Buff_Penetration
+방어력 관통
+
+ID=5569
+テイクエイム
+敵の防御度を4%無効化する。
+Icon/Buff/Icon_Common_Buff_Penetration
+방어력 관통
+
+ID=5570
+テイクエイム
+敵の防御度を5%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 방어력 관통
 

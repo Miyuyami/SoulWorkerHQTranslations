@@ -54,7 +54,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=104
 Elastic
-+10% Damage Reduction for 10 seconds.
++10% Dmg Reduction for 10 seconds.
 Icon/Buff/Icon_Common_Buff_Def
 0
 
@@ -432,7 +432,7 @@ Silence
 
 ID=5000
 Awakening
-+15% Damage.\n-25% Damage received.\n+20% Movement Speed.\nSA State.
++15% Damage.\n+25% Dmg Reduction.\n+20% Movement Speed.\nSA State.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -594,7 +594,7 @@ Stamina Cost ↓
 
 ID=5060
 Erosion
-+25% Damage Reduction.\n+20% Movement Speed.\nSA State.
++25% Dmg Reduction.\n+20% Movement Speed.\nSA State.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -738,31 +738,31 @@ Defense ↓
 
 ID=5541
 Sprinter Ⅰ
-+10% Movement Speed.
+移動速度が5%増加する。
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed ↑
 
 ID=5542
 Sprinter Ⅱ
-+11% Movement Speed.
++6% Movement Speed.
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed ↑
 
 ID=5543
 Sprinter Ⅲ
-+13% Movement Speed.
+移動速度が7%増加する。
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed ↑
 
 ID=5544
 Sprinter Ⅳ
-+16% Movement Speed.
+移動速度が8%増加する。
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed ↑
 
 ID=5545
 Sprinter Ⅴ
-+20% Movement Speed.
++10% Movement Speed.
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed ↑
 
@@ -786,31 +786,61 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=5561
 Take Aim Ⅰ
-+7% Penetration.
+敵の防御度を6%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=5562
 Take Aim Ⅱ
-+9% Penetration.
++7% Penetration.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=5563
 Take Aim Ⅲ
-+12% Penetration.
++9% Penetration.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=5564
 Take Aim Ⅳ
-+15% Penetration.
+敵の防御度を11%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=5565
 Take Aim Ⅴ
-+20% Penetration.
++15% Penetration.
+Icon/Buff/Icon_Common_Buff_Penetration
+Defense Penetration
+
+ID=5566
+テイクエイム
+敵の防御度を1%無効化する。
+Icon/Buff/Icon_Common_Buff_Penetration
+Defense Penetration
+
+ID=5567
+テイクエイム
+敵の防御度を2%無効化する。
+Icon/Buff/Icon_Common_Buff_Penetration
+Defense Penetration
+
+ID=5568
+テイクエイム
+敵の防御度を3%無効化する。
+Icon/Buff/Icon_Common_Buff_Penetration
+Defense Penetration
+
+ID=5569
+テイクエイム
+敵の防御度を4%無効化する。
+Icon/Buff/Icon_Common_Buff_Penetration
+Defense Penetration
+
+ID=5570
+テイクエイム
+敵の防御度を5%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
@@ -1332,7 +1362,7 @@ Barrier
 
 ID=6561
 Trouble Pass
--10% Damage.
++10% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
@@ -2334,7 +2364,7 @@ Invulnerable
 
 ID=30018
 Hardness
--30% Damage received.
++30% Dmg Reduction
 Icon/Buff/Icon_Common_Buff_Def
 Damage ↓
 
@@ -2670,13 +2700,13 @@ Soul Breakdown
 
 ID=30303
 Corrupted Soul
-On hit, recovers enemy's HP and grants +60% Damage Reduction.
+On hit, recovers enemy's HP and grants +60% Dmg Reduction.
 Icon/Buff/Icon_Common_Debuff_Fear
 Corrupted Soul
 
 ID=30304
 Absorbed Strength
-+60% Damage Reduction and HP recovers when hit.
++60% Dmg Reduction and HP recovers when hit.
 Icon/Buff/Icon_Common_Buff_Def
 Absorbed Strength
 
@@ -5142,39 +5172,39 @@ Accuracy ↑
 
 ID=53724
 風の加護
-+1% Damage Reduction.
++1% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=53725
 風の加護
-+4% Damage Reduction.
++4% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=53726
 風の加護
-+7% Damage Reduction.
++7% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=53727
 風の加護
-+3% Damage Reduction.
++3% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=53728
 風の加護
-+6% Damage Reduction.
++6% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=53729
 風の加護
-+9% Damage Reduction.
++9% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=53730
 無限動力
@@ -5250,37 +5280,37 @@ Critical Damage ↑
 
 ID=53742
 眼目
-+1% Damage Reduction and +100 Critical Damage.
++1% Dmg Reduction and +100 Critical Damage.
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage ↑
 
 ID=53743
 眼目
-+2% Damage Reduction and +350 Critical Damage.
++2% Dmg Reduction and +350 Critical Damage.
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage ↑
 
 ID=53744
 眼目
-+4% Damage Reduction and +600 Critical Damage.
++4% Dmg Reduction and +600 Critical Damage.
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage ↑
 
 ID=53745
 眼目
-+2% Damage Reduction and +100 Critical Damage.
++2% Dmg Reduction and +100 Critical Damage.
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage ↑
 
 ID=53746
 眼目
-+3% Damage Reduction and +350 Critical Damage.
++3% Dmg Reduction and +350 Critical Damage.
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage ↑
 
 ID=53747
 眼目
-+5% Damage Reduction and +600 Critical Damage.
++5% Dmg Reduction and +600 Critical Damage.
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Damage ↑
 
@@ -5322,39 +5352,39 @@ Damage ↑
 
 ID=53754
 不動の意志
-+5% Damage Reduction against Boss/Named Enemies.
++5% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=53755
 不動の意志
-+7% Damage Reduction against Boss/Named Enemies.
++7% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=53756
 不動の意志
-+10% Damage Reduction against Boss/Named Enemies.
++10% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=53757
 不動の意志
-+7% Damage Reduction against Boss/Named Enemies.
++7% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=53758
 不動の意志
-+9% Damage Reduction against Boss/Named Enemies.
++9% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=53759
 不動の意志
-+12% Damage Reduction against Boss/Named Enemies.
++12% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=55002
 Surprise Box Ⅲ
@@ -6024,19 +6054,19 @@ ID=18011
 
 ID=6091
 Reckless Insanity Ⅰ
-Critical Damage and Penetration increased and SG Cost reduced.
+Critical Damage and Penetration increased, and SG Cost reduced.
 Icon/Buff/Icon_Common_Buff_CRI
 Reckless Insanity
 
 ID=6092
 Reckless Insanity Ⅱ
-Critical Damage and Penetration increased and SG Cost reduced.
+Critical Damage and Penetration increased, and SG Cost reduced.
 Icon/Buff/Icon_Common_Buff_CRI
 Reckless Insanity
 
 ID=6093
 Reckless Insanity Ⅲ
-Critical Damage and Penetration increased and SG Cost reduced.
+Critical Damage and Penetration increased, and SG Cost reduced.
 Icon/Buff/Icon_Common_Buff_CRI
 Reckless Insanity
 
@@ -6324,19 +6354,19 @@ Shock
 
 ID=5091
 Damage ↓
--24% Damage received.
++24% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Def
 Damage ↓
 
 ID=5092
 Damage ↓
--32% Damage received.
++32% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Def
 Damage ↓
 
 ID=5093
 Damage ↓
--40% Damage received.
++40% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Def
 Damage ↓
 
@@ -6552,7 +6582,7 @@ Weakened
 
 ID=30142
 傷感染
-+10% Damage received.
++10% Dmg Reduction.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Slowed
 
@@ -6582,7 +6612,7 @@ Icon/Buff/Icon_Common_Debuff_Poison
 
 ID=30155
 超猛毒
-+20% Damage received.
++20% Dmg Reduction.
 Icon/Buff/Icon_Common_Debuff_Poison
 超猛毒
 
@@ -6606,7 +6636,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=30159
 超猛毒
--20% Damage received.
++20% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Def
 超猛毒
 
@@ -6714,39 +6744,39 @@ Fixed Maxed Damage
 
 ID=54111
 防御態勢
-+3% Damage Reduction.
++3% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=54112
 防御態勢
-+4% Damage Reduction.
++4% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=54113
 防御態勢
-+5% Damage Reduction.
++5% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=54121
 防御態勢
-+5% Damage Reduction.
++5% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=54122
 防御態勢
-+6% Damage Reduction.
++6% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=54123
 防御態勢
-+7% Damage Reduction.
++7% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage Reduction ↑
+Dmg Reduction ↑
 
 ID=54211
 悟り
@@ -6930,37 +6960,37 @@ Attack ↑
 
 ID=54711
 鉄壁守備
-+500 Defense and +7% Damage Reduction against Boss/Named Enemies.
++500 Defense and +7% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↓
 
 ID=54712
 鉄壁守備
-+700 Defense and +8% Damage Reduction against Boss/Named Enemies.
++700 Defense and +8% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↓
 
 ID=54713
 鉄壁守備
-+900 Defense and +9% Damage Reduction against Boss/Named Enemies.
++900 Defense and +9% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↓
 
 ID=54721
 鉄壁守備
-+750 Defense and +8% Damage Reduction against Boss/Named Enemies.
++750 Defense and +8% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↓
 
 ID=54722
 鉄壁守備
-+900 Defense and +9% Damage Reduction against Boss/Named Enemies.
++900 Defense and +9% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↓
 
 ID=54723
 鉄壁守備
-+1050 Defense and +10% Damage Reduction against Boss/Named Enemies.
++1050 Defense and +10% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↓
 
@@ -7202,37 +7232,37 @@ ID=60145
 決戦
 +3% Damage to Boss/Named Enemies and +2% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage and Penetration ↑
+Damage & Penetration ↑
 
 ID=60146
 決戦
 +7% Damage to Boss/Named Enemies and +3% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage and Penetration ↑
+Damage & Penetration ↑
 
 ID=60147
 決戦
 +10% Damage to Boss/Named Enemies and +5% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage and Penetration ↑
+Damage & Penetration ↑
 
 ID=60148
 決戦
 +5% Damage to Boss/Named Enemies and +2% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage and Penetration ↑
+Damage & Penetration ↑
 
 ID=60149
 決戦
 +9% Damage to Boss/Named Enemies and +3% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage and Penetration ↑
+Damage & Penetration ↑
 
 ID=60150
 決戦
 +12% Damage to Boss/Named Enemies and +5% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage and Penetration ↑
+Damage & Penetration ↑
 
 ID=60151
 物欲発現
@@ -7614,7 +7644,7 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=8502
 Awakening
-Fixed Max Damage.\n-25% Damage received.\n+20% Movement Speed.\nSA State.
+Fixed Max Damage.\n+25% Dmg Reduction.\n+20% Movement Speed.\nSA State.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -7700,37 +7730,37 @@ ID=60193
 決戦
 +1% Damage to Boss/Named Enemies and +1% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage and Penetration ↑
+Damage & Penetration ↑
 
 ID=60194
 決戦
 +2% Damage to Boss/Named Enemies and +2% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage and Penetration ↑
+Damage & Penetration ↑
 
 ID=60195
 決戦
 +4% Damage to Boss/Named Enemies and +3% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage and Penetration ↑
+Damage & Penetration ↑
 
 ID=60196
 決戦
 +2% Damage to Boss/Named Enemies and +1% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage and Penetration ↑
+Damage & Penetration ↑
 
 ID=60197
 決戦
 +4% Damage to Boss/Named Enemies and +2% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage and Penetration ↑
+Damage & Penetration ↑
 
 ID=60198
 決戦
 +6% Damage to Boss/Named Enemies and +3% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
-Damage and Penetration ↑
+Damage & Penetration ↑
 
 ID=60199
 戦闘の流れ
@@ -7944,7 +7974,7 @@ Movement Speed ↓
 
 ID=63201
 Aquilas Enhancement
-+50% Damage and +50% Damage Reduction
++50% Damage and +50% Dmg Reduction
 Icon/Buff/Icon_Common_Buff_ATK
 Enhance
 
@@ -8148,33 +8178,33 @@ Damage ↑
 
 ID=9021
 Overall Enhancement Ⅰ
-+35% Reduce Damage and +4% Attack Speed.\nAfter every 4 seconds, -7% Reduce Damage and +4% Attack Speed.
+Max +35% Dmg Reduction and +4% Attack Speed.\nEvery 4 seconds, +7% Dmg Reduction and +4% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Def
-受けるダメージ減少、攻撃速度増加
+Dmg Reduction & Attack Speed ↑
 
 ID=9022
 Overall Enhancement Ⅱ
-受けるダメージ量が最大28％減少、攻撃速度が8％増加します。\n4秒後現在の数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
+Max +28% Dmg Reduction and +8% Attack Speed.\nEvery 4 seconds, +7% Dmg Reduction and +4% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Def
-受けるダメージ減少、攻撃速度増加
+Dmg Reduction & Attack Speed ↑
 
 ID=9023
 Overall Enhancement Ⅲ
-受けるダメージ量が最大21％減少、攻撃速度が12％増加します。\n4秒後現在数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
+Max +21% Dmg Reduction and +12% Attack Speed.\nEvery 4 seconds, +7% Dmg Reduction and +4% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Def
-受けるダメージ減少、攻撃速度増加
+Dmg Reduction & Attack Speed ↑
 
 ID=9024
 Overall Enhancement Ⅳ
-受けるダメージ量が最大14％減少、攻撃速度が16％増加します。\n4秒後現在数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
+Max +14% Dmg Reduction and +16% Attack Speed.\nEvery 4 seconds, +7% Dmg Reduction and +4% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Def
-受けるダメージ減少、攻撃速度増加
+Dmg Reduction & Attack Speed ↑
 
 ID=9025
 Overall Enhancement Ⅴ
-受けるダメージ量が最大7％減少、攻撃速度が20％増加します。\n4秒後現在数値から受けるダメージ量が7％減少、攻撃速度は4％増加します。
+Max +7% Dmg Reduction and +20% Attack Speed.\nEvery 4 seconds, +7% Dmg Reduction and +4% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Def
-受けるダメージ減少、攻撃速度増加
+Dmg Reduction & Attack Speed ↑
 
 ID=9026
 個人強化I

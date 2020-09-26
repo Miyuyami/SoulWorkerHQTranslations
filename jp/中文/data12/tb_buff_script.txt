@@ -738,31 +738,31 @@ Icon/Buff/Icon_Common_Debuff_Def
 
 ID=5541
 士氣鼓舞Ⅰ
-移动速度10%提高
+移動速度が5%増加する。
 Icon/Buff/Icon_Common_Buff_MSR
 移動速度増加
 
 ID=5542
 士氣鼓舞Ⅱ
-移动速度11%提高
+移动速度增加6%。
 Icon/Buff/Icon_Common_Buff_MSR
 移動速度増加
 
 ID=5543
 士氣鼓舞Ⅲ
-移动速度13%提高
+移動速度が7%増加する。
 Icon/Buff/Icon_Common_Buff_MSR
 移動速度増加
 
 ID=5544
 士氣鼓舞Ⅳ
-移动速度16%提高
+移動速度が8%増加する。
 Icon/Buff/Icon_Common_Buff_MSR
 移動速度増加
 
 ID=5545
 士氣鼓舞Ⅴ
-移动速度20%提高
+移动速度10%提高
 Icon/Buff/Icon_Common_Buff_MSR
 移動速度増加
 
@@ -786,31 +786,61 @@ SG回復
 
 ID=5561
 瞄准目标Ⅰ
-敌人的防御力7%無效化
+敵の防御度を6%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=5562
 瞄准目标Ⅱ
-敌人的防御力9%無效化
+敌人的防御力7%無效化
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=5563
 瞄准目标Ⅲ
-敌人的防御力12%無效化
+敌人的防御力9%無效化
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=5564
 瞄准目标Ⅳ
-敌人的防御力15%無效化
+敵の防御度を11%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
 ID=5565
 瞄准目标Ⅴ
-敌人的防御力20%無效化
+敌人的防御力15%無效化
+Icon/Buff/Icon_Common_Buff_Penetration
+防御度貫通
+
+ID=5566
+テイクエイム
+敵の防御度を1%無効化する。
+Icon/Buff/Icon_Common_Buff_Penetration
+防御度貫通
+
+ID=5567
+テイクエイム
+敵の防御度を2%無効化する。
+Icon/Buff/Icon_Common_Buff_Penetration
+防御度貫通
+
+ID=5568
+テイクエイム
+敵の防御度を3%無効化する。
+Icon/Buff/Icon_Common_Buff_Penetration
+防御度貫通
+
+ID=5569
+テイクエイム
+敵の防御度を4%無効化する。
+Icon/Buff/Icon_Common_Buff_Penetration
+防御度貫通
+
+ID=5570
+テイクエイム
+敵の防御度を5%無効化する。
 Icon/Buff/Icon_Common_Buff_Penetration
 防御度貫通
 
