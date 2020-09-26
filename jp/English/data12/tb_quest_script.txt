@@ -48,7 +48,7 @@ Hero's First Steps
 0
 
 ID=3003
-People's Dying Spirit
+Hearts of the Dead
 0
 0
 0
@@ -83,7 +83,7 @@ Crawling Darkness
 0
 
 ID=3008
-Something Dark and Sinister
+Something Black and Sinister
 0
 0
 0
@@ -365,14 +365,14 @@ Talk to [Benjamin] in [Rocco Town]
 ID=100120
 Terrible Feeling
 私が怪電波地域の任務に就いている間も\n青炎の道化師の捜索は継続されており、\nついに、ある閉鎖された病院で彼を発見した。\nベンジャミンは直ちに捜索隊を派遣したが、\n現在彼ら全員との連絡が途絶えている状態らしい。\nすでに手遅れかもしれないが、\n希望を捨てることはできない。\n病院に急行した私が目にしたのは、\n人形の攻撃で死に瀕している兵士たちの姿だった。
-Rescue the [Dying Soldier] in [Silent Killing Intent]
+Rescue the [Dying Soldier] in [Subdued Bloodlust]
 Talk to [Dying Soldier]
-Talk to [Dying Soldier] in [Silent Killing Intent]
+Talk to [Dying Soldier] in [Subdued Bloodlust]
 
 ID=100125
 Shattered Spirit of People
 人形は兵士たちを弄ぶように命を奪ったという。\n辛うじて一命は取り留めたものの、\n恐怖を植え付けられた彼らは、戦意を喪失していた。\nもう二度と戦場に身を投じることはないだろう。\n一旦、ロコタウンに戻ることにした。
-Rescue the [Starry Forest League Search Party] in [Silent Killing Intent]
+Rescue the [Starry Forest League Search Party] in [Subdued Bloodlust]
 Talk to [Sunny]
 Talk to [Sunny] in [Rocco Town]
 
@@ -442,7 +442,7 @@ Talk to [Aaron] in [Candus City]
 ID=100190
 Scent of the chilly ocean
 アーロンはキャサリンを心配していた。\nそれが父親というものだろう。\nその後、アーロンから正式に任務を受けた。\n海岸道路を占拠しているソウルジャンクを殲滅し、\n補給路を確保する。それが今回の任務だ。\n任務を受けて向かった海岸道路には、ゴミや建材と\n融合したソウルジャンクが待ち構えていた。\n討伐を終えて戻ると、アーロンが迎えてくれた。\n彼は、ソウルワーカーの力に驚きを隠せずにいた。
-Exterminate the soul junk at the end of the driveway in [Closed Road]
+Eliminate all Souljunks on the road in [Blocked Path]
 Talk to [Aaron]
 Talk to [Aaron] in [Candus City]
 
@@ -484,7 +484,7 @@ Talk to [Aaron] in [Candus City]
 ID=100220
 Underground Waterway
 アーロンは以前から地下水路の調査を\n要請していたが、いつも却下されてきた。\nそれが今回に限ってこのように依頼してくることを\n怪しいと感じていたようだ。\n地下水路は長期間放置されていたため、\n予測不能な問題が起きている可能性もある。\n万一に備え戦闘の準備もしておくよう指示された。\nアーロンとブロックの不吉な予感は的中した。\n地下水路にはおびただしい数の\nソウルジャンクがはびこっていた。
-Investigate the underground waterway in [Monsters Watching Your Steps]
+Investigate the underground waterway in [Monsters Hiding Underneath]
 Talk to [Henry]
 Talk to [Henry] in [Candus City]
 
@@ -526,7 +526,7 @@ Talk to [Ralph]
 ID=100250
 Ominous Parting Gift
 ラルフは、ブロックとヘンリーの言い合いを見て、\n何かが起こったのだと感づいたようだ。\n少し前に、ネッドカンパニーの輸送機が\nカンダスシティ近郊の屋敷に墜落した事件…。\n\nネッドカンパニーによる情報操作に、\nラルフもいよいよ怪しいと感じたと話してくれた。\nブロックは確信はないものの屋敷の調査を指示した。\n\n調査開始後に屋敷で見つかったものは、\nネッドカンパニーの輸送機の残骸や、\n何かが抜け出したかのような巨大カプセル、\nそれから見覚えのあるリボンだった。\nそれは…キャサリンのものだった。
-Defeat [Dark Worm] then look for traces of NED Company in [Residence of Pure Darkness]
+After searching for traces of the NED Company in [Unlit Mansion], defeat [Dark Worm]
 Talk to [Aaron]
 Talk to [Aaron] in [Candus City]
 
@@ -568,9 +568,9 @@ Talk to [Brock] in [Candus City]
 ID=100280
 Self Reprimand
 キャサリンの件で自責の念に駆られたビクターは、\n解毒剤の在処を探すため、\n一人で研究所に向かったのだった。\n急いで後を追ったが、すでに彼は\nソウルジャンクによって繭に閉じ込められており、\nもう少しでソウルジャンクになるところだった。
-Investigate the whereabouts of [Victor] in [Disastrous Egg Hatching]
+Search for [Victor]'s whereabouts in [The Egg that Raises Tragedy]
 Rescue [Victor]
-Rescue [Victor] in [Disastrous Egg Hatching]
+Rescue [Victor] in [The Egg that Raises Tragedy]
 
 ID=100285
 Voice
@@ -589,7 +589,7 @@ Talk to [Victor] in [Candus City]
 ID=100295
 There's only one left
 ビホールダーの粘液の確保と自爆装置起動のために\n再び研究所へと向かった。\n何とかビホールダーを倒して粘液を手に入れ、\n最後に研究所の自爆装置を起動した。\n爆発する研究所…カンダスシティにおける\nネッドカンパニーの研究に終止符を打った…。\nその事実に少し胸を撫で下ろした。\n残すは、キャサリンの治療だけだ。
-Obtain [Beholder's Mucus] from [Mad Beholder] in [Red Demon Eyes]
+Obtain [Beholder's Mucus] from [Mad Beholder] in [Red Demon Eye]
 Talk to [Victor]
 Talk to [Victor] in [Candus City]
 
@@ -610,7 +610,7 @@ Talk to [Brock] in [Candus City]
 ID=100310
 Approaching Danger
 ブロックは、現在町の外におびただしい数の\nソウルジャンクが侵攻してきていることと、\nネッドカンパニーから輸送機の支援を受け、\n住民の避難を進める予定であることを説明した。\nしかし、シェルターの開閉装置が作動せず、\n手動で動かさなければならない状況だった。\n何とかシェルターの開閉装置を稼動させて戻ると\n今度はアーロンが私を待っていた。
-Activate the [Switching Device] in [Beam of Light]
+Activate the [Switchgear] in [A Ray of Light]
 Talk to [Aaron]
 Talk to [Aaron] in [Candus City]
 
@@ -757,7 +757,7 @@ Talk to [Ryoko] in [Rocco Town]
 ID=600095
 Father's Trail
 0
-Obtain [Pilot Jacket] from [Stylish Puppet] in [People's Dying Spirit]
+Obtain [Pilot Jacket] from [Zanetti Puppet] in [Hearts of the Dead]
 Talk to [Setsuka]
 Talk to [Setsuka] in [Rocco Town]
 
@@ -834,7 +834,7 @@ Talk to [Yomi] in [Rocco Town]
 ID=600255
 What value to be determined on the object Ⅱ
 0
-Obtain [Temptation Stone] from [Embryo Puppet] in [Wandering Doll]
+Obtain [Temptation Stone] from [Embryo Puppet] in [Roaming Dolls]
 Talk to [Zaito]
 Talk to [Zaito] in [Rocco Town]
 
@@ -911,7 +911,7 @@ Talk to [Ryoko] in [Rocco Town]
 ID=600295
 Atama's Katamari
 0
-Defeat [Road Stone] in [Closed Road]
+Defeat [Road Scone] in [Blocked Path]
 Talk to [Hugh]
 Talk to [Hugh] in [Candus City]
 
@@ -1065,7 +1065,7 @@ Talk to [Brock] in [Candus City]
 ID=600410
 Strongest Impurity Ⅰ
 0
-Defeat [Crude Cell] in [Monsters Watching Your Steps]
+Defeat [Crude Cell] in [Monsters Hiding Underneath]
 Talk to [Leona]
 Talk to [Leona] in [Candus City]
 
@@ -1086,7 +1086,7 @@ Talk to [Leona] in [Candus City]
 ID=600430
 The Root of All Evil
 0
-Defeat [Dark Worm] in [Residence of Pure Darkness]
+Defeat [Dark Worm] in [Unlit Mansion]
 Talk to [Hugh]
 Talk to [Hugh] in [Candus City]
 
@@ -1107,7 +1107,7 @@ Talk to [Rita] in [Candus City]
 ID=600445
 Changing Proof
 0
-Obtain [Hardened Mucus] from [Meltiness Cell] in [Presence in the Darkness]
+Obtain [Hardened Mucus] from [Meltiness Cell] in [Beings in the Dark]
 Talk to [Ordon]
 Talk to [Ordon] in [Candus City]
 
@@ -1156,7 +1156,7 @@ Talk to [Hugh] in [Candus City]
 ID=600480
 [EX]同族捕食Ⅱ
 0
-[EX]\n[闇の中の存在]の[メルティニスセル]から[融合した核]入手
+[EX]\nObtain [Fused Core] from [Meltiness Cell] in [Beings in the Dark]
 Talk to [Leona]
 Talk to [Leona] in [Candus City]
 
@@ -1191,7 +1191,7 @@ Talk to [Haidinger] in [Candus City]
 ID=600510
 Eyes that Call Death
 0
-Obtain [Cone Cells] from [Beholder] in [Disastrous Egg Hatching]
+Obtain [Eyeball Cell] from [Beholder] in [The Egg that Raises Tragedy]
 Talk to [Leona]
 Talk to [Leona] in [Candus City]
 
@@ -1226,28 +1226,28 @@ Talk to [Leona] in [Candus City]
 ID=600535
 The Beginning of Evolution
 0
-Obtain [Purple Crystal] from [Mad Beholder] in [Red Demon Eyes]
+Obtain [Purple Crystal] from [Mad Beholder] in [Red Demon Eye]
 Talk to [Hugh]
 Talk to [Hugh] in [Candus City]
 
 ID=600540
 Human Made Ⅰ
 0
-Obtain [Modified Cells] from [X-111] in [Something Dark and Sinister]
+Obtain [Modified Cell] from [X-111] in [Something Black and Sinister]
 Talk to [Haidinger]
 Talk to [Haidinger] in [Candus City]
 
 ID=600550
 [VH]人間に作られたものⅡ
 0
-[VH]\n[黒く不吉なもの]の[X-111]から[完成した細胞]入手
+[VH]\nObtain [Perfected Cell] from [X-111] in [Something Black and Sinister]
 Talk to [Haidinger]
 Talk to [Haidinger] in [Candus City]
 
 ID=600555
 Dangers in the Air
 0
-Defeat [Gallasnes] in [Beam of Light]
+Defeat [Glasnis] in [A Ray of Light]
 Talk to [Hugh]
 Talk to [Hugh] in [Candus City]
 
@@ -1261,7 +1261,7 @@ Talk to [Leona] in [Candus City]
 ID=600565
 Amazing Muscles Ⅰ
 0
-Obtain [Black Shell] from [Iron Breaker] in [Intruders]
+Obtain [Black Shell] from [Iron Breaker] in [Invaders]
 Talk to [Zaito]
 Talk to [Zaito] in [Candus City]
 
@@ -1275,7 +1275,7 @@ Talk to [Leona] in [Candus City]
 ID=600575
 Amazing Muscles Ⅱ
 0
-Obtain [Hot Core] from [Iron Breaker] in [Intruders]
+Obtain [Hot Core] from [Iron Breaker] in [Invaders]
 Talk to [Zaito]
 Talk to [Zaito] in [Candus City]
 
@@ -1324,7 +1324,7 @@ Talk to [Rita] in [Candus City]
 ID=600620
 [VH]青い空Ⅱ
 0
-[VH]\n[侵入者たち]の[アイアンブレイカー]から[黒い羽]入手
+[VH]\nObtain [Black Feather] from [Iron Breaker] in [Invaders]
 Talk to [Rita]
 Talk to [Rita] in [Candus City]
 
@@ -1512,21 +1512,21 @@ Talk to [Benjamin] in [Rocco Town]
 
 ID=1001201
 Rescue [Dying Soldier]
-Rescue the [Dying Soldier] in [Silent Killing Intent]
+Rescue the [Dying Soldier] in [Subdued Bloodlust]
 0
 0
 0
 
 ID=1001251
 Rescue [Starry Forest League Search Party]
-Rescue the [Starry Forest League Search Party] in [Silent Killing Intent]
+Rescue the [Starry Forest League Search Party] in [Subdued Bloodlust]
 0
 0
 0
 
 ID=1001252
 Rescue [Starry Forest League Search Party]
-Rescue the [Starry Forest League Search Party] in [Silent Killing Intent]
+Rescue the [Starry Forest League Search Party] in [Subdued Bloodlust]
 0
 0
 0
@@ -1659,14 +1659,14 @@ Talk to [Catherine] in [Candus City]
 
 ID=1001901
 Defeat the soul junks
-Wipe out all approaching [Soul Junk] in [Closed Road]
+Eliminate all Souljunks at the road entrance in [Blocked Path]
 0
 0
 0
 
 ID=1001902
 Wipe out all soul junks
-Wipe out all [Soul Junk] on the road in [Closed Road]
+Eliminate all Souljunks at the end of the road in [Blocked Path]
 0
 0
 0
@@ -1771,7 +1771,7 @@ Talk to [Henry] in [Candus City]
 
 ID=1002201
 Investigate the underground waterway
-Defeat the soul junks in [Monsters Watching Your Steps]
+Defeat Souljunks in [Monsters Hiding Underneath]
 0
 0
 0
@@ -1834,14 +1834,14 @@ Talk to [Henry] in [Candus City]
 
 ID=1002501
 Investigate the huge residence
-Look for traces of NED Company in [Residence of Pure Darkness]
+Search for traces of the NED Company in [Unlit Mansion]
 0
 0
 0
 
 ID=1002502
 Defeat [Dark Worm]
-Defeat [Crude Cell] in [Residence of Pure Darkness]
+Defeat [Crude Cell] in [Unlit Mansion]
 0
 0
 0
@@ -1911,14 +1911,14 @@ Investigate the [Huge Capsule] at the central laboratory in [Abyss]
 
 ID=1002801
 Look for [Victor]
-Defeat [Beholder] and interfere with [Victor]'s search in [Disastrous Egg Hatching]
+Defeat [Beholder] that interferes with your search for [Victor] in [The Egg that Raises Tragedy]
 0
 0
 0
 
 ID=1002802
 Rescue the trapped [Victor] from the cocoon
-Rescue the trapped [Victor] from the cocoon in [Disastrous Egg Hatching]
+Rescue [Victor] trapped from a cocoon in [The Egg that Raises Tragedy]
 0
 0
 0
@@ -1939,7 +1939,7 @@ Talk to [Henry] in [Candus City]
 
 ID=1002951
 Obtain [Beholder's Mucus]
-Obtain [Beholder's Mucus] from [Mad Beholder] in [Red Demon Eyes]
+Obtain [Beholder's Mucus] from [Mad Beholder] in [Red Demon Eye]
 0
 0
 0
@@ -1974,7 +1974,7 @@ Obtain information from [Warren] in [Rocco Town]
 
 ID=1003101
 Activate the [Switching Device]
-Activate the [Switching Device] in [Beam of Light]
+Activate the [Switchgear] in [A Ray of Light]
 0
 0
 0
@@ -2121,7 +2121,7 @@ Talk with [Ryu] in [Rocco Town]
 
 ID=6000951
 Obtain [Pilot Jacket]
-Obtain [Pilot Jacket] from [Stylish Puppet] in [People's Dying Spirit]
+Obtain [Pilot Jacket] from [Zanetti Puppet] in [Hearts of the Dead]
 0
 0
 0
@@ -2240,7 +2240,7 @@ Talk to [Yomi] in [Rocco Town]
 
 ID=6002551
 Obtain [Temptation Stone]
-Obtain [Temptation Stone] from [Embryo Puppet] in [Wandering Doll]
+Obtain [Temptation Stone] from [Embryo Puppet] in [Roaming Dolls]
 0
 0
 0
@@ -2268,7 +2268,7 @@ Obtain [Memory Chip]
 
 ID=6002951
 Defeat [Road Stone]
-Defeat [Road Stone] in [Closed Road]
+Defeat [Road Scone] in [Blocked Path]
 0
 0
 0
@@ -2422,7 +2422,7 @@ Defeat [Dark Lizard] in [Junk Pool]
 
 ID=6004101
 Defeat [Crude Cell]
-Defeat [Crude Cell] in [Monsters Watching Your Steps]
+Defeat [Crude Cell] in [Monsters Hiding Underneath]
 0
 0
 0
@@ -2443,7 +2443,7 @@ Talk to [Haidinger]
 
 ID=6004301
 Defeat [Dark Worm]
-Defeat [Dark Worm] in [Residence of Pure Darkness]
+Defeat [Dark Worm] in [Unlit Mansion]
 0
 0
 0
@@ -2464,7 +2464,7 @@ Defeat [Eroded People] in [The Big Mouth]
 
 ID=6004451
 Obtain [Hardened Mucus]
-Obtain [Hardened Mucus] from [Meltiness Cell] in [Presence in the Darkness]
+Obtain [Hardened Mucus] from [Meltiness Cell] in [Beings in the Dark]
 0
 0
 0
@@ -2513,7 +2513,7 @@ Obtain [Spider's Forefoot] from [Spider-type Soul Junk] in [The Big Mouth]
 
 ID=6004801
 Obtain [Fused Core]
-[EX]\n[闇の中の存在]の[メルティニスセル]から[融合した核]入手
+[EX]\nObtain [Fused Core] from [Meltiness Cell] in [Beings in the Dark]
 0
 0
 0
@@ -2548,7 +2548,7 @@ Destroy [Ominous Cocoon]
 
 ID=6005101
 Obtain [Cone Cells]
-Obtain [Cone Cells] from [Beholder] in [Disastrous Egg Hatching]
+Obtain [Eyeball Cell] from [Beholder] in [The Egg that Raises Tragedy]
 0
 0
 0
@@ -2583,28 +2583,28 @@ Defeat [S-01] in [N-102]
 
 ID=6005351
 Obtain [Purple Crystal]
-Obtain [Purple Crystal] from [Mad Beholder] in [Red Demon Eyes]
+Obtain [Purple Crystal] from [Mad Beholder] in [Red Demon Eye]
 0
 0
 0
 
 ID=6005401
 Obtain [Modified Cells]
-Obtain [Modified Cells] from [X-111] in [Something Dark and Sinister]
+Obtain [Modified Cell] from [X-111] in [Something Black and Sinister]
 0
 0
 0
 
 ID=6005501
 Obtain [Perfected Cell]
-[VH]\n[黒く不吉なもの]の[X-111]から[完成した細胞]入手
+[VH]\nObtain [Perfected Cell] from [X-111] in [Something Black and Sinister]
 0
 0
 0
 
 ID=6005551
 Defeat [Gallasnes]
-Defeat [Gallasnes] in [Beam of Light]
+Defeat [Glasnis] in [A Ray of Light]
 0
 0
 0
@@ -2618,7 +2618,7 @@ Obtain [Pulsing Unstable Core] from [Hokmah] in [Skies of Grief]
 
 ID=6005651
 Obtain [Black Shell]
-Obtain [Black Shell] from [Iron Breaker] in [Intruders]
+Obtain [Black Shell] from [Iron Breaker] in [Invaders]
 0
 0
 0
@@ -2632,7 +2632,7 @@ Obtain [Fading Wing] from [Luga] in [Breakout]
 
 ID=6005751
 Obtain [Hot Core]
-Obtain [Hot Core] from [Iron Breaker] in [Intruders]
+Obtain [Hot Core] from [Iron Breaker] in [Invaders]
 0
 0
 0
@@ -2681,7 +2681,7 @@ Defeat [Flying-type Soul Junk] in [Breakout]
 
 ID=6006201
 Obtain [Black Feather]
-[VH]\n[侵入者たち]の[アイアンブレイカー]から[黒い羽]入手
+[VH]\nObtain [Black Feather] from [Iron Breaker] in [Invaders]
 0
 0
 0
@@ -3898,14 +3898,14 @@ Rank Clear: [Greedy Wolf]
 0
 
 ID=1200004
-Timed Attack: [People's Dying Spirit]
+Time Attack: [Hearts of the Dead]
 [Rスクエア：EP2N]を4分以内に1回クリア
 0
 0
 0
 
 ID=1200005
-Clear: [People's Dying Spirit]
+Clear: [Hearts of the Dead]
 [Rスクエア：EP2N]を1回クリア
 0
 0
@@ -3933,7 +3933,7 @@ Rank Clear: [Bad Premonition]
 0
 
 ID=1200009
-Timed Attack: Wandering Doll
+Time Attack: Roaming Dolls
 [タワーオブグリード：EP2N]を6分以内に1回クリア
 0
 0
@@ -3954,7 +3954,7 @@ Clear: [Grotesque Tower]
 0
 
 ID=1200012
-Timed Attack: [Silent Killing Intent]
+Time Attack: [Subdued Bloodlust]
 [ベストショータイム：EP1N]を5分以内に1回クリア
 0
 0
@@ -4003,7 +4003,7 @@ Rank Clear: [Gray Rock]
 0
 
 ID=1200019
-Timed Attack: [Monsters Watching Your Steps]
+Time Attack: [Monsters Hiding Underneath]
 [ジャンクプール：EP1N]を4分以内に1回クリア
 0
 0
@@ -4024,7 +4024,7 @@ Rank Clear: [Jet Black Armor]
 0
 
 ID=1200022
-Timed Attack: [Presence in the Darkness]
+Time Attack: [Beings in the Dark]
 [ザ・ビッグマウス：EP2N]を5分以内に1回クリア
 0
 0
@@ -4052,21 +4052,21 @@ Timed Attack: [Abyss]
 0
 
 ID=1200026
-Timed Attack: [Disastrous Egg Hatching]
+Time Attack: [The Egg that Raises Tragedy]
 [N-102：EP3N]を6分以内に1回クリア
 0
 0
 0
 
 ID=1200027
-Rank Clear: [Red Demon Eyes]
+Rank Clear: [Red Demon Eye]
 [N-102：EP4N]をSSランクで1回クリア
 0
 0
 0
 
 ID=1200028
-Clear: [Beam of Light]
+Clear: [A Ray of Light]
 [ブレイクアウト：EP1N]を1回クリア
 0
 0
@@ -4248,7 +4248,7 @@ ID=2200051
 0
 
 ID=2200052
-[EX]ランククリア：[赤い魔眼]
+[EX] Rank Clear: [Red Demon Eye]
 [EX]\n[N-102：EP4]をSSランク1回クリア
 0
 0
@@ -4381,7 +4381,7 @@ Timed Attack: [Frenzied Dash]
 0
 
 ID=1200058
-Clear: [Hidden Murderous Intent]
+Clear: [Suppressed Bloodlust]
 [フォガットンアーモリー：EP1N]を2回クリア
 0
 0
@@ -4619,7 +4619,7 @@ Reaper of [Puppet Army]
 0
 
 ID=1300005
-Let's Go Together in [People's Dying Spirit]
+Let's Go Together in [Hearts of the Dead]
 レベル差が3以内のパーティーメンバー2名と[Rスクエア：EP2N]を1回クリア
 0
 0
@@ -4668,7 +4668,7 @@ Cloning Art in [Grotesque Tower]
 0
 
 ID=1300012
-Don't Go Alone in [Silent Killing Intent]
+Don't Go Alone in [Subdued Bloodlust]
 レベル差が3以内のパーティーメンバー1名と[ベストショータイム：EP1N]を3回クリア
 0
 0
@@ -4696,7 +4696,7 @@ Perform a duet in [Lunatic Dance in the Moonlight]
 0
 
 ID=1300016
-Don't Go Alone in [Closed Road]
+Don't Go Alone in [Blocked Path]
 レベル差が2以内のパーティーメンバー1名と[コンクリートジャングル：EP1N]を3回クリア
 0
 0
@@ -4738,7 +4738,7 @@ Outlaws of [Jet Black Armor]
 0
 
 ID=1300022
-Don't Go Alone in [Residence of Pure Darkness]
+Don't Go Alone in [Unlit Mansion]
 レベル差が3以内のパーティーメンバー1名と[ザ・ビッグマウス：EP1N]を3回クリア
 0
 0
@@ -4759,28 +4759,28 @@ Doppelganger of [Beautiful Predator]!?
 0
 
 ID=1300025
-Don't Go Alone in [Something Dark and Sinister]
+Don't Go Alone in [Something Black and Sinister]
 レベル差が3以内のパーティーメンバー1名と[N-102：EP2N]を3回クリア
 0
 0
 0
 
 ID=1300026
-Let's Go Together in [Disastrous Egg Hatching]
+Let's Go Together in [The Egg that Raises Tragedy]
 レベル差が2以内のパーティーメンバー2名と[N-102：EP3N]を3回クリア
 0
 0
 0
 
 ID=1300027
-Hard-boiled in [Red Demon Eyes]
+Hard-boiled in [Red Demon Eye]
 [アーウィン]2名と[N-102：EP4VH]を1回クリア
 0
 0
 0
 
 ID=1300028
-Calling Reaper's Shadow in [Beam of Light]
+The Shadow of the Grim Reaper called forth in [A Ray of Light]
 [リリー]2名と[ブレイクアウト：EP1N]を3回クリア
 0
 0
@@ -5102,7 +5102,7 @@ Ultra-Alter Ego in [Clash of Fate]
 0
 
 ID=1300074
-Sparring in [Wandering Doll]!!
+Spar in [Roaming Dolls]!!
 [ジン]1名と[タワーオブグリード：EP2N]を1回クリア
 0
 0
@@ -8400,7 +8400,7 @@ Talk to [Haidinger] in [Candus City]
 
 ID=3000152
 Obtain [Fission Cell]
-Obtain [Fission Cell] from [Beholder] in [N-102][Disastrous Egg Hatching]
+Obtain [Split Cell] from [Beholder] in [N-102] [The Egg that Raises Tragedy]
 0
 0
 0
@@ -8721,7 +8721,7 @@ Talk to [Amanda]
 Talk to [Amanda] in [Ruin Fortress]
 
 ID=100605
-隠蔽された殺意
+Suppressed Bloodlust
 巨大な鉄の扉の奥にあったのは武器庫だった。しかも条約によって生産が禁止された対人兵器が眠っていた。ネッドカンパニーが最初からスタリーフォレスト連合と戦争をするための準備を進めていたという動かぬ証拠だった。\nそして、アマンダから新たな情報が入る。エナジー反応の動きが小さくなってきたのだという。\nつまり、アベルがバスターコアのエナジーを持ったまま特定位置で何かをしていることは明白だった。
 Go to [Armory]
 Talk to [Martin]
@@ -9016,14 +9016,14 @@ Fight [Soulworker Replica: Enoch] in [Frenzied Dash]
 
 ID=1006051
 Look for the [Armory]
-Look for the [Armory] in [Hidden Murderous Intent]
+Search for the [Armory] in [Suppressed Bloodlust]
 0
 0
 0
 
 ID=1006052
 Fight [Punisher Zero] with [Abel]
-Fight [Punisher Zero] which was embarked by [Abel] in [Hidden Murderous Intent]
+Fight [Punisher Zero] boarded by [Abel] in [Suppressed Bloodlust]
 0
 0
 0
@@ -9325,7 +9325,7 @@ Talk to [Ian] in [Ruin Fortress]
 ID=601340
 What I Wanted to Tell You
 0
-Obtain [New Model AI Data Chip] from [Heavy Punisher, Heavy Fire Ruler] in [Hidden Murderous Intent]
+Obtain [New AI Data Chip Model] from [Heavy Punisher, Heavy Fire Ruler] in [Suppressed Bloodlust]
 Talk to [Ian]
 Talk to [Ian] in [Ruin Fortress]
 
@@ -9696,7 +9696,7 @@ Talk to [Jessie] in [Ruin Fortress]
 ID=601185
 寂しい物の定義
 0
-[隠蔽された殺意]の[クリーニー]と会話
+Talk to [Cleany] in [Suppressed Bloodlust]
 Talk to [Zenith]
 Talk to [Zenith] in [Ruin Fortress]
 
@@ -9989,7 +9989,7 @@ Obtain [Old-Fashioned AI Data Chip] from [Auto Punisher] in [Forgotten Armory]
 
 ID=6013401
 Obtain [New Model AI Data Chip]
-Obtain [New Model AI Data Chip] from [Heavy Punisher, Heavy Fire Ruler] in [Hidden Murderous Intent]
+Obtain [New AI Data Chip Model] from [Heavy Punisher, Heavy Fire Ruler] in [Suppressed Bloodlust]
 0
 0
 0
@@ -10591,7 +10591,7 @@ Obtain [Vaccine File]
 
 ID=6011851
 Talk to [Cleany]
-[隠蔽された殺意]の[クリーニー]と会話
+Talk to [Cleany] in [Suppressed Bloodlust]
 0
 0
 0
@@ -11250,7 +11250,7 @@ Talk to [Cynthia] in [Candus City]
 ID=200065
 [VH/反復]実験体流出
 0
-[VH]\n[赤い魔眼]クリア
+[VH]\nClear [Red Demon Eye]
 Talk to [Leona]
 Talk to [Leona] in [Candus City]
 
@@ -11682,8 +11682,8 @@ Clear [Beautiful Predator]
 0
 
 ID=2000651
-Clear [Red Demon Eyes]
-[VH]\n[赤い魔眼]クリア
+Clear [Red Demon Eye]
+[VH]\nClear [Red Demon Eye]
 0
 0
 0
@@ -11901,7 +11901,7 @@ Talk to [Trisha] in [Ruin Fortress]
 ID=601605
 周波数を探して
 0
-[隠蔽された殺意]の[オートパニッシャー]討伐
+Defeat [Auto Punisher] in [Suppressed Bloodlust]
 Talk to [Betty]
 Talk to [Betty] in [Ruin Fortress]
 
@@ -12124,7 +12124,7 @@ ID=6016001
 
 ID=6016051
 [オートパニッシャー]討伐
-[隠蔽された殺意]の[オートパニッシャー]討伐
+Defeat [Auto Punisher] in [Suppressed Bloodlust]
 0
 0
 0
@@ -13474,8 +13474,8 @@ ID=6019251
 0
 
 ID=6019301
-[隠蔽された殺意]の[CCTVハッキング装備Lv.1]活性化
-[隠蔽された殺意]の[CCTVハッキング装備Lv.1]活性化
+Activate the [CCTV Hacking Equipment Lv.1] in [Suppressed Bloodlust]
+Activate the [CCTV Hacking Equipment Lv.1] in [Suppressed Bloodlust]
 0
 0
 0
@@ -13502,8 +13502,8 @@ ID=6019304
 0
 
 ID=6019351
-[EX][隠蔽された殺意]クリア
-[EX][隠蔽された殺意]クリア
+Clear [EX] [Suppressed Bloodlust]
+Clear [EX] [Suppressed Bloodlust]
 0
 0
 0
@@ -13545,7 +13545,7 @@ ID=6019402
 
 ID=6019451
 [EX][ヘビーファイアルーラー]討伐
-[EX][隠蔽された殺意]の[ヘビーファイアルーラー]討伐
+Defeat [Heavy Fire Ruler] in [EX] [Suppressed Bloodlust]
 0
 0
 0
@@ -24151,6 +24151,160 @@ ID=1400160
 ID=1400161
 グルトンマトリョーシカイベントシーズン2
 メイズ3回クリア
+0
+0
+0
+
+ID=604075
+[イベント/反復]バラエティーライフ
+商人連合の新規イベント「バラエティーライフ」のルーレットの停止位置に合う番号のカードを確認し、そこに書かれたように行動せよ。\n「1番。服屋を作るために技術を学んだので、直接作ってみた。50点」
+[ゼニス]から[ゼニス品質保証衣服]制作
+Access [Merchant Event Support Device]
+各町の[商人連合イベント支援機器]にアクセス
+
+ID=604080
+[イベント/反復]バラエティーライフ
+商人連合の新規イベント「バラエティーライフ」のルーレットの停止位置に合う番号のカードを確認し、そこに書かれたように行動せよ。\n「2番。巨大地震が起きて町が破壊され、奉仕活動をした。50点」
+[コンクリートジャングル]の[灰色の岩]クリア
+Access [Merchant Event Support Device]
+各町の[商人連合イベント支援機器]にアクセス
+
+ID=604085
+[イベント/反復]バラエティーライフ
+商人連合の新規イベント「バラエティーライフ」のルーレットの停止位置に合う番号のカードを確認し、そこに書かれたように行動せよ。\n「3番。余暇を楽しむために家で休んだ。50点」
+Talk to [Room Terminal] in [Room]
+Access [Merchant Event Support Device]
+各町の[商人連合イベント支援機器]にアクセス
+
+ID=604090
+[イベント/反復]バラエティーライフ
+商人連合の新規イベント「バラエティーライフ」のルーレットの停止位置に合う番号のカードを確認し、そこに書かれたように行動せよ。\n「4番。健康管理のために運動をした。50点」
+[ジャイト]から[ワープオーブ[トレーニングセンター]]購入
+Access [Merchant Event Support Device]
+各町の[商人連合イベント支援機器]にアクセス
+
+ID=604095
+[イベント/反復]バラエティーライフ
+商人連合の新規イベント「バラエティーライフ」のルーレットの停止位置に合う番号のカードを確認し、そこに書かれたように行動せよ。\n「6番。スピード違反により罰金を支払った。50点」
+[カンダスシティ]の[ジャイト]から[罰金領収書]購入
+Access [Merchant Event Support Device]
+各町の[商人連合イベント支援機器]にアクセス
+
+ID=604100
+[イベント/反復]バラエティーライフ
+商人連合の新規イベント「バラエティーライフ」のルーレットの停止位置に合う番号のカードを確認し、そこに書かれたように行動せよ。\n「7番。バイトをクビになり、廃タイヤの処分をすることになった。50点」
+[フロントライン]で[積まれたタイヤ]破壊
+Access [Merchant Event Support Device]
+各町の[商人連合イベント支援機器]にアクセス
+
+ID=604105
+[イベント/反復]バラエティーライフ
+商人連合の新規イベント「バラエティーライフ」のルーレットの停止位置に合う番号のカードを確認し、そこに書かれたように行動せよ。\n「8番。学費の一部が未払いだった。納付後に卒業書を受け取った。50点」
+[グレイスシティ]の[ヨミ]から[大学卒業書]購入
+Access [Merchant Event Support Device]
+各町の[商人連合イベント支援機器]にアクセス
+
+ID=6040751
+[ゼニス品質保証衣服]制作
+[ゼニス]から[ゼニス品質保証衣服]制作
+0
+0
+0
+
+ID=6040801
+Clear [Gray Rock]
+[コンクリートジャングル]の[灰色の岩]クリア
+0
+0
+0
+
+ID=6040851
+Talk to [Room Terminal]
+Talk to [Room Terminal] in [Room]
+0
+0
+0
+
+ID=6040901
+[ワープオーブ[トレーニングセンター]]購入
+[ジャイト]から[ワープオーブ[トレーニングセンター]]購入
+0
+0
+0
+
+ID=6040951
+[ジャイト]から[罰金領収書]購入
+[カンダスシティ]の[ジャイト]から[罰金領収書]購入
+0
+0
+0
+
+ID=6041001
+[積まれたタイヤ]破壊
+[フロントライン]で[積まれたタイヤ]破壊
+0
+0
+0
+
+ID=6041051
+[大学卒業書]購入
+[グレイスシティ]の[ヨミ]から[大学卒業書]購入
+0
+0
+0
+
+ID=603770
+緊急事態[ザ・シング]
+0
+[グレイスシティ]に復帰し[トール]から状況を聞く。
+Talk to [Xenia]
+Talk to [Xenia] in [Grace City]
+
+ID=6037701
+Talk to [Thor]
+Talk to [Thor] in [Grace City]
+0
+0
+0
+
+ID=6037702
+Lv.65[ザ・シング]討伐
+[緊急事態発生地]で[ザ・シング]討伐\n※特定時間のみワールドボスレイドに参加し討伐が可能です。Lv.65のザ・シングは事態発生後、最初に登場します。
+0
+0
+0
+
+ID=6037703
+Talk to [Io] in [Grace City]
+[グレイスシティ]の[イオ]と会話
+0
+0
+0
+
+ID=603775
+緊急事態[ザ・ドゥーム]
+0
+[グレイスシティ]に復帰し[トール]から状況を聞く。
+Talk to [Xenia]
+Talk to [Xenia] in [Grace City]
+
+ID=6037751
+Talk to [Thor]
+Talk to [Thor] in [Grace City]
+0
+0
+0
+
+ID=6037752
+Lv.65[ザ・ドゥーム]討伐
+[緊急事態発生地]で[ザ・ドゥーム]討伐\n※特定時間のみワールドボスレイドに参加し討伐が可能です。Lv.65のザ・ドゥームは事態発生後、最初に登場します。
+0
+0
+0
+
+ID=6037753
+Talk to [Io] in [Grace City]
+[グレイスシティ]の[イオ]と会話
 0
 0
 0
