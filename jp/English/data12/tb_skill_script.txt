@@ -744,7 +744,7 @@ Movie/Skill/PC_A/PC_A_B_Skill_Flash Step
 
 ID=11111
 Cross Strike Ⅰ
-[Info]\nDamage: [98%] per hit\nSA Break: [74%] per hit\nSG Cost: [45]\nCooldown [30s]\n\nSwing the sword in quick succession while in mid-air, firing powerful sword waves. The sword waves explode upon contact to the ground and deal additional damage.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
+[スキル情報]\nダメージ量：攻撃1回あたり[98%]\nSA破壊量：攻撃1回あたり[74%]\nSG消費量：[45]\nクールタイム：[30秒]\n\n空中で剣を振り強力な剣気を連続で飛ばす。剣気が敵を通過してダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 Damage: [98%]+4% per hit\nSA Break: [74%]+3% per hit
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
@@ -752,7 +752,7 @@ Movie/Skill/PC_A/PC_A_B_Skill_Cross Strike
 
 ID=11112
 Cross Strike Ⅱ
-[Info]\nDamage: [102%] per hit\nSA Break: [77%] per hit\nSG Cost: [45]\nCooldown [30s]\n\nSwing the sword in quick succession while in mid-air, firing powerful sword waves. The sword waves explode upon contact to the ground and deal additional damage.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
+[スキル情報]\nダメージ量：攻撃1回あたり[102%]\nSA破壊量：攻撃1回あたり[77%]\nSG消費量：[45]\nクールタイム：[30秒]\n\n空中で剣を振り強力な剣気を連続で飛ばす。剣気が敵を通過してダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 Damage: [102%]+12% per hit\nSA Break: [77%]+9% per hit
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
@@ -760,7 +760,7 @@ Movie/Skill/PC_A/PC_A_B_Skill_Cross Strike
 
 ID=11113
 Cross Strike Ⅲ
-[Info]\nDamage: [114%] per hit\nSA Break: [86%] per hit\nSG Cost: [45]\nCooldown [30s]\n\nSwing the sword in quick succession while in mid-air, firing powerful sword waves. The sword waves explode upon contact to the ground and deal additional damage.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
+[スキル情報]\nダメージ量：攻撃1回あたり[114%]\nSA破壊量：攻撃1回あたり[86%]\nSG消費量：[45]\nクールタイム：[30秒]\n\n空中で剣を振り強力な剣気を連続で飛ばす。剣気が敵を通過してダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 Damage: [114%]+12% per hit\nSA Break: [86%]+10% per hit
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
@@ -768,7 +768,7 @@ Movie/Skill/PC_A/PC_A_B_Skill_Cross Strike
 
 ID=11114
 Cross Strike Ⅳ
-[Info]\nDamage: [126%] per hit\nSA Break: [96%] per hit\nSG Cost: [45]\nCooldown [30s]\n\nSwing the sword in quick succession while in mid-air, firing powerful sword waves. The sword waves explode upon contact to the ground and deal additional damage.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
+[スキル情報]\nダメージ量：攻撃1回あたり[126%]\nSA破壊量：攻撃1回あたり[96%]\nSG消費量：[45]\nクールタイム：[30秒]\n\n空中で剣を振り強力な剣気を連続で飛ばす。剣気が敵を通過してダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 Damage: [126%]+20% per hit\nSA Break: [96%]+14% per hit
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
@@ -776,7 +776,7 @@ Movie/Skill/PC_A/PC_A_B_Skill_Cross Strike
 
 ID=11115
 Cross Strike Ⅴ
-[Info]\nDamage: [146%] per hit\nSA Break: [110%] per hit\nSG Cost: [45]\nCooldown [30s]\n\nSwing the sword in quick succession while in mid-air, firing powerful sword waves. The sword waves explode upon contact to the ground and deal additional damage.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
+[スキル情報]\nダメージ量：攻撃1回あたり[146%]\nSA破壊量：攻撃1回あたり[110%]\nSG消費量：[45]\nクールタイム：[30秒]\n\n空中で剣を振り強力な剣気を連続で飛ばす。剣気が敵を通過してダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
@@ -10152,7 +10152,7 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive2
 
 ID=14141
 Drastic Landing Ⅰ
-[Basic]\nDamage: [126%]\nSA Break: [48%]\nSG Cost: [30]\nCooldown: [20s]\n\n[Additional]\nDamage: [630%]\nSA Break: [240%]\n\nDeploy the Boost Shield while in mid-air, slamming it down to the ground to cause shockwaves.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
+[スキル情報：基本攻撃]\nダメージ量：[126%]\nSA破壊量： [48%]\nSG消費量：[30]\nクールタイム：[25秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[630%]\nSA破壊量：[240%]\n\nブーストシールドを展開し、地面に叩き突け衝撃波を発生させる。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 [Basic]\nDamage: [126%]+12%\nSA Break: [48%]+4%\n\n[Additional]\nDamage: [630%]+63%\nSA Break: [240%]+24%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_DrasticLanding
 0
@@ -10160,7 +10160,7 @@ Movie/Skill/PC_D/B_Skill_DrasticLanding
 
 ID=14142
 Drastic Landing Ⅱ
-[Basic]\nDamage: [138%]\nSA Break: [52%]\nSG Cost: [30]\nCooldown: [20s]\n\n[Additional]\nDamage: [693%]\nSA Break: [264%]\n\nDeploy the Boost Shield while in mid-air, slamming it down to the ground to cause shockwaves.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
+[スキル情報：基本攻撃]\nダメージ量：[138%]\nSA破壊量： [52%]\nSG消費量：[30]\nクールタイム：[25秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[693%]\nSA破壊量：[264%]\n\nブーストシールドを展開し、地面に叩き突け衝撃波を発生させる。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 [Basic]\nDamage: [138%]+17%\nSA Break: [52%]+7%\n\n[Additional]\nDamage: [693%]+83%\nSA Break: [264%]+32%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_DrasticLanding
 0
@@ -10168,7 +10168,7 @@ Movie/Skill/PC_D/B_Skill_DrasticLanding
 
 ID=14143
 Drastic Landing Ⅲ
-[Basic]\nDamage: [155%]\nSA Break: [59%]\nSG Cost: [30]\nCooldown: [20s]\n\n[Additional]\nDamage: [776%]\nSA Break: [296%]\n\nDeploy the Boost Shield while in mid-air, slamming it down to the ground to cause shockwaves.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
+[スキル情報：基本攻撃]\nダメージ量：[155%]\nSA破壊量： [59%]\nSG消費量：[30]\nクールタイム：[25秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[776%]\nSA破壊量：[296%]\n\nブーストシールドを展開し、地面に叩き突け衝撃波を発生させる。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 [Basic]\nDamage: [155%]+22%\nSA Break: [59%]+8%\n\n[Additional]\nDamage: [776%]+109%\nSA Break: [296%]+41%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_DrasticLanding
 0
@@ -10176,7 +10176,7 @@ Movie/Skill/PC_D/B_Skill_DrasticLanding
 
 ID=14144
 Drastic Landing Ⅳ
-[Basic]\nDamage: [177%]\nSA Break: [67%]\nSG Cost: [30]\nCooldown: [20s]\n\n[Additional]\nDamage: [885%]\nSA Break: [337%]\n\nDeploy the Boost Shield while in mid-air, slamming it down to the ground to cause shockwaves.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
+[スキル情報：基本攻撃]\nダメージ量：[177%]\nSA破壊量： [67%]\nSG消費量：[30]\nクールタイム：[25秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[885%]\nSA破壊量：[337%]\n\nブーストシールドを展開し、地面に叩き突け衝撃波を発生させる。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 [Basic]\nDamage: [177%]+32%\nSA Break: [67%]+12%\n\n[Additional]\nDamage: [885%]+160%\nSA Break: [337%]+61%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_DrasticLanding
 0
@@ -10184,7 +10184,7 @@ Movie/Skill/PC_D/B_Skill_DrasticLanding
 
 ID=14145
 Drastic Landing Ⅴ
-[Basic]\nDamage: [209%]\nSA Break: [79%]\nSG Cost: [30]\nCooldown: [20s]\n\n[Additional]\nDamage: [1045%]\nSA Break: [398%]\n\nDeploy the Boost Shield while in mid-air, slamming it down to the ground to cause shockwaves.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
+[スキル情報：基本攻撃]\nダメージ量：[209%]\nSA破壊量： [79%]\nSG消費量：[30]\nクールタイム：[25秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[1045%]\nSA破壊量：[398%]\n\nブーストシールドを展開し、地面に叩き突け衝撃波を発生させる。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_DrasticLanding
 0
@@ -12344,7 +12344,7 @@ Movie/Skill/PC_G/B_Skill_PeregrineFalcon
 
 ID=17081
 Cat Sword - Fourth Form: Moon Slash Ⅰ
-[Info]\nDamage: [290%]\nSA Break: [260%]\nSG Cost: [45]\nCooldown: [25s]\n\nLaunch enemies with a spin attack. Do a follow-up attack in mid-air by pressing left-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: After jumping (LMB)
+[スキル情報]\nダメージ量：[290%]\nSA破壊量：[260%]\nSG消費量：[45]\nクールタイム：[22秒]\n\n回転切りで敵を打ち上げます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:ジャンプ後(左クリック)
 Damage: [290%]+29%\nSA Break: [260%]+25%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep
 0
@@ -12352,15 +12352,15 @@ Movie/Skill/PC_G/B_Skill_MoonStep
 
 ID=17082
 Cat Sword - Fourth Form: Moon Slash Ⅱ
-[Info]\nDamage: [319%]\nSA Break: [285%]\nSG Cost: [45]\nCooldown: [25s]\n\nLaunch enemies with a spin attack. Do a follow-up attack in mid-air by pressing left-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: After jumping (LMB)
-Damage: [319%]+38%\nSA Break: [285%]+35%
+[スキル情報]\nダメージ量：[319%]\nSA破壊量：[286%]\nSG消費量：[45]\nクールタイム：[22秒]\n\n回転切りで敵を打ち上げます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:ジャンプ後(左クリック)
+[スキル情報]\nダメージ量：[319%]+38%\nSA破壊量：[285%]+34%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep
 0
 Movie/Skill/PC_G/B_Skill_MoonStep
 
 ID=17083
 Cat Sword - Fourth Form: Moon Slash Ⅲ
-[Info]\nDamage: [357%]\nSA Break: [320%]\nSG Cost: [45]\nCooldown: [25s]\n\nLaunch enemies with a spin attack. Do a follow-up attack in mid-air by pressing left-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: After jumping (LMB)
+[スキル情報]\nダメージ量：[357%]\nSA破壊量：[320%]\nSG消費量：[45]\nクールタイム：[22秒]\n\n回転切りで敵を打ち上げます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:ジャンプ後(左クリック)
 Damage: [357%]+50%\nSA Break: [320%]+45%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep
 0
@@ -12368,7 +12368,7 @@ Movie/Skill/PC_G/B_Skill_MoonStep
 
 ID=17084
 Cat Sword - Fourth Form: Moon Slash Ⅳ
-[Info]\nDamage: [407%]\nSA Break: [365%]\nSG Cost: [45]\nCooldown: [25s]\n\nLaunch enemies with a spin attack. Do a follow-up attack in mid-air by pressing left-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: After jumping (LMB)
+[スキル情報]\nダメージ量：[407%]\nSA破壊量：[365%]\nSG消費量：[45]\nクールタイム：[22秒]\n\n回転切りで敵を打ち上げます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:ジャンプ後(左クリック)
 Damage: [407%]+73%\nSA Break: [365%]+66%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep
 0
@@ -12376,7 +12376,7 @@ Movie/Skill/PC_G/B_Skill_MoonStep
 
 ID=17085
 Cat Sword - Fourth Form: Moon Slash Ⅴ
-[Info]\nDamage: [480%]\nSA Break: [431%]\nSG Cost: [45]\nCooldown: [25s]\n\nLaunch enemies with a spin attack. Do a follow-up attack in mid-air by pressing left-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: After jumping (LMB)
+[スキル情報]\nダメージ量：[480%]\nSA破壊量：[431%]\nSG消費量：[45]\nクールタイム：[22秒]\n\n回転切りで敵を打ち上げます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:ジャンプ後(左クリック)
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep
 0
@@ -12464,39 +12464,39 @@ Movie/Skill/PC_G/B_Skill_AccelearateGrinder
 
 ID=17111
 Cat Sword - Zeroth Form: Blade Tempest Ⅰ
-[Basic]\nDamage: [88%]\nSA Break: [152%]\nSG Cost: [45]\nCooldown: [35s]\n\n[Additional]\nDamage: [440%]\nSA Break: [762%]\n\nUnleash a series of attacks over a wide area with a quick sword draw.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-[Basic]\nDamage: [88%]+9%\nSA Break: [152%]+16%\n\n[Additional]\nDamage: [440%]+44%\nSA Break: [762%]+77%
+[スキル情報：基本攻撃]\nダメージ量：[97%]\nSA破壊量：[152%]\nSG消費量：[45]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[484%]\nSA破壊量：[762%]\n\n素早い抜刀により、広域範囲に連撃を与えます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
+[スキル情報：基本攻撃]\nダメージ量：[97%]+9%\nSA破壊量：[152%]+16%\n\n[スキル情報：追加攻撃]\nダメージ量：[484%]+48%\nSA破壊量：[762%]+77%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty
 
 ID=17112
 Cat Sword - Zeroth Form: Blade Tempest Ⅱ
-[Basic]\nDamage: [97%]\nSA Break: [168%]\nSG Cost: [45]\nCooldown: [35s]\n\n[Additional]\nDamage: [484%]\nSA Break: [839%]\n\nUnleash a series of attacks over a wide area with a quick sword draw.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-[Basic]\nDamage: [97%]+12%\nSA Break: [168%]+20%\n\n[Additional]\nDamage: [484%]+59%\nSA Break: [839%]+100%
+[スキル情報：基本攻撃]\nダメージ量：[106%]\nSA破壊量：[168%]\nSG消費量：[45]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[532%]\nSA破壊量：[839%]\n\n素早い抜刀により、広域範囲に連撃を与えます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
+[スキル情報：基本攻撃]\nダメージ量：[106%]+22%\nSA破壊量：[168%]+20%\n\n[スキル情報：追加攻撃]\nダメージ量：[532%]+107%\nSA破壊量：[839%]+100%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty
 
 ID=17113
 Cat Sword - Zeroth Form: Blade Tempest Ⅲ
-[Basic]\nDamage: [109%]\nSA Break: [188%]\nSG Cost: [45]\nCooldown: [35s]\n\n[Additional]\nDamage: [543%]\nSA Break: [939%]\n\nUnleash a series of attacks over a wide area with a quick sword draw.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-[Basic]\nDamage: [109%]+15%\nSA Break: [188%]+26%\n\n[Additional]\nDamage: [543%]+76%\nSA Break: [939%]+132%
+[スキル情報：基本攻撃]\nダメージ量：[128%]\nSA破壊量：[188%]\nSG消費量：[45]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[639%]\nSA破壊量：[939%]\n\n素早い抜刀により、広域範囲に連撃を与えます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
+[スキル情報：基本攻撃]\nダメージ量：[128%]+25%\nSA破壊量：[188%]+26%\n\n[スキル情報：追加攻撃]\nダメージ量：[639%]+127%\nSA破壊量：[939%]+132%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty
 
 ID=17114
 Cat Sword - Zeroth Form: Blade Tempest Ⅳ
-[Basic]\nDamage: [124%]\nSA Break: [214%]\nSG Cost: [45]\nCooldown: [35s]\n\n[Additional]\nDamage: [619%]\nSA Break: [1071%]\n\nUnleash a series of attacks over a wide area with a quick sword draw.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-[Basic]\nDamage: [124%]+22%\nSA Break: [214%]+39%\n\n[Additional]\nDamage: [619%]+111%\nSA Break: [1071%]+192%
+[スキル情報：基本攻撃]\nダメージ量：[153%]\nSA破壊量：[214%]\nSG消費量：[45]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[766%]\nSA破壊量：[1071%]\n\n素早い抜刀により、広域範囲に連撃を与えます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
+[スキル情報：基本攻撃]\nダメージ量：[153%]+46%\nSA破壊量：[214%]+39%\n\n[スキル情報：追加攻撃]\nダメージ量：[766%]+230%\nSA破壊量：[1071%]+192%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty
 
 ID=17115
 Cat Sword - Zeroth Form: Blade Tempest Ⅴ
-[Basic]\nDamage: [146%]\nSA Break: [253%]\nSG Cost: [45]\nCooldown: [35s]\n\n[Additional]\nDamage: [730%]\nSA Break: [1263%]\n\nUnleash a series of attacks over a wide area with a quick sword draw.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[スキル情報：基本攻撃]\nダメージ量：[199%]\nSA破壊量：[253%]\nSG消費量：[45]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[996%]\nSA破壊量：[1263%]\n\n素早い抜刀により、広域範囲に連撃を与えます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty
 0
@@ -12840,23 +12840,23 @@ Movie/Skill/PC_G/B_Skill_AccelearateGrinder_A
 
 ID=27111
 Hit Increase Ⅰ
-[Basic]\nDamage: [146%]\nSA Break: [253%]\n\n[Additional]\nDamage: [1095%]\nSA Break: [1894%]\n\nIncreases the number of attacks.
-[Basic]\nDamage: [146%]+14%\nSA Break: [253%]+22%\n\n[Additional]\nDamage: [1095%]+99%\nSA Break: [1894%]+171%
+[特性情報：基本攻撃]\nダメージ量：[199%]\nSA破壊量：[253%]\n\n[特性情報：追加攻撃]\nダメージ量：[1494%]\nSA破壊量：[1894%]\n\n追加攻撃の攻撃回数が増加します。
+[特性情報：基本攻撃]\nダメージ量：[199%]+20％\nSA破壊量：[253%]+22％\n\n[特性情報：追加攻撃]\nダメージ量：[1494%]+150%\nSA破壊量：[1894%] +171%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty_A
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty_A
 
 ID=27112
 Hit Increase Ⅱ
-[Basic]\nDamage: [160%]\nSA Break: [275%]\n\n[Additional]\nDamage: [1194%]\nSA Break: [2065%]\n\nIncreases the number of attacks.
-[Basic]\nDamage: [160%]+23%\nSA Break: [275%]+42%\n\n[Additional]\nDamage: [1194%]+178%\nSA Break: [2065%]+309%
+[特性情報：基本攻撃]\nダメージ量：[219%]\nSA破壊量：[275%]\n\n[特性情報：追加攻撃]\nダメージ量：[1644%]\nSA破壊量：[2065%]\n\n追加攻撃の攻撃回数が増加します。
+[特性情報：基本攻撃]\nダメージ量：[219%]+46％\nSA破壊量：[275%]+42％\n\n[特性情報：追加攻撃]\nダメージ量：[1644%]+345%\nSA破壊量：[2065%] +309%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty_A
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty_A
 
 ID=27113
 Hit Increase Ⅲ
-[Basic]\nDamage: [183%]\nSA Break: [317%]\n\n[Additional]\nDamage: [1372%]\nSA Break: [2374%]\n\nIncreases the number of attacks.
+[特性情報：基本攻撃]\nダメージ量：[265%]\nSA破壊量：[317%]\n\n[特性情報：追加攻撃]\nダメージ量：[1989%]\nSA破壊量：[2374%]\n\n追加攻撃の攻撃回数が増加します。
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty_A
 0
@@ -12888,7 +12888,7 @@ Movie/Skill/PC_G/B_Skill_Thunderbolt_A
 
 ID=7171
 Wild Instincts Ⅰ
-[Info]\nPassive Effect: Receive the [Jet Black Blood] buff when continuously using skills with the [Black Blood] extension.\n\nBuff Effect: +[5%] SA Break & Critical\nBuff Duration: [10s]
+[スキル情報]\nパッシブ効果：特性[黒い血]を持つスキルを使用した時、バフ効果[漆黒の血]を付与する。\n\nバフ効果：SA破壊量[5%]、クリティカル率[5%]増加\nバフ持続時間：[10秒]
 SA Break: [5%]+2%\nCritical: [5%]+2%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive2
 0
@@ -12896,7 +12896,7 @@ Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive2
 
 ID=7172
 Wild Instincts Ⅱ
-[Info]\nPassive Effect: Receive the [Jet Black Blood] buff when continuously using skills with the [Black Blood] extension.\n\nBuff Effect: +[7%] SA Break & Critical\nBuff Duration: [10s]
+[スキル情報]\nパッシブ効果：特性[黒い血]を持つスキルを使用した時、バフ効果[漆黒の血]を付与する。\n\nバフ効果：SA破壊量[7%]、クリティカル率[7%]増加\nバフ持続時間：[10秒]
 SA Break: [7%]+3%\nCritical: [7%]+3%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive2
 0
@@ -12904,7 +12904,7 @@ Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive2
 
 ID=7173
 Wild Instincts Ⅲ
-[Info]\nPassive Effect: Receive the [Jet Black Blood] buff when continuously using skills with the [Black Blood] extension.\n\nBuff Effect: +[10%] SA Break & Critical\nBuff Duration: [10s]
+[スキル情報]\nパッシブ効果：特性[黒い血]を持つスキルを使用した時、バフ効果[漆黒の血]を付与する。\n\nバフ効果：SA破壊量[10%]、クリティカル率[10%]増加\nバフ持続時間：[10秒]
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive2
 0
@@ -12912,39 +12912,39 @@ Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive2
 
 ID=17141
 Cat Sword - Revised First Form: Thunderclap Arrow Ⅰ
-[Basic]\nDamage: [304%]\nSA Break: [325%]\nSG Cost: [35]\nCooldown: [40s]\n\nReady the bow while in mid-air, firing exploding arrows.\nRaises output and converges arrows when charged.\n\n[Usage: Mid-air]\nMouse: After jumping (Hold LMB)
-Damage: [304%]+30%\nSA Break: [325%]+33%
+[スキル情報：基本攻撃]\nダメージ量：[354%]\nSA破壊量：[325%]\nSG消費量：[35]\nクールタイム：[35秒]\n\n空中で弓を構え、爆散する矢を放ちます。\nチャージにより、威力上昇させ、矢を収束させます。\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック長押し）
+[スキル情報：基本攻撃]\nダメージ量：[354%]+35％\nSA破壊量：[325%]+33％
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GaleArrow
 0
 Movie/Skill/PC_G/B_Skill_GaleArrow
 
 ID=17142
 Cat Sword - Revised First Form: Thunderclap Arrow Ⅱ
-[Basic]\nDamage: [334%]\nSA Break: [358%]\nSG Cost: [35]\nCooldown: [40s]\n\nReady the bow while in mid-air, firing exploding arrows.\nRaises output and converges arrows when charged.\n\n[Usage: Mid-air]\nMouse: After jumping (Hold LMB)
-Damage: [334%]+41%\nSA Break: [358%]+43%
+[スキル情報：基本攻撃]\nダメージ量：[389%]\nSA破壊量：[358%]\nSG消費量：[35]\nクールタイム：[35秒]\n\n空中で弓を構え、爆散する矢を放ちます。\nチャージにより、威力上昇させ、矢を収束させます。\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック長押し）
+[スキル情報：基本攻撃]\nダメージ量：[389%]+40％\nSA破壊量：[358%]+43％
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GaleArrow
 0
 Movie/Skill/PC_G/B_Skill_GaleArrow
 
 ID=17143
 Cat Sword - Revised First Form: Thunderclap Arrow Ⅲ
-[Basic]\nDamage: [375%]\nSA Break: [401%]\nSG Cost: [35]\nCooldown: [40s]\n\nReady the bow while in mid-air, firing exploding arrows.\nRaises output and converges arrows when charged.\n\n[Usage: Mid-air]\nMouse: After jumping (Hold LMB)
-Damage: [375%]+53%\nSA Break: [401%]+57%
+[スキル情報：基本攻撃]\nダメージ量：[429%]\nSA破壊量：[401%]\nSG消費量：[35]\nクールタイム：[35秒]\n\n空中で弓を構え、爆散する矢を放ちます。\nチャージにより、威力上昇させ、矢を収束させます。\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック長押し）
+[スキル情報：基本攻撃]\nダメージ量：[429%]+85％\nSA破壊量：[401%]+57％
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GaleArrow
 0
 Movie/Skill/PC_G/B_Skill_GaleArrow
 
 ID=17144
 Cat Sword - Revised First Form: Thunderclap Arrow Ⅳ
-[Basic]\nDamage: [428%]\nSA Break: [458%]\nSG Cost: [35]\nCooldown: [40s]\n\nReady the bow while in mid-air, firing exploding arrows.\nRaises output and converges arrows when charged.\n\n[Usage: Mid-air]\nMouse: After jumping (Hold LMB)
-Damage: [428%]+77%\nSA Break: [458%]+82%
+[スキル情報：基本攻撃]\nダメージ量：[514%]\nSA破壊量：[458%]\nSG消費量：[35]\nクールタイム：[35秒]\n\n空中で弓を構え、爆散する矢を放ちます。\nチャージにより、威力上昇させ、矢を収束させます。\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック長押し）
+[スキル情報：基本攻撃]\nダメージ量：[514%]+156％\nSA破壊量：[458%]+82％
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GaleArrow
 0
 Movie/Skill/PC_G/B_Skill_GaleArrow
 
 ID=17145
 Cat Sword - Revised First Form: Thunderclap Arrow Ⅴ
-[Basic]\nDamage: [505%]\nSA Break: [540%]\nSG Cost: [35]\nCooldown: [40s]\n\nReady the bow while in mid-air, firing exploding arrows.\nRaises output and converges arrows when charged.\n\n[Usage: Mid-air]\nMouse: After jumping (Hold LMB)
+[スキル情報：基本攻撃]\nダメージ量：[670%]\nSA破壊量：[540%]\nSG消費量：[35]\nクールタイム：[35秒]\n\n空中で弓を構え、爆散する矢を放ちます。\nチャージにより、威力上昇させ、矢を収束させます。\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック長押し）
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GaleArrow
 0
@@ -12992,23 +12992,23 @@ Movie/Skill/PC_G/B_Skill_RedVine
 
 ID=17161
 Predator's Dignity Ⅰ
-[Info]\nDamage: [1907%]\nSA Break: [2414%]\nSG Cost: [50]\nCooldown: [45s]\n\nJump and unleash powerful attacks to enemies.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-Damage: [1907%]+191%\nSA Break: [2414%]+242%
+[スキル情報]\nダメージ量：[2207%]\nSA破壊量：[2414%]\nSG消費量：[50]\nクールタイム：[45秒]\n\n空中に飛び上がって前方の敵に強力な攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
+[スキル情報：基本攻撃]\nダメージ量：[2207%]+220％\nSA破壊量：[2414%]+242％
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DevilsToy
 0
 Movie/Skill/PC_G/B_Skill_DevilsToy
 
 ID=17162
 Predator's Dignity Ⅱ
-[Info]\nDamage: [2098%]\nSA Break: [2656%]\nSG Cost: [50]\nCooldown: [45s]\n\nJump and unleash powerful attacks to enemies.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-Damage: [2098%]+252%\nSA Break: [2656%]+319%
+[スキル情報]\nダメージ量：[2427%]\nSA破壊量：[2656%]\nSG消費量：[50]\nクールタイム：[45秒]\n\n空中に飛び上がって前方の敵に強力な攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
+[スキル情報：基本攻撃]\nダメージ量：[2427%]+304％\nSA破壊量：[2656%]+319％
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DevilsToy
 0
 Movie/Skill/PC_G/B_Skill_DevilsToy
 
 ID=17163
 Predator's Dignity Ⅲ
-[Info]\nDamage: [2350%]\nSA Break: [2975%]\nSG Cost: [50]\nCooldown: [45s]\n\nJump and unleash powerful attacks to enemies.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[スキル情報：基本攻撃]\nダメージ量：[2731%]\nSA破壊量：[2975%]\nSG消費量：[50]\nクールタイム：[45秒]\n\n空中に飛び上がって前方の敵に強力な攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DevilsToy
 0
@@ -13017,7 +13017,7 @@ Movie/Skill/PC_G/B_Skill_DevilsToy
 ID=17164
 Predator's Dignity Ⅳ
 [スキル情報：基本攻撃]\nダメージ量：[%]\nSA破壊量：[%]\nSG消費量：[]\nクールタイム：[秒]\n\n空中に飛び上がって前方の敵に強力な攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
-[スキル情報：基本攻撃]\nダメージ量：[0%]+0％\nSA破壊量：[0%]+0％
+LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DevilsToy
 0
 Movie/Skill/PC_G/B_Skill_DevilsToy
@@ -13040,23 +13040,23 @@ Movie/Skill/PC_G/B_Skill_DestructionBlade
 
 ID=27031
 Burst Arrow Ⅰ
-[Basic]\nDamage: [118%]\nSA Break: [64%]\n\n[Additional]\nDamage: [89%]\nSA Break: [48%]\n\nAfter indiscriminately firing arrows, follow-up with an explosive arrow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (LMB)
-[Basic]\nDamage: [118%]+11%\nSA Break: [64%]+6%\n\n[Additional]\nDamage: [89%]+8%\nSA Break: [48%]+5%
+[特性情報：基本攻撃]\nダメージ量：[118%]\nSA破壊量：[64%]\n\n[特性情報：追加攻撃]\nダメージ量：[177%]\nSA破壊量：[96%]\nバフ効果：15秒間攻撃速度[5%]増加（最大3重複）\n黒い血付与：[1]\n\n矢を乱射した後、追加攻撃で爆裂矢を放ちます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:(左クリック)
+[特性情報：基本攻撃]\nダメージ量：[118%]+11％\nSA破壊量：[64%]+6％\n\n[特性情報：追加攻撃]\nダメージ量：[177%]+16％\nSA破壊量：[96%]+10％
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ThrustArrow_A
 0
 Movie/Skill/PC_G/B_Skill_ThrustArrow_A
 
 ID=27032
 Burst Arrow Ⅱ
-[Basic]\nDamage: [129%]\nSA Break: [70%]\n\n[Additional]\nDamage: [97%]\nSA Break: [53%]\n\nAfter indiscriminately firing arrows, follow-up with an explosive arrow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (LMB)
-[Basic]\nDamage: [129%]+19%\nSA Break: [70%]+11%\n\n[Additional]\nDamage: [97%]+14%\nSA Break: [53%]+8%
+[特性情報：基本攻撃]\nダメージ量：[129%]\nSA破壊量：[70%]\n\n[特性情報：追加攻撃]\nダメージ量：[193%]\nSA破壊量：[106%]\nバフ効果：15秒間攻撃速度[5%]増加（最大3重複）\n黒い血付与：[1]\n\n矢を乱射した後、追加攻撃で爆裂矢を放ちます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
+[特性情報：基本攻撃]\nダメージ量：[129%]+19％\nSA破壊量：[70%]+11％\n\n[特性情報：追加攻撃]\nダメージ量：[193%]+29％\nSA破壊量：[106%]+16％
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ThrustArrow_A
 0
 Movie/Skill/PC_G/B_Skill_ThrustArrow_A
 
 ID=27033
 Burst Arrow Ⅲ
-[Basic]\nDamage: [148%]\nSA Break: [81%]\n\n[Additional]\nDamage: [111%]\nSA Break: [61%]\n\nAfter indiscriminately firing arrows, follow-up with an explosive arrow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (LMB)
+[特性情報：基本攻撃]\nダメージ量：[148%]\nSA破壊量：[81%]\n\n[特性情報：追加攻撃]\nダメージ量：[222%]\nSA破壊量：[122%]\nバフ効果：15秒間攻撃速度[5%]増加（最大3重複）\n黒い血付与：[1]\n\n矢を乱射した後、追加攻撃で爆裂矢を放ちます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ThrustArrow_A
 0
