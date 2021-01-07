@@ -744,7 +744,7 @@ Movie/Skill/PC_A/PC_A_B_Skill_Flash Step
 
 ID=11111
 Cross Strike Ⅰ
-[スキル情報]\nダメージ量：攻撃1回あたり[98%]\nSA破壊量：攻撃1回あたり[74%]\nSG消費量：[45]\nクールタイム：[30秒]\n\n空中で剣を振り強力な剣気を連続で飛ばす。剣気が敵を通過してダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Info]\nDamage: [98%] per hit\nSA Break: [74%] per hit\nSG Cost: [45]\nCooldown: [30s]\n\nSwing the sword in quick succession while in mid-air, firing powerful sword waves.\nThe sword waves passes through enemies and deal damage.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
 Damage: [98%]+4% per hit\nSA Break: [74%]+3% per hit
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
@@ -752,7 +752,7 @@ Movie/Skill/PC_A/PC_A_B_Skill_Cross Strike
 
 ID=11112
 Cross Strike Ⅱ
-[スキル情報]\nダメージ量：攻撃1回あたり[102%]\nSA破壊量：攻撃1回あたり[77%]\nSG消費量：[45]\nクールタイム：[30秒]\n\n空中で剣を振り強力な剣気を連続で飛ばす。剣気が敵を通過してダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Info]\nDamage: [102%] per hit\nSA Break: [77%] per hit\nSG Cost: [45]\nCooldown: [30s]\n\nSwing the sword in quick succession while in mid-air, firing powerful sword waves.\nThe sword waves passes through enemies and deal damage.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
 Damage: [102%]+12% per hit\nSA Break: [77%]+9% per hit
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
@@ -760,7 +760,7 @@ Movie/Skill/PC_A/PC_A_B_Skill_Cross Strike
 
 ID=11113
 Cross Strike Ⅲ
-[スキル情報]\nダメージ量：攻撃1回あたり[114%]\nSA破壊量：攻撃1回あたり[86%]\nSG消費量：[45]\nクールタイム：[30秒]\n\n空中で剣を振り強力な剣気を連続で飛ばす。剣気が敵を通過してダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Info]\nDamage: [114%] per hit\nSA Break: [86%] per hit\nSG Cost: [45]\nCooldown: [30s]\n\nSwing the sword in quick succession while in mid-air, firing powerful sword waves.\nThe sword waves passes through enemies and deal damage.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
 Damage: [114%]+12% per hit\nSA Break: [86%]+10% per hit
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
@@ -768,7 +768,7 @@ Movie/Skill/PC_A/PC_A_B_Skill_Cross Strike
 
 ID=11114
 Cross Strike Ⅳ
-[スキル情報]\nダメージ量：攻撃1回あたり[126%]\nSA破壊量：攻撃1回あたり[96%]\nSG消費量：[45]\nクールタイム：[30秒]\n\n空中で剣を振り強力な剣気を連続で飛ばす。剣気が敵を通過してダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Info]\nDamage: [126%] per hit\nSA Break: [96%] per hit\nSG Cost: [45]\nCooldown: [30s]\n\nSwing the sword in quick succession while in mid-air, firing powerful sword waves.\nThe sword waves passes through enemies and deal damage.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
 Damage: [126%]+20% per hit\nSA Break: [96%]+14% per hit
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
@@ -776,7 +776,7 @@ Movie/Skill/PC_A/PC_A_B_Skill_Cross Strike
 
 ID=11115
 Cross Strike Ⅴ
-[スキル情報]\nダメージ量：攻撃1回あたり[146%]\nSA破壊量：攻撃1回あたり[110%]\nSG消費量：[45]\nクールタイム：[30秒]\n\n空中で剣を振り強力な剣気を連続で飛ばす。剣気が敵を通過してダメージを与える。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Info]\nDamage: [146%] per hit\nSA Break: [110%] per hit\nSG Cost: [45]\nCooldown: [30s]\n\nSwing the sword in quick succession while in mid-air, firing powerful sword waves.\nThe sword waves passes through enemies and deal damage.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_CrossStrike
 0
@@ -1143,7 +1143,7 @@ Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
 
 ID=2141
-Unexpected Fortune Ⅰ
+Incredible Luck Ⅰ
 [Info]\nPassive Effect: +[100] Evasion\n\nPermanently increases evasion.
 Evasion: [100]+100
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SGPassive
@@ -1151,7 +1151,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_SGPassive
 0
 
 ID=2142
-Unexpected Fortune Ⅱ
+Incredible Luck Ⅱ
 [Info]\nPassive Effect: +[200] Evasion\n\nPermanently increases evasion.
 Evasion: [200]+100
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SGPassive
@@ -1159,7 +1159,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_SGPassive
 0
 
 ID=2143
-Unexpected Fortune Ⅲ
+Incredible Luck Ⅲ
 [Info]\nPassive Effect: +[300] Evasion\n\nPermanently increases evasion.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SGPassive
@@ -3600,7 +3600,7 @@ Movie/Skill/PC_E/B_N_Attack_Dash
 
 ID=5121
 Special Dash Attack Ⅰ
-[Info:]\nDamage: [277%]\nSA Break: [171%]\n\nAttack with a sound wave while dashing.\n\n[Usage]\nMouse: While dashing (RMB)
+[Info:]\nDamage: [277%]\nSA Break: [171%]\n\nAttack using sound waves while dashing.\n\n[Usage]\nMouse: While dashing (RMB)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
@@ -4487,7 +4487,7 @@ Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
 
 ID=6141
-Rapid Attack Ⅰ
+Blitz Ⅰ
 [Info]\nPassive Effect: -[5%] SG Cost
 SG Cost: [5%]+3%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_SGPassive
@@ -4495,7 +4495,7 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_SGPassive
 0
 
 ID=6142
-Rapid Attack Ⅱ
+Blitz Ⅱ
 [Info]\nPassive Effect: -[8%] SG Cost
 SG Cost: [8%]+2%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_SGPassive
@@ -4503,7 +4503,7 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_SGPassive
 0
 
 ID=6143
-Rapid Attack Ⅲ
+Blitz Ⅲ
 [Info]\nPassive Effect: -[10%] SG Cost
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_SGPassive
@@ -5311,7 +5311,7 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_WindBreak_A
 Movie/Skill/PC_A/PC_A_B_Skill_Wind Break_Attack_A
 
 ID=22011
-Impact Bullets Ⅰ
+Shock Bullet Ⅰ
 [Basic]\nDamage: [282%]\nSA Break: [374%]\n\n[Additional]\nDamage: [422%]\nSA Break: [562%]\n\nFire a powerful energy bullet, attacking enemies in front.
 [Basic]\nDamage: [282%]+28%\nSA Break: [374%]+38%\n\n[Additional]\nDamage: [422%]+44%\nSA Break: [562%]+56%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh_A
@@ -5319,7 +5319,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh_A
 Movie/Skill/PC_B/B_Skill_SkyHigh_A
 
 ID=22012
-Impact Bullets Ⅱ
+Shock Bullet Ⅱ
 [Basic]\nDamage: [310%]\nSA Break: [412%]\n\n[Additional]\nDamage: [466%]\nSA Break: [618%]\n\nFire a powerful energy bullet, attacking enemies in front.
 [Basic]\nDamage: [310%]+32%\nSA Break: [412%]+42%\n\n[Additional]\nDamage: [466%]+46%\nSA Break: [618%]+62%
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh_A
@@ -5327,7 +5327,7 @@ Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh_A
 Movie/Skill/PC_B/B_Skill_SkyHigh_A
 
 ID=22013
-Impact Bullets Ⅲ
+Shock Bullet Ⅲ
 [Basic]\nDamage: [342%]\nSA Break: [454%]\n\n[Additional]\nDamage: [512%]\nSA Break: [680%]\n\nFire a powerful energy bullet, attacking enemies in front.
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_SkyHigh_A
@@ -5847,7 +5847,7 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister_A
 Movie/Skill/PC_D/B_Skill_GravityTwister_A
 
 ID=24071
-Impact Bullets Ⅰ
+Shock Bullet Ⅰ
 [Info]\nDamage: [859%]\nSA Break: [824%]\n\nNarrows the shockwave range, but extends it forward.
 Damage: [859%]+246%\nSA Break: [824%]+243%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_A
@@ -5855,7 +5855,7 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_A
 Movie/Skill/PC_D/B_Skill_SpiritExplosion_A
 
 ID=24072
-Impact Bullets Ⅱ
+Shock Bullet Ⅱ
 [Info]\nDamage: [1105%]\nSA Break: [1067%]\n\nNarrows the shockwave range, but extends it forward.
 Damage: [1105%]+430%\nSA Break: [1067%]+418%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_A
@@ -5863,7 +5863,7 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_A
 Movie/Skill/PC_D/B_Skill_SpiritExplosion_A
 
 ID=24073
-Impact Bullets Ⅲ
+Shock Bullet Ⅲ
 [Info]\nDamage: [1535%]\nSA Break: [1485%]\n\nNarrows the shockwave range, but extends it forward.
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion_A
@@ -6135,7 +6135,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_TwistPull_A
 Movie/Skill/PC_E/B_Skill_TwistPull_A
 
 ID=25101
-Shorten Duration Ⅰ
+Duration Reduction Ⅰ
 [Additional: Pull]\nDamage: [406%]\nSA Break: [717%]\n\n[Additional: Launch]\nDamage: [453%]\nSA Break: [1376%]\n\n[Common]\nMax Attack Duration: -[1s]\n\nReduces attack duration but increases damage.
 [Additional: Pull]\nDamage: [406%]+68%\nSA Break: [717%]+119%\n\n[Additional: Launch]\nDamage: [453%]+75%\nSA Break: [1376%]+229%\n\nMax Attack Duration: -[1s]-1s
 Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass_A
@@ -6143,7 +6143,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass_A
 Movie/Skill/PC_E/B_Skill_BlackMorass_A
 
 ID=25102
-Shorten Duration Ⅱ
+Duration Reduction Ⅱ
 [Additional: Pull]\nDamage: [474%]\nSA Break: [836%]\n\n[Additional: Launch]\nDamage: [528%]\nSA Break: [1605%]\n\n[Common]\nMax Attack Duration: -[2s]\n\nReduces attack duration but increases damage.
 [Additional: Pull]\nDamage: [474%]+94%\nSA Break: [836%]+168%\n\n[Additional: Launch]\nDamage: [528%]+106%\nSA Break: [1605%]+322%\n\nMax Attack Duration: -[2s]-1s
 Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass_A
@@ -6151,7 +6151,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass_A
 Movie/Skill/PC_E/B_Skill_BlackMorass_A
 
 ID=25103
-Shorten Duration Ⅲ
+Duration Reduction Ⅲ
 [Additional: Pull]\nDamage: [568%]\nSA Break: [1004%]\n\n[Additional: Launch]\nDamage: [634%]\nSA Break: [1927%]\n\n[Common]\nMax Attack Duration: -[3s]\n\nReduces attack duration but increases damage.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass_A
@@ -6159,7 +6159,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BlackMorass_A
 Movie/Skill/PC_E/B_Skill_BlackMorass_A
 
 ID=26011
-Continuous Explosion Ⅰ
+Relentless Explosion Ⅰ
 [Info]\nGround Explosion: +[3]\n\nCause additional explosions on the ground.
 Ground Explosion: +[3]+3
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_HammerCrash_A
@@ -6167,7 +6167,7 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_HammerCrash_A
 Movie/Skill/PC_F/B_Skill_HammerCrash_A
 
 ID=26012
-Continuous Explosion Ⅱ
+Relentless Explosion Ⅱ
 [Info]\nGround Explosion: +[6]\n\nCause additional explosions on the ground.
 Ground Explosion: +[6]+4
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_HammerCrash_A
@@ -6175,7 +6175,7 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_HammerCrash_A
 Movie/Skill/PC_F/B_Skill_HammerCrash_A
 
 ID=26013
-Continuous Explosion Ⅲ
+Relentless Explosion Ⅲ
 [Info]\nGround Explosion: +[10]\n\nCause additional explosions on the ground.
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_HammerCrash_A
@@ -6448,7 +6448,7 @@ Movie/Skill/PC_F/B_Skill_FireSomersault_A
 
 ID=30001
 Cube Drop
-ジャック・ザ・キングが正面に箱を投げ、敵を遠くに押し出す。(クールタイム60秒)
+Jack the King throws a cube, knocking back enemies. (60s cooldown)
 .
 0
 0
@@ -6456,7 +6456,7 @@ Cube Drop
 
 ID=30002
 Cube Drop
-ジャック・ザ・キングが正面に箱を投げ、火炎地帯を作り出す。(クールタイム60秒)
+Jack the King throws a cube, creating a flame zone. (60s cooldown)
 .
 0
 0
@@ -6464,7 +6464,7 @@ Cube Drop
 
 ID=30003
 Cube Drop
-ジャック・ザ・キングが正面に箱を投げ、敵を高く浮かせる。(クールタイム60秒)
+Jack the King throws a cube, launching hit enemies. (60s cooldown)
 .
 0
 0
@@ -6472,7 +6472,7 @@ Cube Drop
 
 ID=30011
 Surprise Party
-巨大なプレゼントボックスが爆発し、周辺の敵を気絶させる。(クールタイム60秒)
+A huge present box explodes, stunning surrounding enemies. (60s cooldown)
 .
 0
 0
@@ -6480,7 +6480,7 @@ Surprise Party
 
 ID=30012
 Surprise Party
-巨大なプレゼントボックスが爆発し、周辺の敵を引き寄せる。(クールタイム60秒)
+A huge present box explodes, pulling surrounding enemies. (60s cooldown)
 .
 0
 0
@@ -6488,7 +6488,7 @@ Surprise Party
 
 ID=30013
 Surprise Party
-巨大なプレゼントボックスが爆発し、周辺の敵の防御度を減少させる。(クールタイム60秒)
+A huge present box explodes, causing a defense debuff to surrounding enemies. (60s cooldown)
 .
 0
 0
@@ -6511,7 +6511,7 @@ When hit, 10% chance of +50% Defense for 1s. (10s cooldown)
 0
 
 ID=30023
-Lethal Blow Ⅰ
+Lethal Strike Ⅰ
 On hit, 5% chance of +20% Critical for 2s. (15s cooldown)
 .
 0
@@ -6519,7 +6519,7 @@ On hit, 5% chance of +20% Critical for 2s. (15s cooldown)
 0
 
 ID=30031
-Lethal Blow Ⅱ
+Lethal Strike Ⅱ
 On hit, 10% chance of +20% Critical for 3s. (15s cooldown)
 .
 0
@@ -6527,7 +6527,7 @@ On hit, 10% chance of +20% Critical for 3s. (15s cooldown)
 0
 
 ID=30032
-Official Military Certificate Ⅰ
+Proof of Animosity Ⅰ
 When hit, 5% chance of +10% Critical for 2s. (10s cooldown)
 .
 0
@@ -6535,7 +6535,7 @@ When hit, 5% chance of +10% Critical for 2s. (10s cooldown)
 0
 
 ID=30033
-Official Military Certificate Ⅱ
+Proof of Animosity Ⅱ
 When hit, 10% chance of +10% Critical for 3s. (10s cooldown)
 .
 0
@@ -6543,7 +6543,7 @@ When hit, 10% chance of +10% Critical for 3s. (10s cooldown)
 0
 
 ID=30041
-One's Determined Resolve Ⅰ
+Giving One's All Ⅰ
 On hit, 3% chance of Super Armor for 3s. (15s cooldown)
 .
 0
@@ -6551,7 +6551,7 @@ On hit, 3% chance of Super Armor for 3s. (15s cooldown)
 0
 
 ID=30042
-Dashing Sprint Ⅰ
+Sprint *kiss* Ⅰ
 Every 15 seconds, 10% chance of +10% Movement Speed for 2s.
 .
 0
@@ -6559,7 +6559,7 @@ Every 15 seconds, 10% chance of +10% Movement Speed for 2s.
 0
 
 ID=30043
-Dashing Sprint Ⅱ
+Sprint *kiss* Ⅱ
 Every 13 seconds, 20% chance of +10% Movement Speed for 2s.
 .
 0
@@ -6568,7 +6568,7 @@ Every 13 seconds, 20% chance of +10% Movement Speed for 2s.
 
 ID=30051
 Mind's Eye Ⅰ
-攻撃命中時、4%の確率でHPが5%回復する。(クールタイム60秒)
+On hit, 4% chance of +5% HP. (60s cooldown)
 .
 0
 0
@@ -6576,14 +6576,14 @@ Mind's Eye Ⅰ
 
 ID=30052
 Mind's Eye Ⅱ
-攻撃命中時、5%の確率でHPが5%回復する。(クールタイム60秒)
+On hit, 5% chance of +5% HP. (60s cooldown)
 .
 0
 0
 0
 
 ID=30053
-Ceremonial Attack Ⅰ
+Attack Ritual Ⅰ
 On jump, 3% chance of +10% Attack for 2s. (15s cooldown)
 .
 0
@@ -6591,7 +6591,7 @@ On jump, 3% chance of +10% Attack for 2s. (15s cooldown)
 0
 
 ID=30061
-Ceremonial Attack Ⅱ
+Attack Ritual Ⅱ
 On jump, 5% chance of +10% Attack for 2s. (15s cooldown)
 .
 0
@@ -6600,7 +6600,7 @@ On jump, 5% chance of +10% Attack for 2s. (15s cooldown)
 
 ID=30062
 Deadly Dive
-ジャンクナイトが前方小範囲に連続攻撃を行い、消える。(クールタイム60秒)
+Junk Knight unleashes a barrage in a small area, then disappears. (60s cooldown)
 .
 0
 0
@@ -6608,7 +6608,7 @@ Deadly Dive
 
 ID=30063
 Deadly Dive
-ジャンクナイトが前方広範囲に攻撃を行い、敵を押し出して消える。(クールタイム60秒)
+Junk Knight unleashes a barrage in a large area, knocking back enemies, then disappears. (60s cooldown)
 .
 0
 0
@@ -6616,7 +6616,7 @@ Deadly Dive
 
 ID=30071
 Deadly Dive
-ジャンクナイトが前方広範囲に攻撃を行い、敵を宙に浮かせて消える。(クールタイム60秒)
+Junk Knight unleashes a barrage in a large area, launching enemies in mid-air, then disappears. (60s cooldown)
 .
 0
 0
@@ -6624,7 +6624,7 @@ Deadly Dive
 
 ID=30072
 Vacuum Ⅰ
-On critical hit, 3% chance of +2% HP. (15s cooldown)
+On critical, 3% chance of +2% HP. (15s cooldown)
 .
 0
 0
@@ -6632,7 +6632,7 @@ On critical hit, 3% chance of +2% HP. (15s cooldown)
 
 ID=30073
 Vacuum Ⅱ
-On critical hit, 6% chance of +3% HP. (15s cooldown)
+On critical, 6% chance of +3% HP. (15s cooldown)
 .
 0
 0
@@ -6640,7 +6640,7 @@ On critical hit, 6% chance of +3% HP. (15s cooldown)
 
 ID=30081
 Vacuum Ⅲ
-On critical hit, 9% chance of +4% HP. (15s cooldown)
+On critical, 9% chance of +4% HP. (15s cooldown)
 .
 0
 0
@@ -6696,7 +6696,7 @@ Heals up to 15% HP for surrounding allies. (30s cooldown)
 
 ID=30102
 Queen's Dance
-アラクニスが周囲20mの敵を押し出して消える。(クールタイム80秒)
+Arachnis pushes enemies within a 20m radius, then disappears. (80s cooldown)
 .
 0
 0
@@ -6704,7 +6704,7 @@ Queen's Dance
 
 ID=30103
 Queen's Dance
-アラクニスが広範囲に出血+気絶効果を付与して消える。(クールタイム80秒)
+Arachnis causes bleed and stun debuff in a large area, then disappears. (80s cooldown)
 .
 0
 0
@@ -6712,14 +6712,14 @@ Queen's Dance
 
 ID=30111
 Queen's Dance
-アラクニスが周囲20mの敵を引き寄せた後、気絶させ消える。(クールタイム80秒)
+Arachnis pulls and stuns enemies within a 20m radius, then disappears. (80s cooldown)
 .
 0
 0
 0
 
 ID=30112
-Self-Recovery Power Ⅰ
+Self-resilient Ⅰ
 On hit, 5% chance of +5% Stamina. (10s cooldown)
 .
 0
@@ -6727,7 +6727,7 @@ On hit, 5% chance of +5% Stamina. (10s cooldown)
 0
 
 ID=30113
-Self-Recovery Power Ⅱ
+Self-resilient Ⅱ
 On hit, 5% chance of +10% Stamina. (10s cooldown)
 .
 0
@@ -6735,7 +6735,7 @@ On hit, 5% chance of +10% Stamina. (10s cooldown)
 0
 
 ID=30121
-Fast-Acting Calcium Supplement Ⅰ
+Fast-acting Calcium Supplement Ⅰ
 When hit, 5% chance of +10% SG. (20s cooldown)
 .
 0
@@ -6743,7 +6743,7 @@ When hit, 5% chance of +10% SG. (20s cooldown)
 0
 
 ID=30122
-Fast-Acting Calcium Supplement Ⅱ
+Fast-acting Calcium Supplement Ⅱ
 When hit, 10% chance of +10% SG. (20s cooldown)
 .
 0
@@ -6751,7 +6751,7 @@ When hit, 10% chance of +10% SG. (20s cooldown)
 0
 
 ID=30123
-Judge Victor Ⅰ
+Victor's Law Ⅰ
 On hit, 4% chance of +200 Accuracy for 2s. (15s cooldown)
 .
 0
@@ -6759,7 +6759,7 @@ On hit, 4% chance of +200 Accuracy for 2s. (15s cooldown)
 0
 
 ID=30131
-Judge Victor Ⅱ
+Victor's Law Ⅱ
 On hit, 5% chance of +250 Accuracy for 2s. (15s cooldown)
 .
 0
@@ -6767,8 +6767,8 @@ On hit, 5% chance of +250 Accuracy for 2s. (15s cooldown)
 0
 
 ID=30132
-Unleash Demonic Eye Ⅰ
-When hit, 5% chance of Invincibility for 1s. (10s cooldown)
+Demon Eye Release Ⅰ
+When hit, 5% chance to be invulnerable for 1s. (10s cooldown)
 .
 0
 0
@@ -6799,7 +6799,7 @@ When hit, 5% chance of +200 Evasion for 3s. (10s cooldown)
 0
 
 ID=30143
-Nimble Macho Man Ⅰ
+Nimble Macho Ⅰ
 When hit, 5% chance of +10% Attack for 2s. (10s cooldown)
 .
 0
@@ -6807,7 +6807,7 @@ When hit, 5% chance of +10% Attack for 2s. (10s cooldown)
 0
 
 ID=30151
-Nimble Macho Man Ⅱ
+Nimble Macho Ⅱ
 When hit, 5% chance of +15% Attack for 2s. (10s cooldown)
 .
 0
@@ -6815,15 +6815,15 @@ When hit, 5% chance of +15% Attack for 2s. (10s cooldown)
 0
 
 ID=30152
-Revengeful Demon Ⅰ
-On critical hit, 5% chance for all hits to be Critical Hits for 2s. (30s cooldown) 
+Vengeful Demon Ⅰ
+On critical, 5% chance for all hits to be critical for 2s. (30s cooldown) 
 .
 0
 0
 0
 
 ID=30153
-Quadra Gang Assault Ⅰ
+Quad Assault Ⅰ
 On hit, 10% chance of +10% Attack Speed for 3s. (10s cooldown)
 .
 0
@@ -6831,7 +6831,7 @@ On hit, 10% chance of +10% Attack Speed for 3s. (10s cooldown)
 0
 
 ID=30161
-Quadra Gang Assault Ⅱ
+Quad Assault Ⅱ
 On hit, 10% chance of +10% Attack Speed for 5s. (10s cooldown)
 .
 0
@@ -6839,8 +6839,8 @@ On hit, 10% chance of +10% Attack Speed for 5s. (10s cooldown)
 0
 
 ID=30162
-Mountain Defense Ⅰ
-Every 60 seconds, 30% chance of -20% Attack and +100% Defense.
+Mountain-like Ⅰ
+Every second, 30% chance of -20% Attack and +100% Defense for 10s. (60s cooldown)
 .
 0
 0
@@ -6863,8 +6863,8 @@ When critically hit, +500 Accuracy for 5s. (20s cooldown)
 0
 
 ID=30172
-Outstandingly Dignified Commanding Officier Ⅰ
-On evasion, 20% chance of +5% HP. (15s cooldown)
+Interim CO's Dignity Ⅰ
+When evaded, 20% chance of +5% HP. (15s cooldown)
 .
 0
 0
@@ -6872,7 +6872,7 @@ On evasion, 20% chance of +5% HP. (15s cooldown)
 
 ID=30173
 Surprise Attack Pro Ⅰ
-On critical hit, 5% chance of +10% SG. (20s cooldown)
+On critical, 5% chance of +10% SG. (20s cooldown)
 .
 0
 0
@@ -6880,15 +6880,15 @@ On critical hit, 5% chance of +10% SG. (20s cooldown)
 
 ID=30181
 Surprise Attack Pro Ⅱ
-On critical hit, 10% chance of +20% SG. (20s cooldown)
+On critical, 10% chance of +20% SG. (15s cooldown)
 .
 0
 0
 0
 
 ID=30182
-Outdoor Children Ⅰ
-On dash use, 5% chance of +10% Attack for 5s.
+Children are Outdoor Creatures Ⅰ
+When dashing, 5% chance of +10% Attack for 5s.
 .
 0
 0
@@ -6896,7 +6896,7 @@ On dash use, 5% chance of +10% Attack for 5s.
 
 ID=30183
 Fight Poison with Poison Ⅰ
-When under abnormal state, 50% chance of +10% Attack for 10s (15s cooldown)
+When afflicted with status effects, 50% chance of +10% Attack for 10 seconds. (15s cooldown)
 .
 0
 0
@@ -6904,7 +6904,7 @@ When under abnormal state, 50% chance of +10% Attack for 10s (15s cooldown)
 
 ID=30191
 Snake Shock
-スネークを召喚し、周辺の敵を攻撃する。(クールタイム80秒)
+Summon Snake, attacking surrounding enemies. (80s cooldown)
 .
 0
 0
@@ -6912,7 +6912,7 @@ Snake Shock
 
 ID=30192
 Snake Shock
-スネークを連続3回召喚し、周辺の敵を攻撃する。(クールタイム80秒)
+Consecutively summon 3 Snakes, attacking surrounding enemies. (80s cooldown)
 .
 0
 0
@@ -6920,7 +6920,7 @@ Snake Shock
 
 ID=30193
 Snake Shock
-スネークを多数召喚し、周辺の敵を攻撃する。(クールタイム80秒)
+Summon a large number of Snakes, attacking surrounding enemies. (80s cooldown)
 .
 0
 0
@@ -6928,7 +6928,7 @@ Snake Shock
 
 ID=30201
 Roar Ⅰ
-On mid-air hit, 50% chance of +3% HP. (40s cooldown)
+On aerial hit, 50% chance of +3% HP. (40s cooldown)
 .
 0
 0
@@ -6936,14 +6936,14 @@ On mid-air hit, 50% chance of +3% HP. (40s cooldown)
 
 ID=30202
 Roar Ⅱ
-On mid-air hit, 50% chance of +6% HP. (30s cooldown)
+On aerial hit, 50% chance of +6% HP. (30s cooldown)
 .
 0
 0
 0
 
 ID=30203
-Precious Breathing Control Ⅰ
+Revered Breathing Technique Ⅰ
 When hit, +5% Stamina. (20s cooldown)
 .
 0
@@ -6951,7 +6951,7 @@ When hit, +5% Stamina. (20s cooldown)
 0
 
 ID=30211
-Bird Monster Wings Ⅰ
+Bird Monster's Wings Ⅰ
 On hit, 15% chance of +50% Defense for 3s. (10s cooldown)
 .
 0
@@ -6959,7 +6959,7 @@ On hit, 15% chance of +50% Defense for 3s. (10s cooldown)
 0
 
 ID=30212
-Bird Monster Wings Ⅱ
+Bird Monster's Wings Ⅱ
 On hit, 20% chance of +50% Defense for 5s. (10s cooldown)
 .
 0
@@ -6983,15 +6983,15 @@ When obtaining an item, 30% chance of +10% Attack for 5s. (30s cooldown)
 0
 
 ID=30222
-Focused One-Point Concentration Ⅰ
-When hit, 5% chance of -10% Attack, +15% Attack Speed for 2s. (30s cooldown)
+Narrow Focus Ⅰ
+When hit, 5% chance of -10% Attack and +15% Attack Speed for 2s. (30s cooldown)
 .
 0
 0
 0
 
 ID=30223
-Strength from Injuries Ⅰ
+Gain Strength from Injuries Ⅰ
 When hit, 10% chance of +5% HP. (10s cooldown)
 .
 0
@@ -7016,7 +7016,7 @@ On hit, 5% chance of +10% SG. (30s cooldown)
 
 ID=30233
 Beast on the Edge
-スカーが周辺の敵を引き寄せる攻撃を繰り出す。(クールタイム60秒)
+Scar pulls and attacks surrounding enemies. (60s cooldown)
 .
 0
 0
@@ -7039,7 +7039,7 @@ Scar increases the attack of allies around him by 10% for 20s.\nAfter granting t
 0
 
 ID=30243
-Sever the Meat from the Bone Ⅰ
+Get Hit, Hit Harder Ⅰ
 When hit, 10% chance of +5% Attack for 5s. (10s cooldown)
 .
 0
@@ -7047,7 +7047,7 @@ When hit, 10% chance of +5% Attack for 5s. (10s cooldown)
 0
 
 ID=30251
-Sever the Meat from the Bone Ⅱ
+Get Hit, Hit Harder Ⅱ
 When hit, 20% chance of +5% Attack for 5s. (10s cooldown)
 .
 0
@@ -7056,7 +7056,7 @@ When hit, 20% chance of +5% Attack for 5s. (10s cooldown)
 
 ID=30252
 White Star
-ホワイトファング3体が正面を攻撃する。\n効果：出血(クールタイム80秒)
+Summon 3 White Fangs to attack. (80s cooldown)\nEffect: Bleed
 .
 0
 0
@@ -7064,7 +7064,7 @@ White Star
 
 ID=30271
 White Star
-ホワイトファング3体が爆発攻撃をする。(クールタイム80秒)
+3 White Fangs unleash an explosion attack. (80s cooldown)
 .
 0
 0
@@ -7072,7 +7072,7 @@ White Star
 
 ID=30272
 White Star
-ホワイトファング1体が広範囲を爆発させて攻撃する。\n効果：気絶(クールタイム80秒)
+White Fang causes an explosion in a large area. (80s cooldown)\nEffect: Stun
 .
 0
 0
@@ -7080,7 +7080,7 @@ White Star
 
 ID=30273
 Crimson Gaze Ⅰ
-When under abnormal state, 100% chance of +10% HP. (30s cooldown)
+When afflicted with status effects, +10% HP. (30s cooldown)
 .
 0
 0
@@ -7103,7 +7103,7 @@ When hit, +20% Stamina. (10s cooldown)
 0
 
 ID=30283
-Maximized Shield Ⅰ
+Shield at Max Output Ⅰ
 When hit, +100% Defense, -70% Attack for 2s. (30s cooldown)
 .
 0
@@ -7111,7 +7111,7 @@ When hit, +100% Defense, -70% Attack for 2s. (30s cooldown)
 0
 
 ID=30291
-Maximized Shield Ⅱ
+Shield at Max Output Ⅱ
 When hit, +100% Defense, -50% Attack for 4s. (30s cooldown)
 .
 0
@@ -7135,8 +7135,8 @@ Fuel Saving System Ⅱ
 0
 
 ID=30301
-Suicide Attack Ⅰ
-On hit, -50% Defense, +15% Attack for 5s. (30s cooldown)
+Desperate Attack Ⅰ
+On hit, -50% Defense and +15% Attack for 5s. (30s cooldown)
 .
 0
 0
@@ -7160,7 +7160,7 @@ Be Quiet Ⅱ
 
 ID=30311
 Rush Hour Ⅰ
-On critical hit, 10% chance of +10% Attack Speed for 4s. (40s cooldown)
+On critical, 10% chance of +10% Attack Speed for 4s. (40s cooldown)
 .
 0
 0
@@ -7168,7 +7168,7 @@ On critical hit, 10% chance of +10% Attack Speed for 4s. (40s cooldown)
 
 ID=30312
 Rush Hour Ⅱ
-On critical hit, 10% chance of +10% Attack Speed for 6s. (40s cooldown)
+On critical, 10% chance of +10% Attack Speed for 6s. (40s cooldown)
 .
 0
 0
@@ -7176,7 +7176,7 @@ On critical hit, 10% chance of +10% Attack Speed for 6s. (40s cooldown)
 
 ID=30313
 Weak but Precise Ⅰ
-攻撃を受けた時、20%の確率で5秒間、攻撃力が20%減少し、命中が1000上昇する。(クールタイム60秒)
+When hit, 20% chance of -20% Attack and +1000 Accuracy for 5 seconds. (60s cooldown)
 .
 0
 0
@@ -7184,7 +7184,7 @@ Weak but Precise Ⅰ
 
 ID=30321
 Weak but Precise Ⅱ
-攻撃を受けた時、20%の確率で5秒間、攻撃力が15%減少し、命中が1000上昇する。(クールタイム60秒)
+When hit, 20% chance of -15% Attack and +1000 Accuracy for 5 seconds. (60s cooldown)
 .
 0
 0
@@ -7192,7 +7192,7 @@ Weak but Precise Ⅱ
 
 ID=30322
 Breaking Message Ⅰ
-On critical hit, 5% chance of +100% Defense for 3s. (10s cooldown)
+On critical, 5% chance of +100% Defense for 3s. (10s cooldown)
 .
 0
 0
@@ -7200,7 +7200,7 @@ On critical hit, 5% chance of +100% Defense for 3s. (10s cooldown)
 
 ID=30323
 Breaking Message Ⅱ
-On critical hit, 10% chance of +100% Defense for 3s. (10s cooldown)
+On critical, 10% chance of +100% Defense for 3s. (10s cooldown)
 .
 0
 0
@@ -7208,7 +7208,7 @@ On critical hit, 10% chance of +100% Defense for 3s. (10s cooldown)
 
 ID=30331
 Critical Power Ⅰ
-On critical hit, 50% chance of +3% Defense for 2s. (1s cooldown)
+On critical, 50% chance of +3% Attack for 2s. (1s cooldown)
 .
 0
 0
@@ -7216,7 +7216,7 @@ On critical hit, 50% chance of +3% Defense for 2s. (1s cooldown)
 
 ID=30332
 Critical Power Ⅱ
-On critical hit, 50% chance of +4% Defense for 2s. (1s cooldown)
+On critical, 50% chance of +4% Attack for 2s. (1s cooldown)
 .
 0
 0
@@ -7224,7 +7224,7 @@ On critical hit, 50% chance of +4% Defense for 2s. (1s cooldown)
 
 ID=30333
 Running Charge Ⅰ
-On dash use, 10% chance of +10% SG. (5s cooldown)
+When dashing, 10% chance of +10% SG. (5s cooldown)
 .
 0
 0
@@ -7232,7 +7232,7 @@ On dash use, 10% chance of +10% SG. (5s cooldown)
 
 ID=30341
 Running Charge Ⅱ
-On dash use, 20% chance of +10% SG. (3s cooldown)
+When dashing, 20% chance of +10% SG. (3s cooldown)
 .
 0
 0
@@ -7256,15 +7256,15 @@ Invoke an area of flames to burn enemies within the vicinity. (30s cooldown)
 
 ID=30351
 Fire Bark
-スコールが火傷効果を発生させる火炎地帯を生成する。(クールタイム30秒、最大5重複)
+Sköll creates a flame zone, burning the vicinity. (30s cooldown, max 5 stacks)
 .
 0
 0
 0
 
 ID=30352
-Precautious Escape Ⅰ
-スーパーアーマーブレイク発生時、50%の確率で3秒間、移動速度が50%上昇する。(クールタイム60秒)
+Escape Artist Ⅰ
+On SA Break, 50% chance of +50% Movement Speed for 3 seconds. (60s cooldown)
 .
 0
 0
@@ -7272,7 +7272,7 @@ Precautious Escape Ⅰ
 
 ID=30353
 Business Energy Ⅰ
-敵死亡時、10%の確率でSGが10%回復する。(クールタイム60秒)
+On kill, 10% chance of +10% SG. (60s cooldown)
 .
 0
 0
@@ -7280,14 +7280,14 @@ Business Energy Ⅰ
 
 ID=30361
 Aim... Fire! Ⅰ
-60秒ごとに10秒間、命中が200上昇する。
++200 Accuracy for 10 seconds every 60 seconds.
 .
 0
 0
 0
 
 ID=30362
-Enduring still hurts... Ⅰ
+Bear it Ⅰ
 When hit, 10% chance of +3% HP. (30s cooldown)
 .
 0
@@ -7295,16 +7295,16 @@ When hit, 10% chance of +3% HP. (30s cooldown)
 0
 
 ID=30363
-The Stealthy Assassin Ⅰ
-On enemy death, 10% chance of +5% Attack Speed for 3s. (15s cooldown)
+Silent Assassin Ⅰ
+On kill, 10% chance of +5% Attack Speed for 3s. (15s cooldown)
 .
 0
 0
 0
 
 ID=30371
-The Stealthy Assassin Ⅱ
-On enemy death, 10% chance of +5% Attack Speed for 5s. (10s cooldown)
+Silent Assassin Ⅱ
+On kill, 10% chance of +5% Attack Speed for 5s. (10s cooldown)
 .
 0
 0
@@ -7351,8 +7351,8 @@ Tracker self-destrcuts, pulls and knocks up surrounding enemies. (30s cooldown)
 0
 
 ID=30391
-Lost and Found Center Ⅰ
-アイテム獲得時、10%の確率で2秒間、無敵状態になる。(クールタイム60秒)
+Lost Property Center Ⅰ
+When obtaining an item, 10% chance to be invulnerable for 2 seconds. (60s cooldown)
 .
 0
 0
@@ -7360,7 +7360,7 @@ Lost and Found Center Ⅰ
 
 ID=30392
 Oath of the Peach Garden Ⅰ
-On critical hit, 5% chance of +10% Attack, -50% Movement Speed for 5s (10s cooldown)
+On critical, 5% chance of +10% Attack and -50% Movement Speed for 5s. (10s cooldown)
 .
 0
 0
@@ -7368,7 +7368,7 @@ On critical hit, 5% chance of +10% Attack, -50% Movement Speed for 5s (10s coold
 
 ID=30393
 God Hand
-右手が登場し、打ち降ろし攻撃後に消える。\n効果：麻痺(クールタイム60秒)
+Summon Deus' right hand, slamming the ground, then disappears. (60s cooldown)\nEffect: Paralysis
 .
 0
 0
@@ -7376,7 +7376,7 @@ God Hand
 
 ID=30401
 God Hand
-両腕が登場し、近距離に打ち降ろし攻撃を繰り出して消える。\n効果：麻痺(クールタイム60秒)
+Summon Deus' both hands, slamming the ground in a small area, then disappears. (60s cooldown)\nEffect: Paralysis
 .
 0
 0
@@ -7384,7 +7384,7 @@ God Hand
 
 ID=30402
 God Hand
-両腕が登場し、広範囲に打ち降ろし攻撃を繰り出して消える。\n効果：麻痺(クールタイム60秒)
+Summon Deus' both hands, slamming the ground in a large area, then disappears. (60s cooldown)\nEffect: Paralysis
 .
 0
 0
@@ -7392,22 +7392,22 @@ God Hand
 
 ID=30403
 Silent Healing Ⅰ
-On mid-air hit, +5% Stamina. (60s cooldown)
+On aerial hit, +5% Stamina. (60s cooldown)
 .
 0
 0
 0
 
 ID=30411
-Anywhere, Anytime Ⅰ
-60秒ごとに10秒間、攻撃速度が5%上昇する。
+Anytime, Anywhere Ⅰ
++5% Attack Speed for 10 seconds every 60 seconds.
 .
 0
 0
 0
 
 ID=30412
-The Power of High Heels!
+High Heels-esque Ⅰ
 On jump, +10% Movement Speed for 5s. (10s cooldown)
 .
 0
@@ -7415,23 +7415,23 @@ On jump, +10% Movement Speed for 5s. (10s cooldown)
 0
 
 ID=30413
-Blooming Messanger Ⅰ
-スーパーアーマーブレイク発生時、10%の確率で10秒間、攻撃力が15%上昇する。(クールタイム60秒)
+Messenger's Flower Ⅰ
+On SA Break, 10% chance of +15% Attack for 10s. (60s cooldown)
 .
 0
 0
 0
 
 ID=30421
-Blooming Messanger Ⅱ
-スーパーアーマーブレイク発生時、20%の確率で10秒間、攻撃力が15%上昇する。(クールタイム60秒)
+Messenger's Flower Ⅱ
+On SA Break, 20% chance of +15% Attack for 10s. (60s cooldown)
 .
 0
 0
 0
 
 ID=30422
-What Comes Around Goes Around Ⅰ
+Law of Action-Reaction Ⅰ
 When critically hit, 20% chance of +10% Attack for 3s. (10s cooldown)
 .
 0
@@ -7440,23 +7440,23 @@ When critically hit, 20% chance of +10% Attack for 3s. (10s cooldown)
 
 ID=30423
 Hit and Away Ⅰ
-攻撃失敗時、30%の確率で5秒間、回避が100上昇する。(クールタイム60秒)
+On missed hit, 30% chance of +100 Evasion for 5 seconds. (60s cooldown)
 .
 0
 0
 0
 
 ID=30431
-Impregnable Defense Ⅰ
-On ally skill use, 40% chance of +20% Defense for 5s. (20s cooldown)
+Impregnable Armor Ⅰ
+When ally used skills, 40% chance of +20% Defense for 5s. (20s cooldown)
 .
 0
 0
 0
 
 ID=30432
-Impregnable Defense Ⅱ
-On ally skill use, 40% chance of +30% Defense for 5s. (20s cooldown)
+Impregnable Armor Ⅱ
+When ally used skills, 40% chance of +30% Defense for 5s. (20s cooldown)
 .
 0
 0
@@ -7464,7 +7464,7 @@ On ally skill use, 40% chance of +30% Defense for 5s. (20s cooldown)
 
 ID=30433
 Vanish Ⅰ
-On hit, 10% chance of +5% Attack and Movement Speed for 3s. (10s cooldown)
+On hit, 10% chance of +5% Attack & Movement Speed for 3s. (10s cooldown)
 .
 0
 0
@@ -7472,7 +7472,7 @@ On hit, 10% chance of +5% Attack and Movement Speed for 3s. (10s cooldown)
 
 ID=30441
 Vanish Ⅱ
-On hit, 10% chance of +5% Attack and Movement Speed for 5s. (10s cooldown)
+On hit, 10% chance of +5% Attack & Movement Speed for 5s. (10s cooldown)
 .
 0
 0
@@ -7495,32 +7495,32 @@ On skill use, 10% chance of +600 Accuracy for 5s. (10s cooldown)
 0
 
 ID=30451
-Unyielding Resolve Ⅰ
-On critical hit, +10% Attack for 3s. (10s cooldown)
+Unimpaired Strength Ⅰ
+On critical, +10% Attack for 3s. (10s cooldown)
 .
 0
 0
 0
 
 ID=30452
-Unyielding Resolve Ⅱ
-On critical hit, +15% Attack for 3s. (10s cooldown)
+Unimpaired Strength Ⅱ
+On critical, +15% Attack for 3s. (10s cooldown)
 .
 0
 0
 0
 
 ID=30453
-Bloodlust Revenge Ⅰ
-On ally low HP, 50% chance of +30% Attack for 10s. (10s cooldown)
+Bloody Revenge Ⅰ
+When ally is incapacitated, 50% chance of +30% Attack for 10s. (10s cooldown)
 .
 0
 0
 0
 
 ID=30461
-Bloodlust Revenge Ⅱ
-On ally low HP, 60% chance of +40% Attack for 10s. (10s cooldown)
+Bloody Revenge Ⅱ
+When ally is incapacitated, 60% chance of +40% Attack for 10s. (10s cooldown)
 .
 0
 0
@@ -7544,7 +7544,7 @@ When hit, 20% chance of +5% HP&SG per second for 5s. (10s cooldown)
 
 ID=30471
 Beaten Merchant Ⅰ
-When hit, 1% chance of +50% Attack. (1s cooldown, max 3 stacks)
+When hit, 50% chance of +1% Attack. (1s cooldown, max 3 stacks)
 .
 0
 0
@@ -7552,7 +7552,7 @@ When hit, 1% chance of +50% Attack. (1s cooldown, max 3 stacks)
 
 ID=30472
 Beaten Merchant Ⅱ
-When hit, 1% chance of +100% Attack. (1s cooldown, max 5 stacks)
+When hit, 100% chance of +1% Attack. (1s cooldown, max 5 stacks)
 .
 0
 0
@@ -7583,8 +7583,8 @@ Knocks up surrounding enemies, heals players in range up to 18% HP. (30s cooldow
 0
 
 ID=30483
-Seize the Loot Ⅰ
-On monster death, +10% SG (60s cooldown)
+Plunderer Ⅰ
+On kill, +10% SG. (60s cooldown)
 .
 0
 0
@@ -7592,7 +7592,7 @@ On monster death, +10% SG (60s cooldown)
 
 ID=30491
 Final Aria
-プレイヤーの周囲に円形麻痺トラップを生成する。(クールタイム60秒)
+Generate a paralysis trap around the user. (60s cooldown)
 .
 0
 0
@@ -7600,7 +7600,7 @@ Final Aria
 
 ID=30492
 Final Aria
-多数のミサイルがプレイヤーの周辺にランダムに落ちてくる。(クールタイム60秒)
+Multiple missiles randomly rain down around the user. (60s cooldown)
 .
 0
 0
@@ -7608,7 +7608,7 @@ Final Aria
 
 ID=30493
 Final Aria
-プレイヤーの周辺に円形麻痺トラップ生成後、多数のミサイルがランダムに落ちてくる。(クールタイム60秒)
+Generate a paralysis trap, then multiple missiles randomly rain down around the user. (60s cooldown)
 .
 0
 0
@@ -7616,7 +7616,7 @@ Final Aria
 
 ID=30501
 Light of Protection
-テンプテーションストーンが5秒間、周辺に無敵効果を発生させるバリアを生成する。(クールタイム60秒)
+Temptation Stone creates a barrier, granting invulnerability for 5s. (60s cooldown)
 .
 0
 0
@@ -7624,7 +7624,7 @@ Light of Protection
 
 ID=30502
 Light of Protection
-テンプテーションストーンが5秒間、周辺に無敵効果と敵を攻撃するバリアを生成する。(クールタイム60秒)
+Temptation Stone creates a barrier, granting invulnerability and attacks enemies for 5s. (60s cooldown)
 .
 0
 0
@@ -7632,7 +7632,7 @@ Light of Protection
 
 ID=30503
 Light of Protection
-テンプテーションストーンが5秒間、周辺に無敵と麻痺効果を発生させる。(クールタイム60秒)
+Temptation Stone creates a barrier, granting invulnerability and paralysis effects for 5s. (60s cooldown)
 .
 0
 0
@@ -7640,7 +7640,7 @@ Light of Protection
 
 ID=30511
 Radio Star Ⅰ
-In District 6, +3% Movement Speed every 10 seconds for 3s.
+In District 6, +3% Movement Speed for 3s every 10s.
 .
 0
 0
@@ -7648,7 +7648,7 @@ In District 6, +3% Movement Speed every 10 seconds for 3s.
 
 ID=30512
 Radio Star Ⅱ
-In District 6, +5% Movement Speed every 10 seconds for 5s.
+In District 6, +5% Movement Speed for 5s every 10s.
 .
 0
 0
@@ -7663,7 +7663,7 @@ In District 6, +3% Movement Speed for 3s. (10s cooldown)
 0
 
 ID=30521
-Boarding services Ⅱ
+Boarding Service Ⅱ
 In District 6, +5% Movement Speed for 5s. (10s cooldown)
 .
 0
@@ -7671,87 +7671,87 @@ In District 6, +5% Movement Speed for 5s. (10s cooldown)
 0
 
 ID=30522
-Professional Surgical Procedure Ⅰ
-60秒ごとにHPが1%回復する。
+Professional Mechanic Ⅰ
++1% HP every 60 seconds.
 .
 0
 0
 0
 
 ID=30523
-Professional Surgical Procedure Ⅱ
-60秒ごとにHPが2%回復する。
+Professional Mechanic Ⅱ
++2% HP every 60 seconds.
 .
 0
 0
 0
 
 ID=30531
-Silent Smile Ⅰ
-60秒ごとにSGが1%回復する。
+Peaceful Smile Ⅰ
++1% SG every 60 seconds.
 .
 0
 0
 0
 
 ID=30532
-Silent Smile Ⅱ
-60秒ごとにSGが2%回復する。
+Peaceful Smile Ⅱ
++2% SG every 60 seconds.
 .
 0
 0
 0
 
 ID=30541
-Comaradie Bond Ⅰ
-+15% Maximum HP.
+Comrade-in-arms Ⅰ
++15% Max HP.
 .
 0
 0
 0
 
 ID=30542
-Comaradie Bond Ⅱ
-+20% Maximum HP.
+Comrade-in-arms Ⅱ
++20% Max HP.
 .
 0
 0
 0
 
 ID=30543
-Comaradie Bond Ⅲ
-+25% Maximum HP.
+Comrade-in-arms Ⅲ
++25% Max HP.
 .
 0
 0
 0
 
 ID=30551
-Comaradie Bond Ⅰ
-+20% Maximum HP.
+Comrade-in-arms Ⅰ
++20% Max HP.
 .
 0
 0
 0
 
 ID=30552
-Comaradie Bond Ⅱ
-+25% Maximum HP.
+Comrade-in-arms Ⅱ
++25% Max HP.
 .
 0
 0
 0
 
 ID=30553
-Comaradie Bond Ⅲ
-+30% Maximum HP.
+Comrade-in-arms Ⅲ
++30% Max HP.
 .
 0
 0
 0
 
 ID=30561
-The First Death Match Ⅰ
+First Deathmatch Ⅰ
 +4% Attack, +1% Critical.
 .
 0
@@ -7759,7 +7759,7 @@ The First Death Match Ⅰ
 0
 
 ID=30562
-The First Death Match Ⅱ
+First Deathmatch Ⅱ
 +5% Attack, +1% Critical.
 .
 0
@@ -7767,7 +7767,7 @@ The First Death Match Ⅱ
 0
 
 ID=30563
-The First Death Match Ⅲ
+First Deathmatch Ⅲ
 +6% Attack, +2% Critical.
 .
 0
@@ -7775,7 +7775,7 @@ The First Death Match Ⅲ
 0
 
 ID=30571
-The First Death Match Ⅰ
+First Deathmatch Ⅰ
 +4% Attack, +2% Critical.
 .
 0
@@ -7783,7 +7783,7 @@ The First Death Match Ⅰ
 0
 
 ID=30572
-The First Death Match Ⅱ
+First Deathmatch Ⅱ
 +6% Attack, +2% Critical.
 .
 0
@@ -7791,7 +7791,7 @@ The First Death Match Ⅱ
 0
 
 ID=30573
-The First Death Match Ⅲ
+First Deathmatch Ⅲ
 +8% Attack, +3% Critical.
 .
 0
@@ -7800,7 +7800,7 @@ The First Death Match Ⅲ
 
 ID=30581
 Hit Fever Ⅰ
-Each 100 hit combo (up to 300), +3% Attack for 15s. (max 3 stacks)
+For every 100 hit combo (max 300), +3% Attack for 15s. (max 3 stacks)
 .
 0
 0
@@ -7808,7 +7808,7 @@ Each 100 hit combo (up to 300), +3% Attack for 15s. (max 3 stacks)
 
 ID=30582
 Hit Fever Ⅱ
-Each 100 hit combo (up to 300), +4% Attack for 15s. (max 3 stacks)
+For every 100 hit combo (max 300), +4% Attack for 15s. (max 3 stacks)
 .
 0
 0
@@ -7816,7 +7816,7 @@ Each 100 hit combo (up to 300), +4% Attack for 15s. (max 3 stacks)
 
 ID=30583
 Hit Fever Ⅲ
-Each 100 hit combo (up to 300), +5% Attack for 15s. (max 3 stacks)
+For every 100 hit combo (max 300), +5% Attack for 15s. (max 3 stacks)
 .
 0
 0
@@ -7824,7 +7824,7 @@ Each 100 hit combo (up to 300), +5% Attack for 15s. (max 3 stacks)
 
 ID=30591
 Hit Fever Ⅰ
-Each 100 hit combo (up to 300), +4% Attack for 15s. (max 3 stacks)
+For every 100 hit combo (max 300), +4% Attack for 15s. (max 3 stacks)
 .
 0
 0
@@ -7832,7 +7832,7 @@ Each 100 hit combo (up to 300), +4% Attack for 15s. (max 3 stacks)
 
 ID=30592
 Hit Fever Ⅱ
-Each 100 hit combo (up to 300), +5% Attack for 15s. (max 3 stacks)
+For every 100 hit combo (max 300), +5% Attack for 15s. (max 3 stacks)
 .
 0
 0
@@ -7840,7 +7840,7 @@ Each 100 hit combo (up to 300), +5% Attack for 15s. (max 3 stacks)
 
 ID=30593
 Hit Fever Ⅲ
-Each 100 hit combo (up to 300), +6% Attack for 15s. (max 3 stacks)
+For every 100 hit combo (max 300), +6% Attack for 15s. (max 3 stacks)
 .
 0
 0
@@ -7848,7 +7848,7 @@ Each 100 hit combo (up to 300), +6% Attack for 15s. (max 3 stacks)
 
 ID=30601
 Emergency Shield Ⅰ
-Under 20% HP, +40% Defense for 20s.
+When HP is 20% or less, +40% Defense for 20s.
 .
 0
 0
@@ -7856,7 +7856,7 @@ Under 20% HP, +40% Defense for 20s.
 
 ID=30602
 Emergency Shield Ⅱ
-Under 20% HP, +60% Defense for 20s.
+When HP is 20% or less, +60% Defense for 20s.
 .
 0
 0
@@ -7864,7 +7864,7 @@ Under 20% HP, +60% Defense for 20s.
 
 ID=30603
 Emergency Shield Ⅲ
-Under 20% HP, +80% Defense for 20s.
+When HP is 20% or less, +80% Defense for 20s.
 .
 0
 0
@@ -7872,7 +7872,7 @@ Under 20% HP, +80% Defense for 20s.
 
 ID=30611
 Emergency Shield Ⅰ
-Under 20% HP, +60% Defense for 20s.
+When HP is 20% or less, +60% Defense for 20s.
 .
 0
 0
@@ -7880,7 +7880,7 @@ Under 20% HP, +60% Defense for 20s.
 
 ID=30612
 Emergency Shield Ⅱ
-Under 20% HP, +80% Defense for 20s.
+When HP is 20% or less, +80% Defense for 20s.
 .
 0
 0
@@ -7888,55 +7888,55 @@ Under 20% HP, +80% Defense for 20s.
 
 ID=30613
 Emergency Shield Ⅲ
-Under 20% HP, +100% Defense for 20s.
+When HP is 20% or less, +100% Defense for 20s.
 .
 0
 0
 0
 
 ID=30621
-The Essence of Power Ⅰ
-On monster death, +5% more Zenny.
+Crux of Power Ⅰ
+On kill, +5% Zenny Gain.
 .
 0
 0
 0
 
 ID=30622
-The Essence of Power Ⅱ
-On monster death, +10% more Zenny.
+Crux of Power Ⅱ
+On kill, +10% Zenny Gain.
 .
 0
 0
 0
 
 ID=30623
-The Essence of Power Ⅲ
-On monster death, +15% more Zenny.
+Crux of Power Ⅲ
+On kill, +15% Zenny Gain.
 .
 0
 0
 0
 
 ID=30631
-The Essence of Power Ⅰ
-On monster death, +10% more Zenny.
+Crux of Power Ⅰ
+On kill, +10% Zenny Gain.
 .
 0
 0
 0
 
 ID=30632
-The Essence of Power Ⅱ
-On monster death, +15% more Zenny.
+Crux of Power Ⅱ
+On kill, +15% Zenny Gain.
 .
 0
 0
 0
 
 ID=30633
-The Essence of Power Ⅲ
-On monster death, +20% more Zenny.
+Crux of Power Ⅲ
+On kill, +20% Zenny Gain.
 .
 0
 0
@@ -7991,7 +7991,7 @@ When hit, 20% chance of +50% Defense for 5s. (10s cooldown)
 0
 
 ID=30661
-Lethal Blow Ⅰ
+Lethal Strike Ⅰ
 On hit, 5% chance of +20% Critical for 2.5s. (10s cooldown)
 .
 0
@@ -7999,7 +7999,7 @@ On hit, 5% chance of +20% Critical for 2.5s. (10s cooldown)
 0
 
 ID=30662
-Lethal Blow Ⅱ
+Lethal Strike Ⅱ
 On hit, 10% chance of +20% Critical for 3.5s. (10s cooldown)
 .
 0
@@ -8007,7 +8007,7 @@ On hit, 10% chance of +20% Critical for 3.5s. (10s cooldown)
 0
 
 ID=30663
-Lethal Blow Ⅲ
+Lethal Strike Ⅲ
 On hit, 15% chance of +20% Critical for 4.5s. (10s cooldown)
 .
 0
@@ -8015,7 +8015,7 @@ On hit, 15% chance of +20% Critical for 4.5s. (10s cooldown)
 0
 
 ID=30671
-Lethal Blow Ⅰ
+Lethal Strike Ⅰ
 On hit, 10% chance of +20% Critical for 2.5s. (10s cooldown)
 .
 0
@@ -8023,7 +8023,7 @@ On hit, 10% chance of +20% Critical for 2.5s. (10s cooldown)
 0
 
 ID=30672
-Lethal Blow Ⅱ
+Lethal Strike Ⅱ
 On hit, 15% chance of +20% Critical for 3.5s. (10s cooldown)
 .
 0
@@ -8031,7 +8031,7 @@ On hit, 15% chance of +20% Critical for 3.5s. (10s cooldown)
 0
 
 ID=30673
-Lethal Blow Ⅲ
+Lethal Strike Ⅲ
 On hit, 20% chance of +20% Critical for 4.5s. (10s cooldown)
 .
 0
@@ -8039,7 +8039,7 @@ On hit, 20% chance of +20% Critical for 4.5s. (10s cooldown)
 0
 
 ID=30681
-Official Military Certificate Ⅰ
+Proof of Animosity Ⅰ
 When hit, 5% chance of +10% Attack for 2.5s. (10s cooldown)
 .
 0
@@ -8047,7 +8047,7 @@ When hit, 5% chance of +10% Attack for 2.5s. (10s cooldown)
 0
 
 ID=30682
-Official Military Certificate Ⅱ
+Proof of Animosity Ⅱ
 When hit, 10% chance of +10% Attack for 3.5s. (10s cooldown)
 .
 0
@@ -8055,7 +8055,7 @@ When hit, 10% chance of +10% Attack for 3.5s. (10s cooldown)
 0
 
 ID=30683
-Official Military Certificate Ⅲ
+Proof of Animosity Ⅲ
 When hit, 15% chance of +10% Attack for 4.5s. (10s cooldown)
 .
 0
@@ -8063,7 +8063,7 @@ When hit, 15% chance of +10% Attack for 4.5s. (10s cooldown)
 0
 
 ID=30691
-Official Military Certificate Ⅰ
+Proof of Animosity Ⅰ
 When hit, 10% chance of +10% Attack for 2.5s. (10s cooldown)
 .
 0
@@ -8071,7 +8071,7 @@ When hit, 10% chance of +10% Attack for 2.5s. (10s cooldown)
 0
 
 ID=30692
-Official Military Certificate Ⅱ
+Proof of Animosity Ⅱ
 When hit, 15% chance of +10% Attack for 3.5s. (10s cooldown)
 .
 0
@@ -8079,7 +8079,7 @@ When hit, 15% chance of +10% Attack for 3.5s. (10s cooldown)
 0
 
 ID=30693
-Official Military Certificate Ⅲ
+Proof of Animosity Ⅲ
 When hit, 20% chance of +10% Attack for 4.5s. (10s cooldown)
 .
 0
@@ -8087,7 +8087,7 @@ When hit, 20% chance of +10% Attack for 4.5s. (10s cooldown)
 0
 
 ID=30701
-Dashing Sprint Ⅰ
+Sprint *kiss* Ⅰ
 10% chance of +10% Movement speed for 2.5s (15s cooldown)
 .
 0
@@ -8095,7 +8095,7 @@ Dashing Sprint Ⅰ
 0
 
 ID=30702
-Dashing Sprint Ⅱ
+Sprint *kiss* Ⅱ
 20% chance of +10% Movement speed for 3s (13s cooldown)
 .
 0
@@ -8103,7 +8103,7 @@ Dashing Sprint Ⅱ
 0
 
 ID=30703
-Dashing Sprint Ⅲ
+Sprint *kiss* Ⅲ
 30% chance of +10% Movement speed for 3.5s (11s cooldown)
 .
 0
@@ -8111,7 +8111,7 @@ Dashing Sprint Ⅲ
 0
 
 ID=30711
-Dashing Sprint Ⅰ
+Sprint *kiss* Ⅰ
 15% chance of +10% Movement speed for 3s (15s cooldown)
 .
 0
@@ -8119,7 +8119,7 @@ Dashing Sprint Ⅰ
 0
 
 ID=30712
-Dashing Sprint Ⅱ
+Sprint *kiss* Ⅱ
 25% chance of +10% Movement speed for 3.5s (13s cooldown)
 .
 0
@@ -8127,7 +8127,7 @@ Dashing Sprint Ⅱ
 0
 
 ID=30713
-Dashing Sprint Ⅲ
+Sprint *kiss* Ⅲ
 35% chance of +10% Movement speed for 4s (11s cooldown)
 .
 0
@@ -8151,7 +8151,7 @@ On hit, 12% chance of +10% HP. (60s cooldown)
 0
 
 ID=30723
-Mind Ⅲ
+Mind's Eye Ⅲ
 On hit, 17% chance of +10% HP. (60s cooldown)
 .
 0
@@ -8175,7 +8175,7 @@ On hit, 14% chance of +10% HP. (60s cooldown)
 0
 
 ID=30733
-Mind Ⅲ
+Mind's Eye Ⅲ
 On hit, 19% chance of +10% HP. (60s cooldown)
 .
 0
@@ -8183,7 +8183,7 @@ On hit, 19% chance of +10% HP. (60s cooldown)
 0
 
 ID=30741
-Ceremonial Attack Ⅰ
+Attack Ritual Ⅰ
 On jump, 15% chance of +10% Attack for 4s. (15s cooldown)
 .
 0
@@ -8191,7 +8191,7 @@ On jump, 15% chance of +10% Attack for 4s. (15s cooldown)
 0
 
 ID=30742
-Ceremonial Attack Ⅱ
+Attack Ritual Ⅱ
 On jump, 20% chance of +10% Attack for 4s. (15s cooldown)
 .
 0
@@ -8199,7 +8199,7 @@ On jump, 20% chance of +10% Attack for 4s. (15s cooldown)
 0
 
 ID=30743
-Attack Ceremony Ⅲ
+Attack Ritual Ⅲ
 On jump, 25% chance of +10% Attack for 4s. (15s cooldown)
 .
 0
@@ -8207,7 +8207,7 @@ On jump, 25% chance of +10% Attack for 4s. (15s cooldown)
 0
 
 ID=30751
-Ceremonial Attack Ⅰ
+Attack Ritual Ⅰ
 On jump, 20% chance of +10% Attack for 4s. (15s cooldown)
 .
 0
@@ -8215,7 +8215,7 @@ On jump, 20% chance of +10% Attack for 4s. (15s cooldown)
 0
 
 ID=30752
-Ceremonial Attack Ⅱ
+Attack Ritual Ⅱ
 On jump, 25% chance of +10% Attack for 4s. (15s cooldown)
 .
 0
@@ -8223,7 +8223,7 @@ On jump, 25% chance of +10% Attack for 4s. (15s cooldown)
 0
 
 ID=30753
-Attack Ceremony Ⅲ
+Attack Ritual Ⅲ
 On jump, 30% chance of +10% Attack for 4s. (15s cooldown)
 .
 0
@@ -8231,7 +8231,7 @@ On jump, 30% chance of +10% Attack for 4s. (15s cooldown)
 0
 
 ID=30761
-Self-Recovery Power Ⅰ
+Self-resilient Ⅰ
 On hit, 5% chance of +7% Stamina.
 .
 0
@@ -8239,7 +8239,7 @@ On hit, 5% chance of +7% Stamina.
 0
 
 ID=30762
-Self-Recovery Power Ⅱ
+Self-resilient Ⅱ
 On hit, 5% chance of +12% Stamina.
 .
 0
@@ -8247,7 +8247,7 @@ On hit, 5% chance of +12% Stamina.
 0
 
 ID=30763
-Self-Recovery Power Ⅲ
+Self-resilient Ⅲ
 On hit, 5% chance of +17% Stamina.
 .
 0
@@ -8255,7 +8255,7 @@ On hit, 5% chance of +17% Stamina.
 0
 
 ID=30771
-Self-Recovery Power Ⅰ
+Self-resilient Ⅰ
 On hit, 5% chance of +9% Stamina.
 .
 0
@@ -8263,7 +8263,7 @@ On hit, 5% chance of +9% Stamina.
 0
 
 ID=30772
-Self-Recovery Power Ⅱ
+Self-resilient Ⅱ
 On hit, 5% chance of +14% Stamina.
 .
 0
@@ -8271,7 +8271,7 @@ On hit, 5% chance of +14% Stamina.
 0
 
 ID=30773
-Self-Recovery Power Ⅲ
+Self-resilient Ⅲ
 On hit, 5% chance of +19% Stamina.
 .
 0
@@ -8279,7 +8279,7 @@ On hit, 5% chance of +19% Stamina.
 0
 
 ID=30781
-Fast-Acting Calcium Supplement Ⅰ
+Fast-acting Calcium Supplement Ⅰ
 When hit, 7% chance of +15% SG. (20s cooldown)
 .
 0
@@ -8287,7 +8287,7 @@ When hit, 7% chance of +15% SG. (20s cooldown)
 0
 
 ID=30782
-Fast-Acting Calcium Supplement Ⅱ
+Fast-acting Calcium Supplement Ⅱ
 When hit, 12% chance of +15% SG. (20s cooldown)
 .
 0
@@ -8295,7 +8295,7 @@ When hit, 12% chance of +15% SG. (20s cooldown)
 0
 
 ID=30783
-Fast-Acting Calcium Supplement Ⅲ
+Fast-acting Calcium Supplement Ⅲ
 When hit, 17% chance of +15% SG. (20s cooldown)
 .
 0
@@ -8303,7 +8303,7 @@ When hit, 17% chance of +15% SG. (20s cooldown)
 0
 
 ID=30791
-Fast-Acting Calcium Supplement Ⅰ
+Fast-acting Calcium Supplement Ⅰ
 When hit, 9% chance of +15% SG. (20s cooldown)
 .
 0
@@ -8311,7 +8311,7 @@ When hit, 9% chance of +15% SG. (20s cooldown)
 0
 
 ID=30792
-Fast-Acting Calcium Supplement Ⅱ
+Fast-acting Calcium Supplement Ⅱ
 When hit, 14% chance of +15% SG. (20s cooldown)
 .
 0
@@ -8319,7 +8319,7 @@ When hit, 14% chance of +15% SG. (20s cooldown)
 0
 
 ID=30793
-Fast-Acting Calcium Supplement Ⅲ
+Fast-acting Calcium Supplement Ⅲ
 When hit, 19% chance of +15% SG. (20s cooldown)
 .
 0
@@ -8327,7 +8327,7 @@ When hit, 19% chance of +15% SG. (20s cooldown)
 0
 
 ID=30801
-Judge Victor Ⅰ
+Victor's Law Ⅰ
 On hit, 7% chance of +200 Accuracy for 4s. (10s cooldown)
 .
 0
@@ -8335,7 +8335,7 @@ On hit, 7% chance of +200 Accuracy for 4s. (10s cooldown)
 0
 
 ID=30802
-Judge Victor Ⅱ
+Victor's Law Ⅱ
 On hit, 7% chance of +250 Accuracy for 4s. (10s cooldown)
 .
 0
@@ -8343,7 +8343,7 @@ On hit, 7% chance of +250 Accuracy for 4s. (10s cooldown)
 0
 
 ID=30803
-Judge Victor Ⅲ
+Victor's Law Ⅲ
 On hit, 7% chance of +300 Accuracy for 4s. (10s cooldown)
 .
 0
@@ -8351,7 +8351,7 @@ On hit, 7% chance of +300 Accuracy for 4s. (10s cooldown)
 0
 
 ID=30811
-Judge Victor Ⅰ
+Victor's Law Ⅰ
 On hit, 9% chance of +250 Accuracy for 4s. (10s cooldown)
 .
 0
@@ -8359,7 +8359,7 @@ On hit, 9% chance of +250 Accuracy for 4s. (10s cooldown)
 0
 
 ID=30812
-Judge Victor Ⅱ
+Victor's Law Ⅱ
 On hit, 9% chance of +300 Accuracy for 4s. (10s cooldown)
 .
 0
@@ -8367,7 +8367,7 @@ On hit, 9% chance of +300 Accuracy for 4s. (10s cooldown)
 0
 
 ID=30813
-Judge Victor Ⅲ
+Victor's Law Ⅲ
 On hit, 9% chance of +350 Accuracy for 4s. (10s cooldown)
 .
 0
@@ -8423,7 +8423,7 @@ When hit, 9% chance of +500 Evasion for 5s. (10s cooldown)
 0
 
 ID=30841
-Nimble Macho Man Ⅰ
+Nimble Macho Ⅰ
 When hit, 7% chance of +10% Attack for 2s. (10s cooldown)
 .
 0
@@ -8431,7 +8431,7 @@ When hit, 7% chance of +10% Attack for 2s. (10s cooldown)
 0
 
 ID=30842
-Nimble Macho Man Ⅱ
+Nimble Macho Ⅱ
 When hit, 7% chance of +15% Attack for 2.5s. (10s cooldown)
 .
 0
@@ -8439,7 +8439,7 @@ When hit, 7% chance of +15% Attack for 2.5s. (10s cooldown)
 0
 
 ID=30843
-Nimble Macho Man Ⅲ
+Nimble Macho Ⅲ
 When hit, 7% chance of +20% Attack for 3s. (10s cooldown)
 .
 0
@@ -8447,7 +8447,7 @@ When hit, 7% chance of +20% Attack for 3s. (10s cooldown)
 0
 
 ID=30851
-Nimble Macho Man Ⅰ
+Nimble Macho Ⅰ
 When hit, 9% chance of +10% Attack for 3.5s. (10s cooldown)
 .
 0
@@ -8455,7 +8455,7 @@ When hit, 9% chance of +10% Attack for 3.5s. (10s cooldown)
 0
 
 ID=30852
-Nimble Macho Man Ⅱ
+Nimble Macho Ⅱ
 When hit, 9% chance of +15% Attack for 4s. (10s cooldown)
 .
 0
@@ -8463,7 +8463,7 @@ When hit, 9% chance of +15% Attack for 4s. (10s cooldown)
 0
 
 ID=30853
-Nimble Macho Man Ⅲ
+Nimble Macho Ⅲ
 When hit, 9% chance of +20% Attack for 4.5s. (10s cooldown)
 .
 0
@@ -8471,7 +8471,7 @@ When hit, 9% chance of +20% Attack for 4.5s. (10s cooldown)
 0
 
 ID=30861
-Quadra Gang Assault Ⅰ
+Quad Assault Ⅰ
 On hit, 15% chance of +3% Attack Speed for 2.5s. (max 3 stacks)
 .
 0
@@ -8479,7 +8479,7 @@ On hit, 15% chance of +3% Attack Speed for 2.5s. (max 3 stacks)
 0
 
 ID=30862
-Quadra Gang Assault Ⅱ
+Quad Assault Ⅱ
 On hit, 15% chance of +3% Attack Speed for 3s. (max 3 stacks)
 .
 0
@@ -8487,7 +8487,7 @@ On hit, 15% chance of +3% Attack Speed for 3s. (max 3 stacks)
 0
 
 ID=30863
-Quadra Gang Assault Ⅲ
+Quad Assault Ⅲ
 On hit, 15% chance of +3% Attack Speed for 3.5s. (max 3 stacks)
 .
 0
@@ -8495,7 +8495,7 @@ On hit, 15% chance of +3% Attack Speed for 3.5s. (max 3 stacks)
 0
 
 ID=30871
-Quadra Gang Assault Ⅰ
+Quad Assault Ⅰ
 On hit, 15% chance of +5% Attack Speed for 2.5s. (max 3 stacks)
 .
 0
@@ -8503,7 +8503,7 @@ On hit, 15% chance of +5% Attack Speed for 2.5s. (max 3 stacks)
 0
 
 ID=30872
-Quadra Gang Assault Ⅱ
+Quad Assault Ⅱ
 On hit, 15% chance of +5% Attack Speed for 3.5s. (max 3 stacks)
 .
 0
@@ -8511,7 +8511,7 @@ On hit, 15% chance of +5% Attack Speed for 3.5s. (max 3 stacks)
 0
 
 ID=30873
-Quadra Gang Assault Ⅲ
+Quad Assault Ⅲ
 On hit, 15% chance of +5% Attack Speed for 4.5s. (max 3 stacks)
 .
 0
@@ -8815,16 +8815,16 @@ Can be used in A.R card Synthesis to gain Synthesis experience. It holds no stat
 0
 
 ID=31011
-Growling Stomach
-Gives twice the amount of experience of a normal cash card.
+Bulging Stomach
+Gives EXP ×2 of a common card.
 .
 0
 0
 0
 
 ID=31021
-Growling Stomach
-Gives thrice the amount of experience of a normal cash card.
+Bulging Stomach
+Gives EXP ×3 of a common card.
 .
 0
 0
@@ -8880,7 +8880,7 @@ Summons 10 Gluttons to fight alongside you for 35s. (90s cooldown)
 
 ID=31051
 Surprise Attack Pro Ⅰ
-On critical hit, 20% chance of +10% SG. (30s cooldown)
+On critical, 20% chance of +10% SG. (30s cooldown)
 .
 0
 0
@@ -8888,7 +8888,7 @@ On critical hit, 20% chance of +10% SG. (30s cooldown)
 
 ID=31052
 Surprise Attack Pro Ⅱ
-On critical hit, 20% chance of +13% SG. (30s cooldown)
+On critical, 20% chance of +13% SG. (30s cooldown)
 .
 0
 0
@@ -8896,7 +8896,7 @@ On critical hit, 20% chance of +13% SG. (30s cooldown)
 
 ID=31053
 Surprise Attack Pro Ⅲ
-On critical hit, 20% chance of +16% SG. (30s cooldown)
+On critical, 20% chance of +16% SG. (30s cooldown)
 .
 0
 0
@@ -8904,7 +8904,7 @@ On critical hit, 20% chance of +16% SG. (30s cooldown)
 
 ID=31061
 Surprise Attack Pro Ⅰ
-On critical hit, 20% chance of +12% SG. (30s cooldown)
+On critical, 20% chance of +12% SG. (30s cooldown)
 .
 0
 0
@@ -8912,7 +8912,7 @@ On critical hit, 20% chance of +12% SG. (30s cooldown)
 
 ID=31062
 Surprise Attack Pro Ⅱ
-On critical hit, 20% chance of +15% SG. (30s cooldown)
+On critical, 20% chance of +15% SG. (30s cooldown)
 .
 0
 0
@@ -8920,103 +8920,103 @@ On critical hit, 20% chance of +15% SG. (30s cooldown)
 
 ID=31063
 Surprise Attack Pro Ⅲ
-On critical hit, 20% chance of +18% SG. (30s cooldown)
+On critical, 20% chance of +18% SG. (30s cooldown)
 .
 0
 0
 0
 
 ID=31071
-Moving Wings Ⅰ
-On mid-air hit, 60% chance of +5% HP. (40s cooldown)
+Wings-in-motion Ⅰ
+On aerial hit, 60% chance of +5% HP. (40s cooldown)
 .
 0
 0
 0
 
 ID=31072
-Moving Wings Ⅱ
-On mid-air hit, 70% chance of +7% HP. (35s cooldown)
+Wings-in-motion Ⅱ
+On aerial hit, 70% chance of +7% HP. (35s cooldown)
 .
 0
 0
 0
 
 ID=31073
-Moving Wings Ⅲ
-On mid-air hit, 80% chance of +9% HP. (30s cooldown)
+Wings-in-motion Ⅲ
+On aerial hit, 80% chance of +9% HP. (30s cooldown)
 .
 0
 0
 0
 
 ID=31081
-Moving Wings Ⅰ
-On mid-air hit, 70% chance of +6% HP. (40s cooldown)
+Wings-in-motion Ⅰ
+On aerial hit, 70% chance of +6% HP. (40s cooldown)
 .
 0
 0
 0
 
 ID=31082
-Moving Wings Ⅱ
-On mid-air hit, 80% chance of +8% HP. (35s cooldown)
+Wings-in-motion Ⅱ
+On aerial hit, 80% chance of +8% HP. (35s cooldown)
 .
 0
 0
 0
 
 ID=31083
-Moving Wings Ⅲ
-On mid-air hit, 90% chance of +10% HP. (30s cooldown)
+Wings-in-motion Ⅲ
+On aerial hit, 90% chance of +10% HP. (30s cooldown)
 .
 0
 0
 0
 
 ID=31091
-Bird Monster Wings Ⅰ
-On hit, 10% chance for the next attack to deal +5% Attack for 2s. (8s cooldown)
+Bird Monster's Wings Ⅰ
+On hit, 10% chance of +5% Attack for next attack for 2s. (8s cooldown)
 .
 0
 0
 0
 
 ID=31092
-Bird Monster Wings Ⅱ
-On hit, 10% chance for the next attack to deal +7% Attack for 2s. (8s cooldown)
+Bird Monster's Wings Ⅱ
+On hit, 10% chance of +7% Attack for next attack for 2s. (8s cooldown)
 .
 0
 0
 0
 
 ID=31093
-Bird Monster Wings Ⅲ
-On hit, 10% chance for the next attack to deal +10% Attack for 2s. (8s cooldown)
+Bird Monster's Wings Ⅲ
+On hit, 10% chance of +10% Attack for next attack for 2s. (8s cooldown)
 .
 0
 0
 0
 
 ID=31101
-Bird Monster Wings Ⅰ
-On hit, 10% chance for the next attack to deal +6% Attack for 2s. (8s cooldown)
+Bird Monster's Wings Ⅰ
+On hit, 10% chance of +6% Attack for next attack for 2s. (8s cooldown)
 .
 0
 0
 0
 
 ID=31102
-Bird Monster Wings Ⅱ
-On hit, 10% chance for the next attack to deal +10% Attack for 2s. (8s cooldown)
+Bird Monster's Wings Ⅱ
+On hit, 10% chance of +10% Attack for next attack for 2s. (8s cooldown)
 .
 0
 0
 0
 
 ID=31103
-Bird Monster Wings Ⅲ
-On hit, 10% chance for the next attack to deal +15% Attack for 2s. (8s cooldown)
+Bird Monster's Wings Ⅲ
+On hit, 10% chance of +15% Attack for next attack for 2s. (8s cooldown)
 .
 0
 0
@@ -10152,7 +10152,7 @@ Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive2
 
 ID=14141
 Drastic Landing Ⅰ
-[スキル情報：基本攻撃]\nダメージ量：[126%]\nSA破壊量： [48%]\nSG消費量：[30]\nクールタイム：[25秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[630%]\nSA破壊量：[240%]\n\nブーストシールドを展開し、地面に叩き突け衝撃波を発生させる。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Basic]\nDamage: [126%]\nSA Break: [48%]\nSG Cost: [30]\nCooldown: [25s]\n\n[Additional]\nDamage: [630%]\nSA Break: [240%]\n\nDeploy the Boost Shield while in mid-air, slamming it down to the ground to cause shockwaves.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
 [Basic]\nDamage: [126%]+12%\nSA Break: [48%]+4%\n\n[Additional]\nDamage: [630%]+63%\nSA Break: [240%]+24%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_DrasticLanding
 0
@@ -10160,7 +10160,7 @@ Movie/Skill/PC_D/B_Skill_DrasticLanding
 
 ID=14142
 Drastic Landing Ⅱ
-[スキル情報：基本攻撃]\nダメージ量：[138%]\nSA破壊量： [52%]\nSG消費量：[30]\nクールタイム：[25秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[693%]\nSA破壊量：[264%]\n\nブーストシールドを展開し、地面に叩き突け衝撃波を発生させる。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Basic]\nDamage: [138%]\nSA Break: [52%]\nSG Cost: [30]\nCooldown: [25s]\n\n[Additional]\nDamage: [693%]\nSA Break: [264%]\n\nDeploy the Boost Shield while in mid-air, slamming it down to the ground to cause shockwaves.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
 [Basic]\nDamage: [138%]+17%\nSA Break: [52%]+7%\n\n[Additional]\nDamage: [693%]+83%\nSA Break: [264%]+32%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_DrasticLanding
 0
@@ -10168,7 +10168,7 @@ Movie/Skill/PC_D/B_Skill_DrasticLanding
 
 ID=14143
 Drastic Landing Ⅲ
-[スキル情報：基本攻撃]\nダメージ量：[155%]\nSA破壊量： [59%]\nSG消費量：[30]\nクールタイム：[25秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[776%]\nSA破壊量：[296%]\n\nブーストシールドを展開し、地面に叩き突け衝撃波を発生させる。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Basic]\nDamage: [155%]\nSA Break: [59%]\nSG Cost: [30]\nCooldown: [25s]\n\n[Additional]\nDamage: [776%]\nSA Break: [296%]\n\nDeploy the Boost Shield while in mid-air, slamming it down to the ground to cause shockwaves.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
 [Basic]\nDamage: [155%]+22%\nSA Break: [59%]+8%\n\n[Additional]\nDamage: [776%]+109%\nSA Break: [296%]+41%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_DrasticLanding
 0
@@ -10176,7 +10176,7 @@ Movie/Skill/PC_D/B_Skill_DrasticLanding
 
 ID=14144
 Drastic Landing Ⅳ
-[スキル情報：基本攻撃]\nダメージ量：[177%]\nSA破壊量： [67%]\nSG消費量：[30]\nクールタイム：[25秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[885%]\nSA破壊量：[337%]\n\nブーストシールドを展開し、地面に叩き突け衝撃波を発生させる。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Basic]\nDamage: [177%]\nSA Break: [67%]\nSG Cost: [30]\nCooldown: [25s]\n\n[Additional]\nDamage: [885%]\nSA Break: [337%]\n\nDeploy the Boost Shield while in mid-air, slamming it down to the ground to cause shockwaves.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
 [Basic]\nDamage: [177%]+32%\nSA Break: [67%]+12%\n\n[Additional]\nDamage: [885%]+160%\nSA Break: [337%]+61%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_DrasticLanding
 0
@@ -10184,7 +10184,7 @@ Movie/Skill/PC_D/B_Skill_DrasticLanding
 
 ID=14145
 Drastic Landing Ⅴ
-[スキル情報：基本攻撃]\nダメージ量：[209%]\nSA破壊量： [79%]\nSG消費量：[30]\nクールタイム：[25秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[1045%]\nSA破壊量：[398%]\n\nブーストシールドを展開し、地面に叩き突け衝撃波を発生させる。\n\n[操作方法]\nキーボード：空中で該当キーを入力\n(空中スキルは自動でクイックスロットに整列)
+[Basic]\nDamage: [209%]\nSA Break: [79%]\nSG Cost: [30]\nCooldown: [25s]\n\n[Additional]\nDamage: [1045%]\nSA Break: [398%]\n\nDeploy the Boost Shield while in mid-air, slamming it down to the ground to cause shockwaves.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air.\n(aerial skills are automatically registered to your skill slots)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_DrasticLanding
 0
@@ -11256,7 +11256,7 @@ null
 
 ID=31231
 Fortune Squad
-ミリアムが周りの味方のHPを45%回復する。(クールタイム60秒)
+Miriam recovers surrounding allies' HP by 45%. (60s cooldown)
 .
 0
 0
@@ -11264,7 +11264,7 @@ Fortune Squad
 
 ID=31232
 Fortune Squad
-ミリアムが周りの味方のHPとSGを45%回復する。(クールタイム60秒)
+Miriam recovers surrounding allies' HP and SG by 45%. (60s cooldown)
 .
 0
 0
@@ -11272,7 +11272,7 @@ Fortune Squad
 
 ID=31233
 Fortune Squad
-ミリアムが周りの味方のHPとSG、SVを45%回復する。(クールタイム60秒)
+Miriam recovers surrounding allies' HP, SG, and SV by 45%. (60s cooldown)
 .
 0
 0
@@ -11280,7 +11280,7 @@ Fortune Squad
 
 ID=31241
 Fortune Squad
-ミリアムが周りの味方のHPを75%回復する。(クールタイム60秒)
+Miriam recovers surrounding allies' HP by 75%. (60s cooldown)
 .
 0
 0
@@ -11288,7 +11288,7 @@ Fortune Squad
 
 ID=31242
 Fortune Squad
-ミリアムが周りの味方のHPとSGを75%回復する。(クールタイム60秒)
+Miriam recovers surrounding allies' HP and SG by 75%. (60s cooldown)
 .
 0
 0
@@ -11296,7 +11296,7 @@ Fortune Squad
 
 ID=31243
 Fortune Squad
-ミリアムが周りの味方のHPとSG、SVを75%回復する。(クールタイム60秒)
+Miriam recovers surrounding allies' HP, SG, and SV by 75%. (60s cooldown)
 .
 0
 0
@@ -11304,7 +11304,7 @@ Fortune Squad
 
 ID=31251
 Golden Sparks
-周りの敵に3連続攻撃をする。範囲7m/9m/11m(クールタイム60秒)
+Unleash 3 consecutive attacks to surrounding enemies. Range: 7m/9m/11m (60s cooldown)
 .
 0
 0
@@ -11312,7 +11312,7 @@ Golden Sparks
 
 ID=31252
 Golden Sparks
-周りの敵に3連続攻撃をする。範囲7m/9m/11m(クールタイム60秒)
+Unleash 3 consecutive attacks to surrounding enemies. Range: 7m/9m/11m (60s cooldown)
 .
 0
 0
@@ -11320,7 +11320,7 @@ Golden Sparks
 
 ID=31253
 Golden Sparks
-周りの敵に3連続攻撃をする。範囲7m/9m/11m(クールタイム60秒)
+Unleash 3 consecutive attacks to surrounding enemies. Range: 7m/9m/11m (60s cooldown)
 .
 0
 0
@@ -11328,7 +11328,7 @@ Golden Sparks
 
 ID=31261
 Golden Sparks
-周りの敵に強力な3連続攻撃をする。範囲7m/9m/11m(クールタイム60秒)
+Unleash 3 powerful consecutive attacks to surrounding enemies. Range: 7m/9m/11m (60s cooldown)
 .
 0
 0
@@ -11336,7 +11336,7 @@ Golden Sparks
 
 ID=31262
 Golden Sparks
-周りの敵に強力な3連続攻撃をする。範囲7m/9m/11m(クールタイム60秒)
+Unleash 3 powerful consecutive attacks to surrounding enemies. Range: 7m/9m/11m (60s cooldown)
 .
 0
 0
@@ -11344,7 +11344,7 @@ Golden Sparks
 
 ID=31263
 Golden Sparks
-周りの敵に強力な3連続攻撃をする。範囲7m/9m/11m(クールタイム60秒)
+Unleash 3 powerful consecutive attacks to surrounding enemies. Range: 7m/9m/11m (60s cooldown)
 .
 0
 0
@@ -11352,7 +11352,7 @@ Golden Sparks
 
 ID=31271
 Golden Glacier
-周りの敵には攻撃を、味方に5秒間ダメージ反射/ボス/ネームド追加ダメージ1段階のバフを付与する。(クールタイム60秒)
+Attacks surrounding enemies, and buffs allies with damage reflect and additional damage to Boss/Named enemies by 1 level for 5s. (60s cooldown)
 .
 0
 0
@@ -11360,7 +11360,7 @@ Golden Glacier
 
 ID=31272
 Golden Glacier
-周りの敵には攻撃を、味方に7秒間ダメージ反射/ボス/ネームド追加ダメージ2段階のバフを付与する。(クールタイム60秒)
+Attacks surrounding enemies, and buffs allies with damage reflect and additional damage to Boss/Named enemies by 2 levels for 7s. (60s cooldown)
 .
 0
 0
@@ -11368,7 +11368,7 @@ Golden Glacier
 
 ID=31273
 Golden Glacier
-周りの敵には攻撃を、味方に10秒間ダメージ反射/ボス/ネームド追加ダメージ3段階のバフを付与する。(クールタイム60秒)
+Attacks surrounding enemies, and buffs allies with damage reflect and additional damage to Boss/Named enemies by 3 levels for 10s. (60s cooldown)
 .
 0
 0
@@ -11376,7 +11376,7 @@ Golden Glacier
 
 ID=31281
 Golden Glacier
-周りの敵には強力な攻撃を、味方に7秒間ダメージ反射/ボス/ネームド追加ダメージ2段階のバフを付与する。(クールタイム60秒)
+Unleash powerful attacks to surrounding enemies, and buffs allies with damage reflect and additional damage to Boss/Named enemies by 2 levels for 7s. (60s cooldown)
 .
 0
 0
@@ -11384,7 +11384,7 @@ Golden Glacier
 
 ID=31282
 Golden Glacier
-周りの敵には強力な攻撃を、味方に10秒間ダメージ反射/ボス/ネームド追加ダメージ3段階のバフを付与する。(クールタイム60秒)
+Unleash powerful attacks to surrounding enemies, and buffs allies with damage reflect and additional damage to Boss/Named enemies by 3 levels for 10s. (60s cooldown)
 .
 0
 0
@@ -11392,7 +11392,7 @@ Golden Glacier
 
 ID=31283
 Golden Glacier
-周りの敵には強力な攻撃を、味方に13秒間ダメージ反射/ボス/ネームド追加ダメージ4段階のバフを付与する。(クールタイム60秒)
+Unleash powerful attacks to surrounding enemies, and buffs allies with damage reflect and additional damage to Boss/Named enemies by 4 levels for 13s. (60s cooldown)
 .
 0
 0
@@ -11400,7 +11400,7 @@ Golden Glacier
 
 ID=31291
 Golden Thunderbolt
-自分の周辺に雷をランダムで、8回打ち下ろす攻撃をする。 (クールタイム60秒)
+Thunderbolts randomly rain down around the user 8 times. (60s cooldown)
 .
 0
 0
@@ -11408,7 +11408,7 @@ Golden Thunderbolt
 
 ID=31292
 Golden Thunderbolt
-自分の周辺に雷をランダムで、10回打ち下ろす攻撃をする。 (クールタイム60秒)
+Thunderbolts randomly rain down around the user 10 times. (60s cooldown)
 .
 0
 0
@@ -11416,7 +11416,7 @@ Golden Thunderbolt
 
 ID=31293
 Golden Thunderbolt
-自分の周辺に雷をランダムで、12回打ち下ろす攻撃をする。 (クールタイム60秒)
+Thunderbolts randomly rain down around the user 12 times. (60s cooldown)
 .
 0
 0
@@ -11424,7 +11424,7 @@ Golden Thunderbolt
 
 ID=31301
 Golden Thunderbolt
-自分の周辺に強力な雷をランダムで、8回打ち下ろす攻撃をする。 (クールタイム60秒)
+Powerful thunderbolts randomly rain down around the user 8 times. (60s cooldown)
 .
 0
 0
@@ -11432,7 +11432,7 @@ Golden Thunderbolt
 
 ID=31302
 Golden Thunderbolt
-自分の周辺に強力な雷をランダムで、10回打ち下ろす攻撃をする。 (クールタイム60秒)
+Powerful thunderbolts randomly rain down around the user 10 times. (60s cooldown)
 .
 0
 0
@@ -11440,7 +11440,7 @@ Golden Thunderbolt
 
 ID=31303
 Golden Thunderbolt
-自分の周辺に強力な雷をランダムで、12回打ち下ろす攻撃をする。 (クールタイム60秒)
+Powerful thunderbolts randomly rain down around the user 12 times. (60s cooldown)
 .
 0
 0
@@ -11448,7 +11448,7 @@ Golden Thunderbolt
 
 ID=31311
 Golden Tempest
-周りの敵には攻撃を、味方には3秒間、最大ダメージを固定させるバフを付与する。(クールタイム60秒)
+Attacks surrounding enemies, and grants fixed max damage buff to allies for 3s. (60s cooldown)
 .
 0
 0
@@ -11456,7 +11456,7 @@ Golden Tempest
 
 ID=31312
 Golden Tempest
-周りの敵には攻撃を、味方には4秒間、最大ダメージを固定させるバフを付与する。(クールタイム60秒)
+Attacks surrounding enemies, and grants fixed max damage buff to allies for 4s. (60s cooldown)
 .
 0
 0
@@ -11464,7 +11464,7 @@ Golden Tempest
 
 ID=31313
 Golden Tempest
-周りの敵には攻撃を、味方には6秒間、最大ダメージを固定させるバフを付与する。(クールタイム60秒)
+Attacks surrounding enemies, and grants fixed max damage buff to allies for 6s. (60s cooldown)
 .
 0
 0
@@ -11472,7 +11472,7 @@ Golden Tempest
 
 ID=31321
 Golden Tempest
-周りの敵には強力な攻撃を、味方には4秒間、最大ダメージを固定させるバフを付与する。(クールタイム60秒)
+Unleash powerful attacks to surrounding enemies, and grants fixed max damage buff to allies for 4s. (60s cooldown)
 .
 0
 0
@@ -11480,7 +11480,7 @@ Golden Tempest
 
 ID=31322
 Golden Tempest
-周りの敵には強力な攻撃を、味方には6秒間、最大ダメージを固定させるバフを付与する。(クールタイム60秒)
+Unleash powerful attacks to surrounding enemies, and grants fixed max damage buff to allies for 6s. (60s cooldown)
 .
 0
 0
@@ -11488,7 +11488,7 @@ Golden Tempest
 
 ID=31323
 Golden Tempest
-周りの敵には強力な攻撃を、味方には8秒間、最大ダメージを固定させるバフを付与する。(クールタイム60秒)
+Unleash powerful attacks to surrounding enemies, and grants fixed max damage buff to allies for 8s. (60s cooldown)
 .
 0
 0
@@ -11496,7 +11496,7 @@ Golden Tempest
 
 ID=31331
 Golden Light
-前方の敵に向かってレーザーを発射する攻撃をする。(クールタイム60秒)
+Fires a laser towards the enemies. (60s cooldown)
 .
 0
 0
@@ -11504,7 +11504,7 @@ Golden Light
 
 ID=31332
 Golden Light
-前方の敵に向かってレーザーを発射する攻撃をする。(クールタイム60秒)
+Fires a laser towards the enemies. (60s cooldown)
 .
 0
 0
@@ -11512,7 +11512,7 @@ Golden Light
 
 ID=31333
 Golden Light
-前方の敵に向かってレーザーを発射する攻撃をする。(クールタイム60秒)
+Fires a laser towards the enemies. (60s cooldown)
 .
 0
 0
@@ -11520,7 +11520,7 @@ Golden Light
 
 ID=31341
 Golden Light
-前方の敵に向かって強力なレーザーを発射する攻撃をする。(クールタイム60秒)
+Fires a powerful laser towards the enemies. (60s cooldown)
 .
 0
 0
@@ -11528,7 +11528,7 @@ Golden Light
 
 ID=31342
 Golden Light
-前方の敵に向かって強力なレーザーを発射する攻撃をする。(クールタイム60秒)
+Fires a powerful laser towards the enemies. (60s cooldown)
 .
 0
 0
@@ -11536,7 +11536,7 @@ Golden Light
 
 ID=31343
 Golden Light
-前方の敵に向かって強力なレーザーを発射する攻撃をする。(クールタイム60秒)
+Fires a powerful laser towards the enemies. (60s cooldown)
 .
 0
 0
@@ -11561,6 +11561,14 @@ Movie/Skill/PC_A/B_Skill_Trollsverd
 ID=11143
 Trollsverd Ⅲ
 [Basic]\nDamage: [2042%]\nSA Break: [2252%]\nSG Cost: [50]\nCooldown: [40s]\n\n[Additional]\nDamage: [204%]\nSA Break: [225%]\n\nTurn the weapon to a light sword [Trollsverd] using Soul Energy, mowing down enemies.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [2042%]+286%\nSA Break: [2252%]+316%\n\n[Additional]\nDamage: [204%]+28%\nSA Break: [225%]+31%
+Icon/Skill/SoulumSword/Icon_Ssword_Skill_Trollsverd
+0
+Movie/Skill/PC_A/B_Skill_Trollsverd
+
+ID=11144
+Trollsverd Ⅳ
+[Basic]\nDamage: [2328%]\nSA Break: [2568%]\nSG Cost: [50]\nCooldown: [40s]\n\n[Additional]\nDamage: [232%]\nSA Break: [256%]\n\nTurn the weapon to a light sword [Trollsverd] using Soul Energy, mowing down enemies.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_Trollsverd
 0
@@ -11585,6 +11593,14 @@ Movie/Skill/PC_B/B_Skill_SwallowBullet
 ID=12163
 Swallow Bullet Ⅲ
 [Basic]\nDamage: [192%]\nSA Break: [209%]\nSG Cost: [4]\nCooldown: [45s]\n\n[Additional]\nDamage: [480%]\nSA Break: [522%]\n\nFire a special bullet that ricochets multiple times within a certain range, piercing and attacking enemies.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [192%]+26%\nSA Break: [209%]+29%\n\n[Additional]\nDamage: [480%]+66%\nSA Break: [522%]+73%
+Icon/Skill/GunJazz/Icon_GJazz_Skill_Deadline
+0
+Movie/Skill/PC_B/B_Skill_SwallowBullet
+
+ID=12164
+Swallow Bullet Ⅳ
+[Basic]\nDamage: [218%]\nSA Break: [238%]\nSG Cost: [4]\nCooldown: [45s]\n\n[Additional]\nDamage: [546%]\nSA Break: [595%]\n\nFire a special bullet that ricochets multiple times within a certain range, piercing and attacking enemies.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/GunJazz/Icon_GJazz_Skill_Deadline
 0
@@ -11609,6 +11625,14 @@ Movie/Skill/PC_C/B_Skill_LeashedBest
 ID=13173
 Leashed Beast Ⅲ
 [Basic]\nDamage: [396%]\nSA Break: [404%]\nSG Cost: [55]\nCooldown: [40s]\n\n[Additional]\nDamage: [528%]\nSA Break: [539%]\n\nAfter summoning a Soul Energy sphere, jump and cut it down with full force. The sphere pulls and attacks surrounding enemies, which then explodes after getting cut down.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [396%]+55%\nSA Break: [404%]+56%\n\n[Additional]\nDamage: [528%]+73%\nSA Break: [539%]+75%
+Icon/Skill/Mistscythe/Icon_Mcythe_Skill_LeashedBeast
+0
+Movie/Skill/PC_C/B_Skill_LeashedBest
+
+ID=13174
+Leashed Beast Ⅳ
+[Basic]\nDamage: [451%]\nSA Break: [460%]\nSG Cost: [55]\nCooldown: [40s]\n\n[Additional]\nDamage: [601%]\nSA Break: [614%]\n\nAfter summoning a Soul Energy sphere, jump and cut it down with full force. The sphere pulls and attacks surrounding enemies, which then explodes after getting cut down.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_LeashedBeast
 0
@@ -11616,7 +11640,7 @@ Movie/Skill/PC_C/B_Skill_LeashedBest
 
 ID=14161
 Barrett Straight Ⅰ
-[Basic]\nDamage: [749%]\nSA Break: [825%]\nSG Cost: [55]\nCooldown: [45s]\n\n[Additional]\nDamage: [448%]\nSA Break: [494%]\n\nAmass Soul Energy to your right fist then rush in with full force.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [749%]\nSA Break: [825%]\nSG Cost: [55]\nCooldown: [40s]\n\n[Additional]\nDamage: [448%]\nSA Break: [494%]\n\nAmass Soul Energy to your right fist then rush in with full force.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 [Basic]\nDamage: [749%]+75%\nSA Break: [825%]+83%\n\n[Additional]\nDamage: [448%]+45%\nSA Break: [494%]+50%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_BarrettStraight
 0
@@ -11624,7 +11648,7 @@ Movie/Skill/PC_D/B_Skill_BarrettStraight
 
 ID=14162
 Barrett Straight Ⅱ
-[Basic]\nDamage: [824%]\nSA Break: [908%]\nSG Cost: [55]\nCooldown: [45s]\n\n[Additional]\nDamage: [493%]\nSA Break: [544%]\n\nAmass Soul Energy to your right fist then rush in with full force.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [824%]\nSA Break: [908%]\nSG Cost: [55]\nCooldown: [40s]\n\n[Additional]\nDamage: [493%]\nSA Break: [544%]\n\nAmass Soul Energy to your right fist then rush in with full force.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 [Basic]\nDamage: [749%]+75%\nSA Break: [825%]+83%\n\n[Additional]\nDamage: [448%]+45%\nSA Break: [494%]+50%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_BarrettStraight
 0
@@ -11632,7 +11656,15 @@ Movie/Skill/PC_D/B_Skill_BarrettStraight
 
 ID=14163
 Barrett Straight Ⅲ
-[Basic]\nDamage: [924%]\nSA Break: [1018%]\nSG Cost: [55]\nCooldown: [45s]\n\n[Additional]\nDamage: [553%]\nSA Break: [610%]\n\nAmass Soul Energy to your right fist then rush in with full force.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [924%]\nSA Break: [1018%]\nSG Cost: [55]\nCooldown: [40s]\n\n[Additional]\nDamage: [553%]\nSA Break: [610%]\n\nAmass Soul Energy to your right fist then rush in with full force.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [924%]+129%\nSA Break: [1018%]+142%\n\n[Additional]\nDamage: [553%]+77%\nSA Break: [610%]+85%
+Icon/Skill/SpritArms/Icon_Sprit_Skill_BarrettStraight
+0
+Movie/Skill/PC_D/B_Skill_BarrettStraight
+
+ID=14164
+Barrett Straight Ⅳ
+[Basic]\nDamage: [1053%]\nSA Break: [1160%]\nSG Cost: [55]\nCooldown: [40s]\n\n[Additional]\nDamage: [630%]\nSA Break: [695%]\n\nAmass Soul Energy to your right fist then rush in with full force.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_BarrettStraight
 0
@@ -11657,6 +11689,14 @@ Movie/Skill/PC_E/B_Skill_GhostHunt
 ID=15163
 Ghosty Hunt Ⅲ
 [Info]\nDamage: [536%]\nSA Break: [570%]\nSG Cost: [40]\nCooldown: [40s]\n\nStella summons her friend to attack enemies.\nIn Support Mode, her friend unleashes a concentrated breath attack.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [536%]+75%\nSA Break: [570%]+79%
+Icon/Skill/Howling/Icon_Howling_Skill_GhostyHunt
+0
+Movie/Skill/PC_E/B_Skill_GhostHunt
+
+ID=15164
+Ghosty Hunt Ⅳ
+[Info]\nDamage: [611%]\nSA Break: [649%]\nSG Cost: [40]\nCooldown: [40s]\n\nStella summons her friend to attack enemies.\nIn Support Mode, her friend unleashes a concentrated breath attack.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_GhostyHunt
 0
@@ -11681,6 +11721,14 @@ Movie/Skill/PC_F/B_Skill_RapidVulcan
 ID=16163
 Rapid Vulcan Ⅲ
 [Info]\nDamage: [129%]\nSA Break: [164%]\nSG Cost: [60]\nCooldown: [40s]\n\nTurn the hammer to a machine gun, indiscriminately firing normal bullets and guided missiles.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [129%]+18%\nSA Break: [164%]+22%
+Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_Expocalypse
+0
+Movie/Skill/PC_F/B_Skill_RapidVulcan
+
+ID=16164
+Rapid Vulcan Ⅳ
+[Info]\nDamage: [147%]\nSA Break: [186%]\nSG Cost: [60]\nCooldown: [40s]\n\nTurn the hammer to a machine gun, indiscriminately firing normal bullets and guided missiles.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_Expocalypse
 0
@@ -11688,7 +11736,7 @@ Movie/Skill/PC_F/B_Skill_RapidVulcan
 
 ID=31351
 Saturation Attack
-35秒間ラルフが周辺の敵に攻撃する。(クールタイム90秒)
+Ralph attacks surrounding enemies for 35s. (90s cooldown)
 .
 0
 0
@@ -11696,7 +11744,7 @@ Saturation Attack
 
 ID=31352
 Saturation Attack
-45秒の間ラルフが周辺の敵に攻撃する。グレネードランチャーで追加攻撃する。(クールタイム90秒)
+Ralph attacks surrounding enemies for 45s. Unlocks Grenade Launcher to his arsenal. (90s cooldown)
 .
 0
 0
@@ -11704,7 +11752,7 @@ Saturation Attack
 
 ID=31353
 Saturation Attack
-60秒間ラルフが周辺の敵に攻撃する。手榴弾で追加攻撃する。(クールタイム90秒)
+Ralph attacks surrounding enemies for 60s. Unlocks Hand Grenade to his arsenal. (90s cooldown)
 .
 0
 0
@@ -11712,7 +11760,7 @@ Saturation Attack
 
 ID=31361
 Saturation Attack
-35秒間ラルフが周辺の敵に強力な攻撃する。(クールタイム90秒)
+Ralph unleashes powerful attacks to surrounding enemies for 35s. (90s cooldown)
 .
 0
 0
@@ -11720,7 +11768,7 @@ Saturation Attack
 
 ID=31362
 Saturation Attack
-45秒の間ラルフが周辺の敵に強力な攻撃する。グレネードランチャーで追加攻撃する。(クールタイム90秒)
+Ralph unleashes powerful attacks to surrounding enemies for 45s. Unlocks Grenade Launcher to his arsenal. (90s cooldown)
 .
 0
 0
@@ -11728,7 +11776,7 @@ Saturation Attack
 
 ID=31363
 Saturation Attack
-60秒間ラルフが周辺の敵に強力な攻撃する。手榴弾で追加攻撃する。(クールタイム90秒)
+Ralph unleashes powerful attacks to surrounding enemies for 60s. Unlocks Hand Grenade to his arsenal. (90s cooldown)
 .
 0
 0
@@ -12344,7 +12392,7 @@ Movie/Skill/PC_G/B_Skill_PeregrineFalcon
 
 ID=17081
 Cat Sword - Fourth Form: Moon Slash Ⅰ
-[スキル情報]\nダメージ量：[290%]\nSA破壊量：[260%]\nSG消費量：[45]\nクールタイム：[22秒]\n\n回転切りで敵を打ち上げます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:ジャンプ後(左クリック)
+[Info]\nDamage: [290%]\nSA Break: [260%]\nSG Cost: [45]\nCooldown: [22s]\n\nLaunch enemies with a spin attack. Do a follow-up attack in mid-air by pressing left-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: After jumping (LMB)
 Damage: [290%]+29%\nSA Break: [260%]+25%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep
 0
@@ -12352,15 +12400,15 @@ Movie/Skill/PC_G/B_Skill_MoonStep
 
 ID=17082
 Cat Sword - Fourth Form: Moon Slash Ⅱ
-[スキル情報]\nダメージ量：[319%]\nSA破壊量：[286%]\nSG消費量：[45]\nクールタイム：[22秒]\n\n回転切りで敵を打ち上げます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:ジャンプ後(左クリック)
-[スキル情報]\nダメージ量：[319%]+38%\nSA破壊量：[285%]+34%
+[Info]\nDamage: [319%]\nSA Break: [286%]\nSG Cost: [45]\nCooldown: [22s]\n\nLaunch enemies with a spin attack. Do a follow-up attack in mid-air by pressing left-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: After jumping (LMB)
+Damage: [319%]+38%\nSA Break: [285%]+34%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep
 0
 Movie/Skill/PC_G/B_Skill_MoonStep
 
 ID=17083
 Cat Sword - Fourth Form: Moon Slash Ⅲ
-[スキル情報]\nダメージ量：[357%]\nSA破壊量：[320%]\nSG消費量：[45]\nクールタイム：[22秒]\n\n回転切りで敵を打ち上げます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:ジャンプ後(左クリック)
+[Info]\nDamage: [357%]\nSA Break: [320%]\nSG Cost: [45]\nCooldown: [22s]\n\nLaunch enemies with a spin attack. Do a follow-up attack in mid-air by pressing left-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: After jumping (LMB)
 Damage: [357%]+50%\nSA Break: [320%]+45%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep
 0
@@ -12368,7 +12416,7 @@ Movie/Skill/PC_G/B_Skill_MoonStep
 
 ID=17084
 Cat Sword - Fourth Form: Moon Slash Ⅳ
-[スキル情報]\nダメージ量：[407%]\nSA破壊量：[365%]\nSG消費量：[45]\nクールタイム：[22秒]\n\n回転切りで敵を打ち上げます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:ジャンプ後(左クリック)
+[Info]\nDamage: [407%]\nSA Break: [365%]\nSG Cost: [45]\nCooldown: [22s]\n\nLaunch enemies with a spin attack. Do a follow-up attack in mid-air by pressing left-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: After jumping (LMB)
 Damage: [407%]+73%\nSA Break: [365%]+66%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep
 0
@@ -12376,7 +12424,7 @@ Movie/Skill/PC_G/B_Skill_MoonStep
 
 ID=17085
 Cat Sword - Fourth Form: Moon Slash Ⅴ
-[スキル情報]\nダメージ量：[480%]\nSA破壊量：[431%]\nSG消費量：[45]\nクールタイム：[22秒]\n\n回転切りで敵を打ち上げます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:ジャンプ後(左クリック)
+[Info]\nDamage: [480%]\nSA Break: [431%]\nSG Cost: [45]\nCooldown: [22s]\n\nLaunch enemies with a spin attack. Do a follow-up attack in mid-air by pressing left-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: After jumping (LMB)
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep
 0
@@ -12464,39 +12512,39 @@ Movie/Skill/PC_G/B_Skill_AccelearateGrinder
 
 ID=17111
 Cat Sword - Zeroth Form: Blade Tempest Ⅰ
-[スキル情報：基本攻撃]\nダメージ量：[97%]\nSA破壊量：[152%]\nSG消費量：[45]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[484%]\nSA破壊量：[762%]\n\n素早い抜刀により、広域範囲に連撃を与えます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
-[スキル情報：基本攻撃]\nダメージ量：[97%]+9%\nSA破壊量：[152%]+16%\n\n[スキル情報：追加攻撃]\nダメージ量：[484%]+48%\nSA破壊量：[762%]+77%
+[Basic]\nDamage: [97%]\nSA Break: [152%]\nSG Cost: [45]\nCooldown: [35s]\n\n[Additional]\nDamage: [484%]\nSA Break: [762%]\n\nUnleash a series of attacks over a wide area with a quick sword draw.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [97%]+9%\nSA Break: [152%]+16%\n\n[Additional]\nDamage: [484%]+48%\nSA Break: [762%]+77%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty
 
 ID=17112
 Cat Sword - Zeroth Form: Blade Tempest Ⅱ
-[スキル情報：基本攻撃]\nダメージ量：[106%]\nSA破壊量：[168%]\nSG消費量：[45]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[532%]\nSA破壊量：[839%]\n\n素早い抜刀により、広域範囲に連撃を与えます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
-[スキル情報：基本攻撃]\nダメージ量：[106%]+22%\nSA破壊量：[168%]+20%\n\n[スキル情報：追加攻撃]\nダメージ量：[532%]+107%\nSA破壊量：[839%]+100%
+[Basic]\nDamage: [106%]\nSA Break: [168%]\nSG Cost: [45]\nCooldown: [35s]\n\n[Additional]\nDamage: [532%]\nSA Break: [839%]\n\nUnleash a series of attacks over a wide area with a quick sword draw.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [106%]+22%\nSA Break: [168%]+20%\n\n[Additional]\nDamage: [532%]+107%\nSA Break: [839%]+100%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty
 
 ID=17113
 Cat Sword - Zeroth Form: Blade Tempest Ⅲ
-[スキル情報：基本攻撃]\nダメージ量：[128%]\nSA破壊量：[188%]\nSG消費量：[45]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[639%]\nSA破壊量：[939%]\n\n素早い抜刀により、広域範囲に連撃を与えます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
-[スキル情報：基本攻撃]\nダメージ量：[128%]+25%\nSA破壊量：[188%]+26%\n\n[スキル情報：追加攻撃]\nダメージ量：[639%]+127%\nSA破壊量：[939%]+132%
+[Basic]\nDamage: [128%]\nSA Break: [188%]\nSG Cost: [45]\nCooldown: [35s]\n\n[Additional]\nDamage: [639%]\nSA Break: [939%]\n\nUnleash a series of attacks over a wide area with a quick sword draw.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [128%]+25%\nSA Break: [188%]+26%\n\n[Additional]\nDamage: [639%]+127%\nSA Break: [939%]+132%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty
 
 ID=17114
 Cat Sword - Zeroth Form: Blade Tempest Ⅳ
-[スキル情報：基本攻撃]\nダメージ量：[153%]\nSA破壊量：[214%]\nSG消費量：[45]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[766%]\nSA破壊量：[1071%]\n\n素早い抜刀により、広域範囲に連撃を与えます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
-[スキル情報：基本攻撃]\nダメージ量：[153%]+46%\nSA破壊量：[214%]+39%\n\n[スキル情報：追加攻撃]\nダメージ量：[766%]+230%\nSA破壊量：[1071%]+192%
+[Basic]\nDamage: [153%]\nSA Break: [214%]\nSG Cost: [45]\nCooldown: [35s]\n\n[Additional]\nDamage: [766%]\nSA Break: [1071%]\n\nUnleash a series of attacks over a wide area with a quick sword draw.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [153%]+46%\nSA Break: [214%]+39%\n\n[Additional]\nDamage: [766%]+230%\nSA Break: [1071%]+192%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty
 
 ID=17115
 Cat Sword - Zeroth Form: Blade Tempest Ⅴ
-[スキル情報：基本攻撃]\nダメージ量：[199%]\nSA破壊量：[253%]\nSG消費量：[45]\nクールタイム：[35秒]\n\n[スキル情報：追加攻撃]\nダメージ量：[996%]\nSA破壊量：[1263%]\n\n素早い抜刀により、広域範囲に連撃を与えます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
+[Basic]\nDamage: [199%]\nSA Break: [253%]\nSG Cost: [45]\nCooldown: [35s]\n\n[Additional]\nDamage: [996%]\nSA Break: [1263%]\n\nUnleash a series of attacks over a wide area with a quick sword draw.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty
 0
@@ -12840,23 +12888,23 @@ Movie/Skill/PC_G/B_Skill_AccelearateGrinder_A
 
 ID=27111
 Hit Increase Ⅰ
-[特性情報：基本攻撃]\nダメージ量：[199%]\nSA破壊量：[253%]\n\n[特性情報：追加攻撃]\nダメージ量：[1494%]\nSA破壊量：[1894%]\n\n追加攻撃の攻撃回数が増加します。
-[特性情報：基本攻撃]\nダメージ量：[199%]+20％\nSA破壊量：[253%]+22％\n\n[特性情報：追加攻撃]\nダメージ量：[1494%]+150%\nSA破壊量：[1894%] +171%
+[Basic]\nDamage: [199%]\nSA Break: [253%]\n\n[Additional]\nDamage: [1494%]\nSA Break: [1894%]\n\nIncreases the number of attacks.
+[Basic]\nDamage: [199%]+20%\nSA Break: [253%]+22%\n\n[Additional]\nDamage: [1494%]+150%\nSA Break: [1894%]+171%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty_A
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty_A
 
 ID=27112
 Hit Increase Ⅱ
-[特性情報：基本攻撃]\nダメージ量：[219%]\nSA破壊量：[275%]\n\n[特性情報：追加攻撃]\nダメージ量：[1644%]\nSA破壊量：[2065%]\n\n追加攻撃の攻撃回数が増加します。
-[特性情報：基本攻撃]\nダメージ量：[219%]+46％\nSA破壊量：[275%]+42％\n\n[特性情報：追加攻撃]\nダメージ量：[1644%]+345%\nSA破壊量：[2065%] +309%
+[Basic]\nDamage: [219%]\nSA Break: [275%]\n\n[Additional]\nDamage: [1644%]\nSA Break: [2065%]\n\nIncreases the number of attacks.
+[Basic]\nDamage: [219%]+46%\nSA Break: [275%]+42%\n\n[Additional]\nDamage: [1644%]+345%\nSA Break: [2065%]+309%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty_A
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty_A
 
 ID=27113
 Hit Increase Ⅲ
-[特性情報：基本攻撃]\nダメージ量：[265%]\nSA破壊量：[317%]\n\n[特性情報：追加攻撃]\nダメージ量：[1989%]\nSA破壊量：[2374%]\n\n追加攻撃の攻撃回数が増加します。
+[Basic]\nDamage: [265%]\nSA Break: [317%]\n\n[Additional]\nDamage: [1989%]\nSA Break: [2374%]\n\nIncreases the number of attacks.
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty_A
 0
@@ -12888,7 +12936,7 @@ Movie/Skill/PC_G/B_Skill_Thunderbolt_A
 
 ID=7171
 Wild Instincts Ⅰ
-[スキル情報]\nパッシブ効果：特性[黒い血]を持つスキルを使用した時、バフ効果[漆黒の血]を付与する。\n\nバフ効果：SA破壊量[5%]、クリティカル率[5%]増加\nバフ持続時間：[10秒]
+[Info]\nPassive Effect: Receive the [Jet Black Blood] buff when using skills with the [Black Blood] extension.\n\nBuff Effect: +[5%] SA Break & Critical\nBuff Duration: [10s]
 SA Break: [5%]+2%\nCritical: [5%]+2%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive2
 0
@@ -12896,7 +12944,7 @@ Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive2
 
 ID=7172
 Wild Instincts Ⅱ
-[スキル情報]\nパッシブ効果：特性[黒い血]を持つスキルを使用した時、バフ効果[漆黒の血]を付与する。\n\nバフ効果：SA破壊量[7%]、クリティカル率[7%]増加\nバフ持続時間：[10秒]
+[Info]\nPassive Effect: Receive the [Jet Black Blood] buff when using skills with the [Black Blood] extension.\n\nBuff Effect: +[7%] SA Break & Critical\nBuff Duration: [10s]
 SA Break: [7%]+3%\nCritical: [7%]+3%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive2
 0
@@ -12904,7 +12952,7 @@ Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive2
 
 ID=7173
 Wild Instincts Ⅲ
-[スキル情報]\nパッシブ効果：特性[黒い血]を持つスキルを使用した時、バフ効果[漆黒の血]を付与する。\n\nバフ効果：SA破壊量[10%]、クリティカル率[10%]増加\nバフ持続時間：[10秒]
+[Info]\nPassive Effect: Receive the [Jet Black Blood] buff when using skills with the [Black Blood] extension.\n\nBuff Effect: +[10%] SA Break & Critical\nBuff Duration: [10s]
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive2
 0
@@ -12912,39 +12960,39 @@ Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive2
 
 ID=17141
 Cat Sword - Revised First Form: Thunderclap Arrow Ⅰ
-[スキル情報：基本攻撃]\nダメージ量：[354%]\nSA破壊量：[325%]\nSG消費量：[35]\nクールタイム：[35秒]\n\n空中で弓を構え、爆散する矢を放ちます。\nチャージにより、威力上昇させ、矢を収束させます。\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック長押し）
-[スキル情報：基本攻撃]\nダメージ量：[354%]+35％\nSA破壊量：[325%]+33％
+[Basic]\nDamage: [354%]\nSA Break: [325%]\nSG Cost: [35]\nCooldown: [35s]\n\nReady the bow while in mid-air, firing exploding arrows.\nRaises output and converges arrows when charged.\n\n[Usage: Mid-air]\nMouse: After jumping (Hold LMB)
+Damage: [354%]+35%\nSA Break: [325%]+33%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GaleArrow
 0
 Movie/Skill/PC_G/B_Skill_GaleArrow
 
 ID=17142
 Cat Sword - Revised First Form: Thunderclap Arrow Ⅱ
-[スキル情報：基本攻撃]\nダメージ量：[389%]\nSA破壊量：[358%]\nSG消費量：[35]\nクールタイム：[35秒]\n\n空中で弓を構え、爆散する矢を放ちます。\nチャージにより、威力上昇させ、矢を収束させます。\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック長押し）
-[スキル情報：基本攻撃]\nダメージ量：[389%]+40％\nSA破壊量：[358%]+43％
+[Basic]\nDamage: [389%]\nSA Break: [358%]\nSG Cost: [35]\nCooldown: [35s]\n\nReady the bow while in mid-air, firing exploding arrows.\nRaises output and converges arrows when charged.\n\n[Usage: Mid-air]\nMouse: After jumping (Hold LMB)
+Damage: [389%]+40%\nSA Break: [358%]+43%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GaleArrow
 0
 Movie/Skill/PC_G/B_Skill_GaleArrow
 
 ID=17143
 Cat Sword - Revised First Form: Thunderclap Arrow Ⅲ
-[スキル情報：基本攻撃]\nダメージ量：[429%]\nSA破壊量：[401%]\nSG消費量：[35]\nクールタイム：[35秒]\n\n空中で弓を構え、爆散する矢を放ちます。\nチャージにより、威力上昇させ、矢を収束させます。\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック長押し）
-[スキル情報：基本攻撃]\nダメージ量：[429%]+85％\nSA破壊量：[401%]+57％
+[Basic]\nDamage: [429%]\nSA Break: [401%]\nSG Cost: [35]\nCooldown: [35s]\n\nReady the bow while in mid-air, firing exploding arrows.\nRaises output and converges arrows when charged.\n\n[Usage: Mid-air]\nMouse: After jumping (Hold LMB)
+Damage: [429%]+85%\nSA Break: [401%]+57%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GaleArrow
 0
 Movie/Skill/PC_G/B_Skill_GaleArrow
 
 ID=17144
 Cat Sword - Revised First Form: Thunderclap Arrow Ⅳ
-[スキル情報：基本攻撃]\nダメージ量：[514%]\nSA破壊量：[458%]\nSG消費量：[35]\nクールタイム：[35秒]\n\n空中で弓を構え、爆散する矢を放ちます。\nチャージにより、威力上昇させ、矢を収束させます。\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック長押し）
-[スキル情報：基本攻撃]\nダメージ量：[514%]+156％\nSA破壊量：[458%]+82％
+[Basic]\nDamage: [514%]\nSA Break: [458%]\nSG Cost: [35]\nCooldown: [35s]\n\nReady the bow while in mid-air, firing exploding arrows.\nRaises output and converges arrows when charged.\n\n[Usage: Mid-air]\nMouse: After jumping (Hold LMB)
+Damage: [514%]+156%\nSA Break: [458%]+82%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GaleArrow
 0
 Movie/Skill/PC_G/B_Skill_GaleArrow
 
 ID=17145
 Cat Sword - Revised First Form: Thunderclap Arrow Ⅴ
-[スキル情報：基本攻撃]\nダメージ量：[670%]\nSA破壊量：[540%]\nSG消費量：[35]\nクールタイム：[35秒]\n\n空中で弓を構え、爆散する矢を放ちます。\nチャージにより、威力上昇させ、矢を収束させます。\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック長押し）
+[Basic]\nDamage: [670%]\nSA Break: [540%]\nSG Cost: [35]\nCooldown: [35s]\n\nReady the bow while in mid-air, firing exploding arrows.\nRaises output and converges arrows when charged.\n\n[Usage: Mid-air]\nMouse: After jumping (Hold LMB)
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GaleArrow
 0
@@ -12992,31 +13040,31 @@ Movie/Skill/PC_G/B_Skill_RedVine
 
 ID=17161
 Predator's Dignity Ⅰ
-[スキル情報]\nダメージ量：[2207%]\nSA破壊量：[2414%]\nSG消費量：[50]\nクールタイム：[45秒]\n\n空中に飛び上がって前方の敵に強力な攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
-[スキル情報：基本攻撃]\nダメージ量：[2207%]+220％\nSA破壊量：[2414%]+242％
+[Info]\nDamage: [2207%]\nSA Break: [2414%]\nSG Cost: [50]\nCooldown: [45s]\n\nJump and unleash powerful attacks to enemies.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [2207%]+220%\nSA Break: [2414%]+242%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DevilsToy
 0
 Movie/Skill/PC_G/B_Skill_DevilsToy
 
 ID=17162
 Predator's Dignity Ⅱ
-[スキル情報]\nダメージ量：[2427%]\nSA破壊量：[2656%]\nSG消費量：[50]\nクールタイム：[45秒]\n\n空中に飛び上がって前方の敵に強力な攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
-[スキル情報：基本攻撃]\nダメージ量：[2427%]+304％\nSA破壊量：[2656%]+319％
+[Info]\nDamage: [2427%]\nSA Break: [2656%]\nSG Cost: [50]\nCooldown: [45s]\n\nJump and unleash powerful attacks to enemies.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [2427%]+304%\nSA Break: [2656%]+319%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DevilsToy
 0
 Movie/Skill/PC_G/B_Skill_DevilsToy
 
 ID=17163
 Predator's Dignity Ⅲ
-[スキル情報：基本攻撃]\nダメージ量：[2731%]\nSA破壊量：[2975%]\nSG消費量：[50]\nクールタイム：[45秒]\n\n空中に飛び上がって前方の敵に強力な攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
-LvMax
+[Info]\nDamage: [2731%]\nSA Break: [2975%]\nSG Cost: [50]\nCooldown: [45s]\n\nJump and unleash powerful attacks to enemies.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [2731%]+409%\nSA Break: [2975%]+417%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DevilsToy
 0
 Movie/Skill/PC_G/B_Skill_DevilsToy
 
 ID=17164
 Predator's Dignity Ⅳ
-[スキル情報：基本攻撃]\nダメージ量：[%]\nSA破壊量：[%]\nSG消費量：[]\nクールタイム：[秒]\n\n空中に飛び上がって前方の敵に強力な攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
+[Info]\nDamage: [3140%]\nSA Break: [3392%]\nSG Cost: [50]\nCooldown: [45s]\n\nJump and unleash powerful attacks to enemies.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DevilsToy
 0
@@ -13024,7 +13072,7 @@ Movie/Skill/PC_G/B_Skill_DevilsToy
 
 ID=17165
 Predator's Dignity Ⅴ
-[スキル情報：基本攻撃]\nダメージ量：[%]\nSA破壊量：[%]\nSG消費量：[]\nクールタイム：[秒]\n\n空中に飛び上がって前方の敵に強力な攻撃をします。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
+[Info]\nDamage: [3533%]\nSA Break: [3951%]\nSG Cost: [50]\nCooldown: [45s]\n\nJump and unleash powerful attacks to enemies.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DevilsToy
 0
@@ -13040,23 +13088,23 @@ Movie/Skill/PC_G/B_Skill_DestructionBlade
 
 ID=27031
 Burst Arrow Ⅰ
-[特性情報：基本攻撃]\nダメージ量：[118%]\nSA破壊量：[64%]\n\n[特性情報：追加攻撃]\nダメージ量：[177%]\nSA破壊量：[96%]\nバフ効果：15秒間攻撃速度[5%]増加（最大3重複）\n黒い血付与：[1]\n\n矢を乱射した後、追加攻撃で爆裂矢を放ちます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:(左クリック)
-[特性情報：基本攻撃]\nダメージ量：[118%]+11％\nSA破壊量：[64%]+6％\n\n[特性情報：追加攻撃]\nダメージ量：[177%]+16％\nSA破壊量：[96%]+10％
+[Basic]\nDamage: [118%]\nSA Break: [64%]\n\n[Additional]\nDamage: [177%]\nSA Break: [96%]\nBuff Effect: +[5%] Attack Speed (Max 3 stacks)\nBuff Duration: [15s]\nBlack Blood: [1]\n\nAfter indiscriminately firing arrows, follow-up with an explosive arrow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (LMB)
+[Basic]\nDamage: [118%]+11%\nSA Break: [64%]+6%\n\n[Additional]\nDamage: [177%]+16%\nSA Break: [96%]+10%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ThrustArrow_A
 0
 Movie/Skill/PC_G/B_Skill_ThrustArrow_A
 
 ID=27032
 Burst Arrow Ⅱ
-[特性情報：基本攻撃]\nダメージ量：[129%]\nSA破壊量：[70%]\n\n[特性情報：追加攻撃]\nダメージ量：[193%]\nSA破壊量：[106%]\nバフ効果：15秒間攻撃速度[5%]増加（最大3重複）\n黒い血付与：[1]\n\n矢を乱射した後、追加攻撃で爆裂矢を放ちます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
-[特性情報：基本攻撃]\nダメージ量：[129%]+19％\nSA破壊量：[70%]+11％\n\n[特性情報：追加攻撃]\nダメージ量：[193%]+29％\nSA破壊量：[106%]+16％
+[Basic]\nDamage: [129%]\nSA Break: [70%]\n\n[Additional]\nDamage: [193%]\nSA Break: [106%]\nBuff Effect: +[5%] Attack Speed (Max 3 stacks)\nBuff Duration: [15s]\nBlack Blood: [1]\n\nAfter indiscriminately firing arrows, follow-up with an explosive arrow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (LMB)
+[Basic]\nDamage: [129%]+19%\nSA Break: [70%]+11%\n\n[Additional]\nDamage: [193%]+29%\nSA Break: [106%]+16%
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ThrustArrow_A
 0
 Movie/Skill/PC_G/B_Skill_ThrustArrow_A
 
 ID=27033
 Burst Arrow Ⅲ
-[特性情報：基本攻撃]\nダメージ量：[148%]\nSA破壊量：[81%]\n\n[特性情報：追加攻撃]\nダメージ量：[222%]\nSA破壊量：[122%]\nバフ効果：15秒間攻撃速度[5%]増加（最大3重複）\n黒い血付与：[1]\n\n矢を乱射した後、追加攻撃で爆裂矢を放ちます。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
+[Basic]\nDamage: [148%]\nSA Break: [81%]\n\n[Additional]\nDamage: [222%]\nSA Break: [122%]\nBuff Effect: +[5%] Attack Speed (Max 3 stacks)\nBuff Duration: [15s]\nBlack Blood: [1]\n\nAfter indiscriminately firing arrows, follow-up with an explosive arrow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (LMB)
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ThrustArrow_A
 0
@@ -13840,7 +13888,7 @@ Movie/Skill/PC_H/B_Skill_Amazones
 
 ID=18101
 Support Call Ⅰ
-[Self Buff]\nBuff Effect: -[5%] SG Cost\nBuff Duration: [25s]\nSG Cost: [50]\nCooldown: [60s]\n\n[Party Buff]\nBuff Effect: Dmg Reduction [Max 35%, -7% every 4s]\nBuff Effect: Attack Speed [+4% every 4s]\nBuff Duration: [20s]\n\nCall for support to grants buffs to you and your party members.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Self Buff]\nBuff Effect: -[5%] SG Cost\nBuff Duration: [25s]\nSG Cost: [50]\nCooldown: [60s]\n\n[Party Buff]\nBuff Effect: Dmg Reduction [Max 35%, -7% every 4s]\nBuff Effect: Attack Speed [+4% every 4s]\nBuff Duration: [20s]\n\nCall for support to grant buffs to you and your party members.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 [Self Buff]\nSG Cost: -[5%]-2%
 Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
 0
@@ -13848,7 +13896,7 @@ Movie/Skill/PC_H/B_Skill_SupportCall
 
 ID=18102
 Support Call Ⅱ
-[Self Buff]\nBuff Effect: -[7%] SG Cost\nBuff Duration: [25s]\nSG Cost: [50]\nCooldown: [60s]\n\n[Party Buff]\nBuff Effect: Dmg Reduction [Max 35%, -7% every 4s]\nBuff Effect: Attack Speed [+4% every 4s]\nBuff Duration: [20s]\n\nCall for support to grants buffs to you and your party members.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Self Buff]\nBuff Effect: -[7%] SG Cost\nBuff Duration: [25s]\nSG Cost: [50]\nCooldown: [60s]\n\n[Party Buff]\nBuff Effect: Dmg Reduction [Max 35%, -7% every 4s]\nBuff Effect: Attack Speed [+4% every 4s]\nBuff Duration: [20s]\n\nCall for support to grant buffs to you and your party members.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 [Self Buff]\nSG Cost: -[7%]-2%
 Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
 0
@@ -13856,7 +13904,7 @@ Movie/Skill/PC_H/B_Skill_SupportCall
 
 ID=18103
 Support Call Ⅲ
-[Self Buff]\nBuff Effect: -[9%] SG Cost\nBuff Duration: [25s]\nSG Cost: [50]\nCooldown: [60s]\n\n[Party Buff]\nBuff Effect: Dmg Reduction [Max 35%, -7% every 4s]\nBuff Effect: Attack Speed [+4% every 4s]\nBuff Duration: [20s]\n\nCall for support to grants buffs to you and your party members.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Self Buff]\nBuff Effect: -[9%] SG Cost\nBuff Duration: [25s]\nSG Cost: [50]\nCooldown: [60s]\n\n[Party Buff]\nBuff Effect: Dmg Reduction [Max 35%, -7% every 4s]\nBuff Effect: Attack Speed [+4% every 4s]\nBuff Duration: [20s]\n\nCall for support to grant buffs to you and your party members.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 [Self Buff]\nSG Cost: -[9%]-2%
 Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
 0
@@ -13864,7 +13912,7 @@ Movie/Skill/PC_H/B_Skill_SupportCall
 
 ID=18104
 Support Call Ⅳ
-[Self Buff]\nBuff Effect: -[11%] SG Cost\nBuff Duration: [25s]\nSG Cost: [50]\nCooldown: [60s]\n\n[Party Buff]\nBuff Effect: Dmg Reduction [Max 35%, -7% every 4s]\nBuff Effect: Attack Speed [+4% every 4s]\nBuff Duration: [20s]\n\nCall for support to grants buffs to you and your party members.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Self Buff]\nBuff Effect: -[11%] SG Cost\nBuff Duration: [25s]\nSG Cost: [50]\nCooldown: [60s]\n\n[Party Buff]\nBuff Effect: Dmg Reduction [Max 35%, -7% every 4s]\nBuff Effect: Attack Speed [+4% every 4s]\nBuff Duration: [20s]\n\nCall for support to grant buffs to you and your party members.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 [Self Buff]\nSG Cost: -[11%]-4%
 Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
 0
@@ -13872,7 +13920,7 @@ Movie/Skill/PC_H/B_Skill_SupportCall
 
 ID=18105
 Support Call Ⅴ
-[Self Buff]\nBuff Effect: -[15%] SG Cost\nBuff Duration: [25s]\nSG Cost: [50]\nCooldown: [60s]\n\n[Party Buff]\nBuff Effect: Dmg Reduction [Max 35%, -7% every 4s]\nBuff Effect: Attack Speed [+4% every 4s]\nBuff Duration: [20s]\n\nCall for support to grants buffs to you and your party members.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Self Buff]\nBuff Effect: -[15%] SG Cost\nBuff Duration: [25s]\nSG Cost: [50]\nCooldown: [60s]\n\n[Party Buff]\nBuff Effect: Dmg Reduction [Max 35%, -7% every 4s]\nBuff Effect: Attack Speed [+4% every 4s]\nBuff Duration: [20s]\n\nCall for support to grants buff to you and your party members.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
 0
@@ -14009,7 +14057,7 @@ Movie/Skill/PC_H/B_Skill_SoulViper_02
 ID=18912
 Erosion
 Consumes 1 gauge stage ([50] SV)\n\n[Info]\nAwakening state for 30 seconds.\n- +[15%] Damage.\n- +[20%] Movement Speed.\n- SA State.\n\nAwaken the body, temporarily increasing one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
-受けるダメージ量が25%減少する。
++25% Dmg Reduction.
 Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_BreakWakeup
 0
 Movie/Skill/PC_H/B_Skill_SoulViper_01
@@ -14406,6 +14454,14 @@ Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_Titans-Finger
 0
 Movie/Skill/PC_H/B_Skill_TitansFinger
 
+ID=18164
+Titan's Massacre Ⅳ
+[Basic]\nDamage: [507%] [2841%]\nSA Break: [468%] [2624%]\nSG Cost: [60]\nCooldown: [50s]\n\nEnlarge the weapon, dealing damage to enemies in front then also attacking surrounding enemies.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+LvMax
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_Titans-Finger
+0
+Movie/Skill/PC_H/B_Skill_TitansFinger
+
 ID=18913
 Exceed: Legion's Bombing
 The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [3000%]\nSA Break: [2700%]\n\nSummon multiple weapons in mid-air to attack enemies, causing a series of explosions.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
@@ -14493,3 +14549,195 @@ LvMax
 Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_Vicious-Woodpecker_A
 0
 Movie/Skill/PC_H/B_Skill_ViciousWoodpecker_A
+
+ID=21101
+Accel Ⅰ
+[Basic]\nDamage: [315%]\nSA Break: [336%]\n\n[Additional]\nDamage: [1258%]\nSA Break: [1343%]\n\nIncrease hit count depending on Attack Speed, hit count of finishing attack, and AoE.\nImmediately end the attack by pressing right-click.\n\n[Usage]\n[1] (RMB): Finishing attack
+[Basic]\nDamage: [315%]+31%\nSA Break: [336%]+33%\n\n[Additional]\nDamage: [1258%]+126%\nSA Break: [1343%]+134%
+Icon/Skill/SoulumSword/Icon_Ssword_Skill_BladeShower_A
+0
+Movie/Skill/PC_A/PC_A_B_Skill_Blade Shower_A
+
+ID=21102
+Accel Ⅱ
+[Basic]\nDamage: [346%]\nSA Break: [369%]\n\n[Additional]\nDamage: [1384%]\nSA Break: [1477%]\n\nIncrease hit count depending on Attack Speed, hit count of finishing attack, and AoE.\nImmediately end the attack by pressing right-click.\n\n[Usage]\n[1] (RMB): Finishing attack
+[Basic]\nDamage: [346%]+52%\nSA Break: [369%]+56%\n\n[Additional]\nDamage: [1384%]+208%\nSA Break: [1477%]+222%
+Icon/Skill/SoulumSword/Icon_Ssword_Skill_BladeShower_A
+0
+Movie/Skill/PC_A/PC_A_B_Skill_Blade Shower_A
+
+ID=21103
+Accel Ⅲ
+[Basic]\nDamage: [398%]\nSA Break: [425%]\n\n[Additional]\nDamage: [1592%]\nSA Break: [1699%]\n\nIncrease hit count depending on Attack Speed, hit count of finishing attack, and AoE.\nImmediately end the attack by pressing right-click.\n\n[Usage]\n[1] (RMB): Finishing attack
+LvMax
+Icon/Skill/SoulumSword/Icon_Ssword_Skill_BladeShower_A
+0
+Movie/Skill/PC_A/PC_A_B_Skill_Blade Shower_A
+
+ID=22111
+Barrage Ⅰ
+[Basic]\nDamage: [212%]\nSA Break: [188%]\n\n[Barrage]\nDamage: [4240%]\nSA Break: [3760%]\n\nIncrease duration of the artillery barrage, and concentrates the barrage to a narrower area by pressing left-click.\nDuring the barrage, reduces attack range and cannot change the line of fire.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n[1] (LMB): Barrage\n[2] (RMB): Cancel attack
+[Basic]\nDamage: [212%]+21%\nSA Break: [188%]+19%\n\n[Barrage]\nDamage: [4240%]+420%\nSA Break: [3760%]+380%
+Icon/Skill/GunJazz/Icon_GJazz_Skill_SoulLauncher_A
+0
+Movie/Skill/PC_B/B_Skill_SoulLauncher_A
+
+ID=22112
+Barrage Ⅱ
+[Basic]\nDamage: [233%]\nSA Break: [207%]\n\n[Barrage]\nDamage: [4660%]\nSA Break: [4140%]\n\nIncrease duration of the artillery barrage, and concentrates the barrage to a narrower area by pressing left-click.\nDuring the barrage, reduces attack range and cannot change the line of fire.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n[1] (LMB): Barrage\n[2] (RMB): Cancel attack
+[Basic]\nDamage: [233%]+35%\nSA Break: [207%]+31%\n\n[Barrage]\nDamage: [4660%]+700%\nSA Break: [4140%]+620%
+Icon/Skill/GunJazz/Icon_GJazz_Skill_SoulLauncher_A
+0
+Movie/Skill/PC_B/B_Skill_SoulLauncher_A
+
+ID=22113
+Barrage Ⅲ
+[Basic]\nDamage: [268%]\nSA Break: [238%]\n\n[Barrage]\nDamage: [5360%]\nSA Break: [4760%]\n\nIncrease duration of the artillery barrage, and concentrates the barrage to a narrower area by pressing left-click.\nDuring the barrage, reduces attack range and cannot change the line of fire.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n[1] (LMB): Barrage\n[2] (RMB): Cancel attack
+LvMax
+Icon/Skill/GunJazz/Icon_GJazz_Skill_SoulLauncher_A
+0
+Movie/Skill/PC_B/B_Skill_SoulLauncher_A
+
+ID=23121
+Execution Ⅰ
+[Basic]\nDamage: [3480%]\nSA Break: [2286%]\nPenetration: [100%]\n\n[Grim Reaper]\nDamage: [1392%]\nSA Break: [914%]\n\nSummon the Grim Reaper and performs an execution, completely penetrating the enemies' defenses.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [3480%]+348%\nSA Break: [2286%]+229%\n\n[Grim Reaper]\nDamage: [1392%]+139%\nSA Break: [914%]+92%
+Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine_A
+0
+Movie/Skill/PC_C/B_Skill_DeathGuillotine_A
+
+ID=23122
+Execution Ⅱ
+[Basic]\nDamage: [3828%]\nSA Break: [2515%]\nPenetration: [100%]\n\n[Grim Reaper]\nDamage: [1531%]\nSA Break: [1006%]\n\nSummon the Grim Reaper and performs an execution, completely penetrating the enemies' defenses.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [3828%]+574%\nSA Break: [2515%]+377%\n\n[Grim Reaper]\nDamage: [1531%]+230%\nSA Break: [1006%]+151%
+Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine_A
+0
+Movie/Skill/PC_C/B_Skill_DeathGuillotine_A
+
+ID=23123
+Execution Ⅲ
+[Basic]\nDamage: [4402%]\nSA Break: [2892%]\nPenetration: [100%]\n\n[Grim Reaper]\nDamage: [1761%]\nSA Break: [1157%]\n\nSummon the Grim Reaper and performs an execution, completely penetrating the enemies' defenses.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+LvMax
+Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine_A
+0
+Movie/Skill/PC_C/B_Skill_DeathGuillotine_A
+
+ID=24131
+Haymaker Ⅰ
+[Basic]\nDamage: [449%]\nSA Break: [478%]\n\n[Additional]\nDamage: [2097%]\nSA Break: [2230%]\n\nIncrease range of the consecutive attacks, and attacking with a fire pillar at the final blow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [449%]+45%\nSA Break: [478%]+48%\n\n[Additional]\nDamage: [2097%]+210%\nSA Break: [2230%]+224%
+Icon/Skill/SpritArms/Icon_Sprit_Skill_FinalFist_A
+0
+Movie/Skill/PC_D/B_SKill_FinalFist_A
+
+ID=24132
+Haymaker Ⅱ
+[Basic]\nDamage: [494%]\nSA Break: [526%]\n\n[Additional]\nDamage: [2307%]\nSA Break: [2454%]\n\nIncrease range of the consecutive attacks, and attacking with a fire pillar at the final blow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [494%]+75%\nSA Break: [526%]+79%\n\n[Additional]\nDamage: [2307%]+346%\nSA Break: [2454%]+368%
+Icon/Skill/SpritArms/Icon_Sprit_Skill_FinalFist_A
+0
+Movie/Skill/PC_D/B_SKill_FinalFist_A
+
+ID=24133
+Haymaker Ⅲ
+[Basic]\nDamage: [569%]\nSA Break: [605%]\n\n[Additional]\nDamage: [2653%]\nSA Break: [2822%]\n\nIncrease range of the consecutive attacks, and attacking with a fire pillar at the final blow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+LvMax
+Icon/Skill/SpritArms/Icon_Sprit_Skill_FinalFist_A
+0
+Movie/Skill/PC_D/B_SKill_FinalFist_A
+
+ID=25111
+Cheer Ⅰ
+[Self Buff]\nBuff Effect: +[3%] Attack Speed (max 5 stacks)\n\n[Party Buff]\n[1] (LMB): HP Recovery [3%]\n[2] (RMB): SG Recovery [5%]\n\nHasten summoning time of the speakers, and increase attack range.\nRecover surrounding allies, and increase Attack Speed for every attack.
+[Self Buff]\nBuff Effect: Attack Speed [3%]+1%\n\n[Party Buff]\n[1] (LMB): HP Recovery [3%]+1%\n[2] (RMB): SG Recovery [5%]+2%
+Icon/Skill/Howling/Icon_Howling_Skill_BassAttack_A
+0
+Movie/Skill/PC_E/B_Skill_BassAttack_A
+
+ID=25112
+Cheer Ⅱ
+[Self Buff]\nBuff Effect: +[4%] Attack Speed (max 5 stacks)\n\n[Party Buff]\n[1] (LMB): HP Recovery [4%]\n[2] (RMB): SG Recovery [7%]\n\nHasten summoning time of the speakers, and increase attack range.\nRecover surrounding allies, and increase Attack Speed for every attack.
+[Self Buff]\nBuff Effect: Attack Speed [4%]+1%\n\n[Party Buff]\n[1] (LMB): HP Recovery [4%]+1%\n[2] (RMB): SG Recovery [7%]+3%
+Icon/Skill/Howling/Icon_Howling_Skill_BassAttack_A
+0
+Movie/Skill/PC_E/B_Skill_BassAttack_A
+
+ID=25113
+Cheer Ⅲ
+[Self Buff]\nBuff Effect: +[5%] Attack Speed (max 5 stacks)\n\n[Party Buff]\n[1] (LMB): HP Recovery [5%]\n[2] (RMB): SG Recovery [10%]\n\nHasten summoning time of the speakers, and increase attack range.\nRecover surrounding allies, and increase Attack Speed for every attack.
+LvMax
+Icon/Skill/Howling/Icon_Howling_Skill_BassAttack_A
+0
+Movie/Skill/PC_E/B_Skill_BassAttack_A
+
+ID=26111
+Pursuit Ⅰ
+[Basic]\nDamage: [1291%]\nSA Break: [884%]\n\n[Self Buff]\nBuff Effect: -[100%] SG Cost\nBuff Duration: [5s]\n\n[Additional]\nDamage: [4356%]\nSA Break: [2984%]\n\nAttack with lasers that you can adjust the line of fire of while preparing the energy blast.\nCan no longer change line of fire once ready to fire the powerful energy blast.\nAfter the attack, other skills won't consume SG for a certain period of time.
+[Basic]\nDamage: [1291%]+129%\nSA Break: [884%]+88%\nBuff Duration: [5s]+2s\n\n[Additional]\nDamage: [4356%]+437%\nSA Break: [2984%]+298%
+Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ExceedDriver_A
+0
+Movie/Skill/PC_F/B_Skill_ExceedDriver_A
+
+ID=26112
+Pursuit Ⅱ
+[Basic]\nDamage: [1420%]\nSA Break: [972%]\n\n[Self Buff]\nBuff Effect: -[100%] SG Cost\nBuff Duration: [7s]\n\n[Additional]\nDamage: [4793%]\nSA Break: [3282%]\n\nAttack with lasers that you can adjust the line of fire of while preparing the energy blast.\nCan no longer change line of fire once ready to fire the powerful energy blast.\nAfter the attack, other skills won't consume SG for a certain period of time.
+[Basic]\nDamage: [1420%]+213%\nSA Break: [972%]+146%\nBuff Duration: [7s]+3s\n\n[Additional]\nDamage: [4793%]+719%\nSA Break: [3282%]+493%
+Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ExceedDriver_A
+0
+Movie/Skill/PC_F/B_Skill_ExceedDriver_A
+
+ID=26113
+Pursuit Ⅲ
+[Basic]\nDamage: [1633%]\nSA Break: [1118%]\n\n[Self Buff]\nBuff Effect: -[100%] SG Cost\nBuff Duration: [10s]\n\n[Additional]\nDamage: [5512%]\nSA Break: [3775%]\n\nAttack with lasers that you can adjust the line of fire of while preparing the energy blast.\nCan no longer change line of fire once ready to fire the powerful energy blast.\nAfter the attack, other skills won't consume SG for a certain period of time.
+LvMax
+Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ExceedDriver_A
+0
+Movie/Skill/PC_F/B_Skill_ExceedDriver_A
+
+ID=27131
+Mark Ⅰ
+[Basic]\nDamage; [1063%]\nSA Break: [781%]\nBlack Blood: [1]\nBuff Effect: +[5%] Attack Speed (Max 3 stacks)\nBuff Duration: [15s]\n\n[Additional]\nDamage: [3665%]\nSA Break: [2692%]\n\n[Black Blood Explosion]\nDamage: [550%]\nSA Break: [404%]\n\nAdd [Black Blood] effect to [Basic], dealing explosion damage after the attack ends.
+[Basic]\nDamage: [1063%]+268%\nSA Break: [781%]+196%\nBlack Blood: [1]+1\n\n[Additional]\nDamage: [3665%]+367%\nSA Break: [2692%]+269%\n\n[Black Blood Explosion]\nDamage: [550%]+55%\nSA Break: [404%]+40%
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GiantKatana_A
+0
+Movie/Skill/PC_G/B_Skill_GiantKatana_A
+
+ID=27132
+Mark Ⅱ
+[Basic]\nDamage; [1331%]\nSA Break: [977%]\nBlack Blood: [2]\nBuff Effect: +[5%] Attack Speed (Max 3 stacks)\nBuff Duration: [15s]\n\n[Additional]\nDamage: [4032%]\nSA Break: [2961%]\n\n[Black Blood Explosion]\nDamage: [605%]\nSA Break: [444%]\n\nAdd [Black Blood] effect to [Basic], dealing explosion damage after the attack ends.
+[Basic]\nDamage: [1331%]+385%\nSA Break: [977%]+283%\nBlack Blood: [2]+1\nBlack Blood (Retained): [0]+1\n\n[Additional]\nDamage: [4032%]+605%\nSA Break: [2961%]+444%\n\n[Black Blood Explosion]\nDamage: [605%]+91%\nSA Break: [444%]+67%
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GiantKatana_A
+0
+Movie/Skill/PC_G/B_Skill_GiantKatana_A
+
+ID=27133
+Mark Ⅲ
+[Basic]\nDamage; [1716%]\nSA Break: [1260%]\nBlack Blood: [3]\nBlack Blood (Retained): [1]\nBuff Effect: +[5%] Attack Speed (Max 3 stacks)\nBuff Duration: [15s]\n\n[Additional]\nDamage: [4637%]\nSA Break: [3405%]\n\n[Black Blood Explosion]\nDamage: [696%]\nSA Break: [511%]\n\nAdd [Black Blood] effect to [Basic], dealing explosion damage after the attack ends.
+LvMax
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GiantKatana_A
+0
+Movie/Skill/PC_G/B_Skill_GiantKatana_A
+
+ID=28131
+Overcharge
+[Lightning Strike]\nDamage: [351%]\nSA Break: [324%]\n\nDamage surrounding enemies while moving.
+Movement Speed: [×1.5]\nHit Count: [×2]
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SuperNova_A
+0
+Movie/Skill/PC_H/B_Skill_SuperNova_A
+
+ID=28132
+Overcharge
+[Lightning Strike]\nDamage: [351%]\nSA Break: [324%]\n\nMovement Speed: [×1.5]\nHit Count: [×2]\n\nDamage surrounding enemies while moving.
+Buff Effect: [Limit Release]
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SuperNova_A
+0
+Movie/Skill/PC_H/B_Skill_SuperNova_A
+
+ID=28133
+Overcharge
+[Lightning Strike]\nDamage: [351%]\nSA Break: [324%]\n\nMovement Speed: [×1.5]\nHit Count: [×2]\nBuff Effect: [Limit Release]\n\nDamage surrounding enemies while moving.\nAfter the attack, gain [Limit Release] buff.
+LvMax
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SuperNova_A
+0
+Movie/Skill/PC_H/B_Skill_SuperNova_A

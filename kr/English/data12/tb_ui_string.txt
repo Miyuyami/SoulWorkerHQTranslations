@@ -995,7 +995,7 @@ ID=560
 Are you sure you want to raise {0}'s skill level?\n(Consumes {1} SP)
 
 ID=561
-Owned SP
+SP
 
 ID=562
 {0} Point
@@ -1352,7 +1352,7 @@ ID=731
 #{0}
 
 ID=732
-Casual Raids, also known as "Space Abnormalities", are high-difficulty dungeons.
+Casual Raids, also known as "Void Anomalies", are high-difficulty dungeons.
 
 ID=733
 "Golden Citadel" is a dungeon where you conquer 5 areas. Break through this golden calamity.
@@ -2051,7 +2051,7 @@ ID=1000
 {0}{1} to {2}{3}; Are you sure you want to convert the items?
 
 ID=1001
-ソフトボブカット
+Soft Bob Cut
 
 ID=1002
 Short 'n Wild
@@ -2342,19 +2342,19 @@ ID=1401
 Starry Forest League
 
 ID=1402
-Nihilum Kingdom Faction
+Nihil Kingdom Forces
 
 ID=1403
 Rapid Flame
 
 ID=1404
-Cherry Blossom Faction
+Cherry Blossom Forces
 
 ID=1405
-RSB Faction
+RSB Forces
 
 ID=1406
-Soul Junk
+Souljunk
 
 ID=1407
 Shadow Junk
@@ -3404,13 +3404,13 @@ ID=5803
 <font color='#FFFFFF' size='30'>TIP: </font>Using functional NPCs, like stores, will increase the <font color='#00D8FF'>[Favorability Level]</font>.\nSpecial benefits will be given depending on the <font color='#00D8FF'>[Favorability Level]</font>.
 
 ID=5804
-<font color='#FFFFFF'><font size="30">TIP: </font>At <font color='#00ff9c'>[Trisha] </font>you can <font color='#00D8FF'>[Enhance] </font> and <font color='#00D8FF'>[Exchange] </font> gears and weapons.
+<font color='#FFFFFF'><font size="30">TIP:</font> You can <font color='#00D8FF'>[Enhance], [Tune]</font> Weapons and Gears through <font color='#00ff9c'>[Trisha]</font>.
 
 ID=5805
 <font color='#FFFFFF' size='30'>TIP: </font>Equipment can be upgraded through <font color='#00D8FF'>Enhancing</font>, it can also be <font color='#00D8FF'>Dismantled</font> to obtain items needed to upgrade or craft other pieces of equipment.
 
 ID=5806
-<font color='#FFFFFF'><font size="30">TIP: </font>At <font color='#B2EBF4'>[Zenith]</font> you can <font color='#00D8FF'>[Craft]</font> weapons, gears and materials.
+<font color='#FFFFFF'><font size="30">TIP:</font> You can <font color='#00D8FF'>[Craft]</font> various items through <font color='#B2EBF4'>[Zenith]</font>.
 
 ID=5807
 <font color='#FFFFFF' size='30'>TIP: </font>You can send mails by using <font color='#B2EBF4'>HEMS</font>. A fee will be charged when sending.\nItems and Zenny may also be attached.
@@ -3440,10 +3440,10 @@ ID=5816
 <font color='#FFFFFF' size='30'>TIP: </font>The game's settings can be changed by pressing the <font color='#00FF9C'>[ESC]</font> key and going to the <font color='#00D8FF'>[System Settings]</font> button.
 
 ID=5817
-<font color='#FFFFFF'><font size="30">TIP: </font>Pressing <font color='#00D8FF'>[O]</font> you can access to Community list. There you can manage your <font color='#00D8FF'>[Friend List]</font> and <font color='#00D8FF'>[Block List]</font>
+<font color='#FFFFFF'><font size="30">TIP:</font> You can manage <font color='#00D8FF'>[Friend]</font> and <font color='#00D8FF'>[Block]</font> Lists in the Community Window <font color='#00FF9C'>[O]</font>.
 
 ID=5818
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>[スキル][A.Rカード]</font>の使用は、ショートカットキー<font color='#00ff9c'>[K] [;]</font>やメニューでスキルウィンドウ活性化後、\nスキルスロットに登録すると使用できます。
+<font color='#FFFFFF'><font size="30">TIP:</font> You can use <font color='#00D8FF'>[Skills]</font> and <font color='#00D8FF'>[A.R Cards]</font> by registering it into quick slots in the Skill Window by pressing the shortcut key <font color='#00ff9c'>[K]</font> and <font color='#00ff9c'>[;]</font>, respectively, or in the Menu.
 
 ID=5819
 <font color='#FFFFFF' size='30'>TIP: </font>Using your <font color='#00D8FF'>Skill Deck</font> in an efficient way will prove very helpful in battle.
@@ -3626,7 +3626,7 @@ ID=5879
 <font color='#FFFFFF' size='30'>TIP: </font>The game's settings can be changed by pressing the <font color='#00FF9C'>[ESC]</font> key and going to the <font color='#00D8FF'>[System Settings]</font> button.
 
 ID=5880
-<font color='#FFFFFF' size='30'>TIP: </font>You can open the community list by pressing <font color='#00FF9C'>[O]</font>. There you can manage your <font color='#00D8FF'>[Friend List]</font>.
+<font color='#FFFFFF'><font size="30">TIP:</font> You can manage <font color='#00D8FF'>[Friend]</font> List in the Community Window <font color='#00FF9C'>[O]</font>.
 
 ID=5881
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Skills]</font> and <font color='#00D8FF'>[A.R Cards]</font> can be set onto quick slots in the Skill window by pressing the hotkey <font color='#00FF9C'>[K]</font>.
@@ -3770,7 +3770,7 @@ ID=6029
 Will you unseal the A.R Card?
 
 ID=6030
-Will you release the A.R Card?
+Will you withdraw the A.R Card?
 
 ID=6031
 A.R Card has been sealed.
@@ -3782,7 +3782,7 @@ ID=6033
 Successfully crafted A.R Card "{0}".
 
 ID=6034
-A.R Card "{0}" has been released.
+A.R Card "{0}" has been withdrawn.
 
 ID=6035
 Failed to craft the A.R Card.
@@ -3794,7 +3794,7 @@ ID=6037
 Craft
 
 ID=6038
-Release
+Withdraw
 
 ID=6039
 Card List
@@ -3803,10 +3803,10 @@ ID=6040
 Display only available cards
 
 ID=6041
-Display only releasable cards
+Display only withdrawable cards
 
 ID=6042
-Release Card
+Withdraw Card
 
 ID=6044
 The A.R Card will be crafted with the respective materials.\nCrafted A.R Cards cannot be traded.
@@ -3866,7 +3866,7 @@ ID=6062
 These materials cannot be used for crafting.
 
 ID=6063
-Unreleasable
+Non-withdrawable
 
 ID=6901
 You cannot join a Party in this state.
@@ -4316,7 +4316,7 @@ ID=9251
 Best Showtime
 
 ID=9252
-Attributed Casual Raid
+Attribute Casual Raid
 
 ID=9301
 Candus City
@@ -4622,7 +4622,7 @@ ID=10054
 The Starry Forest League has discovered the evident secret agreement between the NED Company and the Rapid Flame faction.\nThe S.F.L. is considering a plan to neutralize the NED military compound.
 
 ID=10061
-The Starry Forest League is betting on encountering a Soulworker Replica by recapturing the Ruin Fortress, where the high performance AI Lucy is being suppressed.
+The Starry Forest League is betting on encountering a Nier Soulworker by recapturing the Ruin Fortress, where the high performance AI Lucy is being suppressed.
 
 ID=10062
 The main power source of Ruin Fortress is called the Buster Core. The buster core must be reactivated in order to restore electric power to Ruin Fortress.
@@ -4772,7 +4772,7 @@ ID=10254
 Pet Merchant: 
 
 ID=10255
-Vehicle Attendant: 
+運送支援：
 
 ID=10256
 Bank Manager: 
@@ -4934,25 +4934,25 @@ ID=10411
 Rescue
 
 ID=10412
-Worn Out Atmosphere
+Broken Down
 
 ID=10413
 Cruel Blade
 
 ID=10414
-The Witch of Summer Breezes
+Witch of Green Tempest
 
 ID=10421
 Dark Clouds
 
 ID=10422
-Crimson Winds
+Crimson Wind
 
 ID=10423
 Howling Wolf
 
 ID=10424
-Blasting Horsemen
+Blast Rider
 
 ID=10431
 Cold Rain
@@ -4976,16 +4976,16 @@ ID=10443
 Trap
 
 ID=10444
-Shadow of Gluttony
+Gluttonous Shadow
 
 ID=10451
-Discovered Weapons
+Materialized Weapon
 
 ID=10452
-Layers of Strength
+Accumulated Power
 
 ID=10453
-Time of Caution
+Time for Caution
 
 ID=10454
 Hundred Swords
@@ -4997,13 +4997,13 @@ ID=10462
 Uninvited Guest
 
 ID=10463
-The Lonely Child
+Lonely Child
 
 ID=10464
 Lucy's Punishment!
 
 ID=10471
-Rusted Heart
+Rusty Heart
 
 ID=10472
 Cold Floor
@@ -5015,7 +5015,7 @@ ID=10474
 Storm Summoning Spear
 
 ID=10481
-Path of Desolation
+Lonely Path
 
 ID=10482
 Innocent Shadow
@@ -5024,7 +5024,7 @@ ID=10483
 Traces
 
 ID=10484
-Frenzied Dash
+Sprinting Frenzy
 
 ID=10491
 Suppressed Bloodlust
@@ -5036,7 +5036,7 @@ ID=10493
 Obstructing Light
 
 ID=10494
-Nest of Steel
+Steel Nest
 
 ID=10501
 Another Heart
@@ -5048,28 +5048,28 @@ ID=10503
 Shaky Ground
 
 ID=10504
-Sunken Sun
+Underground Sun
 
 ID=10511
-The Silent Path
+Silent Path
 
 ID=10512
-Layers of Strength
+Accumulated Power
 
 ID=10513
 Awakened Monster
 
 ID=10514
-Repeated Nightmare
+Re-emergence of a Nightmare
 
 ID=10521
 Ark
 
 ID=10522
-Unripe Heart
+Blue Heart
 
 ID=10523
-Confession Time
+Time for Penitence
 
 ID=10524
 Clash of Fate
@@ -5936,7 +5936,7 @@ ID=18174
 Description
 
 ID=18175
-Set Option Information
+Set Option Info
 
 ID=18176
 Familiar/Soulstone
@@ -6017,7 +6017,7 @@ ID=18201
 Currently, you are in an unhealthy play state.\nGame earnings will be reduced to 0% of the normal value.\nFor the sake of your own health, please take an appropriate amount of rest from the game.\nIf you don't close the game it will have a negative effect on your body.\nAfter 5 hours of continuous offline state you will be able to re-enter and play the game successfully.
 
 ID=18202
-Extract All Brooches
+Extract All
 
 ID=18203
 If you do not use <font color='#FFFFFF'>{0}</font>, {1} Zenny will be deducted for the extraction cost.\nIf you use <font color='#FFFFFF'>{2}</font>, no Zenny will be deducted.\nAre you sure you want to extract?
@@ -7364,7 +7364,7 @@ ID=22110
 Use Gamepad
 
 ID=22111
-Dash after evading
+Dash after dodge
 
 ID=22112
 Other Settings
@@ -7664,7 +7664,7 @@ ID=22529
 Function
 
 ID=22530
-Reply to Whisper
+Whisper Reply
 
 ID=22531
 相互作用
@@ -8822,7 +8822,7 @@ ID=24642
 Wood
 
 ID=24643
-Slime
+Mucus
 
 ID=24644
 Fiber
@@ -9254,7 +9254,7 @@ ID=25102
 Basic Attack
 
 ID=25103
-Air Attack
+Aerial Attack
 
 ID=25104
 Rising Roll
@@ -9725,7 +9725,7 @@ ID=26101
 Add'l. Dmg: Souljunk [%]
 
 ID=26102
-Add'l. Dmg: Puppet Corps [%]
+Add'l. Dmg: Puppet Army [%]
 
 ID=26103
 Add'l. Dmg: NED Company [%]
@@ -9749,7 +9749,7 @@ ID=26109
 Dmg Reduction: Souljunk [%]
 
 ID=26110
-Dmg Reduction: Puppet Corps [%]
+Dmg Reduction: Puppet Army [%]
 
 ID=26111
 Dmg Reduction: NED Company [%]
@@ -9863,10 +9863,10 @@ ID=26300
 5% chance to reflect {0}% damage.
 
 ID=26301
-When poisoned by Rapid Flame faction foes, 10% chance of +{0} HP
+When poisoned by Rapid Flame Forces, 10% chance of +{0} HP
 
 ID=26302
-50% chance of reducing {0}% damage from Puppet Forces
+50% chance of +{0}% Dmg Reduction from Puppet Forces
 
 ID=26303
 On skill use, 50% chance of +{0} Evasion for 10s
@@ -9884,7 +9884,7 @@ ID=26307
 When hit under 50% HP, +{0}% Attack for 5s
 
 ID=26308
-After defeating a Puppet faction enemy, +{0}% Attack for 10s
+After defeating Puppet Forces, +{0}% Attack for 10s
 
 ID=26309
 On skill use, -{0}% cooldown
@@ -10064,10 +10064,10 @@ ID=26367
 When hit, 30% chance of +{0}% SA Break for 5s
 
 ID=26368
-On evasion, 30% chance of +{0}% Attack for 5s
+When evaded, 30% chance of +{0}% Attack for 5s
 
 ID=26369
-On evasion, 30% chance of {0} Accuracy for 5s
+When evaded, 30% chance of {0} Accuracy for 5s
 
 ID=26370
 When evaded, 30% chance of +{0} Critical Dmg for 5s
@@ -10076,7 +10076,7 @@ ID=26371
 When evaded, 30% chance of +{0}% Missed Attack Dmg for 5s
 
 ID=26372
-On evasion, 30% chance of +{0}% SA Break for 5s
+When evaded, 30% chance of +{0}% SA Break for 5s
 
 ID=26373
 スキル使用時、10%の確率で5秒間、攻撃力{0}増加
@@ -10088,13 +10088,13 @@ ID=26375
 On skill use, 30% chance of +{0}% Missed Attack Dmg for 5s
 
 ID=26376
-ダッシュ使用時、30%の確率で5秒間、攻撃力{0}増加
+When dashing, 30% chance of +{0} Attack for 5s
 
 ID=26377
-On dash use, 10% chance of +{0}% SA Break for 5s
+When dashing, 10% chance of +{0}% SA Break for 5s
 
 ID=26378
-On dash use, 10% chance of +{0}% Penetration for 5s
+When dashing, 10% chance of +{0}% Penetration for 5s
 
 ID=26379
 On kill Effect: +{0} Attack for 5s
@@ -10106,7 +10106,7 @@ ID=26381
 討伐効果：5秒間、敵の防御度貫通{0}%増加
 
 ID=26382
-回避時、30％の確率で5秒間攻撃力{0}増加
+When evaded, 30% chance of +{0} Attack for 5s
 
 ID=26500
 On enemy death, +{0}% Penetration for 30s
@@ -10205,10 +10205,10 @@ ID=27823
 On hitting boss monsters, +{0} Accuracy for 3s
 
 ID=27824
-When hit by general monsters, +{0} Evasion for 8s
+When hit by common enemies, +{0} Evasion for 8s
 
 ID=27825
-When hit by boss monsters, +{0} Evasion for 6s
+When hit by boss enemies, +{0} Evasion for 6s
 
 ID=27826
 When hit, 10% chance of +{0} Accuracy (cancelled when critically hit)
@@ -12323,7 +12323,7 @@ ID=32097
 Craft
 
 ID=32098
-Release
+Withdraw
 
 ID=32099
 Synthesis
@@ -12476,7 +12476,7 @@ ID=33527
 Tarnished Honor
 
 ID=33528
-Carla's Remains
+Garuda's Remains
 
 ID=33529
 Void Gems
@@ -14930,7 +14930,7 @@ ID=42053
 Chaser
 
 ID=42054
-Raid Force Chaser
+Raid Troop Chaser
 
 ID=42055
 Katja
@@ -14948,19 +14948,19 @@ ID=42059
 Flesh Shearing Razor Snake
 
 ID=42060
-Intentful Carla
+Intention Garuda
 
 ID=42061
-Violent Intentful Carla
+Assault Intention Garuda
 
 ID=42062
 Red Mane
 
 ID=42063
-Queen Carla
+Queen Garuda
 
 ID=42064
-Monster Bird Queen Carla
+Bird Monster Queen Garuda
 
 ID=42065
 Sedurin
@@ -15164,7 +15164,7 @@ ID=42131
 Ian
 
 ID=42132
-Attack Force Soldier Ian
+Attack Trooper Ian
 
 ID=42133
 Full Armor Sieg Prototype
@@ -15686,7 +15686,7 @@ ID=42305
 Chaser
 
 ID=42306
-Raid Force Chaser
+Raid Troop Chaser
 
 ID=42307
 Blood Absorption's Edge Chaser
@@ -15695,46 +15695,46 @@ ID=42308
 Chaser μ
 
 ID=42309
-Stealth Unit Chaser μ
+Raid Troop Chaser μ
 
 ID=42310
 Blood Absorption's Edge Chaser μ
 
 ID=42311
-Intentful Carla
+Intention Garuda
 
 ID=42312
-Violent Intentful Carla
+Assault Intention Garuda
 
 ID=42313
-Violent Monster Bird Intention Carla
+Assault Bird Monster Intention Garuda
 
 ID=42314
-Intentful Carla μ
+Intention Garuda μ
 
 ID=42315
-Violent Intentful Carla μ
+Assault Intention Garuda μ
 
 ID=42316
-Violent Monster Bird Intention Carla μ
+Assault Bird Monster Intention Garuda μ
 
 ID=42317
-Queen Carla
+Queen Garuda
 
 ID=42318
-Monster Bird Queen Carla
+Bird Monster Queen Garuda
 
 ID=42319
-Ruler of the Blue Sky Queen Carla
+Sky Ruler Queen Garuda
 
 ID=42320
-Queen Carla μ
+Queen Garuda μ
 
 ID=42321
-Monster Bird Queen Carla μ
+Bird Monster Queen Garuda μ
 
 ID=42322
-Ruler of the Blue Sky Queen Carla μ
+Sky Ruler Queen Garuda μ
 
 ID=42323
 Sedurin
@@ -16265,13 +16265,13 @@ ID=43056
 Venin
 
 ID=43060
-Intentful Carla
+Intention Garuda
 
 ID=43062
 Red Mane
 
 ID=43063
-Queen Carla
+Queen Garuda
 
 ID=43065
 Sedurin
@@ -16562,16 +16562,16 @@ ID=43302
 [SH] Chaser
 
 ID=43303
-[S] Intentful Carla
+[S] Intention Garuda
 
 ID=43304
-[SH] Intentful Carla
+[SH] Intention Garuda
 
 ID=43305
-[S] Queen Carla
+[S] Queen Garuda
 
 ID=43306
-[SH] Queen Carla
+[SH] Queen Garuda
 
 ID=43307
 [S] Sedurin
@@ -16832,7 +16832,7 @@ ID=45039
 Save to an empty slot
 
 ID=45040
-Wardrobe Sets
+Set Info
 
 ID=45041
 Apply
@@ -17333,7 +17333,7 @@ ID=48401
 Correlation
 
 ID=48402
-属性選択
+Select Attribute
 
 ID=48403
 A
@@ -17342,7 +17342,7 @@ ID=48404
 D
 
 ID=48405
-Attribute Change
+Change Attribute
 
 ID=48406
 S
@@ -18158,7 +18158,7 @@ ID=49982
 Quest: {0} [Accepted]
 
 ID=49983
-[Completed]
+ [Completed]
 
 ID=49984
 News release
@@ -18167,7 +18167,7 @@ ID=49985
 Cannot abandon quest.
 
 ID=49986
-[Completed]
+ [Completed]
 
 ID=49987
 Main
@@ -18263,16 +18263,16 @@ ID=50107
 Cannot locate channel.
 
 ID=50108
-This account is blocked from the game.
+Account blocked.
 
 ID=50109
-This IP address is blocked from the game.
+IP blocked.
 
 ID=50110
-This computer's MAC Address is blocked from the game.
+MAC Address blocked.
 
 ID=50111
-This item has been blocked from use.
+This item is blocked.
 
 ID=50112
 The connection to the server has been terminated because of server maintenance.
@@ -20750,7 +20750,7 @@ ID=40632
 正体不明の力が空間を覆っています。この力はスキルの使用を不可能にする効果があるようです。
 
 ID=53208
-Brooch set effect
+Set Effect
 
 ID=53209
 Actual
@@ -20795,28 +20795,28 @@ ID=10000
 Perforated Street
 
 ID=10002
-ソウルスピリットの空間
+Soul Spirit's Space
 
 ID=10525
-The First Voice
+First Voice
 
 ID=10526
-The Square of Mockery
+Mocking Square
 
 ID=10527
-Rotten Darkness
+Corrupted Darkness
 
 ID=10528
-Corrupted Reminiscence
+Corrupted Memory
 
 ID=10529
 Rekindling Flames
 
 ID=10530
-Ground of Fresh Blood
+Bloody Ground
 
 ID=10531
-Crossing Red Flames
+Flame Junction
 
 ID=10532
 Road to Ruin
@@ -20849,7 +20849,7 @@ ID=27898
 When hit, 40% chance of +{0} Evasion for 1s
 
 ID=27899
-On evasion, 30% chance of +{0}% Critical for 2s
+When evaded, 30% chance of +{0}% Critical for 2s
 
 ID=27900
 When evaded, 30% chance of +{0} Critical Dmg for 5s
@@ -20861,7 +20861,7 @@ ID=27902
 On hit, 5% chance of +{0}% SA Break for 5s
 
 ID=27903
-On dash use, 10% chance of +{0}% Critical for 5s
+When dashing, 10% chance of +{0}% Critical for 5s
 
 ID=27904
 On skill use, 5% chance of +{0} Critical for 5s
@@ -20900,7 +20900,7 @@ ID=27915
 攻撃を受けた時、HP50%未満の場合10秒間クリティカル抵抗{0}%増加
 
 ID=27916
-On dash use, 10% chance of +{0} Defense for 5s
+When dashing, 10% chance of +{0} Defense for 5s
 
 ID=27917
 On kill Effect: +{0} Attack for 5s
@@ -21554,10 +21554,10 @@ ID=33559
 伝承された使命
 
 ID=33560
-戦場の騎士
+Knight at the Battlefield
 
 ID=33561
-戦場の英雄
+Hero at the Battlefield
 
 ID=37700
 ジェニー入金
@@ -21995,16 +21995,16 @@ ID=10534
 Bloody Garden
 
 ID=10535
-Collapsed Walking Path
+Collapsed Walkway
 
 ID=10536
-Predator's Hunting Field
+Predator's Hunting Grounds
 
 ID=10537
-Dead Meat Farm
+Deadmeat Factory
 
 ID=10538
-The Ones Driven by Desire
+Those Driven by Desire
 
 ID=10539
 Path of Abandoned Salvation
@@ -23132,10 +23132,10 @@ ID=41399
 Clear 「Junk Pool EP 4 Normal」 3 times
 
 ID=41400
-Clear 「Break Out EP 3 Normal」 3 times
+Clear Breakout EP3 Normal 3 times
 
 ID=41401
-Clear 「Frontline EP 1 Normal」 2 times
+Clear 「Front Line EP 1 Normal」 2 times
 
 ID=41402
 Clear 「NED Company EP 4 Normal」 2 times
@@ -24878,7 +24878,7 @@ ID=42613
 Gun Jazz of Pleasure, Erwin
 
 ID=42614
-Gun Jazz of Vow, Erwin
+Gun Jazz of Oath, Erwin
 
 ID=42615
 Erwin μ
@@ -24887,7 +24887,7 @@ ID=42616
 Gun Jazz of Pleasure, Erwin μ
 
 ID=42617
-Gun Jazz of Vow, Erwin μ
+Gun Jazz of Oath, Erwin μ
 
 ID=42618
 Lily
@@ -25181,7 +25181,7 @@ ID=101006
 A.Rカード図鑑
 
 ID=101007
-Release
+Withdraw
 
 ID=101008
 装着画面にてA.Rカードを右クリックして解放を選択すると解放する事ができます。
@@ -25355,7 +25355,7 @@ ID=711001
 Soulum Sword of Revenge
 
 ID=712001
-Sword of Fighting Spirit
+Unyielding Sword of Spirit
 
 ID=710001
 日常服
@@ -25379,7 +25379,7 @@ ID=721001
 Gun Jazz of Pleasure
 
 ID=722001
-Artillery of Eternal Vow
+Eternal Artillery of Oath
 
 ID=720001
 日常服
@@ -25403,7 +25403,7 @@ ID=731001
 Mist Scythe of Madness
 
 ID=732001
-Chains of Piercing Resolve
+Piercing Chains of Resolve
 
 ID=730001
 日常服
@@ -25427,7 +25427,7 @@ ID=741001
 Spirit Arms of Passion
 
 ID=742001
-Shield of Blazing Conviction
+Blazing Shield of Conviction
 
 ID=740001
 日常服
@@ -25451,7 +25451,7 @@ ID=751001
 Howling Guitar of Sorrow
 
 ID=752001
-Soul of Soaring Aspiration
+Soaring Soul of Aspiration
 
 ID=750001
 日常服
@@ -25475,7 +25475,7 @@ ID=761001
 Hammerstol of Rage
 
 ID=762001
-Shooting Star of Outstanding Valor
+Trailblazing Flare of Valor
 
 ID=760001
 日常服
@@ -25643,52 +25643,52 @@ ID=9894
 Dipluce Horizon
 
 ID=10546
-先発隊偵察作戦
+Reconnaissance Mission
 
 ID=10547
-対空砲稼動作戦
+Anti-air Artillery Mission
 
 ID=10548
-駐屯地防備作戦
+Garrison Defense Mission
 
 ID=10549
-怪獣阻止作戦
+Monster Preempt Mission
 
 ID=10550
-第1艦隊運送作戦
+1st Fleet Transport Mission
 
 ID=10551
-第1艦隊守備作戦
+1st Fleet Defense Mission
 
 ID=10552
-第1艦隊帰還作戦
+1st Fleet Return Mission
 
 ID=10553
-第2艦隊救出作戦
+2nd Fleet Rescue Mission
 
 ID=10554
-裏切者の領土
+Betrayers' Territory
 
 ID=10555
-食い違う交渉
+Failed Negotiation
 
 ID=10556
-秘密作戦
+Covert Mission
 
 ID=10557
-罠の中へ
+Into a Trap
 
 ID=10558
-青い甲冑のヴェシ
+Blue-armored Veshi
 
 ID=10559
-名誉の血で染まった場所
+Chivalric Battlefield
 
 ID=10560
-騎士の守護獣
+Knight's Guardian Beast
 
 ID=10561
-神聖な戦場
+Holy Ground
 
 ID=10107
 Sky Walker
@@ -25919,22 +25919,22 @@ ID=42719
 Greatest Guardian, Warren μ
 
 ID=42720
-Emilito
+Emil
 
 ID=42721
-Starry Forest Soldier, Emilito
+Starry Forest Soldier, Emil
 
 ID=42722
-Faithful to his Close Friend, Emilito
+Faithful to his Close Friend, Emil
 
 ID=42723
-Emilito μ
+Emil μ
 
 ID=42724
-Starry Forest Soldier, Emilito μ
+Starry Forest Soldier, Emil μ
 
 ID=42725
-Faithful to his Close Friend, Emilito μ
+Faithful to his Close Friend, Emil μ
 
 ID=42726
 Allen
@@ -26642,7 +26642,7 @@ ID=40756
 スキル使用時、一定値のソウルゲージ及びSGを消費します。\nSGが足りない場合、スキルを使用できません。
 
 ID=10112
-リメインズウェイ
+The Last Way
 
 ID=5446
 使用武器は刀。\n刀を利用した抜刀術で敵を一撃に切り倒す。
@@ -26735,10 +26735,10 @@ ID=18822
 ドスパラソウルワーカー推奨ゲーミングPC購入キャンペーン
 
 ID=33578
-声援のヴォイドセット
+Support Void Set
 
 ID=33579
-声援のヴォイドアクセサリーセット
+Support Void Accessory Set
 
 ID=55117
 当アカウント内のキャラクターは遮断することができません。
@@ -26894,7 +26894,7 @@ ID=5067
 「決意のディスペーロア」にクラスアップグレードしました。
 
 ID=772001
-共に歩む決意の矢
+Mutual Arrows of Ambition
 
 ID=42744
 Nihil Kingdom's Arua
@@ -27755,10 +27755,10 @@ ID=67123
 You cannot retry as you don't have the required item to enter the dungeon.
 
 ID=10567
-Biological Reactions Laboratory
+Vital Reaction Laboratory
 
 ID=10568
-Physical Enhancement Diagnostic Room
+Bodily Enhancement Diagnosis Room
 
 ID=10569
 Experiment Archives
@@ -27779,13 +27779,13 @@ ID=10574
 Encounter
 
 ID=10575
-The Cult's Hideout
+Cult's Hideout
 
 ID=10576
 The Fall of a Hero
 
 ID=10577
-Justice Covered in Light
+Light-veiled Justice
 
 ID=10578
 Dawn of Fate
@@ -28298,7 +28298,7 @@ ID=7215
 Skill Page {0}
 
 ID=7216
-Skill Reset Tickets Owned:
+Skill Reset Tickets:
 
 ID=7217
 Active Skills
@@ -28565,7 +28565,7 @@ ID=781001
 Bombing Spear of Tenacity
 
 ID=782001
-急転する砕身の閃槍
+Bombing Spear of Reform
 
 ID=1063
 Wavy Sidetail
@@ -28703,7 +28703,7 @@ ID=52085
 選択精錬ポイントの累積量を超えたため使用できません。
 
 ID=18265
-セット効果図鑑
+Set Effects Guide
 
 ID=18266
 Head
@@ -29039,7 +29039,7 @@ ID=52068
 既に保有している外形の為、使用できません。
 
 ID=10141
-ムーンライトパーティー
+Moonlight Party
 
 ID=40840
 あなたのためのハロウィンパーティーにようこそ！こんな夜はやはり、花火に限りますね！
@@ -29072,7 +29072,7 @@ ID=1470
 合成登録
 
 ID=29201
-<font color='#CC2EFA'>ソウルジャンク
+<font color='#CC2EFA'>Souljunk
 
 ID=29202
 <font color='#FA5882'>スタリーフォレスト
@@ -29084,7 +29084,7 @@ ID=29204
 <font color='#FA5882'>ラピッドフレイム
 
 ID=29205
-<font color='#FFBF00'>ゴールド勢力
+<font color='#FFBF00'>Gold Forces
 
 ID=29206
 <font color='#00FFFF'>ソウルワーカー
@@ -29105,7 +29105,7 @@ ID=1603
 カードゲームをお楽しみください！\n・カード2枚を裏返し同じカードが出るとポイント獲得。\n・ペアが出れば、追加でもう一度カードを裏返すことができます。
 
 ID=1604
-勢力点ポイント
+Forces Point
 
 ID=1605
 自分が当てたカードの中で、同勢力カードの個数によってボーナスを獲得します。\n[<font color='#FA5882'>スタリーフォレスト</font>/<font color='#0080FF'>ネッドカンパニー</font>/<font color='#CC2EFA'>ソウルジャンク</font>/<font color='#642EFE'>ラピッドフレイム</font>/<font color='#FFBF00'>ゴールド</font>/<font color='#00FFFF'>ソウルワーカー</font>/<font color='#FF0040'>運命</font>]勢力のカードがシャッフルして現れます。
@@ -29168,16 +29168,16 @@ ID=59313
 予期しないエラーが発生しました。
 
 ID=154
-リング２装備
+Equip Ring 2
 
 ID=22694
-早いささやき返信
+Quick Whisper Reply
 
 ID=22695
 General
 
 ID=22697
-入場回数 : {0}/{1}
+Entry: {0}/{1}
 
 ID=52089
 対象ソケットに{0}を装着しますか？\n<font color='#FF0000'>ソケットアイテム装着時装備が帰属されます。</font>
@@ -29192,97 +29192,97 @@ ID=699
 <font color='#FF0000'>封印不可</font>
 
 ID=710046
-情熱の軍楽隊
+Passionate Military Band
 
 ID=52510
-ソケットアイテムが装着されたアイテムは封印できません。ソケットを抽出した後やり直してください。
+Item/s with socket item/s attached cannot be sealed. Please try again after extracting the socket.
 
 ID=22696
-メイズやり直し
+Redo Dungeon
 
 ID=16876
-登録された金額が最近の取引価格との開きがあります。\n登録を続けますか？
+There is a price difference between the registered price and recent market price.\nDo you wish to proceed?
 
 ID=37201
-使用するスキルを選択してください。
+Select the skills to be used.
 
 ID=37202
 Anything
 
 ID=37203
-獲得能力
+Abilities
 
 ID=37204
-スキルレベル+{0}
+Skill Level +{0}
 
 ID=37211
-幻想が破壊され夢から目覚めます。
+The illusion is broken, now waking up from the dream.
 
 ID=37212
-所要時間
+Time Required
 
 ID=37213
 Clear
 
 ID=37214
-挑戦失敗
+Challenge Failed
 
 ID=37215
-退出
+Exit
 
 ID=37221
-セクター完了
+Sector Complete
 
 ID=37222
-ボス退治
+Defeat Boss
 
 ID=37223
-1階
+1st Floor
 
 ID=37224
-2階
+2nd Floor
 
 ID=37225
-3階
+3rd Floor
 
 ID=37226
-4階
+4th Floor
 
 ID=37230
-クリア達成時間を超えたためHPが減少します。
+HP is being reduced for failure to clear within the set time.
 
 ID=37231
-挑戦開始
+Challenge Start
 
 ID=37232
-セクターをクリアしました。ポータルから次のセクターに移動してください。
+Sector cleared. Go to the next sector from the portal.
 
 ID=37233
-{0}階{1}番目のセクター進行中
+Currently in Floor {0}, Sector {1}
 
 ID=37311
-25秒以内に出現するすべてのモンスターを倒してください。
+Defeat all enemies within 25 seconds.
 
 ID=37321
-25秒以内に出現するすべてのモンスターを倒してください。
+Defeat all enemies within 25 seconds.
 
 ID=37331
-エドガーを45秒以内に倒してください。
+Defeat Edgar within 45 seconds.
 
 ID=37332
-アマリリスを45秒以内に倒してください。
+Defeat Amaryllis within 45 seconds.
 
 ID=37333
-ブラッディスカーを45秒以内に倒してください。
+Defeat Bloody Scar within 45 seconds.
 
 ID=37334
-ロードを45秒以内に倒してください。
+Defeat Lord within 45 seconds.
 
 ID=37335
-ジャンクアキュラスを45秒以内に倒してください。
+Defeat Junk Aquilas within 45 seconds.
 
 ID=37336
-テネブリスを45秒以内に倒してください。
+Defeat Tenebris within 45 seconds.
 
 ID=37341
 かわいいグルトンを避けてモンスターをすべて倒してください。
@@ -29330,70 +29330,70 @@ ID=37355
 ギミックセクターの案内です。
 
 ID=18316
-ブレイキングイリュージョンを開始します。夢の世界に移動しますか？
+Start Breaking Illusion. Move to the illusory world?
 
 ID=5954
-<font color='#FFFFFF'><font size="30">TIP。</font>各ポータルを通過するときバフまたはデバフが付与されます。
+<font color='#FFFFFF'><font size="30">TIP.</font>Receive a buff or debuff whenever you pass through a portal.
 
 ID=5955
-<font color='#FFFFFF'><font size="30">TIP。</font>セクターをクリアすると獲得できるイリュージョンコインを使用して、スキルや能力値をアップグレードできます。
+<font color='#FFFFFF'><font size="30">TIP.</font>Upgrade skills and/or status using Illusion Coins that are earned by clearing sectors.
 
 ID=37356
 Detail
 
 ID=37357
-簡略
+Simple
 
 ID=10135
-ブレイキングイリュージョン
+Breaking Illusion
 
 ID=37370
-アップグレード
+Upgrade
 
 ID=37371
-スキル成長
+Skill Growth
 
 ID=37372
-ステータス成長
+Status Growth
 
 ID=37373
-イリュージョンコインはゲーム終了時に報酬となりますので慎重に扱ってください。
+Please spend the Illusion Coins wisely as they will be converted to a reward after the game ends.
 
 ID=37374
-レベルアップ
+Level Up
 
 ID=37375
-回数追加
+Increase Usage
 
 ID=37376
 Close
 
 ID=37377
-使用回数：
+Uses:
 
 ID=37378
-選択したスキルはセクター内で一定回数のみ使用可能です。\n\nセクタークリア後にアップグレードを通してレベルアップおよび回数追加が可能です。
+The selected skills has limited uses within each sector.\n\nYou can level up and/or increase usage of skills through upgrading after clearing a sector.
 
 ID=65901
-1位～8位の報酬
+1st ~ 8th Rewards
 
 ID=65902
-9位～16位の報酬
+9th ~ 16th Rewards
 
 ID=65903
-17位～24位の報酬
+17th ~ 24th Rewards
 
 ID=65904
-25位〜32位の報酬
+25th ~ 32nd Rewards
 
 ID=65905
-33位〜48位の報酬
+33rd ~ 48th Rewards
 
 ID=65906
-49位〜72位の報酬
+49th ~ 72nd Rewards
 
 ID=65907
-73位〜100位の報酬
+73rd ~ 100th Rewards
 
 ID=65908
 101st ~ Top 5% Rewards
@@ -29426,7 +29426,7 @@ ID=65917
 Top 71% ~ 100% Rewards
 
 ID=67116
-ルナ・フォール[N/T]
+Lunar Fall [N/T]
 
 ID=43428
 Ephnel
@@ -29444,34 +29444,154 @@ ID=42780
 Ephnel
 
 ID=42781
-不屈のボミングスピアエフネル
+Bombing Spear of Tenacity, Ephnel
 
 ID=42782
-刷新のボミングスピアエフネル
+Bombing Spear of Reform, Ephnel
 
 ID=42783
-エフネルμ
+Ephnel μ
 
 ID=42784
-不屈のボミングスピアエフネルμ
+Bombing Spear of Tenacity, Ephnel μ
 
 ID=42785
-刷新のボミングスピアエフネルμ
+Bombing Spear of Reform, Ephnel μ
 
 ID=42786
-緑の嵐ポイズン
+Green Tempest, Poison
 
 ID=42787
-血色台風の目ポイズン
+Bloody Cyclone, Poison
 
 ID=42788
-反撃の炎ポイズン
+Flames of Vengeance, Poison
 
 ID=42789
-緑の嵐ポイズンμ
+Green Tempest, Poison μ
 
 ID=42790
-血色台風の目ポイズンμ
+Bloody Cyclone, Poison μ
 
 ID=42791
-反撃の炎ポイズンμ
+Flames of Vengeance, Poison μ
+
+ID=155
+Withdraw
+
+ID=156
+Complete
+
+ID=157
+Cancel
+
+ID=158
+全て解除
+
+ID=710047
+Steamy Open-air Bath
+
+ID=10142
+ソウルジャンパー2nd
+
+ID=40322
+エキスパートのチェックポイントが活性化されました。
+
+ID=50116
+現在サーバーメンテナンス中です。詳細内容は公式ホームページをご確認ください。
+
+ID=16877
+Check Item Options
+
+ID=33585
+Custom-made Set
+
+ID=10127
+ホワイトアウト
+
+ID=10128
+レジェレクションプロジェクト
+
+ID=10129
+アンタッチャブルパス
+
+ID=10130
+ヘルシティ
+
+ID=10133
+Binded Room
+
+ID=10579
+White Snowy Mountain
+
+ID=10580
+Frozen Battlefield
+
+ID=10581
+Cold Grave
+
+ID=10582
+White Hell
+
+ID=10583
+Way Deeper Down
+
+ID=10584
+Top Secret Research
+
+ID=10585
+World Resurrection Project
+
+ID=10586
+Failed Goal
+
+ID=10587
+届かない道
+
+ID=10588
+通路の血戦
+
+ID=10589
+Faded Voice
+
+ID=10590
+Turning Point
+
+ID=10591
+Hell City
+
+ID=10592
+Fear of Murder
+
+ID=10593
+March to the Flames
+
+ID=10594
+Flame Monarch
+
+ID=10595
+Binded Room
+
+ID=40816
+セデュリンと会話してクエストを進行した後当該装置を起動してバインディドルームを開始できます。
+
+ID=37360
+移動する地域を選択してください。
+
+ID=37361
+EXIT
+
+ID=37362
+Skip Cutscene
+
+ID=37363
+メイズ移動[{0}]
+
+ID=10596
+Grace City West War
+
+ID=18825
+2020 Christmas Celebration Coupon
+
+ID=18826
+2021 New Year's Celebration Coupon
