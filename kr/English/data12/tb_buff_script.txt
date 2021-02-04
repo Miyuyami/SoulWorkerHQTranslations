@@ -438,19 +438,19 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=5001
 Endless Struggle Ⅰ
-On skill use, damage increases at a certain probability.
+On skill use, increases damage at a certain probability.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
 ID=5002
 Endless Struggle Ⅱ
-On skill use, damage increases at a certain probability.
+On skill use, increases damage at a certain probability.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
 ID=5003
 Endless Struggle Ⅲ
-On skill use, damage increases at a certain probability.
+On skill use, increases damage at a certain probability.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
@@ -462,7 +462,7 @@ Icon/Buff/Icon_Common_Debuff_Weakness
 
 ID=5009
 Vengeful Sword
-When hit, damage temporarily increases.
+When hit, temporarily increases damage.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
@@ -671,31 +671,31 @@ Icon/Buff/Icon_Common_Debuff_Poison
 Poisoned
 
 ID=5521
-Nawab's Farm Ⅰ
+Napalm Bomb Ⅰ
 -1% HP while burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5522
-Nawab's Farm Ⅱ
+Napalm Bomb Ⅱ
 -1% HP while burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5523
-Nawab's Farm Ⅲ
+Napalm Bomb Ⅲ
 -1% HP while burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5524
-Nawab's Farm Ⅳ
+Napalm Bomb Ⅳ
 -1% HP while burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5525
-Nawab's Farm Ⅴ
+Napalm Bomb Ⅴ
 -1% HP while burning.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
@@ -942,7 +942,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=6005
 Mad Reaper of Death
-Attack and Critical are increased.
+Increases Attack and Critical.
 Icon/Buff/Icon_Common_Buff_Reg
 0
 
@@ -1632,19 +1632,19 @@ Icon/Buff/Icon_Common_Buff_Warm
 
 ID=7508
 Blaze Ⅰ
-HP reduces per second.
+Reduces HP per second.
 Icon/Buff/Icon_Common_Debuff_Bleed
 0
 
 ID=7509
 Blaze Ⅱ
-HP reduces per second.
+Reduces HP per second.
 Icon/Buff/Icon_Common_Debuff_Bleed
 0
 
 ID=7510
 Blaze Ⅲ
-HP reduces per second.
+Reduces HP per second.
 Icon/Buff/Icon_Common_Debuff_Bleed
 0
 
@@ -2610,19 +2610,19 @@ Vitality
 
 ID=30205
 Erosion
-HP reduces continuously.
+Continuously reduces HP.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Erosion
 
 ID=30206
 Contaminated Blood
-HP reduces continuously.
+Continuously reduces HP.
 Icon/Buff/Icon_Common_Debuff_Poison
 Contaminated Blood
 
 ID=30207
 Corruption
-HP reduces continuously.
+Continuously reduces HP.
 0
 -
 
@@ -2658,13 +2658,13 @@ Toughen
 
 ID=30233
 狂乱
-Attack and Attack Speed are significantly increased while Defense is significantly reduced.
+Significantly increases Attack and Attack Speed while reducing Defense.
 Icon/Buff/Icon_Common_Buff_ATK
 狂乱
 
 ID=30234
 酸性液
-HP reduces continuously.
+Continuously reduces HP.
 Icon/Buff/Icon_Common_Debuff_Bleed
 酸性液
 
@@ -2676,7 +2676,7 @@ Weakness
 
 ID=30236
 胃酸
-HP reduces and receive large damage continuously once it reaches 6 stacks and becomes corrosive.
+Reduces HP and continuously receive large damage once it reaches 6 stacks and becomes corrosive.
 Icon/Buff/Icon_Common_Debuff_Poison
 胃酸
 
@@ -3000,7 +3000,7 @@ Weakness
 
 ID=35303
 Defense ↓
-Defense reduced for 15s.
+Reduces Defense for 15s.
 Icon/Buff/Icon_Common_Debuff_Def
 Armor Dissipated
 
@@ -3018,7 +3018,7 @@ Invulnerable
 
 ID=35306
 Burn
-HP reduces per second.
+Reduces HP per second.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
@@ -3096,7 +3096,7 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 
 ID=39004
 Poisoned
-HP reduces while poisoned.
+Reduces HP while poisoned.
 Icon/Buff/Icon_Common_Debuff_Poison
 Poisoned
 
@@ -3132,7 +3132,7 @@ Movement Speed ↑
 
 ID=39010
 Sudden Attack
-Attack increases for 10s.
+Increases Attack for 10s.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
@@ -3144,13 +3144,13 @@ Paralyzed
 
 ID=39012
 Slowed
-Movement Speed reduced for 10s.
+Reduces Movement Speed for 10s.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=39013
 Dull
-Attack reduced for 10s.
+Reduces Attack for 10s.
 Icon/Buff/Icon_Common_DeBuff_ATK
 Attack ↓
 
@@ -3192,19 +3192,19 @@ Paralyzed
 
 ID=39024
 Slowed
-Movement Speed reduced for 1 hour.
+Reduces Movement Speed for 1 hour.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=39025
 Surprise Attack
-Attack increases.
+Increases Attack.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=39026
 Steel Wall
-Defense increases.
+Increases Defense.
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
@@ -6054,19 +6054,19 @@ ID=18011
 
 ID=6091
 Reckless Insanity Ⅰ
-Critical Damage and Penetration increased, and SG Cost reduced.
+Increases Critical Damage and Penetration, and reduces SG Cost.
 Icon/Buff/Icon_Common_Buff_CRI
 Reckless Insanity
 
 ID=6092
 Reckless Insanity Ⅱ
-Critical Damage and Penetration increased, and SG Cost reduced.
+Increases Critical Damage and Penetration, and reduces SG Cost.
 Icon/Buff/Icon_Common_Buff_CRI
 Reckless Insanity
 
 ID=6093
 Reckless Insanity Ⅲ
-Critical Damage and Penetration increased, and SG Cost reduced.
+Increases Critical Damage and Penetration, and reduces SG Cost.
 Icon/Buff/Icon_Common_Buff_CRI
 Reckless Insanity
 
@@ -6078,13 +6078,13 @@ Movement Speed & Attack Speed ↑
 
 ID=30608
 Movement Speed ↓
-Movement Speed reduced.
+Reduces Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=30612
 Attack Speed ↓
-Attack Speed reduced.
+Reduces Attack Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
 Attack Speed ↓
 
@@ -6600,7 +6600,7 @@ Weakness
 
 ID=30147
 Weakness
-All stats are drastically reduced.
+Significantly reduces all stats.
 Icon/Buff/Icon_Common_Debuff_Weakness
 Weakness
 
@@ -7662,7 +7662,7 @@ Lifesteal
 
 ID=8531
 Penetration ↑
-Penetration increases for 5s.
+Increases Penetration for 5s.
 Icon/Buff/Icon_Common_Buff_Penetration
 Penetration ↑
 
@@ -8622,9 +8622,9 @@ HP減少10%
 
 ID=31106
 呪い
-沈黙/受けるダメージ増加20%
+Silenced / Dmg Reduction -20%
 Icon/Buff/Icon_Common_Debuff_Silence
-呪い：沈黙/受けるダメージ増加20%
+Cursed: Silenced / Dmg Reduction -20%
 
 ID=31107
 完全治癒
@@ -8763,3 +8763,15 @@ Exceed Driver
 -100% SG Cost.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Cost ↓
+
+ID=30622
+Dmg Reduction ↓
+Increases Damage received.
+Icon/Buff/Icon_Common_Debuff_Burn
+Dmg Reduction ↓
+
+ID=30623
+Flame Explosion
+Flames stacked and exploded.
+Icon/Buff/Icon_Common_Debuff_Stun
+Flame Explosion

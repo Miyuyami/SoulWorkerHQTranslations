@@ -1289,7 +1289,7 @@ ID=710
 Guild Management (Pending)
 
 ID=711
-Communication (Pending)
+Comms (Pending)
 
 ID=712
 NPC Feature
@@ -2972,7 +2972,7 @@ ID=3103
 Memorial Collection Reward
 
 ID=3104
-Ranking Record Reward
+Ranking Reward
 
 ID=3105
 Obtained Items
@@ -3467,7 +3467,7 @@ ID=5825
 <font color='#FFFFFF' size='30'>TIP: </font>When entering a dungeon, use <font color='#00D8FF'>[Auto-Matching]</font> to automatically find a Party.
 
 ID=5826
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ステータス</font>からプロフィール・ポートレート・外見を修正できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>You can modify your</font> profile, portrait, and appearance from the status.
 
 ID=5827
 <font color='#FFFFFF' size='30'>TIP: </font>Press the left <font color='#00FF9C'>[Alt]</font> key to change to mouse mode.
@@ -3488,7 +3488,7 @@ ID=5832
 <font color='#FFFFFF' size='30'>TIP: </font>Open the <font color='#00D8FF'>Quest</font> window <font color='#00FF9C'>[J]</font> and click on the <font color='#00D8FF'>[Mission]</font> tab to access the daily missions.
 
 ID=5833
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>[Sコイン]</font>は、専用商店で使用できます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>[S Coin]</font> can be used at the Vending Machine.
 
 ID=5834
 <font color='#FFFFFF' size='30'>TIP: </font><font color='#00D8FF'>[Secret Events]</font> randomly appear inside dungeons.
@@ -3689,7 +3689,7 @@ ID=5900
 <font color='#FFFFFF' size='30'>TIP: </font>You can see the currently worn underwear by using a Bathtub or a Shower Booth.
 
 ID=5901
-<font color='#FFFFFF'><font size="30">TIP：</font>アイテムモールのスタイルタブで<font color='#00D8FF'>[外見アイテム]</font>を購入することで、外見を変更できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>You can change the appearance of your character by buying<font color='#00D8FF'> [Fashion Items]</font> on the Style tab of the Item Mall.
 
 ID=5902
 <font color='#FFFFFF' size='30'>TIP: </font>If your character reaches 0 <font color='#00D8FF'>[HP]</font>, it will become incapacitated and unable to continue fighting.\nManage your HP with care!
@@ -4967,7 +4967,7 @@ ID=10434
 A New Leap
 
 ID=10441
-A Midnight Surprise Attack
+Night Raid
 
 ID=10442
 Burning City
@@ -5513,7 +5513,7 @@ ID=16803
 Selling
 
 ID=16804
-List
+Market List
 
 ID=16805
 {0}/{1}/{2}\n{3}: {4}
@@ -5678,7 +5678,7 @@ ID=16861
 All
 
 ID=16862
-Trading Fee
+Sales Commission
 
 ID=16863
 Registration Fee 
@@ -6341,7 +6341,7 @@ ID=18654
 This coupon has already been used.
 
 ID=18655
-すでに参加済みのイベントです。(同一アカウント1回制限)
+You already attended on this event. (Limited to 1 time for the same account)
 
 ID=18656
 This coupon has expired.
@@ -6389,19 +6389,19 @@ ID=18712
 Force
 
 ID=18750
-使用者認証情報を要請中です。\nしばらくお待ちください。
+Requesting user authentication information. \n Please wait for a moment.
 
 ID=18751
-使用者認証情報を確認中です。\nしばらくお待ちください。
+Checking user authentication information. \n Please wait for a moment.
 
 ID=18752
-サーバーリスト情報を確認中です。\nしばらくお待ちください。
+Checking server list information. \n Please wait for a moment.
 
 ID=18753
-現在、接続可能なサーバーがありません。
+Currently, there are no available servers to connect to.
 
 ID=18754
-サーバーが混雑しています。\nしばらくしてから、もう一度お試しください。\n初めてお越し方は、別のサーバーをご利用ください。
+The server is busy. \n Please wait a while and try again. \n If you are visiting for the first time, please use another server.
 
 ID=18755
 Character Purchase Limit
@@ -6410,16 +6410,16 @@ ID=18756
 Account Purchase Limit
 
 ID=18757
-サーバー許容人数超過
+Server capacity has been exceeded.
 
 ID=18758
 <font color='#FFC000'>[{0}]Server is full. </font>\n<font color='#00B0F0'>Connection queue: {1}</font> \n\nWaiting to reconnect
 
 ID=18759
-キャラクター購入限度を超過しました。
+The character purchases limit has been exceeded.
 
 ID=18760
-アカウント購入限度を超過しました。
+Your account purchases limit has been exceeded.
 
 ID=18810
 1 Year Anniversary
@@ -6644,7 +6644,7 @@ ID=19514
 Marine Marine
 
 ID=19516
-もう一つの和の心得
+Another Knowledge of Japanese culture
 
 ID=20010
 Greet
@@ -6806,7 +6806,7 @@ ID=20142
 Chocolatier
 
 ID=20143
-I'm giving you... chocolate.
+Gives... chocolate.
 
 ID=20144
 {0} gives chocolate.
@@ -7001,7 +7001,7 @@ ID=21033
 Cannot enter the dungeon because {0} does not have enough fatigue.
 
 ID=21034
-疲労度が足りないため、このエピソードではパーティー検索機能を使用できません。
+Party search function not available due to lack of fatigue.
 
 ID=21035
 Cannot be used when your basic fatigue is at maximum (200).
@@ -7667,7 +7667,7 @@ ID=22530
 Whisper Reply
 
 ID=22531
-相互作用
+Interact
 
 ID=22532
 Confirm Item Name
@@ -8021,7 +8021,7 @@ ID=22670
 ※ Game performance will increase at the cost of visual details.
 
 ID=22671
-Anti-aliasing will be applied on the next startup.
+アンチエイリアス効果は、ゲームを再起動すると適用されます。\n未適用時、一部半透明のコスチュームで問題が発生する場合があります。
 
 ID=22672
 Hotkey Controls Help
@@ -9209,7 +9209,7 @@ ID=24891
 Parts
 
 ID=24892
-ヨミの秘蔵庫ポイント
+Yomi's Treasury point
 
 ID=24893
 Hammer
@@ -10016,13 +10016,13 @@ ID=26351
 On kill, +{0} Attack for 1s
 
 ID=26352
-HPが10%以下の時、10秒間、攻撃力{0}増加
+When HP is 10% or less, attack power increases with {0} for 10 seconds.
 
 ID=26353
-HPが10%以下の時、10秒間、スーパーアーマー破壊力{0}%適用
+When HP is 10% or less, Super Armor Destructive Power increases with {0}% for 10 seconds
 
 ID=26354
-HPが5%以下の時に攻撃成功時、10%の確率で1秒無敵
+When HP is 5% or less, if your attack is successful, there is a 10% chance of being invincible for 1 second.
 
 ID=26355
 On kill, 5% chance of Super Armor for 1s.
@@ -10040,7 +10040,7 @@ ID=26359
 On kill, 5% chance of Super Armor for 5s.
 
 ID=26360
-スーパーアーマーブレイク発動時、5秒間、クリティカル{0}%増加
+When Super Armor Break is activated, critical chances increases with {0}% for 5 seconds
 
 ID=26361
 On evaded hit, 10% chance of +{0} Critical Dmg for 3s
@@ -10079,10 +10079,10 @@ ID=26372
 When evaded, 30% chance of +{0}% SA Break for 5s
 
 ID=26373
-スキル使用時、10%の確率で5秒間、攻撃力{0}増加
+When using a skill, there is a 10% chance that your attack power will increase with {0} for 5 seconds.
 
 ID=26374
-スキル使用時、10%の確率で5秒間、命中度{0}増加
+When using a skill, there is a 10% chance that you accuracy will increase by {0} for 5 seconds.
 
 ID=26375
 On skill use, 30% chance of +{0}% Missed Attack Dmg for 5s
@@ -10103,7 +10103,7 @@ ID=26380
 On kill Effect: +{0} SA Break for 5s
 
 ID=26381
-討伐効果：5秒間、敵の防御度貫通{0}%増加
+Subjugation Effect: Increases penetration on enemy defense with {0}% for 5 seconds
 
 ID=26382
 When evaded, 30% chance of +{0} Attack for 5s
@@ -10244,7 +10244,7 @@ ID=27836
 When hit, 5% chance of +{0} SV
 
 ID=27837
-ジャンプ攻撃時、5%の確率でクリティカル{0}%増加(クリティカル命中時解除)
+5% chance to increase critical with {0}% when jumping (cancelled on critical hit)
 
 ID=27838
 On dodge, 5% chance of +{0}% SG
@@ -10256,7 +10256,7 @@ ID=27840
 On SA Break, 10% chance of +{0} Critical Dmg for 3s
 
 ID=27841
-スキル使用時、5%の確率で4秒間、クリティカル{0}%増加
+5% chance to increase critical with {0}% for 4 seconds when using the skill
 
 ID=27842
 When hit, +{0}% Attack (cancelled on hit)
@@ -10265,7 +10265,7 @@ ID=27843
 When hit, 5% chance of +{0}% HP
 
 ID=27844
-第6区域でクリティカル{0}%増加
+Critical Increased with {0}% in District 6
 
 ID=27845
 In District 6, +{0}% Maximum HP
@@ -10286,7 +10286,7 @@ ID=27850
 When gaining zenny, 10% chance of +{0}% HP of gained amount
 
 ID=27851
-命中時、対象のHPが50%以上の時、クリティカル{0}%増加(命中時解除)
+On hit, when the target's HP is 50% or more, critical increases with {0}% (cancelled on hit)
 
 ID=27852
 On hit, +{0} Critical Dmg to enemies with less than 50% HP (cancelled on critical hit)
@@ -11153,16 +11153,16 @@ ID=28265
 This guild mark is identical to the previous one.
 
 ID=28266
-ギルド加入状態の時のみ使用可能です。
+It can be used only when you are a member of a guild.
 
 ID=28267
-{0}時間{1}分後復活
+Resurrect in {0} hours and {1} minutes
 
 ID=28268
-{0}分後復活
+Resurrect in {0} minutes
 
 ID=28269
-{0}秒後復活
+Resurrect in {0} seconds
 
 ID=29000
 My Room
@@ -11459,10 +11459,10 @@ ID=29098
 Received rank rewards.\nPlease check your account mail.
 
 ID=29121
-マイルーム情報を読込中です。\n読込が完了するとこのメッセージは自動に消えます。\n\n時間が1分以上かかる場合には「確認」ボタンを押して街に戻る事が出来ます。
+Room information is being read. \n This message disappears automatically when the reading is completed. \n \n If it takes more than 1 minute, you can return to the city by pressing the "Confirm" button.
 
 ID=29122
-マイルーム入場中
+Entering My Room
 
 ID=30000
 Profile
@@ -11720,7 +11720,7 @@ ID=31074
 Post Ad
 
 ID=31075
-パーティー/フォース申請者
+Party / Force Request
 
 ID=31076
 Party recruitment
@@ -11798,7 +11798,7 @@ ID=31100
 Recruiting Members
 
 ID=31101
-Anything
+Select
 
 ID=31102
 Training
@@ -11828,16 +11828,16 @@ ID=31110
 Your party recruitment ad lasts for [{0}]m [{1}]s.
 
 ID=31111
-パーティー/フォース申請が完了しました。\nパーティー/フォース申請は30分後に自動で削除されます。\n(残り申請可能回数：{0}回)
+The party / force request is complete. \n The party / force request will be automatically deleted after 30 minutes. \n (Time left: {0} times)
 
 ID=31112
-パーティー/フォース申請は30分後に自動削除されます。
+Party / force requests will be automatically deleted after 30 minutes.
 
 ID=31113
-パーティー/フォース申請可能回数を超過しました。
+You already exceeded the maximum amount permitted for Party / Force Request application. 
 
 ID=31114
-申請をしたパーティー/フォースがありません。
+There is not application for Party / Force Request
 
 ID=31115
 Applied already.
@@ -11879,22 +11879,22 @@ ID=31127
 Party Recruitment advertisement re-registration cancelled.
 
 ID=31128
-パーティー/フォース申請完了
+Party / Force Request completed
 
 ID=31129
-パーティー/フォース申請完了のお知らせ
+Reminder Party / Force Request completed
 
 ID=31130
-申請パーティー/フォース回数超過
+Exceeded the Party / Force Requests limit
 
 ID=31131
-申請済みのパーティー/フォースなし
+No Party / Force Requests
 
 ID=31132
 The party application has been sent already.
 
 ID=31133
-申請パーティー/フォース混雑状態
+Party / Force Requests crowded.
 
 ID=31134
 Post Ad
@@ -11963,7 +11963,7 @@ ID=31155
 You may enter the dungeon after it has been cleared.
 
 ID=31156
-メイズ離脱後5分経過したため、合流できません。
+You have to wait 5 minutes after you left the dungeon to be able to enter again.
 
 ID=31157
 You may not join the Party while the party is fighting a boss.
@@ -12017,7 +12017,7 @@ ID=31173
 Cannot apply to join a Party from a lawless zone.
 
 ID=31174
-その他のエラーによる終了状態のため、合流が行えます。\nボスとの戦闘など合流が行えない場合もあります。\n合流しますか？-残り時間：{0}秒-
+An unexpected error occurred, but you can enter. \n In some cases, you may not be able to join the battle, such as fighting with the boss. \n Do you want to join? -Remaining time: {0} seconds-
 
 ID=31175
 You cannot rejoin if you quit the game on purpose.\nYou can only rejoin if the game has ended due to an unexpected error.
@@ -12344,7 +12344,7 @@ ID=32104
 Coin Shop
 
 ID=32105
-Exchange
+Market
 
 ID=32106
 Y.P Shop
@@ -12767,7 +12767,7 @@ ID=35203
 Used {1} BP to purchase {0}
 
 ID=36000
-Anything
+Select
 
 ID=36001
 Confirm
@@ -13076,7 +13076,7 @@ ID=38016
 +{0}% Result Zenny
 
 ID=38022
-取引所の販売手数料免除
+Market Sales Commission Exemption
 
 ID=38023
 曜日に関係なく、全属性カジュアルレイド入場可能
@@ -14930,7 +14930,7 @@ ID=42053
 Chaser
 
 ID=42054
-Raid Troop Chaser
+Raid Unit Chaser
 
 ID=42055
 Katja
@@ -15050,7 +15050,7 @@ ID=42093
 Amanda
 
 ID=42094
-Reconnaisance Officer Amanda
+Comms Private Amanda
 
 ID=42095
 Sieg Prototype
@@ -15164,7 +15164,7 @@ ID=42131
 Ian
 
 ID=42132
-Attack Trooper Ian
+Attack Private Ian
 
 ID=42133
 Full Armor Sieg Prototype
@@ -15236,10 +15236,10 @@ ID=42155
 Sunny
 
 ID=42156
-Medical Trooper Sunny
+Medical Private Sunny
 
 ID=42157
-Medical Troop Fortune
+Medical Unit Fortune
 
 ID=42158
 Nurse Fortune
@@ -15248,7 +15248,7 @@ ID=42159
 Miracle in White Clothing Fortune
 
 ID=42160
-Medical Troop Fortune μ
+Medical Unit Fortune μ
 
 ID=42161
 Nurse Fortune μ
@@ -15260,7 +15260,7 @@ ID=42163
 Strike Force
 
 ID=42164
-Offensive Strike Force
+Attack Unit Force Strike
 
 ID=42165
 The One True Strike Force
@@ -15269,7 +15269,7 @@ ID=42166
 Strike Force μ
 
 ID=42167
-Offensive Strike Force μ
+Attack Unit Force Strike μ
 
 ID=42168
 The One True Strike Force μ
@@ -15686,7 +15686,7 @@ ID=42305
 Chaser
 
 ID=42306
-Raid Troop Chaser
+Raid Unit Chaser
 
 ID=42307
 Blood Absorption's Edge Chaser
@@ -15695,7 +15695,7 @@ ID=42308
 Chaser μ
 
 ID=42309
-Raid Troop Chaser μ
+Raid Unit Chaser μ
 
 ID=42310
 Blood Absorption's Edge Chaser μ
@@ -16082,19 +16082,19 @@ ID=42437
 Warrant Officer Amanda
 
 ID=42438
-Communications Officer Amanda
+Comms Officer Amanda
 
 ID=42439
-Emergency Communications Amanda
+Emergency Comms Amanda
 
 ID=42440
 Warrant Officer Amanda μ
 
 ID=42441
-Communications Officer Amanda μ
+Comms Officer Amanda μ
 
 ID=42442
-Emergency Communications Amanda μ
+Emergency Comms Amanda μ
 
 ID=42445
 Lucy
@@ -16430,10 +16430,10 @@ ID=43292
 [SH] Rapid Flame
 
 ID=43157
-[S] Medical Troop Fortune
+[S] Medical Unit Fortune
 
 ID=43160
-[SH] Medical Troop Fortune
+[SH] Medical Unit Fortune
 
 ID=43163
 [S] Strike Force
@@ -19166,7 +19166,7 @@ ID=53138
 Cannot enter the dungeon because a party member does not meet the dungeon requirements.
 
 ID=53139
-Cannot enter because there are members that don't meet the entrance quest requirements.
+本人またはメンバーが入場クエストを満たしていないため、入場できません。
 
 ID=53140
 Cannot enter because there are members that do no possess the required entry item.
@@ -19391,7 +19391,7 @@ ID=55036
 Cannot enter this dungeon.
 
 ID=55037
-Please accept the quest in order to enter the dungeon.
+本人またはメンバーが入場クエストを満たしていないため、入場できません。
 
 ID=55038
 Please wait for all party members to complete their quests before moving on.
@@ -19436,7 +19436,7 @@ ID=55053
 Cannot enter because you have exceeded the entry limit.
 
 ID=55055
-A member cannot enter because it doesn't meet the entrance quest requirements.
+本人またはメンバーが入場クエストを満たしていないため、入場できません。
 
 ID=55056
 A member cannot enter because it doesn't possess {0}.
@@ -19889,7 +19889,7 @@ ID=58203
 Room creation failure.
 
 ID=58204
-Room entrance failure.
+マイルーム移動失敗
 
 ID=58205
 Cannot enter because the room is in placement mode.
@@ -20174,7 +20174,7 @@ ID=60103
 Weekly Rankings are reset every week.
 
 ID=60104
-Ranking Reward
+Ranking Info
 
 ID=60105
 Raid
@@ -21866,7 +21866,7 @@ ID=20162
 {0}がサンタグルトンに変身しました。
 
 ID=20163
-もう一つの和の心得
+Another Knowledge of Japanese culture
 
 ID=20164
 もう一つの和の心得を楽しく表現しています。
@@ -22310,7 +22310,7 @@ ID=60547
 Operation
 
 ID=60548
-Ranking Reward
+Ranking Info
 
 ID=60549
 参加回数
@@ -23096,67 +23096,67 @@ ID=18221
 小さな夢の7日間ミッション
 
 ID=41388
-Clear 「Control Zone 43 EP 1 Normal」 2 times
+Clear [Control Zone 43 EP 1 Normal] 2 times
 
 ID=41389
-Clear 「Control Zone 43 EP 3 Normal」 2 times
+Clear [Control Zone 43 EP 3 Normal] 2 times
 
 ID=41390
-Clear 「Control Zone 43 EP 2 Normal」 2 times
+Clear [Control Zone 43 EP 2 Normal] 2 times
 
 ID=41391
-Clear 「Control Zone 43 EP 4 Normal」 2 times
+Clear [Control Zone 43 EP 4 Normal] 2 times
 
 ID=41392
-Clear 「Best Showtime EP 1 Normal」 2 times
+Clear [Best Showtime EP 1 Normal] 2 times
 
 ID=41393
-Clear 「R Square EP 4 Normal」 2 times
+Clear [R Square EP 4 Normal] 2 times
 
 ID=41394
-Clear 「Best Showtime EP 3 Normal」 3 times
+Clear [Best Showtime EP 3 Normal] 3 times
 
 ID=41395
-Clear 「Concrete Jungle EP 2 Normal」 2 times
+Clear [Concrete Jungle EP 2 Normal] 2 times
 
 ID=41396
-Clear 「Concrete Jungle EP 4 Normal」 2 times
+Clear [Concrete Jungle EP 4 Normal] 2 times
 
 ID=41397
-Clear 「Concrete Jungle EP 3 Normal」 2 times
+Clear [Concrete Jungle EP 3 Normal] 2 times
 
 ID=41398
-Clear 「N-102 EP 4 Normal」 2 times
+Clear [N-102 EP 4 Normal] 2 times
 
 ID=41399
-Clear 「Junk Pool EP 4 Normal」 3 times
+Clear [Junk Pool EP 4 Normal] 3 times
 
 ID=41400
 Clear Breakout EP3 Normal 3 times
 
 ID=41401
-Clear 「Front Line EP 1 Normal」 2 times
+Clear [Front Line EP 1 Normal] 2 times
 
 ID=41402
-Clear 「NED Company EP 4 Normal」 2 times
+Clear [NED Company EP 4 Normal] 2 times
 
 ID=41403
-Clear 「NED Company EP 3 Normal」 2 times
+Clear [NED Company EP 3 Normal] 2 times
 
 ID=41404
-Clear 「Wolf Cry EP 2 Normal」 2 times
+Clear [Wolf Cry EP 2 Normal] 2 times
 
 ID=41405
-Clear 「Cold Rain EP 1 Normal」 2 times
+Clear [Cold Rain EP 1 Normal] 2 times
 
 ID=41406
-Clear 「Cold Rain EP 3 Normal」 2 times
+Clear [Cold Rain EP 3 Normal] 2 times
 
 ID=41407
-Clear 「Flame Breaker EP 3 Normal」 3 times
+Clear [Flame Breaker EP 3 Normal] 3 times
 
 ID=41408
-Clear 「Cold Rain EP 4 Normal」 3 times
+Clear [Cold Rain EP 4 Normal] 3 times
 
 ID=41409
 シロに会う
@@ -26003,10 +26003,10 @@ ID=30206
 Add'l. Fashion Effect
 
 ID=21106
-Character Crafting Limit
+Per Character
 
 ID=21107
-Account Crafting Limit
+Per Account
 
 ID=21108
 Craftable Amount
@@ -26393,7 +26393,7 @@ ID=31189
 Force Recruitment
 
 ID=31190
-Anything
+Select
 
 ID=31191
 フォース参加
@@ -27479,7 +27479,7 @@ ID=65804
 13th ~ 20th Rewards
 
 ID=65805
-20th ~ 30th Rewards
+21st ~ 30th Rewards
 
 ID=65806
 31st ~ 50th Rewards
@@ -27536,7 +27536,7 @@ ID=66104
 13th ~ 20th Rewards
 
 ID=66105
-20th ~ 30th Rewards
+21st ~ 30th Rewards
 
 ID=66106
 31st ~ 50th Rewards
@@ -27605,7 +27605,7 @@ ID=66208
 101st ~ Top 10% Rewards
 
 ID=66209
-Top 10% ~ 15% Rewards
+Top 11% ~ 15% Rewards
 
 ID=66210
 Top 16% ~ 20% Rewards
@@ -27659,7 +27659,7 @@ ID=66226
 101st ~ Top 5% Rewards
 
 ID=66227
-Top 5% ~ 10% Rewards
+Top 6% ~ 10% Rewards
 
 ID=66228
 Top 11% ~ 20% Rewards
@@ -28823,7 +28823,7 @@ ID=19133
 +<font color='#E0B94F'>3%</font> / <font color='#F15F5F'>4%</font> / <font color='#8041D9'>5%</font> Critical
 
 ID=19134
-+<font color='#E0B94F'>12%</font> / <font color='#F15F5F'>18%</font> / <font color='#8041D9'>25%</font> SA Break
+スーパーアーマー破壊力<font color='#E0B94F'>12%</font>/<font color='#F15F5F'>18%</font>/<font color='#8041D9'>25%</font>増加
 
 ID=19135
 0
@@ -28988,13 +28988,13 @@ ID=37131
 アカシャの意思を受け、世界を試すために現れた巨大怪物。崩れかけたこの世界に価値がないと判断すれば、この怪物はすべてを浄化してしまうだろう。
 
 ID=37140
-ワールドボス
+World Boss
 
 ID=37141
 全サーバー討伐回数
 
 ID=37142
-ドロップアイテムリスト
+Item Drops List
 
 ID=37143
 討伐報酬リスト
@@ -29075,19 +29075,19 @@ ID=29201
 <font color='#CC2EFA'>Souljunk
 
 ID=29202
-<font color='#FA5882'>スタリーフォレスト
+<font color='#FA5882'>Starry Forest
 
 ID=29203
-<font color='#FA5882'>ネッドカンパニー
+<font color='#FA5882'>NED Company
 
 ID=29204
-<font color='#FA5882'>ラピッドフレイム
+<font color='#FA5882'>Rapid Flame
 
 ID=29205
 <font color='#FFBF00'>Gold Forces
 
 ID=29206
-<font color='#00FFFF'>ソウルワーカー
+<font color='#00FFFF'>Soulworker
 
 ID=29207
 <font color='#FF0040'>運命
@@ -29207,7 +29207,7 @@ ID=37201
 Select the skills to be used.
 
 ID=37202
-Anything
+Select
 
 ID=37203
 Abilities
@@ -29492,7 +29492,7 @@ ID=710047
 Steamy Open-air Bath
 
 ID=10142
-ソウルジャンパー2nd
+Soul Jumper 2nd
 
 ID=40322
 エキスパートのチェックポイントが活性化されました。
@@ -29507,16 +29507,16 @@ ID=33585
 Custom-made Set
 
 ID=10127
-ホワイトアウト
+White Out
 
 ID=10128
-レジェレクションプロジェクト
+Resurrection Project
 
 ID=10129
-アンタッチャブルパス
+Untouchable Pass
 
 ID=10130
-ヘルシティ
+Hell City
 
 ID=10133
 Binded Room
@@ -29546,10 +29546,10 @@ ID=10586
 Failed Goal
 
 ID=10587
-届かない道
+Untouchable Pass
 
 ID=10588
-通路の血戦
+Bloody Passage
 
 ID=10589
 Faded Voice
@@ -29573,10 +29573,10 @@ ID=10595
 Binded Room
 
 ID=40816
-セデュリンと会話してクエストを進行した後当該装置を起動してバインディドルームを開始できます。
+After talking to Sedurin and proceeding with the quest, you can activate the device and start the Vinded Room.
 
 ID=37360
-移動する地域を選択してください。
+Please select the area you want to move to.
 
 ID=37361
 EXIT
@@ -29585,7 +29585,7 @@ ID=37362
 Skip Cutscene
 
 ID=37363
-メイズ移動[{0}]
+Dungeon move [{0}]
 
 ID=10596
 Grace City West War
@@ -29595,3 +29595,84 @@ ID=18825
 
 ID=18826
 2021 New Year's Celebration Coupon
+
+ID=20248
+Romance & Blossom
+
+ID=20249
+華やかなウェディング写真を撮るためにポーズを取ります。
+
+ID=20250
+{0}さんが華やかなウェディング写真を撮るためにポーズを取ります。
+
+ID=710039
+Romance & Blossom
+
+ID=23206
+Romance & Blossom
+
+ID=23306
+花びらが舞い世界の主役となる今日、ほのかに広がるウェディングマーチの中で、その流れに溶け込む。\n戦闘能力に変化はないが、この特別な衣装にふさわしい姿を見せることができる。\n\n※イコライザー着用時にはロマンス＆ブロッサムのエフェクトおよびボイスが適用。
+
+ID=9898
+Eternal Promise
+
+ID=59309
+現在の町ではソーシャルアイテムを使用できません。
+
+ID=55092
+現在の町ではチャンネル移動できません。
+
+ID=58249
+現在の地域ではマイルームに移動できません。
+
+ID=28726
+Worn on
+
+ID=28727
+Brooch
+
+ID=28728
+Effect
+
+ID=28729
+Set Effect
+
+ID=28730
+Attach
+
+ID=28731
+Simulator
+
+ID=28732
+SD
+
+ID=28733
+BSK
+
+ID=28734
+FOT
+
+ID=28735
+SIN
+
+ID=28736
+Attack
+
+ID=28737
+Defense
+
+ID=28738
+Utility
+
+ID=28739
+挿入
+
+ID=28740
+Remove
+
+ID=4029
+ワールド移動に失敗し、ワープアイテム使用が制限されました。
+
+ID=31204
+侵入不可

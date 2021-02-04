@@ -105,7 +105,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 ID=211
 Sub Weapon Mastery
 [Info]\nDamage: [100%]\n\nQuickly throws a dagger, causing hit enemies to bleed.\nCan be used on ground or in mid-air. When on the ground, use the sub weapon button to control the timing of the dagger throw.
-Cannot be learned right now.
+Can't be learned right now.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 0
@@ -113,7 +113,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 ID=221
 Sub Weapon Mastery
 [Info]\nDamage: [100%]\n\nQuickly throws a dagger, causing hit enemies to bleed.\nCan be used on ground or in mid-air. When on the ground, use the sub weapon button to control the timing of the dagger throw.
-Cannot be learned right now.
+Can't be learned right now.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 0
@@ -128,7 +128,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=1041
 Dodge Ⅰ
-[Info]\nStamina Cost: [20]\n\nSwiftly dodge to a specific direction.\nDamage is negated during evasion.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] Press (Move Key) twice.
+[Info]\nStamina Cost: [20]\n\nSwiftly dodge to a specific direction.\nNegates damage during dodge.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] Press (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
@@ -136,7 +136,7 @@ Movie/Skill/PC_A/PC_A_B_Evade_F
 
 ID=1081
 Roll Ⅰ
-[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -144,7 +144,7 @@ Movie/Skill/PC_A/PC_A_B_Roll_F
 
 ID=1082
 Roll Ⅱ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Faster rolling speed.
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -152,7 +152,7 @@ Movie/Skill/PC_A/PC_A_B_Roll_F
 
 ID=1083
 Roll Ⅲ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -977,7 +977,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 ID=212
 Sub Weapon Mastery
 [Info]\nDamage: [100%]\n\nFire an explosive trap and stick it to an enemy. +100% Accuracy to the hit enemy. The trap explodes after 5s.
-Cannot be learned right now.
+Can't be learned right now.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 0
@@ -985,7 +985,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 ID=222
 Sub Weapon Mastery
 [Info]\nDamage: [100%]\n\nFire an explosive trap and stick it to an enemy. +100% Accuracy to the hit enemy. The trap explodes after 5s.
-Cannot be learned right now.
+Can't be learned right now.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 0
@@ -1000,7 +1000,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=2041
 Dodge Ⅰ
-[Info]\nStamina Cost: [20]\n\nSwiftly dodge to a specific direction.\nDamage is negated during evasion.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] Press (Move Key) twice.
+[Info]\nStamina Cost: [20]\n\nSwiftly dodge to a specific direction.\nNegates damage during dodge.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] Press (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
@@ -1008,7 +1008,7 @@ Movie/Skill/PC_B/B_Evade_F
 
 ID=2081
 Roll Ⅰ
-[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -1016,7 +1016,7 @@ Movie/Skill/PC_B/B_Roll_F
 
 ID=2082
 Roll Ⅱ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Faster rolling speed.
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -1024,7 +1024,7 @@ Movie/Skill/PC_B/B_Roll_F
 
 ID=2083
 Roll Ⅲ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -1825,7 +1825,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 ID=213
 Sub Weapon Mastery
 [Info]\nDamage: [100%]\n\nThrow the scythe, attacking multiple enemies. Slightly pulls hit enemies.
-Cannot be learned right now.
+Can't be learned right now.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 0
@@ -1833,7 +1833,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 ID=223
 Sub Weapon Mastery
 [Info]\nDamage: [100%]\n\nThrow the scythe, attacking multiple enemies. Slightly pulls hit enemies.
-Cannot be learned right now.
+Can't be learned right now.
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 0
@@ -1848,7 +1848,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=3041
 Dodge Ⅰ
-[Info]\nStamina Cost: [20]\n\nSwiftly dodge to a specific direction.\nDamage is negated during evasion.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] Press (Move Key) twice.
+[Info]\nStamina Cost: [20]\n\nSwiftly dodge to a specific direction.\nNegates damage during dodge.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] Press (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
@@ -1856,7 +1856,7 @@ Movie/Skill/PC_C/B_Evade_F
 
 ID=3081
 Roll Ⅰ
-[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -1864,7 +1864,7 @@ Movie/Skill/PC_C/B_Roll_F
 
 ID=3082
 Roll Ⅱ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Faster rolling speed.
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -1872,7 +1872,7 @@ Movie/Skill/PC_C/B_Roll_F
 
 ID=3083
 Roll Ⅲ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -1992,23 +1992,23 @@ Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 
 ID=3141
 Intensifying Madness Ⅰ
-[Info]\nPassive Effect: +[400] Critical Damage\n\nPermanently increases critical damage.
-Critical Damage: [400]+400
+[Info]\nPassive Effect: +[100%] Critical Damage\n\nPermanently increases critical damage.
+Critical Damage: [100%]+50%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive
 0
 0
 
 ID=3142
 Intensifying Madness Ⅱ
-[Info]\nPassive Effect: +[800] Critical Damage\n\nPermanently increases critical damage.
-Critical Damage: [800]+500
+[Info]\nPassive Effect: +[150%] Critical Damage\n\nPermanently increases critical damage.
+Critical Damage: [150%]+50%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive
 0
 0
 
 ID=3143
 Intensifying Madness Ⅲ
-[Info]\nPassive Effect: +[1300] Critical Damage\n\nPermanently increases critical damage.
+[Info]\nPassive Effect: +[200%] Critical Damage\n\nPermanently increases critical damage.
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive
 0
@@ -2064,7 +2064,7 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 
 ID=13011
 Evil Slash Ⅰ
-[Info]\nDamage: [43%] [173%]\nSA Break: [31%] [126%]\nSG Cost: [30]\nCooldown: [10s]\n\nQuickly spin the scythe, then push enemies with the final blow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Info]\nDamage: [43%] [173%]\nSA Break: [31%] [126%]\nSG Cost: [20]\nCooldown: [10s]\n\nQuickly spin the scythe, then push enemies with the final blow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 Damage: [43%]+4%, [173%]+17%\nSA Break: [31%]+2%, [126%]+6%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
@@ -2072,7 +2072,7 @@ Movie/Skill/PC_C/B_Skill_EvilSlash
 
 ID=13012
 Evil Slash Ⅱ
-[Info]\nDamage: [47%] [190%]\nSA Break: [33%] [132%]\nSG Cost: [30]\nCooldown: [10s]\n\nQuickly spin the scythe, then push enemies with the final blow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Info]\nDamage: [47%] [190%]\nSA Break: [33%] [132%]\nSG Cost: [20]\nCooldown: [10s]\n\nQuickly spin the scythe, then push enemies with the final blow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 Damage: [47%]+6%, [190%]+23%\nSA Break: [33%]+4%, [132%]+15%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
@@ -2080,7 +2080,7 @@ Movie/Skill/PC_C/B_Skill_EvilSlash
 
 ID=13013
 Evil Slash Ⅲ
-[Info]\nDamage: [53%] [213%]\nSA Break: [37%] [147%]\nSG Cost: [30]\nCooldown: [10s]\n\nQuickly spin the scythe, then push enemies with the final blow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Info]\nDamage: [53%] [213%]\nSA Break: [37%] [147%]\nSG Cost: [20]\nCooldown: [10s]\n\nQuickly spin the scythe, then push enemies with the final blow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 Damage: [53%]+8%, [213%]+30%\nSA Break: [37%]+4%, [147%]+16%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
@@ -2088,7 +2088,7 @@ Movie/Skill/PC_C/B_Skill_EvilSlash
 
 ID=13014
 Evil Slash Ⅳ
-[Info]\nDamage: [61%] [243%]\nSA Break: [41%] [163%]\nSG Cost: [30]\nCooldown: [10s]\n\nQuickly spin the scythe, then push enemies with the final blow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Info]\nDamage: [61%] [243%]\nSA Break: [41%] [163%]\nSG Cost: [20]\nCooldown: [10s]\n\nQuickly spin the scythe, then push enemies with the final blow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 Damage: [61%]+11%, [243%]+43%\nSA Break: [41%]+6%, [163%]+25%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
@@ -2096,7 +2096,7 @@ Movie/Skill/PC_C/B_Skill_EvilSlash
 
 ID=13015
 Evil Slash Ⅴ
-[Info]\nDamage: [72%] [286%]\nSA Break: [47%] [188%]\nSG Cost: [30]\nCooldown: [10s]\n\nQuickly spin the scythe, then push enemies with the final blow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Info]\nDamage: [72%] [286%]\nSA Break: [47%] [188%]\nSG Cost: [20]\nCooldown: [10s]\n\nQuickly spin the scythe, then push enemies with the final blow.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_EvilSlash
 0
@@ -2104,16 +2104,16 @@ Movie/Skill/PC_C/B_Skill_EvilSlash
 
 ID=13021
 Spinning Devil Ⅰ
-[Info]\nDamage: [178%]\nSA Break: [209%]\nSG Cost: [25]\nSG Recovery: [1]\nCooldown: [12s]\n\nSwiftly lunge forward, unleashing a spin attack. Gain SG on hit.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-Damage: [178%]+9%\nSA Break: [209%]+10%\nSG Cost: [25]-2\nSG Recovery: [1]+1\nCooldown: [12s]-2s
+[Info]\nDamage: [178%]\nSA Break: [209%]\nSG Cost: [25]\nSG Recovery: [3]\nCooldown: [12s]\n\nSwiftly lunge forward, unleashing a spin attack. Gain SG on hit.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [178%]+9%\nSA Break: [209%]+10%\nSG Cost: [25]-2\nSG Recovery: [3]+1\nCooldown: [12s]-2s
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_SpinningDevil
 0
 Movie/Skill/PC_C/B_Skill_SpinningDevil
 
 ID=13022
 Spinning Devil Ⅱ
-[Info]\nDamage: [187%]\nSA Break: [219%]\nSG Cost: [23]\nSG Recovery: [2]\nCooldown: [10s]\n\nSwiftly lunge forward, unleashing a spin attack. Gain SG on hit.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-Damage: [187%]+22%\nSA Break: [219%]+27%\nSG Cost: [23]-3\nSG Recovery: [2]+1\nCooldown: [10s]-2s
+[Info]\nDamage: [187%]\nSA Break: [219%]\nSG Cost: [23]\nSG Recovery: [4]\nCooldown: [10s]\n\nSwiftly lunge forward, unleashing a spin attack. Gain SG on hit.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [187%]+22%\nSA Break: [219%]+27%\nSG Cost: [23]-3\nSG Recovery: [4]+1\nCooldown: [10s]-2s
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_SpinningDevil
 0
 Movie/Skill/PC_C/B_Skill_SpinningDevil
@@ -2121,22 +2121,22 @@ Movie/Skill/PC_C/B_Skill_SpinningDevil
 ID=13023
 Spinning Devil Ⅲ
 [Info]\nDamage: [209%]\nSA Break: [246%]\nSG Cost: [20]\nSG Recovery: [3]\nCooldown: [8s]\n\nSwiftly lunge forward, unleashing a spin attack. Gain SG on hit.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-Damage: [209%]+22%\nSA Break: [246%]+26%\nSG Cost: [20]-2\nSG Recovery: [3]+1\nCooldown: [8s]-2s
+Damage: [209%]+22%\nSA Break: [246%]+26%\nSG Cost: [20]-2\nSG Recovery: [5]+1\nCooldown: [8s]-2s
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_SpinningDevil
 0
 Movie/Skill/PC_C/B_Skill_SpinningDevil
 
 ID=13024
 Spinning Devil Ⅳ
-[Info]\nDamage: [231%]\nSA Break: [272%]\nSG Cost: [18]\nSG Recovery: [4]\nCooldown: [6s]\n\nSwiftly lunge forward, unleashing a spin attack. Gain SG on hit.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-Damage: [231%]+36%\nSA Break: [272%]+42%\nSG Cost: [18]-3\nSG Recovery: [4]+1\nCooldown: [6s]-3s
+[Info]\nDamage: [231%]\nSA Break: [272%]\nSG Cost: [18]\nSG Recovery: [6]\nCooldown: [6s]\n\nSwiftly lunge forward, unleashing a spin attack. Gain SG on hit.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [231%]+36%\nSA Break: [272%]+42%\nSG Cost: [18]-3\nSG Recovery: [6]+1\nCooldown: [6s]-3s
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_SpinningDevil
 0
 Movie/Skill/PC_C/B_Skill_SpinningDevil
 
 ID=13025
 Spinning Devil Ⅴ
-[Info]\nDamage: [267%]\nSA Break: [314%]\nSG Cost: [15]\nSG Recovery: [5]\nCooldown: [3s]\n\nSwiftly lunge forward, unleashing a spin attack. Gain SG on hit.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Info]\nDamage: [267%]\nSA Break: [314%]\nSG Cost: [15]\nSG Recovery: [7]\nCooldown: [3s]\n\nSwiftly lunge forward, unleashing a spin attack. Gain SG on hit.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_SpinningDevil
 0
@@ -2616,7 +2616,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=4041
 Dodge Ⅰ
-[Info]\nStamina Cost: [20]\n\nSwiftly dodge to a specific direction.\nDamage is negated during evasion.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] Press (Move Key) twice.
+[Info]\nStamina Cost: [20]\n\nSwiftly dodge to a specific direction.\nNegates damage during dodge.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] Press (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
@@ -2624,7 +2624,7 @@ Movie/Skill/PC_D/B_Evade_F
 
 ID=4081
 Roll Ⅰ
-[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -2632,7 +2632,7 @@ Movie/Skill/PC_D/B_Roll_F
 
 ID=4082
 Roll Ⅱ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Faster rolling speed.
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -2640,7 +2640,7 @@ Movie/Skill/PC_D/B_Roll_F
 
 ID=4083
 Roll Ⅲ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -3472,7 +3472,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=5041
 Dodge Ⅰ
-[Info]\nStamina Cost: [20]\n\nSwiftly dodge to a specific direction.\nDamage is negated during evasion.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] Press (Move Key) twice.
+[Info]\nStamina Cost: [20]\n\nSwiftly dodge to a specific direction.\nNegates damage during dodge.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] Press (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
@@ -3552,7 +3552,7 @@ Movie/Skill/PC_E/B_Rise_Attack
 
 ID=5081
 Roll Ⅰ
-[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -3560,7 +3560,7 @@ Movie/Skill/PC_E/B_Roll_F
 
 ID=5082
 Roll Ⅱ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Faster rolling speed.
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -3568,7 +3568,7 @@ Movie/Skill/PC_E/B_Roll_F
 
 ID=5083
 Roll Ⅲ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -4424,7 +4424,7 @@ Movie/Skill/PC_F/B_Rise_Attack
 
 ID=6081
 Roll Ⅰ
-[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -4432,7 +4432,7 @@ Movie/Skill/PC_F/B_Roll_F
 
 ID=6082
 Roll Ⅱ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Faster rolling speed.
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -4440,7 +4440,7 @@ Movie/Skill/PC_F/B_Roll_F
 
 ID=6083
 Roll Ⅲ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -5000,7 +5000,7 @@ Movie/Skill/PC_F/B_Skill_Earthquake
 
 ID=16101
 Electric Cannon Ⅰ
-[Info]\nDamage: [336%]\nSA Break: [627%]\nSG Cost: [50]\nCooldown: [35s]\n\nMount the weapon, firing powerful laser beams.\nCan move while using the skill.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\nKeyboard: (Move Key)
+[Info]\nDamage: [336%]\nSA Break: [627%]\nSG Cost: [50]\nCooldown: [35s]\n\nMount the weapon, firing 5 powerful laser beams.\nCan move while using the skill.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\nKeyboard: (Move Key)
 Damage: [336%]+17%\nSA Break: [627%]+31%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ElectricCannon
 0
@@ -5008,7 +5008,7 @@ Movie/Skill/PC_F/B_Skill_ElectricCannon
 
 ID=16102
 Electric Cannon Ⅱ
-[Info]\nDamage: [353%]\nSA Break: [658%]\nSG Cost: [50]\nCooldown: [35s]\n\nMount the weapon, firing powerful laser beams.\nCan move while using the skill.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\nKeyboard: (Move Key)
+[Info]\nDamage: [353%]\nSA Break: [658%]\nSG Cost: [50]\nCooldown: [35s]\n\nMount the weapon, firing 5 powerful laser beams.\nCan move while using the skill.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\nKeyboard: (Move Key)
 Damage: [353%]+42%\nSA Break: [658%]+79%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ElectricCannon
 0
@@ -5016,7 +5016,7 @@ Movie/Skill/PC_F/B_Skill_ElectricCannon
 
 ID=16103
 Electric Cannon Ⅲ
-[Info]\nDamage: [395%]\nSA Break: [737%]\nSG Cost: [50]\nCooldown: [35s]\n\nMount the weapon, firing powerful laser beams.\nCan move while using the skill.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\nKeyboard: (Move Key)
+[Info]\nDamage: [395%]\nSA Break: [737%]\nSG Cost: [50]\nCooldown: [35s]\n\nMount the weapon, firing 5 powerful laser beams.\nCan move while using the skill.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\nKeyboard: (Move Key)
 Damage: [395%]+42%\nSA Break: [737%]+78%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ElectricCannon
 0
@@ -5024,7 +5024,7 @@ Movie/Skill/PC_F/B_Skill_ElectricCannon
 
 ID=16104
 Electric Cannon Ⅳ
-[Info]\nDamage: [437%]\nSA Break: [815%]\nSG Cost: [50]\nCooldown: [35s]\n\nMount the weapon, firing powerful laser beams.\nCan move while using the skill.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\nKeyboard: (Move Key)
+[Info]\nDamage: [437%]\nSA Break: [815%]\nSG Cost: [50]\nCooldown: [35s]\n\nMount the weapon, firing 5 powerful laser beams.\nCan move while using the skill.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\nKeyboard: (Move Key)
 Damage: [437%]+67%\nSA Break: [815%]+125%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ElectricCannon
 0
@@ -5032,7 +5032,7 @@ Movie/Skill/PC_F/B_Skill_ElectricCannon
 
 ID=16105
 Electric Cannon Ⅴ
-[Info]\nDamage: [504%]\nSA Break: [940%]\nSG Cost: [50]\nCooldown: [35s]\n\nMount the weapon, firing powerful laser beams.\nCan move while using the skill.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\nKeyboard: (Move Key)
+[Info]\nDamage: [504%]\nSA Break: [940%]\nSG Cost: [50]\nCooldown: [35s]\n\nMount the weapon, firing 5 powerful laser beams.\nCan move while using the skill.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\nKeyboard: (Move Key)
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ElectricCannon
 0
@@ -5680,7 +5680,7 @@ Movie/Skill/PC_C/B_Skill_CruelSlash_B
 
 ID=23101
 Homing Ⅰ
-[Info]\nDamage: [64%]\nSA Break: [104%]\nHit Count: [30]\n\nThe tornado moves toward enemies.
+[Info]\nDamage: [64%]\nSA Break: [104%]\nHit Count: [30]\n\nThe tornado tracks enemies.
 Damage: [64%]+9%\nSA Break: [104%]+13%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_A
 0
@@ -5688,7 +5688,7 @@ Movie/Skill/PC_C/B_Skill_DeathTornado_A
 
 ID=23102
 Homing Ⅱ
-[Info]\nDamage: [73%]\nSA Break: [117%]\nHit Count: [30]\n\nThe tornado moves toward enemies.
+[Info]\nDamage: [73%]\nSA Break: [117%]\nHit Count: [30]\n\nThe tornado tracks enemies.
 Damage: [73%]+19%\nSA Break: [117%]+32%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_A
 0
@@ -5696,7 +5696,7 @@ Movie/Skill/PC_C/B_Skill_DeathTornado_A
 
 ID=23103
 Homing Ⅲ
-[Info]\nDamage: [92%]\nSA Break: [149%]\nHit Count: [30]\n\nThe tornado moves toward enemies.
+[Info]\nDamage: [92%]\nSA Break: [149%]\nHit Count: [30]\n\nThe tornado tracks enemies.
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_A
 0
@@ -6672,7 +6672,7 @@ On jump, 10% chance of +20% SG. (10s cooldown)
 
 ID=30092
 Spotlight
-Heals up to 6% HP for surrounding allies. (30s cooldown)
+Cynthia appears, recovering surrounding allies' HP by up to 6% for a certain period of time. (30s cooldown)
 .
 0
 0
@@ -6680,7 +6680,7 @@ Heals up to 6% HP for surrounding allies. (30s cooldown)
 
 ID=30093
 Spotlight
-Heals up to 11% HP for surrounding allies. (30s cooldown)
+Cynthia appears, recovering surrounding allies' HP by up to 11% for a certain period of time. (30s cooldown)
 .
 0
 0
@@ -6688,7 +6688,7 @@ Heals up to 11% HP for surrounding allies. (30s cooldown)
 
 ID=30101
 Spotlight
-Heals up to 15% HP for surrounding allies. (30s cooldown)
+Cynthia appears, recovering surrounding allies' HP by up to 15% for a certain period of time. (30s cooldown)
 .
 0
 0
@@ -7024,7 +7024,7 @@ Scar pulls and attacks surrounding enemies. (60s cooldown)
 
 ID=30241
 Beast on the Edge
-Scar will taunt nearby enemies and launch them into the air with an attack. (55s cooldown)
+Scar pulls surrounding enemies and launches them in mid-air. (55s cooldown)
 .
 0
 0
@@ -7032,7 +7032,7 @@ Scar will taunt nearby enemies and launch them into the air with an attack. (55s
 
 ID=30242
 Beast on the Edge
-Scar increases the attack of allies around him by 10% for 20s.\nAfter granting the buff, hits 2 times to the enemies. (50s cooldown)
+Scar buffs surrounding allies' Attack by 10% for 20 seconds, then attacks enemies twice. (50s cooldown)
 .
 0
 0
@@ -7240,7 +7240,7 @@ When dashing, 20% chance of +10% SG. (3s cooldown)
 
 ID=30342
 Fire Bark
-Squall invokes a flame blast towards the ground infront, setting the area ablaze. (30s cooldown)
+Sköll blows flames towards the ground, creating a flame zone. (30s cooldown)
 .
 0
 0
@@ -7248,7 +7248,7 @@ Squall invokes a flame blast towards the ground infront, setting the area ablaze
 
 ID=30343
 Fire Bark
-Invoke an area of flames to burn enemies within the vicinity. (30s cooldown)
+Sköll creates a flame zone, burning the vicinity. (30s cooldown)
 .
 0
 0
@@ -9472,7 +9472,7 @@ Movie/Skill/PC_A/PC_A_B_Skill_Spin Cutter_A
 
 ID=11913
 Extinction Prelude
-The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [2250%]\nSA Break: [2950%]\n\nAnnihilate enemies with a series of slash attacks with Haru's phantasms.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
+The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [7650%]\nSA Break: [7950%]\nSV Gain: [10]\n\nAnnihilate enemies with a series of slash attacks with Haru's phantasms.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
 LvMax
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_Prelude
 Description_Image/Skill/SoulumSword/Image_Ssword_Skill_Prelude
@@ -9480,7 +9480,7 @@ Movie/Skill/PC_A/PC_A_B_Skill_EX
 
 ID=13141
 Asmodeus
-The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [2700%]\nSA Break: [2360%]\n\nRestricts the enemies' movement, then unleash a devastating attack.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
+The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [7700%]\nSA Break: [7360%]\nSV Gain: [10]\n\nRestricts the enemies' movement, then unleash a devastating attack.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_Asmodeus
 Description_Image/Skill/Mistscythe/Image_Mcythe_Skill_Asmodeus
@@ -9576,23 +9576,23 @@ Movie/Skill/PC_C/B_Skill_DeathScythe_A_01
 
 ID=3171
 Rampaging Madness Ⅰ
-[Info]\nBuff Effect: If SG is at least [70%], -[5%] SG Cost, +[600] Critical Damage, +[5%] Penetration\nBuff Duration: [15s]\nCooldown: [60s]
-SG Cost: -[5%]-5%\nCritical Damage: [600]+600\nPenetration: [5%]+5% 
+[Info]\nWhen using certain buff skills, -[5%] SG Cost, +[100%] Critical Damage, and +[5%] Penetration for 15 seconds.\n\nSkills: Force Region, Erosion, Awakening, and Desire Awakening\nCooldown: [50s]
+SG Cost: -[5%]-5%\nCritical Damage: [100%]+100%\nPenetration: [5%]+5% 
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive2
 0
 0
 
 ID=3172
 Rampaging Madness Ⅱ
-[Info]\nBuff Effect: If SG is at least [70%], -[10%] SG Cost, +[1200] Critical Damage, +[10%] Penetration\nBuff Duration: [15s]\nCooldown: [60s]
-SG Cost: -[10%]-5%\nCritical Damage: [1200]+800\nPenetration: [10%]+10% 
+[Info]\nWhen using certain buff skills, -[10%] SG Cost, +[200%] Critical Damage, and +[10%] Penetration for 15 seconds.\n\nSkills: Force Region, Erosion, Awakening, and Desire Awakening\nCooldown: [50s]
+SG Cost: -[10%]-5%\nCritical Damage: [200%]+100%\nPenetration: [10%]+5% 
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive2
 0
 0
 
 ID=3173
 Rampaging Madness Ⅲ
-[Info]\nBuff Effect: If SG is at least [70%], -[15%] SG Cost, +[2000] Critical Damage, +[20%] Penetration\nBuff Duration: [15s]\nCooldown: [60s]
+[Info]\nWhen using certain buff skills, -[15%] SG Cost, +[300%] Critical Damage, and +[20%] Penetration for 15 seconds.\n\nSkills: Force Region, Erosion, Awakening, and Desire Awakening\nCooldown: [50s]
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_SGPassive2
 0
@@ -9784,7 +9784,7 @@ Movie/Skill/PC_C/B_Skill_CruelSlash
 
 ID=23104
 Wide Area Ⅰ
-[Info]\nDamage: [92%]\nSA Break: [54%]\nHit Count: [15]\n\nBuff Effect: +[10%] Attack Speed and Movement Speed\nBuff Duration: [10s]\n\nRaise a powerful tornado, boosting allies and attacking enemies.\n[Deal more damage to enemies launched in mid-air]
+[Info]\nDamage: [92%]\nSA Break: [54%]\nHit Count: [20]\n\nBuff Effect: +[10%] Attack Speed and Movement Speed\nBuff Duration: [10s]\n\nRaise a powerful tornado, boosting allies and attacking enemies.\n[Deal more damage to enemies launched in mid-air]
 Damage: [92%]+13%\nSA Break: [54%]+8%\nAttack Speed and Movement Speed: [10%]+5%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_B
 0
@@ -9792,7 +9792,7 @@ Movie/Skill/PC_C/B_Skill_DeathTornado_B
 
 ID=23105
 Wide Area Ⅱ
-[Info]\nDamage: [105%]\nSA Break: [62%]\nHit Count: [15]\n\nBuff Effect: +[15%] Attack Speed and Movement Speed\nBuff Duration: [10s]\n\nRaise a powerful tornado, boosting allies and attacking enemies.\n[Deal more damage to enemies launched in mid-air]
+[Info]\nDamage: [105%]\nSA Break: [62%]\nHit Count: [20]\n\nBuff Effect: +[15%] Attack Speed and Movement Speed\nBuff Duration: [10s]\n\nRaise a powerful tornado, boosting allies and attacking enemies.\n[Deal more damage to enemies launched in mid-air]
 Damage: [105%]+15%\nSA Break: [62%]+8%\nAttack Speed and Movement Speed: [15%]+5%
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_B
 0
@@ -9800,7 +9800,7 @@ Movie/Skill/PC_C/B_Skill_DeathTornado_B
 
 ID=23106
 Wide Area Ⅲ
-[Info]\nDamage: [120%]\nSA Break: [70%]\nHit Count: [15]\n\nBuff Effect: +[20%] Attack Speed and Movement Speed\nBuff Duration: [10s]\n\nRaise a powerful tornado, boosting allies and attacking enemies.\n[Deal more damage to enemies launched in mid-air]
+[Info]\nDamage: [120%]\nSA Break: [70%]\nHit Count: [20]\n\nBuff Effect: +[20%] Attack Speed and Movement Speed\nBuff Duration: [10s]\n\nRaise a powerful tornado, boosting allies and attacking enemies.\n[Deal more damage to enemies launched in mid-air]
 LvMax
 Icon/Skill/Mistscythe/Icon_MCythe_Skill_DeathTornado_B
 0
@@ -9912,7 +9912,7 @@ Movie/Skill/PC_B/B_Skill_MissionCall
 
 ID=12913
 Geometry Platoon
-The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [2500%]\nSA Break: [2700%]\n\nSummon the Geometry Platoon to bombard enemies, ending it with a powerful attack from above.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
+The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Basic]\nDamage: [113%] per hit\nSA Break: [116%] per hit\nSV Gain: [10]\n\n[Finisher]\nDamage: [5250%]\nSA Break: [5390%]\n\nSummon the Geometry Platoon to bombard enemies, ending it with a powerful attack from above.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode\n(RMB): Finisher
 LvMax
 Icon/Skill/GunJazz/Icon_Gjazz_Skill_GeometryPlatoon
 Description_Image/Skill/GunJazz/Image_GJazz_Skill_GeometryPlatoon
@@ -10072,7 +10072,7 @@ Movie/Skill/PC_E/B_Skill_WolvesShowtime
 
 ID=15913
 Stellar Symphony
-The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [3400%]\nSA Break: [2800%]\n\nStella summons all her friends, attacking in full force with a symphony.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
+The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [8400%]\nSA Break: [7800%]\nSV Gain: [10]\n\nStella summons all her friends, attacking in full force with a symphony.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_StelliaSymphony
 Description_Image/Skill/Howling/Image_Howling_Skill_Stellia Symphony
@@ -10232,7 +10232,7 @@ Movie/Skill/PC_D/B_Skill_CounterStream
 
 ID=14913
 Activity Overcharge
-The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [2500%]\nSA Break: [2360%]\n\nFire a powerful Soul Energy sphere. The sphere pulls and damages enemies over time, leading a huge explosion.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
+The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [7600%]\nSA Break: [7360%]\nSV Gain: [10]\n\nFire a powerful Soul Energy sphere. The sphere pulls and damages enemies over time, leading a huge explosion.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_ActivityOverCharge
 Description_Image/Skill/SpiritArms/Image_Spirit_Skill_ActivityOverCharge
@@ -10392,7 +10392,7 @@ Movie/Skill/PC_F/B_Skill_Operation Ashes
 
 ID=16913
 Spiral Blitz
-The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [2900%]\nSA Break: [2700%]\n\nAttach the huge drill to the weapon to pulverize enemies, then causes it to explode.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
+The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [7900%]\nSA Break: [7700%]\nSV Gain: [10]\n\nAttach the huge drill to the weapon to pulverize enemies, then causes it to explode.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
 LvMax
 Icon/Skill/Hammerstol/Icon_HamerStoll_Skill_SpiralofInfinity
 0
@@ -11255,7 +11255,7 @@ null
 0
 
 ID=31231
-Fortune Squad
+Fortune Unit
 Miriam recovers surrounding allies' HP by 45%. (60s cooldown)
 .
 0
@@ -11263,7 +11263,7 @@ Miriam recovers surrounding allies' HP by 45%. (60s cooldown)
 0
 
 ID=31232
-Fortune Squad
+Fortune Unit
 Miriam recovers surrounding allies' HP and SG by 45%. (60s cooldown)
 .
 0
@@ -11271,7 +11271,7 @@ Miriam recovers surrounding allies' HP and SG by 45%. (60s cooldown)
 0
 
 ID=31233
-Fortune Squad
+Fortune Unit
 Miriam recovers surrounding allies' HP, SG, and SV by 45%. (60s cooldown)
 .
 0
@@ -11279,7 +11279,7 @@ Miriam recovers surrounding allies' HP, SG, and SV by 45%. (60s cooldown)
 0
 
 ID=31241
-Fortune Squad
+Fortune Unit
 Miriam recovers surrounding allies' HP by 75%. (60s cooldown)
 .
 0
@@ -11287,7 +11287,7 @@ Miriam recovers surrounding allies' HP by 75%. (60s cooldown)
 0
 
 ID=31242
-Fortune Squad
+Fortune Unit
 Miriam recovers surrounding allies' HP and SG by 75%. (60s cooldown)
 .
 0
@@ -11295,7 +11295,7 @@ Miriam recovers surrounding allies' HP and SG by 75%. (60s cooldown)
 0
 
 ID=31243
-Fortune Squad
+Fortune Unit
 Miriam recovers surrounding allies' HP, SG, and SV by 75%. (60s cooldown)
 .
 0
@@ -11896,7 +11896,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 
 ID=7041
 Dodge Ⅰ
-[Info]\nStamina Cost: [20]\n\nSwiftly dodge to a specific direction.\nDamage is negated during evasion.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] Press (Move Key) twice.
+[Info]\nStamina Cost: [20]\n\nSwiftly dodge to a specific direction.\nNegates damage during dodge.\n\n[Usage]\nKeyboard:\n[1] (Move Key) + (Shift Key)\n[2] Press (Move Key) twice.
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
@@ -11976,7 +11976,7 @@ Movie/Skill/PC_G/B_Rise_Attack
 
 ID=7081
 Roll Ⅰ
-[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -11984,7 +11984,7 @@ Movie/Skill/PC_G/B_Roll_F
 
 ID=7082
 Roll Ⅱ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Faster rolling speed.
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -11992,7 +11992,7 @@ Movie/Skill/PC_G/B_Roll_F
 
 ID=7083
 Roll Ⅲ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -13080,7 +13080,7 @@ Movie/Skill/PC_G/B_Skill_DevilsToy
 
 ID=17913
 Cat Sword - Secret Technique: Blade of Ruin
-The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [2740%]\nSA Break: [2430%]\n\nMake full use of your abilities and techniques to bring down enemies.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
+The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [7740%]\nSA Break: [7430%]\nSV Gain: [10]\n\nMake full use of your abilities and techniques to bring down enemies.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
 LvMax
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DestructionBlade
 0
@@ -13136,7 +13136,7 @@ Movie/Skill/PC_G/B_Skill_PeregrineFalcon_A
 
 ID=11914
 Desire Awakening
-Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\nEffect ends after using the EX Skill.\n- +[1.3x] Skill Damage for 60s\n- Blade Shower\n- Trollsverd\n- Extinction Prelude\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
+Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\n- +[1.3x] Skill Damage for 60s\n- Blade Shower\n- Trollsverd\n- Extinction Prelude\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DBreakErode
 0
@@ -13144,7 +13144,7 @@ Movie/Skill/PC_A/B_Skill_SoulViper_03
 
 ID=12914
 Desire Awakening
-Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\nEffect ends after using the EX Skill.\n- +[1.3x] Skill Damage for 60s\n- Soul Launcher\n- Swallow Bullet\n- Geometry Platoon\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
+Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\n- +[1.3x] Skill Damage for 60s\n- Soul Launcher\n- Swallow Bullet\n- Geometry Platoon\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DBreakErode
 0
@@ -13152,7 +13152,7 @@ Movie/Skill/PC_B/B_Skill_SoulViper_03
 
 ID=13914
 Desire Awakening
-Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\nEffect ends after using the EX Skill.\n- +[1.3x] Skill Damage for 60s\n- Death Guillotine\n- Leashed Beast\n- Asmodeus\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
+Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\n- +[1.3x] Skill Damage for 60s\n- Death Guillotine\n- Leashed Beast\n- Asmodeus\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DBreakErode
 0
@@ -13160,7 +13160,7 @@ Movie/Skill/PC_C/B_Skill_SoulViper_03
 
 ID=14914
 Desire Awakening
-Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\nEffect ends after using the EX Skill.\n- +[1.3x] Skill Damage for 60s\n- Final Fist\n- Barrett Straight\n- Activity Overcharge\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
+Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\n- +[1.3x] Skill Damage for 60s\n- Final Fist\n- Barrett Straight\n- Activity Overcharge\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DBreakErode
 0
@@ -13168,7 +13168,7 @@ Movie/Skill/PC_D/B_Skill_SoulViper_03
 
 ID=15914
 Desire Awakening
-Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\nEffect ends after using the EX Skill.\n- +[1.3x] Skill Damage for 60s\n- Bass Attack\n- Ghosty Hunt\n- Stellar Symphony\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
+Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\n- +[1.3x] Skill Damage for 60s\n- Bass Attack\n- Ghosty Hunt\n- Stellar Symphony\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DBreakErode
 0
@@ -13176,7 +13176,7 @@ Movie/Skill/PC_E/B_Skill_SoulViper_03
 
 ID=16914
 Desire Awakening
-Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\nEffect ends after using the EX Skill.\n- +[1.3x] Skill Damage for 60s\n- Exceed Driver\n- Rapid Vulcan\n- Spiral Blitz\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
+Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\n- +[1.3x] Skill Damage for 60s\n- Exceed Driver\n- Rapid Vulcan\n- Spiral Blitz\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DBreakErode
 0
@@ -13184,7 +13184,7 @@ Movie/Skill/PC_F/B_Skill_SoulViper_03
 
 ID=17914
 Desire Awakening
-Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\nEffect ends after using the EX Skill.\n- +[1.3x] Skill Damage for 60s\n- Predator's Sentence\n- Predator's Dignity\n- Secret Technique: Blade of Ruin\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
+Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\n- +[1.3x] Skill Damage for 60s\n- Predator's Sentence\n- Predator's Dignity\n- Secret Technique: Blade of Ruin\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DBreakErode
 0
@@ -13384,7 +13384,7 @@ Movie/Skill/PC_H/B_Rise_Attack
 
 ID=8081
 Roll Ⅰ
-[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [25]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Stamina Cost: [25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -13392,7 +13392,7 @@ Movie/Skill/PC_H/B_Roll_F
 
 ID=8082
 Roll Ⅱ
-[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nDamage is negated during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
+[Info]\nStamina Cost: [15]\n\nWhen downed, get up by swiftly rolling to a specific direction.\nNegates damage during roll.\n\n[Usage]\nKeyboard: While downed (Move Key) + (Shift Key)
 Faster rolling speed.
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -14448,8 +14448,8 @@ Movie/Skill/PC_H/B_Skill_TitansFinger
 
 ID=18163
 Titan's Massacre Ⅲ
-[Basic]\nDamage: [475%] [2492%]\nSA Break: [438%] [2302%]\nSG Cost: [60]\nCooldown: [50s]\n\nEnlarge the weapon, dealing damage to enemies in front then also attacking surrounding enemies.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-LvMax
+[Basic]\nDamage: [445%] [2492%]\nSA Break: [411%] [2302%]\nSG Cost: [60]\nCooldown: [50s]\n\nEnlarge the weapon, dealing damage to enemies in front then also attacking surrounding enemies.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [445%]+62% [2492%]+349%\nSA Break: [411%]+57% [2302%]+322%
 Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_Titans-Finger
 0
 Movie/Skill/PC_H/B_Skill_TitansFinger
@@ -14464,7 +14464,7 @@ Movie/Skill/PC_H/B_Skill_TitansFinger
 
 ID=18913
 Exceed: Legion's Bombing
-The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [3000%]\nSA Break: [2700%]\n\nSummon multiple weapons in mid-air to attack enemies, causing a series of explosions.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
+The skill can only be used while in Awakening Mode.\nCancels Awakening after use.\n\n[Info]\nDamage: [8000%]\nSA Break: [7700%]\nSV Gain: [10]\n\nSummon multiple weapons in mid-air to attack enemies, causing a series of explosions.\n\n[Usage]\nKeyboard: Press [7] key while in Awakening Mode
 LvMax
 Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_Regions-Bombing
 0
@@ -14472,7 +14472,7 @@ Movie/Skill/PC_H/B_Skill_RegionsBombing
 
 ID=18914
 Desire Awakening
-Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\nEffect ends after using the EX Skill.\n- +[1.3x] Skill Damage for 60s\n- Supernova\n- Titan's Massacre\n- Exceed: Legion's Bombing\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
+Consumes 2 gauge stages ([100] SV)\n\n[Info]\nDesire Awakening state for 60s.\n- +[20%] Damage\n- -[20%] SG Cost\n- Fixed Max Damage\n- +[20%] Attack Speed\n- +[30%] Movement Speed\n- SA State\n- Desire Skills\n\n[Desire Skills]\n- +[1.3x] Skill Damage for 60s\n- Supernova\n- Titan's Massacre\n- Exceed: Legion's Bombing\n\nTemporarily increase one's physical abilities.\nConsumes Soul Vapor and uses the skill.\n\n[Usage]\nKeyboard: Press [7] key
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DBreakErode
 0
@@ -14552,7 +14552,7 @@ Movie/Skill/PC_H/B_Skill_ViciousWoodpecker_A
 
 ID=21101
 Accel Ⅰ
-[Basic]\nDamage: [315%]\nSA Break: [336%]\n\n[Additional]\nDamage: [1258%]\nSA Break: [1343%]\n\nIncrease hit count depending on Attack Speed, hit count of finishing attack, and AoE.\nImmediately end the attack by pressing right-click.\n\n[Usage]\n[1] (RMB): Finishing attack
+[Basic]\nDamage: [315%]\nSA Break: [336%]\n\n[Additional]\nDamage: [1258%]\nSA Break: [1343%]\n\nIncrease hit count depending on Attack Speed, hit count of finisher, and AoE.\nImmediately end the attack by pressing right-click.\n\n[Usage]\n[1] (RMB): Finisher
 [Basic]\nDamage: [315%]+31%\nSA Break: [336%]+33%\n\n[Additional]\nDamage: [1258%]+126%\nSA Break: [1343%]+134%
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_BladeShower_A
 0
@@ -14560,7 +14560,7 @@ Movie/Skill/PC_A/PC_A_B_Skill_Blade Shower_A
 
 ID=21102
 Accel Ⅱ
-[Basic]\nDamage: [346%]\nSA Break: [369%]\n\n[Additional]\nDamage: [1384%]\nSA Break: [1477%]\n\nIncrease hit count depending on Attack Speed, hit count of finishing attack, and AoE.\nImmediately end the attack by pressing right-click.\n\n[Usage]\n[1] (RMB): Finishing attack
+[Basic]\nDamage: [346%]\nSA Break: [369%]\n\n[Additional]\nDamage: [1384%]\nSA Break: [1477%]\n\nIncrease hit count depending on Attack Speed, hit count of finisher, and AoE.\nImmediately end the attack by pressing right-click.\n\n[Usage]\n[1] (RMB): Finisher
 [Basic]\nDamage: [346%]+52%\nSA Break: [369%]+56%\n\n[Additional]\nDamage: [1384%]+208%\nSA Break: [1477%]+222%
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_BladeShower_A
 0
@@ -14568,7 +14568,7 @@ Movie/Skill/PC_A/PC_A_B_Skill_Blade Shower_A
 
 ID=21103
 Accel Ⅲ
-[Basic]\nDamage: [398%]\nSA Break: [425%]\n\n[Additional]\nDamage: [1592%]\nSA Break: [1699%]\n\nIncrease hit count depending on Attack Speed, hit count of finishing attack, and AoE.\nImmediately end the attack by pressing right-click.\n\n[Usage]\n[1] (RMB): Finishing attack
+[Basic]\nDamage: [398%]\nSA Break: [425%]\n\n[Additional]\nDamage: [1592%]\nSA Break: [1699%]\n\nIncrease hit count depending on Attack Speed, hit count of finisher, and AoE.\nImmediately end the attack by pressing right-click.\n\n[Usage]\n[1] (RMB): Finisher
 LvMax
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_BladeShower_A
 0
@@ -14600,23 +14600,23 @@ Movie/Skill/PC_B/B_Skill_SoulLauncher_A
 
 ID=23121
 Execution Ⅰ
-[Basic]\nDamage: [3480%]\nSA Break: [2286%]\nPenetration: [100%]\n\n[Grim Reaper]\nDamage: [1392%]\nSA Break: [914%]\n\nSummon the Grim Reaper and performs an execution, completely penetrating the enemies' defenses.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-[Basic]\nDamage: [3480%]+348%\nSA Break: [2286%]+229%\n\n[Grim Reaper]\nDamage: [1392%]+139%\nSA Break: [914%]+92%
+[Basic]\nDamage: [3828%]\nSA Break: [2515%]\nPenetration: [30%]\n\n[Grim Reaper]\nDamage: [1531%]\nSA Break: [1006%]\n\nSummon the Grim Reaper and performs an execution, penetrating the enemies' defenses.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [3828%]+383%\nSA Break: [2515%]+252%\nPenetration: [30%]+10%\n\n[Grim Reaper]\nDamage: [1531%]+153%\nSA Break: [1006%]+101%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine_A
 0
 Movie/Skill/PC_C/B_Skill_DeathGuillotine_A
 
 ID=23122
 Execution Ⅱ
-[Basic]\nDamage: [3828%]\nSA Break: [2515%]\nPenetration: [100%]\n\n[Grim Reaper]\nDamage: [1531%]\nSA Break: [1006%]\n\nSummon the Grim Reaper and performs an execution, completely penetrating the enemies' defenses.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-[Basic]\nDamage: [3828%]+574%\nSA Break: [2515%]+377%\n\n[Grim Reaper]\nDamage: [1531%]+230%\nSA Break: [1006%]+151%
+[Basic]\nDamage: [4211%]\nSA Break: [2767%]\nPenetration: [40%]\n\n[Grim Reaper]\nDamage: [1684%]\nSA Break: [1107%]\n\nSummon the Grim Reaper and performs an execution, penetrating the enemies' defenses.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [4211%]+631%\nSA Break: [2767%]+434%\nPenetration: [40%]+10%\n\n[Grim Reaper]\nDamage: [1684%]+253%\nSA Break: [1107%]+165%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine_A
 0
 Movie/Skill/PC_C/B_Skill_DeathGuillotine_A
 
 ID=23123
 Execution Ⅲ
-[Basic]\nDamage: [4402%]\nSA Break: [2892%]\nPenetration: [100%]\n\n[Grim Reaper]\nDamage: [1761%]\nSA Break: [1157%]\n\nSummon the Grim Reaper and performs an execution, completely penetrating the enemies' defenses.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [4842%]\nSA Break: [3181%]\nPenetration: [50%]\n\n[Grim Reaper]\nDamage: [1937%]\nSA Break: [1272%]\n\nSummon the Grim Reaper and performs an execution, penetrating the enemies' defenses.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_DeathGuillotine_A
 0
