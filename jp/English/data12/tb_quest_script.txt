@@ -14960,7 +14960,7 @@ Defeat 3 [Mist Amaryllis] in [Corrupted Memory] at [N] or higher
 ID=100670
 Anomaly
 激しい戦いの末に残ったのは、行き場のない虚しさだけ。シオンを含めたニアソウルワーカーたちは忽然と姿を消し、後には何も残らなかった。\n そして、シオンと黄金の鎧をまとった女性「ロスカー」の戦いにより発生した強大なエナジーは異常空白の活動を活発にし、世界は混乱に包まれ始めた。ニアソウルワーカーの確保に失敗し目的を失ったソウルワーカー、そしてルインフォートレスの調査隊は自由に出入りが可能であるという特異事項を持った巨大な異常空白の調査へと送り込まれた。
-Talk to [Amanda] and [Sora] in [Ruin Fortress] to understand the situation
+Talk to [Amanda] and [Sora] in [Ruin Fortress] to assess the situation
 Talk to [Miriam]
 Talk to [Miriam] in [Rocco Town]
 
@@ -15455,7 +15455,7 @@ Talk to [Sedurin]
 Talk to [Sedurin] in [Grasscover Camp]
 
 ID=100780
-Kant
+Kent
 テネブリスは首謀者の正体に心当たりがあるようだった。\nその名はカント。恐らくはロイと同じ人物だ。\n彼は邪悪で狡猾、気をつけなければならないと注意を促される。
 Talk to [Tenebris] and [Martin] and come up with a solution
 Talk to [Martin]
@@ -20777,7 +20777,7 @@ Clear [The Best Toy]
 ID=300045
 [EX/再受諾]異変
 0
-Talk to [Amanda] and [Sora] in [Ruin Fortress] to understand the situation\n※ This quest was already completed and was re-accepted.
+Talk to [Amanda] and [Sora] in [Ruin Fortress] to assess the situation\n※ This quest was already completed and was re-accepted.
 Talk to [Miriam]
 Talk to [Miriam] in [Rocco Town]
 
@@ -22952,28 +22952,28 @@ Clear 3 dungeons
 0
 
 ID=101075
-Blue Light's Advance Ⅰ
+March of Blue Lights Ⅰ
 戦争準備中のグレイスに現れたのは、ニヒルキングダムの使者「デルティス」だった。\n彼は変わり果てたルナ・ノックスを処分するため力を合わせる事を提案しに来た。
 Talk to [Thor] in [Grace City]
 Talk to [Aaron]
 Talk to [Aaron] in [Grace City]
 
 ID=101080
-Blue Light's Advance Ⅱ
+March of Blue Lights Ⅱ
 再びディプルス港に戻ることになった私達にデルティス周囲を先に調査することを提案した。
 Talk to [Brock] in [Dipluce Horizon]
 Talk to [Aaron]
 Talk to [Aaron] in [Dipluce Horizon]
 
 ID=101085
-Blue Light's Advance Ⅲ
+March of Blue Lights Ⅲ
 駐屯地に送られて来た「エドガーの招待状」。罠であることが明らかだが、私達は招待状が記された場所に向かうしかなかった。
 Collect [Edgar's Invitation] in various dungeons in [Dipluce Horizon]
 Talk to [Aaron]
 Talk to [Aaron] in [Dipluce Horizon]
 
 ID=101090
-Blue Light's Advance Ⅳ
+March of Blue Lights Ⅳ
 そして…私達を待っていたのはクイーンと黒くて青い軍勢だった。
 Collect [Temptation Fragment]
 Talk to [Thor]
@@ -25621,6 +25621,125 @@ Talk to [Xenia] in [Grace City]
 ID=21012101
 Talk to [Logan]
 Talk to [Logan] in [Flame Monarch] in [Hell City]
+0
+0
+0
+
+ID=101220
+March of Red Lights Ⅰ
+開始したフランマ討伐。助人として現れたのはデルティスだった。
+Talk to [Aaron] to assess the situation
+Talk to [Xenia]
+Talk to [Xenia] in [Grace City]
+
+ID=101225
+March of Red Lights Ⅱ
+包囲網を狭めるための調査、再び地獄と化した町の中で、デルティスの調査を手伝うためラピッドフレイムに立ち向かう。
+Go to [Flame Monarch] in [Hell City] and talk to [Soldier] 
+Talk to [Thor]
+Talk to [Thor] in [Grace City]
+
+ID=101230
+March of Red Lights Ⅲ
+フランマの居場所を見つけたデルティスと共に、フランマと正面対決。果たして敵の力はどれほどか…私たちは見誤っていたのかもしれない。
+Defeat [Flemma] in [Violent Sun]
+Talk to [Kainbarrel]
+Talk to [Kainbarrel] in [Grace City]
+
+ID=1012201
+Talk to [Aaron]
+Talk to [Aaron] in [Grace City]
+0
+0
+0
+
+ID=1012251
+Talk to [Soldier] in [Flame Monarch]
+Talk to [Soldier] in [Flame Monarch]
+0
+0
+0
+
+ID=1012252
+Talk to [Logan] in [Flame Monarch]
+Talk to [Logan] in [Flame Monarch]
+0
+0
+0
+
+ID=1012253
+Clear [Flame Monarch]
+Clear [Flame Monarch] in [Hell City]
+0
+0
+0
+
+ID=1012301
+Defeat [Flemma]
+Defeat [Flemma] in [Violent Sun] Raid
+0
+0
+0
+
+ID=1012302
+Talk to [Thor]
+Talk to [Thor] in [Grace City]
+0
+0
+0
+
+ID=1012303
+Talk to [Xenia]
+Talk to [Xenia] in [Grace City]
+0
+0
+0
+
+ID=1012304
+Talk to [Aaron]
+Talk to [Aaron] in [Grace City]
+0
+0
+0
+
+ID=604070
+Eliminate all Veshi in the West
+続く戦争により、ラピッドフレイムの攻撃は激化していく。グレイスの安全確保のため、速やかにラピッドフレイムの進軍を食い止めることを要請する。
+Defeat [Flemma] in [Violent Sun]
+Talk to [Merchant Support Device] near the [Central Tower]
+Talk to [Merchant Support Device] near the [Great Grace Tower] in [Grace City]
+
+ID=6040701
+Defeat [Flemma]
+Defeat [Flemma] in [Violent Sun] Raid
+0
+0
+0
+
+ID=1400162
+Flemma's Lucky Random Box
+Clear 1 dungeon
+0
+0
+0
+
+ID=1400163
+Flemma's Lucky Random Box
+Clear 3 dungeons
+0
+0
+0
+
+ID=1400164
+Flemma's Lucky Random Box
+Clear 5 dungeons
+0
+0
+0
+
+ID=1400165
+Flemma's Lucky Random Box (At least Lv.72)
+Clear Violent Sun once
 0
 0
 0
