@@ -4272,8 +4272,8 @@ Movie/Skill/PC_F/B_Attack_05
 
 ID=116
 Special Ability Mastery Ⅰ
-[Ground]\nDamage: [366%]\nSA Break: [201%]\nCooldown: [15s]\n\nInstantly recover [15%] SG and gain Ignition Buff for [5s].\n\n[Mid-air]\nDamage: [336%]\nSA Break: [173%]\nCooldown: [10s]\n\nSlam the hammer to the ground.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Mid-air]\nMouse: (RMB)
-[Ground]\nDamage: [366%]+18%\nSA Break: [201%]+10%\nIncreases SG Gain and Ignition Buff Effect.\n\n[Mid-air]\nDamage: [336%]+17%\nSA Break: [173%]+9%
+[Ground]\nDamage: [366%]\nSA Break: [201%]\nCooldown: [15s]\n\nInstantly recover [15%] SG and gain Ignite Buff for [5s].\n\n[Mid-air]\nDamage: [336%]\nSA Break: [173%]\nCooldown: [10s]\n\nSlam the hammer to the ground.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Mid-air]\nMouse: (RMB)
+[Ground]\nDamage: [366%]+18%\nSA Break: [201%]+10%\nIncreases SG Gain and Ignite Buff Effect.\n\n[Mid-air]\nDamage: [336%]+17%\nSA Break: [173%]+9%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_OwnAbility
 0
 Movie/Skill/PC_F/B_S_Attack_N
@@ -4288,8 +4288,8 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 
 ID=126
 Special Ability Mastery Ⅱ
-[Ground]\nDamage: [384%]\nSA Break: [211%]\nCooldown: [15s]\n\nInstantly recover [15%] SG and gain Ignition Buff for [5s].\n\n[Mid-air]\nDamage: [353%]\nSA Break: [182%]\nCooldown: [10s]\n\nSlam the hammer to the ground.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Mid-air]\nMouse: (RMB)
-[Ground]\nDamage: [384%]+46%\nSA Break: [211%]+25%\nIncreases SG Gain and Ignition Buff Effect.\n\n[Mid-air]\nDamage: [353%]+42%\nSA Break: [182%]+21%
+[Ground]\nDamage: [384%]\nSA Break: [211%]\nCooldown: [15s]\n\nInstantly recover [15%] SG and gain Ignite Buff for [5s].\n\n[Mid-air]\nDamage: [353%]\nSA Break: [182%]\nCooldown: [10s]\n\nSlam the hammer to the ground.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Mid-air]\nMouse: (RMB)
+[Ground]\nDamage: [384%]+46%\nSA Break: [211%]+25%\nIncreases SG Gain and Ignite Buff Effect.\n\n[Mid-air]\nDamage: [353%]+42%\nSA Break: [182%]+21%
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_OwnAbility
 0
 Movie/Skill/PC_F/B_S_Attack_N
@@ -4304,7 +4304,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 
 ID=136
 Special Ability Mastery Ⅲ
-[Ground]\nDamage: [430%]\nSA Break: [236%]\nCooldown: [15s]\n\nInstantly recover [15%] SG and gain Ignition Buff for [5s].\n\n[Mid-air]\nDamage: [395%]\nSA Break: [203%]\nCooldown: [10s]\n\nSlam the hammer to the ground.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Mid-air]\nMouse: (RMB)
+[Ground]\nDamage: [430%]\nSA Break: [236%]\nCooldown: [15s]\n\nInstantly recover [15%] SG and gain Ignite Buff for [5s].\n\n[Mid-air]\nDamage: [395%]\nSA Break: [203%]\nCooldown: [10s]\n\nSlam the hammer to the ground.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Mid-air]\nMouse: (RMB)
 LvMax
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_OwnAbility
 0
@@ -6864,7 +6864,7 @@ When critically hit, +500 Accuracy for 5s. (20s cooldown)
 
 ID=30172
 Interim CO's Dignity Ⅰ
-When evaded, 20% chance of +5% HP. (15s cooldown)
+On dodge, 20% chance of +5% HP. (15s cooldown)
 .
 0
 0
@@ -7328,7 +7328,7 @@ When critically hit, +10% Attack for 2s. (5s cooldown)
 
 ID=30381
 Sacrifice
-Tracker self-destructs, knock backs surrounding enemies. (30s cooldown)
+Tracker self-destructs, pushing surrounding enemies. (30s cooldown)
 .
 0
 0
@@ -7336,7 +7336,7 @@ Tracker self-destructs, knock backs surrounding enemies. (30s cooldown)
 
 ID=30382
 Sacrifice
-Tracker self-destructs, pulls surrounding enemies. (30s cooldown)
+Tracker self-destructs, pulling surrounding enemies. (30s cooldown)
 .
 0
 0
@@ -7344,7 +7344,7 @@ Tracker self-destructs, pulls surrounding enemies. (30s cooldown)
 
 ID=30383
 Sacrifice
-Tracker self-destrcuts, pulls and knocks up surrounding enemies. (30s cooldown)
+Tracker self-destructs, pulling surrounding enemies and launching them in mid-air up to 3 times. (30s cooldown)
 .
 0
 0
@@ -7560,7 +7560,7 @@ When hit, 100% chance of +1% Attack. (1s cooldown, max 5 stacks)
 
 ID=30473
 Soul Ripping
-Pushes away surrounding enemies, heals players in range up to 12% HP. (30s cooldown)
+Push surrounding enemies, and recover surrounding allies' HP by up to 12%. (30s cooldown)
 .
 0
 0
@@ -7568,7 +7568,7 @@ Pushes away surrounding enemies, heals players in range up to 12% HP. (30s coold
 
 ID=30481
 Soul Ripping
-Paralyzes surrounding enemies, heals players in range up to 15% HP. (30s cooldown)
+Paralyze surrounding enemies, and recover surrounding allies' HP by up to 15%. (30s cooldown)
 .
 0
 0
@@ -7576,7 +7576,7 @@ Paralyzes surrounding enemies, heals players in range up to 15% HP. (30s cooldow
 
 ID=30482
 Soul Ripping
-Knocks up surrounding enemies, heals players in range up to 18% HP. (30s cooldown)
+Launch surrounding enemies in mid-air, and recover surrounding allies' HP by up to 18%. (30s cooldown)
 .
 0
 0
@@ -8568,7 +8568,7 @@ When critically hit, +500 Accuracy for 19s. (20s cooldown)
 
 ID=30901
 Thunder's Blessing
-Summon Kain to perform paralyzing attacks for 6 seconds. (90s cooldown)
+Kain appears, unleashing a Paralysis Attack for 6 seconds. (90s cooldown)
 .
 0
 0
@@ -8576,7 +8576,7 @@ Summon Kain to perform paralyzing attacks for 6 seconds. (90s cooldown)
 
 ID=30902
 Thunder's Blessing
-Summon Kain to perform paralyzing attacks for 7 seconds. (90s cooldown)
+Kain appears, unleashing a Paralysis Attack for 7 seconds. (90s cooldown)
 .
 0
 0
@@ -8584,7 +8584,7 @@ Summon Kain to perform paralyzing attacks for 7 seconds. (90s cooldown)
 
 ID=30903
 Thunder's Blessing
-Summon Kain to perform paralyzing attacks for 8 seconds. (90s cooldown)
+Kain appears, unleashing a Paralysis Attack for 8 seconds. (90s cooldown)
 .
 0
 0
@@ -8592,7 +8592,7 @@ Summon Kain to perform paralyzing attacks for 8 seconds. (90s cooldown)
 
 ID=30911
 Thunder's Blessing
-Summon Kain to perform damaging attacks to the enemy's HP for 5 seconds. (90s cooldown)
+Kain appears, reducing surrounding enemies' HP for 5 seconds. (90s cooldown)
 .
 0
 0
@@ -8600,7 +8600,7 @@ Summon Kain to perform damaging attacks to the enemy's HP for 5 seconds. (90s co
 
 ID=30912
 Thunder's Blessing
-Summon Kain to perform damaging attacks to the enemy's HP for 7 seconds. (90s cooldown)
+Kain appears, reducing surrounding enemies' HP for 7 seconds. (90s cooldown)
 .
 0
 0
@@ -8608,7 +8608,7 @@ Summon Kain to perform damaging attacks to the enemy's HP for 7 seconds. (90s co
 
 ID=30913
 Thunder's Blessing
-Summon Kain to perform damaging attacks to the enemy's HP for 10 seconds. (90s cooldown)
+Kain appears, reducing surrounding enemies' HP for 10 seconds. (90s cooldown)
 .
 0
 0
@@ -8616,7 +8616,7 @@ Summon Kain to perform damaging attacks to the enemy's HP for 10 seconds. (90s c
 
 ID=30921
 Big Seven
-One of the special buffs will be applied by each ball.\nFour Balls will be summoned. (90s cooldown)
+Summon 4 orbs that grant 1 special buff when destroyed. (90s cooldown)
 .
 0
 0
@@ -8624,7 +8624,7 @@ One of the special buffs will be applied by each ball.\nFour Balls will be summo
 
 ID=30922
 Big Seven
-Two of the special buffs will be applied by each ball.\nFour Balls will be summoned. (90s cooldown)
+Summon 4 orbs that grant 1 of 2 special buffs when destroyed. (90s cooldown)
 .
 0
 0
@@ -8632,7 +8632,7 @@ Two of the special buffs will be applied by each ball.\nFour Balls will be summo
 
 ID=30923
 Big Seven
-Three of the special buffs will be applied by each ball.\nFive Balls will be summoned. (90s cooldown)
+Summon 5 orbs that grant 1 of 3 special buffs when destroyed. (90s cooldown)
 .
 0
 0
@@ -8640,7 +8640,7 @@ Three of the special buffs will be applied by each ball.\nFive Balls will be sum
 
 ID=30931
 Big Seven
-Two of the special buffs will be applied by each ball.\nFour Balls will be summoned. (90s cooldown)
+Summon 4 orbs that grant 1 of 2 special buffs when destroyed. (90s cooldown)
 .
 0
 0
@@ -8648,7 +8648,7 @@ Two of the special buffs will be applied by each ball.\nFour Balls will be summo
 
 ID=30932
 Big Seven
-Three of the special buffs will be applied by each ball.\nFive Balls will be summoned. (90s cooldown)
+Summon 5 orbs that grant 1 of 3 special buffs when destroyed. (90s cooldown)
 .
 0
 0
@@ -8656,7 +8656,7 @@ Three of the special buffs will be applied by each ball.\nFive Balls will be sum
 
 ID=30933
 Big Seven
-Three of the special buffs will be applied by each ball.\nSeven Balls will be summoned. (90s cooldown)
+Summon 7 orbs that grant 1 of 3 special buffs when destroyed. (90s cooldown)
 .
 0
 0
@@ -8664,7 +8664,7 @@ Three of the special buffs will be applied by each ball.\nSeven Balls will be su
 
 ID=30941
 Giant's Protection
-Asphalt Golem is summoned for 30 seconds and attacks all monsters. (90s cooldown)
+Summon Asphalt Golem for 30 seconds, which gets targeted by all enemies. (90s cooldown)
 .
 0
 0
@@ -8672,7 +8672,7 @@ Asphalt Golem is summoned for 30 seconds and attacks all monsters. (90s cooldown
 
 ID=30942
 Giant's Protection
-Asphalt Golem is summoned for 45 seconds and attacks all monsters. (90s cooldown)
+Summon Asphalt Golem for 45 seconds, which gets targeted by all enemies. (90s cooldown)
 .
 0
 0
@@ -8680,7 +8680,7 @@ Asphalt Golem is summoned for 45 seconds and attacks all monsters. (90s cooldown
 
 ID=30943
 Giant's Protection
-Asphalt Golem is summoned for 60 seconds and attacks all monsters. (90s cooldown)
+Summon Asphalt Golem for 60 seconds, which gets targeted by all enemies. (90s cooldown)
 .
 0
 0
@@ -8688,7 +8688,7 @@ Asphalt Golem is summoned for 60 seconds and attacks all monsters. (90s cooldown
 
 ID=30951
 Giant's Protection
-Asphalt Golem is summoned for 40 seconds and attacks all monsters. (90s cooldown)
+Summon Asphalt Golem for 40 seconds, which gets targeted by all enemies. (90s cooldown)
 .
 0
 0
@@ -8696,7 +8696,7 @@ Asphalt Golem is summoned for 40 seconds and attacks all monsters. (90s cooldown
 
 ID=30952
 Giant's Protection
-Asphalt Golem is summoned for 55 seconds and attacks all monsters. (90s cooldown)
+Summon Asphalt Golem for 55 seconds, which gets targeted by all enemies. (90s cooldown)
 .
 0
 0
@@ -8704,7 +8704,7 @@ Asphalt Golem is summoned for 55 seconds and attacks all monsters. (90s cooldown
 
 ID=30953
 Giant's Protection
-Asphalt Golem is summoned for 70 seconds and attacks all monsters. (90s cooldown)
+Summon Asphalt Golem for 70 seconds, which gets targeted by all enemies. (90s cooldown)
 .
 0
 0
@@ -8712,7 +8712,7 @@ Asphalt Golem is summoned for 70 seconds and attacks all monsters. (90s cooldown
 
 ID=30961
 Magic Eye!
-Hitting Mad Beholder grants +5% HP&SG and +10% Attack to close allies for 5s. (90s cooldown)
+Recover surrounding allies upon hitting Mad Beholder.\n+10% Attack for 5 seconds. (90s cooldown)
 .
 0
 0
@@ -8720,7 +8720,7 @@ Hitting Mad Beholder grants +5% HP&SG and +10% Attack to close allies for 5s. (9
 
 ID=30962
 Magic Eye!
-Hitting Mad Beholder grants +5% HP&SG and +5% Accuracy to close allies for 5s. (90s cooldown)
+Recover surrounding allies upon hitting Mad Beholder.\n+5% Attack Speed for 5 seconds. (90s cooldown)
 .
 0
 0
@@ -8728,7 +8728,7 @@ Hitting Mad Beholder grants +5% HP&SG and +5% Accuracy to close allies for 5s. (
 
 ID=30963
 Magic Eye!
-Hitting Mad Beholder grants +5% HP&SG and Lifesteal to close allies for 5s. (90s cooldown)
+Recover surrounding allies upon hitting Mad Beholder.\nGrants Lifesteal for 5 seconds. (90s cooldown)
 .
 0
 0
@@ -8736,7 +8736,7 @@ Hitting Mad Beholder grants +5% HP&SG and Lifesteal to close allies for 5s. (90s
 
 ID=30971
 Magic Eye!
-Hitting Mad Beholder grants +10% HP&SG and +10% Attack to close allies for 10s. (90s cooldown)
+Recover surrounding allies upon hitting Mad Beholder.\n+10% Attack for 10 seconds. (90s cooldown)
 .
 0
 0
@@ -8744,7 +8744,7 @@ Hitting Mad Beholder grants +10% HP&SG and +10% Attack to close allies for 10s. 
 
 ID=30972
 Magic Eye!
-Hitting Mad Beholder grants +10% HP&SG and +5% Accuracy to close allies for 10s. (90s cooldown)
+Recover surrounding allies upon hitting Mad Beholder.\n+5% Attack Speed for 10 seconds. (90s cooldown)
 .
 0
 0
@@ -8752,7 +8752,7 @@ Hitting Mad Beholder grants +10% HP&SG and +5% Accuracy to close allies for 10s.
 
 ID=30973
 Magic Eye!
-Hitting Mad Beholder grants +10% HP&SG and Lifesteal to close allies for 10s. (90s cooldown)
+Recover surrounding allies upon hitting Mad Beholder.\nGrants Lifesteal for 10 seconds. (90s cooldown)
 .
 0
 0
@@ -8760,7 +8760,7 @@ Hitting Mad Beholder grants +10% HP&SG and Lifesteal to close allies for 10s. (9
 
 ID=30981
 Burning Flame
-Marauder grants 2 random buffs to surrounding players and HP reducing effects on players will hit him instead. (90s cooldown)
+Marauder grants 2 random buffs to surrounding allies and covers the damages received by the caster to itself. (90s cooldown)
 .
 0
 0
@@ -8768,7 +8768,7 @@ Marauder grants 2 random buffs to surrounding players and HP reducing effects on
 
 ID=30982
 Burning Flame
-Marauder grants 4 random buffs to surrounding players and HP reducing effects on players will hit him instead. (90s cooldown)
+Marauder grants 4 random buffs to surrounding allies and covers the damages received by the caster to itself. (90s cooldown)
 .
 0
 0
@@ -8776,7 +8776,7 @@ Marauder grants 4 random buffs to surrounding players and HP reducing effects on
 
 ID=30983
 Burning Flame
-Marauder grants 5 random buffs to surrounding players and HP reducing effects on players will hit him instead. (90s cooldown)
+Marauder grants 5 random buffs to surrounding allies and covers the damages received by the caster to itself. (90s cooldown)
 .
 0
 0
@@ -8784,7 +8784,7 @@ Marauder grants 5 random buffs to surrounding players and HP reducing effects on
 
 ID=30991
 Burning Flame
-Marauder grants 7 random buffs to surrounding players and HP reducing effects on players will hit him instead. (90s cooldown)
+Marauder grants 7 random buffs to surrounding allies and covers the damages received by the caster to itself. (90s cooldown)
 .
 0
 0
@@ -8792,7 +8792,7 @@ Marauder grants 7 random buffs to surrounding players and HP reducing effects on
 
 ID=30992
 Burning Flame
-Marauder grants 8 random buffs to surrounding players and HP reducing effects on players will hit him instead. (90s cooldown)
+Marauder grants 8 random buffs to surrounding allies and covers the damages received by the caster to itself. (90s cooldown)
 .
 0
 0
@@ -8800,7 +8800,7 @@ Marauder grants 8 random buffs to surrounding players and HP reducing effects on
 
 ID=30993
 Burning Flame
-Marauder grants 10 random buffs to surrounding players and HP reducing effects on players will hit him instead. (90s cooldown)
+Marauder grants 10 random buffs to surrounding allies and covers the damages received by the caster to itself. (90s cooldown)
 .
 0
 0
@@ -8808,7 +8808,7 @@ Marauder grants 10 random buffs to surrounding players and HP reducing effects o
 
 ID=31001
 Radiant
-Can be used in A.R card Synthesis to gain Synthesis experience. It holds no status effects.
+Gives Synthesis EXP when synthesizing A.R Cards. Does not grant status increase.
 .
 0
 0
@@ -8832,7 +8832,7 @@ Gives EXP ×3 of a common card.
 
 ID=31031
 Hunting Time
-Summons 5 Gluttons to fight alongside you for 20s. (90s cooldown)
+5 Gluttons appear, and joins the battle for around 20 seconds. (90s cooldown)
 .
 0
 0
@@ -8840,7 +8840,7 @@ Summons 5 Gluttons to fight alongside you for 20s. (90s cooldown)
 
 ID=31032
 Hunting Time
-Summons 7 Gluttons to fight alongside you for 25s. (90s cooldown)
+7 Gluttons appear, and joins the battle for around 25 seconds. (90s cooldown)
 .
 0
 0
@@ -8848,7 +8848,7 @@ Summons 7 Gluttons to fight alongside you for 25s. (90s cooldown)
 
 ID=31033
 Hunting Time
-Summons 9 Gluttons to fight alongside you for 30s. (90s cooldown)
+9 Gluttons appear, and joins the battle for around 30 seconds. (90s cooldown)
 .
 0
 0
@@ -8856,7 +8856,7 @@ Summons 9 Gluttons to fight alongside you for 30s. (90s cooldown)
 
 ID=31041
 Hunting Time
-Summons 6 Gluttons to fight alongside you for 25s. (90s cooldown)
+6 Gluttons appear, and joins the battle for around 25 seconds. (90s cooldown)
 .
 0
 0
@@ -8864,7 +8864,7 @@ Summons 6 Gluttons to fight alongside you for 25s. (90s cooldown)
 
 ID=31042
 Hunting Time
-Summons 8 Gluttons to fight alongside you for 30s. (90s cooldown)
+8 Gluttons appear, and joins the battle for around 30 seconds. (90s cooldown)
 .
 0
 0
@@ -8872,7 +8872,7 @@ Summons 8 Gluttons to fight alongside you for 30s. (90s cooldown)
 
 ID=31043
 Hunting Time
-Summons 10 Gluttons to fight alongside you for 35s. (90s cooldown)
+10 Gluttons appear, and joins the battle for around 35 seconds. (90s cooldown)
 .
 0
 0
@@ -9072,7 +9072,7 @@ When obtaining an item, +25% Attack for 11s. (30s cooldown)
 
 ID=31131
 Sky High
-All enemies below Elite rank will be launched into the air for 1.5 seconds. (90s cooldown)
+Launches enemies of at least Elite rank in mid-air for around 1.5 seconds. (90s cooldown)
 .
 0
 0
@@ -9080,7 +9080,7 @@ All enemies below Elite rank will be launched into the air for 1.5 seconds. (90s
 
 ID=31132
 Sky High
-All enemies below Elite rank will be launched into the air for 2.5 seconds. (90s cooldown)
+Launches enemies of at least Elite rank in mid-air for around 2.5 seconds. (90s cooldown)
 .
 0
 0
@@ -9088,7 +9088,7 @@ All enemies below Elite rank will be launched into the air for 2.5 seconds. (90s
 
 ID=31133
 Sky High
-All enemies below Elite rank will be launched into the air for 3.5 seconds. (90s cooldown)
+Launches enemies of at least Elite rank in mid-air for around 3.5 seconds. (90s cooldown)
 .
 0
 0
@@ -9096,7 +9096,7 @@ All enemies below Elite rank will be launched into the air for 3.5 seconds. (90s
 
 ID=31141
 Sky High
-All enemies below Elite rank will be launched into the air for 2 seconds. (90s cooldown)
+Launches enemies of at least Elite rank in mid-air for around 2 seconds. (90s cooldown)
 .
 0
 0
@@ -9104,7 +9104,7 @@ All enemies below Elite rank will be launched into the air for 2 seconds. (90s c
 
 ID=31142
 Sky High
-All enemies below Elite rank will be launched into the air for 3 seconds. (90s cooldown)
+Launches enemies of at least Elite rank in mid-air for around 3 seconds. (90s cooldown)
 .
 0
 0
@@ -9112,7 +9112,7 @@ All enemies below Elite rank will be launched into the air for 3 seconds. (90s c
 
 ID=31143
 Sky High
-All enemies below Elite rank will be launched into the air for 4 seconds. (90s cooldown)
+Launches enemies of at least Elite rank in mid-air for around 4 seconds. (90s cooldown)
 .
 0
 0
@@ -9120,7 +9120,7 @@ All enemies below Elite rank will be launched into the air for 4 seconds. (90s c
 
 ID=31151
 Gold Rush
-Create a 3 meter wide coin area, damaging and pulling in enemies. Small AoE. (90s cooldown)
+Generates a 3m coin area, pulling and damaging surrounding enemies. Small AoE. (90s cooldown)
 .
 0
 0
@@ -9128,7 +9128,7 @@ Create a 3 meter wide coin area, damaging and pulling in enemies. Small AoE. (90
 
 ID=31152
 Gold Rush
-Create a 3 meter wide coin area, damaging and pulling in enemies. Medium AoE. (90s cooldown)
+Generates a 3m coin area, pulling and damaging surrounding enemies. Medium AoE. (90s cooldown)
 .
 0
 0
@@ -9136,7 +9136,7 @@ Create a 3 meter wide coin area, damaging and pulling in enemies. Medium AoE. (9
 
 ID=31153
 Gold Rush
-Create a 5 meter wide coin area, damaging and pulling in enemies. Medium AoE. (90s cooldown)
+Generates a 5m coin area, pulling and damaging surrounding enemies. Medium AoE. (90s cooldown)
 .
 0
 0
@@ -9144,7 +9144,7 @@ Create a 5 meter wide coin area, damaging and pulling in enemies. Medium AoE. (9
 
 ID=31161
 Gold Rush
-Create a 3 meter wide coin area, damaging and pulling in enemies. Small AoE. (90s cooldown)
+Generates a 3m coin area, pulling and damaging surrounding enemies. Small AoE. (90s cooldown)
 .
 0
 0
@@ -9152,7 +9152,7 @@ Create a 3 meter wide coin area, damaging and pulling in enemies. Small AoE. (90
 
 ID=31162
 Gold Rush
-Create a 5 meter wide coin area, damaging and pulling in enemies. Medium AoE. (90s cooldown)
+Generates a 5m coin area, pulling and damaging surrounding enemies. Medium AoE. (90s cooldown)
 .
 0
 0
@@ -9160,7 +9160,7 @@ Create a 5 meter wide coin area, damaging and pulling in enemies. Medium AoE. (9
 
 ID=31163
 Gold Rush
-Create a 7 meter wide coin area, damaging and pulling in enemies. Large AoE. (90s cooldown)
+Generates a 7m coin area, pulling and damaging surrounding enemies. Large AoE. (90s cooldown)
 .
 0
 0
@@ -9168,7 +9168,7 @@ Create a 7 meter wide coin area, damaging and pulling in enemies. Large AoE. (90
 
 ID=31171
 Huge Black Hole Bomb
-Pulls and damages enemies in a 14m range for 5s. (90s cooldown)
+Pulls and damages enemies within a 14m range for 5 seconds. (90s cooldown)
 .
 0
 0
@@ -9176,7 +9176,7 @@ Pulls and damages enemies in a 14m range for 5s. (90s cooldown)
 
 ID=31172
 Huge Black Hole Bomb
-Pulls and damages enemies in a 14m range for 7s. (90s cooldown)
+Pulls and damages enemies within a 14m range for 7 seconds. (90s cooldown)
 .
 0
 0
@@ -9184,7 +9184,7 @@ Pulls and damages enemies in a 14m range for 7s. (90s cooldown)
 
 ID=31173
 Huge Black Hole Bomb
-Damages and pulls the enemies within 14m for 7s and paralyzes them for 3s. (90s cooldown)
+Pulls and damages enemies within a 14m range for 7 seconds, then paralyzes them for 3 seconds. (90s cooldown)
 .
 0
 0
@@ -9192,7 +9192,7 @@ Damages and pulls the enemies within 14m for 7s and paralyzes them for 3s. (90s 
 
 ID=31181
 Huge Black Hole Bomb
-Pulls and damages enemies in a 17m range for 5s. (90s cooldown)
+Pulls and damages enemies within a 17m range for 5 seconds. (90s cooldown)
 .
 0
 0
@@ -9200,7 +9200,7 @@ Pulls and damages enemies in a 17m range for 5s. (90s cooldown)
 
 ID=31182
 Huge Black Hole Bomb
-Pulls and damages enemies in a 17m range for 7s. (90s cooldown)
+Pulls and damages enemies within a 17m range for 7 seconds. (90s cooldown)
 .
 0
 0
@@ -9208,7 +9208,7 @@ Pulls and damages enemies in a 17m range for 7s. (90s cooldown)
 
 ID=31183
 Huge Black Hole Bomb
-Damages and pulls the enemies within 17m for 7s and paralyzes them for 5s. (90s cooldown)
+Pulls and damages enemies within a 17m range for 7 seconds, then paralyzes them for 5 seconds. (90s cooldown)
 .
 0
 0
@@ -9216,7 +9216,7 @@ Damages and pulls the enemies within 17m for 7s and paralyzes them for 5s. (90s 
 
 ID=31191
 Journalist
-Cynthia and Hugh recovers 10% HP to surrounding allies and paralyzes enemies. (90s cooldown)
+Cynthia and Hugh recovers surrounding allies' HP by up to 10%, and paralyzes the enemies. (90s cooldown)
 .
 0
 0
@@ -9224,7 +9224,7 @@ Cynthia and Hugh recovers 10% HP to surrounding allies and paralyzes enemies. (9
 
 ID=31192
 Journalist
-Cynthia and Hugh recovers 25% HP to surrounding allies and paralyzes enemies. (90s cooldown)
+Cynthia and Hugh recovers surrounding allies' HP by up to 25%, and paralyzes the enemies. (90s cooldown)
 .
 0
 0
@@ -9232,7 +9232,7 @@ Cynthia and Hugh recovers 25% HP to surrounding allies and paralyzes enemies. (9
 
 ID=31193
 Journalist
-Cynthia and Hugh recovers 40% HP to surrounding allies and paralyzes enemies. (90s cooldown)
+Cynthia and Hugh recovers surrounding allies' HP by up to 40%, and paralyzes the enemies. (90s cooldown)
 .
 0
 0
@@ -9240,7 +9240,7 @@ Cynthia and Hugh recovers 40% HP to surrounding allies and paralyzes enemies. (9
 
 ID=31201
 Journalist
-Cynthia and Hugh recovers 15% HP to surrounding allies and paralyzes enemies. (90s cooldown)
+Cynthia and Hugh recovers surrounding allies' HP by up to 15%, and paralyzes the enemies. (90s cooldown)
 .
 0
 0
@@ -9248,7 +9248,7 @@ Cynthia and Hugh recovers 15% HP to surrounding allies and paralyzes enemies. (9
 
 ID=31202
 Journalist
-Cynthia and Hugh recovers 35% HP to surrounding allies and paralyzes enemies. (90s cooldown)
+Cynthia and Hugh recovers surrounding allies' HP by up to 35%, and paralyzes the enemies. (90s cooldown)
 .
 0
 0
@@ -9256,7 +9256,7 @@ Cynthia and Hugh recovers 35% HP to surrounding allies and paralyzes enemies. (9
 
 ID=31203
 Journalist
-Cynthia and Hugh recovers 50% HP to surrounding allies and paralyzes enemies. (90s cooldown)
+Cynthia and Hugh recovers surrounding allies' HP by up to 50%, and paralyzes the enemies. (90s cooldown)
 .
 0
 0
@@ -9264,7 +9264,7 @@ Cynthia and Hugh recovers 50% HP to surrounding allies and paralyzes enemies. (9
 
 ID=31211
 Oil Shock!
-Over the spout oil from the ground, -30% Movement Speed to enemies for 2s. (90s cooldown)
+Oil rises from the ground, causing -30% Movement Speed to surrounding enemies for 2 seconds. (90s cooldown)
 .
 0
 0
@@ -9272,7 +9272,7 @@ Over the spout oil from the ground, -30% Movement Speed to enemies for 2s. (90s 
 
 ID=31212
 Oil Shock!
-Over the spout oil from the ground, -30% Movement Speed to enemies for 4s. (90s cooldown)
+Oil rises from the ground, causing -30% Movement Speed to surrounding enemies for 4 seconds. (90s cooldown)
 .
 0
 0
@@ -9280,7 +9280,7 @@ Over the spout oil from the ground, -30% Movement Speed to enemies for 4s. (90s 
 
 ID=31213
 Oil Shock!
-Over the spout oil from the ground, -50% Movement Speed to enemies for 4s. (90s cooldown)
+Oil rises from the ground, causing -50% Movement Speed to surrounding enemies for 4 seconds. (90s cooldown)
 .
 0
 0
@@ -9288,7 +9288,7 @@ Over the spout oil from the ground, -50% Movement Speed to enemies for 4s. (90s 
 
 ID=31221
 Oil Shock!
-Over the spout oil from the ground, -30% Movement Speed to enemies for 3s. (90s cooldown)
+Oil rises from the ground, causing -30% Movement Speed to surrounding enemies for 3 seconds. (90s cooldown)
 .
 0
 0
@@ -9296,7 +9296,7 @@ Over the spout oil from the ground, -30% Movement Speed to enemies for 3s. (90s 
 
 ID=31222
 Oil Shock!
-Over the spout oil from the ground, -30% Movement Speed to enemies for 5s. (90s cooldown)
+Oil rises from the ground, causing -30% Movement Speed to surrounding enemies for 5 seconds. (90s cooldown)
 .
 0
 0
@@ -9304,7 +9304,7 @@ Over the spout oil from the ground, -30% Movement Speed to enemies for 5s. (90s 
 
 ID=31223
 Oil Shock!
-Over the spout oil from the ground, -70% Movement Speed to enemies for 7s. (90s cooldown)
+Oil rises from the ground, causing -70% Movement Speed to surrounding enemies for 7 seconds. (90s cooldown)
 .
 0
 0

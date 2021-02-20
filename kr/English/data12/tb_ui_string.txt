@@ -1811,7 +1811,7 @@ ID=915
 Magic Attack is influenced by Magic Resistance
 
 ID=916
-Evaded Physical Attack is influenced by Critical
+Affects Accuracy and Critical
 
 ID=917
 HP is influenced by Physical Defense
@@ -3038,16 +3038,16 @@ ID=4001
 You have {0} unread mails. Please check at HEMS.
 
 ID=4002
-Skill Unlocked
+Available Skill
 
 ID=4003
-Lv {1} {0} Available
+{0} Lv{1} Available
 
 ID=4004
-Attribute Available
+Extension Available
 
 ID=4005
-Lv {1} {0} Available
+{0} Lv{1} Available
 
 ID=4006
 Break Skill Unlocked
@@ -3257,7 +3257,7 @@ ID=5330
 Rosca
 
 ID=5331
-Kant
+Kent
 
 ID=5400
 Select Character
@@ -3401,7 +3401,7 @@ ID=5802
 <font color='#FFFFFF' size='30'>TIP: </font>Various shops in towns can <font color='#00D8FF'>[Repair]</font> your equipment or <font color='#00D8FF'>[Dismantle]</font> them.
 
 ID=5803
-<font color='#FFFFFF' size='30'>TIP: </font>Using functional NPCs, like stores, will increase the <font color='#00D8FF'>[Favorability Level]</font>.\nSpecial benefits will be given depending on the <font color='#00D8FF'>[Favorability Level]</font>.
+<font color='#FFFFFF'><font size="30">TIP:</font> You can increase <font color='#00D8FF'>[Credit Score]</font> by patronizing the NPC's services.\nYou will receive various perks depending on <font color='#00D8FF'>[Credit Score]</font>.
 
 ID=5804
 <font color='#FFFFFF'><font size="30">TIP:</font> You can <font color='#00D8FF'>[Enhance], [Tune]</font> Weapons and Gears through <font color='#00ff9c'>[Trisha]</font>.
@@ -3587,7 +3587,7 @@ ID=5865
 <font color='#FFFFFF' size='30'>TIP: </font>Various shops in towns can <font color='#00D8FF'>[Repair]</font> your equipment or <font color='#00D8FF'>[Dismantle]</font> them.
 
 ID=5866
-<font color='#FFFFFF' size='30'>TIP: </font>Using functional NPCs, like stores, will increase the <font color='#00D8FF'>[Favorability Level]</font>.\nSpecial benefits will be given depending on the <font color='#00D8FF'>[Favorability Level]</font>.
+<font color='#FFFFFF'><font size="30">TIP:</font> You can increase <font color='#00D8FF'>[Credit Score]</font> by patronizing the NPC's services.\nYou will receive various perks depending on <font color='#00D8FF'>[Credit Score]</font>.
 
 ID=5867
 <font color='#FFFFFF' size='30'>TIP: </font>At <font color='#B2EBF4'>[Trisha]</font>, you can <font color='#00D8FF'>[Enhance]</font> and <font color='#00D8FF'>[Exchange]</font> gear and materials.
@@ -6902,10 +6902,10 @@ ID=21000
 {0}'s favorability has increased by {1}.
 
 ID=21001
-{0}'s favorability level has increased to Lv{1}. The level bonus was unlocked.
+Achieved Credit Score Lv{1} to {0}. Received additional perks.
 
 ID=21002
-Favorability Lv{0}
+Credit Score Lv{0}
 
 ID=21003
 Level Bonus
@@ -6986,7 +6986,7 @@ ID=21028
 Locked
 
 ID=21029
-Insufficient Favorability Level
+Insufficient Credit Score
 
 ID=21030
 Cannot buy any more today
@@ -21806,7 +21806,7 @@ ID=41338
 この世は助け合いII
 
 ID=41339
-メイズ{0}回プレイ
+Run {0} Dungeon/s
 
 ID=41340
 等級精錬{0}回
@@ -22655,7 +22655,7 @@ ID=9108
 Dystopia Raid
 
 ID=9109
-スペシャルメイズ
+Special Dungeon
 
 ID=9110
 My Room
@@ -27926,22 +27926,22 @@ ID=10123
 Lunar Fall
 
 ID=5941
-<font color='#FFFFFF'><font size="30">TIP.</font> You can dispel the strengthening buff Junk Aquilas used by hitting him with Edgar's <font color='#FF0033'>[Purification Wave]</font>.
+<font color='#FFFFFF'><font size="30">TIP</font>ジャンクアキュラスが使用した強化バフはエドガーの<font color='#FF0033'>[浄化の波動発射]</font>をジャンクアキュラスに命中させると消す事ができます。
 
 ID=5942
-<font color='#FFFFFF'><font size="30">TIP.</font> If the <font color='#FF0033'>[Queen's Believer]</font> reaches the Junk Queen, she will then use a <font color='#FF0033'>[powerful AoE attack]</font>.
+<font color='#FFFFFF'><font size="30">TIP</font><font color='#FF0033'>[クイーンの信奉者]</font>がジャンククイーンの一定範囲まで移動するとジャンククイーンは<font color='#FF0033'>[強力な範囲攻撃]</font>を使用します。
 
 ID=5943
-<font color='#FFFFFF'><font size="30">TIP.</font> Edgar will conjure flame zones if there are no players near him.
+<font color='#FFFFFF'><font size="30">TIP</font>エドガーは周辺に敵がいない場合、火炎地帯を作り出します。
 
 ID=5944
-<font color='#FFFFFF'><font size="30">TIP.</font> Junk Queen will summon all players before her if there are no players near her.
+<font color='#FFFFFF'><font size="30">TIP</font>ジャンククイーンの周辺に敵がいない場合、全てのプレイヤーを自分の前に召喚します。
 
 ID=5945
-<font color='#FFFFFF'><font size="30">TIP.</font> Destroying the Queen's Sword [Frost] will remove the <font color='#FF0033'>[Immobilized]</font> Debuff.
+<font color='#FFFFFF'><font size="30">TIP</font>ジャンククイーンが召喚したクイーンズソード[霜]を倒すと行動不可デバフが解除されます。
 
 ID=5946
-<font color='#FFFFFF'><font size="30">TIP.</font> Receiving damage from the Dark Zone can remove the <font color='#FF0033'>[Dizziness]</font> Debuff.
+<font color='#FFFFFF'><font size="30">TIP</font>ジャンククイーンが付与する<font color='#FF0033'>[眩暈]</font>デバフは暗黒地帯でダメージを受けた時、解除されます。
 
 ID=54023
 Exceeded the number of times you can repeat the quest.
@@ -28379,13 +28379,13 @@ ID=5950
 ダッシュジャンプ中は、方向転換ができません。
 
 ID=5951
-<font color='#FFFFFF'><font size="30">TIP。</font>ブレイキングイリュージョンではアイテムとA.Rカードを使用できません。
+<font color='#FFFFFF'><font size="30">TIP</font>ブレイキングイリュージョンではアイテムとA.Rカードを使用できません。
 
 ID=5952
-<font color='#FFFFFF'><font size="30">TIP。</font>ブレイキングイリュージョンではキャラクターの能力値はブローチやアイテム装備の影響を受けません。
+<font color='#FFFFFF'><font size="30">TIP</font>ブレイキングイリュージョンではキャラクターの能力値はブローチやアイテム装備の影響を受けません。
 
 ID=5953
-<font color='#FFFFFF'><font size="30">TIP。</font>アクティブスキルはセクター毎に選択したスキルだけ使用可能で、クールタイムはないですが使用回数が限られています。
+<font color='#FFFFFF'><font size="30">TIP</font>アクティブスキルはセクター毎に選択したスキルだけ使用可能で、クールタイムはないですが使用回数が限られています。
 
 ID=24920
 Avatar Package
@@ -29333,10 +29333,10 @@ ID=18316
 Start Breaking Illusion. Move to the illusory world?
 
 ID=5954
-<font color='#FFFFFF'><font size="30">TIP.</font>Receive a buff or debuff whenever you pass through a portal.
+<font color='#FFFFFF'><font size="30">TIP</font>各ポータルを通過するときバフまたはデバフが付与されます。
 
 ID=5955
-<font color='#FFFFFF'><font size="30">TIP.</font>Upgrade skills and/or status using Illusion Coins that are earned by clearing sectors.
+<font color='#FFFFFF'><font size="30">TIP</font>セクターをクリアすると獲得できるイリュージョンコインを使用して、スキルや能力値をアップグレードできます。
 
 ID=37356
 Detail
@@ -29567,7 +29567,7 @@ ID=10593
 March to the Flames
 
 ID=10594
-Flame Monarch
+炎の君主
 
 ID=10595
 Binded Room
@@ -29585,7 +29585,7 @@ ID=37362
 Skip Cutscene
 
 ID=37363
-Dungeon move [{0}]
+Travel [{0}]
 
 ID=10596
 Grace City West War
@@ -29666,13 +29666,94 @@ ID=28738
 Utility
 
 ID=28739
-挿入
+Insert
 
 ID=28740
 Remove
 
 ID=4029
-ワールド移動に失敗し、ワープアイテム使用が制限されました。
+World Travel failed, usage of Warp Item is restricted.
 
 ID=31204
-侵入不可
+Uninsertable
+
+ID=33586
+Pale Ash Gear Set
+
+ID=33587
+Pale Ash Accessory Set
+
+ID=20506
+On hit, 5% chance of +{0} Critical Dmg for 3s
+
+ID=20507
+On hit, 2% chance of +{0} Attack (cancelled when downed)
+
+ID=5957
+<font color='#FFFFFF'><font size="30">TIP: </font>The battle ends if Flemma is not defeated within the time allotted for each phase.
+
+ID=5958
+<font color='#FFFFFF'><font size="30">TIP: </font>Players who get the <font color='#FF0033'>[Burning Flesh]</font> Debuff must find the <font color='#00ff9c'>[Chosen One]</font>, and immediately go near that player.
+
+ID=5959
+<font color='#FFFFFF'><font size="30">TIP: </font>Focus on surviving as Flemma will unleash a powerful skill whenever he amass power after teleporting.
+
+ID=5960
+<font color='#FFFFFF'><font size="30">TIP: </font>If Flemma targets and charges at you, lure him towards the <font color='#FF0033'>destroyed highway</font>.
+
+ID=5961
+<font color='#FFFFFF'><font size="30">TIP: </font>When Flemma emit flames, you will take sustained damage whenever other players are nearby.
+
+ID=10027
+Flemma appears on the battlefield, seeking for the best fight of his life! He desires a fight to the death against the Soulworkers.
+
+ID=40830
+Everything is all about power! And more power! And finally, even more power!
+
+ID=40831
+Hot, isn't it? Why not take it all of to make things easier?\nI'll burn you all into oblivion.
+
+ID=40832
+Kuhaha! You guys are pretty amusing, huh!
+
+ID=40833
+After all, steak is best cooked well-done than rare right?
+
+ID=40834
+Die screaming like the kids you are!
+
+ID=40835
+Truly a tragic display of desperation.\nStruggle some more!
+
+ID=40836
+That's the best you've got? I thought the wind brushed past me.
+
+ID=40837
+This is the Flame of the Rapid Flame! Experience it in full!
+
+ID=40838
+Have you ever smelled the stench of a dried squid?
+
+ID=10138
+Violent Sun
+
+ID=42792
+Administrator Kent
+
+ID=42793
+Schemer Kent
+
+ID=42794
+Disruptor Kent
+
+ID=42795
+Administrator Kent μ
+
+ID=42796
+Schemer Kent μ
+
+ID=42797
+Disruptor Kent μ
+
+ID=810
+Unequip

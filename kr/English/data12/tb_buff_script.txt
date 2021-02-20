@@ -1,6 +1,6 @@
 ID=1
 Regeneration
-+HP and +SG continuously.
++HP & +SG continuously.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -17,7 +17,7 @@ Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
 ID=15
-Customer Benefits
+Customer Perks
 +20% Attack & Defense.
 Icon/Buff/Icon_Common_Buff_Reg
 Enhance
@@ -65,7 +65,7 @@ Icon/Buff/Icon_Common_Buff_MSR
 0
 
 ID=106
-Dexterous Hands
+Quick-witted
 +5% Attack Speed for 10s.
 Icon/Buff/Icon_Common_Buff_ASR
 0
@@ -90,25 +90,25 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=201
 Fever
-Invincible for 3s.
+Negates damage for 3s.
 Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
 ID=202
 Fever
-+5% Movement Speed and Attack Speed for 10s.
++5% Movement Speed & Attack Speed for 10s.
 Icon/Buff/Icon_Common_Buff_Reg
 Enhance
 
 ID=203
 Fever
-Fully recover SG.
+Fully recovers SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=204
 Fever
--50% Cooldown and -100% SG Cost for 10s.
+-50% Cooldown & -100% SG Cost for 10s.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 Cooldown ↓
 
@@ -138,19 +138,19 @@ Attack Speed ↑
 
 ID=500
 Loving Captive
-Get charmed and follows the target for 4s.
+Charmed, follows the target for 4s.
 Icon/Buff/Icon_Common_Debuff_Charm
 Charmed
 
 ID=504
 The Queen's Majesty
-For 5s, paralysis is inflicted.
+Paralyzed, can't move for 5s.
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
 
 ID=600
-Self-recover
-Immediately recover damage received.
+Self-resilient
+Instantly recover sustained damage.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -408,25 +408,25 @@ Paralyzed
 
 ID=1601
 Sleep
-Status effect is removed when hit while asleep.
+Fell asleep, will wake up when hit.
 Icon/Buff/Icon_Common_Debuff_Sleep
 Sleep
 
 ID=1701
 Charmed
-Get charmed and follows the target.
+Charmed, follows the target.
 Icon/Buff/Icon_Common_Debuff_Charm
 Charmed
 
 ID=1801
 Confusion
-Get confused and can't do anything.
+Confused, can't do anything.
 Icon/Buff/Icon_Common_Debuff_Fear
 Confusion
 
 ID=1901
 Silence
-Silenced and can't use skills.
+Silenced, can't use skills.
 Icon/Buff/Icon_Common_Debuff_Silence
 Silence
 
@@ -438,19 +438,19 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=5001
 Endless Struggle Ⅰ
-On skill use, increases damage at a certain probability.
+On skill use, increases damage at a certain rate.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
 ID=5002
 Endless Struggle Ⅱ
-On skill use, increases damage at a certain probability.
+On skill use, increases damage at a certain rate.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
 ID=5003
 Endless Struggle Ⅲ
-On skill use, increases damage at a certain probability.
+On skill use, increases damage at a certain rate.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
@@ -461,7 +461,7 @@ Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=5009
-Vengeful Sword
+Sword of Revenge
 When hit, temporarily increases damage.
 Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
@@ -534,31 +534,31 @@ Damage ↑
 
 ID=5041
 Blow-up Ⅰ
-+4% SA Break and +1% SG on hit.
++4% SA Break & +1% SG on hit.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Gain
 
 ID=5042
 Blow-up Ⅱ
-+8% SA Break and +1.2% SG on hit.
++8% SA Break & +1.2% SG on hit.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Gain
 
 ID=5043
 Blow-up Ⅲ
-+12% SA Break and +1.6% SG on hit.
++12% SA Break & +1.6% SG on hit.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Gain
 
 ID=5044
 Blow-up Ⅳ
-+16% SA Break and +2% SG on hit.
++16% SA Break & +2% SG on hit.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Gain
 
 ID=5045
 Blow-up Ⅴ
-+20% SA Break and +3% SG on hit.
++20% SA Break & +3% SG on hit.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Gain
 
@@ -815,31 +815,31 @@ Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=5566
-テイクエイム
+Take Aim
 +1% Penetration.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=5567
-テイクエイム
+Take Aim
 +2% Penetration.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=5568
-テイクエイム
+Take Aim
 +3% Penetration.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=5569
-テイクエイム
+Take Aim
 +4% Penetration.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=5570
-テイクエイム
+Take Aim
 +5% Penetration.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
@@ -876,31 +876,31 @@ Invulnerable
 
 ID=5576
 Hide and Seek Ⅰ
-Gain Super Armor, and all attacks received register as evaded.
+Gain Super Armor and attacks will register as missed when hit
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5577
 Hide and Seek Ⅱ
-Gain Super Armor, and all attacks received register as evaded.
+Gain Super Armor and attacks will register as missed when hit
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5578
 Hide and Seek Ⅲ
-Gain Super Armor, and all attacks received register as evaded.
+Gain Super Armor and attacks will register as missed when hit
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5579
 Hide and Seek ⅠV
-Gain Super Armor, and all attacks received register as evaded.
+Gain Super Armor and attacks will register as missed when hit
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
 ID=5580
 Hide and Seek Ⅴ
-Gain Super Armor, and all attacks received register as evaded.
+Gain Super Armor and attacks will register as missed when hit
 Icon/Buff/Icon_Common_Buff_Sarmor
 Perfect Evasion
 
@@ -942,7 +942,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=6005
 Mad Reaper of Death
-Increases Attack and Critical.
+Increases Attack & Critical.
 Icon/Buff/Icon_Common_Buff_Reg
 0
 
@@ -984,19 +984,19 @@ Defense Penetration
 
 ID=6031
 Cruel Slash Attribute B Ⅰ
-+100% Critical Damage.
++100% Critical Dmg.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=6032
 Cruel Slash Attribute B Ⅱ
-+150% Critical Damage.
++150% Critical Dmg.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=6033
 Cruel Slash Attribute B Ⅲ
-+200% Critical Damage.
++200% Critical Dmg.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
@@ -1176,7 +1176,7 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=6521
 Decade Pulse
-Can't move for 1 second.
+Can't move for 1s.
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
 
@@ -1415,28 +1415,28 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=6994
-Sorrowful Note Ⅰ
+Melody of Sorrow Ⅰ
 +1% SG every 2s.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6995
-Sorrowful Note Ⅱ
+Melody of Sorrow Ⅱ
 +2% SG every 2s.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6996
-Sorrowful Note Ⅲ
+Melody of Sorrow Ⅲ
 +3% SG every 2s.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=6999
-Sorrowful Note
+Melody of Sorrow
 Recover SG for a certain period of time.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-Mode Switch
+Switch Mode
 
 ID=7000
 Awakening
@@ -1451,16 +1451,16 @@ ID=7001
 Counter
 
 ID=7010
-Provoke
-Attacks provoke the enemy for a certain period of time.
+Taunt
+Attacks taunt the enemy for a certain period of time.
 Icon/Buff/Icon_Common_Debuff_Provoke
-Provoke
+Taunt
 
 ID=7021
-Provoke
-For a certain period of time, attacks provoke enemies and reduces their Evasion.
+Taunt
+Attacks taunt and reduces the enemies' Evasion for a certain period of time.
 Icon/Buff/Icon_Common_Debuff_Provoke
-Provoke & Evasion ↓
+Taunt & Evasion ↓
 
 ID=7026
 Spirit Surge Ⅰ
@@ -1493,19 +1493,19 @@ Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=7031
-Spirit Surge Attribute A Ⅰ
+Spirit Surge A Ⅰ
 -10% Evasion while provoked.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=7032
-Spirit Surge Attribute A Ⅱ
+Spirit Surge A Ⅱ
 -20% Evasion while provoked.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
 ID=7033
-Spirit Surge Attribute A Ⅲ
+Spirit Surge A Ⅲ
 -40% Evasion while provoked.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
@@ -1559,32 +1559,32 @@ Icon/Buff/Icon_Common_Debuff_Def
 Defense ↓
 
 ID=7071
-Counter Attack
-Recover 10% Soul.
+Counterattack
++10% SV.
 0
 Soul Recovery
 
 ID=7072
-Counter Attack
-Recover 15% Soul.
+Counterattack
++15% SV.
 0
 Soul Recovery
 
 ID=7073
-Counter Attack
-+25% SG.
+Counterattack
++25% SV.
 0
 Soul Recovery
 
 ID=7074
-Counter Attack
-+35% SG.
+Counterattack
++35% SV.
 0
 Soul Recovery
 
 ID=7075
-Counter Attack
-+50% SG.
+Counterattack
++50% SV.
 0
 Soul Recovery
 
@@ -1602,7 +1602,7 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=7501
 Overheat
-SG is fully recovered.
+Fully recovers SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
@@ -1614,19 +1614,19 @@ Icon/Buff/Icon_Common_Debuff_Silence
 
 ID=7505
 Ignite Ⅰ
-Deal additional damage to enemies hit by short range attacks for a certain period of time.
+Deal additional damage to enemies hit by melee attacks for a certain period of time.
 Icon/Buff/Icon_Common_Buff_Warm
 0
 
 ID=7506
 Ignite Ⅱ
-Deal additional damage to enemies hit by short range attacks for a certain period of time.
+Deal additional damage to enemies hit by melee attacks for a certain period of time.
 Icon/Buff/Icon_Common_Buff_Warm
 0
 
 ID=7507
 Ignite Ⅲ
-Deal additional damage to enemies hit by short range attacks for a certain period of time.
+Deal additional damage to enemies hit by melee attacks for a certain period of time.
 Icon/Buff/Icon_Common_Buff_Warm
 0
 
@@ -1650,19 +1650,19 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 
 ID=7511
 SG Recovery Ⅰ
-Recover SG.
+Recovers SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=7512
 SG Recovery Ⅱ
-Recover SG.
+Recovers SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=7513
 SG Recovery Ⅲ
-Recover SG.
+Recovers SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
@@ -1745,28 +1745,28 @@ Icon/Buff/Icon_Common_Buff_ATK
 Limit Break
 
 ID=8001
-Rapid Attack Ⅰ
+Blitz Ⅰ
 -5% SG Cost.
 Icon/Buff/Icon_Common_Buff_ASR
 0
 
 ID=8002
-Rapid Attack Ⅱ
+Blitz Ⅱ
 -8% SG Cost.
 Icon/Buff/Icon_Common_Buff_ASR
 0
 
 ID=8003
-Rapid Attack Ⅲ
+Blitz Ⅲ
 -10% SG Cost.
 Icon/Buff/Icon_Common_Buff_ASR
 0
 
 ID=10000
 Regeneration
-+HP and +SG continuously.
++HP & +SG continuously.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-Recover
+Recovery
 
 ID=20001
 +HP
@@ -1914,45 +1914,45 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=20201
 +Stamina
-Immediately recover 15% Stamina.
++15% Stamina.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +Stamina
 
 ID=20202
 +Stamina
-Immediately recover 25% Stamina.
++25% Stamina.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +Stamina
 
 ID=20203
 +Stamina
-Immediately recover 50% Stamina.
++50% Stamina.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +Stamina
 
 ID=20204
 +Stamina
-Immediately recover 100% Stamina.
++100% Stamina.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +Stamina
 
 ID=20205
 +Stamina
-Immediately recover 27% Stamina.
++27% Stamina.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +Stamina
 
 ID=20206
 +Stamina
-Immediately recover 30% Stamina.
++30% Stamina.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +Stamina
 
 ID=20251
-+HP and +SG
-+10% HP and SG.
++HP & +SG
++10% HP & SG.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-+HP and +SG
++HP & +SG
 
 ID=20301
 +HP
@@ -2039,25 +2039,25 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=21001
-Raging
+Turbulent
 +5% Attack for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=21002
-Raging
+Turbulent
 +7% Attack for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=21003
-Raging
+Turbulent
 +10% Attack for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=21004
-Raging
+Turbulent
 +5% Attack for 3 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
@@ -2087,19 +2087,19 @@ Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=21021
-Swiften
+Gale
 +2% Attack Speed for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=21022
-Swiften
+Gale
 +4% Attack Speed for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=21023
-Swiften
+Gale
 +6% Attack Speed for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
@@ -2123,19 +2123,19 @@ Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed ↑
 
 ID=21041
-Insane
+Madness
 +4% Critical for 5 minutes.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=21042
-Insane
+Madness
 +6% Critical for 5 minutes.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=21043
-Insane
+Madness
 +8% Critical for 5 minutes.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
@@ -2150,16 +2150,16 @@ ID=21252
 Destroyer
 Ignore Super Armor for 5s.
 Icon/Buff/Icon_Common_Buff_SABreak
-Super Armor Penetration
+Pierce Super Armor
 
 ID=21253
-Steel Body
+Indestructible
 Invulnerable for 3s.
 Icon/Buff/Icon_Common_Buff_SArmor
 Invulnerable
 
 ID=22001
-Raging
+Turbulent
 +12% Attack for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
@@ -2171,26 +2171,26 @@ Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=22003
-Swiften
+Gale
 +10% Attack Speed for 5 minutes.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=22004
-Insane
+Madness
 +10% Critical for 5 minutes.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=22005
-Turbulent Waves/Tenacious
-+15% Attack and +100% Defense for 5 minutes.
+Turbulent/Toughen
++15% Attack & +100% Defense for 5 minutes.
 Icon/Buff/Icon_Common_Buff_Reg
 Enhance
 
 ID=22006
-Gale/Berserk
-+8% Attack Speed and +12 Critical for 5 minutes.
+Gale/Madness
++8% Attack Speed & +12% Critical for 5 minutes.
 Icon/Buff/Icon_Common_Buff_Reg
 Enhance
 
@@ -2213,16 +2213,16 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=22010
-+HP and +SG
-+50% HP and SG.
++HP & +SG
++50% HP & SG.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-+HP and +SG
++HP & +SG
 
 ID=22011
-+HP and +SG
-+100% HP and SG.
++HP & +SG
++100% HP & SG.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-+HP and +SG
++HP & +SG
 
 ID=22012
 HP ↑
@@ -2238,18 +2238,18 @@ HP ↑
 
 ID=22014
 Crazy
-Recover 10 stamina per second for 30s.
++10 Stamina per second for 30s.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +Stamina
 
 ID=22015
-Raging
-Recover 10 stamina per second for 60s.
+Turbulent
++10 Stamina per second for 60s.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +Stamina
 
 ID=25001
-Raging
+Turbulent
 +5% Attack for 1 minute.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
@@ -2273,7 +2273,7 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=30001
-Kill Command
+Shoot-to-Kill
 +10% Attack for 20s.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
@@ -2291,38 +2291,38 @@ Icon/Buff/Icon_Common_Debuff_Poison
 Poisoned
 
 ID=30004
-Slowed
+Slow
 -20% Movement Speed for 5s.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=30005
-Slowed
+Slow
 -50% Movement Speed for 5s.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=30006
-Slowed
+Slow
 -80% Movement Speed for 5s.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=30007
-Confused
+Worn Out
 Stunned for 6s.
 Icon/Buff/Icon_Common_Debuff_Stun
 Stunned
 
 ID=30008
-Confused
+Worn Out
 Stunned for 5s.
 Icon/Buff/Icon_Common_Debuff_Stun
 Stunned
 
 ID=30009
 Bloody Rage
-+40% Attack and +30% Attack Speed for 1 minute.
++40% Attack & +30% Attack Speed for 1 minute.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
@@ -2334,42 +2334,42 @@ Defense ↑
 
 ID=30011
 Jack the King
- Be immune to all status effects.
+Immune to all status effects.
 Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
 ID=30012
-Light and Darkness
-+5% HP to nearby allies per second.
+Light & Dark
++5% HP to surrounding allies per second.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=30013
-Light and Darkness
-+10% HP to nearby allies per second.
+Light & Dark
++10% HP to surrounding allies per second.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=30014
-Light and Darkness
-+15% HP to nearby allies per second.
+Light & Dark
++15% HP to surrounding allies per second.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=30015
 Doomsday
-Gain resistance to all status effects for 15s.
+Immune to all status effects for 15s.
 Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
 ID=30018
-Hardness
+Hardened Skin
 +30% Dmg Reduction
 Icon/Buff/Icon_Common_Buff_Def
 Damage ↓
 
 ID=30020
-Light and Darkness
+Light & Dark
 +1% HP to surrounding allies per second. Effect stacks.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
@@ -2430,7 +2430,7 @@ HP ↓
 
 ID=30041
 Pandora's Box
-+30% Attack of nearby allies.
++30% Attack to surrounding allies.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
@@ -2483,26 +2483,26 @@ Icon/Buff/Icon_Common_Debuff_Stun
 -
 
 ID=30050
-Slowed
+Slow
 -50% Movement Speed for 5s.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=30051
-Slowed
+Slow
 -50% Movement Speed for 2s.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=30052
-Slowed
+Slow
 -60% Movement Speed for 3s.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=30053
-Slowed
--80% Movement Speed for 1 second.
+Slow
+-80% Movement Speed for 1s.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
@@ -2514,7 +2514,7 @@ HP ↓
 
 ID=30055
 Movement Speed ↓
--50% Movement Speed per second continuously.
+-50% Movement Speed for 1s.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
@@ -2538,7 +2538,7 @@ HP ↓
 
 ID=30059
 Movement Speed ↓
--50% Movement Speed for 5s continuously.
+-50% Movement Speed for 5s.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
@@ -2561,7 +2561,7 @@ Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=30063
-Turbulent Waves/Tenacious
+Turbulent/Toughen
 +10% Attack & Defense.
 Icon/Buff/Icon_Common_Buff_Reg
 Enhance
@@ -2585,8 +2585,8 @@ HP ↓
 HP ↓
 
 ID=30068
-Player Paralyzed
-Become paralyzed.
+Paralyze
+Paralyzed.
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
 
@@ -2598,21 +2598,21 @@ HP ↓
 
 ID=30202
 Contamination
--50% Movement Speed, Attack Speed and Critical for 30s.
+-50% Movement Speed, Attack Speed & Critical for 30s.
 Icon/Buff/Icon_Common_Debuff_Poison
 Contamination
 
 ID=30204
 Vitality
-Revitalizes body and +15% HP per second.
+Revitalizes the body, +15% HP per second.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 Vitality
 
 ID=30205
-Erosion
+Corrosion
 Continuously reduces HP.
 Icon/Buff/Icon_Common_Debuff_Bleed
-Erosion
+Corrosion
 
 ID=30206
 Contaminated Blood
@@ -2628,13 +2628,13 @@ Continuously reduces HP.
 
 ID=30208
 Resistance
-Protection against the poisonous area
+Protects against poison from the contaminated area.
 Icon/Buff/Icon_Common_Buff_SArmor
 -
 
 ID=30212
-Steel Wall
-Nullifies almost all damage received.
+Iron Wall
+Mostly negates damage.
 Icon/Buff/Icon_Common_Debuff_Def
 -
 
@@ -2646,43 +2646,43 @@ HP ↓
 
 ID=30231
 Black Blood
-Covered by the enemy's blood. You'll no longer be affected by Primal's Breath attack.
+Covered by the enemy's blood. Negates Primal's Breath attack.
 Icon/Buff/Icon_Common_Buff_SArmor
 Black Blood
 
 ID=30232
 Toughen
-Reduces Damage from Primal's Huge Arm.
+Reduces damage from Primal's Huge Arm.
 Icon/Buff/Icon_Common_Buff_Reg
 Toughen
 
 ID=30233
-狂乱
-Significantly increases Attack and Attack Speed while reducing Defense.
+Berserk
+Significantly increases Attack & Attack Speed while reducing Defense.
 Icon/Buff/Icon_Common_Buff_ATK
-狂乱
+Berserk
 
 ID=30234
-酸性液
+Acidic Fluid
 Continuously reduces HP.
 Icon/Buff/Icon_Common_Debuff_Bleed
-酸性液
+Acidic Fluid
 
 ID=30235
-Weakness
-Reduces Attack while temporarily weakened.
+Weaken
+Temporarily weakened, reduces Attack.
 Icon/Buff/Icon_Common_DeBuff_ATK
-Weakness
+Weaken
 
 ID=30236
-胃酸
-Reduces HP and continuously receive large damage once it reaches 6 stacks and becomes corrosive.
+Gastric Acid
+Continuously reduces HP, and becomes corrosive once it reaches 6 stacks, receiving large damage.
 Icon/Buff/Icon_Common_Debuff_Poison
-胃酸
+Gastric Acid
 
 ID=30237
 Corrosion
-Receive large damage continuously.
+Take large sustained damage.
 Icon/Buff/Icon_Common_Debuff_Provoke
 Corrosion
 
@@ -2705,44 +2705,44 @@ Icon/Buff/Icon_Common_Debuff_Fear
 Corrupted Soul
 
 ID=30304
-Absorbed Strength
-+60% Dmg Reduction and HP recovers when hit.
+Absorbed Power
++60% Dmg Reduction and recovers HP when hit.
 Icon/Buff/Icon_Common_Buff_Def
-Absorbed Strength
+Absorbed Power
 
 ID=30401
 Regret
-Regretful for realizing the sin of having used vile powers.
+Regrets realizing the sin for using a vile power.
 Icon/Buff/Icon_Common_Debuff_Weakness
 Regret
 
 ID=30402
-Desperate Resistance
-Temporarily resist against RaphaKumba's powerful wide area attack.
+Desperate Struggle
+Temporarily negates RaphaKumba's powerful AoE attack.
 Icon/Buff/Icon_Common_Buff_Reg
-Desperate Resistance
+Desperate Struggle
 
 ID=30403
-破滅
-Deal 6000 damage per second to nearby allies.
+Ruin
+-6000 HP per second to nearby allies.
 Icon/Buff/Icon_Common_Debuff_Hell_fier
-破滅
+Ruin
 
 ID=30404
 Burn
-Receive 3000 damage per second.
+-3000 HP per second.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=63049
 Cut Tendon
--15% Attack Speed & Movement Speed. (Max 5 stacks)
+-15% Attack Speed & Movement Speed. (max 5 stacks)
 Icon/Buff/Icon_Common_Debuff_MSR
 Attack & Movement Speed ↓
 
 ID=63050
 Concussion
--20% Critical and -3000 Defense. (Max 5 stacks)
+-20% Critical & -3000 Defense. (max 5 stacks)
 Icon/Buff/Icon_Common_Debuff_Stun
 Critical & Defense ↓
 
@@ -2754,13 +2754,13 @@ Movement Speed ↓
 
 ID=63079
 Melt Armor
--1000 Defense for 10s. (Max 5 stacks)
+-1000 Defense for 10s. (max 5 stacks)
 Icon/Buff/Icon_Common_Debuff_Def
 Melt Armor
 
 ID=63083
 Deep Wound
--30% Movement Speed, Attack Speed, and Critical for 15s.
+-30% Movement Speed, Attack Speed, & Critical for 15s.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Deep Wound
 
@@ -2771,8 +2771,8 @@ HP ↓
 HP ↓
 
 ID=30471
-Player Shocked
-Shocked effect for 3s
+Shock
+Shocked for 3s.
 Icon/Buff/Icon_Common_Debuff_Shock
 Shock
 
@@ -2837,7 +2837,7 @@ Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
 ID=35004
-Soul energy amplification.
+Amplify Soul Energy
 +2000% Attack for 30s.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑↑
@@ -2861,8 +2861,8 @@ Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
 ID=35008
-Incapacitated
-Display_Stun_3s
+Can't move
+Direction_Paralysis_3s
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
 
@@ -2880,7 +2880,7 @@ HP ↓
 
 ID=35011
 +HP
-+10% HP per second for 2s continuously.
++10% HP per second for 2s.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -2970,7 +2970,7 @@ HP ↓
 
 ID=35205
 Invulnerable
-Cannot receive damage.
+Negates damage.
 Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
@@ -2993,16 +2993,16 @@ HP ↓
 HP ↓
 
 ID=35302
-Weakness
+Weaken
 -50% All Stats.
 Icon/Buff/Icon_Common_Debuff_Weakness
-Weakness
+Weaken
 
 ID=35303
 Defense ↓
 Reduces Defense for 15s.
 Icon/Buff/Icon_Common_Debuff_Def
-Armor Dissipated
+Melt Armor
 
 ID=35304
 HP ↓
@@ -3012,7 +3012,7 @@ HP ↓
 
 ID=35305
 Invulnerable
-Cannot receive damage.
+Negates damage.
 Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
@@ -3102,13 +3102,13 @@ Poisoned
 
 ID=39005
 Overload
-All of the tempest's abilities will be briefly disabled.
+Temporarily disables all of Tempest's abilities.
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
 
 ID=39006
 Overload
-All of the tempest's abilities will be briefly disabled.
+Temporarily disables all of Tempest's abilities.
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
 
@@ -3119,8 +3119,8 @@ Icon/Buff/Icon_Common_Buff_VampHP2
 Lifesteal
 
 ID=39008
-Neutralization
-Temporarily sealed Laban's lifesteal.
+Neutralize
+Temporarily seals Laban's lifesteal.
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Dispel Lifesteal
 
@@ -3131,7 +3131,7 @@ Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed ↑
 
 ID=39010
-Sudden Attack
+Assault
 Increases Attack for 10s.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
@@ -3143,7 +3143,7 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
 
 ID=39012
-Slowed
+Slow
 Reduces Movement Speed for 10s.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
@@ -3156,7 +3156,7 @@ Attack ↓
 
 ID=39014
 Poisoned
-Poisoned effect for 10s
+Poisoned for 10s.
 Icon/Buff/Icon_Common_Debuff_Poison
 Poisoned
 
@@ -3168,7 +3168,7 @@ Paralyzed
 
 ID=39016
 Poisoned
-Poisoned effect for 30s
+Poisoned for 30s.
 Icon/Buff/Icon_Common_Debuff_Poison
 Poisoned
 
@@ -3180,18 +3180,18 @@ Defense ↓
 
 ID=39022
 Poisoned
-Poisoned effect for 10s
+Poisoned for 10s.
 Icon/Buff/Icon_Common_Debuff_Poison
 Poisoned
 
 ID=39023
 Paralyzed
-Movement restricted for a while due to paralysis.
+Paralyzed, temporarily can't move.
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
 
 ID=39024
-Slowed
+Slow
 Reduces Movement Speed for 1 hour.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
@@ -3203,481 +3203,481 @@ Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=39026
-Steel Wall
+Iron Wall
 Increases Defense.
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=39027
-Recover
-Receive continuous recovery effect.
+Recovery
+Continuously recover HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=40001
 Divine Protection
-Can revive if the death was within 10 minutes.
+Can revive when incapacitated within 10 minutes.
 Icon/Buff/Icon_Common_Buff_Revive
 Divine Protection
 
 ID=40002
 Divine Protection
-When dead for less than 30 minutes, you can be revived.
+Can revive when incapacitated within 30 minutes.
 Icon/Buff/Icon_Common_Buff_Revive
 Divine Protection
 
 ID=40003
 Divine Protection
-When dead for less than 60 minutes, you can be revived.
+Can revive when incapacitated within 60 minutes.
 Icon/Buff/Icon_Common_Buff_Revive
 Divine Protection
 
 ID=50001
-Professional Surgical Operation
+Professional Mechanic
 +500 HP every 5s.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=50002
-Professional Surgical Operation
+Professional Mechanic
 +600 HP every 5s.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=50003
-Professional Surgical Operation
+Professional Mechanic
 +700 HP every 5s.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=50021
-Hard Skin Lv1
-When hit, 5% chance of +50% Defense for 1 second.
+Hardened Skin
+When hit, 5% chance of +50% Defense for 1s.
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=50031
-Lethal Blow Lv1
+Lethal Strike
 On hit, 1% chance of +20% Critical for 2s.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=50041
-Official Military Certificate Lv1
+Proof of Animosity
 When hit, 5% chance of +10% Attack for 2s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=50051
-Determined Resolve Lv1
-On hit, normal/elite monsters, 1% chance of Stun for 1s.
+Giving One's All
+On hit, 1% chance of stunning common/elite enemies for 1s.
 Icon/Buff/Icon_Common_Debuff_Stun
 Stunned
 
 ID=50061
-Dashing Sprint Lv1
+Sprint *kiss*
 For a certain period of time, 10% chance of +10% Movement Speed for 2s.
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed ↑
 
 ID=50071
-Mind's Eye Lv1
-On hit, 1% chance of -10% Accuracy and +20% Attack.
+Mind's Eye
+On hit, 1% chance of -10% Accuracy & +20% Attack.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=50081
-Sunbathing Lv1
+Sunbathing
 For a certain period of time, 3% chance of +10% HP for 3s.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=50101
-Vacuum Lv1
+Vacuum
 On critical, 10% chance of +2% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=50111
-Soul Jump Lv1
+Soul Jump
 On jump, 1% chance of +5% SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=50121
-Former Idol's Merit Lv1
+Ability of a Former Idol
 Cynthia dances, and recovers HP to nearby allies.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=50141
-Self-recover power Lv.1
+Self-resilient
 On hit, 1% chance of +10% Stamina.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +Stamina
 
 ID=50151
-Rapid Calcium Supply Lv1
+Fast-acting Calcium Supplement
 When hit, 5% chance of +15% SG per second for 2s.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=50161
-Victor's Law Lv1
+Victor's Law
 On hit, 1% chance of +20% Accuracy for 2s.
 Icon/Buff/Icon_Common_Buff_Accuracy
 Accuracy ↑
 
 ID=50171
-Unleashed Evil Eye Lv1
-When hit, 5% chance to be invulnerable for 1 second.
+Demon Eye Release
+When hit, 5% chance to be invulnerable for 1s.
 Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
 ID=50181
-Sky High Lv.1
+Sky High
 On jump, 1% chance of +5% Stamina.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +Stamina
 
 ID=50191
-Gallus' Wrath Lv1
+Gallus' Wrath
 When hit, 5% chance of +10% Attack for 2s.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=50201
-Keen Macho Lv1
+Nimble Macho
 When hit, 5% chance of +20% Evasion for 2s.
 Icon/Buff/Icon_Common_Buff_Accuracy
 Evasion ↑
 
 ID=50211
-Vengeful Ghost Lv1
+Vengeful Demon
 On critical, 5% chance for all hits to be critical for 2s.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=50521
-Boarding Service Ⅰ
+Boarding Service
 +500 HP for a certain period of time.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=50541
-Quiet Smile Lv1
+Peaceful Smile
 +200 HP per second for 3s.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=51003
-Recover
+Recovery
 +5% HP per second.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=53021
-守備転換
-When hit, 5% chance of +50% Defense for 1 second. (10s cooldown)
+Switch to Defense
+When hit, 5% chance of +50% Defense for 1s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53022
-守備転換
-When hit, 10% chance of +50% Defense for 1 second. (10s cooldown)
+Switch to Defense
+When hit, 10% chance of +50% Defense for 1s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53023
-急所攻撃
+Attack Vitals
 On hit, 5% chance of +20% Critical for 2s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=53031
-急所攻撃
+Attack Vitals
 On hit, 10% chance of +20% Critical for 3s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=53032
-Proof of War
+Proof of Animosity
 When hit, 5% chance of +8% Attack for 2s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53033
-Proof of War
+Proof of Animosity
 When hit, 10% chance of +8% Attack for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53041
-不屈の意志
+Tenacious Will
 On hit, 3% chance of Super Armor for 3s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Super Armor
 
 ID=53042
-電光石火
+Flash
 Every second, 10% chance of +10% Movement Speed for 2s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=53043
-電光石火
+Flash
 Every second, 20% chance of +10% Movement Speed for 2s. (13s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=53051
-生存本能
+Survival Instinct
 On hit, 4% chance of +5% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53052
-生存本能
+Survival Instinct
 On hit, 5% chance of +5% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53053
-奇襲攻撃
+Surprise Attack
 On jump, 3% chance of +10% Attack for 2s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53061
-奇襲攻撃
+Surprise Attack
 On jump, 5% chance of +10% Attack for 2s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53072
-戦闘回復
+Combat Recovery
 On critical, 3% chance of +2% HP. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53073
-戦闘回復
+Combat Recovery
 On critical, 6% chance of +3% HP. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53081
-戦闘回復
+Combat Recovery
 On critical, 9% chance of +4% HP. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53082
-野獣の勘
+Wild Instincts
 On jump, 10% chance of +5% SG. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53083
-野獣の勘
+Wild Instincts
 On jump, 10% chance of +10% SG. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53091
-野獣の勘
+Wild Instincts
 On jump, 10% chance of +20% SG. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53112
-戦闘呼吸
+Combat Breathing
 On hit, 5% chance of +5% Stamina. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53113
-戦闘呼吸
+Combat Breathing
 On hit, 5% chance of +10% Stamina. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53121
-猛獣の反撃
+Predator's Counterattack
 When hit, 5% chance of +10% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53122
-猛獣の反撃
+Predator's Counterattack
 When hit, 10% chance of +10% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53123
-予知
+Foresight
 On hit, 4% chance of +200 Accuracy for 2s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53131
-予知
+Foresight
 On hit, 5% chance of +250 Accuracy for 2s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53132
-不敗の意志
-When hit, 5% chance to be invulnerable for 1 second. (10s cooldown)
+Invincible Will
+When hit, 5% chance to be invulnerable for 1s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Invulnerable
 
 ID=53133
-疾走回復
+Dash Recovery
 On jump, 10% chance of +5% Stamina. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53141
-回避起動
+Start Evasion
 When hit, 5% chance of +200 Evasion for 2s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Evasion ↑
 
 ID=53142
-回避起動
+Start Evasion
 When hit, 5% chance of +200 Evasion for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Evasion ↑
 
 ID=53143
-臨戦態勢
+War Preparation
 When hit, 5% chance of +6% Attack for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53151
-臨戦態勢
+War Preparation
 When hit, 5% chance of +12% Attack for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53152
-破壊本能
+Destructive Instinct
 On critical, 5% chance for all hits to be critical for 2s. (30s cooldown) 
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=53153
-連続攻撃
+Barrage
 On hit, 10% chance of +10% Attack Speed for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53161
-連続攻撃
+Barrage
 On hit, 10% chance of +10% Attack Speed for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53162
-守備手
-Every second, 30% chance of -20% Attack and +100% Defense for 10s. (60s cooldown)
+Defender
+Every second, 30% chance of -20% Attack & +100% Defense for 10s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53163
-赤い烙印
+Red Insignia
 When critically hit, +500 Accuracy for 3s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53171
-赤い烙印
+Red Insignia
 When critically hit, +500 Accuracy for 5s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53172
-危機克服
+Overcome Crisis
 On dodge, 20% chance of +5% HP. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53173
-ハンター
+Hunter
 On critical, 5% chance of +10% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53181
-ハンター
+Hunter
 On critical, 10% chance of +20% SG. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53182
-突進
-On dash, 5% chance of +10% Attack for 5s.
+Rush
+When dashing, 5% chance of +10% Attack for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53183
-毒気と狂気
+Malice and Madness
 When afflicted with status effects, 50% chance of +10% Attack for 10s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53201
-強襲
+Assault
 On aerial hit, 50% chance of +3% HP. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53202
-強襲
+Assault
 On aerial hit, 50% chance of +6% HP. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53203
-落ち着い
+Calm
 When hit, +5% Stamina. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53211
-雰囲気の反転
+Aura Reversal
 On hit, 15% chance of +50% Defense for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53212
-雰囲気の反転
+Aura Reversal
 On hit, 20% chance of +50% Defense for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53213
-物質変換
+Material Conversion
 When obtaining an item, 20% chance of +10% Attack for 5s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53221
-物質変換
+Material Conversion
 When obtaining an item, 30% chance of +10% Attack for 5s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53222
-一点集中
-When hit, 5% chance of -10% Attack and +15% Attack Speed for 2s. (30s cooldown)
+Narrow Focus
+When hit, 5% chance of -10% Attack & +15% Attack Speed for 2s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53223
-衛生兵
+Combat Medic
 When hit, 10% chance of +5% HP. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
@@ -3695,199 +3695,199 @@ Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53243
-肉切骨断
+Cleave Meat
 When hit, 10% chance of +5% Attack for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53251
-肉切骨断
+Cleave Meat
 When hit, 20% chance of +5% Attack for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53273
-解毒剤の処方
+Antidote Prescription
 When afflicted with status effects, +10% HP. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53281
-脱出準備
+Escape Plan
 When hit, +80% Stamina. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53282
-脱出準備
+Escape Plan
 When hit, +90% Stamina. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53283
-しゃがむ
-When hit, +100% Defense and -70% Attack for 2s. (30s cooldown)
+Crouch
+When hit, +100% Defense & -70% Attack for 2s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53291
-しゃがむ
-When hit, +100% Defense and -50% Attack for 4s. (30s cooldown)
+Crouch
+When hit, +100% Defense & -50% Attack for 4s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53292
-安定的呼吸
+Steady Breathing
 +10% Stamina every 20s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53293
-安定的呼吸
+Steady Breathing
 +20% Stamina every 15s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53301
-攻守交代
-On hit, -50% Defense and +15% Attack for 5s. (30s cooldown)
+Shift to Offense
+On hit, -50% Defense & +15% Attack for 5s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53302
-瞑想
+Meditation
 +20% SG every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53303
-瞑想
+Meditation
 +30% SG every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53311
-速戦即決
+Blitzkrieg
 On critical, 10% chance of +10% Attack Speed for 4s. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53312
-速戦即決
+Blitzkrieg
 On critical, 10% chance of +10% Attack Speed for 6s. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53313
-必中の一念
-When hit, 20% chance of -20% Attack and +1000 Accuracy for 5s. (60s cooldown)
+Lock-on Target
+When hit, 20% chance of -20% Attack & +1000 Accuracy for 5s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53321
-必中の一念
-When hit, 20% chance of -15% Attack and +1000 Accuracy for 5s. (60s cooldown)
+Lock-on Target
+When hit, 20% chance of -15% Attack & +1000 Accuracy for 5s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53322
-反撃比
+Counterattack
 On critical, 5% chance of +100% Defense for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53323
-反撃比
+Counterattack
 On critical, 10% chance of +100% Defense for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53331
-攻撃準備
+Attack Initiative
 On critical, 50% chance of +3% Attack for 2s. (1s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53332
-攻撃準備
+Attack Initiative
 On critical, 50% chance of +4% Attack for 2s. (1s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53333
-接近戦
-On dash, 10% chance of +10% SG. (5s cooldown)
+Close Combat
+When dashing, 10% chance of +10% SG. (5s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53341
-接近戦
-On dash, 20% chance of +10% SG. (5s cooldown)
+Close Combat
+When dashing, 20% chance of +10% SG. (5s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53352
-衝撃の反動
+Shock Recoil
 On SA Break, 50% chance of +50% Movement Speed for 3s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=53353
-Absorb
+Lifesteal
 On kill, 10% chance of +10% SG. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53361
-照準…発射！！
+Aim... Fire!
 +200 Accuracy for 10s every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53362
-応急処置
+First Aid
 When hit, 10% chance of +3% HP. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53363
-死の速度
+Speed of Death
 On kill, 10% chance of +5% Attack Speed for 3s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53371
-死の速度
+Speed of Death
 On kill, 10% chance of +5% Attack Speed for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53372
-応酬
+Exchange
 When critically hit, +10% Attack for 2s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53373
-応酬
+Exchange
 When critically hit, +10% Attack for 2s. (5s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53391
-忘れ物センター
+Lost Property Center
 When obtaining an item, 10% chance to be invulnerable for 2s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Invulnerable
 
 ID=53392
-鋼の意志
-On critical, 5% chance of +10% Attack and -50% Movement Speed for 5s. (10s cooldown)
+Iron Will
+On critical, 5% chance of +10% Attack & -50% Movement Speed for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53403
-風の回復
+Aerial Recovery
 On aerial hit, +5% Stamina. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
@@ -3899,241 +3899,241 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53412
-風の流れ
+Flow of the Wind
 On jump, +10% Movement Speed for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=53413
-こだわりの剣舞
+Special Sword Dance
 On SA Break, +10% Attack for 5s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53421
-こだわりの剣舞
+Special Sword Dance
 On SA Break, +15% Attack for 10s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53422
-過敏反応
+Hypersensitive
 When critically hit, 20% chance of +10% Attack for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53423
-挽回
+Recover
 On missed hit, 30% chance of +100 Evasion for 5s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Evasion ↑
 
 ID=53431
-選手交代
+Switch
 When ally used skills, 40% chance of +20% Defense for 5s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53432
-選手交代
+Switch
 When ally used skills, 40% chance of +30% Defense for 5s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53433
-機敏
-On hit, 10% chance of +5% Movement&Attack Speed for 3s. (10s cooldown)
+Clever
+On hit, 10% chance of +5% Movement & Attack Speed for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53441
-機敏
-On hit, 10% chance of +5% Movement&Attack Speed for 5s. (10s cooldown)
+Clever
+On hit, 10% chance of +5% Movement & Attack Speed for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53442
-機会の判断
+Judgement
 On skill use, 10% chance of +500 Accuracy for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53443
-機会の判断
+Judgement
 On skill use, 10% chance of +600 Accuracy for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53451
-バタフライ効果
+Butterfly Effect
 On critical, +10% Attack for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53452
-バタフライ効果
+Butterfly Effect
 On critical, +15% Attack for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53453
-Bloodlust Revenge
+Bloody Revenge
 When ally is incapacitated, 50% chance of +30% Attack for 10s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53461
-Bloodlust Revenge
+Bloody Revenge
 When ally is incapacitated, 60% chance of +40% Attack for 10s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53462
-苦痛挽回
-When hit, 5% chance of +3% HP and SG per second for 2s. (45s cooldown)
+Recover from Agony
+When hit, 5% chance of +3% HP & SG per second for 2s. (45s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53463
-苦痛挽回
-When hit, 5% chance of +4% HP and SG per second for 3s. (45s cooldown)
+Recover from Agony
+When hit, 5% chance of +4% HP & SG per second for 3s. (45s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53471
-怒り
+Rage
 When hit, 50% chance of +1% Attack for 60s. (1s cooldown, Max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53472
-怒り
+Rage
 When hit, 100% chance of +1% Attack for 60s. (1s cooldown, Max 5 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53483
-魂収める
+Soul Offering
 On kill, +10% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53511
-威力競争
-District 6-only. +3% Attack for 3s every 10s.
+Powerrun
+In District 6, +3% Attack for 3s every 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53512
-威力競争
-District 6-only. +5% Attack for 5s every 10s.
+Powerrun
+In District 6, +5% Attack for 5s every 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53513
-速度競争
+Speedrun
 In District 6, +3% Movement Speed for 3 sec. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=53521
-速度競争
+Speedrun
 In District 6, +5% Movement Speed for 5 sec. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=53522
-継続的な管理
+Continuous Treatment
 +1% HP every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53523
-継続的な管理
+Continuous Treatment
 +2% HP every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53531
-気合
+Fighting Spirit
 +1% SG every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53532
-気合
+Fighting Spirit
 +2% SG every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53533
-生存のプロ
+Survival Expert
 +15% Max HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53534
-生存のプロ
+Survival Expert
 +20% Max HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53535
-生存のプロ
+Survival Expert
 +25% Max HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53536
-生存のプロ
+Survival Expert
 +20% Max HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53537
-生存のプロ
+Survival Expert
 +25% Max HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53538
-生存のプロ
+Survival Expert
 +30% Max HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53539
-初戦撲殺
+First Deathmatch
 +4% Attack, +1% Critical.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53540
-初戦撲殺
+First Deathmatch
 +5% Attack, +1% Critical.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53541
-初戦撲殺
+First Deathmatch
 +6% Attack, +2% Critical.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53542
-初戦撲殺
+First Deathmatch
 +4% Attack, +2% Critical.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53543
-初戦撲殺
+First Deathmatch
 +6% Attack, +2% Critical.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53544
-初戦撲殺
+First Deathmatch
 +8% Attack, +3% Critical.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
@@ -4175,560 +4175,560 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53551
-緊急シールド
+Emergency Shield
 When HP is 20% or less, +40% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53552
-緊急シールド
+Emergency Shield
 When HP is 20% or less, +60% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53553
-緊急シールド
+Emergency Shield
 When HP is 20% or less, +80% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53554
-緊急シールド
+Emergency Shield
 When HP is 20% or less, +60% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53555
-緊急シールド
+Emergency Shield
 When HP is 20% or less, +80% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53556
-緊急シールド
+Emergency Shield
 When HP is 20% or less, +100% Defense for 20s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53557
-黄金の手
-On monster death, +5% more Zenny.
+Golden Hands
+On kill, +5% Zenny Gain.
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53558
-黄金の手
-On monster death, +10% more Zenny.
+Golden Hands
+On kill, +10% Zenny Gain.
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53559
-黄金の手
-On monster death, +15% more Zenny.
+Golden Hands
+On kill, +15% Zenny Gain.
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53560
-黄金の手
-On monster death, +10% more Zenny.
+Golden Hands
+On kill, +10% Zenny Gain.
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53561
-黄金の手
-On monster death, +15% more Zenny.
+Golden Hands
+On kill, +15% Zenny Gain.
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53562
-黄金の手
-On monster death, +20% more Zenny.
+Golden Hands
+On kill, +20% Zenny Gain.
 Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=53563
-守備転換
+Switch to Defense
 When hit, 5% chance of +50% Defense for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53564
-守備転換
+Switch to Defense
 When hit, 10% chance of +50% Defense for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53565
-守備転換
+Switch to Defense
 When hit, 15% chance of +50% Defense for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53566
-守備転換
+Switch to Defense
 When hit, 10% chance of +50% Defense for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53567
-守備転換
+Switch to Defense
 When hit, 15% chance of +50% Defense for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53568
-守備転換
+Switch to Defense
 When hit, 20% chance of +50% Defense for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=53569
-急所攻撃
+Attack Vitals
 On hit, 5% chance of +20% Critical for 2.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=53570
-急所攻撃
+Attack Vitals
 On hit, 10% chance of +20% Critical for 3.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=53571
-急所攻撃
+Attack Vitals
 On hit, 15% chance of +20% Critical for 4.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=53572
-急所攻撃
+Attack Vitals
 On hit, 10% chance of +20% Critical for 2.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=53573
-急所攻撃
+Attack Vitals
 On hit, 15% chance of +20% Critical for 3.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=53574
-急所攻撃
+Attack Vitals
 On hit, 20% chance of +20% Critical for 4.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=53575
-Proof of War
+Proof of Animosity
 When hit, 5% chance of +10% Attack for 2.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53576
-Proof of War
+Proof of Animosity
 When hit, 10% chance of +10% Attack for 3.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53577
-Proof of War
+Proof of Animosity
 When hit, 15% chance of +10% Attack for 4.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53578
-Proof of War
+Proof of Animosity
 When hit, 10% chance of +10% Attack for 2.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53579
-Proof of War
+Proof of Animosity
 When hit, 15% chance of +10% Attack for 3.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53580
-Proof of War
+Proof of Animosity
 When hit, 20% chance of +10% Attack for 4.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53581
-電光石火
+Flash
 Every second, 10% chance of +10% Movement Speed for 2.5s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=53582
-電光石火
+Flash
 Every second, 20% chance of +10% Movement Speed for 3s. (13s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=53583
-電光石火
+Flash
 Every second, 30% chance of +10% Movement Speed for 3.5s. (11s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=53584
-電光石火
+Flash
 Every second, 15% chance of +10% Movement Speed for 3s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=53585
-電光石火
+Flash
 Every second, 25% chance of +10% Movement Speed for 3.5s. (13s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=53586
-電光石火
+Flash
 Every second, 35% chance of +10% Movement Speed for 4s. (11s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=53587
-生存本能
+Survival Instinct
 On hit, 7% chance of +10% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53588
-生存本能
+Survival Instinct
 On hit, 12% chance of +10% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53589
-生存本能
+Survival Instinct
 On hit, 17% chance of +10% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53590
-生存本能
+Survival Instinct
 On hit, 9% chance of +10% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53591
-生存本能
+Survival Instinct
 On hit, 14% chance of +10% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53592
-生存本能
+Survival Instinct
 On hit, 19% chance of +10% HP. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53593
-奇襲攻撃
+Surprise Attack
 On jump, 15% chance of +10% Attack for 4s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53594
-奇襲攻撃
+Surprise Attack
 On jump, 20% chance of +10% Attack for 4s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53595
-奇襲攻撃
+Surprise Attack
 On jump, 25% chance of +10% Attack for 4s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53596
-奇襲攻撃
+Surprise Attack
 On jump, 20% chance of +10% Attack for 4s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53597
-奇襲攻撃
+Surprise Attack
 On jump, 25% chance of +10% Attack for 4s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53598
-奇襲攻撃
+Surprise Attack
 On jump, 30% chance of +10% Attack for 4s. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53599
-戦闘呼吸
+Combat Breathing
 On hit, 5% chance of +7% Stamina.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53600
-戦闘呼吸
+Combat Breathing
 On hit, 5% chance of +12% Stamina.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53601
-戦闘呼吸
+Combat Breathing
 On hit, 5% chance of +17% Stamina.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53602
-戦闘呼吸
+Combat Breathing
 On hit, 5% chance of +9% Stamina.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53603
-戦闘呼吸
+Combat Breathing
 On hit, 5% chance of +14% Stamina.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53604
-戦闘呼吸
+Combat Breathing
 On hit, 5% chance of +19% Stamina.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53605
-猛獣の反撃
+Predator's Counterattack
 When hit, 7% chance of +15% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53606
-猛獣の反撃
+Predator's Counterattack
 When hit, 12% chance of +15% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53607
-猛獣の反撃
+Predator's Counterattack
 When hit, 17% chance of +15% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53608
-猛獣の反撃
+Predator's Counterattack
 When hit, 9% chance of +15% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53609
-猛獣の反撃
+Predator's Counterattack
 When hit, 14% chance of +15% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53610
-猛獣の反撃
+Predator's Counterattack
 When hit, 19% chance of +15% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53611
-予知
+Foresight
 On hit, 7% chance of +200 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53612
-予知
+Foresight
 On hit, 7% chance of +250 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53613
-予知
+Foresight
 On hit, 7% chance of +300 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53614
-予知
+Foresight
 On hit, 9% chance of +250 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53615
-予知
+Foresight
 On hit, 9% chance of +300 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53616
-予知
+Foresight
 On hit, 9% chance of +350 Accuracy for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53617
-回避起動
+Start Evasion
 When hit, 5% chance of +500 Evasion for 2s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Evasion ↑
 
 ID=53618
-回避起動
+Start Evasion
 When hit, 5% chance of +500 Evasion for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Evasion ↑
 
 ID=53619
-回避起動
+Start Evasion
 When hit, 5% chance of +500 Evasion for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Evasion ↑
 
 ID=53620
-回避起動
+Start Evasion
 When hit, 9% chance of +500 Evasion for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Evasion ↑
 
 ID=53621
-回避起動
+Start Evasion
 When hit, 9% chance of +500 Evasion for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Evasion ↑
 
 ID=53622
-回避起動
+Start Evasion
 When hit, 9% chance of +500 Evasion for 5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Evasion ↑
 
 ID=53623
-臨戦態勢
+War Preparation
 When hit, 7% chance of +10% Attack for 2s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53624
-臨戦態勢
+War Preparation
 When hit, 7% chance of +15% Attack for 2.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53625
-臨戦態勢
+War Preparation
 When hit, 7% chance of +20% Attack for 3s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53626
-臨戦態勢
+War Preparation
 When hit, 9% chance of +10% Attack for 3.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53627
-臨戦態勢
+War Preparation
 When hit, 9% chance of +15% Attack for 4s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53628
-臨戦態勢
+War Preparation
 When hit, 9% chance of +20% Attack for 4.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53629
-連続攻撃
+Barrage
 On hit, 15% chance of +3% Attack Speed for 2.5s. (1s cooldown, max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53630
-連続攻撃
+Barrage
 On hit, 15% chance of +3% Attack Speed for 3s. (1s cooldown, max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53631
-連続攻撃
+Barrage
 On hit, 15% chance of +3% Attack Speed for 3.5s. (1s cooldown, max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53632
-連続攻撃
+Barrage
 On hit, 15% chance of +5% Attack Speed for 2.5s. (1s cooldown, max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53633
-連続攻撃
+Barrage
 On hit, 15% chance of +5% Attack Speed for 3.5s. (1s cooldown, max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53634
-連続攻撃
+Barrage
 On hit, 15% chance of +5% Attack Speed for 4.5s. (1s cooldown, max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53635
-赤い烙印
+Red Insignia
 When critically hit, +500 Accuracy for 7s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53636
-赤い烙印
+Red Insignia
 When critically hit, +500 Accuracy for 12s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53637
-赤い烙印
+Red Insignia
 When critically hit, +500 Accuracy for 17s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53638
-赤い烙印
+Red Insignia
 When critically hit, +500 Accuracy for 9s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53639
-赤い烙印
+Red Insignia
 When critically hit, +500 Accuracy for 14s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53640
-赤い烙印
+Red Insignia
 When critically hit, +500 Accuracy for 19s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53641
 Radiant
-Can be used for increasing EXP when synthesizing A.R Cards. Does not have any status effects.
+Gives Synthesis EXP when synthesizing A.R Cards. Does not grant status increase.
 0
 0
 
 ID=53642
-Stomach Panpan
-Doubles the EXP when synthesizing A.R Cards purchased in the Item Mall. Does not have any status effects.
+Bulging Stomach
+Gives Synthesis EXP ×2 of a common card when synthesizing A.R Cards. Does not grant status increase.
 0
 0
 
 ID=53643
-Stomach Panpan
-Triples the EXP when synthesizing A.R Cards purchased in the Item Mall. Does not have any status effects.
+Bulging Stomach
+Gives Synthesis EXP ×3 of a common card when synthesizing A.R Cards. Does not grant status increase.
 0
 0
 
@@ -4739,145 +4739,145 @@ Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53652
-ハンター
+Hunter
 On critical, 20% chance of +10% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53653
-ハンター
+Hunter
 On critical, 20% chance of +13% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53654
-ハンター
+Hunter
 On critical, 20% chance of +16% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53655
-ハンター
+Hunter
 On critical, 20% chance of +12% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53656
-ハンター
+Hunter
 On critical, 20% chance of +15% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53657
-ハンター
+Hunter
 On critical, 20% chance of +18% SG. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53658
-強襲
+Assault
 On aerial hit, 60% chance of +5% HP. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53659
-強襲
+Assault
 On aerial hit, 70% chance of +7% HP. (35s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53660
-強襲
+Assault
 On aerial hit, 80% chance of +9% HP. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53661
-強襲
+Assault
 On aerial hit, 70% chance of +6% HP. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53662
-強襲
+Assault
 On aerial hit, 80% chance of +8% HP. (35s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53663
-強襲
+Assault
 On aerial hit, 90% chance of +10% HP. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=53664
-連携攻撃
+Combo Attack
 On hit, 10% chance of +5% Damage for next attack. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53665
-連携攻撃
+Combo Attack
 On hit, 10% chance of +7% Damage for next attack. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53666
-連携攻撃
+Combo Attack
 On hit, 10% chance of +10% Damage for next attack. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53667
-連携攻撃
+Combo Attack
 On hit, 10% chance of +6% Damage for next attack. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53668
-連携攻撃
+Combo Attack
 On hit, 10% chance of +10% Damage for next attack. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53669
-連携攻撃
+Combo Attack
 On hit, 10% chance of +15% Damage for next attack. (8s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53670
-物質変換
+Material Conversion
 When obtaining an item, +20% Attack for 4s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53671
-物質変換
+Material Conversion
 When obtaining an item, +20% Attack for 7s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53672
-物質変換
+Material Conversion
 When obtaining an item, +20% Attack for 11s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53673
-物質変換
+Material Conversion
 When obtaining an item, +25% Attack for 4s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53674
-物質変換
+Material Conversion
 When obtaining an item, +25% Attack for 7s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53675
-物質変換
+Material Conversion
 When obtaining an item, +25% Attack for 11s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
@@ -4919,37 +4919,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53682
-肉切骨断
+Cleave Meat
 When hit, 2% chance of +20% Attack for 4s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53683
-肉切骨断
+Cleave Meat
 When hit, 4% chance of +20% Attack for 5s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53684
-肉切骨断
+Cleave Meat
 When hit, 7% chance of +20% Attack for 6s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53685
-肉切骨断
+Cleave Meat
 When hit, 3% chance of +25% Attack for 5s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53686
-肉切骨断
+Cleave Meat
 When hit, 6% chance of +25% Attack for 6s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53687
-肉切骨断
+Cleave Meat
 When hit, 10% chance of +25% Attack for 7s. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
@@ -4991,397 +4991,397 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=53694
-準備万全
+Well-prepared
 +8% Max HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53695
-準備万全
+Well-prepared
 +13% Max HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53696
-準備万全
+Well-prepared
 +18% Max HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53697
-準備万全
+Well-prepared
 +12% Max HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53698
-準備万全
+Well-prepared
 +17% Max HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53699
-準備万全
+Well-prepared
 +22% Max HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↑
 
 ID=53700
-安定的呼吸
+Steady Breathing
 +10% Stamina every 5.5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53701
-安定的呼吸
+Steady Breathing
 +15% Stamina every 5.5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53702
-安定的呼吸
+Steady Breathing
 +20% Stamina every 5.5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53703
-安定的呼吸
+Steady Breathing
 +15% Stamina every 5.5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53704
-安定的呼吸
+Steady Breathing
 +20% Stamina every 5.5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53705
-安定的呼吸
+Steady Breathing
 +25% Stamina every 5.5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
 ID=53706
-瞑想
+Meditation
 +50% SG every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53707
-瞑想
+Meditation
 +55% SG every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53708
-瞑想
+Meditation
 +60% SG every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53709
-瞑想
+Meditation
 +55% SG every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53710
-瞑想
+Meditation
 +65% SG every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53711
-瞑想
+Meditation
 +75% SG every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=53712
-速戦即決
+Blitzkrieg
 On critical, 10% chance of +12% Attack Speed for 6s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53713
-速戦即決
+Blitzkrieg
 On critical, 10% chance of +13% Attack Speed for 6s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53714
-速戦即決
+Blitzkrieg
 On critical, 10% chance of +14% Attack Speed for 6s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53715
-速戦即決
+Blitzkrieg
 On critical, 15% chance of +13% Attack Speed for 6s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53716
-速戦即決
+Blitzkrieg
 On critical, 15% chance of +14% Attack Speed for 6s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53717
-速戦即決
+Blitzkrieg
 On critical, 15% chance of +15% Attack Speed for 6s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=53718
-必中の一念
-When hit, 20% chance of -20% Attack and +1000 Accuracy for 6s. (60s cooldown)
+Lock-on Target
+When hit, 20% chance of -20% Attack & +1000 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53719
-必中の一念
-When hit, 20% chance of -10% Attack and +1000 Accuracy for 6s. (60s cooldown)
+Lock-on Target
+When hit, 20% chance of -10% Attack & +1000 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53720
-必中の一念
-When hit, 20% chance of -5% Attack and +1000 Accuracy for 6s. (60s cooldown)
+Lock-on Target
+When hit, 20% chance of -5% Attack & +1000 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53721
-必中の一念
-When hit, 20% chance of -20% Attack and +1100 Accuracy for 6s. (60s cooldown)
+Lock-on Target
+When hit, 20% chance of -20% Attack & +1100 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53722
-必中の一念
-When hit, 20% chance of -10% Attack and +1100 Accuracy for 6s. (60s cooldown)
+Lock-on Target
+When hit, 20% chance of -10% Attack & +1100 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53723
-必中の一念
-When hit, 20% chance of -5% Attack and +1100 Accuracy for 6s. (60s cooldown)
+Lock-on Target
+When hit, 20% chance of -5% Attack & +1100 Accuracy for 6s. (60s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=53724
-風の加護
+Wind's Blessing
 +1% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=53725
-風の加護
+Wind's Blessing
 +4% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=53726
-風の加護
+Wind's Blessing
 +7% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=53727
-風の加護
+Wind's Blessing
 +3% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=53728
-風の加護
+Wind's Blessing
 +6% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=53729
-風の加護
+Wind's Blessing
 +9% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=53730
-無限動力
+Infinite Power
 -1% SG Cost.
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Cost ↓
 
 ID=53731
-無限動力
+Infinite Power
 -3% SG Cost.
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Cost ↓
 
 ID=53732
-無限動力
+Infinite Power
 -5% SG Cost.
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Cost ↓
 
 ID=53733
-無限動力
+Infinite Power
 -2% SG Cost.
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Cost ↓
 
 ID=53734
-無限動力
+Infinite Power
 -4% SG Cost.
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Cost ↓
 
 ID=53735
-無限動力
+Infinite Power
 -6% SG Cost.
 Icon/Buff/Icon_Common_Buff_Akashic
 SG Cost ↓
 
 ID=53736
-処刑者
-+200 Critical Damage.
+Executioner
++200 Critical Dmg.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=53737
-処刑者
-+700 Critical Damage.
+Executioner
++700 Critical Dmg.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=53738
-処刑者
-+1200 Critical Damage.
+Executioner
++1200 Critical Dmg.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=53739
-処刑者
-+500 Critical Damage.
+Executioner
++500 Critical Dmg.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=53740
-処刑者
-+1000 Critical Damage.
+Executioner
++1000 Critical Dmg.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=53741
-処刑者
-+1500 Critical Damage.
+Executioner
++1500 Critical Dmg.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=53742
-眼目
-+1% Dmg Reduction and +100 Critical Damage.
+Core
++1% Dmg Reduction & +100 Critical Dmg.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=53743
-眼目
-+2% Dmg Reduction and +350 Critical Damage.
+Core
++2% Dmg Reduction & +350 Critical Dmg.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=53744
-眼目
-+4% Dmg Reduction and +600 Critical Damage.
+Core
++4% Dmg Reduction & +600 Critical Dmg.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=53745
-眼目
-+2% Dmg Reduction and +100 Critical Damage.
+Core
++2% Dmg Reduction & +100 Critical Dmg.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=53746
-眼目
-+3% Dmg Reduction and +350 Critical Damage.
+Core
++3% Dmg Reduction & +350 Critical Dmg.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=53747
-眼目
-+5% Dmg Reduction and +600 Critical Damage.
+Core
++5% Dmg Reduction & +600 Critical Dmg.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=53748
-決戦
+Decisive Battle
 +5% Damage to Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53749
-決戦
+Decisive Battle
 +10% Damage to Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53750
-決戦
+Decisive Battle
 +15% Damage to Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53751
-決戦
+Decisive Battle
 +7% Damage to Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53752
-決戦
+Decisive Battle
 +12% Damage to Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53753
-決戦
+Decisive Battle
 +17% Damage to Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=53754
-不動の意志
+Unwavering Will
 +5% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=53755
-不動の意志
+Unwavering Will
 +7% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=53756
-不動の意志
+Unwavering Will
 +10% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=53757
-不動の意志
+Unwavering Will
 +7% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=53758
-不動の意志
+Unwavering Will
 +9% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=53759
-不動の意志
+Unwavering Will
 +12% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
@@ -5417,44 +5417,44 @@ Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=55012
-Twinkling Roar
+Roar of Flash
 +10% Attack Speed for 7s.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=55088
 Oil Shock! Ⅰ
-Oil gushes from the ground, -30% Movement Speed of enemies for 2s. (90s cooldown)
+Oil rises from the ground, causing -30% Movement Speed to surrounding enemies for 2s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=55089
 Oil Shock! Ⅱ
-Oil gushes from the ground, -30% Movement Speed of enemies for 4s. (90s cooldown)
+Oil rises from the ground, causing -30% Movement Speed to surrounding enemies for 4s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=55090
 Oil Shock! Ⅲ
-Oil gushes from the ground, -50% Movement Speed of enemies for 4s. (90s cooldown)
+Oil rises from the ground, causing -50% Movement Speed to surrounding enemies for 4s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=55091
 Oil Shock! Ⅰ
-Oil gushes from the ground, -30% Movement Speed of enemies for 3s. (90s cooldown)
+Oil rises from the ground, causing -30% Movement Speed to surrounding enemies for 3s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=55092
 Oil Shock! Ⅱ
-Oil gushes from the ground, -30% Movement Speed of enemies for 5s. (90s cooldown)
+Oil rises from the ground, causing -30% Movement Speed to surrounding enemies for 5s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=55093
 Oil Shock! Ⅲ
-Oil gushes from the ground, -70% Movement Speed of enemies for 7s. (90s cooldown)
+Oil rises from the ground, causing -70% Movement Speed to surrounding enemies for 7s. (90s cooldown)
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
@@ -5471,8 +5471,8 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=55103
-Skill Cooldown Cancel
-Freely use skills for 5s (Needs SG)
+No Cooldown
+Freely use skills for 5s. (Needs SG)
 Icon/Buff/Icon_Common_Buff_Akashic
 Skill Release
 
@@ -5484,13 +5484,13 @@ HP ↓
 
 ID=55105
 Movement Speed ↓
--10% Movement speed for 10s. (Max 5 stacks)
+-10% Movement speed for 10s. (max 5 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↓
 
 ID=55106
 HP ↓
--2% HP per second for 10s. (Max 5 stacks)
+-2% HP per second for 10s. (max 5 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 HP ↓
 
@@ -5507,13 +5507,13 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=55109
-Vampire
+Lifesteal
 On hit, +2% HP for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
-Vampire
+Lifesteal
 
 ID=55110
-Rotation
+Rotate
 +10% Attack for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
@@ -5525,44 +5525,44 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=55112
-Creepy
+Disgusting
 +5% Movement Speed for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=55113
-Unstable
+Top to Bottom
 +10% Critical for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=55114
-Pinpoint Weapon
+Armed
 +50 Accuracy for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Accuracy ↑
 
 ID=55115
-Right Fit
+Right Style
 +10% Defense for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Defense ↑
 
 ID=55116
-This way
+This Way
 +2% HP per second for 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=55117
-That way
+That Way
 +20% HP.
 Icon/Buff/Icon_Common_Buff_Akashic
 +HP
 
 ID=55118
-Best
-Stamina is immediately recovered.
+Max
+Instantly recovers Stamina.
 Icon/Buff/Icon_Common_Buff_Akashic
 +Stamina
 
@@ -5585,10 +5585,10 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=55122
-Vampire
+Lifesteal
 On hit, +2% HP for 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
-Vampire
+Lifesteal
 
 ID=60000
 Break Time
@@ -5609,8 +5609,8 @@ ID=60002
 0
 
 ID=61000
-Netcafe Bonus
-Netcafe Connection Bonus
+Net Café Bonus
+Net Café Connection Bonus
 Icon/Buff/Icon_PC_Buff_ExpBoost
 0
 
@@ -5651,7 +5651,7 @@ HP ↓
 HP ↓
 
 ID=63002
-Incapacitated
+Can't move
 Paralyzed for 3s.
 Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
@@ -5699,7 +5699,7 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 HP ↓
 
 ID=63010
-Incapacitated
+Can't move
 Stunned for 10s.
 Icon/Buff/Icon_Common_Debuff_Stun
 Stunned
@@ -5891,8 +5891,8 @@ HP ↓
 HP ↓
 
 ID=63042
-Incapacitated
-Paralyze for 10s
+Can't move
+Shocked for 10s.
 Icon/Buff/Icon_Common_Debuff_Shock
 Shock
 
@@ -5934,19 +5934,19 @@ HP ↓
 
 ID=5081
 Eternal Combination Ⅰ
-+150 Attack. (Max 5 stacks)
++150 Attack. (max 5 stacks)
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=5082
 Eternal Combination Ⅱ
-+300 Attack. (Max 5 stacks)
++300 Attack. (max 5 stacks)
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=5083
 Eternal Combination Ⅲ
-+500 Attack. (Max 5 stacks)
++500 Attack. (max 5 stacks)
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
@@ -6053,22 +6053,22 @@ ID=18011
 0
 
 ID=6091
-Reckless Insanity Ⅰ
-Increases Critical Damage and Penetration, and reduces SG Cost.
+Rampaging Madness Ⅰ
+Increases Critical Dmg & Penetration, & reduces SG Cost.
 Icon/Buff/Icon_Common_Buff_CRI
-Reckless Insanity
+Rampaging Madness
 
 ID=6092
-Reckless Insanity Ⅱ
-Increases Critical Damage and Penetration, and reduces SG Cost.
+Rampaging Madness Ⅱ
+Increases Critical Dmg & Penetration, & reduces SG Cost.
 Icon/Buff/Icon_Common_Buff_CRI
-Reckless Insanity
+Rampaging Madness
 
 ID=6093
-Reckless Insanity Ⅲ
-Increases Critical Damage and Penetration, and reduces SG Cost.
+Rampaging Madness Ⅲ
+Increases Critical Dmg & Penetration, & reduces SG Cost.
 Icon/Buff/Icon_Common_Buff_CRI
-Reckless Insanity
+Rampaging Madness
 
 ID=6103
 Death Tornado
@@ -6095,124 +6095,124 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
 
 ID=56401
-機会捕捉
-On skill use, 10% chance of +600 Critical Damage for 7s.
+Seize the Opportunity
+On skill use, 10% chance of +600 Critical Dmg for 7s.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=56402
-機会捕捉
-On skill use, 10% chance of +1200 Critical Damage for 7s.
+Seize the Opportunity
+On skill use, 10% chance of +1200 Critical Dmg for 7s.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=56403
-機会捕捉
-On skill use, 10% chance of +1800 Critical Damage for 7s.
+Seize the Opportunity
+On skill use, 10% chance of +1800 Critical Dmg for 7s.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=56411
-機会捕捉
-On skill use, 20% chance of +900 Critical Damage for 7s.
+Seize the Opportunity
+On skill use, 20% chance of +900 Critical Dmg for 7s.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=56422
-機会捕捉
-On skill use, 20% chance of +1500 Critical Damage for 7s.
+Seize the Opportunity
+On skill use, 20% chance of +1500 Critical Dmg for 7s.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=56433
-機会捕捉
-On skill use, 20% chance of +2100 Critical Damage for 7s.
+Seize the Opportunity
+On skill use, 20% chance of +2100 Critical Dmg for 7s.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=56501
-切り札
-On skill use, 10% chance of +5 Max Stamina and +5% Attack for 15s (1s cooldown, max 4 stacks)
+Trump Card
+On skill use, 10% chance of +5 Max Stamina & +5% Attack for 15s (1s cooldown, max 4 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina & Attack ↑
 
 ID=56502
-切り札
-On skill use, 10% chance of +6 Max Stamina and +8% Attack for 15s (1s cooldown, max 4 stacks)
+Trump Card
+On skill use, 10% chance of +6 Max Stamina & +8% Attack for 15s (1s cooldown, max 4 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina & Attack ↑
 
 ID=56503
-切り札
-On skill use, 10% chance of +7 Max Stamina and +12% Attack for 15s (1s cooldown, max 4 stacks)
+Trump Card
+On skill use, 10% chance of +7 Max Stamina & +12% Attack for 15s (1s cooldown, max 4 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina & Attack ↑
 
 ID=56511
-切り札
-On skill use, 20% chance of +8 Max Stamina and +8% Attack for 20s (1s cooldown, max 5 stacks)
+Trump Card
+On skill use, 20% chance of +8 Max Stamina & +8% Attack for 20s (1s cooldown, max 5 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina & Attack ↑
 
 ID=56512
-切り札
-On skill use, 20% chance of +9 Max Stamina and +12% Attack for 20s (1s cooldown, max 5 stacks)
+Trump Card
+On skill use, 20% chance of +9 Max Stamina & +12% Attack for 20s (1s cooldown, max 5 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina & Attack ↑
 
 ID=56513
-切り札
-On skill use, 20% chance of +10 Max Stamina and +17% Attack for 20s (1s cooldown, max 5 stacks)
+Trump Card
+On skill use, 20% chance of +10 Max Stamina & +17% Attack for 20s (1s cooldown, max 5 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina & Attack ↑
 
 ID=56601
-本能発現
-On hit, 10% chance of +20% Critical and +25% Attack for 10s. (40s cooldown)
+Expressive Instinct
+On hit, 10% chance of +20% Critical & +25% Attack for 10s. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical & Attack ↑
 
 ID=56602
-本能発現
-On hit, 10% chance of +25% Critical and +30% Attack for 10s. (40s cooldown)
+Expressive Instinct
+On hit, 10% chance of +25% Critical & +30% Attack for 10s. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical & Attack ↑
 
 ID=56603
-本能発現
-On hit, 10% chance of +30% Critical and +35% Attack for 10s. (40s cooldown)
+Expressive Instinct
+On hit, 10% chance of +30% Critical & +35% Attack for 10s. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical & Attack ↑
 
 ID=56611
-本能発現
-On hit, 20% chance of +30% Critical and +40% Attack for 10s. (40s cooldown)
+Expressive Instinct
+On hit, 20% chance of +30% Critical & +40% Attack for 10s. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical & Attack ↑
 
 ID=56612
-本能発現
-On hit, 20% chance of +35% Critical and +45% Attack for 10s. (40s cooldown)
+Expressive Instinct
+On hit, 20% chance of +35% Critical & +45% Attack for 10s. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical & Attack ↑
 
 ID=56613
-本能発現
-On hit, 20% chance of +40% Critical and +50% Attack for 10s. (40s cooldown)
+Expressive Instinct
+On hit, 20% chance of +40% Critical & +50% Attack for 10s. (40s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical & Attack ↑
 
 ID=5614
-Winning Break
-Increases Attack and Penetration.
+Lucky Break
+Increases Attack & Penetration.
 Icon/Buff/Icon_Common_Buff_Penetration
 Attack & Penetration ↑
 
 ID=9000
-Slow
+Freeze
 Can't move for 5s.
 Icon/Buff/Icon_Common_Debuff_Freezing
-Slow
+Freeze
 
 ID=9001
 Sleep
@@ -6227,10 +6227,10 @@ Icon/Buff/Icon_Common_Buff_Akashic
 HP ↓
 
 ID=9003
-Vampire
+Lifesteal
 On hit, +5% HP for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
-Vampire
+Lifesteal
 
 ID=9004
 Burn
@@ -6257,61 +6257,61 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 Cooldown ↓
 
 ID=6640
-応援
-+600 Max HP for 1 minute. (Max 3 stacks)
+Cheer
++600 Max HP for 1 minute. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP ↑
 
 ID=6641
-応援
-+900 Max HP for 1 minute. (Max 3 stacks)
+Cheer
++900 Max HP for 1 minute. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP ↑
 
 ID=6642
-応援
-+1200 Max HP for 1 minute. (Max 3 stacks)
+Cheer
++1200 Max HP for 1 minute. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP ↑
 
 ID=6643
-応援
-+1500 Max HP for 1 minute. (Max 3 stacks)
+Cheer
++1500 Max HP for 1 minute. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP ↑
 
 ID=6644
-応援
-+2000 Max HP for 1 minute. (Max 3 stacks)
+Cheer
++2000 Max HP for 1 minute. (max 3 stacks)
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP ↑
 
 ID=6645
-歓声
+Cheer
 +4000 Max HP for 2 minutes.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP ↑
 
 ID=6646
-歓声
+Cheer
 +5000 Max HP for 2 minutes.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP ↑
 
 ID=6647
-歓声
+Cheer
 +6000 Max HP for 2 minutes.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP ↑
 
 ID=6648
-歓声
+Cheer
 +8000 Max HP for 2 minutes.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP ↑
 
 ID=6649
-歓声
+Cheer
 +10000 Max HP for 2 minutes.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP ↑
@@ -6440,37 +6440,37 @@ ID=21005
 0
 0
 Icon/Buff/Icon_Common_Buff_ATK
-공격력 증가
+Attack ↑
 
 ID=21015
-意志
+Willpower
 +30% Defense for 8 minutes.
 Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=21024
-勇気
+Courage
 +5% Attack Speed for 8 minutes.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=21034
-挑戦
+Challenge
 +5% Movement Speed for 8 minutes.
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed ↑
 
 ID=21044
-勝負
+Match
 +5% Critical for 8 minutes.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=205
 Fever
-+5% Damage to Boss/Named Enemies for 1 second.
++5% Damage to Boss/Named Enemies for 1s.
 Icon/Buff/Icon_Common_Buff_Immun
-勝利
+Victory
 
 ID=7100
 Unleashed Body Ⅰ
@@ -6521,10 +6521,10 @@ Icon/Buff/Icon_Common_Debuff_Shock
 Defense ↓
 
 ID=30120
-Nearby Shock
-Surrounding allies are electrocuted.
+Zone Shock
+Shocks surrounding allies.
 Icon/Buff/Icon_Common_Debuff_Bleed
-Nearby Shock
+Zone Shock
 
 ID=30121
 Shock Lv2
@@ -6533,8 +6533,8 @@ Icon/Buff/Icon_Common_Debuff_Shock
 Shock
 
 ID=30122
-Shock Cure
-Electrocuted status fades.
+Shock Therapy
+Removes shock effect.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
@@ -6545,46 +6545,46 @@ Icon/Buff/Icon_Common_Debuff_Freezing
 Frostbite
 
 ID=30131
-Slow
+Freeze
 Can't move.
 Icon/Buff/Icon_Common_Debuff_Freezing
-Slow
+Freeze
 
 ID=30132
-Frost Shield
-Cannot receive damage.
+Freeze Resistance
+Negates damage.
 Icon/Buff/Icon_Common_Buff_Warm
-Frost Shield
+Freeze Resistance
 
 ID=30133
-Frostbite Resistivity
+Frostbite Resistance
 It will be less likely to get frostbitten.
 Icon/Buff/Icon_Common_Buff_Warm
-Frostbite Resistivity
+Frostbite Resistance
 
 ID=30134
-Chill
--1% HP per second and be frozen for 5s.
+Cold Air
+-1% HP per second and frozen for 5s.
 Icon/Buff/Icon_Common_Debuff_Bleed
-Chill
+Cold Air
 
 ID=30140
 Bleed
 -3% HP per second.
 Icon/Buff/Icon_Common_Debuff_Bleed
-感染
+Infection
 
 ID=30141
-Weakness
+Weaken
 -4000 Defense.
 Icon/Buff/Icon_Common_Debuff_Def
-Weakened
+Weaken
 
 ID=30142
-傷感染
+Wound Infection
 +10% Dmg Reduction.
 Icon/Buff/Icon_Common_Debuff_Bleed
-Slowed
+Slow
 
 ID=30145
 HP ↓
@@ -6593,58 +6593,58 @@ HP ↓
 HP ↓
 
 ID=30146
-Weakness
+Weaken
 -50% Defense.
 Icon/Buff/Icon_Common_Debuff_Weakness
-Weakness
+Weaken
 
 ID=30147
-Weakness
+Weaken
 Significantly reduces all stats.
 Icon/Buff/Icon_Common_Debuff_Weakness
-Weakness
+Weaken
 
 ID=30154
-腐敗の毒
+Corrupted Poison
 -50% Critical.
 Icon/Buff/Icon_Common_Debuff_Poison
-腐敗の毒
+Corrupted Poison
 
 ID=30155
-超猛毒
+Super-toxin
 +20% Dmg Reduction.
 Icon/Buff/Icon_Common_Debuff_Poison
-超猛毒
+Super-toxin
 
 ID=30156
-超猛毒
+Super-toxin
 -20% Movement Speed & Attack Speed.
 Icon/Buff/Icon_Common_Debuff_Weakness
-超猛毒
+Super-toxin
 
 ID=30157
-超猛毒
+Super-toxin
 -2% HP per second.
 Icon/Buff/Icon_Common_Debuff_Bleed
-超猛毒
+Super-toxin
 
 ID=30158
-超猛毒
+Super-toxin
 +100% Attack.
 Icon/Buff/Icon_Common_Buff_ATK
-超猛毒
+Super-toxin
 
 ID=30159
-超猛毒
+Super-toxin
 +20% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Def
-超猛毒
+Super-toxin
 
 ID=30160
-超猛毒
+Super-toxin
 +100% Attack Speed.
 Icon/Buff/Icon_Common_Buff_ASR
-超猛毒
+Super-toxin
 
 ID=7551
 Extreme Rush Ⅰ
@@ -6672,25 +6672,25 @@ Attack Speed & Movement Speed ↓
 
 ID=55138
 Golden Glacier Ⅰ
-Reflects 2% Damage received.
+Reflects 2% sustained damage.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reflect
 
 ID=55139
 Golden Glacier Ⅱ
-Reflects 3% Damage received.
+Reflects 3% sustained damage.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reflect
 
 ID=55140
 Golden Glacier Ⅲ
-Reflects 5% Damage received.
+Reflects 5% sustained damage.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reflect
 
 ID=55141
 Golden Glacier Ⅳ
-Reflects 7% Damage received.
+Reflects 7% sustained damage.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage Reflect
 
@@ -6743,367 +6743,367 @@ Icon/Buff/Icon_Common_Buff_Akashic
 Fixed Maxed Damage
 
 ID=54111
-防御態勢
+Defensive Stance
 +3% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=54112
-防御態勢
+Defensive Stance
 +4% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=54113
-防御態勢
+Defensive Stance
 +5% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=54121
-防御態勢
+Defensive Stance
 +5% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=54122
-防御態勢
+Defensive Stance
 +6% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=54123
-防御態勢
+Defensive Stance
 +7% Dmg Reduction.
 Icon/Buff/Icon_Common_Buff_Akashic
 Dmg Reduction ↑
 
 ID=54211
-悟り
+Enlightenment
 +5 SV every 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SV
 
 ID=54212
-悟り
+Enlightenment
 +6 SV every 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SV
 
 ID=54213
-悟り
+Enlightenment
 +7 SV every 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SV
 
 ID=54221
-悟り
+Enlightenment
 +7 SV every 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SV
 
 ID=54222
-悟り
+Enlightenment
 +9 SV every 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SV
 
 ID=54223
-悟り
+Enlightenment
 +11 SV every 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
 +SV
 
 ID=54311
-錬金術師
+Alchemist
 When afflicted with status effects, 50% chance to be invulnerable for 3s. (45s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Invulnerable
 
 ID=54312
-錬金術師
+Alchemist
 When afflicted with status effects, 70% chance to be invulnerable for 3s. (45s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Invulnerable
 
 ID=54313
-錬金術師
+Alchemist
 When afflicted with status effects, 90% chance to be invulnerable for 3s. (45s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Invulnerable
 
 ID=54321
-錬金術師
+Alchemist
 When afflicted with status effects, 60% chance to be invulnerable for 3s. (35s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Invulnerable
 
 ID=54322
-錬金術師
+Alchemist
 When afflicted with status effects, 80% chance to be invulnerable for 3s. (35s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Invulnerable
 
 ID=54323
-錬金術師
+Alchemist
 When afflicted with status effects, 100% chance to be invulnerable for 3s. (35s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Invulnerable
 
 ID=54411
-縦横無尽
-+7% Movement Speed and +1% Attack Speed.
+Unchallenged
++7% Movement Speed & +1% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=54412
-縦横無尽
-+8% Movement Speed and +2% Attack Speed.
+Unchallenged
++8% Movement Speed & +2% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=54413
-縦横無尽
-+9% Movement Speed and +3% Attack Speed.
+Unchallenged
++9% Movement Speed & +3% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=54421
-縦横無尽
-+10% Movement Speed and +3% Attack Speed.
+Unchallenged
++10% Movement Speed & +3% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=54422
-縦横無尽
-+12% Movement Speed and +4% Attack Speed.
+Unchallenged
++12% Movement Speed & +4% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=54423
-縦横無尽
-+14% Movement Speed and +5% Attack Speed.
+Unchallenged
++14% Movement Speed & +5% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=54511
-激流
+Torrent
 On critical, 5% chance of +2% Penetration for 2s. (1s cooldown, max 2 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Penetration ↑
 
 ID=54512
-激流
+Torrent
 On critical, 5% chance of +3% Penetration for 2s. (1s cooldown, max 2 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Penetration ↑
 
 ID=54513
-激流
+Torrent
 On critical, 5% chance of +4% Penetration for 2s. (1s cooldown, max 2 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Penetration ↑
 
 ID=54521
-激流
+Torrent
 On critical, 7% chance of +3% Penetration for 3s. (1s cooldown, max 2 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Penetration ↑
 
 ID=54522
-激流
+Torrent
 On critical, 7% chance of +4% Penetration for 3s. (1s cooldown, max 2 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Penetration ↑
 
 ID=54523
-激流
+Torrent
 On critical, 7% chance of +5% Penetration for 3s. (1s cooldown, max 2 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
 Penetration ↑
 
 ID=54611
-死刑宣告
+Death Sentence
 On skill use, +700 Attack for 3s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=54612
-死刑宣告
+Death Sentence
 On skill use, +900 Attack for 3s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=54613
-死刑宣告
+Death Sentence
 On skill use, +1200 Attack for 3s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=54621
-死刑宣告
+Death Sentence
 On skill use, +900 Attack for 5s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=54622
-死刑宣告
+Death Sentence
 On skill use, +1200 Attack for 5s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=54623
-死刑宣告
+Death Sentence
 On skill use, +1600 Attack for 5s. (30s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=54711
-鉄壁守備
-+500 Defense and +7% Dmg Reduction against Boss/Named Enemies.
+Ironclad Defense
++500 Defense & +7% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↓
 
 ID=54712
-鉄壁守備
-+700 Defense and +8% Dmg Reduction against Boss/Named Enemies.
+Ironclad Defense
++700 Defense & +8% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↓
 
 ID=54713
-鉄壁守備
-+900 Defense and +9% Dmg Reduction against Boss/Named Enemies.
+Ironclad Defense
++900 Defense & +9% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↓
 
 ID=54721
-鉄壁守備
-+750 Defense and +8% Dmg Reduction against Boss/Named Enemies.
+Ironclad Defense
++750 Defense & +8% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↓
 
 ID=54722
-鉄壁守備
-+900 Defense and +9% Dmg Reduction against Boss/Named Enemies.
+Ironclad Defense
++900 Defense & +9% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↓
 
 ID=54723
-鉄壁守備
-+1050 Defense and +10% Dmg Reduction against Boss/Named Enemies.
+Ironclad Defense
++1050 Defense & +10% Dmg Reduction against Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↓
 
 ID=54811
-捕食の本能
+Predatory Instinct
 On hit, 30% chance of +10% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=54812
-捕食の本能
+Predatory Instinct
 On hit, 30% chance of +15% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=54813
-捕食の本能
+Predatory Instinct
 On hit, 30% chance of +20% SG. (20s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=54821
-捕食の本能
+Predatory Instinct
 On hit, 30% chance of +20% SG. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=54822
-捕食の本能
+Predatory Instinct
 On hit, 30% chance of +25% SG. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=54823
-捕食の本能
+Predatory Instinct
 On hit, 30% chance of +30% SG. (15s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 +SG
 
 ID=54911
-冷徹な判断
-+1500 Critical Damage for 5s every 65s.
+Rational Judgement
++1500 Critical Dmg for 5s every 65s.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=54912
-冷徹な判断
-+2000 Critical Damage for 5s every 65s.
+Rational Judgement
++2000 Critical Dmg for 5s every 65s.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=54913
-冷徹な判断
-+3000 Critical Damage for 5s every 65s.
+Rational Judgement
++3000 Critical Dmg for 5s every 65s.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=54921
-冷徹な判断
-+2000 Critical Damage for 5s every 55s.
+Rational Judgement
++2000 Critical Dmg for 5s every 55s.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=54922
-冷徹な判断
-+3000 Critical Damage for 5s every 55s.
+Rational Judgement
++3000 Critical Dmg for 5s every 55s.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=54923
-冷徹な判断
-+4500 Critical Damage for 5s every 55s.
+Rational Judgement
++4500 Critical Dmg for 5s every 55s.
 Icon/Buff/Icon_Common_Buff_Akashic
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=60111
-裁き
-+500 Attack and +7% Damage to Boss/Named Enemies.
+Judgement
++500 Attack & +7% Damage to Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=60112
-裁き
-+600 Attack and +8% Damage to Boss/Named Enemies.
+Judgement
++600 Attack & +8% Damage to Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=60113
-裁き
-+700 Attack and +9% Damage to Boss/Named Enemies.
+Judgement
++700 Attack & +9% Damage to Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=60121
-裁き
-+650 Attack and +9% Damage to Boss/Named Enemies.
+Judgement
++650 Attack & +9% Damage to Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=60122
-裁き
-+800 Attack and +10% Damage to Boss/Named Enemies.
+Judgement
++800 Attack & +10% Damage to Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=60123
-裁き
-+1000 Attack and +11% Damage to Boss/Named Enemies.
+Judgement
++1000 Attack & +11% Damage to Boss/Named Enemies.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage ↑
 
 ID=25006
-Raging
+Turbulent
 +50% Attack for 1 minute.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
@@ -7121,397 +7121,397 @@ Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed ↑
 
 ID=60127
-専門掃除
+Cleaning Expert
 +5% Damage to Souljunk Forces.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage to Souljunk Forces ↑
 
 ID=60128
-専門掃除
+Cleaning Expert
 +8% Damage to Souljunk Forces.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage to Souljunk Forces ↑
 
 ID=60129
-専門掃除
+Cleaning Expert
 +12% Damage to Souljunk Forces.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage to Souljunk Forces ↑
 
 ID=60130
-専門掃除
+Cleaning Expert
 +7% Damage to Souljunk Forces.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage to Souljunk Forces ↑
 
 ID=60131
-専門掃除
+Cleaning Expert
 +10% Damage to Souljunk Forces.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage to Souljunk Forces ↑
 
 ID=60132
-専門掃除
+Cleaning Expert
 +15% Damage to Souljunk Forces.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage to Souljunk Forces ↑
 
 ID=60133
-急所攻撃
+Attack Vitals
 On hit, 5% chance of +25% Critical for 2.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=60134
-急所攻撃
+Attack Vitals
 On hit, 10% chance of +25% Critical for 3.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=60135
-急所攻撃
+Attack Vitals
 On hit, 15% chance of +25% Critical for 4.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=60136
-急所攻撃
+Attack Vitals
 On hit, 10% chance of +25% Critical for 2.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=60137
-急所攻撃
+Attack Vitals
 On hit, 15% chance of +25% Critical for 3.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=60138
-急所攻撃
+Attack Vitals
 On hit, 20% chance of +25% Critical for 4.5s. (10s cooldown)
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical ↑
 
 ID=60139
-戦闘の流れ
+Tide of Battle
 +9% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=60140
-戦闘の流れ
+Tide of Battle
 +11% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=60141
-戦闘の流れ
+Tide of Battle
 +13% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=60142
-戦闘の流れ
+Tide of Battle
 +11% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=60143
-戦闘の流れ
+Tide of Battle
 +13% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=60144
-戦闘の流れ
+Tide of Battle
 +15% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=60145
-決戦
-+3% Damage to Boss/Named Enemies and +2% Penetration.
+Decisive Battle
++3% Damage to Boss/Named Enemies & +2% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage & Penetration ↑
 
 ID=60146
-決戦
-+7% Damage to Boss/Named Enemies and +3% Penetration.
+Decisive Battle
++7% Damage to Boss/Named Enemies & +3% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage & Penetration ↑
 
 ID=60147
-決戦
-+10% Damage to Boss/Named Enemies and +5% Penetration.
+Decisive Battle
++10% Damage to Boss/Named Enemies & +5% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage & Penetration ↑
 
 ID=60148
-決戦
-+5% Damage to Boss/Named Enemies and +2% Penetration.
+Decisive Battle
++5% Damage to Boss/Named Enemies & +2% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage & Penetration ↑
 
 ID=60149
-決戦
-+9% Damage to Boss/Named Enemies and +3% Penetration.
+Decisive Battle
++9% Damage to Boss/Named Enemies & +3% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage & Penetration ↑
 
 ID=60150
-決戦
-+12% Damage to Boss/Named Enemies and +5% Penetration.
+Decisive Battle
++12% Damage to Boss/Named Enemies & +5% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage & Penetration ↑
 
 ID=60151
-物欲発現
+Manifestation of Greed
 When obtaining an item, +3% Movement Speed for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=60152
-物欲発現
+Manifestation of Greed
 When obtaining an item, +5% Movement Speed for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=60153
-物欲発現
+Manifestation of Greed
 When obtaining an item, +7% Movement Speed for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=60154
-物欲発現
+Manifestation of Greed
 When obtaining an item, +6% Movement Speed for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=60155
-物欲発現
+Manifestation of Greed
 When obtaining an item, +9% Movement Speed for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=60156
-物欲発現
+Manifestation of Greed
 When obtaining an item, +12% Movement Speed for 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Movement Speed ↑
 
 ID=60157
-複数の怒り
+Fits of Rage
 When ally is incapacitated, +150 Attack for 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=60158
-複数の怒り
+Fits of Rage
 When ally is incapacitated, +250 Attack for 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=60159
-複数の怒り
+Fits of Rage
 When ally is incapacitated, +400 Attack for 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=60160
-複数の怒り
+Fits of Rage
 When ally is incapacitated, +275 Attack for 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=60161
-複数の怒り
+Fits of Rage
 When ally is incapacitated, +425 Attack for 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=60162
-複数の怒り
+Fits of Rage
 When ally is incapacitated, +625 Attack for 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=60163
-動力遮断
+Cutoff Power
 +5% Damage to Iron Forces.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage to Iron Forces ↑
 
 ID=60164
-動力遮断
+Cutoff Power
 +8% Damage to Iron Forces.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage to Iron Forces ↑
 
 ID=60165
-動力遮断
+Cutoff Power
 +12% Damage to Iron Forces.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage to Iron Forces ↑
 
 ID=60166
-動力遮断
+Cutoff Power
 +7% Damage to Iron Forces.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage to Iron Forces ↑
 
 ID=60167
-動力遮断
+Cutoff Power
 +10% Damage to Iron Forces.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage to Iron Forces ↑
 
 ID=60168
-動力遮断
+Cutoff Power
 +15% Damage to Iron Forces.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage to Iron Forces ↑
 
 ID=60169
-老練
+Veteran
 +3% EXP Gain in battle.
 Icon/Buff/Icon_Common_Buff_Akashic
 EXP Gain ↑
 
 ID=60170
-老練
+Veteran
 +6% EXP Gain in battle.
 Icon/Buff/Icon_Common_Buff_Akashic
 EXP Gain ↑
 
 ID=60171
-老練
+Veteran
 +9% EXP Gain in battle.
 Icon/Buff/Icon_Common_Buff_Akashic
 EXP Gain ↑
 
 ID=60172
-老練
+Veteran
 +4% EXP Gain in battle.
 Icon/Buff/Icon_Common_Buff_Akashic
 EXP Gain ↑
 
 ID=60173
-老練
+Veteran
 +8% EXP Gain in battle.
 Icon/Buff/Icon_Common_Buff_Akashic
 EXP Gain ↑
 
 ID=60174
-老練
+Veteran
 +12% EXP Gain in battle.
 Icon/Buff/Icon_Common_Buff_Akashic
 EXP Gain ↑
 
 ID=60175
-Self-recover
+Self-resilient
 +5% HP every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回復
+Recovery
 
 ID=60176
-Self-recover
+Self-resilient
 +7% HP every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回復
+Recovery
 
 ID=60177
-Self-recover
+Self-resilient
 +9% HP every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回復
+Recovery
 
 ID=60178
-Self-recover
+Self-resilient
 +6% HP every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回復
+Recovery
 
 ID=60179
-Self-recover
+Self-resilient
 +8% HP every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回復
+Recovery
 
 ID=60180
-Self-recover
+Self-resilient
 +10% HP every 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
-体力回復
+Recovery
 
 ID=60181
-動機
+Motivation
 When ally is incapacitated, +300 Attack for 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=60182
-動機
+Motivation
 When ally is incapacitated, +500 Attack for 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=60183
-動機
+Motivation
 When ally is incapacitated, +800 Attack for 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=60184
-動機
+Motivation
 When ally is incapacitated, +550 Attack for 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=60185
-動機
+Motivation
 When ally is incapacitated, +850 Attack for 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=60186
-動機
+Motivation
 When ally is incapacitated, +1250 Attack for 60s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack ↑
 
 ID=60187
-黄金の手
+Golden Hands
 On kill, +10% Zenny Gain.
 Icon/Buff/Icon_Common_Buff_Akashic
 Zenny Gain ↑
 
 ID=60188
-黄金の手
+Golden Hands
 On kill, +15% Zenny Gain.
 Icon/Buff/Icon_Common_Buff_Akashic
 Zenny Gain ↑
 
 ID=60189
-黄金の手
+Golden Hands
 On kill, +20% Zenny Gain.
 Icon/Buff/Icon_Common_Buff_Akashic
 Zenny Gain ↑
 
 ID=60190
-黄金の手
+Golden Hands
 On kill, +15% Zenny Gain.
 Icon/Buff/Icon_Common_Buff_Akashic
 Zenny Gain ↑
 
 ID=60191
-黄金の手
+Golden Hands
 On kill, +20% Zenny Gain.
 Icon/Buff/Icon_Common_Buff_Akashic
 Zenny Gain ↑
 
 ID=60192
-黄金の手
+Golden Hands
 On kill, +25% Zenny Gain.
 Icon/Buff/Icon_Common_Buff_Akashic
 Zenny Gain ↑
@@ -7667,22 +7667,22 @@ Icon/Buff/Icon_Common_Buff_Penetration
 Penetration ↑
 
 ID=8541
-Critical Damage ↑
+Critical Dmg ↑
 +150% Critical Damage for 25s.
 Icon/Buff/Icon_Common_Buff_ATK
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=8542
-Critical Damage ↑
+Critical Dmg ↑
 +170% Critical Damage for 25s.
 Icon/Buff/Icon_Common_Buff_ATK
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=8543
-Critical Damage ↑
+Critical Dmg ↑
 +200% Critical Damage for 25s.
 Icon/Buff/Icon_Common_Buff_ATK
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=8551
 Penetration ↑
@@ -7727,110 +7727,110 @@ Icon/Buff/Icon_Common_Buff_CRI
 Jet Black Blood
 
 ID=60193
-決戦
-+1% Damage to Boss/Named Enemies and +1% Penetration.
+Decisive Battle
++1% Damage to Boss/Named Enemies & +1% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage & Penetration ↑
 
 ID=60194
-決戦
-+2% Damage to Boss/Named Enemies and +2% Penetration.
+Decisive Battle
++2% Damage to Boss/Named Enemies & +2% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage & Penetration ↑
 
 ID=60195
-決戦
-+4% Damage to Boss/Named Enemies and +3% Penetration.
+Decisive Battle
++4% Damage to Boss/Named Enemies & +3% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage & Penetration ↑
 
 ID=60196
-決戦
-+2% Damage to Boss/Named Enemies and +1% Penetration.
+Decisive Battle
++2% Damage to Boss/Named Enemies & +1% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage & Penetration ↑
 
 ID=60197
-決戦
-+4% Damage to Boss/Named Enemies and +2% Penetration.
+Decisive Battle
++4% Damage to Boss/Named Enemies & +2% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage & Penetration ↑
 
 ID=60198
-決戦
-+6% Damage to Boss/Named Enemies and +3% Penetration.
+Decisive Battle
++6% Damage to Boss/Named Enemies & +3% Penetration.
 Icon/Buff/Icon_Common_Buff_Akashic
 Damage & Penetration ↑
 
 ID=60199
-戦闘の流れ
+Tide of Battle
 +2% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=60200
-戦闘の流れ
+Tide of Battle
 +4% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=60201
-戦闘の流れ
+Tide of Battle
 +6% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=60202
-戦闘の流れ
+Tide of Battle
 +3% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=60203
-戦闘の流れ
+Tide of Battle
 +5% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=60204
-戦闘の流れ
+Tide of Battle
 +8% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Akashic
 Attack Speed ↑
 
 ID=60205
-安定的呼吸
-+8% Stamina and +500 Attack for 3s every 6s.
+Steady Breathing
++8% Stamina & +500 Attack for 3s every 6s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina & Attack ↑
 
 ID=60206
-安定的呼吸
-+11% Stamina and +650 Attack for 3s every 6s.
+Steady Breathing
++11% Stamina & +650 Attack for 3s every 6s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina & Attack ↑
 
 ID=60207
-安定的呼吸
-+14% Stamina and +800 Attack for 3s every 6s.
+Steady Breathing
++14% Stamina & +800 Attack for 3s every 6s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina & Attack ↑
 
 ID=60208
-安定的呼吸
-+12% Stamina and +600 Attack for 3.5s every 5s.
+Steady Breathing
++12% Stamina & +600 Attack for 3.5s every 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina & Attack ↑
 
 ID=60209
-安定的呼吸
-+15% Stamina and +800 Attack for 3.5s every 5s.
+Steady Breathing
++15% Stamina & +800 Attack for 3.5s every 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina & Attack ↑
 
 ID=60210
-安定的呼吸
-+18% Stamina and +1000 Attack for 3.5s every 5s.
+Steady Breathing
++18% Stamina & +1000 Attack for 3.5s every 5s.
 Icon/Buff/Icon_Common_Buff_Akashic
 Stamina & Attack ↑
 
@@ -7838,37 +7838,37 @@ ID=60211
 Cat's Snack
 For every 20 hit combo, +400 HP.
 Icon/Buff/Icon_Common_Buff_ATK
-体力回復
+Recovery
 
 ID=60212
 Cat's Snack
 For every 20 hit combo, +800 HP.
 Icon/Buff/Icon_Common_Buff_ATK
-体力回復
+Recovery
 
 ID=60213
 Cat's Snack
 For every 20 hit combo, +1200 HP.
 Icon/Buff/Icon_Common_Buff_ATK
-体力回復
+Recovery
 
 ID=60214
 Cat's Snack
 For every 20 hit combo, +1000 HP.
 Icon/Buff/Icon_Common_Buff_ATK
-体力回復
+Recovery
 
 ID=60215
 Cat's Snack
 For every 20 hit combo, +1500 HP.
 Icon/Buff/Icon_Common_Buff_ATK
-体力回復
+Recovery
 
 ID=60216
 Cat's Snack
 For every 20 hit combo, +2000 HP.
 Icon/Buff/Icon_Common_Buff_ATK
-体力回復
+Recovery
 
 ID=8581
 Deceleration
@@ -7901,7 +7901,7 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 Paralyzed
 
 ID=22016
-Raging
+Turbulent
 +12% Attack for 30 minutes.
 Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
@@ -7913,13 +7913,13 @@ Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=22018
-Swiften
+Gale
 +10% Attack Speed for 30 minutes.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=22019
-Insane
+Madness
 +10% Critical for 30 minutes.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
@@ -7931,50 +7931,50 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 Seize
 
 ID=60217
-悟り
-+6 SV and +6% SG every 10s.
+Enlightenment
++6 SV & +6% SG every 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
-+SV and +SG
++SV & +SG
 
 ID=60218
-悟り
-+8 SV and +8% SG every 10s.
+Enlightenment
++8 SV & +8% SG every 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
-+SV and +SG
++SV & +SG
 
 ID=60219
-悟り
-+9 SV and +10% SG every 10s.
+Enlightenment
++9 SV & +10% SG every 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
-+SV and +SG
++SV & +SG
 
 ID=60220
-悟り
-+7 SV and +11% SG every 10s.
+Enlightenment
++7 SV & +11% SG every 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
-+SV and +SG
++SV & +SG
 
 ID=60221
-悟り
-+9 SV and +13% SG every 10s.
+Enlightenment
++9 SV & +13% SG every 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
-+SV and +SG
++SV & +SG
 
 ID=60222
-悟り
-+11 SV and +16% SG every 10s.
+Enlightenment
++11 SV & +16% SG every 10s.
 Icon/Buff/Icon_Common_Buff_Akashic
-+SV and +SG
++SV & +SG
 
 ID=63200
-Slowed
+Slow
 -30% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=63201
 Aquilas Enhancement
-+50% Damage and +50% Dmg Reduction
++50% Damage & +50% Dmg Reduction
 Icon/Buff/Icon_Common_Buff_ATK
 Enhance
 
@@ -7982,11 +7982,11 @@ ID=63202
 Aquilas Recovery
 +3% HP every 5s.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-Recover
+Recovery
 
 ID=63205
 Corruption
-Receive 1000 Damage every 5s and +3000 Critical Damage for 60s.
+Take 1000 Damage every 5s & +3000 Critical Damage for 60s.
 Icon/Buff/Icon_Common_Debuff_Arculus02
 Corruption
 
@@ -7998,13 +7998,13 @@ SG ↓
 
 ID=63206
 Corruption
-Receive 1000 Damage every 5s and +3000 Critical Damage for 60s.
+Take 1000 Damage every 5s & +3000 Critical Damage for 60s.
 Icon/Buff/Icon_Common_Debuff_Arculus02
 Corruption
 
 ID=63207
 Breakdown
-Receive 20000 Damage per second.
+Inflict 20000 Damage per second.
 Icon/Buff/Icon_Common_Debuff_Hell_fier
 Breakdown
 
@@ -8058,7 +8058,7 @@ Stamina ↓
 
 ID=411
 Desire Awakening
-Be enveloped in Desire Energy and significantly increases your combat abilities for 60s.
+Be enveloped in Desire Energy & significantly increases your combat abilities for 60s.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -8076,39 +8076,39 @@ Skill Release
 
 ID=60223
 True Military Strength
-On hit, 15% chance of +600 Critical Damage and +3% Damage to Boss/Named Enemies for 2.5s. (1.5s cooldown, and max 3 stacks)
+On hit, 15% chance of +600 Critical Dmg & +3% Damage to Boss/Named Enemies for 2.5s. (1.5s cooldown, max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-Increases Critical Damage and Damage to Boss/Named Enemies
+Critical Dmg & Damage to Boss/Named Enemies ↑
 
 ID=60224
 True Military Strength
-On hit, 15% chance of +650 Critical Damage and +4% Damage to Boss/Named Enemies for 3s. (1.5s cooldown, and max 3 stacks)
+On hit, 15% chance of +650 Critical Dmg & +4% Damage to Boss/Named Enemies for 3s. (1.5s cooldown, max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-Increases Critical Damage and Damage to Boss/Named Enemies
+Critical Dmg & Damage to Boss/Named Enemies ↑
 
 ID=60225
 True Military Strength
-On hit, 15% chance of +700 Critical Damage and +5% Damage to Boss/Named Enemies for 3.5s. (1.5s cooldown, and max 3 stacks)
+On hit, 15% chance of +700 Critical Dmg & +5% Damage to Boss/Named Enemies for 3.5s. (1.5s cooldown, max 3 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-Increases Critical Damage and Damage to Boss/Named Enemies
+Critical Dmg & Damage to Boss/Named Enemies ↑
 
 ID=60226
 True Military Strength
-On hit, 15% chance of +600 Critical Damage and +3% Damage to Boss/Named Enemies for 2.5s. (1.5s cooldown, and max 4 stacks)
+On hit, 15% chance of +600 Critical Dmg & +3% Damage to Boss/Named Enemies for 2.5s. (1.5s cooldown, max 4 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-Increases Critical Damage and Damage to Boss/Named Enemies
+Critical Dmg & Damage to Boss/Named Enemies ↑
 
 ID=60227
 True Military Strength
-On hit, 15% chance of +650 Critical Damage and +4% Damage to Boss/Named Enemies for 3.5s. (1.5s cooldown, and max 4 stacks)
+On hit, 15% chance of +650 Critical Dmg & +4% Damage to Boss/Named Enemies for 3.5s. (1.5s cooldown, max 4 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-Increases Critical Damage and Damage to Boss/Named Enemies
+Critical Dmg & Damage to Boss/Named Enemies ↑
 
 ID=60228
 True Military Strength
-On hit, 15% chance of +700 Critical Damage and +5% Damage to Boss/Named Enemies for 4.5s. (1.5s cooldown, and max 4 stacks)
+On hit, 15% chance of +700 Critical Dmg & +5% Damage to Boss/Named Enemies for 4.5s. (1.5s cooldown, max 4 stacks)
 Icon/Buff/Icon_Common_Buff_Akashic
-Increases Critical Damage and Damage to Boss/Named Enemies
+Critical Dmg & Damage to Boss/Named Enemies ↑
 
 ID=9006
 Bullet
@@ -8178,61 +8178,61 @@ Damage ↑
 
 ID=9021
 Overall Enhancement Ⅰ
-Max +35% Dmg Reduction and +4% Attack Speed.\nEvery 4s, +7% Dmg Reduction and +4% Attack Speed.
+Max +35% Dmg Reduction & +4% Attack Speed.\nEvery 4s, -7% Dmg Reduction & +4% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Def
 Dmg Reduction & Attack Speed ↑
 
 ID=9022
 Overall Enhancement Ⅱ
-Max +28% Dmg Reduction and +8% Attack Speed.\nEvery 4s, +7% Dmg Reduction and +4% Attack Speed.
+Max +28% Dmg Reduction & +8% Attack Speed.\nEvery 4s, -7% Dmg Reduction & +4% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Def
 Dmg Reduction & Attack Speed ↑
 
 ID=9023
 Overall Enhancement Ⅲ
-Max +21% Dmg Reduction and +12% Attack Speed.\nEvery 4s, +7% Dmg Reduction and +4% Attack Speed.
+Max +21% Dmg Reduction & +12% Attack Speed.\nEvery 4s, -7% Dmg Reduction & +4% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Def
 Dmg Reduction & Attack Speed ↑
 
 ID=9024
 Overall Enhancement Ⅳ
-Max +14% Dmg Reduction and +16% Attack Speed.\nEvery 4s, +7% Dmg Reduction and +4% Attack Speed.
+Max +14% Dmg Reduction & +16% Attack Speed.\nEvery 4s, -7% Dmg Reduction & +4% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Def
 Dmg Reduction & Attack Speed ↑
 
 ID=9025
 Overall Enhancement Ⅴ
-Max +7% Dmg Reduction and +20% Attack Speed.\nEvery 4s, +7% Dmg Reduction and +4% Attack Speed.
+Max +7% Dmg Reduction & +20% Attack Speed.\nEvery 4s, -7% Dmg Reduction & +4% Attack Speed.
 Icon/Buff/Icon_Common_Buff_Def
 Dmg Reduction & Attack Speed ↑
 
 ID=9026
-個人強化I
-It strengthens your body and reduces SG consumption by 5% for 25s.
+Self Enhancement Ⅰ
+Strengthens the body, -5% SG Cost for 25s.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Cost ↓
 
 ID=9027
-個人強化II
-It strengthens your body and reduces SG consumption by 7% for 25s.
+Self Enhancement Ⅱ
+Strengthens the body, -7% SG Cost for 25s.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Cost ↓
 
 ID=9028
-個人強化III
-It strengthens your body and reduces SG consumption by 9% for 25s.
+Self Enhancement Ⅲ
+Strengthens the body, -9% SG Cost for 25s.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Cost ↓
 
 ID=9029
-個人強化IV
-It strengthens your body and reduces SG consumption by 11% for 25s.
+Self Enhancement Ⅳ
+Strengthens the body, -11% SG Cost for 25s.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Cost ↓
 
 ID=9030
-個人強化V
-It strengthens your body and reduces SG consumption by 15% for 25s.
+Self Enhancement Ⅴ
+Strengthens the body, -15% SG Cost for 25s.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Cost ↓
 
@@ -8267,7 +8267,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=33004
-晴れ晴れ
+Cheerful
 +5 Stamina Recovery for 15s.
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 Stamina Recovery ↑
@@ -8369,25 +8369,25 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 +Stamina
 
 ID=3060
-ランダムポータルHP回復バフ
+Random Portal HP Recovery Buff
 +10% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=3061
-ランダムポータルHP回復バフ
+Random Portal HP Recovery Buff
 +10% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=3062
-ランダムポータルHP回復バフ
+Random Portal HP Recovery Buff
 +20% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=3063
-ランダムポータルHP回復バフ
+Random Portal HP Recovery Buff
 +20% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
@@ -8411,16 +8411,16 @@ Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=3090
-ランダムポータルクリティカルダメージバフ
+Random Portal Critical Dmg Buff
 +5000 Critical Dmg for 15s
 Icon/Buff/Icon_Common_Buff_CRI
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=3091
-ランダムポータルクリティカルダメージバフ
+Random Portal Critical Dmg Buff
 +10000 Critical Dmg for 8s
 Icon/Buff/Icon_Common_Buff_CRI
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=3092
 Random Portal Recover on Kill Buff
@@ -8525,25 +8525,25 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 +Stamina
 
 ID=3360
-ランダムポータルHP回復バフ
+Random Portal HP Recovery Buff
 +10% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=3361
-ランダムポータルHP回復バフ
+Random Portal HP Recovery Buff
 +10% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=3362
-ランダムポータルHP回復バフ
+Random Portal HP Recovery Buff
 +20% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=3363
-ランダムポータルHP回復バフ
+Random Portal HP Recovery Buff
 +20% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
@@ -8567,16 +8567,16 @@ Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=3390
-ランダムポータルクリティカルダメージバフ
+Random Portal Critical Dmg Buff
 +5000 Critical Dmg for 15s
 Icon/Buff/Icon_Common_Buff_CRI
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=3391
-ランダムポータルクリティカルダメージバフ
+Random Portal Critical Dmg Buff
 +10000 Critical Dmg for 8s
 Icon/Buff/Icon_Common_Buff_CRI
-Critical Damage ↑
+Critical Dmg ↑
 
 ID=3392
 Random Portal Recover on Kill Buff
@@ -8591,100 +8591,100 @@ Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
 ID=31101
-大治癒
-HP30%回復
+L Recovery
++30% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-大治癒：HP30%回復
+L Recovery: +30% HP
 
 ID=31102
-凶
-HP30%減少
+Misfortune
+-30% HP
 0
-凶：HP30%減少
+Misfortune: -30% HP
 
 ID=31103
-Recover
+Recovery
 +10% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-回復：HP10%回復
+Recovery: +10% HP
 
 ID=31104
-治癒
+Recovery
 +20% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-治癒：HP20%回復
+Recovery: +20% HP
 
 ID=31105
 HP ↓
-HP減少10%
+-10% HP
 0
-HP減少10%
+-10% HP
 
 ID=31106
-呪い
-Silenced / Dmg Reduction -20%
+Curse
+Silenced/Dmg Reduction -20%
 Icon/Buff/Icon_Common_Debuff_Silence
-Cursed: Silenced / Dmg Reduction -20%
+Curse: Silenced/Dmg Reduction -20%
 
 ID=31107
-完全治癒
+Full Recovery
 +100% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-完全治癒：HP100%回復
+Full Recovery: +100% HP
 
 ID=31108
-特大治癒
+XL Recovery
 +50% HP
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-特大治癒：HP50%回復
+XL Recovery: +50% HP
 
 ID=31109
-大凶
-HP50%減少
+L Misfortune
+-50% HP
 0
-大凶：HP50%減少
+L Misfortune: -50% HP
 
 ID=31110
-反作用Lv1
-HP減少5%
+Debuff Lv1
+-5% HP
 0
-反作用Lv1：HP5%減少
+Debuff Lv1: -5% HP
 
 ID=31111
-反作用Lv2
-HP減少10%
+Debuff Lv2
+-10% HP
 0
-反作用Lv2：HP10%減少
+Debuff Lv2: -10% HP
 
 ID=31112
-反作用Lv3
-HP減少15%
+Debuff Lv3
+-15% HP
 0
-反作用Lv3：HP15%減少
+Debuff Lv3: -15% HP
 
 ID=31113
-反作用Lv4
-HP減少20%
+Debuff Lv4
+-20% HP
 0
-反作用Lv4：HP20%減少
+Debuff Lv4: -20% HP
 
 ID=31114
-反作用Lv5
-HP減少30%
+Debuff Lv5
+-30% HP
 0
-反作用Lv5：HP30%減少
+Debuff Lv5: -30% HP
 
 ID=31115
-反作用Lv6
-HP減少40%
+Debuff Lv6
+-40% HP
 0
-反作用Lv6：HP40%減少
+Debuff Lv6: -40% HP
 
 ID=31116
-反作用Lv7
-HP減少50%
+Debuff Lv7
+-50% HP
 0
-反作用Lv7：HP50%減少
+Debuff Lv7: -50% HP
 
 ID=60229
 Extreme Aggression
@@ -8766,7 +8766,7 @@ SG Cost ↓
 
 ID=30622
 Dmg Reduction ↓
-Increases Damage received.
+Increases sustained damage.
 Icon/Buff/Icon_Common_Debuff_Burn
 Dmg Reduction ↓
 
@@ -8775,3 +8775,81 @@ Flame Explosion
 Flames stacked and exploded.
 Icon/Buff/Icon_Common_Debuff_Stun
 Flame Explosion
+
+ID=63301
+Concussion
+Body's heavy due to dizziness.
+Icon/Buff/Icon_Common_Debuff_MSR
+Concussion
+
+ID=63302
+Incinerate
+Engulfed in flames, taking sustained damage.
+Icon/Buff/Icon_Common_Debuff_Burn
+Incinerate
+
+ID=63303
+Terror
+Grew restless due to Flemma's threat.
+Icon/Buff/Icon_Common_Debuff_Fear
+Attack Speed & Dmg Reduction ↓
+
+ID=63304
+Resistance
+Gains immunity to Flemma's AoE attack.
+Icon/Buff/Icon_Common_Buff_Reg
+Resistance
+
+ID=63305
+Hellfire
+Inflicts 10000 Damage per second to nearby allies.
+Icon/Buff/Icon_Common_Debuff_Hell_fier
+Hellfire
+
+ID=63306
+Burning Flesh
+Inflicts 5000 Damage per second.
+Icon/Buff/Icon_Common_Debuff_Hell_fier
+Burning Flesh
+
+ID=63307
+Chosen One
++5000 HP per second to surrounding allies.
+Icon/Buff/Icon_Common_Buff_HP_Recovery
+Chosen One
+
+ID=60241
+Devastation
++1500 Critical Dmg & +1% Penetration
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Dmg & Penetration ↑
+
+ID=60242
+Devastation
++2500 Critical Dmg & +2% Penetration
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Dmg & Penetration ↑
+
+ID=60243
+Devastation
++4000 Critical Dmg & +3% Penetration
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Dmg & Penetration ↑
+
+ID=60244
+Devastation
++2000 Critical Dmg & +3% Penetration
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Dmg & Penetration ↑
+
+ID=60245
+Devastation
++3500 Critical Dmg & +4% Penetration
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Dmg & Penetration ↑
+
+ID=60246
+Devastation
++5000 Critical Dmg & +5% Penetration
+Icon/Buff/Icon_Common_Buff_Akashic
+Critical Dmg & Penetration ↑
