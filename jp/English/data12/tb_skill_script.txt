@@ -2544,8 +2544,8 @@ Movie/Skill/PC_D/B_Attack_05
 
 ID=114
 Special Ability Mastery Ⅰ
-[Ground]\nDamage: [168%]\nSA Break: [75%]\n\nStun nearby enemies for 2s.\n\n[Mid-air]\nDamage: [269%]\nSA Break: [119%]\n\n[Common]\nCooldown: [10s]\n\nGain SG on hit.\nSG varies based on attack and enemy type.\n\nSmash the ground with your foot.\nStuns hit enemies.\nIn mid-air, punch towards the ground.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Mid-air]\nMouse: After jumping (RMB)
-[Ground]\nDamage: [168%]+9%\nSA Break: [75%]+3%\n\n[Mid-air]\nDamage: [269%]+13%\nSA Break: [119%]+6%\n\n[Common]\nSG Gain: [20%]
+[Ground]\nDamage: [168%]\nSA Break: [75%]\nDebuff Effect: [Stun] for [2s]\nBuff Effect: +[5%] Damage for [10s]\n\n[Mid-air]\nDamage: [269%]\nSA Break: [119%]\n\n[Common]\nCooldown: [10s]\nEnhanced Skill Duration: [8.5s]\nEnhanced Skill Use: [1] time\n\nEnhances some skills when used, and gains SG on hit.\nSG varies based on attack and enemy type.\n\nSmash the ground with your foot.\nStuns hit enemies.\nIn mid-air, punch towards the ground.\n\n[Usage]\n[1] (RMB)\n[2] After jumping (RMB)
+[Ground]\nDamage: [168%]+9%\nSA Break: [75%]+3%\nDebuff Duration: [2s]+0.5s\nBuff Duration: [10s]+5s\n\n[Mid-air]\nDamage: [269%]+13%\nSA Break: [119%]+6%\n\n[Common]\nSG Gain: [20%]
 Icon/Skill/SpritArms/Icon_Sprit_Skill_OwnAbility
 0
 Movie/Skill/PC_D/B_S_Attack_N
@@ -2560,8 +2560,8 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 
 ID=124
 Special Ability Mastery Ⅱ
-[Ground]\nDamage: [177%]\nSA Break: [78%]\n\nStun nearby enemies for 2.5s.\n\n[Mid-air]\nDamage: [282%]\nSA Break: [125%]\n\n[Common]\nCooldown: [10s]\n\nGain SG on hit.\nSG varies based on attack and enemy type.\nSG Gain +[20%].\n\nSmash the ground with your foot.\nStuns hit enemies.\nIn mid-air, punch towards the ground.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Mid-air]\nMouse: After jumping (RMB)
-[Ground]\nDamage: [177%]+21%\nSA Break: [78%]+10%\n\n[Mid-air]\nDamage: [282%]+34%\nSA Break: [125%]+15%\n\n[Common]\nSG Gain: [20%]+50%
+[Ground]\nDamage: [177%]\nSA Break: [78%]\nDebuff Effect: [Stun] for [2.5s]\nBuff Effect: +[5%] Damage for [15s]\n\n[Mid-air]\nDamage: [282%]\nSA Break: [125%]\n\n[Common]\nCooldown: [10s]\nSG Gain: +[20%]\nEnhanced Skill Duration: [8.5s]\nEnhanced Skill Use: [1] time\n\nEnhances some skills when used, and gains SG on hit.\nSG varies based on attack and enemy type.\n\nSmash the ground with your foot.\nStuns hit enemies.\nIn mid-air, punch towards the ground.\n\n[Usage]\n[1] (RMB)\n[2] After jumping (RMB)
+[Ground]\nDamage: [177%]+21%\nSA Break: [78%]+10%\nDebuff Duration: [2.5s]+0.5s\nBuff Duration: [15s]+5s\n\n[Mid-air]\nDamage: [282%]+34%\nSA Break: [125%]+15%\n\n[Common]\nSG Gain: [20%]+50%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_OwnAbility
 0
 Movie/Skill/PC_D/B_S_Attack_N
@@ -2576,7 +2576,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 
 ID=134
 Special Ability Mastery Ⅲ
-[Ground]\nDamage: [198%]\nSA Break: [88%]\n\nStun nearby enemies for 3s.\n\n[Mid-air]\nDamage: [316%]\nSA Break: [140%]\n\n[Common]\nCooldown: [10s]\n\nGain SG on hit.\nSG varies based on attack and enemy type.\nSG Gain +[70%].\n\nSmash the ground with your foot.\nStuns hit enemies.\nIn mid-air, punch towards the ground.\n\n[Usage: Ground]\nMouse: (RMB)\n\n[Usage: Mid-air]\nMouse: After jumping (RMB)
+[Ground]\nDamage: [198%]\nSA Break: [88%]\nDebuff Effect: [Stun] for [3s]\nBuff Effect: +[5%] Damage for [20s]\n\n[Mid-air]\nDamage: [316%]\nSA Break: [140%]\n\n[Common]\nCooldown: [10s]\nSG Gain: +[70%]\nEnhanced Skill Duration: [8.5s]\nEnhanced Skill Use: [1] time\n\nEnhances some skills when used, and gains SG on hit.\nSG varies based on attack and enemy type.\n\nSmash the ground with your foot.\nStuns hit enemies.\nIn mid-air, punch towards the ground.\n\n[Usage]\n[1] (RMB)\n[2] After jumping (RMB)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_OwnAbility
 0
@@ -2832,7 +2832,7 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 
 ID=14011
 Counterattack Ⅰ
-[Basic]\nDamage: [295%]\nSA Break: [79%]\nCooldown: [5s]\n\n[Additional]\nDamage: [118%]\nSA Break: [32%]\n\nTakes a counter stance.\nEnhances some skills by 3.0x for 6.3s and recover [15%] SG on successful counter.\nEvades melee attack and unleash a counter.\n\n[Usage: Basic]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: While in effect (RMB)
+[Basic]\nDamage: [295%]\nSA Break: [79%]\n\nCooldown: [5s]\nSG Recovery: [15%]\nEnhanced Skill Duration: [8.5s]\nEnhanced Skill Use: [1] time\nEnhanced Skill on Counter: [3] times\n\n[Additional]\nDamage: [118%]\nSA Break: [32%]\n\nTakes a stance to counter against melee attacks.\nEnhances some skills when used or on successful counter, and recovers SG.\n\n[Usage: Basic]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: While in effect (RMB)
 [Basic]\nDamage: [295%]+15%\nSA Break: [79%]+4%\n\n[Additional]\nDamage: [118%]+6%\nSA Break: [32%]+1%\n\n[Recovery]\nSG Recovery: [15%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
@@ -2840,7 +2840,7 @@ Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=14012
 Counterattack Ⅱ
-[Basic]\nDamage: [310%]\nSA Break: [83%]\nCooldown: [5s]\n\n[Additional]\nDamage: [124%]\nSA Break: [33%]\n\nTakes a counter stance.\nEnhances some skills by 3.0x for 6.3s and recover [20%] SG on successful counter.\nEvades melee attack and unleash a counter.\n\n[Usage: Basic]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: While in effect (RMB)
+[Basic]\nDamage: [310%]\nSA Break: [83%]\n\nCooldown: [5s]\nSG Recovery: [20%]\nEnhanced Skill Duration: [8.5s]\nEnhanced Skill Use: [1] time\nEnhanced Skill on Counter: [3] times\n\n[Additional]\nDamage: [124%]\nSA Break: [33%]\n\nTakes a stance to counter against melee attacks.\nEnhances some skills when used or on successful counter, and recovers SG.\n\n[Usage: Basic]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: While in effect (RMB)
 [Basic]\nDamage: [310%]+37%\nSA Break: [83%]+10%\n\n[Additional]\nDamage: [124%]+15%\nSA Break: [33%]+4%\n\n[Recovery]\nSG Recovery: [20%]+5%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
@@ -2848,7 +2848,7 @@ Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=14013
 Counterattack Ⅲ
-[Basic]\nDamage: [347%]\nSA Break: [93%]\nCooldown: [5s]\n\n[Additional]\nDamage: [139%]\nSA Break: [37%]\n\nTakes a counter stance.\nEnhances some skills by 3.0x for 6.3s and recover [25%] SG on successful counter.\nEvades melee attack and unleash a counter.\n\n[Usage: Basic]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: While in effect (RMB)
+[Basic]\nDamage: [347%]\nSA Break: [93%]\n\nCooldown: [5s]\nSG Recovery: [25%]\nEnhanced Skill Duration: [8.5s]\nEnhanced Skill Use: [1] time\nEnhanced Skill on Counter: [3] times\n\n[Additional]\nDamage: [139%]\nSA Break: [37%]\n\nTakes a stance to counter against melee attacks.\nEnhances some skills when used or on successful counter, and recovers SG.\n\n[Usage: Basic]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: While in effect (RMB)
 [Basic]\nDamage: [347%]+37%\nSA Break: [93%]+10%\n\n[Additional]\nDamage: [139%]+15%\nSA Break: [37%]+4%\n\n[Recovery]\nSG Recovery: [25%]+10%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
@@ -2856,7 +2856,7 @@ Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=14014
 Counterattack Ⅳ
-[Basic]\nDamage: [384%]\nSA Break: [103%]\nCooldown: [5s]\n\n[Additional]\nDamage: [154%]\nSA Break: [41%]\n\nTakes a counter stance.\nEnhances some skills by 3.0x for 6.3s and recover [35%] SG on successful counter.\nEvades melee attack and unleash a counter.\n\n[Usage: Basic]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: While in effect (RMB)
+[Basic]\nDamage: [384%]\nSA Break: [103%]\n\nCooldown: [5s]\nSG Recovery: [35%]\nEnhanced Skill Duration: [8.5s]\nEnhanced Skill Use: [1] time\nEnhanced Skill on Counter: [3] times\n\n[Additional]\nDamage: [154%]\nSA Break: [41%]\n\nTakes a stance to counter against melee attacks.\nEnhances some skills when used or on successful counter, and recovers SG.\n\n[Usage: Basic]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: While in effect (RMB)
 [Basic]\nDamage: [384%]+59%\nSA Break: [103%]+16%\n\n[Additional]\nDamage: [154%]+23%\nSA Break: [41%]+7%\n\n[Recovery]\nSG Recovery: [35%]+15%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
@@ -2864,7 +2864,7 @@ Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=14015
 Counterattack Ⅴ
-[Basic]\nDamage: [443%]\nSA Break: [119%]\nCooldown: [5s]\n\n[Additional]\nDamage: [177%]\nSA Break: [48%]\n\nTakes a counter stance.\nEnhances some skills by 3.0x for 6.3s and recover [50%] SG on successful counter.\nEvades melee attack and unleash a counter.\n\n[Usage: Basic]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: While in effect (RMB)
+[Basic]\nDamage: [443%]\nSA Break: [119%]\n\nCooldown: [5s]\nSG Recovery: [50%]\nEnhanced Skill Duration: [8.5s]\nEnhanced Skill Use: [1] time\nEnhanced Skill on Counter: [3] times\n\n[Additional]\nDamage: [177%]\nSA Break: [48%]\n\nTakes a stance to counter against melee attacks.\nEnhances some skills when used or on successful counter, and recovers SG.\n\n[Usage: Basic]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: While in effect (RMB)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterAttack
 0
@@ -2912,39 +2912,39 @@ Movie/Skill/PC_D/B_Skill_GloryUpper
 
 ID=14031
 Hammer Kick Ⅰ
-[Info]\nDamage: [378%]\nSA Break: [700%]\nSG Cost: [30]\nSG Recovery: [10]\nCooldown: [12s]\n\nJump forward and kick.\nGain SG on hit and when enhanced by a successful counter, deal additional 2.0x damage and increase hit count by 1.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-Damage: [378%]+18%\nSA Break: [700%]+34%\nSG Recovery: [10]+4
+[Info]\nDamage: [378%]\nSA Break: [700%]\nSG Cost: [30]\nSG Recovery: [10%]\nCooldown: [12s]\n\nJump forward and kick.\nGain SG on hit and when enhanced by a successful counter, deal additional 2.5x damage and increase hit count by 1.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [378%]+18%\nSA Break: [700%]+34%\nSG Recovery: [10%]+4%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HammerKick
 0
 Movie/Skill/PC_D/B_Skill_HammerKick
 
 ID=14032
 Hammer Kick Ⅱ
-[Info]\nDamage: [396%]\nSA Break: [734%]\nSG Cost: [30]\nSG Recovery: [14]\nCooldown: [12s]\n\nJump forward and kick.\nGain SG on hit and when enhanced by a successful counter, deal additional 2.0x damage and increase hit count by 1.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-Damage: [396%]+50%\nSA Break: [734%]+88%\nSG Recovery: [14]+6
+[Info]\nDamage: [396%]\nSA Break: [734%]\nSG Cost: [30]\nSG Recovery: [14%]\nCooldown: [12s]\n\nJump forward and kick.\nGain SG on hit and when enhanced by a successful counter, deal additional 2.5x damage and increase hit count by 1.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [396%]+50%\nSA Break: [734%]+88%\nSG Recovery: [14%]+6%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HammerKick
 0
 Movie/Skill/PC_D/B_Skill_HammerKick
 
 ID=14033
 Hammer Kick Ⅲ
-[Info]\nDamage: [446%]\nSA Break: [822%]\nSG Cost: [30]\nSG Recovery: [20]\nCooldown: [12s]\n\nJump forward and kick.\nGain SG on hit and when enhanced by a successful counter, deal additional 2.0x damage and increase hit count by 1.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-Damage: [446%]+44%\nSA Break: [822%]+86%\nSG Recovery: [20]+6
+[Info]\nDamage: [446%]\nSA Break: [822%]\nSG Cost: [30]\nSG Recovery: [20%]\nCooldown: [12s]\n\nJump forward and kick.\nGain SG on hit and when enhanced by a successful counter, deal additional 2.5x damage and increase hit count by 1.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [446%]+44%\nSA Break: [822%]+86%\nSG Recovery: [20%]+6%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HammerKick
 0
 Movie/Skill/PC_D/B_Skill_HammerKick
 
 ID=14034
 Hammer Kick Ⅳ
-[Info]\nDamage: [490%]\nSA Break: [908%]\nSG Cost: [30]\nSG Recovery: [26]\nCooldown: [12s]\n\nJump forward and kick.\nGain SG on hit and when enhanced by a successful counter, deal additional 2.0x damage and increase hit count by 1.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-Damage: [490%]+78%\nSA Break: [908%]+140%\nSG Recovery: [26]+8
+[Info]\nDamage: [490%]\nSA Break: [908%]\nSG Cost: [30]\nSG Recovery: [26%]\nCooldown: [12s]\n\nJump forward and kick.\nGain SG on hit and when enhanced by a successful counter, deal additional 2.5x damage and increase hit count by 1.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [490%]+78%\nSA Break: [908%]+140%\nSG Recovery: [26%]+8%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HammerKick
 0
 Movie/Skill/PC_D/B_Skill_HammerKick
 
 ID=14035
 Hammer Kick Ⅴ
-[Info]\nDamage: [568%]\nSA Break: [1048%]\nSG Cost: [30]\nSG Recovery: [34]\nCooldown: [12s]\n\nJump forward and kick.\nGain SG on hit and when enhanced by a successful counter, deal additional 2.0x damage and increase hit count by 1.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Info]\nDamage: [568%]\nSA Break: [1048%]\nSG Cost: [30]\nSG Recovery: [34%]\nCooldown: [12s]\n\nJump forward and kick.\nGain SG on hit and when enhanced by a successful counter, deal additional 2.5x damage and increase hit count by 1.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HammerKick
 0
@@ -3072,7 +3072,7 @@ Movie/Skill/PC_D/B_Skill_GravityTwister
 
 ID=14071
 Spirit Explosion Ⅰ
-[Info]\nDamage: [455%]\nSA Break: [435%]\nSG Cost: [50]\nCooldown: [20s]\nMax Charge: [3]\n\nAmass power to your gauntlet, and unleash a powerful blow.\nWhen charged, increases power by 1.4x up to 2.0x.\nWhen enhanced by a successful counter, charge set to max, and deal additional 1.3x damage and SA Break.\n\n[Usage]\nRegister in a skill slot and hold its corresponding key
+[Info]\nDamage: [455%]\nSA Break: [435%]\nSG Cost: [50]\nCooldown: [20s]\nMax Charge: [3]\n\nAmass power to your gauntlet, and unleash a powerful blow.\nWhen charged, increases power by 1.4x up to 2.0x.\nWhen enhanced by a successful counter, charge set to max, and deal additional 1.5x damage and SA Break.\n\n[Usage]\nRegister in a skill slot and hold its corresponding key
 Damage: [455%]+22%\nSA Break: [435%]+30%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion
 0
@@ -3080,7 +3080,7 @@ Movie/Skill/PC_D/B_Skill_SpiritExplosion
 
 ID=14072
 Spirit Explosion Ⅱ
-[Info]\nDamage: [477%]\nSA Break: [465%]\nSG Cost: [50]\nCooldown: [20s]\nMax Charge: [3]\n\nAmass power to your gauntlet, and unleash a powerful blow.\nWhen charged, increases power by 1.4x up to 2.0x.\nWhen enhanced by a successful counter, charge set to max, and deal additional 1.3x damage and SA Break.\n\n[Usage]\nRegister in a skill slot and hold its corresponding key
+[Info]\nDamage: [477%]\nSA Break: [465%]\nSG Cost: [50]\nCooldown: [20s]\nMax Charge: [3]\n\nAmass power to your gauntlet, and unleash a powerful blow.\nWhen charged, increases power by 1.4x up to 2.0x.\nWhen enhanced by a successful counter, charge set to max, and deal additional 1.5x damage and SA Break.\n\n[Usage]\nRegister in a skill slot and hold its corresponding key
 Damage: [477%]+57%\nSA Break: [465%]+45%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion
 0
@@ -3088,7 +3088,7 @@ Movie/Skill/PC_D/B_Skill_SpiritExplosion
 
 ID=14073
 Spirit Explosion Ⅲ
-[Info]\nDamage: [534%]\nSA Break: [510%]\nSG Cost: [50]\nCooldown: [20s]\nMax Charge: [3]\n\nAmass power to your gauntlet, and unleash a powerful blow.\nWhen charged, increases power by 1.4x up to 2.0x.\nWhen enhanced by a successful counter, charge set to max, and deal additional 1.3x damage and SA Break.\n\n[Usage]\nRegister in a skill slot and hold its corresponding key
+[Info]\nDamage: [534%]\nSA Break: [510%]\nSG Cost: [50]\nCooldown: [20s]\nMax Charge: [3]\n\nAmass power to your gauntlet, and unleash a powerful blow.\nWhen charged, increases power by 1.4x up to 2.0x.\nWhen enhanced by a successful counter, charge set to max, and deal additional 1.5x damage and SA Break.\n\n[Usage]\nRegister in a skill slot and hold its corresponding key
 Damage: [534%]+58%\nSA Break: [510%]+60%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion
 0
@@ -3096,7 +3096,7 @@ Movie/Skill/PC_D/B_Skill_SpiritExplosion
 
 ID=14074
 Spirit Explosion Ⅳ
-[Info]\nDamage: [592%]\nSA Break: [570%]\nSG Cost: [50]\nCooldown: [20s]\nMax Charge: [3]\n\nAmass power to your gauntlet, and unleash a powerful blow.\nWhen charged, increases power by 1.4x up to 2.0x.\nWhen enhanced by a successful counter, charge set to max, and deal additional 1.3x damage and SA Break.\n\n[Usage]\nRegister in a skill slot and hold its corresponding key
+[Info]\nDamage: [592%]\nSA Break: [570%]\nSG Cost: [50]\nCooldown: [20s]\nMax Charge: [3]\n\nAmass power to your gauntlet, and unleash a powerful blow.\nWhen charged, increases power by 1.4x up to 2.0x.\nWhen enhanced by a successful counter, charge set to max, and deal additional 1.5x damage and SA Break.\n\n[Usage]\nRegister in a skill slot and hold its corresponding key
 Damage: [592%]+91%\nSA Break: [570%]+90%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion
 0
@@ -3104,7 +3104,7 @@ Movie/Skill/PC_D/B_Skill_SpiritExplosion
 
 ID=14075
 Spirit Explosion Ⅴ
-[Info]\nDamage: [683%]\nSA Break: [660%]\nSG Cost: [50]\nCooldown: [20s]\nMax Charge: [3]\n\nAmass power to your gauntlet, and unleash a powerful blow.\nWhen charged, increases power by 1.4x up to 2.0x.\nWhen enhanced by a successful counter, charge set to max, and deal additional 1.3x damage and SA Break.\n\n[Usage]\nRegister in a skill slot and hold its corresponding key
+[Info]\nDamage: [683%]\nSA Break: [660%]\nSG Cost: [50]\nCooldown: [20s]\nMax Charge: [3]\n\nAmass power to your gauntlet, and unleash a powerful blow.\nWhen charged, increases power by 1.4x up to 2.0x.\nWhen enhanced by a successful counter, charge set to max, and deal additional 1.5x damage and SA Break.\n\n[Usage]\nRegister in a skill slot and hold its corresponding key
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritExplosion
 0
@@ -3152,39 +3152,39 @@ Movie/Skill/PC_D/B_Skill_SpiritShooter
 
 ID=14091
 Quadra Blow Ⅰ
-[Info]\nDamage: [157%]\nSA Break: [146%]\nSG Cost: [40]\nCooldown: [15s]\n\nFire spheres that explode on impact, dealing damage to the surroundings.\nWhen enhanced by a successful counter, deal additional 1.3x damage.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-Damage: [157%]+8%\nSA Break: [146%]+6%
+[Info]\nDamage: [181%]\nSA Break: [168%]\nSG Cost: [40]\nCooldown: [15s]\n\nFire spheres that explode on impact, dealing damage to the surroundings.\nWhen enhanced by a successful counter, deal additional 1.5x damage.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [181%]+9%\nSA Break: [168%]+7%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 0
 Movie/Skill/PC_D/B_Skill_QuadraBlow
 
 ID=14092
 Quadra Blow Ⅱ
-[Info]\nDamage: [165%]\nSA Break: [152%]\nSG Cost: [40]\nCooldown: [15s]\n\nFire spheres that explode on impact, dealing damage to the surroundings.\nWhen enhanced by a successful counter, deal additional 1.3x damage.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-Damage: [165%]+20%\nSA Break: [152%]+20%
+[Info]\nDamage: [190%]\nSA Break: [175%]\nSG Cost: [40]\nCooldown: [15s]\n\nFire spheres that explode on impact, dealing damage to the surroundings.\nWhen enhanced by a successful counter, deal additional 1.5x damage.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [190%]+23%\nSA Break: [175%]+23%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 0
 Movie/Skill/PC_D/B_Skill_QuadraBlow
 
 ID=14093
 Quadra Blow Ⅲ
-[Info]\nDamage: [185%]\nSA Break: [172%]\nSG Cost: [40]\nCooldown: [15s]\n\nFire spheres that explode on impact, dealing damage to the surroundings.\nWhen enhanced by a successful counter, deal additional 1.3x damage.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-Damage: [185%]+19%\nSA Break: [172%]+18%
+[Info]\nDamage: [213%]\nSA Break: [198%]\nSG Cost: [40]\nCooldown: [15s]\n\nFire spheres that explode on impact, dealing damage to the surroundings.\nWhen enhanced by a successful counter, deal additional 1.5x damage.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [213%]+22%\nSA Break: [198%]+21%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 0
 Movie/Skill/PC_D/B_Skill_QuadraBlow
 
 ID=14094
 Quadra Blow Ⅳ
-[Info]\nDamage: [204%]\nSA Break: [190%]\nSG Cost: [40]\nCooldown: [15s]\n\nFire spheres that explode on impact, dealing damage to the surroundings.\nWhen enhanced by a successful counter, deal additional 1.3x damage.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-Damage: [204%]+32%\nSA Break: [190%]+28%
+[Info]\nDamage: [235%]\nSA Break: [219%]\nSG Cost: [40]\nCooldown: [15s]\n\nFire spheres that explode on impact, dealing damage to the surroundings.\nWhen enhanced by a successful counter, deal additional 1.5x damage.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+Damage: [235%]+36%\nSA Break: [219%]+32%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 0
 Movie/Skill/PC_D/B_Skill_QuadraBlow
 
 ID=14095
 Quadra Blow Ⅴ
-[Info]\nDamage: [236%]\nSA Break: [218%]\nSG Cost: [40]\nCooldown: [15s]\n\nFire spheres that explode on impact, dealing damage to the surroundings.\nWhen enhanced by a successful counter, deal additional 1.3x damage.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Info]\nDamage: [271%]\nSA Break: [251%]\nSG Cost: [40]\nCooldown: [15s]\n\nFire spheres that explode on impact, dealing damage to the surroundings.\nWhen enhanced by a successful counter, deal additional 1.5x damage.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow
 0
@@ -3192,7 +3192,7 @@ Movie/Skill/PC_D/B_Skill_QuadraBlow
 
 ID=14101
 Heavy Drop Ⅰ
-[Info]\nDamage: [625%]\nSA Break: [335%]\nSG Cost: [45]\nCooldown: [30s]\nMax Charge: [3]\n\nWhen charged, increases range and power by 1.4x up to 2.0x.\nAmass energy while in mid-air, forming a huge sphere.\nThe thrown sphere causes a huge explosion, dealing damage to surrounding enemies.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air\n(aerial skills are automatically registered to your skill slots)
+[Info]\nDamage: [625%]\nSA Break: [335%]\nSG Cost: [45]\nCooldown: [30s]\nMax Charge: [3]\n\nWhen charged, increases range and power by 1.6x up to 2.4x.\nAmass energy while in mid-air, forming a huge sphere.\nThe thrown sphere causes a huge explosion, dealing damage to surrounding enemies.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air\n(aerial skills are automatically registered to your skill slots)
 Damage: [625%]+31%\nSA Break: [335%]+16%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 0
@@ -3200,7 +3200,7 @@ Movie/Skill/PC_D/B_Skill_HeavyDrop
 
 ID=14102
 Heavy Drop Ⅱ
-[Info]\nDamage: [656%]\nSA Break: [351%]\nSG Cost: [45]\nCooldown: [30s]\nMax Charge: [3]\n\nWhen charged, increases range and power by 1.4x up to 2.0x.\nAmass energy while in mid-air, forming a huge sphere.\nThe thrown sphere causes a huge explosion, dealing damage to surrounding enemies.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air\n(aerial skills are automatically registered to your skill slots)
+[Info]\nDamage: [656%]\nSA Break: [351%]\nSG Cost: [45]\nCooldown: [30s]\nMax Charge: [3]\n\nWhen charged, increases range and power by 1.6x up to 2.4x.\nAmass energy while in mid-air, forming a huge sphere.\nThe thrown sphere causes a huge explosion, dealing damage to surrounding enemies.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air\n(aerial skills are automatically registered to your skill slots)
 Damage: [656%]+78%\nSA Break:[351%]+42%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 0
@@ -3208,7 +3208,7 @@ Movie/Skill/PC_D/B_Skill_HeavyDrop
 
 ID=14103
 Heavy Drop Ⅲ
-[Info]\nDamage: [734%]\nSA Break: [393%]\nSG Cost: [45]\nCooldown: [30s]\nMax Charge: [3]\n\nWhen charged, increases range and power by 1.4x up to 2.0x.\nAmass energy while in mid-air, forming a huge sphere.\nThe thrown sphere causes a huge explosion, dealing damage to surrounding enemies.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air\n(aerial skills are automatically registered to your skill slots)
+[Info]\nDamage: [734%]\nSA Break: [393%]\nSG Cost: [45]\nCooldown: [30s]\nMax Charge: [3]\n\nWhen charged, increases range and power by 1.6x up to 2.4x.\nAmass energy while in mid-air, forming a huge sphere.\nThe thrown sphere causes a huge explosion, dealing damage to surrounding enemies.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air\n(aerial skills are automatically registered to your skill slots)
 Damage: [734%]+78%\nSA Break: [393%]+42%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 0
@@ -3216,7 +3216,7 @@ Movie/Skill/PC_D/B_Skill_HeavyDrop
 
 ID=14104
 Heavy Drop Ⅳ
-[Info]\nDamage: [812%]\nSA Break: [435%]\nSG Cost: [45]\nCooldown: [30s]\nMax Charge: [3]\n\nWhen charged, increases range and power by 1.4x up to 2.0x.\nAmass energy while in mid-air, forming a huge sphere.\nThe thrown sphere causes a huge explosion, dealing damage to surrounding enemies.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air\n(aerial skills are automatically registered to your skill slots)
+[Info]\nDamage: [812%]\nSA Break: [435%]\nSG Cost: [45]\nCooldown: [30s]\nMax Charge: [3]\n\nWhen charged, increases range and power by 1.6x up to 2.4x.\nAmass energy while in mid-air, forming a huge sphere.\nThe thrown sphere causes a huge explosion, dealing damage to surrounding enemies.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air\n(aerial skills are automatically registered to your skill slots)
 Damage: [812%]+125%\nSA Break: [435%]+67%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 0
@@ -3224,7 +3224,7 @@ Movie/Skill/PC_D/B_Skill_HeavyDrop
 
 ID=14105
 Heavy Drop Ⅴ
-[Info]\nDamage: [937%]\nSA Break: [502%]\nSG Cost: [45]\nCooldown: [30s]\nMax Charge: [3]\n\nWhen charged, increases range and power by 1.4x up to 2.0x.\nAmass energy while in mid-air, forming a huge sphere.\nThe thrown sphere causes a huge explosion, dealing damage to surrounding enemies.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air\n(aerial skills are automatically registered to your skill slots)
+[Info]\nDamage: [937%]\nSA Break: [502%]\nSG Cost: [45]\nCooldown: [30s]\nMax Charge: [3]\n\nWhen charged, increases range and power by 1.6x up to 2.4x.\nAmass energy while in mid-air, forming a huge sphere.\nThe thrown sphere causes a huge explosion, dealing damage to surrounding enemies.\n\n[Usage]\nKeyboard: Press the corresponding key while in mid-air\n(aerial skills are automatically registered to your skill slots)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop
 0
@@ -3232,39 +3232,39 @@ Movie/Skill/PC_D/B_Skill_HeavyDrop
 
 ID=14111
 Fusion Armor Ⅰ
-[Basic]\nBuff Effect: [Invincibility]\nBuff Duration: [3.0s]\nSG Cost: [60]\nCooldown: [45s]\n\n[Additional]\nBuff Effect: [Invincibility]\nBuff Duration: [1.0s]\n\nEmit Soul Energy, forming a barrier.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-[Basic]\nBuff Duration: [3.0s]+0.7s\n\n[Additional]\nBuff Duration: [1.0s]+0.2s
+[Basic]\nBuff Effect: [Invincibility] for [3.0s]\nSG Cost: [60]\nCooldown: [45s]\n\n[Additional]\nParty Buff Effect: [Invincibility] for [1.0s]\nBarrier: +[5%] Dmg Reduction for [20s]\n\nEmit Soul Energy, forming a barrier.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nBuff Duration: [3.0s]+0.7s\n\n[Additional]\nParty Buff Duration: [1.0s]+0.2s\nDmg Reduction: [5%]+2%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FusionArmor
 0
 Movie/Skill/PC_D/B_Skill_FusionArmor
 
 ID=14112
 Fusion Armor Ⅱ
-[Basic]\nBuff Effect: [Invincibility]\nBuff Duration: [3.7s]\nSG Cost: [60]\nCooldown: [45s]\n\n[Additional]\nBuff Effect: [Invincibility]\nBuff Duration: [1.2s]\n\nEmit Soul Energy, forming a barrier.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-[Basic]\nBuff Duration: [3.7s]+0.6s\n\n[Additional]\nBuff Duration: [1.2s]+0.4s
+[Basic]\nBuff Effect: [Invincibility] for [3.7s]\nSG Cost: [60]\nCooldown: [45s]\n\n[Additional]\nParty Buff Effect: [Invincibility] for [1.2s]\nBarrier: +[7%] Dmg Reduction for [20s]\n\nEmit Soul Energy, forming a barrier.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nBuff Duration: [3.7s]+0.6s\n\n[Additional]\nParty Buff Duration: [1.2s]+0.4s\nDmg Reduction: [7%]+2%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FusionArmor
 0
 Movie/Skill/PC_D/B_Skill_FusionArmor
 
 ID=14113
 Fusion Armor Ⅲ
-[Basic]\nBuff Effect: [Invincibility]\nBuff Duration: [4.3s]\nSG Cost: [60]\nCooldown: [45s]\n\n[Additional]\nBuff Effect: [Invincibility]\nBuff Duration: [1.6s]\n\nEmit Soul Energy, forming a barrier.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-[Basic]\nBuff Duration: [4.3s]+0.7s\n\n[Additional]\nBuff Duration: [1.6s]+0.4s
+[Basic]\nBuff Effect: [Invincibility] for [4.3s]\nSG Cost: [60]\nCooldown: [45s]\n\n[Additional]\nParty Buff Effect: [Invincibility] for [1.6s]\nBarrier: +[9%] Dmg Reduction for [20s]\n\nEmit Soul Energy, forming a barrier.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nBuff Duration: [4.3s]+0.7s\n\n[Additional]\nParty Buff Duration: [1.6s]+0.4s\nDmg Reduction: [9%]+3%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FusionArmor
 0
 Movie/Skill/PC_D/B_Skill_FusionArmor
 
 ID=14114
 Fusion Armor Ⅳ
-[Basic]\nBuff Effect: [Invincibility]\nBuff Duration: [5.0s]\nSG Cost: [60]\nCooldown: [45s]\n\n[Additional]\nBuff Effect: [Invincibility]\nBuff Duration: [2.0s]\n\nEmit Soul Energy, forming a barrier.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-[Basic]\nBuff Duration: [5.0s]+2.0s\n\n[Additional]\nBuff Duration: [2.0s]+1.0s
+[Basic]\nBuff Effect: [Invincibility] for [5.0s]\nSG Cost: [60]\nCooldown: [45s]\n\n[Additional]\nParty Buff Effect: [Invincibility] for [2.0s]\nBarrier: +[12%] Dmg Reduction for [20s]\n\nEmit Soul Energy, forming a barrier.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nBuff Duration: [5.0s]+2.0s\n\n[Additional]\nParty Buff Duration: [2.0s]+1.0s\nDmg Reduction: [12%]+3%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FusionArmor
 0
 Movie/Skill/PC_D/B_Skill_FusionArmor
 
 ID=14115
 Fusion Armor Ⅴ
-[Basic]\nBuff Effect: [Invincibility]\nBuff Duration: [7.0s]\nSG Cost: [60]\nCooldown: [45s]\n\n[Additional]\nBuff Effect: [Invincibility]\nBuff Duration: [3.0s]\n\nEmit Soul Energy, forming a barrier.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nBuff Effect: [Invincibility] for [7.0s]\nSG Cost: [60]\nCooldown: [45s]\n\n[Additional]\nParty Buff Effect: [Invincibility] for [3.0s]\nBarrier: +[15%] Dmg Reduction for [20s]\n\nEmit Soul Energy, forming a barrier.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_FusionArmor
 0
@@ -3272,39 +3272,39 @@ Movie/Skill/PC_D/B_Skill_FusionArmor
 
 ID=14121
 Rapid Puncher Ⅰ
-[Basic]\nDamage: [175%]\nSA Break: [215%]\n\n[Additional]\nDamage: [700%]\nSA Break: [860%]\n\n[Common]\nSG Cost: [65]\nCooldown: [35s]\n\nUnleash a high output consecutive attacks.\nEnd the onslaught with a powerful attack by pressing right-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Basic]\nMouse: (Spam LMB)\n\n[Usage: Additional]\nMouse: (RMB)
-[Basic]\nDamage: [175%]+9%\nSA Break: [215%]+9%\n\n[Additional]\nDamage: [700%]+36%\nSA Break: [860%]+36%
+[Basic]\nDamage: [140%]\nSA Break: [172%]\n\n[Additional]\nDamage: [700%]\nSA Break: [860%]\n\n[Common]\nSG Cost: [65]\nCooldown: [35s]\n\nUnleash a high output consecutive attacks.\nEnd the onslaught with a powerful attack by pressing right-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Basic]\nMouse: (Spam LMB)\n\n[Usage: Additional]\nMouse: (RMB)
+[Basic]\nDamage: [140%]+7%\nSA Break: [172%]+7%\n\n[Additional]\nDamage: [700%]+36%\nSA Break: [860%]+36%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_RapidPuncher
 0
 Movie/Skill/PC_D/B_Skill_RapidPuncher
 
 ID=14122
 Rapid Puncher Ⅱ
-[Basic]\nDamage: [184%]\nSA Break: [224%]\n\n[Additional]\nDamage: [736%]\nSA Break: [896%]\n\n[Common]\nSG Cost: [65]\nCooldown: [35s]\n\nUnleash a high output consecutive attacks.\nEnd the onslaught with a powerful attack by pressing right-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Basic]\nMouse: (Spam LMB)\n\n[Usage: Additional]\nMouse: (RMB)
-[Basic]\nDamage: [184%]+21%\nSA Break: [224%]+29%\n\n[Additional]\nDamage: [736%]+84%\nSA Break: [896%]+116%
+[Basic]\nDamage: [147%]\nSA Break: [179%]\n\n[Additional]\nDamage: [736%]\nSA Break: [896%]\n\n[Common]\nSG Cost: [65]\nCooldown: [35s]\n\nUnleash a high output consecutive attacks.\nEnd the onslaught with a powerful attack by pressing right-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Basic]\nMouse: (Spam LMB)\n\n[Usage: Additional]\nMouse: (RMB)
+[Basic]\nDamage: [147%]+17%\nSA Break: [179%]+23%\n\n[Additional]\nDamage: [736%]+84%\nSA Break: [896%]+116%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_RapidPuncher
 0
 Movie/Skill/PC_D/B_Skill_RapidPuncher
 
 ID=14123
 Rapid Puncher Ⅲ
-[Basic]\nDamage: [205%]\nSA Break: [253%]\n\n[Additional]\nDamage: [820%]\nSA Break: [1012%]\n\n[Common]\nSG Cost: [65]\nCooldown: [35s]\n\nUnleash a high output consecutive attacks.\nEnd the onslaught with a powerful attack by pressing right-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Basic]\nMouse: (Spam LMB)\n\n[Usage: Additional]\nMouse: (RMB)
-[Basic]\nDamage: [205%]+22%\nSA Break: [253%]+26%\n\n[Additional]\nDamage: [820%]+88%\nSA Break: [1012%]+104%
+[Basic]\nDamage: [164%]\nSA Break: [202%]\n\n[Additional]\nDamage: [820%]\nSA Break: [1012%]\n\n[Common]\nSG Cost: [65]\nCooldown: [35s]\n\nUnleash a high output consecutive attacks.\nEnd the onslaught with a powerful attack by pressing right-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Basic]\nMouse: (Spam LMB)\n\n[Usage: Additional]\nMouse: (RMB)
+[Basic]\nDamage: [164%]+18%\nSA Break: [202%]+21%\n\n[Additional]\nDamage: [820%]+88%\nSA Break: [1012%]+104%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_RapidPuncher
 0
 Movie/Skill/PC_D/B_Skill_RapidPuncher
 
 ID=14124
 Rapid Puncher Ⅳ
-[Basic]\nDamage: [227%]\nSA Break: [279%]\n\n[Additional]\nDamage: [908%]\nSA Break: [1116%]\n\n[Common]\nSG Cost: [65]\nCooldown: [35s]\n\nUnleash a high output consecutive attacks.\nEnd the onslaught with a powerful attack by pressing right-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Basic]\nMouse: (Spam LMB)\n\n[Usage: Additional]\nMouse: (RMB)
-[Basic]\nDamage: [227%]+34%\nSA Break: [279%]+43%\n\n[Additional]\nDamage: [908%]+136%\nSA Break: [1116%]+172%
+[Basic]\nDamage: [182%]\nSA Break: [223%]\n\n[Additional]\nDamage: [908%]\nSA Break: [1116%]\n\n[Common]\nSG Cost: [65]\nCooldown: [35s]\n\nUnleash a high output consecutive attacks.\nEnd the onslaught with a powerful attack by pressing right-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Basic]\nMouse: (Spam LMB)\n\n[Usage: Additional]\nMouse: (RMB)
+[Basic]\nDamage: [182%]+27%\nSA Break: [223%]+35%\n\n[Additional]\nDamage: [908%]+136%\nSA Break: [1116%]+172%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_RapidPuncher
 0
 Movie/Skill/PC_D/B_Skill_RapidPuncher
 
 ID=14125
 Rapid Puncher Ⅴ
-[Basic]\nDamage: [261%]\nSA Break: [322%]\n\n[Additional]\nDamage: [1044%]\nSA Break: [1288%]\n\n[Common]\nSG Cost: [65]\nCooldown: [35s]\n\nUnleash a high output consecutive attacks.\nEnd the onslaught with a powerful attack by pressing right-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Basic]\nMouse: (Spam LMB)\n\n[Usage: Additional]\nMouse: (RMB)
+[Basic]\nDamage: [209%]\nSA Break: [258%]\n\n[Additional]\nDamage: [1044%]\nSA Break: [1288%]\n\n[Common]\nSG Cost: [65]\nCooldown: [35s]\n\nUnleash a high output consecutive attacks.\nEnd the onslaught with a powerful attack by pressing right-click.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Basic]\nMouse: (Spam LMB)\n\n[Usage: Additional]\nMouse: (RMB)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_RapidPuncher
 0
@@ -5752,23 +5752,23 @@ Movie/Skill/PC_D/B_Skill_CounterAttack
 
 ID=24021
 Knockdown Ⅰ
-[Basic]\nDamage: [154%]\n\n[Additional]\nDamage: [115%] [115%] [363%]\nSA Break: [0%] [0%] [236%]\n\nAfter the initial follow-up attacks in Glory Upper, follow-up with one more powerful blow.\n\n[Usage]\nMouse: (RMB)
-[Basic]\nDamage: [154%]+48%\nSA Break: [0%]+21%\n\n[Additional]\nDamage: [115%]+36% [115%]+36% [363%]+36%\nSA Break: [0%]+16% [0%]+16% [236%]+16%
+[Basic]\nDamage: [484%]\nSA Break: [306%]\n\n[Additional]\nDamage: [1089%]\nSA Break: [689%]\n\nAfter the initial follow-up attacks in Glory Upper, follow-up with one more powerful blow.\n\n[Usage]\nMouse: (RMB)
+[Basic]\nDamage: [484%]+48%\nSA Break: [306%]+31%\n\n[Additional]\nDamage: [1089%]+109%\nSA Break: [689%]+69%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper_A
 0
 Movie/Skill/PC_D/B_Skill_GloryUpper_A
 
 ID=24022
 Knockdown Ⅱ
-[Basic]\nDamage: [202%]\nSA Break: [21%]\n\n[Additional]\nDamage: [151%] [151%] [399%]\nSA Break: [16%] [16%] [252%]\n\nAfter the initial follow-up attacks in Glory Upper, follow-up with one more powerful blow.\n\n[Usage]\nMouse: (RMB)
-[Basic]\nDamage: [202%]+97%\nSA Break: [21%]+61%\n\n[Additional]\nDamage: [151%]+72% [151%]+72% [399%]+72%\nSA Break: [16%]+46% [16%]+46% [252%]+46%
+[Basic]\nDamage: [532%]\nSA Break: [337%]\n\n[Additional]\nDamage: [1198%]\nSA Break: [758%]\n\nAfter the initial follow-up attacks in Glory Upper, follow-up with one more powerful blow.\n\n[Usage]\nMouse: (RMB)
+[Basic]\nDamage: [532%]+97%\nSA Break: [337%]+61%\n\n[Additional]\nDamage: [1198%]+218%\nSA Break: [758%]+137%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper_A
 0
 Movie/Skill/PC_D/B_Skill_GloryUpper_A
 
 ID=24023
 Knockdown Ⅲ
-[Basic]\nDamage: [299%]\nSA Break: [82%]\n\n[Additional]\nDamage: [223%] [223%] [471%]\nSA Break: [62%] [62%] [298%]\n\nAfter the initial follow-up attacks in Glory Upper, follow-up with one more powerful blow.\n\n[Usage]\nMouse: (RMB)
+[Basic]\nDamage: [629%]\nSA Break: [398%]\n\n[Additional]\nDamage: [1416%]\nSA Break: [895%]\n\nAfter the initial follow-up attacks in Glory Upper, follow-up with one more powerful blow.\n\n[Usage]\nMouse: (RMB)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper_A
 0
@@ -5776,23 +5776,23 @@ Movie/Skill/PC_D/B_Skill_GloryUpper_A
 
 ID=24024
 Upper Ⅰ
-[Basic]\nDamage: [154%]\n\n[Additional]\nDamage: [115%] [115%] [363%]\nSA Break: [0%] [0%] [236%]\n\nAfter the initial follow-up attacks in Glory Upper, follow-up with a barrage.\n\n[Usage]\nMouse: (RMB)
-[Basic]\nDamage: [154%]+48%\nSA Break: [0%]+21%\n\n[Additional]\nDamage: [115%]+36% [115%]+36% [363%]+36%\nSA Break: [0%]+16% [0%]+16% [236%]+16%
+[Basic]\nDamage: [484%]\nSA Break: [306%]\n\n[Additional]\nDamage: [1089%]\nSA Break: [689%]\n\nAfter the initial follow-up attacks in Glory Upper, follow-up with a barrage.\n\n[Usage]\nMouse: (RMB)
+[Basic]\nDamage: [484%]+48%\nSA Break: [306%]+31%\n\n[Additional]\nDamage: [1089%]+109%\nSA Break: [689%]+69%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper_B
 0
 Movie/Skill/PC_D/B_Skill_GloryUpper_B
 
 ID=24025
 Upper Ⅱ
-[Basic]\nDamage: [202%]\nSA Break: [21%]\n\n[Additional]\nDamage: [151%] [151%] [399%]\nSA Break: [16%] [16%] [252%]\n\nAfter the initial follow-up attacks in Glory Upper, follow-up with a barrage.\n\n[Usage]\nMouse: (RMB)
-[Basic]\nDamage: [202%]+97%\nSA Break: [21%]+61%\n\n[Additional]\nDamage: [151%]+72% [151%]+72% [399%]+72%\nSA Break: [16%]+46% [16%]+46% [252%]+46%
+[Basic]\nDamage: [532%]\nSA Break: [337%]\n\n[Additional]\nDamage: [1198%]\nSA Break: [758%]\n\nAfter the initial follow-up attacks in Glory Upper, follow-up with a barrage.\n\n[Usage]\nMouse: (RMB)
+[Basic]\nDamage: [532%]+97%\nSA Break: [337%]+61%\n\n[Additional]\nDamage: [1198%]+218%\nSA Break: [758%]+137%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper_B
 0
 Movie/Skill/PC_D/B_Skill_GloryUpper_B
 
 ID=24026
 Upper Ⅲ
-[Basic]\nDamage: [299%]\nSA Break: [82%]\n\n[Additional]\nDamage: [223%] [223%] [471%]\nSA Break: [62%] [62%] [298%]\n\nAfter the initial follow-up attacks in Glory Upper, follow-up with a barrage.\n\n[Usage]\nMouse: (RMB)
+[Basic]\nDamage: [629%]\nSA Break: [398%]\n\n[Additional]\nDamage: [1416%]\nSA Break: [895%]\n\nAfter the initial follow-up attacks in Glory Upper, follow-up with a barrage.\n\n[Usage]\nMouse: (RMB)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GloryUpper_B
 0
@@ -5800,23 +5800,23 @@ Movie/Skill/PC_D/B_Skill_GloryUpper_B
 
 ID=24051
 Enhance Ⅰ
-[Info]\nDebuff Effect: -[10%] Evasion for taunted enemies\n\nAgitate taunted enemies, reducing their Evasion.
-When taunted, Evasion: -[10%]-10%
+[Info]\nDebuff Effect: -[200] Evasion for taunted enemies for [10s]\n\nAgitate taunted enemies, and reduce their Evasion.
+Debuff Duration: [10s]+5s
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge_A
 0
 Movie/Skill/PC_D/B_Skill_SpiritSurge
 
 ID=24052
 Enhance Ⅱ
-[Info]\nDebuff Effect: -[20%] Evasion for taunted enemies\n\nAgitate taunted enemies, reducing their Evasion.
-When taunted, Evasion: -[20%]-20%
+[Info]\nDebuff Effect: -[200] Evasion for taunted enemies for [15s]\n\nAgitate taunted enemies, and reduce their Evasion.
+Debuff Duration: [15s]+5s
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge_A
 0
 Movie/Skill/PC_D/B_Skill_SpiritSurge
 
 ID=24053
 Enhance Ⅲ
-[Info]\nDebuff Effect: -[40%] Evasion for taunted enemies\n\nAgitate taunted enemies, reducing their Evasion.
+[Info]\nDebuff Effect: -[200] Evasion for taunted enemies for [20s]\n\nAgitate taunted enemies, and reduce their Evasion.
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge_A
 0
@@ -5824,7 +5824,7 @@ Movie/Skill/PC_D/B_Skill_SpiritSurge
 
 ID=24061
 Shockwave Ⅰ
-[Basic]\nDamage: [276%]\nSA Break: [206%]\n\n[Additional]\nDamage: [46%]\nSA Break: [34%]\n\nChanges attack, turning the shockwave to multi-hit.\nThe shockwave is stationary.
+[Basic]\nDamage: [276%]\nSA Break: [206%]\n\n[Additional]\nDamage: [46%]\nSA Break: [34%]\nShockwave Duration: +[30%]\n\nChanges attack, turning the shockwave to multi-hit.\nThe shockwave is stationary.
 [Basic]\nDamage: [276%]+36%\nSA Break: [206%]+27%\n\n[Additional]\nDamage: [46%]+6%\nSA Break: [34%]+4%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister_A
 0
@@ -5832,7 +5832,7 @@ Movie/Skill/PC_D/B_Skill_GravityTwister_A
 
 ID=24062
 Shockwave Ⅱ
-[Basic]\nDamage: [312%]\nSA Break: [233%]\n\n[Additional]\nDamage: [52%]\nSA Break: [38%]\n\nChanges attack, turning the shockwave to multi-hit.\nThe shockwave is stationary.
+[Basic]\nDamage: [312%]\nSA Break: [233%]\n\n[Additional]\nDamage: [52%]\nSA Break: [38%]\nShockwave Duration: +[30%]\n\nChanges attack, turning the shockwave to multi-hit.\nThe shockwave is stationary.
 [Basic]\nDamage: [312%]+84%\nSA Break: [233%]+63%\n\n[Additional]\nDamage: [52%]+14%\nSA Break: [38%]+11%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister_A
 0
@@ -5840,7 +5840,7 @@ Movie/Skill/PC_D/B_Skill_GravityTwister_A
 
 ID=24063
 Shockwave Ⅲ
-[Basic]\nDamage: [396%]\nSA Break: [296%]\n\n[Additional]\nDamage: [66%]\nSA Break: [49%]\n\nChanges attack, turning the shockwave to multi-hit.\nThe shockwave is stationary.
+[Basic]\nDamage: [396%]\nSA Break: [296%]\n\n[Additional]\nDamage: [66%]\nSA Break: [49%]\nShockwave Duration: +[30%]\n\nChanges attack, turning the shockwave to multi-hit.\nThe shockwave is stationary.
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_GravityTwister_A
 0
@@ -5896,23 +5896,23 @@ Movie/Skill/PC_D/B_Skill_SpiritExplosion
 
 ID=24091
 Sphere Increase Ⅰ
-[Basic]\nDamage: [236%]\nSA Break: [218%]\n\n[Additional]\nDamage: [59%]\nSA Break: [54%]\n\nFire more spheres that pierces enemies once.
-[Basic]\nDamage: [236%]+23%\nSA Break: [218%]+22%\n\n[Additional]\nDamage: [59%]+5%\nSA Break: [54%]+6%
+[Basic]\nDamage: [271%]\nSA Break: [251%]\n\n[Additional]\nDamage: [68%]\nSA Break: [63%]\n\nFire more spheres that pierces enemies once.
+[Basic]\nDamage: [271%]+27%\nSA Break: [251%]+25%\n\n[Additional]\nDamage: [68%]+7%\nSA Break: [63%]+6%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow_A
 0
 Movie/Skill/PC_D/B_Skill_QuadraBlow_A
 
 ID=24092
 Sphere Increase Ⅱ
-[Basic]\nDamage: [259%]\nSA Break: [240%]\n\n[Additional]\nDamage: [64%]\nSA Break: [60%]\n\nFire more spheres that pierces enemies once.
-[Basic]\nDamage: [259%]+26%\nSA Break: [240%]+24%\n\n[Additional]\nDamage: [64%]+7%\nSA Break: [60%]+6%
+[Basic]\nDamage: [298%]\nSA Break: [276%]\n\n[Additional]\nDamage: [75%]\nSA Break: [69%]\n\nFire more spheres that pierces enemies once.
+[Basic]\nDamage: [298%]+30%\nSA Break: [276%]+28%\n\n[Additional]\nDamage: [75%]+7%\nSA Break: [69%]+7%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow_A
 0
 Movie/Skill/PC_D/B_Skill_QuadraBlow_A
 
 ID=24093
 Sphere Increase Ⅲ
-[Basic]\nDamage: [285%]\nSA Break: [264%]\n\n[Additional]\nDamage: [71%]\nSA Break: [66%]\n\nFire more spheres that pierces enemies once.
+[Basic]\nDamage: [328%]\nSA Break: [304%]\n\n[Additional]\nDamage: [82%]\nSA Break: [76%]\n\nFire more spheres that pierces enemies once.
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_QuadraBlow_A
 0
@@ -5920,7 +5920,7 @@ Movie/Skill/PC_D/B_Skill_QuadraBlow_A
 
 ID=24101
 Hit Increase Ⅰ
-[Info]\nDebuff Effect: On hit, -[20%] Defense\nDebuff Duration: [5s]\n\nSlows down the energy sphere, and turns it to multi-hit.
+[Info]\nDamage: [937%]\nSA Break: [502%]\nDebuff Effect: On hit, -[15%] Defense for [10s]\n\nThe speed of the energy sphere is slower, and turns to multi-hit.
 Damage: [937%]+94%\nSA Break: [502%]+50%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop_A
 0
@@ -5928,7 +5928,7 @@ Movie/Skill/PC_D/B_Skill_HeavyDrop_A
 
 ID=24102
 Hit Increase Ⅱ
-[Info]\nDamage: [1031%]\nSA Break: [552%]\nDebuff Effect: On hit, -[20%] Defense\nDebuff Duration: [5s]\n\nSlows down the energy sphere, and turns it to multi-hit.
+[Info]\nDamage: [1031%]\nSA Break: [552%]\nDebuff Effect: On hit, -[15%] Defense for [10s]\n\nThe speed of the energy sphere is slower, and turns to multi-hit.
 Damage: [1031%]+187%\nSA Break: [552%]+101%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop_A
 0
@@ -5936,7 +5936,7 @@ Movie/Skill/PC_D/B_Skill_HeavyDrop_A
 
 ID=24103
 Hit Increase Ⅲ
-[Info]\nDamage: [1218%]\nSA Break: [653%]\nDebuff Effect: On hit, -[20%] Defense\nDebuff Duration: [5s]\n\nSlows down the energy sphere, and turns it to multi-hit.
+[Info]\nDamage: [1218%]\nSA Break: [653%]\nDebuff Effect: On hit, -[15%] Defense for [10s]\n\nThe speed of the energy sphere is slower, and turns to multi-hit.
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_HeavyDrop_A
 0
@@ -6031,7 +6031,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_A
 Movie/Skill/PC_E/B_Skill_BeadsPlay_N_A
 
 ID=25063
-Paralyze Ⅱ
+Paralyze Ⅲ
 [Attack Mode]\nDamage: [104%]\nSA Break: [228%]\nDebuff Effect: [Paralysis]\nDebuff Duration: [1.5s]\n\nThe beads pierce and paralyzes enemies.
 LvMax
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay_A
@@ -10128,23 +10128,23 @@ Movie/Skill/PC_E/B_Skill_SoulScream_A
 
 ID=4171
 Unleashed Body Ⅰ
-[Info]\nBuff Effect: +[3%] Damage when using special attack (RMB).\nBuff Duration: [30s]\nCooldown: [60s]
-Damage: [3%]+2%
+[Info]\nSV Gain on Enhanced Skill: [1]\nCooldown: [5s]\n\nGain SV when using a skill enhanced from a counter or special attack.
+SV Gain on Enhanced Skill: [1]+1
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive2
 0
 0
 
 ID=4172
 Unleashed Body Ⅱ
-[Info]\nBuff Effect: +[5%] Damage when using special attack (RMB).\nBuff Duration: [30s]\nCooldown: [60s]
-Damage: [5%]+3%
+[Info]\nSV Gain on Enhanced Skill: [2]\nCooldown: [5s]\n\nGain SV when using a skill enhanced from a counter or special attack.
+Cooldown: [5s]-5s
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive2
 0
 0
 
 ID=4173
 Unleashed Body Ⅲ
-[Info]\nBuff Effect: +[8%] Damage when using special attack (RMB).\nBuff Duration: [30s]\nCooldown: [60s]
+[Info]\nSV Gain on Enhanced Skill: [2]\n\nGain SV when using a skill enhanced from a counter or special attack.
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SGPassive2
 0
@@ -10192,7 +10192,7 @@ Movie/Skill/PC_D/B_Skill_DrasticLanding
 
 ID=14151
 Counter Stream Ⅰ
-[Basic]\nSG Cost: [55]\nCooldown: [35s]\nEnhanced Skill Duration: [6.3s]\n\n[Additional]\nDamage: [858%]\nSA Break: [99%]\n\nTakes a counter stance.\nOn a successful counter, deal additional 1.4x, 1.5x, and 1.6x damage.\nCan counter up to 3 times by pressing right-click, and can also deal additional attacks by cancelling the stance.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (RMB)
+[Basic]\nSG Cost: [55]\nCooldown: [35s]\nEnhanced Skill Duration: [8.5s]\nEnhanced Skill on Use and Counter: [3] times\n\n[Additional]\nDamage: [858%]\nSA Break: [99%]\n\nTakes a stance to counter against melee attacks.\nOn a successful counter, deal additional 1.4x, 1.5x, and 1.6x damage.\nCan counter up to 3 times by pressing right-click, and also deal additional attacks by cancelling the stance.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (RMB)
 Damage: [858%]+86%\nSA Break: [99%]+9%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterStream
 0
@@ -10200,7 +10200,7 @@ Movie/Skill/PC_D/B_Skill_CounterStream
 
 ID=14152
 Counter Stream Ⅱ
-[Basic]\nSG Cost: [55]\nCooldown: [35s]\nEnhanced Skill Duration: [6.3s]\n\n[Additional]\nDamage: [944%]\nSA Break: [108%]\n\nTakes a counter stance.\nOn a successful counter, deal additional 1.4x, 1.5x, and 1.6x damage.\nCan counter up to 3 times by pressing right-click, and can also deal additional attacks by cancelling the stance.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (RMB)
+[Basic]\nSG Cost: [55]\nCooldown: [35s]\nEnhanced Skill Duration: [8.5s]\nEnhanced Skill on Use and Counter: [3] times\n\n[Additional]\nDamage: [944%]\nSA Break: [108%]\n\nTakes a stance to counter against melee attacks.\nOn a successful counter, deal additional 1.4x, 1.5x, and 1.6x damage.\nCan counter up to 3 times by pressing right-click, and also deal additional attacks by cancelling the stance.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (RMB)
 Damage: [944%]+113%\nSA Break: [108%]+14%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterStream
 0
@@ -10208,7 +10208,7 @@ Movie/Skill/PC_D/B_Skill_CounterStream
 
 ID=14153
 Counter Stream Ⅲ
-[Basic]\nSG Cost: [55]\nCooldown: [35s]\nEnhanced Skill Duration: [6.3s]\n\n[Additional]\nDamage: [1057%]\nSA Break: [122%]\n\nTakes a counter stance.\nOn a successful counter, deal additional 1.4x, 1.5x, and 1.6x damage.\nCan counter up to 3 times by pressing right-click, and can also deal additional attacks by cancelling the stance.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (RMB)
+[Basic]\nSG Cost: [55]\nCooldown: [35s]\nEnhanced Skill Duration: [8.5s]\nEnhanced Skill on Use and Counter: [3] times\n\n[Additional]\nDamage: [1057%]\nSA Break: [122%]\n\nTakes a stance to counter against melee attacks.\nOn a successful counter, deal additional 1.4x, 1.5x, and 1.6x damage.\nCan counter up to 3 times by pressing right-click, and also deal additional attacks by cancelling the stance.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (RMB)
 Damage: [1057%]+148%\nSA Break: [122%]+17%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterStream
 0
@@ -10216,7 +10216,7 @@ Movie/Skill/PC_D/B_Skill_CounterStream
 
 ID=14154
 Counter Stream Ⅳ
-[Basic]\nSG Cost: [55]\nCooldown: [35s]\nEnhanced Skill Duration: [6.3s]\n\n[Additional]\nDamage: [1205%]\nSA Break: [139%]\n\nTakes a counter stance.\nOn a successful counter, deal additional 1.4x, 1.5x, and 1.6x damage.\nCan counter up to 3 times by pressing right-click, and can also deal additional attacks by cancelling the stance.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (RMB)
+[Basic]\nSG Cost: [55]\nCooldown: [35s]\nEnhanced Skill Duration: [8.5s]\nEnhanced Skill on Use and Counter: [3] times\n\n[Additional]\nDamage: [1205%]\nSA Break: [139%]\n\nTakes a stance to counter against melee attacks.\nOn a successful counter, deal additional 1.4x, 1.5x, and 1.6x damage.\nCan counter up to 3 times by pressing right-click, and also deal additional attacks by cancelling the stance.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (RMB)
 Damage: [1205%]+217%\nSA Break: [139%]+22%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterStream
 0
@@ -10224,7 +10224,7 @@ Movie/Skill/PC_D/B_Skill_CounterStream
 
 ID=14155
 Counter Stream Ⅴ
-[Basic]\nSG Cost: [55]\nCooldown: [35s]\nEnhanced Skill Duration: [6.3s]\n\n[Additional]\nDamage: [1422%]\nSA Break: [161%]\n\nTakes a counter stance.\nOn a successful counter, deal additional 1.4x, 1.5x, and 1.6x damage.\nCan counter up to 3 times by pressing right-click, and can also deal additional attacks by cancelling the stance.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (RMB)
+[Basic]\nSG Cost: [55]\nCooldown: [35s]\nEnhanced Skill Duration: [8.5s]\nEnhanced Skill on Use and Counter: [3] times\n\n[Additional]\nDamage: [1422%]\nSA Break: [161%]\n\nTakes a stance to counter against melee attacks.\nOn a successful counter, deal additional 1.4x, 1.5x, and 1.6x damage.\nCan counter up to 3 times by pressing right-click, and also deal additional attacks by cancelling the stance.\n\n[Usage]\nRegister in a skill slot and press its corresponding key\n\n[Usage: Additional]\nMouse: (RMB)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_CounterStream
 0
@@ -10240,23 +10240,23 @@ Movie/Skill/PC_D/B_Skill_ActivityOverCharge
 
 ID=24111
 Rising Upper Ⅰ
-[Info]\nDamage: [10%]\nSA Break: [2%]\n\nAdds an extension to the attack, with the Boost Shield also dealing damage to surrounding enemies.\n\n[Usage: Additional]\nMouse:\n[1] (RMB): Straight extension\n[2] (LMB): Upper extension
-Damage: [10%]+20%\nSA Break: [2%]+4%
+[Info]\nDamage: [41%]\nSA Break: [9%]\n\nAdds an extension to the attack, with the Boost Shield also dealing damage to surrounding enemies.\n\n[Usage: Additional]\nMouse:\n[1] Upper extension: (LMB)×3\n[2] Existing finisher: (RMB)+(LMB)
+Damage: [41%]+82%\nSA Break: [9%]+17%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_PerfectCombination_A
 0
 Movie/Skill/PC_D/B_Skill_PerfectCombination_A
 
 ID=24112
 Rising Upper Ⅱ
-[Info]\nDamage: [30%]\nSA Break: [6%]\n\nAdds an extension to the attack, with the Boost Shield also dealing damage to surrounding enemies.\n\n[Usage: Additional]\nMouse:\n[1] (RMB): Straight extension\n[2] (LMB): Upper extension
-Damage: [30%]+21%\nSA Break: [6%]+5%
+[Info]\nDamage: [123%]\nSA Break: [26%]\n\nAdds an extension to the attack, with the Boost Shield also dealing damage to surrounding enemies.\n\n[Usage: Additional]\nMouse:\n[1] Upper extension: (LMB)×3\n[2] Existing finisher: (RMB)+(LMB)
+Damage: [123%]+81%\nSA Break: [26%]+18%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_PerfectCombination_A
 0
 Movie/Skill/PC_D/B_Skill_PerfectCombination_A
 
 ID=24113
 Rising Upper Ⅲ
-[Info]\nDamage: [51%]\nSA Break: [11%]\n\nAdds an extension to the attack, with the Boost Shield also dealing damage to surrounding enemies.\n\n[Usage: Additional]\nMouse:\n[1] (RMB): Straight extension\n[2] (LMB): Upper extension
+[Info]\nDamage: [204%]\nSA Break: [44%]\n\nAdds an extension to the attack, with the Boost Shield also dealing damage to surrounding enemies.\n\n[Usage: Additional]\nMouse:\n[1] Upper extension: (LMB)×3\n[2] Existing finisher: (RMB)+(LMB)
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_PerfectCombination_A
 0
@@ -11640,31 +11640,31 @@ Movie/Skill/PC_C/B_Skill_LeashedBest
 
 ID=14161
 Barrett Straight Ⅰ
-[Basic]\nDamage: [749%]\nSA Break: [825%]\nSG Cost: [55]\nCooldown: [40s]\n\n[Additional]\nDamage: [448%]\nSA Break: [494%]\n\nAmass Soul Energy to your right fist then rush in with full force.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-[Basic]\nDamage: [749%]+75%\nSA Break: [825%]+83%\n\n[Additional]\nDamage: [448%]+45%\nSA Break: [494%]+50%
+[Basic]\nDamage: [808%]\nSA Break: [890%]\nSG Cost: [55]\nCooldown: [40s]\n\n[Additional]\nDamage: [1885%]\nSA Break: [2078%]\n\nAmass Soul Energy to your right fist then rush in with full force.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [808%]+81%\nSA Break: [890%]+90%\n\n[Additional]\nDamage: [1885%]+189%\nSA Break: [2078%]+208%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_BarrettStraight
 0
 Movie/Skill/PC_D/B_Skill_BarrettStraight
 
 ID=14162
 Barrett Straight Ⅱ
-[Basic]\nDamage: [824%]\nSA Break: [908%]\nSG Cost: [55]\nCooldown: [40s]\n\n[Additional]\nDamage: [493%]\nSA Break: [544%]\n\nAmass Soul Energy to your right fist then rush in with full force.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-[Basic]\nDamage: [749%]+75%\nSA Break: [825%]+83%\n\n[Additional]\nDamage: [448%]+45%\nSA Break: [494%]+50%
+[Basic]\nDamage: [889%]\nSA Break: [980%]\nSG Cost: [55]\nCooldown: [40s]\n\n[Additional]\nDamage: [2074%]\nSA Break: [2286%]\n\nAmass Soul Energy to your right fist then rush in with full force.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [889%]+106%\nSA Break: [980%]+117%\n\n[Additional]\nDamage: [2074%]+249%\nSA Break: [2286%]+275%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_BarrettStraight
 0
 Movie/Skill/PC_D/B_Skill_BarrettStraight
 
 ID=14163
 Barrett Straight Ⅲ
-[Basic]\nDamage: [924%]\nSA Break: [1018%]\nSG Cost: [55]\nCooldown: [40s]\n\n[Additional]\nDamage: [553%]\nSA Break: [610%]\n\nAmass Soul Energy to your right fist then rush in with full force.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
-[Basic]\nDamage: [924%]+129%\nSA Break: [1018%]+142%\n\n[Additional]\nDamage: [553%]+77%\nSA Break: [610%]+85%
+[Basic]\nDamage: [995%]\nSA Break: [1097%]\nSG Cost: [55]\nCooldown: [40s]\n\n[Additional]\nDamage: [2323%]\nSA Break: [2561%]\n\nAmass Soul Energy to your right fist then rush in with full force.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [995%]+140%\nSA Break: [1097%]+154%\n\n[Additional]\nDamage: [2323%]+326%\nSA Break: [2561%]+358%
 Icon/Skill/SpritArms/Icon_Sprit_Skill_BarrettStraight
 0
 Movie/Skill/PC_D/B_Skill_BarrettStraight
 
 ID=14164
 Barrett Straight Ⅳ
-[Basic]\nDamage: [1053%]\nSA Break: [1160%]\nSG Cost: [55]\nCooldown: [40s]\n\n[Additional]\nDamage: [630%]\nSA Break: [695%]\n\nAmass Soul Energy to your right fist then rush in with full force.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
+[Basic]\nDamage: [1135%]\nSA Break: [1251%]\nSG Cost: [55]\nCooldown: [40s]\n\n[Additional]\nDamage: [2649%]\nSA Break: [2919%]\n\nAmass Soul Energy to your right fist then rush in with full force.\n\n[Usage]\nRegister in a skill slot and press its corresponding key
 LvMax
 Icon/Skill/SpritArms/Icon_Sprit_Skill_BarrettStraight
 0
