@@ -1510,6 +1510,36 @@ ID=7033
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
+ID=7035
+ダメージ減少I
+ダメージが5%減少されます。
+Icon/Buff/Icon_Common_Buff_Def
+减少伤害
+
+ID=7036
+ダメージ減少II
+ダメージが7%減少されます。
+Icon/Buff/Icon_Common_Buff_Def
+减少伤害
+
+ID=7037
+ダメージ減少III
+ダメージが9%減少されます。
+Icon/Buff/Icon_Common_Buff_Def
+减少伤害
+
+ID=7038
+ダメージ減少IV
+ダメージが12%減少されます。
+Icon/Buff/Icon_Common_Buff_Def
+减少伤害
+
+ID=7039
+ダメージ減少V
+ダメージが15%減少されます。
+Icon/Buff/Icon_Common_Buff_Def
+减少伤害
+
 ID=7041
 聚变装甲Ⅰ
 一定时间内、处于无敌状态
@@ -3216,7 +3246,7 @@ HP回復
 
 ID=40001
 保護
-10分以内处于死亡状态、可以复活
+20分以内に死亡した時、復活できる。
 Icon/Buff/Icon_Common_Buff_Revive
 保護
 
@@ -6474,7 +6504,7 @@ Icon/Buff/Icon_Common_Buff_Immun
 
 ID=7100
 解放的身体I
-造成的伤害提高[3％]。
+造成的伤害提高[5％]。
 Icon/Buff/Icon_Common_Buff_ATK
 解放的身体
 
@@ -6486,7 +6516,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=7102
 解放的身体III
-造成的伤害提高[8％]。
+造成的伤害提高[5％]。
 Icon/Buff/Icon_Common_Buff_ATK
 解放的身体
 

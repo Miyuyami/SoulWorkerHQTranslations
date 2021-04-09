@@ -1510,6 +1510,36 @@ ID=7033
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
+ID=7035
+ダメージ減少I
+ダメージが5%減少されます。
+Icon/Buff/Icon_Common_Buff_Def
+ダメージ減少
+
+ID=7036
+ダメージ減少II
+ダメージが7%減少されます。
+Icon/Buff/Icon_Common_Buff_Def
+ダメージ減少
+
+ID=7037
+ダメージ減少III
+ダメージが9%減少されます。
+Icon/Buff/Icon_Common_Buff_Def
+ダメージ減少
+
+ID=7038
+ダメージ減少IV
+ダメージが12%減少されます。
+Icon/Buff/Icon_Common_Buff_Def
+ダメージ減少
+
+ID=7039
+ダメージ減少V
+ダメージが15%減少されます。
+Icon/Buff/Icon_Common_Buff_Def
+ダメージ減少
+
 ID=7041
 フュージョンアーマーⅠ
 一定時間の間、無敵状態になる。
@@ -3216,7 +3246,7 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=40001
 Divine Protection
-10分以内に死亡した時、復活できる。
+20分以内に死亡した時、復活できる。
 Icon/Buff/Icon_Common_Buff_Revive
 Divine Protection
 
@@ -6474,7 +6504,7 @@ Icon/Buff/Icon_Common_Buff_Immun
 
 ID=7100
 解放された身体I
-与えるダメージが[3%]上昇する。
+与えるダメージが[5%]上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 解放された身体
 
@@ -6486,7 +6516,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=7102
 解放された身体III
-与えるダメージが[8%]上昇する。
+与えるダメージが[5%]上昇する。
 Icon/Buff/Icon_Common_Buff_ATK
 解放された身体
 

@@ -1,18 +1,18 @@
 ID=1
-Regeneration
+Regen
 +HP & +SG continuously.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=2
 Divine Protection
-Nullifies damage.
+Negates damage.
 Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
 ID=3
 Divine Protection
-Nullifies damage.
+Negates damage.
 Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
@@ -35,7 +35,7 @@ Icon/Buff/Icon_Common_Buff_SABreak
 0
 
 ID=101
-Regeneration
+Regen
 +5% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 0
@@ -47,13 +47,13 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
 ID=103
-Enhancement
+Strengthen
 +10% Attack for 10s.
 Icon/Buff/Icon_Common_Buff_ATK
 0
 
 ID=104
-Elastic
+Flexible
 +10% Dmg Reduction for 10s.
 Icon/Buff/Icon_Common_Buff_Def
 0
@@ -71,7 +71,7 @@ Icon/Buff/Icon_Common_Buff_ASR
 0
 
 ID=107
-Spread the Love
+There's Love
 +10% Critical for 10s.
 Icon/Buff/Icon_Common_Buff_CRI
 0
@@ -84,7 +84,7 @@ Icon/Buff/Icon_Common_Buff_SArmor
 
 ID=109
 Full Charge
-Stamina is fully recovered.
+Fully recovers Stamina.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 0
 
@@ -137,16 +137,16 @@ Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=500
-Loving Captive
+Love Captive
 Charmed, follows the target for 4s.
 Icon/Buff/Icon_Common_Debuff_Charm
-Charmed
+Charm
 
 ID=504
-The Queen's Majesty
+The Queen's Dignity
 Paralyzed, can't move for 5s.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
+Paralyze
 
 ID=600
 Self-resilient
@@ -155,124 +155,124 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=1001
-Cursed Flame Lv1
+Burn Lv1
 -1% HP.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=1002
-Cursed Flame Lv2
+Burn Lv2
 -2% HP.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=1003
-Cursed Flame Lv3
+Burn Lv3
 -3% HP.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=1004
-Cursed Flame Lv4
+Burn Lv4
 -4% HP.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=1005
-Cursed Flame Lv5
+Burn Lv5
 -5% HP.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=1006
-Cursed Flame Lv6
+Burn Lv6
 -6% HP.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=1007
-Cursed Flame Lv7
+Burn Lv7
 -7% HP.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=1008
-Cursed Flame Lv8
+Burn Lv8
 -8% HP.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=1009
-Cursed Flame Lv9
+Burn Lv9
 -9% HP.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=1010
-Cursed Flame Lv10
+Burn Lv10
 -10% HP.
 Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=1101
-Poisoning Lv1
+Poison Lv1
 -1% HP.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=1102
-Poisoning Lv2
+Poison Lv2
 -2% HP.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=1103
-Poisoning Lv3
+Poison Lv3
 -3% HP.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=1104
-Poisoning Lv4
+Poison Lv4
 -4% HP.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=1105
-Poisoning Lv5
+Poison Lv5
 -5% HP.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=1106
-Poisoning Lv6
+Poison Lv6
 -6% HP.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=1107
-Poisoning Lv7
+Poison Lv7
 -7% HP.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=1108
-Poisoning Lv8
+Poison Lv8
 -8% HP.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=1109
-Poisoning Lv9
+Poison Lv9
 -9% HP.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=1110
-Poisoning Lv10
+Poison Lv10
 -10% HP.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=1201
 Shock Lv1
@@ -335,76 +335,76 @@ Icon/Buff/Icon_Common_Debuff_Shock
 Shock
 
 ID=1301
-Bleeding Lv1
+Bleed Lv1
 -1% HP.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=1302
-Bleeding Lv2
+Bleed Lv2
 -2% HP.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=1303
-Bleeding Lv3
+Bleed Lv3
 -3% HP.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=1304
-Bleeding Lv4
+Bleed Lv4
 -4% HP.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=1305
-Bleeding Lv5
+Bleed Lv5
 -5% HP.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=1306
-Bleeding Lv6
+Bleed Lv6
 -6% HP.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=1307
-Bleeding Lv7
+Bleed Lv7
 -7% HP.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=1308
-Bleeding Lv8
+Bleed Lv8
 -8% HP.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=1309
-Bleeding Lv9
+Bleed Lv9
 -9% HP.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=1310
-Bleeding Lv10
+Bleed Lv10
 -10% HP.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=1401
-Stunned
+Stun
 Stunned.
 Icon/Buff/Icon_Common_Debuff_Stun
-Stunned
+Stun
 
 ID=1501
-Paralyzed
+Paralyze
 Can't move.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
+Paralyze
 
 ID=1601
 Sleep
@@ -413,10 +413,10 @@ Icon/Buff/Icon_Common_Debuff_Sleep
 Sleep
 
 ID=1701
-Charmed
+Charm
 Charmed, follows the target.
 Icon/Buff/Icon_Common_Debuff_Charm
-Charmed
+Charm
 
 ID=1801
 Confusion
@@ -456,7 +456,7 @@ Damage ↑
 
 ID=5005
 Special Attack
-Smacked into the air.
+Launched in mid-air.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
 
@@ -467,37 +467,37 @@ Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
 ID=5011
-Fast Blade Attribute A Ⅰ
+Fast Blade A Ⅰ
 -30% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=5012
-Fast Blade Attribute A Ⅱ
+Fast Blade A Ⅱ
 -40% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=5013
-Fast Blade Attribute A Ⅲ
+Fast Blade A Ⅲ
 -50% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=5021
-SG Cost Reduction Ⅰ
+SG Cost ↓ Ⅰ
 -10% SG Cost.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Cost ↓
 
 ID=5022
-SG Cost Reduction Ⅱ
+SG Cost ↓ Ⅱ
 -12% SG Cost.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Cost ↓
 
 ID=5023
-SG Cost Reduction Ⅲ
+SG Cost ↓ Ⅲ
 -15% SG Cost.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Cost ↓
@@ -533,61 +533,61 @@ Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
 ID=5041
-Blow-up Ⅰ
+Blow Up Ⅰ
 +4% SA Break & +1% SG on hit.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Gain
 
 ID=5042
-Blow-up Ⅱ
+Blow Up Ⅱ
 +8% SA Break & +1.2% SG on hit.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Gain
 
 ID=5043
-Blow-up Ⅲ
+Blow Up Ⅲ
 +12% SA Break & +1.6% SG on hit.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Gain
 
 ID=5044
-Blow-up Ⅳ
+Blow Up Ⅳ
 +16% SA Break & +2% SG on hit.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Gain
 
 ID=5045
-Blow-up Ⅴ
+Blow Up Ⅴ
 +20% SA Break & +3% SG on hit.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 SG Gain
 
 ID=5046
-Blow-up Ⅰ
+Blow Up Ⅰ
 -50% Stamina Cost.
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 Stamina Cost ↓
 
 ID=5047
-Blow-up Ⅱ
+Blow Up Ⅱ
 -50% Stamina Cost.
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 Stamina Cost ↓
 
 ID=5048
-Blow-up Ⅲ
+Blow Up Ⅲ
 -60% Stamina Cost.
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 Stamina Cost ↓
 
 ID=5049
-Blow-up Ⅳ
+Blow Up Ⅳ
 -70% Stamina Cost.
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 Stamina Cost ↓
 
 ID=5050
-Blow-up Ⅴ
+Blow Up Ⅴ
 -80% Stamina Cost.
 Icon/Buff/Icon_Common_Buff_ST_Recovery
 Stamina Cost ↓
@@ -629,46 +629,46 @@ Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=5506
-Deceleration
+Slow
 -50% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=5511
-Slide Step Attribute A Ⅰ
+Slide Step A Ⅰ
 -30% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=5512
-Slide Step Attribute A Ⅱ
+Slide Step A Ⅱ
 -45% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=5513
-Slide Step Attribute A Ⅲ
+Slide Step A Ⅲ
 -75% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=5516
-Slide Step Attribute B Ⅰ
+Slide Step B Ⅰ
 -1% HP while poisoned.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=5517
-Slide Step Attribute B Ⅱ
+Slide Step B Ⅱ
 -2% HP while poisoned.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=5518
-Slide Step Attribute B Ⅲ
+Slide Step B Ⅲ
 -5% HP while poisoned.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=5521
 Napalm Bomb Ⅰ
@@ -701,37 +701,37 @@ Icon/Buff/Icon_Common_Debuff_Burn
 Burn
 
 ID=5531
-Guided Shot Attribute A Ⅰ
+Guided Shot A Ⅰ
 -2% HP while bleeding.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=5532
-Guided Shot Attribute A Ⅱ
+Guided Shot A Ⅱ
 -3% HP while bleeding.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=5533
-Guided Shot Attribute A Ⅲ
+Guided Shot A Ⅲ
 -4% HP while bleeding.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=5536
-Guided Shot Attribute B Ⅰ
+Guided Shot B Ⅰ
 -10% Defense for 4s.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense ↓
 
 ID=5537
-Guided Shot Attribute B Ⅱ
+Guided Shot B Ⅱ
 -10% Defense for 6s.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense ↓
 
 ID=5538
-Guided Shot Attribute B Ⅲ
+Guided Shot B Ⅲ
 -10% Defense for 8s.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense ↓
@@ -767,19 +767,19 @@ Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed ↑
 
 ID=5551
-Sprinter Attribute A Ⅰ
+Sprinter A Ⅰ
 +2% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=5552
-Sprinter Attribute A Ⅱ
+Sprinter A Ⅱ
 +3% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=5553
-Sprinter Attribute A Ⅲ
+Sprinter A Ⅲ
 +5% SG per second.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
@@ -846,31 +846,31 @@ Defense Penetration
 
 ID=5571
 Hide and Seek Ⅰ
-Nullifies damage.
+Negates damage.
 Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
 ID=5572
 Hide and Seek Ⅱ
-Nullifies damage.
+Negates damage.
 Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
 ID=5573
 Hide and Seek Ⅲ
-Nullifies damage.
+Negates damage.
 Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
 ID=5574
 Hide and Seek ⅠV
-Nullifies damage.
+Negates damage.
 Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
 ID=5575
 Hide and Seek Ⅴ
-Nullifies damage.
+Negates damage.
 Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
@@ -911,14 +911,14 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
 ID=5998
-Pleasure Bullets
-+3 SG on 3 stacks.
+Bullets of Pleasure
++3 SG for every 3 stacks.
 Icon/Buff/Icon_Common_Buff_ASR
 +SG
 
 ID=6000
 Awakening
-+300% Critical Damage.\n+20% Movement Speed.\nSA State.
++300% Critical Dmg.\n+20% Movement Speed.\nSA State.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -941,61 +941,61 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
 ID=6005
-Mad Reaper of Death
+Grim Reaper of Madness
 Increases Attack & Critical.
 Icon/Buff/Icon_Common_Buff_Reg
 0
 
 ID=6011
-Grim Countdown Attribute A Ⅰ
+Grim Countdown A Ⅰ
 On hit, +HP based on 10% damage.
 Icon/Buff/Icon_Common_Buff_VampHP2
 Lifesteal
 
 ID=6012
-Grim Countdown Attribute A Ⅱ
+Grim Countdown A Ⅱ
 On hit, +HP based on 15% damage.
 Icon/Buff/Icon_Common_Buff_VampHP2
 Lifesteal
 
 ID=6013
-Grim Countdown Attribute A Ⅲ
+Grim Countdown A Ⅲ
 On hit, +HP based on 20% damage.
 Icon/Buff/Icon_Common_Buff_VampHP2
 Lifesteal
 
 ID=6021
-Cruel Slash Attribute A Ⅰ
+Cruel Slash A Ⅰ
 +10% Penetration.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=6022
-Cruel Slash Attribute A Ⅱ
+Cruel Slash A Ⅱ
 +20% Penetration.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=6023
-Cruel Slash Attribute A Ⅲ
+Cruel Slash A Ⅲ
 +30% Penetration.
 Icon/Buff/Icon_Common_Buff_Penetration
 Defense Penetration
 
 ID=6031
-Cruel Slash Attribute B Ⅰ
+Cruel Slash B Ⅰ
 +100% Critical Dmg.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=6032
-Cruel Slash Attribute B Ⅱ
+Cruel Slash B Ⅱ
 +150% Critical Dmg.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
 
 ID=6033
-Cruel Slash Attribute B Ⅲ
+Cruel Slash B Ⅲ
 +200% Critical Dmg.
 Icon/Buff/Icon_Common_Buff_CRI
 Critical ↑
@@ -1032,31 +1032,31 @@ Critical ↑
 
 ID=6046
 Force Region Ⅰ
-+3% Attack Speed for 3.5s.
++3% Attack Speed every 3.5s.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=6047
 Force Region Ⅱ
-+6% Attack Speed for 3.5s.
++6% Attack Speed every 3.5s.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=6048
 Force Region Ⅲ
-+9% Attack Speed for 3.5s.
++9% Attack Speed every 3.5s.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=6049
 Force Region Ⅳ
-+12% Attack Speed for 3.5s.
++12% Attack Speed every 3.5s.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
 ID=6050
 Force Region Ⅴ
-+15% Attack Speed for 3.5s.
++15% Attack Speed every 3.5s.
 Icon/Buff/Icon_Common_Buff_ASR
 Attack Speed ↑
 
@@ -1080,13 +1080,13 @@ Movement Speed ↓
 
 ID=6061
 Passive
-Display buff related effects
+Display Buff Effects
 Icon/Buff/Icon_Common_Debuff_Paralysis
 0
 
 ID=6070
 Erosion
-+150% Critical Damage.\n+20% Movement Speed.\nSA State.
++150% Critical Dmg.\n+20% Movement Speed.\nSA State.
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1115,61 +1115,61 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
 ID=6511
-Trouble Path Ⅰ
+Trouble Pass Ⅰ
 -10% Defense.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense ↓
 
 ID=6512
-Trouble Path Ⅱ
+Trouble Pass Ⅱ
 -15% Defense.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense ↓
 
 ID=6513
-Trouble Path Ⅲ
+Trouble Pass Ⅲ
 -20% Defense.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense ↓
 
 ID=6514
-Trouble Path Ⅳ
+Trouble Pass Ⅳ
 -25% Defense.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense ↓
 
 ID=6515
-Trouble Path Ⅴ
+Trouble Pass Ⅴ
 -30% Defense.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense ↓
 
 ID=6516
-Trouble Path Ⅰ
+Trouble Pass Ⅰ
 +4% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=6517
-Trouble Path Ⅱ
+Trouble Pass Ⅱ
 +4% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=6518
-Trouble Path Ⅲ
+Trouble Pass Ⅲ
 +4% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=6519
-Trouble Path Ⅳ
+Trouble Pass Ⅳ
 +4% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
 
 ID=6520
-Trouble Path Ⅴ
+Trouble Pass Ⅴ
 +4% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 +HP
@@ -1178,7 +1178,7 @@ ID=6521
 Decade Pulse
 Can't move for 1s.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
+Paralyze
 
 ID=6522
 Decade Pulse Ⅱ
@@ -1356,7 +1356,7 @@ Best Tempo
 
 ID=6551
 Soul Scream
-Paralyze surrounding enemies.
+Paralyzes surrounding enemies.
 Icon/Buff/Icon_Common_Buff_Sarmor
 Barrier
 
@@ -1367,19 +1367,19 @@ Icon/Buff/Icon_Common_Buff_Def
 Defense ↑
 
 ID=6562
-Trouble Path Ⅰ
+Trouble Pass Ⅰ
 +4% Movement Speed.
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed ↑
 
 ID=6563
-Trouble Path Ⅱ
+Trouble Pass Ⅱ
 +6% Movement Speed.
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed ↑
 
 ID=6564
-Trouble Path Ⅲ
+Trouble Pass Ⅲ
 +10% Movement Speed.
 Icon/Buff/Icon_Common_Buff_MSR
 Movement Speed ↑
@@ -1509,6 +1509,36 @@ Spirit Surge A Ⅲ
 -40% Evasion while provoked.
 Icon/Buff/Icon_Common_Debuff_Weakness
 0
+
+ID=7035
+Dmg Reduction Ⅰ
++5% Dmg Reduction.
+Icon/Buff/Icon_Common_Buff_Def
+Damage ↓
+
+ID=7036
+Dmg Reduction Ⅱ
++7% Dmg Reduction.
+Icon/Buff/Icon_Common_Buff_Def
+Damage ↓
+
+ID=7037
+Dmg Reduction Ⅲ
++9% Dmg Reduction.
+Icon/Buff/Icon_Common_Buff_Def
+Damage ↓
+
+ID=7038
+Dmg Reduction Ⅳ
++12% Dmg Reduction.
+Icon/Buff/Icon_Common_Buff_Def
+Damage ↓
+
+ID=7039
+Dmg Reduction Ⅴ
++15% Dmg Reduction.
+Icon/Buff/Icon_Common_Buff_Def
+Damage ↓
 
 ID=7041
 Fusion Armor Ⅰ
@@ -1667,10 +1697,10 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 +SG
 
 ID=7516
-Stunned
+Stun
 Stunned for a certain period of time.
 Icon/Buff/Icon_Common_Debuff_Stun
-Stunned
+Stun
 
 ID=7521
 Enhanced Attack Ⅰ
@@ -1763,7 +1793,7 @@ Icon/Buff/Icon_Common_Buff_ASR
 0
 
 ID=10000
-Regeneration
+Regen
 +HP & +SG continuously.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 Recovery
@@ -2279,16 +2309,16 @@ Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=30002
-Poisoned
+Poison
 -2% HP for 3s.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=30003
-Poisoned
+Poison
 -2% HP for 5s.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=30004
 Slow
@@ -2312,13 +2342,13 @@ ID=30007
 Worn Out
 Stunned for 6s.
 Icon/Buff/Icon_Common_Debuff_Stun
-Stunned
+Stun
 
 ID=30008
 Worn Out
 Stunned for 5s.
 Icon/Buff/Icon_Common_Debuff_Stun
-Stunned
+Stun
 
 ID=30009
 Bloody Rage
@@ -2588,7 +2618,7 @@ ID=30068
 Paralyze
 Paralyzed.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
+Paralyze
 
 ID=30069
 HP ↓
@@ -2864,7 +2894,7 @@ ID=35008
 Can't move
 Direction_Paralysis_3s
 Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
+Paralyze
 
 ID=35009
 HP ↓
@@ -2951,10 +2981,10 @@ HP ↓
 HP ↓
 
 ID=35202
-Stunned
+Stun
 Stunned for 10s.
 Icon/Buff/Icon_Common_Debuff_Stun
-Stunned
+Stun
 
 ID=35203
 HP ↓
@@ -3095,22 +3125,22 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 -
 
 ID=39004
-Poisoned
+Poison
 Reduces HP while poisoned.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=39005
 Overload
 Temporarily disables all of Tempest's abilities.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
+Paralyze
 
 ID=39006
 Overload
 Temporarily disables all of Tempest's abilities.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
+Paralyze
 
 ID=39007
 Vampire
@@ -3137,10 +3167,10 @@ Icon/Buff/Icon_Common_Buff_ATK
 Attack ↑
 
 ID=39011
-Paralyzed
+Paralyze
 Paralyzed for 2s.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
+Paralyze
 
 ID=39012
 Slow
@@ -3155,40 +3185,40 @@ Icon/Buff/Icon_Common_DeBuff_ATK
 Attack ↓
 
 ID=39014
-Poisoned
+Poison
 Poisoned for 10s.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=39015
-Paralyzed
+Paralyze
 Can't move for 30s.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
+Paralyze
 
 ID=39016
-Poisoned
+Poison
 Poisoned for 30s.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=39021
-Spread the Love
+There's Love
 -50% Defense for 5s.
 Icon/Buff/Icon_Common_Debuff_Def
 Defense ↓
 
 ID=39022
-Poisoned
+Poison
 Poisoned for 10s.
 Icon/Buff/Icon_Common_Debuff_Poison
-Poisoned
+Poison
 
 ID=39023
-Paralyzed
+Paralyze
 Paralyzed, temporarily can't move.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
+Paralyze
 
 ID=39024
 Slow
@@ -3216,7 +3246,7 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 
 ID=40001
 Divine Protection
-Can revive when incapacitated within 10 minutes.
+Can revive when incapacitated within 20 minutes.
 Icon/Buff/Icon_Common_Buff_Revive
 Divine Protection
 
@@ -3272,7 +3302,7 @@ ID=50051
 Giving One's All
 On hit, 1% chance of stunning common/elite enemies for 1s.
 Icon/Buff/Icon_Common_Debuff_Stun
-Stunned
+Stun
 
 ID=50061
 Sprint *kiss*
@@ -5654,7 +5684,7 @@ ID=63002
 Can't move
 Paralyzed for 3s.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
+Paralyze
 
 ID=63003
 HP ↓
@@ -5702,7 +5732,7 @@ ID=63010
 Can't move
 Stunned for 10s.
 Icon/Buff/Icon_Common_Debuff_Stun
-Stunned
+Stun
 
 ID=63011
 Enhance
@@ -6089,10 +6119,10 @@ Icon/Buff/Icon_Common_Debuff_MSR
 Attack Speed ↓
 
 ID=30613
-Paralyzed
+Paralyze
 Can't move for a certain period of time.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
+Paralyze
 
 ID=56401
 Seize the Opportunity
@@ -6389,22 +6419,22 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=5101
-Stunned
+Stun
 Stunned for 1.8s.
 Icon/Buff/Icon_Common_Debuff_Stun
-Stunned
+Stun
 
 ID=5102
-Stunned
+Stun
 Stunned for 2.4s.
 Icon/Buff/Icon_Common_Debuff_Stun
-Stunned
+Stun
 
 ID=5103
-Stunned
+Stun
 Stunned for 3.2s.
 Icon/Buff/Icon_Common_Debuff_Stun
-Stunned
+Stun
 
 ID=5111
 Arena Rush Ⅰ (Self)
@@ -6474,7 +6504,7 @@ Victory
 
 ID=7100
 Unleashed Body Ⅰ
-+3% Damage.
++5% Damage.
 Icon/Buff/Icon_Common_Buff_ATK
 Unleashed Body
 
@@ -6486,7 +6516,7 @@ Unleashed Body
 
 ID=7102
 Unleashed Body Ⅲ
-+8% Damage.
++5% Damage.
 Icon/Buff/Icon_Common_Buff_ATK
 Unleashed Body
 
@@ -7668,19 +7698,19 @@ Penetration ↑
 
 ID=8541
 Critical Dmg ↑
-+150% Critical Damage for 25s.
++150% Critical Dmg for 25s.
 Icon/Buff/Icon_Common_Buff_ATK
 Critical Dmg ↑
 
 ID=8542
 Critical Dmg ↑
-+170% Critical Damage for 25s.
++170% Critical Dmg for 25s.
 Icon/Buff/Icon_Common_Buff_ATK
 Critical Dmg ↑
 
 ID=8543
 Critical Dmg ↑
-+200% Critical Damage for 25s.
++200% Critical Dmg for 25s.
 Icon/Buff/Icon_Common_Buff_ATK
 Critical Dmg ↑
 
@@ -7871,7 +7901,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 Recovery
 
 ID=8581
-Deceleration
+Slow
 -15% Attack Speed & Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
 Attack Speed & Movement Speed ↓
@@ -7895,10 +7925,10 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 Bleed
 
 ID=8601
-Paralyzed
+Paralyze
 Cannot move for a certain period of time.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-Paralyzed
+Paralyze
 
 ID=22016
 Turbulent
@@ -7986,7 +8016,7 @@ Recovery
 
 ID=63205
 Corruption
-Take 1000 Damage every 5s & +3000 Critical Damage for 60s.
+Take 1000 Damage every 5s & +3000 Critical Dmg for 60s.
 Icon/Buff/Icon_Common_Debuff_Arculus02
 Corruption
 
@@ -7998,7 +8028,7 @@ SG ↓
 
 ID=63206
 Corruption
-Take 1000 Damage every 5s & +3000 Critical Damage for 60s.
+Take 1000 Damage every 5s & +3000 Critical Dmg for 60s.
 Icon/Buff/Icon_Common_Debuff_Arculus02
 Corruption
 
@@ -8064,7 +8094,7 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=412
 Desire Awakening Invulnerability
-Nullifies damage.
+Negates damage.
 Icon/Buff/Icon_Common_Buff_Immun
 Invulnerable
 
