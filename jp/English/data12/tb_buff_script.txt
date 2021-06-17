@@ -467,19 +467,19 @@ Icon/Buff/Icon_Common_Buff_ATK
 Damage ↑
 
 ID=5011
-Fast Blade A Ⅰ
+First Blade A Ⅰ
 -30% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=5012
-Fast Blade A Ⅱ
+First Blade A Ⅱ
 -40% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
 
 ID=5013
-Fast Blade A Ⅲ
+First Blade A Ⅲ
 -50% Movement Speed.
 Icon/Buff/Icon_Common_Debuff_MSR
 Movement Speed ↓
@@ -6612,7 +6612,7 @@ Weaken
 
 ID=30142
 Wound Infection
-+10% Dmg Reduction.
+-10% Dmg Reduction.
 Icon/Buff/Icon_Common_Debuff_Bleed
 Slow
 
@@ -7704,13 +7704,13 @@ Critical Dmg ↑
 
 ID=8542
 Critical Dmg ↑
-+170% Critical Dmg for 25s.
++200% Critical Dmg for 25s.
 Icon/Buff/Icon_Common_Buff_ATK
 Critical Dmg ↑
 
 ID=8543
 Critical Dmg ↑
-+200% Critical Dmg for 25s.
++250% Critical Dmg for 25s.
 Icon/Buff/Icon_Common_Buff_ATK
 Critical Dmg ↑
 
@@ -8142,128 +8142,128 @@ Critical Dmg & Damage to Boss/Named Enemies ↑
 
 ID=9006
 Bullet
-Creates an additional explosion for your next skill. (cancelled in 2 minutes)
-Icon/Buff/Icon_Common_Buff_Accuracy
+Makes an explosion attack when using a skill.
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_Bullet
 Bullet Reload
 
 ID=9007
 Activate
-The weapon's feature is activated for 2 minutes. The weapon's limit will be released when stacked 5 times.
-Icon/Buff/Icon_Common_Buff_Reg
+The weapon's feature is activated for 2 minutes. The weapon's limit will be released when stacked 4 times.
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_OwnAbility
 0
 
 ID=9008
 Limit Release
 The weapon's limit is released. Deal additional attacks when using skills for 7s.
-Icon/Buff/Icon_Common_Buff_Warm
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SuperNova_A
 Limit Release
 
 ID=9011
 Energized Body Ⅰ
 +3% Attack Speed for 5s.
-Icon/Buff/Icon_Common_Buff_ASR
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SonicBoom
 Attack Speed ↑
 
 ID=9012
 Energized Body Ⅱ
 +5% Attack Speed for 5s.
-Icon/Buff/Icon_Common_Buff_ASR
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SonicBoom
 Attack Speed ↑
 
 ID=9013
 Energized Body Ⅲ
 +7% Attack Speed for 5s.
-Icon/Buff/Icon_Common_Buff_ASR
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SonicBoom
 Attack Speed ↑
 
 ID=9014
 Energized Body Ⅳ
 +9% Attack Speed for 5s.
-Icon/Buff/Icon_Common_Buff_ASR
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SonicBoom
 Attack Speed ↑
 
 ID=9015
 Energized Body Ⅴ
 +12% Attack Speed for 5s.
-Icon/Buff/Icon_Common_Buff_ASR
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SonicBoom
 Attack Speed ↑
 
 ID=9016
 Enhanced Body Ⅰ
 +5% Damage for 8s.
-Icon/Buff/Icon_Common_Buff_ATK
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SwiftStab_A
 Damage ↑
 
 ID=9017
 Enhanced Body Ⅱ
 +7% Damage for 9s.
-Icon/Buff/Icon_Common_Buff_ATK
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SwiftStab_A
 Damage ↑
 
 ID=9018
 Enhanced Body Ⅲ
 +10% Damage for 10s.
-Icon/Buff/Icon_Common_Buff_ATK
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SwiftStab_A
 Damage ↑
 
 ID=9021
 Overall Enhancement Ⅰ
-Max +35% Dmg Reduction & +4% Attack Speed.\nEvery 4s, -7% Dmg Reduction & +4% Attack Speed.
-Icon/Buff/Icon_Common_Buff_Def
-Dmg Reduction & Attack Speed ↑
++10% Attack Speed & +50% Damage.
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
+Damage & Attack Speed ↑
 
 ID=9022
 Overall Enhancement Ⅱ
-Max +28% Dmg Reduction & +8% Attack Speed.\nEvery 4s, -7% Dmg Reduction & +4% Attack Speed.
-Icon/Buff/Icon_Common_Buff_Def
-Dmg Reduction & Attack Speed ↑
++20% Attack Speed & +100% Damage.
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
+Damage & Attack Speed ↑
 
 ID=9023
 Overall Enhancement Ⅲ
-Max +21% Dmg Reduction & +12% Attack Speed.\nEvery 4s, -7% Dmg Reduction & +4% Attack Speed.
-Icon/Buff/Icon_Common_Buff_Def
-Dmg Reduction & Attack Speed ↑
++20% Attack Speed & +100% Damage.
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
+Damage & Attack Speed ↑
 
 ID=9024
 Overall Enhancement Ⅳ
-Max +14% Dmg Reduction & +16% Attack Speed.\nEvery 4s, -7% Dmg Reduction & +4% Attack Speed.
-Icon/Buff/Icon_Common_Buff_Def
-Dmg Reduction & Attack Speed ↑
++20% Attack Speed & +100% Damage.
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
+Damage & Attack Speed ↑
 
 ID=9025
 Overall Enhancement Ⅴ
-Max +7% Dmg Reduction & +20% Attack Speed.\nEvery 4s, -7% Dmg Reduction & +4% Attack Speed.
-Icon/Buff/Icon_Common_Buff_Def
-Dmg Reduction & Attack Speed ↑
++20% Attack Speed & +100% Damage.
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
+Damage & Attack Speed ↑
 
 ID=9026
 Self Enhancement Ⅰ
-Strengthens the body, -5% SG Cost for 25s.
-Icon/Buff/Icon_Common_Buff_SG_Recovery
+Strengthens the body, -15% SG Cost and +20% Dmg Reduction for 10s.
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
 SG Cost ↓
 
 ID=9027
 Self Enhancement Ⅱ
-Strengthens the body, -7% SG Cost for 25s.
-Icon/Buff/Icon_Common_Buff_SG_Recovery
+Strengthens the body, -15% SG Cost and +20% Dmg Reduction for 15s.
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
 SG Cost ↓
 
 ID=9028
 Self Enhancement Ⅲ
-Strengthens the body, -9% SG Cost for 25s.
-Icon/Buff/Icon_Common_Buff_SG_Recovery
+Strengthens the body, -15% SG Cost and +20% Dmg Reduction for 20s.
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
 SG Cost ↓
 
 ID=9029
 Self Enhancement Ⅳ
-Strengthens the body, -11% SG Cost for 25s.
-Icon/Buff/Icon_Common_Buff_SG_Recovery
+Strengthens the body, -15% SG Cost and +20% Dmg Reduction for 25s.
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
 SG Cost ↓
 
 ID=9030
 Self Enhancement Ⅴ
-Strengthens the body, -15% SG Cost for 25s.
-Icon/Buff/Icon_Common_Buff_SG_Recovery
+Strengthens the body, -15% SG Cost and +20% Dmg Reduction for 30s.
+Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
 SG Cost ↓
 
 ID=9031
@@ -8652,9 +8652,9 @@ HP ↓
 
 ID=31106
 Curse
-Silenced/Dmg Reduction -20%
+Silenced / -20% Dmg Reduction
 Icon/Buff/Icon_Common_Debuff_Silence
-Curse: Silenced/Dmg Reduction -20%
+Curse: Silenced / -20% Dmg Reduction
 
 ID=31107
 Full Recovery
@@ -8883,3 +8883,147 @@ Devastation
 +5000 Critical Dmg & +5% Penetration
 Icon/Buff/Icon_Common_Buff_Akashic
 Critical Dmg & Penetration ↑
+
+ID=8611
+Bloody Stance
+Inflicts [Blood Mark] to hit enemies.
+Icon/Buff/Icon_Common_Buff_ATK
+Bloody Stance
+
+ID=8612
+Blood Mark
+-1% Dmg Reduction.
+Icon/Buff/Icon_Common_Debuff_Bleed
+Blood Mark
+
+ID=8613
+Blood Mark
+-2% Dmg Reduction.
+Icon/Buff/Icon_Common_Debuff_Bleed
+Blood Mark
+
+ID=8614
+Blood Mark
+-3% Dmg Reduction.
+Icon/Buff/Icon_Common_Debuff_Bleed
+Blood Mark
+
+ID=9500
+Erosion
+クリティカル率が5%、防御力貫通が5%、移動速度が20%増加します。スーパーアーマー状態になります。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=9501
+Awakening
+クリティカル率が10%、防御力貫通が10%、移動速度が20%増加します。スーパーアーマー状態になります。
+Icon/Buff/Icon_Common_Buff_BreakErode
+0
+
+ID=9502
+弱点スキャンI
+クリティカル率が2%、クリティカルダメージが50%増加します。
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_HuneyBee
+弱点スキャン
+
+ID=9503
+弱点スキャンII
+クリティカル率が4%、クリティカルダメージが100%増加します。
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_HuneyBee
+弱点スキャン
+
+ID=9504
+弱点スキャンIII
+クリティカル率が6%、クリティカルダメージが150%増加します。
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_HuneyBee
+弱点スキャン
+
+ID=9505
+弱点スキャンIV
+クリティカル率が8%、クリティカルダメージが200%増加します。
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_HuneyBee
+弱点スキャン
+
+ID=9506
+弱点スキャンV
+クリティカル率が10%、クリティカルダメージが250%増加します。
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_HuneyBee
+弱点スキャン
+
+ID=9507
+戦闘食糧I
+毎秒HP3%/SG5%を回復します。
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_SaveEnergy
+戦闘食糧
+
+ID=9508
+戦闘食糧II
+毎秒HP4%/SG6%を回復します。
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_SaveEnergy
+戦闘食糧
+
+ID=9509
+戦闘食糧III
+毎秒HP5%/SG7%を回復します。
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_SaveEnergy
+戦闘食糧
+
+ID=9510
+戦闘食糧IV
+毎秒HP6%/SG8%を回復します。
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_SaveEnergy
+戦闘食糧
+
+ID=9511
+戦闘食糧V
+毎秒HP7%/SG10%を回復します。
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_SaveEnergy
+戦闘食糧
+
+ID=9512
+改良されたボルトI
+攻撃力105%増加
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_SGPassive2
+改良されたボルト
+
+ID=9513
+改良されたボルトII
+攻撃力165%増加
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_SGPassive2
+改良されたボルト
+
+ID=9514
+改良されたボルトIII
+攻撃力225%増加
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_SGPassive2
+改良されたボルト
+
+ID=9515
+浅い傷
+ナビのショットガン攻撃による追加ダメージを受けます。
+Icon/Buff/Icon_Common_Debuff_Bleed
+浅い傷
+
+ID=9516
+フレシェット弾
+通常攻撃がフレシェット弾攻撃に強化されます。
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_QuickReload_A
+フレシェット弾
+
+ID=9517
+破砕弾
+通常攻撃が破砕弾攻撃に強化されます。
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_QuickReload_B
+破砕弾
+
+ID=9518
+Burn
+HPが15%ずつ減少します。
+Icon/Buff/Icon_Common_Debuff_Burn
+Burn
+
+ID=9519
+弾倉
+20秒間攻撃力が150%増加します。
+Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_SaveEnergy_A
+弾倉

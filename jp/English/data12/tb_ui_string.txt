@@ -872,10 +872,10 @@ ID=501
 Show Info
 
 ID=502
-Appoint as Leader
+Appoint Lead
 
 ID=503
-You have been kicked from the Party
+Kick Member
 
 ID=504
 Leave Party
@@ -929,7 +929,7 @@ ID=522
 Appoint
 
 ID=523
-Expel
+Kick
 
 ID=524
 Accept
@@ -986,7 +986,7 @@ ID=554
 Are you sure you want to appoint {0} as the Party Leader?
 
 ID=555
-Are you sure you want to expel {0} from the Party?
+Kick {0} from the Party?
 
 ID=556
 Are you sure you want to leave the current Party?
@@ -1637,7 +1637,7 @@ ID=827
 Are you sure you want to add a new Socket?
 
 ID=828
-You can proceed in attaching Socket Item (Familiar/Soulstone) in the Attach Socket Item Pop-up\n(attachment pop-up can be selected from the item's right-click menu)
+ソケットアイテム（ファミリア/ソウルストーン）装着はソケットアイテム装着ポップアップで進行できます。\n（装着ポップアップはアイテム右クリックメニューから選択できます）
 
 ID=829
 The Socket Item (Familiar/Soulstone) has been removed.
@@ -6062,7 +6062,7 @@ ID=18300
 There is a brooch in the target avatar.\n<font color='#A566FF'>Discarding the avatar will destroy the brooch.</font>\nAre you sure you want to discard it?
 
 ID=18500
-Fast Blade
+First Blade
 
 ID=18501
 Pierce Step
@@ -10700,28 +10700,28 @@ ID=28114
 {0} has left the Guild.
 
 ID=28115
-Are you sure you want to eject {0} from the Guild?
+Kick {0} from the Guild?
 
 ID=28116
-Confirm Expel Member
+Kick Member
 
 ID=28117
-{0} was expelled from the Guild.
+Kicked {0} from the Guild.
 
 ID=28118
-Expel Member
+Kick Member
 
 ID=28119
-{0} has been expelled from the Guild.                                                            
+Kicked {0} from the Guild.                                                            
 
 ID=28120
-You were expelled from {0}.
+Kicked from {0}.
 
 ID=28121
-You cannot expel this member; they have higher authority.
+Players with same authority cannot kick each other.
 
 ID=28122
-Failed to kick from guild
+Can't kick from Guild
 
 ID=28123
 Guild has become level {0}.
@@ -10811,7 +10811,7 @@ ID=28151
 Set Rank
 
 ID=28152
-Expel
+Kick from Guild
 
 ID=28153
 Public Settings
@@ -10844,7 +10844,7 @@ ID=28162
 Guild Invite
 
 ID=28163
-Expel
+Kick from Guild
 
 ID=28164
 Guild Vending Machine
@@ -11177,7 +11177,7 @@ ID=29003
 Visit Room
 
 ID=29004
-Ban from room
+Kick from My Room
 
 ID=29005
 Leave
@@ -11303,13 +11303,13 @@ ID=29046
 Confirm Kick Guest
 
 ID=29047
-Are you sure you want to kick {0} from your room?
+Kick {0} from My Room?
 
 ID=29048
-Kick Guest Prompt
+Kick Guest
 
 ID=29049
-{0} has been kicked from your room.
+Kicked from {0}'s My Room.
 
 ID=29050
 Layout Mode Guide
@@ -11561,7 +11561,7 @@ ID=31021
 [{0}] appointed you as the Party leader.
 
 ID=31022
-[{0}] has been removed from the Party due to time restraints.
+[{0}] has been kicked from the Party due to the time limit.
 
 ID=31023
 Cannot enter because a party party member does not meet the level requirements.
@@ -11600,7 +11600,7 @@ ID=31034
 Cannot leave the Party here.
 
 ID=31035
-Cannot remove {0} right now.
+Cannot kick {0} at the moment.
 
 ID=31036
 Cannot enter the dungeon because {0} {1} {2} logged out in a different town or area.
@@ -11627,10 +11627,10 @@ ID=31043
 Cancel Request
 
 ID=31044
-Change Party Leader
+Appoint Lead
 
 ID=31045
-You have been kicked from the Party
+Kick Member
 
 ID=31046
 Entry to dungeon denied
@@ -11684,7 +11684,7 @@ ID=31062
 Deciding on Party entry...
 
 ID=31063
-Select Party Leader
+Selecting PT Lead...
 
 ID=31064
 Dungeon Entry
@@ -17111,7 +17111,7 @@ ID=46109
 Auto-Matching\n[SPACE]
 
 ID=46110
-Cancel Operation\n[ESC]
+Cancel\n[ESC]
 
 ID=46200
 STAGE
@@ -18929,7 +18929,7 @@ ID=52617
 Cannot use resurrection items in this dungeon.
 
 ID=52618
-同一メイズには移動できません。
+現在の地域からは移動できません。
 
 ID=52619
 パーティーまたはフォース状態ではメイズに移動できません。
@@ -18986,7 +18986,7 @@ ID=53007
 Failed to change party leader.
 
 ID=53008
-You have been kicked from the Party.
+Failed to kick member from the Party.
 
 ID=53009
 Failed to leave the Party.
@@ -19043,7 +19043,7 @@ ID=53031
 You cannot make a request because the target is in the lawless zone.
 
 ID=53032
-Cannot expel members in dungeon.
+Cannot kick members inside a dungeon.
 
 ID=53034
 パーティー募集中に、フォースの招待はできません。
@@ -19073,7 +19073,7 @@ ID=53107
 Failed to change the Force leader.
 
 ID=53108
-Failed to expel from the Force.
+Failed to kick member from the Force.
 
 ID=53109
 Failed to withdraw from the Force.
@@ -19109,7 +19109,7 @@ ID=53119
 You cannot make a Force request because the target is in a lawless zone. 
 
 ID=53120
-Cannot expel a Force member while in a dungeon.
+Cannot kick members inside a dungeon.
 
 ID=53121
 Only the Force leader can apply to enter a dungeon.
@@ -19682,7 +19682,7 @@ ID=57002
 Failed to withdraw from guild.
 
 ID=57003
-Failed to delete guild.
+Failed to kick member from the Guild.
 
 ID=57004
 Failed to change guild information.
@@ -19775,7 +19775,7 @@ ID=57033
 Use 2 to 8 characters for a guild name.
 
 ID=57034
-You cannot expel yourself from the guild. 
+Cannot kick yourself from the Guild.
 
 ID=57035
 It cannot contain special characters or forbidden words.
@@ -19973,7 +19973,7 @@ ID=58232
 Item is already in use.
 
 ID=58233
-You were kicked out because the room changed to placement mode.
+Kicked from My Room due to changing to Layout Mode.
 
 ID=58234
 You cannot praise your own room.
@@ -20315,7 +20315,7 @@ ID=60206
 Are you sure you want to make {0} the Force leader?
 
 ID=60207
-Are you sure you want to expel {0} from the Force?
+Kick {0} from the Force?
 
 ID=60208
 Force Invitation
@@ -20378,10 +20378,10 @@ ID=60227
 You have joined the Force.
 
 ID=60228
-[{0}] was expelled from the Force.
+[{0}] has been kicked from the Force.
 
 ID=60229
-You have been expelled from the Force.
+You have been kicked from the Force.
 
 ID=60230
 [{0}] has left the Force.
@@ -20396,7 +20396,7 @@ ID=60233
 [{0}] appointed you as the Force leader.
 
 ID=60234
-[{0}] has been expelled from the force because of the time limit.
+[{0}] has been kicked from the Force due to the time limit.
 
 ID=60235
 Cannot enter because there are Force members that don't meet the dungeon's level requirement.
@@ -20441,10 +20441,10 @@ ID=60248
 Leave Force
 
 ID=60249
-Pass Force Leader
+Appoint Force Lead
 
 ID=60250
-Expel Force
+Kick from Force
 
 ID=60251
 Force Auto-Matching
@@ -21152,7 +21152,7 @@ ID=18305
 スキップすると次の段階のチュートリアルを進行できます。\n チュートリアルをスキップしますか？
 
 ID=18306
-チュートリアルをスキップしますか？\n（スキップした場合、チュートリアルが終了します。）
+チュートリアルをスキップしますか？\n（スキップした場合、チュートリアルが終了します）
 
 ID=18800
 Enter Coupon
@@ -26465,7 +26465,7 @@ ID=61008
 イベント期間
 
 ID=61009
-Roulette
+Event
 
 ID=33574
 Queen's Knight
@@ -26768,7 +26768,7 @@ ID=40760
 バーニングレッドみたいに、素敵なミサイルとか、レーザーも撃つロボットも出てくるんだよ！
 
 ID=40761
-とっても大きいロボットも作りたいの！あたまに乗ると家が見下ろせるぐらい大きいなロボットがいいな！
+とっても大きいロボットも作りたいの！あたまに乗ると家が見下ろせるくらい大きいなロボットがいいな！
 
 ID=40762
 足の多い子たちは走るのも早いよね？ あの子たちが悪い人たちが逃げたら捕まえてくれるの。\n
@@ -27236,7 +27236,7 @@ ID=65409
 Top 11% ~ 15% Rewards
 
 ID=65410
-Top 15% ~ 20% Rewards
+Top 16% ~ 20% Rewards
 
 ID=65411
 Top 21% ~ 25% Rewards
@@ -27314,7 +27314,7 @@ ID=65609
 Top 11% ~ 15% Rewards
 
 ID=65610
-Top 15% ~ 20% Rewards
+Top 16% ~ 20% Rewards
 
 ID=65611
 Top 21% ~ 25% Rewards
@@ -29510,7 +29510,7 @@ ID=10127
 White Out
 
 ID=10128
-Resurrection Project
+リザレクションプロジェクト
 
 ID=10129
 Untouchable Pass
@@ -30224,7 +30224,7 @@ ID=38117
 当該エリアではギルドレイドに入場できません。
 
 ID=38118
-ギルドレイド進行中のメンバーはギルドから追放できません。
+Cannot kick members from the Guild while in a Guild Raid.
 
 ID=28714
 {0}さんが出席しました。
@@ -30269,7 +30269,7 @@ ID=52326
 アイテム購入失敗：ギルド資金不足
 
 ID=58611
-ギルドレイド参加記録があり、脱退/追放ができません。
+Cannot leave or be kicked from the Guild if have a Guild Raid record.
 
 ID=10026
 セツカはホラー映画を見た夜、怖い夢を見ます。セツカが想像した怖いものたちに会ってみてください。
@@ -30328,7 +30328,7 @@ ID=52087
 ID=52088
 {0}秒後にキャラクター選択画面に移動します。
 
-ID=24341
+ID=24342
 LV.ジャンプアイテム
 
 ID=24680
@@ -30468,3 +30468,630 @@ ID=41528
 
 ID=41529
 ザ・ドゥームレイド参加{0}回
+
+ID=56100
+ヒーローモード
+
+ID=56101
+ヒーローモード報酬
+
+ID=56102
+クリア報酬ボックス
+
+ID=56103
+チャレンジオプション報酬
+
+ID=56104
+※チャレンジオプション報酬は選択したオプションの数に応じて支給されます。\n\nヒーローメイズをクリアすることで報酬を獲得できます。
+
+ID=56105
+ヒーローモードチャレンジオプション
+
+ID=56106
+イロージョン/覚醒スキル使用不可
+
+ID=56107
+HP回復スキル/消費アイテム未適用
+
+ID=56108
+A.Rカード適用不可
+
+ID=56109
+モンスターが受けるダメージ半減
+
+ID=56110
+モンスターのクリティカル率増加
+
+ID=56111
+すべてのモンスターが10秒ごとにHP5%回復
+
+ID=56112
+Info
+
+ID=56113
+輝くエーテルライト結晶
+
+ID=56114
+入場人数
+
+ID=56115
+挑戦回数制限
+
+ID=56116
+PCが受ける全ダメージ50%増加
+
+ID=654
+予備
+
+ID=49112
+予備
+
+ID=49113
+予備
+
+ID=60298
+緊急事態発生！「ザ・シング」出現{0}分{1}秒前！支援を要請します！
+
+ID=60299
+緊急事態発生！「ザ・ドゥーム」出現{0}分{1}秒前！支援を要請します！
+
+ID=56117
+イロージョン/覚醒/デザイア覚醒スキルを使用できません。
+
+ID=56118
+回復スキルや回復アイテム、スキルにより生成したオブジェクトによるHP回復効果は無効化されます。スキルダメージに比例した回復効果は無効化されません。
+
+ID=56119
+アクティブA.Rを使用できず、パッシブA.Rの能力も発動しません。
+
+ID=56120
+すべてのモンスターが10秒ごとに最大HPの5%分回復します。
+
+ID=56121
+すべてのPCのモンスターおよびギミックによって受けるダメージが50%増加します。
+
+ID=56122
+モンスターのクリティカル率が大きく増加します。
+
+ID=56123
+すべてのモンスターの受けるダメージが半減します。
+
+ID=56124
+Hero
+
+ID=49114
+予備
+
+ID=40323
+エナジーコアを3つ破壊するたびに、短い間SA破壊力が大きく上昇します。
+
+ID=55138
+Roulette
+
+ID=55139
+ジャンケン
+
+ID=55140
+ホームラン
+
+ID=55141
+ファウル
+
+ID=55142
+アウト
+
+ID=55143
+一日使用可能回数
+
+ID=55144
+ゲームスタート
+
+ID=55145
+ゲーム進行中…
+
+ID=55146
+インベントリに支給されました。
+
+ID=55147
+続ける
+
+ID=55148
+イベント期間：{0}年{1}月{2}日～{3}年{4}月{5}日メンテナンス前
+
+ID=55149
+イベント期間ではありません。
+
+ID=55150
+使用回数を使い切りました。
+
+ID=55151
+Lacking required item.
+
+ID=55152
+インベントリを2スロット以上空けてください。
+
+ID=55153
+エラーが発生しました。しばらくしてからもう一度お試しください。
+
+ID=55154
+Time Left
+
+ID=70019
+[EV]完璧なサイコロ
+
+ID=70020
+ガイドマップ
+
+ID=70021
+GOAL
+
+ID=70022
+完走成功！
+
+ID=70023
+ふりだしに戻る
+
+ID=70024
+サイコロ使用報酬
+
+ID=70025
+完走回数報酬
+
+ID=70026
+報酬がメールにて発送されました。
+
+ID=71000
+Event
+
+ID=70027
+サイコロ回数：{0}回
+
+ID=70028
+{0}回報酬
+
+ID=70029
+完走回数：{0}回
+
+ID=70030
+{0}回報酬
+
+ID=710052
+スプリングピクニック
+
+ID=710053
+小さくて大切なプリースト・ハル
+
+ID=710054
+小さくて大切なレンジャー・アーウィン
+
+ID=710055
+小さくて大切なアルケミスト・リリー
+
+ID=710056
+小さくて大切なシーフ・ジン
+
+ID=710057
+小さくて大切なナイト・ステラ
+
+ID=710058
+小さくて大切な勇者・イリス
+
+ID=710059
+小さくて大切なマジシャン・チイ
+
+ID=710060
+小さくて大切な吟遊詩人・エフネル
+
+ID=710061
+小さくて大切なソードマン・ナビ
+
+ID=710062
+プリースト・ハル
+
+ID=710063
+レンジャー・アーウィン
+
+ID=710064
+アルケミスト・リリー
+
+ID=710065
+シーフ・ジン
+
+ID=710066
+ナイト・ステラ
+
+ID=710067
+勇者・イリス
+
+ID=710068
+マジシャン・チイ
+
+ID=710069
+吟遊詩人・エフネル
+
+ID=710070
+ソードマン・ナビ
+
+ID=70031
+すごろくゲーム
+
+ID=11724
+グレイトン
+
+ID=11794
+グットン
+
+ID=11795
+エクセレントン
+
+ID=5969
+<font color='#FFFFFF'><font size="30">TIP。</font>ジャンククイーンのHPが一定まで減ると、クイーンを支援するためにアキュラスとエドガーが現れます。
+
+ID=9899
+ルナ・フォール:ヒーロー
+
+ID=10028
+さらに強くて変化したパターンが発生する「ルナ・フォール：ヒーロー」は、フォースメンバーと連携しなければ攻略がむずかしくなります。
+
+ID=67112
+スケアリーデイドリーム[H/T]
+
+ID=39001
+キャラクター情報
+
+ID=39002
+アカウント情報
+
+ID=39003
+作成日
+
+ID=39004
+{0}年{1}月{2}日
+
+ID=39005
+プレイ時間
+
+ID=39006
+{0}h {1}m
+
+ID=39007
+ログイン回数
+
+ID=39008
+{0}d
+
+ID=39009
+累計メイズクリア回数
+
+ID=39010
+{0}
+
+ID=39011
+累計モンスター討伐回数
+
+ID=39012
+{0}
+
+ID=39013
+累計死亡回数
+
+ID=39014
+{0}
+
+ID=39015
+ヴァイオレント・サンフェーズ3クリア回数
+
+ID=39016
+ルナ・フォールクリア回数
+
+ID=24341
+顔
+
+ID=24681
+顔
+
+ID=55123
+設定済みの背景です。
+
+ID=55124
+所持していない背景です。
+
+ID=55125
+背景の変更に失敗しました。
+
+ID=55126
+所持している背景です。
+
+ID=55127
+背景の追加に失敗しました。
+
+ID=5520
+CUSTOMIZE
+
+ID=80109
+事前予約キャラクター作成
+
+ID=80110
+事前予約キャラクター
+
+ID=5521
+背景プレビュー
+
+ID=80111
+事前予約情報は21年1月2次アップデートまで保管されます。
+
+ID=80112
+Applied
+
+ID=80113
+背景選択
+
+ID=80114
+Apply
+
+ID=80115
+以前
+
+ID=12000
+戦争後の惨状
+
+ID=12001
+青海のシンクホール
+
+ID=12002
+ソウルリストの図書館
+
+ID=80116
+代表キャラクター確定
+
+ID=80117
+ハル・エスティア
+
+ID=80118
+アーウィン・アークライト
+
+ID=80119
+リリー・ブルームメルヘン
+
+ID=80120
+ステラ・ユニベル
+
+ID=80121
+イリス・ユマ
+
+ID=80122
+ジン・セイパーツ
+
+ID=80123
+チイ・アルエル
+
+ID=80124
+Ephnel
+
+ID=80126
+Character Description
+
+ID=5523
+Soulum Sword of Revenge
+
+ID=5524
+Gun Jazz of Pleasure
+
+ID=5525
+Mist Scythe of Madness
+
+ID=5526
+Howling Guitar of Sorrow
+
+ID=5527
+Hammerstol of Rage
+
+ID=5528
+Spirit Arms of Passion
+
+ID=5529
+Despair Roar of Desire
+
+ID=5530
+Bombing Spear of Tenacity
+
+ID=5532
+年齢：17歳\n誕生日：9月10日\n異名：復讐のソウラムソード\n使用武器：ソウルウェポンソード\n\nスタート位置：ロコタウン
+
+ID=5533
+年齢：18歳\n誕生日：5月29日\n異名：快楽のガンジャズ\n使用武器：ソウルウェポンガン\n\nスタート位置：ロコタウン
+
+ID=5534
+年齢：15歳\n誕生日：2月27日\n異名：狂気のミストサイス\n使用武器：ソウルウェポンサイス\n\nスタート位置：ロコタウン
+
+ID=5535
+年齢：14歳\n誕生日：6月25日\n異名：悲しみのハウリングギター\n使用武器：ソウルウェポンギター\n\nスタート位置：ロコタウン
+
+ID=5536
+年齢：18歳\n誕生日：11月4日\n異名：憤怒のハンマーストール\n使用武器：ソウルウェポンハンマー\n\nスタート位置：ロコタウン
+
+ID=5537
+年齢：17歳\n誕生日：7月28日\n異名：情熱のスピリットアームズ\n使用武器：ソウルウェポンガントレット\n\nスタート位置：ロコタウン
+
+ID=5538
+年齢：16歳（肉体の主人アルエル）\n　　　　1歳（ソウルジャンクチイ）\n誕生日：3月2日\n異名：熱望のディスペーロア\n使用武器：ソウルウェポン刀\n\nスタート位置：カンダスシティ
+
+ID=5539
+年齢：17歳\n誕生日：10月10日\n異名：不屈のボミングスピア\n使用武器：ソウルウェポンスピア\n\nスタート位置：カンダスシティ
+
+ID=80145
+プロモーション
+
+ID=80146
+General
+
+ID=80147
+昇級
+
+ID=80148
+Desire Awakening
+
+ID=80149
+作成日
+
+ID=5522
+Applied
+
+ID=3125
+キャラクター選択画面背景'{0}'の追加が完了しました。\n追加された背景はキャラクター選択画面のキャラクター設定で確認できます。
+
+ID=4025
+フレンド接続
+
+ID=4026
+{0}さんが接続しました。
+
+ID=4027
+ギルドメンバー接続
+
+ID=4028
+ギルドメンバー{0}さんが接続しました。
+
+ID=8408
+フレンド{0}さんが接続しました。
+
+ID=8409
+ギルドメンバー{0}さんが接続しました。
+
+ID=22240
+フレンド接続アラーム
+
+ID=22241
+ギルドメンバー接続アラーム
+
+ID=22242
+Community
+
+ID=710071
+モーモールック
+
+ID=20254
+モーモー
+
+ID=20255
+牛乳をおいしく飲みます。
+
+ID=20256
+{0}さんが牛乳をおいしく飲みます。
+
+ID=98
+ナビ
+
+ID=24912
+ライフル
+
+ID=5448
+使用する武器はライフル。\n強力な一発をお見舞いし、敵に甚大なダメージを与える。
+
+ID=24913
+ナビ
+
+ID=18616
+ヒットアンドラン
+
+ID=18617
+ブラックアウト
+
+ID=18618
+リロード
+
+ID=18619
+スネーキングショットガン
+
+ID=18620
+アシッドガス
+
+ID=18621
+バーストドライバー
+
+ID=18622
+フラッグボム
+
+ID=18623
+ハニービー
+
+ID=18624
+クローズクォーターズコンバット
+
+ID=18625
+チェーンソー
+
+ID=18626
+グレネードランチャー
+
+ID=18627
+セーブエナジー
+
+ID=18628
+ラストストライク
+
+ID=10143
+クラウドボーダー
+
+ID=10144
+ブロークンウェイ
+
+ID=10145
+タワーオブロード
+
+ID=10598
+軍事境界線
+
+ID=10599
+人足絶えし道
+
+ID=10600
+怪物の領域
+
+ID=10601
+境界線の外側
+
+ID=10602
+狙われた村
+
+ID=10603
+消えかかる炎
+
+ID=10604
+戦場の悪臭
+
+ID=10605
+最終任務
+
+ID=1067
+ブライドミドルボリュームヘア
+
+ID=40845
+戦闘開始前に、装備とスキルを確認してください。
+
+ID=1068
+アンバランスミドルボリュームヘア
+
+ID=1069
+Soft Bob Cut
+
+ID=791001
+服従のロイヤルライフル
+
+ID=792001
+解き放つ忠義の銃身
+
+ID=80125
+ナビ
+
+ID=5531
+服従のロイヤルライフル
+
+ID=5540
+年齢：19才\n誕生日：4月15日\nニックネーム：服従のロイヤルライフル\n使用武器：ソウルウェポン ライフル\n\nスタート位置：タワーオブロード
+
+ID=10146
+レストルーム
+
+ID=5069
+「忠義のロイヤルライフル」にクラスアップグレードしました。
