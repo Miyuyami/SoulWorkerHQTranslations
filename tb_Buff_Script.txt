@@ -767,21 +767,21 @@ Icon/Skill/Gunjazz/Icon_GJazz_Skill_Splinter
 移動速度増加
 
 ID=5551
-スプリンター特性AⅠ
+ハイドアンドシークⅠ
 SGを毎秒2%ずつ回復する。
-Icon/Buff/Icon_Common_Buff_SG_Recovery
+Icon/Skill/GunJazz/Icon_GJazz_Skill_Hide
 SG回復
 
 ID=5552
-スプリンター特性AⅡ
+ハイドアンドシークⅢ
 SGを毎秒3%ずつ回復する。
-Icon/Buff/Icon_Common_Buff_SG_Recovery
+Icon/Skill/GunJazz/Icon_GJazz_Skill_Hide
 SG回復
 
 ID=5553
-スプリンター特性AⅢ
+ハイドアンドシークV
 SGを毎秒5%ずつ回復する。
-Icon/Buff/Icon_Common_Buff_SG_Recovery
+Icon/Skill/GunJazz/Icon_GJazz_Skill_Hide
 SG回復
 
 ID=5561
@@ -999,6 +999,36 @@ ID=6033
 クリティカルダメージが200%上昇する。
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_CruelSlash_B
 クリティカル率増加
+
+ID=6034
+フォースリージョンⅠ
+クリティカルダメージが50％増加する。
+Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
+クリティカルダメージ増加
+
+ID=6035
+フォースリージョンⅡ
+クリティカルダメージが100％増加する。
+Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
+クリティカルダメージ増加
+
+ID=6036
+フォースリージョンⅢ
+クリティカルダメージが150％増加する。
+Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
+クリティカルダメージ増加
+
+ID=6037
+フォースリージョンⅣ
+クリティカルダメージが200％増加する。
+Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
+クリティカルダメージ増加
+
+ID=6038
+フォースリージョンⅤ
+クリティカルダメージが250％増加する。
+Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
+クリティカルダメージ増加
 
 ID=6041
 フォースリージョンⅠ
@@ -6694,6 +6724,30 @@ ID=7553
 Icon/Skill/HammerStol/Icon_HamerStoll_Skill_SGPassive2
 エクストリームラッシュIII
 
+ID=7563
+バリアI
+3秒間無敵状態になる。
+Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_OwnAbility
+バリアI
+
+ID=7564
+バリアII
+4秒間無敵状態になる。
+Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_OwnAbility
+バリアII
+
+ID=7565
+バリアIII
+5秒間無敵状態になる。
+Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_OwnAbility
+バリアIII
+
+ID=7566
+チャージ中
+バリアをチャージ中の状態。
+Icon/Skill/Common/Icon_Common_Skill_SoulMastery
+チャージ
+
 ID=55137
 黄金の火花
 攻撃速度及び移動速度減少が30%減少する。
@@ -7583,22 +7637,22 @@ Icon/Buff/Icon_Common_Buff_Akashic
 0
 
 ID=6570
-ビーズプレイ特性BⅠ
+ビーズプレイ
 攻撃力が50%増加する。\nクリティカル確率が5%増加する。
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 クリティカル確率増加
 
 ID=6571
-ビーズプレイ特性BⅡ
-攻撃力が75%増加する。\nクリティカル確率が8%増加する。
+ビーズプレイ
+クリティカル率が10%増加する。
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
-クリティカル確率増加
+クリティカル率増加
 
 ID=6572
-ビーズプレイ特性BⅢ
-攻撃力が100%増加する。\nクリティカル確率が15%増加する。
+ビーズプレイ
+攻撃力が100%増加する。
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
-クリティカル確率増加
+攻撃力増加
 
 ID=6630
 ベストテンポⅠ
@@ -8214,25 +8268,25 @@ Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
 
 ID=9022
 全体強化II
-攻撃速度が20％、ダメージが100％増加します。
+攻撃速度が10％、ダメージが100％増加します。
 Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
 ダメージ、攻撃速度増加
 
 ID=9023
 全体強化III
-攻撃速度が20％、ダメージが100％増加します。
+攻撃速度が10％、ダメージが100％増加します。
 Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
 ダメージ、攻撃速度増加
 
 ID=9024
 全体強化IV
-攻撃速度が20％、ダメージが100％増加します。
+攻撃速度が10％、ダメージが100％増加します。
 Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
 ダメージ、攻撃速度増加
 
 ID=9025
 全体強化V
-攻撃速度が20％、ダメージが100％増加します。
+攻撃速度が10％、ダメージが100％増加します。
 Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SupportCall
 ダメージ、攻撃速度増加
 
@@ -8920,35 +8974,41 @@ ID=9501
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
-ID=9502
+ID=9520
 弱点スキャンI
-クリティカル率が2%、クリティカルダメージが50%増加します。
+クリティカル率が3%増加する。
 Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_HuneyBee
 弱点スキャン
 
-ID=9503
+ID=9521
 弱点スキャンII
-クリティカル率が4%、クリティカルダメージが100%増加します。
+クリティカル率が4%増加する。
 Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_HuneyBee
 弱点スキャン
 
-ID=9504
+ID=9522
 弱点スキャンIII
-クリティカル率が6%、クリティカルダメージが150%増加します。
+クリティカル率が5%増加する。
 Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_HuneyBee
 弱点スキャン
 
-ID=9505
+ID=9523
 弱点スキャンIV
-クリティカル率が8%、クリティカルダメージが200%増加します。
+クリティカル率が7%増加する。
 Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_HuneyBee
 弱点スキャン
 
-ID=9506
+ID=9524
 弱点スキャンV
-クリティカル率が10%、クリティカルダメージが250%増加します。
+クリティカル率が10%増加する。
 Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_HuneyBee
 弱点スキャン
+
+ID=9525
+待機中
+SV回復効果が適用されない。
+Icon/Skill/Common/Icon_Common_Skill_SoulMastery
+待機中
 
 ID=9507
 戦闘食糧I
