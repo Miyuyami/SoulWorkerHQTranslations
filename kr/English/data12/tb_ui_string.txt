@@ -665,7 +665,7 @@ ID=416
 Register Trade
 
 ID=417
-Show Info
+Info
 
 ID=418
 Evolve
@@ -674,7 +674,7 @@ ID=419
 Manage Brooches
 
 ID=421
-Display usable items only
+Show usable items only
 
 ID=423
 Zenny
@@ -698,7 +698,7 @@ ID=434
 Show items within 4 levels difference
 
 ID=435
-Display usable items only
+Show usable items only
 
 ID=436
 Base Material
@@ -743,7 +743,7 @@ ID=449
 Additional Materials are automatically registered.
 
 ID=450
-Display craftable items only
+Show craftable items only
 
 ID=456
 Since the equipped item's durability decreased,\nits ability value is decreased by {0}%.
@@ -869,7 +869,7 @@ ID=498
 Random Earnings
 
 ID=501
-Show Info
+Info
 
 ID=502
 Appoint Lead
@@ -887,10 +887,10 @@ ID=506
 Add as Friend
 
 ID=508
-Item Use Count: {0}/{1}
+Use Limit: {0}/{1}
 
 ID=509
-※Cannot revive because you have already exceeded the item use count.
+※Cannot revive because you already exceeded the item use limit.
 
 ID=510
 Revive
@@ -899,7 +899,7 @@ ID=511
 ※ <font color='#F15F5F'>By forfeiting the battle</font>, you will be <font color='#F15F5F'>transferred back to town</font> after <font size='15' color='#F7AE54'>{0}</font> seconds.
 
 ID=512
-Forfeit
+Abandon
 
 ID=513
 ※ The buff effect <font color='#5CD1E5'>[Divine Protection]</font> is applied upon reviving.
@@ -1172,7 +1172,7 @@ ID=632
 Special Abnormal State Resistance
 
 ID=640
-Show Info
+Info
 
 ID=641
 Add as Friend
@@ -1799,7 +1799,7 @@ ID=911
 Suffix
 
 ID=912
-Display
+Show
 
 ID=913
 Physical Attack is influenced by Defense
@@ -3800,10 +3800,10 @@ ID=6039
 Card List
 
 ID=6040
-Display only available cards
+Show only available cards
 
 ID=6041
-Display only withdrawable cards
+Show only withdrawable cards
 
 ID=6042
 Withdraw Card
@@ -5753,7 +5753,7 @@ ID=18019
 一度に{0}個まで分解できます。
 
 ID=18020
-Displays the last 10 sold items.
+Show the last 10 sold items.
 
 ID=18021
 A fee of {0}% will be applied after the item is sold.
@@ -5888,10 +5888,10 @@ ID=18069
 Are you sure you want to use 1 {1} to change your character name to "{0}"?
 
 ID=18071
-Failed to purchase item: Insufficient Zenny
+Can't purchase item: Insufficient Zenny
 
 ID=18072
-Failed to purchase item: Insufficient BP
+Can't purchase item: Insufficient BP
 
 ID=18073
 When used, all your skills will be reset.\nAre you sure you want to use?
@@ -5978,7 +5978,7 @@ ID=18188
 No items found.
 
 ID=18189
-Failed to purchase item: Insufficient Yomi's Treasury Points
+Can't purchase item: Insufficient Yomi's Treasury Points
 
 ID=18190
 Enhancement Status
@@ -6248,7 +6248,7 @@ ID=18561
 Beads Play
 
 ID=18562
-Decayed Pulse
+Decade Pulse
 
 ID=18563
 Soul Scream
@@ -6725,7 +6725,7 @@ ID=20091
 I felt like becoming some kind of idol.
 
 ID=20092
-{0} proudly poses.
+{0} proudly strikes a pose.
 
 ID=20100
 Maid
@@ -6797,10 +6797,10 @@ ID=20139
 Hanbok
 
 ID=20140
-Take a pose.
+Strike a pose.
 
 ID=20141
-{0}takes a pose.
+{0} strikes a pose.
 
 ID=20142
 Chocolatier
@@ -6815,19 +6815,19 @@ ID=20145
 Sexy Animal Ear Maid 1
 
 ID=20146
-First bewitching pose!
+Bewitching pose 1!
 
 ID=20147
-{0} takes a first bewitching pose.
+{0} strikes a bewitching pose 1.
 
 ID=20148
 Sexy Animal Ear Maid 2
 
 ID=20149
-Second bewitching pose!
+Bewitching pose 2!
 
 ID=20150
-{0} takes a second bewitching pose.
+{0} strikes a bewitching pose 2.
 
 ID=20151
 White Day
@@ -6851,10 +6851,10 @@ ID=20157
 Marine Marine
 
 ID=20158
-Take a pose.
+Strike a pose.
 
 ID=20159
-{0} takes a pose.
+{0} strikes a pose.
 
 ID=20300
 Cannot join channel due to congestion. Please use another one.
@@ -7214,7 +7214,7 @@ ID=21551
 You have received the Aid reward.
 
 ID=21552
-You cannot receive the Aid reward because your inventory is full.
+インベントリの空きが不足しているため、支援報酬を受け取れません。
 
 ID=21553
 Summon Setting
@@ -7253,7 +7253,7 @@ ID=22008
 Hide
 
 ID=22009
-Display
+Show
 
 ID=22010
 Hide
@@ -7331,7 +7331,7 @@ ID=22034
 Rotating
 
 ID=22100
-Camera
+Control Settings
 
 ID=22101
 Preferences
@@ -7373,7 +7373,7 @@ ID=22200
 Game Settings
 
 ID=22201
-Displayed Info
+Shown Info
 
 ID=22202
 Name
@@ -7460,10 +7460,10 @@ ID=22229
 Add as Friend
 
 ID=22230
-Show Info
+Info
 
 ID=22231
-Screenshot and Game Settings
+Reset Screenshot and Game Settings
 
 ID=22232
 Screenshot Save Location
@@ -7478,13 +7478,13 @@ ID=22235
 Reset Game Settings
 
 ID=22236
-Show Your Attack Info
+Show Own Attack Info
 
 ID=22237
 Show Allies' Attack Info
 
 ID=22238
-Show Rank
+Rank
 
 ID=22300
 Graphics Settings
@@ -7727,7 +7727,7 @@ ID=22550
 Community
 
 ID=22551
-Show Progress Info
+Progress Info
 
 ID=22552
 Guild
@@ -7802,7 +7802,7 @@ ID=22575
 Enter Room
 
 ID=22576
-Show Supporter List
+Supporter List
 
 ID=22577
 Find Party
@@ -8468,7 +8468,7 @@ ID=24524
 Enhancement Break Prevention
 
 ID=24525
-Enhances
+Increase Enhances
 
 ID=24526
 EXP Gain Increase
@@ -12293,7 +12293,7 @@ ID=32087
 Furniture
 
 ID=32088
-Camera
+Control Settings
 
 ID=32089
 Game Settings
@@ -14480,7 +14480,7 @@ ID=41207
 Dismantle item for 6 times
 
 ID=41208
-Use S coin shop for 1 time
+Use S coin shop once
 
 ID=41209
 Clear Concrete Jungle EP4 Normal 
@@ -14519,7 +14519,7 @@ ID=41220
 Dismantle item for 12 times
 
 ID=41221
-Use S coin shop for 2 times
+Use S coin shop 2 times
 
 ID=41222
 Clear The Big Mouth EP4 Normal 
@@ -14561,7 +14561,7 @@ ID=41234
 Dismantle item for 18 times
 
 ID=41235
-Use S coin shop for 3 times
+Use S coin shop 3 times
 
 ID=41236
 Clear Breakout EP4 Normal 
@@ -14588,7 +14588,7 @@ ID=41243
 Create item for 7 times
 
 ID=41244
-Use S coin shop for 4 times
+Use S coin shop 4 times
 
 ID=41245
 Create A.R card for 1 time
@@ -14606,7 +14606,7 @@ ID=41249
 Dismantle item for 6 times
 
 ID=41250
-Use S coin shop for 1 time
+Use S coin shop once
 
 ID=41251
 スチールグレイブ4回プレイ
@@ -14633,7 +14633,7 @@ ID=41258
 Dismantle item for 12 times
 
 ID=41259
-Use S coin shop for 2 times
+Use S coin shop 2 times
 
 ID=41260
 スチールグレイブ8回プレイ
@@ -14663,7 +14663,7 @@ ID=41268
 Dismantle item for 18 times
 
 ID=41269
-Use S coin shop for 3 times
+Use S coin shop 3 times
 
 ID=41270
 スチールグレイブ12回プレイ
@@ -16718,7 +16718,7 @@ ID=45001
 Avatar
 
 ID=45002
-Display
+Show
 
 ID=45003
 Hide
@@ -17381,7 +17381,7 @@ ID=49001
 Complete
 
 ID=49002
-Forfeit
+Abandon
 
 ID=49003
 Rewards
@@ -17657,7 +17657,7 @@ ID=49337
 There are daily missions available.
 
 ID=49338
-Display
+Show
 
 ID=49339
 {0} Reward List
@@ -18206,7 +18206,7 @@ ID=49998
 Mission Complete
 
 ID=49999
-Mission Forfeited
+Abandon Mission
 
 ID=50000
 Mission Accepted
@@ -18737,7 +18737,7 @@ ID=52310
 所持金[ジェニー/Y.P/BP/ヨミの秘蔵庫ポイント]が不足しているため、アイテム購入に失敗しました。
 
 ID=52311
-Failed to purchase item: Inventory full
+Can't purchase item: Inventory full
 
 ID=52312
 You cannot sell this item.
@@ -18752,7 +18752,7 @@ ID=52315
 GMs cannot use the store.
 
 ID=52316
-Failed to purchase item: Insufficient S coin
+Can't purchase item: Insufficient S coin
 
 ID=52317
 Failed to purchase this item. Please try again.
@@ -18863,7 +18863,7 @@ ID=52440
 You cannot open any more personal shops within the channel.
 
 ID=52441
-Failed to purchase item: Insufficient inventory space
+Can't purchase item: Inventory full
 
 ID=52442
 Other players are currently using the Personal Shop.
@@ -19913,7 +19913,7 @@ ID=58211
 You now have a room. 
 
 ID=58212
-Your furniture storage is full.\nPlease remove the items as necessary.
+家具インベントリがいっぱいです。\nインベントリの空きを確保してください。
 
 ID=58213
 There is no flower pot.
@@ -20294,7 +20294,7 @@ ID=60143
 STAGE
 
 ID=60144
-Repeat Count ({0}/{1})
+Repeats ({0}/{1})
 
 ID=60201
 FORCE Ranking
@@ -20765,10 +20765,10 @@ ID=53212
 Only the brooch set effects in "Actual" are being applied.
 
 ID=5061
-「闘志のソウラムソード」にクラスアップグレードしました。
+Class advanced to [Soulum Sword of Spirit].
 
 ID=5062
-「誓いのガンジャズ」にクラスアップグレードしました。
+Class advanced to [Gun Jazz of Oath].
 
 ID=5090
 以下の新規スキルを習得できます。
@@ -21884,7 +21884,7 @@ ID=40712
 まもなく、メイズの外へ自動遷移されます。
 
 ID=5063
-「覚悟のミストサイス」にクラスアップグレードしました。
+Class advanced to [Mist Scythe of Resolve].
 
 ID=24331
 A.R Card Crafting Special Ticket
@@ -22013,10 +22013,10 @@ ID=10540
 The Best Toy
 
 ID=20167
-Take a pose.
+Strike a pose.
 
 ID=20168
-{0}takes a pose.
+{0} strikes a pose.
 
 ID=20166
 韓服2
@@ -22043,7 +22043,7 @@ ID=45143
 確認する
 
 ID=45144
-着用可能装備のみ表示
+Show wearable equipment
 
 ID=45145
 Search
@@ -22202,7 +22202,7 @@ ID=60510
 Required FP
 
 ID=60511
-参加回数
+Moves
 
 ID=60512
 順位報酬
@@ -22313,7 +22313,7 @@ ID=60548
 Ranking Info
 
 ID=60549
-参加回数
+Moves
 
 ID=60550
 ※ 更新 ： 毎時間定刻\n※ 初期化 ： 毎月1日の午前9時
@@ -22424,7 +22424,7 @@ ID=53206
 現在の状態ではオペレーションに参加できません。
 
 ID=53207
-アイテム購入失敗：ゼノコインが不足しています。
+Can't purchase item: Insufficient Xenostone
 
 ID=53213
 オペレーションオープン時間ではありません。
@@ -22589,7 +22589,7 @@ ID=18312
 Event
 
 ID=5065
-「希望のハウリングギター」にクラスアップグレードしました。
+Class advanced to [Howling Guitar of Aspiration].
 
 ID=60612
 登録基本報酬
@@ -22715,16 +22715,16 @@ ID=19852
 Stellar Symphony
 
 ID=22692
-Display Help Pop-up
+Help Pop-up
 
 ID=22693
-Display Sub Weapon
+Sub Weapon
 
 ID=3077
 相手が取引内容を変更した為、登録確認を取り消します。
 
 ID=5064
-「信頼のスピリットアームズ」にクラスアップグレードしました。
+Class advanced to [Spirit Arms to Conviction].
 
 ID=38026
 エーテル獲得確率{0}%増加
@@ -23054,7 +23054,7 @@ ID=41387
 Disassemble item 13 times
 
 ID=5066
-「勇猛のハンマーストール」にクラスアップグレードしました。
+Class advanced to [Hammerstol of Valor].
 
 ID=18761
 Select Item
@@ -23069,7 +23069,7 @@ ID=18764
 Accept
 
 ID=110000
-使用回数
+Uses
 
 ID=110001
 回目使用
@@ -23132,7 +23132,7 @@ ID=41399
 Clear [Junk Pool EP 4 Normal] 3 times
 
 ID=41400
-Clear Breakout EP3 Normal 3 times
+Clear [Breakout EP 3 Normal] 3 times
 
 ID=41401
 Clear [Front Line EP 1 Normal] 2 times
@@ -24860,7 +24860,7 @@ ID=42607
 Soulum Sword of Revenge, Haru
 
 ID=42608
-Soulum Sword of Fighting Spirit, Haru
+Soulum Sword of Spirit, Haru
 
 ID=42609
 Haru μ
@@ -24869,7 +24869,7 @@ ID=42610
 Soulum Sword of Revenge, Haru μ
 
 ID=42611
-Soulum Sword of Fighting Spirit, Haru μ
+Soulum Sword of Spirit, Haru μ
 
 ID=42612
 Erwin
@@ -25925,7 +25925,7 @@ ID=42721
 Starry Forest Soldier, Emil
 
 ID=42722
-Faithful to his Close Friend, Emil
+Faithful Friend, Emil
 
 ID=42723
 Emil μ
@@ -25934,7 +25934,7 @@ ID=42724
 Starry Forest Soldier, Emil μ
 
 ID=42725
-Faithful to his Close Friend, Emil μ
+Faithful Friend, Emil μ
 
 ID=42726
 Allen
@@ -26891,7 +26891,7 @@ ID=710023
 Cat Costume
 
 ID=5067
-「決意のディスペーロア」にクラスアップグレードしました。
+Class advanced to [Despair Roar of Ambition].
 
 ID=772001
 Mutual Arrows of Ambition
@@ -26963,7 +26963,7 @@ ID=42763
 Despair Roar of Desire, Chii
 
 ID=42764
-Despair Roar of Determination, Chii
+Despair Roar of Ambition, Chii
 
 ID=42765
 Chii μ
@@ -26972,7 +26972,7 @@ ID=42766
 Despair Roar of Desire, Chii μ
 
 ID=42767
-Despair Roar of Determination, Chii μ
+Despair Roar of Ambition, Chii μ
 
 ID=43424
 [S] Chii
@@ -27185,7 +27185,7 @@ ID=67013
 View Previous Rankings
 
 ID=67014
-View Current Rankings
+Current Rankings
 
 ID=67015
 Preview
@@ -27950,7 +27950,7 @@ ID=600001
 Quest Commission
 
 ID=600002
-Repeat Count: [{0}/{1}]
+Repeats: [{0}/{1}]
 
 ID=9711
 Candus City W
@@ -28436,7 +28436,7 @@ ID=1456
 連続強化中止
 
 ID=1457
-反復回数
+Repeats
 
 ID=1458
 目標強化
@@ -28586,7 +28586,7 @@ ID=66019
 累積ログイン期間
 
 ID=66020
-メイズクリア回数
+Dungeon Clears
 
 ID=66021
 {0}:{1}
@@ -28946,7 +28946,7 @@ ID=18730
 拡声器が足りません。
 
 ID=5068
-「刷新のボミングスピア」にクラスアップグレードしました。
+Class advanced to [Bombing Spear of Reform].
 
 ID=49502
 Restart Dungeon
@@ -28991,7 +28991,7 @@ ID=37140
 World Boss
 
 ID=37141
-全サーバー討伐回数
+Total Server Kills
 
 ID=37142
 Item Drops List
@@ -29000,7 +29000,7 @@ ID=37143
 討伐報酬リスト
 
 ID=37144
-全サーバー討伐回数別報酬
+Total Server Kills Reward
 
 ID=37145
 サーバー全体で討伐された回数分のブーストを支給します。
@@ -29120,7 +29120,7 @@ ID=1608
 Time Limit
 
 ID=1609
-合計ポイント
+Total Points
 
 ID=1610
 勝利しました。
@@ -29147,7 +29147,7 @@ ID=1615
 5秒後スタート
 
 ID=1616
-私の番です。
+My turn.
 
 ID=1617
 よし！
@@ -30101,7 +30101,7 @@ ID=10050
 [BETA] Battle Room
 
 ID=1527
-PvP Lv.{0}(Exp.{1}▲)
+PvP Lv.{0} (Exp. {1} ▲)
 
 ID=1532
 マッチング完了時に使用しているソーシャルアイテムが使用できなくなる場合があります。入場しますか？
@@ -30152,7 +30152,7 @@ ID=58605
 ギルドの重要メンバーのみ、ギルドレイドを活性化できます。
 
 ID=58606
-ギルド資金が不足しているため、レイドを活性化できません。
+Cannot unlock Raid due to insufficient Guild funds.
 
 ID=58607
 週間ギルドレイドの活性化回数をすべて使用しました。
@@ -30170,34 +30170,34 @@ ID=29200
 Legion Invader
 
 ID=38100
-ギルドレイド
+Guild Raid
 
 ID=38101
-ギルドレイドランキング
+Guild Raid Ranking
 
 ID=38102
-私のギルドランキング
+My Ranking
 
 ID=38103
-ギルドレイド残り活性化回数{0}
+Remaining Guild Raid {0}
 
 ID=38104
-レイド活性化
+Unlock Raid
 
 ID=38105
 Enter
 
 ID=38106
-レイド合計ポイント[{0}]
+Total Raid Points [{0}]
 
 ID=38107
-私のポイント[{0}]
+My Points [{0}]
 
 ID=38108
-ギルド資金{0}消耗
+Used {0} Guild funds
 
 ID=38109
-{0}ポイント以上
+At least {0} Points
 
 ID=38110
 選択したギルドレイドを活性化しますか？
@@ -30212,13 +30212,13 @@ ID=38113
 {0}日{1}時{2}分まで
 
 ID=38114
-ギルド管理
+Manage Guild
 
 ID=38115
 Transfer Guild Mastership
 
 ID=38116
-ギルド解体
+Disband Guild
 
 ID=38117
 当該エリアではギルドレイドに入場できません。
@@ -30263,10 +30263,10 @@ ID=28725
 Guild Mark Change Ticket
 
 ID=35118
-{0}ギルド資金
+{0} Guild funds
 
 ID=52326
-アイテム購入失敗：ギルド資金不足
+Can't purchase item: Insufficient Guild funds
 
 ID=58611
 Cannot leave or be kicked from the Guild if have a Guild Raid record.
@@ -30329,13 +30329,13 @@ ID=52088
 {0}秒後にキャラクター選択画面に移動します。
 
 ID=24342
-LV.ジャンプアイテム
+LV. Jump Item
 
 ID=24680
-LV.ジャンプアイテム
+LV. Jump Item
 
 ID=1528
-制限なし
+Unlimited
 
 ID=1529
 ({0}/{1})
@@ -30359,7 +30359,7 @@ ID=31206
 他の親善試合を受諾しています。
 
 ID=65291
-ランク表示
+Rank
 
 ID=65292
 ソロメイズポイント合計ランキングを算定してランクを獲得できます。
@@ -30371,13 +30371,13 @@ ID=52620
 このアイテムは町でのみ使用できます。
 
 ID=71001
-5周年パス
+5th Anniv. Pass
 
 ID=70001
 パスアップグレード券を{0}Y.Pで購入します。
 
 ID=70002
-保有Y.P
+Y.P Owned
 
 ID=70003
 <font color='#FF0000'>※該当商品は購入するとキャンセルできません。
@@ -30395,7 +30395,7 @@ ID=70007
 パス期間：{0}年{1}月{2}日{3}時まで
 
 ID=70008
-パスアップグレード
+Pass Upgrade
 
 ID=70009
 {0} Y.P
@@ -30413,7 +30413,7 @@ ID=70013
 ※パス終了後、受領していない報酬は復旧されません。
 
 ID=70014
-ソウルパス
+Soul Pass
 
 ID=70015
 報酬がメールで発送されました。メールをご確認ください。
@@ -30425,7 +30425,7 @@ ID=70017
 プレミアム適用中
 
 ID=70018
-Complete！
+Complete!
 
 ID=55128
 パス進行期間ではないため使用できません。
@@ -30458,10 +30458,10 @@ ID=70100
 Daily Mission
 
 ID=70101
-パスミッション
+Pass Mission
 
 ID=18251
-5周年ウィークリーミッション
+5th Anniv. Weekly Mission
 
 ID=41528
 ワールドレイド時間厳守！
@@ -30470,46 +30470,46 @@ ID=41529
 ザ・ドゥームレイド参加{0}回
 
 ID=56100
-ヒーローモード
+Hero Mode
 
 ID=56101
-ヒーローモード報酬
+Hero Mode Reward
 
 ID=56102
-クリア報酬ボックス
+Clear Reward Box
 
 ID=56103
-チャレンジオプション報酬
+Challenge Option Reward
 
 ID=56104
 ※チャレンジオプション報酬は選択したオプションの数に応じて支給されます。\n\nヒーローメイズをクリアすることで報酬を獲得できます。
 
 ID=56105
-ヒーローモードチャレンジオプション
+Hero Mode Challenge Option
 
 ID=56106
-イロージョン/覚醒スキル使用不可
+Can't use Erosion / Awakening Skill
 
 ID=56107
-HP回復スキル/消費アイテム未適用
+HP Recovery Skill / Consumables Unusable
 
 ID=56108
-A.Rカード適用不可
+A.R Card Unusable
 
 ID=56109
-モンスターが受けるダメージ半減
+Halves Damage from Enemies
 
 ID=56110
-モンスターのクリティカル率増加
+Enemies' Critical ↑
 
 ID=56111
-すべてのモンスターが10秒ごとにHP5%回復
+Enemies +5% HP every 10s
 
 ID=56112
 Info
 
 ID=56113
-輝くエーテルライト結晶
+Shiny Etherite Crystal
 
 ID=56114
 入場人数
@@ -30524,10 +30524,10 @@ ID=654
 予備
 
 ID=49112
-予備
+閲覧
 
 ID=49113
-予備
+閲覧
 
 ID=60298
 緊急事態発生！「ザ・シング」出現{0}分{1}秒前！支援を要請します！
@@ -30560,7 +30560,7 @@ ID=56124
 Hero
 
 ID=49114
-予備
+メイズ内部ではメモリアルを閲覧できません
 
 ID=40323
 エナジーコアを3つ破壊するたびに、短い間SA破壊力が大きく上昇します。
@@ -30569,46 +30569,46 @@ ID=55138
 Roulette
 
 ID=55139
-ジャンケン
+Janken
 
 ID=55140
-ホームラン
+Homerun
 
 ID=55141
-ファウル
+Foul
 
 ID=55142
-アウト
+Out
 
 ID=55143
 一日使用可能回数
 
 ID=55144
-ゲームスタート
+Game Start
 
 ID=55145
-ゲーム進行中…
+Ongoing...
 
 ID=55146
-インベントリに支給されました。
+Sent to inventory.
 
 ID=55147
-続ける
+Continue
 
 ID=55148
-イベント期間：{0}年{1}月{2}日～{3}年{4}月{5}日メンテナンス前
+Event Period: {0}/{1}/{2} ~ {3}/{4}/{5}, before maintenance
 
 ID=55149
 イベント期間ではありません。
 
 ID=55150
-使用回数を使い切りました。
+Used up all tries.
 
 ID=55151
 Lacking required item.
 
 ID=55152
-インベントリを2スロット以上空けてください。
+Free at least 2 inventory slots.
 
 ID=55153
 エラーが発生しました。しばらくしてからもう一度お試しください。
@@ -30617,10 +30617,10 @@ ID=55154
 Time Left
 
 ID=70019
-[EV]完璧なサイコロ
+[EV] Flawless Die
 
 ID=70020
-ガイドマップ
+Guide Map
 
 ID=70021
 GOAL
@@ -30656,64 +30656,64 @@ ID=70030
 {0}回報酬
 
 ID=710052
-スプリングピクニック
+Spring Picnic
 
 ID=710053
-小さくて大切なプリースト・ハル
+Small & Lovely Priest, Haru
 
 ID=710054
-小さくて大切なレンジャー・アーウィン
+Small & Lovely Ranger, Erwin
 
 ID=710055
-小さくて大切なアルケミスト・リリー
+Small & Lovely Alchemist, Lily
 
 ID=710056
-小さくて大切なシーフ・ジン
+Small & Lovely Thief, Jin
 
 ID=710057
-小さくて大切なナイト・ステラ
+Small & Lovely Knight, Stella
 
 ID=710058
-小さくて大切な勇者・イリス
+Small & Lovely Hero, Iris
 
 ID=710059
-小さくて大切なマジシャン・チイ
+Small & Lovely Magician, Chii
 
 ID=710060
-小さくて大切な吟遊詩人・エフネル
+Small & Lovely Bard, Ephnel
 
 ID=710061
-小さくて大切なソードマン・ナビ
+Small & Lovely Swordswoman, Nabi
 
 ID=710062
-プリースト・ハル
+Priest Haru
 
 ID=710063
-レンジャー・アーウィン
+Ranger Erwin
 
 ID=710064
-アルケミスト・リリー
+Alchemist Lily
 
 ID=710065
-シーフ・ジン
+Thief Jin
 
 ID=710066
-ナイト・ステラ
+Knight Stella
 
 ID=710067
-勇者・イリス
+Hero Iris
 
 ID=710068
-マジシャン・チイ
+Magician Chii
 
 ID=710069
-吟遊詩人・エフネル
+Bard Ephnel
 
 ID=710070
-ソードマン・ナビ
+Swordswoman Nabi
 
 ID=70031
-すごろくゲーム
+Sugoroku Game
 
 ID=11724
 グレイトン
@@ -30728,67 +30728,67 @@ ID=5969
 <font color='#FFFFFF'><font size="30">TIP。</font>ジャンククイーンのHPが一定まで減ると、クイーンを支援するためにアキュラスとエドガーが現れます。
 
 ID=9899
-ルナ・フォール:ヒーロー
+Lunar Fall: Hero
 
 ID=10028
 さらに強くて変化したパターンが発生する「ルナ・フォール：ヒーロー」は、フォースメンバーと連携しなければ攻略がむずかしくなります。
 
 ID=67112
-スケアリーデイドリーム[H/T]
+Scary Daydream [H/T]
 
 ID=39001
-キャラクター情報
+Character Info
 
 ID=39002
-アカウント情報
+Account Info
 
 ID=39003
-作成日
+Creation Date
 
 ID=39004
-{0}年{1}月{2}日
+{0}/{1}/{2}
 
 ID=39005
-プレイ時間
+Play Time
 
 ID=39006
 {0}h {1}m
 
 ID=39007
-ログイン回数
+Logins
 
 ID=39008
 {0}d
 
 ID=39009
-累計メイズクリア回数
+Total Dungeon Clears
 
 ID=39010
 {0}
 
 ID=39011
-累計モンスター討伐回数
+Total Enemy Kills
 
 ID=39012
 {0}
 
 ID=39013
-累計死亡回数
+Total Deaths
 
 ID=39014
 {0}
 
 ID=39015
-ヴァイオレント・サンフェーズ3クリア回数
+Violent Sun P3 Clears
 
 ID=39016
-ルナ・フォールクリア回数
+Lunar Fall Clears
 
 ID=24341
-顔
+Look
 
 ID=24681
-顔
+Look
 
 ID=55123
 設定済みの背景です。
@@ -30845,25 +30845,25 @@ ID=80116
 代表キャラクター確定
 
 ID=80117
-ハル・エスティア
+Haru Estia
 
 ID=80118
-アーウィン・アークライト
+Erwin Arclight
 
 ID=80119
-リリー・ブルームメルヘン
+Lily Bloommerchen
 
 ID=80120
-ステラ・ユニベル
+Stella Unibell
 
 ID=80121
-イリス・ユマ
+Iris Yuma
 
 ID=80122
-ジン・セイパーツ
+Jin Seipatsu
 
 ID=80123
-チイ・アルエル
+Chii Aruel
 
 ID=80124
 Ephnel
@@ -30920,19 +30920,19 @@ ID=5539
 年齢：17歳\n誕生日：10月10日\n異名：不屈のボミングスピア\n使用武器：ソウルウェポンスピア\n\nスタート位置：カンダスシティ
 
 ID=80145
-プロモーション
+Promotion
 
 ID=80146
 General
 
 ID=80147
-昇級
+Advancement
 
 ID=80148
 Desire Awakening
 
 ID=80149
-作成日
+Creation Date
 
 ID=5522
 Applied
@@ -30941,37 +30941,37 @@ ID=3125
 キャラクター選択画面背景'{0}'の追加が完了しました。\n追加された背景はキャラクター選択画面のキャラクター設定で確認できます。
 
 ID=4025
-フレンド接続
+Friend Alarm
 
 ID=4026
-{0}さんが接続しました。
+{0} logged in.
 
 ID=4027
-ギルドメンバー接続
+Guild Member Alarm
 
 ID=4028
-ギルドメンバー{0}さんが接続しました。
+Guild Member {0} logged in.
 
 ID=8408
-フレンド{0}さんが接続しました。
+Friend {0} logged in.
 
 ID=8409
-ギルドメンバー{0}さんが接続しました。
+Guild Member {0} logged in.
 
 ID=22240
-フレンド接続アラーム
+Friend Login Alarm
 
 ID=22241
-ギルドメンバー接続アラーム
+Guild Member Login Alarm
 
 ID=22242
 Community
 
 ID=710071
-モーモールック
+Moo-Moo Look
 
 ID=20254
-モーモー
+Moo-Moo
 
 ID=20255
 牛乳をおいしく飲みます。
@@ -30980,118 +30980,262 @@ ID=20256
 {0}さんが牛乳をおいしく飲みます。
 
 ID=98
-ナビ
+Nabi
 
 ID=24912
-ライフル
+Rifle
 
 ID=5448
 使用する武器はライフル。\n強力な一発をお見舞いし、敵に甚大なダメージを与える。
 
 ID=24913
-ナビ
+Nabi
 
 ID=18616
-ヒットアンドラン
+Hit and Run
 
 ID=18617
-ブラックアウト
+Blackout
 
 ID=18618
-リロード
+Reload
 
 ID=18619
-スネーキングショットガン
+Snaking Shotgun
 
 ID=18620
-アシッドガス
+Acid Gas
 
 ID=18621
-バーストドライバー
+Burst Driver
 
 ID=18622
-フラッグボム
+Frag Bomb
 
 ID=18623
-ハニービー
+Honey Bee
 
 ID=18624
-クローズクォーターズコンバット
+Close Quarters Combat
 
 ID=18625
-チェーンソー
+Chainsaw
 
 ID=18626
-グレネードランチャー
+Grenade Launcher
 
 ID=18627
-セーブエナジー
+Save Energy
 
 ID=18628
-ラストストライク
+Last Strike
 
 ID=10143
-クラウドボーダー
+Cloud Border
 
 ID=10144
-ブロークンウェイ
+Broken Way
 
 ID=10145
-タワーオブロード
+Tower of Lord
 
 ID=10598
-軍事境界線
+Armistice Line
 
 ID=10599
-人足絶えし道
+Forsaken Passage
 
 ID=10600
-怪物の領域
+Monsters' Territory
 
 ID=10601
-境界線の外側
+Past the Border
 
 ID=10602
-狙われた村
+Targeted Village
 
 ID=10603
-消えかかる炎
+Fading Flames
 
 ID=10604
-戦場の悪臭
+Miasma at the Battlefield
 
 ID=10605
-最終任務
+Last Mission
 
 ID=1067
-ブライドミドルボリュームヘア
+Braided Middle Volume Hair
 
 ID=40845
 戦闘開始前に、装備とスキルを確認してください。
 
 ID=1068
-アンバランスミドルボリュームヘア
+Unbalanced Middle Volume Hair
 
 ID=1069
 Soft Bob Cut
 
 ID=791001
-服従のロイヤルライフル
+Royal Rifle of Resignation
 
 ID=792001
-解き放つ忠義の銃身
+Liberating Rifle of Loyalty
 
 ID=80125
-ナビ
+Nabi
 
 ID=5531
-服従のロイヤルライフル
+Royal Rifle of Resignation
 
 ID=5540
 年齢：19才\n誕生日：4月15日\nニックネーム：服従のロイヤルライフル\n使用武器：ソウルウェポン ライフル\n\nスタート位置：タワーオブロード
 
 ID=10146
-レストルーム
+Rest Room
 
 ID=5069
-「忠義のロイヤルライフル」にクラスアップグレードしました。
+Class advanced to [Royal Rifle of Loyalty].
+
+ID=710048
+Goddess on this Wonderful World!
+
+ID=710049
+Explosion Wizard on this Wonderful World!
+
+ID=710050
+Poor Loner on this Wonderful World!
+
+ID=170051
+Adventurer on this Wonderful World!
+
+ID=20251
+Crimson Demon Clan's Intro
+
+ID=20252
+Hold hands up and strikes a daring pose.
+
+ID=20253
+{0} holds hands up and strikes a daring pose.
+
+ID=42798
+Nabi
+
+ID=42799
+Royal Rifle of Resignation, Nabi
+
+ID=42800
+Royal Rifle of Loyalty, Nabi
+
+ID=42801
+Nabi μ
+
+ID=42802
+Royal Rifle of Resignation, Nabi μ
+
+ID=42803
+Royal Rifle of Loyalty, Nabi μ
+
+ID=43434
+Nabi
+
+ID=43435
+Nabi
+
+ID=23006
+Expand FOV
+
+ID=2132
+There's a Party request from a blocked user.
+
+ID=22243
+Show Chat Time
+
+ID=22244
+Skill Hit Streak Assist
+
+ID=18252
+Summer Weekly Mission
+
+ID=35119
+使用間隔制限により、5秒間ジェスチャーが使用できません。\n-残り：{0}秒-
+
+ID=710074
+Summer Memory
+
+ID=71002
+Soul Pass Season 2
+
+ID=2150
+Dismantle
+
+ID=2151
+分解時ジェスチャー/イコライザー習得アイテム獲得可能
+
+ID=2152
+個別分解時ジェスチャー/イコライザー習得アイテム獲得不可
+
+ID=2153
+コスチュームを分解しますか？\n\n<font color='#FF0000'>分解したコスチュームは削除されます。
+
+ID=2154
+インベントリの空きを確認してください。
+
+ID=2155
+このコスチュームは個別分解時にジェスチャー/イコライザー習得アイテムを獲得できません。\nコスチュームを分解しますか？\n\n<font color='#FF0000'>分解したコスチュームは削除されます。
+
+ID=2156
+このコスチュームは登録できません。
+
+ID=2157
+登録したコスチュームに染色されたコスチュームがあります。\nコスチュームを分解しますか？\n\n<font color='#FF0000'>分解したコスチュームは削除されます。
+
+ID=2158
+{0}でジェスチャースロットを拡張しますか？
+
+ID=2159
+{0}がないためジェスチャースロットを拡張できません。
+
+ID=2160
+このジェスチャーはすでに所持しています。
+
+ID=2161
+このイコライザーはすでに所持しています。
+
+ID=2162
+分解結果
+
+ID=2163
+Dismantle
+
+ID=2164
+Slot Expansion
+
+ID=2165
+分解[{0}]
+
+ID=52091
+このコスチュームは分解できません。
+
+ID=52092
+これ以上ジェスチャースロットを拡張できません。
+
+ID=2166
+コスチュームを登録してください。
+
+ID=2167
+{0}ジェスチャーを習得しました。
+
+ID=2168
+{0}イコライザーを習得しました。
+
+ID=2169
+コスチュームを解除してください。
+
+ID=20232
+양치질
+
+ID=20233
+양치질을 열심히 합니다.
+
+ID=20234
+{0}님께서 양치질을 열심히 합니다.
