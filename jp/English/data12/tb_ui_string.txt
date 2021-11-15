@@ -1436,13 +1436,13 @@ ID=759
 <font color='#FF0000'>Bound on Acquisition</font>
 
 ID=760
-<font color='#FF0000'>Bounded Item</font>
+<font color='#FF0000'>Bound Item</font>
 
 ID=761
 <font color='#FF0000'>Untradable</font>
 
 ID=762
-<font color='#FF0000'>Untradable (Bounded)</font>
+<font color='#FF0000'>Untradable (Bound)</font>
 
 ID=763
 <font color='#FF0000'>Unsellable</font>
@@ -1892,7 +1892,7 @@ ID=942
 Bound on Acquisition
 
 ID=943
-Bounded Item
+Bound Item
 
 ID=946
 <font color='#FF0000'>Unsellable</font>
@@ -19571,7 +19571,7 @@ ID=55303
 Item cannot be traded.
 
 ID=55304
-Cannot attach bounded items.
+Cannot attach bound items.
 
 ID=55305
 The maximum number of item attachments has been reached. 
@@ -23243,7 +23243,7 @@ ID=40738
 攻撃を行ってくるふーちゃんは、必ずしも相手をする必要はありません。
 
 ID=40739
-使用しているオブジェクトによって召喚されるモンスターが決定され、オブジェクトは1回のみ使用可能です。
+使用するオブジェクトによって召喚されるモンスターが決定され、オブジェクトは1回のみ使用可能です。\nイリスとジンは他のモンスターよりも高いレベルと能力値を保有しています。
 
 ID=40740
 まもなく、狂気に染まった少女が召喚されます。ご注意ください。
@@ -23252,7 +23252,7 @@ ID=40741
 まもなく、悲しみに沈んだ少女とふーちゃんが召喚されます。ご注意ください。
 
 ID=40742
-まもなく、狂気に染まった少女と悲しみに沈んだ少女、ふーちゃんが召喚されます。ご注意ください。
+まもなく猛烈な憤怒の少女が召喚されます。ご注意ください。
 
 ID=40743
 恐怖に染まった目…素敵ですわね。おひとついただけます？
@@ -29711,7 +29711,7 @@ ID=40830
 Everything is all about power! And more power! And finally, even more power!
 
 ID=40831
-Hot, isn't it? Why not take it all of to make things easier?\nI'll burn you all into oblivion.
+Hot, isn't it? Why not take it everything off and make things easier?\nI'll burn you all into oblivion.
 
 ID=40832
 Kuhaha! You guys are pretty amusing, huh!
@@ -30491,7 +30491,7 @@ ID=56106
 Can't use Erosion / Awakening Skill
 
 ID=56107
-HP Recovery Skill / Consumables Unusable
+HP回復スキル未適用/消費アイテム使用不可
 
 ID=56108
 A.R Card Unusable
@@ -30521,7 +30521,7 @@ ID=56116
 PCが受ける全ダメージ50%増加
 
 ID=654
-予備
+パーティーリーダーがメイズ入場を要請しています。入場しますか？\n入場エリア：[{0}]\n適用されたチャレンジオプション：[{1}]\n-残り時間：{2}秒-
 
 ID=49112
 閲覧
@@ -31097,16 +31097,16 @@ ID=5069
 Class advanced to [Royal Rifle of Loyalty].
 
 ID=710048
-Goddess on this Wonderful World!
+素晴らしい世界の女神
 
 ID=710049
-Explosion Wizard on this Wonderful World!
+素晴らしい世界の爆裂ウィザード
 
 ID=710050
-Poor Loner on this Wonderful World!
+素晴らしい世界のぼっちな常識人
 
 ID=170051
-Adventurer on this Wonderful World!
+素晴らしい世界の冒険者
 
 ID=20251
 Crimson Demon Clan's Intro
@@ -31232,10 +31232,52 @@ ID=2169
 コスチュームを解除してください。
 
 ID=20232
-양치질
+歯磨き
 
 ID=20233
-양치질을 열심히 합니다.
+歯磨きをします。
 
 ID=20234
-{0}님께서 양치질을 열심히 합니다.
+{0}様が歯磨きをします。
+
+ID=52073
+メイズ入場回数を消耗していないため回復できません。
+
+ID=52074
+{0}メイズ入場回数が「1」回復しました。
+
+ID=43436
+[S]クロエ
+
+ID=43437
+[SH]クロエ
+
+ID=42804
+クロエ
+
+ID=42805
+オペレータークロエ
+
+ID=42806
+戦場の導き手クロエ
+
+ID=42807
+クロエμ
+
+ID=42808
+オペレータークロエμ
+
+ID=42809
+戦場の導き手クロエμ
+
+ID=10606
+穢された勇猛の記録
+
+ID=10607
+穢された憤怒の記録
+
+ID=10608
+穢された団結の記録
+
+ID=10609
+穢された情熱の記録
