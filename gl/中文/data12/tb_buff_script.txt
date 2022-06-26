@@ -18,7 +18,7 @@ Icon/Buff/Icon_Common_Buff_Immun
 
 ID=15
 顧客獎勵
-攻撃力と防御度がそれぞれ20%増加する。
+攻击力与防御力各20%提高
 Icon/Buff/Icon_Common_Buff_Reg
 強化
 
@@ -48,7 +48,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=103
 増強
-10秒間、攻撃力が10%増加する。
+10秒内、提高攻击力10%
 Icon/Buff/Icon_Common_Buff_ATK
 0
 
@@ -120,13 +120,13 @@ HP回復
 
 ID=302
 防御崩坏
-10秒間、攻撃力が10%増加する。
+10秒内、提高攻击力10%
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=303
 防御模式
-10秒間、防御度が10%増加する。
+HP毎秒回复10%。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -984,19 +984,19 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_CruelSlash_A
 
 ID=6031
 クルエルスラッシュ特性BI
-クリティカルダメージが100%増加する。
+增加暴击伤害100%。
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_CruelSlash_B
 暴擊率增加
 
 ID=6032
 クルエルスラッシュ特性BII
-クリティカルダメージが150%増加する。
+增加暴击伤害150%。
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_CruelSlash_B
 暴擊率增加
 
 ID=6033
 クルエルスラッシュ特性BIII
-クリティカルダメージが200%増加する。
+增加暴击伤害200%。
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_CruelSlash_B
 暴擊率增加
 
@@ -1038,19 +1038,19 @@ Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 
 ID=6042
 フォースリージョンII
-クリティカル率が7%増加する。
+暴擊率增加7%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 暴擊率增加
 
 ID=6043
 フォースリージョンIII
-クリティカル率が9%増加する。
+暴击率增加9%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 暴擊率增加
 
 ID=6044
 フォースリージョンIV
-クリティカル率が12%増加する。
+暴击率增加12%
 Icon/Skill/Mistscythe/Icon_Mcythe_Skill_ForceRegion
 暴擊率增加
 
@@ -1116,7 +1116,7 @@ Icon/Buff/Icon_Common_Debuff_Paralysis
 
 ID=6070
 侵食
-クリティカル攻撃力が150%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+暴击攻撃力150%増加。\n移動速度20%増加。\nSA状态。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1470,7 +1470,7 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=7000
 觉醒
-攻撃力が100%増加する。\n移動速度が20%増加する。\nSA状態になる。
+攻击力增加100%。\n移动速度增加20%。\nSA状态。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1494,31 +1494,31 @@ Icon/Buff/Icon_Common_Debuff_Provoke
 
 ID=7026
 スピリットサージI
-一定時間、防御度が25%増加する。
+一定时内、防御力25%提高
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge
 防御度増加
 
 ID=7027
 スピリットサージII
-一定時間、防御度が30%増加する。
+一定时内、防御力30%提高
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge
 防御度増加
 
 ID=7028
 スピリットサージIII
-一定時間、防御度が40%増加する。
+一定时内、防御力40%提高
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge
 防御度増加
 
 ID=7029
 スピリットサージIV
-一定時間、防御度が50%増加する。
+一定时间内、防御力50%提高
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge
 防御度増加
 
 ID=7030
 スピリットサージV
-一定時間、防御度が70%増加する。
+一定时间内、防御力70%提高
 Icon/Skill/SpritArms/Icon_Sprit_Skill_SpiritSurge
 防御度増加
 
@@ -1650,7 +1650,7 @@ SG恢复50%。
 
 ID=7080
 侵食
-攻撃力が50%増加する。\n移動速度が20%増加する。\nスーパーアーマー状態になる。
+攻撃力50%増加。\n移動速度20%増加。\nSA状态。
 Icon/Buff/Icon_Common_Buff_BreakErode
 0
 
@@ -1776,7 +1776,7 @@ Icon/Buff/Icon_Common_Buff_BreakErode
 
 ID=7531
 限界解除I
-攻撃力が50%増加する。
+攻撃力50%増加。
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_LimitBrake
 限界解除
 
@@ -1788,7 +1788,7 @@ Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_LimitBrake
 
 ID=7533
 限界解除Ⅲ
-攻撃力が100%増加する。
+攻击力增加100%。
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_LimitBrake
 限界解除
 
@@ -2100,49 +2100,49 @@ SG回復
 
 ID=21001
 怒涛
-5分間、攻撃力が5%増加する。
+5分内、攻击力提高5%
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=21002
 怒涛
-5分間、攻撃力が7%増加する。
+5分内、攻击力提高7%
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=21003
 怒涛
-5分間、攻撃力が10%増加する。
+5分内、攻击力提高10%
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=21004
 怒涛
-3分間、攻撃力が5%増加する。
+3分内、攻击力提高5%
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=21011
 強靭
-5分間、防御度が20%増加する。
+5分内、防御力20%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=21012
 強靭
-5分間、防御度が30%増加する。
+5分内、防御力30%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=21013
 強靭
-5分間、防御度が40%増加する。
+5分内、防御力40%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
 ID=21014
 強靭
-3分間、防御度が20%増加する。
+3分内、防御力20%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -2220,13 +2220,13 @@ Icon/Buff/Icon_Common_Buff_SArmor
 
 ID=22001
 怒涛
-5分間、攻撃力が12%増加する。
+5分内、攻击力提高12%
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=22002
 強靭
-5分間、防御度が50%増加する。
+5分内、防禦力提高50%
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -2244,7 +2244,7 @@ Icon/Buff/Icon_Common_Buff_CRI
 
 ID=22005
 怒涛/強靭
-5分間、攻撃力が15%、防御度が100%増加する。
+5分内、攻击力15%、防御力100%提高
 Icon/Buff/Icon_Common_Buff_Reg
 強化
 
@@ -2286,13 +2286,13 @@ HP、SG回復
 
 ID=22012
 HP増加
-5分間、HPが30%増加する。
+5分鐘內，HP增加30%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP増加
 
 ID=22013
 HP増加
-5分間、HPが50%増加する。
+5分鐘內，HP增加50%
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP増加
 
@@ -2310,13 +2310,13 @@ Icon/Buff/Icon_Common_Buff_SG_Recovery
 
 ID=25001
 怒涛
-1分間、攻撃力が5%増加する。
+1分内、攻击力5%提高
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=25002
 強靭
-1分間、防御度が30%増加する。
+1分内、防御力30%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -2622,7 +2622,7 @@ Icon/Buff/Icon_Common_Debuff_MSR
 
 ID=30063
 怒涛/強靭
-攻撃力と防御度がそれぞれ10%増加する。
+攻击力和防御力各自增加10%
 Icon/Buff/Icon_Common_Buff_Reg
 強化
 
@@ -2844,7 +2844,7 @@ HP減少
 
 ID=30473
 攻撃力増加
-60秒間、攻撃力が10%増加する。
+60秒内。攻击力增加10%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
@@ -2898,7 +2898,7 @@ Icon/Buff/Icon_Common_Buff_Immun
 
 ID=35004
 靈魂能量增幅
-30秒間、プレイヤーの攻撃力2000%増加
+30秒内，玩家的攻击力增加2000%
 Icon/Buff/Icon_Common_Buff_ATK
 攻擊力大幅度增強
 
@@ -3258,13 +3258,13 @@ Icon/Buff/Icon_Common_Debuff_MSR
 
 ID=39025
 奇襲
-攻撃力が増加する。
+攻撃力増加。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=39026
 鉄壁
-防御度が増加する。
+防御度増加。
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -3552,13 +3552,13 @@ SG回復
 
 ID=53112
 战斗呼吸
-攻撃命中時、5%の確率でスタミナが5%回復する。(クールタイム10秒)
+攻撃命中時、5%機率耐力量5%回复。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 耐力回复
 
 ID=53113
 战斗呼吸
-攻撃命中時、5%の確率でスタミナが10%回復する。(クールタイム10秒)
+攻撃命中時、5%機率耐力量10%回复。(冷卻時間10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 耐力回复
 
@@ -4308,37 +4308,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53563
 守备转换
-攻撃を受けた時、5%の確率で5秒間、防御度が50%増加する。(クールタイム10秒)
+受到攻击时、5%的机率在5秒内、防御度增加50%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53564
 守备转换
-攻撃を受けた時、10%の確率で5秒間、防御度が50%増加する。(クールタイム10秒)
+受到攻击时、10%的机率在5秒内、防御度增加50%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53565
 守备转换
-攻撃を受けた時、15%の確率で5秒間、防御度が50%増加する。(クールタイム10秒)
+受到攻击时、15%的机率在5秒内、防御度增加50%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53566
 守备转换
-攻撃を受けた時、10%の確率で5秒間、防御度が50%増加する。(クールタイム10秒)
+受到攻击时、10%的机率在5秒内、防御度增加50%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53567
 守备转换
-攻撃を受けた時、15%の確率で5秒間、防御度が50%増加する。(クールタイム10秒)
+受到攻击时、15%的机率在5秒内、防御度增加50%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=53568
 守备转换
-攻撃を受けた時、20%の確率で5秒間、防御度が50%増加する。(クールタイム10秒)
+受到攻击时、20%的机率在5秒内、防御度增加50%。(冷却时间10秒)
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
@@ -4380,37 +4380,37 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=53575
 好战的证明
-攻撃を受けた時、5%の確率で2.5秒間、攻撃力が10%増加する。(クールタイム10秒)
+受到攻擊時、5%的幾率中的2.5秒內，攻擊力增加10%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53576
 好战的证明
-攻撃を受けた時、10%の確率で3.5秒間、攻撃力が10%増加する。(クールタイム10秒)
+受到攻擊時、10%的幾率中的3.5秒內，攻擊力增加10%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53577
 好战的证明
-攻撃を受けた時、15%の確率で4.5秒間、攻撃力が10%増加する。(クールタイム10秒)
+受到攻擊時、15%的幾率中的4.5秒內，攻擊力增加10%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53578
 好战的证明
-攻撃を受けた時、10%の確率で2.5秒間、攻撃力が10%増加する。(クールタイム10秒)
+受到攻擊時、10%的幾率中的2.5秒內，攻擊力增加10%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53579
 好战的证明
-攻撃を受けた時、15%の確率で3.5秒間、攻撃力が10%増加する。(クールタイム10秒)
+受到攻擊時、15%的幾率中的3.5秒內，攻擊力增加10%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=53580
 好战的证明
-攻撃を受けた時、20%の確率で4.5秒間、攻撃力が10%増加する。(クールタイム10秒)
+受到攻擊時、20%的幾率中的4.5秒內，攻擊力增加10%。（冷卻時間10秒）
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
@@ -5454,25 +5454,25 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=55005
 蛇皮疙瘩
-30秒間、防御度が10%増加する。
+30秒内、防御度10%增加
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=55006
 蛇皮疙瘩
-30秒間、防御度が30%増加する。
+30秒内、防御度30%增加
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
 ID=55010
 力量的咆哮
-7秒間、攻撃力が10%増加する。
+7秒內。攻擊力增加10%。
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
 ID=55011
 守护的咆哮
-7秒間、防御度が10%増加する。
+7秒内、防御度10%增加
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -5520,7 +5520,7 @@ Icon/Buff/Icon_Common_Debuff_MSR
 
 ID=55101
 攻撃力増加
-7秒間、攻撃力が10%増加する。
+7秒內。攻擊力增加10%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
@@ -5556,7 +5556,7 @@ HP減少
 
 ID=55107
 攻撃力増加
-5秒間、攻撃力が10%増加する。
+5秒內。攻擊力增加10%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
@@ -5574,7 +5574,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=55110
 回轉
-5秒間、攻撃力が10%増加する。
+5秒內。攻擊力增加10%。
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
@@ -5604,7 +5604,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=55115
 正派之风
-5秒間、防御度が10%増加する。
+5秒内、防御度10%增加
 Icon/Buff/Icon_Common_Buff_Akashic
 防御度増加
 
@@ -5634,7 +5634,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 
 ID=55120
 攻撃力増加
-10秒間、攻撃力が10%増加する。
+10秒内、提高攻击力10%
 Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
@@ -5922,7 +5922,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 
 ID=63037
 防御増加
-5分間、防御度が30%増加する。
+5分内、防御力30%提高
 Icon/Buff/Icon_Common_Buff_Def
 防御度増加
 
@@ -5994,13 +5994,13 @@ HP減少
 
 ID=5081
 永恆合擊I
-攻撃力が50%増加する。
+攻撃力50%増加。
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_SGPassive2
 攻撃力増加
 
 ID=5082
 永恆合擊II
-攻撃力が100%増加する。
+攻击力增加100%。
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_SGPassive2
 攻撃力増加
 
@@ -6012,13 +6012,13 @@ Icon/Skill/SoulumSword/Icon_Ssword_Skill_SGPassive2
 
 ID=5086
 永恆合擊I
-攻撃力が50%増加する。
+攻撃力50%増加。
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_SGPassive2
 攻撃力増加
 
 ID=5087
 永恆合擊II
-攻撃力が100%増加する。
+攻击力增加100%。
 Icon/Skill/SoulumSword/Icon_Ssword_Skill_SGPassive2
 攻撃力増加
 
@@ -6702,7 +6702,7 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 
 ID=30158
 超猛毒
-攻撃力が100%増加する。
+攻击力增加100%。
 Icon/Buff/Icon_Common_Buff_ATK
 超猛毒
 
@@ -6758,7 +6758,7 @@ ID=7566
 チャージ中
 バリアをチャージ中の状態。
 Icon/Skill/Common/Icon_Common_Skill_SoulMastery
-チャージ
+充电中
 
 ID=55137
 黄金的火花
@@ -7662,7 +7662,7 @@ Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 
 ID=6572
 能量球
-攻撃力が100%増加する。
+攻击力增加100%。
 Icon/Skill/Howling/Icon_Howling_Skill_BeadsPlay
 攻撃力増加
 
@@ -7770,13 +7770,13 @@ Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SoulChange
 
 ID=8542
 クリティカルダメージ増加II
-クリティカルダメージが100%増加する。
+增加暴击伤害100%。
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SoulChange
 暴击伤害增加
 
 ID=8543
 クリティカルダメージ増加III
-クリティカルダメージが150%増加する。
+增加暴击伤害150%。
 Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SoulChange
 暴击伤害增加
 
@@ -8207,7 +8207,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 爆击伤害增加，对BOSS/有名怪武造成的伤害增加
 
 ID=9006
-弾丸
+子弹
 使用するスキルに爆発攻撃が発生する。
 Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_Bullet
 弾丸リロード
@@ -8855,7 +8855,7 @@ Icon/Buff/Icon_Common_Buff_Akashic
 攻撃力増加
 
 ID=7571
-イクシードドライバー
+極致驅動
 SG消費量が100％減少する。
 Icon/Skill/HammerStol/Icon_Hamerstoll_Skill_ExceedDriver_A
 减少SG消耗量
@@ -8951,10 +8951,10 @@ Icon/Buff/Icon_Common_Buff_Akashic
 クリティカルダメージ/防御力貫通増加
 
 ID=8611
-血戦態勢
+血战态势
 攻撃した敵に[血痕]デバフを付与する。
 Icon/Buff/Icon_Common_Buff_ATK
-血戦態勢
+血战态势
 
 ID=8612
 血痕
@@ -9006,21 +9006,21 @@ Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_HuneyBee
 
 ID=9523
 弱点スキャンIV
-クリティカル率が7%増加する。
+暴擊率增加7%
 Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_HuneyBee
 弱点スキャン
 
 ID=9524
 弱点スキャンV
-クリティカル率が10%増加する。
+暴擊率增加10%
 Icon/Skill/Royalrifle/Icon_RoyarRifle_Skill_HuneyBee
 弱点スキャン
 
 ID=9525
-待機中
+等待中
 SV回復効果が適用されない。
 Icon/Skill/Common/Icon_Common_Skill_SoulMastery
-待機中
+等待中
 
 ID=9507
 戦闘食糧I
@@ -9498,7 +9498,7 @@ Icon/Skill/BombingSpear/Icon_BombingSpear_Skill_SuperNova_A
 
 ID=43101
 愤怒
-攻撃力が50%増加する。
+攻撃力50%増加。
 Icon/Buff/Icon_Common_Buff_ATK_0
 愤怒
 
