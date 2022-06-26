@@ -11918,7 +11918,7 @@ Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_OwnAbility
 0
 Movie/Skill/PC_G/B_S_Attack_N
 
-
+ID=1270
 空中特殊
 -
 -
@@ -11926,7 +11926,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 0
 0
 
-
+ID=137
 特殊能力マスタリーIII
 [スキル情報：地上]\nダメージ量：[211%]\nSA破壊量：[169%]\n攻撃命中時、SGを獲得できる。\nクールタイム：[10秒]\n\n[スキル情報：標的爆破]\nダメージ量：[422%]\nSA破壊量：[338%]\n\nソウルエナジーを放出してダメージを与える。\n周囲に[獲物捕捉]を付与されている敵がいた場合、爆発による追加ダメージを与える。\n追加ダメージは[獲物捕捉]の数(最大5重複)により\n威力が増加し、ダメージに比例した[3%]のHPを回復する。\n(HP回復効果はスキル使用毎に、１度適用される)\n\n[スキル情報：空中]\nダメージ量：[270%]\nSA破壊量：[200%]\nクールタイム：[10秒]\n\n[操作方法：地上]\nマウス：(右クリック)\n\n[操作方法：空中]\nマウス：ジャンプ後(右クリック)
 Lv.Max
@@ -11934,7 +11934,7 @@ Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_OwnAbility
 0
 Movie/Skill/PC_G/B_S_Attack_N
 
-
+ID=1370
 空中特殊
 -
 -
@@ -11942,7 +11942,7 @@ Icon/Skill/Common/Icon_Common_Skill_JumpSmashAttack
 0
 0
 
-
+ID=217
 專注輔助武器
 -
 -
@@ -11950,7 +11950,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 0
 
-
+ID=227
 專注輔助武器
 -
 -
@@ -11958,7 +11958,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 0
 
-
+ID=237
 專注輔助武器
 -
 -
@@ -11966,7 +11966,7 @@ Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 0
 
-
+ID=7041
 緊急回避I
 [技能情報]\n耐力消耗量：[20]\n\n在指定的方向快速移動。\n緊急迴避中免受任何傷害。\n\n[操作方法]\n按鍵：\n[1](方向鍵)+(Shift鍵)\n[2](方向鍵)按二次
 Lv.Max
@@ -11974,7 +11974,7 @@ Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 Movie/Skill/PC_G/B_Evade_F
 
-
+ID=7051
 特殊回避I
 [技能情报]\n耐力消耗：[40]\n冷却时间：[30秒]\n\n受到敌人攻击时快速躲开。\n特殊回避中不会受到伤害。\n\n[操作方法]\n按键：被命中时(方向键)+(Shift键)
 冷却时间：[30秒]-5秒
@@ -11982,7 +11982,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 Movie/Skill/PC_G/B_Special_Evade_F
 
-
+ID=7052
 特殊回避II
 [技能情报]\n耐力消耗：[40]\n冷却时间：[25秒]\n\n受到敌人攻击时快速躲开。\n特殊回避中不会受到伤害。\n\n[操作方法]\n按键：被命中时(方向键)+(Shift键)
 冷却时间：[25秒]-5秒
@@ -11990,7 +11990,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 Movie/Skill/PC_G/B_Special_Evade_F
 
-
+ID=7053
 特殊回避III
 [技能情报]\n耐力消耗：[40]\n冷却时间：[20秒]\n\n受到敌人攻击时快速躲开。\n特殊回避中不会受到伤害。\n\n[操作方法]\n按键：被命中时(方向键)+(Shift键)
 Lv.Max
@@ -11998,7 +11998,7 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 Movie/Skill/PC_G/B_Special_Evade_F
 
-
+ID=7061
 ノックダウン脱出I
 [技能情報]\n撃倒脫出使用時、耐力35消費。\n冷卻時間：5秒\n\n被敵人的攻撃撞倒後迅速爬起來恢復戰鬥狀態。\n\n[操作方法]\n按鍵：倒地時(按空格鍵)
 體力消耗量5減少。
@@ -12006,7 +12006,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 0
 
-
+ID=7062
 ノックダウン脱出II
 [技能情報]\n撃倒脫出使用時、耐力30消費。\n冷卻時間：5秒\n\n被敵人的攻撃撞倒後迅速爬起來恢復戰鬥狀態。\n\n[操作方法]\n按鍵：倒地時(按空格鍵)
 體力消耗量5減少。
@@ -12014,7 +12014,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 0
 
-
+ID=7063
 ノックダウン脱出III
 [技能情報]\n撃倒脫出使用時、耐力25消費。\n冷卻時間：5秒\n\n被敵人的攻撃撞倒後迅速爬起來恢復戰鬥狀態。\n\n[操作方法]\n按鍵：倒地時(按空格鍵)
 Lv.Max
@@ -12022,7 +12022,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 0
 0
 
-
+ID=7071
 起床攻撃I
 [技能情报]\n伤害量：[100%]\n耐力消耗：[30]\n冷却时间：[15秒]\n使用技能后3秒内无敌。\n\n倒地时、对周围敌人造成起身攻击。\n\n[操作方法]\n鼠标：倒地中(左/右键)
 體力消耗量：[30]-10
@@ -12030,7 +12030,7 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 Movie/Skill/PC_G/B_Rise_Attack
 
-
+ID=7072
 起床攻撃II
 [技能情報]\n傷害量：[100%]\n體力消耗量：[20]\n冷卻時間：[15秒]\n技能使用後3秒中、自帶無敵狀態\n\n倒地時、站起來順便攻撃周圍的敵人。\n\n[操作方法]\n按鍵：倒地時(左/右鍵)
 無敵時間が2秒増加。
@@ -12038,7 +12038,7 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 Movie/Skill/PC_G/B_Rise_Attack
 
-
+ID=7073
 起床攻撃III
 [技能情报]\n伤害量：[100%]\n耐力消耗：[20]\n冷却时间：[15秒]\n使用技能后5秒内无敌。\n\n倒地时、对周围敌人造成起身攻击。\n\n[操作方法]\n鼠标：倒地中(左/右键)
 Lv.Max
@@ -12046,7 +12046,7 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 Movie/Skill/PC_G/B_Rise_Attack
 
-
+ID=7081
 回転起床I
 [技能情報]\n耐力消耗量：[25]\n\n倒地時、在指定的方向上快速旋轉起來。\n在旋轉起床中不受任何傷害。\n\n[操作方法]\n按鍵：倒地時(方向鍵)+(Shift鍵)
 耐力消耗量：[25]-10
@@ -12054,7 +12054,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 Movie/Skill/PC_G/B_Roll_F
 
-
+ID=7082
 回転起床II
 [技能情報]\n體力消耗量：[15]\n\n倒地時、在指定的方向上快速旋轉起來。\n在旋轉起床中不受任何傷害。\n\n[操作方法]\n按鍵：倒地時(方向鍵)+(Shift鍵)
 回転起床の速度が増加する。
@@ -12062,7 +12062,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 Movie/Skill/PC_G/B_Roll_F
 
-
+ID=7083
 回転起床III
 [技能情報]\n體力消耗量：[15]\n旋轉起床稍微快一點。\n\n倒地時、在指定的方向上快速旋轉起來。\n在旋轉起床中不受任何傷害。\n\n[操作方法]\n按鍵：倒地時(方向鍵)+(Shift鍵)
 Lv.Max
@@ -12070,7 +12070,7 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 Movie/Skill/PC_G/B_Roll_F
 
-
+ID=7101
 ダッシュI
 能趕緊抵達前方戰場。\n\n[操作方法]\n按鍵：(前方方向鍵)按二次
 ダッシュの速度が増加する。
@@ -12078,7 +12078,7 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 Movie/Skill/PC_G/B_Run_F
 
-
+ID=7102
 ダッシュII
 能趕緊抵達前方戰場。\n\n[操作方法]\n按鍵：(前方方向鍵)按二次
 Lv.Max
@@ -12086,7 +12086,7 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 Movie/Skill/PC_G/B_Run_F
 
-
+ID=7111
 ダッシュアタックI
 [スキル情報]\nダメージ量：[122%]\nSA破壊量：[41%]\n\nダッシュ中使用する事で、前方を攻撃する。\n\n[操作方法]\nマウス：ダッシュ中(左クリック)
 Lv.Max
@@ -12094,7 +12094,7 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 0
 Movie/Skill/PC_G/B_N_Attack_Dash
 
-
+ID=7121
 特殊冲刺攻击I
 [スキル情報]\nダメージ量：[241%]\nSA破壊量：[111%]\n\nダッシュ中に使用する事で、体を回転させ攻撃する。\n攻撃命中時、SGを獲得。\n\n[操作方法]\nマウス：ダッシュ中(右クリック)
 Lv.Max
@@ -12102,7 +12102,7 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
 Movie/Skill/PC_G/B_S_Attack_N_Dash
 
-
+ID=7131
 熱望の猫刀I
 [スキル情報]\n一定時間ごとに自動的にSGを回復する。\n基本攻撃が成功した場合、SGを回復する。\n一部の特性スキルを使用すると、SGを回復する。
 Lv.Max
@@ -12110,31 +12110,31 @@ Icon/Skill/Common/Icon_Common_Skill_SoulMastery
 0
 0
 
-
+ID=7141
 猫の柔軟性I
 [スキル情報]\nパッシブ効果：最大スタミナ[10]増加
 パッシブ効果：最大スタミナ[10]+10増加
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive
 0
 0
 
-
+ID=7142
 猫の柔軟性II
 [スキル情報]\nパッシブ効果：最大スタミナ[20]増加
 パッシブ効果：最大スタミナ[20]+10増加
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive
 0
 0
 
-
+ID=7143
 猫の柔軟性III
 [スキル情報]\nパッシブ効果：最大スタミナ[30]増加
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive
 0
 0
 
-
+ID=7151
 スタミナマスタリーI
 [技能情報]\n被動效果：體力回复量[10%]増加\n\n體力回复量増加。
 體力回复量増加：[10%]+10%
@@ -12142,7 +12142,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 0
 
-
+ID=7152
 スタミナマスタリーII
 [技能情報]\n被動效果：耐力回复量[20%]増加\n\n體力回复量増加。
 耐力回复量増加：[20%]+10%
@@ -12150,7 +12150,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 0
 
-
+ID=7153
 スタミナマスタリーIII
 [技能情報]\n被動效果：耐力回复量[30%]増加\n\n體力回复量増加。
 耐力回复量増加：[30%]+10%
@@ -12158,7 +12158,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 0
 
-
+ID=7154
 スタミナマスタリーIV
 [技能情報]\n被動效果：耐力回复量[40%]増加\n\n體力回复量増加。
 耐力回复量増加：[40%]+10%
@@ -12166,7 +12166,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 0
 
-
+ID=7155
 スタミナマスタリーV
 [技能情報]\n被動效果：耐力回复量[50%]増加\n\n耐力回复量増加。
 Lv.Max
@@ -12174,7 +12174,7 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 0
 0
 
-
+ID=7161
 特殊ダッシュジャンプアタックI
 テスト
 Lv.Max
@@ -12182,831 +12182,831 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 0
 0
 
-
+ID=17011
 爪痕I
 [スキル情報：基本攻撃]\nダメージ量：[48%]\nSA破壊量：[33%]\n\n[スキル情報：追加攻撃]\nダメージ量：[96%]\nSA破壊量：[66%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[7秒]\n\n素早く抜刀し、敵を切り捨てる。\n追加攻撃で敵を切り刻み、最後に周囲の生命力を少量吸収することで、HPを[3%]回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)x2
 [スキル情報：基本攻撃]\nダメージ量：[48%]+5%\nSA破壊量：[33%]+3%\n\n[スキル情報：追加攻撃]\nダメージ量：[96%]+10%\nSA破壊量：[66%]+7%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ScareClow
 0
 Movie/Skill/PC_G/B_Skill_ScareClow
 
-
+ID=17012
 爪痕II
 [スキル情報：基本攻撃]\nダメージ量：[53%]\nSA破壊量：[36%]\n\n[スキル情報：追加攻撃]\nダメージ量：[106%]\nSA破壊量：[73%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[7秒]\n\n素早く抜刀し、敵を切り捨てる。\n追加攻撃で敵を切り刻み、最後に周囲の生命力を少量吸収することで、HPを[3%]回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)x2
 [スキル情報：基本攻撃]\nダメージ量：[53%]+19%\nSA破壊量：[36%]+13%\n\n[スキル情報：追加攻撃]\nダメージ量：[106%]+13%\nSA破壊量：[73%]+9%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ScareClow
 0
 Movie/Skill/PC_G/B_Skill_ScareClow
 
-
+ID=17013
 爪痕III
 [スキル情報：基本攻撃]\nダメージ量：[59%]\nSA破壊量：[41%]\n\n[スキル情報：追加攻撃]\nダメージ量：[119%]\nSA破壊量：[82%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[7秒]\n\n素早く抜刀し、敵を切り捨てる。\n追加攻撃で敵を切り刻み、最後に周囲の生命力を少量吸収することで、HPを[3%]回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)x2
 [スキル情報：基本攻撃]\nダメージ量：[59%]+9%\nSA破壊量：[41%]+5%\n\n[スキル情報：追加攻撃]\nダメージ量：[119%]+16%\nSA破壊量：[82%]+11%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ScareClow
 0
 Movie/Skill/PC_G/B_Skill_ScareClow
 
-
+ID=17014
 爪痕IV
 [スキル情報：基本攻撃]\nダメージ量：[68%]\nSA破壊量：[46%]\n\n[スキル情報：追加攻撃]\nダメージ量：[135%]\nSA破壊量：[93%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[7秒]\n\n素早く抜刀し、敵を切り捨てる。\n追加攻撃で敵を切り刻み、最後に周囲の生命力を少量吸収することで、HPを[3%]回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)x2
 [スキル情報：基本攻撃]\nダメージ量：[68%]+12%\nSA破壊量：[46%]+9%\n\n[スキル情報：追加攻撃]\nダメージ量：[135%]+24%\nSA破壊量：[93%]+17%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ScareClow
 0
 Movie/Skill/PC_G/B_Skill_ScareClow
 
-
+ID=17015
 爪痕V
 [スキル情報：基本攻撃]\nダメージ量：[80%]\nSA破壊量：[55%]\n\n[スキル情報：追加攻撃]\nダメージ量：[159%]\nSA破壊量：[110%]\n\n[スキル情報：一般]\nSG消費量：[35]\nクールタイム：[7秒]\n\n素早く抜刀し、敵を切り捨てる。\n追加攻撃で敵を切り刻み、最後に周囲の生命力を少量吸収することで、HPを[3%]回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)x2
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ScareClow
 0
 Movie/Skill/PC_G/B_Skill_ScareClow
 
-
+ID=17021
 鳥落としI
 [スキル情報：基本攻撃]\nダメージ量：[231%]\nSA破壊量：[187%]\n\n[スキル情報：追加攻撃]\nダメージ量：[51%][283%]\nSA破壊量：[42%][229%]\n\n[スキル情報：一般]\nSG消費量：[30]\nクールタイム：[12秒]\n\n抜刀せず薙ぎ払い、敵を浮かせる。\n追加攻撃で宙に浮いた敵を切り落とす。\n最後に周囲の生命力を少量吸収することで、HPを[3%]回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)
 [スキル情報：基本攻撃]\nダメージ量：[231%]+24%\nSA破壊量：[187%]+19%\n\n[スキル情報：追加攻撃]\nダメージ量：[51%]+6％、[283%]+28%\nSA破壊量：[42%]+4％、[229%]+23%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_OverturnGround
 0
 Movie/Skill/PC_G/B_Skill_OverturnGround
 
-
+ID=17022
 鳥落としII
 [スキル情報：基本攻撃]\nダメージ量：[255%]\nSA破壊量：[206%]\n\n[スキル情報：追加攻撃]\nダメージ量：[57%][311%]\nSA破壊量：[46%][252%]\n\n[スキル情報：一般]\nSG消費量：[30]\nクールタイム：[12秒]\n\n抜刀せず薙ぎ払い、敵を浮かせる。\n追加攻撃で宙に浮いた敵を切り落とす。\n最後に周囲の生命力を少量吸収することで、HPを[3%]回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)
 [スキル情報：基本攻撃]\nダメージ量：[255%]+30%\nSA破壊量：[206%]+25%\n\n[スキル情報：追加攻撃]\nダメージ量：[57%]+6％、[311%]+37%\nSA破壊量：[46%]+5％、[252%]+31%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_OverturnGround
 0
 Movie/Skill/PC_G/B_Skill_OverturnGround
 
-
+ID=17023
 鳥落としIII
 [スキル情報：基本攻撃]\nダメージ量：[285%]\nSA破壊量：[231%]\n\n[スキル情報：追加攻撃]\nダメージ量：[63%][348%]\nSA破壊量：[51%][283%]\n\n[スキル情報：一般]\nSG消費量：[30]\nクールタイム：[12秒]\n\n抜刀せず薙ぎ払い、敵を浮かせる。\n追加攻撃で宙に浮いた敵を切り落とす。\n最後に周囲の生命力を少量吸収することで、HPを[3%]回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)
 [スキル情報：基本攻撃]\nダメージ量：[285%]+40%\nSA破壊量：[231%]+32%\n\n[スキル情報：追加攻撃]\nダメージ量：[63%]+9％、[348%]+49%\nSA破壊量：[51%]+8％、[283%]+39%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_OverturnGround
 0
 Movie/Skill/PC_G/B_Skill_OverturnGround
 
-
+ID=17024
 鳥落としIV
 [スキル情報：基本攻撃]\nダメージ量：[325%]\nSA破壊量：[263%]\n\n[スキル情報：追加攻撃]\nダメージ量：[72%][397%]\nSA破壊量：[59%][332%]\n\n[スキル情報：一般]\nSG消費量：[30]\nクールタイム：[12秒]\n\n抜刀せず薙ぎ払い、敵を浮かせる。\n追加攻撃で宙に浮いた敵を切り落としす。\n最後に周囲の生命力を少量吸収することで、HPを[3%]回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)
 [スキル情報：基本攻撃]\nダメージ量：[325%]+58%\nSA破壊量：[263%]+48%\n\n[スキル情報：追加攻撃]\nダメージ量：[72%]+13％、[397%]+72%\nSA破壊量：[59%]+10％、[322%]+58%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_OverturnGround
 0
 Movie/Skill/PC_G/B_Skill_OverturnGround
 
-
+ID=17025
 鳥落としV
 [スキル情報：基本攻撃]\nダメージ量：[383%]\nSA破壊量：[311%]\n\n[スキル情報：追加攻撃]\nダメージ量：[85%][469%]\nSA破壊量：[69%][380%]\n\n[スキル情報：一般]\nSG消費量：[30]\nクールタイム：[12秒]\n\n抜刀せず薙ぎ払い、敵を浮かせる。\n追加攻撃で宙に浮いた敵を切り落とす。\n最後に周囲の生命力を少量吸収することで、HPを[3%]回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_OverturnGround
 0
 Movie/Skill/PC_G/B_Skill_OverturnGround
 
-
+ID=17031
 猫刀・壱ノ型：瞬I
 [スキル情報：基本攻撃]\nダメージ量：[61%]\nSA破壊量：[30%]\nSG消費量：[15]\nクールタイム：[7秒]\n\n敵に飛び込み、回転切りで攻撃する。\n周囲の生命力を少量吸収する事で、HPを[3%]回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[61%]+7%\nSA破壊量：[30%]+3%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ThrustArrow
 0
 Movie/Skill/PC_G/B_Skill_ThrustArrow
 
-
+ID=17032
 猫刀・壱ノ型：瞬II
 [スキル情報：基本攻撃]\nダメージ量：[68%]\nSA破壊量：[33%]\nSG消費量：[15]\nクールタイム：[7秒]\n\n敵に飛び込み、回転切りで攻撃する。\n周囲の生命力を少量吸収する事で、HPを[3%]回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[68%]+8%\nSA破壊量：[33%]+4%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ThrustArrow
 0
 Movie/Skill/PC_G/B_Skill_ThrustArrow
 
-
+ID=17033
 猫刀・壱ノ型：瞬III
 [スキル情報：基本攻撃]\nダメージ量：[76%]\nSA破壊量：[37%]\nSG消費量：[15]\nクールタイム：[7秒]\n\n敵に飛び込み、回転切りで攻撃する。\n周囲の生命力を少量吸収する事で、HPを[3%]回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[76%]+10%\nSA破壊量：[37%]+5%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ThrustArrow
 0
 Movie/Skill/PC_G/B_Skill_ThrustArrow
 
-
+ID=17034
 猫刀・壱ノ型：瞬IV
 [スキル情報：基本攻撃]\nダメージ量：[86%]\nSA破壊量：[42%]\nSG消費量：[15]\nクールタイム：[7秒]\n\n敵に飛び込み、回転切りで攻撃する。\n周囲の生命力を少量吸収する事で、HPを[3%]回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[86%]+16%\nSA破壊量：[42%]+8%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ThrustArrow
 0
 Movie/Skill/PC_G/B_Skill_ThrustArrow
 
-
+ID=17035
 猫刀・壱ノ型：瞬V
 [スキル情報：基本攻撃]\nダメージ量：[102%]\nSA破壊量：[50%]\nSG消費量：[15]\nクールタイム：[7秒]\n\n敵に飛び込み、回転切りで攻撃する。\n周囲の生命力を少量吸収する事で、HPを[3%]回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ThrustArrow
 0
 Movie/Skill/PC_G/B_Skill_ThrustArrow
 
-
+ID=17041
 猫刀・弐ノ型：隠爪I
 [スキル情報：基本攻撃]\nダメージ量：[403%]\nSA破壊量：[500%]\n最大チャージ段階：[3]\n\nSG消費量：[35]\nクールタイム：[20秒]\n\n前方の敵に居合い切りを放つ。\nチャージ段階によってダメージが1.5倍～2.5倍まで増加する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[403%]+41%\nSA破壊量：[500%]+50%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AllegroSweep
 0
 Movie/Skill/PC_G/B_Skill_AllegroSweep
 
-
+ID=17042
 猫刀・弐ノ型：隠爪II
 [スキル情報：基本攻撃]\nダメージ量：[444%]\nSA破壊量：[550%]\n最大チャージ段階：[3]\n\nSG消費量：[35]\nクールタイム：[20秒]\n\n前方の敵に居合い切りを放つ。\nチャージ段階によってダメージが1.5倍～2.5倍まで増加する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[444%]+53%\nSA破壊量：[550%]+66%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AllegroSweep
 0
 Movie/Skill/PC_G/B_Skill_AllegroSweep
 
-
+ID=17043
 猫刀・弐ノ型：隠爪III
 [スキル情報：基本攻撃]\nダメージ量：[497%]\nSA破壊量：[616%]\n最大チャージ段階：[3]\n\nSG消費量：[35]\nクールタイム：[20秒]\n\n前方の敵に居合い切りを放つ。\nチャージ段階によってダメージが1.5倍～2.5倍まで増加する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[479%]+68%\nSA破壊量：[616%]+87%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AllegroSweep
 0
 Movie/Skill/PC_G/B_Skill_AllegroSweep
 
-
+ID=17044
 猫刀・弐ノ型：隠爪IV
 [スキル情報：基本攻撃]\nダメージ量：[565%]\nSA破壊量：[703%]\n最大チャージ段階：[3]\n\nSG消費量：[35]\nクールタイム：[20秒]\n\n前方の敵に居合い切りを放つ。\nチャージ段階によってダメージが1.5倍～2.5倍まで増加する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[565%]+103%\nSA破壊量：[703%]+126%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AllegroSweep
 0
 Movie/Skill/PC_G/B_Skill_AllegroSweep
 
-
+ID=17045
 猫刀・弐ノ型：隠爪V
 [スキル情報：基本攻撃]\nダメージ量：[668%]\nSA破壊量：[829%]\n最大チャージ段階：[3]\n\nSG消費量：[35]\nクールタイム：[20秒]\n\n前方の敵に居合い切りを放つ。\nチャージ段階によってダメージが1.5倍～2.5倍まで増加する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AllegroSweep
 0
 Movie/Skill/PC_G/B_Skill_AllegroSweep
 
-
+ID=17051
 血戦態勢I
 [スキル情報：パーティー]\nバフ効果：クリティカルダメージ[50%]増加\nバフ持続時間：[60秒]\n\n[スキル情報：個人]\nバフ効果：防御貫通[5%]増加\nバフ持続時間：[60秒]\nHP消費：現在HPの[10%]\n\n[スキル情報：血痕]\nデバフ効果：受けるダメージ[1%]増加\nデバフ持続時間：[4秒]\nバフ持続時間：[10秒]\nクールタイム：[35秒]\n\n攻撃された敵に[血痕]デバフを適用する。\n自身の生命力を消費し、一定時間戦闘力を高める。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：パーティー]\nバフ効果：クリティカルダメージ[50%]+50%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SoulChange
 0
 Movie/Skill/PC_G/B_Skill_SoulChange
 
-
+ID=17052
 血戦態勢II
 [スキル情報：パーティー]\nバフ効果：クリティカルダメージ[100%]増加\nバフ持続時間：[60秒]\n\n[スキル情報：個人]\nバフ効果：防御貫通[5%]増加\nバフ持続時間：[60秒]\nHP消費：現在HPの[10%]\n\n[スキル情報：血痕]\nデバフ効果：受けるダメージ[1%]増加\nデバフ持続時間：[4秒]\nバフ持続時間：[10秒]\nクールタイム：[35秒]\n\n攻撃された敵に[血痕]デバフを適用する。\n自身の生命力を消費し、一定時間戦闘力を高める。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：個人]\nバフ効果：防御貫通[5%]+5%\n[スキル情報：血痕]\nデバフ効果：受けるダメージ[1%]+1%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SoulChange
 0
 Movie/Skill/PC_G/B_Skill_SoulChange
 
-
+ID=17053
 血戦態勢III
 [スキル情報：パーティー]\nバフ効果：クリティカルダメージ[100%]増加\nバフ持続時間：[60秒]\n\n[スキル情報：個人]\nバフ効果：防御貫通[10%]増加\nバフ持続時間：[60秒]\nHP消費：現在HPの[10%]\n\n[スキル情報：血痕]\nデバフ効果：受けるダメージ[2%]増加\nデバフ持続時間：[4秒]\nバフ持続時間：[10秒]\nクールタイム：[35秒]\n\n攻撃された敵に[血痕]デバフを適用する。\n自身の生命力を消費し、一定時間戦闘力を高める。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：パーティー]\nバフ効果：クリティカルダメージ[100%]+50%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SoulChange
 0
 Movie/Skill/PC_G/B_Skill_SoulChange
 
-
+ID=17054
 血戦態勢IV
 [スキル情報：パーティー]\nバフ効果：クリティカルダメージ[150%]増加\nバフ持続時間：[60秒]\n\n[スキル情報：個人]\nバフ効果：防御貫通[10%]増加\nバフ持続時間：[60秒]\nHP消費：現在HPの[10%]\n\n[スキル情報：血痕]\nデバフ効果：受けるダメージ[2%]増加\nデバフ持続時間：[4秒]\nバフ持続時間：[10秒]\nクールタイム：[35秒]\n\n攻撃された敵に[血痕]デバフを適用する。\n自身の生命力を消費し、一定時間戦闘力を高める。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：個人]\nバフ効果：防御貫通[10%]+5%\n[スキル情報：血痕]\nデバフ効果：受けるダメージ[2%]+1%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SoulChange
 0
 Movie/Skill/PC_G/B_Skill_SoulChange
 
-
+ID=17055
 血戦態勢V
 [スキル情報：パーティー]\nバフ効果：クリティカルダメージ[150%]増加\nバフ持続時間：[60秒]\n\n[スキル情報：個人]\nバフ効果：防御貫通[15%]増加\nバフ持続時間：[60秒]\nHP消費：現在HPの[10%]\n\n[スキル情報：血痕]\nデバフ効果：受けるダメージ[3%]増加\nデバフ持続時間：[4秒]\nバフ持続時間：[10秒]\nクールタイム：[35秒]\n\n攻撃された敵に[血痕]デバフを適用する。\n自身の生命力を消費し、一定時間戦闘力を高める。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SoulChange
 0
 Movie/Skill/PC_G/B_Skill_SoulChange
 
-
+ID=17061
 捕食者の渇望I
 [スキル情報]\nダメージ量：[48%][58%]\nSA破壊量：[53%][63%]\nSG消費量：[45]\nクールタイム：[15秒]\n\n自身の身体の一部をソウルジャンク化し周囲の敵を引き寄せて攻撃する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報]\nダメージ量：[48%]+5％、[58%]+5％\nSA破壊量：[53%]+5％、[63%]+6％
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SeizeField
 0
 Movie/Skill/PC_G/B_Skill_SeizeField
 
-
+ID=17062
 捕食者の渇望II
 [スキル情報]\nダメージ量：[53%][63%]\nSA破壊量：[58%][69%]\nSG消費量：[45]\nクールタイム：[15秒]\n\n自身の身体の一部をソウルジャンク化し周囲の敵を引き寄せて攻撃する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報]\nダメージ量：[53%]+6％、[63%]+8％\nSA破壊量：[58%]+7％、[69%]+9％
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SeizeField
 0
 Movie/Skill/PC_G/B_Skill_SeizeField
 
-
+ID=17063
 捕食者の渇望III
 [スキル情報]\nダメージ量：[59%][71%]\nSA破壊量：[65%][78%]\nSG消費量：[45]\nクールタイム：[15秒]\n\n自身の身体の一部をソウルジャンク化し周囲の敵を引き寄せて攻撃する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報]\nダメージ量：[59%]+9％、[71%]+10％\nSA破壊量：[65%]+9％、[78%]+11％
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SeizeField
 0
 Movie/Skill/PC_G/B_Skill_SeizeField
 
-
+ID=17064
 捕食者の渇望IV
 [スキル情報]\nダメージ量：[68%][81%]\nSA破壊量：[74%][89%]\nSG消費量：[45]\nクールタイム：[15秒]\n\n自身の身体の一部をソウルジャンク化し周囲の敵を引き寄せて攻撃する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報]\nダメージ量：[68%]+12％、[81%]+15％\nSA破壊量：[74%]+13％、[89%]+16％
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SeizeField
 0
 Movie/Skill/PC_G/B_Skill_SeizeField
 
-
+ID=17065
 捕食者の渇望V
 [スキル情報]\nダメージ量：[80%][96%]\nSA破壊量：[87%][105%]\nSG消費量：[45]\nクールタイム：[15秒]\n\n自身の身体の一部をソウルジャンク化し周囲の敵を引き寄せて攻撃する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SeizeField
 0
 Movie/Skill/PC_G/B_Skill_SeizeField
 
-
+ID=17071
 猫刀・参ノ型：鷹狩I
 [スキル情報：基本攻撃]\nダメージ量：[208%]\nSA破壊量：[137%]\n\n[スキル情報：追加攻撃]\nダメージ量：[26%]\nSA破壊量：[17%]\n\n[スキル情報：一般]\nSG消費量：[45]\nクールタイム：[17秒]\n\n敵を素早く斬り、武器を投げて追撃と加える。\n左クリックで武器を回収する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[208%]+21％\nSA破壊量：[137%]+14％\n\n[スキル情報：追加攻撃]\nダメージ量：[26%]+3％\nSA破壊量：[17%]+2％
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_PeregrineFalcon
 0
 Movie/Skill/PC_G/B_Skill_PeregrineFalcon
 
-
+ID=17072
 猫刀・参ノ型：鷹狩II
 [スキル情報：基本攻撃]\nダメージ量：[229%]\nSA破壊量：[151%]\n\n[スキル情報：追加攻撃]\nダメージ量：[29%]\nSA破壊量：[19%]\n\n[スキル情報：一般]\nSG消費量：[45]\nクールタイム：[17秒]\n\n敵を素早く斬り、武器を投げて追撃と加える。\n左クリックで武器を回収する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[229%]+27％、[29%]+3％\nSA破壊量：[151%]+18％、[19%]+2％
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_PeregrineFalcon
 0
 Movie/Skill/PC_G/B_Skill_PeregrineFalcon
 
-
+ID=17073
 猫刀・参ノ型：鷹狩III
 [スキル情報：基本攻撃]\nダメージ量：[256%]\nSA破壊量：[169%]\n\n[スキル情報：追加攻撃]\nダメージ量：[32%]\nSA破壊量：[21%]\n\n[スキル情報：一般]\nSG消費量：[45]\nクールタイム：[17秒]\n\n敵を素早く斬り、武器を投げて追撃と加える。\n左クリックで武器を回収する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[256%]+36％\nSA破壊量：[169%]+23％\n\n[スキル情報：追加攻撃]\nダメージ量：[32%]+5％\nSA破壊量：[21%]+3％
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_PeregrineFalcon
 0
 Movie/Skill/PC_G/B_Skill_PeregrineFalcon
 
-
+ID=17074
 猫刀・参ノ型：鷹狩IV
 [スキル情報：基本攻撃]\nダメージ量：[292%]\nSA破壊量：[192%]\n\n[スキル情報：追加攻撃]\nダメージ量：[37%]\nSA破壊量：[24%]\n\n[スキル情報：一般]\nSG消費量：[45]\nクールタイム：[17秒]\n\n敵を素早く斬り、武器を投げて追撃と加える。\n左クリックで武器を回収する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[292%]+53％\nSA破壊量：[192%]+35％\n\n[スキル情報：追加攻撃]\nダメージ量：[37%]+6％\nSA破壊量：[24%]+４
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_PeregrineFalcon
 0
 Movie/Skill/PC_G/B_Skill_PeregrineFalcon
 
-
+ID=17075
 猫刀・参ノ型：鷹狩V
 [スキル情報：基本攻撃]\nダメージ量：[345%]\nSA破壊量：[227%]\n\n[スキル情報：追加攻撃]\nダメージ量：[43%]\nSA破壊量：[28%]\n\n[スキル情報：一般]\nSG消費量：[45]\nクールタイム：[17秒]\n\n敵を素早く斬り、武器を投げて追撃と加える。\n左クリックで武器を回収する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_PeregrineFalcon
 0
 Movie/Skill/PC_G/B_Skill_PeregrineFalcon
 
-
+ID=17081
 猫刀・肆ノ型：月斬I
 [スキル情報]\nダメージ量：[290%]\nSA破壊量：[260%]\nSG消費量：[45]\nクールタイム：[22秒]\n\n回転切りで敵を打ち上げる。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:ジャンプ後(左クリック)
 [スキル情報]\nダメージ量：[290%]+29%\nSA破壊量：[260%]+26%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep
 0
 Movie/Skill/PC_G/B_Skill_MoonStep
 
-
+ID=17082
 猫刀・肆ノ型：月斬II
 [スキル情報]\nダメージ量：[319%]\nSA破壊量：[286%]\nSG消費量：[45]\nクールタイム：[22秒]\n\n回転切りで敵を打ち上げる。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:ジャンプ後(左クリック)
 [スキル情報]\nダメージ量：[319%]+38%\nSA破壊量：[285%]+34%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep
 0
 Movie/Skill/PC_G/B_Skill_MoonStep
 
-
+ID=17083
 猫刀・肆ノ型：月斬III
 [スキル情報]\nダメージ量：[357%]\nSA破壊量：[320%]\nSG消費量：[45]\nクールタイム：[22秒]\n\n回転切りで敵を打ち上げる。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:ジャンプ後(左クリック)
 [スキル情報]\nダメージ量：[357%]+50%\nSA破壊量：[320%]+45%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep
 0
 Movie/Skill/PC_G/B_Skill_MoonStep
 
-
+ID=17084
 猫刀・肆ノ型：月斬IV
 [スキル情報]\nダメージ量：[407%]\nSA破壊量：[365%]\nSG消費量：[45]\nクールタイム：[22秒]\n\n回転切りで敵を打ち上げる。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:ジャンプ後(左クリック)
 [スキル情報]\nダメージ量：[407%]+73%\nSA破壊量：[365%]+66%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep
 0
 Movie/Skill/PC_G/B_Skill_MoonStep
 
-
+ID=17085
 猫刀・肆ノ型：月斬V
 [スキル情報]\nダメージ量：[480%]\nSA破壊量：[431%]\nSG消費量：[45]\nクールタイム：[22秒]\n\n回転切りで敵を打ち上げる。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス:ジャンプ後(左クリック)
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep
 0
 Movie/Skill/PC_G/B_Skill_MoonStep
 
-
+ID=17091
 猫刀・伍ノ型：空襲I
 [スキル情報：基本攻撃]\nダメージ量：[43%]\nSA破壊量：[390%]\n\n[スキル情報：追加攻撃]\nダメージ量：[100%]\nSA破壊量：[910%]\n\n[スキル情報：一般]\nSG消費量：[50]\nクールタイム：[20秒]\n\n空中から武器を投擲する。\nその後、強力な蹴りで攻撃し投擲地点に追加ダメージを与える。\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)
 [スキル情報：基本攻撃]\nダメージ量：[43%]+4%\nSA破壊量：[390%]+39%\n\n[スキル情報：追加攻撃]\nダメージ量：[100%]+11%\nSA破壊量：[910%]+91%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GrownCrevasse
 0
 Movie/Skill/PC_G/B_Skill_GrownCrevasse
 
-
+ID=17092
 猫刀・伍ノ型：空襲II
 [スキル情報：基本攻撃]\nダメージ量：[47%]\nSA破壊量：[429%]\n\n[スキル情報：追加攻撃]\nダメージ量：[111%]\nSA破壊量：[1001%]\n\n[スキル情報：一般]\nSG消費量：[50]\nクールタイム：[20秒]\n\n空中から武器を投擲する。\nその後、強力な蹴りで攻撃し投擲地点に追加ダメージを与える。\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)
 [スキル情報：基本攻撃]\nダメージ量：[47%]+6%\nSA破壊量：[429%]+52%\n\n[スキル情報：追加攻撃]\nダメージ量：[111%]+13%\nSA破壊量：[1001%]+120%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GrownCrevasse
 0
 Movie/Skill/PC_G/B_Skill_GrownCrevasse
 
-
+ID=17093
 猫刀・伍ノ型：空襲III
 [スキル情報：基本攻撃]\nダメージ量：[53%]\nSA破壊量：[481%]\n\n[スキル情報：追加攻撃]\nダメージ量：[124%]\nSA破壊量：[1121%]\n\n[スキル情報：一般]\nSG消費量：[50]\nクールタイム：[20秒]\n\n空中から武器を投擲する。\nその後、強力な蹴りで攻撃し投擲地点に追加ダメージを与える。\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)
 [スキル情報：基本攻撃]\nダメージ量：[53%]+7%\nSA破壊量：[481%]+67%\n\n[スキル情報：追加攻撃]\nダメージ量：[124%]+17%\nSA破壊量：[1121%]+157%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GrownCrevasse
 0
 Movie/Skill/PC_G/B_Skill_GrownCrevasse
 
-
+ID=17094
 猫刀・伍ノ型：空襲IV
 [スキル情報：基本攻撃]\nダメージ量：[60%]\nSA破壊量：[548%]\n\n[スキル情報：追加攻撃]\nダメージ量：[141%]\nSA破壊量：[1278%]\n\n[スキル情報：一般]\nSG消費量：[50]\nクールタイム：[20秒]\n\n空中から武器を投擲する。\nその後、強力な蹴りで攻撃し投擲地点に追加ダメージを与える。\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)
 [スキル情報：基本攻撃]\nダメージ量：[60%]+11%\nSA破壊量：[548%]+99%\n\n[スキル情報：追加攻撃]\nダメージ量：[141%]+25%\nSA破壊量：[1278%]+231%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GrownCrevasse
 0
 Movie/Skill/PC_G/B_Skill_GrownCrevasse
 
-
+ID=17095
 猫刀・伍ノ型：空襲V
 [スキル情報：基本攻撃]\nダメージ量：[71%]\nSA破壊量：[647%]\n\n[スキル情報：追加攻撃]\nダメージ量：[166%]\nSA破壊量：[1509%]\n\n[スキル情報：一般]\nSG消費量：[50]\nクールタイム：[20秒]\n\n空中から武器を投擲する。\nその後、強力な蹴りで攻撃し投擲地点に追加ダメージを与える。\n\n[操作方法：空中]\nマウス：ジャンプ後(左クリック)
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GrownCrevasse
 0
 Movie/Skill/PC_G/B_Skill_GrownCrevasse
 
-
+ID=17101
 猫刀・陸ノ型：鬼I
 [スキル情報：基本攻撃]\nダメージ量：[69%]\nSA破壊量：[25%]\n\n[スキル情報：追加攻撃]\nダメージ量：[295%]\nSA破壊量：[105%]\n\n[スキル情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\nSG消費量：[50]\nクールタイム：[30秒]\n\n素早い動きで連続攻撃を仕掛ける。\n追加操作で光速の連撃を行う。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック)
 [スキル情報：基本攻撃]\nダメージ量：[69%]+7%\nSA破壊量：[25%]+2%\n\n[スキル情報：追加攻撃]\nダメージ量：[295%]+30%\nSA破壊量：[105%]+11%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AccelerateGrinder
 0
 Movie/Skill/PC_G/B_Skill_AccelearateGrinder
 
-
+ID=17102
 猫刀・陸ノ型：鬼II
 [スキル情報：基本攻撃]\nダメージ量：[76%]\nSA破壊量：[27%]\n\n[スキル情報：追加攻撃]\nダメージ量：[325%]\nSA破壊量：[116%]\n\n[スキル情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[1]\n\nSG消費量：[50]\nクールタイム：[30秒]\n\n素早い動きで連続攻撃を仕掛ける。\n追加操作で光速の連撃を行う。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：(左クリック)
 [スキル情報：基本攻撃]\nダメージ量：[76%]+9%\nSA破壊量：[27%]+3%\n\n[スキル情報：追加攻撃]\nダメージ量：[325%]+39%\nSA破壊量：[116%]+13%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AccelerateGrinder
 0
 Movie/Skill/PC_G/B_Skill_AccelearateGrinder
 
-
+ID=17103
 猫刀・陸ノ型：鬼III
 [スキル情報：基本攻撃]\nダメージ量：[85%]\nSA破壊量：[30%]\n\n[スキル情報：追加攻撃]\nダメージ量：[364%]\nSA破壊量：[129%]\n\n[スキル情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[1]\n\nSG消費量：[50]\nクールタイム：[30秒]\n\n素早い動きで連続攻撃を仕掛ける。\n追加操作で光速の連撃を行う。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n[操作方法：追加攻撃]マウス：(左クリック)
 [スキル情報：基本攻撃]\nダメージ量：[85%]+12%\nSA破壊量：[30%]+4%\n\n[スキル情報：追加攻撃]\nダメージ量：[364%]+51%\nSA破壊量：[129%]+18%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AccelerateGrinder
 0
 Movie/Skill/PC_G/B_Skill_AccelearateGrinder
 
-
+ID=17104
 猫刀・陸ノ型：鬼IV
 [スキル情報：基本攻撃]\nダメージ量：[97%]\nSA破壊量：[34%]\n\n[スキル情報：追加攻撃]\nダメージ量：[415%]\nSA破壊量：[147%]\n\n[スキル情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[1]\n\nSG消費量：[50]\nクールタイム：[30秒]\n\n素早い動きで連続攻撃を仕掛ける。\n追加操作で光速の連撃を行う。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n[操作方法：追加攻撃]マウス：(左クリック)
 [スキル情報：基本攻撃]\nダメージ量：[97%]+17%\nSA破壊量：[34%]+7%\n\n[スキル情報：追加攻撃]\nダメージ量：[415%]+75%\nSA破壊量：[147%]+27%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AccelerateGrinder
 0
 Movie/Skill/PC_G/B_Skill_AccelearateGrinder
 
-
+ID=17105
 猫刀・陸ノ型：鬼V
 [スキル情報：基本攻撃]\nダメージ量：[114%]\nSA破壊量：[41%]\n\n[スキル情報：追加攻撃]\nダメージ量：[490%]\nSA破壊量：[174%]\n\n[スキル情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[1]\n\nSG消費量：[50]\nクールタイム：[30秒]\n\n素早い動きで連続攻撃を仕掛ける。\n追加操作で光速の連撃を行う。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n[操作方法：追加攻撃]マウス：(左クリック)
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AccelerateGrinder
 0
 Movie/Skill/PC_G/B_Skill_AccelearateGrinder
 
-
+ID=17111
 猫刀・零ノ型：刃ノ嵐I
 [スキル情報：基本攻撃]\nダメージ量：[97%]\nSA破壊量：[152%]\n\n[スキル情報：追加攻撃]\nダメージ量：[484%]\nSA破壊量：[762%]\n\n[スキル情報：一般]\nSG消費量：[45]\nクールタイム：[35秒]\n\n素早い抜刀により、広域範囲に連撃を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[97%]+9%\nSA破壊量：[152%]+16%\n\n[スキル情報：追加攻撃]\nダメージ量：[484%]+48%\nSA破壊量：[762%]+77%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty
 
-
+ID=17112
 猫刀・零ノ型：刃ノ嵐II
 [スキル情報：基本攻撃]\nダメージ量：[106%]\nSA破壊量：[168%]\n\n[スキル情報：追加攻撃]\nダメージ量：[532%]\nSA破壊量：[839%]\n\n[スキル情報：一般]\nSG消費量：[45]\nクールタイム：[35秒]\n\n素早い抜刀により、広域範囲に連撃を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[106%]+22%\nSA破壊量：[168%]+20%\n\n[スキル情報：追加攻撃]\nダメージ量：[532%]+107%\nSA破壊量：[839%]+100%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty
 
-
+ID=17113
 猫刀・零ノ型：刃ノ嵐III
 [スキル情報：基本攻撃]\nダメージ量：[128%]\nSA破壊量：[188%]\n\n[スキル情報：追加攻撃]\nダメージ量：[639%]\nSA破壊量：[939%]\n\n[スキル情報：一般]\nSG消費量：[45]\nクールタイム：[35秒]\n\n素早い抜刀により、広域範囲に連撃を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[128%]+25%\nSA破壊量：[188%]+26%\n\n[スキル情報：追加攻撃]\nダメージ量：[639%]+127%\nSA破壊量：[939%]+132%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty
 
-
+ID=17114
 猫刀・零ノ型：刃ノ嵐IV
 [スキル情報：基本攻撃]\nダメージ量：[153%]\nSA破壊量：[214%]\n\n[スキル情報：追加攻撃]\nダメージ量：[766%]\nSA破壊量：[1071%]\n\n[スキル情報：一般]\nSG消費量：[45]\nクールタイム：[35秒]\n\n素早い抜刀により、広域範囲に連撃を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[153%]+46%\nSA破壊量：[214%]+39%\n\n[スキル情報：追加攻撃]\nダメージ量：[766%]+230%\nSA破壊量：[1071%]+192%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty
 
-
+ID=17115
 猫刀・零ノ型：刃ノ嵐V
 [スキル情報：基本攻撃]\nダメージ量：[199%]\nSA破壊量：[253%]\n\n[スキル情報：追加攻撃]\nダメージ量：[996%]\nSA破壊量：[1263%]\n\n[スキル情報：一般]\nSG消費量：[45]\nクールタイム：[35秒]\n\n素早い抜刀により、広域範囲に連撃を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty
 
-
+ID=17121
 捕食者の怒りI
 [スキル情報：基本攻撃]\nダメージ量：[1028%]\nSA破壊量：[706%]\n\n[スキル情報：追加攻撃]\nダメージ量：[428%]\nSA破壊量：[294%]\n\n[スキル情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[1]\nSG消費量：[50]\nクールタイム：[35秒]\n\n右手をソウルジャンク化し、突き攻撃をする。\n長押しで攻撃範囲は徐々に広がる。\n追加操作を行う事で、即時追加攻撃を行う事ができる。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：(左クリックの長押し解除)
 [スキル情報：基本攻撃]\nダメージ量：[1028%]+104%\nSA破壊量：[706%]+72%\n\n[スキル情報：追加攻撃]\nダメージ量：[428%]+44%\nSA破壊量：[294%]+30%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_Thunderbolt
 0
 Movie/Skill/PC_G/B_Skill_Thunderbolt
 
-
+ID=17122
 捕食者の怒りII
 [スキル情報：基本攻撃]\nダメージ量：[1132%]\nSA破壊量：[778%]\n\n[スキル情報：追加攻撃]\nダメージ量：[472%]\nSA破壊量：[324%]\n\n[スキル情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[1]\nSG消費量：[50]\nクールタイム：[35秒]\n\n右手をソウルジャンク化し、突き攻撃をする。\n長押しで攻撃範囲は徐々に広がる。\n追加操作を行う事で、即時追加攻撃を行う事ができる。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：(左クリックの長押し解除)
 [スキル情報：基本攻撃]\nダメージ量：[1132%]+136%\nSA破壊量：[778%]+92%\n\n[スキル情報：追加攻撃]\nダメージ量：[472%]+56%\nSA破壊量：[324%]+39%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_Thunderbolt
 0
 Movie/Skill/PC_G/B_Skill_Thunderbolt
 
-
+ID=17123
 捕食者の怒りIII
 [スキル情報：基本攻撃]\nダメージ量：[1268%]\nSA破壊量：[870%]\n\n[スキル情報：追加攻撃]\nダメージ量：[528%]\nSA破壊量：[363%]\n\n[スキル情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[1]\nSG消費量：[50]\nクールタイム：[35秒]\n\n右手をソウルジャンク化し、突き攻撃をする。\n長押しで攻撃範囲は徐々に広がる。\n追加操作を行う事で、即時追加攻撃を行う事ができる。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：(左クリックの長押し解除)
 [スキル情報：基本攻撃]\nダメージ量：[1268%]+177%\nSA破壊量：[870%]+123%\n\n[スキル情報：追加攻撃]\nダメージ量：[528%]+74%\nSA破壊量：[363%]+51%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_Thunderbolt
 0
 Movie/Skill/PC_G/B_Skill_Thunderbolt
 
-
+ID=17124
 捕食者の怒りIV
 [スキル情報：基本攻撃]\nダメージ量：[1445%]\nSA破壊量：[993%]\n\n[スキル情報：追加攻撃]\nダメージ量：[602%]\nSA破壊量：[414%]\n\n[スキル情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[1]\nSG消費量：[50]\nクールタイム：[35秒]\n\n右手をソウルジャンク化し、突き攻撃をする。\n長押しで攻撃範囲は徐々に広がる。\n追加操作を行う事で、即時追加攻撃を行う事ができる。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：(左クリックの長押し解除)
 [スキル情報：基本攻撃]\nダメージ量：[1445%]+260%\nSA破壊量：[993%]+178%\n\n[スキル情報：追加攻撃]\nダメージ量：[602%]+108%\nSA破壊量：[414%]+74%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_Thunderbolt
 0
 Movie/Skill/PC_G/B_Skill_Thunderbolt
 
-
+ID=17125
 捕食者の怒りV
 [スキル情報：基本攻撃]\nダメージ量：[1705%]\nSA破壊量：[1171%]\n\n[スキル情報：追加攻撃]\nダメージ量：[710%]\nSA破壊量：[488%]\n\n[スキル情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[1]\nSG消費量：[50]\nクールタイム：[35秒]\n\n右手をソウルジャンク化し、突き攻撃をする。\n長押しで攻撃範囲は徐々に広がる。\n追加操作を行う事で、即時追加攻撃を行う事ができる。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：(左クリックの長押し解除)
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_Thunderbolt
 0
 Movie/Skill/PC_G/B_Skill_Thunderbolt
 
-
+ID=17131
 捕食者的宣告
 [スキル情報：基本攻撃]\nダメージ量：[531%]\nSA破壊量：[390%]\n\n[スキル情報：追加攻撃]\nダメージ量：[2233%]\nSA破壊量：[1640%]\n\n[スキル情報：一般]\nSG消費量：[75]\nクールタイム：[45秒]\n\nソウルジャンク化した武器で、広範囲を薙ぎ払い、爆発を起こし追撃する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[531%]+53%\nSA破壊量：[390%]+39%\n\n[スキル情報：追加攻撃]\nダメージ量：[2233%]+224%\nSA破壊量：[1640%]+165%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GiantKatana
 0
 Movie/Skill/PC_G/B_Skill_GiantKatana
 
-
+ID=17132
 捕食者の宣告II
 [スキル情報：基本攻撃]\nダメージ量：[584%]\nSA破壊量：[429%]\n\n[スキル情報：追加攻撃]\nダメージ量：[2457%]\nSA破壊量：[1805%]\n\n[スキル情報：一般]\nSG消費量：[75]\nクールタイム：[45秒]\n\nソウルジャンク化した武器で、広範囲を薙ぎ払い、爆発を起こし追撃する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[584%]+70%\nSA破壊量：[429%]+51%\n\n[スキル情報：追加攻撃]\nダメージ量：[2457%]+294%\nSA破壊量：[1805%]+216%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GiantKatana
 0
 Movie/Skill/PC_G/B_Skill_GiantKatana
 
-
+ID=17133
 捕食者の宣告III
 [スキル情報：基本攻撃]\nダメージ量：[654%]\nSA破壊量：[480%]\n\n[スキル情報：追加攻撃]\nダメージ量：[2751%]\nSA破壊量：[2021%]\n\n[スキル情報：一般]\nSG消費量：[75]\nクールタイム：[45秒]\n\nソウルジャンク化した武器で、広範囲を薙ぎ払い、爆発を起こし追撃する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[654%]+91%\nSA破壊量：[480%]+67%\n\n[スキル情報：追加攻撃]\nダメージ量：[2751%]+386%\nSA破壊量：[2021%]+283%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GiantKatana
 0
 Movie/Skill/PC_G/B_Skill_GiantKatana
 
-
+ID=17134
 捕食者の宣告IV
 [スキル情報：基本攻撃]\nダメージ量：[745%]\nSA破壊量：[547%]\n\n[スキル情報：追加攻撃]\nダメージ量：[3137%]\nSA破壊量：[2304%]\n\n[スキル情報：一般]\nSG消費量：[75]\nクールタイム：[45秒]\n\nソウルジャンク化した武器で、広範囲を薙ぎ払い、爆発を起こし追撃する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [スキル情報：基本攻撃]\nダメージ量：[745%]+135%\nSA破壊量：[547%]+99%\n\n[スキル情報：追加攻撃]\nダメージ量：[3137%]+565%\nSA破壊量：[2304%]+415%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GiantKatana
 0
 Movie/Skill/PC_G/B_Skill_GiantKatana
 
-
+ID=17135
 捕食者の宣告V
 [スキル情報：基本攻撃]\nダメージ量：[880%]\nSA破壊量：[646%]\n\n[スキル情報：追加攻撃]\nダメージ量：[3702%]\nSA破壊量：[2719%]\n\n[スキル情報：一般]\nSG消費量：[75]\nクールタイム：[45秒]\n\nソウルジャンク化した武器で、広範囲を薙ぎ払い、爆発を起こし追撃する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_GiantKatana
 0
 Movie/Skill/PC_G/B_Skill_GiantKatana
 
-
+ID=17911
 覚醒
 2段階ゲージ消費（SV100消費）\n\n[スキル情報]\n60秒間、覚醒状態になる。\n-最大ダメージを固定する。\n-受けるダメージ量が25%減少する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_BreakErode
 0
 Movie/Skill/PC_G/B_Skill_SoulViper_02
 
-
+ID=17912
 侵食
 1段階ゲージ消費（SV50消費）\n\n[スキル情報]\n30秒間、覚醒状態になる。\n-最大ダメージを固定する。\n-移動速度が20%増加する。\n-SA状態になる。\n\n体を覚醒させ、身体能力を一時的に向上させる。\nソウルベイパーを消費し、スキルを使用する。\n\n[操作方法]\nキーボード：数字キー「7」入力
 受けるダメージ量が25%減少する。
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_BreakWakeup
 0
 Movie/Skill/PC_G/B_Skill_SoulViper_01
 
-
+ID=27011
 黒い血[爪痕]I
 [スキル情報：基本攻撃]\nダメージ量：[120%]\nSA破壊量：[83%]\n\n[スキル情報：追加攻撃]\nダメージ量：[241%]\nSA破壊量：[165%]\n\n[スキル情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[3]\n\nHP消費：現在HPの[5%]\nクールタイム：[10秒]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行うことで、ダメージを与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)x2
 [特性情報：基本攻撃]\nクールタイム：[10秒]-1秒
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
 Movie/Skill/PC_G/B_Skill_ScareClow_A
 
-
+ID=27012
 黒い血[爪痕]II
 [スキル情報：基本攻撃]\nダメージ量：[120%]\nSA破壊量：[83%]\n\n[スキル情報：追加攻撃]\nダメージ量：[241%]\nSA破壊量：[165%]\n\n[スキル情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[3]\n\nHP消費：現在HPの[5%]\nクールタイム：[9秒]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行うことで、ダメージを与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)x2
 [特性情報：基本攻撃]\nクールタイム：[9秒]-2秒
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
 Movie/Skill/PC_G/B_Skill_ScareClow_A
 
-
+ID=27013
 黒い血[爪痕]III
 [スキル情報：基本攻撃]\nダメージ量：[120%]\nSA破壊量：[83%]\n\n[スキル情報：追加攻撃]\nダメージ量：[241%]\nSA破壊量：[165%]\n\n[スキル情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[3]\n\nHP消費：現在HPの[5%]\nクールタイム：[7秒]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行うことで、ダメージを与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)x2
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
 Movie/Skill/PC_G/B_Skill_ScareClow_A
 
-
+ID=27016
 出血I
 [スキル情報：基本攻撃]\nダメージ量：[80%]\nSA破壊量：[55%]\n\n[スキル情報：追加攻撃]\nダメージ量：[159%]\nSA破壊量：[110%]\n\n[スキル情報：一般]\nバフ効果：SG[12]回復\nデバフ効果：5秒間出血[2%]\n\n追加攻撃で[出血]を付与し、SGを回復する。\n\n[操作方法]\nマウス：攻撃後(左クリック)x2
 [特性情報：基本攻撃]\nダメージ量：[80%]+7%\nSA破壊量：[55%]+5%\n\n[特性情報：追加攻撃]\nダメージ量：[159%]+15%\nSA破壊量：[110%]+9%\n\n[特性情報：一般]\nバフ効果：SG[12]+6\nデバフ効果：出血[2%]+1%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ScareClow_B
 0
 Movie/Skill/PC_G/B_Skill_ScareClow_B
 
-
+ID=27017
 出血II
 [スキル情報：基本攻撃]\nダメージ量：[87%]\nSA破壊量：[60%]\n\n[スキル情報：追加攻撃]\nダメージ量：[174%]\nSA破壊量：[119%]\n\n[スキル情報：一般]\nバフ効果：SG[18]回復\nデバフ効果：5秒間出血[3%]\n\n追加攻撃で[出血]を付与し、SGを回復する。\n\n[操作方法]\nマウス：攻撃後(左クリック)x2
 [特性情報：基本攻撃]\nダメージ量：[87%]+13%\nSA破壊量：[60%]+9%\n\n[特性情報：追加攻撃]\nダメージ量：[174%]+26%\nSA破壊量：[119%]+18%\n\n[特性情報：一般]\nバフ効果：SG[18]+7\nデバフ効果：出血[3%]+1%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ScareClow_B
 0
 Movie/Skill/PC_G/B_Skill_ScareClow_B
 
-
+ID=27018
 出血III
 [スキル情報：基本攻撃]\nダメージ量：[100%]\nSA破壊量：[69%]\n\n[スキル情報：追加攻撃]\nダメージ量：[200%]\nSA破壊量：[137%]\n\n[スキル情報：一般]\nバフ効果：SG[25]回復\nデバフ効果：5秒間出血[4%]\n\n追加攻撃で[出血]を付与し、SGを回復する。\n\n[操作方法]\nマウス：攻撃後(左クリック)x2
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_ScareClow_B
 0
 Movie/Skill/PC_G/B_Skill_ScareClow_B
 
-
+ID=27021
 黒い血[鳥落とし]I
 [特性情報：基本攻撃]\nダメージ量：[630%]\nSA破壊量：[539%]\n\n[特性情報：追加攻撃]\nダメージ量：[140%][770%]\nSA破壊量：[120%][659%]\n\n[特性情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[2]\n\nHP消費：現在HPの[5%]\nクールタイム：[15秒]\n\n自身の生命力を消費し、戦闘]力を強化する。\n[獲物捕捉]は特殊攻撃を行うことで、ダメージを与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)
 [特性情報：基本攻撃]\nクールタイム：[15秒]-1秒
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
 Movie/Skill/PC_G/B_Skill_OverturnGround_A
 
-
+ID=27022
 黒い血[鳥落とし]II
 [特性情報：基本攻撃]\nダメージ量：[630%]\nSA破壊量：[539%]\n\n[特性情報：追加攻撃]\nダメージ量：[140%][770%]\nSA破壊量：[120%][659%]\n\n[特性情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[2]\n\nHP消費：現在HPの[5%]\nクールタイム：[14秒]\n\n自身の生命力を消費し、戦闘]力を強化する。\n[獲物捕捉]は特殊攻撃を行うことで、ダメージを与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)
 [特性情報：基本攻撃]\nクールタイム：[14秒]-2秒
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
 Movie/Skill/PC_G/B_Skill_OverturnGround_A
 
-
+ID=27023
 黒い血[鳥落とし]III
 [特性情報：基本攻撃]\nダメージ量：[630%]\nSA破壊量：[539%]\n\n[特性情報：追加攻撃]\nダメージ量：[140%][770%]\nSA破壊量：[120%][659%]\n\n[特性情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[2]\n\nHP消費：現在HPの[5%]\nクールタイム：[12秒]\n\n自身の生命力を消費し、戦闘]力を強化する。\n[獲物捕捉]は特殊攻撃を行うことで、ダメージを与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：攻撃後(左クリック)
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
 Movie/Skill/PC_G/B_Skill_OverturnGround_A
 
-
+ID=27026
 HP吸収I
 [特性情報：基本攻撃]\nダメージ量：[383%]\nSA破壊量：[311%]\n\n[特性情報：追加攻撃]\nダメージ量：[85%][469%]\nSA破壊量：[69%][380%]\n\n[特性情報：一般]\nバフ効果：SG[12]回復\nバフ効果：HP吸収[5%]\nデバフ効果：攻撃速度、移動速度[15%]減少[5秒]\n\nスキル使用時、ダメージに比例してHP吸収効果を付与する。\n追加攻撃で敵の攻撃速度、移動速度を減少させる。\n\n[操作方法]\nマウス：攻撃後(左クリック)
 [特性情報：基本攻撃]\nダメージ量：[383%]+35%\nSA破壊量：[311%]+28%\n\n[特性情報：追加攻撃]\nダメージ量：[85%]+8%、[469%]+41%\nSA破壊量：[69%]+6%、[380%]+34%\n\n[特性情報：一般]\nバフ効果：SG[12]+6\n吸血[5%]+5%\nデバフ持続時間：[5秒]+2秒
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_OverturnGround_B
 0
 Movie/Skill/PC_G/B_Skill_OverturnGround_B
 
-
+ID=27027
 HP吸収II
 [特性情報：基本攻撃]\nダメージ量：[418%]\nSA破壊量：[339%]\n\n[特性情報：追加攻撃]\nダメージ量：[93%][510%]\nSA破壊量：[75%][414%]\n\n[特性情報：一般]\nバフ効果：SG[18]回復\nバフ効果：HP吸収[10%]\nデバフ効果：攻撃速度、移動速度[15%]減少[7秒]\n\nスキル使用時、ダメージに比例してHP吸収効果を付与する。\n追加攻撃で敵の攻撃速度、移動速度を減少させる。\n\n[操作方法]\nマウス：攻撃後(左クリック)
 [特性情報：基本攻撃]\nダメージ量：[418%]+62%\nSA破壊量：[339%]+50%\n\n[特性情報：追加攻撃]\nダメージ量：[93%]+14%、[510%]+77%\nSA破壊量：[75%]+12%、[414%]+62%\n\n[特性情報：一般]\nバフ効果：SG[18]+7\n吸血[10%]+5%\nデバフ持続時間：[7秒]+3秒
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_OverturnGround_B
 0
 Movie/Skill/PC_G/B_Skill_OverturnGround_B
 
-
+ID=27028
 HP吸収III
 [特性情報：基本攻撃]\nダメージ量：[480%]\nSA破壊量：[389%]\n\n[特性情報：追加攻撃]\nダメージ量：[107%][587%]\nSA破壊量：[87%][476%]\n\n[特性情報：一般]\nバフ効果：SG[25]回復\nバフ効果：HP吸収[15%]\nデバフ効果：攻撃速度、移動速度[15%]減少[10秒]\n\nスキル使用時、ダメージに比例してHP吸収効果を付与する。\n追加攻撃で敵の攻撃速度、移動速度を減少させる。\n\n[操作方法]\nマウス：攻撃後(左クリック)
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_OverturnGround_B
 0
 Movie/Skill/PC_G/B_Skill_OverturnGround_B
 
-
+ID=27041
 チャージI
 [特性情報：基本攻撃]\nダメージ量：[802%]\nSA破壊量：[995%]\n\n[特性情報：追加攻撃]\nダメージ量：[361%]\nSA破壊量：[448%]\n\n[特性情報：チャージ]\nダメージ量：[2.5倍]\n\nクールタイム：[20秒]\n\nチャージ段階が減る。\n標的の重複回数により、ダメージが増加する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キーを長押し
 [特性情報：基本攻撃]\nダメージ量：[802%]+160%\nSA破壊量：[995%]+199%\n\n[特性情報：追加攻撃]\nダメージ量：[361%]+72%\nSA破壊量：[448%]+89%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AllegroSweep_A
 0
 Movie/Skill/PC_G/B_Skill_AllegroSweep_A
 
-
+ID=27042
 チャージIII
 [特性情報：基本攻撃]\nダメージ量：[962%]\nSA破壊量：[1194%]\n\n[特性情報：追加攻撃]\nダメージ量：[433%]\nSA破壊量：[537%]\n\n[特性情報：チャージ]\nダメージ量：[2.5倍]\n\nクールタイム：[20秒]\n\nチャージ段階が減る。\n標的の重複回数により、ダメージが増加する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キーを長押し
 [特性情報：基本攻撃]\nダメージ量：[962%]+385%\nSA破壊量：[1194%]+478%\n\n[特性情報：追加攻撃]\nダメージ量：[433%]+173%\nSA破壊量：[537%]+215%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AllegroSweep_A
 0
 Movie/Skill/PC_G/B_Skill_AllegroSweep_A
 
-
+ID=27043
 チャージIII
 [特性情報：基本攻撃]\nダメージ量：[1347%]\nSA破壊量：[1672%]\n\n[特性情報：追加攻撃]\nダメージ量：[606%]\nSA破壊量：[752%]\n\n[特性情報：チャージ]\nダメージ量：[2.5倍]\n\nクールタイム：[20秒]\n\nチャージ段階が減る。\n標的の重複回数により、ダメージが増加する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キーを長押し
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AllegroSweep_A
 0
 Movie/Skill/PC_G/B_Skill_AllegroSweep_A
 
-
+ID=27061
 黒い血[捕食者の渇望]I
 [特性情報]\nダメージ量：[142%][170%]\nSA破壊量：[164%][196%]\n\n[特性情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[2]\n\nHP消費：現在HPの[10%]\nクールタイム：[18秒]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行うことで、ダメージを与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キーを長押し
 [特性情報]\nクールタイム：[18秒]-1秒
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
 Movie/Skill/PC_G/B_Skill_SeizeField_A
 
-
+ID=27062
 黒い血[捕食者の渇望]II
 [特性情報]\nダメージ量：[142%][170%]\nSA破壊量：[164%][196%]\n\n[特性情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[2]\n\nHP消費：現在HPの[10%]\nクールタイム：[17秒]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行うことで、ダメージを与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キーを長押し
 [特性情報]\nクールタイム：[17秒]-2秒
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
 Movie/Skill/PC_G/B_Skill_SeizeField_A
 
-
+ID=27063
 黒い血[捕食者の渇望]III
 [特性情報]\nダメージ量：[142%][170%]\nSA破壊量：[164%][196%]\n\n[特性情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[2]\n\nHP消費：現在HPの[10%]\nクールタイム：[15秒]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行うことで、ダメージを与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キーを長押し
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
 Movie/Skill/PC_G/B_Skill_SeizeField_A
 
-
+ID=27066
 牙I
 [特性情報：基本攻撃]\nダメージ量：[80%]、[96%]\nSA破壊量：[87%]、[105%]\n\n[特性情報：追加攻撃]\nダメージ量：[159%]\nSA破壊量：[174%]\n\n[特性情報：バフ]\nバフ効果：防御貫通[3%]増加\nバフ持続時間：[15秒]\nバフ効果：SG回復[8]\n\nスキル使用時に自身に戦闘力を強化する。\n攻撃命中時、SGを回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [特性情報：基本攻撃]\nダメージ量：[80%]+7%、[96%]+8%\nSA破壊量：[87%]+8%、[105%]+9%\n\n[特性情報：追加攻撃]\nダメージ量：[159%]+15%\nSA破壊量：[174%]+16%\n\n[特性情報：一般]\nバフ効果：防御貫通[3%]+4%\nバフ効果：SG[8]+4
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SeizeField_B
 0
 Movie/Skill/PC_G/B_Skill_SeizeField_B
 
-
+ID=27067
 牙II
 [特性情報：基本攻撃]\nダメージ量：[87%]、[104%]\nSA破壊量：[95%]、[114%]\n\n[特性情報：追加攻撃]\nダメージ量：[174%]\nSA破壊量：[190%]\n\n[特性情報：バフ]\nバフ効果：防御貫通[7%]増加\nバフ持続時間：[15秒]\nバフ効果：SG回復[12]\n\nスキル使用時に自身に戦闘力を強化する。\n攻撃命中時、SGを回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [特性情報：基本攻撃]\nダメージ量：[87%]+13%]、[104%]+16%\nSA破壊量：[95%]+14%、[114%]+17%\n\n[特性情報：追加攻撃]\nダメージ量：[174%]+26%\nSA破壊量：[190%]+28%\n\n[特性情報：一般]\nバフ効果：防御貫通：[7%]+8%\nバフ効果：SG[12]+6
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SeizeField_B
 0
 Movie/Skill/PC_G/B_Skill_SeizeField_B
 
-
+ID=27068
 牙III
 [特性情報：基本攻撃]\nダメージ量：[100%]、[120%]\nSA破壊量：[109%]、[131%]\n\n[特性情報：追加攻撃]\nダメージ量：[200%]\nSA破壊量：[218%]\n\n[特性情報：バフ]\nバフ効果：防御貫通[15%]増加\nバフ持続時間：[15秒]\nバフ効果：SG回復[18]\n\nスキル使用時に自身に戦闘力を強化する。\n攻撃命中時、SGを回復する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SeizeField_B
 0
 Movie/Skill/PC_G/B_Skill_SeizeField_B
 
-
+ID=27081
 急所狙いI
 [特性情報：基本攻撃]\nダメージ量：[480%]\nSA破壊量：[431%]\n\n[特性情報：追加攻撃]\nダメージ量：[960%]\nSA破壊量：[862%]\n\n敵に強力な斬撃を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：空中で(左クリック)
 [特性情報：基本攻撃]\nダメージ量：[480%]+44%\nSA破壊量：[431%]+38%\n\n[特性情報：追加攻撃]\nダメージ量：[960%]+87%\nSA破壊量：[862%]+76%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep_A
 0
 Movie/Skill/PC_G/B_Skill_MoonStep_A
 
-
+ID=27082
 急所狙いII
 [特性情報：基本攻撃]\nダメージ量：[524%]\nSA破壊量：[469%]\n\n[特性情報：追加攻撃]\nダメージ量：[1047%]\nSA破壊量：[938%]\n\n敵に強力な斬撃を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：空中で(左クリック)
 [特性情報：基本攻撃]\nダメージ量：[524%]+78%\nSA破壊量：[469%]+71%\n\n[特性情報：追加攻撃]\nダメージ量：[1047%]+157%\nSA破壊量：[938%]+142%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep_A
 0
 Movie/Skill/PC_G/B_Skill_MoonStep_A
 
-
+ID=27083
 急所狙いIII
 [特性情報：基本攻撃]\nダメージ量：[602%]\nSA破壊量：[540%]\n\n[特性情報：追加攻撃]\nダメージ量：[1204%]\nSA破壊量：[1080%]\n\n敵に強力な斬撃を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：空中で(左クリック)
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep_A
 0
 Movie/Skill/PC_G/B_Skill_MoonStep_A
 
-
+ID=27086
 落雷I
 [特性情報：基本攻撃]\nダメージ量：[480%]\nSA破壊量：[431%]\n\n[特性情報：追加攻撃]\nダメージ量：[672%]\nSA破壊量：[603%]\nデバフ効果：麻痺[3秒]\n\n追加攻撃で雷を落とし麻痺を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：空中で(左クリック)
 [特性情報：基本攻撃]\nダメージ量：[480%]+44％\nSA破壊量：[431%]+38％\n\n[特性情報：追加攻撃]\nダメージ量：[672%]+61％\nSA破壊量：[603%]+54％\nデバフ効果：麻痺[3秒]+1秒
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep_B
 0
 Movie/Skill/PC_G/B_Skill_MoonStep_B
 
-
+ID=27087
 落雷II
 [特性情報：基本攻撃]\nダメージ量：[524%]\nSA破壊量：[469%]\n\n[特性情報：追加攻撃]\nダメージ量：[733%]\nSA破壊量：[657%]\nデバフ効果：麻痺[4秒]\n\n追加攻撃で雷を落とし麻痺を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：空中で(左クリック)
 [特性情報：基本攻撃]\nダメージ量：[524%]+78％\nSA破壊量：[469%]+71％\n\n[特性情報：追加攻撃]\nダメージ量：[733%]+110％\nSA破壊量：[657%]+98％\nデバフ効果：麻痺[４秒]+1秒
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep_B
 0
 Movie/Skill/PC_G/B_Skill_MoonStep_B
 
-
+ID=27088
 落雷III
 [特性情報：基本攻撃]\nダメージ量：[602%]\nSA破壊量：[540%]\n\n[特性情報：追加攻撃]\nダメージ量：[843%]\nSA破壊量：[755%]\nデバフ効果：麻痺[5秒]\n\n追加攻撃で雷を落とし麻痺を与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力\n\n[操作方法：追加攻撃]\nマウス：空中で(左クリック)
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_MoonStep_B
 0
 Movie/Skill/PC_G/B_Skill_MoonStep_B
 
-
+ID=27101
 黒い血[鬼の歌]I
 [特性情報：基本攻撃]\nダメージ量：[254%]\nSA破壊量：95%]\n\n[特性情報：追加攻撃]\nダメージ量：[1091%]\nSA破壊量：[409%]\n\n[特性情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[2]\nHP消費：現在HPの[12%]\nクールタイム：[35秒]\n攻撃時間減少：[20%]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行うことで、ダメージを与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キーを長押し\n\n[操作方法：追加攻撃]\nマウス：スキル使用後、(左クリック)連打
 [特性情報]\nクールタイム：[35秒]-2秒
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
 Movie/Skill/PC_G/B_Skill_AccelearateGrinder_A
 
-
+ID=27102
 黒い血[鬼の歌]II
 [特性情報：基本攻撃]\nダメージ量：[254%]\nSA破壊量：95%]\n\n[特性情報：追加攻撃]\nダメージ量：[1091%]\nSA破壊量：[409%]\n\n[特性情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[2]\nHP消費：現在HPの[12%]\nクールタイム：[33秒]\n攻撃時間減少：[20%]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行うことで、ダメージを与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キーを長押し\n\n[操作方法：追加攻撃]\nマウス：スキル使用後、(左クリック)連打
 [特性情報]\nクールタイム：[33秒]-3秒
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
 Movie/Skill/PC_G/B_Skill_AccelearateGrinder_A
 
-
+ID=27103
 黒い血[鬼の歌]III
 [特性情報：基本攻撃]\nダメージ量：[254%]\nSA破壊量：95%]\n\n[特性情報：追加攻撃]\nダメージ量：[1091%]\nSA破壊量：[409%]\n\n[特性情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[2]\nHP消費：現在HPの[12%]\nクールタイム：[30秒]\n攻撃時間減少：[20%]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行うことで、ダメージを与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キーを長押し\n\n[操作方法：追加攻撃]\nマウス：スキル使用後、(左クリック)連打
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
 Movie/Skill/PC_G/B_Skill_AccelearateGrinder_A
 
-
+ID=27111
 打撃数の増加I
 [特性情報：基本攻撃]\nダメージ量：[199%]\nSA破壊量：[253%]\n\n[特性情報：追加攻撃]\nダメージ量：[1793%]\nSA破壊量：[2273%]\n\n追加攻撃の攻撃回数が増加する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [特性情報：基本攻撃]\nダメージ量：[199%]+20％\nSA破壊量：[253%]+22％\n\n[特性情報：追加攻撃]\nダメージ量：[1793%]+180%\nSA破壊量：[2273%] +206%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty_A
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty_A
 
-
+ID=27112
 打撃数の増加II
 [特性情報：基本攻撃]\nダメージ量：[219%]\nSA破壊量：[275%]\n\n[特性情報：追加攻撃]\nダメージ量：[1973%]\nSA破壊量：[2479%]\n\n追加攻撃の攻撃回数が増加する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [特性情報：基本攻撃]\nダメージ量：[219%]+46％\nSA破壊量：[275%]+42％\n\n[特性情報：追加攻撃]\nダメージ量：[1973%]+414%\nSA破壊量：[2479%] +370%
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty_A
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty_A
 
-
+ID=27113
 打撃数の増加III
 [特性情報：基本攻撃]\nダメージ量：[265%]\nSA破壊量：[317%]\n\n[特性情報：追加攻撃]\nダメージ量：[2387%]\nSA破壊量：[2849%]\n\n追加攻撃の攻撃回数が増加する。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_AssassinateParty_A
 0
 Movie/Skill/PC_G/B_Skill_AssasinateParty_A
 
-
+ID=27121
 黒い血[捕食者の怒り]I
 [特性情報：基本攻撃]\nダメージ量：[3038%]\nSA破壊量：[2202%]\n\n[特性情報：追加攻撃]\nダメージ量：[1266%]\nSA破壊量：[917%]\n\n[特性情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[2]\n\nHP消費：現在HP[12%]\nクールタイム：[40秒]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行う事で、ダメージを与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [特性情報]\nクールタイム：[40秒]‐2秒
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
 Movie/Skill/PC_G/B_Skill_Thunderbolt_A
 
-
+ID=27122
 黒い血[捕食者の怒り]II
 [特性情報：基本攻撃]\nダメージ量：[3038%]\nSA破壊量：[2202%]\n\n[特性情報：追加攻撃]\nダメージ量：[1266%]\nSA破壊量：[917%]\n\n[特性情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付：[2]\n\nHP消費：現在HP[12%]\nクールタイム：[38秒]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行う事で、ダメージを与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 [特性情報]\nクールタイム：[38秒]‐3秒
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
 Movie/Skill/PC_G/B_Skill_Thunderbolt_A
 
-
+ID=27123
 黒い血[捕食者の怒り]III
 [特性情報：基本攻撃]\nダメージ量：[3038%]\nSA破壊量：[2202%]\n\n[特性情報：追加攻撃]\nダメージ量：[1266%]\nSA破壊量：[917%]\n\n[特性情報：一般]\nバフ効果：攻撃速度[5%]増加(最大3重複)[15秒]\n黒い血付与：[2]\n\nHP消費：現在HP[12%]\nクールタイム：[35秒]\n\n自身の生命力を消費し、戦闘力を強化する。\n[獲物捕捉]は特殊攻撃を行う事で、ダメージを与える。\n\n[操作方法]\nキーボード：スキルスロットに登録して当該キー入力
 Lv.Max
-
+Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_DarkBlood_A
 0
 Movie/Skill/PC_G/B_Skill_Thunderbolt_A
 
-
+ID=7171
 野生の本能I
 [スキル情報]\nパッシブ効果：特性[黒い血]を持つスキル使用時、10秒間SA破壊量とクリティカル率が[5%]増加、SVが[1]回復する。
 バフ効果：SA破壊量[5%]+2%
@@ -13014,7 +13014,7 @@ Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive2
 0
 0
 
-
+ID=7172
 野生の本能II
 [スキル情報]\nパッシブ効果：特性[黒い血]を持つスキル使用時、10秒間SA破壊量とクリティカル率が[7%]増加、SVが[1]回復する。
 バフ効果：SA破壊量[7%]+3%\nSV回復：[1]+1
@@ -13022,7 +13022,7 @@ Icon/Skill/DesperRoar/Icon_DesperRoar_Skill_SGPassive2
 0
 0
 
-
+ID=7173
 野生の本能III
 [スキル情報]\nパッシブ効果：特性[黒い血]を持つスキル使用時、10秒間SA破壊量とクリティカル率が[10%]増加、SVが[2]回復する。
 Lv.Max
