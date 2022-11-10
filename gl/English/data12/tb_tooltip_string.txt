@@ -4,7 +4,7 @@ The amount of stamina recovered per second.
 
 ID=18
 Movement Speed
-Applied movement speed multiplier to the player. (Max 200%)
+プレイヤーの移動速度倍率です。(最大200%)\n150%を超えると移動速度増加量に減少補正が適用されます。 \n補正前移動速度:{0}%
 
 ID=19
 Attack Speed
@@ -563,8 +563,8 @@ Nightmare
 Strike a Nightmare gesture.
 
 ID=21023
-Mileage Point
-You can purchase some items using Mileage.\nIt resets at 00:00 JST every first day of the month and can be used until 23:59 JST every last day of the month.
+マイレージ
+A.Rカードの伝送時に提供される財貨で、マイレージ商店のアイテムが購入できます。
 
 ID=11042
 Desireworker
@@ -579,14 +579,14 @@ White Sand
 Strike a White Sandy Beach's pose.
 
 ID=11051
-Romance & Blossom
-Strike a Romance & Blossom's pose.
+ロマンスアンドブロッサム
+ロマンスアンドブロッサムのポーズを取ります。
 
 ID=21030
 Pass Point
 Points necessary to obtain Soul Pass rewards.
 
-ID=11054
+ID=11053
 Milk Cow
 Strike a Milk Cow's pose.
 
@@ -597,6 +597,18 @@ Automatically use the [Reload] skill when pressing the basic attack button if th
 ID=11052
 Crimson Demon Clan's Intro
 Strike a Crimson Demon Clan's pose.
+
+ID=11054
+プレミアムアイドル
+プレミアムアイドルのポーズを取ります。
+
+ID=11055
+デモニックフレーム
+デモニックフレームのポーズを取ります。
+
+ID=11056
+サニーデイバカンス
+サニーデイバカンスのポーズを取ります。
 
 ID=30062
 Expand FOV
@@ -794,6 +806,50 @@ ID=72090
 クロエ冷静
 /クロエ冷静、/クロエ落ち着いて
 
+ID=72091
+ダーナいいね
+/ダーナいいね、/ダーナYES
+
+ID=72092
+ダーナやだぁ
+/ダーナやだぁ、/ダーナNO
+
+ID=72093
+ダーナニヤリ
+/ダーナニヤリ、/ダーナ笑
+
+ID=72094
+ダーナぐすん
+/ダーナぐすん、/ダーナううぅ
+
+ID=72095
+ダーナハサミ
+/ダーナハサミ、/ダーナチョキチョキ
+
+ID=72096
+リーヴハート
+/リーヴハート、/リーヴ大好き
+
+ID=72097
+リーヴ実験
+/リーヴ実験、/リーヴテスト
+
+ID=72098
+リーヴ助けて
+/リーヴ助けて、/リーヴ逃げて
+
+ID=72099
+ヨルごろごろ
+/ヨルごろごろ、/ヨルごろん
+
+ID=72100
+ヨルガオー
+/ヨルガオー、/ヨルこわい
+
+ID=72101
+ヨルん？
+/ヨルん？、/ヨル？
+
 ID=72070
 リリーうがー！
 /リリーうがー！
@@ -925,3 +981,55 @@ ID=72053
 ID=72054
 ステラわーい
 /ステラわーい
+
+ID=1004
+複合型
+複合型ソウルメイト特性です。
+
+ID=1005
+人間型
+人間型ソウルメイト特性です。
+
+ID=1006
+動物型
+動物型ソウルメイト特性です。
+
+ID=1007
+浮遊型
+浮遊型ソウルメイト特性です。
+
+ID=1008
+機敏型
+機敏型ソウルメイト特性です。
+
+ID=1009
+異能型
+異能型ソウルメイト特性です。
+
+ID=1010
+支援型
+支援型ソウルメイト特性です。
+
+ID=1011
+混合型
+混合型ソウルメイト特性です。
+
+ID=3000
+成長装備経験値上昇
+該当メイズクリア時、着用中である成長装備の経験値が上昇します。\n*有効入場回数を全部消耗した場合、成長経験値を獲得できません。
+
+ID=2000
+Bonus Reward
+パーティー内に新規/復帰ユーザーがいるため、追加報酬ドロップが発生します。
+
+ID=2001
+新規ユーザー
+該当ユーザーとパーティーを組み特定メイズをクリアすると追加報酬を獲得できます。
+
+ID=2002
+復帰ユーザー
+該当ユーザーとパーティーを組み特定メイズをクリアすると追加報酬を獲得できます。
+
+ID=2003
+新規/復帰パーティー
+パーティー内に新規/復帰ユーザーがいるため、特定メイズをクリアすると追加報酬を獲得できます。
